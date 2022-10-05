@@ -43,19 +43,19 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Company creates fast food cook robot that's cheaper than a human employee"
-    excerpt: "A robotics company headquartered in Illinois has unveiled a robot that can autonomously prepare chicken wings."
-    publishedDateTime: 2022-09-30T20:41:00Z
-    webUrl: "https://gazette.com/news/us-world/company-creates-fast-food-cook-robot-thats-cheaper-than-a-human-employee/article_045fea9a-2758-58d3-b02d-e5b8bea7825c.html"
+  - title: "Robots are making French fries faster, better than humans"
+    excerpt: "A big robotic arm like those in auto plants – directed by cameras and artificial intelligence – takes frozen French fries and other foods out of a freezer, dips them into hot oil, then deposits the ready-to-serve product into a tray."
+    publishedDateTime: 2022-10-05T12:39:00Z
+    webUrl: "https://www.ksl.com/article/50488506/robots-are-making-french-fries-faster-better-than-humans"
     type: article
     provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 38
+      name: KSL
+      domain: ksl.com
+    quality: 39
     images:
-      - url: "https://i.prcdn.co/img?cid=9YMC&page=1&width=300"
-        width: 293
-        height: 514
+      - url: "https://img.ksl.com/slc/2896/289623/28962380.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
         isCached: true
   - title: "Want fries with that? Robot makes French fries faster, better than humans do"
     excerpt: "A number of restaurant chains have already adopted Flippy 2, the robotic fry cook, including Jack in the Box in San Diego and White Castle in the Midwest."
@@ -71,6 +71,15 @@ related:
         width: 849
         height: 446
         isCached: true
+  - title: "Miso Robotics unveils Flippy, a robot that makes fries"
+    excerpt: "Miso Robotics has begun shipping its Flippy 2 robot, which robotizes the process of frying potatoes, onions and other foods and takes fast-food French fries and onion rings to a new level of sophistication."
+    publishedDateTime: 2022-10-05T10:39:00Z
+    webUrl: "https://www.itworldcanada.com/post/miso-robotics-unveils-flippy-a-robot-that-makes-fries"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 34
   - title: "Artificial intelligence designs batteries that charge faster than humans can imagine"
     excerpt: "An artificial intelligence known as ‘Dragonfly’ has been used by resaerchres to design more efficient batteries. Scientists at Carnegie Mellon have used the tool to design better electrolytes for lithium-ion batteries,"
     publishedDateTime: 2022-10-03T07:52:00Z

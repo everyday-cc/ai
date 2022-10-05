@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T11:04:00Z
 originalUrl: "https://www.mtpr.org/montana-news/2022-10-05/lawmakers-school-officials-meet-over-facial-recognition-technology-in-schools"
 webUrl: "https://www.mtpr.org/montana-news/2022-10-05/lawmakers-school-officials-meet-over-facial-recognition-technology-in-schools"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: MTPR

@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel's self-driving car division Mobileye files for IPO"
-    excerpt: "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ..."
-    publishedDateTime: 2022-09-30T22:09:00Z
-    webUrl: "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 74
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981"
-        width: 3500
-        height: 2334
-        isCached: true
-  - title: "Intel Drives Forward With Mobileye Self-Driving Car Unit’s IPO Plans"
-    excerpt: "The listing plans come during one of the IPO market’s worst years in decades."
-    publishedDateTime: 2022-09-30T22:19:00Z
-    webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-635238/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "This Rapid-Growing Self-Driving Giant Has Filed for IPO"
     excerpt: "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,"
     publishedDateTime: 2022-10-04T12:01:00Z
@@ -66,24 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Intel's Self-Driving Unit Mobileye Files for U.S. IPO"
-    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
-    publishedDateTime: 2022-09-30T21:13:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-30/intels-self-driving-unit-mobileye-files-for-u-s-ipo"
+  - title: "Should You Buy the Mobileye Self-Driving Car IPO?"
+    excerpt: "Intel-owned Mobileye filed for an IPO in late September, though many details around the self-driving car company's public debut have yet to be released."
+    publishedDateTime: 2022-10-05T13:17:00Z
+    webUrl: "https://www.kiplinger.com/investing/stocks/should-you-buy-the-mobileye-self-driving-car-ipo"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 34
-  - title: "Intel's Mobileye Files for Listing in First Sign of Thawing Tech IPO Market"
-    excerpt: "Comparative assessments and other editorial opinions are those of U.S. News and have not been previously reviewed, approved or endorsed by any other entities, such as banks, credi"
-    publishedDateTime: 2022-09-30T21:13:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-09-30/intels-self-driving-unit-mobileye-files-for-u-s-ipo"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 32
+      name: Kiplinger
+      domain: kiplinger.com
+    quality: 24
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/8o3KXbem6bXUR4FuK2j9GZ-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Intel's self-driving unit Mobileye files for listing in first sign of thawing tech IPO market"
     excerpt: "Intel Corp's self-driving unit Mobileye on Friday (Sept 30) unveiled its filing for a US initial public offering (IPO), testing support for a high-profile stock debut even as the market for new issues has virtually collapsed."
     publishedDateTime: 2022-10-01T03:02:00Z

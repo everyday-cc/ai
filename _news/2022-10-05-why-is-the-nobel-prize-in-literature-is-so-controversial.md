@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T12:00:00Z
 originalUrl: "https://www.euronews.com/culture/2022/10/05/why-is-the-nobel-prize-in-literature-is-so-controversial"
 webUrl: "https://www.euronews.com/culture/2022/10/05/why-is-the-nobel-prize-in-literature-is-so-controversial"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Euronews

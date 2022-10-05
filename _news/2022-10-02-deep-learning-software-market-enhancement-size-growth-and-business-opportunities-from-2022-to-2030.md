@@ -107,6 +107,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Courses Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2029 Top Countries Data"
+    excerpt: "Pre and Post Covid-19 is covered and Report Customization is available The global Machine Learning Courses Market"
+    publishedDateTime: 2022-10-04T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2029-top-countries-data-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
     publishedDateTime: 2022-10-04T13:59:00Z

@@ -59,20 +59,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "House bill limits police use of facial recognition"
-    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
-    publishedDateTime: 2022-09-30T21:07:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Hardware store denies use of facial recognition technology in NZ stores"
     excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
     publishedDateTime: 2022-10-05T03:36:00Z
@@ -87,6 +73,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Investors raise human rights concerns over facial recognition technology"
+    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
+    publishedDateTime: 2022-10-05T11:44:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
+    type: article
+    provider:
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 33
   - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
     excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
     publishedDateTime: 2022-10-04T23:10:00Z
@@ -98,15 +93,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 33
-  - title: "Restrictions on police use of facial recognition proposed in US Congress"
-    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
-    publishedDateTime: 2022-09-30T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
 
 secured: "Na6hjopLnPw4nZu5Ow63Ou8wwW4oivGeG/FM7Z2KGRENwT+fFyFem+a0Hd6NnmvcHOmCB/itcNM65XOewY1o1E+wlinmQxX1DeACJK/lxAxG1PbGtGRoU/mvLlbQNuSOGIMjQ47bJWw9cgF5vqCwYnbr8YpirPuWKfPfCT+q8rb+fxo+IYaFAf4AOlFAudnjg8/E0pC8BPN/h5SWscZ8K7cW600cBu9Z0l19mggWyni5Cc9upWZhSgp6WkSc/de652JXF1LONheYA08P4k1Jt3tEK4bb+KRKtzd2iqQN0FzY8gKsc3eI0buqEruhWEEhPmUnipEEAiBNLxb8ybO/haLnOYzj5olcMW1XUMz1i3NnkGcHHLx40NO1P/rS3+ir+KHN7tgLxfclDBxade+cmjXmYRLBNbTWI+51ZeHcSojbTev0VNSyA8Wtxb0t20HsLlTkH9hPWBPD1V30yOlchgQYjoldZ6hwmvpxlTeRsHDWwD64d4IESluaY85xN+UarM2drcI456RNobNhJJeKlA==;ThrodBLe57p2q+guR6TCOw=="
 ---

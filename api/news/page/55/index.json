@@ -2,6 +2,362 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-08-19-best-practices-for-tensorflow-1x-acceleration-training-on-amazon-sagemaker.md",
+      "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
+      "excerpt": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T11:08:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-hyosung-donates-ai-care-robots-to-older-veterans.md",
+      "title": "Hyosung donates AI care robots to older veterans",
+      "excerpt": "Pibo, an AI care robot developed by a South Korean startup, Circulus, offers information such as news and weather while also monitoring the user’s body temperature and heart rate. It also ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220819000554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-luminous-computing-aims-to-accelerate-ai-with-photonic-computing.md",
+      "title": "Luminous Computing Aims To Accelerate AI With Photonic Computing",
+      "excerpt": "CTO and Michael Gao (who has since left the company), plans to push revolutionary technological advances to maximize artificial intelligence through the development of a new supercomputer built on photonics chips. “Ten years ago, the largest AI models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/",
+      "originalUrl": "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffb29bfdfc472ffe0be287/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/amp/",
+      "publishedDateTime": "2022-08-19T10:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-3-myths-about-chatbot-design-busted.md",
+      "title": "3 myths about chatbot design, busted",
+      "excerpt": "A chatbot’s design plays a more strategic role than one might think and requires an immense amount of human input to create.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
+      "originalUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1349390539.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
+      "publishedDateTime": "2022-08-19T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog.md",
+      "title": "Senior living: Cognitive rehab may help older adults clear COIVD-related brain fog",
+      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
+      "originalUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailynews.com/wp-content/uploads/2022/08/OCR-L-DANCEVISIT-0518-03-LO-3.jpg?w=1024&h=698",
+          "width": 1024,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/amp/",
+      "cdnAmpWebUrl": "https://www-dailynews-com.cdn.ampproject.org/c/s/www.dailynews.com/2022/08/19/senior-living-cognitive-rehab-may-help-older-adults-clear-coivd-related-brain-fog/amp/",
+      "publishedDateTime": "2022-08-19T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Daily News",
+        "domain": "dailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans.md",
+      "title": "Self-driving vehicles ‘on UK roads by 2025’ under new government plans",
+      "excerpt": "These vehicles could be on sale within the next year, but would require a valid driving licence (Picture: Andrew Matthews/PA Wire) Self-driving vehicles could be on UK roads by 2025 under new ...",
+      "sourceUrl": null,
+      "webUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
+      "originalUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://metro.co.uk/wp-content/uploads/2022/08/SEI120084193-d8dc.jpg?quality=90&strip=all&zoom=1&resize=600%2C385",
+          "width": 600,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
+      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/19/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans-17213777/amp/",
+      "publishedDateTime": "2022-08-19T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Metro",
+        "domain": "metro.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
+      "title": "Groups have questions about how facial recognition technology impact Black people",
+      "excerpt": "Simply put, the technology–with varying degrees of accuracy–has difficulty identifying faces, especially Black and brown ones, under less-than-ideal circumstances. “This technology is ...",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
+      "originalUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg",
+          "width": 1250,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "publishedDateTime": "2022-08-19T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
+      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
+      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Week",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-whirlpool-ceo-ai-is-making-kitchens-and-appliances-smarter.md",
       "title": "Whirlpool CEO: AI is making kitchens and appliances smarter",
       "excerpt": "Marc Bitzer reveals why Whirlpool is a magnet for AI tech experts.",
@@ -772,386 +1128,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
-      "title": "When we might meet the first intelligent machines",
-      "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
-      "originalUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323774184.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "publishedDateTime": "2022-08-18T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
-      "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
-      "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/18/23/61524377-0-image-a-13_1660863054852.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "publishedDateTime": "2022-08-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2022: Market Growth at a CAGR of 38.28% to Outstrip USD 67231.66 Million till 2027",
-      "excerpt": "Aug 19, 2022 (The Expresswire) -- Artificial Intelligence (AI) Chips Market Insight: Report on \"Artificial Intelligence (AI) Chips Market\" 2022-2027 Report helps to Development Strategy for Pre ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly.md",
-      "title": "IBM CEO: Fears About Artificial Intelligence 'Are Not Positioned Properly'",
-      "excerpt": "IBM's cognitive computer Watson has struck ... Rather than completely replacing most jobs, artificial intelligence will help complement jobs done by humans, she claimed. \"Most important, you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "originalUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ5NjQzMjk2MDQwODU1/ibm-beats-estimates-but-devil-is-in-the-details.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-could-be-on-uk-motorways-in-2023.md",
-      "title": "Self-driving cars could be on UK motorways in 2023",
-      "excerpt": "Cars with self-driving features could be used on motorways from 2023. Manufacturers will be responsible for the vehicle’s actions when self-driving, under new legislation. Government is making a £100 million investment, including researching safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.honestjohn.co.uk/news/driving-1/2022-08/self-driving-cars-could-be-on-uk-motorways-in-2023/",
-      "originalUrl": "https://www.honestjohn.co.uk/news/driving-1/2022-08/self-driving-cars-could-be-on-uk-motorways-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17359232/driverless-car.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HonestJohn.co.uk",
-        "domain": "honestjohn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
-      "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
-      "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20220818005157/en/1547385/4/The_LA_Hope_Dealer.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "publishedDateTime": "2022-08-18T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-driverless-cars-experts-warn-no-easy-answer-to-how-safe-they-should-be.md",
-      "title": "Driverless cars: Experts warn no easy answer to how safe they should be",
-      "excerpt": "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-62598618",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-62598618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-62598618.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp",
-      "publishedDateTime": "2022-08-18T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
-      "title": "Experts warn no easy answer to how safe self-driving cars should be",
-      "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62598618.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp",
-      "publishedDateTime": "2022-08-18T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

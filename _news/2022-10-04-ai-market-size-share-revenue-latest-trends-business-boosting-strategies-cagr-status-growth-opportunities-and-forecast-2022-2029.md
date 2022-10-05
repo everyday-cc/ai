@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Courses Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2029 Top Countries Data"
+    excerpt: "Pre and Post Covid-19 is covered and Report Customization is available The global Machine Learning Courses Market"
+    publishedDateTime: 2022-10-04T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2029-top-countries-data-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
     excerpt: "Deep Learning Software market and global economic environment, we forecast that the global market size of Deep Learning Software will reach (2030Market size $$) million $ in 2030with a CAGR of % from 2022-2030."
     publishedDateTime: 2022-10-02T12:06:00Z

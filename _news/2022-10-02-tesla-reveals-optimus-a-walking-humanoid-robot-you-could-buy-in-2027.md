@@ -56,54 +56,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self-Driving Car Tech"
-    excerpt: "Tesla is working on a robot to handle \"repetitive, boring, and dangerous\" work. At AI Day 2022, expect updates on FSD technology for eventual self-driving cars, too."
-    publishedDateTime: 2022-09-30T22:05:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-tech/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 118
-    images:
-      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "How to watch Tesla AI Day 2022"
-    excerpt: "Tesla's AI Day 2022 promises an update on Elon Musk's humanoid robot, plus insight into the carmakers advances in AI."
-    publishedDateTime: 2022-09-30T22:18:00Z
-    webUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/"
-    ampWebUrl: "https://techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/30/how-to-watch-tesla-ai-day-2022/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 108
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/09/Screen-Shot-2022-09-30-at-11.22.22-AM.jpg?resize=1200,642"
-        width: 1200
-        height: 642
-        isCached: true
-  - title: "Tesla AI Day 2022: Watch and get all the news"
-    excerpt: "Tesla is holding its AI Day 2022 tonight in Palo Alto, California, and Electrek has you covered with the livestream."
-    publishedDateTime: 2022-09-30T19:35:00Z
-    webUrl: "https://electrek.co/2022/09/30/tesla-ai-day-2022-watch-livestream-news/"
-    ampWebUrl: "https://electrek.co/2022/09/30/tesla-ai-day-2022-watch-livestream-news/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-ai-day-2022-watch-livestream-news/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 106
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-AI-Day-2022-invite.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla just shocked everyone with its Optimus robot prototype"
     excerpt: "Tesla gave an impressive robotics demonstration, proving that the Optimus robot is a serious effort that might change the way work is done in the future."
     publishedDateTime: 2022-10-01T02:22:00Z
@@ -345,17 +297,17 @@ related:
         isCached: true
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-01T23:58:00Z
-    webUrl: "https://www.khou.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-khou-com.cdn.ampproject.org/c/s/www.khou.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    publishedDateTime: 2022-10-02T08:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
     type: article
     provider:
-      name: KHOU 11
-      domain: khou.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 76
     images:
-      - url: "https://media.khou.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true

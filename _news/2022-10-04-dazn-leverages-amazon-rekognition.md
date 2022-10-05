@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-04T00:09:00Z
 originalUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
 webUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Advanced Television

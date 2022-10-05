@@ -101,6 +101,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
+    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
+    publishedDateTime: 2022-10-04T11:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
 
 secured: "vjNU+HeOqmN55Nxtil5KwMomOnACQUnW0nlyyRrAZoMyASQVfsMbZmsbNmPRxAFdA1pu5vKbnlSmVELvkzZxQ8o8tyBM2MUC5QhXUO+/GPLg+Ga6qOH8Yvs6C9uSSDu3rZpfBPsmlTIQUcu/WtsEJXxKETvtJZKZhZ5HllCEqxqa76Dx38CKUNpVJaF7LsXwqhjQ/EdJHtmdLn7wWzwWjaOSHrX1iwaIdENtDP809bLikPwvHQenCh8uIwhLpnZ1/h0nUjZtxd8MetJMXSPTRQhRp5tFQ3kvSRdHZfsVtNZjG67H3WBRnFCEaQJcJSRxoh+ATSFoOwoFIpSb5xFC+1GIhmTtfj6BaPNytE1P+AqoNO4rpnptmx8nNjnQIWbsV10q2Wr+nCiCOZC4GT9CoWyYTloJsjxe6IC+X41CFiwzCUwR0kybkW91hLj6EMgzeOpJmjQZwu6O3PNkOz7o7Cwf1RvldNCiwNNZP+40WBLW1q5kGI4xTnV0fjG8aQfRWUWn9sjqRB54VW9LApwlsw==;Z1d9PSXGzQhCUtZlBrhVjw=="
 ---

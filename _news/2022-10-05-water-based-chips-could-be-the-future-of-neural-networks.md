@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T11:03:00Z
 originalUrl: "https://www.pcgamer.com/water-chips-ionics-harvard-research/"
 webUrl: "https://www.pcgamer.com/water-chips-ionics-harvard-research/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: PC Gamer

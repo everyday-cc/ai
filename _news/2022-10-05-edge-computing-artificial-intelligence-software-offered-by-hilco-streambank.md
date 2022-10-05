@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T13:02:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/edge-computing-artificial-intelligence-software-offered-by-hilco-streambank-1031784598"
 webUrl: "https://markets.businessinsider.com/news/stocks/edge-computing-artificial-intelligence-software-offered-by-hilco-streambank-1031784598"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Business Insider

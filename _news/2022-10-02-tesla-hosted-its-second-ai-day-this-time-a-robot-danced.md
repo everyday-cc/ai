@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
-    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
-    publishedDateTime: 2022-09-30T19:46:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 92
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
     excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
     publishedDateTime: 2022-10-04T07:20:00Z
@@ -74,15 +58,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
-    publishedDateTime: 2022-09-30T20:28:00Z
-    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 64
 
 secured: "dzoN65LBP24RhuY561i6tXcAa1HwNk47DxcjPQmBQN3jgdvnGkoPwSX5PkQoiMZD1sML+2bBEMY2mFszg8ZQdJ8grsQ9Fu523zntojlb+EEjWS2iK6h2Xcer3ee9PyzZ+V/dvaZWVH+MwYYRsavvRiSLUZ7GNrBVtKcptSnJzHoQkmK9vDTqCY9zkQ7/vG5MTykzZiY2lVJYgO7fwBejiaYOzeAABhyZ4+ElpYppwi0tuJzEjqIxWT1W42zwnPecgg2pxa708f0utfxX1YDFYjnb4HIMA45IpxDlcsIjQ8s92HwLLCPZOjX3NUTqytsxCZGIiKD9v9vBIkO7RC9F3YG5QMR2+PX7MIInzc0bFvqgcRrT3K/g32+j194jhA1xYgPrkn+9irL4atAVMvmeFjJ43rmCNl9hD0x94V06Mf/j03n7QunzRCVaaEPQV5z4AOLMVz83OF1XwT/SB10mazOVfmTbaODFYXX3YdGe5E3NhboIrTpEeBnc2DGWYHFRx2dfC3EorMStCkMWHCju5Q==;4hbQvxkob3A1kIkZ6drJEw=="
 ---

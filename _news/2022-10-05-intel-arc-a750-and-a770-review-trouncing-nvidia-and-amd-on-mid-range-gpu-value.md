@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T13:33:00Z
 originalUrl: "https://www.engadget.com/intel-arc-a750-a770-review-mid-range-gpu-rivals-nvidia-amd-130032507.html"
 webUrl: "https://www.engadget.com/intel-arc-a750-a770-review-mid-range-gpu-rivals-nvidia-amd-130032507.html"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Engadget

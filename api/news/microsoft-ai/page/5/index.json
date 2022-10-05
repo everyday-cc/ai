@@ -2,6 +2,92 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
+      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
+      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
+      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
+      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
+      "publishedDateTime": "2022-09-01T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-8-year-old-paralyzed-in-fourth-of-july-parade-shooting-may-have-some-cognitive-loss-family-says.md",
+      "title": "8-year-old paralyzed in Fourth of July parade shooting may have ‘some cognitive loss,’ family says",
+      "excerpt": "(CNN) – The family of the 8-year-old boy left paralyzed from the Fourth of July mass shooting in Highland Park, Illinois, said he may have “some cognitive loss.” Cooper Roberts is paralyzed ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
+      "originalUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/z-rZ__lANoTOxqKZsZCne3qjePE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XQW3YV7PNCGVJG3FNWGQWHIEE.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
+      "publishedDateTime": "2022-09-01T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KY3",
+        "domain": "ky3.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
       "title": "A therapy found to improve cognitive function in patients with Down syndrome",
       "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
@@ -1243,92 +1329,6 @@
         "Microsoft AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-microsoft-describes-magicweb-attacks-using-active-directory-federation-services.md",
-      "title": "Microsoft Describes 'MagicWeb' Attacks Using Active Directory Federation Services",
-      "excerpt": "Microsoft on Wednesday described \"MagicWeb\" attacks by an advanced persistent threat group called \"Nobelium,\" advising organizations using Active Directory Federation Services (ADFS) to take ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2022/08/25/microsoft-describes-magicweb-attacks-using-active-directory-federation-services.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2022/08/25/microsoft-describes-magicweb-attacks-using-active-directory-federation-services.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-artsberry-interviews-microsoft-designer-ms-su-he.md",
-      "title": "ArtsBerry Interviews Microsoft Designer Ms. Su He",
-      "excerpt": "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

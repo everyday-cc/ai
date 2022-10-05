@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 153
+heat: 163
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
     excerpt: "Get a Sample PDF of the report -  latest report provides a deep insight into the global Automotive Key Self driving Sensors market covering all its essential aspects. This ranges from a macro overview of the market to micro details of the market size,"
     publishedDateTime: 2022-10-04T07:03:00Z
     webUrl: "https://www.marketwatch.com/press-release/automotive-key-self-driving-sensors-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2028-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Courses Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2029 Top Countries Data"
+    excerpt: "Pre and Post Covid-19 is covered and Report Customization is available The global Machine Learning Courses Market"
+    publishedDateTime: 2022-10-04T08:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2029-top-countries-data-2022-10-04"
     type: article
     provider:
       name: MarketWatch

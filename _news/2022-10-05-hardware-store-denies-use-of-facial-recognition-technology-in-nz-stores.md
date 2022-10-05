@@ -73,20 +73,15 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "House bill limits police use of facial recognition"
-    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
-    publishedDateTime: 2022-09-30T21:07:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
+  - title: "Investors raise human rights concerns over facial recognition technology"
+    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
+    publishedDateTime: 2022-10-05T11:44:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 33
   - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
     excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
     publishedDateTime: 2022-10-04T23:10:00Z
@@ -98,15 +93,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 33
-  - title: "Restrictions on police use of facial recognition proposed in US Congress"
-    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
-    publishedDateTime: 2022-09-30T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
 
 secured: "t+i2qi43nxa+MG3hrS7E/0TxfSYBGUryNoaQZQ4D4Od6832P/8L4GuZ4Azhhx5iiLSCoZ+vAWRkv5rV80+R7+O2Vuyc/DebXUyOx53L21FuF3a1E6doc9PJOsRRoie1bIdFEuW1pncZqhNMwJvPdgs5mAiyeYHZ2wfhkX0SrOvnkuHRQg1/ghstv0l//lWbQz2piVWQwBotp/3gU/96AapyJWCpTDLObX8bDfGYPItGp4ZXHw+reEJICNbSa/4Ftcnyd+L3zNkdF6aXJCM1xRhXGtfArgK02KhE0zw2TYzROKYJ8nmOol/YdBjLkAQPFY3WjHTHObthhp3w45iEbbMtQYIfc5nAwyIlJuIoNfQDp0SCk21DVurgfQFEq8vv/gFyQyNjvF44R3ZBMfJvFVa8HDbd12uKkqWshBlTcP8CCrR5D9o2hOii9j6BZq+PGqKxHt704N/0/XPrZ66v4Lh2DoKBcx8+ov69dbojEtuNW7AHMPp+kznRZpejyy+7n5YdxRHDsaI3niQIaZiW6xw==;3k8xc85/GX8LJeb1jsciOQ=="
 ---

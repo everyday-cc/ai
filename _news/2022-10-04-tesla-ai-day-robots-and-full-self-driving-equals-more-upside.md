@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
-    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
-    publishedDateTime: 2022-09-30T19:46:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 92
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -75,15 +59,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
-    publishedDateTime: 2022-09-30T20:28:00Z
-    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 64
 
 secured: "X+BNPdz/y+d/Uh/FxBymB0WXKAcxDF7biBnq1m+LmwLgrZWj2a00RT+TKMKiRb/uWUz3mjyW4E1O6bM8i62n+aIjn5hOstnkoC3JPnlgeoUfhr4E3/bD1CKxdvfQcsVvm9TBuNqZjDL8F4reVnb0aF+Uz6lAGph7womaQ7HWnZ1HOO9z1/Apa/DrF7OWqKm+o2lvJ7PaKm6v2Fk0z40uRcAfRD8z2yEepiTIV5eYvtQThGf0xCozw5Mk7VySLFdHoC+rB+VzjkbcfN6KjsDqewVwlp+syF8oqfWZzBtevg/0CJjIk0oInZMFAxnYJYnfzR8O+LBxc7c0IpKTsGUtzIBesoFBs/6r9dYWeWDm3fgL7iaWfDaeCRl7OSORMGNW4HnPr1lB1Pq+EpXM5cSy+B9Jz6dCjvpuXfFSMtTeBpOQQr4H4jFnt9DmA50aXOhK9z1BydgEj/uU9jMa8p8rrEuMNoZuHCbKoTMMPdu9qpeUME3U1mwGj58OYi9BPvbnJLVKI9G6gilMKsej7r1MtA==;R6gZy6sjtarv9xObm35V+w=="
 ---

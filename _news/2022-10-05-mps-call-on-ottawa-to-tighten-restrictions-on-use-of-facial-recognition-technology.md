@@ -69,20 +69,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "House bill limits police use of facial recognition"
-    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
-    publishedDateTime: 2022-09-30T21:07:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "Hardware store denies use of facial recognition technology in NZ stores"
     excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
     publishedDateTime: 2022-10-05T03:36:00Z
@@ -97,15 +83,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Restrictions on police use of facial recognition proposed in US Congress"
-    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
-    publishedDateTime: 2022-09-30T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
+  - title: "Investors raise human rights concerns over facial recognition technology"
+    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
+    publishedDateTime: 2022-10-05T11:44:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 33
 
 secured: "1/4q2ysKJ3HTATekTc/sOSGtwtY1VnEG9736sY5lNN2MxGrxV/ZhF5vkIUd19qUSygPRm/eraxMICBhqc3rUMKgGkQAlvcHa5c9WHT5zb6bJuJ0DE3J3oVf/SirXfqhu1yPWwrt6r5ohA2X5KR36O9dBx2lU/18e+Fp3Q+TX33tcZcjvZl36DgQerHGto0bgJybHgDGLkuZkWMFJfU+OQNIxv0U3zAASRKBik7jvmPlTR8qojZVHB79CT0fTF8V1zpaAmci980n5/Wv8qgoLoufNtdJnWq8g6obGXsxYfbR8Z9Ow+VPRRIB9ceKjKbUyrZlNxwXcSSrsyMiDqgD/b30GZ44FknD8ohP5dnKFqYVtTfLiej3kFreqy2expfKzQ+Q9jNE3uW2iOHjDnnK4BQsVgmJMHYfk2I4p6rvXx1pi+DM+NKe0w/hoXm/2P+C7sm1Hb041jMZYnYC5G2AqzYoYb004XKKiNnEfru8I1h8HvuxjJifQCiAhr/IOWoEhbB/uyXSadhN9C8HGbzHwjQ==;oY3Sg1xpOSu3tXhEZoeTWQ=="
 ---

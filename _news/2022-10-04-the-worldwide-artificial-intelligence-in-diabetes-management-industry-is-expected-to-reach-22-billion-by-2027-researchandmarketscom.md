@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-1
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-the-worldwide-artificial-intelligence-in-diabetes-management-industry-is-expected-to-reach-22-billion-by-2027-researchandmarketscom"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,36 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) in Medical Diagnostics Market worth $5.5 billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market is projected to grow from USD 1.0 billion in 2022 to USD 5.5 billion by 2027, at"
+    publishedDateTime: 2022-10-05T15:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-medical-diagnostics-market-worth-5-5-billion-by-2027--exclusive-report-by-marketsandmarkets-301640417.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 26
+    images:
+      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
+        width: 666
+        height: 350
+        isCached: true
+  - title: "Wearable Medical Devices Market Worth USD 324.65 Billion by 2032 – Exclusive Report by FMI"
+    excerpt: "The global wearable medical devices market size is expected to reach a market valuation of US$ 27.29 Billion by 2022, accelerating with a moderate CAGR of 28.1% by 2022-2032. The wearable medical devices market is anticipated to be valued at about US$ 324."
+    publishedDateTime: 2022-10-03T10:30:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-10-03/wearable-medical-devices-market-worth-usd-32465-billion-by-2032-exclusive-report-by-fmi"
+    type: article
+    provider:
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 14
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
 
 secured: "mzh+zuAl/WFUcOVwilDbOv+JqzAKsY5PNn50CvEmmA5ysk5xHO/ekdAo8tHEIl4II/l/tvM4hIZjUXv1HJDNqvrGFojBHC0/n8NSIEd+hRhhOWC8uyFv6wS4JLPHyQK/QSRwVVRkAWCTCWgZUkfApQPoBgsNJbgUwzFcP3BYOWbnaq4hnhvO02lqwXAEgHQXxk5srHti9o0X8d1pM7o/L5LqLf8KYNsoAAtMXMoU7AViQe9rHXDdxXN8zJ1xM0/wM5YphBAIQ15bPvfoMBFrB4E4CVOtJ9wXMP1GR/5Iy4Wa6r4OB6XoYMu5QQ3YBMY/ETXD1p+B/8LseUyJgwzrPdZ6194XW8Ja8bKhjFvvyzY=;hu3QF3CbZIz+Ulx8Xg1EhQ=="
 ---

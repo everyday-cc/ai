@@ -2,6 +2,101 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
+      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
+      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
+      "title": "The Future of Supply Chains with Artificial Intelligence",
+      "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
+      "sourceUrl": null,
+      "webUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
+      "originalUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cioapplications.com/newstransfer/upload/shv96cio-appli450308.jpg",
+          "width": 450,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Applications",
+        "domain": "cioapplications.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
       "title": "Bam! AI exits the Batcave to confront the jobs market",
       "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
@@ -1222,101 +1317,6 @@
       "provider": {
         "name": "Khaleej Times",
         "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-real-driverless-cars-are-now-legal-in-shenzhen-chinas-tech-hub.md",
-      "title": "Real driverless cars are now legal in Shenzhen, China’s tech hub",
-      "excerpt": "There are plenty of autonomous driving vehicles testing on the roads of Shenzhen today: Pony.ai, Baidu, DeepRoute ... the owner or manager of the self-driving vehicle is subject to handling ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/",
-      "originalUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/01/deeproute-robotaxi.jpeg?w=1000",
-          "width": 1000,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/25/real-driverless-cars-legal-in-chinas-shenzhen/amp/",
-      "publishedDateTime": "2022-07-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
-      "title": "Could artificial intelligence soon be able to see?",
-      "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671562.jpg",
-          "width": 1240,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
         "images": null,
         "publishers": null,
         "authors": null

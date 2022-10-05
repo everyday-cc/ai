@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments"
-    excerpt: "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U."
-    publishedDateTime: 2022-09-30T22:17:00Z
-    webUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/"
-    ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63376ab52f11fec9fc57e042/0x0.jpg?format=jpg&crop=3083,1735,x0,y577,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, Apple, and more work on speech recognition for users with speech disabilities"
     excerpt: "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities."
     publishedDateTime: 2022-10-03T17:46:47Z
@@ -62,6 +46,38 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive"
+    excerpt: "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities."
+    publishedDateTime: 2022-10-03T21:25:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 87
+    images:
+      - url: "https://www.cnet.com/a/img/resize/727c3f40e46bd156e23fe082b021fdbf46f90b69/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Big Tech unites to make speech recognition tools better for people with disabilities"
+    excerpt: "The Speech Accessibility Project will use artificial intelligence and machine learning to make speech recognition systems more inclusive of different speech patterns. Amazon, Apple, Google, Meta and Microsoft are all involved."
+    publishedDateTime: 2022-10-03T21:10:00Z
+    webUrl: "https://www.zdnet.com/article/amazon-apple-google-meta-and-microsoft-team-up-to-make-speech-recognition-systems-useful-to-everyone-including-people-with-disabilities/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/amazon-apple-google-meta-and-microsoft-team-up-to-make-speech-recognition-systems-useful-to-everyone-including-people-with-disabilities/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazon-apple-google-meta-and-microsoft-team-up-to-make-speech-recognition-systems-useful-to-everyone-including-people-with-disabilities/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 82
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/a76c65cacb919da7fdcc312df81772f5bf577e5a/2017/07/20/163f4e70-bc72-4fe0-96bc-9cb1fc521952/saferthanpasswordsvoicerecognition.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 585
+        isCached: true
   - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
     excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
     publishedDateTime: 2022-10-05T10:23:00Z
@@ -76,22 +92,6 @@ related:
         width: 900
         height: 599
         isCached: true
-  - title: "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal"
-    excerpt: "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button."
-    publishedDateTime: 2022-10-04T21:05:00Z
-    webUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524"
-    ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "SAS Viya now available through Microsoft Azure marketplace"
     excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
     publishedDateTime: 2022-10-04T10:37:00Z
@@ -103,34 +103,77 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
-    publishedDateTime: 2022-10-05T11:42:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
+  - title: "Big Tech seeks to improve speech recognition tools for people with disabilities"
+    excerpt: "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities."
+    publishedDateTime: 2022-10-04T14:23:00Z
+    webUrl: "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+    ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
+      name: Euronews
+      domain: euronews.com
+    quality: 55
     images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
+      - url: "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-10-02T01:48:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-62"
+  - title: "Research launched to make voice recognition tech more accessible"
+    excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
+    publishedDateTime: 2022-10-05T10:00:00Z
+    webUrl: "https://www.research-live.com/article/news/research-launched-to-make-voice-recognition-tech-more-accessible/id/5103852"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 48
+      name: research
+      domain: research-live.com
+    quality: 44
     images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
+  - title: "Apple and University of Illinois working with Meta, Google, and more on Speech Accessibility Project"
+    excerpt: "Apple and the University of Illinois are teaming up with Google, Meta, and more tech companies to collaborate on something called the Speech Accessibility Project. The goal of the initiative is to study and improve how artificial intelligence algorithms can be tuned to improve voice recognition for users with diseases that affect speech,"
+    publishedDateTime: 2022-10-03T14:43:00Z
+    webUrl: "https://9to5mac.com/2022/10/03/speech-accessibility-project/"
+    ampWebUrl: "https://9to5mac.com/2022/10/03/speech-accessibility-project/amp/"
+    cdnAmpWebUrl: "https://9to5mac-com.cdn.ampproject.org/c/s/9to5mac.com/2022/10/03/speech-accessibility-project/amp/"
+    type: article
+    provider:
+      name: 9to5Mac
+      domain: 9to5mac.com
+    quality: 29
+    images:
+      - url: "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2020/12/Siri-iOS-14.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
+    excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
+    publishedDateTime: 2022-10-04T11:08:00Z
+    webUrl: "https://mobilesyrup.com/2022/10/04/apple-google-supported-university-of-illinois-project-to-make-speech-recognition-diverse/"
+    type: article
+    provider:
+      name: MobileSyrup
+      domain: mobilesyrup.com
+    quality: 24
+    images:
+      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/Speech-Recognition-header-scaled.jpg"
+        width: 2560
+        height: 1434
+        isCached: true
+  - title: "Apple joins project to improve speech recognition for disabled users"
+    excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
+    publishedDateTime: 2022-10-03T12:48:00Z
+    webUrl: "https://appleinsider.com/articles/22/10/03/apple-joins-project-to-improve-speech-recognition-for-disabled-users"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 19
 
 secured: "B7K9ojA+7xJtjsA8aFYtFKsdXFUgN5fSfRfS04odm0WCb1u5GVLRuftj+qV4O5uSaVarZLeaqLk1x5iaTaCKI3+oe+FM/jPUl2gSpkLDyMbSrXyFnfmT1zioHGY7AO5dD0x0ttQBsSDrVe+8M9g1vZnXSMReiKvg4B6BhI2GavHqI1aY1JDPxFDiQfiaXS17UXIG7Fga9ALeXuK4JJ8LWOozzv9H8UVRcpDBMdQCTWS7/r9Fsmq+RumMPDXNPTkYnzLaEK0XQbQj1F6RC45yEW2PViv3BCeKywFwl57kzF2W8dk/AFnz7r+O4E+9eHkhcnPd+/5dqWiakpf6mXB2+Qic/5HPsFlK7rfglfGCA/PENQysQlmn+McjHDJWwNPSzqqEAyu/FdDExgCyBTWFItTwZdqfyn1L1nhHnYZ1gZj3u8N5JzJ2U0XpvZHetky3WjCkK2BDhsX2Q7ZaoZHVpQpBstKmOS3SqqD074o7wYO9wqckelTwbU9fYVlojr4yzrM8630mCl1c73Cu4k5LiQ==;UnpYgMhv8o48KOUl6wM9/w=="
 ---

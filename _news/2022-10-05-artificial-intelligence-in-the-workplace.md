@@ -8,8 +8,8 @@ webUrl: "https://www.computerweekly.com/opinion/Artificial-Intelligence-in-the-W
 ampWebUrl: "https://www.computerweekly.com/opinion/Artificial-Intelligence-in-the-Workplace?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/opinion/Artificial-Intelligence-in-the-Workplace?amp=1"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:

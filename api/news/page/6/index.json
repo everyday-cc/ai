@@ -2,6 +2,342 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-28-netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.md",
+      "title": "NetSuite ERP bolsters automation for HR, supply chain, sales and banking",
+      "excerpt": "Appealing to companies that are navigating a global labor shortage and supply-chain problems, NetSuite at its SuiteWorld conference has announced a wide variety of tools across its ERP suite to automate and optimize business processes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "originalUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/09/supply_chain_management_logistics_erp_enterprise_resource_planning_thinkstock_global_world_connections_614318676-100749847-orig-2.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408298/netsuite-erp-bolsters-automation-for-hr-supply-chain-sales-and-banking.html/amp/",
+      "publishedDateTime": "2022-09-28T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-truecaller-brings-ai-powered-spam-call-filtering-to-any-ios-or-android-phone.md",
+      "title": "Truecaller brings AI-powered spam call filtering to any iOS or Android phone",
+      "excerpt": "Truecaller's new Assistant can screen calls and offers basic responses to callers, so you don't have to waste time with spam calls.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2021/11/lamicall-black-best-iphone-docks.jpg?p=1",
+          "width": 1500,
+          "height": 1154,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/truecaller-assistant-anti-spam-call-screening/?amp",
+      "publishedDateTime": "2022-09-28T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform.md",
+      "title": "AtScale Announces Data Science and Enterprise AI Capabilities Within Semantic Layer Platform",
+      "excerpt": "AtScale, the leading provider of semantic layer solutions for modern business intelligence and data science teams, today",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/atscale-announces-data-science-and-enterprise-ai-capabilities-within-semantic-layer-platform-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards.md",
+      "title": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards",
+      "excerpt": "Q.ai Wins \"InvestmentTech\" and \"Personal Finance Tech of the Year\" at 2022 US FinTech Awards Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/qai-wins-investmenttech-and-personal-finance-tech-of-the-year-at-2022-us-fintech-awards-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch.md",
+      "title": "AiAdvertising Signs Multi-Million Dollar Agreement with Fintech Unicorn to Empower its Upcoming Launch",
+      "excerpt": "(OTC: AIAD), a next-generation AdTech company focused on harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today’s marketing leaders, today announced it has signed a multi-million dollar agreement with a fintech unicorn.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-aion-labs-launches-ai-startup-addressing-drug-trial-improvement.md",
+      "title": "AION Labs Launches AI Startup Addressing Drug Trial Improvement",
+      "excerpt": "AION Labs Launches AI Startup Addressing Drug Trial Improvement Sep 28, 2022 (PRNewswire via COMTEX) -- PR Newswire REHOVOT, Israel, Sept. 28, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/aion-labs-launches-ai-startup-addressing-drug-trial-improvement-2022-09-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-the-long-road-to-driverless-trucks.md",
+      "title": "The Long Road to Driverless Trucks",
+      "excerpt": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+      "originalUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
+      "publishedDateTime": "2022-09-28T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-ai-the-technology-is-here-now-its-a-question-of-trust.md",
       "title": "AI: The technology is here, now it’s a question of trust",
       "excerpt": "A lot of organisations are not following an enterprise approach with trust and ethics sufficiently. They are finding it difficult and not prioritising the potential consequences of AI, such as ...",
@@ -170,6 +506,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-startup-with-portland-connection-raises-8m-for-robots-that-make-coffee-drinks-like-a-barista.md",
+      "title": "Startup with Portland connection raises $8M for robots that make coffee drinks like a barista",
+      "excerpt": "Artly announced the raise, which the startup is calling ... the help of advanced AI technologies such as imitation learning and vision-language generative models, our robots can now adapt to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search",
+      "originalUrl": "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -824,397 +1194,6 @@
         "Facebook AI",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-hugging-face-takes-step-toward-democratizing-ai-and-ml.md",
-      "title": "Hugging Face takes step toward democratizing AI and ML",
-      "excerpt": "Hugging Face has launched a new AI-as-a-service offering, designed to take on large workloads of enterprises and help speed up ML projects.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "originalUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/12/hugging-face.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/hugging-face-steps-toward-democratizing-ai-and-ml-with-latest-offering%EF%BF%BC/amp/",
-      "publishedDateTime": "2022-09-27T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday.md",
-      "title": "Document onboarding startup Flatfile nabs $50M from investors, including Workday",
-      "excerpt": "Flatfile, which uses AI to process and normalize data from documents, has raised $50 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "originalUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-737368899.jpg?resize=1200,601",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/27/document-onboarding-startup-flatfile-nabs-50m-from-investors-including-workday/amp/",
-      "publishedDateTime": "2022-09-27T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
-      "title": "Avoiding a surveillance society: How better rules can rein in facial recognition tech",
-      "excerpt": "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp",
-      "publishedDateTime": "2022-09-27T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
-      "title": "SAS launches first cloud analytics service on Azure",
-      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "publishedDateTime": "2022-09-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
-      "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
-      "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
-          "width": 1920,
-          "height": 1633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
-      "publishedDateTime": "2022-09-27T07:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
-      "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
-      "excerpt": "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
-      "originalUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
-      "title": "How AI Is Changing The Game In Insurance",
-      "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
-      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200",
-          "width": 640,
-          "height": 290,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
-      "publishedDateTime": "2022-09-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them.md",
-      "title": "The Five Pitfalls Of Adopting AI In Financial Services And How To Avoid Them",
-      "excerpt": "It’s great to see AI adoption at this scale, but this also makes it crucial for FSI leaders to watch for and avoid some of the following leading pitfalls in AI initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331b16c245509f3477d2c27/0x0.jpg?format=jpg&crop=1379,776,x0,y84,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/27/the-five-pitfalls-of-adopting-ai-in-financial-services-and-how-to-avoid-them/amp/",
-      "publishedDateTime": "2022-09-27T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

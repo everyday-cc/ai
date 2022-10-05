@@ -26,21 +26,67 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils AI tool that creates GIF-like videos from text prompts"
-    excerpt: "Facebook’s parent company released a slew of short videos based on text prompts, building on the recent developments in text-to-image artificial intelligence creations. The videos are created by an AI that learns what the world looks like from text and image data that is paired up."
-    publishedDateTime: 2022-10-04T12:25:00Z
-    webUrl: "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
-    ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
+  - title: "How To Turn An AI Idea Into A Real Product"
+    excerpt: "The next thing to pay attention to is the innovativeness of your product idea. Among our customers, there is a clear trend of having wrong expectations on the project development time, budget and resources required."
+    publishedDateTime: 2022-10-05T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://static.euronews.com/articles/stories/07/08/34/06/1000x563_cmsv2_0b7f99dd-8476-535b-ad97-ef7a34a5cb31-7083406.jpg"
-        width: 1000
-        height: 563
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633c405ce9d5e02f358286ff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Leaders Are Investing In Artificial Intelligence To Improve Public Relations"
+    excerpt: "Before spending your marketing budget on Digital Marketing, there is a way to achieve similar or better results with Public Relations with artificial intelligence."
+    publishedDateTime: 2022-10-02T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/"
+    ampWebUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 665
+        isCached: true
+  - title: "Artificial Intelligence in Video Production"
+    excerpt: "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,"
+    publishedDateTime: 2022-10-04T10:53:00Z
+    webUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-production/"
+    ampWebUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
+    cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
+    type: article
+    provider:
+      name: provideocoalition.com
+      domain: provideocoalition.com
+    quality: 63
+    images:
+      - url: "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Brown computer scientist aims to protect people in an age of artificial intelligence"
+    excerpt: "Suresh Venkatasubramanian served as a White House advisor for the nation’s first “Blueprint for an AI Bill of Rights,” helping to develop a guide to ethical practices in an era of data-driven technologies."
+    publishedDateTime: 2022-10-04T14:38:00Z
+    webUrl: "https://www.brown.edu/news/2022-10-04/artificial-intelligence"
+    type: article
+    provider:
+      name: Brown University
+      domain: brown.edu
+    quality: 45
+    images:
+      - url: "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2022-10/20220927_COMM_Suresh_Venkatasubramanian001.jpg?h=d5b7a9a3&itok=b_5tBvuX"
+        width: 1220
+        height: 686
         isCached: true
 
 secured: "pHoejdibonpu/Q61QYkbbbTiFtD6HbsqQLzTuTNFwn7sbegZmeAPPGJ6gZpuM6kSbcnr5eTDL6tvsoz/1GLU3kK5Wp9IrdIx8Jm/Lb0Yev+XVTypT1DdRRtD1IN6f9bqHF11ASQhcl/9N3ljhLog+1cO0SQ2SkN99dOTrMW0Tv8H6+vwVQRqXMTYZMq853w3zUjEASaVjFK6EyC20CQ/S4CjgfauM2lnEaW+3xVBTtu2gpMgR7brFFHqHMi/D6zmv5kafWpkOpgwTRlJD9MvlmYbGd20zmKvu1SahhD+2IA43AisVrSsgnl7xlnOOqx7LQzpobhL2g2bKBk/YesHJNo1jAp561ZWmrGwUgoyuIM=;L/lXs3chDyMHPaVZBra4wQ=="

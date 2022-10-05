@@ -7,7 +7,7 @@ originalUrl: "https://itwire.com/business-it-news/data/sas-introduces-azure-mark
 webUrl: "https://itwire.com/business-it-news/data/sas-introduces-azure-marketplace-payg-option-giving-maximum-analytics-at-minimum-pricing.html"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,50 @@ images:
     isCached: true
 
 related:
-  - title: "MRI Software Announces Acquisition of Springboard, a Leading Provider of Retail Footfall Counting and AI-Powered Analytics"
-    excerpt: "Acquisition will enable retailers and destinations to optimise operations via real-time data and actionable insightsLONDON, Oct. 3, 2022"
-    publishedDateTime: 2022-10-03T13:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mri-software-announces-acquisition-of-springboard-a-leading-provider-of-retail-footfall-counting-and-ai-powered-analytics-1031778843"
+  - title: "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal"
+    excerpt: "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button."
+    publishedDateTime: 2022-10-04T21:05:00Z
+    webUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524"
+    ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg"
+        width: 2000
+        height: 1000
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
+    publishedDateTime: 2022-10-05T11:42:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-10-02T01:48:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-62"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fNmDSrBnDyyI7WAHz5Lk7lQk89CumdYhnqecdNKyvpPgCJT2w2uODm+CB9txErpRdq9Y6UNuBYPfa8UoOiXEWV+xJjS/adkQ/xE5n3k+EOto+c9mu5LXZc27D4uc0e/lMyaLDFpVFHFS89v+vzRHYJTtyylLIgTn5ci6UMbwfiOP0EVGuXHUO7feb0Jywn9Sl5/vWCR3jYj/h6xCTs4MYb2KIucxiWO8jMyPiDtgUe5yVMdr0DwLHlBBl3zdZThIgh5+7v5U53QfNKxI+RQNms5uqwBe+kRCeQPP+8n6IuMiKmOZjBBKZ36bvFYvcuv+HOvR1pRmW2I6Ikq2ZznblrB1ILOEpO1spmj0Y6QqxACLBO/2CbuX0F9QOzavUdA4wXa1lL+8zth6AIiB3pv35q5bMHv13pyAoK2lBhPnXX5HyN/lRx9k8cGfHNeg+AWRuMbnxxxexnqUAvdFp6Px6u+qDkC2RnwtQiV2FhNYI3W0Vc8OaHpoGr7+ygnFfVgfq7SE4IuKjFFNXmQGdFoPeQ==;bWh7GGvnvVpU0Sn+lQYrEg=="
 ---

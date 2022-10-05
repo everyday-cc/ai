@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Leaders Are Investing In Artificial Intelligence To Improve Public Relations"
-    excerpt: "Before spending your marketing budget on Digital Marketing, there is a way to achieve similar or better results with Public Relations with artificial intelligence."
-    publishedDateTime: 2022-10-02T16:56:00Z
-    webUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/"
-    ampWebUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 84
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 665
-        isCached: true
   - title: "Keys to Implementing AI in Drug Discovery"
     excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."
     publishedDateTime: 2022-10-03T12:00:00Z

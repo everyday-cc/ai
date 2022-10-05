@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-i
 ampWebUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
 type: article
-quality: 57
-heat: 57
+quality: 61
+heat: 61
 published: false
 
 provider:

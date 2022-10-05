@@ -42,6 +42,29 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla now has 160,000 customers running its Full Self Driving beta"
+    excerpt: "Autopilot director Ashok Elluswamy took the stage during Tesla's AI day to talk about how the company's Full Self Driving software has improved. He revealed that there are now 160,000 customers ..."
+    publishedDateTime: 2022-10-01T05:21:00Z
+    webUrl: "https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 64
+  - title: "Tesla is dropping ultrasonic sensors from new vehicles as it moves to camera-only Tesla Vision"
+    excerpt: "Tesla writes that the company started transitioning to Tesla Vision by removing radar from the Model 3 and Model Y last year, with the Model S"
+    publishedDateTime: 2022-10-05T14:11:00Z
+    webUrl: "https://www.techspot.com/news/96208-tesla-dropping-ultrasonic-sensors-new-vehicles-moves-camera.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 59
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-02-image-17.jpg"
+        width: 4000
+        height: 2722
+        isCached: true
   - title: "Who's At Fault In A Tesla Self-Driving Accident?"
     excerpt: "There is no doubt that the future of transportation is autonomous. While car manufacturers have made considerable strides in making this possible, some apparent technological flaws may require a few more years to iron out before driverless cars become the norm on American roads."
     publishedDateTime: 2022-10-04T20:40:00Z

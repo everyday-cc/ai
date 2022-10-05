@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft, Apple, and more work on speech recognition for users with speech disabilities"
+    excerpt: "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities."
+    publishedDateTime: 2022-10-03T17:46:47Z
+    webUrl: "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
+    type: article
+    provider:
+      name: Neowin
+      domain: neowin.net
+    quality: 97
+    images:
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg"
+        width: 760
+        height: 428
+        isCached: true
   - title: "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive"
     excerpt: "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities."
     publishedDateTime: 2022-10-03T21:25:00Z
@@ -47,6 +63,45 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
+    excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
+    publishedDateTime: 2022-10-05T10:23:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-mec-lbwvksaa"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 80
+    images:
+      - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
+  - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
+    excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
+    publishedDateTime: 2022-10-03T12:35:00Z
+    webUrl: "https://www.engadget.com/apple-microsoft-meta-google-nonprofits-speech-recognition-120021686.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 71
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/00e6bc70-42ec-11ed-9b61-c134c193b26e"
+        width: 2126
+        height: 1131
+        isCached: true
+  - title: "SAS Viya now available through Microsoft Azure marketplace"
+    excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
+    publishedDateTime: 2022-10-04T10:37:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 69
   - title: "Big Tech seeks to improve speech recognition tools for people with disabilities"
     excerpt: "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities."
     publishedDateTime: 2022-10-04T14:23:00Z
@@ -109,15 +164,6 @@ related:
         width: 2560
         height: 1434
         isCached: true
-  - title: "Tech Titans Join Forces With The University Of Illinois To Launch New Speech Accessibility Project"
-    excerpt: "Tech heavyweights Amazon, Apple, Meta, and Microsoft have come together in a way that would make Voltron blush in a joint effort to make voice-first user interfaces more accessible to those with speech disabilities."
-    publishedDateTime: 2022-10-04T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/10/04/tech-titans-join-forces-with-the-university-of-illinois-to-launch-new-speech-accessibility-project/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 20
   - title: "Apple joins project to improve speech recognition for disabled users"
     excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
     publishedDateTime: 2022-10-03T12:48:00Z
@@ -127,15 +173,6 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
-  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
-    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
-    publishedDateTime: 2022-10-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/966713"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "f0bdjyzvbF0nyLyTIkOYFhMlZxdOGNOvV0uD2GcTn1ybLF8jVG5e8TXM4+oItE7UUn8DAzbHUt6w5BnWw3nD6M6z0YLzp/cSOuRWzu/4YUBBllS+wjawY8NmessPlaNbc0l4jtdXBF7YglnDzkNbU3fiuErPdZZl6pMhXeeYL3AbPfIC4QX0nhraeTk7ijWoyeDWB7wd/F7Mvm00ljQv3cYTGPfDOsTo2Oeu+MgyO79bYPyHVHEyhLOvOslvol9+M8rwFwfM+zBRLVTSThFbM54eMutZiIGwREY8bAlVxyI2qyITbUGA2IeeESW0XtC4mbr4H8HOiwLZHylhI0wsqYeH7FXSH3xWaF5zhQOtQhJPcJPLJsXD/nKjLRc6eoruMSihzcxxtWiDxT4dNM43mFi0P7nhsu8z+76OQGT3AqMx64jAYHep/VXa/H927bhXqR8odehc8YZGMyGikZc/5UqJIRJIR3W9JJI8L1HDvuDGiUBVUUboHCt7692vNWSDfOrgUITO8B60+669NpmX/A==;0rLqd90vq0fVFx/TA6A1FA=="
 ---

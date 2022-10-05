@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
 type: article
 quality: 106
-heat: 146
+heat: 126
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
-    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
-    publishedDateTime: 2022-09-30T19:46:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 92
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -78,15 +62,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
-    publishedDateTime: 2022-09-30T20:28:00Z
-    webUrl: "https://edition.cnn.com/2022/09/30/tech/tesla-ai-day-preview/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 64
 
 secured: "6cpGDEl8SyNQ5y6q/BIx1r3A9qWLGObe9NWdLxhYFCHTFgmAuzWlJ3LO7mYC/Ia/RrrNIpLz1HqZJzS+ihYXJumUbGazZJPtbFRfmuskv37/6jdvRMnT3P/KEy3MdFjAv0+S/+jwgCfUybhx4nzBJfvzDx8cNP8d+9Zao/brqosAWZrwgUPad53M/de7rtXj8WgTqPF/eIgiAHMtdbQ3ipAIrG/86PC1EQ/RvlfMI4x3qkfiBop0Eh/CjbxtqP/cresg9xC8QYg6S0eqTw0hS2DK1XVnNPlIskBZ/tCQfbP8P33QaxaDh6Z9eF6AXHuwRxnnmAMTPGlMPqLFCFejg7Oqi66xQHExb1gY+Pbqv3Q+1P9BoFoTKOcal5sIqWE27yVgcRp3Z7E645OI0p0dhdMGouwi8ky5fs93tVKr8ic2aAx2I0u89W9Y+sFinN8iCzrf8NK7Kj6NKEETHEHIeVfNCKA6/h8jTl0YU09oQHzZfcLkNnNgYA491sfxXggaXQazdmSoRqT0O9K28PdF4g==;HOhPBmbZxGUGSION6mg7yQ=="
 ---

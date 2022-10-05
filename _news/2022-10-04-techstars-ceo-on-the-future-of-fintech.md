@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -105,6 +105,15 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
+    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
+    publishedDateTime: 2022-10-04T11:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
 
 secured: "DMgdMbWz3S9Ih+ZgD0Z9NymKPZQbeRyl7MB20Xh5UEq93suFdnQlI0t6sUT7JwyejsjUku/7J5njAgTMKTtytWykg+8nI2sHEgs313735pX4WS2UU0xISg7AoKuRjCgRX0k84VA607bdZXJGMSkuvzk/8eWDpnrGa2QxJ2OUBfdmwzeWja0zY8nvFCciQb1pAZ5U2LfM8bRGxts5n71gGMbtKD+NqS7cfXDLIrVVKAjJ9WV08fUcEm2Gx7cfAd1i+Z2hWyc4dlfiYRwRZgc0nE6O259Qqfu3SkY694Qhcz2lCyI4TsiqNzCbwW9dNYqnwo9x9Mxb7z+LoCPtn6Afr86pBqjzjTjMMC06ANjd+PardAXhEdaSsLiqawo4iEQyDDAC6lgazSnib7+FNVWHGhFvWXbGrXUbQaHmmkVziLhEi33sm0FX7M/6WzGKaQElmTlGxD4ur9kkkOI3RppNEcKnHq8WhLYV+G7AjPrvT8IF1v6L2U7E7PruVtYVXBeHmcGdZZ49VARgvpiULRJnlQ==;fPyqTlWmrbPV/fakiq2lRg=="
 ---
