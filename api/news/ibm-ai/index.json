@@ -57,24 +57,33 @@
     {
       "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
       "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
-      "excerpt": "Aktana, the leader in intelligent customer engagement for the global life sciences industry, welcomes Deepak Patil as its new senior director of medical strategy. Patil comes to Aktana after leadership roles at IBM Watson Health,",
+      "excerpt": "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ...",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative",
+      "webUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
+      "originalUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T04:33:00-07:00",
+      "publishedDateTime": "2022-09-27T07:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
         "images": null,
         "publishers": null,
         "authors": null

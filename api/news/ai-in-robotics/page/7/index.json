@@ -2,6 +2,61 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-18-artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners.md",
+      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 Mn By 2027 | The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
       "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
       "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
@@ -1347,58 +1402,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics.md",
-      "title": "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics",
-      "excerpt": "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 198,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/",
-      "publishedDateTime": "2022-08-12T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Robotics"
       ]

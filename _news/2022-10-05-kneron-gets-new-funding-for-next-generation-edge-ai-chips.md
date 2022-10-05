@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-05T06:08:00Z
 originalUrl: "https://www.digitimes.com/news/a20221005PD205/kneron-startup.html"
 webUrl: "https://www.digitimes.com/news/a20221005PD205/kneron-startup.html"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://img.digitimes.com/newsshow/20221005pd205_files/1_2b.jpg"
@@ -55,6 +56,6 @@ related:
         height: 635
         isCached: true
 
-secured: "EJgqz/lBK4dj+QrRXM/GIQ+rEUy9azA2j4Y/rSYS5chXWNnyQ5h7Mj+CZhhNHz1lfo3mPCoGSL2LsJsFEMTc0C2iM9IKeSLKR97iaFPKxdL4oxZtM89UnLwBrSY7fCDVh0rA+YzMsAqD4FCPQ+U5s8REiQMCjayf1bG/IgOtKp20IdrluRir4sFV/vawxYPJYiFOpxrOcEB9bB8gdk6zsi5W3N6/7n3flb11e3Ishj2CuwSIRD4OvgVP7y98ibBhd6rQ7VKpFskx8XvWlXf7B3LKScYYfmPb5lE0Cq5GyPflbS7HWvtms4MGjIc5n0utQPuk6Yp3t1EPlyvKnQO+NHMIf2S0Z5LARjGrz0+1Jxg=;XGNeUKKNzg1G5l0mC/I/bg=="
+secured: "rI3JxMcFxg/SB7vl/l+HNicmu6IKTBIfRPiRkAVIq1/8sARQ9TtGJ31ChCQTB0ywFXk6uftICKWhC1/8soIhIvkYja2WY4iB3VJA7KnI0/QYCUOKiHe4kJ+iyptj8qxO6hVXMhHakRmC+PWQWNEY760kmK88SaiIyd43TTr0oy6rqq7NxVdymV0hw87ZykmPskEcUo0+xx5dqxIoxT1E9qQlTbCE0up2whxNSSInORCnpXrX5GwyvlZSRh6z9STbx/+hPgqPC86DktRZiKAkOGT0ANmXzmViup7hDndZugGYpR0yaeb6GNeFpxHxac6oFP9mHhG1KS8UPXBlWRGpsGHuhXRw44cf4II09ApaDhSFoScwdcS4X1Vcyuwl1M1JOmJWeAzQb/5i6WTVruOKKYVGk1O9+pRyUqI6kQ/rLZRBzIylgX5gA5CFKQDJhB5VxYCpXUJUKFYgU3j/fgF82w6BYb8pwxPplHjWzv2n5KKQNqImSxi6el3BFu4ng/U7NxZIjqgNviYh+0nkG4kRaQ==;f1jaWG6Oguz2yCFjc5KqtQ=="
 ---
 

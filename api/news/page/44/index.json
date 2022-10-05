@@ -2,6 +2,92 @@
   "page": 44,
   "value": [
     {
+      "path": "_news/2022-08-29-waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers.md",
+      "title": "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers",
+      "excerpt": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "originalUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 148,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
+      "publishedDateTime": "2022-08-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-swordfishai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles.md",
+      "title": "Swordfish.AI: Reverse Phone Lookup Facebook, Linkedin, Twitter User Profiles",
+      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / August 28, 2022 / Reverse phone lookups are commonly used to identify a missed call, an sms text from an unfamiliar number, or when you are unsure who is calling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56915014-swordfish-ai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles-200.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56915014-swordfish-ai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles-200.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-how-machine-learning-and-blockchain-can-solve-world-hunger.md",
       "title": "How Machine Learning and Blockchain can solve world hunger",
       "excerpt": "However, we live in an era of the digital age where advancements in technologies such as machine learning and blockchain have been catapulted by the progress of the fourth industrial revolution. With such advancements in technologies,",
@@ -1033,102 +1119,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
-      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
-      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
-      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
-          "width": 768,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
-      "publishedDateTime": "2022-08-27T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-imaginations-gpu-and-ai-accelerator-licensed-for-the-latest-aiot-risc-v-based-applications.md",
-      "title": "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications",
-      "excerpt": "Our heterogeneous GPU and NNA computing platforms offer industry-leading power ... Also included in the SOC is the PowerVR AX3386 AI accelerator, part of the award-winning Series3NX NNA cores. It offers up to 5 TOPS with leading TOPS per watt, is 70% ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html?amp;amp;amp",
-      "originalUrl": "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52537/Imagination_technologies_logo.png",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

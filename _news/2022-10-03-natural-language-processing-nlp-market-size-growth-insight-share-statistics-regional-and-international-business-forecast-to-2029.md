@@ -85,6 +85,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Key Self driving Sensors Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2028"
+    excerpt: "Get a Sample PDF of the report -  latest report provides a deep insight into the global Automotive Key Self driving Sensors market covering all its essential aspects. This ranges from a macro overview of the market to micro details of the market size,"
+    publishedDateTime: 2022-10-04T07:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-key-self-driving-sensors-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2028-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
     excerpt: "Deep Learning Software market and global economic environment, we forecast that the global market size of Deep Learning Software will reach (2030Market size $$) million $ in 2030with a CAGR of % from 2022-2030."
     publishedDateTime: 2022-10-02T12:06:00Z

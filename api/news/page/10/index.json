@@ -2,6 +2,109 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-23-is-ai-really-a-job-killer-these-experts-say-no.md",
+      "title": "Is AI Really A Job Killer? These Experts Say No",
+      "excerpt": "Many experts predict that AI and machine learning will wipe out thousands of jobs worldwide — but authors Thomas Davenport and Steven Miller believe that AI and intelligent technology will augment human work,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632d6ad7abb402c6eadd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/23/is-ai-really-a-job-killer-these-experts-say-no/amp/",
+      "publishedDateTime": "2022-09-23T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-fareye-achieves-aws-supply-chain-competency.md",
+      "title": "FarEye Achieves AWS Supply Chain Competency",
+      "excerpt": "FarEye has announced that it is one of the first companies to achieve the Amazon Web Services (AWS) supply chain competency in the Software Offering: Move category. This designation recognizes FarEye for helping customers solve their critical supply chain challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "originalUrl": "https://www.entrepreneur.com/en-in/news-and-trends/fareye-achieves-aws-supply-chain-competency/435911",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1663918868-Untitleddesign-2022-09-23T130743482.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
       "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
       "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
@@ -193,49 +296,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
-      "originalUrl": "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?877021",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T14:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-22-detect-population-variance-of-endangered-species-using-amazon-rekognition.md",
       "title": "Detect population variance of endangered species using Amazon Rekognition",
       "excerpt": "Our planet faces a global extinction crisis. UN Report shows a staggering number of more than a million species feared to be on the path of extinction. The most common reasons for extinction include loss of habitat, poaching, and invasive species. Several wildlife conservation foundations, research scientists,",
@@ -286,6 +346,40 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
+      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
+      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
+      "publishedDateTime": "2022-09-22T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1081,101 +1175,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-kittyhawk-google-co-founder-larry-pages-flying-car-company-will-shut-down.md",
-      "title": "Kittyhawk, Google co-founder Larry Page’s flying-car company, will shut down",
-      "excerpt": "Kittyhawk, the air-taxi company backed by Google co-founder Larry Page, will close but its technology is expected to live on in the form of its Wisk Aero joint venture with Boeing Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3193358/kittyhawk-google-co-founder-larry-pages-flying-car-company-will",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3193358/kittyhawk-google-co-founder-larry-pages-flying-car-company-will",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/22/59887eef-ea7a-4c81-b380-d5100f7be126_6b9573cf.jpg?itok=5RkYlhbY&v=1663814203",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "scmp.com",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-self-driving-hyundai-spotted-on-pie-likely-part-of-test-for-driverless-taxis.md",
-      "title": "Self-Driving Hyundai Spotted On PIE, Likely Part Of Test For Driverless Taxis",
-      "excerpt": "A motorist spotted a self-driving car along the PIE on 16 Sep. The driverless vehicle may be out for a driverless taxi test.",
-      "sourceUrl": null,
-      "webUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "originalUrl": "https://mustsharenews.com/self-driving-car-pie/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mustsharenews.com/wp-content/uploads/2022/09/Self-Driving-Car-Spotted-On-PIE-May-Be-Part-Of-Test-For-Driverless-Taxis-1.jpg",
-          "width": 1500,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mustsharenews.com/self-driving-car-pie/amp/",
-      "cdnAmpWebUrl": "https://mustsharenews-com.cdn.ampproject.org/c/s/mustsharenews.com/self-driving-car-pie/amp/",
-      "publishedDateTime": "2022-09-22T03:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Lee",
-        "domain": "mustsharenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

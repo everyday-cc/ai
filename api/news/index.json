@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-05-rbi-plans-to-extensively-use-ai-machine-learning-to-improve-regulatory-supervision.md",
+      "title": "RBI plans to extensively use AI, machine learning to improve regulatory supervision",
+      "excerpt": "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1649873219_rbi.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "publishedDateTime": "2022-10-05T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.md",
       "title": "Bunnings denies use of facial recognition technology in New Zealand stores",
       "excerpt": "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation.",
@@ -53,7 +96,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 197,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -823,7 +866,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 125,
+      "heat": 115,
       "tags": null,
       "images": [
         {
@@ -1152,50 +1195,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
-      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
-      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,101 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-07-27-artificial-skin-sweats-on-command.md",
+      "title": "Artificial skin sweats on command",
+      "excerpt": "I therefore like to start a project with a clear goal in mind ... complement traditional robotics rather than compete with it. With the skin, we found that we could control the topology (mountains ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "originalUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-skin-sweats.jpg",
+          "width": 900,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-artificial-skin.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-artificial-skin.amp",
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-intels-arc-a370m-is-great-for-creators-on-the-go.md",
+      "title": "Intel’s Arc A370M Is Great For Creators On-The-Go",
+      "excerpt": "Intel recently released the first members of its new Arc family of GPUs, the A350M and A370M. Representing the mobile faction of the Arc lineup, these two GPUs will mostly be found in laptops.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
+      "originalUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e17341196384f9ea133856/0x0.jpg?format=jpg&width=1200",
+          "width": 936,
+          "height": 636,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/moorinsights/2022/07/27/intels-arc-a370m-is-great-for-creators-on-the-go/amp/",
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-researchers-use-slam-to-improve-object-recognition.md",
       "title": "Researchers use SLAM to improve object recognition",
       "excerpt": "Researchers from MIT’s department of mechanical engineering are working on improving object recognition for robots. The researchers have developed a monocular Simultaneous Localization And ...",
@@ -1069,91 +1164,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
-      "title": "Robot that learns social cues could feed people with tetraplegia",
-      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
-      "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
-      "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

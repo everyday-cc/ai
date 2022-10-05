@@ -6,8 +6,8 @@ publishedDateTime: 2022-09-30T18:48:00Z
 originalUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 webUrl: "https://www.accountingtoday.com/news/deloitte-launches-artificial-intelligence-initiative"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://arizent.brightspotcdn.com/dims4/default/31f851b/2147483647/strip/true/crop/510x268+0+39/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F84%2F40%2F1aafa6214b39bf380d6e295f7aad%2Fp1b6r77dk96sj32m1m421tku1v127.jpg"

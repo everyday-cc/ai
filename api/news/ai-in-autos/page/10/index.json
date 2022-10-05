@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
+      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
+      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
+      "sourceUrl": null,
+      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "whichcar",
+        "domain": "whichcar.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
       "title": "10 top artificial intelligence (AI) solutions in 2022",
       "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
@@ -1285,50 +1328,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

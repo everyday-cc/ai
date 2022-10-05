@@ -2,6 +2,111 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-08-23-why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn.md",
+      "title": "Why some AI companies are securing massive funding despite economic downturn",
+      "excerpt": "Despite the economic downturn, some AI startups have had no trouble raising huge investment rounds, hinting at the AI market's future.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/",
+      "originalUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2014/12/FundingFit.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 1057,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/amp/",
+      "publishedDateTime": "2022-08-23T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-hot-it-skills-to-develop-now.md",
+      "title": "Hot IT Skills To Develop Now",
+      "excerpt": "Technology continually evolves, and our skills need to evolve with it to remain relevant and keep our careers on track. As the global CIO at NPD, I’ve met many amazing CIO/CTO colleagues and watched as the key issues we collectively face have evolved from pre-pandemic planning to supporting our business through the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3ac7cf80a528019291bfb9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "publishedDateTime": "2022-08-23T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-how-artificial-intelligence-can-improve-organizational-decision-making.md",
       "title": "How Artificial Intelligence Can Improve Organizational Decision Making",
       "excerpt": "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ...",
@@ -1068,110 +1173,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
-      "title": "New Gartner survey: Only half of AI models make it into production",
-      "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "originalUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "publishedDateTime": "2022-08-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-intelligently-search-alfresco-content-using-amazon-kendra.md",
-      "title": "Intelligently search Alfresco content using Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/22/alfresco-kendra.jpg",
-          "width": 1530,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T13:40:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

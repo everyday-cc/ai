@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-202
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/01/tesla-ai-day-2022-musk-promises-optimus-humanoid-robot-for-under-20000/amp/"
 type: article
 quality: 122
-heat: 562
+heat: 552
 published: true
 
 provider:
@@ -254,22 +254,6 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/03/Screen-Shot-2022-10-03-at-8.32.31-AM.png?auto=webp"
         width: 2000
         height: 1500
-        isCached: true
-  - title: "Tesla just gave us a fresh glimpse of its humanoid robot ahead of its big AI Day event. What we know so far about the Optimus project."
-    excerpt: "Elon Musk has said the robot could more important than its car business, but it'll join a long list of projects that haven't yet seen the light of day."
-    publishedDateTime: 2022-09-30T16:42:00Z
-    webUrl: "https://www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9"
-    ampWebUrl: "https://www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-bot-robot-optimus-ai-day-what-we-know-2022-9?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 89
-    images:
-      - url: "https://i.insider.com/633719ce94aa2f0018cfc756?width=1200&format=jpeg"
-        width: 1200
-        height: 600
         isCached: true
   - title: "Tesla unveils functional prototypes of its planned humanoid robot"
     excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."

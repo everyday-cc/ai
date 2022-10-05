@@ -2,6 +2,90 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-30-mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.md",
+      "title": "MIT startup DataCebo offers tool to evaluate synthetic data",
+      "excerpt": "Synthetic Data Metrics is an open-source Python library for evaluating model-agnostic tabular data by pitching machine generated data sets against real data sets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.html",
+      "originalUrl": "https://www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/09/01/10/data-scientist_analytics_cybersecurity-100751591-large-100931870-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3675554/mit-startup-datacebo-offers-tool-to-evaluate-synthetic-data.amp.html",
+      "publishedDateTime": "2022-09-29T14:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-amazons-ambient-intelligence-is-a-cozy-way-to-say-home-surveillance.md",
+      "title": "Amazon's 'ambient intelligence' is a cozy way to say home surveillance",
+      "excerpt": "Amazon laid out its vision for “ambient intelligence” (an obvious play on artificial intelligence), a term the company has used since at least 2021. Here’s what Amazon meant by that at the time.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
+      "originalUrl": "https://mashable.com/article/amazon-alexa-ambient-intelligence-surveillance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-as-extreme-weather-events-worsen-7analytics-meshes-ai-and-big-data-to-predict-flooding.md",
       "title": "As extreme weather events worsen, 7Analytics meshes AI and big data to predict flooding",
       "excerpt": "Analytics was founded by data scientists and geologists to help reduce the risks of flooding, harnessing the power of AI, ML, and big data.",
@@ -1096,109 +1180,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-experts-warn-ai-assistants-are-hurting-the-social-development-of-children.md",
-      "title": "Experts warn AI assistants are hurting the social development of children",
-      "excerpt": "An analysis from Cambridge experts suggest that interactions with AI assistants like Alexa is impeding the social development of children and disrupt learning.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2018/03/wear_os_google_assistant.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/digital-assistants-alexa-siri-research-affecting-social-growth-skills-children/?amp",
-      "publishedDateTime": "2022-09-28T17:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-robot-fast-food-cook-costs-less-than-half-a-human-worker.md",
-      "title": "Robot Fast Food Cook Costs Less Than Half A Human Worker",
-      "excerpt": "Nala Robotics has launched a fast food robot that it says can fry chicken wings, French fries, and other foods, season them, and plate them all autonomously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6334ddd57b11a2a301592c3b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/09/28/robot-fast-food-cook-costs-less-than-half-a-human-worker/amp/",
-      "publishedDateTime": "2022-09-28T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

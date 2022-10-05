@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)"
-excerpt: "Aktana, the leader in intelligent customer engagement for the global life sciences industry, welcomes Deepak Patil as its new senior director of medical strategy. Patil comes to Aktana after leadership roles at IBM Watson Health,"
-publishedDateTime: 2022-09-27T11:33:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative"
+excerpt: "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ..."
+publishedDateTime: 2022-09-27T14:07:00Z
+originalUrl: "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html"
+webUrl: "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: The Daily Item
+  domain: dailyitem.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "i1LKjRdRQlgqEbOuUsIFRPLYkqlYwonEfhpN73KBHIhmmMvX95o/8nRebvJV+LT1hGUzLIvoHf7K1w2jn/+SJIQqH09y/0dShD3IGPnHkiKiVlYcN60syYzt47NM15XLA1FGCD3zk9nyGOmgJ59kIMksF4Od9Mn3ZE2/gJhwicZzpOXNAzDnTRwpxIf2o7CuzX/V1GRRRXY33MQsu5guwFfloRDw9Ces/fZJR2OYlZQv84lN27QrgG0cZFMIY0NCPgaYGFr9cGUJPFSEydovQVHofVTBDXM8+tzjPcXwX8a9wy51CZGTV4GkhdrBxgSy9BSXk4GFffGd+aO1tqV6ZqNXpqFIw4Km9Qwig3VLMIA=;KmAHM5HThOJWiUS5vJMxlg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "j3/O+Z3xxqOIT18MO+mMQHZXj2H2NTmqIYUwJMzf2GST/efbNXrFn/JvpjofRwE8B5cayOpWR9J6SZc5UUqxj1qldM6mmfRa9fwnhGC7mxoGu1YaljiE32hkCav4RE2+aTuGnGMBzTTSCrHI4uV8nSYDjE0QSZO+eD40cEypB8OHwtQiwp2QVc37AXLcRDjMOLpjxLsIo6xvR+bfK64SQOMCBHsJ4mBT1YRSmNOOH1RywL15DF9dSxFSHSJaj/Q+pMF1E4fqOnVv7RMrSd6W1/6Q28u1UZ7x2uPwRY6DPckXfuRFOismY3dDJ5Hpqk8BJSHJdNmeX3XL7GSZUgs+9Vt6hOwzufyNJPFejzTl6hg=;rgK+1UPj+a+IrYF+xZEZ4g=="
 ---
 

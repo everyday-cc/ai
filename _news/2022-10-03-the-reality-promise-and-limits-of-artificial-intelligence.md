@@ -49,7 +49,7 @@ related:
     provider:
       name: Digi Times
       domain: digitimes.com
-    quality: 37
+    quality: 54
     images:
       - url: "https://img.digitimes.com/newsshow/20221005pd205_files/1_2b.jpg"
         width: 1280

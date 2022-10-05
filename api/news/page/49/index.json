@@ -2,6 +2,110 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-08-24-5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc.md",
+      "title": "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc.",
+      "excerpt": "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
+      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
+      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "publishedDateTime": "2022-08-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-capitol-records-pulls-plug-on-racist-ai-rapper-after-barely-a-week.md",
       "title": "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week",
       "excerpt": "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\"",
@@ -1057,92 +1161,6 @@
       "provider": {
         "name": "AOL",
         "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
-      "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
-      "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "originalUrl": "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-609383/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others.md",
-      "title": "Robotic legs help a boy from Hugo, now he hopes to help others",
-      "excerpt": "Sometimes a simple walk around the block can become a meaningful journey. “He loves to move. He does not like sitting in his chair,” said Tiffany Goodchild, mother of 6-year-old Karter ...",
-      "sourceUrl": null,
-      "webUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "originalUrl": "https://kstp.com/kstp-news/top-news/robotic-legs-help-a-boy-from-hugo-now-he-hopes-to-help-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSTP",
-        "domain": "kstp.com",
         "images": null,
         "publishers": null,
         "authors": null

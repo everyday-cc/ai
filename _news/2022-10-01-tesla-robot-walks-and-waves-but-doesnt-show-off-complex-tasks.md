@@ -9,8 +9,8 @@ ampWebUrl: "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
 type: article
 quality: 76
-heat: -1
-published: false
+heat: 126
+published: true
 
 provider:
   name: Autoblog
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a"
-    publishedDateTime: 2022-09-30T15:40:00Z
-    webUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-    ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 78
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
-        width: 452
-        height: 282
-        isCached: true
   - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
     excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."
     publishedDateTime: 2022-10-01T11:50:00Z

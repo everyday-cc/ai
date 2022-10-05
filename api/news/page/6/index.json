@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-28-alzheimers-drug-slows-cognitive-decline-in-key-study.md",
+      "title": "Alzheimer’s Drug Slows Cognitive Decline in Key Study",
+      "excerpt": "By Rebecca Robbins and Pam Belluck The pharmaceutical companies Biogen and Eisai said on Tuesday that a drug they are developing for Alzheimer’s disease had slowed the rate of cognitive decline ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+      "originalUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/27/multimedia/27alzheimer-1-3cd6/27alzheimer-1-3cd6-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/27/business/alzheimers-drug-biogen-lecanemab.amp.html",
+      "publishedDateTime": "2022-09-27T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange.md",
+      "title": "IBM and Linux Foundation AI and Data announce Machine Learning eXchange",
+      "excerpt": "IBM and Linux Foundation AI (LFAI) launched Machine Learning eXchange ... and a pipelines engine powered by Kubeflow Pipelines on Tekton, the core of Watson Studio Pipelines.",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "originalUrl": "https://sdtimes.com/ai/ibm-and-linux-foundation-ai-and-data-announce-machine-learning-exchange/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2021/09/97bf82391c9f884f4ea785b3ffccb6de.png",
+          "width": 954,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-new-trial-finds-first-ever-alzheimers-drug-to-slow-cognitive-decline.md",
       "title": "New trial finds first-ever Alzheimer’s drug to slow cognitive decline",
       "excerpt": "The drug seems to be successful at slowing cognitive decline ... He also noted health services should begin preparing for how this treatment can be equitably distributed if it does go on to ...",
@@ -795,6 +900,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
+      "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
+      "excerpt": "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
+      "originalUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Item",
+        "domain": "dailyitem.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
       "title": "How AI Is Changing The Game In Insurance",
       "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
@@ -1046,40 +1194,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
-      "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
-      "excerpt": "Aktana, the leader in intelligent customer engagement for the global life sciences industry, welcomes Deepak Patil as its new senior director of medical strategy. Patil comes to Aktana after leadership roles at IBM Watson Health,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T04:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-27-i-tested-out-an-ai-art-generator-and-heres-what-i-learned.md",
       "title": "I tested out an AI art generator and here's what I learned",
       "excerpt": "How, then, do we fit art created by AI into that conception of art? If humanity defines art, is it enough to reduce the definition to keywords typed into a generator? It's a question that's not theoretical any more.",
@@ -1128,101 +1242,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
-      "title": "Artificial Intelligence opens doors for media but ethics must prevail",
-      "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
-      "sourceUrl": null,
-      "webUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
-      "originalUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/U7H5nVDwALI80Wo_yJmtBb-vCX8ghYCRML2ZAxqHJUm2gLlYd95ZEbQDKpFIf7Gy3M9j9b7t5JPkWJQ5W8NLS7OmvmXN9KQqs21Cy6WdCAU=s1000",
-          "width": 511,
-          "height": 384,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "the-star.co.ke",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights.md",
-      "title": "New Azure for Operators solution accelerator offers a fast path to network insights",
-      "excerpt": "Azure for Operators is introducing a network analytics solution accelerator program, providing a standardized approach to data acquisition and visualization that aids operators on their journey toward complete end-to-end AI Operations (AIOps).",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
-      "originalUrl": "https://azure.microsoft.com/blog/new-azure-for-operators-solution-accelerator-offers-a-fast-path-to-network-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/28310219-bfcb-40c9-a353-4be56e69af1a.png",
-          "width": 1024,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T02:00:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
