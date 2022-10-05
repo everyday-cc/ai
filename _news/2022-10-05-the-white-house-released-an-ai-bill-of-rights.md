@@ -1,27 +1,32 @@
 ---
 category: news
 title: "The White House released an ‘AI Bill of Rights’"
-excerpt: "By Rachel Metz, CNN Business The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance,"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
 publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
-webUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
+originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
-    width: 1200
-    height: 675
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -103,37 +108,21 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-    publishedDateTime: 2022-10-04T15:49:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+    publishedDateTime: 2022-10-03T23:26:00Z
+    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
     type: article
     provider:
-      name: Post Register
-      domain: postregister.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
     quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems."
-    publishedDateTime: 2022-10-04T22:17:00Z
-    webUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    ampWebUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/?amp=1"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 57
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/10/Investigation-Tracked-AI_Bill_of_Rights_07340-633c193379206-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
@@ -150,6 +139,20 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
+    publishedDateTime: 2022-10-04T22:17:00Z
+    webUrl: "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 37
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
     excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
@@ -170,6 +173,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "IHJR4qchuAGBJs+22SNCroFTR1YJpAIymzNNzTJf7B6PXoXQTUYjvGsaz0bsD7Ll71iC7cmFy5REyObHL3W+26mU8KhL0bWPCpU5qWbdHtOG7U+XEXAMvfRpcG38owpLNNQmeD9TqMXXSix/RymlQeAQKUINjXqOIGMiPuSgkfulGEVWLwoUBJewKQZRK91NyuTGWkLmzSD+H60Gidv457NGhPUL3WIXJyR0YlPvs+tMODqzCO8M2ctKBsYIbWNaP8PdWWiVqPco185beImhA0cKHLHxXcWh22aZmHXHwpolwGT5T74EA8PvKCWCCgXRUFhdKhbLSp5jC79szWuHENJf78Bx/IzrB4GqVDO/gGI=;D1HKDhB8hdOTaYlxcJfprg=="
+secured: "breeVhtm2ND+6bPGkYNMx0c5VmGx9n1heOQ6tk0RHWwdDKFKPo9QroQf4DjEuOGxneQw4qhoQm8E+0aDD0cpdwcBmoVYaOw0ra4joASRIgcg+XYvj/VOseH0ugRgZ9aIaOaCTyUZ/X5UlfZs4Q1YdSPw38o/CGYy42vhp2DTSlwMHJreqLs5OJ1SK3zKmXTVjz7yCg2V8YX/U4ASRThVlN9qhkQ5bBET9bUHgHaL2KUjA0iKAqMWEGcnHRnjXrst17fpNb4aS5hTS7bDc3LST6RaBTI8/3T2oCh8BS891I9xkChx+7LoTaJTtW61MKU6tnfU+oH1B4MwOSDBPQgCg4rXZgNgvU73aD9u5iTT2bA=;1VsoqOuol9+hgK/0imhlzQ=="
 ---
 

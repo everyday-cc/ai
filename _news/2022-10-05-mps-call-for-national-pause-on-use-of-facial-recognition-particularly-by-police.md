@@ -9,8 +9,8 @@ ampWebUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-
 cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
 type: article
 quality: 53
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: Calgary Herald
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Bunnings denies use of facial recognition technology in New Zealand stores"
+    excerpt: "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation."
+    publishedDateTime: 2022-10-05T03:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 57
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Facial Recognition Technology Victimizes People of Color. It Must Be Regulated."
+    excerpt: "More than a dozen states have enacted laws regulating how law enforcement uses it. But federal legislation is needed: A piecemeal approach doesn't keep all citizens safe from misidentification."
+    publishedDateTime: 2022-10-05T05:42:00Z
+    webUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated"
+    ampWebUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 55
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1acc636/2147483647/strip/true/crop/840x438+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fb3%2F33bdfb4c4c1f8669693260e57c8e%2Flieu-facial-recognition.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "House bill limits police use of facial recognition"
     excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
     publishedDateTime: 2022-09-30T21:07:00Z
@@ -40,6 +72,20 @@ related:
       - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
         width: 400
         height: 400
+        isCached: true
+  - title: "Hardware store denies use of facial recognition technology in NZ stores"
+    excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
+    publishedDateTime: 2022-10-05T03:36:00Z
+    webUrl: "https://www.rnz.co.nz/news/national/476129/hardware-store-denies-use-of-facial-recognition-technology-in-nz-stores"
+    type: article
+    provider:
+      name: rnz
+      domain: rnz.co.nz
+    quality: 39
+    images:
+      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--onYpfEJG--/c_fill,f_jpg,g_face,h_630,q_80,w_1200/4NUU5BG_image_crop_57466"
+        width: 1200
+        height: 630
         isCached: true
   - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
     excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
@@ -62,6 +108,6 @@ related:
       domain: biometricupdate.com
     quality: 18
 
-secured: "OvjQrvbRGygvT5vaRzrl7xMVmpT0VVFOEVQXsXd3juphsuEAdJQtTzuyX+wNObzdzNsdYVxd0fZmmxljvz6UhZXQbFYyCBT/Y/81hTsKrQ5HmJClyaDmgZmvzoPkc7tE1oBoSbHfWIzKFVd12vMiVkJYDPjOoZ97w276P5Wu31lqSAegl6ZXMHM2kq+wpBdgrARKoNY/7YaLvLFMfaGQiMMLhaXMrPdlQ9gdeeoilmwuE/lIKg3H67g2qnl44dpDDYTUAjwglX9xjvQqpGHygBCMZOIYKUarMkntR19Vh1grVStkUoK5ew1nO0J3kz8xy4jUajeA1Fbpfe3AfDlORqryb7BQ/3d5CebB+ox/Pqg=;k5vBBfZu9kwKwh45KjJwCg=="
+secured: "vR8Anz6uSEu8OkfV2kmSFIoNXO5qPEHdZ36Pf/GWDHjevuGOCCN53QjKGDgpG1hARE0wCAGl5CLkerG5+5XLOXuPIg0lQ4I9juZ8mR/jujItylmhl///hIXB4zAs99zFN1W8Fv1/33bciWbzg04VwI3nJf9Xd5zBg/ZiV3mNTcnroQjM9uizU6dmq2lIZbJJgSdG3ukypvCjiWualBasxfTAw5z7+zass/SQQVpm1agVNqYHb2R5Ruln63Un2idvLElFn3frMYRk9FsQyh90MaDSIrlpcqQlg4iB8wUeMHH5ZK10glDKBUpkMYWUWhE2C9CZH+9c/F1nAfjapt+ISBZzZ0j2TSby7f5VXVbPXNHDkkkrFfueyaVtocGwfvjDe48tEXdqHKmq5xgYE0sZmjH2AXat69m+SoEH6ZvMUJKikpI5JbYpxelSvb5bmJmz9m2eKvwEVb3LG02kTBPmLUKVttcrRzkqFpEYQvJkU1hgGvSOBHINJ6k3UV+ua0GYPjixYBcTJDYQja0LsIVdIw==;WwQgo0bQvnc4IDx+x0pBeg=="
 ---
 

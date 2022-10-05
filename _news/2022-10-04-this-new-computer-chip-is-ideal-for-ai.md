@@ -23,7 +23,7 @@ related:
   - title: "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research"
     excerpt: "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take."
     publishedDateTime: 2022-10-03T12:00:00Z
-    webUrl: "https://www.cc.gatech.edu/index.php/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
+    webUrl: "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
     type: article
     provider:
       name: cc.gatech.edu

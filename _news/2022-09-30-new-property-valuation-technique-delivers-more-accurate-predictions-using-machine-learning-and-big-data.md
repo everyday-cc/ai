@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-09-property-valuation-technique-accurate-mac
 ampWebUrl: "https://phys.org/news/2022-09-property-valuation-technique-accurate-machine.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-09-property-valuation-technique-accurate-machine.amp"
 type: article
-quality: 43
-heat: 43
+quality: 45
+heat: 45
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/house-roofs.jpg"

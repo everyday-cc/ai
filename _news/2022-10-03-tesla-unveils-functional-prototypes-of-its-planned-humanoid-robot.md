@@ -61,20 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-09-30T11:06:00Z
-    webUrl: "https://gazette.com/news/us-world/musk-previews-teslas-humanoid-robot-but-cautions-it-is-not-ready-just-yet/article_93d41ecf-4f66-51e7-9f32-cb0b2e8ae204.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "Etg0cFqcjvKxk9c9FpyQ2+jduMxw2m+Hpo7O8s/rX+MxxhawsnTOH6YwRxutTmuU3vaKuFiOKNAmOcDW9dSITXpgC5SR635vDFOvxebWQq1cOJri6r218AZEplas4qmC6rL7/pT6/E9RXmDUy1jv/v+lSgna5OpayJ7VXMlM66bAsQyrPNqcN4n/m4IYHl5D03m1C2DxQTZnagMnXVn41A/JvmNZVBvASHb09qKk6upwROMQCKmRyTueTYa4ZNovP8LJKqkxKLLUrg4AtHZzRpqlXZHDL9TtBuKxayEvQ/tVyBttcCn4sAiBZAn63FgAgomqe0ZuwogAAEHSPzhTkQzz65nsDxkjsxGd2jeY1bv9h2IIboM6Q/AYRTZTTeuLcXak/rv1BiUtOXzrjE/EEQnfFVxP3J5a2DEep27T/Oq9JzqMKfUXxr9QpMcUT45kI0Rme4sTz3hO/83KhCenCS1FtOwBeSIcsDyJ6WxSVSPB/KN3xANXWEydBAplMu4hop4Sq3EsAQURkWTPg20YHQ==;iDLZgalrJ0GgmkXq5a/msg=="
 ---

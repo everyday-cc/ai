@@ -3,8 +3,8 @@ category: news
 title: "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research"
 excerpt: "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take."
 publishedDateTime: 2022-10-03T12:00:00Z
-originalUrl: "https://www.cc.gatech.edu/index.php/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
-webUrl: "https://www.cc.gatech.edu/index.php/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
+originalUrl: "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
+webUrl: "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research"
 type: article
 quality: 69
 heat: 79
@@ -36,6 +36,6 @@ related:
       domain: techxplore.com
     quality: 36
 
-secured: "3DIAO10W5PxhSzzWwjoelEnCAWVnwv8VQ19SgpFSLSOtCBtIPFSpHHlUtRZDEz+nPIqCensQD5fliC9L/XphEbQZDIUFIjlB6lXjqf/iejOxn3Hh2iQaesl8IWWunFPCN/XPVb7cpoNewbHVtipjv/0/NDnU+K9K3pgGEKnGM1e8dre6p2NLEp0iDqhw9qeFXhSI1NG7MGwEtiw4odb+mNYFxr1yGa8kuy9J4mgP656DzZh9uQD5v12/pNqzRUb14PjNEmADKyk1J6r0SN9ziPLCVnxl3mdnuYqTM8gmmEXeVgxKHtWfIl6Y3idiAGjXLP7YZrHjjw+jExt8Ie+qpKFwUm7TTHZO1J0n4F2hGZeO8cbPBOYlwxZsHh4lU1JWhY/7mMVRrkt/5T/POMf7mkLhnAz6HMCnDOE05Q3ctjMuwjKqNkVDNfHj09+o2VDnXKhvo08X44sF6w2wmnk9N66PtIqzmbocIQYXQ6JvH3wd7kiylbR1oQvZ9Ysi3Xqli4ii8rPKYGR4kTgxvyPeiA==;Nbs2vdXqbSDAdX+9ZwoLcw=="
+secured: "CcTyz0evfl0iZMh0vVJQadpZZ0W5sp9H2mV8gmdSC20Z/3oX1Kyt7Ke1zEzOvDqm9Sd62Ppm9lATVqrJnN4QJfgiXq9xRP5I7a0Oa4GkxuGBzs/PbcuHzpbYMexFP75g0CrjOqLpK4/5ugETUEJr6fpkWxP+jMlS++1+OlIDQca7rfmIhtgD0ca6uoxHRa6SmdM5lNn7rD3v6fzqsuwYZlJN7ODzE2zdMHzTCODHkMYE6ht4f5WNN2kp2QTlwv/fGMXE4qdSkX9oDJPQbFfqMO6uO7u7Xg5uGeXlub4nat9CLW8peNIzgShrfh2m87AX+Wf426ix/QLqpYy+muob8xr7FTkIAZqWx28XbJvLBX0=;otmY3M5eeoX2kkTH8fiR2w=="
 ---
 

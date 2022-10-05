@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market 2022 | Business Overview, New Trends, Growth Analysis, And Forecast To 2030"
-    excerpt: "Key Companies Covered in the Facial Recognition Market Research are International Business Machines Corporation (IBM), Aware, Inc., 3M, NEC Corporation, Cognitec Systems GmbH, Daon Crossmatch, Nuance Communications Inc."
-    publishedDateTime: 2022-09-30T12:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-2022-business-overview-new-trends-growth-analysis-and-forecast-to-2030-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
     excerpt: "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,"
     publishedDateTime: 2022-10-03T08:33:00Z
@@ -86,20 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Translation Global Market Insights 2022, Analysis by Manufacturers, Regions, Technology, Application, Product Type."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. It is crucial for market participants to do"
-    publishedDateTime: 2022-10-01T03:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-translation-global-market-insights-2022-analysis-by-manufacturers-regions-technology-application-product-type-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Software Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
     excerpt: "Deep Learning Software market and global economic environment, we forecast that the global market size of Deep Learning Software will reach (2030Market size $$) million $ in 2030with a CAGR of % from 2022-2030."
     publishedDateTime: 2022-10-02T12:06:00Z
@@ -137,6 +109,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
+    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-10-03T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
   - title: "Communications Platform-as-a-Service (CPaaS) Global Market Report 2022: Integration of AI & Machine Learning Presents Opportunities"
     excerpt: "Additionally, the integration of artificial intelligence (AI) and machine learning (ML) for speech recognition, automation, agent augmentation, emotion analysis, and call analytics is providing an impetus to the market growth. Moreover, the increasing ..."
     publishedDateTime: 2022-10-03T09:03:00Z

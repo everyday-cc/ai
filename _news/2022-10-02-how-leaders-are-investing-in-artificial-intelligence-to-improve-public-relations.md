@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-inv
 ampWebUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
 type: article
-quality: 82
+quality: 84
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"

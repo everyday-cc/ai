@@ -3,21 +3,20 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.wmur.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wmur.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wmur.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wmur-com.cdn.ampproject.org/c/s/www.wmur.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
-quality: 53
-heat: -1
+quality: 51
+heat: 51
 published: false
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WMUR
+  domain: wmur.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -26,24 +25,6 @@ images:
     height: 676
     isCached: true
 
-related:
-  - title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
-    excerpt: "If you've ever wanted to use artificial intelligence to quickly design a hybrid between a duck and a corgi, now is your time to shine."
-    publishedDateTime: 2022-09-30T11:53:00Z
-    webUrl: "https://edition.cnn.com/2022/09/30/tech/image-generating-ai-publicly-available"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/30/tech/image-generating-ai-publicly-available/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 81
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220928180903-03-dall-e-ai-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-
-secured: "ZpYWDqRUchTakMEkMnB2/4hBZZ/2E73EEJk/OMYAf7RuE7zSp2VXvjCo/iEoXpyihjtWeVRpmjL+d256xGnCnwSbRwqVzaX/Wy4zoqE3awdFtNxJdaO6B6mN2D4XTtfsYAneSbG0xlr/vscZGlBIkKsWWatphCqEMz3JrgvnvbZG4x8GsNNmBvgL0Kcs6s/nI3Y4QLh4kO28OX4UQP9Q6REf9OARHynsSTruhJTAEQpOuHMWR5y0vXieQ2K66O+LrmWIcmmInyON73owvynwKeOuWVQQZg+alxbnTnQ2Ip4GonCusnTKKw8odPUBswZ2gn6T0PvsNyzowhjiId5U4u5sveiM5R+9TPedtRjppPM=;lqORKl/o/hPIUyG2p7x8tg=="
+secured: "P1WrHCLQKxpw4zXY5G1DRqpLYXjYjECaWW4EOhkkKivPi4lyvDWVK6EQZzQ3i0AbCFUev6wK4tANgaJQYIqOGcxGV3Q/U6d+DsT9I1ngKQ0zREyaA3s3M2s/SZHpiN6jYMMFozoUOINDQypGYBFVs92YccdWB3sle1KLpt3Ia+74g4RdQJri99Vem8rnv3sqkgkb8auJumTbv96iHGNyf+8EhWCJhnFu49KeMhtwyoolpmVfDlkTIPRI3FR8VqQiMarXYeLFDVvIWPmJhcMxKv6JpyXlTu30YuaPeZ6BgQREAx03CxewmL1j6v3QlgvcW3USIgMxXp2ki6Zr7RITEQ+icPF4Q6U0BSBwGGGW1V0=;rhI/jAE7lyrrXaLx5arkYA=="
 ---
 

@@ -402,22 +402,6 @@ related:
         width: 636
         height: 382
         isCached: true
-  - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot \"Optimus\" After Delay"
-    excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect to see a prototype at Tesla's \"AI Day\" that could prove whether the bot named \"Optimus\" is ready for work."
-    publishedDateTime: 2022-09-30T11:21:00Z
-    webUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107"
-    ampWebUrl: "https://www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/elon-musk-set-to-showcase-teslas-humanoid-robot-after-delay-3392107/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 76
-    images:
-      - url: "https://c.ndtvimg.com/2022-08/g9vsscm_elon-musk_625x300_29_August_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
     excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
     publishedDateTime: 2022-10-01T01:50:00Z
@@ -746,15 +730,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 32
-  - title: "Tesla AI Day LIVE — Elon Musk to reveal new Optimus robot at 2022 tech event – start time and how to stream revealed"
-    excerpt: "TESLA AI day is officially here, and Elon Musk says the live feed later today will include “lots of technical detail and cool hardware demos.” The Tesla humanoid robot Optimus, for"
-    publishedDateTime: 2022-09-30T11:32:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19967742/tesla-ai-day-live-elon-musk-robot-start-time/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 28
 
 secured: "QP7xsFUkXvgFbKgUufAuw622s+GBJKJpkv+PqUgMH8ZseJGG290ZB0Rk1oFsjz2MNoQyIajyzSpXYh42teA5OXKtX05uXqlZZCzoBPOL8i9Jio6SG/QD9epq7CfUx+9W0wtrNArdxtkMKMztteZFLWPM34IyesLA3d6wXDuaU6NAMGObBs7Z50GBDA7jspL+7pzpWCM03C5NYeVNwqMKlkUW21fhyJNpN2lupWhfkAxe0qG28fQjmrCKhPUk+jMoDgLHc/pJPon7zgwvO0LXG4kd+hHypVjWc9EkIUHjr647YCS4OTQMD9ctsuixm3gGkX+wMRxQkldw46e9Iy7upHIfAlmkSJmhgFl21+5wMgPGb+q6XLwZgDcXyiBfzLqW/lr1EoDspdKoxnNBXmsSxAHuuekCp0EOF+hoxcKOMsj6zW7bi7Bbd3oeVlpOE+zBktirUhMiJpHMWvbgR4vpIXmgdvasbG7rNGjD77VnXfXYs63iXDAMhHbEEChPVYnWBi5zem4aMs0cm9GmxSHJnw==;ndLj0O35bMw/rB/OpN/40Q=="
 ---

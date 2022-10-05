@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Musk previews Tesla's humanoid robot, but cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk on Friday showed off a prototype of 'Optimus', predicting the electric vehicle maker would be able to produce millions of them and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-09-30T11:06:00Z
-    webUrl: "https://gazette.com/news/us-world/musk-previews-teslas-humanoid-robot-but-cautions-it-is-not-ready-just-yet/article_93d41ecf-4f66-51e7-9f32-cb0b2e8ae204.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 54
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/9/4d/94d03c46-8d11-5db0-b328-3c9d5016c862/6336f4493b701.image.jpg?crop=800%2C420%2C0%2C22&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
         isCached: true
 
 secured: "rQOaI45AIm876y2UbeTEQBS8hg/Jr2gnSJglESbSX95DAooke3KdQHVRNbKBtojXgCuvqemHZ8ytvIx8yXp4Baqh6O72mKBBnxhCUjr9hoN3NE89jcLixyM8H29unmeoYBP6/GonJDIx/P9U6o4s1twr/fqcVJvY0OStYcIuNRoqqGLjxbOvYFvTb/l/bR5DNPvYqegNB1FDx3T10ev6iEMwhl/CcEAWN/Uu+alHUDkY+hRG9po91ollRCFXYhmHYPaPVmcnKdVGavcXhSWT6YSkxCx9slxWOY0zs3RMdVudxoxj0irKzmEhetBsP83DyXTqRXRzzZcHwibJ0HFgyBi39VAIqvXasTO0ZYNaAcLuLWASY6pPrsCGeMmD91FINmQIsuMZqCxq1V9pzXls/4B957AbaIYuhgqV+9Fl2BZumOgqB6C8nudfi0o5Kr9bKhfujV27yf82GH2nUw5CHUrlpOsI6RrvwXP+nhGMw397JCZJX6u37foJrWeEfmXzWVR1xOQXHb3gZVXKufk+ug==;yxNpA7bFArxHyy49dZrjnA=="

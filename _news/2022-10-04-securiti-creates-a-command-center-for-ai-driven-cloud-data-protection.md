@@ -36,15 +36,6 @@ related:
         width: 1024
         height: 561
         isCached: true
-  - title: "The Trouble With ‘Responsible AI’: Irresponsible Government Regulation"
-    excerpt: "Most important, we see the emergence of new, irresponsible government regulation. A new New York City regulation, going into effect next January, will require companies to conduct audits to identify biases in the AI programs they use for hiring employees."
-    publishedDateTime: 2022-09-30T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/09/30/the-trouble-with-responsible-ai-irresponsible-government-regulation/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
   - title: "Responsible AI still a pipe dream for many"
     excerpt: "While 84% of global executives believe responsible AI (RAI) should be on top management agendas, only 25% have comprehensive RAI programs in place. This is according to a joint study by MIT Sloan Management Review (MIT SMR) and Boston Consulting Group (BCG),"
     publishedDateTime: 2022-10-03T09:55:00Z

@@ -158,6 +158,58 @@
       ]
     },
     {
+      "path": "_news/2022-09-29-why-fintech-stocks-crashed-today.md",
+      "title": "Why Fintech Stocks Crashed Today",
+      "excerpt": "Fintech stocks are especially sensitive to interest ... This is especially true for Upstart, which claims its AI models are a new and better way to underwrite loans than traditional FICO scores.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
+      "originalUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702990/gettyimages-1142511318.jpg",
+          "width": 2120,
+          "height": 1414,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-radware-expands-relationship-with-fortune-500-financial-services-provider-in-a-multimillion-dollar-deal.md",
       "title": "Radware Expands Relationship with Fortune 500 Financial Services Provider in a Multimillion-Dollar Deal",
       "excerpt": "Radware ® (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, announced it expanded its relationship with a Fortune 500 financial services provider in a multimillion-dollar deal.",
@@ -255,33 +307,24 @@
     {
       "path": "_news/2022-09-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch.md",
       "title": "AiAdvertising Signs Multi-Million Dollar Agreement with Fintech Unicorn to Empower its Upcoming Launch",
-      "excerpt": "We look forward to working closely with the fintech’s team as they bring their ... is harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today ...",
+      "excerpt": "(OTC: AIAD), a next-generation AdTech company focused on harnessing the power of artificial intelligence (AI) and machine learning (ML) to build software for today’s marketing leaders, today announced it has signed a multi-million dollar agreement with a fintech unicorn.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch/article_4f517dee-e021-514a-af2b-cd860a337068.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch/article_4f517dee-e021-514a-af2b-cd860a337068.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-aiadvertising-signs-multi-million-dollar-agreement-with-fintech-unicorn-to-empower-its-upcoming-launch",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg",
-          "width": 350,
-          "height": 456,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T05:44:00-07:00",
+      "publishedDateTime": "2022-09-28T05:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1363,40 +1406,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-nick-kohlschreiber-founder-of-acufi-explains-the-future-of-ai-in-fintech.md",
-      "title": "Nick Kohlschreiber, Founder of AcuFi, Explains the Future of AI in FinTech",
-      "excerpt": "For the fintech sector, concerns in the security of both user and company data can be addressed by AI. More than ever, the modern age will come with a new variety of bad actors–hackers, viruses, and vulnerabilities waiting to be exploited.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/14/9673562.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-14T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],
