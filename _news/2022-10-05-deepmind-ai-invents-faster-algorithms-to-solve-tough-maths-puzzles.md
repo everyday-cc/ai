@@ -18,6 +18,7 @@ topics:
   - Google AI
   - AI
   - Math for AI
+  - Machine Learning
 
 images:
   - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
@@ -87,6 +88,6 @@ related:
         height: 800
         isCached: true
 
-secured: "p3OXD8bKKmSa3ZLnryIaQU4m7ede8WfhRmEDyNar/Gsc6tm+MlirIn9m3d5pY9Zus2G1XUmYEfWlKoZOQ2UnAfcnoLvWmfIbNm7pMHSwNu30R20XvPqJh1wFM7QkjiXnmUTFk9mLFzu3ZJkvZuPzV0GB0vOye9obD0fuaLVf5nOE91UfStrvS45hPb+j2JXKghYzm7I5/fVmKzvqaMApHd9TYDxhv2BHo4vnw5vjoF/VY8hWppduTflog7PeegIGn+U/VH5YajTugJ++/Xer/cz7lCUW7IsXNKM9ScYZ5AqLxkLTRuGFFXxPVJ2UVzFFETLiHwadLZ366YNsPPphYFhF8yH64qr674KE2emV6xw=;FJkzNELobVlOm5nP4aJoyQ=="
+secured: "v2ASO6SbtFK6w6YSNUuOv+/vaqkWwwNEMHdeCZEKA8UQsWkWWZeOvDl5w24wcg1rEtrUpOKuJ8SnW08VjYDry+mtkyONM9UQ4TpLkL1eCf/EBlluAfaTYmlVpAueZ8F3Ah+X6LYSebatcPlRuIDj7p5ctd+p6n2AQsf45ghEDrgfsApwYzf6u2bBK6mD4NMAIMo5r4CfunE2vKcLqWrP4a2WlGAGSO45fnv2aDBDF3eWv/p09zKJ13iVH/pgQVn5dm0+ylIMUXerCulgQ1Np3hljaSFPYebBbpl9sOZZ2+qkUrcfpgUzflzcfqaInM964jCcWKqOnVlnMWikVuTzU7sHmJCnhhquZ5L8PunIZhSRyLxpBDQtdJbPVmtNoeTG3RrI7vwAh6CPalGJThrxALmPFvwKMUPTMUKZo6JSmYC/68eD5XkGHSFMY8cRjXZYiVSNBC4ZknP8tdBPKLN6aVQBDHhjSRAFxOq3t9j+ir2hMWLro8ZFBzYJuyFiF5JEe1C236VXgZz9Ym/u3m6L3g==;997/9+0OTXLUO26jXrP5Zw=="
 ---
 
