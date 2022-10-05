@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "P&G turns to AI to create digital manufacturing of the future"
-    excerpt: "The consumer goods multinational company, with help from Microsoft, is adopting the industrial internet of things, digital twin, AI, and machine learning to transform manufacturing at scale."
-    publishedDateTime: 2022-09-30T10:00:00Z
-    webUrl: "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html"
-    ampWebUrl: "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/Vittoiro_Cretella_48569.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Mars selects Accenture to deliver a large-scale “Digital Factory” using AI, Cloud, Edge and Digital Twins"
     excerpt: "Accenture is working with Mars to transform and modernise its global manufacturing operations with artificial intelligence (AI), cloud, edge technology and digital twins."
     publishedDateTime: 2022-10-05T01:42:00Z

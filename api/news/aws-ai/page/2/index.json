@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-16-oracle-announces-mysql-heatwave-on-aws.md",
+      "title": "Oracle announces MySQL HeatWave on AWS",
+      "excerpt": "Oracle recently announced that MySQL HeatWave is available on Amazon Web Services (AWS). MySQL HeatWave is the only service that combines OLTP,",
+      "sourceUrl": null,
+      "webUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "originalUrl": "https://manilastandard.net/tech/314260496/oracle-announces-mysql-heatwave-on-aws.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://manilastandard.net/wp-content/uploads/2022/09/Mina-Lim-Managing-Director-Oracle-Philippines.jpg",
+          "width": 603,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-15T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "manilastandard",
+        "domain": "manilastandard.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-16-oracle-brings-heatwave-to-aws.md",
       "title": "Oracle Brings HeatWave To AWS",
       "excerpt": "Senior Analyst, Servers, Matt Kimball, dives as MySQL HeatWave is a cloud database service that has enabled Oracle to create differentiation in the open-source MySQL market. MySQL HeatWave is available natively on AWS,",
@@ -1372,59 +1416,6 @@
         "Microsoft AI",
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-detect-audio-events-with-amazon-rekognition.md",
-      "title": "Detect audio events with Amazon Rekognition",
-      "excerpt": "When most people think of using machine learning (ML) with audio data, the use case that usually comes to mind is transcription, also known as speech-to-text. However, there are other useful applications, including using ML to detect sounds. Using software to detect a sound is called audio event detection,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-audio-events-with-amazon-rekognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/30/ML-8724-image003-1249x630.png",
-          "width": 1249,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T10:44:08-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     }
   ],

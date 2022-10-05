@@ -2,6 +2,178 @@
   "page": 32,
   "value": [
     {
+      "path": "_news/2022-09-06-heres-why-you-should-retain-change-healthcare-chng-stock.md",
+      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
+      "excerpt": "Change Healthcare — with a market capitalization of $8.14 billion — is an independent healthcare technology platform offering data and analytics-driven solutions to boost clinical financial and patient engagement outcomes in the United States.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents.md",
+      "title": "Best Practices for Handling Special Files in E-discovery: Foreign Language Documents",
+      "excerpt": "Legal professionals have long struggled with the problem of translating documents in foreign languages when they are encountered during e-discovery.",
+      "sourceUrl": null,
+      "webUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
+      "originalUrl": "https://www.law.com/legaltechnews/2022/09/06/best-practices-for-handling-special-files-in-e-discovery-foreign-language-documents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.law.com/contrib/content/uploads/sites/397/2021/07/Electronic-Discovery-17-767x633-2.jpg",
+          "width": 767,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Law",
+        "domain": "law.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-qualcomms-snapdragon-6-and-4-gen-1-chips-are-big-deals-for-cheap-phones.md",
+      "title": "Qualcomm’s Snapdragon 6 and 4 Gen 1 chips are big deals for cheap phones",
+      "excerpt": "Qualcomm's latest Snapdragon 6 Gen 1 and Snapdragon 4 Gen 1 chips promise impressive camera, gaming, and connectivity upgrades for budget Android smartphones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "originalUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/qualcomm-snapdragon-6-4-gen-new-chips.jpg?p=1",
+          "width": 2100,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/mobile/qualcomm-snapdragon-6-gen-1-4-gen-1-news/?amp",
+      "publishedDateTime": "2022-09-06T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-06-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples.md",
+      "title": "Researchers use machine learning to unlock the genomic code in clinical cancer samples",
+      "excerpt": "A new paper from University of Helsinki, published today in Nature Communications, suggests a method for accurately analyzing genomics data in cancer archival biopsies. This tool uses machine learning methods to correct damaged DNA and unveil the true mutation processes in tumor samples.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-use-machin-3.jpg",
+          "width": 2003,
+          "height": 1784,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
+      "publishedDateTime": "2022-09-06T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-natural-language-processing-nlp-market-worth-494-billion-by-2029-exclusive-report-by-reports-publisher.md",
       "title": "Natural Language Processing (NLP) Market Worth $49.4 Billion by 2029 – Exclusive Report by REPORTS PUBLISHER",
       "excerpt": "Natural Language Processing (NLP) Market by Component (Solutions & Services), Application (Sentiment Analysis, Social Media Monitoring), Technology (IVR, OCR, Auto Coding), Vertical (BFSI ...",
@@ -923,169 +1095,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-five-aussie-startups-and-firms-receiving-major-cash-injections-despite-the-tech-downfall.md",
-      "title": "Five Aussie startups and firms receiving major cash injections despite the tech downfall",
-      "excerpt": "Despite the many unfortunate cases of layoffs and closures, it turns out there are still cash injections about in the tech investment scene.",
-      "sourceUrl": null,
-      "webUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
-      "originalUrl": "https://www.smartcompany.com.au/startupsmart/advice/startupsmart-funding/aussie-startups-cash-injections-tech-downfall/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.smartcompany.com.au/wp-content/uploads/2022/09/the-pitch-winner-Zipr-startup-funding.jpg",
-          "width": 733,
-          "height": 358,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T19:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SmartCompany",
-        "domain": "smartcompany.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-workato-expands-integration-led-automation-availability-in-singapore-deepens-asia-pacific-commitment.md",
-      "title": "Workato expands integration-led automation availability in Singapore, deepens Asia Pacific commitment",
-      "excerpt": "Workato launching its solutions on Amazon Web Services will empower customers to carry out mission-critical business process integrations SINGAPORE - Media OutReach - 6 September 2022 - Workato , a global leader in enterprise automation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
-      "originalUrl": "https://www.asiaone.com/business/workato-expands-integration-led-automation-availability-singapore-deepens-asia-pacific",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Sep2022/WORKato.jpg?h=bde28bee&itok=yD9olfjl",
-          "width": 600,
-          "height": 316,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-in-conversation-with-ai-building-better-language-models.md",
-      "title": "In conversation with AI: building better language models",
-      "excerpt": "Our new paper, In conversation with AI: aligning language models with human values, explores a different approach, asking what successful communication between humans and an artificial conversational agent might look like and what values should guide conversation in these contexts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
-      "originalUrl": "https://www.deepmind.com/blog/in-conversation-with-ai-building-better-language-models",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-what-deep-learning-algorithms-can-teach-us-about-snow.md",
-      "title": "What Deep Learning Algorithms Can Teach Us About Snow",
-      "excerpt": "The DeepPrecip neural network developed by Fraser King and colleagues at the University of Waterloo models weather in order to measure annual snowfall and snowmelt in the context of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
-      "originalUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

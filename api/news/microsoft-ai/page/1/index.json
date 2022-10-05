@@ -382,6 +382,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-28-3-cognitive-errors-that-can-lead-to-rumination.md",
+      "title": "3 Cognitive Errors That Can Lead to Rumination",
+      "excerpt": "Alice Boyes, Ph.D., translates principles from Cognitive Behavioral Therapy and social psychology into tips people can use in their everyday lives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/valentin-salja-0ax51h4wvak-unsplash.jpg?itok=dn2FAPa4",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/in-practice/202209/3-cognitive-errors-can-lead-rumination?amp",
+      "publishedDateTime": "2022-09-27T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-28-alzheimers-drug-slows-cognitive-decline-in-key-study.md",
       "title": "Alzheimer’s Drug Slows Cognitive Decline in Key Study",
       "excerpt": "By Rebecca Robbins and Pam Belluck The pharmaceutical companies Biogen and Eisai said on Tuesday that a drug they are developing for Alzheimer’s disease had slowed the rate of cognitive decline ...",
@@ -1374,60 +1417,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models.md",
-      "title": "Frontline Systems Releases RASON(R) V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models",
-      "excerpt": "V2023 Platform with Patent-Pending Risk Analysis for Machine Learning Models Sep 21, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/frontline-systems-releases-rasonr-v2023-platform-with-patent-pending-risk-analysis-for-machine-learning-models-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Finance"
       ]
     }
   ],

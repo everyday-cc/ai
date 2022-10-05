@@ -135,51 +135,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-artificial-intelligence-in-video-production.md",
-      "title": "Artificial Intelligence in Video Production",
-      "excerpt": "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "publishedDateTime": "2022-10-04T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-04-elon-musks-half-baked-robot-is-a-clunky-first-step.md",
       "title": "Elon Musk's Half-Baked Robot Is a Clunky First Step",
       "excerpt": "Tesla’s Optimus robot did not dazzle robotics experts and can't yet walk. But if the project delivers, it could give the company an edge in manufacturing.",
@@ -240,7 +195,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -512,7 +467,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 653,
+      "heat": 663,
       "tags": null,
       "images": [
         {
@@ -609,6 +564,59 @@
         "AI",
         "Natural Language Processing",
         "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-tesla-unveils-its-humanoid-robot-for-less-than-20000.md",
+      "title": "Tesla unveils its humanoid robot for ‘less than $20,000’",
+      "excerpt": "Tesla did show some videos of the robot performing some tasks in a controlled environment to demonstrate some level of usefulness. The automaker even showed the robot performing a task at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Optimus-Humanoid-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "publishedDateTime": "2022-09-29T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
         "AI in Autos"
       ]
     },

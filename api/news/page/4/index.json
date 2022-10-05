@@ -2,6 +2,59 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-29-tech-war-china-chip-start-ups-clamour-to-tout-ai-chip-breakthroughs-after-nvidia-sales-ban-prompting-analyst-scepticism.md",
+      "title": "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism",
+      "excerpt": "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/09/29/2efa418f-b879-4b0a-a971-cfb50affbc28_a8f831fa.jpg?itok=UuUUxdeN&v=1664448172",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
       "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
       "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ... the premier translation software that allows listeners to understand foreign communication in their native language in ...",
@@ -580,6 +633,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-29-spin-systems-achieves-aws-government-competency-status.md",
+      "title": "Spin Systems Achieves AWS Government Competency Status",
+      "excerpt": "–(BUSINESS WIRE)–Spin Systems, Inc. (SpinSys), announced today that it has achieved Amazon Web Services (AWS) Government Competency status ... Management Framework (RMF), and Director of Central Intelligence Directives (DCID) to the enterprise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/spin-systems-achieves-aws-government-competency-status/",
+      "originalUrl": "https://www.01net.it/spin-systems-achieves-aws-government-competency-status/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T20:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
       "title": "Intel Reveals Arc A770 GPU price and availability",
       "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
@@ -1105,109 +1192,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
-      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
-      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
-          "width": 1532,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T09:29:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-make-your-very-own-ai-generated-pokemon-like-creature.md",
-      "title": "Make your very own AI-generated Pokémon-like creature",
-      "excerpt": "After nine generations of Pokémon, it can sometimes feel like the game developers are just pulling random words from a hat and seeing what they come up with. I still can’t decide if Klefki, the sentient keyring Pokémon,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
-      "originalUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/text-to-pokemon-ai.jpg?resize=1200,628",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/28/make-your-very-own-ai-generated-pokemon-like-creature/amp/",
-      "publishedDateTime": "2022-09-28T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.themanufacturer.com/articles/mars-selects-accenture-to
 webUrl: "https://www.themanufacturer.com/articles/mars-selects-accenture-to-deliver-a-large-scale-digital-factory-using-ai-cloud-edge-and-digital-twins/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "P&G turns to AI to create digital manufacturing of the future"
-    excerpt: "The consumer goods multinational company, with help from Microsoft, is adopting the industrial internet of things, digital twin, AI, and machine learning to transform manufacturing at scale."
-    publishedDateTime: 2022-09-30T10:00:00Z
-    webUrl: "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html"
-    ampWebUrl: "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 59
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/09/Vittoiro_Cretella_48569.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Accenture Collaborates with Mars on ‘Factory of the Future’ Using AI, Cloud, Edge and Digital Twins"
     excerpt: "Accenture is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and"
     publishedDateTime: 2022-10-04T16:18:00Z

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "MPs call for 'national pause' on use of facial recognition, particularly by police"
+    excerpt: "The House of Commons ethics committee is calling for the federal government to put in place restrictions and laws on the use of facial recognition technology, including a moratorium on its unchecked use by police."
+    publishedDateTime: 2022-10-04T20:36:00Z
+    webUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed"
+    ampWebUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
+    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
+    type: article
+    provider:
+      name: Calgary Herald
+      domain: calgaryherald.com
+    quality: 53
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/10/facialrecognition.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "House bill limits police use of facial recognition"
     excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
     publishedDateTime: 2022-09-30T21:07:00Z
@@ -44,15 +60,6 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 33
-  - title: "Facial Recognition Will Play a Significant Role in the Future of Air Travel"
-    excerpt: "Biometric enrollment and advanced security in using your data will solve a common problem in the travel experience. Biometric enrollment allows for greater fluidity at airports and makes passenger recognition easier for airlines."
-    publishedDateTime: 2022-10-03T19:25:00Z
-    webUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
-    type: article
-    provider:
-      name: TravelPulse
-      domain: travelpulse.com
-    quality: 32
 
 secured: "Cm0sV05wvRHTcqWyqSQ584qBs/1DF9IfFYITAkqkiCTb6GRgRWN2N/WZaqzyHDiASMo7IcnN1lNRfymaUJOYV7NpKc8rLFWeOItTrQIbu0kgJ/D9WLBfaY4m/y1KAAmL6zmIfUTbZlmR0pGG1TaGAq8sMa8HpOhCneOelqmcCUMnc3q1cFDQPnN9PxasGmZGsoO/VjVha5d2mfwUsILXTxxbk2TLLQAeJRF+RoCUDaqca9ghFHUrSQ8V+b05pTABrxPu2aVGL215d3zSCJPqi+30OgCoh44lCRD3LbIGbyLqP6DjbOxWyMexvtTCg6lryLAlnS4CtjvBweZOcQqUj5lbh32zfdvkdkMxDzHMl8NVqjjim0ppkbLR3VWo+zuQvqi7eHqIw3LMP/suopFkaHQqM/C5knlB+k06nmW2PC4ZAJwvbHutk05/WorK6jDl6D1Q4Qve15fuv7Pnm3pFHbc46UCzIi+LrkvChChr32cr8nbTL6g682PCkT+prS/IVDQ4aYqLt98N9Zw5YcylyA==;zfoLXtjdiZAQJbko7WzHwQ=="
 ---

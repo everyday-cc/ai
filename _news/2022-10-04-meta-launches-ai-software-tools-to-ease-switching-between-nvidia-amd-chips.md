@@ -36,6 +36,22 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "A Startup Is Suing Facebook, Princeton For Stealing Its AI Data"
+    excerpt: "Facebook representatives have not responded to multiple requests for comment. Princeton University scientists, collaborating with Adobe Research, first published AI research that used the SUNCG ..."
+    publishedDateTime: 2022-10-01T13:51:00Z
+    webUrl: "https://futurism.com/tech-suing-facebook-princeton-data"
+    ampWebUrl: "https://futurism.com/tech-suing-facebook-princeton-data?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tech-suing-facebook-princeton-data?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2019/06/tech-suing-facebook-princeton-data-600x315.png"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Meta Launches AI Software Tools to Help Speed up Work - Blog"
     excerpt: "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips."
     publishedDateTime: 2022-10-03T16:09:00Z

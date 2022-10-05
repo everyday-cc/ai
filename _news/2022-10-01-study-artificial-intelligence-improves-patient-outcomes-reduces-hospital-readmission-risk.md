@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/videos/news/study-artificial-i
 webUrl: "https://timesofindia.indiatimes.com/videos/news/study-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/videoshow/94571637.cms"
 type: article
 quality: 9
-heat: -1
+heat: 9
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Study finds artificial intelligence improves patient outcomes, reduces hospital readmission risk"
-    excerpt: "With an accuracy of 95.6%, this model outperformed all other prevalent methods of risk assessment for these multiple types of dementia. The researcher.."
-    publishedDateTime: 2022-09-30T09:30:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94557093,imgsize-25480,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Study finds artificial intelligence improves patient outcomes, reduces hospital readmission risk"
     excerpt: "Because geriatric patients with dementia have longer hospital stays and incur higher health care costs than other patients, the team sought to solve this problem by identifying modifiable risk factors and developing an artificial intelligence model that improves patient outcomes,"
     publishedDateTime: 2022-09-30T20:59:00Z

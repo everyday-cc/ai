@@ -497,6 +497,22 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 71
+  - title: "Tesla AI Day LIVE — Elon Musk reveals Optimus robot at tech event that’s slammed as ‘lightyears behind Boston Dynamics’"
+    excerpt: "TESLA AI day arrived and Elon Musk revealed the new Optimus robot during a live stream with \"lots of technical detail and cool hardware demos.\" The Tesla humanoid robot Optimus was undoubtedly the ..."
+    publishedDateTime: 2022-10-01T14:01:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19967742/tesla-ai-day-live-elon-musk-robot/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19967742/tesla-ai-day-live-elon-musk-robot/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19967742/tesla-ai-day-live-elon-musk-robot/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 67
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/09/SC-Elon-Optimus-Comp-copy.jpg?strip=all&quality=100&w=1500&h=1000&crop=1"
+        width: 1500
+        height: 1000
+        isCached: true
   - title: "Tesla Reveals Optimus, a Walking Humanoid Robot You Could Buy in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T18:17:00Z

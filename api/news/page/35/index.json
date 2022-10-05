@@ -2,6 +2,169 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-09-03-highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss.md",
+      "title": "Highland Park shooting survivor Cooper showing signs of cognitive loss",
+      "excerpt": "Nearly two months after being paralyzed in the Fourth of July parade shooting in Highland Park, 8-year-old Cooper Roberts is showing signs of cognitive loss, according to the medical team at the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
+      "originalUrl": "https://www.dailyherald.com/news/20220901/highland-park-shooting-survivor-cooper-showing-signs-of-cognitive-loss",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailyherald.com/storyimage/DA/20220901/NEWS/220909941/AR/0/AR-220909941.jpg&updated=202209021130&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T17:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
+      "title": "European Robotic Arm Testing On The International Space Station",
+      "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
+      "sourceUrl": null,
+      "webUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "originalUrl": "https://spaceref.com/space-stations/european-robotic-arm-testing-on-the-international-space-station/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media2.spaceref.com/wp-content/uploads/2022/09/03202100/eva_arm-1.jpg",
+          "width": 2047,
+          "height": 1150,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SpaceRef",
+        "domain": "spaceref.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
+      "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
+      "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
+      "originalUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645?int_source=nba",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.walesonline.co.uk/lifestyle/nostalgia/article24902529.ece/ALTERNATES/s1200/0_JS44547328.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
+      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
+      "publishedDateTime": "2022-09-02T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wales Online",
+        "domain": "walesonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-monarch-tractor-debuting-electric-tractors-soon-nbspand-they-can-go-driverless.md",
+      "title": "Monarch Tractor debuting electric tractors soon —&nbsp;and they can go driverless",
+      "excerpt": "Editor's note: As part of the Bay Area Inno Awards, the San Francisco Business Times and Silicon Valley Business Journal are highlighting nine startups from nine categories across the innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
       "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
       "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
@@ -980,188 +1143,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028.md",
-      "title": "Thermometer with Face Recognition Market Global Outlook, and Forecast 2022 To 2028.",
-      "excerpt": "The \" Thermometer with Face Recognition Market Research Report \" published by Report Mines is segmented into regions (country), Company, Application, and Type. The report presents the research and analysis provided within the Thermometer with Face Recognition Market Research is meant to benefit stakeholders,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle.md",
-      "title": "Kiwi expat Dave Ferguson on founding $14b driverless vehicle",
-      "excerpt": "Kiwi singer Mel Parsons is back with her fifth studio album, Slow Burn which is out on Friday. Video / Newstalk ZB The Queen leaves Buckingham Palace for the last time, have we already been in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "originalUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/i2CMQvmJ_bWJ_Yt2zWDGw2uDTrU=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NPMMK34HQFJGFJUHTP5BWJQLIQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
-      "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
-      "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "originalUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/09/000_32HG96V-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "publishedDateTime": "2022-09-01T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
-      "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
-      "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/2/w600X390/faceapp.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "publishedDateTime": "2022-09-01T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

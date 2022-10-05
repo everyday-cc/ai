@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Research By Growth, Regions, Type, Application and Forecast 2022-2030"
-    excerpt: "The report \"Artificial Intelligence in Drug Discovery Market - By Therapeutic Area (Oncology, Neurodegenerative Diseases, Cardiovascular Disease, Metabolic Diseases, Infectious Disease, Others); By Application;"
-    publishedDateTime: 2022-09-30T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-research-by-growth-regions-type-application-and-forecast-2022-2030-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Translation Global Market Insights 2022, Analysis by Manufacturers, Regions, Technology, Application, Product Type."
     excerpt: "Pre and Post Covid is covered and Report Customization is available. It is crucial for market participants to do"
     publishedDateTime: 2022-10-01T03:30:00Z

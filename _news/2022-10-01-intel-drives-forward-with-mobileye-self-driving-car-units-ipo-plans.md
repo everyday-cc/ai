@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-se
 webUrl: "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959"
 type: article
 quality: 54
-heat: 114
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's self-driving car division Mobileye files for IPO"
+    excerpt: "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ..."
+    publishedDateTime: 2022-09-30T22:09:00Z
+    webUrl: "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 74
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981"
+        width: 3500
+        height: 2334
+        isCached: true
   - title: "This Rapid-Growing Self-Driving Giant Has Filed for IPO"
     excerpt: "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,"
     publishedDateTime: 2022-10-04T12:01:00Z

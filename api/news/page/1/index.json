@@ -213,6 +213,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-05-mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police.md",
+      "title": "MPs call for 'national pause' on use of facial recognition, particularly by police",
+      "excerpt": "The House of Commons ethics committee is calling for the federal government to put in place restrictions and laws on the use of facial recognition technology, including a moratorium on its unchecked use by police.",
+      "sourceUrl": null,
+      "webUrl": "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed",
+      "originalUrl": "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/10/facialrecognition.jpg",
+          "width": 1000,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/",
+      "cdnAmpWebUrl": "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/",
+      "publishedDateTime": "2022-10-04T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Calgary Herald",
+        "domain": "calgaryherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
       "title": "Computer scientist aims to protect people in age of artificial intelligence",
       "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
@@ -670,51 +713,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-artificial-intelligence-in-video-production.md",
-      "title": "Artificial Intelligence in Video Production",
-      "excerpt": "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "publishedDateTime": "2022-10-04T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-04-self-driving-car-company-cruise-aims-to-launch-in-austin-by-end-of-year.md",
       "title": "Self-driving car company Cruise aims to launch in Austin by end of year",
       "excerpt": "Austin drivers might find themselves pulling up next to tech-laden cars maneuvering by themselves more often as the city becomes a center for this kind of vehicle.",
@@ -1134,7 +1132,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": null,
       "content": "\r\n",

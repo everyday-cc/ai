@@ -2,6 +2,60 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
+      "title": "What’s new in Microsoft Azure’s NLP AI services",
+      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "publishedDateTime": "2022-06-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-to-retire-controversial-facial-recognition-tool-that-claims-to-identify-emotion.md",
       "title": "Microsoft to retire controversial facial recognition tool that claims to identify emotion",
       "excerpt": "In a blog post, Microsoft’s principal group product manager for Azure AI, Sarah Bird, said that tools such as emotion recognition “can be valuable when used for a set of controlled ...",
@@ -1272,49 +1326,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-microsoft-patched-azure-bugs-without-notifying-users-tenable-claims.md",
-      "title": "Microsoft patched Azure bugs without notifying users, Tenable claims",
-      "excerpt": "Tenable Security has disclosed two bugs in analytics software Microsoft provides Azure users, and has complained that cloud providers don’t follow industry-standard security disclosure practices. In its Tenable TechBlog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "originalUrl": "https://www.itnews.com.au/news/microsoft-patched-azure-bugs-without-notifying-users-tenable-claims-581351",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/microsoft-azure-sign-2.jpg",
-          "width": 499,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT News For Australia Business",
-        "domain": "itnews.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,50 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-12-amazon-halts-police-use-of-its-facial-recognition-technology.md",
+      "title": "Amazon Halts Police Use Of Its Facial Recognition Technology",
+      "excerpt": "In its statement, Amazon officials say the company supports federal regulation for its algorithm-driven facial recognition software, known as Rekognition. \"We hope this one-year moratorium might ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
+      "originalUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://media.npr.org/assets/img/2020/06/10/ap_17047619531765_custom-5b1d8cc94223de6bff2dd1703307b51eb5f3c953.jpg?s=6",
+          "width": 948,
+          "height": 631,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-12T05:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WBUR",
+        "domain": "wbur.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment.md",
       "title": "Use AWS AI and ML services to foster accessibility and inclusion of people with a visual or communication impairment",
       "excerpt": "AWS offers a broad set of artificial intelligence (AI) and machine learning (ML) services, including a suite of pre-trained, ready-to-use services for developers with no prior ML experience. In this post, we demonstrate how to use such services to build an application that fosters the inclusion of people",
@@ -1337,50 +1381,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-aws-and-amazon-sagemaker-c-the-commercialization-of-machine-learning-services.md",
-      "title": "AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services",
-      "excerpt": "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services.\" Harvard Business School Supplement 622-087, May 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "originalUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491",
-          "width": 440,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T12:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business School",
-        "domain": "hbs.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

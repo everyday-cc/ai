@@ -256,7 +256,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 153,
       "tags": null,
       "images": [
         {
@@ -485,21 +485,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-01-intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans.md",
-      "title": "Intel Drives Forward With Mobileye Self-Driving Car Unit’s IPO Plans",
-      "excerpt": "The listing plans come during one of the IPO market’s worst years in decades.",
+      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
+      "title": "Intel's self-driving car division Mobileye files for IPO",
+      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959",
-      "originalUrl": "https://www.wsj.com/articles/intel-drives-forward-with-mobileye-self-driving-car-units-ipo-plans-11664579959",
+      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-635238/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
+          "width": 3500,
+          "height": 2334,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -507,16 +507,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T15:19:00-07:00",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
+      "publishedDateTime": "2022-09-30T15:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "CNBC",
+        "domain": "cnbc.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -598,7 +598,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 653,
+      "heat": 663,
       "tags": null,
       "images": [
         {
@@ -695,6 +695,59 @@
         "AI",
         "Natural Language Processing",
         "AI in Robotics",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-tesla-unveils-its-humanoid-robot-for-less-than-20000.md",
+      "title": "Tesla unveils its humanoid robot for ‘less than $20,000’",
+      "excerpt": "Tesla did show some videos of the robot performing some tasks in a controlled environment to demonstrate some level of usefulness. The automaker even showed the robot performing a task at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Optimus-Humanoid-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "publishedDateTime": "2022-09-29T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
         "AI in Autos"
       ]
     },
@@ -1320,17 +1373,17 @@
     {
       "path": "_news/2022-09-23-volkswagen-concept-previews-tomorrows-driverless-rental-pods.md",
       "title": "Volkswagen concept previews tomorrow's driverless rental pods",
-      "excerpt": "Artificial intelligence and platooning – fully autonomous driving in convoys – have been factored in to further increase the range for long-distance journeys, Volkswagen adds. Head of ...",
+      "excerpt": "When (if?) cars become properly driverless, why not make them glassy pods with beds, desks and AR entertainment for the kids?",
       "sourceUrl": null,
-      "webUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
-      "originalUrl": "https://www.perthnow.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334177",
+      "webUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195",
+      "originalUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.perthnow.com.au/publication/C-8334177/099020eebdcba6ebf61b69402bf2175d183a40b6-16x9-x0y173w3805h2140.png?imwidth=1200",
+          "url": "https://images.7news.com.au/publication/C-8334195/8b834ff686026c4ce8d0ecc99ee023286661aef2-16x9-x0y173w3805h2140.png?imwidth=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -1340,13 +1393,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T06:37:00-07:00",
+      "ampWebUrl": "https://7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp",
+      "cdnAmpWebUrl": "https://7news-com-au.cdn.ampproject.org/c/s/7news.com.au/lifestyle/motoring/volkswagen-concept-previews-tomorrows-driverless-rental-pods-c-8334195.amp",
+      "publishedDateTime": "2022-09-22T18:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Perth Now",
-        "domain": "perthnow.com.au",
+        "name": "7NEWS",
+        "domain": "7news.com.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1400,40 +1453,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-automotive-artificial-intelligence-ai-market-size-to-hit-usd-191-bn-by-2030.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030",
-      "excerpt": "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28977012",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012",
-      "publishedDateTime": "2022-09-22T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

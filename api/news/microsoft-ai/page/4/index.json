@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-08-moving-the-goal-posts-cognitive-dissonance-and-preferences.md",
+      "title": "Moving the Goal Posts: Cognitive Dissonance and Preferences",
+      "excerpt": "Got cognitive dissonance? Simply move the goal posts of what you see as fair and reasonable. Source: Neil Daftary/Unsplash Cognitive dissonance theory posits that individuals experience mental ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/neil-daftary-4uamk7_8t5s-unsplash.jpg?itok=-VXuqVqw",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/intersections/202209/moving-the-goal-posts-cognitive-dissonance-and-preferences?amp",
+      "publishedDateTime": "2022-09-08T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-08-can-good-dental-health-help-protect-against-cognitive-decline-and-dementia.md",
       "title": "Can good dental health help protect against cognitive decline and dementia?",
       "excerpt": "More information: \"Periodontal Health, Cognitive Decline, and Dementia—A Systematic Review and Meta-analysis of Longitudinal Studies\", Journal of the American Geriatrics Society (2022). DOI: 10. ...",
@@ -1260,59 +1303,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft.md",
-      "title": "Cloud Artificial Intelligence (AI) developer Service Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Aible, H2O.ai, Microsoft",
-      "excerpt": "Top Companies in the global Cloud Artificial Intelligence (AI) developer Service market are AWS, Aible, H2O.ai, Microsoft, Google, Salesforce, IBM, Oracle, Tencent, Prevision.io, SAP, Clarifai, Alibaba Cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft-2022-09-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
         "Microsoft AI"
       ]

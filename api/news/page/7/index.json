@@ -2,6 +2,196 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-09-27-nvidia-gtc-highlights-memory-and-storage-importance-for-the-future.md",
+      "title": "NVIDIA GTC Highlights Memory And Storage Importance For The Future",
+      "excerpt": "The NVIDIA GTC brought out new GPU and other hardware that will accelerate data processing in gaming, enterprise computing, cloud computing, automotive and media creation and require large amounts of memory and storage to support the creation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "originalUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633266af606c3425ffdd5382/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomcoughlin/2022/09/26/nvidia-gtc-highlights-memory-and-storage-importance-for-the-future/amp/",
+      "publishedDateTime": "2022-09-26T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages.md",
+      "title": "Image Recognition in Retail Market to show impressive growth of 18.43% CAGR during the period 2022-2027 | 98 Report Pages",
+      "excerpt": "Sep 27, 2022 (The Expresswire) -- [98 Report Pages] Image Recognition in Retail market size was valued at USD 1456.96 million in 2021 and is expected to expand at a CAGR of 18.43% during the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/image-recognition-in-retail-market-to-show-impressive-growth-of-1843-cagr-during-the-period-2022-2027-98-report-pages-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages.md",
+      "title": "New standards set for Artificial Intelligence in Marketing Market grow at 19.04% CAGR| 101 Report Pages",
+      "excerpt": "Sep 27, 2022 (The Expresswire) -- The global Artificial Intelligence in Marketing market size is expected to expand at a CAGR of 19.04% during the forecast period, reaching USD 103560.95 million ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-james-earl-jones-steps-back-from-voicing-darth-vader-signs-off-on-using-archived-recordings-to-recreate-voice-with-ai.md",
+      "title": "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI",
+      "excerpt": "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
+      "originalUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg",
+          "width": 2100,
+          "height": 1400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna49393",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393",
+      "publishedDateTime": "2022-09-26T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
       "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
       "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
@@ -978,187 +1168,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
-      "title": "Closing The Gap Between Marketing And AI Systems",
-      "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
-      "publishedDateTime": "2022-09-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
-      "title": "How AI Can Help Protect Us From Future Wildfires",
-      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
-      "publishedDateTime": "2022-09-26T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
-      "title": "Is artificial intelligence the pill that health care needs?",
-      "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thespec.com/ts/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready.md",
-      "title": "Best Laptops To Ignite Your Child’s Creativity - Get Them AI Ready",
-      "excerpt": "Here’s our handpicked three laptops that are powered by the OG of all the processors out there - Intel. Three Intel powered devices that perform like a beast and are considerate of your wallet as well.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "originalUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/best-laptops-copy_uynb.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "publishedDateTime": "2022-09-26T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

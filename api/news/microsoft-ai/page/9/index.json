@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-01-how-long-can-cognitive-impairment-persist-after-hospitalization-due-to-covid-19.md",
+      "title": "How long can cognitive impairment persist after hospitalization due to COVID-19?",
+      "excerpt": "In a recent study published in the Open Forum Infectious Diseases journal, researchers examined the aspects of cognitive impairment after hospitalization due to coronavirus disease 2019 (COVID-19).",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220801/How-long-can-cognitive-impairment-persist-after-hospitalization-due-to-COVID-19.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_720977_16593511993243041.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T04:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-23-collaboration-and-open-science-initiatives-in-primate-research.md",
       "title": "23 - Collaboration and Open Science Initiatives in Primate Research",
       "excerpt": "In this chapter, we discuss how large-scale collaboration, a research model successfully implemented in other fields, makes it possible to obtain the large and diverse datasets needed to conduct robust comparative analysis of primate cognitive abilities.",
@@ -1289,59 +1332,6 @@
         "AWS AI",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-using-ai-and-machine-learning-to-kickstart-climate-change-fightback.md",
-      "title": "Using AI and machine learning to kickstart climate change fightback",
-      "excerpt": "Fighting climate change with carbon capture or geoengineering means harnessing the power of AI and sophisticated data modelling",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
-      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368494/using-ai-and-machine-learning-to-kickstart-climate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1656410510/itpro/landsat-satellite-image-climate-change-GettyImages-1354422915.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

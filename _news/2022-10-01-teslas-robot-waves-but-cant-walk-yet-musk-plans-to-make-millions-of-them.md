@@ -50,6 +50,22 @@ related:
         width: 452
         height: 282
         isCached: true
+  - title: "Tesla robot walks and waves, but doesn't show off complex tasks"
+    excerpt: "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ..."
+    publishedDateTime: 2022-10-01T13:28:00Z
+    webUrl: "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 76
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday"
     publishedDateTime: 2022-10-01T13:46:00Z

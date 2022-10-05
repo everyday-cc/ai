@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-h
 webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg"
         width: 452
         height: 282
+        isCached: true
+  - title: "Tesla robot walks and waves, but doesn't show off complex tasks"
+    excerpt: "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ..."
+    publishedDateTime: 2022-10-01T13:28:00Z
+    webUrl: "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 76
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png"
+        width: 1062
+        height: 597
         isCached: true
   - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
     excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."

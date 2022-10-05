@@ -2,51 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-04-artificial-intelligence-in-video-production.md",
-      "title": "Artificial Intelligence in Video Production",
-      "excerpt": "Introduction  Artificial Intelligence has promised so much for so long, and in many ways, it’s been less than perfect. Siri doesn’t quite understand what you’re asking; Google Translate can’t yet seamlessly bridge the gap between languages,",
-      "sourceUrl": null,
-      "webUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "originalUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.provideocoalition.com/wp-content/uploads/image-recognition-2.jpg",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "cdnAmpWebUrl": "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/",
-      "publishedDateTime": "2022-10-04T03:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "provideocoalition.com",
-        "domain": "provideocoalition.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
       "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
       "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
@@ -1472,6 +1427,49 @@
         "AI",
         "Machine Learning",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-neural-network-speeds-holographic-image-reconstruction-for-biological-samples.md",
+      "title": "Neural network speeds holographic image reconstruction for biological samples",
+      "excerpt": "Researchers have developed a new end-to-end neural network that can speed up the reconstruction of holographic images. Unlike other deep learning techniques, the approach can be used on samples not encountered during training,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/965510",
+      "originalUrl": "https://www.eurekalert.org/news-releases/965510",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d5478dc3-2da0-4289-ae22-39a8babe2c18/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 454,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

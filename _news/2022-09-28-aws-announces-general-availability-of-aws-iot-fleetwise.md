@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT FleetWise"
-excerpt: "we look forward to leveraging AWS IoT FleetWise to discover how we can build more personalized ownership experiences for our customers.” LG CNS is a leader in cloud, artificial intelligence, and ..."
-publishedDateTime: 2022-09-27T17:30:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-iot-fleetwise/article_81aabc10-8904-5bb7-8667-d240554e668b.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-announces-general-availability-of-aws-iot-fleetwise/article_81aabc10-8904-5bb7-8667-d240554e668b.html"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS"
+publishedDateTime: 2022-09-27T17:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
-    width: 350
-    height: 456
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "3n6wmwVKg0u7UOT1eNRgyvM3emrhUiq9MVlPNIrBd0pHuTgIlxwLcARJK7sX4iyB7TKVj/x0rlXvUaU0FeypfUIG9tkgDh47NCyBwmpCzy4aW2xLGasBxtUbQzq9wJfJkcZu1C3oAkWv37mHp0CQtcYXvERBMmVlqbDHH+UPml5bGCNCHNKv01q4bY5c4jTvPdPUcDsY9rTe/QVCDb2yVMbh95bUP+68g3fvk6CSolPLBBdaDiU4ZjGoARCWNG5XDxjO7BJvXcbguUb0R7SwRNG6EWoblfmhESB/TCUlpWMjoAlXe0cA//q06p6vh/gJ71fWyJV7VXqks+ayIlyuCGmXji2IwFCm+ob5oYIuxhI=;FP9FlEi2nWgViIXMDLdP8Q=="
+secured: "Tz8vkiF8I/ymInUTwq+e9Be0/2CeyxvTT/BbKbxv3b8VopT1GbFS8AhdRW0ZnJMALo8eQUBoLscJ2xuCHH26E7Dv9qpE+8iU6Gpfk+gPHa1boCbPjvvi3SB9gUpOHNaJ/FCcYmKOuchzzjQ7Vrx8mXDao/mrFTQ+5fNOhWbg2+FnNTSSm82amJlFvDurA18dgksxhlxV1zyiCTD/5Mhp6DAAeNSXZ+u5ZdEgHRFT7e09EZW9xyg4pz3bqrZZKYFl2I3fbOQvEaj3OY84e6WK7Uf6r61nTu7Ako/JPVthmDXpmVToG64Vyci4IO4BEiGlsT58QlYC7bhpO5wCQFXU73s5wwZrKxdOv5yr6pegRdE=;5GY/F1wT8Ty9ZNB/pWWKtg=="
 ---
 

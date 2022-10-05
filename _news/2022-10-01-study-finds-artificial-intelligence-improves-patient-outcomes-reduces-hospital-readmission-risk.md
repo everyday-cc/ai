@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Study finds artificial intelligence improves patient outcomes, reduces hospital readmission risk"
-    excerpt: "With an accuracy of 95.6%, this model outperformed all other prevalent methods of risk assessment for these multiple types of dementia. The researcher.."
-    publishedDateTime: 2022-09-30T09:30:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk/94557093"
-    type: article
-    provider:
-      name: health.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 46
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94557093,imgsize-25480,width-1200,height-628,overlay-ethealthworld/study-finds-artificial-intelligence-improves-patient-outcomes-reduces-hospital-readmission-risk.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Study: Artificial intelligence improves patient outcomes, reduces hospital readmission risk"
     excerpt: "Researchers have used artificial intelligence to predict hospitalisation outcomes of geriatric patients with dementia on the first or second day of admission. Early outcome assessment means more timely interventions,"
     publishedDateTime: 2022-09-30T18:26:00Z

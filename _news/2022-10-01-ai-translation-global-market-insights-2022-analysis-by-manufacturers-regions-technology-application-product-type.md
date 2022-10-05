@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Drug Discovery Market Research By Growth, Regions, Type, Application and Forecast 2022-2030"
-    excerpt: "The report \"Artificial Intelligence in Drug Discovery Market - By Therapeutic Area (Oncology, Neurodegenerative Diseases, Cardiovascular Disease, Metabolic Diseases, Infectious Disease, Others); By Application;"
-    publishedDateTime: 2022-09-30T09:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-research-by-growth-regions-type-application-and-forecast-2022-2030-2022-09-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
     excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
     publishedDateTime: 2022-10-04T09:57:00Z

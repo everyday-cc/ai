@@ -7,7 +7,7 @@ originalUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-
 webUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -17,42 +17,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "House bill limits police use of facial recognition"
-    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
-    publishedDateTime: 2022-09-30T21:07:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
-    type: article
-    provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
-    images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 33
-  - title: "Restrictions on police use of facial recognition proposed in US Congress"
-    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
-    publishedDateTime: 2022-09-30T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
 
 secured: "UkWMn9abeWWTTTl6Xv7oiEy6rcNXICkCHXA5Z6Z/5TMFWV3bgQMO2nTbohEAgABWSIjfVpqYqcoDLBuMsIoEuse+1PUFnaIcxZbVftsDtefxcVpP9ZbvZ2U2VNuvV6Bl6u2p6/TarWvEnvPmobafaTMxB6h8GKVwu2xFcg021tBHsJQ59ef3nowVRyGajS1Q09WkM1HN7KQXDE5k+nXeZ81Jq1xs/b31Z7htsjJPBdN/kmszc/jmNkshHjPA3X/dkQEaWMzgFzxmFHY6rsm3TfEyaodSd0hiEuUNNWaSDZ31tW1iu0LY51em/RisZX+bDjYUcGckQALZuqeIV/gOI2I+IWJmWWrB+fDPCgsT6PfXZt/zNlW4c6KFxf2vZjEEXByL+wjDhb8jNO/28HZdSCdm19ey55FMmwxmYwiOrt21jw/pyUlCOpHq9kZMx/0w5FNYc5BVqlnPw5RGnDoRKUnBqRWv1g4NugRl4kYyZiCVNEZa12FYMCUQh9oniMOz4SJDnk/q9nUUHBmJSlYXgw==;Vu5kNq50yBBTMt/GfTPz2w=="
 ---

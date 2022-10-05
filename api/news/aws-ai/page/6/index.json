@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
+      "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments.md",
       "title": "Artificial intelligence to reduce waiting list for neurology appointments",
       "excerpt": "The Walton Centre NHS Trust is working with Tata Consultancy Services to apply digital technology to its operation, starting with a time-saving AI chatbot.",
@@ -1301,49 +1335,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-amazon-gave-ring-videos-to-police-without-owners-permission.md",
-      "title": "Amazon gave Ring videos to police without owners’ permission",
-      "excerpt": "Amazon handed Ring video doorbell footage to ... after its facial recognition service Rekognition falsely associated 28 members of Congress with criminal mugshots in 2018 and how its Echo Dot ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
-      "originalUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.com/dims4/default/b27232b/2147483647/strip/true/crop/6570x4380+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F16%2F599c9aa445b5a954e0e341e460f5%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1170779505",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
-      "publishedDateTime": "2022-07-13T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
