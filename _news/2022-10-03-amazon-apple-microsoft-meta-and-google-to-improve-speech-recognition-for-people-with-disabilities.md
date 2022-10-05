@@ -89,6 +89,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-10-02T01:48:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-62"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "B7K9ojA+7xJtjsA8aFYtFKsdXFUgN5fSfRfS04odm0WCb1u5GVLRuftj+qV4O5uSaVarZLeaqLk1x5iaTaCKI3+oe+FM/jPUl2gSpkLDyMbSrXyFnfmT1zioHGY7AO5dD0x0ttQBsSDrVe+8M9g1vZnXSMReiKvg4B6BhI2GavHqI1aY1JDPxFDiQfiaXS17UXIG7Fga9ALeXuK4JJ8LWOozzv9H8UVRcpDBMdQCTWS7/r9Fsmq+RumMPDXNPTkYnzLaEK0XQbQj1F6RC45yEW2PViv3BCeKywFwl57kzF2W8dk/AFnz7r+O4E+9eHkhcnPd+/5dqWiakpf6mXB2+Qic/5HPsFlK7rfglfGCA/PENQysQlmn+McjHDJWwNPSzqqEAyu/FdDExgCyBTWFItTwZdqfyn1L1nhHnYZ1gZj3u8N5JzJ2U0XpvZHetky3WjCkK2BDhsX2Q7ZaoZHVpQpBstKmOS3SqqD074o7wYO9wqckelTwbU9fYVlojr4yzrM8630mCl1c73Cu4k5LiQ==;UnpYgMhv8o48KOUl6wM9/w=="
 ---

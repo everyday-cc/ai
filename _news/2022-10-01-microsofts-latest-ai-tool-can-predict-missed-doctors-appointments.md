@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -88,6 +88,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
+    publishedDateTime: 2022-10-02T01:48:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-62"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 48
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "zBKtgUVc2qno3HyesxX6PSUNRdXJ6nE9FsCYyGMlVFwSdE5XdvyYJMGMyZnGp2VTBgzm9PDW2sdVhICdG+AVpZ8OPYIPm2C3mx2xfXE48qvyKXMDQVzvzw8dI3aTgJAIiygqXlBEOgOg8Unx5yl/kUVYZOgISt/tvxBE6al2xz0im1cEjHCJL0EeHa16HwqHH9sJByYVVb19fNvLV4lwwPrSrXD9Ql2dfvXQi6YObUdXjYQ4I+0g0ocH+C3Gmf1Qduj8EHvk1Cr5U0osqt2yUaZoSc8JebzgwF6TnxAnL5Lw/2oReoF4DA2ViBEfJU7ZxsMOhyQXTzog91bOM4Q5JSNew/NVl16eakMQtyQ91d/QDJOLmN5mu8oFvmZHZSr8bKALok7Bp/wnu1fYC+ejHd5pIKJ+aC835uDEo9U0N5GHwfeqVylBe4wF8qiaYRgzNaP+Sf6adJ9JV1gAX1Fm9kU4MWHcPZyTCXN4yP2mJE9/Llvy8xLl4Q6Afl+ZHwcOJTWAfNlbuxQoSVBus44KjQ==;3ji3urY8Po+VifTV+JbTYQ=="
 ---

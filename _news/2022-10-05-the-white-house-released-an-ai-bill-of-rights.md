@@ -3,8 +3,8 @@ category: news
 title: "The White House released an ‘AI Bill of Rights’"
 excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
 publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights"
-webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights"
+originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
 type: article
@@ -41,7 +41,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all"
         width: 409
@@ -110,6 +110,22 @@ related:
         height: 1687
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+    publishedDateTime: 2022-10-03T23:26:00Z
+    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems."
     publishedDateTime: 2022-10-04T22:17:00Z
     webUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/"
@@ -141,20 +157,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
-    publishedDateTime: 2022-10-04T14:14:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
   - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
     excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
     publishedDateTime: 2022-10-04T11:00:00Z
@@ -174,6 +176,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "HxiPsc1wk9cfovwuI/oe4zdS8wUn0r24MxHrrB0WVWDkl0C7BfobU+q7BiangNiv+biWE7fKFHari6FcDUjsQnJHn1g+GvKHBoUYK1TUirAhUe8jiJUwOLubM3UbOR5DkAhsHCz0UqZbtyxfGz9c5Z/RFI2Z3zCmODhcMK4/7S0EwpGik7l3MMWXHLF7/GKfz/JLkjTWykfSV/YRc6yhu6IMPD+UGbcFGp5OEj4APZinh83oNc/eOEYB66jrPID7l8RvelUlbqZ8h9jhg1Tgz/pvEHzgQXuFR3ESXDJnbm+UkqYR6VGv2ewsFOV4pogOFMk91fEXS05pnKrh9u8vABA0DqdbWSC0aitfGzV/9+bLRGGMrgW32i0ZDRa027EpLh5zTN3cCMSh1IW81z6lbDPCnKt5Oxcq8Ii3CDEtwVaOZ7dUzaKb06CQrnR3sOqrhZiokgb/c6uiZ0Q0GxCWI98mKcEJdf5FP9XNjAeoPmpHvJfrr7eWU5ABJCbpjYg59S6+JKgxeLU70b8OrLGhJw==;0vkoBsTkRppYldoHLiuG7A=="
+secured: "ZvxEsEP5Dk/8BPCpQKfrQnW0Ez8GGqB+m15nnJ7wKb5LxzAlSsAyXdMERY1KE4fvY3160mRZid40lvnw9jPyLN2M6kr2Hy5PqLv1GQ0wsl5g9jEoaDkzPO/GGaWQtIu3h2FOWNCeGEhbrawBsepaiVjLvOja0XmFfK0PUieFrW79ytmt4TsJoF7VI/v+w+JEHNkUbAdDyvYZQOHh/CYZlN60Cv9yosY2vqV1gUzQbpXancgT6CVPBtIUM7qDC6tYWmoFOAh9IzcPnOffGhc7/BWZ61niK1z1vKsO+73ljSkI0MZMQA4ax09XCqd8ayZzuBDvdw1LXlM747/6yorDs473n8puNRG+MHYSDqMETwI=;ubUgEFNx2MG5XLY2MWnTgA=="
 ---
 

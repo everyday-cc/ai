@@ -9,7 +9,7 @@ ampWebUrl: "https://www.provideocoalition.com/artificial-intelligence-in-video-p
 cdnAmpWebUrl: "https://www-provideocoalition-com.cdn.ampproject.org/c/s/www.provideocoalition.com/artificial-intelligence-in-video-production/amp/"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI in the legal industry"
-    excerpt: "Legal Interact has focused on an area of AI called natural language understanding that deals with teaching computers to interpret and understand human language."
-    publishedDateTime: 2022-09-30T08:53:00Z
-    webUrl: "https://www.itweb.co.za/content/KzQenvjyVGeqZd2r"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/KzQenvjyVGeqZd2r"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/KzQenvjyVGeqZd2r"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 59
-    images:
-      - url: "https://lh3.googleusercontent.com/ADjx-ofLqeWdiCZBCOedwRJRTWoya8v0o-h3ug0pm4hcgmarAqDES7xzoY9gHpR-vuV-6S10p1Bp4439hC_enFBZlfLhpTKX_GGO=w816-h428"
-        width: 761
-        height: 428
-        isCached: true
   - title: "Meta’s new AI can turn text prompts into videos"
     excerpt: "Meta has today unveiled an AI system that generates short videos based on text prompts. Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,"
     publishedDateTime: 2022-09-30T10:35:00Z

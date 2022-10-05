@@ -36,7 +36,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all"
         width: 409
@@ -61,7 +61,7 @@ related:
   - title: "The White House released an ‘AI Bill of Rights’"
     excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
     publishedDateTime: 2022-10-04T21:06:00Z
-    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights"
+    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
     type: article
@@ -121,6 +121,22 @@ related:
         height: 1687
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+    publishedDateTime: 2022-10-03T23:26:00Z
+    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    type: article
+    provider:
+      name: MyNorthwest.com
+      domain: mynorthwest.com
+    quality: 59
+    images:
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+        width: 1280
+        height: 853
+        isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems."
     publishedDateTime: 2022-10-04T22:17:00Z
     webUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/"
@@ -135,20 +151,6 @@ related:
       - url: "https://www.boston.com/wp-content/uploads/2022/10/Investigation-Tracked-AI_Bill_of_Rights_07340-633c193379206-scaled.jpg"
         width: 2560
         height: 1707
-        isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
-    publishedDateTime: 2022-10-04T14:14:00Z
-    webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: mysanantonio.com
-    quality: 39
-    images:
-      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
-        width: 2048
-        height: 1365
         isCached: true
   - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
     excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."

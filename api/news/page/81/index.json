@@ -2,6 +2,83 @@
   "page": 81,
   "value": [
     {
+      "path": "_news/2022-07-30-protecting-students-school-district-adds-artificial-intelligence-to-increase-security.md",
+      "title": "Protecting students: School district adds artificial intelligence to increase security",
+      "excerpt": "A school district in Illinois has approved a new security system officials say should better protect students.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
+      "originalUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png",
+          "width": 604,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
+      "publishedDateTime": "2022-07-29T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTOC-TV",
+        "domain": "wtoc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
+      "title": "DeepMind's AI has now catalogued every protein known to science",
+      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "originalUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032.md",
       "title": "Global Edge AI Processor Market Size Is Expected To Grow At A CAGR Of Approx. 17% From 2022 To 2032",
       "excerpt": "Evolve Business Intelligence published a new market research report on Global Edge AI Processor Market by Type (Central Processing Unit (CPU), Graphics Processing Unit (GPU), Application Specific ...",
@@ -1093,93 +1170,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-ai-used-by-bytedance-a-security-risk-indian-officials-on-re-entry-reports.md",
-      "title": "AI Used By ByteDance A Security Risk: Indian Officials On Re-Entry Reports",
-      "excerpt": "New Delhi remains concerned over ByteDance and its ability to harvest user data using AI, as it seeks to re-enter the Indian market.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
-      "originalUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2020/09/bytedance.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/ai-used-bytedance-security-risk-indian-officials-re-entry-reports/amp/",
-      "publishedDateTime": "2022-07-29T02:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
-      "title": "Analogue deep learning offers faster computation for artificial intelligence with much less energy",
-      "excerpt": "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
-      "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
-      "publishedDateTime": "2022-07-29T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

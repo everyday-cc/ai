@@ -1,27 +1,29 @@
 ---
 category: news
-title: "White House unveils artificial intelligence 'Bill of Rights'"
-excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
-publishedDateTime: 2022-10-04T14:14:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
-webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
+title: "White House unveils artificial intelligence ‘Bill of Rights’"
+excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+publishedDateTime: 2022-10-03T23:26:00Z
+originalUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
 related:
@@ -35,7 +37,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 95
+    quality: 97
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all"
         width: 409
@@ -60,7 +62,7 @@ related:
   - title: "The White House released an ‘AI Bill of Rights’"
     excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
     publishedDateTime: 2022-10-04T21:06:00Z
-    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights"
+    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
     type: article
@@ -170,6 +172,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "cH8i2QapzGNCGIv40YtCbMPHY2Wz8wBY8hyBRpSWxZ3PbZsJsZTIDDfA6R7H3+miqB0jAKhQ50XUm7FtHHJ69gmv0+y1YnIgatFXEiaz0KswAQqkWdkEigTlFchaq/Q8HBEAKTpMztbIuhgotmvEl6QHozDvjIDH4zFnY5w/Gupb22udUjPVh7wXdYPBwrySYJ7Nl6z0Sc050FhD6xiuxIqZ6P5ib8qJfymaSxKRIWMLD8vvLMzKopbx/e/JXm5eZ24dDUetzXv2QY9xOHG4AKn+DFwGyJwPlhOwKBPbVI7QENC70CyO/4IWjMzOmzgi7iHoM+UFC74idN0KXXkLvnoYXpWLAlu8XWvoSES42C8=;VdxkC3r7Oxk89KflhjoMHg=="
+secured: "02FH2qKRoWLd0nv7UTqUsI6xj6uXBHhEINBi8uOI06yJ8CZEKcoM69lQloQZIrn/9r0SI1vkVv8+QExGducQBhIoGhh/T4QSNQehp6c9GJnEeHz/Lfh5i3FGY4V6ZsC9vADZnjVeGKE7yRnim+0emXA60FHjL88Z7AFCQ96zdkEbSFEe59EE1PneAWwCvNtX8fqSfb5up0ewkcLnMf9FUq4VuJZA+yj5aEwmp20X83QNJItS/LudJE9uJPBzcVhTIzvHLmt0tocPv01wp8e2Od26PV5SFzg53k7sHAov2KK1V3Zw2BwCIVxLCo9+jpWIZb/03+yngJ8dFhTXXjbx9/CYmeWr8EyMjZsa3dJx9Zk=;H0Jp+CzE1HB0hSQ7xUzBRA=="
 ---
 
