@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 65
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "1pCgP9tP9PaiSQQ+JBExqzT7QEp49M20SYI7thWxGilkTUbm/LDF1h5w+wbC+gBLJTrV2RJ3JWkbeDJ0BV5S98f1llEaOZNpqsgKLWSSehaI7rn6UI/of1FCp7a/guCbJKgg0zz0I9pLuPvHOG//ZoGPmdirAOVPu7nxJbuLyrxK9nRA1IE/dqAqj+YgQzCNZGRJriX3IdfFGzB3WBgVcCclEQWD+bLu7khOSxXAvZTeYN6fYNAFCl2DNhVK6qJJoZ/hhyo1CUeAUQipVamP0vEXJRW0UPJaJ6lCcKB67P2OEKpdW/Z/cfhx6LymuOn6jS35iFTxY6VzWHE6de8XP6tVcvTDfkLmCZ/p19BJyQSNAHm/Eu1W7pRYJcO0tDrlSerAqXtIIzi4kVZHN4OBrSSmsEkfeY8z7KFMYL5Nyh4=;l4gKIwuedgY45c8eEHClSw=="
+secured: "9Ktrk2QaPtHdJytvsb0quFQ5o7guVOmbFZzq/uzvxoM/08jeoIDsyK+UGoRW0jzVLzOsNS2/BJez+JT9Gio2s6Q1EHHcfmbFRGCtSKsMgUwlqtYQBsqSRye/9GRxvSrao7q/GRkv8ASIr6RjnGAQisHTdIZpbQ3/EO8cI0nD/xl/vRjMm40HHPSc8Bg/+hPEZMumSnzu9QliczqkhDDcqspGLKDqW85+KpUiT12gQO4N9G3n7V8OFTSCLghaolcbPNj+kYyu8uNC9za7quMQFvoZfpbLGFN+wgmnERN3HA7Hhnrb2NTybfBG4+aizDXxSWw9sx7BvHpbSMvxfxGzOCrXDn/2Lh7elVcwD1faQZNIWqkDCpWQxFtMrTObNjbC1MeMRwbYdKiy64cOVyz1Wl6WW5m6Lp2zokIpHiPqUi4=;25dF+Iw1kZ3Unv/HK7ejvA=="
 ---
 

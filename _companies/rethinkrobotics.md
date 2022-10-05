@@ -2,7 +2,7 @@
 name: "Rethink Robotics"
 overview: "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain."
 type: "profile"
-heat: 93
+heat: 101
 
 website: https://www.rethinkrobotics.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "RethinkRobotics"
   url: "https://twitter.com/RethinkRobotics"
-  followers: 34017
+  followers: 34019
 
 size: 11-50 employees
 yearFounded: 2018
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DSy-NXSldz0"
 
-secured: "kB+rG3Q0tp8cRIPdd1d4uD2GlnFoRCGmFKBXOkgwT495s02aLPJCXYa2LI3FYbV/eGhatRjqTHECYkizoynHPODwAIaXDTy7BGXhjkSuwci2OSnEvu1hiZesoZu43N0OH6qNj39j++Nq+amRPfhwFfbSRE8meeR6I+jTJS572lNpXGbGmog0Xz3axeGb6IgXN2/8mdBXjDPf/qDuG+Ofvre+9J3ae9gQW3weV0uX9Jtzyv+EU2qCEbYP8JZk2Bja7Du6rAhUHF1WF2w6QOhhRVCk6yzDWMZe9+lantiRRdpHcSzlEjEx+ECW9m6svwOFNEMtcr3kac88d9o1jH3ko+t8vN3EJOT27ArhjOYOSxrMAih+nP5QPJfkB+3DZhhk3KMjyQ8Qmy49SwB8vGA4G9KxrATcR3KupNyYzODDZm8=;0gRAT2hlP4jMpsV2ojPk8Q=="
+secured: "bPfGTEi1GmkCCPNmdZjThVYWm9Em+XbBuEP55yUfLdujbz/gdrsb5cgE9l8ujyE01IxV3YzvlOHjvAg8i5TgOXXn+IXrXRFZRi3J0zqIcoYqpzj4K437/24WrsBep2FoTG5abjbPDDKMyuWYglIDUmes6sBgbDrO0J08djRm3nNhtlf6mX+LqHdVvq7rX1VPQ2Gzb0xyCcmV3EIhkUi47iD4WXLOmk32W/+1KDGqYyKDoEGbdah0qXkMuErMPnLzvq+pguOpbwQpcn8xTim7o0uj8XweHAQUViV50+E8cR6hJvW1JDKTwUXQKRiwkllY7z8MxtDw6ZkZdieWeahgxi0H8RI9+GnHoDsk44SBbpcJgkZJZFviHA2OabN825uW5hKi/Mh/5aCGY6VH1E70s3Bal6YDIak4MVyHfIabCSY=;Fs7NXvwq2FBMoCPWOKDteA=="
 ---
 

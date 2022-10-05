@@ -2,7 +2,7 @@
 name: "OpenAI"
 overview: "OpenAI is an AI research lab, discovering and enacting the path to safe artificial general intelligence."
 type: "profile"
-heat: 417
+heat: 411
 
 website: https://openai.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "OpenAI"
   url: "https://twitter.com/OpenAI"
-  followers: 845095
+  followers: 845185
 
 size: 51-200 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "OpenAI"
 
-secured: "3yS+ogN8cMGrDWERBHN2zBhQ8HQLK70Ll56LwH8AEDkKP9HVnCz2FUvjyAYrM+uarejwunfoM1DTuae/LzMCdWwpgp/8ysEqxlbRjCdXUwywZ8r0PyFkknEfov42Up6I9aEiLNDbNBq6y+1ZppfgEpnCkjMuUnX7s/y/U9XN17Ez689qC8Fu562SkmnSDXT8q+GHvIpyxlI992lqAOB1E6p4mQc9BnVpmXKAKJj0nfR32e4bA42HlP0AArc5BDE4+guYLPfcBnQCth7zvvFmlCcG2/rTSrrMe5acVeovWF8CS2BBUeQQdRu8eQJd70kowZnjad4SdAeFLWATw3jzZLWQg43Nx58oYPX10/dCfAIedjiFvGArOP9adaSs6HXJty1gyzFnrkCoG9ce3vLODDsajvLjVL5K4CHshpWlMbA=;gvmYCiYpW+vZVIBRwDCx4Q=="
+secured: "qcT+sKHXm+1qREMTCUmLR7ChEWFPgW1AElBWy6QuC8CgfcsApw5+Y+aMaSxrtf5zoiUJ1NJWSy+0IqH3IRnEwXCk9k41rw6bGeyEPhLHczIT1dvdC7PjBf21emKvQHuQdbPchXNdI2Jr6evzBBhqC92FPOtHClle04Ik708109Ykcd+6SXrFG0IX0ovSQFgNWEv+ADNXo9GHbqZpqruvMDkmSd/MsBl1exEPBP/CD25oMm7EvFfWFxkrijVK3yg9T7y+K/53uI0qfYlDh1Ftd9WcwnxZFkR+Rd1K9TN9xQKJHdrwwlps/TSvZ0nkfAodKuSdyh19zdqsS7VMmQS2QodOGBPPDFdCMOb0WhW5PXjeZ7sN2wCzBp15wDKeDxEf1FPS25NC5SRsFRzxU7ksPI2IQzm6OrDE3GxLIXx4xaE=;4LLhI231yk8E3rV8DxPVZA=="
 ---
 
