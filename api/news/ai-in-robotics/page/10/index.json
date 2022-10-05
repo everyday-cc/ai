@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
+      "title": "Build Your Own Remote Control Robot And Car For 50% Off",
+      "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "originalUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4012653-robot%281%29.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "publishedDateTime": "2022-07-28T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
       "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
       "excerpt": "Nvidia's Megatron has been upgraded to help train LLMs more efficiently by reducing the amount of memory and compute required for training.",
@@ -1318,51 +1361,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
-      "title": "Using artificial intelligence to train teams of robots to work together",
-      "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

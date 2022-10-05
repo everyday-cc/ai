@@ -2,6 +2,153 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-05-robotics-startup-miko-acquires-ai-firm-square-off.md",
+      "title": "Robotics startup Miko acquires AI firm Square Off",
+      "excerpt": "With the acquisition, Miko is planning to expand its product line beyond the AI robot companions that it has developed",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/10/MIKO-SQUARE-OFF.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp",
+      "publishedDateTime": "2022-10-05T03:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-google-picks-south-africa-for-its-first-cloud-region-in-africa.md",
+      "title": "Google picks South Africa for its first cloud region in Africa",
+      "excerpt": "Alphabet Inc's Google is also building Dedicated Cloud Interconnect sites in Lagos, Nairobi, Johannesburg, and Cape Town.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/",
+      "originalUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/",
+      "publishedDateTime": "2022-10-05T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
+      "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
+      "excerpt": "We compare Microsoft cloud storage services OneDrive and Azure, so you can decide which service is right for your business",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
+      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1658499657/ITPP%20to%20ITP%20migration/Cloud%20storage/OneDrive_vs_Azure.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-rbi-plans-to-extensively-use-ai-machine-learning-to-improve-regulatory-supervision.md",
       "title": "RBI plans to extensively use AI, machine learning to improve regulatory supervision",
       "excerpt": "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,",
@@ -10,7 +157,7 @@
       "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -762,7 +909,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -1067,134 +1214,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
-      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
-      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "publishedDateTime": "2022-10-03T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work.md",
-      "title": "Facebook parent Meta launches AI software tools to help speed up work",
-      "excerpt": "Facebook parent Meta Platforms Inc META.O said on Monday it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
-      "originalUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp",
-      "publishedDateTime": "2022-10-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-get-ready-for-the-next-generation-of-ai.md",
-      "title": "Get ready for the next generation of AI",
-      "excerpt": "Video, an AI that generates five-second videos from text prompts. Built on open-source data sets, Make-A-Video lets you type in a string of words, like “A dog wearing a superhero outfit with a red cape flying through the sky,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/",
-      "originalUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/09/dog-gif.gif?w=512",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/03/1060561/get-ready-for-the-next-generation-of-ai/amp/",
-      "publishedDateTime": "2022-10-03T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

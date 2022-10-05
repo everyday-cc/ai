@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/"
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Indiatimes
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Legal & ethical aspects of artificial intelligence, robotics & algorithms"
-    excerpt: "This is especially true for artificial intelligence, robotics, and algorithms, which have the potential to greatly impact our society. In this article, we’ll explore some of the legal and ..."
-    publishedDateTime: 2022-09-30T19:02:00Z
-    webUrl: "https://timesofindia.indiatimes.com/readersblog/storyteller/legal-ethical-aspects-of-artificial-intelligence-robotics-algorithms-45346/"
+  - title: "The potential of emerging artificial intelligence"
+    excerpt: "Drinking water would be sold in shops like any other consumer goods – this was predicted by a learned Indian over hundred years back. And no one believed it! Not very long ago, who"
+    publishedDateTime: 2022-10-04T06:48:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-potential-of-emerging-artificial-intelligence/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-potential-of-emerging-artificial-intelligence/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-potential-of-emerging-artificial-intelligence/"
     type: article
     provider:
       name: Indiatimes
       domain: indiatimes.com
-    quality: 85
+    quality: 63
     images:
-      - url: "https://static.toiimg.com/photo/75476733.cms"
-        width: 640
-        height: 360
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/03/WhatsApp-Image-2022-03-31-at-2.34.08-PM.jpeg"
+        width: 868
+        height: 1156
         isCached: true
 
 secured: "wndy7l33P3Hk4+v4SEC2cgYJj9KqoZx/osnxROvZs0t9L4vPhsPXxSTTV6Y13KaRAHC8DX8+UTeAFagRAcM+hI+qowEcsr5Zc41dwwdWMKoF7rg/nExpxKdXtFRZ25M/W682V6aEHi0iBFYH2ecwUgAJa14tR6wGB0rgWCGHPc1rrY6B6vVZ41Zqlo8Ce9CVZnSha8OtJPiwhWwKwedHGMj2bYatxxuYtDSnhTsN+/YhlUuHex54E6OMNNmObPv9U6DhQR/gVO2QxIF6F9o0EibxRCU/3dIVP4lPTnYs7QIOByqXYjO08HCyZxE3yC+1Xl9K+cMfMF3fuune+NfKsY6bTEW8/vuoDFbyoymGl2s=;K/O/FnIc9F6ghb8Tf8QfSA=="

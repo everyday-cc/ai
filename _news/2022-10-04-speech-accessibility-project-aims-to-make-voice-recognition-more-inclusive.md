@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/speech-accessibility-project-ai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/"
 type: article
 quality: 87
-heat: 159
+heat: 169
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg"
         width: 1000
         height: 563
+        isCached: true
+  - title: "Research launched to make voice recognition tech more accessible"
+    excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
+    publishedDateTime: 2022-10-05T10:00:00Z
+    webUrl: "https://www.research-live.com/article/news/research-launched-to-make-voice-recognition-tech-more-accessible/id/5103852"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
+    type: article
+    provider:
+      name: research
+      domain: research-live.com
+    quality: 44
+    images:
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
   - title: "Apple and University of Illinois working with Meta, Google, and more on Speech Accessibility Project"
     excerpt: "Apple and the University of Illinois are teaming up with Google, Meta, and more tech companies to collaborate on something called the Speech Accessibility Project. The goal of the initiative is to study and improve how artificial intelligence algorithms can be tuned to improve voice recognition for users with diseases that affect speech,"

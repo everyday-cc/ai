@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
-    publishedDateTime: 2022-09-30T17:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 76
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Tesla AI Day in Palo Alto: Here’s what to expect"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
-    publishedDateTime: 2022-09-30T17:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 76
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -107,15 +75,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Tesla's AI Day: How to watch, plus our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-09-30T17:10:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
   - title: "Tesla’s AI Day is tonight. It may wow you – or end with a gaffe"
     excerpt: "Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla's work in artificial intelligence, \"Full Self-Driving,\" its supercomputer \"Dojo\" and maybe a humanoid robot,"
     publishedDateTime: 2022-09-30T20:28:00Z
@@ -125,20 +84,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
-  - title: "Tesla AI Day: Here’s what to expect"
-    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-    publishedDateTime: 2022-09-30T17:34:00Z
-    webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 56
-    images:
-      - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
 
 secured: "YVJ2GHRhzeb+sbXNoanA1pP1pSJqm1H44N9A4Y2KmcPx0g9Fj6rY4Py4Q8Q6+knOUgSCwjBHU5gJtoYVqLF4Yb269Q1xcLcyeqhjrjE4euWhdMZBkwGSXiWPz+CT4mYW9mLzpYefogF9ti3kdTRJTIwcppQFNiKDRMi2P/xNmyofGy/cXC/E08B4U+oqM3R5NsLjCjQwSB3ZulJ31WMy73W1atyVTfPk6zZbTYvvWRBQKmsKeeDidDtXT6F+EViFgfr1qwmuTyyuvE852JQGXfKAVZWRHi3VYLTo3v94LHxKQWSITvlbI1qrt67g+Cw4YkAM9oS4mekNq8bOMJUOw78dRdjS6Et0xsEaTeZo1ahxxB5zQv82xSEVuOC+m6RUozUcY2DxXun871v3w9sHJX6Qs+JGOycH0TiGN7eA7gTTJC77fAMi+UUAQtPa1HnmudZY/uFMjY5/OVBubI1DvwzuK+Ph9riTppEcw5NEJxoD1VpSUK6oP46zTgRb5zpT+zL6Z/G9qpSUbJ3g5s2IMw==;xR4tk5w6X0qRQaJY7+5MJw=="
 ---

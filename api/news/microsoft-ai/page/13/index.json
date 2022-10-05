@@ -2,6 +2,104 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-22-microsoft-will-remove-a-controversial-feature-of-its-facial-recognition-tool-that-claims-to-identify-emotion-from-videos-and-pictures-in-major.md",
+      "title": "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ...",
+      "excerpt": "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/06/22/12/59383727-0-image-a-12_1655896439971.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
+      "publishedDateTime": "2022-06-22T06:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai.md",
+      "title": "Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’",
+      "excerpt": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool. Send any friend a story ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/22/business/21microsoft-01/21microsoft-01-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
+      "publishedDateTime": "2022-06-22T04:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
       "title": "What’s new in Microsoft Azure’s NLP AI services",
       "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
@@ -1224,101 +1322,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-cognitive-shortfalls-are-fodder-for-humorous-gibes.md",
-      "title": "Why Cognitive Shortfalls Are Fodder for Humorous Gibes",
-      "excerpt": "The next category would include those that factor in the creation of cognitive humor. Just as physical and emotional shortcomings can be co-opted to inspire laughter intentionally, so can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pexels-george-becker-374918_crop.jpg?itok=qDTdkUyK",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "publishedDateTime": "2022-06-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-microsoft-silent-patches-called-a-grossly-irresponsible-policy.md",
-      "title": "Microsoft silent patches called “a grossly irresponsible policy”",
-      "excerpt": "Cyber security company Tenable Security said it found two bugs in Microsoft Azure analytics software and complained the tech giant didn’t follow industry standards in declaring the patch to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
-      "originalUrl": "https://www.itpro.co.uk/security/cyber-security/368292/microsoft-silent-patches-called-a-grossly-irresponsible-policy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1624441528/itpro/MicrosoftOfficeSign_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T03:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

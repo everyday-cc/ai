@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-18-the-time-is-nigh-for-responsible-ai-and-data-ethics.md",
+      "title": "The time is nigh for responsible AI and data ethics",
+      "excerpt": "Many jurisdictions are following the EU’s proposed regulation of artificial intelligence. Firms that have not begun to develop their AI systems to comply with the new regulation are being advised to do so now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
+      "originalUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-regulation2/12062182-1-eng-GB/AI-regulation_reference.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T01:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Banker",
+        "domain": "thebanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority.md",
       "title": "Why Corporate Purpose And AI Ethics Must Be a Leadership And Risk Management Priority",
       "excerpt": "In today’s challenging world, there is an imperative to advance Corporate Purpose leadership at all levels of an organization. AI Ethics and Happiness Foundations must be integrated into Corporate Purpose.",
@@ -1391,49 +1434,6 @@
         "AI Hardware",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ross-lets-worry-about-the-google-ais-ethics-and-discretion-not-its-soul.md",
-      "title": "Ross: Let’s worry about the Google AI’s ethics and discretion, not its soul",
-      "excerpt": "Google wants a truly conversational search engine, with immediate real-time access to the sum total of online information.",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "originalUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/06/GettyImages-1241233246.jpg",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
-      "publishedDateTime": "2022-06-23T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

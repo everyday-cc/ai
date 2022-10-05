@@ -200,22 +200,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Elon Musk to showcase humanoid ‘Optimus’ robot at Tesla’s AI Day"
-    excerpt: "CEO also expected to discuss self-driving technology and high-speed computer at Friday event"
-    publishedDateTime: 2022-09-30T18:32:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/sep/30/tesla-optimus-humanoid-robot-elon-musk-ai-day"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 91
-    images:
-      - url: "https://i.guim.co.uk/img/media/f3b9cca20b42c6b64f72c2487d9b5f920369c531/36_0_3189_1914/master/3189.jpg?width=620&quality=85&auto=format&fit=max&s=1e133f459e6b928d3aa44a27fafa7fc4"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Watch: Elon Musk showcases humanoid robot at Tesla AI event"
     excerpt: "\"Our goal is to make a useful humanoid robot as quickly as possible,\" Musk said at the event being held at a Tesla office in Palo Alto, California. Musk is also expected to discus"
     publishedDateTime: 2022-10-01T05:14:00Z
@@ -344,31 +328,6 @@ related:
       - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
-    excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
-    publishedDateTime: 2022-09-30T18:02:00Z
-    webUrl: "https://gizmodo.com/elon-musk-tesla-ai-day-robot-bot-optimus-cybertruck-1849602257"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 81
-  - title: "Tesla AI Day: As Elon Musk teases the Optimus robot, self-driving updates and artificial intelligence - here's what to expect"
-    excerpt: "The tech company's humanoid Optimus robot - teased at last year's artificial intelligence event by a person in a spandex costume - will be the star of the show. Tesla on Friday morning shared a ..."
-    publishedDateTime: 2022-09-30T17:46:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11267241/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11267241/amp/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11267241/amp/Tesla-AI-Day-Elon-Musk-teases-Optimus-robot-self-driving-updates-artificial-intelligence.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 79
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/09/30/17/62977843-0-image-a-27_1664556188222.jpg"
-        width: 636
-        height: 382
         isCached: true
   - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
     excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."

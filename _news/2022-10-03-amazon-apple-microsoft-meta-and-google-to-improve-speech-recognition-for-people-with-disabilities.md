@@ -62,6 +62,20 @@ related:
         width: 760
         height: 428
         isCached: true
+  - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
+    excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
+    publishedDateTime: 2022-10-05T10:23:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-mec-lbwvksaa"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 80
+    images:
+      - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
+        width: 900
+        height: 599
+        isCached: true
   - title: "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal"
     excerpt: "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button."
     publishedDateTime: 2022-10-04T21:05:00Z
@@ -89,6 +103,20 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
+    publishedDateTime: 2022-10-05T11:42:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-10-02T01:48:00Z

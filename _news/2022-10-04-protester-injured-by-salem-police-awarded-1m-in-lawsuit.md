@@ -1,27 +1,29 @@
 ---
 category: news
 title: "Protester injured by Salem police awarded $1M in lawsuit"
-excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of assaulting her and violating her civil rights."
-publishedDateTime: 2022-10-03T22:20:00Z
-originalUrl: "https://www.columbian.com/news/2022/oct/03/protester-injured-by-salem-police-awarded-1m-in-lawsuit/"
-webUrl: "https://www.columbian.com/news/2022/oct/03/protester-injured-by-salem-police-awarded-1m-in-lawsuit/"
+excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
+publishedDateTime: 2022-10-03T22:13:00Z
+originalUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/"
+webUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/"
+ampWebUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: The Columbian
-  domain: columbian.com
+  name: OPB
+  domain: opb.org
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
-    width: 1200
-    height: 630
+  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/L9NsjYUzh89KuiJJ2K2xMwMqOtE=/767x431/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XCBF6V7PK5HW7LLZMTKNWELROM.JPG"
+    width: 767
+    height: 431
     isCached: true
 
 related:
@@ -53,6 +55,6 @@ related:
       domain: seattletimes.com
     quality: 24
 
-secured: "cd1JZhNtdSzYW/LId1vqY6tCsQIVxpQEO0763ixmpDRUakx3s+JgrrPyK7ycB5HQyB41Ad656ekBiB6F5lBX4w4GEz2KF0lr21MgLKJAjM8fZ+RQ1i+K2glBQRxt5EeiXVkW5LnI1b7NLpAJhTjhBKxYWqHaqKInQ+QPOrBOyuZUzfzbnlLuvtA/mfX08vq3aC4xpaW2rICJ427nhmVg2P+kNhPtoP++/3fcaiJMwyIRFoWdAh227Vhmp5bE0jFxIupnwUpC9Bf0KOElAZd8Km8W332NJeQU86tofDAC59HIt73HXSdBH2kMIGZ9pmdo4MeR2rYgttC0uZM2RVbYgb/pbywioY6z+CmiFFgL5Bg=;np7zY9Qm0Njvj9qPCnBQfw=="
+secured: "y6xSpNDkSyecQYRfgfh2v45C9pcDiUWJcBQG2pfCSIE8ynbJFdviIGH0KGUexOWvdaILTIa30PogNPGCr8Jg6EqjQKg/JlnRrA53G5Tx+i8xF/oUmh7hhWbMVuJ/pg/NVNOzMZ9Z7YevqJHKoEvzznxLxDO7EAyv71nNIKiY0M+2PQ7AkTPohElBNiq92I2qKQtpuIlw47O7Pbe6zaZEPucym8JPiSOEgkNfUrfDq+MWd9asX54XPEC1979NbuxizCvhN9w6sgrbKhDHW/RjuUDA84X/CXtvoN/lBYCr6cMmSK34Rc3x9m/gJpzSL76G77xRyS2F26m91XdkEVDz9i5V9IT6/jb0Afz2FZZGyhc=;ek6OpqX3tqTdW1zauQp6PA=="
 ---
 

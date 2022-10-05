@@ -55,38 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
-    publishedDateTime: 2022-09-30T17:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 76
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
-        width: 1024
-        height: 575
-        isCached: true
-  - title: "Tesla AI Day in Palo Alto: Here’s what to expect"
-    excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
-    publishedDateTime: 2022-09-30T17:49:00Z
-    webUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/"
-    ampWebUrl: "https://www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/30/tesla-ai-day-in-palo-alto-heres-what-to-expect/amp/"
-    type: article
-    provider:
-      name: East Bay Times
-      domain: eastbaytimes.com
-    quality: 76
-    images:
-      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c.jpg?w=1024&h=575"
-        width: 1024
-        height: 575
-        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -116,29 +84,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
         width: 750
         height: 500
-        isCached: true
-  - title: "Tesla's AI Day: How to watch, plus our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-09-30T17:10:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "Tesla AI Day: Here’s what to expect"
-    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-    publishedDateTime: 2022-09-30T17:34:00Z
-    webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 56
-    images:
-      - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
-        width: 2560
-        height: 1440
         isCached: true
 
 secured: "R6muRMcQCP3P6xo0EVna5te8lUS/oMJasGMqYYD2ExV4C495Wgqk8MoSqHouajFzPfphzMVqnIPenqE6TiSAbR+9o9rr/FEiOGZATJIJ/UFR9ylW0/iz2gVN7JBpWUJDMe/BK/XSFqCsBeBXFz7pJQpzuid9wJOGHCABmrlne7UiQnIP/cpONcBcdsXJ0Ly3Ofp/147s2mcUrra0qt7RDBMa/A7nqlRoNdoNdVbFs0HE6eMLTKSLW+oI7+wXhAzIpSjrqJgiFIftKiJJBGhgooFNokty7w0JV0zfj0K3MpeHe0LUxMum4aYUNKUWLsJa9AwgaxCabKOciEAMfoeh9Jli8HLB69J2gOOWqPKnYGDpTYoDV8q08SAsrlSSTFNxGHn3VcvnBQ/+7gFc8uFIZFYKLhpxeWz2ut25TgbLF0JK7YhZ+940AVizMtcF8MtlsGvXNmpWWcdVpUzgwTx3euS1kSZRNhOx4mi54X3ECF+45g4222zdbdClSfcpG0qm63LNpNVZ3CY9MRTrxbA3eg==;nenomTluq7sYtnudRQLDig=="

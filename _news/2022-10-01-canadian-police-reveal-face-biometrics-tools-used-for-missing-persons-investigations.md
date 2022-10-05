@@ -24,17 +24,6 @@ images:
     height: 1812
     isCached: true
 
-related:
-  - title: "Cerence develops Knight Rider-style voice biometric interactions for cars"
-    excerpt: "Several auto manufacturers roll out new features that use facial recognition, radar, AI and other tools to enhance safety and convenience for drivers."
-    publishedDateTime: 2022-09-30T18:48:00Z
-    webUrl: "https://www.biometricupdate.com/202209/cerence-develops-knight-rider-style-voice-biometric-interactions-for-cars"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 3
-
 secured: "sR0x+JmhYXXX06SZWYbPfGweeExuPUAF8RYHZux+LNLt8ZYfedplBofPSi4kf/gYNvBIlaG5WNcQ8M/dHPZDP/LSOWEMvDm+Jho8WVvF1U9q+bxsZ3/f6cgqQa5Qq616qQ5Fz4h2xgnlpWiZhQSBhuwtV1rHSxK6tuKjFPlkAd9QJ4b5jBG8Pe4IEugZXooabibxfyJ6FnumA17g5CMjOrwRxU4m+tdHpoZWgcHjDuFwm0ZylNNcCa/OjDqr0/pER7GiF9u+FAqeJirxi2Q1d4zWWe8/MOV8Cf40YMJ9PKgYi4LOLSeKfVbUMtiNRsv3mmJ48RdBQTY/KZC9V6smmAVt/K+El4Fc76yaMVf7U9vWX1/SvmVIeoUTlwwPmXj4M7HW/m2RT6tkzvod/2L0XcN4PLfrP8Wl1F8okZg0+trp9Of89KJtWmXoltQfKYdbaqlTwRilBsH6Cqx7aaF0dZBhvX1djVSPNnbhoVzFRC/FZcWQCAPuT8lPkUQS6e6+eSBG6jKHn4YNgRkwCHZFew==;LRf/oCAQmt2di6YyQOAQFw=="
 ---
 

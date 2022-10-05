@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Protester injured by Salem police awarded $1M in lawsuit"
+    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
+    publishedDateTime: 2022-10-03T22:13:00Z
+    webUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/"
+    ampWebUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
+    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
+    type: article
+    provider:
+      name: OPB
+      domain: opb.org
+    quality: 44
+    images:
+      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/L9NsjYUzh89KuiJJ2K2xMwMqOtE=/767x431/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XCBF6V7PK5HW7LLZMTKNWELROM.JPG"
+        width: 767
+        height: 431
+        isCached: true
   - title: "Jury awards protester injured by Salem police $1M in lawsuit"
     excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
     publishedDateTime: 2022-10-03T22:20:00Z
@@ -42,20 +58,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
-  - title: "Protester injured by Salem police awarded $1M in lawsuit"
-    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of assaulting her and violating her civil rights."
-    publishedDateTime: 2022-10-03T22:20:00Z
-    webUrl: "https://www.columbian.com/news/2022/oct/03/protester-injured-by-salem-police-awarded-1m-in-lawsuit/"
-    type: article
-    provider:
-      name: The Columbian
-      domain: columbian.com
-    quality: 24
-    images:
-      - url: "https://pcdn.columbian.com/wp-content/themes/columbian2/static/img/og/default-2022.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pzVpO3W2yoyOiYhjU/eOloLX9aDp9oOS4gQ8ZTdLuKMpu31PO+Br1Ip9Xm+Wu3ZqVa7lcTiMMvSkHNMykjrDHSTmjLq5+PFx8Su5gB1iS4cimblUVRNg9hsc5aoTyhA/2mXhQNBlCWvuxfO+z+XOeBSxauGKuM+iMHsVxSu6c+0gmyFfPw9BQaJYy3BmP0yRlE/WfHvM/Ka73AumiN4RzBLxC+BxhwQ4DKJ2mhjxCpvKpfRxmWrw7aMOX0FtM8woCSotPoiQma3JiCeHJ/+uzqfF8H4UmOtbFK5NXD0Pgm2de+G3o2B8ka7u9jwjcqA2g6HYrxRGsuLAnitMl0xRvmO9eOreGCM5EMb2VtRBzqeWLkZvVI+gMBiX1cGd/rwR7uJVvu5M7cOMF4CDpOFoJJqNJ5DuV3GWr4ObqWhbWNk+9HPkrSIqixHxL3vzhGp1LNerQICg7vQ4vdkMXPUMp/3Za85Lx2M2E0cQmv/0Rmit3WFHQzMhYX/jISyEftOxZae6q0yWcTT/Jjsq1oVCUw==;GCQGU2Q+MI0yfMhszWTHWA=="
 ---

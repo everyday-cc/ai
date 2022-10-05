@@ -2,6 +2,52 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
+      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
+      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "publishedDateTime": "2022-08-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-there-are-two-factions-working-to-prevent-ai-dangers-heres-why-theyre-deeply-divided.md",
       "title": "There are two factions working to prevent AI dangers. Here’s why they’re deeply divided.",
       "excerpt": "And not in the distant future, but as soon as a few decades from now. That’s why it’s crucial to have AI ethics research focused on managing the implications of modern AI, and AI alignment ...",
@@ -1410,49 +1456,6 @@
         "AI in Autos",
         "AI in Robotics",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-the-time-is-nigh-for-responsible-ai-and-data-ethics.md",
-      "title": "The time is nigh for responsible AI and data ethics",
-      "excerpt": "Many jurisdictions are following the EU’s proposed regulation of artificial intelligence. Firms that have not begun to develop their AI systems to comply with the new regulation are being advised to do so now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
-      "originalUrl": "https://www.thebanker.com/Transactions-Technology/Technology/The-time-is-nigh-for-responsible-AI-and-data-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thebanker.com/var/ezflow_site/storage/images/media/images/ai-regulation2/12062182-1-eng-GB/AI-regulation_reference.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Banker",
-        "domain": "thebanker.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

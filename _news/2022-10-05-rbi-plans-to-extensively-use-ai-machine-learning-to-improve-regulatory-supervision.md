@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-pl
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -43,7 +43,23 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "RBI plans to use Artificial Intelligence and Machine Learning to analyse data, improve supervision of banks"
+    excerpt: "The central bank has floated an expression of interest (EoI) for engaging consultants in the use of Advanced Analytics, Artificial Intelligence and Machine Learning for generating supervisory inputs"
+    publishedDateTime: 2022-10-05T10:30:00Z
+    webUrl: "https://www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html"
+    ampWebUrl: "https://www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 56
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/10/RBI.jpg"
+        width: 640
+        height: 362
+        isCached: true
 
-secured: "OIJiIzLMwPRqPWe88eWCGvpPKljxzeDW6+v9AnrPMNlh8sSSBg55ml1INaKm2btAXn9mTtwsLgcfrGyTNu15UKhCg2UnKsEkzgjY8eCV2KnLFl5RXXcYAZH6BOMpYp5XuCSKt8bjVptUIhVMhy91CVDNEmP7b7dBQ5qB6UuTe920pIKBM1QUEyhpMgyUrJmmJENrg1QjYP8tOVMk1M58wkYDWPWCyjH/zKVKQoG+d6uIrXIO0CiVUyopsNUz7Idx3q0fQ6CXg2j1p5KYvuhnDNGE6YZTpbQ+Fpa5HKAlupRecMQm82H1R+NT3Oc+bJFTKZliq7GvLc37/KVq6cEWSH01YIYDZFQXscRwd1wnkK8=;84dtq3J+dmykG4c/kuNMKA=="
+secured: "fMX1/9wAK+tqqAaz6EwSy9yD8e8nI8m59GHtcg2N7Xy9iW7yKeFMlIhEfyQasLWNkFI1xoVIbX7UdmVFydNpea0tuQUImFbGt7cLbF0YYQvoSTC0qFQhVd4wVTkDGrs6sDswmU4Rx8q+7zBokEIK+G9aSF/+7Q9MY5ZFqYRqH5jJ2SdfVhGaOSb//JPuqAsTLKjHj2N367XTNJ3aHXYfTWfz4ZUdefs5Xy0+DkGJiEb+bmKUaWG8AjsIaCbQU2g5MelDEZ0rb+pA8prDrQ8YM685Rm/3scidxIwxq2f7ojhCN8BJGlTWAXDXFDSb7fLm2k6EwDQ6LD5DoGp2p1WlO3wnhjgqlgk7m2iEsC4AtKr2kFvm6vW+ouPHu7LJyAi3JRYlqCthMqu36cMdQdcSo7u2atTYEmLaJRKHa02Uh5RVL6m07rUvtXrVp9ldo+O8CqNreXhfbk8EF4w/oZOmJJzcRSgZk33sHIT7VoEft3Yb/WTWzMK2fmLkL6MTZ6x7eLAEpHy0JI5a24HmRZfZRw==;6KGgADUrV/KuZTQdTFQwmw=="
 ---
 

@@ -1,32 +1,27 @@
 ---
 category: news
 title: "The White House released an ‘AI Bill of Rights’"
-excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
+excerpt: "By Rachel Metz, CNN Business The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance,"
 publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+originalUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
+webUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KTVZ
+  domain: ktvz.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -108,21 +103,21 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
-    publishedDateTime: 2022-10-03T23:26:00Z
-    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+    publishedDateTime: 2022-10-04T15:49:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
     type: article
     provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
+      name: Post Register
+      domain: postregister.com
     quality: 59
     images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
-        width: 1280
-        height: 853
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
         isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
@@ -187,6 +182,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "kvu8ndzuf+ep80Txjc1M/ETrtROegu34SDFunpkk1aBHWZ2SpAp++MZ2Hz3wE9BEY4tqMkI22dO3SjQk1xMD0N04gWmenD4hIwLwaBg3ORGq1VY7QXvFRx6dVIXW75mCj5rCrfuCgP3JAmFSEDBsh7bfCi24DxdVfBE0wT9P0uyxwSYyJAyghXC7acRI/gJZZ0cHkCWg1xNt3tL/xkq1pieT4al3Txojw+wc4oBPC9h3xynkA+YBw+OcSiHANTae5FCYs17/bv79Kp44fprcsljmNlhebxcAHSoVR4TMGm+LsQ838MiLtzfSLhMmelOZvNchPM8GFrtXjCHevLo9y9zf4gveS8KeZQ1CUO3Vr3I=;uk1x8ZB5mfr4T3F8R69ITw=="
+secured: "Nxf6ResxK9vq/eMdi7ktOa43kiWOi6Byt0ccc69tsoGdyE038GXyt9CFsBpsClYSyHg5KHH3ebDonXnBFTIQcqjPfIT+eyPiKUOGQUO4VeRA5cZERBTq2HqWQwR2O0yccjEREBcA80xxRXEbzOfxi/k9Crl3BIRDWo+bVM26RNSmvLy8L9BOCK03HALU4xIzNFK6nAdjhBBrkRzRz1eRY5Fbm9Mk+G+vo7By7mERPStAGIM5y0CUMM0aFcBm85XtpNTOQcBIKXJB3eM//lyUk13A9eJo+TjsQBGj7tqNciMjzPObfxTYHTOyQ0Kt13swpNe5Jcl8G/wn+30TTdQseAMBH9kjP1eyXAm2mp6XKbk=;mxMyN+wdj6kF/ZWsm1txqA=="
 ---
 

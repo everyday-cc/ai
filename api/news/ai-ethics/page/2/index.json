@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-10-deloittes-beena-ammanath-on-ethics-in-artificial-intelligence.md",
+      "title": "Deloitte’s Beena Ammanath on Ethics in Artificial Intelligence",
+      "excerpt": "Does the torrid pace of investment in AI create challenges for the development of an ethical practice in this emerging technology?",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/video/deloitte-ethics-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/09/eSPEAKS-thumbnail-2.png",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-09T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-09-an-ai-expert-on-how-fn-meka-is-just-the-beginning-of-ai-rappers.md",
       "title": "An AI Expert On How FN Meka Is Just the Beginning of AI Rappers",
       "excerpt": "AI expert Charles L. Isbell, Jr. spoke with us about the ethics behind FN Meka, and how AI rappers — and AI artists in general — are going to become more prevalent as technology evolves. In less than two weeks,",
@@ -1310,52 +1362,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
       ]
     }
   ],

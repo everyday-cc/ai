@@ -3,18 +3,18 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wbaltv.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wbaltv.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wbaltv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wbaltv-com.cdn.ampproject.org/c/s/www.wbaltv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 quality: 51
 heat: -1
 published: false
 
 provider:
-  name: WBAL-TV
-  domain: wbaltv.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI
@@ -43,6 +43,6 @@ related:
         height: 676
         isCached: true
 
-secured: "CKHaeRiyEhjzDpyrq2+SvvTkMC5npnOvvKlDBowe8iIzuYYOJ7rBq7VIDrahlJAXOETSwUkgRWDow+Bk6g2ZvR/cAr0AqpdyvxgLWb/fCjsOWY/CX1xRfCxlfToEVy1+7/lDqYDqb/gJXU2BKbU1FlurRPswd9w8bQGnaX5/WU5maL9/7frfKzsKgQ2JUpAhfWZGGlUhNElgbZhCWIF0R+Ye/hq18s1B5CS+Sty+8US9+B4PFoEaMRJWUO+ZiLedFPDj7yShhAJEYfPtVqWalbsYraBNyMqaKZuCoTdJxJ+HQPSuKXDbEChgwr1Ni8RY0hg1S3e5GXuBrYPKl52UPNbgXXzFk6NxGYq1FiBzvX8=;t6Y0jixGUbSETaaPzv2KYQ=="
+secured: "e4F2vzbBW+MfXLhM9vedrjJqB6QaNdAG0RQ7eLbmpMv2cAyT2PN5BhDf2OvFU2ysc4FujaRFArhOcTe35/DZUQgGuhq2o7V1WBT6F7h5K+GmcaI8hN7NQMWfp2wpL9jLx4wYtgM2P2ntaWBowI6OQgqEnWzmsRgkSz17gJ0ldEkQjncPAHzZjB5zWDjfFiQf+xxUVP+m4s7IaY2fTarq92xyym5MtYzo3IM3uTOHjjkKcANlFxV6MQTVwasZVKQqeJIgBkkaTaOGgPZAZ21RlSiC9fZGJ/0CkjbG7dHCJlztFJ72+Gq0XKTzYL7z5IzUn4GW7H0Sv1iE1KHHId9yDDG2FoNJ0GhQ84D+UpLxu7U=;BQ3MzEGZ1bsHA1si0ZFEwA=="
 ---
 

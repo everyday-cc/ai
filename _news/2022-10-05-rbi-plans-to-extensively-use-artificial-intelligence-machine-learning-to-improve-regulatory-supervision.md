@@ -43,7 +43,23 @@ related:
         width: 900
         height: 500
         isCached: true
+  - title: "RBI plans to use Artificial Intelligence and Machine Learning to analyse data, improve supervision of banks"
+    excerpt: "The central bank has floated an expression of interest (EoI) for engaging consultants in the use of Advanced Analytics, Artificial Intelligence and Machine Learning for generating supervisory inputs"
+    publishedDateTime: 2022-10-05T10:30:00Z
+    webUrl: "https://www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html"
+    ampWebUrl: "https://www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/india/rbi-plans-to-use-artificial-intelligence-and-machine-learning-to-analyse-data-improve-supervision-of-banks-11391401.html/amp"
+    type: article
+    provider:
+      name: Firstpost
+      domain: firstpost.com
+    quality: 56
+    images:
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/10/RBI.jpg"
+        width: 640
+        height: 362
+        isCached: true
 
-secured: "bwPIbqC97xCGChIoeLQNNRqBWjq2g0TH5JtrtcOuIXj7S2DokJaBevAlQU4SutoxDVQBuisdwCvpFwNhDh0Er0JsM2oqdZphvPoL5h2UDd98dI5UgmW7vi0MVku2U5qrcZUC6cSHDzH2C3Z3Ndo3671MX8fkak+jmzL/c2zQtjcURDaSZhWExW5/TctU5Uek/J4kv02t2kIVo3z8FEwFDpsCOwf4obC05raGeKiESZ2JPGtme34dwyRs+/NtHPw5LMb+A8Yix66HGsP3y/CTADThOuFvKONrzx5kJ/adWKc3KrZxC3S4FWdZplvj6Brqjvw62zRYjIq8qrNwEcdSJnF54I0TIg+7tWJaZt/cO9w=;Pb9M27uSM5zCE/YmObFEgg=="
+secured: "QCJ2RVqi1mh193NbXPPP06KWfXTEFmeQB4RLTf9vdlff4Ln64HclixdwbO818Ira8160XfXI4UWm9FwJ7H0YjDYFEQ55hoYtgf6KUWqDZFlzaV5uurHci9Q8PZTYhH0tB8Pkwjgx7LOsmjT0toasrBRwIEZi94DUXE+0JssrE4G8XLC+lXcKBiS3rxxf/QD+C1RdLikxNSOhXhjpxx9MRl1wjuLMyGS27fftJ9t2kpisjJ7r4jV9CUJvtocj9pFPGGf9L1Q/9bXxnYnB7cuAYLov7zCUI3HdnDcNAyV0LuCQCQQRNBOXX/c0MpPzyai8HNEGtHv9kuJJBZB7FH5jsvKTgdNzq9WP1A/hnnEmDDtgHUBm8pGdM1C7vP/LlpF3HTD/AEH0tq739Lij6vG6gD7gLdd8pfAsW5auSV+nstaDfXYFv4axhA/1bnlk8lDOrHw3cb4YYBHdwFVZeT/7pQNXiP2iCY2ZL1W7PethgeCsCGHw9f4vqf1kpu8ptzvoAciE1FEjAKtSGR1gKUO4IQ==;+3B1Fb7dpgHqgn12z3wZpQ=="
 ---
 

@@ -2,6 +2,103 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-02-a-therapy-found-to-improve-cognitive-function-in-patients-with-down-syndrome.md",
+      "title": "A therapy found to improve cognitive function in patients with Down syndrome",
+      "excerpt": "Down syndrome, also known as trisomy 21, affects around one in 800 births and results in a variety of clinical manifestations, including decline in cognitive capacity. With age, 77% of people with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220901151604.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-ai-software-the-bridge-from-data-to-insights.md",
+      "title": "AI software: The bridge from data to insights",
+      "excerpt": "These might include AI analytics toolkits, development and deployment toolkits, end-to-end distributed AI toolkits, reference toolkits and AutoML toolkits. Also: domain specific toolkits ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "originalUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1293487802-I-am-3D-animator-artist.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-software-the-bridge-from-data-to-insights/amp/",
+      "publishedDateTime": "2022-09-01T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-cloud-artificial-intelligence-ai-developer-service-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-aible-h2oai-microsoft.md",
       "title": "Cloud Artificial Intelligence (AI) developer Service Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 – Aible, H2O.ai, Microsoft",
       "excerpt": "Top Companies in the global Cloud Artificial Intelligence (AI) developer Service market are AWS, Aible, H2O.ai, Microsoft, Google, Salesforce, IBM, Oracle, Tencent, Prevision.io, SAP, Clarifai, Alibaba Cloud,",
@@ -1222,74 +1319,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-telco-to-techco-the-future-of-connectivity-and-digital-services.md",
-      "title": "Telco to Techco: The future of connectivity and digital services",
-      "excerpt": "The UAE is among the world’s most welcoming business environments and its government has long encouraged digital transformation as a means for public entities to become more efficient and private enterprise to be more competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "originalUrl": "https://gulfnews.com/technology/telco-to-techco-the-future-of-connectivity-and-digital-services-1.1660912676666",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-does-louisiana-have-a-plan-to-safely-house-teens-in-angola-here-are-new-details.md",
-      "title": "Does Louisiana have a plan to safely house teens in Angola? Here are new details.",
-      "excerpt": "15, but a lawsuit and a host of advocates say officials still haven’t laid out a plan for how they will do that while keeping the youths safe and providing them services required ... stored in a Microsoft Word document, show it is a near-copy of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "originalUrl": "https://www.theadvocate.com/baton_rouge/news/crime_police/article_f045e0c2-23cd-11ed-9490-1b3e3a49bd54.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Advocate",
-        "domain": "theadvocate.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-23-ross-lets-worry-about-the-google-ais-ethics-and-discretion-not-its-soul.md",
+      "title": "Ross: Let’s worry about the Google AI’s ethics and discretion, not its soul",
+      "excerpt": "Google wants a truly conversational search engine, with immediate real-time access to the sum total of online information.",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
+      "originalUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/06/GettyImages-1241233246.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
+      "publishedDateTime": "2022-06-23T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
       "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
       "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use its technology to do things such as infer emotion, gender or ...",
@@ -1366,58 +1409,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-an-ai-chatbot-trained-on-4chan-has-sparked-outrage-and-fascination.md",
-      "title": "An AI chatbot trained on 4chan has sparked outrage and fascination",
-      "excerpt": "An AI trained on 4chan's /pol/ was let loose on the board. The bot provides a horrifying glimpse into a future of automated discrimination",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale",
-      "originalUrl": "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design.jpg&signature=f1c9f1ed4b18584595859aa4d249dde1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

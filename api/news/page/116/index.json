@@ -2,6 +2,221 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-07-01-speech-and-voice-recognition-market-worth-us281-billion-by-2027-at-cagr-of-244.md",
+      "title": "Speech and Voice Recognition Market worth US$28.1 billion by 2027, at CAGR of 24.4%",
+      "excerpt": "The Speech and Voice Recognition Market size is expected to reach USD 28.1 billion by 2027 to grow at a CAGR of 24.4% from 2022 to 2027. According to a research report “Speech and Voice ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
+      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketsandmarkets.com/Images/speech-voice-recognition-market.jpg",
+          "width": 630,
+          "height": 376,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
+      "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
+      "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... The technology is similar to the self-driving systems that high-tech companies, such as Waymo and Otto, and traditional automakers, such as General Motors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "originalUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2018/04/016/_jcr_content/teaser.img.512.auto.jpg/1555958190888.jpg",
+          "width": 512,
+          "height": 341,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medicine Buffalo",
+        "domain": "buffalo.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call.md",
+      "title": "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'",
+      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100",
+      "originalUrl": "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T16:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-nvidia-loses-the-ai-performance-crown-at-least-for-now.md",
+      "title": "NVIDIA Loses The AI Performance Crown, At Least For Now",
+      "excerpt": "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
+      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
+      "publishedDateTime": "2022-06-30T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-neural-effects-of-covid-19-on-depressive-symptoms.md",
+      "title": "Neural effects of COVID-19 on depressive symptoms",
+      "excerpt": "Researchers have hypothesized that the cognitive and psychiatric symptoms associated with COVID-19 may be due to the neural effects of this infection or its treatments. However, these symptoms may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_718037_16564736283426822.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
+      "publishedDateTime": "2022-06-30T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.md",
       "title": "Halsey responds to fans who left Arizona concert following her speech supporting abortion",
       "excerpt": "Halsey responded to fans on social media following Sunday's concert in Arizona where she voiced pro-choice views, prompting some audience members to leave the show.",
@@ -919,203 +1134,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-einrides-driverless-electric-pod-approved-for-us-public-roads.md",
-      "title": "Einride's Driverless Electric Pod Approved for US Public Roads",
-      "excerpt": "Swedish transport company Einride got the green light to operate autonomous electric trucks without a driver present on US public roads. The National Highway Traffic Safety Administration approved ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
-      "originalUrl": "https://www.pcmag.com/news/einrides-driverless-electric-pod-approved-for-us-public-roads",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01rHJw6orrO7bZqmlxZ9Z7H-2.fit_lim.size_1200x630.v1656579363.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-rain-research-group-specialised-ai-and-defense-startup-launches-new-reports.md",
-      "title": "RAIN RESEARCH GROUP - SPECIALISED AI AND DEFENSE STARTUP LAUNCHES NEW REPORTS",
-      "excerpt": "RAIN Research Group, an international research firm, released specialised research and analysis in the defense and artificial intelligence sector. Norine MacDonald QC, the firm's founding President: 'We have launched reports that offer unprecedented insights for startups,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/rain-research-group-specialised-ai-and-defense-startup-launches-new-reports-1031560446",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
-      "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
-      "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-trackforce-valiant-announces-the-acquisition-of-tracktik-software-to-provide-visibility-and-control-for-the-physical-security-workforce.md",
-      "title": "Trackforce Valiant announces the acquisition of TrackTik Software to provide visibility and control for the physical security workforce",
-      "excerpt": "Trackforce Valiant, a provider of security workforce management solutions, announces the acquisition of TrackTik Software, one of the most innovative and fastest-growing cloud-based security",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
-      "originalUrl": "https://www.sourcesecurity.com/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/news/trackforce-valiant-announces-acquisition-tracktik-software-co-1547478593-ga-co-1568095304-ga.1656589900.html",
-      "publishedDateTime": "2022-06-30T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media.md",
-      "title": "Chinese tech giants vow to stop NFT secondary trading -state media",
-      "excerpt": "HONG KONG — Chinese tech giants including Tencent Holdings and Ant Group have signed a pact to stop the secondary trading of digital collectibles and “self-regulate” their ... that other signatories included Baidu and JD.com. Digital collectibles ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media/wcm/c5759fc4-07a3-4e18-8565-1bd3a69a14fb/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinese-tech-giants-vow-to-stop-nft-secondary-trading-state-media/wcm/c5759fc4-07a3-4e18-8565-1bd3a69a14fb/amp/",
-      "publishedDateTime": "2022-06-30T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }
