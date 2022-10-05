@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -52,6 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Market Size, Share, Revenue, Latest Trends, Business Boosting Strategies, CAGR Status, Growth Opportunities and Forecast 2022-2029"
+    excerpt: "Global \"AI Market\" (2022-2029) report gives detailed depiction on top players, size, share, new techniques, plans of"
+    publishedDateTime: 2022-10-04T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-market-size-share-revenue-latest-trends-business-boosting-strategies-cagr-status-growth-opportunities-and-forecast-2022-2029-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

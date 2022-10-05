@@ -2,6 +2,82 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-09-05-ai-won-an-art-contest-and-artists-are-furious.md",
+      "title": "AI won an art contest, and artists are furious",
+      "excerpt": "“AI artwork is the ‘banana taped to the wall’ of the digital world now.” Yet while Allen didn’t use a paintbrush to create his winning piece, there was plenty of work involved, he said.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/life/technology/2022/09/03/ai-won-an-art-contest-and-artists-are-furious/",
+      "originalUrl": "https://localnews8.com/life/technology/2022/09/03/ai-won-an-art-contest-and-artists-are-furious/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-05T03:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-05-ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed.md",
+      "title": "AI-generated painting wins art award, but everyone else is super pissed",
+      "excerpt": "According to reports, there was a bit of an upheaval at the recently-concluded Colorado State Fair when an art contest held during the event awarded the grand prize to a painting produced by an artificial intelligence (AI) program.",
+      "sourceUrl": null,
+      "webUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
+      "originalUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_sea/photo/default/ai-art-wins-award-header_uc3z.620.png",
+          "width": 620,
+          "height": 310,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
+      "cdnAmpWebUrl": "https://sea-mashable-com.cdn.ampproject.org/c/s/sea.mashable.com/tech/21298/ai-generated-painting-wins-art-award-but-everyone-else-is-super-pissed?amp=1",
+      "publishedDateTime": "2022-09-05T00:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-05-artificial-intelligence-market-size-2022-share-segmented-by-application-geography-trends-growth-and-forecasts-2025.md",
       "title": "Artificial Intelligence Market Size 2022 Share, Segmented by Application, Geography Trends, Growth and Forecasts 2025",
       "excerpt": "The Global Artificial Intelligence market is anticipated to rise at a considerable rate during the forecast period, between 2022 and 2025. In 2021, the market is growing at a steady rate and with ...",
@@ -1070,101 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-why-bidens-speech-was-among-the-most-disgusting-speeches-ever-ron-desantis.md",
-      "title": "Why Biden's speech was among 'the most disgusting speeches' ever: Ron DeSantis",
-      "excerpt": "Florida Gov. Ron DeSantis explained why President Biden's Thursday speech was \"one of the most disgusting speeches an American president has ever given\" Friday on \"The Ingraham Angle.\" GOV.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "originalUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.foxnews.com/foxnews.com/content/uploads/2022/02/DeSantis-biden.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/media/bidens-speech-most-disgusting-speeches-given-ron-desantis",
-      "publishedDateTime": "2022-09-03T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-03-taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing.md",
-      "title": "Taking a ride in a driverless taxi in China's Chongqing",
-      "excerpt": "There are five fully driverless Apollo Go robotaxis plying this district in the south-west of Chongqing. Nine others have a human safety driver on board, bringing the total number of the company's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
-      "originalUrl": "https://www.straitstimes.com/asia/east-asia/taking-a-ride-in-a-driverless-taxi-in-chinas-chongqing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/oembed_thumbnails/lz20A5t8HDcTfOpXoiLkFGma6pwXXHM7EbfMgDFx4a0.jpg?VersionId=FQCly_6wttWsRxugHbmmLTAoMs6P.mqX",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

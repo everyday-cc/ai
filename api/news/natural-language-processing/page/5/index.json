@@ -2,6 +2,50 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-16-natural-language-processing-nlp-in-healthcare-market-is-expected-to-boom-3m-cerner-ibm.md",
+      "title": "Natural Language Processing (NLP) in Healthcare Market Is Expected to Boom- 3M, CERNER, IBM",
+      "excerpt": "New Jersey, N.J., Aug 16, 2022 The Natural Language Processing (NLP) in Healthcare Market research report provides all the information related to the industry. It gives the outlook of the market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-market-is-expected-to-boom-3m-cerner-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-market-is-expected-to-boom-3m-cerner-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Hackers-Scammers-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-syncwords-complements-its-machine-translations-with-human-and-ai-capabilities.md",
       "title": "SyncWords Complements Its Machine Translations With Human and AI Capabilities",
       "excerpt": "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr",
@@ -1378,49 +1422,6 @@
       "provider": {
         "name": "Wales Online",
         "domain": "walesonline.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-how-does-the-indian-army-want-to-use-ai.md",
-      "title": "How does the Indian Army want to use AI?",
-      "excerpt": "An AI system that can collect data, analyse them and present the same to the commander in a very short time frame is one of the key requirements for the Indian Army",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/how-does-the-indian-army-want-to-use-ai/",
-      "originalUrl": "https://analyticsindiamag.com/how-does-the-indian-army-want-to-use-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ai-and-indian-army-1.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T21:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
         "images": null,
         "publishers": null,
         "authors": null

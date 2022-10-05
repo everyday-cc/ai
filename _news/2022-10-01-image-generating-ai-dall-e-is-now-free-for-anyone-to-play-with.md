@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/image-generating-ai-is-now-m
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta is pivoting to video with its new AI generator"
-    excerpt: "This new research tool can take text, video, or images and turn them into a short animated clip. Here's how it was created."
-    publishedDateTime: 2022-09-30T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/meta-text-to-video/"
-    ampWebUrl: "https://www.popsci.com/technology/meta-text-to-video/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/meta-text-to-video/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 59
-    images:
-      - url: "https://www.popsci.com/uploads/2022/09/30/Screen-Shot-2022-09-30-at-10.16.05-AM.png?auto=webp"
-        width: 2498
-        height: 1238
-        isCached: true
   - title: "The famous AI image generator DALL-E is open for anyone to use – Here are our creations"
     excerpt: "You don't need to be an artist to create stunning photos, paintings and drawings. You just need DALL-E, which can generate AI art for free."
     publishedDateTime: 2022-10-04T08:30:00Z

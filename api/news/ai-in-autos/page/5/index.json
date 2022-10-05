@@ -2,6 +2,49 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-07-ejected-man-dead-after-being-struck-by-driverless-car-with-passenger-inside.md",
+      "title": "Ejected man dead after being struck by driverless car, with passenger inside",
+      "excerpt": "A driver who was ejected in a crash was then run over by his own car, with a passenger inside, the California Highway Patrol said. The man died in the single-car crash, reported at 11:37 p.m ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/09/turlockfatal.jpg?w=1000&h=600",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/09/06/ejected-man-is-fatally-struck-by-driverless-car-with-passenger-inside/amp/",
+      "publishedDateTime": "2022-09-06T11:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EastBayTimes.com",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-chinas-livestream-industry-market-growth-regulation-enabling-technology-and-business-strategies.md",
       "title": "China’s Livestream Industry: Market Growth, Regulation, Enabling Technology, and Business Strategies",
       "excerpt": "China Livestream industry has witnessed exponential growth in recent years. This medium offers brands a unique",
@@ -1282,49 +1325,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-bill-targeting-teslas-self-driving-claims-passes-california-legislature.md",
-      "title": "Bill targeting Tesla’s ‘self-driving’ claims passes California Legislature",
-      "excerpt": "Since 2016, Tesla has been marketing an expensive option called Full Self-Driving. A reasonable person might infer from the name that the software package enables a car to drive itself ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california",
-      "originalUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ca-times.brightspotcdn.com/dims4/default/b698c82/2147483647/strip/true/crop/3200x2140+0+26/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fba%2Fcc%2F02d0ba704662ba87ce415205da81%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1233948446",
-          "width": 320,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true",
-      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-08-31/newly-passed-bill-could-force-tesla-to-scrap-the-name-full-self-driving-in-california?_amp=true",
-      "publishedDateTime": "2022-08-31T10:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Times",
-        "domain": "latimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

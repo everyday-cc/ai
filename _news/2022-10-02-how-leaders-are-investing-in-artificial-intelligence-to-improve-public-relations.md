@@ -56,15 +56,6 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 17
-  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
-    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
-    publishedDateTime: 2022-09-30T13:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
 
 secured: "CLFT9ntaONNAHFeUP5xD0D5O8/Mr3j2fDX+6JR+9Q/rpcznPyJEG41peOTnDZNAmvlSJY8+iS0/SHoGnywiw1cVT13EiTObyuz/qRxRGmBtMDiLoWZuseqG01KXxjsWgJpeDerwl+QeVp1KcExTt+xhJsgMSfYvsIs96VWyZSKhshyVQQyRFFVzgrHUDPAB2SzIoTkUx9ik+Oq8ygXZcBn9+3C4l4+KsRiVTtgVpXI676PupelcNohDF5Zs2K+W+8mf7EAXvHiFteNcj1olZxAkAsWIw/uJUob/tQdXI5pIy8Mts9FvTh1DpHmVMYUFNm+1txws3LXb046pakX03/SKVGZTdfIecGfyZPiEwWr+6d5kYaCiRIL+o9XJbuUZ16Ho1T/ejvdF27ViinLThgxNVQhEcpswKUCDJAU33Qx4eEJKd9tU4r3pOKucroPh0hVEmDGDU0RYAOqNtFlzupq+Lw6lzLkfm2S3TICABX7rf8NZTsl1OnX2y8sGmnsH4JtAUpLsqzEsvA7DsfB9orw==;ysuFbmJ3C3F8bAnufMRfsA=="
 ---

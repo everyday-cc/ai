@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/am
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/"
 type: article
 quality: 105
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -32,34 +32,15 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla unveils functional prototypes of its planned humanoid robot"
-    excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."
-    publishedDateTime: 2022-10-03T16:35:00Z
-    webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
+  - title: "Tesla CEO Elon Musk on humanoid robot: 'There’s still a lot of work to be done'"
+    excerpt: "CEO Elon Musk displayed the company's latest prototype of its humanoid bot, also known as Optimus, on Friday at the company's AI Day in Palo Alto, California."
+    publishedDateTime: 2022-10-01T17:15:00Z
+    webUrl: "https://www.aol.com/finance/tesla-ceo-elon-musk-humanoid-171501336.html"
     type: article
     provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 88
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
-    publishedDateTime: 2022-10-01T01:30:00Z
-    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: AOL
+      domain: aol.com
+    quality: 32
 
 secured: "rQOaI45AIm876y2UbeTEQBS8hg/Jr2gnSJglESbSX95DAooke3KdQHVRNbKBtojXgCuvqemHZ8ytvIx8yXp4Baqh6O72mKBBnxhCUjr9hoN3NE89jcLixyM8H29unmeoYBP6/GonJDIx/P9U6o4s1twr/fqcVJvY0OStYcIuNRoqqGLjxbOvYFvTb/l/bR5DNPvYqegNB1FDx3T10ev6iEMwhl/CcEAWN/Uu+alHUDkY+hRG9po91ollRCFXYhmHYPaPVmcnKdVGavcXhSWT6YSkxCx9slxWOY0zs3RMdVudxoxj0irKzmEhetBsP83DyXTqRXRzzZcHwibJ0HFgyBi39VAIqvXasTO0ZYNaAcLuLWASY6pPrsCGeMmD91FINmQIsuMZqCxq1V9pzXls/4B957AbaIYuhgqV+9Fl2BZumOgqB6C8nudfi0o5Kr9bKhfujV27yf82GH2nUw5CHUrlpOsI6RrvwXP+nhGMw397JCZJX6u37foJrWeEfmXzWVR1xOQXHb3gZVXKufk+ug==;yxNpA7bFArxHyy49dZrjnA=="
 ---

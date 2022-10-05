@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
+    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
+    publishedDateTime: 2022-09-30T19:46:00Z
+    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 92
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla AI Day: Here’s what to expect in Palo Alto tonight"
     excerpt: "Tesla will hold its second annual AI Day in Palo Alto Friday evening. The 6-hour event will include updates on Tesla’s work in AI, “Full Self-Driving,” its supercomputer"
     publishedDateTime: 2022-09-30T17:49:00Z
@@ -87,15 +103,43 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
-    excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
-    publishedDateTime: 2022-10-01T13:02:00Z
-    webUrl: "https://seekingalpha.com/news/3887722-tesla-shows-off-humanoid-robot-supercomputer-potential-at-ai-day"
+  - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
+    excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
+    publishedDateTime: 2022-10-04T07:20:00Z
+    webUrl: "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside"
     type: article
     provider:
       name: Seeking Alpha
       domain: seekingalpha.com
-    quality: 51
+    quality: 73
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Tesla's AI Day: How to watch, plus our top 5 predictions"
+    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
+    publishedDateTime: 2022-09-30T17:10:00Z
+    webUrl: "https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 64
+  - title: "Tesla AI Day: Here’s what to expect"
+    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
+    publishedDateTime: 2022-09-30T17:34:00Z
+    webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
+    type: article
+    provider:
+      name: KVIA
+      domain: kvia.com
+    quality: 56
+    images:
+      - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
 
 secured: "R6muRMcQCP3P6xo0EVna5te8lUS/oMJasGMqYYD2ExV4C495Wgqk8MoSqHouajFzPfphzMVqnIPenqE6TiSAbR+9o9rr/FEiOGZATJIJ/UFR9ylW0/iz2gVN7JBpWUJDMe/BK/XSFqCsBeBXFz7pJQpzuid9wJOGHCABmrlne7UiQnIP/cpONcBcdsXJ0Ly3Ofp/147s2mcUrra0qt7RDBMa/A7nqlRoNdoNdVbFs0HE6eMLTKSLW+oI7+wXhAzIpSjrqJgiFIftKiJJBGhgooFNokty7w0JV0zfj0K3MpeHe0LUxMum4aYUNKUWLsJa9AwgaxCabKOciEAMfoeh9Jli8HLB69J2gOOWqPKnYGDpTYoDV8q08SAsrlSSTFNxGHn3VcvnBQ/+7gFc8uFIZFYKLhpxeWz2ut25TgbLF0JK7YhZ+940AVizMtcF8MtlsGvXNmpWWcdVpUzgwTx3euS1kSZRNhOx4mi54X3ECF+45g4222zdbdClSfcpG0qm63LNpNVZ3CY9MRTrxbA3eg==;nenomTluq7sYtnudRQLDig=="
 ---

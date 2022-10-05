@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work"
-    excerpt: "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ..."
-    publishedDateTime: 2022-09-30T14:55:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 133
-    images:
-      - url: "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla AI Day 2022: Musk Promises Optimus Humanoid Robot For Under $20,000"
     excerpt: "Elon Musk showed off a working prototype of the Optimus robot at Tesla AI Day 2022, claiming it will cost under $20,000. Synchronized twerking with Elon Musk was not involved."
     publishedDateTime: 2022-10-01T13:02:00Z
@@ -54,22 +38,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/63383717f2eee70962377afb/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 673
-        isCached: true
-  - title: "Elon Musk Slated to Unveil Humanoid Robot Optimus at Tesla’s AI Day"
-    excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
-    publishedDateTime: 2022-09-30T13:02:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 121
-    images:
-      - url: "https://images.wsj.net/im-634227/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Elon Musk Unveils Humanoid Robot Optimus at Tesla’s AI Day"
     excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
@@ -213,22 +181,6 @@ related:
         width: 1200
         height: 670
         isCached: true
-  - title: "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk"
-    excerpt: "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk."
-    publishedDateTime: 2022-10-02T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/"
-    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 96
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T11:51:00Z
@@ -244,22 +196,6 @@ related:
       - url: "https://images.wsj.net/im-635281/social"
         width: 1279
         height: 640
-        isCached: true
-  - title: "Tesla set to feature robot, autonomous driving at 'AI Day' Friday evening"
-    excerpt: "Tesla will hold its 2nd annual AI Day in Palo Alto Friday evening. The event will include updates on Tesla's work in artificial intelligence, autonomous driving and robotics."
-    publishedDateTime: 2022-09-30T19:46:00Z
-    webUrl: "https://www.cbsnews.com/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    ampWebUrl: "https://www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/sanfrancisco/news/tesla-feature-robot-autonomous-driving-ai-day-friday/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 92
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/30/38632ade-6144-4057-9e35-a3dc319d5f68/thumbnail/1200x630g2/37981ada8bfa72939b9453b8c3067303/tesla-robot.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Elon Musk to showcase humanoid ‘Optimus’ robot at Tesla’s AI Day"
     excerpt: "CEO also expected to discuss self-driving technology and high-speed computer at Friday event"
@@ -341,6 +277,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Tesla unveils functional prototypes of its planned humanoid robot"
+    excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla's AI Day delivers a real Optimus prototype and more FSD updates"
     excerpt: "Tesla's AI Day is a yearly event where the company showcases upcoming technologies and lays out its roadmap for future development. While the technology demonstrations are"
     publishedDateTime: 2022-10-01T15:08:00Z
@@ -380,6 +330,34 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
+  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
+    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
+    publishedDateTime: 2022-10-01T01:30:00Z
+    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
+    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
+    publishedDateTime: 2022-10-02T23:37:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 83
+    images:
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "How to Watch Elon Musk Reveal His Robot at Tesla AI Day"
     excerpt: "Despite most of our info on Tesla AI Day coming from guerilla marketing on Musk’s Twitter, the Tesla and Boring Company CEO clearly wants us to take it more as an industry event than a commercial. With that in mind,"
     publishedDateTime: 2022-09-30T18:02:00Z
@@ -451,20 +429,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
-    excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
-    publishedDateTime: 2022-10-04T07:20:00Z
-    webUrl: "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 73
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
     excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."
     publishedDateTime: 2022-10-03T15:08:00Z
@@ -476,6 +440,22 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 71
+  - title: "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People"
+    excerpt: "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\""
+    publishedDateTime: 2022-10-04T13:37:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29136946"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 71
+    images:
+      - url: "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg"
+        width: 400
+        height: 228
+        isCached: true
   - title: "Tesla AI Day LIVE — Elon Musk reveals Optimus robot at tech event that’s slammed as ‘lightyears behind Boston Dynamics’"
     excerpt: "TESLA AI day arrived and Elon Musk revealed the new Optimus robot during a live stream with \"lots of technical detail and cool hardware demos.\" The Tesla humanoid robot Optimus was undoubtedly the ..."
     publishedDateTime: 2022-10-01T14:01:00Z
@@ -501,47 +481,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 66
-  - title: "Tesla's AI Day: How to watch, plus our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-09-30T17:10:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-teslas-ai-day-event-and-our-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 64
-  - title: "Here's How You Can Join Elon Musk's Tesla Empire"
-    excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
-    publishedDateTime: 2022-10-02T10:30:00Z
-    webUrl: "https://www.albawaba.com/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    ampWebUrl: "https://www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/heres-how-you-can-join-elon-musks-tesla-empire-1493224"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 61
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-10/Fd9cVCnVUAAltMO.jpg?itok=6eOt1bR2"
-        width: 2048
-        height: 1536
-        isCached: true
-  - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
-    excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
-    publishedDateTime: 2022-10-02T06:36:00Z
-    webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 61
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
     excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
     publishedDateTime: 2022-10-01T11:45:00Z
@@ -600,20 +539,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla AI Day: Here’s what to expect"
-    excerpt: "By Matt McFarland, CNN Business Tesla will hold its second annual AI Day in Palo Alto, California, Friday evening. The six-hour event will include updates on Tesla’s work in artificial intelligence, “Full Self-Driving,"
-    publishedDateTime: 2022-09-30T17:34:00Z
-    webUrl: "https://kvia.com/news/2022/09/30/tesla-ai-day-heres-what-to-expect/"
-    type: article
-    provider:
-      name: KVIA
-      domain: kvia.com
-    quality: 56
-    images:
-      - url: "https://kvia.b-cdn.net/2022/09/hypatia-h_5f674fbb74773d0b1a5da54f0814323e-h_2c8f0881fb060bc947bc53300013629c-300-scaled.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Tesla AI day updates including a working prototype of Optimus Bot"
     excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
     publishedDateTime: 2022-10-02T03:16:00Z
@@ -656,29 +581,6 @@ related:
         width: 700
         height: 414
         isCached: true
-  - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
-    excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
-    publishedDateTime: 2022-10-03T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/10/03/twitter-users-hate-elon-musks-tesla-bot-maybe-were-just-not-ready-for-the-ai-overlords/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
-  - title: "Musk Watch: Delaware court releases Elon's texts, Tesla debuts creepy robot"
-    excerpt: "Welcome to Musk Watch, where we examine what Texas' richest (and perhaps most divisive) citizen is up to this week. Forty pages of Elon Musk's texts became publicly available last week as part of the discovery process in his ongoing legal battle with Twitter,"
-    publishedDateTime: 2022-10-03T21:35:00Z
-    webUrl: "https://www.chron.com/news/local/article/elon-musk-texts-tesla-robot-17483260.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/27/60/01/23003238/3/rawImage.jpg"
-        width: 2048
-        height: 901
-        isCached: true
   - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
     excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
     publishedDateTime: 2022-10-02T13:51:00Z
@@ -688,6 +590,15 @@ related:
       name: The Drive
       domain: thedrive.com
     quality: 53
+  - title: "Tesla shows off humanoid robot, supercomputer potential at AI Day"
+    excerpt: "Tesla (NASDAQ:TSLA) unveiled its humanoid robot at its AI Day event late on Friday. Optimus was not ready to walk on stage quite yet, but waved to the crowd and raised its knees. The AI-powered Optimus robot features a 2."
+    publishedDateTime: 2022-10-01T13:02:00Z
+    webUrl: "https://seekingalpha.com/news/3887722-tesla-shows-off-humanoid-robot-supercomputer-potential-at-ai-day"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 51
   - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
     excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
     publishedDateTime: 2022-10-03T18:29:00Z
@@ -715,15 +626,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Tesla CEO Elon Musk on humanoid robot: 'There’s still a lot of work to be done'"
-    excerpt: "CEO Elon Musk displayed the company's latest prototype of its humanoid bot, also known as Optimus, on Friday at the company's AI Day in Palo Alto, California."
-    publishedDateTime: 2022-10-01T17:15:00Z
-    webUrl: "https://www.aol.com/finance/tesla-ceo-elon-musk-humanoid-171501336.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 32
   - title: "Tesla’s Optimus robot isn’t very impressive – but it may be a sign of better things to come"
     excerpt: "Humanoid robots could be useful in all kinds of situations, but the one Elon Musk unveiled last week is far from being ready to roll out."
     publishedDateTime: 2022-10-03T19:03:00Z

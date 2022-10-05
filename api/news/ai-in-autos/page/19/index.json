@@ -2,6 +2,49 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-06-13-join-amazing-developments-in-artificial-intelligence.md",
+      "title": "Join amazing developments in artificial intelligence",
+      "excerpt": "Since then, artificial intelligence (AI), particularly the ... than-human intelligence in a diverse range of systems, such as driverless cars and industry automation. Ultimately, deep ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "originalUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theborneopost.com/newsimages/2022/06/p3.jpeg",
+          "width": 1080,
+          "height": 607,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
+      "publishedDateTime": "2022-06-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Borneo Post",
+        "domain": "theborneopost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
       "title": "Synthetic Data Is About To Transform Artificial Intelligence",
       "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
@@ -1308,58 +1351,6 @@
         "name": "International Business Times",
         "domain": "ibtimes.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-waymo-and-uber-partner-to-deploy-self-driving-trucks-at-scale.md",
-      "title": "Waymo and Uber Partner to Deploy Self-Driving Trucks at Scale",
-      "excerpt": "Waymo and Uber are partnering to make it easier for shippers and carriers to use autonomous trucks. This is another step towards making self-driving semi trucks mainstream and widely available. It's easy to think of self-driving cars as the main battleground for autonomy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-and-uber-partner-trucking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a9ec5b2725e71857fb4bc61733b794bcdc7ca812/2022/06/07/3f662fc3-12e2-4d72-9fe9-ace4456b9bc8/waymo-via-uber-freight-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-and-uber-partner-trucking/",
-      "publishedDateTime": "2022-06-07T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

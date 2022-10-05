@@ -9,8 +9,8 @@ ampWebUrl: "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-s
 cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 138
+published: true
 
 provider:
   name: MyNorthwest.com
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-10-02T23:37:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla robot walks and waves, but doesn't show off complex tasks"
     excerpt: "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ..."
     publishedDateTime: 2022-10-01T13:28:00Z

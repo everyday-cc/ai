@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
 type: article
 quality: 85
-heat: 115
+heat: 105
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
       name: GEN
       domain: genengnews.com
     quality: 17
-  - title: "Arthur Raises $42M to Ensure Enterprises are Using AI Models That are Accurate, Transparent, and Free of Bias"
-    excerpt: "Arthur, cofounded by Adam Wenchel, is a platform that monitors, measures, and improves machine learning models to deliver better results for enterprises."
-    publishedDateTime: 2022-09-30T13:27:00Z
-    webUrl: "https://www.alleywatch.com/2022/09/arthur-ai-performance-monitoring-efficiency-optimization-machine-learning-platform-adam-wenchel/"
-    type: article
-    provider:
-      name: alleywatch.com
-      domain: alleywatch.com
-    quality: 0
 
 secured: "apNO1ZkIZY8t8vqY9qSys429ofxw/19P4NgH7AOmNnQHFQSXpZDfM8pk973rqeRPFEm11f1Jdr2PmvXWufPDT6A7UjEgYu8xFd++gkxouTtyjTYNbhH4d7FSEskqdTrAzjIJ2F68ljTnIwJXXLCis5iJW46E1/DKUxP334P7kfm4TWoU51sHN00KJBlB+mLHhSxWGTlhfEBUWPDcTleRwH92FN33hK/Offo8qQzdmcrepv2MtYijzW3hiViL/EX6aJJlp1voRvwbABVqFag1+3g7aj/CuD4oikVgMpiT9Bhg/fnxRe/SO7ngi5QE/+ak6dsiNiPupPBqe1nve9KsV/9v+OQ5lgl0CIrJGJyNGibqbujkKkqJNYtlsLkkf4Vt1Or5cvm0bsheby2XeKqDwNfiWmY9muJl9cVYfICQHiVo53riJKXy3uWeQIyJie2xbUPIUBjg6bPAbrBkSpTrj8FmRS2KJmjhURkm216P96gRq93j+ch5gjHBWo/a7CRsVAKKnD/g9QIQ9w9dXRjsxA==;1or7ki5la5pJsyxiR0UstA=="
 ---
