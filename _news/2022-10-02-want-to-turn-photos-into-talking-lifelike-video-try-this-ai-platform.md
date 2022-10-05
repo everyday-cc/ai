@@ -42,15 +42,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Meta unveils artificial intelligence-generated video"
-    excerpt: "Meta a nnounced that it was taking artificial intelligence-generated art to the next level by allowing users to create short video clips by just typing in a string of descriptive statements. Meta ..."
-    publishedDateTime: 2022-09-30T05:16:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/meta-ai-generated-video"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
 
 secured: "pHoejdibonpu/Q61QYkbbbTiFtD6HbsqQLzTuTNFwn7sbegZmeAPPGJ6gZpuM6kSbcnr5eTDL6tvsoz/1GLU3kK5Wp9IrdIx8Jm/Lb0Yev+XVTypT1DdRRtD1IN6f9bqHF11ASQhcl/9N3ljhLog+1cO0SQ2SkN99dOTrMW0Tv8H6+vwVQRqXMTYZMq853w3zUjEASaVjFK6EyC20CQ/S4CjgfauM2lnEaW+3xVBTtu2gpMgR7brFFHqHMi/D6zmv5kafWpkOpgwTRlJD9MvlmYbGd20zmKvu1SahhD+2IA43AisVrSsgnl7xlnOOqx7LQzpobhL2g2bKBk/YesHJNo1jAp561ZWmrGwUgoyuIM=;L/lXs3chDyMHPaVZBra4wQ=="
 ---

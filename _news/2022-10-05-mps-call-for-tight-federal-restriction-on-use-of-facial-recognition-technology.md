@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-f
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
 type: article
 quality: 55
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: Toronto Star
@@ -27,38 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "House bill limits police use of facial recognition"
-    excerpt: "The legislation would place “strong limits” on the technology’s use, provide transparency to those harmed by it and ensure there are annual assessments of its accuracy."
-    publishedDateTime: 2022-09-30T21:07:00Z
-    webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
+  - title: "Opinion: Facial Recognition Has a Race Problem. Can Federal Law Help?"
+    excerpt: "The powerful biometric surveillance tools used to identify suspects are up to 100 times more likely to misidentify Asian and Black people compared with white men, according to a 2019 National Institute of Standards and Technology study."
+    publishedDateTime: 2022-10-04T23:13:00Z
+    webUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help"
+    ampWebUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
     type: article
     provider:
-      name: GCN
-      domain: gcn.com
-    quality: 39
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
     images:
-      - url: "https://cdn.gcn.com/media/img/cd/2022/09/30/09292022_teale_facialrecognition/open-graph.jpg"
-        width: 400
-        height: 400
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/cfa992a/2147483647/strip/true/crop/3000x1564+0+90/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3a%2F15%2F005b90464496b2aea33679821d02%2Foped-facial-recognition-commentary-get.jpg"
+        width: 840
+        height: 438
         isCached: true
-  - title: "Facial Recognition Will Play a Significant Role in the Future of Air Travel"
-    excerpt: "Biometric enrollment and advanced security in using your data will solve a common problem in the travel experience. Biometric enrollment allows for greater fluidity at airports and makes passenger recognition easier for airlines."
-    publishedDateTime: 2022-10-03T19:25:00Z
-    webUrl: "https://www.travelpulse.com/news/airlines/facial-recognition-will-play-a-significant-role-in-the-future-of-air-travel.html"
-    type: article
-    provider:
-      name: TravelPulse
-      domain: travelpulse.com
-    quality: 32
-  - title: "Restrictions on police use of facial recognition proposed in US Congress"
-    excerpt: "The legislation would also prohibit use of face biometrics in the enforcement of immigration laws, on body cameras, during protests, and on live video feeds."
-    publishedDateTime: 2022-09-30T19:23:00Z
-    webUrl: "https://www.biometricupdate.com/202209/restrictions-on-police-use-of-facial-recognition-proposed-in-us-congress"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 18
 
 secured: "eIC83mZD50jnc7DBM2o8yjW4cTMQO0oSUV6FF3YeW2sqvtsRuUlg8Med/iovO4ZugWDF2SVd/4Q7zHEQ8t7RzDKv9vRONCuqma/d91bJ1XyrYwBpiKVLejKONLGvzFMnIKswqzmf5uiASusSnnFzIGuv98k3vNWxfloYKjP//iZi6d2SjvP/5IFmIkkZpcm/MfDgYX1YcQM1lQrAQLQyUBFTsq36d+TcaG4srf0Dlr3eFAnXeRWs2ZGJInUu3Z/bOTeMNfz2Q+14tb7ye7/L77haBmagJJIx9R5EELTCRBPKRt2vD4zN0SJkjMrA1M+Rx7eACFbJxMR48JPmpSnz/jPUBuQGxCUDhs/gihxpHoc=;kLrp0JNBJCXxyEr3gyXZZg=="
 ---

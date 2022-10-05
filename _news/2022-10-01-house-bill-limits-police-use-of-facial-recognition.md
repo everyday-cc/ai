@@ -7,7 +7,7 @@ originalUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use
 webUrl: "https://gcn.com/emerging-tech/2022/09/house-bill-limits-police-use-facial-recognition/377921/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "MPs call for tight federal restriction on use of facial recognition technology"
-    excerpt: "OTTAWA - A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian"
-    publishedDateTime: 2022-10-04T20:05:00Z
-    webUrl: "https://www.thestar.com/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
+  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
+    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
+    publishedDateTime: 2022-10-04T23:10:00Z
+    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
+    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
+    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
     type: article
     provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 55
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
+      name: Global News
+      domain: globalnews.ca
+    quality: 33
   - title: "Facial Recognition Will Play a Significant Role in the Future of Air Travel"
     excerpt: "Biometric enrollment and advanced security in using your data will solve a common problem in the travel experience. Biometric enrollment allows for greater fluidity at airports and makes passenger recognition easier for airlines."
     publishedDateTime: 2022-10-03T19:25:00Z

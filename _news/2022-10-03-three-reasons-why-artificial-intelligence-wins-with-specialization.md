@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reas
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/"
 type: article
 quality: 91
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
-    excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://www.protocol.com/policy/ostp-ai-bill-of-rights"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 18
 
 secured: "4ntyGrBrGssRKSWrqMWTHy6Ue49hIAPrJ0w3yeSi1FbwB44bp2DIRVRCxTfkfQID1moHf2QAyHLt3H9ema8jtVb86IUnuD0gMcYPFwCr3LY4P75alYJ8+Qzqed9yu5a9jkumvnWz/jeQYnwYNVjJm9MpU7QQPYAiCAw2GySQDJYfkGnEZzWGqcWT2EILnJKSYlPlWvhngIar+0QJi1TCYELPIVCY0JqNXvQ6e4tPFiYWEHqnWy8GXynIX+mJhePWPPRIHjB+BhwwGiUpv088oH8H4HQn78NR4QZ55eJf8Pak0u0/VwaACHrWK4fr+9b8Nqzv6fvM8Z1dXE070UpDWyRiDGf4lFP/T174f8ZxAy0r6CoWfVhhNwmC+wwZqlrjUd/wEu3IZZq/Ap0PQAIlpyqgbBlTCiU+fHfqAxN6pEYyqySSKlQNXSbA9EMFMg+5UfdgFryyvMGXxsLO53Y7ONIpL8NsGl1CYcU9QF0Rrx++26QxidqHrwu2bv/YA1A3MQu6sMvGzs72JPduCOZcTA==;KPqWsXDqFwNqsKmZ9dB0Uw=="
 ---

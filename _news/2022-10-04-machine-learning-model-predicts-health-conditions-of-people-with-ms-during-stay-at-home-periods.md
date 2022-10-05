@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Machine learning model predicts health conditions of people with MS during stay-at-home periods"
-excerpt: "Specifically, they used the passively collected sensor data to build machine learning models to predict depression, fatigue, poor sleep quality and worsening MS symptoms during the unprecedented stay-at-home period. Before the pandemic began, the original ..."
-publishedDateTime: 2022-10-03T21:16:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-machine-health-conditions-people-ms.html"
-webUrl: "https://medicalxpress.com/news/2022-10-machine-health-conditions-people-ms.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-machine-health-conditions-people-ms.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-machine-health-conditions-people-ms.amp"
+excerpt: "Research led by Carnegie Mellon University has developed a model that can accurately predict how stay-at-home orders like those put in place during the COVID-19 pandemic affect the mental health of people with chronic neurological disorders such as multiple sclerosis."
+publishedDateTime: 2022-10-03T21:36:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/966761"
+webUrl: "https://www.eurekalert.org/news-releases/966761"
 type: article
-quality: 47
-heat: 47
+quality: 27
+heat: 27
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-multiplescle.jpg"
-    width: 1920
-    height: 1784
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8975eeaf-9012-43d7-b18a-c92f58c45293/Rendition/low-res/Content/Public"
+    width: 700
+    height: 467
     isCached: true
 
-secured: "OyK1gdJdHKzh35M+iHUnVIwGZITTsGYa6u5HNotCOiI80xy16bBWz34PnBm5FqwC8Tq9G9Kk7IQODKDCAmTV+cu/+BEzCmtNP1gGkPXn/s3c3Dq764D49Ajagp9gL31i0g092fbPh0h39ras656viCiWemQaT+wxADGkqhcp5aPmTklOzYoaIWRZwYRPbPGRzyU6BgLo2YQR8I2Y3/PfzxnA+s76rwRucOmGyiBaBQtk/eEt8qlT7Jo1YL7gZOoHFZv9pXUdxab+g5gvvMEPNIhG3LiUHW/SM2MA2EwognaTvTHfOxTK35JogGBDYpvuUvO7nprsAFdHETOj2hj+o5ntJ87xXPPbgagv6JRy18kNhJ1imhSlENULJEJyWIcrLmTtbJN4UCXiH13VhVNMRCMmt1xeip5oqykUCk8Skjzul8NI6ir4ouUmPjeTPyzia0t1XWTsp6D5jPyyECeziO5BUDdyl9TVxibqRw/PEy9zkuuu52KLs1xmVxpPWJti8GyPZiFUgFdzQWIKHhkioA==;aE1I/Kv/O6lQ4PnaOhEKQg=="
+secured: "z7c+bN3um6CZf7u6nJ8JNncRR0QGxm6FCPaeFeBmXroZdViLkdiOxZFkaDXWDBRkYAA7hy6QbejwDtACX9J2N2FtQRRnB78CUKyQ73UnTbfwBqJFyeHnWdnWL3uxL1Djd+7hzJE0hMfaHE57ZYK5fwBIGgtkBF+gDtWkU1XqRLpfNEhQhr6iXuBs80y68Uk+vxk0V3S9ze5OjeUNyCPqt3ZvhvdXP5TV2254Cg/M+knMRv5XeCwAeLzp26SM+oc88Qj7oaBdUtxi0AarF8hUNOtxjoLF2/yvGBceenJhaAdzSNexyZ3mCWJf+2h/VNXqdPsI4EgujXeykO7YnQ323SadXy3CM8RaH2vKRfZCwzs=;mbZc+GrUfoIhKPneLVeZqw=="
 ---
 

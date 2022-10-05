@@ -7,7 +7,7 @@ originalUrl: "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-kille
 webUrl: "https://www.c4isrnet.com/unmanned/robotics/2022/09/30/beyond-killer-robots-how-ai-impacts-security-military-affairs/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:

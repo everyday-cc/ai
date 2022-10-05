@@ -43,20 +43,6 @@ related:
         width: 1400
         height: 865
         isCached: true
-  - title: "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022-23 German Football Season"
-    excerpt: "(NASDAQ: AMZN), and the Bundesliga, Germany's top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, -October 2. \"Win Probability\" highlights when a significant shift occurs in a team's chances of winning a match."
-    publishedDateTime: 2022-09-30T05:36:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/09/30/9683857.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 30
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
 
 secured: "te3G+VgSBlc4y0v7+caALErFomGnSNvj8pd1TSI8fzTXZORw7D1JumZbmeGsSg5aHgalevpWzUN0ArSqf6KY9vZba32m2SnMqCfVS8zfREvgotQMSdYwPrE3j8Q7oPVTep6+mhoWhsfOy6GhxzjT/jxJsg69641Z1YbBdrJYD9Ecdlzyprt4+P52P6hZqQftyqFBIcGKdMHvrSRftKpDK06sLitCP6cVob/SZ8JlDb+MEfvYeyO8ttbAt8kr6+aqqdZS4gtb1J5C7IN5FcnERmhtOoOYUVBN5kVvUwTP1uIX4ZsZatArzSnUXsxSAaVBa07OIbdhC5RD79zQZmxLtGp7zCaS/pFWVQ6WtovEkns=;ZhhN4HX4d0dc7ScAoefvjg=="
 ---

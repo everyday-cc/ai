@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-04T12:10:00Z
 originalUrl: "https://www.finextra.com/newsarticle/41059/industry-pushes-back-again-on-basel-committee-crypto-plans"
 webUrl: "https://www.finextra.com/newsarticle/41059/industry-pushes-back-again-on-basel-committee-crypto-plans"
 type: article
-quality: 19
-heat: 19
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "+xBOY6uYdg9E/zS4Fx10YaMFiuNFMVCgnjy02cQ9/xCFkOOGcGrHOY9RH1HpzNDdtCRURKmaQfhUtQK+vIfgOjcSm+yV/8kCYctuN81wX5WNlwHRBxjURUDn4g82Ge8i/9Sn8jrFwZz4Mx+Z36S9a6L15JfG+u/uhzgFMtCJwA/PuUZQ9eQ2kUYhFz6ocB4A5Ko5HnFnlVkeRRu6kqBBK12IdeesHSec6i+4dafPKlh0Cdtamm99uO1na+SMFSAkX06vnOpdwqbH4GPuvr8ag0IDkfuoDEo9XXjOHqu/XLwCI1kjI3XkfqICuQ/rmVX3lOn03YuvZRM7HGF7Rm4rBazsNw4Gq98HVUqD9TTvJDo=;43A2g/bZHDt6doJL2QXZIw=="
+images:
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/bitcoin-3.jpg"
+    width: 480
+    height: 270
+    isCached: true
+
+secured: "nIwbtTwDuJyU2hrV14MzaX5edpzD3VZ+zI//UCS2FBV9SPLRLiaRpOWqTalwxU29Svq44bzU8DWjERc52h8kJxHwATA8cjVkh7A9pwp21u4oxkwnumCs13Zwo8SGjSP0yhRxcOuL9W6L8L451Ebpt9hp3hc9rjhKq5zMUJ6K1ArWTvT+g22KWzyhqyFw3gEc4p2r9hJi2ONkVkbbbPk1zF38aoRf85QDrVnYuSHZg/SECcvKhr4zwmnP4043K89P2ZuMBBwlCnkTkx28iiNVN15q3XVntBMA82kiF1l196W0Ez+GcYTxZRkNe4RiQGT3NgtlQXqVzStwQNmpFkFuiciRyrVIRJ8u2VdyconolFw=;JcHPA2R5i0zyDKRSxCfmOw=="
 ---
 

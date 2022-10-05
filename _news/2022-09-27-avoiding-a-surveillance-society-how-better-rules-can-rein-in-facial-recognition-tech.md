@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
-excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
-publishedDateTime: 2022-09-27T01:40:00Z
-originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
-cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
+excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
+publishedDateTime: 2022-09-27T15:40:00Z
+originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
+ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
 type: article
 
 provider:
-  name: The Conversation
-  domain: theconversation.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-    width: 320
-    height: 213
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
+    width: 1356
+    height: 668
     isCached: true
 
-secured: "6AI5pE5NTTI5tM8aFXw+Toliw2xePbIdQDCpX28UwBjMGCE5C62j0Fd+gyCnK0pOQBHAh/4J3WvapnLEUy2iSPpHoW0ZPGKMrDq/kD2cQ8ikqBfkp8WS4YxxoYGP0m+eRpXv71HH6Zfn7muJhswjtEAu/LAksEtczAYtdETMYRDIcBMy9YkIPkwyRkMyife0NuZc1tqWY5DdcYyaGD8yrD6nqpynkxzhlgaiqUmibTDZMAIXnH2SHUTBMMb2tBXP4NzZ7PqAz397is9FWljvANYS0w6XQnyc31Wy+rLOOtPaA0UeqWJTFOJ5AKTR134SZqN1EvlaU/Om4fmCzOaF5VhHqL9vI2Ta73bZBDOYP8k=;iN8O08oX4ZGNmoV0qZcPsQ=="
+secured: "/aGkE13n/vU+Em6EZnKdNimkXo9Bi6IBfG8nlLiiFle66LSayOx4/xqpSu0fHX+9dl/tu+A8zrJk1BTEx8R5i3ejLiusiDocTH03DGcg5jh7HTj0MwCPaI7SROTECJDscGZGt9GyPhbwsk9iK5yVjhtLpdpCbaW12zXsKPwFB59kaFIfm5DjsE3t/gihtxlULl8XXxDwJKmEld/8688xA3cICZsmhy/0aBTgL9FpSKCluvVeHSk2P9SrwDtFtc/o1PDSRa2VjAfL9cG4n9XmHOr6EQSYUulvav23gU2W7prCBojQcdzFPzHL+y1Ll6dN3sWjeKz99cioppcd0QDu4VO3K8Lst2uT9IGwrYbnXd8=;iDnVwHvrms4Gc2zrL4n3Bg=="
 ---
 

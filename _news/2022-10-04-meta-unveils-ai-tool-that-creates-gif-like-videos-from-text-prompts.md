@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-th
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Euronews
@@ -43,15 +43,6 @@ related:
         width: 640
         height: 428
         isCached: true
-  - title: "Meta unveils artificial intelligence-generated video"
-    excerpt: "Meta a nnounced that it was taking artificial intelligence-generated art to the next level by allowing users to create short video clips by just typing in a string of descriptive statements. Meta ..."
-    publishedDateTime: 2022-09-30T05:16:00Z
-    webUrl: "https://www.washingtonexaminer.com/policy/technology/meta-ai-generated-video"
-    type: article
-    provider:
-      name: Washington Examiner
-      domain: washingtonexaminer.com
-    quality: 17
 
 secured: "Qjo5HbbuZNj/MCjYWUSi0qbxikkgwpkHcYFACiSefE1WiuqHD0IFTQuPJEIMtVr9c5zJ6VVSL/Qmd6WZSyqG5rxnrwlmFex0aV7ifZrlqvxrAb1Da51ETuc0e2HkDKRFYp2rLNdS3KZvJr6B2HhjGi4KiVPoDO3jPM3tVyvVrUKhIVfsmU7c4TxsCK8KNDsW6Kxg3EHp0CI9DLw2JRQAp4coQaclokLi75xHtuJzjdBMKNlPLW/kTTzoncpWcsk8XUPB22SImBDc8TitPzDQerpEGQw7WKT2lzgzCdPtuhzcpWW5yRvE0xxpZn/Xd1SjFsCvLqLNH8WbCrlOMsJZ9pT/j+HegACo3Eu4F+CwkPYvHkgqkNOgd8xE8larkfajSle5sMgW7mqea3i2CVVjWrnV2aQ8SpqZsCh8t7OGM5zcDhhwiqyGzPoXBROcxAP3A8ezQkS4gQxdr48+hQ9wUNGTejV5zqM1UhQHIraR8819bEbAyTe6YFEFel/WxtD4UvqNGDkRuE2Rh3Y791Bcvw==;HTuTRPb0Dl8vhrWClATnHA=="
 ---
