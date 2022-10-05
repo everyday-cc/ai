@@ -26,18 +26,18 @@ images:
 
 related:
   - title: "Artificial Intelligence (AI) in Medical Diagnostics Market worth $5.5 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market is projected to grow from USD 1.0 billion in 2022 to USD 5.5 billion by 2027, at"
-    publishedDateTime: 2022-10-05T15:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-medical-diagnostics-market-worth-5-5-billion-by-2027--exclusive-report-by-marketsandmarkets-301640417.html"
+    excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market is projected to grow from USD 1.0 billion in 2022 to USD 5.5 billion by 2027, at a CAGR of 39.9% from 2022 to 2027, according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2022-10-05T16:56:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/05/9686964.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 26
     images:
-      - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-        width: 666
-        height: 350
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
   - title: "The Worldwide Artificial Intelligence in Diabetes Management Industry is Expected to Reach $2.2 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Intelligence in Diabetes Management Market is estimated to be worth USD 590.32 million in 2022, and is expected to reach USD 2,235.15 million by 2027, growing at a CAGR of 30.51%."

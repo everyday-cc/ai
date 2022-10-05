@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster
 ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
-quality: 103
-heat: 133
+quality: 105
+heat: 145
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Google AI
+  - AI Hardware
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all"
@@ -32,6 +33,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind AI invents faster algorithms to solve tough maths puzzles"
+    excerpt: "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess."
+    publishedDateTime: 2022-10-05T16:42:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 86
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "DeepMind’s game-playing AI has beaten a 50-year-old record in computer science"
     excerpt: "The new version of AlphaZero discovered a faster way to do matrix multiplication, a core problem in computing that affects thousands of everyday computer tasks."
     publishedDateTime: 2022-10-05T15:00:00Z
@@ -77,6 +92,6 @@ related:
         height: 800
         isCached: true
 
-secured: "AQXR/M0wB5Bzt58LjeaBdDSZNIEo5iYdFqSY6R2JxBFX43fCnNx8zI414Lwvs+/hkv+5lA4Y52r93L3aGCwOxq92PW3jaVFk4M8h1MLYsumyF3hV72ttTo8+o3Tkt94/FaGxuESr8kAZUmhKMrqNRi8Ee95CaSu8JL471jIDK8RFiQw0NOV+eamqPEToYPRXt03oX5Y4ji/45I38+2mhuwsOcTY2X8yWWk7+mf60dp2gw/TOIvpTc0MZEr1FuhQb489ZclVly3wkgnw0Clf7DnMr8RU/iqoA3FnQdFJpL+gnwoFDndGg75qOJL/87G7yltdcH5IkZwi/Onij3MiILRqoyfITACdMP4ekSBPfavI=;IgR9H3POFwKGj2dJgP58Sw=="
+secured: "cbc1nGEUPmm5CQ8QyJajrt8Rv7Saynpdn8LlY1ZyvPQCgxvote253qZhlDhqVFuwtUwvUNLP4bSlw7P94WwsVvq5MuAxpGefSUCrSGXbZvnyGRQBs8UpMZELKhMjsEH4pbJ5NATmV6uD7uG42GqQazepheDUtvi3eVjsGMMeZlSpYm7IFYgP+Y0F/0eEWE24peESfDzzHKdXSqsdNPWAZn3liTu/3GLOTjABcduI7WJR+u79hSEdw2WcQlFTIa+BetwL1Lbus6rpbXkXoLuLfnFr5N10CSjhq5G6MlH7haMKeYwSG5auzzF7VHxXHlcO8npCOsJ2BEWJz4GGROFQRy8gxmgoA7Tnh6Rkfkgs4wXqmeBIDxHegCTcOB+HP9/hbZbItX2jdeoST+dnuWJDxNDpiTBA+fGATTP9ogCE2yif2/EvEBIQh+1wW3JpA99u5j7gqWqGm8c8DIQftWqVS65bMGbp8rkbIFYhoK8I31+o7vd0IsRX2PwqakYcrWvIk/uRKbXQn3cw4f6peYJNtQ==;y0BilYTOV49sQqikLSn6eQ=="
 ---
 

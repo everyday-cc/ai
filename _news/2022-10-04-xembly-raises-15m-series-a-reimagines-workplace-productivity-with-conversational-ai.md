@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29138952"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29138952"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Xembly Raises $15M in Series A Funding"
+    excerpt: "Xembly, a Seattle, WA-based provider of an AI chief of staff for knowledge workers, raised $15M in Series A funding"
+    publishedDateTime: 2022-10-05T16:17:00Z
+    webUrl: "https://www.finsmes.com/2022/10/xembly-raises-15m-in-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 39
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/xembly.jpeg"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "pJtl0AE4vKKSQnAlYb7v+yo7tWick5OBeui6PaBzzPXFeJzhl5eORipQYu86JqBoR8SIWVRzHVRvsv8uVqfEYUh697nseVVpWYkkA4XyelMa/VKE3xnUbxZDFrJwkZODVq5qW/5OlDj+mmtp/5T6NjYy/PHQSCz1Zm6Kl1yv3QSgZ0jUpfPduzTJMk6tfTBASIn6ryu4Mm8WYfJpDfv5QHTSrgwwufCKHto5Z+aPg7ItHrBDaoKEijupoEFBrxzwBXk3QCTJZeIGTBRm3OhpK8NPJjMM+lCladfb9AhlWMlG2Aspjhza5YXNtLN8A0nHKXJSDWHMDba9cVRfwpCsVXCvH/7zhCcvJTyDHOUYLJE=;1l3qpkzircv6I26G8yUGng=="
 ---

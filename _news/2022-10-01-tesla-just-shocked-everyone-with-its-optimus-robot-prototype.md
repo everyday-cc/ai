@@ -80,22 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla AI Day 2022: How to watch, and our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-10-01T00:24:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5ae5262c91b3aa3c78b0b616ffe140b2064d2d9f/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Tesla shows off underwhelming human robot prototype at AI Day 2022"
     excerpt: "\"Literally the first time the robot has operated without a tether was on stage tonight,\" said Musk. Shortly afterward, Tesla employees rolled a sleeker-looking Optimus model supported by a stand onto the stage that could not yet stand on its own."
     publishedDateTime: 2022-10-01T02:53:00Z

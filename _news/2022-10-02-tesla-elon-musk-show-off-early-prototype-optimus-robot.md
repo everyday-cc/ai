@@ -92,22 +92,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla AI Day 2022: How to watch, and our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-10-01T00:24:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5ae5262c91b3aa3c78b0b616ffe140b2064d2d9f/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Tesla shows off underwhelming human robot prototype at AI Day 2022"
     excerpt: "\"Literally the first time the robot has operated without a tether was on stage tonight,\" said Musk. Shortly afterward, Tesla employees rolled a sleeker-looking Optimus model supported by a stand onto the stage that could not yet stand on its own."
     publishedDateTime: 2022-10-01T02:53:00Z
@@ -529,6 +513,6 @@ related:
       domain: theconversation.com
     quality: 26
 
-secured: "CbQZd3J0bKH569YZr/ftDmhka6VQAC9z+ZL5z+fBMvRytpSkIsSo8L9qqOUc5ftlpb8CUBzeczTXtiqPHfFA5pHeK/ZWYbyun0h5aZVYQyqurJqEJX5Pyyfa4iRKi9YMQWpRzmNqk7n5OdLCzPASSCPlU/cGoodNdefLQvTRQXsEC3oi2HekM2PmwYIv6S1EL9xzX8McgN+bj8Lo8ojvG4EUKafwUYfQOeM5PBqkvhCVKjqXDLbWEdotB+ClpLoQ3GaLMqfBQrpSJU18Xvff0sfHE/dNqwvHlZRAE+8Y+FMkgjwIj/1TnkEyXcrfhiUD8pyhF+ueUNIufquhBouwoi6O63fTila12qbpbM6p4pk=;4x8jQfOPu1x30q8uOyRbEg=="
+secured: "memmK1LbO830dUoJCEDsEoogmkw+6cgMoMcMUrnuYbBnOqUpYBoPH87dM+eic/Sm5vg0vWuW66xebcLgq2PoRGfTAjMeQP+rwXbDmOcV3tu7iGTKrCCpUU7W+gqNTAfbWHeazWnYxA94bXn8mNI68FnWayixT2MGq+iX5uM5XVXqPOmZY3oAbltsgqSCh1sejfnLDLjL5PMFZ3Exo4Z67iYHBAf3bMSCF+xUqc2sO426bawzDO8ENcVoaLEAC0mXxMQoSMgi3lO0pztYLnOkUTkipH6qt/C2Lgepjm523JtBHf5SaeX41n9uXxRHuHBAYtHyRF0oDNEUv/M6I6Lwmzsff4wyFtZ/Hu9DtWJXhjtAJGlM+BAvCInbeHhpuDrTIPpGvfOPwB8E8O5yGjkKZUIuYGu5eCS0OQACDWIWvHUTl4GwALNxVu6hDa9v9jAxpFJctGfSphubp+nQd0LWhdRjL3ud/mDPc0t1bwNXOFwYiZCi3WzROEJsuXd2frAzoFpWvPGdr9HVNv3wAkja0Q==;Abnp66OcYEyGaY0415B99g=="
 ---
 

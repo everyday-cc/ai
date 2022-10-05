@@ -53,6 +53,20 @@ related:
         width: 767
         height: 431
         isCached: true
+  - title: "Injured protester awarded $1M in lawsuit against Salem"
+    excerpt: "McCrae accused officers of violating her civil rights, assaulting her and intentionally targeting Black people with deadly force."
+    publishedDateTime: 2022-10-03T18:13:00Z
+    webUrl: "https://www.usatoday.com/story/news/local/2022/10/03/protester-eleaqia-mccrae-awarded-1-5m-lawsuit-salem-oregon-city-police-department-2020-george-floyd/69533542007/"
+    type: article
+    provider:
+      name: USA Today
+      domain: usatoday.com
+    quality: 39
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2020/06/01/PSAL/045b5bb1-226e-4209-81a2-c228a03def4d-protest_15.jpg?auto=webp&crop=2399,1349,x1,y0&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "GEo/UkoWlrBFpjcejmeKRrTGE92j+SWvrwFfWzAdI4o5o+cOO1Gy0+dn4Sbk206WXAsrzLqF8GfeMHKC8PpHUx7UlxyTW0FugaUNTpKOcQs1wJ+jjt9doEgo+3mQw31zd409J9QzTbjkZo2583yeaYMy7QWcNkz3wEeWAFi75pOEGjs//DWKaVDkGdG53LE2z6nVVGknIJu5fj4sFBLxW2vtROljNQ5mr0+lNWydrrMimvpXzv+tACQhyfYWWzTBp9qGTW5XbQ3tjMxT898tgQ9RhLsCksG3cHFb+py2Cet0zGhvzI6qWDAYKHQRWWZ2MeCR/OeVbp50wI9+6J0kX/T+D9kbC6yVMmFlWUkyKxk=;762r5Byom74YKIwL05i2JQ=="
 ---

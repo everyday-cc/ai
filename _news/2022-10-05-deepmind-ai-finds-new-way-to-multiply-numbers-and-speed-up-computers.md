@@ -35,11 +35,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all"
         width: 724
         height: 483
+        isCached: true
+  - title: "DeepMind AI invents faster algorithms to solve tough maths puzzles"
+    excerpt: "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess."
+    publishedDateTime: 2022-10-05T16:42:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 86
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DeepMind’s game-playing AI has beaten a 50-year-old record in computer science"
     excerpt: "The new version of AlphaZero discovered a faster way to do matrix multiplication, a core problem in computing that affects thousands of everyday computer tasks."

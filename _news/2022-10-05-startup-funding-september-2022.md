@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Atlanta AI startup focused on sustainable manufacturing reaches $6.2M in funding"
+    excerpt: "That announcement came three months after Micron announced it would bring 500 jobs to Atlanta for a design center. The investment is a microcosm on how corporate tech expansions benefit the city's growing startup ecosystem."
+    publishedDateTime: 2022-10-05T17:17:00Z
+    webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2022/10/05/atlanta-multiscale-technologies-startup-funding.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 12
   - title: "5 Interesting Startup Deals You May Have Missed In September: Not-So-Real People, Better Pet Food And More Bugs"
     excerpt: "Plenty of interesting rounds went to innovative startups, including faux pet food, more bug food and money for an AI-created virtual person."
     publishedDateTime: 2022-10-03T12:37:00Z

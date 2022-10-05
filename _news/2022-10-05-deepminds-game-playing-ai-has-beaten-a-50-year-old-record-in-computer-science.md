@@ -39,11 +39,25 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 103
+    quality: 105
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all"
         width: 724
         height: 483
+        isCached: true
+  - title: "DeepMind AI invents faster algorithms to solve tough maths puzzles"
+    excerpt: "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess."
+    publishedDateTime: 2022-10-05T16:42:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 86
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Discovering novel algorithms with AlphaTensor"
     excerpt: "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about"
@@ -74,6 +88,6 @@ related:
         height: 800
         isCached: true
 
-secured: "29/dqwXj3fnm1IMCMYbH0QievqMy4xcq/k9cE87p0cf8n3tetOF/cuctUevzZ9aG7ihlkt7W4IZfc5b45y/Okr0QH4FuhfLXoaQdNzi6Ip2pEMYqrfBwSZ0R/DKbXNPKW/XUT93uJewAYQK56DKUTcAFn85sIJDMnYnZRFc4e3mZoFgrzm6JTuPWbqmL3xrzDHsLPh+2GH+nAi6cAzi9GawaheoVldbaXB45Ceu1zqH43tEJZa7VFkhXWS0CVwU3N7cP2SyXmNyPF9SBd87vEuiT+EzX/v4g9fwi5i0jhnd4FRUy0XIli3Ljot9EBZBmtkh4ng2GDmSMTsxCOcP/De+pEIfJ0uoPskzBAimPbYo=;0+z8/379/01sCiV6fTqDjA=="
+secured: "ctIt4BOeWkwJRRYVS2jvkclD0mzQEGJ7ncMa335n4MdrpHdnXYXwArBCa+tXE8M2iczpQ16SWPewT0wGGQxPHIRb6Kb+g9JHPHw0MZArjb3iBQzQHyvDmh7aifaTVvF08HWg0Ek24Y5qunvUap+ChaqKmVdVpF/mN5gztZVMQmvPEYwW5t5+6r8O5CstMqS4gxfeq0OHo3IhFBcY+uCV6XPhdo+tSHTsmjgFob7Vl6ICKgu184o5SyQV6GJAwHsCQs+FIBd3qQh1gpOx3+vm1z4UBBQ9lz1/YtKPhpJz2glH7kNnU9dcvRilySW/10O38iQWl3jmJkSD5l90UxQxwWR6Qpt+dfII/5rmwibWuDaTkJKhytZn8rx2/cfq9czh7RqWbyLZ7rWSf4X/ac9TMjtT714q2kKgsEuDmq+ssvOSPOCRTxNgN6zp7tU3Bv8xDUMDqUdSCPJMyKxQTlMw0xhTXraMsw1TKa3SoedmxtWrsS14TVTVW8pedZ28s/gdQOm2z54J7/WVYiGs+uyZgQ==;rTLroKxiV4Uw0d7yDTzWDg=="
 ---
 

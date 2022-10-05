@@ -94,22 +94,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla AI Day 2022: How to watch, and our top 5 predictions"
-    excerpt: "Tesla AI Day is sure to feature news about electric vehicles, but with Tesla, there are always other innovative projects underway. Here is the latest tech we think Tesla will talk about."
-    publishedDateTime: 2022-10-01T00:24:00Z
-    webUrl: "https://www.zdnet.com/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-to-watch-tesla-ai-day-event-and-top-5-predictions/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 104
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/5ae5262c91b3aa3c78b0b616ffe140b2064d2d9f/2021/08/20/c53f20ad-f148-4044-a3eb-0929d3675012/tesla.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Tesla's first Optimus robot comes alive, Musk says it will cost less than $20,000"
     excerpt: "At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained why it could lead to \"a fundamental transformation of civilization.\""
     publishedDateTime: 2022-10-01T02:41:00Z

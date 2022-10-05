@@ -134,19 +134,19 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "The White House released an ‘AI Bill of Rights’"
-    excerpt: "By Rachel Metz, CNN Business The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance,"
-    publishedDateTime: 2022-10-04T21:06:00Z
-    webUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
+  - title: "The White House released an 'AI Bill of Rights'"
+    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
+    publishedDateTime: 2022-10-04T20:06:00Z
+    webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
     type: article
     provider:
-      name: KTVZ
-      domain: ktvz.com
+      name: WSIL-TV
+      domain: wsiltv.com
     quality: 39
     images:
-      - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."

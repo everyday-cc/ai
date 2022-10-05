@@ -1,27 +1,27 @@
 ---
 category: news
-title: "The White House released an ‘AI Bill of Rights’"
-excerpt: "By Rachel Metz, CNN Business The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance,"
-publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
-webUrl: "https://ktvz.com/news/2022/10/04/the-white-house-released-an-ai-bill-of-rights/"
+title: "The White House released an 'AI Bill of Rights'"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
+publishedDateTime: 2022-10-04T20:06:00Z
+originalUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: KTVZ
-  domain: ktvz.com
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://ktvz.b-cdn.net/2021/08/ktvz_ap_logo_img.jpg"
+  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
-    height: 675
+    height: 630
     isCached: true
 
 related:
@@ -182,6 +182,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "jFP5nMIWDMBr2+OH14Rulkw/haG1A3eQrV0nsjGIYCK6/sEWZmpTUsgBH1tfGrAKh49BJYM5htR43dj4VFrWQBAXR/CwHoRh93GMsl6dFMVYvBxuet9NM/bxOQscuKymn7Yfb//hLRRz66x5VcwYo8ySb4SzGGrevZRY46ovHyf+8Ea+cxBF0duJgKxqETiDVwtWqQmtv1cVeS4cGeXCX0/Yxu+X0nrd5KQEkh7UC4P6+XHQAerUXAcMoap3XtvZc1tWvTyqc4Xk72uyv/B+UZJ+jXe0wposnt6bkUcssw3Ciw0LwfZsCjKIq+ITufo8Pi8a/WD3Iyf/z0ViywoFEPcJyObMRIAhLdL9PsEocro=;yb2WCKHKekd3g0+JFr0tzQ=="
+secured: "95iocbGtka9Pw13XoSAbf/J0Masb1+xylyoYCE6mPsZ+akGQLIjFHGULSvGj+YVTRxtnh104gas5T/KaDEx2NhBEi73p5/A+bU3Leg4Adbnr8HcdX3rK+PYB+rIhuPfHH1XaiccnNkcLQocGeArlMxgMJ4XmuyGwkyq3cmugx9yIWME4P7FV7YwuDZL/I5NWdCLq6mW6x88yrC9mNn14ICNJIssA0oJKKPh0pUt1oE1mhaAQSsLKoS5NrrNueiM7PsHXJFpMF/Fomd5kEtqn97q8q86qpGZ/d/EMmPbyu1S3+/X4vJvxR7+AoQllBIi7jh1VZMzj2ae+ub9feLhMiCO69N6AnONETV0B34BkbO8=;7jheZGorem6JPcrXY5EVzw=="
 ---
 

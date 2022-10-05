@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Medical Diagnostics Market worth $5.5 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market is projected to grow from USD 1.0 billion in 2022 to USD 5.5 billion by 2027, at"
-publishedDateTime: 2022-10-05T15:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-medical-diagnostics-market-worth-5-5-billion-by-2027--exclusive-report-by-marketsandmarkets-301640417.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-ai-in-medical-diagnostics-market-worth-5-5-billion-by-2027--exclusive-report-by-marketsandmarkets-301640417.html"
+excerpt: "Artificial Intelligence (AI) in Medical Diagnostics Market is projected to grow from USD 1.0 billion in 2022 to USD 5.5 billion by 2027, at a CAGR of 39.9% from 2022 to 2027, according to a new report by MarketsandMarkets™."
+publishedDateTime: 2022-10-05T16:56:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/05/9686964.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/05/9686964.htm"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/660509/MarketsandMarkets_Logo.jpg?p=facebook"
-    width: 666
-    height: 350
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
 related:
@@ -49,6 +49,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "1CjwquvdFQuAElzMO6w9zHnyD2yZS59fAgolwnrtBpHr1xKX0uqf3hYzL3BL9b+ZkERYLvQ3SZ4NthxOIY+cPL8tWO9fjNv0zUb0wCICauZpidketjxNtbmXLQ3o72M0n3wjHaiLq/VesdweNbc3ACPyzVT2BtNGBE4z7KR01FhgR0zzJvCFedFHtnVah33zwDx3zrHJLetBi1rlO15P01tJWzrkeEvNrZZWHlar/Cgtn1tFsJum/EIkACtU6VCL/VghxlDGOsOs1rEPvR/0O7Jg3CXZFtgDbqk7iRmvIH70IihfQudfMEm1Z6DaT8fAdZ2JUMp9Fo4d7vNrvKKET9iGxvwLrGXuklyQFntn1MI=;sj+BSFFj0VrljPsy/zIj/g=="
+secured: "e8fQMzm+1heKRsFHj+W+Mh4Wm3rlkblDxPGyfewkvrkUgz5ihGrAToXAutdozoOp/KAUbOcIqUnXlbVbZBvaewjRhGdTTsnOBwp2KXZL+MrpS6LJt57ekIKJP1xV1aA0V7OkVxC/GeXN4kKSMq2loZy9zm3Adprbp//553SbSqvr6THf+jt/xDOQkmgd+W/OOdH1iifV/I8/guIDDIPAgENshhCwwWbR1y17C70GXJJ8G7BfZ5oQYrfBM4fBFuikntSm8WeU46xTu2QISiqYd0VXVtIz4H+0hKEOZ6Nt8rMUOFC6Hf0JXZ+XdZOEnTsliYQBDdWgs51Qvt4HbBOw97Wr1hJ+SNQsXXi+1dD3Kq0=;ee/qgi1PHps1eqxUYIPgHg=="
 ---
 
