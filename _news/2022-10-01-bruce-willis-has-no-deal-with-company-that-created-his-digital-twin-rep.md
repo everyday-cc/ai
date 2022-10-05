@@ -3,12 +3,9 @@ category: news
 title: "Bruce Willis has no deal with company that created his 'digital twin': rep"
 excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
 publishedDateTime: 2022-09-30T22:09:00Z
-originalUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
-webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
+originalUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
+webUrl: "https://www.aol.com/bruce-willis-may-still-appear-190942819.html"
 type: article
-quality: 22
-heat: -1
-published: false
 
 provider:
   name: AOL
@@ -18,44 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
-    width: 1200
-    height: 800
-    isCached: true
-
-related:
-  - title: "Bruce Willis Rep Confirms Actor Did Not Sell Rights To His Face To Russian AI Production Company"
-    excerpt: "Bruce Willis did not sell the rights to his face to artificial intelligence production company Deepcake like rumors have stated."
-    publishedDateTime: 2022-10-02T21:50:00Z
-    webUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp;amp"
-    ampWebUrl: "https://www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/bruce-willis-rep-confirms-actor-did-not-sell-rights-his-face-russian-ai-production-company-3619386?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 46
-    images:
-      - url: "https://d.ibtimes.com/en/full/3455646/bruce-willis-one-most-bankable-stars-hollywood-having-starred-mega-hit-die-hard-its-sequels.jpg"
-        width: 768
-        height: 533
-        isCached: true
-  - title: "Bruce Willis may still appear in films after aphasia diagnosis thanks to his 'digital twin'"
-    excerpt: "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology."
-    publishedDateTime: 2022-09-30T19:09:00Z
-    webUrl: "https://www.aol.com/entertainment/bruce-willis-may-still-appear-190942819.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 14
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/SVp0sktfrBkwx_gyWYaQgA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/aol_yahoo_celebrity_534/dee1c345f8b6f2a2f54f4c8136fe8d1d"
-        width: 1200
-        height: 800
-        isCached: true
-
-secured: "7GQfQANTZVO5jZo9eje10mq4gNt8H5j7VXvQg73Wfgab33hhz07cqp8Fy9P0o1tMV0H9pfRqK6QDFyTtFyz7nKjlH0VYRfnsj9U++K6IMr7q+IstxukzGJgUWLe+yY6ZNEdvE/tcmcx9hV0mKGEhGRrsofmJzxPR8H7+S96GZUoPRBXUCoeicRqrYfgP23n/7VSnrgNaGeC2TMJLDV8Vtl2C0g9PP8SBlYpRAg93HiCKp4HYfvZCqHMppCSUKRjGO2+dqRfOnXucIWvwgT8ySHozJJN3JlD7hXJqt426zYVPqwrxJZT5s8irYtOvNHl2HDYqnyoXrXTo4D63FQPWwUuL2u6Z4Z7yH3VZrquy3jEghKCGwuWm9LT2xP+NqB+IbUJWkuwX/5OGTcA7b6RbYyTxFKenmWuUZeu4PBQe6ib1KAy/kN8ntQUorV36Azhut3P62Ia0X+rQtn6pdTv0SMAYagA7JvYG6KwfqoCgl/YcTA0I9I/jYq5Zi/OBOjeUORcIcGC5I5J96UcR8okMIg==;/p85hYt6ghkeHYOX81L9bQ=="
+secured: "bdyXp19GBW5If9jM8lRXFjtbuSahE4gUHYmK6P0d5qARYimsHUJn6eAp4HaPGl3Ad9ikOd+VxqVMZOHv0nAA4vHsOFf7h1Lht6vwLhBXPe+mO5NVhnQ/2vi/1hX1gtDTNNlPKkqFbmC2S9TAbGslw1JhxxOU8V9+U4ExjZi+ZuuMoqfg3Bs7Rp8pkMrq31TEqpTZxNr6+10XGdbEDWFYGk8GVOAPzDMEXCDt1gssVdJcr4/sF7jPkjTTYsr4ohbYVVERKCT90KqcKLJ9D5YB17Rx+FTfJEqM1bFwUN3xeJ2mthRv7Qf8dU6X95O4LC/hE1NQoFAdLsPoveI6G6aehhIUZf7y3RuswguFkoZBUb3CH/PaaEwOlvipxYYHxPju0CP5TlleWW2Hgz+rvF8VxRkhSfeYTlHKgOoEzo5ZMVhag9Zs7snP89xKH2NeZYyGaOXgW/Nw1oFqyEUxt/7iWzOdCby+ZnZVVe7r6L3JmC2Qj/LQtlxZEMGod0gIfFkczdnP7WFeBs6aUnKC3bU98Q==;T7IC1mRlWAe2qvWs/ACr8Q=="
 ---
 

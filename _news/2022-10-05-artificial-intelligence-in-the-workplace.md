@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-robot-adobe.jpg"

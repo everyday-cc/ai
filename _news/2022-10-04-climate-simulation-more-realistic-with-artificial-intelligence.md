@@ -18,6 +18,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - Machine Learning
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-climate.jpg"

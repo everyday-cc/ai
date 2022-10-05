@@ -2,9 +2,9 @@
 category: news
 title: "Startup with Portland connection raises $8M for robots that make coffee drinks like a barista"
 excerpt: "Artly announced the raise, which the startup is calling ... the help of advanced AI technologies such as imitation learning and vision-language generative models, our robots can now adapt to ..."
-publishedDateTime: 2022-09-28T12:05:00Z
-originalUrl: "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;amp;amp;amp"
-webUrl: "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;amp;amp;amp"
+publishedDateTime: 2022-09-28T03:35:00Z
+originalUrl: "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search"
+webUrl: "https://www.bizjournals.com/portland/news/2022/09/27/barista-robot-startup-artly-fundraise-starbucks-vp.html?amp;s=article_search"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "GPgm1y+es3uakAjVIhYdRgxK9xay6w2qrJ4jQbUx4LchhoNjCIeSRNYmYaiAxNd/TI5DxLI8+N0M0kyaySA3aZn5lOJz3dQxEk5LAO2jDz0txPz2UK10+hg9PicjcAz+5se0q8UtJttPP4Vi4KVI0+RuHjv0jmrfuqz+f5yiatvzfRV0jlww2Q3rZqcFhzZfE/9eJVVm+lny37NnAI8gLKC6kgJUNL9qJ/vZy2fdJ4iiiXUU4vfn1hgIsNcPWcKDA3m4eEmBaF300rSrllLuU+DiXKcLnS9zUq+os0pHMCBSCFfNlaz6S4bgs6z1EkVd4t0n4Y3s6nClripSU2e248i8+KRFBxzh62pIOrAwTJ8=;wzxMezZujqqD0PUxePFBDA=="
+secured: "IJvR0L+rnzDoOaWJ3NAqeKOSXRTnaZ7zSZUhyh9ic+5LO+prYWPVM/2LpWQhQSwA3TYixqsWdXYIZmEQVqNJ3ZL3a8Ymg+2GFkFkfrPVVNA6As3NTQ+GT+Oxlh/uJPBZgr0eQQrWNvbqSdm13qtrJBqL04WSQ68cPnD5cl0ftnAW+b8pGv09WvUdOzGy80C5AgLApYWjD2nrAVhS0ZZUU6nXfPJTkps8PsWpZUGe8JlJsesnJvZ9gG2AL3uWEsVpFP0f4u6Biz5rglZDbpadbvyCa+HTt1HThvv0xspxTILNDetfcH4vrGw3l8WA6IL/KrySU0QvuPR3lsV3mMo7TMJYAZ/dBHIoyjfQmadEx2w=;UhMw2t1F6J26bATs2/5xTw=="
 ---
 
