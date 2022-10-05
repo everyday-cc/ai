@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T18:24:00Z
 originalUrl: "https://www.biometricupdate.com/202210/new-speech-datasets-software-target-greater-inclusion"
 webUrl: "https://www.biometricupdate.com/202210/new-speech-datasets-software-target-greater-inclusion"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Biometric Companies

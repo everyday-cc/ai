@@ -58,20 +58,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel's self-driving unit Mobileye files for listing in first sign of thawing tech IPO market"
-    excerpt: "Intel Corp's self-driving unit Mobileye on Friday (Sept 30) unveiled its filing for a US initial public offering (IPO), testing support for a high-profile stock debut even as the market for new issues has virtually collapsed."
-    publishedDateTime: 2022-10-01T03:02:00Z
-    webUrl: "https://www.theedgemarkets.com/article/intels-selfdriving-unit mobileye-files-listing-first-sign-thawing-tech-ipo-market"
-    type: article
-    provider:
-      name: The Edge
-      domain: theedgemarkets.com
-    quality: 13
-    images:
-      - url: "https://s1.dmcdn.net/v/UFbiG1ZDgbyC9M3pf/x240"
-        width: 426
-        height: 240
-        isCached: true
 
 secured: "jycnkFqGKgTvt4xnRvD1fQkWfmsCkN33m4aC0BuFIgFu7vMxHcppwiw6AWwUkAVjs7pMLPTkPhkjquBjMULD6IYouUP0MyPjYYD3zvXNV1LsFuhWNv3Xtk2t7AmyFGu86+KwaH8+a0FguANLwzBEULNKZ6Ig6as8Kep7Q19CnIIUOGly7iVt+7sM23kthon3vkUCvsYI77B3THYr/4vxbvcaaeSEnBnZQXOKnI9eZtIL0rGK90ev2VIs+t5p0MNvXgn2YtzyR+oz7B5NZYuJgFQxNKQmLcPP+HbHx66vCHyFwfeMS1jXSSBUem4E87MWEBVlX5jv0HQlBM7AKeohUExf0uNzbebTCTTAu8ciaCiP4KAbO5xEVGQn1mVOGHw8DdoQcIbVCiDpsuKNlNLoqJEgPCteeK1aXMdaE15uI0Bm0PxRGr9qKtrGx1czQLpyr7PBLmjELFXBP+CqxHVWZFl1z40vI8J4wtfzqgHFZ1nMZK+P4kEXNq8vgZoPr4oju684VWtYrhpWB2XYuYNfQg==;6ElzhQN5B4XDKwHEFhJJxA=="
 ---

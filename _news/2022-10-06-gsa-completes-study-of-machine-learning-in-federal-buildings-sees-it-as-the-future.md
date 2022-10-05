@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T19:20:00Z
 originalUrl: "https://www.bisnow.com/national/news/energy/federal-researchers-find-machine-learning-in-building-energy-systems-is-the-future-115708"
 webUrl: "https://www.bisnow.com/national/news/energy/federal-researchers-find-machine-learning-in-building-energy-systems-is-the-future-115708"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Bisnow

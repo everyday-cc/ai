@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T18:25:00Z
 originalUrl: "https://www.kare11.com/article/tech/self-driving-shuttle-project-cruises-northern-minnesota-grand-rapids/89-4b6e650a-932b-41cd-88e4-2e6efe3c617f"
 webUrl: "https://www.kare11.com/article/tech/self-driving-shuttle-project-cruises-northern-minnesota-grand-rapids/89-4b6e650a-932b-41cd-88e4-2e6efe3c617f"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KARE 11

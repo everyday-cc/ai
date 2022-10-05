@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/mri-software-annou
 webUrl: "https://markets.businessinsider.com/news/stocks/mri-software-announces-acquisition-of-springboard-a-leading-provider-of-retail-footfall-counting-and-ai-powered-analytics-1031778843"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -22,17 +22,17 @@ topics:
   - AI
 
 related:
-  - title: "Majesco Acquires Global IQX Bringing Unmatched Underwriting Workbench, Enrollment and Artificial Intelligence Solutions to the L&AH Industry"
-    excerpt: "Acquisition advances Majesco L&AH to deliver \"tip of the spear\" business transformation solutions and capabilities that accelerate innovation, strengthen operational effectiveness, deliver speed to market,"
-    publishedDateTime: 2022-10-03T15:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29120719/majesco-acquires-global-iqx-bringing-unmatched-underwriting-workbench-enrollment-and-artificial-in"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29120719"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29120719"
+  - title: "Pyramid Analytics Formalizes US Federal Business Practice"
+    excerpt: "Decision Intelligence Software Provider Strengthens Commitment to Government Agencies with Dedicated Practice to Modernize Analytics for the Delivery of Critical Public Services Pyramid Analytics (Pyramid),"
+    publishedDateTime: 2022-10-05T19:04:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29158773/pyramid-analytics-formalizes-us-federal-business-practice"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29158773"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29158773"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 2
+    quality: 24
 
 secured: "2GqJPzpQVWymwSXI8XL6PaU749YMwkF0kYRSnRNWRRM5kRK2qCZ64GhGVlX9HEnrQKSA1/IUXaoAWxRk3O2WxbKQyF+IPv74cH4N6dAexcqLtggTAmJk+go7VT20wqSeUCn9xrAYE+najbz3YG23a0p8uOorSdc/64Vfmm9nAzY1q424kL5P4MpqouRndzLgPzUgKlCqaq0BqGJGor8wkiSwwfVXYFhmUPN7uCKPw5V7VLZgOhFvpHKvqaPhPyYWW2tC++VKi9ONdLm/IjYJq4MKVbCEeUx6Im3TUrToHc7bvN3cGCRu5oR7N+H+5mFxeLPzAregWXI4O8ZXUUAPjHWPCTXqAUCa3i0/sSv/8QKysqpINgEwRwfHX4JWTRf8+n0FnLab16K9NwANNnhglyTeFNd+2Qos5mX+pznaYzCzto84nqy0wsxYfqE0oENADJQPJUbYoUaxUVQd/eYTSWbLjIW+M9Yd36ZsVYXE5JdHagqA7qdvZUiGC7ru069f3iql7I3W7YwF0D+lX5V60g==;Nlujl2EZ+aZBZir65pRs9w=="
 ---

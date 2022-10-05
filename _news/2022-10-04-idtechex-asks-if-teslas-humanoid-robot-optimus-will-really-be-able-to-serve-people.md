@@ -45,38 +45,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Elon Musk Unveils Humanoid Robot Optimus at Tesla’s AI Day"
-    excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
-    publishedDateTime: 2022-10-01T04:15:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415?mod=business_lead_pos10"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 121
-    images:
-      - url: "https://images.wsj.net/im-635281/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "Tesla just shocked everyone with its Optimus robot prototype"
-    excerpt: "Tesla gave an impressive robotics demonstration, proving that the Optimus robot is a serious effort that might change the way work is done in the future."
-    publishedDateTime: 2022-10-01T02:22:00Z
-    webUrl: "https://www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/tesla-bot-optimus-robot-prototype/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 106
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/09/A-early-tethered-version-of-the-Optimus-prototype-could-deliver-a-box-to-a-desk.jpg?p=1"
-        width: 1983
-        height: 1322
-        isCached: true
   - title: "Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027"
     excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
     publishedDateTime: 2022-10-01T07:08:00Z
@@ -92,36 +60,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Tesla shows off underwhelming human robot prototype at AI Day 2022"
-    excerpt: "\"Literally the first time the robot has operated without a tether was on stage tonight,\" said Musk. Shortly afterward, Tesla employees rolled a sleeker-looking Optimus model supported by a stand onto the stage that could not yet stand on its own."
-    publishedDateTime: 2022-10-01T02:53:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/09/tesla-shows-off-underwhelming-human-robot-prototype-at-ai-day-2022/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 101
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/09/optimus_2022_hero-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Tesla's first Optimus robot comes alive, Musk says it will cost less than $20,000"
-    excerpt: "At AI Day 2022, we got our first look at the Tesla robot and Elon Musk explained why it could lead to \"a fundamental transformation of civilization.\""
-    publishedDateTime: 2022-10-01T02:41:00Z
-    webUrl: "https://www.zdnet.com/article/teslas-first-optimus-robot-comes-alive/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/teslas-first-optimus-robot-comes-alive/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/teslas-first-optimus-robot-comes-alive/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 101
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9cf8a6aacd6ecb04cdd5716c8852df00833ebdad/2022/10/01/01d40da9-6092-4d60-83b4-583d9cee0f84/screen-shot-2022-09-30-at-9-20-26-pm.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 670
         isCached: true
   - title: "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
@@ -240,20 +178,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Tesla previews humanoid robot, but Musk cautions it is not ready just yet"
-    excerpt: "Tesla CEO Elon Musk said on Friday the electric vehicle maker's eagerly anticipated humanoid robot 'Optimus' would cost under $20,000 and cautioned it still had way to go before becoming fully functional."
-    publishedDateTime: 2022-10-01T01:30:00Z
-    webUrl: "https://www.reuters.com/article/tesla-robots/tesla-previews-humanoid-robot-but-musk-cautions-it-is-not-ready-just-yet-idUSKBN2QV10V"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 85
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
     excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
     publishedDateTime: 2022-10-02T23:37:00Z
@@ -267,22 +191,6 @@ related:
       - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla CEO Elon Musk showcases humanoid robot at event"
-    excerpt: "The billionaire has said a robot business will be worth more than its cars, hoping to expand beyond self-driving cars that have not yet become a reality despite his repeated promises."
-    publishedDateTime: 2022-10-01T01:50:00Z
-    webUrl: "https://www.jpost.com/omg/article-718646"
-    ampWebUrl: "https://m.jpost.com/omg/article-718646/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/omg/article-718646/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 76
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516019"
-        width: 640
-        height: 428
         isCached: true
   - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
@@ -365,34 +273,6 @@ related:
       - url: "https://www.gizchina.com/wp-content/uploads/images/2022/10/Tesla-unveils-Optimus-its-futuristic-humanoid-robot-for-less-than.jpg"
         width: 1200
         height: 750
-        isCached: true
-  - title: "Tesla AI Day 2022 introduces Optimus Unit 1 an autonomous humanoid robot that can be mass produced"
-    excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
-    publishedDateTime: 2022-10-01T03:43:00Z
-    webUrl: "https://interestingengineering.com/innovation/tesla-ai-day-2022-introduces-optimus-unit-1-an-autonomous-humanoid-robot-that-can-be-mass-produced"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 59
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/01/image/jpeg/8VIOZkkDmaHhTddZkalvlJ0u2cTH5tq8XXcvs2xP.jpg"
-        width: 1920
-        height: 936
-        isCached: true
-  - title: "Elon Musk Set To Showcase Tesla's Humanoid Robot After Delay"
-    excerpt: "Tesla CEO Elon Musk has said a robot business will be worth more than its cars, and on Friday investors, customers and potential workers expect t"
-    publishedDateTime: 2022-10-01T03:46:00Z
-    webUrl: "https://menafn.com/1104952692/Elon-Musk-Set-To-Showcase-Teslas-Humanoid-Robot-After-Delay"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 56
-    images:
-      - url: "https://menafn.com/updates/pr/2022-09/30/KT_22813image_story.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Elon Musk Shows Off Tesla’s Humanoid Robot Prototype"
     excerpt: "Elon Musk showcased a humanoid robot prototype whose nickname is Optimus or the Tesla Bot. Mr. Musk plans to make millions by selling the robot in near future for a price tag of $20,000. During the event,"
@@ -477,15 +357,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 50
-  - title: "Elon Musk Unveils Prototype of Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
-    excerpt: "The prototype, which the CEO showed off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
-    publishedDateTime: 2022-10-01T04:32:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415?mod=hp_trending_now_article_pos3"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 40
   - title: "Watch: Tesla CEO Elon Musk unveils the humanoid robot 'Optimus'"
     excerpt: "Optimus would initially perform boring or dangerous jobs, including moving parts around Tesla factories or attaching a bolt to a car with a wrench, according to Musk"
     publishedDateTime: 2022-10-01T13:56:00Z

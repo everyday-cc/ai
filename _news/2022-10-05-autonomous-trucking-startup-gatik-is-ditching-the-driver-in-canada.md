@@ -67,6 +67,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
+    excerpt: "Loblaws is partnering with an American autonomous vehicle company in what's believed to be a Canadian first: taking grocery delivery orders between various Loblaws facilities via self-driving trucks."
+    publishedDateTime: 2022-10-05T20:54:00Z
+    webUrl: "https://ici.radio-canada.ca/rci/en/news/1922717/loblaws-partners-with-self-driving-company-gatik-in-canadian-first-driverless-grocery-trucks"
+    type: article
+    provider:
+      name: Radio-Canada
+      domain: radio-canada.ca
+    quality: 28
+    images:
+      - url: "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gatik-loblaws.png"
+        width: 635
+        height: 357
+        isCached: true
 
 secured: "ui0gCenSPHuKYzX0D9RVv+My1ebfBLeDqkb2/Nt6R8fS+P0CGeFeMZv2tf+YRGcVejnnURkAbJiSnBb46o1M3ZpKZmURZyYE5TbeN221MD5XbA8kERByuqvl4pToHCu4d/6qnL4tNXC3d/D6wGM7kM6bN61O3F1Vi1F5qgu+vhMygBYtg5YOPkIhMuzmDXNXdSw/+5QSGrtzk5M/KVhLKH6M0KT16s7DTiSPcy+tfPz31JFOd8mHPqxuV0v6ASV2/0+Db+bHt0Bhn3k9bobyFqv7r5fZzZxtFqXxPe3+TKnqQEaOvdFRIYL603eoEi8YveXUadqoBsjHNQLBQJAe0rNmN3mripB7r+h/rAnBG0Lb3FOWRzeZn9UTOx2wX4HVtQwSvvfa83OtRN+LssDct73GCGPsQM0jsL0wicgNp/2hbYHcAWpd3WanfcWYKiFyEtX5mpeHLQWuJIqxhe/F0YDemnGdMK6GYZ3Yc//0cn68ctOOuYQwC7AZl1hBNucTPUPcuaZjbTJQBBSeEZ1G1w==;b3QPtmx8sBqlruhyAu/78Q=="
 ---

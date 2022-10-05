@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T19:07:00Z
 originalUrl: "https://www.zdnet.com/article/this-ai-powered-device-tracks-you-or-your-horse-while-you-create-video-content/"
 webUrl: "https://www.zdnet.com/article/this-ai-powered-device-tracks-you-or-your-horse-while-you-create-video-content/"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: ZDNet

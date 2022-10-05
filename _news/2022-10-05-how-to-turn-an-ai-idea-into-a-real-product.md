@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-tur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -92,6 +92,15 @@ related:
         width: 1220
         height: 686
         isCached: true
+  - title: "How do we protect data privacy while innovating on data? Learning from Zoho's approach to AI development"
+    excerpt: "All too often, data privacy conflicts with AI advancements. Is there a better way? And how do we avoid headline-making chatbot bias meltdowns? Let's check in with Zoho, as they press further into AI with an extreme stance on customer data privacy."
+    publishedDateTime: 2022-10-05T18:40:00Z
+    webUrl: "https://diginomica.com/how-do-we-protect-data-privacy-while-innovating-data-learning-zohos-approach-ai-development"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 4
 
 secured: "Rt3bs8dGLh/UeDhva1RNKfBhliEFux+gNu8Eh/o+ekApQbPXVqd9A8SBcadXVmLWzU5AnUqrqDBKC+WF3gRqVEwWIKEO6UshnGVyQTyDpjjTD/7VpRVOHt8LUmgKWeCTzwOMjqFY6EO6F0ujATEJCmuJFkf5ZVK5dRW8shleq8ZXXQ5AF87ngICN3P3eL7uRbq0ktwt+eVI4yPgQKr35sl17/CJWDthv0WKu0Upscami0r1Vk3x1EF9qPL1KNKW8pmaGzdgaZmCu0nyYWqWhwRikfqMdQ8jPYLnaHig5NvNMPieOL7yrMSVYXnE1sBq46dxq5Wk7fDoyA7gu344Ujekv2B5btkvXf+DJpmC8nGMOmuE2llTUDo79XCztEKrx7+xQqYlDbM0B+AS0Ajr+vLeZQ322pJyWIuDuuFaB3EgEg6C9tEj0wZb/w7COqOhd5hfFbna5amzzeZfIVHaP+ePUG37k8J0UT6S8FCXvuPUAaLRJvgqIAOMCFSxWkHto+HpzL6TQZA4ce4wDhYRdVA==;5sKXk71ZgAxA3PmuozTYGw=="
 ---

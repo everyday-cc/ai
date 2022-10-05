@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "18KbTXc6Cd/AO4SOlpknbnkuD4IzpxHRWyUHmQKHhznIMtz6+FwGZ5j6M7k7P8udaRb+kL3RLEOdQQh1imaCW/C87VfKQI4cq2tNl3sdTu+b3FGE4aG790eEE1gS7JQAoZd6550FkZdZiPbWdVZkgPxKigowTJ0AZUZ+s2pO3aW5QDRMuUC0TA2X8YYt5P2l583r7TlNk0Q1kF7uel5WLDTgAfOM7lE9CyMAuJ+hM8Rks4rciwjWkM/Z8SZUVAo+UnzddIZviMyIkeVKWGlagLjQJzIY3wsIRlT1A4njFY8y7+0gGdT4jU6yjNMKEQcaIfGIhHjgk54ZUHzxlUmCZumgoG/J/2M51NKGpwr2QYw=;DyFVLF3PjDqZU+04p30T1Q=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "pW2zs9GSz/59v8Vev6Brd+/PtCjfOaGNKFROQW7OibZAro2HJSeJMcJkge8kMF1oQA0XKwHI+FmfhdLsjWH8ir25Rl9sYA02WZkkskO5UYIUCbi65RbfStFCMDO76Osne3HO6RlCVB3mx9ook/xvydtIaH/k/hYjbKKp4LP8v9cDi1PJ9b7hMPUV32SSRl4JnBcbX++s4Ue5QILGxv9hkWkds8JOiZT/3yc0uuVSkPRFNwQHNGeFQyzc/qvQgjjqNfUXkJC8en4lhN+86ftOn0w795/AX+I08fLJ7gLhh+rXatz/e0YswjsP3j3dPKpixvhHmH3KK8Xc8V4ry+wxt2GtrKz+pfV2aGvzZkYSimE=;2HOmWcnVmaXXnO6/6iM4nw=="
 ---
 

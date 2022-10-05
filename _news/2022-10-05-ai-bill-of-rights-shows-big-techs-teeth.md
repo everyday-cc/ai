@@ -86,6 +86,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
+    excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
+    publishedDateTime: 2022-10-05T20:22:00Z
+    webUrl: "https://abc7chicago.com/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    ampWebUrl: "https://abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 64
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12297807_hypatia-h_4ab329e30409f78d1913603108321e24-h_681986e706d1b4db0e09cc8189ce746c.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "The White House just unveiled a new AI Bill of Rights"
     excerpt: "US President Biden has today unveiled a new AI Bill of Rights, which outlines five protections Americans should have in the AI age. Biden has called for stronger privacy protections and for tech companies to stop collecting data in the past."
     publishedDateTime: 2022-10-04T11:33:00Z
@@ -102,21 +118,21 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-    publishedDateTime: 2022-10-04T15:49:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+    publishedDateTime: 2022-10-03T23:26:00Z
+    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
     type: article
     provider:
-      name: Post Register
-      domain: postregister.com
+      name: MyNorthwest.com
+      domain: mynorthwest.com
     quality: 59
     images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
+      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+        width: 1280
+        height: 853
         isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."

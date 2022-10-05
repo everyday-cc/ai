@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market - Industry Analysis, Size, Share, Growth, Trends, and Forecast to 2027"
+    excerpt: "Get Sample PDF Copy @  Artificial Intelligence in Healthcare Market Company Profiles Analysis: Alphabet Inc. Nuance Communications, Inc. Arterys Inc. Johnson & Johnson Services, Inc. The research on the Artificial Intelligence in Healthcare market focuses on mining out valuable data on investment pockets,"
+    publishedDateTime: 2022-10-03T21:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market---industry-analysis-size-share-growth-trends-and-forecast-to-2027-2022-10-03"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "AI Market Size, Share, Revenue, Latest Trends, Business Boosting Strategies, CAGR Status, Growth Opportunities and Forecast 2022-2029"
     excerpt: "Global \"AI Market\" (2022-2029) report gives detailed depiction on top players, size, share, new techniques, plans of"
     publishedDateTime: 2022-10-04T09:02:00Z

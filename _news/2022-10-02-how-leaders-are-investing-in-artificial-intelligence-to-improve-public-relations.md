@@ -93,6 +93,15 @@ related:
         width: 1220
         height: 686
         isCached: true
+  - title: "How do we protect data privacy while innovating on data? Learning from Zoho's approach to AI development"
+    excerpt: "All too often, data privacy conflicts with AI advancements. Is there a better way? And how do we avoid headline-making chatbot bias meltdowns? Let's check in with Zoho, as they press further into AI with an extreme stance on customer data privacy."
+    publishedDateTime: 2022-10-05T18:40:00Z
+    webUrl: "https://diginomica.com/how-do-we-protect-data-privacy-while-innovating-data-learning-zohos-approach-ai-development"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 4
 
 secured: "CLFT9ntaONNAHFeUP5xD0D5O8/Mr3j2fDX+6JR+9Q/rpcznPyJEG41peOTnDZNAmvlSJY8+iS0/SHoGnywiw1cVT13EiTObyuz/qRxRGmBtMDiLoWZuseqG01KXxjsWgJpeDerwl+QeVp1KcExTt+xhJsgMSfYvsIs96VWyZSKhshyVQQyRFFVzgrHUDPAB2SzIoTkUx9ik+Oq8ygXZcBn9+3C4l4+KsRiVTtgVpXI676PupelcNohDF5Zs2K+W+8mf7EAXvHiFteNcj1olZxAkAsWIw/uJUob/tQdXI5pIy8Mts9FvTh1DpHmVMYUFNm+1txws3LXb046pakX03/SKVGZTdfIecGfyZPiEwWr+6d5kYaCiRIL+o9XJbuUZ16Ho1T/ejvdF27ViinLThgxNVQhEcpswKUCDJAU33Qx4eEJKd9tU4r3pOKucroPh0hVEmDGDU0RYAOqNtFlzupq+Lw6lzLkfm2S3TICABX7rf8NZTsl1OnX2y8sGmnsH4JtAUpLsqzEsvA7DsfB9orw==;ysuFbmJ3C3F8bAnufMRfsA=="
 ---

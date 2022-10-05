@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-dri
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -54,6 +54,20 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 39
+  - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
+    excerpt: "Loblaws is partnering with an American autonomous vehicle company in what's believed to be a Canadian first: taking grocery delivery orders between various Loblaws facilities via self-driving trucks."
+    publishedDateTime: 2022-10-05T20:54:00Z
+    webUrl: "https://ici.radio-canada.ca/rci/en/news/1922717/loblaws-partners-with-self-driving-company-gatik-in-canadian-first-driverless-grocery-trucks"
+    type: article
+    provider:
+      name: Radio-Canada
+      domain: radio-canada.ca
+    quality: 28
+    images:
+      - url: "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gatik-loblaws.png"
+        width: 635
+        height: 357
+        isCached: true
   - title: "Autonomous Trucking Startup Gatik Is Ditching the Driver in Canada"
     excerpt: "San Francisco tourists, Phoenix suburbanites and now Canadian bacon — the list of driverless cargo keeps growing."
     publishedDateTime: 2022-10-05T13:05:00Z

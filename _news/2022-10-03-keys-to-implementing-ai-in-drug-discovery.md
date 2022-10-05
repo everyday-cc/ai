@@ -34,6 +34,15 @@ related:
         width: 1200
         height: 653
         isCached: true
+  - title: "How 6 health systems are using AI to improve patient care"
+    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
+    publishedDateTime: 2022-10-05T17:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "Dgss2PL7ot2Z0HgADEK1bSDf5DW700RjIY8COu93PPGp7CsXeyx1ApNngFvXZWm0AziEJTBUNaul7pO5/BPW6vOYJpEb65p7/aZnif3/uNNNG7T/hb4rh74od/WQ5eE/IhMtm7VWTtPEtY+LP0odfeSo9mRuVF0kjtKu14d98MGtApTm2rBhTlc5AbPg96I7WDJey2AHHiphaXJq7ubF6hAgD/5IoHrrmGySg/hxkysks3m0xXslDt4s6YxmC7G1mfKqpnSmVVdyENHEPhJTKA9F00NWo9wWBFzHrZ+KwaBpoWGJKsuDM3dAU1kTFTyIUOb1ASiYgUT6OGFBXNx4rlYwCkRpymTN0M/eZwQ6Pj9qeh6G6U1E/aCRMbnavDQ4kHpNI0aVFwTw9M4swkovCWei1JbtWgDvhGB5eztpt85/UPfUQPjBCeBIxh46w1dWoIKYhYcS2VI7Qr1QWBUtQ1j/SLZaqb/2KgeIBKt3JWNLLOzCAv/eiP5aHe9N6UV96DS45/2zfiGHYESo1TdLuA==;PQqvbqe51dChtL9Xnxx6yQ=="
 ---

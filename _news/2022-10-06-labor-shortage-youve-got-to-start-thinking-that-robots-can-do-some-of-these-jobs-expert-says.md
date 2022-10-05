@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T19:31:00Z
 originalUrl: "https://www.aol.com/finance/labor-shortage-youve-got-start-193116923.html"
 webUrl: "https://www.aol.com/finance/labor-shortage-youve-got-start-193116923.html"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: AOL

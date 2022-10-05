@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T19:09:00Z
 originalUrl: "https://fedtechmagazine.com/article/2022/10/intelligence-community-developing-new-uses-ai-perfcon"
 webUrl: "https://fedtechmagazine.com/article/2022/10/intelligence-community-developing-new-uses-ai-perfcon"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: https//fedtechmagazine.com

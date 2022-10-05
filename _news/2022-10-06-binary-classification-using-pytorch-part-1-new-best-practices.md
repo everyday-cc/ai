@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T19:23:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2022/10/05/binary-classification-using-pytorch.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2022/10/05/binary-classification-using-pytorch.aspx"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Visual Studio Magazine
