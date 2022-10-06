@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-01-i-pitched-my-ridiculous-startup-idea-to-a-robot-vc.md",
+      "title": "I pitched my ridiculous startup idea to a robot VC",
+      "excerpt": "It was the pitch for my new startup, a company that promised to deliver ... specific VC expertise and advice by way of the powerful AI language model GPT-3. Originally released by OpenAI in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "originalUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/WaterDrone.png?p=1",
+          "width": 1456,
+          "height": 1002,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/pitched-startup-to-robot-vc/?amp",
+      "publishedDateTime": "2022-08-31T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "digitaltrends.com",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-up-bridge-the-gap-robot-development-kits.md",
       "title": "UP Bridge the Gap robot development kits",
       "excerpt": "Designed to provide developers with the complete package the robotic development kits come supplied with a computing and vision unit, a motion unit consisting of motor control board, motors and ...",
@@ -1283,58 +1335,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix.md",
-      "title": "Samsung Galaxy Watch 5 Pro Review: Smartwatch + Fitness Watch = a Good Mix",
-      "excerpt": "There's a lot to like about the $450 Samsung Galaxy Watch 5 Pro. Not only does it have all the trimmings of a smartwatch, but it adds extra sports functions that athletes may want -- and for almost half the price of some other outdoor watches with similar construction like the $900 Garmin Epix 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "originalUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/e72bc0cdbd8511a33e70399e8d819ec3ebbca69a/2022/08/23/b11065a1-cd37-40a8-bca7-8b31aa5bc64d/galaxywatch5pro-hero.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
-      "publishedDateTime": "2022-08-25T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

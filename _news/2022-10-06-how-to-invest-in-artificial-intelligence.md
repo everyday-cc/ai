@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial
 ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -23,6 +23,8 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200"
@@ -73,6 +75,6 @@ related:
       domain: genengnews.com
     quality: 17
 
-secured: "/Ausd3chxXJ/zHw8S7A/i5+ZYEQ2a09maJfqYqyNC1yOiv4OWIeIYMNIYglNyo+o61Fqfr+MPu/Y5vQ4Gl2FboFD2YxpqEz2uWUF2WvyBbciPmtfB7VAqsdk8Hqb9khFZjCMW4caEKhpd9ucNNQFRSmj+G+k2Hk3Z6lvx+L8ujvuFlk9WC7z9elmGukb1xesCTs42hVDbpwdIsHo1N6CdiDxn2hWk4lq/3X7ew10aDxImUKFFqPmOKGhLP/HiJsgcJ5sBMJDr15AuSM8rTExvD/fnXSRiSqvWq8tBD+ejifVedQZi2A+qoUo5UtMLliyv/qrVgkZcrOlEwKfNA/FG/ZJP9BEXz/uGWaH3OT3HxM=;arTNd2ZGZhbZzfS7DpoZ6Q=="
+secured: "hpC2uTcyMkeJH97gpQZcYas4qIJw1H7HfY4XMjrdyLzJ4JwvlUvYYnG0uJT6IDRwURSoy6E3TOHXucflHRClk0r1nUtQbB9MkdlV7/NeZuxBr2hgXAC57pTUD6cCe7YWuJiTKIc/4Nx5U083Kwt+8LFJYpbZ+bQrqU2/v1d0ToO+4JDP/fHo0/3NgT2q7S1CweQEqygiE1HgdMRGTms8elWFG2ej0vxrL5Uv6ZSKiDNUhGSlHBsHRScpMRmpjINWNM3Z78PKHjpWb0VuBuBX81jc0m/9ri5Wq3xULY+08tg9IwjXAMo/szid6SuMZYTma+cUMRwko82/HFF0xVuZqrr4nxY/2BofpQUV8GG144AfK/5puTRTBfxvcjSA2J+bAv95L3uSs9lRPywh1lqyWKj2linVD5Vs/K+1wSnILIJghe1QkucH0Gn4OK/i9LNiX5hUmdUYowTUwLbBaeWQlVgBau+FcATYmVcie0JRaFg70gv8gJzFvEFk0I+NJsOKbSg0UrmVnx5vGwwzdNlpRw==;COfXIdH4BwgfwEMdBRPaKg=="
 ---
 

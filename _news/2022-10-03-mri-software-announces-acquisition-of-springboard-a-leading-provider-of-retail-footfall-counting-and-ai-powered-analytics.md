@@ -33,6 +33,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 24
+  - title: "The business case behind AusCycling's data analytics investment"
+    excerpt: "Knowing customers better, harnessing their product and membership usage to personalise engagement and building out differentiated products is firmly in the sights of AusCycling after deploying a data analytics platform."
+    publishedDateTime: 2022-10-06T03:05:00Z
+    webUrl: "https://www.cmo.com.au/article/702119/why-auscycling-building-its-data-analytics-capabilities/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 24
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_114402743.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "2GqJPzpQVWymwSXI8XL6PaU749YMwkF0kYRSnRNWRRM5kRK2qCZ64GhGVlX9HEnrQKSA1/IUXaoAWxRk3O2WxbKQyF+IPv74cH4N6dAexcqLtggTAmJk+go7VT20wqSeUCn9xrAYE+najbz3YG23a0p8uOorSdc/64Vfmm9nAzY1q424kL5P4MpqouRndzLgPzUgKlCqaq0BqGJGor8wkiSwwfVXYFhmUPN7uCKPw5V7VLZgOhFvpHKvqaPhPyYWW2tC++VKi9ONdLm/IjYJq4MKVbCEeUx6Im3TUrToHc7bvN3cGCRu5oR7N+H+5mFxeLPzAregWXI4O8ZXUUAPjHWPCTXqAUCa3i0/sSv/8QKysqpINgEwRwfHX4JWTRf8+n0FnLab16K9NwANNnhglyTeFNd+2Qos5mX+pznaYzCzto84nqy0wsxYfqE0oENADJQPJUbYoUaxUVQd/eYTSWbLjIW+M9Yd36ZsVYXE5JdHagqA7qdvZUiGC7ru069f3iql7I3W7YwF0D+lX5V60g==;Nlujl2EZ+aZBZir65pRs9w=="
 ---

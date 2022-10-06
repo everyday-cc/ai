@@ -2,6 +2,40 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-09-01-voting-open-who-should-be-the-2022-most-influential-woman-in-uk-tech.md",
+      "title": "Voting open: Who should be the 2022 Most Influential Woman in UK Tech?",
+      "excerpt": "Each year, we ask our audience who should be named the most influential woman in UK technology. Tell us what you think.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
+      "originalUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252524478/Voting-open-Who-should-be-the-2022-Most-Influential-Woman-in-UK-Tech?amp=1",
+      "publishedDateTime": "2022-09-01T00:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
       "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
       "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
@@ -1059,40 +1093,6 @@
       "provider": {
         "name": "TechNewsWorld",
         "domain": "technewsworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-31-a-look-back-at-gartners-data-and-analytics-summit-2022.md",
-      "title": "A Look Back at Gartner's Data and Analytics Summit 2022",
-      "excerpt": "Data and analytics are the lifeblood of modern companies and, like so many other things tech-based, they are evolving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "originalUrl": "https://www.cmswire.com/analytics/a-look-back-at-gartners-data-and-analytics-summit-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T06:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CMS Wire",
-        "domain": "cmswire.com",
         "images": null,
         "publishers": null,
         "authors": null

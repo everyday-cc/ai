@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-29-global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027.md",
+      "title": "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027",
+      "excerpt": "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027-2",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXdeP5y1x8QT_YhG2XK53NmOOgbyNWgSTQUs_upb4-pBw3T-O2qNm8WkeTFra6e1vL8FGcu0Jw8mXh44gWA4-6HQGk7SI3-LhOcMRrpsHJRdJxxHcXcK1h3asI7ML1nMAFIOo5LmpW8SzKMyeF91MaVuuxsLpSPrRlJELBn2w5BYUA0SJK8Y2uR7i3/w432-h207/Military-Robots-Market.jpg",
+          "width": 417,
+          "height": 207,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
       "title": "Build Your Own Remote Control Robot And Car For 50% Off",
       "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
@@ -1317,50 +1360,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot.md",
-      "title": "ASX Tech Stocks: Archer’s chip compatible with semi fabs and a super fast plasma boring robot",
-      "excerpt": "Archer's 12CQ quantum chip is compatible with industrial semiconductor fabrication processes and a plasma robot digger with lightsaber arms.",
-      "sourceUrl": null,
-      "webUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
-      "originalUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://stockhead.com.au/wp-content/uploads/2022/07/GettyImages-168623087.jpg",
-          "width": 1933,
-          "height": 1087,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
-      "cdnAmpWebUrl": "https://stockhead-com-au.cdn.ampproject.org/c/s/stockhead.com.au/tech/asx-tech-stocks-archers-chip-compatible-with-semi-fabs-and-a-super-fast-plasma-boring-robot/?amp",
-      "publishedDateTime": "2022-07-20T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "stockhead",
-        "domain": "stockhead.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

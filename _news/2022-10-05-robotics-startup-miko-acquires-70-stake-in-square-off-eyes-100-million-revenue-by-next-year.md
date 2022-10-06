@@ -59,6 +59,20 @@ related:
         width: 480
         height: 359
         isCached: true
+  - title: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year"
+    excerpt: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year - Robotics startup Miko announced it has acquired a majority stake in Square Off, an AI-driven automated"
+    publishedDateTime: 2022-10-06T03:26:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/robotics-startup-miko-buys-70-stake-in-square-off-eyes-100-million-revenue-by-next-year-nid-220145-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 44
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/W82Ax1bf.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Miko acquires 70% stake in AI board-game startup Square Off; aims $1 billion revenue in next 5 years"
     excerpt: "Sneh Vaswani, co-founder and CEO of the company told ETRetail that it aims to reach $1 billion revenue in next 5 years. The company also expects to cr.."
     publishedDateTime: 2022-10-05T11:11:00Z

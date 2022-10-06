@@ -59,6 +59,22 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "RBI plans to extensively use artificial intelligence, machine learning to improve regulatory supervision"
+    excerpt: "While the RBI is already using AI and ML in supervisory processes, it now intends to upscale it to ensure that the benefits of advanced analytics can .."
+    publishedDateTime: 2022-10-06T03:17:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94671065,imgsize-623434,width-1200,height-628,overlay-etcio/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "f8n8kqAC/EQCoZOJX+dJ2VVH4gdh/ntKpUhSt1Z/nE9D4iN9ZEH5t8YOl3rD3Dja9fHDtYEtJzV0YUAymyweTwFlZdAHzE+MSRxfT4bJwoYIziG8dOx3KBsTg9gUtO4qa2i9EVMV+UkXfjmt38r2euAhW0JPLRjti2a14IwdFmT+tR/pDDQWBqjwyyK3JIRk91GTBlWfK+sjg15ZGZq5jPxsRVIWr+wtY4jyvEg3rRs/9kLxAnfccc7FgdspOi+z9Q78VSPGxL1sDghUglkG6PWLwatRtCQMEiNEKSO3PWKfMuKn7uZdUDytwR/gINp2FXhM+fGNCzZwTFfP3WWwC4cbB6dwnpZD+ov7YPX77h8isneVZ5mjDWBjAd9kg1Ty4dkmDj9yIVyZxJRWZMFUjvyB0Y8rnXqMgfIDHttgdNQtzC8NsQ6XHRBQaULU6zEZ5Sc/RctLhZdkvVFB9b1j9ZYm2hsTnEv33bOT/8xghteH8/DfRxHtWcqpPeFZ730VNWjIU9JXuMhyvbtqoJpydQ==;z6XTi+fstCHTdEX0KQkTzg=="
 ---

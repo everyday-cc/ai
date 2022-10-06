@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "The business case behind AusCycling's data analytics investment"
+    excerpt: "Knowing customers better, harnessing their product and membership usage to personalise engagement and building out differentiated products is firmly in the sights of AusCycling after deploying a data analytics platform."
+    publishedDateTime: 2022-10-06T03:05:00Z
+    webUrl: "https://www.cmo.com.au/article/702119/why-auscycling-building-its-data-analytics-capabilities/"
+    type: article
+    provider:
+      name: cmo.com.au
+      domain: cmo.com.au
+    quality: 24
+    images:
+      - url: "https://d1902livswy8rb.cloudfront.net/dimg/800x800/dimg/dreamstime_xxl_114402743.jpg"
+        width: 800
+        height: 533
+        isCached: true
   - title: "MRI Software Announces Acquisition of Springboard, a Leading Provider of Retail Footfall Counting and AI-Powered Analytics"
     excerpt: "Acquisition will enable retailers and destinations to optimise operations via real-time data and actionable insightsLONDON, Oct. 3, 2022"
     publishedDateTime: 2022-10-03T13:07:00Z

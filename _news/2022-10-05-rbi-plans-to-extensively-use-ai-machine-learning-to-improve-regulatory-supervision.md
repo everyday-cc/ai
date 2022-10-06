@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-pl
 cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307"
 type: article
 quality: 68
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-623434,msid-94659476/rbi-.jpg"
         width: 600
         height: 450
+        isCached: true
+  - title: "RBI plans to extensively use artificial intelligence, machine learning to improve regulatory supervision"
+    excerpt: "While the RBI is already using AI and ML in supervisory processes, it now intends to upscale it to ensure that the benefits of advanced analytics can .."
+    publishedDateTime: 2022-10-06T03:17:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/94671065"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94671065,imgsize-623434,width-1200,height-628,overlay-etcio/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "RBI plans to use Artificial Intelligence and Machine Learning to analyse data, improve supervision of banks"
     excerpt: "The central bank has floated an expression of interest (EoI) for engaging consultants in the use of Advanced Analytics, Artificial Intelligence and Machine Learning for generating supervisory inputs"
