@@ -2,6 +2,102 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-08-30-i-have-face-blindness.md",
+      "title": "I Have Face Blindness.",
+      "excerpt": "I Have Face Blindness. This Is How I Recognize You. When you can’t rely on facial recognition, you look beyond the obvious. When you can’t rely on facial recognition, you look beyond the obvious.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "originalUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2021/10/28/autossell/FACE_BLINDNESS_16x9/FACE_BLINDNESS_16x9-facebookJumbo.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/30/opinion/face-blindness-prosopagnosia.amp.html",
+      "publishedDateTime": "2022-08-30T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-altavec-uses-aws-ml-for-bushfire-prevention.md",
+      "title": "Altavec uses AWS ML for bushfire prevention",
+      "excerpt": "Altavec has been the trusted partner of Australian utilities for over 20 years. Delivering excellence in geospatial services via advanced geoanalytics, our technology platform empowers best-practice asset management using complex data to provide informed and actionable insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "originalUrl": "https://www.spatialsource.com.au/altavec-uses-aws-ml-for-bushfire-prevention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.spatialsource.com.au/wp-content/uploads/2022/08/Altavec_web.jpg",
+          "width": 624,
+          "height": 442,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Spatial Source",
+        "domain": "spatialsource.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
       "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
       "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
@@ -1049,101 +1145,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers.md",
-      "title": "Speech and Voice Recognition Market Size [2022-2029] Industry Trends, Share, Growth, SWOT Analysis, Market Drivers",
-      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-size-2022-2029-industry-trends-share-growth-swot-analysis-market-drivers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/07/Hackers-Scammers-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-a-huge-chinese-database-of-faces-and-vehicle-license-plates-spilled-online.md",
-      "title": "A huge Chinese database of faces and vehicle license plates spilled online",
-      "excerpt": "While its contents might seem unremarkable for China, where facial recognition is routine and state surveillance is ubiquitous, the sheer size of the exposed database is staggering. At its peak ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
-      "originalUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/china-xinai-license-database-expose.jpg?w=1024",
-          "width": 1024,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/30/china-database-face-recognition/amp/",
-      "publishedDateTime": "2022-08-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

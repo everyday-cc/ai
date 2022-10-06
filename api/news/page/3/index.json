@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
+      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
+      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-how-will-openais-whisper-model-impact-ai-applications.md",
+      "title": "How will OpenAI’s Whisper model impact AI applications?",
+      "excerpt": "OpenAI's Whisper is a deep learning model that shows promise in transcribing audio in several languages. It's also a nod to open source.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "originalUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "publishedDateTime": "2022-10-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
       "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
       "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
@@ -252,7 +348,7 @@
       "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -398,8 +494,8 @@
       "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
       "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
       "sourceUrl": null,
-      "webUrl": "https://www.kcra.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "originalUrl": "https://www.kcra.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "webUrl": "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "originalUrl": "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -416,13 +512,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kcra.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "cdnAmpWebUrl": "https://www-kcra-com.cdn.ampproject.org/c/s/www.kcra.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "ampWebUrl": "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "cdnAmpWebUrl": "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "publishedDateTime": "2022-10-01T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "kcra.com",
-        "domain": "kcra.com",
+        "name": "WDSU",
+        "domain": "wdsu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1097,92 +1193,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
-      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
-      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
-      "title": "Intel's self-driving car division Mobileye files for IPO",
-      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

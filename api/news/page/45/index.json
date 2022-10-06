@@ -2,6 +2,109 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-08-29-new-ai-cryptographic-technology-can-help-combat-counterfeiting.md",
+      "title": "New AI Cryptographic Technology Can Help Combat Counterfeiting",
+      "excerpt": "The ability to implement an invisible cryptographic seal into existing packaging without changes to existing manufacturing and supply chain processes could transform the ability of companies to stop counterfeiting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/913017298/0x0.jpg?format=jpg&crop=8000,4500,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "publishedDateTime": "2022-08-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028.md",
+      "title": "Facial Recognition Devices Market 2022 [14.2% CAGR] Share, Industry Size, Opportunities, Analysis and Forecast to 2028",
+      "excerpt": "\" Facial Recognition Devices Market \" Insights 2022 By Types (Handheld Devices, Fixed Devices), Applications (Security and Protection, Transportation, BFSI, Others), By Segmentation, Regions and Forecast to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028-2022-08-29",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-devices-market-2022-142-cagr-share-industry-size-opportunities-analysis-and-forecast-to-2028-2022-08-29",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry.md",
       "title": "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry",
       "excerpt": "Teradata (NYSE: TDC ) today announced ClearScape Analytics, the significantly expanded and newly named analytics capabilities that span t",
@@ -1055,92 +1158,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers.md",
-      "title": "Waymo opens up driverless robotaxi service in downtown Phoenix to vetted passengers",
-      "excerpt": "Waymo, the autonomous vehicle developer under Alphabet, is opening up its driverless robotaxi service in downtown Phoenix to vetted local residents. People who have been accepted to Waymo’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
-      "originalUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/IPACE_3.jpeg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/29/waymo-opens-up-driverless-robotaxi-service-in-downtown-phoenix-to-vetted-passengers/amp/",
-      "publishedDateTime": "2022-08-28T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-swordfishai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles.md",
-      "title": "Swordfish.AI: Reverse Phone Lookup Facebook, Linkedin, Twitter User Profiles",
-      "excerpt": "LOS ANGELES, CA / ACCESSWIRE / August 28, 2022 / Reverse phone lookups are commonly used to identify a missed call, an sms text from an unfamiliar number, or when you are unsure who is calling.",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56915014-swordfish-ai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles-200.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56915014-swordfish-ai-reverse-phone-lookup-facebook-linkedin-twitter-user-profiles-200.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

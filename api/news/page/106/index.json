@@ -2,6 +2,83 @@
   "page": 106,
   "value": [
     {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
+      "title": "AWS Announces General Availability of AWS Cloud WAN",
+      "excerpt": "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
+      "title": "VOXPROTECT - A Witness’s voice is not protected",
+      "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-4d749b333b80c5d294872e1e183703c7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
       "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
       "excerpt": "The company targets the NA market with its first generation chip “WARBOY”, set to begin volume production in Q1 2023. FuriosaAI is already sampling WARBOY with customers in South Korea. Bill Leszinske,",
@@ -984,92 +1061,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
-      "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
-      "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
-      "title": "AWS Selected as Delta's Preferred Cloud Provider",
-      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
-      "publishedDateTime": "2022-07-11T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

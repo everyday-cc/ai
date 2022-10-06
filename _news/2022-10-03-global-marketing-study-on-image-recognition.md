@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-marketing-study-o
 webUrl: "https://www.marketwatch.com/press-release/global-marketing-study-on-image-recognition-2022-10-03"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,40 +24,20 @@ topics:
   - AI in Marketing
 
 related:
-  - title: "Metrics for evaluating content moderation in Amazon Rekognition and other content moderation services"
-    excerpt: "Content moderation is the process of screening and monitoring user-generated content online. To provide a safe environment for both users and brands, platforms must moderate content to ensure that it falls within preestablished guidelines of acceptable behavior that are specific to the platform and its"
-    publishedDateTime: 2022-10-05T18:38:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/"
+  - title: "Face Recognition Device Market Perspective With Study Of Key Players & Revenue To Steady Growth Forecast To 2028"
+    excerpt: "Size and Forecast of the Face Recognition Device Market The size of the Face Recognition Device Market is expected"
+    publishedDateTime: 2022-10-04T06:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-perspective-with-study-of-key-players-revenue-to-steady-growth-forecast-to-2028-2022-10-04"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-  - title: "MPs call for tight federal restriction on use of facial recognition technology"
-    excerpt: "OTTAWA - A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian"
-    publishedDateTime: 2022-10-04T20:05:00Z
-    webUrl: "https://www.thestar.com/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 55
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
-      - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "DAZN leverages Amazon Rekognition"
-    excerpt: "Baseball isn’t just America’s favorite pastime; it’s also one of the most popular sports in Japan. Nippon Professional Baseball (NPB), the Japanese equiva"
-    publishedDateTime: 2022-10-04T00:09:00Z
-    webUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 36
 
 secured: "BTucteIzG1hiCes8rXkur4vpY6gqahmCtGIgSc/udEfyJ3BW6hnhlB6lU55iUPlVGdMWoaQEX1gdfXSIMzcIHs5L/GFgVu8SD24XEDAsHPn/FoX6FQeV4OX+LL+2TdxlNZxzcnl3MjAvAxfKZnEg3VBjF/oPwxp0yy7HX0R7y8ssLaOubZGvw+YmSwqFr9MszfUhKi/Z2T6xXaLLZEFFwvgJAP+wxara2GnW0pNLcIN9sZ9W8hNyVIOKK6q9FSIA1Bx5cdtJPRa9rJ+wipk+fTWl8Raqhp9uYrQulLh44L8CqISERWTXFjJO4SBPXS7m8cW9hHLZnbNpXfaACz0cX7ArHbRc+/AjmI7+6zrQaC0=;lZQ6muuYMfA+NPTcC8Hjjg=="
 ---

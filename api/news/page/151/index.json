@@ -2,6 +2,85 @@
   "page": 151,
   "value": [
     {
+      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
+      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
+      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "publishedDateTime": "2022-06-08T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-link-between-cognitive-polygenic-risk-scores-and-clinical-progression-after-a-first-psychotic-episode.md",
+      "title": "Link between cognitive polygenic risk scores and clinical progression after a first-psychotic episode",
+      "excerpt": "Methods The sample comprised of 233 first-episode psychosis (FEP) subjects with clinical and cognitive data assessed periodically for a 2-year period and 150 matched controls. Polygenic risk scores (PRSs) for schizophrenia, bipolar disorder, depression ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/link-between-cognitive-polygenic-risk-scores-and-clinical-progression-after-a-firstpsychotic-episode/74C6CF19F9913067D52C80555D982E66",
+      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/link-between-cognitive-polygenic-risk-scores-and-clinical-progression-after-a-firstpsychotic-episode/74C6CF19F9913067D52C80555D982E66",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-new-observability-features-for-aws-step-functions.md",
       "title": "New Observability Features for AWS Step Functions",
       "excerpt": "Recently, AWS announced a new opt-in capability on the state-machine page for Step Functions. Developers can quickly analyze, debug, and optimize Standard Workflows by enabling the new execution ...",
@@ -1020,112 +1099,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
-      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
-      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "publishedDateTime": "2022-06-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
-      "title": "Investing in AI Stocks",
-      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
-          "width": 400,
-          "height": 239,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Finance",
-        "IBM AI"
       ]
     }
   ],

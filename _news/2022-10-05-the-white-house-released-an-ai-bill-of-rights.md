@@ -1,32 +1,27 @@
 ---
 category: news
-title: "The White House released an ‘AI Bill of Rights’"
-excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
-publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+title: "The White House released an 'AI Bill of Rights'"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
+publishedDateTime: 2022-10-04T20:06:00Z
+originalUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -77,6 +72,22 @@ related:
       - url: "https://images.wsj.net/im-637258/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
+    excerpt: "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint."
+    publishedDateTime: 2022-10-06T15:56:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200"
+        width: 876
+        height: 494
         isCached: true
   - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
     excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
@@ -235,6 +246,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "BxLATaN1f8BOjybY3shNpa0hwk1IvtbKgC+trhPTRL/BtSI64u2yqBDvpgqGt5s0e2Mtv+lD0Y51vn8dnjbfLyW+EP710pDITcHOPYeGgN1ZXv/YDATJ5w+Mebv+Ko1ElvzrecXYAqkDBK4d7cwWeezUxTRHcYaMQ/OvCreh4b8Tu4orOh0RVg+MKbZF0Jgip/AZXB0M7MssUOnfRyQx1AMS5wZ1JVkmuunRCImjcvT6mxN/kWbtbuJa3GrqX8oC8/oZ3B+uMEgiEjSpO/xymmVS+g11Y6qXGd/YDoAumLkAvlTC2hTBbwviW9eVEf67qJcmfj6VzWOvo/qxVhN+9WTqHLQARaTvEViA+GosxiM=;2WZ3FWJsGsZmGkf/bv2AnQ=="
+secured: "FoDovn7pzkpGmzkhaAWfc7wm/D9J+oQW1jxvGNmy77cs/5dhdce79WFwgAd7na7BFeze3MzG1e0pT58KQuPMxzwn3Oo83uDNweFdvMMYBq4ogJ2w320UEK/2o4xznwriQYmythf7RFf6D51Czpouclkf/Q8mA38qv0MlCv/YGumTGvX4P9RmQZSOD1HMqwqgHCkET/yxySZBnYjBRf21LPPRds+btggKloENqVQTKPpsNQ3lkyUGrk6A9MFyav2B96EjuPi5e1hG2V7Y2YdFMZ1YTFRqHEEobf1YBOB5TeGgphuGpnrggE7j4PzHdtrWcSfAY9DJbZGp0bwIDkBoPJC2UAbikhg8xK+T9CnYqrk=;M+eMaXTU1rFV9ea42djQQQ=="
 ---
 

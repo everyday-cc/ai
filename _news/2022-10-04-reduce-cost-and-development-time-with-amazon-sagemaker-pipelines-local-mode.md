@@ -43,6 +43,20 @@ related:
         width: 1531
         height: 766
         isCached: true
+  - title: "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models"
+    excerpt: "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead"
+    publishedDateTime: 2022-10-06T16:59:08Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 96
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg"
+        width: 1549
+        height: 769
+        isCached: true
 
 secured: "DsTjc1LKWEoDf+y6weYV1VGxjMdm40Ze/jWnr/anuErtRXYpOdZQpi/ZTRu+9LPS3ptts9lqWJC31BkzlRYtrHfhpc1iCC7AxCyAJC+ppXzRLPHxIPJwWodEPz8EQx6FrLBhwH3AsrvBumDdbIo6z4T5xnAuxtheUsP83yM0/TjVmnXsgpTdU3ZhpoV7EPy/U/cosm8Gctt8+DiszWWbS8B8J4zMvDnUXUhgFWj4qCiCgYKvi4BnG09W1MskHxiJXfC6Ku8n/6HXiHVxD114rLdDenIItUjeAxbmdgR+utbJlcf8ou15EIb+ws5hLXQxnDI21+d2f9G2IwFOpwMp9mscNT+HN0hlQiorQcFHSL8=;IhPQc8xBVB5prt1ljGWOOA=="
 ---

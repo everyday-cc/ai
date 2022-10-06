@@ -2,6 +2,85 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-26-affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot.md",
+      "title": "Affordable Security Through Knightscope’s K1 Hemisphere Autonomous Security Robot.",
+      "excerpt": "The K1 Hemisphere by Knightscope is a wall mounted entry point security robot that is equipped with the latest in technology and artificial intelligence. The K1 can act as monitoring and reporting device at gates and entry points, allowing organisations to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "originalUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/09/William-Santana-Li-the-CEO-of-Knightscope.jpg",
+          "width": 512,
+          "height": 288,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/affordable-security-through-knightscopes-k1-hemisphere-autonomous-security-robot/amp/",
+      "publishedDateTime": "2022-09-26T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-public-support-needed-to-tackle-racial-and-other-biases-in-ai-for-healthcare.md",
+      "title": "Public support needed to tackle racial and other biases in AI for healthcare",
+      "excerpt": "as part of the NHS AI Lab’s AI Ethics Initiative. Dr Xiaoxuan Liu from the Institute of Inflammation and Ageing at the University of Birmingham and co-lead of the STANDING Together project said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/965946",
+      "originalUrl": "https://www.eurekalert.org/news-releases/965946",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
       "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
       "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
@@ -1091,83 +1170,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-important-for-brain-health-blueberries-may-reverse-cognitive-decline-study.md",
-      "title": "'Important for brain health’: Blueberries may reverse cognitive decline - study",
-      "excerpt": "You can unsubscribe at any time. More info Cognitive decline mainly occurs in older people, as the brain ages some of its functions begin to deteriorate, often at different rates in different people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1673072/cognitive-decline-eating-wild-blueberries",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot.md",
-      "title": "What it means for responsible AI and why DeepMind isn’t deploying its new AI chatbot",
-      "excerpt": "Irving argued that the complexity of conversational AI stems from the need to account for a great deal of contextual nuance in every interaction. A system like DeepMind’s AlphaFold, he explained, is “embedded in a clear scientific task” in which “you have data like what the folded protein looks like” and “a rigorous notion of what the answer is” (such as,",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "originalUrl": "https://bestgamingpro.com/what-it-means-for-responsible-ai-and-why-deepmind-isnt-deploying-its-new-ai-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/09/Why-DeepMind-isnt-deploying-its-new-AI-chatbot-—-and-what-it-means-for-responsible-AI.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

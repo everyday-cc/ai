@@ -2,6 +2,50 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-07-19-nanomagnets-can-discern-wine-and-could-slake-ais-thirst-for-energy.md",
+      "title": "Nanomagnets can discern wine, and could slake AI's thirst for energy",
+      "excerpt": "Human brains process loads of information. When wine aficionados taste a new wine, neural networks in their brains process an array of data from each sip. Synapses in their neurons fire, weighing the importance of each bit of data—acidity,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/nanomagnets-can-choose.jpg",
+          "width": 960,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-nanomagnets-discern-wine-slake-ai.amp",
+      "publishedDateTime": "2022-07-18T12:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications.md",
       "title": "Ghost imaging using human vision and AI opens up novel applications",
       "excerpt": "In the second phase of the research, the Russian scientists developed two artificial neural networks (ANN). They trained the first one with data to create images from visual \"noise\" in three of ...",
@@ -1315,58 +1359,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr.md",
-      "title": "Machine Learning Artificial intelligence Market SWOT Analysis By 2028 | Size, Scope, Top Companies, Growth Drivers By VMR",
-      "excerpt": "The study focuses on global companies that operate in the Global Machine Learning Artificial intelligence Market and includes information such as company profiles, product samples and descriptions, capacity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

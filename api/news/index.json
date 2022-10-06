@@ -2,6 +2,112 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-06-how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video.md",
+      "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
+      "excerpt": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/synamedia-rekognition.jpg",
+          "width": 1545,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T10:15:30-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-informediq-automates-verifications-for-origences-auto-lending-using-machine-learning.md",
+      "title": "InformedIQ automates verifications for Origence’s auto lending using machine learning",
+      "excerpt": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation’s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders’ policies. They improve",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/informediq-automates-verifications-for-origences-auto-lending-using-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/informediq-automates-verifications-for-origences-auto-lending-using-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/informediq-automates-verification.jpg",
+          "width": 1546,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:51:46-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview.md",
       "title": "Domino’s MLOps release focuses on GPUs and deep learning, offers multi-cloud preview",
       "excerpt": "New connectors and support for GPU inferencing accompany private preview of Nexus hybrid-/multi-cloud capabilities",
@@ -148,6 +254,57 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-ai-powered-supply-chain-visibility-platform-altana-bags-100m.md",
+      "title": "AI-powered supply chain visibility platform Altana bags $100M",
+      "excerpt": "Altana, a supply chain visibility startup, has raised $100 million in a venture funding round, bringing its total raised to $123 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/",
+      "originalUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1281413327-e1657293225925.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/",
+      "publishedDateTime": "2022-10-06T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -505,50 +662,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services.md",
-      "title": "Metrics for evaluating content moderation in Amazon Rekognition and other content moderation services",
-      "excerpt": "Content moderation is the process of screening and monitoring user-generated content online. To provide a safe environment for both users and brands, platforms must moderate content to ensure that it falls within preestablished guidelines of acceptable behavior that are specific to the platform and its",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T11:38:22-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Computer Vision"
       ]
     },
     {
@@ -1045,7 +1158,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 248,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -1139,102 +1252,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
-      "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
-      "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "originalUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "publishedDateTime": "2022-10-04T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose.md",
-      "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
-      "excerpt": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers’ needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg",
-          "width": 1548,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T13:39:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

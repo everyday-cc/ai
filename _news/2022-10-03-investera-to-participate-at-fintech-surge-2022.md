@@ -101,6 +101,22 @@ related:
         width: 416
         height: 416
         isCached: true
+  - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
+    excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
+    publishedDateTime: 2022-10-06T16:38:00Z
+    webUrl: "https://www.thestar.com/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 36
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "India’s fintech unicorn Yubi makes UAE debut"
     excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
     publishedDateTime: 2022-10-06T05:39:00Z

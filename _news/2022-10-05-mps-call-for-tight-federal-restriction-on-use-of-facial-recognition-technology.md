@@ -27,33 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "Metrics for evaluating content moderation in Amazon Rekognition and other content moderation services"
-    excerpt: "Content moderation is the process of screening and monitoring user-generated content online. To provide a safe environment for both users and brands, platforms must moderate content to ensure that it falls within preestablished guidelines of acceptable behavior that are specific to the platform and its"
-    publishedDateTime: 2022-10-05T18:38:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/"
+  - title: "Opinion: Facial Recognition Has a Race Problem. Can Federal Law Help?"
+    excerpt: "The powerful biometric surveillance tools used to identify suspects are up to 100 times more likely to misidentify Asian and Black people compared with white men, according to a 2019 National Institute of Standards and Technology study."
+    publishedDateTime: 2022-10-04T23:13:00Z
+    webUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help"
+    ampWebUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
     type: article
     provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
-  - title: "Global Marketing study on Image Recognition"
-    excerpt: "Image Recognition Market leaders and important players, competencies, and capacities of these companies in terms of production as well as sustainability and prospects. The Covid-19 pandemic favored the growth of the market due to a rise in the shift toward the adoption of technologies since most businesses implemented the work-from-home culture."
-    publishedDateTime: 2022-10-03T04:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-marketing-study-on-image-recognition-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-  - title: "DAZN leverages Amazon Rekognition"
-    excerpt: "Baseball isn’t just America’s favorite pastime; it’s also one of the most popular sports in Japan. Nippon Professional Baseball (NPB), the Japanese equiva"
-    publishedDateTime: 2022-10-04T00:09:00Z
-    webUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 36
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/cfa992a/2147483647/strip/true/crop/3000x1564+0+90/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3a%2F15%2F005b90464496b2aea33679821d02%2Foped-facial-recognition-commentary-get.jpg"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "eIC83mZD50jnc7DBM2o8yjW4cTMQO0oSUV6FF3YeW2sqvtsRuUlg8Med/iovO4ZugWDF2SVd/4Q7zHEQ8t7RzDKv9vRONCuqma/d91bJ1XyrYwBpiKVLejKONLGvzFMnIKswqzmf5uiASusSnnFzIGuv98k3vNWxfloYKjP//iZi6d2SjvP/5IFmIkkZpcm/MfDgYX1YcQM1lQrAQLQyUBFTsq36d+TcaG4srf0Dlr3eFAnXeRWs2ZGJInUu3Z/bOTeMNfz2Q+14tb7ye7/L77haBmagJJIx9R5EELTCRBPKRt2vD4zN0SJkjMrA1M+Rx7eACFbJxMR48JPmpSnz/jPUBuQGxCUDhs/gihxpHoc=;kLrp0JNBJCXxyEr3gyXZZg=="
 ---

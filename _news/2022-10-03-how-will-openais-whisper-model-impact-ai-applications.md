@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Art Of System Design As HPC And AI Applications Diverge"
+    excerpt: "Predicting the future is hard, even with supercomputers. And maybe specifically when you are talking about predicting the future of supercomputers. As we"
+    publishedDateTime: 2022-10-06T15:50:00Z
+    webUrl: "https://www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc-and-ai-applications-diverge/"
+    ampWebUrl: "https://www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc-and-ai-applications-diverge/amp/"
+    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc-and-ai-applications-diverge/amp/"
+    type: article
+    provider:
+      name: The Next Platform
+      domain: nextplatform.com
+    quality: 59
+    images:
+      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/two-roads-diverge-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "OpenAI Releases 1.6 Billion Parameter Multilingual Speech Recognition AI Whisper"
     excerpt: "OpenAI recently released Whisper, a 1.6 billion parameter AI model that can transcribe and translate speech audio from 97 different languages. Whisper was trained on 680,000 hours of audio data collected from the web and shows robust zero-shot performance on a wide range of automated speech recognition (ASR) tasks."
     publishedDateTime: 2022-10-04T13:35:00Z

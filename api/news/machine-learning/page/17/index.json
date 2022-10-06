@@ -2,6 +2,51 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-25-contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b-decision-makers.md",
+      "title": "CONTENTGINE EMPLOYS ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING TO ANALYZE MOST POPULAR AI CONTENT AMONG B2B DECISION MAKERS",
+      "excerpt": "RENO, Nev., May 25, 2022 /PRNewswire/ -- Contentgine®, the world leader in content-based marketing, today released its latest \"Top 5\" research ranking the most popular artificial intelligence (AI) content consumed by B2B decision makers and analyzed by ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/contentgine-employs-artificial-intelligence-and-machine-learning-to-analyze-most-popular-ai-content-among-b2b/article_c9c2a387-67dd-5ba1-a02b-3a911518a32e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid.md",
       "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid,",
       "excerpt": "The ML Workbench is a Jupyter-based Python development framework that allows data scientists to quickly build powerful deep learning AI models using connected data. Graph-enabled ML has more ...",
@@ -1333,59 +1378,6 @@
         "Machine Learning",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml.md",
-      "title": "Detect social media fake news using graph machine learning with Amazon Neptune ML",
-      "excerpt": "In recent years, social media has become a common means for sharing and consuming news. However, the spread of misinformation and fake news on these platforms has posed a major challenge to the well-being of individuals and societies. Therefore, it is imperative that we develop robust and automated solutions",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/detect-social-media-fake-news-using-graph-machine-learning-with-amazon-neptune-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/19/graph-neptune-fake-news.jpg",
-          "width": 1000,
-          "height": 499,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T09:12:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

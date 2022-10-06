@@ -87,6 +87,22 @@ related:
         width: 690
         height: 390
         isCached: true
+  - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
+    excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
+    publishedDateTime: 2022-10-06T16:38:00Z
+    webUrl: "https://www.thestar.com/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    ampWebUrl: "https://www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
+    type: article
+    provider:
+      name: Toronto Star
+      domain: thestar.com
+    quality: 36
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Investera to participate at Fintech Surge 2022"
     excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
     publishedDateTime: 2022-10-03T06:09:00Z

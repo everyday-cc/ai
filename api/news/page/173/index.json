@@ -2,6 +2,101 @@
   "page": 173,
   "value": [
     {
+      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
+      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
+      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "publishedDateTime": "2022-05-24T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-geisinger-selects-aws-as-strategic-cloud-provider.md",
+      "title": "Geisinger selects AWS as strategic cloud provider",
+      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually DANVILLE, Pa., May 24,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "originalUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1653214/Geisinger_School_of_Medicine_Faculty_Return_Logo.jpg?p=publish",
+          "width": 1960,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox46",
+        "domain": "fox46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan.md",
       "title": "How will AI be used ethically in the future? AI Responsibility Lab has a plan",
       "excerpt": "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations.",
@@ -1042,83 +1137,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
-      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
-      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LocalSYR",
-        "domain": "localsyr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
-      "title": "How To Make AI Marketing Initiatives Actually Deliver",
-      "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

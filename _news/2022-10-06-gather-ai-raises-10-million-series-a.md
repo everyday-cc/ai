@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-06T15:47:00Z
 originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/10/06/drone-warehouse-robotics-company-raises-10-million.html"
 webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/10/06/drone-warehouse-robotics-company-raises-10-million.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
   - title: "Xembly Raises $15M in Series A Funding"

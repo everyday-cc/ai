@@ -59,22 +59,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "The White House released an ‘AI Bill of Rights’"
-    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
-    publishedDateTime: 2022-10-04T21:06:00Z
-    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
     excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
     publishedDateTime: 2022-10-04T21:12:00Z
@@ -90,6 +74,22 @@ related:
       - url: "https://images.wsj.net/im-637258/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
+    excerpt: "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint."
+    publishedDateTime: 2022-10-06T15:56:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200"
+        width: 876
+        height: 494
         isCached: true
   - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
     excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
@@ -161,6 +161,20 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "The White House released an 'AI Bill of Rights'"
+    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
+    publishedDateTime: 2022-10-04T20:06:00Z
+    webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+    type: article
+    provider:
+      name: WSIL-TV
+      domain: wsiltv.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"

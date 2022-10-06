@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-04T03:00:00Z
 originalUrl: "https://vietnamnet.vn/en/big-shortage-of-human-resources-for-artificial-intelligence-2066526.html"
 webUrl: "https://vietnamnet.vn/en/big-shortage-of-human-resources-for-artificial-intelligence-2066526.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://static-images.vnncdn.net/files/publish/2022/10/4/artificial-intelligence-262.jpg"

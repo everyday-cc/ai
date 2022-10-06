@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Kami Vision's Fall Management Solution, KamiCare, Expands National Access Through General Availability"
-excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprise, SMBs and consumers, announces the general availability of KamiCare, its vision AI fall management solution."
-publishedDateTime: 2022-09-27T15:02:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-kami-visions-fall-management-solution-kamicare-expands-national-/2022/09/27/9681407.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-kami-visions-fall-management-solution-kamicare-expands-national-/2022/09/27/9681407.htm"
+title: "Kami Vision’s Fall Management Solution, KamiCare, Expands National Access Through General Availability"
+excerpt: "Following May beta launch of the edge-based vision AI solution, more than a dozen senior living, assisted living and memory care communities expanding services. Kami Vision, the c"
+publishedDateTime: 2022-09-27T13:46:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-kami-visions-fall-management-solution-kamicare-expands-national-access-through-general-availability"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-27-kami-visions-fall-management-solution-kamicare-expands-national-access-through-general-availability"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "s/GaOGnmFBWFxF//95QEd+48ifZ5QCSQEtYdtQhzwADRKJyEzAT74NE6uy9syKOX4MBdmQlIzIqtJ6cuINiDBhNcXDjs1xVLR0C+Iiz6bi50ZTFXF86aufC+Trx7vdVB//p1+N0kYCYaCLX8UMZahNBEmB/CHGenE9blp3qFacqW0TvVfFXYtMkABKN6utKvipncLvxzNWk86Fg3+j0ksCp6hjPzCMcZAIypfSbUnQDF+16JHeCFOqsAQbuH1esZtldosCZmWEkqlZAhMEUZ3sf5AExBp0KEcKs6Sl4EOjpDa0gFv6l7AxnGEJ0iouuLEx8nlqN3LAAhMM59cfQhZp27w30r2/PtACSt0q1Au6U=;A8GfOEWCMxCGCIgbB1q8Pw=="
+secured: "rrHa3Z7jnIYw0LkZ5PaoUqrul1TaQHtx5dcEqYn6EKSZml4caFjHVnMVY2IlGU4mhK1++pHJIjfDwrtxC901pupTEOY4h8HClhAMcOZUbFDrxnR1iIRcLq27nVJjElTNp5B75nLuy0NdNV9w+Ijq3PBMyPIiaIVTwErWn6/j8eQBdJjC0rEfZbht7/2/F5kCZoLaQwdX+75choLaHqqmRa8MWTHOeGiwUhLg8k75raaq4Mc2yEQRzgQwO7YwZt2CQz+uQWRYUmkH9w974b6ZBMfqknJCsnPh5a4GnDVr9V4gkWI5kC6HOQtmMcWJZKr+/YuSKf8ydqwIba41WzpQfVMtwl2rSe18GurElvw49YQ=;0aRGeuWTEUxKHFzKu3ardw=="
 ---
 
