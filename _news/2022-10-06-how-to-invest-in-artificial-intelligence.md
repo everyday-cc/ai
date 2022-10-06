@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artific
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -64,6 +64,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 665
+        isCached: true
+  - title: "ING and UniCredit double-down on investment in Axyon AI"
+    excerpt: "ING and Unicredit have joined a €1.6 million investment round in Axyon AI, an Italian fintech that supplies asset managers with AI-powered market insights and investment strategies."
+    publishedDateTime: 2022-10-06T09:04:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41082/ing-and-unicredit-double-down-on-investment-in-axyon-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/daniele-grassi---axyonai-002.jpg"
+        width: 480
+        height: 270
         isCached: true
   - title: "Keys to Implementing AI in Drug Discovery"
     excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."

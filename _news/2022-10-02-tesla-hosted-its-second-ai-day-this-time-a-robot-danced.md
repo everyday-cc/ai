@@ -60,20 +60,6 @@ related:
         width: 1600
         height: 898
         isCached: true
-  - title: "Tesla's AI Day delivers a real Optimus prototype and more FSD updates"
-    excerpt: "Tesla's AI Day is a yearly event where the company showcases upcoming technologies and lays out its roadmap for future development. While the technology demonstrations are"
-    publishedDateTime: 2022-10-01T15:08:00Z
-    webUrl: "https://www.techspot.com/news/96169-tesla-ai-day-delivers-real-optimus-prototype-more.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 86
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-30-image-27.jpg"
-        width: 2708
-        height: 1360
-        isCached: true
   - title: "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside"
     excerpt: "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future."
     publishedDateTime: 2022-10-04T07:20:00Z

@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "ING and UniCredit double-down on investment in Axyon AI"
+    excerpt: "ING and Unicredit have joined a €1.6 million investment round in Axyon AI, an Italian fintech that supplies asset managers with AI-powered market insights and investment strategies."
+    publishedDateTime: 2022-10-06T09:04:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41082/ing-and-unicredit-double-down-on-investment-in-axyon-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/daniele-grassi---axyonai-002.jpg"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Keys to Implementing AI in Drug Discovery"
     excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."
     publishedDateTime: 2022-10-03T12:00:00Z

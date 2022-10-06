@@ -88,7 +88,7 @@ related:
     provider:
       name: The Independent
       domain: independent.co.uk
-    quality: 30
+    quality: 32
     images:
       - url: "https://static.independent.co.uk/2022/10/03/10/battery-g0145dd061_640.jpeg?quality=75&width=1200&auto=webp"
         width: 1200

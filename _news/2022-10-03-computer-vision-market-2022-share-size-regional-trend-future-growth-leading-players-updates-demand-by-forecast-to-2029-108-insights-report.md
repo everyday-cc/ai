@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market Research Insights with Upcoming Trends Segmentation Opportunities and Forecast to 2030"
+    excerpt: "The global machine learning market size was US$ 11.1 billion in 2021. The global machine learning market is forecast to grow to US$ 121 billion by 2030 by registering a compound annual growth rate (CAGR) of 31% during the forecast period from 2022 to 2030."
+    publishedDateTime: 2022-10-04T10:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-insights-with-upcoming-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Diagnostics Market Outlook, Size, Segmentation Analysis, Share, Drivers and Forecast 2028"
     excerpt: "Artificial intelligence is used primarily in healthcare to examine the relationship between treatment options and patient outcomes. AI programs can be used in medical procedures such as drug development, patient monitoring, and medication management."
     publishedDateTime: 2022-10-03T10:32:00Z

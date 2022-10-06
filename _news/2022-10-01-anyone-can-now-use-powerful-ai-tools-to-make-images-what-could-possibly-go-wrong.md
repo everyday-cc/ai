@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
@@ -43,6 +44,6 @@ related:
         height: 676
         isCached: true
 
-secured: "1Jv+tvvp2H44dh60bkOKu9UY+Tr1AmO1sfG2ExeYiR9GZ6OXatuzoh2dEbdf1TT1pyARbwgvwVqPA1rnvgcfh1b/yNDCaTOrdMu7w5C2AM2ycv7vo6aRrOsyvaTzyB+kUNLQSPsaMXAHKOBV8monFLHwnCFf/yWDIdybS7twohMCc1AcrAEQKMb/n+6A+GXi6ahN5zgue2QyJGq/YwgWV41WHDRV2Ux+4x3uDZKCCiTkCY6SCltgMJWKpL1r6xgZm+Nyy5yqok+/hQ4VEGpjqdsJ0IgaawwZPHlKVbTup95aMffjgtb9uCBjvApKPSaNEp51l4Wp07lx1tnsRbAHMR6bFVpi9V7bcyEKNvlX0ok=;/zjmNTxZR8QKThLR9+utLQ=="
+secured: "ILiRYGUXW2/vuCz4OBJMOL5+U8NIjVYU6wy/WcFjzd3w2TkSwsf/ZMPdIuiXvT9lox+hC6vLep2ln/2iIIJ6QpRvPl7kFhC5aCTNaq1/7MCncjsyAjH9o1E38nxFXXQRMbC2+GPYuPG7Yb/EdMeGECCPssmo4k04puzQvf+I0IuiouyLlL59zmGflt0A+6IajqplXHt9bF6BaKndrdaDHfzzf7K6oRJP5Y6wW5AeIbQlfIhOgs5ZsiUmgDwUOKE25hiQBOA8uP/7nEcCo7ugK/TVFaynQmqhw831rJ+7wK/C+o+x/qGJeZxc+plS359+hjuRQbFvPr9SpfOdMqK1EEZB+evmZsm0acmB5Dt1wP9kjleZFhYGxR4hFAhmuDgkNEd3V2HMvtrdpW9lt9GZ3axBOAqxBVTM6Svf085AlXkHNcw0AlFvfYYgzYJvZlRGmVtT5Pi7/hzyJ78Hy6ogQsdfZX/IIia/ZJy4k0BMFaREdvVNDmuWBVSGSiQN1h+g62rpFjk4l9DOJk22/8CscA==;g1mkCvSwvOk/bvBBMIjY5g=="
 ---
 

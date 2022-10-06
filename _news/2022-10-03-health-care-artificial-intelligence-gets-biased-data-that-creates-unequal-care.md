@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-10-health-artificial-intelligence-b
 ampWebUrl: "https://medicalxpress.com/news/2022-10-health-artificial-intelligence-biased-unequal.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-health-artificial-intelligence-biased-unequal.amp"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/medical-data-1.jpg"

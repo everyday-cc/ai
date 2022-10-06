@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 173
+heat: 183
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market Research Insights with Upcoming Trends Segmentation Opportunities and Forecast to 2030"
+    excerpt: "The global machine learning market size was US$ 11.1 billion in 2021. The global machine learning market is forecast to grow to US$ 121 billion by 2030 by registering a compound annual growth rate (CAGR) of 31% during the forecast period from 2022 to 2030."
+    publishedDateTime: 2022-10-04T10:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-insights-with-upcoming-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

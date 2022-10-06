@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 665
         isCached: true
+  - title: "ING and UniCredit double-down on investment in Axyon AI"
+    excerpt: "ING and Unicredit have joined a €1.6 million investment round in Axyon AI, an Italian fintech that supplies asset managers with AI-powered market insights and investment strategies."
+    publishedDateTime: 2022-10-06T09:04:00Z
+    webUrl: "https://www.finextra.com/newsarticle/41082/ing-and-unicredit-double-down-on-investment-in-axyon-ai"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/top_pics/xl/daniele-grassi---axyonai-002.jpg"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "Dgss2PL7ot2Z0HgADEK1bSDf5DW700RjIY8COu93PPGp7CsXeyx1ApNngFvXZWm0AziEJTBUNaul7pO5/BPW6vOYJpEb65p7/aZnif3/uNNNG7T/hb4rh74od/WQ5eE/IhMtm7VWTtPEtY+LP0odfeSo9mRuVF0kjtKu14d98MGtApTm2rBhTlc5AbPg96I7WDJey2AHHiphaXJq7ubF6hAgD/5IoHrrmGySg/hxkysks3m0xXslDt4s6YxmC7G1mfKqpnSmVVdyENHEPhJTKA9F00NWo9wWBFzHrZ+KwaBpoWGJKsuDM3dAU1kTFTyIUOb1ASiYgUT6OGFBXNx4rlYwCkRpymTN0M/eZwQ6Pj9qeh6G6U1E/aCRMbnavDQ4kHpNI0aVFwTw9M4swkovCWei1JbtWgDvhGB5eztpt85/UPfUQPjBCeBIxh46w1dWoIKYhYcS2VI7Qr1QWBUtQ1j/SLZaqb/2KgeIBKt3JWNLLOzCAv/eiP5aHe9N6UV96DS45/2zfiGHYESo1TdLuA==;PQqvbqe51dChtL9Xnxx6yQ=="
 ---
