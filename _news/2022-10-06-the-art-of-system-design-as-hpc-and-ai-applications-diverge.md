@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/two-roads-diverge-scaled.jpg"
@@ -53,6 +54,6 @@ related:
       domain: infoq.com
     quality: 29
 
-secured: "mJLT73x0m/1P5fSk9LUAXtClApPAR+lMZJ93q/t74S1aSBXu66lXaPX/T/S2ZhnznEMw3rgEkIayQFHMUse3B5x7FZADvkLoJyeFVF5Udg8e68yBVDbt0/Oin5xAPpxHM3yCLwTyBaqRnuvVHUz0uD1cjjMPE32kmCXShy9IIImEu5JCzwrghZ+nkQtZtvLesGTKbEkRRdyk6PvYYjlfBlppmzaR9hdiBdm1Ge2Ak23IFbtvb2cxWy0Z+s/T0RTWTxL+7Ik1EEEzgwcC4NSOFRwUHPIYL6Ws2kH09xyEToxPhhVcMMSHXcV8baFqAIX/sw52zJh5eT/fpSFETK9+YRVUxkPNOp4EuYMiAI8zXf4=;hKMwStcAgnZWRpxfcdJQpw=="
+secured: "U3AYdcXBMAu8SAHldQbvHn8i/D8VKfyzWOQD/rzoy3FlYCD9c3yXm2r4cAiAspBIj0wASnvok+cQN9lBZVappyJ4IySlzC1hs0CB43FH6iyeKzM8K53TY9Sk3Fu085pzaJGtDiQ2JeOYTjCi20s9Rvg2QlNoeZrNQVo3MQ8jhg4hgH1YSWNhr5Ax2M1qPiJ4Fb+VB2Vd/vx/e4QWZllBNHLN6VDOcRO3c2sU8FT9Ez+MsGGBOo1K9j/UKyIV6ptKS+oF87GhXs9Gv+2zCaBGcCVrujr7vyOmpW2eqvnRxrcdEwO11R/m+0B84aREYE765v6o6CaEwS09Bg9G0rGaSaS+88Ljctgr8Zy9fyzIITr4g4nQ/dDLkHdtCM2BikYylM1U6SEucjtdQR8Casb2bKqXws9y5XF/h6SvMPrBGHmvZGK/TqQ10qwpa2rhJs0+MAMhHSrIkHfOx9VcmaQ8KDS0lv1Rkf6ESwv3ZkF2QWyPyEOwJrt22fraCKZMDC7zXOrWf1DqSZbua9v+onQjvA==;5h58CwCJG+QkHJB31YTK9g=="
 ---
 
