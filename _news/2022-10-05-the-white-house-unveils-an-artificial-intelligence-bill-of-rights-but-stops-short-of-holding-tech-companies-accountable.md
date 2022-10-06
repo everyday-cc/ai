@@ -220,6 +220,15 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 18
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
+    publishedDateTime: 2022-10-06T13:21:00Z
+    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "FE6N+kZ1Ovul+CTKwRrgVDVNJD3TwOPShGlRnkm0uypuXUtOnj51xOlUAG8V4RodgpzUPQtWa1/7GyI+3/H+Uj2FvOIPb16tsu99OCcaRPTq+8ng3c+o4arYDr/NZBbboCc5ASIGosTTh+ogeyNozZfcfvOr2x7ZKPaYHsdl1wk8k4xeInkr82oy+jCSN4E6rZavohy95yf04C9SIjte12jfkRa7Xu9PUlgDOeeOZO46/XyFaaKGFoFMq5uuwEmFUQIofF/aK7g0Kgq3oxa9X98flgzkGC9X5cHg9/jC4LEDBUnh2VXW7w9s3XEHCwPjCSgr9zNxMZ6da0jjXRWoiOCjy6dsVFnYHbN/m7bzRl4=;DN3J5FGCH9Z9PGOoWooxcw=="
 ---

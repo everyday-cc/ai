@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Experimental Alzheimer’s Drug Slows Cognitive Decline in Large Study"
+    excerpt: "The experimental Alzheimer’s disease drug lecanemab slowed the progression of cognitive decline by 27 percent in a large, late-stage clinical trial, the drugmakers Biogen and Eisai said."
+    publishedDateTime: 2022-10-05T00:11:00Z
+    webUrl: "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline-in-large-study/"
+    type: article
+    provider:
+      name: Everyday Health
+      domain: everydayhealth.com
+    quality: 4
 
 secured: "EAQUyGu3uKRNRR8mUt+hkZUVthoROLTxfQtO+kFlX26CuZAi43S+ejr8TEbTSe5FAipe7aJcdF62YqKzt/a2ikFRF2ROFu/p/Sxgv+OtHvKcpb9aXba1tHNHWJNE7XeYW/fVtDHeRXrL0pjfUnm/G7fKro0q/uRPxDNmQPh8uc5anJe31pz+3QB5EM9VWgMdVqBwQfG9nHYbVJ0CzeAwCRXs5IeQ4GDRhW+2BMwnwfQl56M6t0C1Nu3qgLDT3l8IxQRfZJwBT20ryfS+NerorEZSB7rgPHZKQru8xPaEE/i66ekInET4OTt49DGl5T6D+ioO3Z9OoK3q9h3GvriFNEZNCWapC5KHPKQGrPgNobo=;EE+tqrE6/jqb+PZ42BcWww=="
 ---

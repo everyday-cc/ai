@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp"
 type: article
 quality: 86
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Protester injured by Salem police awarded $1M in lawsuit"
+    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
+    publishedDateTime: 2022-10-06T11:31:00Z
+    webUrl: "https://www.thenewstribune.com/news/state/washington/article266770231.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 4
 
 secured: "pzVpO3W2yoyOiYhjU/eOloLX9aDp9oOS4gQ8ZTdLuKMpu31PO+Br1Ip9Xm+Wu3ZqVa7lcTiMMvSkHNMykjrDHSTmjLq5+PFx8Su5gB1iS4cimblUVRNg9hsc5aoTyhA/2mXhQNBlCWvuxfO+z+XOeBSxauGKuM+iMHsVxSu6c+0gmyFfPw9BQaJYy3BmP0yRlE/WfHvM/Ka73AumiN4RzBLxC+BxhwQ4DKJ2mhjxCpvKpfRxmWrw7aMOX0FtM8woCSotPoiQma3JiCeHJ/+uzqfF8H4UmOtbFK5NXD0Pgm2de+G3o2B8ka7u9jwjcqA2g6HYrxRGsuLAnitMl0xRvmO9eOreGCM5EMb2VtRBzqeWLkZvVI+gMBiX1cGd/rwR7uJVvu5M7cOMF4CDpOFoJJqNJ5DuV3GWr4ObqWhbWNk+9HPkrSIqixHxL3vzhGp1LNerQICg7vQ4vdkMXPUMp/3Za85Lx2M2E0cQmv/0Rmit3WFHQzMhYX/jISyEftOxZae6q0yWcTT/Jjsq1oVCUw==;GCQGU2Q+MI0yfMhszWTHWA=="
 ---

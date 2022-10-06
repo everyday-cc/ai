@@ -123,6 +123,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Gates Hub participates in the largest fintech event in Dubai"
+    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
+    publishedDateTime: 2022-10-06T12:52:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 19
 
 secured: "HZO0Hw6TWWzL5VRa6pP2mNCqC4mwCro0BE4jPchpcB4zMCJJXJneAwPCXvWZjR5jtji3iPxWZMe2c0kqstM/EEH7YVdkRo6Q+RDpGb0n3Ggj06Jw1Hg4s1sKj8QQhQOcAddTBW2Z+9MddieB+NEKR5zloCH99em/c8cHnHyrCyUo0q/ufPA0+4FVPd/gvWmQf9O6L9xAdSMIP3qayi83OIeXeD4upaS0jaYhswA5HoTBku/UbNnQt1y14/K2kXH6cEpewYfpwXCw8Sxjbmot1ln559jfUir9fDQD9jYfo4SGOXqofZptP6c6xD7mrX+5W4VF1IvoWglMFGp9R6Go/5NYgJNmhSBGiZ0GTdqNksQ=;JHltsPm34H6yxR/o2Eve1w=="
 ---

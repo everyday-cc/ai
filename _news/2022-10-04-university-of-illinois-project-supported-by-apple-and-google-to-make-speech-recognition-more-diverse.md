@@ -172,6 +172,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Cognitive Search Service Market expansion projected to gain an uptick during 2022 - 2028 | BMC Software, Microsoft, Cisco Systems"
+    excerpt: "Being a proficient and comprehensive, this Cognitive Search Service market report puts a light on primary and secondary drivers, market share, leading segments, possible sales volume, and geographical analysis."
+    publishedDateTime: 2022-10-04T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-service-market-expansion-projected-to-gain-an-uptick-during-2022---2028-bmc-software-microsoft-cisco-systems-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
   - title: "Apple and University of Illinois working with Meta, Google, and more on Speech Accessibility Project"
     excerpt: "Apple and the University of Illinois are teaming up with Google, Meta, and more tech companies to collaborate on something called the Speech Accessibility Project. The goal of the initiative is to study and improve how artificial intelligence algorithms can be tuned to improve voice recognition for users with diseases that affect speech,"
     publishedDateTime: 2022-10-03T14:43:00Z

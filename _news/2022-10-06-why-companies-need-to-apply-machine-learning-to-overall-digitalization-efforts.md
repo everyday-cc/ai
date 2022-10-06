@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/06/why-companies-need-to-apply-machine-learning-to-overall-digitalization-efforts/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/06/why-companies-need-to-apply-machine-learning-to-overall-digitalization-efforts/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

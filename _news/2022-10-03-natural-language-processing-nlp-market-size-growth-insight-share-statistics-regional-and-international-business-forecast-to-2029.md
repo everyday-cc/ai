@@ -71,6 +71,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chatbots Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
+    excerpt: "The “Artificial Intelligence Chatbots market” conducted by Reportmines.com brings into light the enhanced dynamics and growth opportunities of Artificial Intelligence Chatbots market. Furthermore, the report provides a detailed analysis and a holistic understanding of the market size,"
+    publishedDateTime: 2022-10-04T18:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market - Industry Analysis, Size, Share, Growth, Trends, and Forecast to 2027"
     excerpt: "Get Sample PDF Copy @  Artificial Intelligence in Healthcare Market Company Profiles Analysis: Alphabet Inc. Nuance Communications, Inc. Arterys Inc. Johnson & Johnson Services, Inc. The research on the Artificial Intelligence in Healthcare market focuses on mining out valuable data on investment pockets,"
     publishedDateTime: 2022-10-03T21:07:00Z

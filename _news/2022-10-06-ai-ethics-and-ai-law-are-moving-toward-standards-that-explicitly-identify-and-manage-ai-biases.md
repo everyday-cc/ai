@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/06/ai-ethics-and-ai-law-are-moving-toward-standards-that-explicitly-identify-and-manage-ai-biases/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/06/ai-ethics-and-ai-law-are-moving-toward-standards-that-explicitly-identify-and-manage-ai-biases/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Forbes

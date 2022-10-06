@@ -68,6 +68,15 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 24
+  - title: "Protester injured by Salem police awarded $1M in lawsuit"
+    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
+    publishedDateTime: 2022-10-06T11:31:00Z
+    webUrl: "https://www.thenewstribune.com/news/state/washington/article266770231.html"
+    type: article
+    provider:
+      name: News Tribune
+      domain: thenewstribune.com
+    quality: 4
 
 secured: "tS9F3I6GPy+AXvdj/4HHJAACS0fSB5xhhhik0eTLsCEYuEaSTYhgNqUrCGov6bMSO7HXE2DKCzMgscULc2qnnByLmxozqLAjSvYeyGV4U24JzxmwjFDq26goeoC7EHOQfgJTVSgchiYq1iQ4ALUgcrUjOGbAuKiDA+2Yymhvhhf/t5MmYT/J7sKjgfTwPqo2+JV09EFf8pTvapFaMvo+efBxD/v1NsZ0tgr9FDZZ45nboLPEhanMXI+68op2fbxowz7/keyCiYBEw9TFRw3OlxiyI2FB1tGNHaJ+nnxM+6bFdqWOqySAMuSIVA+gpBc7YHlnex8DFajR3W0xwsuDNo8Kj+en/BoaC/djig0nrRgvGmU7ZdxRNPODL8ct/fVHv6Vy+ZA0q6HQj0OWSoIMbOZSBafMbbUQgWLYEMwpznnc/Z8CnrordaGvI/uKQ95WTIL7THuFRkm5TLLKsB8NYVlQLXOpMnmLSxAyCjld8M3PI984daDSBdBVSvRmhsQdduP3HVKD5hVIFm/tZZIdcQ==;g+/nbtmHsIY/9wBRAVLdeQ=="
 ---

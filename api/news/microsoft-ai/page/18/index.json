@@ -2,6 +2,101 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-05-18-build-back-better-business-solutions-with-azure-and-microsoft-365.md",
+      "title": "Build Back Better: Business Solutions with Azure and Microsoft 365",
+      "excerpt": "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "originalUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T01:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SharePoint",
+        "domain": "sharepointeurope.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-cognitive-analytics-market-size-share-trends-global-industry-analysis-growth-business-overview-forecast-2022-2029-vmr.md",
+      "title": "Cognitive Analytics Market Size, Share, Trends, Global Industry Analysis, Growth, Business Overview, Forecast 2022-2029 – VMR",
+      "excerpt": "The key players studied in the report include: IBM, Amazon Web Services, Google, Microsoft ... products and service variants available in the Cognitive Analytics market, as well as the scope ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-trends-global-industry-analysis-growth-business-overview-forecast-2022-2029-vmr-2022-05-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-size-share-trends-global-industry-analysis-growth-business-overview-forecast-2022-2029-vmr-2022-05-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-17T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-cognitive-collaboration-market-size-share-demand-and-growth-top-manufacture-regional-analysis-and-global-forecast-to-2022-2027.md",
       "title": "Cognitive Collaboration Market Size, Share, Demand and Growth, Top Manufacture, Regional Analysis and Global Forecast to 2022-2027",
       "excerpt": "May 18, 2022 (The Expresswire) -- Global “Cognitive Collaboration Market” 2022 report demonstrates the scope and Overview of the various commercial possibilities over the coming years and the ...",

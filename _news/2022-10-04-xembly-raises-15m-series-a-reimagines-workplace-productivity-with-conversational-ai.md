@@ -35,6 +35,15 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Gather AI raises $10 million Series A"
+    excerpt: "Gather AI, a Pittsburgh-based inventory management startup that uses consumer drones to autonomously track goods throughout a warehouse, announced the raise of a $10 million Series A funding round."
+    publishedDateTime: 2022-10-06T15:47:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/10/06/drone-warehouse-robotics-company-raises-10-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "pJtl0AE4vKKSQnAlYb7v+yo7tWick5OBeui6PaBzzPXFeJzhl5eORipQYu86JqBoR8SIWVRzHVRvsv8uVqfEYUh697nseVVpWYkkA4XyelMa/VKE3xnUbxZDFrJwkZODVq5qW/5OlDj+mmtp/5T6NjYy/PHQSCz1Zm6Kl1yv3QSgZ0jUpfPduzTJMk6tfTBASIn6ryu4Mm8WYfJpDfv5QHTSrgwwufCKHto5Z+aPg7ItHrBDaoKEijupoEFBrxzwBXk3QCTJZeIGTBRm3OhpK8NPJjMM+lCladfb9AhlWMlG2Aspjhza5YXNtLN8A0nHKXJSDWHMDba9cVRfwpCsVXCvH/7zhCcvJTyDHOUYLJE=;1l3qpkzircv6I26G8yUGng=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T10:57:00Z
 originalUrl: "https://www.genengnews.com/topics/translational-medicine/flow-cytometry-rides-successive-waves-of-innovation/"
 webUrl: "https://www.genengnews.com/topics/translational-medicine/flow-cytometry-rides-successive-waves-of-innovation/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: GEN

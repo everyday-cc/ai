@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suici
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Will AI Technology Change Leadership In The Future?"
+    excerpt: "The colossal potential for AI technology will sweep across the world and change the needs and requirements of businesses and employees."
+    publishedDateTime: 2022-10-06T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/06/how-will-ai-technology-change-leadership-in-the-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
   - title: "AI can improve batteries which will never see the light of day"
     excerpt: "Is there nothing AI can't do? After decades of humans inventing new battery tech which for some reason never gets to market, it appears that the boffins have come up with a way of making AI do the job for them. Scientists at Carnegie Mellon developed an AI ..."
     publishedDateTime: 2022-10-04T09:39:00Z

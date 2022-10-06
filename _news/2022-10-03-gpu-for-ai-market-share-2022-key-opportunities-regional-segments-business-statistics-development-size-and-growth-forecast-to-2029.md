@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 183
+heat: 193
 published: true
 
 provider:
@@ -66,6 +66,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Chatbots Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
+    excerpt: "The “Artificial Intelligence Chatbots market” conducted by Reportmines.com brings into light the enhanced dynamics and growth opportunities of Artificial Intelligence Chatbots market. Furthermore, the report provides a detailed analysis and a holistic understanding of the market size,"
+    publishedDateTime: 2022-10-04T18:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 44
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

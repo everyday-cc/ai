@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mubadala, G42 agree to merge healthcare businesses"
+    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, on Thursday announced they will merge"
+    publishedDateTime: 2022-10-06T15:51:00Z
+    webUrl: "https://www.gulftoday.ae/business/2022/10/06/mubadala--g42-agree-to-merge-healthcare-businesses"
+    type: article
+    provider:
+      name: gulftoday
+      domain: gulftoday.ae
+    quality: 39
+    images:
+      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/sport/2019/9/23/mubadala-750.ashx?h=450&w=750&hash=3900DF6969F015CB1A24CF8F572581FD"
+        width: 750
+        height: 450
+        isCached: true
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
     publishedDateTime: 2022-10-06T10:32:00Z

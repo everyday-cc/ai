@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T13:00:00Z
 originalUrl: "https://www.popsci.com/technology/the-future-of-car-chases/"
 webUrl: "https://www.popsci.com/technology/the-future-of-car-chases/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Popular Science

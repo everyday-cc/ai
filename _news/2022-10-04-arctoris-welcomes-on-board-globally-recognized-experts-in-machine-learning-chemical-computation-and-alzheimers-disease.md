@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Experimental Alzheimer’s Drug Slows Cognitive Decline in Large Study"
+    excerpt: "The experimental Alzheimer’s disease drug lecanemab slowed the progression of cognitive decline by 27 percent in a large, late-stage clinical trial, the drugmakers Biogen and Eisai said."
+    publishedDateTime: 2022-10-05T00:11:00Z
+    webUrl: "https://www.everydayhealth.com/alzheimers-disease/experimental-alzheimers-drug-slows-cognitive-decline-in-large-study/"
+    type: article
+    provider:
+      name: Everyday Health
+      domain: everydayhealth.com
+    quality: 4
   - title: "Arctoris Ltd: Arctoris welcomes on board globally recognized experts in Machine Learning, Chemical Computation, and Alzheimer's Disease"
     excerpt: "Arctoris Ltd, a tech-enabled biopharma platform company, has appointed three globally recognized experts in Alzheimer's disease, Machine Learning applied to closed loop discovery, and automated chemis"
     publishedDateTime: 2022-10-04T09:07:00Z

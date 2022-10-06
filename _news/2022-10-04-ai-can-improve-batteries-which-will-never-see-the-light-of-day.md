@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 1866
         isCached: true
+  - title: "How Will AI Technology Change Leadership In The Future?"
+    excerpt: "The colossal potential for AI technology will sweep across the world and change the needs and requirements of businesses and employees."
+    publishedDateTime: 2022-10-06T12:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/06/how-will-ai-technology-change-leadership-in-the-future/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "apFHufTGDfLJMQ98+GO1Xq1alcFGrFeJf8MTvNymY9nLENWrkfRmpF26Xt2WKVvpbK05dlNc3QnfWTf8HRbwI2RjuXnBhV9NEllT7ZIzRsE1mUxPy3eckHRf+urEj6+iNNvXQADxClcBFYVIFdWNfAFEsYCY0GDfTX7SyEv8vDYIAeBkzxFz5cTgBW8MDPGyGuwZQwqQh0zhdEmo69QXkHR+xwc8njw1lGXYXHATOFqrNEuV8TIQaQ+6WI+mCI9ZXdECYQibK4/lt94CbRGdtA3YQxijztRKTetFEhp8dkAMczd80BPvLGejCKt2oPzV3jai4EauPAVk6xipDBhzZjJ6p7A3EIrg8tFMdVabvtM=;yL+exdurQPOw0HLX58Fwhw=="
 ---

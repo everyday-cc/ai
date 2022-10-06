@@ -36,6 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
+  - title: "Gather AI raises $10 million Series A"
+    excerpt: "Gather AI, a Pittsburgh-based inventory management startup that uses consumer drones to autonomously track goods throughout a warehouse, announced the raise of a $10 million Series A funding round."
+    publishedDateTime: 2022-10-06T15:47:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/fundings/2022/10/06/drone-warehouse-robotics-company-raises-10-million.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "BAXDb/tnhfdANqAPkO1AD2bcHKKxLhYPPeV/LX63q5K1eckutqCxtI2k1C2C1XXsDik8BkL8sf6c0JjJE1I+e6V1ik/R5LUFIhnw4EiwffX/QTvvbQAhnjvdVnZG1qtrFxaM33XFnv0qaPvI5tI1wKFMab9AxMtpG0BPJxaI0kb0h440LtvwXTQ8N7l5l+i/5TnAfnCUjIr2i5WMwcufETCN1My8kx432fzqNKo8wqpgy8xzc/f+5MErf5aGdRdw+vkz3s8BRvcPjbbmljE+qAbtvWlB2b+eXiiBFjooJFxEFUFNGetUf4sS+VGB8Xniutysd3hhcVqt+E2F3AgZnKyXQE7XKeSbwbCXW72ZR7U=;G6P4nKVfLqOyPnEocls5BA=="
 ---

@@ -174,6 +174,15 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Cognitive Search Service Market expansion projected to gain an uptick during 2022 - 2028 | BMC Software, Microsoft, Cisco Systems"
+    excerpt: "Being a proficient and comprehensive, this Cognitive Search Service market report puts a light on primary and secondary drivers, market share, leading segments, possible sales volume, and geographical analysis."
+    publishedDateTime: 2022-10-04T13:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-service-market-expansion-projected-to-gain-an-uptick-during-2022---2028-bmc-software-microsoft-cisco-systems-2022-10-04"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
   - title: "Tips for using free voice recognition software on your computer"
     excerpt: "Q: Are there any free voice recognition programs for my computer that are worth trying? A: The pursuit to have computers understand human speech started in the early 1950s when Bell Labs designed ..."
     publishedDateTime: 2022-10-03T13:30:00Z

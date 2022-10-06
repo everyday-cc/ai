@@ -47,6 +47,17 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
+    publishedDateTime: 2022-10-06T13:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
 secured: "2GqJPzpQVWymwSXI8XL6PaU749YMwkF0kYRSnRNWRRM5kRK2qCZ64GhGVlX9HEnrQKSA1/IUXaoAWxRk3O2WxbKQyF+IPv74cH4N6dAexcqLtggTAmJk+go7VT20wqSeUCn9xrAYE+najbz3YG23a0p8uOorSdc/64Vfmm9nAzY1q424kL5P4MpqouRndzLgPzUgKlCqaq0BqGJGor8wkiSwwfVXYFhmUPN7uCKPw5V7VLZgOhFvpHKvqaPhPyYWW2tC++VKi9ONdLm/IjYJq4MKVbCEeUx6Im3TUrToHc7bvN3cGCRu5oR7N+H+5mFxeLPzAregWXI4O8ZXUUAPjHWPCTXqAUCa3i0/sSv/8QKysqpINgEwRwfHX4JWTRf8+n0FnLab16K9NwANNnhglyTeFNd+2Qos5mX+pznaYzCzto84nqy0wsxYfqE0oENADJQPJUbYoUaxUVQd/eYTSWbLjIW+M9Yd36ZsVYXE5JdHagqA7qdvZUiGC7ru069f3iql7I3W7YwF0D+lX5V60g==;Nlujl2EZ+aZBZir65pRs9w=="
 ---

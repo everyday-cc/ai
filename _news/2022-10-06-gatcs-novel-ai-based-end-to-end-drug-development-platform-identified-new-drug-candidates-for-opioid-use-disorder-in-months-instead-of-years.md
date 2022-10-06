@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T12:37:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/gatc-s-novel-ai-based-end-to-end-drug-development-platform-identified-new-drug-candidates-for-opioid-use-disorder-in-months-instead-of-years-1031787223"
 webUrl: "https://markets.businessinsider.com/news/stocks/gatc-s-novel-ai-based-end-to-end-drug-development-platform-identified-new-drug-candidates-for-opioid-use-disorder-in-months-instead-of-years-1031787223"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Business Insider

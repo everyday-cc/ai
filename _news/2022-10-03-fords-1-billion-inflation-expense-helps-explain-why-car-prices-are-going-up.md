@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-
 webUrl: "https://www.wsj.com/video/series/george-downs/why-driverless-cars-are-taking-hyper-realistic-virtual-driving-lessons"
 type: article
 quality: 66
-heat: 67
+heat: 66
 published: false
 
 provider:

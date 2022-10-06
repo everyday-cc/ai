@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
 type: article
 quality: 97
-heat: 237
+heat: 248
 published: true
 
 provider:
@@ -218,6 +218,15 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 18
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
+    publishedDateTime: 2022-10-06T13:21:00Z
+    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
   - title: "The White House unveils an artificial intelligence ‘Bill of Rights’, but stops short of holding tech companies accountable"
     excerpt: "“The white paper does not have power over the tech companies that develop the tools nor does it include any new legislative proposals. The white paper also did not specifically address AI-powered technologies funded through the Department of Justice ..."
     publishedDateTime: 2022-10-04T19:49:00Z

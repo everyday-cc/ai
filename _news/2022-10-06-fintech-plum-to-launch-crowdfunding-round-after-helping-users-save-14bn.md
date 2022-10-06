@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T12:13:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/10/06/fintech-plum-to-launch-crowdfunding-round-after-helping-users-save-14bn"
 webUrl: "https://bdaily.co.uk/articles/2022/10/06/fintech-plum-to-launch-crowdfunding-round-after-helping-users-save-14bn"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Bdaily Business Network

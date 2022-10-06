@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 145
+heat: 154
 published: true
 
 provider:
@@ -119,6 +119,15 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "Gates Hub participates in the largest fintech event in Dubai"
+    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
+    publishedDateTime: 2022-10-06T12:52:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 19
   - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
     excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
     publishedDateTime: 2022-10-04T11:00:00Z

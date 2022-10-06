@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/announcements/robotics-st
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp"
 type: article
 quality: 89
-heat: 129
+heat: 130
 published: true
 
 provider:

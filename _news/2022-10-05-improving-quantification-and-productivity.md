@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T07:04:00Z
 originalUrl: "https://healthcare-in-europe.com/en/news/bayer-calantic-digital-solutions.html"
 webUrl: "https://healthcare-in-europe.com/en/news/bayer-calantic-digital-solutions.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: healthcare-in-europe.com
