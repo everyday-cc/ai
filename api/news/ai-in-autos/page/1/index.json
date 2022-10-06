@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-06-teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot.md",
+      "title": "Tesla’s Biggest News At AI Day Was The Dojo Supercomputer, Not The Optimus Robot",
+      "excerpt": "Tesla's Dojo supercomputing technology promises to accelerate the development of self-driving cars by an order of magnitude, and it will start coming online early in 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
+      "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 268,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633eb8c2e2a31b5c346461d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/",
+      "publishedDateTime": "2022-10-06T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
       "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
       "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
@@ -256,6 +310,146 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-artificial-intelligence-used-to-better-monitor-maines-forests.md",
+      "title": "Artificial intelligence used to better monitor Maine's forests",
+      "excerpt": "Monitoring and measuring forest ecosystems are complex challenges because software, collection systems and computing environments require increasing amounts of energy. Now, the University of Maine's Wireless Sensor Networks laboratory,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "originalUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/maine-forest.jpg",
+          "width": 1800,
+          "height": 1362,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-maine-forests.amp",
+      "publishedDateTime": "2022-10-04T08:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "originalUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people.md",
+      "title": "IDTechEx Asks if Tesla's Humanoid Robot \"Optimus\" Will Really Be Able to Serve People",
+      "excerpt": "Tesla CEO Elon Musk unveiled its \"over-hyped\" humanoid robot \"Optimus\" at the electric vehicle maker's \"AI Day\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29136946/idtechex-asks-if-teslas-humanoid-robot-optimus-will-really-be-able-to-serve-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1913841/IDTechEx_Service_Robots.jpg",
+          "width": 400,
+          "height": 228,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29136946",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29136946",
+      "publishedDateTime": "2022-10-04T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-this-rapid-growing-self-driving-giant-has-filed-for-ipo.md",
       "title": "This Rapid-Growing Self-Driving Giant Has Filed for IPO",
       "excerpt": "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,",
@@ -264,7 +458,7 @@
       "originalUrl": "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -287,6 +481,51 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
+      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
+      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
+      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -396,103 +635,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-03-teslas-optimus-humanoid-robot-can-shuffle-across-stage-raise-the-roof.md",
-      "title": "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’",
-      "excerpt": "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/teslas-ai-day-optimus/",
-      "originalUrl": "https://www.popsci.com/technology/teslas-ai-day-optimus/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/10/03/Screen-Shot-2022-10-03-at-8.32.31-AM.png?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/teslas-ai-day-optimus/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/teslas-ai-day-optimus/?amp",
-      "publishedDateTime": "2022-10-03T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-tesla-ai-day-an-investors-perspective.md",
-      "title": "Tesla AI Day: An Investor’s Perspective",
-      "excerpt": "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6339a7450cb711b0e978b20d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/",
-      "publishedDateTime": "2022-10-02T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
       "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
       "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
@@ -544,7 +686,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -1285,153 +1427,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-the-long-road-to-driverless-trucks.md",
-      "title": "The Long Road to Driverless Trucks",
-      "excerpt": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
-      "originalUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
-      "publishedDateTime": "2022-09-28T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-chinas-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership.md",
-      "title": "China's Pony.ai, SAIC AI Lab to Advance Marvel-R Robotaxi Partnership",
-      "excerpt": "Pony.ai, a Chinese autonomous driving startup, and an artificial intelligence lab of SAIC Motor Group are deepening joint product development after revealing their driverless concept car Marvel-R. SAIC AI Lab and Pony.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "originalUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img.yicaiglobal.com/cdn/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership/23913886101189.jpg",
-          "width": 720,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yicai Global",
-        "domain": "yicaiglobal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
-      "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
-      "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
-      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
-      "publishedDateTime": "2022-09-27T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,6 +2,112 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-23-top-natural-language-processing-companies-2022.md",
+      "title": "Top Natural Language Processing Companies 2022",
+      "excerpt": "These leading Natural Language Processing vendors can help AI deployments \"learn\" how to listen and interact with humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/natural-language-processing-companies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T13:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Microsoft AI",
+        "Machine Learning",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-how-to-leverage-ai-to-boost-care-management-success.md",
+      "title": "How to leverage AI to boost care management success",
+      "excerpt": "As a rapidly evolving technology, AI is adapting itself to the needs of the healthcare industry at an unprecedented pace.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 624,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-leverage-ai-to-boost-care-management-success/amp/",
+      "publishedDateTime": "2022-09-22T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-23-alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences.md",
       "title": "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences",
       "excerpt": "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few ...",
@@ -1040,92 +1146,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage.md",
-      "title": "‘Take a cognitive test’: Internet roasts Joe Biden after he became ‘lost’ on stage",
-      "excerpt": "US President Joe Biden has been mocked online after appearing to not know where to go following remarks he delivered at a Global Fund conference in New York.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
-      "originalUrl": "https://www.dailytelegraph.com.au/news/world/take-a-cognitive-test-internet-roasts-joe-biden-after-he-became-lost-on-stage/video/9d05892295fde934dbf483b83e10220f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Telegraph",
-        "domain": "dailytelegraph.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022.md",
-      "title": "Agilis Robotics Targeting its Pre-B Round Fund-raising to be Completed by 2022",
-      "excerpt": "Successful In Vivo Testing Clears the Way for First Human Trial in Near FutureHONG KONG, Sept. 22, 2022 /PRNewswire/ -- Agilis Robotics Limited",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022-1031758318",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/agilis-robotics-targeting-its-pre-b-round-fund-raising-to-be-completed-by-2022-1031758318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1905133/Surgical_robotic_arm_developed_by_Agilis_Robotics.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

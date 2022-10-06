@@ -23,16 +23,19 @@ topics:
 
 related:
   - title: "3 Top Artificial Intelligence Stocks to Buy in October"
-    excerpt: "The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now. That's an eye-popping number, so how can investors tap into AI's huge potential?"
-    publishedDateTime: 2022-10-04T14:08:00Z
-    webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october"
-    ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp"
+    excerpt: "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now."
+    publishedDateTime: 2022-10-04T14:33:00Z
+    webUrl: "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
+      name: The Motley Fool
+      domain: fool.com
+    quality: 69
+    images:
+      - url: "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
 
 secured: "nomgG0rxHPdYXxpzizWHHpz+AICA5XFK9YS5jCg/hVocqkxitdtT3LCkWr8Vz3T1Bnha+pDs4S8R8LdyrLhbpfxtX9RK+O9my/GmDonisxncvzza/sHTJ8PiGaLqnBCK2H4fVkCvzQwpuqteoAcBLvPo/sCDNMSA0nes47m8posnQXF5d8srLEP+fIE+RjSUgWFFegeUWVCXWnxIpc/Wc1S3ufLez0cwc3oE+51Bi7D04vHhzpU2MZkFdjlkOUtSJFf1w7A1UE512Y2wGP5o7KWTbfcDL6cnDrrMLjbxInUTsD6451c8qr7PYSeC2oyYvletP+wraajcLCR1ufu6cO/9PHPEyX7e8tgPFUtRGg75HqqjKhbEQ9UU15Xp8CeLLtMyJrCpSqcUR31pzAuolJRr9qbfuJaxKhJmmxOrwI6NbSY0Q1+asboCUgv2xFY2jdNH6OZCExlYzpY88YLV0R/5j8PMjJkFq6olhMb4t4v9uAevyB7KYWRgPhRQf/Pz5aY5w2VHommnFkODvTbPuQ==;PeXUCV7eEYZ43HhQI7i5LA=="
 ---

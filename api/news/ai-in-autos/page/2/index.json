@@ -2,6 +2,153 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-28-the-long-road-to-driverless-trucks.md",
+      "title": "The Long Road to Driverless Trucks",
+      "excerpt": "Self-driving eighteen-wheelers are now on highways in states like California and Texas. But there are still human “safety drivers” behind the wheel. What will it take to get them out?",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+      "originalUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/09/28/multimedia/28Transportation-Driverless-Trucks/28Transportation-Driverless-Trucks-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/09/28/business/driverless-trucks-highways.amp.html",
+      "publishedDateTime": "2022-09-28T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-chinas-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership.md",
+      "title": "China's Pony.ai, SAIC AI Lab to Advance Marvel-R Robotaxi Partnership",
+      "excerpt": "Pony.ai, a Chinese autonomous driving startup, and an artificial intelligence lab of SAIC Motor Group are deepening joint product development after revealing their driverless concept car Marvel-R. SAIC AI Lab and Pony.",
+      "sourceUrl": null,
+      "webUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
+      "originalUrl": "https://www.yicaiglobal.com/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img.yicaiglobal.com/cdn/news/china-ponyai-saic-ai-lab-to-advance-marvel-r-robotaxi-partnership/23913886101189.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Yicai Global",
+        "domain": "yicaiglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-28-are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you.md",
+      "title": "Are You A Bad Teacher? This Artificial Intelligence App Aims To Tell You",
+      "excerpt": "Administrators aren't privy to the analysis teachers receive using the TeachFX app. “Eighty five percent teacher talk for me—even for an interview that makes me think: yikes!” Jamie Poskin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "originalUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633254d6de0e387de2dd5380/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/emmawhitford/2022/09/27/are-you-a-bad-teacher-this-artificial-intelligence-app-aims-to-tell-you/amp/",
+      "publishedDateTime": "2022-09-27T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
       "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
       "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
@@ -1277,155 +1424,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-sales-revenue-of-autonomous-cars-market-to-escalate-in-the-coming-years-owing-to-rapid-growth-in-consumer-adoption.md",
-      "title": "Sales Revenue of Autonomous Cars Market to Escalate in the Coming Years Owing to Rapid Growth in Consumer Adoption",
-      "excerpt": "How is the level 2 vehicle segment of autonomous car market faring of late? According to reliable reports, with automotive technologies showing incredible potential, a big shift has been witnessed from level-1 to level-4 type of autonomous driving.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/sales-revenue-of-autonomous-cars-market-to-escalate-in-the-coming-years-owing-to-rapid-growth-in-consumer-adoption-2022-09-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/sales-revenue-of-autonomous-cars-market-to-escalate-in-the-coming-years-owing-to-rapid-growth-in-consumer-adoption-2022-09-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-nvidia-wants-to-be-the-brains-of-your-self-driving-car.md",
-      "title": "Nvidia Wants to Be the Brains of Your Self-Driving Car",
-      "excerpt": "Chip designer Nvidia on Tuesday revealed a new processor called Drive Thor it expects will power the autonomous vehicle revolution. Thor processors should arrive in 2024 for cars hitting the roads in 2025,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/02e686580812771a6c1f41008fd6a55334121716/hub/2022/09/20/2b060158-f211-48cf-8c58-79f54886c3e0/zeekr-001-ev.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-wants-to-be-the-brains-of-your-self-driving-car/",
-      "publishedDateTime": "2022-09-20T08:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-asias-first-driverless-cimc-made-boarding-bridge-comes-into-operation-in-china.md",
-      "title": "Asia’s First Driverless CIMC-made Boarding Bridge Comes Into Operation in China",
-      "excerpt": "The first driverless boarding bridge in Asia has been officially put into operation at Chengdu Tianfu International Airport in southwest China, marking a milestone in the intelligent upgrade of Chinese civil aviation industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
-      "originalUrl": "https://www.aviationpros.com/gse/passenger-loading-systems-boarding-bridges-stairs-jetways/press-release/21281316/cimc-asias-first-driverless-cimcmade-boarding-bridge-comes-into-operation-in-china",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.aviationpros.com/files/base/cygnus/cavc/image/2022/09/image_2.6329cb1045302.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AviationPros",
-        "domain": "aviationpros.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

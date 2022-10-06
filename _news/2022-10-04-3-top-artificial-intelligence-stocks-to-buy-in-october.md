@@ -1,23 +1,32 @@
 ---
 category: news
 title: "3 Top Artificial Intelligence Stocks to Buy in October"
-excerpt: "The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now. That's an eye-popping number, so how can investors tap into AI's huge potential?"
-publishedDateTime: 2022-10-04T14:08:00Z
-originalUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october"
-webUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october"
-ampWebUrl: "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp"
-cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-in-october?amp"
+excerpt: "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now."
+publishedDateTime: 2022-10-04T14:33:00Z
+originalUrl: "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/"
+webUrl: "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
-  name: Nasdaq
-  domain: nasdaq.com
+  name: The Motley Fool
+  domain: fool.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg"
+    width: 3840
+    height: 2160
+    isCached: true
 
 related:
   - title: "A Wild Week In Energy Markets And The British Pound Takes A Tumble: Forbes AI Newsletter - October 1st"
@@ -30,6 +39,6 @@ related:
       domain: forbes.com
     quality: 31
 
-secured: "Iauxt86vjEmqKamuus15kaG4dRKqw7SXeYk0YtApwYzkNszg2gZSkJ+A1Y4zPpH7VcZf1mSyNUxyhhXTBCGgJhzxq83LnnMUpkWu1aJDb2PpA3ui4ZxZ3K3C2ZQjp/Vh+xDFeqp5/FpTSOVQls2p87aVRhoOZQDMcMHI/FUgZ9aWdaXARfTEmSZTJHf9M+QP3O5JpVN2XTdN49vdWGGR9EZgydr7Ck2j0q15Xu3E4VJ+OIVqPkG07GBnnb2PL33VPnF/5dFT574jSzOe5i1TlM8UTr41mCti4L0L1PXR3jSWqpRLYo2+VervL/Uq/X4GO/dcJ3se6gq+QOZG2uZGxJOqwI79Xqyq1SLll9zPVV8aaaMsUS0gNiBo1V59+aJ2Kq9eE0lGZttNRAKlI9uxO5Yuhgk//HsvYH4YEGcvNodalQI0XutcePVGxwdlB3Yg2tvGRj4COOvjW8CBXfHnl1iGDXvBjhWSHCodd/pSGYPE5u26r+/VyPg+fsnR7TwYNQMJMwbtfPEbLupHRadHjQ==;YZTyOLElXGdluIM7c0Zv4w=="
+secured: "81jAMPWQOnObV/I+Y+5p2GlX0JG9zgDkhAZaT9CFAdstOv6LlqNAiMBV+26Z8ZFFWaZe+WRILg5vNdrVNolKNCfl5FNKX85DOBTYOyahZ+H2YYuKwMW2/0HeqMy4AvAaJy3obNe0C8eI7NQMlydVAZhT5S905B0cHvRPi0u5XULOaVId5DL6CLeCREw68f+sluDIuEb0ZEBXLLPcuoSQ1OckpPTNcbO9a9Uo0KfKmQjT3pjGNCy0OMUjyLuqCWxVCGWpiFdB4+yPqEGmnYE2DgrOxH4AOm+4g9vV5Kc/LxMAntbkaaS5rzXU/TbylJl6heo+7XxglY9uFNAcHNGBS+rv8ZruMsfPYf0YY1fbqFg=;JIJI6oQuquLpKoUzCWxxsw=="
 ---
 

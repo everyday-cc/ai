@@ -1,27 +1,31 @@
 ---
 category: news
 title: "Meta launches AI software tools to ease switching between Nvidia, AMD chips"
-excerpt: "Facebook parent Meta Platforms Inc said on Monday it has launched a new set of free software tools for artificial intelligence applications that could make it easier for developers to switch back and forth between different underlying chips."
-publishedDateTime: 2022-10-03T17:40:00Z
-originalUrl: "https://www.channelnewsasia.com/business/meta-launches-ai-software-tools-ease-switching-between-nvidia-amd-chips-2983716"
-webUrl: "https://www.channelnewsasia.com/business/meta-launches-ai-software-tools-ease-switching-between-nvidia-amd-chips-2983716"
+excerpt: "Meta's new open-source AI platform is based on an open-source machine learning framework called PyTorch, and can help code run up to 12 times faster on Nvidia Corp's (NVDA.O) flagship A100 chip or ..."
+publishedDateTime: 2022-10-04T15:58:00Z
+originalUrl: "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/"
+webUrl: "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 82
+heat: 102
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--_b7s9k4G--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-03t160913z_1_lynxmpei920rs_rtroptp_3_france-tech.jpg?itok=iRcHt_u9"
+  - url: "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -46,6 +50,6 @@ related:
       domain: usnews.com
     quality: 49
 
-secured: "ZQRXplw3kt2t7z9x9nn8yud2wsTxAB/gJMJni+P10yp7nicJ9GnRvhz748atqaejBPY1IcmCmpIjrEPW3GC6cAbJlw8osRH27l6059neFaJCz5/qCf97EleVOStD5BlsYaDrQOjIBah/WVmxnMIYdGaLIJWVYR2JJedvNFjb6myir29czYsZxfTkYj/0rmNauAhjVAdCaSBw2T6eMP291kSPwGV3rc+On2OZpdjz77qdg/x/GmPvTbnuj9IOTH6oGFwFuha/gAp3YtdAxRIWADMYpgb5UAC3ihOAFSTq7yRdpo5eug1hGCduoivg18UZCYjgyW4M6EnvpWWdO691DlZ3cWruqmQpF1juj5DAqFo=;9lVXRl6eQYSDrSx8tDaQKw=="
+secured: "RoLzaA/f38LAPLa9T5JmuN9k96nGo7wznlZ3R9qtJ0YuGFn6deWJ78Pui1fca+Dp2Z8G19vsIssDjkggyJWVZj1NrSHV85Ma4Q7csR84Cp9/jMMXaYhHSXSwj3h96L4X+g829WLCDVYzQXSsTfghbI9SNbfT9xGSY7WyToqGRKdfBgZLS6NUY3ameGi1S41sDDK/mkHoZmgueTKC9uEJFIuYDpBJNynovUhuM7c5t/CqFQY6yISBHlWqq1jozY2no0g/N1nUrEGuuDwIrAlevzrwSGT/ZK7e8cqwRgvhQWCMMcGF2e6ijtMnGWZaetow/a+vAXB+R8EzgDrUg29Kn709DHi2HSpeRLWNdRYPa2Q=;SUkp+8e92yVZXojfMewZWQ=="
 ---
 

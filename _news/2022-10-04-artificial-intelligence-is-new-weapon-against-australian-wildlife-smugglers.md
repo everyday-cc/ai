@@ -8,8 +8,8 @@ webUrl: "https://www.voanews.com/a/artificial-intelligence-is-new-weapon-against
 ampWebUrl: "https://www.voanews.com/amp/artificial-intelligence-is-new-weapon-against-australian-wildlife-smugglers/6775021.html"
 cdnAmpWebUrl: "https://www-voanews-com.cdn.ampproject.org/c/s/www.voanews.com/amp/artificial-intelligence-is-new-weapon-against-australian-wildlife-smugglers/6775021.html"
 type: article
-quality: 50
-heat: 50
+quality: 52
+heat: 52
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 secured: "uV1uvAVXCDs6fAxPX7DDIfcSX3X5Uua0U7trrmjG6C9MaYJSKSLoTKg4Yv4bMGF3rleMzZlC+ROnevIEUJMAsS6XEJHYAmk8wZgLuXtZmJegG8muTBHLjKb1EVt31uO0g5JISQJU59QUbYpkfhyvuSvTUoolTJbscEycAJdLqXS48c2iFwJXsuipiq6Vbb0vX36HROl9QheDlp8KycgSzYhziLKllpU+MBwyb5DhmynVsHJqhW8AexMzp7A3FfPxOx0BknbGlQFYY/lcx628q/sYEO4h0e+R9rkmCslXgStUM46DaF5OJRxZqFi2MZDVon8bBxmiJfnwBCWo2bGFydjCmTbMURBTysH6+xZR7CzrXt81W72YbyPRJVHNd+esKoefL1ZKRNaJf0cgeHhmczOojpZ9zPhccYJSYAqfah8dopm4E8kKNeo5DPWfVG9h8+QUj/rNbK6n/mzrLcusTWB2YBrXMm2qiBQIsKFkHB5g87xmCREpTiywAgkTLHbz9q37gUPUTIoEwfBGC612dw==;+9q7edQ/btSVOym0pBU0mg=="
 ---

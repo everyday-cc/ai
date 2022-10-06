@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-tha
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/"
 type: article
 quality: 96
-heat: 156
+heat: 116
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-02T08:29:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 76
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Here's How You Can Join Elon Musk's Tesla Empire"
     excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
     publishedDateTime: 2022-10-02T10:30:00Z
@@ -81,38 +65,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
-    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
-    publishedDateTime: 2022-10-03T07:16:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
-    excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
-    publishedDateTime: 2022-10-03T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/10/03/twitter-users-hate-elon-musks-tesla-bot-maybe-were-just-not-ready-for-the-ai-overlords/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
-  - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
-    excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
-    publishedDateTime: 2022-10-03T18:29:00Z
-    webUrl: "https://www.aol.com/finance/tesla-analyst-explains-real-value-182943007.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
 
 secured: "zgmw4SpiuCO/FgO8Ut3uh9C6dFMLHzo5NL5UJ1LkXd45iPa0yH0nusHslWNF8DCxDewelhOO8804QPXJ1QouBht25ITDAINA+tkOvlL1n9WbtmI213b0Q3znNAclv73t9PtCzljkJEYBcl5ofGA+LLeNJJGJ9Vvh9e6dfS9mNbxkzYfLpak50IWPJnvJAQrdzIsWJoeph5tKlMDaXOZC3u47WkuCDXzxKrhUIChCYlo/4F05MZze9C97jXa+lr7i+5qxpLVX0ZJLK0g0bt/MTBc3o60T/Lwwxnc5FCM5cNjzrbXDbIXl0PN0Dzl4AUEsF2pu4CBUTQjN4dxQjpJMRTBYis70u3YuFSIdqkg2Y35b7pO2W4RGiWUhrYd1zfHtak0uBKDA6p8w4mjsh0ghdXCts0RFGgv55LlkqXg6uNOVJkvK1WIxRmDchSyC3Q4+jD/Hy773M5KeXqbzXe0LswdDdX4O8ClYr82F9BW3vb6CH5pheQKAit1bnbMxMlbfz9TODYfwe2bGYpeIoHJrog==;9KXEHs5EAfjbCWtd2wuiPA=="
 ---

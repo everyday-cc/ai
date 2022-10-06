@@ -2,6 +2,144 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-02-flinders-university-is-testing-a-driverless-shuttle-bus-on-campus.md",
+      "title": "Flinders University Is Testing a Driverless Shuttle Bus On Campus",
+      "excerpt": "An autonomous shuttle bus is currently being tested at Flinders University and has now entered the second stage of its trial. Dubbed the “Flinders University Express Shuttle” (FLEX), the bus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/02/flinders-autonomous-bus.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
+      "publishedDateTime": "2022-09-02T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-cruise-recalls-self-driving-car-software-because-humans-are-dumb.md",
+      "title": "Cruise Recalls Self-Driving-Car Software Because Humans Are Dumb",
+      "excerpt": "GM's Cruise subsidiary has performed over 120,000 unprotected left turns in its self-driving development vehicles, but a single extreme scenario that resulted in a collision ended up prompting a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/cruise-automated-driving-system-recall-collision/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-automated-driving-system-recall-collision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2cbe305b5c51aae4ef811090b276c34e6ea7e85a/2022/06/03/020fe553-1f0b-4704-986d-788b6811f817/cruise-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-automated-driving-system-recall-collision/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-automated-driving-system-recall-collision/",
+      "publishedDateTime": "2022-09-02T08:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-02-how-artificial-intelligence-can-explain-its-decisions.md",
+      "title": "How artificial intelligence can explain its decisions",
+      "excerpt": "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/963644",
+      "originalUrl": "https://www.eurekalert.org/news-releases/963644",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-02-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
       "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
       "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
@@ -1190,135 +1328,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-stock-is-tumbling-an-earnings-beat-cant-offset-falling-revenue.md",
-      "title": "Baidu Stock Is Tumbling. An Earnings Beat Can’t Offset Falling Revenue.",
-      "excerpt": "Baidu is the latest Chinese tech giant to show that a slowdown this year in the world’s second-largest economy is causing financial pain. Despite notching double-digit growth in its key ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921",
-      "originalUrl": "https://www.barrons.com/articles/baidu-stock-earnings-revenue-51661851921",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.barrons.com/im-384397/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/baidu-stock-earnings-revenue-51661851921",
-      "publishedDateTime": "2022-08-30T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-beats-quarterly-revenue-estimates-on-cloud-business-boom.md",
-      "title": "Baidu beats quarterly revenue estimates on cloud business boom",
-      "excerpt": "China's search engine giant Baidu beat quarterly revenue estimates on Tuesday (Aug 30), underpinned by demand for its cloud and artificial intelligence-powered offerings. US-listed shares of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
-      "originalUrl": "https://www.channelnewsasia.com/business/baidu-beats-quarterly-revenue-estimates-cloud-business-boom-2909281",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--biXDvPGs--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-08-30t090706z_2_lynxmpei7t09t_rtroptp_3_usa-china-audit-investors.jpg?itok=0Es-SEjN",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidu-announces-second-quarter-2022-results.md",
-      "title": "Baidu Announces Second Quarter 2022 Results",
-      "excerpt": "Second Quarter 2022 Financial Highlights [1] Operational Highlights Corporate AI Cloud Intelligent Driving Apollo Go, Baidu's autonomous ride-hailing service, continued its solid progress in ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-second-quarter-2022-results-1031712667",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T02:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

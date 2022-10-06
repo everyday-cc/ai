@@ -2,6 +2,135 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-23-einride-gets-go-ahead-for-driverless-electric-trucks-on-public-roads.md",
+      "title": "Einride Gets Go-Ahead For Driverless Electric Trucks On Public Roads",
+      "excerpt": "driverless, electric transport vehicles called Pods on public roads in western Tennessee. Within weeks driverless electric freight transport trucks may be traveling on public roads in western ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b3a72b815fe116257a1f0d/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
+      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
+      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
+          "width": 580,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T15:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-can-we-make-artificial-intelligence-less-racist.md",
+      "title": "Can we make artificial intelligence less racist?",
+      "excerpt": "Three years ago, a Georgia Tech study uncovered a major flaw in self-driving vehicles ... were testing how accurately the vehicles’ artificial intelligence–based object detection models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
+      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hamilton Spectator",
+        "domain": "thespec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-welcome-aboard-this-is-a-driverless-train-unions-begin-their-own-demise.md",
       "title": "Welcome aboard, this is a driverless train: unions begin their own demise",
       "excerpt": "London ground to a standstill yesterday as transport workers began a series of strike action As the summer sun makes the UK feel like a Mediterranean resort, we are also about to see the perils of ...",
@@ -1187,155 +1316,6 @@
       "provider": {
         "name": "BG Independent News",
         "domain": "bgindependentmedia.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars.md",
-      "title": "AI Ethics Confronting The Insidious One-Like-Mind Of AI Algorithmic Monoculture, Including For Autonomous Self-Driving Cars",
-      "excerpt": "One of the most evocative areas that vividly presents this ethical AI quandary is the advent of AI-based true self-driving cars. This will serve as a handy use case or exemplar for ample discussion on the topic. Here’s then a noteworthy question that is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a3ec8d45601953acdb1ac4/0x0.jpg?format=jpg&crop=1458,971,x134,y0,safe&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/19/ai-ethics-confronting-the-insidious-one-like-mind-of-ai-algorithmic-monoculture-including-for-autonomous-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-19T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-19-how-ai-and-human-intelligence-will-beat-cancer.md",
-      "title": "How AI and human intelligence will beat cancer",
-      "excerpt": "2016 saw the completion of a significant milestone for humanity: artificial intelligence (AI ... an equivalent of a Move 37 against cancer: a therapy that at first may seem counterintuitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
-      "originalUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1296963883-Thinkhubstudio.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 588,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ai-and-human-intelligence-will-beat-cancer/amp/",
-      "publishedDateTime": "2022-06-18T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-cruises-san-francisco-robotaxis-seize-initiative-in-race-for-autonomy.md",
-      "title": "Cruise’s San Francisco robotaxis seize initiative in race for autonomy",
-      "excerpt": "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Since Google launched its self-driving car project in 2009, it has been leading the way ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
-      "originalUrl": "https://www.ft.com/content/2bde3e7f-b91d-49d7-bbaf-898f39db6263",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2F2cca8ad2-f2ae-4729-ac51-0826be2a4e99.jpg?source=next-opengraph&fit=scale-down&width=900",
-          "width": 900,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-18T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Times",
-        "domain": "ft.com",
         "images": null,
         "publishers": null,
         "authors": null

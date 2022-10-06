@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/facebook-parent-meta-launches-ai-sof
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/facebook-parent-meta-launches-ai-software-tools-to-help-speed-up-work?amp"
 type: article
 quality: 69
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nasdaq
@@ -22,18 +22,18 @@ topics:
 
 related:
   - title: "Meta launches AI software tools to ease switching between Nvidia, AMD chips"
-    excerpt: "Facebook parent Meta Platforms Inc said on Monday it has launched a new set of free software tools for artificial intelligence applications that could make it easier for developers to switch back and forth between different underlying chips."
-    publishedDateTime: 2022-10-03T17:40:00Z
-    webUrl: "https://www.channelnewsasia.com/business/meta-launches-ai-software-tools-ease-switching-between-nvidia-amd-chips-2983716"
+    excerpt: "Meta's new open-source AI platform is based on an open-source machine learning framework called PyTorch, and can help code run up to 12 times faster on Nvidia Corp's (NVDA.O) flagship A100 chip or ..."
+    publishedDateTime: 2022-10-04T15:58:00Z
+    webUrl: "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 52
+      name: Reuters
+      domain: reuters.com
+    quality: 82
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--_b7s9k4G--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-03t160913z_1_lynxmpei920rs_rtroptp_3_france-tech.jpg?itok=iRcHt_u9"
+      - url: "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg"
         width: 1200
-        height: 676
+        height: 628
         isCached: true
   - title: "Meta Launches AI Software Tools to Help Speed up Work - Blog"
     excerpt: "Facebook parent Meta Platforms Inc on Monday said it has launched a new set of free software tools for artificial intelligence applications that could help speed up the performance of underlying chips."

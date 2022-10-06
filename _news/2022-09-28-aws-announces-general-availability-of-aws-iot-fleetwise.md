@@ -1,26 +1,30 @@
 ---
 category: news
 title: "AWS Announces General Availability of AWS IoT FleetWise"
-excerpt: "(NASDAQ: AMZN), today announced the general availability of AWS IoT FleetWise, a new service that makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time."
-publishedDateTime: 2022-09-27T18:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/09/27/9681659.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/09/27/9681659.htm"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS"
+publishedDateTime: 2022-09-27T17:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
+webUrl: "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "gCqIQNPy2m5g4fCGaDhBT72V/LkQ5VEnLrYlXjd5NSNuQVTtGmPT+sWNQbvOUtwLpnrrXlsgDByOSNHSAvN5QwSwOYrpUXboGiLkDvOzQoSXFsooRDchywAlmHo//AoWdAf2tnQzIarSpFKRsRcXGMZN8lwXfPIvhhWsxNI7shVQJ5OxwpvA6YTomhto+nZctd1LV8w2EHxzIvjvWyLzJz7kBwi0iOEp6WStImHy2Iim++SPWV6CemzZN+yLfwP+STtrciANQ6RIpNaL4lyRRcgoaGFDAkbBDG+rZ4qc42KWfj/SRlKO5d4y5ahWLtDygGUntepmMzWNxsNL9gbbELr2E/i6JDGNkc/hIYvG3Q4=;4M5L5KLicZjJKKZKOavWMA=="
+secured: "CEk4Hsl4QNy/DtP2gAA8aH6iflaweVL+z5M1oKbno5Ggl02B5Nhwrys76S1jpXTzLbci2SsP87qkmH7lp6nmp1Sq2LjB+dbttvYj3oF8er+KnXxlvjtYUBzQxdQ/rphDYS9F2GM0v1MkmbFRjXut/IOc6G0DVCerNgK7+9PaYe9FXW2qj7vFMFvNefQwUPDoNeaVzcXxz6htrlDvdYA6HT7xcawfySjV1YmJVN9qQxvMdYaleua24+ViTNmpBWD5zNSV5d510HkZl3ViFDviiU2XgrhiJwpzPFDrzU0yxD3P+xYSyyFrpsZ58P2Yd2yLyXLLP4xj76+mvHQuucO/558CJ4TEe4RA4wu8gatvdok=;KJsmZxYZ9Vh9QCiNJIRikg=="
 ---
 

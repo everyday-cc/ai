@@ -800,19 +800,19 @@
     {
       "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
       "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "(NASDAQ: AMZN), today announced the general availability of AWS IoT FleetWise, a new service that makes it easier for automotive companies to collect, transform, and transfer vehicle data to the cloud in near real time.",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681659.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681659.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/aws-announces-general-availability-of-aws-iot-fleetwise-2022-09-27",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -822,12 +822,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T11:25:00-07:00",
+      "publishedDateTime": "2022-09-27T10:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

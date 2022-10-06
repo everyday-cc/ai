@@ -2,6 +2,101 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-08-04-things-to-know-before-buying-an-external-gpu-for-your-pc.md",
+      "title": "Things to know before buying an external GPU for your PC",
+      "excerpt": "A dock is required for everything to work and run smoothly. For example, the GPU is connected to the dock via a PCIe port, and then the dock connects to the computer via a USB-C or Thunderbolt cable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
+      "originalUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/07/eGPU-Teardown.jpg",
+          "width": 700,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TWCN Tech News",
+        "domain": "thewindowsclub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed.md",
+      "title": "AI startup Cerebras celebrated for chip triumph where others tried and failed",
+      "excerpt": "Company honored by Computer History Museum for cracking the code of making giant chips, with 'stunning' implications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d30b530eee72f472613d2ea609e7e9ae6d56d2fb/2022/08/03/f1b7abb3-e9d3-469e-833d-7c922ddc4e7a/cerebras-at-computer-history-museumrrl-1150-edit12.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 759,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
+      "publishedDateTime": "2022-08-03T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-global-artificial-intelligence-in-healthcare-market-demand-analysis-opportunity-outlook-2027.md",
       "title": "Global Artificial Intelligence In Healthcare Market: Demand Analysis & Opportunity Outlook 2027",
       "excerpt": "Recent report published by research nester titled“Global Artificial Intelligence in Healthcare Market: Demand Analysis & Opportunity Outlook 2027” delivers detailed overview of the global ...",
@@ -1074,109 +1169,6 @@
         "AI",
         "Machine Learning",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks.md",
-      "title": "mParticle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks",
-      "excerpt": "Particle acquires AI startup Vidora to help teams augment customer profiles and improve their marketing stacks Aug 03, 2022 (PRNewswire via COMTEX) --",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/mparticle-acquires-ai-startup-vidora-to-help-teams-augment-customer-profiles-and-improve-their-marketing-stacks-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-truera-joins-intel-disruptor-program-to-advance-ai-model-quality.md",
-      "title": "TruEra joins Intel Disruptor program to advance AI model quality",
-      "excerpt": "TruEra has been selected for the Intel Disrupter Initiative, which brings technical partnership and go-to-market support for participants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "originalUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/machine-learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/03/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "publishedDateTime": "2022-08-03T04:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

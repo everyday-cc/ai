@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
+      "title": "Robots and artificial intelligence bring Nebraska $25 million",
+      "excerpt": "so why not get a robot and teach it artificial intelligence and computer vision, put that in the poultry barn and let that replace the human labor? So we start to see these identifying problems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "originalUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/xdlYKfIq7wrIoezuhawke2SoLWA=/800x450/filters:focal(646x617:656x607):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4JYREUQNNBM65MXZ2SGFIOY6XU.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "publishedDateTime": "2022-09-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
+      "title": "These cute robots could deliver your next coffee",
+      "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "originalUrl": "https://www.cnn.com/travel/article/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/w_1200/http%3A%2F%2Fcdn.cnn.com%2Fcnnnext%2Fdam%2Fassets%2F220901160252-01-hospitality-service-robots-super-tease.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "cdnAmpWebUrl": "https://www-cnn-com.cdn.ampproject.org/c/s/www.cnn.com/travel/amp/rice-robotics-hong-kong-hospitality-hnk-spc-intl/index.html",
+      "publishedDateTime": "2022-09-02T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-european-robotic-arm-testing-on-the-international-space-station.md",
       "title": "European Robotic Arm Testing On The International Space Station",
       "excerpt": "The European Robotic Arm (ERA) successfully completed the first transfer following commands from cosmonauts inside the Space Station last week. Teams in Moscow, Russia and at ESA’s control room ...",
@@ -1274,84 +1369,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
-      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
-      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-high-school-students-explore-robotics-concepts-at-tamuq-programme.md",
-      "title": "High school students explore robotics concepts at Tamuq programme",
-      "excerpt": "robotics and transportation. The students learned about mechanical design, radio-controlled systems and taking experimental measurements. Benjamin Cieslinski, STEM laboratory manager at Tamuq said ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
-      "originalUrl": "https://www.gulf-times.com/story/723277/High-school-students-explore-robotics-concepts-at-",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

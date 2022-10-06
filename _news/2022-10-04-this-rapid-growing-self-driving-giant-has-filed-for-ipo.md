@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-gian
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Intel’s Self-Driving Technology Mobileye Unit Files for IPO"
-    excerpt: "Intel Corp. has filed for an initial public offering of its self-driving technology business, Mobileye Global Inc."
-    publishedDateTime: 2022-10-01T17:37:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/intels-self-driving-technology-mobileye-unit-files-for-ipo-71664606883511.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 4
 
 secured: "Lfj0a5CbKEmazEbp8WOWnHk4fyekNeBoMjxLehHrG3iUPi4uvsM/7/ucJxehcmgmyd4atl3iwnJhMZXQq1PBqrBuxKNH7mxyIzPk9KX9iHejlOgSXsji7e0QEUkTsrynuZL3V24U6Y5pvShncR6WwxLW8jkqUNer9Bz8deuvpmIqQ7SLHdZaK2+/SZD5vRN7/HZfWihpNt6ZsGDTmQscP7vcxX2DD+oDVEotbC7N+O6uw0P4Xpmn6Su1tIOYjST6+SiJ+gf2z/AHuFMe52siun0xdopPgl4LSK/ojc5SWrBe8RI0fHmHnw8z/CaEhjc8EUcfwP9Lee79cOURKCAjm7FoQERtcemTWDqVa3gjrLA=;30kYpBDczuMIUj0tkyFUKg=="
 ---

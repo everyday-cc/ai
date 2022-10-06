@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-13-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision.md",
+      "title": "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision",
+      "excerpt": "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-visionaryai-launches-video-denoiser-for-improved-night-vision.md",
       "title": "Visionary.ai Launches Video Denoiser for Improved Night Vision",
       "excerpt": "Visionary.ai Launches Video Denoiser for Improved Night Vision Sep 13, 2022 (PRNewswire via COMTEX) -- PR Newswire JERUSALEM,",
@@ -1360,50 +1395,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
-      "title": "Making Machine Learning Available to Everyone: Story of BigML",
-      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T21:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

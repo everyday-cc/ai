@@ -2,6 +2,83 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-09-07-how-self-service-business-intelligence-is-changing-the-retail-industry.md",
+      "title": "How self-service business intelligence is changing the retail industry",
+      "excerpt": "THE ARTICLES ON THESE PAGES ARE PRODUCED BY BUSINESS REPORTER, WHICH TAKES SOLE RESPONSIBILITY FOR THE CONTENTS",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "originalUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/07/14/Main%20image%20-%20Blueprint%20Software%20Systems%20-%20iStock-1358835459.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/business/business-reporter/business-intelligence-changing-retail-industry-b2161843.html",
+      "publishedDateTime": "2022-09-07T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-global-contact-center-to-reach-496-billion-us-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai.md",
+      "title": "Global Contact Center to Reach 496 billion U.S. dollars by 2027, Creating an Opportunity for AI Real-Time Audio Translation – OneMeta AI",
+      "excerpt": "Imagine every contact center becoming fluent in 82 languages with high level of accuracy. OneMeta AI’s technology allows contact centers to communicate in multi-lingual environments,” said ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-contact-center-to-reach-496-billion-u-s-dollars-by-2027-creating-an-opportunity-for-ai-real-time-audio-translation-onemeta-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-07T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-remote-controlled-robots-will-be-used-to-clean-up-edgewater-beach-lake-erie.md",
       "title": "Remote-controlled robots will be used to clean up Edgewater Beach, Lake Erie",
       "excerpt": "The “BeBot” is a remote-controlled robot that can rake and collect plastic litter, cans, food wrappers, or cigarettes at a pace of 32,000 square feet per hour, according to Meijer. The solar ...",
@@ -1061,83 +1138,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-al-meera-consumer-goods-embarks-on-digital-transformation-journey.md",
-      "title": "Al Meera Consumer Goods embarks on digital transformation journey",
-      "excerpt": "Qatar’s largest retail network, Al Meera Consumer Goods, has signed a partnership agreement with global technology company SAP SE (NYSE: SAP) and implementation partner Tata Consultancy Services (TCS) to deliver cloud computing solutions that will facilitate its expansion plans,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/al-meera-consumer-goods-embarks-on-digital-transformation-journey-b4x1y2yr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.zawya.com/version/c:ZWM0YzU3N2YtY2Q5MC00:YjEwOGFi/img_0026-jpg.JPG?f=3%3A2",
-          "width": 898,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-corestack-participates-in-aws-marketplace-vendor-insights-preview.md",
-      "title": "CoreStack Participates in AWS Marketplace Vendor Insights Preview",
-      "excerpt": "AWS Marketplace Vendor Insights helps streamline the procurement process by granting buyers access to evidence made available by sellers related to data privacy and residency, application security, and access control.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/09/06/9667756.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-06T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

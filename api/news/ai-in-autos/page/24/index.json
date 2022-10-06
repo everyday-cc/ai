@@ -2,6 +2,144 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
+      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
+      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "sourceUrl": null,
+      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "publishedDateTime": "2022-05-11T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "i",
+        "domain": "inews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
+      "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
+      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
+      "publishedDateTime": "2022-05-11T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-lightly-promises-faster-food-for-ai-models-after-3-million-seed-round.md",
+      "title": "Lightly Promises Faster Food For AI Models After $3 Million Seed Round",
+      "excerpt": "“Data is food for AI,” observed Andrew Ng, the artificial intelligence guru who co-founded Google Brain and led Baidu’s AI group. However, there’s a problem implied by the analogy. Artificial intelligence systems do indeed need data to function ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/627a4f1fab77fe5b38d75a76/0x0.jpg?format=jpg&crop=2931,1374,x0,y281,safe&width=1200",
+          "width": 1200,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
+      "publishedDateTime": "2022-05-10T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-11-the-problem-with-self-driving-cars.md",
       "title": "The problem with self-driving cars",
       "excerpt": "The question was never about automating driving. The question is about how to transform the transit experience.",

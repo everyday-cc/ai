@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-i
 ampWebUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Healthcare
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-climate.jpg"

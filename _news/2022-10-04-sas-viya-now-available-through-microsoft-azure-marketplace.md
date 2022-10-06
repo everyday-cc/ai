@@ -53,6 +53,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google opens first cloud region in Africa, following AWS and Microsoft"
+    excerpt: "The tech giant is intending to open a new region in South Africa, taking around two years longer than its competitors to enter the continent"
+    publishedDateTime: 2022-10-06T11:18:00Z
+    webUrl: "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 86
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Big Tech unites to make speech recognition tools better for people with disabilities"
     excerpt: "The Speech Accessibility Project will use artificial intelligence and machine learning to make speech recognition systems more inclusive of different speech patterns. Amazon, Apple, Google, Meta and Microsoft are all involved."
     publishedDateTime: 2022-10-03T21:10:00Z

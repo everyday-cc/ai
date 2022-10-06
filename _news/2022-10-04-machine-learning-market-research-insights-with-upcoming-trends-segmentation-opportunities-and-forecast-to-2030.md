@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-04T10:10:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-insights-with-upcoming-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-04"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-insights-with-upcoming-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-04"
 type: article
-quality: 49
+quality: 51
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
