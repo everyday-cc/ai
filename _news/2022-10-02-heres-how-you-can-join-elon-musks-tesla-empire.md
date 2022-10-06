@@ -44,6 +44,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+    publishedDateTime: 2022-10-02T08:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 76
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
     excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
     publishedDateTime: 2022-10-02T06:36:00Z
@@ -60,6 +76,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
+    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
+    publishedDateTime: 2022-10-03T07:16:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
     excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
     publishedDateTime: 2022-10-03T12:40:00Z
@@ -69,6 +99,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 55
+  - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
+    excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
+    publishedDateTime: 2022-10-03T18:29:00Z
+    webUrl: "https://www.aol.com/finance/tesla-analyst-explains-real-value-182943007.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
 
 secured: "Tq90b/NAN4VBc9VQrf1Rn4j6/tdJQN7AlDGYfa6VeB+c5pE6aRwPUQvHiBT8Y4EszdnxBNlh2WNzbCURAwqxRSudEmIAW/PJsEv2mR3YyCGDhBZHU7dZLo9yRaTtjjYFm3QK08gPfGpg9roKpZTpgtpJWgLiWmX7rhmvpBlLzq7aqlEQYbgB4gFcLr1rb54zjf+9G/WaeizkWsuIe4AE139QrfnbHSSw4ik2uQOAMqJu8LVVaEjVYZwnqjw9iLdCUvWp8ibnsVY36NvhPYfsrmIxgEOMghLlzF9G8F3nrbikAURl2h63oKXJfmkH1r+jtTbdy362Cjx1kpXEkzLwu2XbadvqvlhXvBT/5zpUQqo=;LchlIY5SgUpcZaOgeFnYgw=="
 ---

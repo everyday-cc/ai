@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-fas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
 quality: 105
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial intelligence finds faster algorithms for multiplying matrices"
+    excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."
+    publishedDateTime: 2022-10-05T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03023-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
+        width: 1024
+        height: 576
         isCached: true
 
 secured: "cbc1nGEUPmm5CQ8QyJajrt8Rv7Saynpdn8LlY1ZyvPQCgxvote253qZhlDhqVFuwtUwvUNLP4bSlw7P94WwsVvq5MuAxpGefSUCrSGXbZvnyGRQBs8UpMZELKhMjsEH4pbJ5NATmV6uD7uG42GqQazepheDUtvi3eVjsGMMeZlSpYm7IFYgP+Y0F/0eEWE24peESfDzzHKdXSqsdNPWAZn3liTu/3GLOTjABcduI7WJR+u79hSEdw2WcQlFTIa+BetwL1Lbus6rpbXkXoLuLfnFr5N10CSjhq5G6MlH7haMKeYwSG5auzzF7VHxXHlcO8npCOsJ2BEWJz4GGROFQRy8gxmgoA7Tnh6Rkfkgs4wXqmeBIDxHegCTcOB+HP9/hbZbItX2jdeoST+dnuWJDxNDpiTBA+fGATTP9ogCE2yif2/EvEBIQh+1wW3JpA99u5j7gqWqGm8c8DIQftWqVS65bMGbp8rkbIFYhoK8I31+o7vd0IsRX2PwqakYcrWvIk/uRKbXQn3cw4f6peYJNtQ==;y0BilYTOV49sQqikLSn6eQ=="

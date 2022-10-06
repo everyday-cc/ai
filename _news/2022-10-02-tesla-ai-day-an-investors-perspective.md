@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investor
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 166
 published: true
 
 provider:
@@ -32,6 +32,36 @@ images:
     isCached: true
 
 related:
+  - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
+    excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
+    publishedDateTime: 2022-10-02T23:22:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day-41664710520640.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/02/1600x900/Tesla-optimus_1664710714621_1664710721230_1664710721230.jpg"
+        width: 1600
+        height: 898
+        isCached: true
+  - title: "Tesla's AI Day delivers a real Optimus prototype and more FSD updates"
+    excerpt: "Tesla's AI Day is a yearly event where the company showcases upcoming technologies and lays out its roadmap for future development. While the technology demonstrations are"
+    publishedDateTime: 2022-10-01T15:08:00Z
+    webUrl: "https://www.techspot.com/news/96169-tesla-ai-day-delivers-real-optimus-prototype-more.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-30-image-27.jpg"
+        width: 2708
+        height: 1360
+        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -62,6 +92,29 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
+    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
+    publishedDateTime: 2022-10-02T03:16:00Z
+    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
+        width: 1600
+        height: 889
+        isCached: true
+  - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
+    excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
+    publishedDateTime: 2022-10-02T13:51:00Z
+    webUrl: "https://www.thedrive.com/news/elon-musk-reveals-prototype-humanoid-tesla-robot-at-ai-day"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 53
 
 secured: "6cpGDEl8SyNQ5y6q/BIx1r3A9qWLGObe9NWdLxhYFCHTFgmAuzWlJ3LO7mYC/Ia/RrrNIpLz1HqZJzS+ihYXJumUbGazZJPtbFRfmuskv37/6jdvRMnT3P/KEy3MdFjAv0+S/+jwgCfUybhx4nzBJfvzDx8cNP8d+9Zao/brqosAWZrwgUPad53M/de7rtXj8WgTqPF/eIgiAHMtdbQ3ipAIrG/86PC1EQ/RvlfMI4x3qkfiBop0Eh/CjbxtqP/cresg9xC8QYg6S0eqTw0hS2DK1XVnNPlIskBZ/tCQfbP8P33QaxaDh6Z9eF6AXHuwRxnnmAMTPGlMPqLFCFejg7Oqi66xQHExb1gY+Pbqv3Q+1P9BoFoTKOcal5sIqWE27yVgcRp3Z7E645OI0p0dhdMGouwi8ky5fs93tVKr8ic2aAx2I0u89W9Y+sFinN8iCzrf8NK7Kj6NKEETHEHIeVfNCKA6/h8jTl0YU09oQHzZfcLkNnNgYA491sfxXggaXQazdmSoRqT0O9K28PdF4g==;HOhPBmbZxGUGSION6mg7yQ=="
 ---

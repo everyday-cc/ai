@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-30-panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.md",
+      "title": "Panera Bread tests artificial intelligence technology in drive-thru lanes",
+      "excerpt": "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?v=1661775251",
+          "width": 3800,
+          "height": 2533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/29/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes.html",
+      "publishedDateTime": "2022-08-29T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-waymos-driverless-vehicles-are-picking-up-passengers-in-downtown-phoenix.md",
+      "title": "Waymo’s driverless vehicles are picking up passengers in downtown Phoenix",
+      "excerpt": "Waymo’s fully driverless vehicles are picking up passengers in downtown Phoenix, five months after the Alphabet-owned company expanded its service area to include denser, more complex areas of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehicles-passengers-downtown-phoenix",
+      "originalUrl": "https://www.theverge.com/2022/8/29/23323593/waymo-driverless-vehicles-passengers-downtown-phoenix",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/vtjG0Vqkwjh8mmGXyWImPG0Uihk=/0x231:2040x1299/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22309273/vpavic_4412_20210111_0003.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T10:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-elon-musk-focused-on-getting-self-driving-teslas-in-wide-release-by-year-end.md",
       "title": "Elon Musk: focused on getting self-driving Teslas in wide release by year-end",
       "excerpt": "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday.",
@@ -1285,101 +1390,6 @@
       "provider": {
         "name": "androidheadlines.com",
         "domain": "androidheadlines.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ride-hailing-app-cruise-goes-green-and-driverless.md",
-      "title": "Ride-Hailing App Cruise Goes Green And Driverless",
-      "excerpt": "Imagine using your ride-hailing app to call a car, as most of us have done anywhere from dozens to hundreds of times, and when it arrives it has no driver. While just a few years ago this scenario ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/",
-      "originalUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630e45703d839cd43fff61b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 911,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/simonmainwaring/2022/08/22/cruise-ride-hailing-goes-green-and-driverless/amp/",
-      "publishedDateTime": "2022-08-22T10:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-5-best-artificial-intelligence-stocks-to-buy-now.md",
-      "title": "5 Best Artificial Intelligence Stocks To Buy Now",
-      "excerpt": "The company’s Meta AI is working towards developing artificial intelligence in the digital ... self-driving cars through its subsidiary, Waymo. In addition, the company’s subsidiary DeepMind ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/?singlepage=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg",
-          "width": 584,
-          "height": 296,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
         "images": null,
         "publishers": null,
         "authors": null

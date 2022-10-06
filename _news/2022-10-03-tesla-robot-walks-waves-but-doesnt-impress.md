@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla unveils functional prototypes of its planned humanoid robot"
+    excerpt: "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own."
+    publishedDateTime: 2022-10-03T16:35:00Z
+    webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 88
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’"
     excerpt: "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar."
     publishedDateTime: 2022-10-04T21:13:00Z
@@ -42,33 +56,19 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla is dropping ultrasonic sensors from new vehicles as it moves to camera-only Tesla Vision"
-    excerpt: "Tesla writes that the company started transitioning to Tesla Vision by removing radar from the Model 3 and Model Y last year, with the Model S"
-    publishedDateTime: 2022-10-05T14:11:00Z
-    webUrl: "https://www.techspot.com/news/96208-tesla-dropping-ultrasonic-sensors-new-vehicles-moves-camera.html"
+  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
+    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
+    publishedDateTime: 2022-10-02T23:37:00Z
+    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 59
+      name: Reuters
+      domain: reuters.com
+    quality: 83
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/02/2022-02-02-image-17.jpg"
-        width: 4000
-        height: 2722
-        isCached: true
-  - title: "Who's At Fault In A Tesla Self-Driving Accident?"
-    excerpt: "There is no doubt that the future of transportation is autonomous. While car manufacturers have made considerable strides in making this possible, some apparent technological flaws may require a few more years to iron out before driverless cars become the norm on American roads."
-    publishedDateTime: 2022-10-04T20:40:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/10/04/453675-whos-fault-a-tesla-self-driving-accident.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/5860221015-phone-car.jpg"
-        width: 628
-        height: 420
+      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "9mX/vMTL4VgUp7y6R1K0QAfk6wk70PquqyG1G9gim5T//qAg6/xA3bacXS0Wr8HAziQ5VdwRMi71hXBPK7zT+8qVD96DSymrfB1oM5BzUjyQ17U+Vn4JeKxsSFXBSfoK/m2NH2uPIP6TWdUIofc/BV7wY0j7Al7Nyt92wOQHMzRAq0L9pSqM9fqvGveoLFTRIY3LoWn28FF7+D6rU5X/Sw5m5ejgxKTB+F2nfCNxUr2MaJDoycBPocz+Wh6ow9AuaJd7I+MV2NVqCxAbnUpr84A6czez7L8V31M8axIiHW1dz956gxfeL8lXZJFxIW9sFZdXUtDMREmo2li9el/qDjGZk0NHVLi8O4PkEgCRXf2ARZ7KeJGZ8ye42Sfs9seNjAtEWjMI2tkqz3h0lHaHxWcizq3pzawryIR1is87gsmp9ZC1qx+dOFxQezLaafdMMZTyJWJYfK77Vza4VQ8fwAfLBUqZXXsXQxHu6ba7gPVEzPi9CyE2umWZicFCT9QCZdDxlnfFu3iXPsiYE5sX7w==;ej56cgZ3RKzD4oGZai3sPQ=="

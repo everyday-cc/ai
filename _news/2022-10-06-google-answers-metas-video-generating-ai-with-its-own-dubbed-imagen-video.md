@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/05/google-answers-metas-video-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Google Joins Meta in Creating AI-Powered Text-to-Video Generator"
+    excerpt: "Mark Zuckerberg’s Meta isn't the only company developing an AI-powered program that can generate video out of text inputs. Google has been working on one, too. On Wednesday, researchers at the company’s AI lab,"
+    publishedDateTime: 2022-10-05T21:40:00Z
+    webUrl: "https://www.pcmag.com/news/google-joins-meta-in-creating-ai-powered-text-to-video-generator"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/007sZYPQiaL28pArTs9J6Oj-1.fit_lim.size_1200x630.v1664996190.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Google’s newest AI generator creates HD video from text prompts"
     excerpt: "Only six months after the launch of OpenAI's DALLE-2 text-to-image generator, progress in the field of AI diffusion models has been heating up rapidly. Google's Imagen Video announcement comes less than a week after Meta unveiled its text-to-video AI tool,"
     publishedDateTime: 2022-10-05T20:42:00Z
@@ -45,6 +59,6 @@ related:
         height: 380
         isCached: true
 
-secured: "pLyef/TLYqhBJnAMuIPL6FYteZSQZqYF9Js68/rnXTzDCNdsrgRr7+5OahCXB9HKcvZgCuczzjPpb3iL3hX9XOYgDzhyx5UemxBvdF3H24LwlilFLPec8tzbJKbRWnKHNJxgwrNM0r5RWRAe5dSs9Oiw75R9ZYJt0hfFzZk+LX1oUtbQQHdANg8d+F4ZVzQxDZcJty5Z8f3PO72Tvr/cjOYjPngsNNSBUXI6gjWtultVZbusOSakKSUAyVPQ98uaUmw7hBJacgreQRx4cA03lt6TTiTxmJ22Sz2YXhzm9YPpVCK0Uh9j3bmX/PrTkkPGqfQ1vTATe02NVlAaUh1/Iblgrm+d/1vs92HmIP9A6Us=;iFzU8bLC89kJnIxxIThWSQ=="
+secured: "U2wYb1F9nHrqY8/nalGXrV0CYj+6lIDskS1PcJwISwfaz1//G8lPPSYb+bfXiIuN1j1RLnPevSdy6GPNEHCDBnKDEXb6IvrHyQ2rMOcHkZdIuFenLUHWgJKEQWeB+3ThhOfSzYLufeZKL3avpwanhHE5BZD+cQpUHBSNK2VrQ4+RHOph6IOFsBxoYbQKsxpT9hJl2nGnd8oof2KyKBZtdPXzlfQKdORzrCv0eKzgGvoMK7+sUma6EGRCCI5mS34SYrJzT1m9pPVF0eMLD9UWLxL9w1MdM6iMwkl5yU6NjJI2AyFrxmmzoLDJ61EdheQk+WX9wqJUkdCmuKbELL2gwYQ0Ekg6ZzfNMckJ57/sCFYMuMfUz40BLa9WW105LzW+zrF9EHzRMBs2OOgoMG0lvRYhh71Kb2931ZDhiSUejN+EcYX1ogHGKaoVYUyRRFmpGbFZZPXIpzl3C1DlStzw6BR2+Eot1tDGvQNNUS9UiUJOP+C9VMHV/4tP0bZymD06SAZqKliyVyADg5fUz7QasA==;SP952VD4TrMyX9qNUihDeA=="
 ---
 

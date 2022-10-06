@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
+    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
+    publishedDateTime: 2022-10-02T08:29:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
+    type: article
+    provider:
+      name: WHAS11 News
+      domain: whas11.com
+    quality: 76
+    images:
+      - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "Here's How You Can Join Elon Musk's Tesla Empire"
     excerpt: "A couple of days after demonstrating its prowess in artificial intelligence and future computing at its AI Day 2022 event, Elon Musk's Tesla has now lau"
     publishedDateTime: 2022-10-02T10:30:00Z
@@ -71,6 +87,29 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
+    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
+    publishedDateTime: 2022-10-03T07:16:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 56
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
+        width: 800
+        height: 600
+        isCached: true
+  - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
+    excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
+    publishedDateTime: 2022-10-03T18:29:00Z
+    webUrl: "https://www.aol.com/finance/tesla-analyst-explains-real-value-182943007.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 50
 
 secured: "RWKQE+OcxVbmzt+cmdOyAo9mGQporn0yJcUTFua0XJlM481DKvyhxVUFmdpic+Ishz3VaP3q8gKYl3KyP2OOOWmFVMIAeGqDQ2oucAC8XBtrSxjpD9m6UualS530gNKvgD8kwMvfWrB3txiA2Wyw3ItN9Vyr2BesTtz0lblxV2/SYnzJY7JyblpNCrbEnnvDOuprFkLZhPmLbWN+8LrPdQ6E1c/fSqXPXfG/0zdLNLwFeYlU3fXS4cH9llCMq0wRJG++EszMnEJMGXdqMaDGzd4pk3mhZchssyHlYiUc3Jd65UONDyL4OjYUMKpPORdb9A4q/BhqWIuY1vNM2GDkOPPAlEID9CFJWcs59UdMluBY/MHQ1Eb5j6bnLd/R6R/wRgObrGB8IgJ6IfMA7+uWZ8Seg1WZZ64eX20ya0QkodXpVz/dSS9MhhPzZBjVsoDOeCiSgIHNYU93e8dkpezV8Zdd6iYYAB8D58Sb6BY39O2nmZG8Dz6yeWfZ67+7XhZ3l6bvV9b7imxk0iD93z4VpQ==;rL8dUzhgrHnLK4KRMb+yRQ=="
 ---

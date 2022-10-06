@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Artificial intelligence finds faster algorithms for multiplying matrices"
+    excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."
+    publishedDateTime: 2022-10-05T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03023-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 38
+    images:
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "ctIt4BOeWkwJRRYVS2jvkclD0mzQEGJ7ncMa335n4MdrpHdnXYXwArBCa+tXE8M2iczpQ16SWPewT0wGGQxPHIRb6Kb+g9JHPHw0MZArjb3iBQzQHyvDmh7aifaTVvF08HWg0Ek24Y5qunvUap+ChaqKmVdVpF/mN5gztZVMQmvPEYwW5t5+6r8O5CstMqS4gxfeq0OHo3IhFBcY+uCV6XPhdo+tSHTsmjgFob7Vl6ICKgu184o5SyQV6GJAwHsCQs+FIBd3qQh1gpOx3+vm1z4UBBQ9lz1/YtKPhpJz2glH7kNnU9dcvRilySW/10O38iQWl3jmJkSD5l90UxQxwWR6Qpt+dfII/5rmwibWuDaTkJKhytZn8rx2/cfq9czh7RqWbyLZ7rWSf4X/ac9TMjtT714q2kKgsEuDmq+ssvOSPOCRTxNgN6zp7tU3Bv8xDUMDqUdSCPJMyKxQTlMw0xhTXraMsw1TKa3SoedmxtWrsS14TVTVW8pedZ28s/gdQOm2z54J7/WVYiGs+uyZgQ==;rTLroKxiV4Uw0d7yDTzWDg=="
 ---

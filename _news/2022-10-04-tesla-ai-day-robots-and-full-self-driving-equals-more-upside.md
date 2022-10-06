@@ -43,6 +43,36 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
+    excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
+    publishedDateTime: 2022-10-02T23:22:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day-41664710520640.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 91
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/02/1600x900/Tesla-optimus_1664710714621_1664710721230_1664710721230.jpg"
+        width: 1600
+        height: 898
+        isCached: true
+  - title: "Tesla's AI Day delivers a real Optimus prototype and more FSD updates"
+    excerpt: "Tesla's AI Day is a yearly event where the company showcases upcoming technologies and lays out its roadmap for future development. While the technology demonstrations are"
+    publishedDateTime: 2022-10-01T15:08:00Z
+    webUrl: "https://www.techspot.com/news/96169-tesla-ai-day-delivers-real-optimus-prototype-more.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 86
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-30-image-27.jpg"
+        width: 2708
+        height: 1360
+        isCached: true
   - title: "Tesla Hosted Its Second A.I. Day. This Time a Robot Danced."
     excerpt: "Tesla provided investors with updates about its autonomous driving efforts and a labor-saving humanoid robot on Friday. Investors have other concerns."
     publishedDateTime: 2022-10-01T17:14:00Z
@@ -59,6 +89,29 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
+    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
+    publishedDateTime: 2022-10-02T03:16:00Z
+    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 56
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
+        width: 1600
+        height: 889
+        isCached: true
+  - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
+    excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
+    publishedDateTime: 2022-10-02T13:51:00Z
+    webUrl: "https://www.thedrive.com/news/elon-musk-reveals-prototype-humanoid-tesla-robot-at-ai-day"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 53
 
 secured: "X+BNPdz/y+d/Uh/FxBymB0WXKAcxDF7biBnq1m+LmwLgrZWj2a00RT+TKMKiRb/uWUz3mjyW4E1O6bM8i62n+aIjn5hOstnkoC3JPnlgeoUfhr4E3/bD1CKxdvfQcsVvm9TBuNqZjDL8F4reVnb0aF+Uz6lAGph7womaQ7HWnZ1HOO9z1/Apa/DrF7OWqKm+o2lvJ7PaKm6v2Fk0z40uRcAfRD8z2yEepiTIV5eYvtQThGf0xCozw5Mk7VySLFdHoC+rB+VzjkbcfN6KjsDqewVwlp+syF8oqfWZzBtevg/0CJjIk0oInZMFAxnYJYnfzR8O+LBxc7c0IpKTsGUtzIBesoFBs/6r9dYWeWDm3fgL7iaWfDaeCRl7OSORMGNW4HnPr1lB1Pq+EpXM5cSy+B9Jz6dCjvpuXfFSMtTeBpOQQr4H4jFnt9DmA50aXOhK9z1BydgEj/uU9jMa8p8rrEuMNoZuHCbKoTMMPdu9qpeUME3U1mwGj58OYi9BPvbnJLVKI9G6gilMKsej7r1MtA==;R6gZy6sjtarv9xObm35V+w=="
 ---

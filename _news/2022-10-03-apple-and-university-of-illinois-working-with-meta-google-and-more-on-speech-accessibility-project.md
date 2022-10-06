@@ -160,6 +160,20 @@ related:
         width: 1600
         height: 840
         isCached: true
+  - title: "Tips for using free voice recognition software on your computer"
+    excerpt: "Q: Are there any free voice recognition programs for my computer that are worth trying? A: The pursuit to have computers understand human speech started in the early 1950s when Bell Labs designed ..."
+    publishedDateTime: 2022-10-03T13:30:00Z
+    webUrl: "https://www.azcentral.com/story/money/business/tech/2022/10/03/voice-recognition-software-for-computer-worth-trying/8164138001/"
+    type: article
+    provider:
+      name: AZ Central
+      domain: azcentral.com
+    quality: 24
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2022/10/02/PPHX/b7a67f79-2d26-4b6b-8a25-682c8b1e6392-636083560130070207-ThinkstockPhotos-100616474.jpg?auto=webp&crop=2120,1193,x1,y191&format=pjpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
     excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
     publishedDateTime: 2022-10-04T11:08:00Z
