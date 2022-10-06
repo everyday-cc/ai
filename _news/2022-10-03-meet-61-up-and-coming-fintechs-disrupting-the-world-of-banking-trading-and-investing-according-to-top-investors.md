@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Farming AI: Self-Driving Tractors"
-    excerpt: "We check out the technology behind John Deere's latest self-driving tractor. John Deere is looking to deliver a fully autonomous tractor to farmers for production use. In this video, I talked with Gaurav Bansal of John Deere's Blue River Technology group that worked on the machine-learning support."
-    publishedDateTime: 2022-10-04T20:59:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/video/21250978/electronic-design-farming-ai-selfdriving-tractors"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
   - title: "Researching at the intersection of computing and accessibility"
     excerpt: "Hassan is a computing and information sciences Ph.D. student from Lahore, Pakistan, who works on campus at the Center for Accessibility and Inclusion Research (CAIR) and the Linguistic and Assistive Technologies Laboratory,"
     publishedDateTime: 2022-10-05T12:28:00Z

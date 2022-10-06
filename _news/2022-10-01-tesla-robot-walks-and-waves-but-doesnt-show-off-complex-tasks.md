@@ -9,7 +9,7 @@ ampWebUrl: "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
 cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,15 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."
-    publishedDateTime: 2022-10-01T11:50:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/tesla-humanoid-robot-elon-musk-cant-walk-rcna50307"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 63
   - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
     excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday"
     publishedDateTime: 2022-10-01T13:46:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 135
+heat: 145
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
     images:
       - url: "https://static.zawya.com/version/c:N2Q3ZWY5ZmItZTRkMS00:OTNmZjI3/metaatriverbed-jpg.jpg?f=1%3A1&q=1&w=3840"
         width: 600
+        height: 600
+        isCached: true
+  - title: "India’s fintech unicorn Yubi makes UAE debut"
+    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
+    publishedDateTime: 2022-10-06T05:39:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
+        width: 900
         height: 600
         isCached: true
   - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"

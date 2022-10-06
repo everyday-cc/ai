@@ -1,27 +1,23 @@
 ---
 category: news
 title: "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services"
-excerpt: "This collaboration aims to make it easier and more cost effective for customers to build, use, and scale computer vision applications, which enhance productivity, maintain equipment, and improve ..."
-publishedDateTime: 2022-09-29T17:18:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_d4b30d7a-5a66-5fb2-b590-3b065991488d.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_d4b30d7a-5a66-5fb2-b590-3b065991488d.html"
+excerpt: "The new set of computer vision services will combine SK Telecom's artificial intelligence (AI) models, trained on more than 10 years of anonymized video data, and AWS's edge services, IoT ..."
+publishedDateTime: 2022-09-29T17:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services"
+webUrl: "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services"
+ampWebUrl: "https://www.benzinga.com/amp/content/29081188"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
   - AWS AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "zG80y4lhPrBU1N8NxDfgEjjpVPucyRhdHCdX+HOaF+397axYGBdP/xeyJosl8xBmmoVXnG1+Zpm98sxIzE1jXXrERvpvkQ79ZZkcAHOTt5pJOoZNQ5/M841Ho0x7/d0wlZCQcI+hRF28d/AjuA4rm56P1dQJ8Mxo763mYq7jY3rsNhdjZRY64oN0hCqApNca3RnFBeMj7rEdjXGzDHENqRezAdbq+WY4lIxaFkfT8gi1DjrBonWEjaJif3mMPuMwMoGQQUto9gaOhRJisTQJB+s9HhR7TlcExJGE+oXygJ2XA6cPStyqqVxdbzbmT2B2JQNo4cnW9j8wr3AJrjBBWSLfm0R/LGXzDtTviCm3BgQ=;Y9bEMGqvKIv/vM2aE6YbTg=="
+secured: "o7aq4RJXN5MFmpOnn1jLLLwhdQq1CQvVwVNf5VRI/nNJLL4UFt4XfkMlkCBQ4zlsb4BFyAru5HFkZXkZQaGfXDBy2kkCgd2D/xbGqqRYbal33ZTD88izoxrjFbx+bJJy8JmVW7dbQlotvtdoTpIek6L4EARr6n84PFPU0s35ucI98tk2m9aMUHXKkwKXhwkcEC830hRYJE2RjPtrhAbVLpvj0WFNwf0DiVfn56nnIXPWhF9vSdkLPeQcGinu82sOD5WsUybE5TIxOOxnxntpjeu2/AG/RbN61/JIpu9ZzWj/r6X4gZLUuKcz2ggr06D0Qmt6q33Uai/CQi9zvUh5UpSU7v2LNJgeHOdyj/v5BA8=;mgFM3YZb3CP9K3j5vpkoEA=="
 ---
 

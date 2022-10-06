@@ -1,32 +1,27 @@
 ---
 category: news
-title: "The White House released an ‘AI Bill of Rights’"
-excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
-publishedDateTime: 2022-10-04T21:06:00Z
-originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+title: "The White House released an 'AI Bill of Rights'"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
+publishedDateTime: 2022-10-04T20:06:00Z
+originalUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
 type: article
-quality: 87
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: CNN
-  domain: cnn.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
-    width: 1100
-    height: 619
+  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -231,6 +226,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "oFkhglGKNCZwaU4KtKWdyPHKY3l0vdzMts1bNXtHRNapkusVkUEuqQG4YfKuOMqUCd7Ol/DrTZ7Ys+FIeQku3wVMgM+qpSQWY0Bgj3GIztsHNgRjRMyrLfbcUxZU0HGzcsRo3/ueMm8q0h2/RtPUNOAmK1wd5lnbQJQiw+BBkdfVcL5mhFbxXP8yberiNQbdX/9/7DDog7d9rLMNcV7Mylm3mYPQ5ix08ajxmCbh7nutNASVN5fkClo0YHh9SyyGHFygbj5bK2Z0KYQcuWMlWPyboNERQ5+6W5szATV210Wl8MilgVGGM+Nibdk19hF3HF9rF0SFKR+h0ePO27dn1WMa40gKm4ebqEknJiAmQto=;55Mo4746qfgAJ7G/6fiQNg=="
+secured: "jsbV9RSF2mv7JaOiAvi5RaynDt8Fgj8svvTToIawSXPg8PsAVIlasU35CCik89NcsTvd1yeNBhVYoVEMyaxVGNILbBNgawmmkn97GVFQqyZZo1C+qKQvyvo1z0wZ6w/YURwhlXs23bDKbXzgKB0JGkDPPu9NCqgCHVfVlmknJ+XKvaRf0Kf9jQfV/VB1QZ3tcfDVNCfxPRKa+Ym2Xl8gMzWOOECX6MyPloEMxLz13PIzBPyoIO96IHLdeK42Y+UMGP9b2cePornztW9jeDd7HRuoI4DVel+oHt3Y3TL05X+KkWtrRTLge/cf9mwCvGky7ps3TWDNDZXiZmt11EwIMugJ3LyEAyeE8o4K+7xJdDQ=;egG3z6QPwlRSapRUM5XeYw=="
 ---
 

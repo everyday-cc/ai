@@ -1,85 +1,29 @@
 ---
 category: news
 title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
-excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-publishedDateTime: 2022-10-01T07:12:00Z
-originalUrl: "https://www.nbcnewyork.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3889379/"
-webUrl: "https://www.nbcnewyork.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3889379/"
+excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ..."
+publishedDateTime: 2022-10-01T07:07:00Z
+originalUrl: "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/"
+webUrl: "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/"
+ampWebUrl: "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1"
+cdnAmpWebUrl: "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1"
 type: article
-quality: 50
-heat: -1
-published: false
 
 provider:
-  name: NBC New York
-  domain: nbcnewyork.com
+  name: NBC DFW
+  domain: nbcdfw.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Autos
 
-related:
-  - title: "Tesla robot walks and waves, but doesn't show off complex tasks"
-    excerpt: "DETROIT — An early prototype of Tesla's proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence ..."
-    publishedDateTime: 2022-10-01T13:28:00Z
-    webUrl: "https://www.autoblog.com/2022/10/01/tesla-robot-optimus-ai/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/01/tesla-robot-optimus-ai/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 76
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.aolcdn.com/os/ab/_cms/2022/10/01074706/Screen-Shot-2022-10-01-at-7.46.35-AM.png"
-        width: 1062
-        height: 597
-        isCached: true
-  - title: "Tesla’s robot waves but can’t walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla’s push to design and build mass-market robots that would also be tested by working jobs in its factories sets it apart from other manufacturers that have experimented with humanoid robots."
-    publishedDateTime: 2022-10-01T11:50:00Z
-    webUrl: "https://www.nbcnews.com/business/business-news/tesla-humanoid-robot-elon-musk-cant-walk-rcna50307"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 63
-  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday"
-    publishedDateTime: 2022-10-01T13:46:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/tesla-robot-walks-waves-show-off-complex-tasks-90805394"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 56
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_4a288d490a1843839f4e48c2453e6a75_16x9_992.jpg"
-        width: 992
-        height: 558
-        isCached: true
-  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-    publishedDateTime: 2022-10-02T06:33:00Z
-    webUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
-    ampWebUrl: "https://www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 56
-  - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
-    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-03T19:38:00Z
-    webUrl: "https://www.statesman.com/story/business/technology/2022/10/03/tesla-optimus-robot-walks-waves-doesnt-show-off-complex-tasks/69536356007/"
-    type: article
-    provider:
-      name: Austin American-Statesman
-      domain: statesman.com
-    quality: 36
+images:
+  - url: "https://media.nbcdfw.com/2022/09/AP22269595150521.jpg?quality=85&strip=all&resize=1200%2C675"
+    width: 1200
+    height: 675
+    isCached: true
 
-secured: "aYN8m9Jbyz5o4cjCquozuwsH/F/tY3lYDF4EH6NtzwTaHlgDfcnDDn4AFis3DUpCCEDrqZqkM9SbqWC3Uw/qF+QE+eyFMVOEg1j2n9DugETKjT9AQEt8ZE7YLwD1ykl7+mqM6EthU/ruplZ8VLGoyoHdQb4wUUyPN2ODmgtVzNGJiNzh5KbR/L5CMwwIS64bbpr1xu3V+hAUOp/Dv3mU2I/t3bKPz7XguJdod5ZR9J+bjoqo6/KHsYIr7+Ah8T8jfHv7tl3UzO31S/J63dbxyEc8bawry3HxvuquqTrKLidOQl/DWYJ79bF9gFy0YlELsou4pO/Im1nQkcV8HuZbXzRTCfUx2Yu7M4qns5vf6a3CkcHa9WIpyGurI/Jz2n5RHZIAsdI9rzKhBDda4vpiY13uAVW0ALavbAwTSkvSXRoI/fvBCnFCAreaDuMGLL7Ibc2DDdhvRIMVQzhejSnDia61P8V/VNfwsSKFYSQgTdRC5u7CxbPxJoyTqr5D6gumQPjf0VhQKyEQQhAvPgtdQw==;Kd5lK8b9RsM7ubmEqE3vNg=="
+secured: "scFEO1xsYMvWBeqgcBPZT5+vXkyFbSd5fd7C/f+nxDtbi6ODqsQagMGY45+fDX699/BO8LNnsdye+O5AE5NAC7Yr8bzXpfrCfG2+RiD9hfJFNZZWInEQpMrLkmQ3Re3tUwK2N5S6NS70oE+YNUZfVCK0is6dHVeT8wUoNop9eRwX70n3aWTBkgeyl5EzKbdJHolksfI5AWPwsROxmK5HbwcVnXkRGMH/rXHyJItafJgNPz7ezCBpAQKwWBSPvC+d14lVx87xxulnJGi9IWRla/lXy+MkTQTf4LlEWWAFMrRNwuxOfsNnqlFLG0TqXenSn4mTsTBmPMr1VO1x1Hfc9VQaUEy3dEdkRkG6C1wZ/J8=;P8WA3OSviiuKPBFMnnR5NA=="
 ---
 

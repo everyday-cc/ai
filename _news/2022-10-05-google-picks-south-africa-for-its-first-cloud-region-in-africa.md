@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 802
     isCached: true
+
+related:
+  - title: "Google Builds Cloud Region In South Africa As Country’s Tech Sector Grows"
+    excerpt: "In an effort to scale up cloud capabilities in South Africa, Google plans to build a suite of interconnected sites in Nairobi, Capetown, Johannesburg and Lagos."
+    publishedDateTime: 2022-10-05T19:26:00Z
+    webUrl: "https://news.crunchbase.com/cloud/tech-cloud-region-south-africa-google-microsoft-amazon/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 23
+    images:
+      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
+        width: 900
+        height: 506
+        isCached: true
 
 secured: "999YqhOrlm0Sk8QUAL80bkph42krURoxI5qoO8fDCpiBypslBGiRdkBhDDUS3ZUODHiYdVP8EQ2F5gQGr7Gee5G07ozmgzjb+285sdbXo0WXwzIi/ke2hOvqKMZ3VaTN/Qj+P9rNFStM8wvbu15FA7J42Q2NJM2yq3QJBPq8nqwLAcNzHdFQGU4KLLrxBB7p3l9O/1LuJv/+S6FPDY3m36jUcua7biD874MXA7kOqS+r+Eq2vFyjDPohFqSCsqzFm1xaHNodvWo7AvKYmxsck96cDGLyOLMJF9uYygwsRhoKe2wA53FfsLBIZWg37zgC7GkAPTaL7qg8pmM2LqEbPxV1lN3tiytD2G6qfF+e2SFCitLAGgGCkod/lOslm4wv6hVrpTQzKzRjExFD8HboHEommxnNSyPUSRzaR8XX77za6l6G3p0j7hrbl+MJpBr/tdV21U1p2FMaySzPOGAne/pMncZSmpPrjAGpIOxjEO7u8w80BXw0AyxcEteSr7cQp79eGA5J/Ud95b5i1EXD8Q==;FFappSaMZId1qx+hLisHpA=="
 ---

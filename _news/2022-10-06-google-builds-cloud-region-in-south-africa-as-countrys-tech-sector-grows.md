@@ -1,0 +1,47 @@
+---
+category: news
+title: "Google Builds Cloud Region In South Africa As Country’s Tech Sector Grows"
+excerpt: "In an effort to scale up cloud capabilities in South Africa, Google plans to build a suite of interconnected sites in Nairobi, Capetown, Johannesburg and Lagos."
+publishedDateTime: 2022-10-05T19:26:00Z
+originalUrl: "https://news.crunchbase.com/cloud/tech-cloud-region-south-africa-google-microsoft-amazon/"
+webUrl: "https://news.crunchbase.com/cloud/tech-cloud-region-south-africa-google-microsoft-amazon/"
+type: article
+quality: 23
+heat: -1
+published: false
+
+provider:
+  name: news.crunchbase
+  domain: crunchbase.com
+
+topics:
+  - Microsoft AI
+  - AI
+
+images:
+  - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
+    width: 900
+    height: 506
+    isCached: true
+
+related:
+  - title: "Google picks South Africa for its first cloud region in Africa"
+    excerpt: "Alphabet Inc's Google is also building Dedicated Cloud Interconnect sites in Lagos, Nairobi, Johannesburg, and Cape Town."
+    publishedDateTime: 2022-10-05T10:23:00Z
+    webUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/"
+    ampWebUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802"
+        width: 1200
+        height: 802
+        isCached: true
+
+secured: "H+/04qDAjgAV0t1qWUQyj94jJisrNspdjyVgaW0sfYoUUjTNvrkCgukVnSmi04lP+1zmhHpQDbCxpazX9STsc3ssTZ8njjLaq9U3YAzkhJrW7Rom2agF3AX0DqSgZsZv3Q48D/AWFEeo9HxJJLMSX9CveNIGHyi/AzZpo7UVuxa3na26oEW3ddyyREuHY+wnU2Uc1ylYb4v3Ug0ccNiswNkz/8B5PCXAKA614uknRS0ocCl4jKJnswD7qjyYfzfpD6PQ7Nn2DMpfingPH6OjRybNFYSUWdPZNL+mceJ2BM13jW9YaecL0LPwUgzprS6gzAXG2WR3Hnp2RfNYSXyr55Uhnmum0jhcxuHxZwtFqUg=;rB4ois25WCdCMVPCJOsAiw=="
+---
+

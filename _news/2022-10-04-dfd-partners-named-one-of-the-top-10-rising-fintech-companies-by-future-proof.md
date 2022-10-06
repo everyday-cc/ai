@@ -109,6 +109,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "India’s fintech unicorn Yubi makes UAE debut"
+    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
+    publishedDateTime: 2022-10-06T05:39:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "HZO0Hw6TWWzL5VRa6pP2mNCqC4mwCro0BE4jPchpcB4zMCJJXJneAwPCXvWZjR5jtji3iPxWZMe2c0kqstM/EEH7YVdkRo6Q+RDpGb0n3Ggj06Jw1Hg4s1sKj8QQhQOcAddTBW2Z+9MddieB+NEKR5zloCH99em/c8cHnHyrCyUo0q/ufPA0+4FVPd/gvWmQf9O6L9xAdSMIP3qayi83OIeXeD4upaS0jaYhswA5HoTBku/UbNnQt1y14/K2kXH6cEpewYfpwXCw8Sxjbmot1ln559jfUir9fDQD9jYfo4SGOXqofZptP6c6xD7mrX+5W4VF1IvoWglMFGp9R6Go/5NYgJNmhSBGiZ0GTdqNksQ=;JHltsPm34H6yxR/o2Eve1w=="
 ---

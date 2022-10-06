@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
-    excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
-    publishedDateTime: 2022-10-01T11:51:00Z
-    webUrl: "https://www.wsj.com/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    ampWebUrl: "https://www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tesla-ai-day-2022-elon-musk-11664536415"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 93
-    images:
-      - url: "https://images.wsj.net/im-635281/social"
-        width: 1279
-        height: 640
-        isCached: true
   - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
     excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
     publishedDateTime: 2022-10-02T23:22:00Z
@@ -225,22 +209,6 @@ related:
       name: CNET
       domain: cnet.com
     quality: 66
-  - title: "Elon Musk Showed Optimus Humanoid Robot Walking Without Assistance"
-    excerpt: "Though the Optimus humanoid robot by Tesla is in the early development stage, Elon Musk proves it will change the world."
-    publishedDateTime: 2022-10-01T11:45:00Z
-    webUrl: "https://www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/"
-    ampWebUrl: "https://www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/amp/"
-    cdnAmpWebUrl: "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/10/01/elon-musk-showed-optimus-humanoid-robot-walking-without-assistance/amp/"
-    type: article
-    provider:
-      name: GizChina
-      domain: gizchina.com
-    quality: 59
-    images:
-      - url: "https://www.gizchina.com/wp-content/uploads/images/2022/10/Tesla-unveils-Optimus-its-futuristic-humanoid-robot-for-less-than.jpg"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Tesla AI day updates including a working prototype of Optimus Bot"
     excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
     publishedDateTime: 2022-10-02T03:16:00Z

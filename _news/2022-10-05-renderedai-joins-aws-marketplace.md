@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-
 webUrl: "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925"
 type: article
 quality: 84
-heat: 85
+heat: 86
 published: true
 
 provider:

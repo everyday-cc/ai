@@ -101,6 +101,20 @@ related:
         width: 600
         height: 600
         isCached: true
+  - title: "India’s fintech unicorn Yubi makes UAE debut"
+    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
+    publishedDateTime: 2022-10-06T05:39:00Z
+    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 24
+    images:
+      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
     excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
     publishedDateTime: 2022-10-04T11:00:00Z
