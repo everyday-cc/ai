@@ -2,13 +2,10 @@
 category: news
 title: "Tech war: China chip start-ups clamour to tout AI chip breakthroughs after Nvidia sales ban, prompting analyst scepticism"
 excerpt: "Chinese semiconductor start-ups are rushing to claim breakthroughs in artificial intelligence (AI) chips after the US restricted the export of advanced chips from Nvidia Corp and Advanced Micro ..."
-publishedDateTime: 2022-09-29T15:16:00Z
-originalUrl: "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage"
-webUrl: "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=more_top_stories_int&pgtype=homepage"
+publishedDateTime: 2022-09-29T15:41:00Z
+originalUrl: "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=live&pgtype=homepage"
+webUrl: "https://www.scmp.com/tech/tech-war/article/3194277/tech-war-china-chip-start-ups-clamour-tout-ai-chip-breakthroughs?module=live&pgtype=homepage"
 type: article
-quality: 76
-heat: 76
-published: true
 
 provider:
   name: scmp.com
@@ -29,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "LfGzrn6Du5NEq42Wm8av91gjmUzdDR/HUIT+e1xQBPB8CgErMcjGRhUrDcfxZRZuW/SxfvCcs2Xd3TVmDOXpvYG5IoNMWXjYlFCQmYeVC1yMuWfJzrqvPjiBg0DYczRdj0U2apJlStjr3MEJYCBhMTPUopvYRZVYW1MjPh+S5/OB3qs0Vu48KQpaFpcWBtQWhZbn5y1rZEnX0B9o4Qifiunf8s0ccapPbwurrwT8urcgEPorWL2WnF03Ww00jgos8HJT8qs+BVOIYE/qVKF1k748I2++aoUXP7akjc09L9KbpGkd5tPAFgwJY62LvdD+JpKAykAqCMCcHKmtVsyJG1ko38b25tyMyMLC8heDSx4=;YN20693WploMNucXgJtK7g=="
+secured: "QxeOjBbnQF/h5wyg5WI7DqSbWX20QZq9GFY248EaysQ1u36gCzlepM1b5xEsUERsyUA/+Ws9U10iREFSii3R0t8TxVGT3kVnUh6Oh4/cM8AmiDXES5eZFANsFcA5IGL8GKF8L/P2DL80Cb3ucsEfYhlPhLZOiR7xgquc1w9HiazwlMhsV2aHhu8+68tGweDnhijs1dFRu25j3IuHZR9bLE7mBmSduVasRWyJYQ7Pb1P+KBBfxGKjkphoMjFmpgmWRgHtMDqgnWc27HEpV/9t6H2BpX0cMOcctCb1l/+O7k00lw+2lAdLthVzum3bjg5qOT5lipDhDvMOQAplNL8jI02EmXffg9JvM2Csa1m+nYE=;R/o+BJ31V+QOSbFyGy96EQ=="
 ---
 

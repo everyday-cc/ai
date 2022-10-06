@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/googles-new
 webUrl: "https://arstechnica.com/information-technology/2022/10/googles-newest-ai-generator-creates-hd-video-from-text-prompts/"
 type: article
 quality: 67
-heat: 97
+heat: 98
 published: true
 
 provider:

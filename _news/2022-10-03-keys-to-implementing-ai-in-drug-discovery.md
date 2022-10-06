@@ -18,31 +18,54 @@ topics:
   - AI
 
 related:
-  - title: "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention"
-    excerpt: "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better."
-    publishedDateTime: 2022-10-01T10:00:00Z
-    webUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/"
-    ampWebUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/"
+  - title: "How To Invest In Artificial Intelligence"
+    excerpt: "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now."
+    publishedDateTime: 2022-10-06T00:26:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 85
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200"
         width: 1200
-        height: 653
+        height: 675
         isCached: true
-  - title: "How 6 health systems are using AI to improve patient care"
-    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
-    publishedDateTime: 2022-10-05T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
+  - title: "How To Turn An AI Idea Into A Real Product"
+    excerpt: "The next thing to pay attention to is the innovativeness of your product idea. Among our customers, there is a clear trend of having wrong expectations on the project development time, budget and resources required."
+    publishedDateTime: 2022-10-05T13:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633c405ce9d5e02f358286ff/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How Leaders Are Investing In Artificial Intelligence To Improve Public Relations"
+    excerpt: "Before spending your marketing budget on Digital Marketing, there is a way to achieve similar or better results with Public Relations with artificial intelligence."
+    publishedDateTime: 2022-10-02T16:56:00Z
+    webUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/"
+    ampWebUrl: "https://www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/melaniefine/2022/10/02/how-leaders-are-investing-in-artificial-intelligence-to-improve-public-relations/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6339c18a319070536a78b209/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 665
+        isCached: true
 
 secured: "Dgss2PL7ot2Z0HgADEK1bSDf5DW700RjIY8COu93PPGp7CsXeyx1ApNngFvXZWm0AziEJTBUNaul7pO5/BPW6vOYJpEb65p7/aZnif3/uNNNG7T/hb4rh74od/WQ5eE/IhMtm7VWTtPEtY+LP0odfeSo9mRuVF0kjtKu14d98MGtApTm2rBhTlc5AbPg96I7WDJey2AHHiphaXJq7ubF6hAgD/5IoHrrmGySg/hxkysks3m0xXslDt4s6YxmC7G1mfKqpnSmVVdyENHEPhJTKA9F00NWo9wWBFzHrZ+KwaBpoWGJKsuDM3dAU1kTFTyIUOb1ASiYgUT6OGFBXNx4rlYwCkRpymTN0M/eZwQ6Pj9qeh6G6U1E/aCRMbnavDQ4kHpNI0aVFwTw9M4swkovCWei1JbtWgDvhGB5eztpt85/UPfUQPjBCeBIxh46w1dWoIKYhYcS2VI7Qr1QWBUtQ1j/SLZaqb/2KgeIBKt3JWNLLOzCAv/eiP5aHe9N6UV96DS45/2zfiGHYESo1TdLuA==;PQqvbqe51dChtL9Xnxx6yQ=="
 ---

@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 673
         isCached: true
-  - title: "Tesla Unveils Optimus, a Walking Robot That Could Arrive in 2027"
-    excerpt: "Two prototype Tesla Bots could walk, wave their arms and grip with fingers. CEO Elon Musk says they'll eventually cost $20,000 and should go on sale by 2027."
-    publishedDateTime: 2022-10-01T07:08:00Z
-    webUrl: "https://www.cnet.com/home/smart-home/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-unveils-optimus-a-walking-humanoid-robot-at-ai-day-2022/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 106
-    images:
-      - url: "https://www.cnet.com/a/img/resize/d0343d0443b1ded2a366707233a6882fd2b91b4c/hub/2022/10/01/3697671f-3da9-4ba5-adfe-1e8e7efeea7a/tesla-bot.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Elon Musk Unveils Prototype of Tesla’s Humanoid Robot Optimus, Says It Will Cost Less Than a Car"
     excerpt: "The prototype, which the CEO aims to show off at a company’s AI event Friday, is part of his effort to shape public perception of the company as more than just a car maker."
     publishedDateTime: 2022-10-01T11:51:00Z
@@ -191,20 +175,6 @@ related:
       - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "Tesla AI Day 2022: Optimus Unit 1 humanoid robot waves at the audience"
-    excerpt: "Tesla AI Day 2022 explored the processes required to mimic the human, driver and worker. The autonomous robot and car were laid out in detail"
-    publishedDateTime: 2022-10-01T08:41:00Z
-    webUrl: "https://interestingengineering.com/innovation/tesla-ai-day-2022-optimus-robot-waves"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 73
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/01/image/jpeg/et1EjnNMA7Vz75MynN9GShZ0A1bKFRiJJiPU6Qql.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
     excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."

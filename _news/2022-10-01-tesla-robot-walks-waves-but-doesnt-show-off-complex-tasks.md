@@ -62,15 +62,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 56
-  - title: "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders"
-    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company’s artificial intelligence event Friday."
-    publishedDateTime: 2022-10-01T07:12:00Z
-    webUrl: "https://www.nbcnewyork.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3889379/"
-    type: article
-    provider:
-      name: NBC New York
-      domain: nbcnewyork.com
-    quality: 50
   - title: "Tesla robot walks, waves, but doesn't show off complex tasks"
     excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next-generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
     publishedDateTime: 2022-10-03T19:38:00Z
