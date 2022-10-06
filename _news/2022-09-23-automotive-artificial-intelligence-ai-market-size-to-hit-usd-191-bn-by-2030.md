@@ -1,22 +1,20 @@
 ---
 category: news
-title: "Automotive Artificial Intelligence (AI) Market Size to Hit USD 19.1 Bn by 2030"
-excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive"
-publishedDateTime: 2022-09-22T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/g28977012/automotive-artificial-intelligence-ai-market-size-to-hit-usd-19-1-bn-by-2030"
-ampWebUrl: "https://www.benzinga.com/amp/content/28977012"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28977012"
+title: "Automotive Artificial Intelligence (AI) Market Size To Hit USD 19.1 Bn By 2030"
+excerpt: "The global automotive artificial intelligence (AI) market size was valued at USD 2.9 billion in 2021. The development in the auto business is supposed to drive the automotive artificial intelligence market."
+publishedDateTime: 2022-09-22T21:37:00Z
+originalUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
+webUrl: "https://menafn.com/1104911136/Automotive-Artificial-Intelligence-AI-Market-Size-To-Hit-USD-191-Bn-By-2030"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "QzDxj9WAxFYHUnbLdniLX8F6sAyNrkzcF5tucWn/CuXuRtMdKcIr6bQ7ky5QneC9CR1NgLx1X5fq4VNHVhtRD96t4aThoSqdbHjCYeUSLCCaR3wA1ZiSKoKh84/DsQFqGOLL3fBjyorQXqEr7WuhdXyOkzDfqmjb15CAMEiSgJORfv10CY7v6xdDF6O93Y9gAh/OpOe+qoZzwspx3z/kSVhsKn/gdSFerno2iNMfkNgHn9G4wDvYtJyBSyB8gtuDjZKS+noyu7mzCIZPtv407pIDpCf4Jejc9GyCWO7mlp5u9/rVnuWHZTCgb2Xkz1Du5lzjrxyiYI9rjoHhnWXgA2twMu4Ap59iIdnNff2yXO8=;rZhY1jIulMLwpcM/UJExLw=="
+secured: "IspCDGG+KvKepB0jHQpZy9HGs1rg2Skmik1JEzj7I8sx/Vos/Eh/wh9hzb2kA2oZI0juS3om1j4FemmmeEM/BwCN9G2KD4dS9JLgL09KEkqpC+TIrJ3cHEUf+QGwXKmlDpiL52S63XoFSYGsaWRHOOijL134Y80rq31Es24Pg9RAu8JT0KewoRlWffgUDGBPMAFaE57faXSRgOPaQid6YuOowaI7vpp/+rVs6Hgtnca2uAHCNmZJ/QYgC0LU80rfXedXMM/7DfCLym15UNYo/+IuQqbctawffnwMUYbnDWKFG0VNkUYrDIn5tLJ1qkzM1Cy4jkGFAyJa4wB42r7EY4VEmpEoztXSD07fAi8PqQA=;nQ1AEaAlXyuuu8g1qMrRfw=="
 ---
 
