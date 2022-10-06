@@ -1,29 +1,28 @@
 ---
 category: news
-title: "Research launched to make voice recognition tech more accessible"
-excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
-publishedDateTime: 2022-10-05T10:00:00Z
-originalUrl: "https://www.research-live.com/article/news/research-launched-to-make-voice-recognition-tech-more-accessible/id/5103852"
-webUrl: "https://www.research-live.com/article/news/research-launched-to-make-voice-recognition-tech-more-accessible/id/5103852"
-ampWebUrl: "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
-cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
+title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
+excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
+publishedDateTime: 2022-10-05T21:37:00Z
+originalUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
+webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
 type: article
-quality: 44
+quality: 40
 heat: -1
 published: false
 
 provider:
-  name: research
-  domain: research-live.com
+  name: Searchenginejournal.com
+  domain: searchenginejournal.com
 
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
-  - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
-    width: 1000
-    height: 581
+  - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
+    width: 1600
+    height: 840
     isCached: true
 
 related:
@@ -130,19 +129,21 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
-    excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
-    publishedDateTime: 2022-10-05T21:37:00Z
-    webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
+  - title: "Research launched to make voice recognition tech more accessible"
+    excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
+    publishedDateTime: 2022-10-05T10:00:00Z
+    webUrl: "https://www.research-live.com/article/news/research-launched-to-make-voice-recognition-tech-more-accessible/id/5103852"
+    ampWebUrl: "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
+    cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 40
+      name: research
+      domain: research-live.com
+    quality: 44
     images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
-        width: 1600
-        height: 840
+      - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
+        width: 1000
+        height: 581
         isCached: true
   - title: "Apple and University of Illinois working with Meta, Google, and more on Speech Accessibility Project"
     excerpt: "Apple and the University of Illinois are teaming up with Google, Meta, and more tech companies to collaborate on something called the Speech Accessibility Project. The goal of the initiative is to study and improve how artificial intelligence algorithms can be tuned to improve voice recognition for users with diseases that affect speech,"
@@ -184,6 +185,6 @@ related:
       domain: appleinsider.com
     quality: 19
 
-secured: "4z4Ti7pclAlKf7jd52RtEbvsfcnJ6kBHIJPIJ7QfAmjzM/WtYEQCl9I5CIEY/q+DE4ZlxMVYfYk1sMb/kysTMmF3UZEwknwvTY05uUmolxqW7g67ZSjpDjPWAVpVS4Teif/YsM1qekgVnOqN9HiffX3Za9iEVOpABi9Am7t6+lG8a/AJZOZol9lTso/uyV1jVZL7k1iJNwnJ9XbzkJk5S/pIjkFURosOTgTVWN7CPyEtsl9CCGqgHAs6s9O3TSK86e7TwEpWAs2fU/iI87mcf7S/7RD0iFtkLruvrzXeo4Xz9uYnilvmivsH2hOQbGpMCiuyW5+gF16YRDE/5cCfhqn7/Li1IHYxZ0kMCFyuCjJGQe71fy0cQoMIb1EF1rG3uslgbBGzbjqW4ek2bRDLH46J6Je4QHzuNzRcFkXBW71F4us+tx4iXyRCmgOw1gZyEjoA+JhDVuULLZShztCGOakV8XrlUCNY9KTccmBrEw79yH0DPNptOICSuyCCYz65zCZLyfd1D+jtQ2MxNQ3Oag==;NWfgiKi2fJQJyFXfsOehsQ=="
+secured: "a+NmLEhDGBBIKXs9qd1NxCK6q4oINWKqGMtS02Am5PI8K5ciP2/EGH2e3QOyqxcFMQSplHuZWr27Vb1uAz3HeWyvXIMf/PjKq2Po6baCFGx657NEQu9T2AVUvLbm+h3NNa5kPBzPX+S/p2BPvwkxz0OmwMRMvBIy/JSlwVx5pQlU0d3CDNZlScCQxnbwlzbFQ8cQkY7bQUjocCnW4NXojQ9pqA5a3NjY3PFJlwpqC0iw3UrnhthywnKAzKprzs4ny09ZJmaEHxVofbjjPzo+AE25pAgWLdpyVx52fEIc+RdSykX6KNSRdD4DvzY9VJ6hjEiSvbtT67Li6FlVGa2+H17t8qIgpj0/1X8F/q+phIU=;orP25sYRlc18R9N/2AhVVQ=="
 ---
 

@@ -146,6 +146,20 @@ related:
         width: 1000
         height: 581
         isCached: true
+  - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
+    excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
+    publishedDateTime: 2022-10-05T21:37:00Z
+    webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
+    type: article
+    provider:
+      name: Searchenginejournal.com
+      domain: searchenginejournal.com
+    quality: 40
+    images:
+      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
+        width: 1600
+        height: 840
+        isCached: true
   - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
     excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
     publishedDateTime: 2022-10-04T11:08:00Z

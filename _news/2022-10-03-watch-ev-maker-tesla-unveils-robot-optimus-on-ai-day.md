@@ -76,22 +76,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Watch: Elon Musk showcases humanoid robot at Tesla AI event"
-    excerpt: "\"Our goal is to make a useful humanoid robot as quickly as possible,\" Musk said at the event being held at a Tesla office in Palo Alto, California. Musk is also expected to discus"
-    publishedDateTime: 2022-10-01T05:14:00Z
-    webUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/current-affairs-trends/watch-elon-musk-showcases-humanoid-robot-at-tesla-ai-event-9260651.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 91
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/elon-musk-tesla-ai-day-ImResizer-1.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’"
     excerpt: "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations."
     publishedDateTime: 2022-10-03T15:00:00Z

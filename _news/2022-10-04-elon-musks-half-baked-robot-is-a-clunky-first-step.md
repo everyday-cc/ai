@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp"
 type: article
 quality: 89
-heat: 101
+heat: 99
 published: true
 
 provider:

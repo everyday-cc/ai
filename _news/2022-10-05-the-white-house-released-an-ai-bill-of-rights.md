@@ -1,27 +1,32 @@
 ---
 category: news
-title: "The White House released an 'AI Bill of Rights'"
-excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
-publishedDateTime: 2022-10-04T20:06:00Z
-originalUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
-webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+title: "The White House released an ‘AI Bill of Rights’"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
+publishedDateTime: 2022-10-04T21:06:00Z
+originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WSIL-TV
-  domain: wsiltv.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -56,6 +61,22 @@ related:
       - url: "https://media.wired.com/photos/633b7e5ad6cae19406ef41d2/master/pass/AI-Bill-of-Rights-OSTP-Blueprint-Business-1319499046.jpg"
         width: 2400
         height: 1600
+        isCached: true
+  - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
+    excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
+    publishedDateTime: 2022-10-04T21:12:00Z
+    webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 87
+    images:
+      - url: "https://images.wsj.net/im-637258/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
     excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
@@ -119,22 +140,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
-    publishedDateTime: 2022-10-03T23:26:00Z
-    webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
-    type: article
-    provider:
-      name: MyNorthwest.com
-      domain: mynorthwest.com
-    quality: 59
-    images:
-      - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
-        width: 1280
-        height: 853
-        isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -150,6 +155,20 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
+    publishedDateTime: 2022-10-04T14:14:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
+    quality: 39
+    images:
+      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
@@ -198,6 +217,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "eKxWpbaEE6MTYgNpqw3K8wxFiatzyserD6ajirhVjgrWNbSo1oiY2QeN05i28DeujAIOEQs0cDn3mUdeXHx8qi2kePHykRSRCuZHF624HEyklXul6/8BJvkCZrpqLxafunJtpPHgqX4Lmb0sI5NBy1/lg1X6M6nZiAin65OsRYzwtIHESL311UMq/o082iNuHy1BfZY0cBe8yAaUPZWb1/eiE9LsugL3pGgzmiKHzIjPXyYnguRwyuIEsr9tSeDSVESSXIDcI4gD/oIpItsQ/l3tCxlSlXVCibR8+/HPQpJZVzcK2nPlivRiVEuKNy61tMjM28x00KKjpdEWuogujz//tYmeqkbGUl4CR6o2DBE=;WTpZuhUP6ECTHfNXidy3lw=="
+secured: "lzdni96+bNpKpqM37vlJfhkm/r6NQQqRBstSUqyZvVlYARd/vfnbyAQbbnLtQEHCOQPl08M9aetarC5aLSFeAgTBCr+dy2wMQzL0SgarvSnwwDPJmyzAMhht/UGbSc57fnkzTSqoZC+0wqmB2VWhZQeqBRMLkF0SgODmiOYT1JZWmrZ4tZd9zzLv9AXd6pjBsIyRoCHOtFR66/QYBZzn+/UQ5r06elGy2AEcEgekiE3NcXTyR41Dw5W6G2JQCDJxnNNoqusovKWX9jhZCcykjenvigUGRbzDCqbJgpbpSY3y63vc4NPIbhhE8+jw8vZOHGsmf4owIO+MgQ7zmhbBaXL87x9hgcPwW8+b0iXaaD0=;xDFkC/tz8dydB2DrQQ1d/A=="
 ---
 

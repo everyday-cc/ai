@@ -1,31 +1,32 @@
 ---
 category: news
-title: "White House AI Bill of Rights Looks to Rein in 'Unaccountable' Algorithms"
-excerpt: "A lengthy statement of AI policy principles announced Tuesday (Opens in a new window) by the White House doesn’t actually say, “An AI may not injure a human being or, through"
-publishedDateTime: 2022-10-04T22:13:00Z
-originalUrl: "https://www.pcmag.com/news/white-house-ai-bill-of-rights-looks-to-rein-in-unaccountable-algorithms"
-webUrl: "https://www.pcmag.com/news/white-house-ai-bill-of-rights-looks-to-rein-in-unaccountable-algorithms"
+title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
+excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
+publishedDateTime: 2022-10-04T21:12:00Z
+originalUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
 type: article
-quality: 68
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: PC Magazine
-  domain: pcmag.com
+  name: Wall Street Journal
+  domain: wsj.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/01WvDxbEj3veLlZEZrolV5o-1.fit_lim.size_1200x630.v1664921526.jpg"
-    width: 1120
-    height: 630
+  - url: "https://images.wsj.net/im-637258/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -77,22 +78,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
-    excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
-    publishedDateTime: 2022-10-04T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-637258/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
     excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
     publishedDateTime: 2022-10-04T21:28:00Z
@@ -108,6 +93,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b4c3cca4bbda3fdb1b550cbc50100ccba7742cf8/2021/10/04/8040f356-ca69-499e-b8d1-0cb47aeff09c/white-house.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
         height: 802
+        isCached: true
+  - title: "White House AI Bill of Rights Looks to Rein in 'Unaccountable' Algorithms"
+    excerpt: "A lengthy statement of AI policy principles announced Tuesday (Opens in a new window) by the White House doesn’t actually say, “An AI may not injure a human being or, through"
+    publishedDateTime: 2022-10-04T22:13:00Z
+    webUrl: "https://www.pcmag.com/news/white-house-ai-bill-of-rights-looks-to-rein-in-unaccountable-algorithms"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 68
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01WvDxbEj3veLlZEZrolV5o-1.fit_lim.size_1200x630.v1664921526.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
     excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
@@ -218,6 +217,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "wSd7iRKCCqyS13kYikLSCaXjmPUq9b13L2G3QRqzP30P+ieDve0JFF3rhHHbVfOuZftKNncKCstnpMSfqfjYYtw6k9U5UjDMkscn7giS2d/paCs2TYyLWuMODeLFdXTlV1k+ApgwFbBizz2ag5RGbOCI44jDpD2U1bDzAqGZw0+bLKVdqbgjSNkCifKnsg0rQW9sNBwcohKwOT1guEETByjYN1hb2a33IoiDjMMsQhQ3fsUsMdOYLZNJ798qRqEOSI+DWokxrF+J0wZnOoMnlQeRbYlK0I9D8vvXV7Xq1ebwlIANKrRrJHcsExSw5YYEkEwAwR5yxmDyoPMrybHs5DP4HrNVoJAWS5MDIoJEvVQG0MLj/vjV6gDIhVLosGoZ0D6zdrhDF2WkLwkEw0bPaEcrvvqEOUB5YqDofD3oLm5DgR5pqQTrsazYCPWOtUA12c5YqUZEOLT6FN4qD5dPVpjNDzkKxuGY3vtzcM+S/QswsuWZuQbOZn3ZYqmhKmtULf2Zi+6oHB8wG4zuxsfucQ==;C4q9rqeTWbGJkO1uk5xj8A=="
+secured: "IbyTfp49X0AQtZsSn9ELDboixAV4GFZIyVmvv+ocBzvwtPQHXwNABlFql6eifJiX6EymLzQ4WDnpmmEqVwZOschREHXD/Ww1xAYpxfKTnv6wwQM0wYc28Yh4D4a6ZvKcwhvGLg/6knzdGCxk20utBgMp0cap8rmwxqV8N5ajBxX5mSAeCjoJUaQrLufurJAuRqodbbJEQ8JetnVWv5U4/wysNEXOYHjDtOmwQDxQu48B+vHNbZbF0wVRdfy4JKFpaP13oY77zfnj/zQPT2UM5uJHBNegoW9UL7vZMbA2/AEiknUUfA/z7laizErgEN0bDNaP9uZ9RImpE0AcXthtxVLMGSxAV8h7SPIN/PL2YyE=;J5Ct64jTIkv6kYzFG8dcPw=="
 ---
 

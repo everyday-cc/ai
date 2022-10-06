@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla now has 160,000 customers running its Full Self Driving beta"
-    excerpt: "Autopilot director Ashok Elluswamy took the stage during Tesla's AI day to talk about how the company's Full Self Driving software has improved. He revealed that there are now 160,000 customers ..."
-    publishedDateTime: 2022-10-01T05:21:00Z
-    webUrl: "https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
   - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
     excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
     publishedDateTime: 2022-10-03T13:43:00Z

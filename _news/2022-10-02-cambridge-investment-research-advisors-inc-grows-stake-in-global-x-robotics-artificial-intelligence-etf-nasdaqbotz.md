@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/10/02/cambridge-investment-resea
 webUrl: "https://www.defenseworld.net/2022/10/02/cambridge-investment-research-advisors-inc-grows-stake-in-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.html"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
   - AI in Robotics
-
-related:
-  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Stock Price Down 0.7%"
-    excerpt: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating)’s share price fell 0.7% on Friday . The stock traded as low as $18.08 and last traded at $18.08. 420,627 shares changed hands during mid-day trading,"
-    publishedDateTime: 2022-10-01T05:42:00Z
-    webUrl: "https://www.defenseworld.net/2022/10/01/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-stock-price-down-0-7.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 37
 
 secured: "7n1RQ106GbR92xX71P40vpCRMHxVq5H2d2z0E8eoV4FSjLjBNaKYqmG8X52Y7ju+LM9cVrvbkSoHtSijFBqWafAalAgt5HajLfP2McsyyNn2fDCYZdmfAKiiA7Wj4t2IaugVlOv1DvUsBvEECGUoIHJoKAnSZ0YaVU2hU3QU2GBWQrsW99Czl6B6VqLw1VYgQHkxF6HtWaSFZ3rRkSe2ni2oSQCqEaYKtamaa90j6a1zSGIWAEDZo8BR6b+AqkJ32ycyfF1Y15MJ6DcZcRTTqSuc5/wmIAaaW7/bppd9J2wOPu8+3f4bxIbww5ZvzsdKPcX3Q6rP1z5qiavX8nah2rlQ5y+Wjk2SfoWaXb5J3nv1QBPVrVnxALTX6lvv41NWmMpiu7U1GeUqtED0LcN/U2OSXZS2tqIjdLaaTf0ynxDfDq0dGh33y7Q8w9uGwQQJyf+tM/Sl7A24s/weHJxtjyYxiw/YbDbhwfg+01YPqx6f2wtHsOX+cgnAfchjQcCLmh7FnpcpB4VKe/WRwn03UQ==;iKvSpw9zVylEds5sVlKweQ=="
 ---

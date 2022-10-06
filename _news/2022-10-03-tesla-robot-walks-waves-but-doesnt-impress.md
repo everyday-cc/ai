@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla now has 160,000 customers running its Full Self Driving beta"
-    excerpt: "Autopilot director Ashok Elluswamy took the stage during Tesla's AI day to talk about how the company's Full Self Driving software has improved. He revealed that there are now 160,000 customers ..."
-    publishedDateTime: 2022-10-01T05:21:00Z
-    webUrl: "https://www.theverge.com/2022/10/1/23380764/tesla-ai-day-full-self-driving-fsd-updates-dojo-supercomputer"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 64
   - title: "Tesla is dropping ultrasonic sensors from new vehicles as it moves to camera-only Tesla Vision"
     excerpt: "Tesla writes that the company started transitioning to Tesla Vision by removing radar from the Model 3 and Model Y last year, with the Model S"
     publishedDateTime: 2022-10-05T14:11:00Z

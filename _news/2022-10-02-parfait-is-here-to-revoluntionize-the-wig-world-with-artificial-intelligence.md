@@ -9,7 +9,7 @@ ampWebUrl: "https://madamenoire.com/1323782/gorgeous-wigs/amp/"
 cdnAmpWebUrl: "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:
