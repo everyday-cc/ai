@@ -75,6 +75,22 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
+    excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
+    publishedDateTime: 2022-10-06T19:02:00Z
+    webUrl: "https://www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 71
+    images:
+      - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
     excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
     publishedDateTime: 2022-10-05T15:02:00Z
@@ -88,6 +104,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "DeepMind AI can multiply quicker than ever imagined, beating a previous record"
+    excerpt: "AlphaTensor improves and speeds up computation by 20 percent, allowing for quick and accurate matrix multiplication."
+    publishedDateTime: 2022-10-06T19:42:00Z
+    webUrl: "https://interestingengineering.com/innovation/deepmind-ai-can-multiply-quicker-than-ever-imagined-beating-a-previous-record"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 50
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/06/image/jpeg/Szn8Dxk2UaLaaGGCAy921PTBb2yYR35MlF2LCexk.jpg"
+        width: 1920
+        height: 1097
         isCached: true
   - title: "Artificial intelligence finds faster algorithms for multiplying matrices"
     excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T19:04:00Z
 originalUrl: "https://techxplore.com/news/2022-10-machine-accurate-hurricane.html"
 webUrl: "https://techxplore.com/news/2022-10-machine-accurate-hurricane.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: techxplore

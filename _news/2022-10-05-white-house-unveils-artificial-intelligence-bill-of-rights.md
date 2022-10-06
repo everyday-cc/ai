@@ -1,26 +1,27 @@
 ---
 category: news
-title: "White House unveils artificial intelligence ‘Bill of Rights’"
-excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
-publishedDateTime: 2022-10-04T22:17:00Z
-originalUrl: "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489"
-webUrl: "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489"
+title: "White House unveils artificial intelligence 'Bill of Rights'"
+excerpt: "On Tuesday, Oct. 4, 2022, the Biden administration unveiled a set of far-reaching goals to align artificial intelligence-powered tools with what it called the values of Democracy and equity ..."
+publishedDateTime: 2022-10-04T17:18:00Z
+originalUrl: "https://omaha.com/lifestyles/technology/white-house-unveils-artificial-intelligence-bill-of-rights/article_976f8cd2-2440-52ad-b0cd-107f0e18b638.html"
+webUrl: "https://omaha.com/lifestyles/technology/white-house-unveils-artificial-intelligence-bill-of-rights/article_976f8cd2-2440-52ad-b0cd-107f0e18b638.html"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Omaha.com
+  domain: omaha.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://storage.googleapis.com/afs-prod/media/e3eccfa44df44341aa00bc70404178c4/3000.jpeg"
-    width: 3000
-    height: 2000
+  - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/f2/7f2178d4-8f04-5be0-91a4-948b19dcf6c4/633c1ce144a7e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -104,6 +105,20 @@ related:
         width: 1200
         height: 802
         isCached: true
+  - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
+    excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
+    publishedDateTime: 2022-10-06T20:35:00Z
+    webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 69
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
+        width: 1880
+        height: 1258
+        isCached: true
   - title: "White House AI Bill of Rights Looks to Rein in 'Unaccountable' Algorithms"
     excerpt: "A lengthy statement of AI policy principles announced Tuesday (Opens in a new window) by the White House doesn’t actually say, “An AI may not injure a human being or, through"
     publishedDateTime: 2022-10-04T22:13:00Z
@@ -150,15 +165,6 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House Unveils Artificial Intelligence 'Bill of Rights'"
-    excerpt: "White House Unveils Artificial Intelligence 'Bill of Rights' By GARANCE BURKE, Associated Press The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused ..."
-    publishedDateTime: 2022-10-04T11:28:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -175,19 +181,28 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "The White House released an 'AI Bill of Rights'"
-    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
-    publishedDateTime: 2022-10-04T20:06:00Z
-    webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+  - title: "The White House released an ‘AI Bill of Rights’"
+    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
+    publishedDateTime: 2022-10-04T21:06:00Z
+    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
     type: article
     provider:
-      name: WSIL-TV
-      domain: wsiltv.com
+      name: CNN
+      domain: cnn.com
+    quality: 47
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
+    publishedDateTime: 2022-10-04T14:14:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: mysanantonio.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
@@ -245,6 +260,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "lGgTcuOgxYfxhG02l3cdt7yrtGRLmUGEGWIFIkQ12pPdALTIed4FpJYm9kuj5f9IlUsxEukd2YBewKGQZE5sOXzKqDH551y7u/UQaEpj9Itonn/OuaXB33pLy+z6x4EuCR+hgTYgnAyq02TIn4HqIt/vqExA+kzZ/VHtTA7gAtOi97z1KbwA5XutxO9O4gT+OFIkvAOOqxSNW8byqLRkmKHgs9htQrWQTC1KkTtinlSsxQ92bzYYsD3B+GeQ7LDMr/usuNn781M54IFSIMSZythr7SJjCgWsYjgk4UQfKAIMrRJV5dRSQZ+DuKJKrOaMRpEBvSjR59HG+nQnqtJKKfJ21vcd1gQRrjy4dyGYSHorqX6z6qCe4MO07IFfEH3y/4aWlM56/86iYVTCQ3vVJcYrs1MNzZcZLGydaXwVePsiY+SNgGaqIG//uSqzqfYHoc0kRwrG831SND+f1ziko3f+1LrhkgmVs9++6KB1VND+Oe3q3AdrC0kGtf8B+o7+zw14Lnyiv5zE3tLGuZ9lYg==;Scd58diyFgOrPw/6RBKZ3A=="
+secured: "1AOJF5J5bZRHlgvMCV5PcAJgw53PmtAdY997f1mKQdXoHaDVrPM2VG8hIFMjXGA5rlQCVj2eUl1rATYDRyeu1bDBHG6jeInsnsny2l32DY5tkiNcOUGsqUfYfoOei1XGs+tTgVUQdFoWlmzVzKLUzL8LdFOfQqoEyDwQ55/tYJ+/H5mbxGjkXX+lHSidvctUAWDrajKg8YNuy+b+2m97QDsTjojufL7psMzjygPg06AiDQwTBRTQlf7r3guhcfHPnpSdxYD/4mi3LWRKx5WfEnjBCc6gr3GngAuOHsC97726r/0T6hPgnc/PE1wx641v/qWLuq+p+Wq3UQkRJY3byzpvHs/biSDQ4EnO2b0SCEU=;VWoR2/unGaOQicIB2kUdjw=="
 ---
 

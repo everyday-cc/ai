@@ -8,7 +8,7 @@ webUrl: "https://www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc
 ampWebUrl: "https://www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc-and-ai-applications-diverge/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/10/06/the-art-of-system-design-as-hpc-and-ai-applications-diverge/amp/"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 

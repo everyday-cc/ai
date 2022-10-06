@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
+      "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
+      "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f386b1d939b4e05d66336/0x0.jpg?format=jpg&width=1200",
+          "width": 1170,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "publishedDateTime": "2022-10-06T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot.md",
       "title": "Tesla’s Biggest News At AI Day Was The Dojo Supercomputer, Not The Optimus Robot",
       "excerpt": "Tesla's Dojo supercomputing technology promises to accelerate the development of self-driving cars by an order of magnitude, and it will start coming online early in 2023.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 268,
+      "heat": 258,
       "tags": null,
       "images": [
         {
@@ -64,7 +117,7 @@
       "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 155,
+      "heat": 175,
       "tags": null,
       "images": [
         {
@@ -1430,40 +1483,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-and-booz-allen-hamilton-expand-partnership-to-bring-ai-enabled-cybersecurity-to-public-and-private-sectors.md",
-      "title": "NVIDIA and Booz Allen Hamilton Expand Partnership to Bring AI-Enabled Cybersecurity to Public and Private Sectors",
-      "excerpt": "NVIDIA and Booz Allen Hamilton (NYSE: BAH) today announced an expanded collaboration to bring an AI-enabled, GPU-accelerated cybersecurity platform to customers in the public and private sectors. The platform enables next-generation incident response systems that help customers pinpoint cybersecurity threats.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-nvidia-booz-allen-hamilton-expand-partnership-bring-ai-/2022/09/20/9677405.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-20T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

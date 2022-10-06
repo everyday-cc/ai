@@ -2,6 +2,92 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-07-28-verify-introduces-facial-recognition-enabled-background-check-service.md",
+      "title": "Verify introduces facial recognition-enabled background check service",
+      "excerpt": "Every single person for whom we demonstrated Verify’s offering was interested in knowing more and stated they had never seen an offering like this before,” explained Verify Founder Michael Doherty. Each individual was shown how uploading a photo (or CCTV camera frame) of a person enables one to find and select a suitable match online and instantly learn the person’s name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "originalUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/logo.62e18d444598d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-overview-cloud-as-a-service-in-the-financial-services-sector.md",
+      "title": "Overview: Cloud as a service in the financial services sector",
+      "excerpt": "This has resulted in the integration of financial services, secure communications ... tools like – Artificial intelligence, Machine Learning is defining the way our customer excellence centres ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/Mr.-Madhusudan-Warrier_Head-of-IT_Mirae-Asset.jpg",
+          "width": 1956,
+          "height": 2021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
+      "publishedDateTime": "2022-07-27T10:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ai-in-computer-vision-market-product-type-hardwaresoftware-sales-revenue-manufacturers-suppliers-key-players-2022-to-2028.md",
       "title": "AI In Computer Vision Market Product Type Hardware,Software Sales, Revenue, Manufacturers, Suppliers, Key Players 2022 to 2028",
       "excerpt": "Pre and Post Covid is covered and Report Customization is available. As the global economic trends, the growth",
@@ -1033,102 +1119,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-amazon-facial-recognition-falsely-links-27-athletes-to-mugshots-in-aclu-study.md",
-      "title": "Amazon Facial Recognition Falsely Links 27 Athletes to Mugshots in ACLU Study",
-      "excerpt": "The Massachusetts chapter of the American Civil Liberties Union (ACLU) announced this month that Amazon’s “Rekognition” technology falsely linked the faces of 27 professional athletes in New ...",
-      "sourceUrl": null,
-      "webUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "originalUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/10/New-England-Patriots-1000.jpg?fit=1000%2C618&quality=100&ssl=1",
-          "width": 1000,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hyperallergic",
-        "domain": "hyperallergic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-an-ai-for-art-copyright-considerations-for-artificial-intelligence.md",
-      "title": "An AI for art: Copyright considerations for artificial intelligence",
-      "excerpt": "Artificial intelligence is driving the information revolution and its presence is increasingly commonplace — for example, in smart speakers, self-driving cars, social media monitoring and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?w=574",
-          "width": 574,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

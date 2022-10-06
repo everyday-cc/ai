@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T18:41:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29174842/medsender-partners-with-kareo-to-offer-ai-enabled-workflow-automation-for-independent-healthcare-p"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29174842/medsender-partners-with-kareo-to-offer-ai-enabled-workflow-automation-for-independent-healthcare-p"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Benzinga.com

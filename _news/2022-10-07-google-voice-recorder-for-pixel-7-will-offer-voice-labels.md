@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T18:08:00Z
 originalUrl: "https://www.androidheadlines.com/2022/10/google-recorder-pixel-7-voice-labels.html"
 webUrl: "https://www.androidheadlines.com/2022/10/google-recorder-pixel-7-voice-labels.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Android

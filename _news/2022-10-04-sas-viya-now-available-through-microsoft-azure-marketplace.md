@@ -127,6 +127,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
   - title: "Research launched to make voice recognition tech more accessible"
     excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
     publishedDateTime: 2022-10-05T10:00:00Z
@@ -219,6 +228,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
+    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
+    publishedDateTime: 2022-10-06T17:53:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "KmSEDHqAf/Pv7dJtnYbIfRjnhgqzC18m0XfF96gq9xqy70l+526h2yQiheTroPgdWQPsgCulxhatBZVhZx4NlUrW8AeWcORA6EMELOCA3/V9oIQj6dtJ9P/8aK3TSXb9DGWWEN7030WXXzwV+o3mf5E2/eevYavyR+0UThU9ih0gpCmS6ZFaPaqLg+ELg/Ha1py8SMN44zqfv+pIU8rP6ADfktos35CbDWhUQJ4D1KSpBCthDTqyrjCRAMOZWjvDK+cVYeOlNLCY5i2LGsnmdOpdZSJ5+tvsCKyXopqxs72l/oIVFIQKO/La1MaQFK7cQjCRmfICmFBsWa1PlaVAqc5M3SNkq1rT4AP+yQ51bPV60hLtRFpuBcLibuLW3Qj39kO7QlAJ6ymThDp1YupR3/9PEgHHHEfxNJBMwYlgpsEx/h0AdsMuxmljiaBxx3zPs86hxYkX1Lo+4DZD2GBVKkg1gydikrspXBxNmjxRX1/LNArzmLWihpfsCJR2x+SJp66j7XFbdvsloSq2uAQNlA==;Odz2u85QfnlUgwJ/eASeiw=="
 ---

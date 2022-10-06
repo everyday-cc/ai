@@ -114,20 +114,6 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 71
-  - title: "Tesla AI day updates including a working prototype of Optimus Bot"
-    excerpt: "Tesla successfully held its AI Day 2 on September 30th. A working prototype of the Optimus Bot was revealed including many updates shared by Tesla. Elon Musk stated that the point of AI Day is to show the “immense depth and breadth of Tesla in AI,"
-    publishedDateTime: 2022-10-02T03:16:00Z
-    webUrl: "https://techstory.in/tesla-ai-day-updates-including-a-working-prototype-of-optimus-bot/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 56
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/10/220930182442-02-tesla-ai-day-0930-robot.jpg"
-        width: 1600
-        height: 889
-        isCached: true
   - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
     excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
     publishedDateTime: 2022-10-03T07:16:00Z

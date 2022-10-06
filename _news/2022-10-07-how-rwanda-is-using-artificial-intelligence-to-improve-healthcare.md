@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T17:57:00Z
 originalUrl: "https://www.zawya.com/en/press-release/africa-press-releases/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare-eegkv9c4"
 webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare-eegkv9c4"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Zawya

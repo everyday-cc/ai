@@ -144,6 +144,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
   - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
     excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
     publishedDateTime: 2022-10-05T21:37:00Z
@@ -220,6 +229,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
+    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
+    publishedDateTime: 2022-10-06T17:53:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "4z4Ti7pclAlKf7jd52RtEbvsfcnJ6kBHIJPIJ7QfAmjzM/WtYEQCl9I5CIEY/q+DE4ZlxMVYfYk1sMb/kysTMmF3UZEwknwvTY05uUmolxqW7g67ZSjpDjPWAVpVS4Teif/YsM1qekgVnOqN9HiffX3Za9iEVOpABi9Am7t6+lG8a/AJZOZol9lTso/uyV1jVZL7k1iJNwnJ9XbzkJk5S/pIjkFURosOTgTVWN7CPyEtsl9CCGqgHAs6s9O3TSK86e7TwEpWAs2fU/iI87mcf7S/7RD0iFtkLruvrzXeo4Xz9uYnilvmivsH2hOQbGpMCiuyW5+gF16YRDE/5cCfhqn7/Li1IHYxZ0kMCFyuCjJGQe71fy0cQoMIb1EF1rG3uslgbBGzbjqW4ek2bRDLH46J6Je4QHzuNzRcFkXBW71F4us+tx4iXyRCmgOw1gZyEjoA+JhDVuULLZShztCGOakV8XrlUCNY9KTccmBrEw79yH0DPNptOICSuyCCYz65zCZLyfd1D+jtQ2MxNQ3Oag==;NWfgiKi2fJQJyFXfsOehsQ=="
 ---

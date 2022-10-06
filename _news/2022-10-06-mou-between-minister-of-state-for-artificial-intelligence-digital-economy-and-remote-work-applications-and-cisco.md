@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T06:08:00Z
 originalUrl: "https://www.zawya.com/en/press-release/companies-news/mou-between-minister-of-state-for-artificial-intelligence-digital-economy-and-remote-work-applications-and-cisco-wh1fqare"
 webUrl: "https://www.zawya.com/en/press-release/companies-news/mou-between-minister-of-state-for-artificial-intelligence-digital-economy-and-remote-work-applications-and-cisco-wh1fqare"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Zawya

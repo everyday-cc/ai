@@ -44,20 +44,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/01/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-10-02T01:48:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-62"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 48
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "SAS introduces Azure marketplace PAYG option giving maximum analytics at minimum pricing"
     excerpt: "SAS has announced its Viya platform AI, analytics, and data management, is now available as a pay-as-you-go Microsoft Azure marketplace option, providing vast analytic power to anybody - and at a price point that means there is no reason not to be embedding analytics into your apps."
     publishedDateTime: 2022-10-02T05:28:00Z

@@ -2,6 +2,92 @@
   "page": 151,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-based-traffic-management-system-in-delhi-soon-officials.md",
+      "title": "AI-based traffic management system in Delhi soon: Officials",
+      "excerpt": "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency vehicles such as ambulances and fire tenders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
+      "originalUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2017/12/RTX3LJGB.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
+      "publishedDateTime": "2022-06-08T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
+      "title": "Kiya.ai Introduces Indian Banking Metaverse",
+      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
+          "width": 1600,
+          "height": 1291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
+      "publishedDateTime": "2022-06-08T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
       "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
       "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
@@ -1004,101 +1090,6 @@
         "Computer Vision",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-neurologist-discusses-mild-cognitive-impairment.md",
-      "title": "Neurologist discusses mild cognitive impairment",
-      "excerpt": "These are normal signs of aging. But, if such events begin to happen more frequently or escalate, then it could be something called mild cognitive impairment, often called MCI. Mild cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-2.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
-      "publishedDateTime": "2022-06-08T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

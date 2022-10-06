@@ -129,6 +129,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
   - title: "Research launched to make voice recognition tech more accessible"
     excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
     publishedDateTime: 2022-10-05T10:00:00Z
@@ -221,6 +230,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
+    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
+    publishedDateTime: 2022-10-06T17:53:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "ZQbOK24ry7Tsp56s6TzWCNL19o3euSYzHsdZNNSHMFG8coRwNr1BL4c4CirVZHBdtsjzdXgbpP1D/9hXxOF3+2magJD195HQm9heEe1Ar/l3y6YLtp5YBYbpt/NCbidOeuLbnFwhzAi4jDxf0l+MaVBjqjPHvMMXM3GxMSFJnFpLhLi8EyRkPiBZ29vJDI0q0o3gDyhAZxSC/+bGLa94gC+YEBedDwSARcv01cfVSDL1Ejlu9vQcXSikIPQYDWg6f6dMoWUDLv0yApIFhhk/B13XI1IVjzBt2WX5BlWnQbMES+sNJXt1WppxcycJr7mwCDlUoMRDccDS+BlKSrlb1P16TwhhgOeAU5I3mQDTz6g=;6tfgA/phrYb9umN7Ud+eRA=="
 ---

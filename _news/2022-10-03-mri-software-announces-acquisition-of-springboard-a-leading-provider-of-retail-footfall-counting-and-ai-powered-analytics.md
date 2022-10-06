@@ -47,6 +47,20 @@ related:
         width: 800
         height: 533
         isCached: true
+  - title: "March Networks acquires cloud-based data analytics platform from DoIT Software"
+    excerpt: "Acquisition accelerates company's move to cloud-based video for operational efficiency, loss prevention and business intelligence"
+    publishedDateTime: 2022-10-06T21:35:00Z
+    webUrl: "https://www.securityinfowatch.com/video-surveillance/press-release/21283119/march-networks-march-networks-acquires-cloudbased-data-analytics-platform-from-doit-software"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 18
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/10/March_Networks.633f473aee43d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
     publishedDateTime: 2022-10-06T13:44:00Z

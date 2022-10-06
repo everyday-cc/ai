@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/deep-personalization-the-key-to-reaching-the-senior-market/"
 webUrl: "https://venturebeat.com/ai/deep-personalization-the-key-to-reaching-the-senior-market/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: VentureBeat

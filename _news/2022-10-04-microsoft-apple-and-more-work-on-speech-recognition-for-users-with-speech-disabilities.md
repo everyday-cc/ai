@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-r
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
 type: article
 quality: 97
-heat: 237
+heat: 257
 published: true
 
 provider:
@@ -133,6 +133,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
   - title: "Research launched to make voice recognition tech more accessible"
     excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
     publishedDateTime: 2022-10-05T10:00:00Z
@@ -225,6 +234,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 19
+  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
+    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
+    publishedDateTime: 2022-10-06T17:53:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "iUpF9hiExjSV1O+ScuacF0wNdryNSEWjPv7Mif10QVGbNEa0NKDlaEuAF9eaYHVzIJBpKLnT3nGiee7k4yTsaji5/VnhVwR5qAbTvf9+oSdRqSQPhg3qo348OjP8mSA+f/u9U//a1BIku6SucgHt1LtEWF4mj9l4KUBHf43KvtR2W50k2vri2ZCCbiypNaf0lAnlc0cKQD9WvVjxJTMUsK5QURbs5QMYR11rX59In4YCjyjDLxI7b5vA8oYTq1KhFjz4kBDnGSzfX9dj+KfmDW4cBonHQy7utjBkh+LLjbB8Ck2VchcHXF6K8giMUbz8NahCqSjomY7X2X9oWr1NPwA1t48ipomIMcEr5wpNPBiZ+TacbQk+1NLr8MJd4JCo9h1G6ypPXjhQz+CThrHkl6er7lhDqAaPhxYQTN3l/sRdT1LuIaX6FLnIS2E/HESGaO7OYlCcyln2rpHmg0rYEOrUv5HdPIDduCR+2QrRdP1MKP9DGENpkgXkT+vXT5LOC007O4qy5+I0a1K9jq2bGw==;AQxBKtmuvI2EaFRrPVlzgw=="
 ---

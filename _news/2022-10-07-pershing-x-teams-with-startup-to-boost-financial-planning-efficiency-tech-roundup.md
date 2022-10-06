@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T19:45:00Z
 originalUrl: "https://www.thinkadvisor.com/2022/10/06/pershing-x-teams-with-startup-to-boost-financial-planning-efficiency-tech-roundup/"
 webUrl: "https://www.thinkadvisor.com/2022/10/06/pershing-x-teams-with-startup-to-boost-financial-planning-efficiency-tech-roundup/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Think Advisor

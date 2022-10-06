@@ -2,6 +2,83 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-06-23-biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution.md",
+      "title": "BioMech, ēlizur Announce Partnership Integrating AI-Enabled Motion Analytics into Physical Therapy Solution",
+      "excerpt": "BioMech Health and ēlizur announce an agreement to integrate BioMech Lab Into the Shoulder Strengthening and Stabilization System (SSS).",
+      "sourceUrl": null,
+      "webUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
+      "originalUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ptproductsonline.com/wp-content/uploads/2022/06/integration.jpg",
+          "width": 978,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Physical Therapy Products",
+        "domain": "ptproductsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-can-we-make-artificial-intelligence-less-racist.md",
+      "title": "Can we make artificial intelligence less racist?",
+      "excerpt": "Three years ago, a Georgia Tech study uncovered a major flaw in self-driving vehicles ... were testing how accurately the vehicles’ artificial intelligence–based object detection models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
+      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hamilton Spectator",
+        "domain": "thespec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
       "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
       "excerpt": "MLCommons invited Panasas to attend the foundational meetings, after which Curtis Anderson, software architect at Panasas, was named co-chair. \"The end goal of the MLPerf Storage",
@@ -999,94 +1076,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-will-remove-a-controversial-feature-of-its-facial-recognition-tool-that-claims-to-identify-emotion-from-videos-and-pictures-in-major.md",
-      "title": "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ...",
-      "excerpt": "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/22/12/59383727-0-image-a-12_1655896439971.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "publishedDateTime": "2022-06-22T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-building-neural-networks-that-smell-like-a-brain.md",
-      "title": "Building neural networks that smell like a brain",
-      "excerpt": "And we know the number of neurons in each layer. This happens to resemble an artificial neural network, which means we were able to build a network that is structured in a similar way to a fruit ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01633-y",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01633-y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01633-y/d41586-022-01633-y_23183550.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T06:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

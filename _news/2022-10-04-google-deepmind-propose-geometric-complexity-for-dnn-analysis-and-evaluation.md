@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-03T22:20:00Z
 originalUrl: "https://syncedreview.com/2022/10/03/google-deepmind-propose-geometric-complexity-for-dnn-analysis-and-evaluation/"
 webUrl: "https://syncedreview.com/2022/10/03/google-deepmind-propose-geometric-complexity-for-dnn-analysis-and-evaluation/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: syncedreview
