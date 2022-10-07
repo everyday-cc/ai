@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 64
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "9Ktrk2QaPtHdJytvsb0quFQ5o7guVOmbFZzq/uzvxoM/08jeoIDsyK+UGoRW0jzVLzOsNS2/BJez+JT9Gio2s6Q1EHHcfmbFRGCtSKsMgUwlqtYQBsqSRye/9GRxvSrao7q/GRkv8ASIr6RjnGAQisHTdIZpbQ3/EO8cI0nD/xl/vRjMm40HHPSc8Bg/+hPEZMumSnzu9QliczqkhDDcqspGLKDqW85+KpUiT12gQO4N9G3n7V8OFTSCLghaolcbPNj+kYyu8uNC9za7quMQFvoZfpbLGFN+wgmnERN3HA7Hhnrb2NTybfBG4+aizDXxSWw9sx7BvHpbSMvxfxGzOCrXDn/2Lh7elVcwD1faQZNIWqkDCpWQxFtMrTObNjbC1MeMRwbYdKiy64cOVyz1Wl6WW5m6Lp2zokIpHiPqUi4=;25dF+Iw1kZ3Unv/HK7ejvA=="
+secured: "+eCVDeBKUm3SWJw/MZ9eIDfM5sbPrz13w8uM653uLBaLWWgmCecB8AhcIDKPscN4V6I6ooX1AUexHXcnDiQt86VKMEuO3ozWQGVEOEt/K14llDFNowi7F52TmuUgkJKgToL1Rwohlz+ebY7pvgpnjypTgbMdXR+uhs6koAIaxYG05LjOiv2Ew06WkyD8pJH4nvf71xRfuZX3NDgRzc8nnTpLZqDMeJe5i42Anj7vDQqbljNZEvu38pPz8tl79EaTlcqe3WboKY76aq91JMqa3qsxRmBUFQbi5wFNrLmjMUd+ZLERgJIkCzJhuQLTUePuJXeYAbgjGvHnpnCMHr+53ghwS1EEexA0/zYSkrmtm0FTZ973cBEfoH19T1o94gwPPEKhCYcBoF3BTP4iufcUyXrEekI6ucM7eq6gc6CXG9E=;hDOFjxhDko9e3VyfyDMREA=="
 ---
 
