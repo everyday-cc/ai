@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-r
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
 type: article
 quality: 97
-heat: 257
+heat: 267
 published: true
 
 provider:
@@ -91,6 +91,22 @@ related:
       - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
         width: 900
         height: 599
+        isCached: true
+  - title: "Kyndryl, Microsoft deliver cloud-based insights for mainframes"
+    excerpt: "Kyndryl, which provides secure multi-tenant zCloud, will create data pipes that enable connections between the mainframe, including its zCloud platform, and the Microsoft cloud, making it easier for customers to move their mainframe data to the cloud."
+    publishedDateTime: 2022-10-07T09:42:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YY3n7V8XL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/0Rm2Cr8vP6xK2UbbtiCP8xDEyB45yfe46WHdb7t0RUBO92lmtJUFCj4kA5BDFV89LXCFSC2F3JeW0n5xs7H_Z3cghdbcBzGx8Ho=w1200-h629"
+        width: 1118
+        height: 629
         isCached: true
   - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
     excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."

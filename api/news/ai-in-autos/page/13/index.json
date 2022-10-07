@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-07-28-wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology.md",
+      "title": "WIMI Hologram Academy: Virtual Reality-based Remote Vehicle Driving Technology",
+      "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of VR-based remote vehicle driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/wimi-hologram-academy-virtual-reality-based-remote-vehicle-driving-technology-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-self-driving-start-up-ponyai-plans-to-mass-produce-robotrucks-in-china.md",
       "title": "Self-driving start-up Pony.ai plans to mass produce robotrucks in China",
       "excerpt": "Self-driving tech start-up Pony.ai announced Thursday it plans to mass produce autonomous driving trucks in China with equipment manufacturing giant Sany Heavy Industry. Small-scale deliveries are ...",
@@ -1250,49 +1293,6 @@
       "provider": {
         "name": "Autoblog",
         "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-baidus-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less.md",
-      "title": "Baidu's new robotaxi comes with no steering wheel and costs 50% less",
-      "excerpt": "Apollo RT6 will reportedly begin operating on Chinese roads in the second half of next year under Baidu's self-driving robotaxi programme. In November, Beijing city approved Apollo Go, the company's robotaxi business, to begin charging fares for rides in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.proactiveinvestors.com/companies/news/988040/baidu-s-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less-988040.html",
-      "originalUrl": "https://www.proactiveinvestors.com/companies/news/988040/baidu-s-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less-988040.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA3XC8yMDIyLTA3LTIxLTA4LTI1LTM2LWVkYTQ0N2QwMjdjMjRlODg2YjFkNWJlYTQ5ZjcwY2E4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/988040",
-      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/988040",
-      "publishedDateTime": "2022-07-21T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
         "images": null,
         "publishers": null,
         "authors": null

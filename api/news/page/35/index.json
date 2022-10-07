@@ -2,6 +2,49 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-09-06-scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know.md",
+      "title": "Scientists are making remote-controlled cyborg cockroaches. Here’s what you should know",
+      "excerpt": "Cockroaches are pesky insects that nobody in their right mind likes. They are good at survival, after all, they have outlived dinosaurs and maybe one day they will outlive humans. But now, humans are trying to turn these sturdy insects into half-machines or cyborgs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "originalUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202209/roach-2060922041442.gif",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "cdnAmpWebUrl": "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
+      "publishedDateTime": "2022-09-06T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DailyO",
+        "domain": "dailyo.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-06-chinas-livestream-industry-market-growth-regulation-enabling-technology-and-business-strategies.md",
       "title": "China’s Livestream Industry: Market Growth, Regulation, Enabling Technology, and Business Strategies",
       "excerpt": "China Livestream industry has witnessed exponential growth in recent years. This medium offers brands a unique",
@@ -1024,58 +1067,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-tesla-raises-full-self-driving-price-to-15000-is-it-worth-it.md",
-      "title": "Tesla raises Full Self-Driving price to $15,000 – is it worth it?",
-      "excerpt": "Tesla has officially raised the price of its Full Self-Driving (FSD) package to $15,000, as CEO Elon Musk promised. For years now, Musk has stated that Tesla would keep gradually increasing the price of its Full Self-Driving (FSD) package as functionality ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
-      "originalUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/05/tesla-raises-full-self-driving-price-to-15000-is-it-worth-it/amp/",
-      "publishedDateTime": "2022-09-05T07:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

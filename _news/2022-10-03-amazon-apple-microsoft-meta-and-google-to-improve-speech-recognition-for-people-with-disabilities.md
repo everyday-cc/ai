@@ -106,6 +106,22 @@ related:
         width: 900
         height: 599
         isCached: true
+  - title: "Kyndryl, Microsoft deliver cloud-based insights for mainframes"
+    excerpt: "Kyndryl, which provides secure multi-tenant zCloud, will create data pipes that enable connections between the mainframe, including its zCloud platform, and the Microsoft cloud, making it easier for customers to move their mainframe data to the cloud."
+    publishedDateTime: 2022-10-07T09:42:00Z
+    webUrl: "https://www.itweb.co.za/content/WnxpEv4YY3n7V8XL"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/0Rm2Cr8vP6xK2UbbtiCP8xDEyB45yfe46WHdb7t0RUBO92lmtJUFCj4kA5BDFV89LXCFSC2F3JeW0n5xs7H_Z3cghdbcBzGx8Ho=w1200-h629"
+        width: 1118
+        height: 629
+        isCached: true
   - title: "SAS Viya now available through Microsoft Azure marketplace"
     excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
     publishedDateTime: 2022-10-04T10:37:00Z

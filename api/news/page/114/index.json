@@ -2,6 +2,59 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-chipmaker-rebellions-gets-228m-series-a-extension-from-korean-telco-company-kt.md",
+      "title": "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT",
+      "excerpt": "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "originalUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "publishedDateTime": "2022-07-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
       "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
       "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
@@ -1102,40 +1155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
-      "title": "China Turns to Automation and Robotics to Solve Aging Problem",
-      "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "originalUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "publishedDateTime": "2022-07-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

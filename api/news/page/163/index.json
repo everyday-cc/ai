@@ -2,6 +2,58 @@
   "page": 163,
   "value": [
     {
+      "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
+      "title": "AI Ethics: What It Is And Why It Matters",
+      "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6296d7085f56620471be2bda/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
+      "publishedDateTime": "2022-05-31T20:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
       "title": "Type 2 diabetes linked to cognitive decline in older age",
       "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
@@ -1059,57 +1111,6 @@
         "AI",
         "AI in Sales",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-turning-ai-failure-into-ai-success-stories.md",
-      "title": "Turning AI failure into AI success stories",
-      "excerpt": "AI implementations share a number of key characteristics. Rather than simply unleashing the technology first on one goal and then another in a linear fashion, which is the habit for most traditional technology initiatives,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2014/10/failure-success.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/turning-ai-failure-into-ai-success-stories/amp/",
-      "publishedDateTime": "2022-05-31T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

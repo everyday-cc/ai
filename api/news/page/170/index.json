@@ -2,6 +2,48 @@
   "page": 170,
   "value": [
     {
+      "path": "_news/2022-05-26-dstny-acquires-egypt-founded-tactful-ai.md",
+      "title": "Dstny acquires Egypt-founded Tactful AI",
+      "excerpt": "Belgium-based business communications provider Dstny, has acquired Egypt and UK-based Tactful AI for an undisclosed sum. Founded",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "originalUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wamda.com/feature-images/433a448dc7a7843.png",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey.md",
       "title": "Urban Indians want govt to invest in AI and other emerging techs: Survey",
       "excerpt": "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,",
@@ -1074,40 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029.md",
-      "title": "Clinical Natural Language Processing Market Insight | Report of 108 Pages| Growing CAGR |Leading Players | During Forecast Period 2022-2029",
-      "excerpt": "The Future of the Clinical Natural Language Processing Market – Competitive Landscape, Market Attractiveness and Forecasts to 2029, provides readers with detailed analysis of both historic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

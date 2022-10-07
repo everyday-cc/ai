@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Roborock S7 MaxV Ultra for the ultimate in robotic floor cleaning"
+    excerpt: "The docking station is where the S7 MaxV charges itself and this can be set to only charge during off-peak times like at night."
+    publishedDateTime: 2022-10-07T09:28:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40978055.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 24
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/6462/3231395_5_seoimageog_S7_MaxV_Ultra_4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Best Robot Vacuums for Any Home"
     excerpt: "While the hovering sedans of the Jetsons have yet to materialize, robot vacuums—on the other hand—have arrived. And while they don’t look like George’s Rosie, these wafer-shaped, dirt-sucking automatons have come of age."
     publishedDateTime: 2022-10-04T18:40:00Z

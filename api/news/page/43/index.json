@@ -2,6 +2,58 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-08-30-how-tech-can-accelerate-the-future-of-healthcare-and-social-good.md",
+      "title": "How tech can accelerate the future of healthcare and social good",
+      "excerpt": "Tech companies are teaming with independent innovators to solve pressing problems. A study released in the fall of 2020 suggested that the first nine months of the Covid-19 pandemic’s grip on the world spurred a decade’s worth of technological innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "originalUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-543351810.jpg?w=599",
+          "width": 599,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-30T07:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers.md",
       "title": "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’",
       "excerpt": "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ...",
@@ -1120,40 +1172,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-juniper-research-digital-identity-verification-spend-to-exceed-20-billion-globally-by-2027-as-top-vendors-revealed-in-competitor-leaderboard.md",
-      "title": "Juniper Research: Digital Identity Verification Spend to Exceed $20 Billion Globally by 2027, as Top Vendors Revealed in Competitor Leaderboard",
-      "excerpt": "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion globally in 2027; up from $11.6 billion in 2022. It predicts this growth will be driven by both the increasing prevalence of digital services requiring digital onboarding journeys,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-juniper-research-digital-identity-verification-spend-exceed-20-/2022/08/30/9663806.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T00:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

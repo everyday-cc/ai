@@ -267,6 +267,59 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy in October",
+      "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "originalUrl": "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029.md",
       "title": "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029",
       "excerpt": "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,",
@@ -275,7 +328,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 193,
+      "heat": 143,
       "tags": null,
       "images": [
         {
@@ -1431,58 +1484,6 @@
         "name": "Telecom Lead",
         "domain": "telecomlead.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance.md",
-      "title": "Nvidia introduces DLSS3 to generate AI-powered frames with 4X performance",
-      "excerpt": "Nvidia's DLSS 3 will use AI to estimate the best way to fill out images in the company's latest graphics cards.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
-      "originalUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/racer-x-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 686,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidia-introduces-dlss3-to-generate-ai-powered-frames-with-4x-performance/amp/",
-      "publishedDateTime": "2022-09-20T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

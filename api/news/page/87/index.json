@@ -2,6 +2,59 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
+      "title": "GPU as a service market to gain significant momentum across the healthcare sector",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T22:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-ponyai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china.md",
       "title": "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China",
       "excerpt": "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand.",
@@ -1057,49 +1110,6 @@
       "topics": [
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-azure-functions-boosted-with-net-7-support.md",
-      "title": "Azure Functions Boosted with .NET 7 Support",
-      "excerpt": "Azure Functions, Microsoft's serverless cloud computing offering, is previewing new functionality coming with its new support of .NET 7 as a runtime.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/07/27/azure-functions-net-7.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0216red_F2Nano.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

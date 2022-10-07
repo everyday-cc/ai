@@ -2,6 +2,49 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-08-05-bloomz-provides-equitable-school-communication-with-language-translation.md",
+      "title": "Bloomz Provides Equitable School Communication with Language Translation",
+      "excerpt": "With an app like Bloomz, the concern that families are missing out is cast aside because of its language functionalities. Because Bloomz offers a variety of features which focus on accessibility and fostering equitable communication,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1869433/Bloomz_alert.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T11:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
       "title": "Ghost Security reinvents app security with unsupervised machine learning",
       "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
@@ -1091,49 +1134,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-287-during-the-period-of-2022-2032.md",
-      "title": "Cognitive Computing Market is Anticipated to have Prodigious CAGR of 28.7% During the Period of 2022-2032",
-      "excerpt": "Additionally, there is an increase in the demand for cognitive systems in large organizations and this is expected to increase in SMBs owing to cloud-based services. As cloud-based deployment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-28-7-during-the-period-of-2022-2032",
-      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-28-7-during-the-period-of-2022-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

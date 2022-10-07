@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Roborock S7 MaxV Ultra for the ultimate in robotic floor cleaning"
+    excerpt: "The docking station is where the S7 MaxV charges itself and this can be set to only charge during off-peak times like at night."
+    publishedDateTime: 2022-10-07T09:28:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40978055.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 24
+    images:
+      - url: "https://www.irishexaminer.com/cms_media/module_img/6462/3231395_5_seoimageog_S7_MaxV_Ultra_4.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Jnoq8cgwZs+wHkVOao2M00A0mv/e3YhZFYmxzezXw6Ru6Hj6gcMuXG+kWXlzgpg4sHk1znj3iTAYU1+DBL3jbuIiP1vHXMhQfLUnCTvna29pN9c0UZkyc+Ne0tIKe0NfQuEMbiTJUbvhX9ptiD6PNsfpLWg5hpbSCcY3CPHkQlY6IYfKFudVCyd5aDzGoCXZcNeswgjDm/vDl5dBYLODGgi6/a301TvW17/jMXAQvPtSdg9WJDuVwpVIdQKS3GylvtulSWnFs4QzOdGtaE/2/z0prlGI/QJ50Vw8O/fqhm3HvvNEjvY4LjtPvpvE9tkBokVI1BrCeFkaENQHhnzV/LxqlW1VVtKEHH82J7/ZAvvpSuWa0cQsnnRk6ogKq6bgVwxc9Qp2AazlGyXzMTWlalSg3JEcHogJuBxUpa6ZUpnK5lQ5sShNW4ECrlY/ES702M4QNJDhudUjCjfYsbj+5uxk0Lu4x6vUKwdyZxCgFsUZYjVPq8bQDWz5aGfi7wXkyyJTQ3V58mdxzdhQcDCGBg==;TItJcA9FeCQEpPksmK9uGQ=="
 ---

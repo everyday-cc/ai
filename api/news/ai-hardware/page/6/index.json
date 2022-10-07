@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-07-artificial-intelligence-chip-market-is-expected-to-reach-us-832527-million-by-2027-with-350-cagr-prominent-key-players-with-region-and.md",
+      "title": "Artificial Intelligence Chip Market Is Expected To Reach US$ 83,252.7 Million By 2027 With 35.0% CAGR | Prominent Key players with Region and Forecast",
+      "excerpt": "According to our latest market study, titled” Artificial Intelligence Chip Market” and its applications such as machine learning and deep learning have been growing tremendously over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/f86be8715ba54a39f5be728e02ae3bd8cf31255b-e1660978014168-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
       "title": "AI does not have thoughts, no matter what you think",
       "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
@@ -1384,58 +1428,6 @@
         "name": "Nasdaq",
         "domain": "nasdaq.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
-      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
-      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

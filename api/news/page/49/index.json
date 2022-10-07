@@ -2,6 +2,58 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-08-26-googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement.md",
+      "title": "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?",
+      "excerpt": "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
+      "publishedDateTime": "2022-08-25T14:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
       "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
       "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
@@ -1154,58 +1206,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030.md",
-      "title": "Computer Vision Market Size Industry Analysis Share Growth Trends Top Key Players and Regional Forecast 2022 to 2030",
-      "excerpt": "The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with the forecast for the period between 2017 and 2025 based on revenue (US$ Mn).",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-industry-analysis-share-growth-trends-top-key-players-and-regional-forecast-2022-to-2030-2022-08-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

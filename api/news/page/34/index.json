@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-09-07-germany-is-buying-robots-that-look-like-russian-tanks-to-practice-fighting-the-real-thing.md",
+      "title": "Germany is buying robots that look like Russian tanks to practice fighting the real thing",
+      "excerpt": "The robot vehicles can be operated by remote control or function autonomously. Indeed, they can move in formation to simulate enemy tactics. \"Twenty-plus 'enemy' vehicles can be programmed and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "originalUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6317a8ec5c870800189eda8c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/germany-buys-robots-that-look-like-russian-tanks-for-training-2022-9?amp",
+      "publishedDateTime": "2022-09-06T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
       "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
       "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
@@ -1030,49 +1082,6 @@
       "provider": {
         "name": "MENAFN",
         "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know.md",
-      "title": "Scientists are making remote-controlled cyborg cockroaches. Here’s what you should know",
-      "excerpt": "Cockroaches are pesky insects that nobody in their right mind likes. They are good at survival, after all, they have outlived dinosaurs and maybe one day they will outlive humans. But now, humans are trying to turn these sturdy insects into half-machines or cyborgs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "originalUrl": "https://www.dailyo.in/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202209/roach-2060922041442.gif",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "cdnAmpWebUrl": "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/scientists-are-making-remote-controlled-cyborg-cockroaches-heres-what-you-should-know-37230",
-      "publishedDateTime": "2022-09-06T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DailyO",
-        "domain": "dailyo.in",
         "images": null,
         "publishers": null,
         "authors": null

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Why the ACLU of NJ says too much of how the NYPD uses facial recognition is shrouded in secrecy"
-    excerpt: "A man was arrested and charged with a West New York armed robbery. He says he's entitled to know about the technology used to connect him with the crime."
-    publishedDateTime: 2022-10-02T16:01:00Z
-    webUrl: "https://gothamist.com/news/why-the-aclu-of-nj-says-too-much-of-how-the-nypd-uses-facial-recognition-is-shrouded-in-secrecy"
-    type: article
-    provider:
-      name: Gothamist
-      domain: gothamist.com
-    quality: 29
-    images:
-      - url: "https://cms.prod.nypr.digital/images/334240/fill-1200x650/"
-        width: 1200
-        height: 650
-        isCached: true
   - title: "Lawmakers, school officials meet over facial recognition technology in schools"
     excerpt: "State lawmakers studying facial recognition technology expressed concerns about student privacy when the tech is used in schools. The state Economic Affairs Interim Committee Monday met with a school district that has put in place facial recognition technology,"
     publishedDateTime: 2022-10-05T11:04:00Z

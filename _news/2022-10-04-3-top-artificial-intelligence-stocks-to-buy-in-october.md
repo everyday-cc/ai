@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-04T14:33:00Z
 originalUrl: "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/"
 webUrl: "https://www.fool.com/investing/2022/10/04/3-artificial-intelligence-stocks-buy-in-october/"
 type: article
-quality: 69
-heat: 79
+quality: 71
+heat: 81
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
 images:
   - url: "https://g.foolcdn.com/editorial/images/702923/gettyimages-1284372450.jpg"

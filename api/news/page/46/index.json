@@ -2,6 +2,49 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-08-29-robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from-2022-to-2029.md",
+      "title": "Robotic Catheterization Systems Market is set to experience a significant growth of 14.8% CAGR from 2022 to 2029",
+      "excerpt": "Procedures where clinicians are given navigational and mechanical tools that permit definite actions or part of the procedure to be executed autonomously with a level of precession and control are possible only with robot-assisted catheterization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-29/robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-29/robotic-catheterization-systems-market-is-set-to-experience-a-significant-growth-of-148-cagr-from",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T21:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
       "title": "Why Meta’s large language model does not work for researchers",
       "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
@@ -1085,48 +1128,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
-      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
-      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "publishedDateTime": "2022-08-27T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Age",
-        "domain": "theage.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

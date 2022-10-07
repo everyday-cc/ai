@@ -2,6 +2,49 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-06-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
       "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
       "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
@@ -1111,57 +1154,6 @@
         "name": "techstore",
         "domain": "techstore.ie",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-spotify-is-developing-ai-tools-to-hook-users-on-music-creation.md",
-      "title": "Spotify Is Developing AI Tools To Hook Users On Music Creation",
-      "excerpt": "One tool will let you tweak a song’s rhythm or melody. Another can take the harmony of a pop song from, say, Justin Bieber or Drake and combine it with the melody and rhythm of a fugue by Schubert or Bach,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b8f318993181ecf4b0235c/0x0.jpg?format=jpg&crop=2841,1895,x0,y232,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "publishedDateTime": "2022-06-29T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-09-03-monarch-tractor-debuting-electric-tractors-soon-nbspand-they-can-go-driverless.md",
+      "title": "Monarch Tractor debuting electric tractors soon —&nbsp;and they can go driverless",
+      "excerpt": "Editor's note: As part of the Bay Area Inno Awards, the San Francisco Business Times and Silicon Valley Business Journal are highlighting nine startups from nine categories across the innovation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "originalUrl": "https://www.bizjournals.com/sanfrancisco/inno/stories/awards/2022/09/02/monarch-tractors-electric-tractors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-02T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-self-driving-tech-firm-aurora-mulls-sale-to-apple-or-microsoft-bloomberg-news.md",
       "title": "Self-driving tech firm Aurora mulls sale to Apple or Microsoft - Bloomberg News",
       "excerpt": "Aurora Innovation Inc Chief Executive Chris Urmson recently outlined several options for the self-driving tech firm to combat challenging market conditions, including a possible sale to Apple Inc or Microsoft Corp ,",
@@ -1268,58 +1302,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-industrys-first-autonomous-spreader-debutsat-farm-progress-show.md",
-      "title": "Industry’s first autonomous spreader debutsat Farm Progress Show",
-      "excerpt": "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/industrys-first-autonomous-spreader-debutsat-farm-progress-show-2022-08-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

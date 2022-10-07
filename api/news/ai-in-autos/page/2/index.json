@@ -2,6 +2,59 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-30-tesla-unveils-its-humanoid-robot-for-less-than-20000.md",
+      "title": "Tesla unveils its humanoid robot for ‘less than $20,000’",
+      "excerpt": "Tesla did show some videos of the robot performing some tasks in a controlled environment to demonstrate some level of usefulness. The automaker even showed the robot performing a task at an ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Optimus-Humanoid-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
+      "publishedDateTime": "2022-09-29T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-waymo-claims-its-driver-ai-is-safer-than-a-human-and-backs-it-up-with-test-results.md",
       "title": "Waymo Claims Its Driver AI Is Safer Than a Human and Backs It Up With Test Results",
       "excerpt": "There are some firms, which we’ll not name, who have taken a more relaxed approach to safety in the name of getting their product to market, and then there’s Waymo. Waymo is a part of Alphabet ...",
@@ -1362,58 +1415,6 @@
         "AI Hardware",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-robotic-eyes-attached-to-front-of-self-driving-cars-may-improve-safety.md",
-      "title": "Robotic Eyes Attached to Front of Self-Driving Cars May Improve Safety",
-      "excerpt": "Scientists in Japan have found that sticking giant googly-looking eyes in front of self-driving cars may improve safety for pedestrians. Tesla still does not classify Autopilot-enabled vehicles as ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "originalUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2119247/pedestrians-crossing-road.jpg",
-          "width": 2058,
-          "height": 1330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/self-driving-car-pedestrian-safety-eyes-1744595?amp=1",
-      "publishedDateTime": "2022-09-20T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],
