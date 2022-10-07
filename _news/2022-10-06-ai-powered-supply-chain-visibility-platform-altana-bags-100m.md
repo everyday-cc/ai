@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI-powered supply chain visibility boosted as Altana raises $100M"
+    excerpt: "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding."
+    publishedDateTime: 2022-10-06T23:48:00Z
+    webUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-supply-chain_logistics_infographic_638521560-e1665099850646.jpg?w=1200&strip=all"
+        width: 1200
+        height: 500
+        isCached: true
   - title: "Altana raises $100M for its AI-powered supply chain platform"
     excerpt: "The New York-based company provides a software platform called Altana Atlas that organizations can use to monitor their supply chains. According to the startup, the platform is powered by an artificial intelligence model that processes billions of data points."
     publishedDateTime: 2022-10-06T19:35:00Z

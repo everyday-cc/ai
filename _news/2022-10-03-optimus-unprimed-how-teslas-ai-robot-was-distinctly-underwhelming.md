@@ -97,22 +97,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Tesla, Elon Musk show off early prototype 'Optimus' robot"
-    excerpt: "But the basic tasks by the robot with exposed wires and electronics — as well as a later, next generation version that had to be carried onstage by three men — was a long way from CEO Elon Musk's vision of a human-like robot that can change the world."
-    publishedDateTime: 2022-10-02T08:29:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/tesla-optimus-robot/507-55f5a47e-1f92-4669-a9d9-3b808edfa7da"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 76
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/ee0a47a3-adbd-488e-b57b-07df25f393af/ee0a47a3-adbd-488e-b57b-07df25f393af_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
     excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
     publishedDateTime: 2022-10-03T07:16:00Z

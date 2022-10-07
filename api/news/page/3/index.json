@@ -642,22 +642,31 @@
       "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
       "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
       "sourceUrl": null,
-      "webUrl": "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "originalUrl": "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "webUrl": "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "originalUrl": "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "cdnAmpWebUrl": "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "publishedDateTime": "2022-10-01T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KCCI Des Moines",
-        "domain": "kcci.com",
+        "name": "WPBF",
+        "domain": "wpbf.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -667,7 +676,6 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
         "AI"
       ]
     },

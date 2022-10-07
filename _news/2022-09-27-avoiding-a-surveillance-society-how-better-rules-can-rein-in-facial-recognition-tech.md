@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Avoiding a surveillance society: How better rules can rein in facial recognition tech"
-excerpt: "The human face is special. It is simultaneously public and personal. Our faces reveal sensitive information about us: who we are, of course, but also our gender, emotions, health status and more."
-publishedDateTime: 2022-09-27T15:40:00Z
-originalUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-webUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.html"
-ampWebUrl: "https://techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-surveillance-society-rein-facial-recognition.amp"
+title: "Avoiding a surveillance society: how better rules can rein in facial recognition tech"
+excerpt: "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ..."
+publishedDateTime: 2022-09-26T20:03:00Z
+originalUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+webUrl: "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+ampWebUrl: "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
+cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: The Conversation
+  domain: theconversation.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/avoiding-a-surveillanc.jpg"
-    width: 1356
-    height: 668
+  - url: "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+    width: 320
+    height: 213
     isCached: true
 
-secured: "/aGkE13n/vU+Em6EZnKdNimkXo9Bi6IBfG8nlLiiFle66LSayOx4/xqpSu0fHX+9dl/tu+A8zrJk1BTEx8R5i3ejLiusiDocTH03DGcg5jh7HTj0MwCPaI7SROTECJDscGZGt9GyPhbwsk9iK5yVjhtLpdpCbaW12zXsKPwFB59kaFIfm5DjsE3t/gihtxlULl8XXxDwJKmEld/8688xA3cICZsmhy/0aBTgL9FpSKCluvVeHSk2P9SrwDtFtc/o1PDSRa2VjAfL9cG4n9XmHOr6EQSYUulvav23gU2W7prCBojQcdzFPzHL+y1Ll6dN3sWjeKz99cioppcd0QDu4VO3K8Lst2uT9IGwrYbnXd8=;iDnVwHvrms4Gc2zrL4n3Bg=="
+secured: "orllmeaxBegiUTaWZ59ZTgVWlGQFcXKmcv5wpsGl+TkoXpSRvDa6YvWdi7wrHL58d4EvjpeHNiEGGUWnFbkCVKvuBGjTmxSj+OjhQg3dfFWAr7GMDA15rCRxUoaQdKdUnbaO2ixlBcG39KUmhucuGCK40B0KjCFRlXaAhs9N4KOOLap/1KY8vcYvJ7HfrLPIu+i/cUVhUDxqAIer7IIJCqe/bjWg5nadfJTpsKZtSEOQLEgiKOZYB44U7IVDI4NnjbssDXYbFa+lqX2kjIW/XvIS1mXMYsMaZJ0sEEuStMRXHYcWCS1w3inLds9AA9C40CnUyrnswzPmoYKJ6UM//fCFK1CEqyfGdff7WIQtmkU=;i7e6vWpSZvGu/2mHPa2hZQ=="
 ---
 

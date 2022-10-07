@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 674
         isCached: true
+  - title: "AI-powered supply chain visibility boosted as Altana raises $100M"
+    excerpt: "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding."
+    publishedDateTime: 2022-10-06T23:48:00Z
+    webUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/"
+    ampWebUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-supply-chain_logistics_infographic_638521560-e1665099850646.jpg?w=1200&strip=all"
+        width: 1200
+        height: 500
+        isCached: true
 
 secured: "fXLzarJAUbcuK7ooiThKEsTxPi850y+QDmB0Rd2ckaHqjbUde71ePnO6rick0f67OqQIaGeZaOVHY8sSD8kUpPgYnq/9eF5vZdVx7ldOF+PpuQ8u3AYSBQ4lITy9TIUxTHvA43waQ5jAjcJg50mDAuogFRY8T/wscsws/lzVIf2htMG9oGlgx19whfUVa4JYZNyvEMI8zAmg2WEE9DfYR6CiwZ7RyqLsIOiFTBndoLySmcJjFyrsimX2SGtvs21ujXL4SQuKFzjUFd/b3kClPWPe7J1ex7YnPbTzuou75I6sZ/DyUqCOwSzJlu/rPQhM0g9bJCDoy58NAVInMKgqwnwozh60Llut+Dhb3v6/zAUl6g3r04r6+IBczms2vemfo31F2901hxh7Xev44/tHIXYHqIy+nE5cQKm6ubrvZPluN4HqeYPZpSHU+lWrT0wvdgl3NwDDX0tVfgx6OmP/8wpTwUxfteBJl/7Rg5FWSCxC7JqmGQWEdNH8cD4tJ6XvYLfAUf3jRISWZNs3eII0PQ==;p9Y/+JwDCBCuboNgZyapXw=="
 ---
