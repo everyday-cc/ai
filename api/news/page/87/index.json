@@ -2,6 +2,333 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-07-28-googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe.md",
+      "title": "Google's AI Has Predicted the 3D Structure of the 'Entire Protein Universe'",
+      "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
+      "originalUrl": "https://www.cnet.com/science/biology/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-ai-has-predicted-the-3d-structure-of-the-entire-protein-universe/",
+      "publishedDateTime": "2022-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-how-to-approach-ai-decisions-with-eyes-wide-open.md",
+      "title": "How To Approach AI Decisions With Eyes Wide Open",
+      "excerpt": "The fervor around AI is eerily similar to past technology adoption cycles (e.g., the web boom) and follows a predictable pattern. First, there's an exuberant rush by early adopter",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e148d558bd5a2f407e7749/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/28/how-to-approach-ai-decisions-with-eyes-wide-open/amp/",
+      "publishedDateTime": "2022-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
+      "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
+      "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
+      "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
+      "originalUrl": "https://www.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward?fs=e&s=cl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/9be88a8fbd44edbd1d57a656afb9105b3d1199d2/0_0_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=dea65fbabb845a2d6a30c9a75eb19a20",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/jul/28/deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward",
+      "publishedDateTime": "2022-07-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments.md",
+      "title": "Artificial intelligence to reduce waiting list for neurology appointments",
+      "excerpt": "The Walton Centre NHS Trust is working with Tata Consultancy Services to apply digital technology to its operation, starting with a time-saving AI chatbot.",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
+      "originalUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
+      "publishedDateTime": "2022-07-28T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-instagram-and-facebook-feeds-will-display-more-ai-recommended-posts-by-the-end-of-2023-mark-zuckerberg-says.md",
+      "title": "Instagram and Facebook feeds will display more AI-recommended posts by the end of 2023, Mark Zuckerberg says",
+      "excerpt": "Gone are the days when Facebook and Instagram feeds were only filled with the latest updates from friends, family, or favorite pages. These major social media platforms, both owned by Meta, have been showing content",
+      "sourceUrl": null,
+      "webUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
+      "originalUrl": "https://www.econotimes.com/Instagram-and-Facebook-feeds-will-display-more-AI-recommended-posts-by-the-end-of-2023-Mark-Zuckerberg-says-1638261",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s1.econotimes.com/assets/uploads/2022072895aeb1c9894a72901_th_1024x0.jpg",
+          "width": 900,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T01:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EconoTimes",
+        "domain": "econotimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why.md",
+      "title": "A gold-rush of NLP startups is about to arrive — here’s why",
+      "excerpt": "Remember Natural Language Processing? NLP arose several years ago but it was only in 2018 that AI researchers proved it was possible to train a neural network once on a large amount of data and use it again and again for different tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "originalUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Google-Duplex.jpeg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "publishedDateTime": "2022-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-cognitive-analytics-market-analysis-with-key-players-applications-trends-and-forecast-2022-2031.md",
       "title": "Cognitive Analytics Market Analysis with Key Players, Applications, Trends and Forecast 2022 – 2031",
       "excerpt": "The Cognitive Analytics Market is ... Nuance Communications, Microsoft Corporation, Oracle Corporation, Amazon Web Services, Google LLC, Intel Corporation, and Narrative Science.",
@@ -817,307 +1144,6 @@
         "name": "朝日新聞社",
         "domain": "asahi.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-research-shows-artificial-intelligence-can-improve-stroke-diagnostics-expanding-access-to-lifesaving-stroke-care.md",
-      "title": "Research shows artificial intelligence can improve stroke diagnostics, expanding access to lifesaving stroke care",
-      "excerpt": "TORONTO — A new study presented today at the Society of NeuroInterventional Surgery’s (SNIS) 19th Annual Meeting shows that artificial intelligence (AI) technology can identify when a patient ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960135",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960135",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029.md",
-      "title": "Voice Recognition Software Market Share 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2029",
-      "excerpt": "Global Voice Recognition Software Market report enlists a variety of qualitative as well as quantitative research findings and remarkable insights associated with various segments of the industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/voice-recognition-software-market-share-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-smashing-security-podcast-285-ubers-hidden-hack-tips-for-travel-and-ai-accent-fixes.md",
-      "title": "Smashing Security podcast #285: Uber’s hidden hack, tips for travel, and AI accent fixes",
-      "excerpt": "Uber may not face prosecution over its handling of a 2016 data breach – but its former chief security head does; how to defend your digital devices' data while on vacation, and how to change",
-      "sourceUrl": null,
-      "webUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
-      "originalUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://grahamcluley.com/wp-content/uploads/2022/07/ss-episode-285.jpeg",
-          "width": 730,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://grahamcluley.com/smashing-security-podcast-285/",
-      "cdnAmpWebUrl": "https://grahamcluley-com.cdn.ampproject.org/c/s/grahamcluley.com/smashing-security-podcast-285/",
-      "publishedDateTime": "2022-07-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Graham Cluley",
-        "domain": "grahamcluley.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-inside-tiktoks-attempts-to-downplay-the-china-association.md",
-      "title": "Inside TikTok's Attempts to ‘Downplay the China Association’",
-      "excerpt": "Both are explanations of press talking points in English and include a version translated into a European language ... downplay AI.” All three bullet points are the second, third and fourth ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736",
-      "originalUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tiktok-master-messaging-pr-playbook-china-music-1849334736/amp",
-      "publishedDateTime": "2022-07-27T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-air-force-testing-system-to-stop-active-shooters-with-robots-and-drones.md",
-      "title": "Air Force testing system to stop active shooters with robots and drones",
-      "excerpt": "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
-      "originalUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23228536-1658958834439.jpg?quality=75&strip=all&1658944488&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
-      "publishedDateTime": "2022-07-27T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-whats-driving-us-china-spat-over-audits-and-delisting.md",
-      "title": "What’s Driving US-China Spat Over Audits and Delisting",
-      "excerpt": "About 200 Chinese companies whose shares trade in the US, including JD.com Inc. and Baidu Inc., face delisting because American regulators aren’t able to verify their financial audits. While China and the US continue to negotiate access to audits,",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/whats-driving-us-china-spat-over-audits-and-delisting/2022/07/27/decb8870-0e14-11ed-88e8-c58dc3dbaee2_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T13:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-facebook-and-instagram-are-going-to-show-even-more-posts-from-accounts-you-dont-follow.md",
-      "title": "Facebook and Instagram are going to show even more posts from accounts you don’t follow",
-      "excerpt": "Meta CEO Mark Zuckerberg said the company will more than double the amount of content from recommended accounts people see while using Instagram and Facebook ... s heavy use of AI to serve up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai",
-      "originalUrl": "https://www.theverge.com/2022/7/27/23281451/facebook-instagram-meta-recommendation-discovery-engine-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

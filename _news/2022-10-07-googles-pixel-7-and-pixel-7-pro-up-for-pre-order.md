@@ -7,7 +7,7 @@ originalUrl: "https://www.fortuneindia.com/technology/googles-pixel-7-and-pixel-
 webUrl: "https://www.fortuneindia.com/technology/googles-pixel-7-and-pixel-7-pro-up-for-pre-order/109943"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google Voice Recorder For Pixel 7 Will Offer Voice Labels"
-    excerpt: "Google made an interesting announcement during its latest Pixel event. The Google voice recorder will actually add voice labels for people while they’re speaking, according to Engadget. In case you didn’t know,"
-    publishedDateTime: 2022-10-06T18:08:00Z
-    webUrl: "https://www.androidheadlines.com/2022/10/google-recorder-pixel-7-voice-labels.html"
+  - title: "Google Pixel 7 Event: New Pixel 7, 7 Pro, Pixel Watch, Tensor G2 and More Reveals"
+    excerpt: "Google's new Pixel 7 and Pixel 7 Pro phones are on display at the company's new event alongside the Pixel Watch. Plus, the Pixel Tablet gets a tease ahead of its 2023 release."
+    publishedDateTime: 2022-10-06T19:59:00Z
+    webUrl: "https://www.cnet.com/news-live/google-pixel-7-event-live-blog/"
     type: article
     provider:
-      name: Android
-      domain: androidheadlines.com
-    quality: 4
+      name: CNET
+      domain: cnet.com
+    quality: 29
 
 secured: "J1Jb08qOSWr94UFSBk6RCg3D+GygYTcq18FuFDg1OS07g7t3lAhccKBihSgcN5laTefSNMR4vdWzfZMMHOMSzqODBqaMGn1zFGRFKupgcrogKGXdoTjod3GFXb+yzBD4Uw17YUmu5ZoxTXCzTkzUfPQ1X0IT7KAmPC+Thep38Gm03yk3zCoDFMdGPJ+6NRq/ru+1807TEwp7MNSDiYV8VTQ0adWEOh5T1FLb02oKKKjg41XjQWgJpfsrvnMQmmZ4HB891+xs3mbHt/QeF5P8Tz5Ky/LfASKYuL9mUcfh/lgxRMuVgJviqOFP8mfr2QJ0FYM1Sylvili1LbnYKdYIE1b9Q8WQeD8A2I9zRI9079o=;ZaM68SpYwAzaZa/R4qOEbg=="
 ---

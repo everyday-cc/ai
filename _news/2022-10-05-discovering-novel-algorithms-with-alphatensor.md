@@ -149,6 +149,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
+    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
+    publishedDateTime: 2022-10-07T09:56:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
 
 secured: "Uhj/UPOfObfLAOu08N//T1FB67BzY8lhVZs0H3QtNYL1zK+/3I7GrjwNRThONLmJ5kH0Lh8/P8ENAuE2juTJDhIfRb5cIwNUWl8iHfyp/P8AQ+EUDdXkvR1QH+IvA27ULjjj5N5ERWeLdhu84cypRhL/h4Zd6kf4QDTTTAQVHvPyB9vH3QX9l142W2nuO/UEQEStzTiGOcXb6wNGoCQSR68CV65huBooiNRnqI7sY/wwfot+x0os+4/MMjSVzN/yWCep438xhGRmXBAtSDPn0EDVQsLA3E031spAvWc73UIPGIZ6m0I3XGjqTTbY26WD3RgDIltOpfg4z1e3Uc91oJPpxn5Shp/Gf9QNkk1U/ZQ=;71U3yQHhGVydsguRmHAmTg=="
 ---

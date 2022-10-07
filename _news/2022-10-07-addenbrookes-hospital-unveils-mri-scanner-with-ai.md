@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T11:49:00Z
 originalUrl: "https://www.bbc.com/news/uk-england-cambridgeshire-63170128"
 webUrl: "https://www.bbc.com/news/uk-england-cambridgeshire-63170128"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: BBC

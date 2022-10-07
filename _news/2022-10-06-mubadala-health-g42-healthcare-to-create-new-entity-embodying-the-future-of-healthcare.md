@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Mubadala, G42 agree to merge healthcare businesses"
-    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, on Thursday announced they will merge"
-    publishedDateTime: 2022-10-06T15:51:00Z
-    webUrl: "https://www.gulftoday.ae/business/2022/10/06/mubadala--g42-agree-to-merge-healthcare-businesses"
+  - title: "Study finds the risks of sharing health care data are low"
+    excerpt: "In recent years, scientists have made great strides in their ability to develop artificial intelligence algorithms that can analyze patient data and come up with new ways to diagnose disease or predict which treatments work best for different patients."
+    publishedDateTime: 2022-10-07T15:39:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-health.amp"
     type: article
     provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 39
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
     images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/sport/2019/9/23/mubadala-750.ashx?h=450&w=750&hash=3900DF6969F015CB1A24CF8F572581FD"
-        width: 750
-        height: 450
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-the-risks.jpg"
+        width: 2100
+        height: 1598
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare merger promises future-ready healthcare in the UAE"
-    excerpt: "The new, yet-unnamed, company will bring together Mubadala’s world-class patient care and G42’s artificial intelligence and data-driven technologies Mubadala Health and G42 Healthcare merger promises future-ready healthcare in the UAE G42 Healthcare,"
-    publishedDateTime: 2022-10-07T11:24:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/healthcare/mubadala-health-and-g42-healthcare-merger-promises-future-ready-healthcare-in-the-uae"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 12
   - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
     excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
     publishedDateTime: 2022-10-06T07:28:00Z

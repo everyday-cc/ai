@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
 type: article
 quality: 76
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
     provider:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
+    quality: 19
+  - title: "How can AI help create better algorithms?"
+    excerpt: "AI is taking the world by storm and is here to stay. Explore how AI can help create better algorithms in Math in this post."
+    publishedDateTime: 2022-10-07T11:08:00Z
+    webUrl: "https://www.techthirsty.com/how-can-ai-help-create-better-algorithms/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
     quality: 19
 
 secured: "L+JlYbst/ts+od/Kg2y9Bk7p+QcEQAmyZPimAODfiQCtmC3kYKqasFgCYwXJwWs4wG0dh5GmF7RUVsyhOygvqULdDBRWCuMh6+Sg6lCyYmeBlboIUH3GU6gP3g6IDEcJpko0e/4BMA4OQ4R4G0Cv1au1VCwHlHrtIC2AsICpfRyedndVw4GEbLd8+Ot5uj8+0SiESJGHyO2eQ+auEWfxIZvF+/Do39KM+oHLrYnuc1lFv6A6WzUJXxIQ76HsoEdP1UXhHNf4+uvoKSy1eIKanrUpdzZeyXtyXsovwcReI23Vfs76f+weh3PvTso9EdAGYJVw8k5Z0v46DRc6FNr61GqT1h1ti99vtQkuqMXzq8+ziKcseAocFyAMoGHWm5yvb4LQDngSM5w1269dZnr/EA8bHxWOzV3Sv3+fnItWGiQBWtxPfpmIwphsOuV7fzHb7yu9hm5fF8t5x7BZKsg9/SUq0AhrP0/8n3MZlGt1bJJQfK877B+W7BruO+mKmU8dcmvZuTEZhljSCieGeqHfww==;73snjemjfhyLTOPk/kEicg=="

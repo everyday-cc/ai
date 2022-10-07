@@ -24,22 +24,6 @@ images:
     height: 900
     isCached: true
 
-related:
-  - title: "This machete is controlled by a plant yielding a robot arm"
-    excerpt: "Robotics have come a long way as this project of an arm being controlled by the electric noises produced by a plant. Could this application be scaled up to allow for brain-controlled movement?"
-    publishedDateTime: 2022-10-02T19:45:00Z
-    webUrl: "https://interestingengineering.com/innovation/this-machete-is-controlled-by-a-plant-yielding-robotic-arm"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/02/image/jpeg/ozgvGTE9DZfBRzQaW3OQ281ztgvD4D4KaJhPJwCN.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-
 secured: "McjfLwOt0O0M1SPDneddQwotjFU62ZRCNuLeMUB2ixAJ0J/huxYg88tqhFK/q4pb3CJ9mbLG7VhjV33sBa4chTnZ47aDCRaauygOs6Pz/6FmNGnE4C71Yp3yS+mnHdaKK5R8tz39NkjbLDZEycLjJCTvKY8hnEOT4oXoK0XG8bKBBHehSar7ltFeCht55HECCXhDIWRQlBxxpUJ+6FYTR4W02m2s/IOrYeCgnuYYWqEnk6bgkVfEqo3YGJ/DJIb/+R9ACg5JdQqFTfn5JXj4F99HFOMeXRln7n9iQNoPZRk0HeiJ5YLbe33niv2q2H3w6dxvaSx1XYyM9tQolxGd9AohuA7ErbHixMlk6SpBbDY=;fMtu30AA0/jDCKN89vLJlQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T13:50:00Z
 originalUrl: "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-build-ai-enabled-drones-with-the-raspberry-pi-4-2022-10/"
 webUrl: "https://www.electronicsweekly.com/blogs/gadget-master/general/gadget-book-build-ai-enabled-drones-with-the-raspberry-pi-4-2022-10/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Electronics Weekly

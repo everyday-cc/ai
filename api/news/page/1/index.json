@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-07-cookie-langs-brings-fast-foreign-language-learning-to-fashion.md",
+      "title": "Cookie Langs Brings Fast Foreign Language Learning To Fashion",
+      "excerpt": "The fashion industry continues to become more and more globalized, which is why Cookie Langs, one of the largest AI language learning platforms in the world, wants people in fashion to use their app to quickly learn languages to aid their careers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
+      "originalUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633ffbebbb739d8f7d6461d8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 812,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rebeccasuhrawardi/2022/10/07/cookie-langs-brings-fast-foreign-language-learning-to-fashion/amp/",
+      "publishedDateTime": "2022-10-07T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
       "title": "Pixel 7: facial recognition is finally available but there is a catch",
       "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
@@ -31,6 +83,49 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones.md",
+      "title": "Google takes Apple path, bring backs face recognition on Pixel 7 phones",
+      "excerpt": "The feature on the new Pixel 7 is not as good Apple Inc's Face ID unlocking mechanism, as it can struggle in low light and is more vulnerable to being spoofed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058.html",
+      "originalUrl": "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/10/07/1600x900/pixel_7_1665068876655_1665126882938_1665126882938.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html",
+      "publishedDateTime": "2022-10-07T00:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -265,7 +360,7 @@
       "originalUrl": "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -412,7 +507,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 238,
+      "heat": 228,
       "tags": null,
       "images": [
         {
@@ -918,7 +1013,7 @@
       "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 186,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1159,100 +1254,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-scalable-management-of-virtualized-ran-with-kubernetes.md",
-      "title": "Scalable management of virtualized RAN with Kubernetes",
-      "excerpt": "At Microsoft, we believe our Azure system and network management tools and expertise can be repurposed to manage and optimize telecommunication infrastructure as well. Here we describe some of the more interesting technologies that fit into the management of a cloud-based telecommunications infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/scalable-management-of-virtualized-ran-with-kubernetes/",
-      "originalUrl": "https://azure.microsoft.com/blog/scalable-management-of-virtualized-ran-with-kubernetes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/26d748db-cfba-4ce5-beec-1e409fd879fe.png",
-          "width": 1024,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T03:00:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-gatik-goes-driverless-in-canada.md",
-      "title": "Gatik goes driverless in Canada",
-      "excerpt": "Gatik on Wednesday announced that it is now running fully driverless vehicles in Toronto with longtime partner Loblaw Companies. Gatik’s multi-temperature box trucks are transporting online grocery orders for Loblaw’s PC Express service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle",
-      "originalUrl": "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/10/Gatik_LCL-Fully-Driverless-Press-Release-3.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp",
-      "publishedDateTime": "2022-10-05T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

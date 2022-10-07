@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T03:16:00Z
 originalUrl: "https://www.dexerto.com/entertainment/ai-art-vtubers-unclear-ethics-worry-artists-1952140/"
 webUrl: "https://www.dexerto.com/entertainment/ai-art-vtubers-unclear-ethics-worry-artists-1952140/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Dexerto.com

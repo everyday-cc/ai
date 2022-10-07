@@ -452,6 +452,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-01-study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-ms-patients.md",
+      "title": "Study helps understand how brain pathology influences the development of cognitive fatigue in MS patients",
+      "excerpt": "Their findings were reported in Frontiers in Neurology on July 04, 2022, in the open access article \"Associations of White Matter and Basal Ganglia Microstructure to Cognitive Fatigue Rate in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20221001/Study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-MS-patients.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20221001/Study-helps-understand-how-brain-pathology-influences-the-development-of-cognitive-fatigue-in-MS-patients.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-microsofts-latest-ai-tool-can-predict-missed-doctors-appointments.md",
       "title": "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments",
       "excerpt": "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U.",
@@ -774,10 +808,10 @@
     {
       "path": "_news/2022-09-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql.md",
       "title": "Arcion Announces Agentless Change Data Capture for Azure, SQL Server, Oracle, SAP HANA, and MySQL",
-      "excerpt": "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can now replicate data in real time,",
+      "excerpt": "Arcion, creator of the only cloud-native, CDC-based data replication platform, today announced agentless change data capture (CDC) for all of its supported databases and applications. Enterprises can",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-9-28-arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29051857/arcion-announces-agentless-change-data-capture-for-azure-sql-server-oracle-sap-hana-and-mysql",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -785,13 +819,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29051857",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29051857",
       "publishedDateTime": "2022-09-28T06:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1383,49 +1417,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto.md",
-      "title": "It is time to shun C, C++ languages for new projects: Microsoft Azure CTO",
-      "excerpt": "\"Rust\" is now being used within the Android Open Source Project (AOSP) at Meta, at Amazon Web Services (AWS) and Microsoft, reports ZDNet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "originalUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestatesman.com/wp-content/uploads/2022/09/0da9bd4f8fc06cb457a2a9b3d6a6f0cc.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "cdnAmpWebUrl": "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/technology/it-is-time-to-shun-c-c-languages-for-new-projects-microsoft-azure-cto-1503115247.html/amp",
-      "publishedDateTime": "2022-09-25T22:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Statesman",
-        "domain": "thestatesman.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

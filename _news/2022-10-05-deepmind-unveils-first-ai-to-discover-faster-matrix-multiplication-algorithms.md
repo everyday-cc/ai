@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-fas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
 quality: 105
-heat: 186
+heat: 197
 published: true
 
 provider:
@@ -151,6 +151,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
+    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
+    publishedDateTime: 2022-10-07T09:56:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
 
 secured: "cbc1nGEUPmm5CQ8QyJajrt8Rv7Saynpdn8LlY1ZyvPQCgxvote253qZhlDhqVFuwtUwvUNLP4bSlw7P94WwsVvq5MuAxpGefSUCrSGXbZvnyGRQBs8UpMZELKhMjsEH4pbJ5NATmV6uD7uG42GqQazepheDUtvi3eVjsGMMeZlSpYm7IFYgP+Y0F/0eEWE24peESfDzzHKdXSqsdNPWAZn3liTu/3GLOTjABcduI7WJR+u79hSEdw2WcQlFTIa+BetwL1Lbus6rpbXkXoLuLfnFr5N10CSjhq5G6MlH7haMKeYwSG5auzzF7VHxXHlcO8npCOsJ2BEWJz4GGROFQRy8gxmgoA7Tnh6Rkfkgs4wXqmeBIDxHegCTcOB+HP9/hbZbItX2jdeoST+dnuWJDxNDpiTBA+fGATTP9ogCE2yif2/EvEBIQh+1wW3JpA99u5j7gqWqGm8c8DIQftWqVS65bMGbp8rkbIFYhoK8I31+o7vd0IsRX2PwqakYcrWvIk/uRKbXQn3cw4f6peYJNtQ==;y0BilYTOV49sQqikLSn6eQ=="
 ---

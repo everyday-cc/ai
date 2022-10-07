@@ -2,6 +2,147 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-06-24-tesla-relaunches-6000-enhanced-autopilot-gutting-full-self-driving-package-in-the-process.md",
+      "title": "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process",
+      "excerpt": "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
+      "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
+      "publishedDateTime": "2022-06-24T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco.md",
+      "title": "GM Cruise takes first fares for paid driverless taxi in San Francisco",
+      "excerpt": "GM’s autonomous driving division, Cruise, has begun its paid driverless taxi service in San Francisco and officially took its first fares last night. Cruise’s program is still quite limited ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
+      "originalUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
+      "publishedDateTime": "2022-06-23T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
+      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
+      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
+      "publishedDateTime": "2022-06-23T12:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI Hardware",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
       "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
       "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
@@ -1222,127 +1363,6 @@
       "provider": {
         "name": "Road & Track",
         "domain": "roadandtrack.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-callminer-introduces-combined-workforce-intelligence-capabilities-to-elevate-agent-experience-and-drive-improved-customer-outcomes.md",
-      "title": "CallMiner Introduces Combined Workforce Intelligence Capabilities to Elevate Agent Experience and Drive Improved Customer Outcomes",
-      "excerpt": "CallMiner, the leading provider of conversation intelligence to drive business improvement, today announced new and expanded workforce intelligence capabilities to help organizations improve the performance and experience of contact center and customer service agents,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-las-vegas-waltham-608e450ab4b54cf9875aa6ea1408245f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
-      "title": "How Artificial Intelligence is revolutionising healthcare",
-      "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "publishedDateTime": "2022-06-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-could-low-latency-5g-boost-your-business.md",
-      "title": "Could low latency 5G boost your business?",
-      "excerpt": "Hypothetically, instant responses – those approaching the hallowed single millisecond mark, for example – would increase the effectiveness and dependability of driverless cars ... use cases – how 5G lifts artificial intelligence – 5G will unleash ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
-      "originalUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/low-latency.jpeg.optimal.jpeg",
-          "width": 1022,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Information Age",
-        "domain": "information-age.com",
         "images": null,
         "publishers": null,
         "authors": null

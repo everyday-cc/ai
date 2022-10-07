@@ -68,6 +68,15 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 19
+  - title: "How can AI help create better algorithms?"
+    excerpt: "AI is taking the world by storm and is here to stay. Explore how AI can help create better algorithms in Math in this post."
+    publishedDateTime: 2022-10-07T11:08:00Z
+    webUrl: "https://www.techthirsty.com/how-can-ai-help-create-better-algorithms/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
 
 secured: "doDXWpOwTADxjHz6z/EhkUvczFesNkTH6vhy3DwGY4pjdU39Qd/aUubizL/kMrb6NaDONHw6NR1RZKkfn9lmb7avegRaGRSmevQaW52COK5ujkMSQjzBYrOYIyGTX9v233UZ0Qc/UIfap2HmlzCwKW24NVct1xjL6XmzvlMWnZn+g1KHZaZAvDnQ8/ucIewD3uRJxbwAJecgTSiT3vpdHf2tzjVWEABykrh9+DQ+x8XCzBmCS4/5rJidiCk8g8XJ6+hfHkoJbIZnud3KFw9yrJByFqXj0kVb4AGNZ2DqetDook3MmQO+c9graT1FBzVyiXyhOf2h4NWPe0I7FAwZIzueY1q+BO5iMOf8Mtj7NGUGQMCqtYHZewTK6Maw9/Amsb6DRiuRt2oxf7hWKk9641xXauDj6uQ0SYDNX6hT0SxT/e1S/AvN3/8qxHvAD0EMQG7xZ2Gwyrchg+M7SnLtOQ31C/ceaHZeLGMhhkJYRMLHQ6TBxj+WsmrozVeZ4Eecp55rm6QaxGd0y56Tj/KCZA==;7LT3DumCW2z4zU1fjFi9Tw=="
 ---

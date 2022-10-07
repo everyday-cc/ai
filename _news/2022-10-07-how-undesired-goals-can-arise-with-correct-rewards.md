@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards"
 webUrl: "https://www.deepmind.com/blog/how-undesired-goals-can-arise-with-correct-rewards"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

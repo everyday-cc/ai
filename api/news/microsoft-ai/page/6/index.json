@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-28-sticker-makes-police-aware-of-those-with-cognitive-disabilities.md",
+      "title": "Sticker makes police AWARE of those with cognitive disabilities",
+      "excerpt": "Families may help police and protect their loved ones with cognitive disabilities just by placing a sticker on their front door. The AWARE stickers alert police, firefighters, and medics that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.goshennews.com/indiana/news/sticker-makes-police-aware-of-those-with-cognitive-disabilities/article_c0625cad-48e1-5f0d-a762-ebe41060c600.html",
+      "originalUrl": "https://www.goshennews.com/indiana/news/sticker-makes-police-aware-of-those-with-cognitive-disabilities/article_c0625cad-48e1-5f0d-a762-ebe41060c600.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/goshennews.com/content/tncms/assets/v3/editorial/0/ee/0ee27cdd-003e-5b66-bcf8-7d2345a7d5a7/63097b12bb12a.image.jpg",
+          "width": 268,
+          "height": 227,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-28T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Goshen News",
+        "domain": "goshennews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-will-over-the-counter-hearing-aids-help-with-cognitive-impairment.md",
       "title": "Will over-the-counter hearing aids help with cognitive impairment?",
       "excerpt": "Many studies show people with hearing loss are more likely to develop cognitive problems than people ... loss will still need the professional services of audiologists and hearing aid specialists.",
@@ -1268,40 +1311,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-feeling-burnt-out-scientists-now-know-whats-going-on-inside-your-brain-when-this-happens.md",
-      "title": "Feeling burnt out? Scientists now know what's going on inside your brain when this happens",
-      "excerpt": "Feeling burned out, mentally exhausted, or brain-fried are all colloquial ways of talking about what neurologists formally refer to as \"cognitive fatigue.\" It's a common feeling that nearly all of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
-      "originalUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salon",
-        "domain": "salon.com",
         "images": null,
         "publishers": null,
         "authors": null

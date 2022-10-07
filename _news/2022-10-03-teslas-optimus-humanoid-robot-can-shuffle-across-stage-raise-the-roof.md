@@ -96,20 +96,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Musk Unveils Tesla's Prototype of Humanoid Robot 'Optimus'"
-    excerpt: "Elon Musk has showed off a new humanoid, part of the Tesla Inc. chief executive's effort to shape public perception of the company as more than an electric-vehicle maker."
-    publishedDateTime: 2022-10-02T21:52:00Z
-    webUrl: "https://www.bangkokpost.com/business/2405606/musk-unveils-teslas-prototype-of-humanoid-robot-optimus"
-    type: article
-    provider:
-      name: Bangkok Post
-      domain: bangkokpost.com
-    quality: 56
-    images:
-      - url: "https://static.bangkokpost.com/media/content/dcx/2022/10/03/4471241_700.jpg"
-        width: 700
-        height: 414
-        isCached: true
   - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
     excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
     publishedDateTime: 2022-10-04T12:30:00Z

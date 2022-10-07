@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T13:47:00Z
 originalUrl: "https://medicalxpress.com/news/2022-10-bioethicist-explores-ethics-eyeball-algorithms.html"
 webUrl: "https://medicalxpress.com/news/2022-10-bioethicist-explores-ethics-eyeball-algorithms.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Medical Xpress

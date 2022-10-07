@@ -430,6 +430,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-27-ponyai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi.md",
+      "title": "Pony.ai and SAIC AI Lab to Develop Fully Driverless EV Robotaxi",
+      "excerpt": "Together with SAIC AI Lab, Pony.ai launched a concept vehicle based on the SAIC Marvel R model and will build out a fleet of autonomous vehicles equipped with Pony.ai’s L4-level driverless ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
+      "originalUrl": "https://www.eagletribune.com/region/pony-ai-and-saic-ai-lab-to-develop-fully-driverless-ev-robotaxi/article_287edbe7-cd51-5d04-9411-799343ed1abf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-new-standards-set-for-artificial-intelligence-in-marketing-market-grow-at-1904-cagr-101-report-pages.md",
       "title": "New standards set for Artificial Intelligence in Marketing Market grow at 19.04% CAGR| 101 Report Pages",
       "excerpt": "Sep 27, 2022 (The Expresswire) -- The global Artificial Intelligence in Marketing market size is expected to expand at a CAGR of 19.04% during the forecast period, reaching USD 103560.95 million ...",
@@ -623,6 +657,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
+      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
+      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "originalUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wjhl.com/wp-content/uploads/sites/98/2022/09/volkswagen-group-gen-travel-concept_100856314_m.jpg?w=1280",
+          "width": 640,
+          "height": 440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/amp/",
+      "cdnAmpWebUrl": "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/amp/",
+      "publishedDateTime": "2022-09-23T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WJHL-TV",
+        "domain": "wjhl.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
       "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
       "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
@@ -758,6 +835,40 @@
       "provider": {
         "name": "Just Auto",
         "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-23-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
+      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
+      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
+      "sourceUrl": null,
+      "webUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "originalUrl": "https://wgntv.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGN-TV",
+        "domain": "wgntv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1266,156 +1377,6 @@
         "AI",
         "AWS AI",
         "Machine Learning",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-the-unexpected-truth-about-self-driving-cars-according-to-general-motors.md",
-      "title": "The Unexpected Truth About Self-Driving Cars According To General Motors",
-      "excerpt": "The future is self-driving, or so say evangelists that are betting big on a future where AI-powered machines — including vehicles — will perform intended tasks on their own. Self-driving cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/",
-      "originalUrl": "https://www.slashgear.com/1018226/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/the-unexpected-truth-about-self-driving-cars-according-to-general-motors/l-intro-1663772176.jpg",
-          "width": 1600,
-          "height": 897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T08:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027",
-      "excerpt": "According to a new market research report \"Automotive Artificial Intelligence (AI) Market by Component (Hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-elon-musks-tesla-to-unveil-humanoid-robot-next-week.md",
-      "title": "Elon Musk’s Tesla to unveil humanoid robot next week",
-      "excerpt": "Tesla is preparing to unveil a humanoid robot. Really. Plans are underway to launch a prototype of the mannequin-shaped droid — known as Tesla Bot or Optimus — at it’s ‘AI Day’ on 30 September, Reuters reports.",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "originalUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/09/HK3GFOZNRJJNHFHO4TNPIOP7WM-ed19.jpeg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/09/21/elon-musks-tesla-to-unveil-humanoid-robot-next-week-17419356/amp/",
-      "publishedDateTime": "2022-09-21T00:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
         "AI in Autos"
       ]
     }

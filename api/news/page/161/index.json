@@ -2,6 +2,325 @@
   "page": 161,
   "value": [
     {
+      "path": "_news/2022-06-02-microsoft-is-building-an-arm-powered-windows-mini.md",
+      "title": "Microsoft is building an ARM-powered Windows mini",
+      "excerpt": "Microsoft surprised the world — and its hardware partners — by releasing its first laptop: The Surface Book. It was a flop. But, unlike some Microsoft hardware experiments I could mention — the Surface tablet,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
+      "originalUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/24/16/build_blog_project_volterra-100928374-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3662313/microsoft-is-building-an-arm-powered-windows-mini.amp.html",
+      "publishedDateTime": "2022-06-02T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028.md",
+      "title": "Facial Recognition Market Growth Analysis 2022 with CAGR of 17% By Developments and Trends to 2028",
+      "excerpt": "Facial Recognition market size will Expected to Reach at a CAGR of 17% in terms of revenue to reach a value of USD 13 billion by 2028. This Facial Recognition Market Research Digital solutions for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
+      "originalUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-growth-analysis-2022-with-cagr-of-17-by-developments-and-trends-to-2028",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/711433c4010329ecbb3a7b222727a1cdd7c76bb7-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T22:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.md",
+      "title": "Leveraging the power of AI and machine learning for more resilient data centers",
+      "excerpt": "The ability for IT department to predict disruptions and unplanned downtime can potentially minimize impact to the business, especially in today’s e..",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-91953454,imgsize-29370,width-1200,height-628,overlay-etcio/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/data-center/leveraging-the-power-of-ai-and-machine-learning-for-more-resilient-data-centers/91953454",
+      "publishedDateTime": "2022-06-01T20:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.md",
+      "title": "Self-driving car companies' first step to making money isn't robotaxis",
+      "excerpt": "For now, the money for self-driving tech is in software sales. Investment analysts from Goldman Sachs and Nomura point to opportunities in auto software itself, from in-car entertainment to self ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "originalUrl": "https://www.cnbc.com/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107068866-1653982556326-gettyimages-1322451139-vcg111333371752.jpeg?v=1653982672",
+          "width": 594,
+          "height": 396,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/02/self-driving-car-companies-first-step-to-making-money-isnt-robotaxis.html",
+      "publishedDateTime": "2022-06-01T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-c3ai-shares-swoon-as-guidance-disappoints.md",
+      "title": "C3.ai Shares Swoon As Guidance Disappoints",
+      "excerpt": "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "originalUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.barrons.com/im-449799/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "publishedDateTime": "2022-06-01T17:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco.md",
+      "title": "Cruise can finally charge for driverless robotaxi rides in San Francisco",
+      "excerpt": "Cruise, the autonomous vehicle unit of General Motors, has finally been given the green light to start charging fares for its driverless robotaxi service in San Francisco. The California Public ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-03-at-10.25.00-am.png",
+          "width": 723,
+          "height": 404,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
+      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-ethical-artificial-intelligence-potential-standards-for-medical-device-manufacturers.md",
+      "title": "Ethical Artificial Intelligence: Potential Standards for Medical Device Manufacturers",
+      "excerpt": "While artificial intelligence (AI) has the potential to revolutionize a number of industries, the technology isn’t without its controversies. Over the past few years, researchers and developers have raised concerns around the potential impacts of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
+      "originalUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/artificial-intelligence-3382507_640-3_web.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-microsoft-leverages-fpgas-for-real-time-ai.md",
       "title": "Microsoft Leverages FPGAs for Real-Time AI",
       "excerpt": "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ...",
@@ -803,335 +1122,6 @@
         "AWS AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
-      "title": "Finish Robotics Brings Robotic Painting To Life",
-      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
-          "width": 526,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
-      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
-      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
-      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
-      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "publishedDateTime": "2022-06-01T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
-      "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
-      "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6293e3735e5e40627fd631af/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-01T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow defaults to Intel oneDNN AI optimizations",
-      "excerpt": "Following Google and Intel's partnership, the open-source TensorFlow has announced that their machine learning library is being updated.",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/TensorFlow-defaults-to-Intel-oneDNN-AI-optimizations-1024x585.png",
-          "width": 1024,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-06-01T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-rendered-ai-streamlines-synthetic-data-for-gis-digital-twins.md",
-      "title": "Rendered AI streamlines synthetic data for GIS digital twins",
-      "excerpt": "Satellite imagery promises to play an essential role in creating digital twins that could help model carbon emissions, increase farming yields and monitor the oceans.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
-      "originalUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337105696.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 927,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
-      "publishedDateTime": "2022-06-01T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
-      "title": "AI and natural language processing are here to change the IELTS prep game!",
-      "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
-      "originalUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/6/1/w600X390/DELSEP2021430_06062246.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
-      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
-      "publishedDateTime": "2022-06-01T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "edexlive",
-        "domain": "edexlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

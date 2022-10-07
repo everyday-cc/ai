@@ -3,18 +3,25 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WXII 12 NEWS
-  domain: wxii12.com
+  name: WDSU
+  domain: wdsu.com
 
 topics:
-  - AI Ethics
   - AI
 
-secured: "DQ8fQu8JgRUl51+0aS5hePea6FUQVacoKFejniBYPRUaImXckO0nOqdLvHDFWkDEmK8lAjVRlABjfXUWEt1VUpWW+3VL7Mo5hKB/xNKHohZtTH5wgb9JqTQUS1xih5Wqt99r1wyieKCV9/ZJpKBiYwKSVl36GN8TGqbyMZFhzUIXgSbOGInThGzSDZX3ZqUTD9Sio8DaTNzMQFVT23UBSeZG5x9FclB8JSbCzu5z+jW/mgFsgXXOW93WvVZ+n6FwHIb6223xn7XPqPNviieT4hufB5WEAYI3gInHTYl6negA4WQalU6WqEOy3+XGHoybT55DFdzkiyUFKfQSP8XR3cvNjLI8lM5wWR3Mo92IbT28kF85SYH9VWxp8ApLB5+RAu7Tmxpe5yA7xOuL5DRFmdoVVLGs/SwzG2u0xZX/aHdMISukQjyiPO/yJFuind+9jAmnoAu6RdYcrHJ/B0nViUr241caYsPiNqWAaKJqllJCBLgti9BFF01fgfzpiU1Gao3eo2SUZRh/r5OByOZxmw==;qbIygm7sx8xrlIdq8/TC/w=="
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "KmeiXRZouieMsIO97S2SPrwebxpJiynsN4oRLiDnmzlR8aMwVUAhI5+4ESo+5K1s3QZAsa1EMHBEeFk1TpR0VETYsIQtVl1Pmp+LePrU6EIyJbaZbVu5yHfnL3aWvjSG5YQz5sJOu+6FvuKIm68JkWXEmeuzkYIYYvQ0s6zmxkNt/hoXqtMgInVWFtwGQxNApUTQO8HOeNWC0/YwgfLolc7E0aXozNAP2NQXCSVhF7Ih6ND3wABWFpa4LkWQn0KSrL05AHK/WFqGdCPvm9XjIS+Y5/X00OC9OXMAq1hjuAW4UaXiFfhhJ4/+g20e3gj+z4BovxYCuK6cCrPHpBFx7Tl1bSl4W/hWxpS2Uiq3vkk=;rJXOmu9qyuyi5gpXsO9kWg=="
 ---
 

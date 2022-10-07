@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
         width: 690
         height: 390
+        isCached: true
+  - title: "12 Best Fintech Stocks to Buy After The Selloff"
+    excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
+    publishedDateTime: 2022-10-07T14:27:00Z
+    webUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/"
+    ampWebUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
+    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 44
+    images:
+      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2022/02/06120506/man-791049_1280.jpg?auto=format&expires=1696636800&w=400&h=225&fit=crop"
+        width: 400
+        height: 225
         isCached: true
   - title: "Gates Hub participates in the largest fintech event in Dubai"
     excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai, FinTech Surge 2022 from 10 to 13 October 2022 at Dubai World Centre."
