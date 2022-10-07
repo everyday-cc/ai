@@ -15,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "zIMeWO5o1xImESra4rEYFfhyDSo0X+l3Xtr4WpNg5wPBnx4T2WzeRQBRPFdL5IvfF2t9/+PouX8Qoyd31pNueTT0Kv4BsBswXDmdryU815SSJ0LgvgnMsEiVKwAh5/7b82cw/PUV3LKx3jiHBY0zKk86lZIETCkD+NbS+wcRlmM4/pK7sRNx9j2Mk2mU9wvg+WKJ+tiqCAeg7w3W4ctaChjoLb28gZVKdaIqARKFqNPt79cdpFQ5QnXOY7FALAu6GqgZ3nfnAt437GAjYqmk/uvI/RKqgDyWwdj77m82i7od4tImNrpL8PRUh/+9IccXJx9ZSRLbRgwbuRe4aEu3a4Q6w4tQwaMKQ+mRd54cKzo=;JEJASOehGcHLX+UOq4J1Sg=="
+secured: "e4SGxZz2UULUioeiG7tcCTZ14hNNZPNCd3mQZg/K7TAPNCYCxjB/umm9jmafjHdivmCV4d46D0HJeN39MVGeZq48Hx1EGNLnyl7E3vTxYfG7+W29f2XFv99xn7b8MjcEQf3EbcuBKka9PrgWXB9VpPQ2o3pmOutfRquFp20P+PU5c7Br4VuOXOvVqU6S0x5KfYlSf5gSdiiZS/AXnCoIuCUaquoRu2iQQdRPZQmCdo6LMwKyNI2XkID+UhlUn/JDLY+Tbq6D8TT6O4oAoALk5yHua0DhrF3qA5F1pcOB7bCkFpl4rrmqYjIFV9D2O8by4sP5Eoditd/DwuhytRqJ9u6pM+Z4I/DqQ7f+Apq/QTM=;nsr2yOoEnr9ragMxIwHiAg=="
 ---
 
