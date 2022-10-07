@@ -1,99 +1,47 @@
 ---
 category: news
 title: "MPs call for 'national pause' on use of facial recognition, particularly by police"
-excerpt: "The House of Commons ethics committee is calling for the federal government to put in place restrictions and laws on the use of facial recognition technology, including a moratorium on its unchecked use by police."
-publishedDateTime: 2022-10-04T20:36:00Z
-originalUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed"
-webUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed"
-ampWebUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
-cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
+excerpt: "Canada’s current legislation doesn’t adequately regulate facial recognition or artificial intelligence technologies, a report said The House of Commons ethics committee is calling for the ..."
+publishedDateTime: 2022-10-05T01:47:00Z
+originalUrl: "https://nationalpost.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police"
+webUrl: "https://nationalpost.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police"
+ampWebUrl: "https://nationalpost.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/49a5e993-a42d-4dfd-b4bd-01ebde95e724/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/49a5e993-a42d-4dfd-b4bd-01ebde95e724/amp/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
-  name: Calgary Herald
-  domain: calgaryherald.com
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/10/facialrecognition.jpg"
+  - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/10/facialrecognition.jpg"
     width: 1000
     height: 750
     isCached: true
 
 related:
-  - title: "Bunnings denies use of facial recognition technology in New Zealand stores"
-    excerpt: "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation."
-    publishedDateTime: 2022-10-05T03:43:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+  - title: "Canadian lawmakers recommend moratorium, regulations for facial recognition use"
+    excerpt: "Recommendations also include establishment of a regulatory framework specifically for facial recognition, and additional legislation and oversight mechanisms."
+    publishedDateTime: 2022-10-05T22:00:00Z
+    webUrl: "https://www.biometricupdate.com/202210/canadian-lawmakers-recommend-moratorium-regulations-for-facial-recognition-use"
     type: article
     provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 57
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
     images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg"
-        width: 768
-        height: 438
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
-  - title: "Facial Recognition Technology Victimizes People of Color. It Must Be Regulated."
-    excerpt: "More than a dozen states have enacted laws regulating how law enforcement uses it. But federal legislation is needed: A piecemeal approach doesn't keep all citizens safe from misidentification."
-    publishedDateTime: 2022-10-05T05:42:00Z
-    webUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated"
-    ampWebUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
-    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
-    type: article
-    provider:
-      name: Governing
-      domain: governing.com
-    quality: 55
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/1acc636/2147483647/strip/true/crop/840x438+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fb3%2F33bdfb4c4c1f8669693260e57c8e%2Flieu-facial-recognition.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Hardware store denies use of facial recognition technology in NZ stores"
-    excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
-    publishedDateTime: 2022-10-05T03:36:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/476129/hardware-store-denies-use-of-facial-recognition-technology-in-nz-stores"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--onYpfEJG--/c_fill,f_jpg,g_face,h_630,q_80,w_1200/4NUU5BG_image_crop_57466"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Investors raise human rights concerns over facial recognition technology"
-    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
-    publishedDateTime: 2022-10-05T11:44:00Z
-    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
-    type: article
-    provider:
-      name: Investment Week
-      domain: investmentweek.co.uk
-    quality: 33
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 33
 
-secured: "vR8Anz6uSEu8OkfV2kmSFIoNXO5qPEHdZ36Pf/GWDHjevuGOCCN53QjKGDgpG1hARE0wCAGl5CLkerG5+5XLOXuPIg0lQ4I9juZ8mR/jujItylmhl///hIXB4zAs99zFN1W8Fv1/33bciWbzg04VwI3nJf9Xd5zBg/ZiV3mNTcnroQjM9uizU6dmq2lIZbJJgSdG3ukypvCjiWualBasxfTAw5z7+zass/SQQVpm1agVNqYHb2R5Ruln63Un2idvLElFn3frMYRk9FsQyh90MaDSIrlpcqQlg4iB8wUeMHH5ZK10glDKBUpkMYWUWhE2C9CZH+9c/F1nAfjapt+ISBZzZ0j2TSby7f5VXVbPXNHDkkkrFfueyaVtocGwfvjDe48tEXdqHKmq5xgYE0sZmjH2AXat69m+SoEH6ZvMUJKikpI5JbYpxelSvb5bmJmz9m2eKvwEVb3LG02kTBPmLUKVttcrRzkqFpEYQvJkU1hgGvSOBHINJ6k3UV+ua0GYPjixYBcTJDYQja0LsIVdIw==;WwQgo0bQvnc4IDx+x0pBeg=="
+secured: "H3bkExAMNo8y20klGd855YaDYP3dfcPZBUUgBohGVGBy7GxLafpt0EbKST4NGYU9naiexvS2mE8DxgU71S+8FoMNBskAzX8tC8hOJDWSh+CTTNgPGHStwV6UjgrCZLGejnZuV6CvX+7ekAGHwPuqyRnNXs2YHp8g528ckByHg3aResqSvbRpWOnzfs62i9JvGkNA/7o14ff9rh049Ed4+p3Fj5Z2zXAno0xGljZ562PEz4dTPxsMBrL8H2WgoyM7MCC6O37w437UoxOib6QSIXlOCKWz8yMWvOqpY22a1kUUNuNdLEF4hAG0fk0Oh9sz0OuwG9FN9DD0BzYia29n6AlcNWoxhXMgf/ZvB//WLDQ=;GtJTlQmc9OBj+/7N7jVfkQ=="
 ---
 

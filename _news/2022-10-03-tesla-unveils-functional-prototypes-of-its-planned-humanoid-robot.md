@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
 webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
 type: article
 quality: 88
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-03T13:43:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22484464/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Tesla_Elon_Musk_Speaking_AP.633ae6db7650d.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C6%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
         isCached: true
 
 secured: "Etg0cFqcjvKxk9c9FpyQ2+jduMxw2m+Hpo7O8s/rX+MxxhawsnTOH6YwRxutTmuU3vaKuFiOKNAmOcDW9dSITXpgC5SR635vDFOvxebWQq1cOJri6r218AZEplas4qmC6rL7/pT6/E9RXmDUy1jv/v+lSgna5OpayJ7VXMlM66bAsQyrPNqcN4n/m4IYHl5D03m1C2DxQTZnagMnXVn41A/JvmNZVBvASHb09qKk6upwROMQCKmRyTueTYa4ZNovP8LJKqkxKLLUrg4AtHZzRpqlXZHDL9TtBuKxayEvQ/tVyBttcCn4sAiBZAn63FgAgomqe0ZuwogAAEHSPzhTkQzz65nsDxkjsxGd2jeY1bv9h2IIboM6Q/AYRTZTTeuLcXak/rv1BiUtOXzrjE/EEQnfFVxP3J5a2DEep27T/Oq9JzqMKfUXxr9QpMcUT45kI0Rme4sTz3hO/83KhCenCS1FtOwBeSIcsDyJ6WxSVSPB/KN3xANXWEydBAplMu4hop4Sq3EsAQURkWTPg20YHQ==;iDLZgalrJ0GgmkXq5a/msg=="

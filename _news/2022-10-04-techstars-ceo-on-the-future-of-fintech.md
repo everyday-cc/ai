@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 164
+heat: 174
 published: true
 
 provider:
@@ -144,6 +144,15 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 19
+  - title: "Japan’s FamilyMart branches out into fintech with instant credit"
+    excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
+    publishedDateTime: 2022-10-07T06:03:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/07/japans-familymart-branches-out-into-fintech-with-instant-credit/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
   - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
     excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
     publishedDateTime: 2022-10-04T11:00:00Z

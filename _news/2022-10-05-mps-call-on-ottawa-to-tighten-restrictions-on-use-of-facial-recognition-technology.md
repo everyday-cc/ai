@@ -53,22 +53,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "MPs call for 'national pause' on use of facial recognition, particularly by police"
-    excerpt: "The House of Commons ethics committee is calling for the federal government to put in place restrictions and laws on the use of facial recognition technology, including a moratorium on its unchecked use by police."
-    publishedDateTime: 2022-10-04T20:36:00Z
-    webUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed"
-    ampWebUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
-    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 53
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/10/facialrecognition.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Hardware store denies use of facial recognition technology in NZ stores"
     excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
     publishedDateTime: 2022-10-05T03:36:00Z

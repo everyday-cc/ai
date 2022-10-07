@@ -148,6 +148,15 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 19
+  - title: "Japan’s FamilyMart branches out into fintech with instant credit"
+    excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
+    publishedDateTime: 2022-10-07T06:03:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/07/japans-familymart-branches-out-into-fintech-with-instant-credit/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
 
 secured: "HZO0Hw6TWWzL5VRa6pP2mNCqC4mwCro0BE4jPchpcB4zMCJJXJneAwPCXvWZjR5jtji3iPxWZMe2c0kqstM/EEH7YVdkRo6Q+RDpGb0n3Ggj06Jw1Hg4s1sKj8QQhQOcAddTBW2Z+9MddieB+NEKR5zloCH99em/c8cHnHyrCyUo0q/ufPA0+4FVPd/gvWmQf9O6L9xAdSMIP3qayi83OIeXeD4upaS0jaYhswA5HoTBku/UbNnQt1y14/K2kXH6cEpewYfpwXCw8Sxjbmot1ln559jfUir9fDQD9jYfo4SGOXqofZptP6c6xD7mrX+5W4VF1IvoWglMFGp9R6Go/5NYgJNmhSBGiZ0GTdqNksQ=;JHltsPm34H6yxR/o2Eve1w=="
 ---

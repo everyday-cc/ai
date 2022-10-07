@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/google-takes-new-route
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/amp_articleshow/94693469.cms"
 type: article
 quality: 59
-heat: 59
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Google takes Apple path, bring backs face recognition on Pixel 7 phones"
+    excerpt: "The feature on the new Pixel 7 is not as good Apple Inc's Face ID unlocking mechanism, as it can struggle in low light and is more vulnerable to being spoofed."
+    publishedDateTime: 2022-10-07T07:27:00Z
+    webUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/10/07/1600x900/pixel_7_1665068876655_1665126882938_1665126882938.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "JxwBJBSmXOlTDjxSK/RLwYx17SWvZ+1AU/VZ/8mKq8iNw6Mi0XkkuNx03E9hLgpquEGdoOaIp24b9ujwfOswj6fpX6NmJqvCfRzdXPywJroqnBcjI/0H5WfPdkEUNcthW+jZe3xou9rZbokzqgVYkJHs10bPnHn9TbV/rJewZZgS1+I4YtE0ugYH8eNuS06q76ANnCyrfBk6liGny/EBW7mRszpm8Fb2Q//niaoT7JbNeMTirD8z2KYxi4l2YrwvWcX/xhG91a5K+uybhMQLUa6hTTtEhfHM9q+OA93saRfbbtWW7rbZtdk3mPuMrWlJLAbWiS7lCwrs5mylJGGIpjJiaRtrIwjlRMzOiRhKYscEWgCteQ6YYZuNcLD6ooFk3LtwmPs9uZHDSUNo5FrW5jEDx+roWlKUbHQlbJUoDD/mYXmImrQQV8nbiYDe5ibguLGz/H+orVyjnfjrEKoRtY57EQFkiGQknfzgFrLZQzBDvy5m9Gq1utPJqcpWc+LwA6hTFX93TkJaWp1pcxRHkg==;NUm2o5asJPYQaBA2a+e1zQ=="
 ---

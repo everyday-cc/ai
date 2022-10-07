@@ -36,22 +36,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla AI Day: An Investor’s Perspective"
-    excerpt: "Musk reiterated many times how the public owns Tesla and that he can’t simply do whatever he wants, he could be fired, and the shareholding public always has a voice. Tesla has been in the financial news for a variety of reasons over the last few months."
-    publishedDateTime: 2022-10-02T15:00:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/02/tesla-ai-day-an-investors-perspective/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 106
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6339a7450cb711b0e978b20d/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
     excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
     publishedDateTime: 2022-10-02T23:22:00Z
@@ -157,15 +141,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 55
-  - title: "Elon Musk Reveals Prototype Humanoid Tesla Robot at AI Day"
-    excerpt: "The Tesla robot walks and waves, though CEO Elon Musk claims it has more advanced functions. Those weren't shown on stage."
-    publishedDateTime: 2022-10-02T13:51:00Z
-    webUrl: "https://www.thedrive.com/news/elon-musk-reveals-prototype-humanoid-tesla-robot-at-ai-day"
-    type: article
-    provider:
-      name: The Drive
-      domain: thedrive.com
-    quality: 53
   - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
     excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
     publishedDateTime: 2022-10-03T18:29:00Z

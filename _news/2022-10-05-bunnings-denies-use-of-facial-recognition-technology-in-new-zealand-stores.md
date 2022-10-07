@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-u
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
 type: article
 quality: 57
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/1acc636/2147483647/strip/true/crop/840x438+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fb3%2F33bdfb4c4c1f8669693260e57c8e%2Flieu-facial-recognition.jpg"
         width: 840
         height: 438
-        isCached: true
-  - title: "MPs call for 'national pause' on use of facial recognition, particularly by police"
-    excerpt: "The House of Commons ethics committee is calling for the federal government to put in place restrictions and laws on the use of facial recognition technology, including a moratorium on its unchecked use by police."
-    publishedDateTime: 2022-10-04T20:36:00Z
-    webUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed"
-    ampWebUrl: "https://calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
-    cdnAmpWebUrl: "https://calgaryherald-com.cdn.ampproject.org/c/s/calgaryherald.com/news/politics/mps-call-for-national-pause-on-use-of-facial-recognition-particularly-by-police/wcm/e1fb3e16-68a3-4620-88ca-dd9cc5dd38ed/amp/"
-    type: article
-    provider:
-      name: Calgary Herald
-      domain: calgaryherald.com
-    quality: 53
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/calgaryherald/wp-content/uploads/2022/10/facialrecognition.jpg"
-        width: 1000
-        height: 750
         isCached: true
   - title: "Hardware store denies use of facial recognition technology in NZ stores"
     excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
