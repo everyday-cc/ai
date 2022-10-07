@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-u
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
 type: article
 quality: 57
-heat: 97
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Hardware store denies use of facial recognition technology in NZ stores"
-    excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
-    publishedDateTime: 2022-10-05T03:36:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/476129/hardware-store-denies-use-of-facial-recognition-technology-in-nz-stores"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--onYpfEJG--/c_fill,f_jpg,g_face,h_630,q_80,w_1200/4NUU5BG_image_crop_57466"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Investors raise human rights concerns over facial recognition technology"
     excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
     publishedDateTime: 2022-10-05T11:44:00Z
@@ -65,17 +51,6 @@ related:
     provider:
       name: Investment Week
       domain: investmentweek.co.uk
-    quality: 33
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
     quality: 33
 
 secured: "bd+E54mDaOmEL1YyxGMZDseqEBxAMB4YReV9lEBc1j+3HoWQyUBVO70Ybhs8q9+K8NbxIGpBo6yEgH6Ift9lhd9s3fwdBsC0A9+h3B0yyAr30kYdlu+4AiKRqwmHITaGQ21KXX9YKsmVF8L1sOAieftjhTYJI1aaCD4UKa49NihTTuXGP8yd9Zn5Jc7azU1yNQZ37PVvZ44QKL3gwbSIL6lRNDxVb3ubnrGyj9vNrCpfSUhXj6Gr7fjBXUQiYv8QbEd0i0iaXzL11eaw/OImwXXxm0clGz0xxL46/QVJ1/aDDU4fxyUZPzc9v6lKI5WuvEURotPE9uJ27K1KwgpFHf/3r1vzYsvnOtSyd08gbjUV2gznC3bGvGeumms+jXlnpvt5I+NhJ0twGqS4rmkPXY+marj8rehUxELgtA95AjuWaz8jtueAMPRrFvU2+XqzRux2UzufUtco79ITlU1dFojskvkba+l8JH5D8BDeVm8RHpLfm3gxy1/7LsooQ2+A3NFnVWPeAKQdH/Stre7W/A==;G1wykiD9BBrOYL2tNnrfmg=="

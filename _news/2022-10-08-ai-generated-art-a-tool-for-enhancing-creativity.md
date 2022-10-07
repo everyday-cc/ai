@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creati
 ampWebUrl: "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:

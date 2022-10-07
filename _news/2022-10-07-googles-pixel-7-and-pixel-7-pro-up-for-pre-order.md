@@ -34,6 +34,20 @@ related:
       name: CNET
       domain: cnet.com
     quality: 29
+  - title: "Lilbits: Google’s Tensor G2 chip revealed (powers the Pixel 7, Pixel 7 Pro, and Pixel Tablet)"
+    excerpt: "Google debuted its first-gen Tensor processor with the Google Pixel 6 and Pixel 6 Pro last year. While the chip didn’t have the fastest CPU or graphics around, it was able to offer decent all-around performance for flagship phones with reasonably affordable price tags."
+    publishedDateTime: 2022-10-07T21:00:00Z
+    webUrl: "https://liliputing.com/lilbits-googles-tensor-g2-chip-revealed-powers-the-pixel-7-pixel-7-pro-and-pixel-tablet/"
+    type: article
+    provider:
+      name: Liliputing
+      domain: liliputing.com
+    quality: 28
+    images:
+      - url: "https://liliputing.com/wp-content/uploads/2022/10/tensor.jpg"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "J1Jb08qOSWr94UFSBk6RCg3D+GygYTcq18FuFDg1OS07g7t3lAhccKBihSgcN5laTefSNMR4vdWzfZMMHOMSzqODBqaMGn1zFGRFKupgcrogKGXdoTjod3GFXb+yzBD4Uw17YUmu5ZoxTXCzTkzUfPQ1X0IT7KAmPC+Thep38Gm03yk3zCoDFMdGPJ+6NRq/ru+1807TEwp7MNSDiYV8VTQ0adWEOh5T1FLb02oKKKjg41XjQWgJpfsrvnMQmmZ4HB891+xs3mbHt/QeF5P8Tz5Ky/LfASKYuL9mUcfh/lgxRMuVgJviqOFP8mfr2QJ0FYM1Sylvili1LbnYKdYIE1b9Q8WQeD8A2I9zRI9079o=;ZaM68SpYwAzaZa/R4qOEbg=="
 ---

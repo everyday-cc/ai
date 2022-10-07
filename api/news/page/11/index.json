@@ -2,6 +2,110 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-26-closing-the-gap-between-marketing-and-ai-systems.md",
+      "title": "Closing The Gap Between Marketing And AI Systems",
+      "excerpt": "Today, thanks to AI, even a small business can achieve great success through a global audience, democratizing this opportunity for those willing to work for it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6287969035c5da55f8c60506/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/26/closing-the-gap-between-marketing-and-ai-systems/amp/",
+      "publishedDateTime": "2022-09-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-how-ai-can-help-protect-us-from-future-wildfires.md",
+      "title": "How AI Can Help Protect Us From Future Wildfires",
+      "excerpt": "Researchers at Stanford University recently developed an AI model for predicting dangerous particle pollution to help track the American West’s rapidly worsening wildfire smoke.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
+      "originalUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331819d020d0c1a157d2c27/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiehailstone/2022/09/26/how-ai-can-help-protect-us-from-future-wildfires/amp/",
+      "publishedDateTime": "2022-09-26T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-is-artificial-intelligence-the-pill-that-health-care-needs.md",
       "title": "Is artificial intelligence the pill that health care needs?",
       "excerpt": "At a Toronto hospital, AI is being used to predict staffing needs in emergency departments. And it can help determine likelihood of a patient dying.",
@@ -214,6 +318,40 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
+      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
+      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-25T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -781,6 +919,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
+      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
+      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "originalUrl": "https://fox4kc.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-23T22:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WDAF-TV",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-spiros-margaris-and-carl-hedge-fund-platform-partner-to-bring-all-accredited-investors-a-better-hedge-fund-experience.md",
       "title": "Spiros Margaris and CARL hedge fund platform partner to bring all accredited investors a better hedge fund experience",
       "excerpt": "He is a senior advisor to – and investor in – several companies in the fintech, insurtech, cybersecurity, health care, and AI sectors. Two of the fintech start-ups he has advised have become ...",
@@ -978,189 +1150,6 @@
         "AI",
         "Google AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-vw-group-gentravel-concept-predicts-a-true-level-5-full-self-driving-car.md",
-      "title": "VW Group Gen.Travel concept predicts a true Level 5, full self-driving car",
-      "excerpt": "What might private vehicle ownership look like in a world where driving is no longer necessary ... Voice activation and artificial intelligence can be used to control various functions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "originalUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wjhl.com/wp-content/uploads/sites/98/2022/09/volkswagen-group-gen-travel-concept_100856314_m.jpg?w=1280",
-          "width": 640,
-          "height": 440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/amp/",
-      "cdnAmpWebUrl": "https://www-wjhl-com.cdn.ampproject.org/c/s/www.wjhl.com/automotive/internet-brands/vw-group-gen-travel-concept-predicts-a-true-level-5-full-self-driving-car/amp/",
-      "publishedDateTime": "2022-09-23T12:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WJHL-TV",
-        "domain": "wjhl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-7-ai-startups-aim-to-give-retailers-a-happy-holiday-season.md",
-      "title": "7 AI startups aim to give retailers a happy holiday season",
-      "excerpt": "These are seven of the hottest AI startups that are helping retailers meet their holiday goals and customer demands.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "originalUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1352745076.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/7-ai-startups-aim-to-give-retailers-a-happy-holiday-season/amp/",
-      "publishedDateTime": "2022-09-23T11:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch.md",
-      "title": "Tesla AI Day Brings Optimus Robot, Self-Driving Car Updates: Here's How to Watch",
-      "excerpt": "Tesla is hiring engineers to build a walking, talking robot called Optimus. Expect Elon Musk to update us on steps toward self-driving cars, too.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 178,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-brings-optimus-robot-self-driving-car-updates-heres-how-to-watch/",
-      "publishedDateTime": "2022-09-23T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

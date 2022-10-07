@@ -2,6 +2,41 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-09-10-10-hot-new-aws-services-for-microsoft-vmware-kubernetes.md",
+      "title": "10 Hot New AWS Services For Microsoft, VMware, Kubernetes",
+      "excerpt": "From new Microsoft Windows support and VMware Cloud on AWS for NetApp to AWS Outposts and Amazon Managed Blockchain, here’s 10 hot AWS launches in August and September that channel partners ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
+      "originalUrl": "https://www.crn.com/news/cloud/10-hot-new-aws-services-for-microsoft-vmware-kubernetes",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN",
+        "domain": "crn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-10-artificial-intelligence-stocks-to-look-out-for-grand-pacific-trade-reports.md",
       "title": "Artificial Intelligence stocks to look out for - Grand Pacific Trade Reports",
       "excerpt": "Artificial intelligence is one of the hottest investing themes right now, and for a good reason. With companies like Amazon, Google, and Facebook leading the charge, AI is poised to revolutionize nearly every industry,",
@@ -1381,59 +1416,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by-microsoft-aws-xero.md",
-      "title": "Artificial Intelligence for Accounting Market Share, Size, Financial Summaries Analysis from 2022-2030 | By -Microsoft, AWS, Xero",
-      "excerpt": "The Artificial Intelligence for Accounting market report gives an exhaustive investigation of the market’s size, as well as market sizes at the neighborhood and public levels, division market development,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

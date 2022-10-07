@@ -585,24 +585,15 @@
     {
       "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
       "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
-      "excerpt": "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, September 30–October 2.",
+      "excerpt": "The new Win Probability Match Fact emphasizes notable swings in the chances of a team winning their respective match throughout the 90 minutes of game play. This new fact is based on action from the game,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
+      "webUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "originalUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/39/539faa5b-05ba-50f3-b256-ad1e59a0d41d/63366bd136b5c.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -610,8 +601,8 @@
       "publishedDateTime": "2022-09-29T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1009,6 +1000,40 @@
       ]
     },
     {
+      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
+      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
+      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-25T19:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
       "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
       "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
@@ -1361,59 +1386,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-amazon-comprehend-targeted-sentiment-adds-synchronous-support.md",
-      "title": "Amazon Comprehend Targeted Sentiment adds synchronous support",
-      "excerpt": "Earlier this year, Amazon Comprehend, a natural language processing (NLP) service that uses machine learning (ML) to discover insights from text, launched the Targeted Sentiment feature. With Targeted Sentiment, you can identify groups of mentions (co-reference groups) corresponding to a single real-world",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-comprehend-targeted-sentiment-adds-synchronous-support/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/21/comprehend-targeted-sentiment-synchronous.jpg",
-          "width": 1533,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T14:27:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

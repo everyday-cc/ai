@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
+      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
+      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "publishedDateTime": "2022-08-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
       "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
       "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
@@ -1291,58 +1343,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-what-are-the-10-best-ai-consulting-firms.md",
-      "title": "What Are The 10 Best AI Consulting Firms",
-      "excerpt": "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/",
-      "publishedDateTime": "2022-08-16T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

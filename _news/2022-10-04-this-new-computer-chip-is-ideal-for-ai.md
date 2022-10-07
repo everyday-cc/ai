@@ -34,6 +34,15 @@ related:
         width: 850
         height: 478
         isCached: true
+  - title: "Faculty Member Earns NSF CAREER Award for Computer Vision and AI Research"
+    excerpt: "Hoffman recently received the National Science Foundation’s CAREER Award, which will fund her research in computer vision and artificial intelligence (AI) for the next five years. She earned the award through her proposal,"
+    publishedDateTime: 2022-10-03T12:00:00Z
+    webUrl: "https://www.cc.gatech.edu/news/faculty-member-earns-nsf-career-award-computer-vision-and-ai-research"
+    type: article
+    provider:
+      name: cc.gatech.edu
+      domain: gatech.edu
+    quality: 33
 
 secured: "qpotIkZni+b4PhoO0RGraD/iYWJmeyJ0/yVUvjH16biO0aDjuh+a7KKvvO8/6JilN3RKsyiX0Lzo03zcBibqB2ohz++ohN699DKSyCo45N8H63k8kOhu+lFTWyXt12CI4A4IXotq4nVWQAWgTsYxrRSZjxP0PpEdZ0giFMYHsn31DcdzqtFBNztfRLRbNp4TMOT8+gEALYiib1gaYrDWHHKlsx+AOQALFCH13FVETNwlfG3ferBr6V/5nXwNkGY6IcqfknHOrtN40WARNK1yI8bbYecwoln2bGjN30H3+PcaxexuzTf5av681F2/zrlEDy2/6raQYR37mGD4eKMf+OMzp3h/agwVigd4a/Yq6VuwDZ7A7PAGd9p8jbcT87CHNr7LomxdQQAAdKTye+Lu+Stct7Nx5NM8CMLCzCHpMfyII3Hs2M4kmImTtoRFyWS4wvWPgk6zqHwsMoXSs0EFJ8TD78xDg5Rz68i+OPnrY7I1zzpER+ZEbk6lrUvfhb78YrmrYsHLgQFDXP3BWIYy9Q==;PlzazkX/wOrm1VuA5BfwYQ=="
 ---

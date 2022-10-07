@@ -2,6 +2,144 @@
   "page": 177,
   "value": [
     {
+      "path": "_news/2022-05-23-nextbillionai-raises-21-million-in-series-b-round.md",
+      "title": "NextBillion.ai raises $21 million in Series B round",
+      "excerpt": "The funding round was led by global investment firm Mirae Asset Capital. Existing investors Lightspeed, M12 (Microsoft’s Venture Fund), and Alphawave NextBillion.ai, a spatial data and mapping platform for enterprises, has raised $21 million in a Series ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindubusinessline.com/incoming/cw7664/article65453262.ece/alternates/LANDSCAPE_615/IMG_IMG_BL11_Fund_2_1_PH_2_1_B89DQ9V9.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/companies/nextbillionai-raises-21-million-in-series-b-round/article65453247.ece/amp/",
+      "publishedDateTime": "2022-05-23T01:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
+      "title": "A start-up aims to bring driverless cars to Indian roads",
+      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "publishedDateTime": "2022-05-23T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data.md",
+      "title": "GPU for Deep Learning Market Analysis 2022: Share, Top Key Players Research and Forecast to 2027 with Dominant Sectors and Countries Data",
+      "excerpt": "The “GPU for Deep Learning Market” 2022 Research report will make detailed analysis mainly on in-depth research on",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-analysis-2022-share-top-key-players-research-and-forecast-to-2027-with-dominant-sectors-and-countries-data-2022-05-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 163,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-22T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-computer-vision-market-growth-demand-competitive-landscape-and-industry-analysis-report.md",
       "title": "Computer Vision Market Growth, Demand, Competitive Landscape and Industry Analysis Report",
       "excerpt": "Faster processing, better accuracy, and economic advantage of computer vision system drive the growth of the global computer vision market. However, requirement of highly skilled and experienced ...",
@@ -1000,126 +1138,6 @@
         "Google AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
-      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
-      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
-      "publishedDateTime": "2022-05-20T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
-      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
-      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
-      "sourceUrl": null,
-      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Flickeringmyth",
-        "domain": "flickeringmyth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
-      "title": "Ethics in the AI, Technology, and Information Age",
-      "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
-      "sourceUrl": null,
-      "webUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "originalUrl": "https://www.amazon.co.uk/Ethics-AI-Technology-Information-Age-ebook/dp/B0B1SV58KF",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images-eu.ssl-images-amazon.com/images/G/02/gno/sprites/nav-sprite-global-1x-hm-dsk-reorg._CB405938116_.png",
-          "width": 350,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Amazon Associates UK",
-        "domain": "amazon.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

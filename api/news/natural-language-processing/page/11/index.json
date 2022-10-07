@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-22-dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry.md",
+      "title": "Dynamic AI Agents enabling the great reboot of the BFSI industry",
+      "excerpt": "In 2000s, a website was necessary for most businesses. In 2010s, a mobile app became a must-have, and today, conversational AI is fast becoming integral for businesses to successfully cater to rapidly changing customer",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/dynamic-ai-agents-enabling-the-great-reboot-of-the-bfsi-industry/",
+      "publishedDateTime": "2022-06-22T00:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-speech-recognition-on-an-arduino.md",
       "title": "Speech Recognition On An Arduino",
       "excerpt": "Speech recognition is usually the purview of fairly high-powered computers chugging along at hundreds of Megahertz with megabytes of RAM. Bringing speech recognition to the low-power ...",
@@ -1330,49 +1373,6 @@
         "Natural Language Processing",
         "Machine Learning",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-over-400-sc-verdicts-translated-until-covid-stalled-ai-project.md",
-      "title": "Over 400 SC verdicts translated, until Covid stalled AI project",
-      "excerpt": "While 469 verdicts have been translated since the launch of the ambitious project in August 2018, it came to a halt during the pandemic and is yet to be revived.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "originalUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/supreme-court.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/chandigarh/over-400-sc-verdicts-translated-until-covid-stalled-ai-project-7966509/lite/",
-      "publishedDateTime": "2022-06-12T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

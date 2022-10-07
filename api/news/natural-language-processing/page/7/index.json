@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-29-vm-fis-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion.md",
+      "title": "VM-Fi's Ground-breaking Real-Time Translation Technology To Make Global Debut at TTA Pavilion",
+      "excerpt": "Backed by 5G and AI technology, the highly-scalable speech-to-speech translation turnkey solution reduces the MICE industry's dependence on",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/vm-fi-s-ground-breaking-real-time-translation-technology-to-make-global-debut-at-tta-pavilion-1031627838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1868803/image_5019932_6176121.jpg",
+          "width": 297,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T21:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
       "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
       "excerpt": "AI4Bharat was set up as an initiative of IIT Madras to build open-source language AI for Indian languages ... including state of the art models for machine translation and speech recognition ...",
@@ -1313,49 +1365,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-19T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-ai-speech-recognition-technology-market-business-development-type-size-share-and-opportunities-to-2030.md",
-      "title": "AI Speech Recognition Technology Market Business Development, Type, Size, Share And Opportunities To 2030",
-      "excerpt": "Global AI Speech Recognition Technology Market Report 2022 – Detailed analysis of the market structure along with key players, size, share, various segments, factors affecting market growth and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-speech-recognition-technology-market-business-development-type-size-share-and-opportunities-to-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-speech-recognition-technology-market-business-development-type-size-share-and-opportunities-to-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T00:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Digital Journal",

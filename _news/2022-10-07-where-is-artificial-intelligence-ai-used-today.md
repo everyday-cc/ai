@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T15:20:00Z
 originalUrl: "https://www3.technologyevaluation.com/publications/where-is-artificial-intelligence-used-today-59568"
 webUrl: "https://www3.technologyevaluation.com/publications/where-is-artificial-intelligence-used-today-59568"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TEC

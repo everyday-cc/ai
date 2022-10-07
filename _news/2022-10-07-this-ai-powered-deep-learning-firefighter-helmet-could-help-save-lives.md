@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T19:30:00Z
 originalUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
 webUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Omaha.com

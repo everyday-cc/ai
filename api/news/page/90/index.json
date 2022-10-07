@@ -2,6 +2,155 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-07-27-soccer-refereeing-and-artificial-intelligence.md",
+      "title": "Soccer refereeing and artificial intelligence",
+      "excerpt": "AI and technology can help us to alleviate some errors in critical match incidents, but a referee-less soccer game, like driver-less cars? Unlikely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.socceramerica.com/publications/article/93033/soccer-refereeing-and-artificial-intelligence.html?edition=27970",
+      "originalUrl": "https://www.socceramerica.com/publications/article/93033/soccer-refereeing-and-artificial-intelligence.html?edition=27970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.socceramerica.com/dam/cropped/2021/04/26/referee-art-whistle-kw.PNG",
+          "width": 600,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Soccer America",
+        "domain": "socceramerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning.md",
+      "title": "Tiny cars and big talent show Canadian policymakers the power of machine learning",
+      "excerpt": "In the end, it came down to 213 thousandths of a second! That was the difference between the two best times in the finale of the first AWS AWS DeepRacer Student Wildcard event hosted in Ottawa, Canada this May. I watched in awe as 13 students competed in a live wildcard race for the AWS […]",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/deepracerevents.jpg",
+          "width": 1193,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:15:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
+      "title": "Predict shipment ETA with no-code machine learning using Amazon SageMaker Canvas",
+      "excerpt": "Logistics and transportation companies track ETA (estimated time of arrival), which is a key metric for their business. Their downstream supply chain activities are planned based on this metric. However, delays often occur, and the ETA might differ from the product’s or shipment’s actual time of arrival",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/shipment-eta.jpg",
+          "width": 1323,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:10:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
       "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
       "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
@@ -1015,116 +1164,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-3-green-flags-for-c3ais-future.md",
-      "title": "3 Green Flags for C3.ai's Future",
-      "excerpt": "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "originalUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "publishedDateTime": "2022-07-26T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-police-can-use-facial-recognition-again-after-ban-in-new-orleans-home-to-sprawling-surveillance.md",
-      "title": "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance",
-      "excerpt": "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "publishedDateTime": "2022-07-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
-      "title": "Chinese carmakers jostle for edge in autonomous driving",
-      "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

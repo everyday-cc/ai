@@ -103,6 +103,20 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
+    excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
+    publishedDateTime: 2022-10-07T20:19:00Z
+    webUrl: "https://hothardware.com/news/deepminds-alphatensor-ai-complex-math-gamers"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 68
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59815/content/hero-gaming-model-ai-learning-news.jpg"
+        width: 708
+        height: 400
+        isCached: true
   - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
     excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
     publishedDateTime: 2022-10-05T15:02:00Z

@@ -45,6 +45,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Seattle startup Xembly raises $15M for AI-powered office assistant"
+    excerpt: "Xembly founder and CEO Pete Christothoulou says the company's technology frees workers from menial and time-consuming work. Seattle-based task automation startup Xembly has raised a $15 million Series A round."
+    publishedDateTime: 2022-10-07T17:50:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/10/07/xembly-fundraise-series-a-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "BAXDb/tnhfdANqAPkO1AD2bcHKKxLhYPPeV/LX63q5K1eckutqCxtI2k1C2C1XXsDik8BkL8sf6c0JjJE1I+e6V1ik/R5LUFIhnw4EiwffX/QTvvbQAhnjvdVnZG1qtrFxaM33XFnv0qaPvI5tI1wKFMab9AxMtpG0BPJxaI0kb0h440LtvwXTQ8N7l5l+i/5TnAfnCUjIr2i5WMwcufETCN1My8kx432fzqNKo8wqpgy8xzc/f+5MErf5aGdRdw+vkz3s8BRvcPjbbmljE+qAbtvWlB2b+eXiiBFjooJFxEFUFNGetUf4sS+VGB8Xniutysd3hhcVqt+E2F3AgZnKyXQE7XKeSbwbCXW72ZR7U=;G6P4nKVfLqOyPnEocls5BA=="
 ---

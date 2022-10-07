@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-08-parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition.md",
+      "title": "Parliamentary committee urges Ottawa to pause use of facial recognition",
+      "excerpt": "The use of facial recognition technology by companies and government agencies should be strictly controlled, says a parliamentary committee. In a report this week presented to Parliament, the House of Commons ethics and privacy committee made 19 recommendations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193",
+      "originalUrl": "https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2019/05/FEATURE-Facial-recognition-via-GettyImages-credit-to-Metamorworks-.jpg",
+          "width": 620,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193?amp=1",
+      "publishedDateTime": "2022-10-07T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
       "title": "Pixel 7: facial recognition is finally available but there is a catch",
       "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.gizchina.com/2022/10/07/pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -149,7 +192,7 @@
       "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -395,7 +438,7 @@
       "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -869,17 +912,17 @@
     {
       "path": "_news/2022-09-29-renesas-expands-rzv-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition-and-multi-camera-image-support.md",
       "title": "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support",
-      "excerpt": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,",
+      "excerpt": "Renesas has developed the \" Vision AI Gateway Solution,\" which is an AI-based object detection and recognition platform that uses multiple cameras to collect and efficiently transmit data wirelessly.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html",
+      "webUrl": "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html",
+      "originalUrl": "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/f7/1f70d89c-64e2-5f43-9991-e6a92bf0701c/63358a3c5a2b4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -891,11 +934,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T05:02:00-07:00",
+      "publishedDateTime": "2022-09-29T05:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1396,49 +1439,6 @@
         "AI",
         "Natural Language Processing",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech.md",
-      "title": "Avoiding a surveillance society: how better rules can rein in facial recognition tech",
-      "excerpt": "The Facial Recognition Model Law Project, to which this article refers, was undertaken by HTI, with funding from UTS and support from the UTS Centre for Social Justice & Inclusion. UTS has ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "originalUrl": "https://theconversation.com/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/486445/original/file-20220926-14387-rumoex.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/avoiding-a-surveillance-society-how-better-rules-can-rein-in-facial-recognition-tech-191075",
-      "publishedDateTime": "2022-09-26T13:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

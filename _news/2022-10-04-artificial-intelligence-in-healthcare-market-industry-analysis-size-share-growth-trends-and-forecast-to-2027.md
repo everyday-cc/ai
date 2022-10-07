@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
+    publishedDateTime: 2022-10-06T17:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Diagnostics Market Outlook, Size, Segmentation Analysis, Share, Drivers and Forecast 2028"
     excerpt: "Artificial intelligence is used primarily in healthcare to examine the relationship between treatment options and patient outcomes. AI programs can be used in medical procedures such as drug development, patient monitoring, and medication management."
     publishedDateTime: 2022-10-03T10:32:00Z
@@ -88,6 +102,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
+    excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
+    publishedDateTime: 2022-10-06T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-2022-growth-factors-industry-size-share-cagr-value-global-trends-future-opportunities-and-forecast-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -43,20 +43,6 @@ related:
         width: 768
         height: 438
         isCached: true
-  - title: "Hardware store denies use of facial recognition technology in NZ stores"
-    excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
-    publishedDateTime: 2022-10-05T03:36:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/476129/hardware-store-denies-use-of-facial-recognition-technology-in-nz-stores"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--onYpfEJG--/c_fill,f_jpg,g_face,h_630,q_80,w_1200/4NUU5BG_image_crop_57466"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Investors raise human rights concerns over facial recognition technology"
     excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
     publishedDateTime: 2022-10-05T11:44:00Z
@@ -65,17 +51,6 @@ related:
     provider:
       name: Investment Week
       domain: investmentweek.co.uk
-    quality: 33
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
     quality: 33
 
 secured: "Na6hjopLnPw4nZu5Ow63Ou8wwW4oivGeG/FM7Z2KGRENwT+fFyFem+a0Hd6NnmvcHOmCB/itcNM65XOewY1o1E+wlinmQxX1DeACJK/lxAxG1PbGtGRoU/mvLlbQNuSOGIMjQ47bJWw9cgF5vqCwYnbr8YpirPuWKfPfCT+q8rb+fxo+IYaFAf4AOlFAudnjg8/E0pC8BPN/h5SWscZ8K7cW600cBu9Z0l19mggWyni5Cc9upWZhSgp6WkSc/de652JXF1LONheYA08P4k1Jt3tEK4bb+KRKtzd2iqQN0FzY8gKsc3eI0buqEruhWEEhPmUnipEEAiBNLxb8ybO/haLnOYzj5olcMW1XUMz1i3NnkGcHHLx40NO1P/rS3+ir+KHN7tgLxfclDBxade+cmjXmYRLBNbTWI+51ZeHcSojbTev0VNSyA8Wtxb0t20HsLlTkH9hPWBPD1V30yOlchgQYjoldZ6hwmvpxlTeRsHDWwD64d4IESluaY85xN+UarM2drcI456RNobNhJJeKlA==;ThrodBLe57p2q+guR6TCOw=="

@@ -2,6 +2,147 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-09-03-metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism.md",
+      "title": "Meta's AI chatbot hates Mark Zuckerberg - but does it care about racism?",
+      "excerpt": "AI chatbots learn the patterns of our prejudices, biases, preoccupations and anxieties from the linguistic data we supply them with, before paraphrasing them back at us.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/articleshow/93968867.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-17778,msid-93968907/meta.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/metas-ai-chatbot-hates-mark-zuckerberg-but-does-it-care-about-racism/amp_articleshow/93968867.cms",
+      "publishedDateTime": "2022-09-03T03:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-why-do-we-keep-repeating-the-same-mistakes-on-ai.md",
+      "title": "Why Do We Keep Repeating The Same Mistakes On AI?",
+      "excerpt": "Artificial intelligence has been on the horizon for over seventy years. Why does it seem so close but also so unattainable? Are we repeating the same mistakes over and over?",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6312667f63bf3c4af5475054/0x0.jpg?format=jpg&crop=2531,1423,x158,y207,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/09/03/why-do-we-keep-repeating-the-same-mistakes-on-ai/amp/",
+      "publishedDateTime": "2022-09-03T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-03-robots-and-artificial-intelligence-bring-nebraska-25-million.md",
+      "title": "Robots and artificial intelligence bring Nebraska $25 million",
+      "excerpt": "so why not get a robot and teach it artificial intelligence and computer vision, put that in the poultry barn and let that replace the human labor? So we start to see these identifying problems ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "originalUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wowt-prod.cdn.arcpublishing.com/resizer/xdlYKfIq7wrIoezuhawke2SoLWA=/800x450/filters:focal(646x617:656x607):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/4JYREUQNNBM65MXZ2SGFIOY6XU.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wowt-com.cdn.ampproject.org/c/s/www.wowt.com/2022/09/03/robots-artificial-intelligence-bring-nebraska-25-million/?outputType=amp",
+      "publishedDateTime": "2022-09-02T22:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WOWT",
+        "domain": "wowt.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-03-these-cute-robots-could-deliver-your-next-coffee.md",
       "title": "These cute robots could deliver your next coffee",
       "excerpt": "Hong Kong startup Rice Robotics' delivery bot Rice is designed to assist in settings like cafes and hotels. It's already serving up drinks around the city -- and the company hopes it will help to bring about a robot revolution in the hospitality sector.",
@@ -1013,135 +1154,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-investing-in-self-driving-car-stocks.md",
-      "title": "Investing in Self-Driving Car Stocks",
-      "excerpt": "After years of hype and behind-the-scenes development, self-driving car technology is beginning to be a reality. Vehicles featuring advanced driver-assist systems (ADAS) and some level of self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Driverless-cars.width-600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-commercial-operation-of-driverless-sanitation-vehicles-launched-in-south-china.md",
-      "title": "Commercial operation of driverless sanitation vehicles launched in South China",
-      "excerpt": "[Photo provided to China Daily] GUANGZHOU -- Chinese self-driving startup WeRide launched the commercial operation of driverless sanitation vehicles on open roads in the southern metropolis of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202209/02/63116047a310fd2bec9f6e89.jpeg",
-          "width": 702,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
-      "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
-      "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
-      "originalUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The TRADE",
-        "domain": "thetradenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

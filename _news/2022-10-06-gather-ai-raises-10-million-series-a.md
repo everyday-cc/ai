@@ -44,6 +44,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 32
+  - title: "Seattle startup Xembly raises $15M for AI-powered office assistant"
+    excerpt: "Xembly founder and CEO Pete Christothoulou says the company's technology frees workers from menial and time-consuming work. Seattle-based task automation startup Xembly has raised a $15 million Series A round."
+    publishedDateTime: 2022-10-07T17:50:00Z
+    webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/10/07/xembly-fundraise-series-a-artificial-intelligence.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "eDNBWfDQTz/7DlC4KAgd1rTLTo4jGW67ICbsHPN6nO/UZdRHAIv+9kfHLtnBPU0ZthN2P6TZG8LX/5/bv9YRSzYsEiwisbeL16ydWnbxgLYvaC19ChvsHTIaZLBshZhk0kDjnpQVvKfDFLDfeUUX9+2jYjy3M2UCepi+3rvfdEc7wIGRynQIDUIFZdCBuL0rEcH0LvZc3GkOwhHZZtQ+p+FE8OeoBgoT2zrtqYwZFuIghmJ2pmA4KAx92IZ7KA7ZH+oWTl65TU4xoDgE7v25E11zNSCwaW3I6g5bN5oFQeN5mpvy6rZNzG2uYRHRYD876lmZF9oKGsskGcVnItRFk0nb45TADtvAO7ss0ecxH41Skof/IrKK88hAW/uNyDiNmTwW1VXtjGs4uTqkkqpLFISGde2NrIbr6VH+evXau0/hNPyUq+JTpil8el1Gd2GSPJFDLsP5lYSCREpnOoDwUO0RzUP6XMI73XSkSJ21P3z9rHq95KSAMZcbhZ8h6M1NY704Ml6iXCDQ2TVFjjb+JA==;repDWwhSPYpDPRrijGo/Wg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T19:56:00Z
 originalUrl: "https://www.datanami.com/2022/10/07/the-limits-of-citizen-data-scientists/"
 webUrl: "https://www.datanami.com/2022/10/07/the-limits-of-citizen-data-scientists/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: datanami.com

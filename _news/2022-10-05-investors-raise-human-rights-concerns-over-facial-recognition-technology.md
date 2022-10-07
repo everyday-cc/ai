@@ -51,31 +51,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Hardware store denies use of facial recognition technology in NZ stores"
-    excerpt: "Hardware chain Bunnings says it is not using facial recognition technology on customers in this country. In Australia, Bunnings and Kmart have put the use of controverisal cameras on pause while they are investigated by the national privacy watchdog,"
-    publishedDateTime: 2022-10-05T03:36:00Z
-    webUrl: "https://www.rnz.co.nz/news/national/476129/hardware-store-denies-use-of-facial-recognition-technology-in-nz-stores"
-    type: article
-    provider:
-      name: rnz
-      domain: rnz.co.nz
-    quality: 39
-    images:
-      - url: "https://rnz-ressh.cloudinary.com/image/upload/s--onYpfEJG--/c_fill,f_jpg,g_face,h_630,q_80,w_1200/4NUU5BG_image_crop_57466"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 33
 
 secured: "7zs3z2isyoB9/jbWFkucpiZT+v00rs1qMCjwlltssO65VRu7P/Nx9lIlcdf/qxaGrCmkkRkZ3qNxe2oMeaMNOr+XzAUpnQCwHRBWUk40ub4gO8HySoxzKjp5RCqT0iNJquK8D046JOkIvUPWit0QAnYwKu7+dhQec0CcaZdLtNzSvr1j1pTn0dI/PYkzl/YSyYwkEBKwehXQLWD/2jQ9hDHAGe3NXZkJjlbFfWma3WqvkaSewesAyZbGG2GKocgXLfvTva8sWVyU1E1M0CmvLx9aqgZuE5k4tuDFnGlIQ7qXX8ForSq4St925ekeRFwv6w6C9s28dNuCQAnGWkqLq7OUwO4l1SsAlskugP8ck0AgsvgWQmPZa4N4Mu8m9d4Krzl8OmavDJ2OveT92uid9ZWQmMmV72Xq+HUazShpO6h43PZhiQp7fmP8t1kQzriULf2ngPWrP/1MrxKflaL87fM5JLOXKTOMkuGnfVw6jt8CweJZhTH1iF8ojmuFoWr48d4ZVjiUOJijS4i/yMZQQA==;Nnv5a0hE5995C/TaSl7H6w=="
 ---

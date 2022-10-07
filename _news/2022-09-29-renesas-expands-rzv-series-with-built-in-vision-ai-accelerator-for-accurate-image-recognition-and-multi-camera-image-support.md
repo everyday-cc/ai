@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
-excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
-publishedDateTime: 2022-09-29T12:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
+excerpt: "Renesas has developed the \" Vision AI Gateway Solution,\" which is an AI-based object detection and recognition platform that uses multiple cameras to collect and efficiently transmit data wirelessly."
+publishedDateTime: 2022-09-29T12:11:00Z
+originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
+webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/f7/1f70d89c-64e2-5f43-9991-e6a92bf0701c/63358a3c5a2b4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
     width: 1200
     height: 630
     isCached: true
 
-secured: "kDAKW2wbhPMEuo1bNhj2hOkPLmMHylFT1isQBH/A/tykDbjU6Q4KDw9RkBxArabse3uKZASyeIeHl3b2iAMGjqyuKrWOEacLRH/rSAj10LgtZmXRumg+kyY3cnlrKzxf2oZUDlUrb5WCQsej+V6tCV4PWi/bYLWiJkhkQ5Pzn6ANL4Dy1LsFRrRl/13LomOdhX7a9nqIdVbRkudSFn7qZH8IMPcPpG+KRKlGUlS6Bz8nMKN4sEy08BOMxxzQLci+LSIb231UnySijyqtXsThDFH2aqL3cymRHHWgZ2qx4kDTZFh+7kERUYUtX+3YmddfAeWoK+vR9FsKFvNTEd+74xLdawFJMYRZibchWul8rJDCIhJrGxd2evW1ENPCrUvWmQO8wdJswDZJg7fCxXavwbpREfkvoTkpBBCgnVUqFrC/fElrvfsx9ewUPREoKbsUit3qy/YyTS0tr/tCkk8K0zje+C3nQRp5Nn0pg7NjtGa6KHAD6v0INNhdOCUDWIMzEeU7OGTEESw2M1LYDB1Apw==;LsupoKlFIZMstaQAysZatw=="
+secured: "1hJPO/JM/8nMPLaIfzkcK+dfmO+AN1kpP08daH607089fkLND5KQfCggoD3P4ctV7iXUNPs0AN8AEXUqUycd4gCnwr2A7Is3hTpi1CjcEwCaKuoOl6fC1/Du0bzBa/OEyAVPGV/09VTN6s75PCCWTgRiuAcvqTD/7a2hIGNAQFKO2LQrkxulThUDm/U8B8HxDAPLYOU/olN6SpXwOKWUkKLuFgk2sPqnkowJklJkei/c3UCBGx+P3nG+BLj8jb06Dpl9f0izSKi4HGznDHFiGH6KhE4EVu9olzb55saKC2gs8HivFncPKk3pZEW/9fJe66YXguNvOWCviKZXhsofotvM+arc3gs2mHuxSrw1LDw=;XimbMK2hjRhz4BNMYrc3Sw=="
 ---
 
