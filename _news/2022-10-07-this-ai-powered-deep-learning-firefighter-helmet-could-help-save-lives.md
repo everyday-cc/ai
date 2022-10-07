@@ -3,21 +3,27 @@ category: news
 title: "This AI-powered, deep learning firefighter helmet could help save lives"
 excerpt: "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device."
 publishedDateTime: 2022-10-06T19:30:00Z
-originalUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
-webUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
+originalUrl: "https://www.stltoday.com/video_4d9edec1-7e9b-506d-9b41-8f8c2a77f2e8.html"
+webUrl: "https://www.stltoday.com/video_4d9edec1-7e9b-506d-9b41-8f8c2a77f2e8.html"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: Omaha.com
-  domain: omaha.com
+  name: St. Louis Post-Dispatch
+  domain: stltoday.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "tH9hOU8nlVAtRvgH0oWWSvYYV/yBu+RTGKnsa9aCWqqE6ws0QO2XNmvmkRf6AUbe94whHtSivwD2iPSfDj/ptS6m72MfM1frqR5WJkL1nsjR9DhbIomS8hSF7OgeoXfDeeybSFeNcUde9GCP2vhfmMZhuCRGumnpLqrajt5xxDS96WJETpKcHNM8JEDPu8Jv5dJldbkZgflR/UEFgDkgv/vhMzrK6CoANRUOM+C07EwMRWr4YKgoFTVtdoUd2Qvv8LNbpn1tu922XvASudjhbgsSBQxrDP3sBcayubcovUQyD3YFIqpe/TsMz+fjsOwWfcTlrDAj5DRuVJ0X8xOWqHQFr5NNLmGt2y4SIOXW5T3PGcAOF+wCwfR99RA9ocQCfCvQqLpEhXwrY62jmT94tSsg4+jl0ccw4/o/XCa0m0ns8tZoh6h50nlHZzQzlaH/PVWNw+cHJcBx6JuH8KrvRBauZQCeKVxOsog0v+9UJRY4qciVqP2Rk0S2o8q1jaITTlwfKNq6Tkuz8Xmkpkiklg==;oztRCfTV9b6NOL9jAE93Bg=="
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/4/d9/4d9edec1-7e9b-506d-9b41-8f8c2a77f2e8/633efbbb71400.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "q+2zaTdeNyu6GkLZ++YCArF1N1m85WC/DDi1YkCru/Ym4EGxZp2H0QieFaoqJFg+a7Dlm6fCdLp8vVz7BHHGaZ3tg2A9yc+KfA9ZuyMtJE82lRA9epGB/q+dGaqnHgvXFS+5WpT4OQNSdIONKrrc43+J0oNnD2hWtzhCYLcu7StSOG3UaPh1r/l+EkV/JCNhxUcOfOy3eT7wFBV8c8C/3f/kxmuiIhuDlE6O9iokRWOYj27VYbHOKdROJsB2MZ4akfcRKHjyvmB2sKxCwvufUyqZ0VCgFs8e/ZTiYKMAKVJY9hqLYc8m/X5rE8kAB8E9bdkf8QqhoKWjx2XIC3ymy3DaY0YgPB4d/pKFYWPgqU0=;BTRnUqRgrYoYNRU+5kyxZg=="
 ---
 

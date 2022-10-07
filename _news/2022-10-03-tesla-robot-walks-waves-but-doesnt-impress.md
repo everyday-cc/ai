@@ -72,6 +72,17 @@ related:
         width: 2048
         height: 901
         isCached: true
+  - title: "Tesla's robot waves but can't walk, yet. Elon Musk plans to make millions of them"
+    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot \"Optimus,\" predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000—less than a third of the price of a Model Y."
+    publishedDateTime: 2022-10-07T08:42:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/"
+    ampWebUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
+    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 51
   - title: "Elon Musk’s New Humanoid Robot Might One Day Buy Your Groceries"
     excerpt: "Our goal is to make a useful humanoid robot as quickly as possible,” Musk told the audience. “There’s still a lot of work to be done to refine Optimus and prove it.” This was the first time the robot walked by itself without an extra support to keep it from falling,"
     publishedDateTime: 2022-10-04T15:11:00Z

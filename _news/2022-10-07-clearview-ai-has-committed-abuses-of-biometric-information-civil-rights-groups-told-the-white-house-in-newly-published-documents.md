@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-07T09:00:00Z
 originalUrl: "https://www.businessinsider.com/clearview-ai-bill-of-rights-white-house-facial-recognition-2022-10"
 webUrl: "https://www.businessinsider.com/clearview-ai-bill-of-rights-white-house-facial-recognition-2022-10"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://i.insider.com/5e8dc40892e8ba2dd265bca4?width=1200&format=jpeg"
@@ -27,6 +28,6 @@ images:
     height: 600
     isCached: true
 
-secured: "igLh3nQMWXam4n12EhvGeKM6WUei6EiIa+0IU249V4kPY8b9FtCgwJ8w6fhkvHj8la4huW4TQLolXZj0qbqIlDf5rj9eY72FJ0IbzxeUeUa7w5BZgKSVBgnSdXVwjo2zz3KOZh395Cf683PNPGhjxdufoAGZpT1mIOu+O+5spKnyGJLtWPZeFcS9c80vxAIIEQzzLKvoQb6/53RG2ICbKKvx/uzx7fYGZKA9vYS3fZauMbwF8qaPasN0Ch0w+dEDTn3j1wpl4czurRETTmGdreMSypuZkboi8yU2f5HgUB8kl4BDI1Da51fsWnqvOp0bp5QlVFu1aYoJycY3PsnQ3qQWgbmWZ5DonkKsJNxSRwg=;QT6g4VXS7N0RwD1Lc7fYKg=="
+secured: "5eH+lCAEwc6tVr1jjkLCsXA/axlPESXMcKDzJ+wCGIatJ814fU+hgUztgUyn4yyLzjr6BL2ju7ewYd7i/gbM0QicsyvlXEI0znucikP/n8VRo6DnW7vSAODBvkzhY3H1iPcw36pJU7UToD7Uy6SCd2ht0k8OZJ/uOqMsBsrr02I+EGhd9zV4ocEaj54NKTwji9PjmxbkY29SnxJDtL9J1o2DcKJGqh8FrCJy+yV18CCJ4K/IZCF4xbpdh+spzwSvIoC86THTRFOD2n5CeSkliAW92bD//al2kix7Ip22C4RWkkhwZBX/aA5zV1fUIdlYZTv533ZjEjhdCb9/EaeFUCMQmMLXi2640oDFf3Zp5rp/LswSC/PxXfwWZw07N5VVPTkfq+EmQsARGE7n45a0N9e0ZwhtDTa9Vz12W45O2m365fm766XZ3cbnAsfAzUBMF+hyiy7qytjXRNC85Xa2TSQ4HoccC1Yfc73pXPzMXf9j2ruXnFo0R6NIj4eyXwSVZoiheZ2GdWAsq60N4Rf48w==;/ws/A1IETK1HAjmL32nyJg=="
 ---
 

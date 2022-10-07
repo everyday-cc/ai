@@ -85,6 +85,17 @@ related:
         width: 2048
         height: 901
         isCached: true
+  - title: "Tesla's robot waves but can't walk, yet. Elon Musk plans to make millions of them"
+    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot \"Optimus,\" predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000—less than a third of the price of a Model Y."
+    publishedDateTime: 2022-10-07T08:42:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/"
+    ampWebUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
+    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 51
 
 secured: "7itZYnCIi8EQXtFmkxvHENk0gVDNB+c8kJQUIaCK6nI1mteGt0TQyo6F40WYIJsIrej01q6LtB+UST9pLJ2ThSB+PgY9jSWI6IeARQtUIRU+BWzcRrCemuQoQZZilutpWOCiXB0jHNQ0U4X/u1Up85cRFb8sFsisL6mvWqHUyTkNcOTuHWzw5mM71oN7p6vfAgsRhr2sIbSSg92JBjobnmoedFbf9aBVhVBLM1RxLY3a/+h+toz8hVesBkPt4x57zt9HRJZbJS7bozjdTwo8eoemmEqQrJKOHX1uNtSuKz7W/fEtvZj4QG3MRBFNugMnYxlq0mosRLYWuZaGTyd0thk520APHwj9G/yBvKQdaYzzrPQ3DD+/mhl1Pb78g8cSx0CQO2Bx8zWfzzr3gTauHiHbuu8LhR/Jv1U/N7a0SjyklzmYki+ta+VE7lfW83o6ypsa59AARmtXP/XnlgdVs4QX2SAEee/u5/maTBRAoDm6TmN7AP8J+SRvNt+B9kDAfON+F7pAY8dI8NhwtcZ/5A==;md9JUbiucrBexOtFdi938w=="
 ---

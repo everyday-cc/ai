@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
+    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
+    publishedDateTime: 2022-10-07T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 83
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Big Tech unites to make speech recognition tools better for people with disabilities"
     excerpt: "The Speech Accessibility Project will use artificial intelligence and machine learning to make speech recognition systems more inclusive of different speech patterns. Amazon, Apple, Google, Meta and Microsoft are all involved."
     publishedDateTime: 2022-10-03T21:10:00Z

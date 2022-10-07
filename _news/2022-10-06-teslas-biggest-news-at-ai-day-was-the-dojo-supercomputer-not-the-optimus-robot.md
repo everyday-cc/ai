@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 228
+heat: 238
 published: true
 
 provider:
@@ -114,6 +114,20 @@ related:
       - url: "https://static.bangkokpost.com/media/content/dcx/2022/10/03/4471241_700.jpg"
         width: 700
         height: 414
+        isCached: true
+  - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
+    excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
+    publishedDateTime: 2022-10-04T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/robot-wars-teslas-optimus-vs-boston-dynamics-atlas%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/AIM-Illustration-1.jpg"
+        width: 2240
+        height: 1260
         isCached: true
   - title: "Tesla builds Dojo supercomputer with in-house chips"
     excerpt: "While Tesla's full self-driving features have yet to overcome some technical hurdles and regulatory restrictions, its AI team has demonstrated impressive work at Tesla's AI Day 2022."

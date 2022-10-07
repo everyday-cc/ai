@@ -77,6 +77,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
+    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
+    publishedDateTime: 2022-10-07T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 83
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
     excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
     publishedDateTime: 2022-10-05T10:23:00Z

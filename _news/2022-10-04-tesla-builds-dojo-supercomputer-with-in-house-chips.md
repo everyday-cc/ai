@@ -124,6 +124,20 @@ related:
         width: 700
         height: 414
         isCached: true
+  - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
+    excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
+    publishedDateTime: 2022-10-04T12:30:00Z
+    webUrl: "https://analyticsindiamag.com/robot-wars-teslas-optimus-vs-boston-dynamics-atlas%EF%BF%BC/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 56
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/AIM-Illustration-1.jpg"
+        width: 2240
+        height: 1260
+        isCached: true
   - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
     excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
     publishedDateTime: 2022-10-03T12:40:00Z

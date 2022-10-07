@@ -9,7 +9,7 @@ ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-r
 cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
 type: article
 quality: 97
-heat: 267
+heat: 277
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
     quality: 86
     images:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg"
+        width: 1260
+        height: 710
+        isCached: true
+  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
+    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
+    publishedDateTime: 2022-10-07T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 83
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
         width: 1260
         height: 710
         isCached: true

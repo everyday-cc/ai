@@ -73,6 +73,20 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
+    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
+    publishedDateTime: 2022-10-07T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 83
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Big Tech unites to make speech recognition tools better for people with disabilities"
     excerpt: "The Speech Accessibility Project will use artificial intelligence and machine learning to make speech recognition systems more inclusive of different speech patterns. Amazon, Apple, Google, Meta and Microsoft are all involved."
     publishedDateTime: 2022-10-03T21:10:00Z
@@ -255,6 +269,6 @@ related:
       domain: aol.com
     quality: 13
 
-secured: "2oszqrRWfUiGtHZ+S6P5LAJGLG4e7o7TQilhXnIMgd9EzMt25kyzFtOImscGAn9HhafQdA2iaUr52Np19Rilx7m70avkPlHDc+2Xz1eCV1UNsqV95e0qxjv8L/HN+r5O3iJz0GJ0htYCdQItkDGXNMYeLcEYyY5rfIFCLzjFNZlV7amdrkQsW8nW8lffASYaz4ISqw2YQAyIgolfdrKWfCkPS/EXkgra0VCRchTGI7TeksIxGN76FHeEU/jGcejhCV6YXJEN34DFvSenpm0tYs66Cxk11/eOFczWcrHvynYErpcSG0+Xs/O9dRmEu6ooMC0nylAd0zmkINOqkQDOi7sc+GKwM1D4BFQUcZVsqPM=;bBP+4xA/YSi/fRideQDOlw=="
+secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---
 
