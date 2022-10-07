@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-10-02T23:37:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "cOzjIjwXTGEASfPFhPvlbAJNMJ5kiSgfcF78M842u0M1Jx4aVZdQWO6W1iEdE6c+PR+L11X7MkvJojB2HPoj9pgIfUECoqt4kFw0GADjnFS3m+sWpW0aapSqgLFHTWoD+61ZSQJcoUtAM5qbqU59l3wVoQu5MdUXFqLK7PELr8sI4J1sa2xMZ+QiqFan19Svt7r9RORjzQc9zTXnpbNJVCh75n1I/QldT1Jt4Y2w163L64jIhpvB0sxV9LHZnh7pQYxoxp8W5Ak0IwXYFaN81YTX8I1QwcIi/e3Vxof8eIZfm4lXkaulQzXLMsPj7LP/xiom1/raLFxTqstiqQOMXtuZeyNTOMNOqeF33prcPoh/4H2fDRugI49KtVeXVvOtxM4hAt1kqMewukdQd9HTdNvRUJYo67sQS/2SK++PrgLM+8X8cmBkQ6h6WKkWkeFkv4N/Fa9cJaY529Zok0d1k9lWLpMn3v2HSJVXunsuIz/4y4RRv3c5XVvls99RpTCP2wCX3Sww+LGL4aZrGeukbQ==;DHQlJ7jo5VZ16Wq0CBhmig=="
 ---

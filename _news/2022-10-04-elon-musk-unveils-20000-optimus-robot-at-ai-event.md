@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Watch: EV maker Tesla unveils robot Optimus on AI Day"
-    excerpt: "Tesla CEO Elon Musk said Optimus is a capable robot and it is expected to cost less than a car. The EV maker wants to make manufacture millions of units of the robot."
-    publishedDateTime: 2022-10-02T23:22:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day-41664710520640.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/watch-ev-maker-tesla-unveils-robot-optimus-on-ai-day/amp-41664710520640.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 91
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/10/02/1600x900/Tesla-optimus_1664710714621_1664710721230_1664710721230.jpg"
-        width: 1600
-        height: 898
-        isCached: true
   - title: "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’"
     excerpt: "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations."
     publishedDateTime: 2022-10-03T15:00:00Z

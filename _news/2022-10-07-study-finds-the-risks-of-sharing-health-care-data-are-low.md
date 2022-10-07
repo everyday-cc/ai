@@ -41,16 +41,7 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
-    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
-    publishedDateTime: 2022-10-06T07:28:00Z
-    webUrl: "https://www.albawaba.com/business/pr/mubadala-health-and-g42-healthcare-join-forces-create-new-entity-embodying-“-future"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 2
 
-secured: "Xw2BMBKp7pktRgvkkskAyu7ymDo7+1o3mrsKcUmsd9EaW40mjoVWZXmC4al1XdlWRFjofEfLRtpjwEUtkERB3IXAgiPPZe6SBeo+b5yT5hBEuUKNcGh2a3SmCfjt7+c2axfS0lPHa/P1kLn3jEo4olK9Yy1g0t2wJ4Pk5kzYTMP+9DhQz+saeVtqMFbdMXAYeHSEOWno1zzwwtxHk5C0Z+LwyL2YI9ssTUSJIew+oMtrJTVONZ97QwGA5Zvy3kpIGVdutOBBXihAbKzrgoYh38aROg0TfpDhLmIaObO3WM31V0CIQacTKsdapYcSpTYw4WYZM2595UTBW2MLiwzurRVOowbhBDvYHqc7JWReJt8=;XrRcGC7pjD2M3rR5+3ZFug=="
+secured: "3ECVdLa1BzWfjrph6+gdNwGROK8hgjoyjjBIfLRYulxaxtRECFlWnDCq4CFkGOJiY1/Ll91l7o3vcn7PGV2ligx/tz1ljWKNvwt/IFkPjVncbZKfrp8y8e0FxihkycY50IIbGtYMOywVG8O2MqZwehxhULUKC0Y/8f2qNun5PDnj3sviKVgjR3NHwwfXCIhaMDJbMuR2r+Jw7nhzHN6QyVrEvx0qz34NKWaclYeJDbA5ov8IK9VLJ/GD1HiWa7G8tEa2CEo1dj0Ua3zFn7ITGwUREdtMf83yAr+uVxkqkC5OYpm6tlokQGEPbSYte9cX4lADnUrXXPj4KR2WAmQtzOvl7Fajzu1QBNfG50iJLyGaNJ4F0l8NsmfL4zVHmQswjF3NNuroG5YS+ZclwQOXTc/VF5UBSmDYjuiMoHcliH4qm2CLNQMmGhEKUnwm2OtcOngTBFdEArwi2N3mV3Rz4237pq3N2Wnw3cJAqrNWuivS74AKHUsYXpd87k99gruPnm6FMwBP1HBfC4KFurCA1A==;9sWlFtTb0wLOSgiHnY8fJw=="
 ---
 

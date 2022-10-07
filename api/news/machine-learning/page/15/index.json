@@ -2,6 +2,50 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-06-10-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
+      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
+      "excerpt": "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
+      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
+      "publishedDateTime": "2022-06-09T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-google-introduces-major-upgrades-to-its-vertex-ai-platform.md",
       "title": "Google introduces major upgrades to its Vertex AI platform",
       "excerpt": "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models.",
@@ -1316,50 +1360,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
-      "title": "RStudio is now available on Azure ML",
-      "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
-      "originalUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-24.png",
-          "width": 2240,
-          "height": 1260,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

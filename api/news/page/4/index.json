@@ -2,6 +2,155 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-01-the-problem-with-mental-health-bots.md",
+      "title": "The Problem With Mental Health Bots",
+      "excerpt": "With human therapists in short supply, AI chatbots are trying to plug the gap—but it’s not clear how well they work.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/mental-health-chatbots/",
+      "originalUrl": "https://www.wired.com/story/mental-health-chatbots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/632e615a74ce5b82a68ef375/master/pass/Bot_BotTeam.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/mental-health-chatbots/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/mental-health-chatbots/amp",
+      "publishedDateTime": "2022-10-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-how-colleges-are-using-artificial-intelligence-to-improve-enrollment-and-retention.md",
+      "title": "How Colleges Are Using Artificial Intelligence To Improve Enrollment And Retention",
+      "excerpt": "Higher education is advancing from its initial use of AI to automate routine tasks, digitize workflows, develop complex datasets, and create dashboards for analytics. Now, colleges are doing more than using technology to do the same things better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "originalUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6102d1d3cc6d3da87fbd41c4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/michaeltnietzel/2022/10/01/colleges-are-turning-to-artificial-intelligence-to-improve-enrollment-and-retention/amp/",
+      "publishedDateTime": "2022-10-01T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders.md",
+      "title": "Tesla Robot Shows Some Skills, But Falls Flat With Some Robotics Insiders",
+      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
+      "originalUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nbcdfw.com/2022/09/AP22269595150521.jpg?quality=85&strip=all&resize=1200%2C675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
+      "cdnAmpWebUrl": "https://www-nbcdfw-com.cdn.ampproject.org/c/s/www.nbcdfw.com/news/national-international/tesla-robot-shows-some-skills-but-falls-flat-with-some-robotics-insiders/3086381/?amp=1",
+      "publishedDateTime": "2022-10-01T00:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC DFW",
+        "domain": "nbcdfw.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-tesla-unveils-humanoid-optimus-robot-at-ai-event.md",
       "title": "Tesla unveils humanoid 'Optimus' robot at AI event",
       "excerpt": "Musk presented the robot during his display at Tesla's AI Day on Friday. The bot runs on the company's artificial intelligence software, which is used in Tesla vehicles for full self-driving and ...",
@@ -598,6 +747,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-01-computational-shortcut-for-neural-networks.md",
+      "title": "Computational shortcut for neural networks",
+      "excerpt": "Neural networks are learning algorithms that approximate the solution to a task by training with available data. However, it is usually unclear how exactly they accomplish this. Two young Basel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/966554",
+      "originalUrl": "https://www.eurekalert.org/news-releases/966554",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/71a31867-d90f-43b4-b497-5f9e4d84e648/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-you-can-now-take-a-driverless-lyft-in-austin-heres-what-you-need-to-know.md",
       "title": "You can now take a driverless Lyft in Austin. Here's what you need to know",
       "excerpt": "Planning on taking a Lyft soon? Your next ride in Austin could be driverless. Ride-hailing company Lyft is now offering riders the option of choosing an autonomous vehicle in some areas of Austin.",
@@ -971,199 +1163,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
-      "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
-      "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 115,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
-      "publishedDateTime": "2022-09-30T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work.md",
-      "title": "Tesla AI Day 2022: How to Watch Elon Musk's Optimus Robot, Self Driving Car Work",
-      "excerpt": "There, too, Tesla developed custom AI chips. \"Tesla's inference engine is among the best in performance..., giving them a real advantage,\" said Keith McMillen, CEO of BeBop Sensors, a startup designing touch sensors robots can use. FSD, short for Full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 643,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/59754357fb02580cafd46f1744e2f40d12389a1f/hub/2022/09/23/106011fa-bdbe-45ae-b52c-a9c9d5d218b6/tesla-bot-optimus.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-ai-day-2022-how-to-watch-elon-musks-optimus-robot-self-driving-car-work/",
-      "publishedDateTime": "2022-09-30T07:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
-      "title": "Amazon VP explains how to move past limits of machine learning",
-      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "publishedDateTime": "2022-09-30T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-alphasoc-announces-industry-first-cloud-native-network-traffic-analysis-product-to-identify-compromised-workloads-across-popular-cloud-platforms.md",
-      "title": "AlphaSOC Announces Industry-First Cloud-Native Network Traffic Analysis Product to Identify Compromised Workloads Across Popular Cloud Platforms",
-      "excerpt": "AlphaSOC, Inc., the Security Analytics Company, today announced its new AlphaSOC Analytics Engine (AE) solution, a differentiated cloud-native network traffic analysis (NTA) product that uniquely identifies compromised workloads across Amazon Web Services,",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/30/9684060.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

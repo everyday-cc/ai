@@ -1,30 +1,26 @@
 ---
 category: news
-title: "White House unveils artificial intelligence 'Bill of Rights'"
-excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-publishedDateTime: 2022-10-04T15:49:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+title: "White House Unveils Artificial Intelligence 'Bill of Rights'"
+excerpt: "White House Unveils Artificial Intelligence 'Bill of Rights' By GARANCE BURKE, Associated Press The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused ..."
+publishedDateTime: 2022-10-04T11:28:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
+webUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
 type: article
-quality: 59
+quality: 49
 heat: -1
 published: false
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
-
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "The White House moves to hold artificial intelligence accountable with AI Bill of Rights"
@@ -269,6 +265,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "+rO1SYHjA4UVlovsMJOwqSmC3FgXo0+rNkCMgyLxST5g7nAkQzS0uSkRTIkUapB/+P+cwm6YEwaZqZPp3gxIHvZEycWQlvsOzxu8CTeYiFlpWDqY0Chh6uwkoFAmfrjr/unFlLOCAiI6OA8M944t/W3NKlxRp9J7hwygk3497ACgf9/jkjM7lGpu2/plFvaoZNTU+JRfIq+8oBOTbamxsyUYjoxizva+tfmRb1FXEuElwihArgbWyaEu4iSQGMF1FizKtTu8pDpEXkjJONE/57wY/hhPHMYQnBYu2vv3SNEs0lCrkf2gtUG2x42wMRgN0ZkuzHGn3RUyAZI5IvixgbUi/u5AbJPkoVV5H0wKj5U=;S4I7vD8OBeyHyNcgggTshg=="
+secured: "uKrBIyKJyKWtyT2/FQel4I4q5ZmuI15/4Vgj3Xf1137ksUgeU7CIUDl7CQ0P5J68ym3Lge1YJnCHLbuHitw2TqZ8W0aLmsnkwhKnURA5bTo9/+L0B/8LJxKeOhH9joWHHg3/BywMK6NJEwd+eTkrYeX95bC/SrofnkgOl1joIkztY8zk0Z55I/1U16mVCqp07lSVHsAlP39Y1fuArrsAkCkdpU3HN6oFCnNjzpc5CrUMWcSxZcLoPAHoNoxi/D5edsZdDahSJLo4dMaYb5m2KCHAOtPEKv4df2KNSV3dCvYHV4P44KNJckIaen0aOFvzTS5TbiWPUQwVZVWJdG0fBVpaIiE4WIHFN2KseYblf5s=;UvjSfM7Xev2ZDTTsxYKhtQ=="
 ---
 

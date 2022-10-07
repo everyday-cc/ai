@@ -30,15 +30,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 20
-  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
-    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
-    publishedDateTime: 2022-10-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/966713"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "YO7PtzAQ4HLTvSpOCU9B++p9P2UP7dlzhIJ+JuMbY1FYheOPwGSEHxd3hWgkMkY96V/4+HJFPozFxerReZM8eaG1+ByXw2npaZ/1EIIfH8t6O6epgyWL2K73honMU5KmzJ1hZpS5hy3XA8fewovDUmYQ3NA0XusymAbLy+EDRswLoDr6V17rLkKSLCsmgGmsQZfHvWLdHXcwT+XY6OmL+XrapbjGSkCLlW43JffihBdrsy0Uf6CU0njYPtdXi+brlzouvc8tS6yqEiZdPkHIuRKTvUfusqFIkv4Kn/F0jUVvjHKxqMu53Yjim1IQTWmcomBcogTnjS1W5jOjzU/f4ymfoR1+qMqec0eIqNGrQIQ=;3x9NBQJaDOR+Pv/yZEAxWw=="
 ---

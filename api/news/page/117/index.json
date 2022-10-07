@@ -2,6 +2,196 @@
   "page": 117,
   "value": [
     {
+      "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
+      "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
+      "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
+      "originalUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/vSc5PYoYxxqOvEWljQwateFk-sY=/0x92:2202x1245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23665440/Screenshot_2022_07_01_at_11.47.43.png",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-o-ability-your-power-of-perception-is-mostly-innate.md",
+      "title": "'O' Ability: Your Power of Perception Is Mostly Innate",
+      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so.",
+      "sourceUrl": null,
+      "webUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
+      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
+      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "publishedDateTime": "2022-07-01T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-record-breaking-registrants-and-technical-papers-for-2022-ieeecvf-conference-on-computer-vision-and-pattern-recognition-cvpr.md",
+      "title": "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "excerpt": "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg",
+          "width": 400,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
       "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
       "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
@@ -934,170 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-viettel-enters-ai-partners-with-nvidia.md",
-      "title": "Viettel Enters AI Partners with NVIDIA",
-      "excerpt": "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
-      "originalUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
-      "publishedDateTime": "2022-07-01T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz.md",
-      "title": "AdvisorNet Financial Inc Buys 585 Shares of Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ)",
-      "excerpt": "AdvisorNet Financial Inc increased its stake in Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating) by 16.3% in the first quarter, according to the company in its most ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "originalUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/scripts/SECFilingChart.ashx?Prefix=NASDAQ&Symbol=BOTZ",
-          "width": 650,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/01/advisornet-financial-inc-buys-585-shares-of-global-x-robotics-artificial-intelligence-etf-nasdaqbotz/amp/",
-      "publishedDateTime": "2022-07-01T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales.md",
-      "title": "NVIDIA Share Price Slump Inconsistent With Chipmaker’s Robust Sales",
-      "excerpt": "According to the note, the company serves the most “resilient” industries, including cloud computing and artificial intelligence, industrial, electric vehicle, and driverless technology sectors. It adds: “In prior times, only a single end-market ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.investing.com/analysis/nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales-200525090",
-      "originalUrl": "https://uk.investing.com/analysis/nvidia-share-price-slump-inconsistent-with-chipmakers-robust-sales-200525090",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
-          "width": 500,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane. The taxi stops a half-car-length away. \"So sorry,\" a recorded voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "originalUrl": "https://japantoday.com/category/tech/china%27s-baidu-races-waymo-gm-to-develop-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

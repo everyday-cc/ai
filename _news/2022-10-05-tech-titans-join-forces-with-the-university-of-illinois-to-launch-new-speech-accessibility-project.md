@@ -34,15 +34,6 @@ related:
       name: MacTech
       domain: mactech.com
     quality: 9
-  - title: "University of Illinois joins five technology industry leaders in new Speech Accessibility Project"
-    excerpt: "University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
-    publishedDateTime: 2022-10-03T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/966713"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
 
 secured: "Z5xo7Pc8WDO9GEHg2yDkYAHFmIpo6DDyKPaQEdqjyPz9XOF3NGI7h3K58Ex1hqiutRHWPuo8tv0nyUg5gG2xNqGDaeDAUIJ0P+MZs+MYIDHc+rAD1CM0rdozVqqr1fkIPfI1sUHI7y02kgroBxpS0MHsHtrPzWKkfn8ig4DtkFuwU8fCM0IEnfSWf79lRF+C0o5Q3hqQ60NvkYw1QgL457ETNkEKrxub6n++XRX+So3GBBJRhSK6nlIJuCb0wox3jZf4m2Uj48//KKx6sPp3fnyhn6i+VX+cDvPPapn06ASsNCYHqYhtHN3xs/jhUauLV4//DZbYXHpmuiBawW57WS7t5cjDqj1slvKMQHaK6LmJSkTho16q43F+lanwFhiiw/o3Sc7u4Y4ZMAIblT+fiLfhtGveILwGjMPqp7LrXnmOYZmvvoUwTvyCYRSjFovwLrGP1wssp67ap+RwSMKbQ1YeyonIw6BCqc3jTbT2+KbHlHJUpHhR5zN8xGeGaMsgiUdvABH8bzF1pt3sHM6bQw==;g7t9GpmZ9V1v9nOa3ipE9Q=="
 ---

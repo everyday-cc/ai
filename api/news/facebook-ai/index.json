@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-07-3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt.md",
+      "title": "3 things the AI Bill of Rights does (and 3 things it doesn’t)",
+      "excerpt": "Expectations were high for the White House's Blueprint for an AI Bill of Rights released this week. Here's what what it does and doesn't do.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "originalUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-167852886.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-things-the-ai-bill-of-rights-does-and-3-things-it-doesnt/amp/",
+      "publishedDateTime": "2022-10-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts.md",
       "title": "Meta unveils AI tool that creates GIF-like videos from text prompts",
       "excerpt": "Facebook’s parent company released a slew of short videos based on text prompts, building on the recent developments in text-to-image artificial intelligence creations. The videos are created by an AI that learns what the world looks like from text and image data that is paired up.",
@@ -1440,49 +1493,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-11-meta-is-building-ai-that-reads-brainwaves-the-reality-so-far-is-messy.md",
-      "title": "Meta Is Building AI That Reads Brainwaves. The Reality, So Far, Is Messy",
-      "excerpt": "Researchers at Meta, the parent company of Facebook, are working on a new way to understand what’s happening in people’s minds. On August 31, the company announced that research scientists in ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "originalUrl": "https://time.com/6210261/meta-ai-brains-speech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-10T12:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

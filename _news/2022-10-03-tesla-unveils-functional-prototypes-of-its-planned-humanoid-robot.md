@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
 webUrl: "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
     quality: 85
     images:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Tesla's robot waves but can't walk, yet. Musk plans to make millions of them"
-    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot 'Optimus', predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000 - less than a third of the price of a Model Y."
-    publishedDateTime: 2022-10-02T23:37:00Z
-    webUrl: "https://www.reuters.com/technology/elon-musk-set-showcase-teslas-humanoid-robot-after-delay-2022-09-30/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/gx_3f22a3kYh8h4YmjMhdjZEvNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/WWSNDUO46JPIHMZLGYLX5S6FKQ.jpg"
         width: 1200
         height: 628
         isCached: true

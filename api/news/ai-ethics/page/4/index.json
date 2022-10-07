@@ -2,6 +2,113 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-20-transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are.md",
+      "title": "Transform 2020: Women in AI and AI Innovation Awards – the winners are",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! SAN FRANCISCO – VentureBeat is proud to announces the winners of the 4 th Women in AI Awards and its 4th AI Innovation Awards.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/07/VB-AI-Innovation-Awards.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2020-women-in-ai-and-ai-innovation-awards-the-winners-are-%EF%BF%BC/amp/",
+      "publishedDateTime": "2022-07-19T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-the-time-is-nigh-for-responsible-ai-and-data-ethics.md",
       "title": "The time is nigh for responsible AI and data ethics",
       "excerpt": "Many jurisdictions are following the EU’s proposed regulation of artificial intelligence. Firms that have not begun to develop their AI systems to comply with the new regulation are being advised to do so now.",
@@ -1328,112 +1435,6 @@
         "AI",
         "AI Ethics",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
-      "title": "AI Weekly: Microsoft’s new moves in responsible AI",
-      "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
-      "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
-      "publishedDateTime": "2022-06-23T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
-      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
-      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

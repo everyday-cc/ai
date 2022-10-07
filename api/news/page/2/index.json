@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-05-google-picks-south-africa-for-its-first-cloud-region-in-africa.md",
+      "title": "Google picks South Africa for its first cloud region in Africa",
+      "excerpt": "Alphabet Inc's Google is also building Dedicated Cloud Interconnect sites in Lagos, Nairobi, Johannesburg, and Cape Town.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/",
+      "originalUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/",
+      "publishedDateTime": "2022-10-05T03:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
+      "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
+      "excerpt": "We compare Microsoft cloud storage services OneDrive and Azure, so you can decide which service is right for your business",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
+      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1658499657/ITPP%20to%20ITP%20migration/Cloud%20storage/OneDrive_vs_Azure.jpg",
+          "width": 375,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-scalable-management-of-virtualized-ran-with-kubernetes.md",
       "title": "Scalable management of virtualized RAN with Kubernetes",
       "excerpt": "At Microsoft, we believe our Azure system and network management tools and expertise can be repurposed to manage and optimize telecommunication infrastructure as well. Here we describe some of the more interesting technologies that fit into the management of a cloud-based telecommunications infrastructure.",
@@ -523,6 +627,57 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
+      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
+      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
+          "width": 1260,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
       "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
       "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
@@ -1040,156 +1195,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
-      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
-      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-the-importance-of-monitoring-machine-learning-models.md",
-      "title": "The importance of monitoring machine learning models",
-      "excerpt": "The life-cycle management of machine learning models is more complex than software. Andy Dang, cofounder and head of engineering at WhyLabs, explains, “Model development life cycle resembles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/10/14/istock-808157650-100928963-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "publishedDateTime": "2022-10-03T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities.md",
-      "title": "Microsoft, Apple, and more work on speech recognition for users with speech disabilities",
-      "excerpt": "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "publishedDateTime": "2022-10-03T10:46:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],
