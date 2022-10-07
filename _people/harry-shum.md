@@ -3,7 +3,7 @@ name: "Harry Shum"
 bio: "Harry Shum is a Chinese computer scientist. He is one of the doctoral student of Raj Reddy. He is the Executive Vice President of Artificial Intelligence & Research at Microsoft. He is known for his research on computer vision and computer graphics, and for the development of the search engine Bing."
 location: Redmond, WA
 type: "profile"
-heat: 64
+heat: 50
 
 affiliation:
   name: Microsoft
@@ -39,6 +39,6 @@ images:
     isCached: true
     title: "Harry Shum"
 
-secured: "56re3i+bHwxvLs2AJ1p/lZ4bG2/jbLp92dLINDOUytuVWvwptpuACsH32VuinA/3NMsJgmyJ/XkmvirEkhszLucJ74mwz0OicVQiYP9kxmm78VUWs1R2t7J0z4VjD3M54bxoparF3H7NXIchxWjQe7bymrAF4ypyGdiCyqC75hXRNqDJ1/XATAfMAvKiEZfYEvmlZpnilnIUMNVsngzmCqTltPEsmcwdpS4f5wZW6q5RIlFfaskEFmkvYbPHVCCS1Qmg9cAhAZkua5SC5rAA0sSe2LLtN3JWfvLlIPl8Ivg27NBlu39PZQVzxoh8LMB/mjFXYn6JXNfoxxIGUeRQS7YULo+6Q5G6UXjNb34zL2yYHcjPY2dGMhiXocnZDQ5CbaIs7O4Dg0khTrcfVnh0y9GhblV7mgrm87VRonqjCks=;N/NnSoSx6gNTOga4q78jFg=="
+secured: "yuwUJe7wgHjos3+JsBKsfjaL+9fk2Ud9D3ARp8bqhE+ji4g8ZD6QY+kYc08s4hCSbHcy+keQs7jH2w4Xyz0iDnd3Bmgx3ZkN7BkEerUPHOr9uzf9BfE7g7XUKdnR5N6QDNxDO1YPwQm8U3g7gOKGjP5kuQ9zkPNurHwNrvVoxKRI284tiEsHHCUIy+5ztmaDZHDf1kaTh5DJVBdz3Q7egGlSAE/p5hvzTD3b/Cu2/s2FcS56joWuhnZ1mCtwnopk0W1KDfQyciO2w1A+plOCipAPVdwD6pTZAl4K8g1W7eLftkZwjzFKCSzirU/eF+HVdzLw9z+80cbnt4xibj7Xwwsa9tzj5wKpVtJxG47xd9VI8S6oJKcCKOuXBR4YckUlLPgsHPvkV9Rz86Fb2I/w3qZKajuobnLJkOi+4K8lOXs=;z4GHCpvpmZB96OiHYLR9Wg=="
 ---
 
