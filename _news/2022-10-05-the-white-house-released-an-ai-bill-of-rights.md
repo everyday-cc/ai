@@ -1,27 +1,32 @@
 ---
 category: news
-title: "The White House released an 'AI Bill of Rights'"
-excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact"
-publishedDateTime: 2022-10-04T20:06:00Z
-originalUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
-webUrl: "https://www.wsiltv.com/news/the-white-house-released-an-ai-bill-of-rights/article_d235c0c4-4962-53f7-84b9-ca06f24b38d4.html"
+title: "The White House released an ‘AI Bill of Rights’"
+excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
+publishedDateTime: 2022-10-04T21:06:00Z
+originalUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
 type: article
-quality: 39
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: WSIL-TV
-  domain: wsiltv.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Ethics
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/d/9f/d9fef2c9-1f63-502b-ad7b-e942a17e33b1/633db2a9a75e2.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
+    width: 1100
+    height: 619
     isCached: true
 
 related:
@@ -182,18 +187,18 @@ related:
         height: 1500
         isCached: true
   - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "On Tuesday, Oct. 4, 2022, the Biden administration unveiled a set of far-reaching goals to align artificial intelligence-powered tools with what it called the values of Democracy and equity ..."
-    publishedDateTime: 2022-10-04T11:48:00Z
-    webUrl: "https://www.stltoday.com/lifestyles/technology/white-house-unveils-artificial-intelligence-bill-of-rights/article_6e554065-79a8-535d-87cb-1bcc6d6d8195.html"
+    excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
+    publishedDateTime: 2022-10-04T14:14:00Z
+    webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
     type: article
     provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
+      name: San Antonio Express-News
+      domain: mysanantonio.com
     quality: 39
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/6/64/664599cb-4365-5f23-a76a-945c952eefd7/633c1cd993915.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
+        width: 2048
+        height: 1365
         isCached: true
   - title: "White House unveils artificial intelligence 'Bill of Rights'"
     excerpt: "On Tuesday, Oct. 4, 2022, the Biden administration unveiled a set of far-reaching goals to align artificial intelligence-powered tools with what it called the values of Democracy and equity ..."
@@ -265,6 +270,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "4odwXem+DFl2cO4CpIDGnS/KQcC/lLkkKvuHLB76gEPI0qOvjeorDkGmDF+rvMMcw6LH5F20YghJO2sTxfG7YTdV6bak1R0S8UIgvPxT7usuW1nzA7A3F+g6ZqE+9YsVpBVHmLqzenwrpC5v2eWnbtK/+HpAVpc4viQd3lUxcyeCv1ClZMb+tbtJLQN6FgEF9NYD1rL7q18I/w7ylTUl8MyIvR9+giZgD1b0XAZvAH/1Cn4W/erEaRPoQhb8r+docWyNJlycQP5F0FC8O4WB1j47Kb9lpUmOgLD2qmCLJXyU3WJGkj4sHZLvijdRtnnHvHztEf2qsMDcBTGhwWe3z7qKHcglhIC75Wx3UfqQOf8=;9fa+OPfRyhxmNLVBQTvGgg=="
+secured: "JhOYqxWAcpubpGueDbgfFYhVhxeLkXrlGZlu3EV/3Btyp+955BJA9O4jTW86milnkk2wE6eB8T8DxEkYeSgxmjL2+sXPO1UMAfjDiEMTfGD1JOKwe6XqJJZe5LdokH0tMc51+FKU0IOpSuXRxPx7OJF5GWEefaM071tHz/gLquHbAfzExhtbC+QlzSqDeuTr7rFg0FU3yvhlCVBVx3urNDI3QglAA6epirLupatJ+zMQWChDeNCuoPOPLraedNdFA8l5HnyFPJwByN6G2Dh9qb61HgKN19HrgbH8YeughXSXSmsMU5U6uwRa8tES4w9nFAU3+J+iTiCeIrJdVfaRObGXOHYiroK759YgLaB75IU=;FAYIH2mxXm+fMwuANPduFw=="
 ---
 

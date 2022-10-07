@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Want to turn photos into talking, lifelike video? Try this AI platform"
-    excerpt: "There exists a growing field in AI technology devoted to “synthetic media”: art, content and creative materials that have been produced by an Artificially Intelligent creator. The current buzz in synthetic media is centered around AI image generation,"
-    publishedDateTime: 2022-10-02T11:22:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-718729"
-    ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-718729/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-718729/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516088"
-        width: 640
-        height: 428
-        isCached: true
 
 secured: "sIKELJl7VnlhthCJbygU/rlEppLpfCiR8FditLx34XyvciCvSQqRLvOKdV7rcbqlURULSaEUTQpAfTFKB56axbgjV8nW6O3TKszdbaEFVwxMEMHhv4j1MksmmlZRsyJE3j8yWT2nX78Q29BaxnjU58GGBM/d5hqma+NfchepSOuxK9ZUmtGZS0s2/QEJDFA8tk+/vLnnoTXJZ2r1WIhKvnE/dClL5baGMfL2tMDEMcNJTOEMi+MJrRSkEgpXj06PIxvK4BDUUbl2IO1DpoyNbFyMktCUGf+EWMxD9DIza5zLzgDkCYo9a6nAmp5EqI3ufefDF+B2O1aeJu2+VGEuQVSvP8C56gvFS/fsWLBOmP9Dl4v7uHo9TKh/rh87G97XQu1/WCAVrxzxrL8+AirgXXBZF/YusPzD/Kn4LPBj0S0bbT6mF8nLEY5Lac95QuuKzrl7mJfbTGYWr89SK89nvlzbA3lPUMZwmxEZgwCS0st6T2A+vvwcgFtHLzpXE2DwANFJQ7Ujl0bHRf6KxB04iw==;ixmGKONp4pWdjrN3EZU7fw=="
 ---

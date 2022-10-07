@@ -154,15 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Software Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
-    excerpt: "Deep Learning Software market and global economic environment, we forecast that the global market size of Deep Learning Software will reach (2030Market size $$) million $ in 2030with a CAGR of % from 2022-2030."
-    publishedDateTime: 2022-10-02T12:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-02"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
   - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
     publishedDateTime: 2022-10-04T13:59:00Z
@@ -200,6 +191,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
+  - title: "Artificial Intelligence In Sports Market To Witness Excellent Revenue Growth, Emerging Trends And Forecast"
+    excerpt: "Artificial Intelligence in Sports Market Artificial Intelligence in sports has a massive impact on audience engagement, game strategy, an"
+    publishedDateTime: 2022-10-07T05:37:00Z
+    webUrl: "https://menafn.com/1104982475/Artificial-Intelligence-In-Sports-Market-To-Witness-Excellent-Revenue-Growth-Emerging-Trends-And-Forecast"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 19
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/07/EP_d88ffimage_story.jpeg"
+        width: 890
+        height: 466
+        isCached: true
 
 secured: "ZVWjtv2SXP7Al/9c01F9WDoN4lmf/CrTUDGEJMALqADKDiFqFiOJBWnSkPQ83ofPBMR/alGCITt7WAcGRjh/SuNqxlP09eE1MeN8wWG72US8UuAkCej7gCXcydQDOTswDkfCjFEWD4cHzmk03sjYiZ5+6r2K7b9zNC7uaV1s1ENsf/bqykKKpopXED+Pj94T2WW5ksysK9Y837EJw9FFNckopZrrCgJ2vXGSNWi/A2qzaH52nWCk768iaZOIHY7F8f5ztb9yYWEe1h7vWyciL2JUKAn7hDwrSZQsC+aZG1u4UxFlhd3VHdpbLIw7WkLlZh5zlreFIxd9U30rcKau9w/geNjVgcXRN7KpzcuARH4=;UZP7hIMsjtmRVdX3m51M0w=="
 ---

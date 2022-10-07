@@ -56,17 +56,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "The long road to driverless trucks"
-    excerpt: "The hope is that they can also serve as transfer hubs for driverless trucks. “The industry can’t afford to build this kind of infrastructure from scratch,” said Kodiak CEO Don Burnette."
-    publishedDateTime: 2022-10-02T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/the-long-road-to-driverless-trucks/"
-    ampWebUrl: "https://www.seattletimes.com/business/the-long-road-to-driverless-trucks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-long-road-to-driverless-trucks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
     excerpt: "Loblaws is partnering with an American autonomous vehicle company in what's believed to be a Canadian first: taking grocery delivery orders between various Loblaws facilities via self-driving trucks."
     publishedDateTime: 2022-10-05T20:54:00Z

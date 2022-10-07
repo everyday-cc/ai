@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/09/Rider-hailing-a-Ford-Escape-Hybrid-vehicle-with-Argo-self-driving-technology-scaled-1.jpeg?resize=1200,800"

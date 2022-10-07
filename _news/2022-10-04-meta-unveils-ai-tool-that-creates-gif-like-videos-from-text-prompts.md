@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-th
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Want to turn photos into talking, lifelike video? Try this AI platform"
-    excerpt: "There exists a growing field in AI technology devoted to “synthetic media”: art, content and creative materials that have been produced by an Artificially Intelligent creator. The current buzz in synthetic media is centered around AI image generation,"
-    publishedDateTime: 2022-10-02T11:22:00Z
-    webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-718729"
-    ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-718729/amp"
-    cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-718729/amp"
-    type: article
-    provider:
-      name: The Jerusalem Post Blogs
-      domain: jpost.com
-    quality: 57
-    images:
-      - url: "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/516088"
-        width: 640
-        height: 428
-        isCached: true
   - title: "Tech giants are producing AI that can create videos. Will we soon struggle to tell what’s real?"
     excerpt: "Artificial intelligence (AI) researchers are showing off the technology’s latest leap forward by demonstrating models capable of creating realistic, coherent videos using a text prompt — raising questions about whether AI’s rapid advancement will soon threaten our ability to know what is real or not."
     publishedDateTime: 2022-10-06T22:57:00Z

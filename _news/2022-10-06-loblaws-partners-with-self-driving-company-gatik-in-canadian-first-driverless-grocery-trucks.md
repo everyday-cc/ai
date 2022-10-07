@@ -57,17 +57,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "The long road to driverless trucks"
-    excerpt: "The hope is that they can also serve as transfer hubs for driverless trucks. “The industry can’t afford to build this kind of infrastructure from scratch,” said Kodiak CEO Don Burnette."
-    publishedDateTime: 2022-10-02T13:00:00Z
-    webUrl: "https://www.seattletimes.com/business/the-long-road-to-driverless-trucks/"
-    ampWebUrl: "https://www.seattletimes.com/business/the-long-road-to-driverless-trucks/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/the-long-road-to-driverless-trucks/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 39
   - title: "Autonomous Trucking Startup Gatik Is Ditching the Driver in Canada"
     excerpt: "San Francisco tourists, Phoenix suburbanites and now Canadian bacon — the list of driverless cargo keeps growing."
     publishedDateTime: 2022-10-05T13:05:00Z

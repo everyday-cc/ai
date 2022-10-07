@@ -2,21 +2,27 @@
 category: news
 title: "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins"
 excerpt: "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),"
-publishedDateTime: 2022-10-04T04:01:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins"
+publishedDateTime: 2022-10-04T04:02:00Z
+originalUrl: "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html"
+webUrl: "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/01/5018dc19-4132-5b2b-9b93-d8edcc791c69/633bb1b6803b2.image.jpg?crop=1773%2C931%2C0%2C119&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Mars selects Accenture to deliver a large-scale “Digital Factory” using AI, Cloud, Edge and Digital Twins"
@@ -34,6 +40,6 @@ related:
         height: 733
         isCached: true
 
-secured: "2icV1/lvUVvNFLX5GCZVEBuM38ZHUyWYh+oc84hzzGS14A/URgJpdpn9xbOriEXVIZjv3hdDQ1jswl/PVl/k1iNHeuiGzvD7P8Dd3UMbKQ2Az0k9LauF50Yf/903nrOxWkQhYMYCzACG4AZxtCMFXSx1drskGAgIIJou2wm2gJ1AsD0Sh0csCEdgXBfXSUCyiBgFOq9Isd8upTk7r0IJOBphUfbalnsG6puvx6kJ2zYE4yL18OIBlJcX+iun97KT0uroRlNJ+OPUTVJpmDPKoLdyTJmAgiDfyYXdAQTH9T+cl5HT1i/KBI972Q+kqnRaaGXyZcsW9+4yW1CNETwHhzsy0s+sp6n8nMq5xTZMql4UXGtqoj5qy3FMZFQJqyf8HWRpt4ExmeT6vN7cnlD5ToPlhGqk3+1HKXdcbAdKi5ODK3bb0lCKCZfF+itmrdjBeqJk2MMpOq58h38aTgvXpoD+VH6o6IrpeFBGvikDAEQPAiBc2aCPLsYKZ660A2FNAC9tnQlTQGL6c2/VqCgH1g==;L4jJbe0d0o6Z3k37hHMfJQ=="
+secured: "SwlfHC/n807iROqwcjsdHDWcbzOSt7CAtnYCZzvs6X1inkf4RfN2qN7hBJBSe5FzkOci852U7WoJ6lgmKY94oyCAGe+oVeOgX3ucBoSFz3EQ8IX9+5dEn7tIGwv3gangateutsSQM0fq4MqVZTS3oebBI6HSii30/u9RvtWe8VuDibpv0ZEd3yx3Irm+GAaz+5VnR+0SV2Bk0MA5Zr0xMaMS2JSH5OB9gUCJ9Dou7IBpiQfpFQn1wZC7LW3DAl+64g7ZmkmoR/b6/ViD8UmZHToAmunceyZpT4Ro+WeZMCbdY0kELdrHUFGcYx0gOhQlLPXX2w+kOtBElMriMhpXM8qcH9Q4ji9XG83RDL5UKn8=;zqhJ8soKn6oOI8VSU1clDQ=="
 ---
 

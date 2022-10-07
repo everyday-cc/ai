@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
-excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-publishedDateTime: 2022-10-03T06:46:00Z
-originalUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
-webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
+title: "Artificial Intelligence In Sports Market To Witness Excellent Revenue Growth, Emerging Trends And Forecast"
+excerpt: "Artificial Intelligence in Sports Market Artificial Intelligence in sports has a massive impact on audience engagement, game strategy, an"
+publishedDateTime: 2022-10-07T05:37:00Z
+originalUrl: "https://menafn.com/1104982475/Artificial-Intelligence-In-Sports-Market-To-Witness-Excellent-Revenue-Growth-Emerging-Trends-And-Forecast"
+webUrl: "https://menafn.com/1104982475/Artificial-Intelligence-In-Sports-Market-To-Witness-Excellent-Revenue-Growth-Emerging-Trends-And-Forecast"
 type: article
-quality: 24
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mena FN
+  domain: menafn.com
 
 topics:
-  - AI in Autos
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-10/07/EP_d88ffimage_story.jpeg"
+    width: 890
+    height: 466
+    isCached: true
 
 related:
   - title: "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029"
@@ -186,20 +187,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Sports Market To Witness Excellent Revenue Growth, Emerging Trends And Forecast"
-    excerpt: "Artificial Intelligence in Sports Market Artificial Intelligence in sports has a massive impact on audience engagement, game strategy, an"
-    publishedDateTime: 2022-10-07T05:37:00Z
-    webUrl: "https://menafn.com/1104982475/Artificial-Intelligence-In-Sports-Market-To-Witness-Excellent-Revenue-Growth-Emerging-Trends-And-Forecast"
+  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
+    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
+    publishedDateTime: 2022-10-03T06:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
-    images:
-      - url: "https://menafn.com/updates/pr/2022-10/07/EP_d88ffimage_story.jpeg"
-        width: 890
-        height: 466
-        isCached: true
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
   - title: "Communications Platform-as-a-Service (CPaaS) Global Market Report 2022: Integration of AI & Machine Learning Presents Opportunities"
     excerpt: "Additionally, the integration of artificial intelligence (AI) and machine learning (ML) for speech recognition, automation, agent augmentation, emotion analysis, and call analytics is providing an impetus to the market growth. Moreover, the increasing ..."
     publishedDateTime: 2022-10-03T09:03:00Z
@@ -210,6 +206,6 @@ related:
       domain: benzinga.com
     quality: 4
 
-secured: "/AVCBfkRG6POXxhGVkU/NSVbSAs/DCNzzw8bPVimrn+xEc4+cGIeb3AVcNiytrWGk+rv94mADc+m36VQkmh3co1fC89SLS8fXncjlj2LS7h9R8XkgL/HSJnIp1t3jBTTPHwl34QWja+56zIEiXPUHJIwUNP9mfojULyHcXttQQTgnTiisMt0xGWYKXTciiDwimM7hsxSBYD9OyxH7R6nCLgDiwWPiyWRAa2UgFgN6JlT75bQL5PwYAv200d2OSIgycQ0ffWzHItf9NZgJt1GDROrJZv8j5gNjTlSiZ51G5+lg/QoAKokbHAgsV0YXUO8yEjqcse4EnUKl6o6s0Y1dniijPCYIiYUEwy47eftXlU=;p4GH4w46GocgHetMyA5c7Q=="
+secured: "A2BHbKWLUbbsg3P40PIjX6vxLX/Hu+b/kdvebiK7f5Wa+UJ2wdJeR2skY7vMBemkFOquZepdbG4ilEOq6ZSbjDFV2aKRU7UIWfeVPVRAvy/gkATrzcb+MAKSMChdOl2kg1N5/Qy5eBT8KnisTNVGqqx9uP1gnvw5R0mxTG8B9HzyWQnAZwlx+Ea7NnFGrLkcIuImoTFwZ1QEwOt5VqS6+8abX7kOBA7kkHuC99ssDT/vktIzrztfrnOlRyfvgkhGb58uUbrIgV3M7SGEiCbrbqn1gyAlHwTF88pJGBG6fjFr61pzFS44NoSUWmXskiQuU5czkVA+sXV8FXdQ1ZWnPPkN7P5Ahooxd1ntZsLRLbg=;a64Eh4ArPc1x9s2dvfgZdQ=="
 ---
 
