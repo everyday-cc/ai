@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
 type: article
 quality: 97
-heat: 268
+heat: 267
 published: true
 
 provider:
@@ -104,7 +104,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
         width: 1880

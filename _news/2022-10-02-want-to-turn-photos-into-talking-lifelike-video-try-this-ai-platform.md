@@ -42,6 +42,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Tech giants are producing AI that can create videos. Will we soon struggle to tell what’s real?"
+    excerpt: "Artificial intelligence (AI) researchers are showing off the technology’s latest leap forward by demonstrating models capable of creating realistic, coherent videos using a text prompt — raising questions about whether AI’s rapid advancement will soon threaten our ability to know what is real or not."
+    publishedDateTime: 2022-10-06T22:57:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/tech-ai-can-create-videos/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 27
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2022/10/pics.jpg"
+        width: 733
+        height: 355
+        isCached: true
 
 secured: "pHoejdibonpu/Q61QYkbbbTiFtD6HbsqQLzTuTNFwn7sbegZmeAPPGJ6gZpuM6kSbcnr5eTDL6tvsoz/1GLU3kK5Wp9IrdIx8Jm/Lb0Yev+XVTypT1DdRRtD1IN6f9bqHF11ASQhcl/9N3ljhLog+1cO0SQ2SkN99dOTrMW0Tv8H6+vwVQRqXMTYZMq853w3zUjEASaVjFK6EyC20CQ/S4CjgfauM2lnEaW+3xVBTtu2gpMgR7brFFHqHMi/D6zmv5kafWpkOpgwTRlJD9MvlmYbGd20zmKvu1SahhD+2IA43AisVrSsgnl7xlnOOqx7LQzpobhL2g2bKBk/YesHJNo1jAp561ZWmrGwUgoyuIM=;L/lXs3chDyMHPaVZBra4wQ=="
 ---

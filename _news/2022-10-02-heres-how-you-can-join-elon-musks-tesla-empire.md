@@ -44,22 +44,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Want to work for Tesla? Elon Musk tweets asking techies to join him"
-    excerpt: "The job position open in Tesla offers multiple roles including building AI inference chips to run Full Self-Driving software, developing Dojo system, enhancing neural networks."
-    publishedDateTime: 2022-10-02T06:36:00Z
-    webUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/want-to-work-for-tesla-elon-musk-tweets-asking-techies-to-join-him-101664690406058-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 61
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/10/02/1600x900/Screenshot_2022-10-02_113222_1664692365895_1664692389654_1664692389654.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "Tq90b/NAN4VBc9VQrf1Rn4j6/tdJQN7AlDGYfa6VeB+c5pE6aRwPUQvHiBT8Y4EszdnxBNlh2WNzbCURAwqxRSudEmIAW/PJsEv2mR3YyCGDhBZHU7dZLo9yRaTtjjYFm3QK08gPfGpg9roKpZTpgtpJWgLiWmX7rhmvpBlLzq7aqlEQYbgB4gFcLr1rb54zjf+9G/WaeizkWsuIe4AE139QrfnbHSSw4ik2uQOAMqJu8LVVaEjVYZwnqjw9iLdCUvWp8ibnsVY36NvhPYfsrmIxgEOMghLlzF9G8F3nrbikAURl2h63oKXJfmkH1r+jtTbdy362Cjx1kpXEkzLwu2XbadvqvlhXvBT/5zpUQqo=;LchlIY5SgUpcZaOgeFnYgw=="
 ---

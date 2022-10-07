@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-micro
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "SAS introduces Azure marketplace PAYG option giving maximum analytics at minimum pricing"
-    excerpt: "SAS has announced its Viya platform AI, analytics, and data management, is now available as a pay-as-you-go Microsoft Azure marketplace option, providing vast analytic power to anybody - and at a price point that means there is no reason not to be embedding analytics into your apps."
-    publishedDateTime: 2022-10-02T05:28:00Z
-    webUrl: "https://itwire.com/business-it-news/data/sas-introduces-azure-marketplace-payg-option-giving-maximum-analytics-at-minimum-pricing.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 30
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
         isCached: true
 
 secured: "pAjqjj9ZE0lmSvBzK4FvmYkicz3kdWtu9lzeGIdIIB+NmjhbvUeBy5krso4K1ud4MWOU5BslLamZmZ5IQan4QybbpBFbF07NxhVlxr1LURtaThjPWmDrKPuspUzXCpVceHQDswsJP092nW6JA2XAKp8l3ThQ3jcj8w72NE8WpIW8vEzzSsSW847vTW+CUmWpGnw4erptXzRidK7f3oGTO17SVuS3dHO2XKGlhlaRW+kloVABj4ntzOvBRYXsFYTQzyMS4ydyeu4rIISJXlpI1QrykXYf/y99kJ89Qx3+//QJbQ1PirLuxgdcskxJFlzGHAyD5YKcqTn12rYxe6NaUcaZifYVRhE1z5eJbWEL1OrxN7jDvYRTkmlOHZ2uymDQmTosYUFqDplFxHOXUm3wqC6FLMPIL+d6jxce21jYPTYCSxtSFlplVZGVoWkHFGbXSE3h3Bh+cI4ddiJYvIUEVHzzbsy/OLMPbDY8I0bHOGaF907fhmHyGCLkA913jSLF4T7RXADBIGXf8G2ZzNoBRQ==;cUj2xWM91wMXsJ0oOPy3Wg=="

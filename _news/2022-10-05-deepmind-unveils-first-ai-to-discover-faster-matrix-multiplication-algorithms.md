@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-fas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
 quality: 105
-heat: 175
+heat: 176
 published: true
 
 provider:

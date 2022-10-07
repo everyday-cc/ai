@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-09-24-study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment.md",
+      "title": "Study indicates proton therapy has less side effects in prostate cancer treatment",
+      "excerpt": "The results from a pilot study on a small group of high-risk prostate cancer patients by Apollo Proton Cancer Centre (APCC) indicate that the proton therapy could significantly reduce side effects compared to conventional radiation therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/national/tamil-nadu/study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment/article65931455.ece",
+      "originalUrl": "https://www.thehindu.com/news/national/tamil-nadu/study-indicates-proton-therapy-has-less-side-effects-in-prostate-cancer-treatment/article65931455.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-24T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-24-3-artificial-intelligence-stocks-you-can-buy-and-hold-for-the-next-decade.md",
       "title": "3 Artificial Intelligence Stocks You Can Buy and Hold for the Next Decade",
       "excerpt": "IBM could be a cheap value play on the growing AI market. Workday provides balanced growth for patient investors. SentinelOne is growing like a weed -- but it’s also deeply unprofitable and its ...",
@@ -1115,57 +1149,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-the-pitch-deck-ai-startup-paretos-used-to-raise-10-million.md",
-      "title": "The pitch deck AI startup Paretos used to raise $10 million",
-      "excerpt": "Paretos offers a decision-intelligence platform that helps companies solve complex problems without having to hire data scientists.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
-      "originalUrl": "https://www.businessinsider.com/see-the-pitch-deck-ai-startup-paretos-raise-10-million-2022-9",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/632d8e4db431eb0019815c5f?width=1200&format=jpeg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

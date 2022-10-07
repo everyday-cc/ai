@@ -114,7 +114,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
         width: 1880

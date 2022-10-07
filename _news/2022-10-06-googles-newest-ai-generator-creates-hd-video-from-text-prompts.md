@@ -53,6 +53,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Meta Launched an AI Video Generator, and It’s Creepy"
+    excerpt: "The technology isn’t available for public use, but Meta (formerly Facebook) released a series of eerie sample clips based on prompts like “cat watching TV” and “spaceship landing.”"
+    publishedDateTime: 2022-10-06T21:31:00Z
+    webUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generator-and-its-creepy/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/10/cat-tv.jpg"
+        width: 1200
+        height: 915
+        isCached: true
 
 secured: "fcu3B36A+rPWdAB352KNd97W1pr4V7gBv3QHg9dGIKX4MPNK6sxfqPs6tzMDc/bDawn5uePfGA+5+KkfqhDA6qceZlyyn8Ff9ZKngCI6ZM7hGVZUNmQ3vbnlDgUeQ1VrWQmxGYVhxH9ywpFWa9+2BtqVQTxhUiBOMKcDs2RhdzGPPge3t+mPHsVcOruDKtEg/fK1i01tLnZeVgqHErEMx8q2vGUNAEXuu98um8tCL8i8nYKjxCFjbxYJ4dcul4zuq7128lQrllJgIILcz9pu16dX/j3BaMxGib1waVDYBdC0zcuUhRuTT+U5Nkqi14xZ5/m2YETVjuJQ+yMYXXnqxlUIsDvABiuRWuvCOVkKhLayHq+4XPsZbsaJnf3pD54ovqN+AWhMc42Gl47RwYYbHV5DQSrauUTu9mHStM8EUVWWnDOhNB+qJqzjMCYaT74em5BX2zvxdPGtoJbKsThDaOAFL8BhK2sxpwH5Se5oWhWXDQtOtoBfrdhjUhRt/bert4UVRNT0hOKJcxjjvMdWWA==;EzBmfDKyBNfEWYUPdPJz0Q=="
 ---

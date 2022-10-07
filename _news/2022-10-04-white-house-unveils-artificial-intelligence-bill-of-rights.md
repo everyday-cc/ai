@@ -113,7 +113,7 @@ related:
     provider:
       name: TechSpot
       domain: techspot.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
         width: 1880
@@ -260,6 +260,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "MM5wEiSO+GAypdABLC50wisE6CeO0NhN5VA7amgQeEe32aBSm3mR2z20NtxfbcMppD3FYi0UCs+MBuzJd0nQ0emyPkNMK0xSih97VXCU/C3E0Y0qlBZRES24i9it8m6WuLwPzdz6VHku+kEu7QA6QfoTUu4Gn8WI/udjGfxwUGlzYLQlYvA0FkWF2Job5pK/j200sQKNNuyoT9G6FepB5WdaEbJSYLh/8r/yhduIa80n0XvzFJCGcVcEC6eSLpUVHfW/fehapU2d4SCvKV/XyvBNzd6Bf53KmKUsJ13ye+8B02PZxH8UeUGFjE8FTSwzAQ1HjIbMxuI4SFFwBxVn1/ZsF+okJIlqLqL2Yh8O/BY=;l53ke4rr5NTDrnuOBEZvNQ=="
+secured: "pxhlGU5IWaPi0txI53xSbhAsYe+KBb48xeQwU9GjWIZoaQdzlxWkIRy71iLMG61UcVQn2aKhr51Nyi9rnA0+e0bu8ZWi2s/J83nfE1DB+ALelwy+dCQa+yi4lH2+UAL8DTEECVZ8/N2aWmEFsfnKvO13KAyKYjDLbH2cmndZAuoALMjhvMtc6Ddq+cEw7T+TliwaeLGqZzyFHW/Ti0n0hUnh3KJoUV0sJqaptbxFDMm9Pww8sU9/wk9FkuK5Sx3PeUzJeIPlzlUyob0eMs3E1PeC2eP/PaUdaJ/PK7Xuql117i/JKOfQ9e7t3CeFRhZ/jbmhUyxog9eyT2caH6THRWC3Ic/t7Fe6oLqDd7i2Ab4=;BIyrtRlUKzde/rh18fBN0w=="
 ---
 

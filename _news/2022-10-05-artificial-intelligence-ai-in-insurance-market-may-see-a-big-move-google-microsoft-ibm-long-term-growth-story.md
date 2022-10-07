@@ -44,20 +44,6 @@ related:
         width: 2000
         height: 1000
         isCached: true
-  - title: "SAS introduces Azure marketplace PAYG option giving maximum analytics at minimum pricing"
-    excerpt: "SAS has announced its Viya platform AI, analytics, and data management, is now available as a pay-as-you-go Microsoft Azure marketplace option, providing vast analytic power to anybody - and at a price point that means there is no reason not to be embedding analytics into your apps."
-    publishedDateTime: 2022-10-02T05:28:00Z
-    webUrl: "https://itwire.com/business-it-news/data/sas-introduces-azure-marketplace-payg-option-giving-maximum-analytics-at-minimum-pricing.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 30
-    images:
-      - url: "https://itwire.com/images/authors-images/stanbeer/Lead-Machine_pink_600x260.jpg"
-        width: 600
-        height: 260
-        isCached: true
 
 secured: "ALq6dXPrX6rYKtsO6lPmcOsp3jf88otzV7jA8sIzyBZ4msQFhCf1w07Lm/8xbpJIJcB9KS/lOqRiKEgLrMJRN+kENDxnG/1mN5jAnnrPxTZzpRn6n+CGjAr1wcJUoYJB+5b3naOtx2/U/zeQWUSdKXXuZu1S7KJgY7kWRzOoWU/aQjYV5go1jupFaximYLGDgI5AapEFq/qg1t4s5exgoUliRAM+SFIrjs4SwLt0QK7xUGB0GikaYEonSTdlZ8wE3fLyxuDnLO3FNcGObgIkGajfdD4AgyDHuQxcn6YYjsvlKsryX/YpQHYHXBb240d+Cc8iKt6y6nuEi5JOM29zFZZzmtPs69eWzni9b9a+EqE=;UhLWH/PpjIWOHhuyESMKqg=="
 ---

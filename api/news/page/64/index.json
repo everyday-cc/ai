@@ -2,6 +2,49 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-08-16-ai-could-help-patients-with-chronic-pain-avoid-opioids.md",
+      "title": "AI Could Help Patients With Chronic Pain Avoid Opioids",
+      "excerpt": "Cognitive behavioral therapy for pain that is supported by artificial intelligence renders the same results as guideline-recommended programs while requiring less clinician time, thus making the option more accessible for patients.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/pain-ai-21240/",
+      "originalUrl": "https://neurosciencenews.com/pain-ai-21240/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2022/08/pain-ai-neurosinces-public.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-teslas-full-self-driving-feature-may-have-finally-met-its-match.md",
       "title": "Tesla’s ‘full self-driving’ feature may have finally met its match",
       "excerpt": "The California DMV has become the first US government entity to formally move against the naming of “full self-driving.” Automotive regulation has traditionally fallen to the National Highway ...",
@@ -1104,58 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-responsible-use-of-machine-learning-to-verify-identities-at-scale.md",
-      "title": "Responsible use of machine learning to verify identities at scale",
-      "excerpt": "The power of machine learning is best when it's utilized alongside human expertise and with data transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
-      "originalUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
-      "publishedDateTime": "2022-08-14T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

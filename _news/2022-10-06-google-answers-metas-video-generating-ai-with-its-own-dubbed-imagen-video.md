@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/05/google-answers-metas-video-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/"
 type: article
 quality: 85
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Meta Launched an AI Video Generator, and It’s Creepy"
+    excerpt: "The technology isn’t available for public use, but Meta (formerly Facebook) released a series of eerie sample clips based on prompts like “cat watching TV” and “spaceship landing.”"
+    publishedDateTime: 2022-10-06T21:31:00Z
+    webUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generator-and-its-creepy/"
+    type: article
+    provider:
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/10/cat-tv.jpg"
+        width: 1200
+        height: 915
+        isCached: true
 
 secured: "U2wYb1F9nHrqY8/nalGXrV0CYj+6lIDskS1PcJwISwfaz1//G8lPPSYb+bfXiIuN1j1RLnPevSdy6GPNEHCDBnKDEXb6IvrHyQ2rMOcHkZdIuFenLUHWgJKEQWeB+3ThhOfSzYLufeZKL3avpwanhHE5BZD+cQpUHBSNK2VrQ4+RHOph6IOFsBxoYbQKsxpT9hJl2nGnd8oof2KyKBZtdPXzlfQKdORzrCv0eKzgGvoMK7+sUma6EGRCCI5mS34SYrJzT1m9pPVF0eMLD9UWLxL9w1MdM6iMwkl5yU6NjJI2AyFrxmmzoLDJ61EdheQk+WX9wqJUkdCmuKbELL2gwYQ0Ekg6ZzfNMckJ57/sCFYMuMfUz40BLa9WW105LzW+zrF9EHzRMBs2OOgoMG0lvRYhh71Kb2931ZDhiSUejN+EcYX1ogHGKaoVYUyRRFmpGbFZZPXIpzl3C1DlStzw6BR2+Eot1tDGvQNNUS9UiUJOP+C9VMHV/4tP0bZymD06SAZqKliyVyADg5fUz7QasA==;SP952VD4TrMyX9qNUihDeA=="
 ---

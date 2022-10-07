@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-06T20:35:00Z
 originalUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
 webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
@@ -264,6 +265,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "yhazjQuY0BtEjH2TRJft+FtFIwyJE2LG2oE/zEw74kpFlZLDRpVlIUmN2MiVmT16J1Csok/8yIREjerP4imed81RVBK1vo/upIQV6G2ailkpV0nGa8Fckva2PwcRGLVZjLKNL3HTMVKj4fS1qb/4zIt65IoOXrddF6ocrl40to7F9D3jh2kjC7ryrGbilgRhDJDMhxNkV1/WCnph7Ia5Alzur4Umxb1o7O9hENA0IZ7NMeuJ0vn8d7ZkjmdEwTLlPLuA6xmKhiIORJG13/nUkmEPAG1qi3jXYDVCdggS4YBF1v2+uBz4ebpBwmmRHMkh7kuU5G3NqjcP+3se8rbWJXq0soClJH69UzapTibvD0w=;UdptM+QGvg2Zh5U3Y6Bv/A=="
+secured: "Nl0axuInFWwWlMyDPWEBSvzjTTbraEiipHy3rYgZhkA6Kf7aRQwcUyI35+OvLu2I9bGMYzK/GkbrXbcIhMyO5i5CZvhk02i698W4T3iGPYz6JmTZtNRfI1ZifZbC+RMcW+P9PWfOBFIJtpqklRXQ9slHHoPwu+f9skKp3xZLOmRr+B9gSIWjd/MKp9SJfkFJhTY74/ZtH9e6ZSIp2werfMzzn1hHNzqnALA8hh6Gl+nc5XLjNoAEN2pcJ4+b+051Ovs7R30rDZA4QBuDruvbJrN0JDKZS8JhnhqC0GKdIjHNzyqjYUdMAUO3ljWsCOhnJKTEHKSYpM5IHnPNETpNp4/l4OJ54jlErn/yd4L94E1JGc9p1PlLaov5r2qtgT230OqXoYnKgm0uOqmp5PbFN6YYmlIcDnBYpEzAVWHWp0WN+/XsDFgpuj11W6hVQ4qxje727tQyJOaaKDgbjtlwhtLOJRrxyYVVyU1GLV9lQZr6k6GQZo9jC9mkPifFwM3pBOuSfpq5prbgjjg7Q2dYHg==;lD9e8DtZJ6eLT1UxyRG9Bw=="
 ---
 
