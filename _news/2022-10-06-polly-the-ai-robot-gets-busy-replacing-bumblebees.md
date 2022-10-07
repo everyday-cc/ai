@@ -7,7 +7,7 @@ originalUrl: "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacin
 webUrl: "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacing-bumblebees/"
 type: article
 quality: 71
-heat: 71
+heat: 73
 published: true
 
 provider:

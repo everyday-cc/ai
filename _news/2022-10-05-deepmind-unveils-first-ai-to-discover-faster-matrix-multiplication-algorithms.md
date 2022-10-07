@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-fas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
 quality: 105
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
+    excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
+    publishedDateTime: 2022-10-06T15:44:00Z
+    webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
+    ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
+    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
+    type: article
+    provider:
+      name: Daily Tech News Show
+      domain: dailytechnewsshow.com
+    quality: 59
+    images:
+      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
+        width: 512
+        height: 512
         isCached: true
   - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
     excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"

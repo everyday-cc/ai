@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

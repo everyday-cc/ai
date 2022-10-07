@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-dri
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
 type: article
 quality: 59
-heat: 110
+heat: 109
 published: true
 
 provider:

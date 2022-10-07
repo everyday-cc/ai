@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Discovering novel algorithms with AlphaTensor"
-excerpt: "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about"
-publishedDateTime: 2022-10-05T00:00:00Z
-originalUrl: "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
-webUrl: "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
+title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
+excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
+publishedDateTime: 2022-10-06T15:44:00Z
+originalUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
+webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
+ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
+cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
 type: article
-quality: 74
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: DeepMind
-  domain: deepmind.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Daily Tech News Show
+  domain: dailytechnewsshow.com
 
 topics:
-  - AI
   - Google AI
+  - AI
 
 images:
-  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/633c2e27fd141483d83afcb0_MM_Blogheader.png"
-    width: 1920
-    height: 1080
+  - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
+    width: 512
+    height: 512
     isCached: true
 
 related:
@@ -75,6 +73,20 @@ related:
         width: 3000
         height: 1688
         isCached: true
+  - title: "Discovering novel algorithms with AlphaTensor"
+    excerpt: "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about"
+    publishedDateTime: 2022-10-05T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/633c2e27fd141483d83afcb0_MM_Blogheader.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
     excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
     publishedDateTime: 2022-10-06T19:02:00Z
@@ -90,22 +102,6 @@ related:
       - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
-    excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
-    publishedDateTime: 2022-10-06T15:44:00Z
-    webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
-    ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    type: article
-    provider:
-      name: Daily Tech News Show
-      domain: dailytechnewsshow.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
-        width: 512
-        height: 512
         isCached: true
   - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
     excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
@@ -150,6 +146,6 @@ related:
         height: 576
         isCached: true
 
-secured: "Uhj/UPOfObfLAOu08N//T1FB67BzY8lhVZs0H3QtNYL1zK+/3I7GrjwNRThONLmJ5kH0Lh8/P8ENAuE2juTJDhIfRb5cIwNUWl8iHfyp/P8AQ+EUDdXkvR1QH+IvA27ULjjj5N5ERWeLdhu84cypRhL/h4Zd6kf4QDTTTAQVHvPyB9vH3QX9l142W2nuO/UEQEStzTiGOcXb6wNGoCQSR68CV65huBooiNRnqI7sY/wwfot+x0os+4/MMjSVzN/yWCep438xhGRmXBAtSDPn0EDVQsLA3E031spAvWc73UIPGIZ6m0I3XGjqTTbY26WD3RgDIltOpfg4z1e3Uc91oJPpxn5Shp/Gf9QNkk1U/ZQ=;71U3yQHhGVydsguRmHAmTg=="
+secured: "7IYEbwA7HBEiibbiSPnY0h/3/X4PBIoyKF9WGSg3cDxziWX7isE3h99Rz1Cq7yd7/JaA0IADVl2k4sRJk7GoIUz9/YVYcqsP915g//FXZQueRE3gwW2XZWcK/uJa6D+10Knca4zXZ6x4HboZqf4W5nocwX8LGME9W2b0Ku1Rs9IAlIDawCbPiwemqOOajPQkHFAHGjpqWtnFqWLectWk7f7NDJL1gDolR3/sPs5IWbmbOAFUg0dKntrYe9dBQn5TWlOmnv5RBigunc0OlHw4tyHARXxgKNAX1MPskgXyJu8TLtoM21tGRVGpW5Gs0rcXT8/MfRzIgiWfZNxtlEZvqi5ANb7PQglaF8PNBrlwPGU=;fEwCsd/MhK0Lm/zfAopN5A=="
 ---
 
