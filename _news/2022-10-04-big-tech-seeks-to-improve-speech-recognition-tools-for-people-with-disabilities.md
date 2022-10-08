@@ -9,7 +9,7 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-impro
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -57,17 +57,6 @@ related:
         width: 2560
         height: 1434
         isCached: true
-  - title: "University of Illinois joins five tech companies including Apple in new Speech Accessibility Project"
-    excerpt: "The University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
-    publishedDateTime: 2022-10-04T02:49:00Z
-    webUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/"
-    ampWebUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 9
 
 secured: "JP/5tYe3MlIiqCRB/HqqeBKkfqPsp4tmIxhPpEFwDaZuzuHl9rWMt1o0FqoFRwS+6VOkAxK0NDVyX25HilDv8Jeep/kdmoBNUOh59bJxZOp127YvpNwNja03HGu1SiF+dodXBXNqz3Vd6b/ICTHE7nasnqjgfWiPjjXgX3zcJRjus3wZRKdLi9bTH/R34eBQrowbHMTMcKRF3os4sRDBbFWd43Npd6NUoFg63ek66fNOsVMRSFUHNdBV7IyVpTW3ZHmsPpecO8LGXK7ja6gFrS02UXr4HhQ94P0DhP5LTE0hcrfmB0mF89iq2gonIFgQA1gw/0J2Liv3GkwLsetX1a3whQ2EA7VUXqjmk0/y1pFJZzMpcuMvjJsidqnlr+UZJubQF1X6Ilbik3tUu7nr9Q/Mj9YKn8k35FPbpX3x2lKvuq9lqYMEYTHQjdVmXU797SEMaoUhSwjzKaFeiPxo4MnRIXDXCItAeChYk+x8niKSeEuu3bjjwe+yBCtvzTDI4EJpYzbIW1z+ScTBnIfcIA==;ejqkrsDf/jEYLCVFH1pfRA=="
 ---

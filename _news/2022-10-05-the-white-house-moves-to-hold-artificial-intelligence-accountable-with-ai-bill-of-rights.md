@@ -188,20 +188,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "On Tuesday, Oct. 4, 2022, the Biden administration unveiled a set of far-reaching goals to align artificial intelligence-powered tools with what it called the values of Democracy and equity ..."
-    publishedDateTime: 2022-10-04T17:18:00Z
-    webUrl: "https://omaha.com/lifestyles/technology/white-house-unveils-artificial-intelligence-bill-of-rights/article_976f8cd2-2440-52ad-b0cd-107f0e18b638.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 39
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/f2/7f2178d4-8f04-5be0-91a4-948b19dcf6c4/633c1ce144a7e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
     publishedDateTime: 2022-10-05T08:49:00Z
@@ -230,6 +216,15 @@ related:
         width: 435
         height: 290
         isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people ..."
+    publishedDateTime: 2022-10-04T22:26:00Z
+    webUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    type: article
+    provider:
+      name: Boston.com
+      domain: boston.com
+    quality: 19
   - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
     excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
     publishedDateTime: 2022-10-04T11:00:00Z

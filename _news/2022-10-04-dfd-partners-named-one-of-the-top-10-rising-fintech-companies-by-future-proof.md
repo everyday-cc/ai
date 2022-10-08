@@ -51,22 +51,6 @@ related:
         width: 890
         height: 1024
         isCached: true
-  - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
-    excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
-    publishedDateTime: 2022-10-04T03:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
-        width: 690
-        height: 390
-        isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
     publishedDateTime: 2022-10-07T14:27:00Z

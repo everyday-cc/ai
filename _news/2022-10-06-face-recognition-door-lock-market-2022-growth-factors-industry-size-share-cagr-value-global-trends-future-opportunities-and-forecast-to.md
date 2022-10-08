@@ -113,6 +113,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in the Telecommunication Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "The \" Artificial Intelligence in the Telecommunication Market \" is one of the sectors with the fastest rate of growth, it is crucial for market participants to thoroughly research the sector beforehand."
+    publishedDateTime: 2022-10-06T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "6WFyVrwJ/E089f33zRpxtS1pphpKbkzqkeYHA170FyK1wAzfAeTdx5zMYO5e5M23IyLblWYK+qsOsWl6ap6UAzpYSwSwVhqQRJb/xTigveArPETxLSKalHfWJAxED6BmKsW1Zx1KGqw68e9N1wy1qM+KZ5QDPh6zfWiruzEBOM7IseeDmy45lXGlayPeEmi0u3ioo/L2TEeFTuV7kAPASIrRpISO8736kfzZmFT7etsH/eYGyK8C5ngT2BsFBvsxiyWyt3uvVNcjZWraBaXXX/ZtGPya/eUjp/M22Vy5HJKnKze6psPmepJQcqVKeoCSDaIUUthryYydaq3brbtGsh7jz4pEm0k741VfYPBnt2Y=;2M84xjwgEOoiC9Mvfih68Q=="
 ---

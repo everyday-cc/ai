@@ -78,6 +78,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Google AI Videos Point to a Machine-Generated Future"
+    excerpt: "In just the past week, AI researchers from Meta Platforms Inc. and Alphabet Inc.'s Google have taken an extraordinary leap forward, developing systems that can generate videos with just about any text prompt one can imagine."
+    publishedDateTime: 2022-10-08T18:05:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-ai-videos-point-to-a-machine-generated-future-71665230264578.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "19vfFnP59g1KjkVWIVUMf5CPnP4rXrtfxEwreXfx/ZFvRFLyrr3xRmjMHemy8Uy/ubEUzzFBDeljr7XIw9ijoBWwEEv2duAd6oT1doIy5yl+jvuahdwh3Q46Kbz+OuwFmytcDjag4p2bviJp6cTux95U2jZb3y8M35UJlfe9omCY4TIZ9i0aqUC5QJPWKGypqyyd8mpuG+OT5sSPtuEWzB2Y2uwlAew9tRYddFXysRWpbWO/iZ6W2dww4GAB21yuZDhs4NzvKzLVNCBdBhJkG1SP8Nx0g9LGhNmSGeRgTwce+w+SLaOsRALEH7aTrLYKajPukpc/DnxoA/HDOV3dAamZrsBG1/pkGP9NFoKtK/NGhl3ys0rtyyLgClxDrAfOb5zlDymhOIvEF0l5Wh6dZXPLXXzIRiY1Yc3rU7bpAaMl7d9aCZavxyOXfAQ/2BjUZBqSvUrFT+kwmtgeqjsua6TsMIR/nwIBix9Habw6FG9ySYFkBif/lKzUIXEasyzO/JUO1xOzO9/Z7NyaGP6bLA==;+OfASQl9drR1bKWHkWk8vA=="
 ---

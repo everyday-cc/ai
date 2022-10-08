@@ -60,6 +60,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Vehicle Speech Recognition System Market Report with Executive Summary, Size, Analysis and Forecast to 2022-2031"
+    excerpt: "Application (Commercial Vehicle, Passenger Car, Others) – Global Industry Analysis & Forecast to 2031 Industry Outlook and Trend Analysis The vehicle speech recognition system market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
+    publishedDateTime: 2022-10-06T08:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-report-with-executive-summary-size-analysis-and-forecast-to-2022-2031-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "mzh+zuAl/WFUcOVwilDbOv+JqzAKsY5PNn50CvEmmA5ysk5xHO/ekdAo8tHEIl4II/l/tvM4hIZjUXv1HJDNqvrGFojBHC0/n8NSIEd+hRhhOWC8uyFv6wS4JLPHyQK/QSRwVVRkAWCTCWgZUkfApQPoBgsNJbgUwzFcP3BYOWbnaq4hnhvO02lqwXAEgHQXxk5srHti9o0X8d1pM7o/L5LqLf8KYNsoAAtMXMoU7AViQe9rHXDdxXN8zJ1xM0/wM5YphBAIQ15bPvfoMBFrB4E4CVOtJ9wXMP1GR/5Iy4Wa6r4OB6XoYMu5QQ3YBMY/ETXD1p+B/8LseUyJgwzrPdZ6194XW8Ja8bKhjFvvyzY=;hu3QF3CbZIz+Ulx8Xg1EhQ=="
 ---

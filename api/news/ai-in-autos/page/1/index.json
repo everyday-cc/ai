@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
+          "width": 1024,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-10-08T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-uber-uber-inks-driverless-robotaxi-deal-with-motional.md",
       "title": "Uber (UBER) Inks Driverless Robotaxi Deal with Motional",
       "excerpt": "Uber’s current deal with Motional makes the latter the first autonomous vehicle company to conduct deliveries as well as rides for Uber. This is because in May this year, Uber Eats and Motional launched autonomous deliveries in Santa Monica,",
@@ -44,7 +88,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -98,7 +142,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 142,
+      "heat": 152,
       "tags": null,
       "images": [
         {
@@ -257,7 +301,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -1426,58 +1470,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
-      "title": "Intel's self-driving car division Mobileye files for IPO",
-      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

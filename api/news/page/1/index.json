@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
+      "sourceUrl": null,
+      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
+          "width": 1024,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-10-08T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "East Bay Times",
+        "domain": "eastbaytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
       "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
       "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
@@ -1029,7 +1073,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 148,
       "tags": null,
       "images": [
         {
@@ -1169,59 +1213,6 @@
         "AI in Robotics",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028.md",
-      "title": "Self Driving Wheelchair Market Global Industry Overview, Sales Revenue, Demand and Analysis, Forecast by 2028",
-      "excerpt": "Self Driving Wheelchair Market New competitors are exploring? Global “Self Driving Wheelchair Market” the research",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T02:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

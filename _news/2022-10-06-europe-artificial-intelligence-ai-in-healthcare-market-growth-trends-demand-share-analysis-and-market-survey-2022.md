@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06"
 type: article
 quality: 75
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Machine Learning Market Demand, Size, Share, Growth Trends, Opportunity, Forecast 2030"
+    excerpt: "Machine Learning Market report contains detailed information on factors influencing demand, growth, opportunities, challenges, and restraints. It provides detailed information about the structure and prospects for global and regional industries."
+    publishedDateTime: 2022-10-06T08:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-demand-size-share-growth-trends-opportunity-forecast-2030-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
 
 secured: "Nhdp7aQkmNH4NjFbt0JHMb28g7ZE8jJO/Cuk8odnwCjxfURhAo9dXTHOim/HdBOHIlS9lear23H61vd2omeITA8+XF9ybnXDM9axAbGmIaoBYKGNVQM6d/Lf+MrC9QovvuTVhy/Iv+JTElU/lLluL7L0eO9syGP1kd/3VGYVfg6OVmCWprnDKdeBCj4yYydqhCDHce3R/z+n4vPzQKMnfA/wVNb9641B+eM2hOjdsH9NBn+2fW1BY+Z4gJYPzDVg40JSdc6V2QGQYnyHLJG7Z+dPYp2t0+R2BwWonq/aYBTad6ypajeMItUPxRNhQd8cCejyHpleFG08gkkL7tIBGa0L0lxy6VlWBKyJC3COM5U=;iLzGTZSAUa4zPr3qX3vQ/Q=="
 ---

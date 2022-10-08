@@ -57,17 +57,6 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "University of Illinois joins five tech companies including Apple in new Speech Accessibility Project"
-    excerpt: "The University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
-    publishedDateTime: 2022-10-04T02:49:00Z
-    webUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/"
-    ampWebUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
-    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
-    type: article
-    provider:
-      name: MacTech
-      domain: mactech.com
-    quality: 9
 
 secured: "AyBPlhIYgbODF2XDmfaicDV0tULoXV09R/0EcrxkbeixMuRb5N30eYsVyb0Yk4Gr4ZJfCY/FZB7u5kS7GdxpMvls7Ys51Pwu3IbmFIgs+qmLkFpaFeJRl2mWnMSXlmUdEv0y3RSgcgvunf0qYN13+C3anymVXX+VP/jZKlhs6d559BDtR2r/Gx9HVv3omoO5Eb8kFmOIhNweF6J3t7hqz3PvBVdMF2axxQMnk6uLJvwO4DqWmiXi4xr8bQ32VZzasVlO5bsjouwDQL/5KYENhZdjMVtK6tLi/GL5OoLiBTxYca1Eh1MGWq2PIxrgldgDBPu9vQJf42FJpSzdpC/BclqxkWvA0Pccr9QMLzEO84VIhbdVH/hilBAYVrPcwoJiFDj3/aTQwjULuMDe2w9q5iAqeayTqorzLgWV1xbYTK2m2C2bWuzYk1si3QFFoNwIRbCxm2DLRDVeWhs8P85PyS822KH0VPhFmyw/68HOwJaTNLcGpqr12s0nVaq/I2zFuW7aiQHfxSpKVcJybPc6vg==;Yz8sQoIgn1jNrJY9G/Y1pA=="
 ---

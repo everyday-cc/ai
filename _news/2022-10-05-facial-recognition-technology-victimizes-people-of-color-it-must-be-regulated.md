@@ -52,6 +52,15 @@ related:
       name: Investment Week
       domain: investmentweek.co.uk
     quality: 33
+  - title: "South Bend announces policies for 'real time crime center,' facial recognition technology"
+    excerpt: "The project will feature an expansion of video cameras and facial recognition technology as part of the city’s push to curb violent crime. The goal, outlined by city officials, is to have the ..."
+    publishedDateTime: 2022-10-05T23:05:00Z
+    webUrl: "https://www.southbendtribune.com/story/news/politics/2022/10/05/police-policy-real-time-crime-center-south-bend-facial-recognition/69541727007/"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 10
 
 secured: "Na6hjopLnPw4nZu5Ow63Ou8wwW4oivGeG/FM7Z2KGRENwT+fFyFem+a0Hd6NnmvcHOmCB/itcNM65XOewY1o1E+wlinmQxX1DeACJK/lxAxG1PbGtGRoU/mvLlbQNuSOGIMjQ47bJWw9cgF5vqCwYnbr8YpirPuWKfPfCT+q8rb+fxo+IYaFAf4AOlFAudnjg8/E0pC8BPN/h5SWscZ8K7cW600cBu9Z0l19mggWyni5Cc9upWZhSgp6WkSc/de652JXF1LONheYA08P4k1Jt3tEK4bb+KRKtzd2iqQN0FzY8gKsc3eI0buqEruhWEEhPmUnipEEAiBNLxb8ybO/haLnOYzj5olcMW1XUMz1i3NnkGcHHLx40NO1P/rS3+ir+KHN7tgLxfclDBxade+cmjXmYRLBNbTWI+51ZeHcSojbTev0VNSyA8Wtxb0t20HsLlTkH9hPWBPD1V30yOlchgQYjoldZ6hwmvpxlTeRsHDWwD64d4IESluaY85xN+UarM2drcI456RNobNhJJeKlA==;ThrodBLe57p2q+guR6TCOw=="
 ---

@@ -15,6 +15,12 @@ topics:
   - IBM AI
   - AI
 
-secured: "T4TuT2PIgEY/YL7F7y3Fv+bjmbPbNv5jkLVszPb8NOEOH7ezGSWvSITD2R0PKMdFMjFnmnK1PMiNn2tyUfxPz9SSc1rNUyET2MWOvlaJGPpegI7BiCpaoBFmnuJW6ctBEIOGZpJ2IzJSg+7EWkGfE2k0V/DaOLa9dDvSWfUUfesbH9u6Ju5EZcaZs/N0wg+FAxkNU0hBY3GK7GqhrwtBT/BkeCqYN1zDtLx1CSXyJISP7Cw3ELDvm2okD8wfXne3iBhBLI51kP8z7PlgZ26KYn8OFKwuQ0xOaGKfg+ZC3pP5F6T9VPbvHbdTt/iDCAUGPynDzZ4iW1Eni7kkWvd/mF72675TOgbA7Tdg+2BbeUo=;0ryq83n/lxCgciCLY0UqHg=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "tU9lWoi/2U5LYAki8wFdphY9u6uoK4xUL6VatOThMshywGRMLdL9M2ebyh9tT5MZV8Jypzad+cDgLF8mOaXlcQcd/6iUtB0EoyZPwU7Y+sxYY1qf5YVaoie5bzTuv3NWWrhEaPX36LDHDdYCWXXKnzdcgY4Ajc9qDp2WQ0WkqgaR6+ZlgmwC552XB1GdtYQ8JUbPajQGhhxiv2uVBksnjFGHZRa4jL4G+7o67ooCvRXalwXxOxlGT+8jtu/gcuswLsybowcuhc1Z0JeepbisuNk3P9q492jdGRNFP6YhuxUxf3ikmpnzA/04GN9hYmAi4Z251we7QZkB1D+o/PQ79WaGs1LsipKTg5GvhK8efpU=;M8xc9ZcrCdXqrSdYpPs5aA=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-th
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
 type: article
 quality: 59
-heat: 70
-published: true
+heat: 69
+published: false
 
 provider:
   name: Euronews

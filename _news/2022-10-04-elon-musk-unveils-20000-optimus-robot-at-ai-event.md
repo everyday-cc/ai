@@ -60,20 +60,6 @@ related:
         width: 2240
         height: 1260
         isCached: true
-  - title: "Tesla builds Dojo supercomputer with in-house chips"
-    excerpt: "While Tesla's full self-driving features have yet to overcome some technical hurdles and regulatory restrictions, its AI team has demonstrated impressive work at Tesla's AI Day 2022."
-    publishedDateTime: 2022-10-04T03:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20221003VL210/supercomputer-tesla.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221003vl210_files/2_2b.jpg"
-        width: 1280
-        height: 853
-        isCached: true
 
 secured: "uwUJt75K6bLC1mwsZoDI7ZozDnCWl8McmiiXltyt9xh1iuM/rnCStLbwTkdHm3HKSAsg00/RYe5gSnLgMy9reLYaFAFzVBgcKfWK6BnZAIeT4/B9K9sBZDqdELcxYVyvmQp6aN3JHHYbJqO9f2EWdMk12u9rf+3iEzVgYaJlVUndVS29s/xu+6NRGT4HbRbWTIMNttpxonPL0tBWEwh1GWdmJQAfUqLLeTbi38LGZgVooxorgs4bWX/7snr6oinJTK31gDGpc2tMZqz9u70TRDKOeIsiuGVQ756BLZQUtOGrJKqiI9nIpA1yc7NL/xVqJn/kDlBfLuTWTyOVz/y9lAqVTnEVDEwa8P2LNplF2hifAFnNSpqrvWETtCkAlreWDeHqWd6ogG3UWq1puxjs3eZu/7N4W0gFN0gMTqx8Su2BaCyfFPAVPKRJeJ1TT7L0f57WfV3wyc4sF+t+R+3p3eCdEabffO1fmmNpa6iRBLxs3ZkMSwW1mfwiv+Y1iibOqmLJq8+FgLC7t3GX09xJXg==;kPJofLBB7DaGpilpVpjvjA=="
 ---

@@ -108,49 +108,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts.md",
-      "title": "Meta unveils AI tool that creates GIF-like videos from text prompts",
-      "excerpt": "Facebook’s parent company released a slew of short videos based on text prompts, building on the recent developments in text-to-image artificial intelligence creations. The videos are created by an AI that learns what the world looks like from text and image data that is paired up.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
-      "originalUrl": "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/08/34/06/1000x563_cmsv2_0b7f99dd-8476-535b-ad97-ef7a34a5cb31-7083406.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts",
-      "publishedDateTime": "2022-10-04T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
       "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
       "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
@@ -1494,6 +1451,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-12-the-ftc-is-closing-in-on-runaway-ai.md",
+      "title": "The FTC Is Closing In on Runaway AI",
+      "excerpt": "The US regulator is eager to end unfair use of artificial intelligence and commercial surveillance, but experts remain skeptical.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "originalUrl": "https://www.wired.com/story/ftc-ai-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/631a70b320bc56769c413043/master/pass/business-ftc-ai.jpg",
+          "width": 2401,
+          "height": 1351,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ftc-ai-regulation/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ftc-ai-regulation/amp",
+      "publishedDateTime": "2022-09-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

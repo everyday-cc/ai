@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
-excerpt: "Renesas has developed the \" Vision AI Gateway Solution,\" which is an AI-based object detection and recognition platform that uses multiple cameras to collect and efficiently transmit data wirelessly."
-publishedDateTime: 2022-09-29T12:11:00Z
-originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
-webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
+excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
+publishedDateTime: 2022-09-29T12:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "UT3TNoqzhfZP7xBcwpWVm+Y2/ObOtjIlrD0sQTXALEt78Yb0j9gBE6Tq/rAjZGQxfr9vdgUJuSDQR4A2kHqjz4VIYA5Z/I6tqURGpunnTtrBzSjCG35cLLnK6lFBhOvJmARXuZQycGD9yp8cJoZZ+qMIVtKF1igwTg9xcdKcP2mQmZ6o94xFsZ+Eq/9tEJHflKQvWHp14/UIdiQttjxQ21bQa3fqAnR7dJhKS7wH2wkHR+NTWv4XhISfWKJV1PEwxEzz62OArAJDNQHzgLpGmOLAuaM7lQ+mXXxHV6DFwZjlfXw1hXc7jeCAZByVgMfo3aNft5XyFN58nyXPilwfNd6gOB138C+JExjIenXr+Ak=;WzHemzRSioaNtWhbYtO3Ng=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/1/f7/1f70d89c-64e2-5f43-9991-e6a92bf0701c/63358a3c5a2b4.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "/7lAUX8AEOb9VBQiiatWAeIyIslaueat9c/hIzdGhahIDR0PC+bl4haS6ToqFJoCXa7hywSNqnoSHullfQXKKncwWqYJElYbCiuFvOEEdKiETN8PsIor8TDlxJ4TmIviLEDZ+6rkrxffDePGkfgD+ohl/hs02eW5Iro06Pmzf7nm0v6XG5WReTxS8sPh3pv3Cztt2z02zgVAcuhyb+c0tk7dA0l5xGessL5TIUIOXq695E2fAC3k018nlh+SjEDPJDeuamOy+ngkdWjWjJXElb9LBEdqMBsNF6e5TV9dCpq3gZ7V6G4xuczn5y6tmNem4VEtbrSk/OMwiq8d0l3+ePuSNS+iCdfGxPWmcrwAL0E=;QqQrx5+jK1yzkaf+wxXwFg=="
 ---
 

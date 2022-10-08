@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-u
 cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -52,6 +52,15 @@ related:
       name: Investment Week
       domain: investmentweek.co.uk
     quality: 33
+  - title: "South Bend announces policies for 'real time crime center,' facial recognition technology"
+    excerpt: "The project will feature an expansion of video cameras and facial recognition technology as part of the city’s push to curb violent crime. The goal, outlined by city officials, is to have the ..."
+    publishedDateTime: 2022-10-05T23:05:00Z
+    webUrl: "https://www.southbendtribune.com/story/news/politics/2022/10/05/police-policy-real-time-crime-center-south-bend-facial-recognition/69541727007/"
+    type: article
+    provider:
+      name: South Bend Tribune
+      domain: southbendtribune.com
+    quality: 10
 
 secured: "bd+E54mDaOmEL1YyxGMZDseqEBxAMB4YReV9lEBc1j+3HoWQyUBVO70Ybhs8q9+K8NbxIGpBo6yEgH6Ift9lhd9s3fwdBsC0A9+h3B0yyAr30kYdlu+4AiKRqwmHITaGQ21KXX9YKsmVF8L1sOAieftjhTYJI1aaCD4UKa49NihTTuXGP8yd9Zn5Jc7azU1yNQZ37PVvZ44QKL3gwbSIL6lRNDxVb3ubnrGyj9vNrCpfSUhXj6Gr7fjBXUQiYv8QbEd0i0iaXzL11eaw/OImwXXxm0clGz0xxL46/QVJ1/aDDU4fxyUZPzc9v6lKI5WuvEURotPE9uJ27K1KwgpFHf/3r1vzYsvnOtSyd08gbjUV2gznC3bGvGeumms+jXlnpvt5I+NhJ0twGqS4rmkPXY+marj8rehUxELgtA95AjuWaz8jtueAMPRrFvU2+XqzRux2UzufUtco79ITlU1dFojskvkba+l8JH5D8BDeVm8RHpLfm3gxy1/7LsooQ2+A3NFnVWPeAKQdH/Stre7W/A==;G1wykiD9BBrOYL2tNnrfmg=="
 ---

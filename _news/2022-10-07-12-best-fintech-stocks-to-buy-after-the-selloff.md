@@ -59,22 +59,6 @@ related:
         width: 890
         height: 1024
         isCached: true
-  - title: "Fintech Files: Part 3 | When the RBI sneezes, fintechs catch a cold"
-    excerpt: "A slew of circulars from the Reserve Bank of India has forced the fintech industry to abandon its growth-at-all-costs approach and scramble to comply with the stringent regulations"
-    publishedDateTime: 2022-10-04T03:49:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/startup/fintech-files-part-3-when-the-rbi-sneezes-fintechs-catch-a-cold-9274411.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 44
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/08/fintech-1_pic.jpg"
-        width: 690
-        height: 390
-        isCached: true
   - title: "Gates Hub participates in the largest fintech event in Dubai"
     excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai, FinTech Surge 2022 from 10 to 13 October 2022 at Dubai World Centre."
     publishedDateTime: 2022-10-04T09:00:00Z

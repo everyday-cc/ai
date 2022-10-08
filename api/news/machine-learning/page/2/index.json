@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management.md",
+      "title": "Feedzai named a Leader in IDC MarketScape for Responsible Artificial Intelligence in financial crime management",
+      "excerpt": "The IDC MarketScape evaluated the vendors on fairness, explainability, robustness, lineage and transparency - the five foundational elements of responsible Artificial Intelligence (AI), or the framework that builds trust within AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/feedzai-named-a-leader-in-idc-marketscape-for-responsible-artificial-intelligence-in-financial-crime-management-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners.md",
       "title": "Machine Learning Market Size worth US$ 39,986.7 million by 2025 – Exclusive Research by The Insight Partners",
       "excerpt": "Machine Learning Market Comprehensive Outlook To 2025 Sep 27, 2022 (Heraldkeepers) -- Pune, India -The Machine Learning Market report outlines the",
@@ -1358,59 +1401,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-meta-alumnis-startup-truefoundry-raises-23-million-to-accelerate-ml-deployments.md",
-      "title": "Meta alumni’s startup TrueFoundry raises $2.3 million to accelerate ML deployments",
-      "excerpt": "TrueFoundry, founded by former Meta engineers, aims to help enterprises deploy machine learning models at the speed of big tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "originalUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2018/09/GettyImages-950196458.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/09/19/meta-alumni-startup-truefoundry-seed-funding-sequoia-surge-machine-learning/amp/",
-      "publishedDateTime": "2022-09-19T19:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-05T23:05:00Z
 originalUrl: "https://www.southbendtribune.com/story/news/politics/2022/10/05/police-policy-real-time-crime-center-south-bend-facial-recognition/69541727007/"
 webUrl: "https://www.southbendtribune.com/story/news/politics/2022/10/05/police-policy-real-time-crime-center-south-bend-facial-recognition/69541727007/"
 type: article
+quality: 10
+heat: -1
+published: false
 
 provider:
   name: South Bend Tribune
@@ -14,6 +17,49 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Bunnings denies use of facial recognition technology in New Zealand stores"
+    excerpt: "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation."
+    publishedDateTime: 2022-10-05T03:43:00Z
+    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 57
+    images:
+      - url: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "Facial Recognition Technology Victimizes People of Color. It Must Be Regulated."
+    excerpt: "More than a dozen states have enacted laws regulating how law enforcement uses it. But federal legislation is needed: A piecemeal approach doesn't keep all citizens safe from misidentification."
+    publishedDateTime: 2022-10-05T05:42:00Z
+    webUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated"
+    ampWebUrl: "https://www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 55
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/1acc636/2147483647/strip/true/crop/840x438+0+0/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F79%2Fb3%2F33bdfb4c4c1f8669693260e57c8e%2Flieu-facial-recognition.jpg"
+        width: 840
+        height: 438
+        isCached: true
+  - title: "Investors raise human rights concerns over facial recognition technology"
+    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
+    publishedDateTime: 2022-10-05T11:44:00Z
+    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
+    type: article
+    provider:
+      name: Investment Week
+      domain: investmentweek.co.uk
+    quality: 33
 
 secured: "Av/646O7MYMFUT9C1nXQ55fzG9QkrZW7A6dJyx0O3ZkD5qfLRpNZV3blQ273LTzmK0VuUJssAZwMwGcblDX6SkkMEV/5+E/iB3bWYS+XN8dL0mL0dg9F+M7dMCNuaq1tzH6X52YYNvBy2fggonFPZXczEFMWIJ3Ri7W74U+1XIntGt0ggAOGwNqo7w2FfSv/8KRPLje1SYMkvJuhhnS9rfFDefDF1eL3t9IjtmgD4E4q+RcFjBCq6V1M5AwrUBMSblsIB9d8iProzEv0R+YWyc37bExAeS+ID/n3YU6/nF/YQCQEZY59KteT2Oo3OB1zQ8D4oUiHLB4UKjwAtfvF6pPjo+ui7ehvxPsVZvB7vF4=;U9DsXRGLe+IOSvzuSJoCWA=="
 ---

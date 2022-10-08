@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 158
+heat: 148
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/AIM-Illustration-1.jpg"
         width: 2240
         height: 1260
-        isCached: true
-  - title: "Tesla builds Dojo supercomputer with in-house chips"
-    excerpt: "While Tesla's full self-driving features have yet to overcome some technical hurdles and regulatory restrictions, its AI team has demonstrated impressive work at Tesla's AI Day 2022."
-    publishedDateTime: 2022-10-04T03:16:00Z
-    webUrl: "https://www.digitimes.com/news/a20221003VL210/supercomputer-tesla.html"
-    type: article
-    provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 56
-    images:
-      - url: "https://img.digitimes.com/newsshow/20221003vl210_files/2_2b.jpg"
-        width: 1280
-        height: 853
         isCached: true
   - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
     excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."

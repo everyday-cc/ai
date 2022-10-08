@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/05/google-answers-metas-video-generat
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/"
 type: article
 quality: 85
-heat: 125
+heat: 135
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "Google AI Videos Point to a Machine-Generated Future"
+    excerpt: "In just the past week, AI researchers from Meta Platforms Inc. and Alphabet Inc.'s Google have taken an extraordinary leap forward, developing systems that can generate videos with just about any text prompt one can imagine."
+    publishedDateTime: 2022-10-08T18:05:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/google-ai-videos-point-to-a-machine-generated-future-71665230264578.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 19
 
 secured: "U2wYb1F9nHrqY8/nalGXrV0CYj+6lIDskS1PcJwISwfaz1//G8lPPSYb+bfXiIuN1j1RLnPevSdy6GPNEHCDBnKDEXb6IvrHyQ2rMOcHkZdIuFenLUHWgJKEQWeB+3ThhOfSzYLufeZKL3avpwanhHE5BZD+cQpUHBSNK2VrQ4+RHOph6IOFsBxoYbQKsxpT9hJl2nGnd8oof2KyKBZtdPXzlfQKdORzrCv0eKzgGvoMK7+sUma6EGRCCI5mS34SYrJzT1m9pPVF0eMLD9UWLxL9w1MdM6iMwkl5yU6NjJI2AyFrxmmzoLDJ61EdheQk+WX9wqJUkdCmuKbELL2gwYQ0Ekg6ZzfNMckJ57/sCFYMuMfUz40BLa9WW105LzW+zrF9EHzRMBs2OOgoMG0lvRYhh71Kb2931ZDhiSUejN+EcYX1ogHGKaoVYUyRRFmpGbFZZPXIpzl3C1DlStzw6BR2+Eot1tDGvQNNUS9UiUJOP+C9VMHV/4tP0bZymD06SAZqKliyVyADg5fUz7QasA==;SP952VD4TrMyX9qNUihDeA=="
 ---
