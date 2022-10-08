@@ -2,91 +2,6 @@
   "page": 41,
   "value": [
     {
-      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts.md",
-      "title": "U.S. export ban on some advanced AI chips to hit almost all China tech majors - analysts",
-      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "originalUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/u.s.-export-ban-on-some-advanced-ai-chips-to-hit-almost-all-china-tech-majors-analysts?amp",
-      "publishedDateTime": "2022-09-01T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-01-how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense.md",
-      "title": "How To Prepare Faster For Looming AI Regulation: Turn Defense Into Offense",
-      "excerpt": "With AI, the same elements of an effective culture of compliance can also spark innovation, collaboration and agility with data science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
-      "publishedDateTime": "2022-09-01T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
       "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
       "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
@@ -1122,6 +1037,91 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors.md",
+      "title": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors",
+      "excerpt": "AI Startup AESOP Raises $3M to Tackle Medical and Billing Errors Aug 31, 2022 (PRNewswire via COMTEX) -- PR Newswire SAN FRANCISCO, Aug. 31, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-2022-08-31",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-startup-aesop-raises-3m-to-tackle-medical-and-billing-errors-2022-08-31",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming.md",
+      "title": "AMAX Launches GPU Servers Powered by Intel’s Newest Data Center GPU Flex Series for AI, Gaming, & Media Streaming",
+      "excerpt": "Intel’s Data Center GPU Flex Series is powered by Intel’s Xe-HPG architecture, which is designed for AI inference, Android and Windows cloud gaming, video transcoding, and virtual desktop ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
+      "originalUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-31T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

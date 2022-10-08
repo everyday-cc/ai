@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Outlook, Size, Segmentation Analysis, Share, Drivers and Forecast 2028"
-    excerpt: "Artificial intelligence is used primarily in healthcare to examine the relationship between treatment options and patient outcomes. AI programs can be used in medical procedures such as drug development, patient monitoring, and medication management."
-    publishedDateTime: 2022-10-03T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-outlook-size-segmentation-analysis-share-drivers-and-forecast-2028-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Healthcare Market - Industry Analysis, Size, Share, Growth, Trends, and Forecast to 2027"
     excerpt: "Get Sample PDF Copy @  Artificial Intelligence in Healthcare Market Company Profiles Analysis: Alphabet Inc. Nuance Communications, Inc. Arterys Inc. Johnson & Johnson Services, Inc. The research on the Artificial Intelligence in Healthcare market focuses on mining out valuable data on investment pockets,"
     publishedDateTime: 2022-10-03T21:07:00Z

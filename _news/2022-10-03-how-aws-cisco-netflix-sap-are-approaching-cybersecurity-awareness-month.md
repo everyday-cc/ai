@@ -7,7 +7,7 @@ originalUrl: "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix
 webUrl: "https://www.darkreading.com/attacks-breaches/how-aws-cisco-netflix-sap-are-approaching-cybersecurity-awareness-month"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1299
     height: 701
     isCached: true
-
-related:
-  - title: "The 13 most promising cybersecurity startups of 2022, according to VCs"
-    excerpt: "Cybersecurity startups are cashing in on a hot market. Here are the 13 most promising cybersecurity tech startups of 2022, according to VCs."
-    publishedDateTime: 2022-10-03T11:00:00Z
-    webUrl: "https://www.businessinsider.com/13-most-promising-cybersecurity-startups-security-2022-9"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 54
-    images:
-      - url: "https://i.insider.com/6335fd8fd0bea6001869cb01?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "2auqfuR3eDruit3HA1roPqqx+n2LIJpHEcK5i/saG9Y7TA1JHhEDHoOQBHM10rkeMzMehku7QRzjiNfQOO7e3NPMes9puEaWukdPcBF9HOdACwbaFZcdwahKNHbtQTZKYFdubmM+rzpYNojoEy/xqZlwiXYYvnAGPGfDdCwChRMSbUTvNxNQTy3fHOUEHsDuKR/yvN8LEWKF1ZHAtQn7Rahdj8eU/le+LZketckwP/StDxs6PQYtK2+AIGlByWu6S1DzPJBt4b0hnNFeLPVsdIkTzyg8WNhybxSUyGXrf8WQ7YipHZV1uLE0wr1/4Xdp+6nRs1aoIyw3OlMDP/hO5p63pTc/DId0Ou+JZqN0wfoTKthoG0UU4Zl0E+nLX4z/hHe5dVYWiE1xMqHPSXGbLpK20qXCV365kRbUKqDqc7T0l7tgIRBsu652NLD7GrC4T9xrVt5r86ddwZs8oy/TyX8qUeRVFo6oYdLdGjwN4Jdq6dDXxFcol3sWeqOlUrwcrLjWucbgeFKdiswYzTaPUA==;a1Q9jn0Zsaqa+Igjw1WhVw=="
 ---

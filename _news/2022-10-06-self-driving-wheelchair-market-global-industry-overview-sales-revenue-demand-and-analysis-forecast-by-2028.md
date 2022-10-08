@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Diagnostics Market Outlook, Size, Segmentation Analysis, Share, Drivers and Forecast 2028"
-    excerpt: "Artificial intelligence is used primarily in healthcare to examine the relationship between treatment options and patient outcomes. AI programs can be used in medical procedures such as drug development, patient monitoring, and medication management."
-    publishedDateTime: 2022-10-03T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diagnostics-market-outlook-size-segmentation-analysis-share-drivers-and-forecast-2028-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
