@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-08T13:00:00Z
 originalUrl: "https://nationalinterest.org/blog/middle-east-watch/how-far-will-iran’s-protests-go-205220"
 webUrl: "https://nationalinterest.org/blog/middle-east-watch/how-far-will-iran’s-protests-go-205220"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The National Interest

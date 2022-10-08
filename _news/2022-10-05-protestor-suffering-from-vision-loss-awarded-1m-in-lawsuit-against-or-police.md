@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp"
 type: article
 quality: 86
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -31,33 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Protester injured by Salem police awarded $1M in lawsuit"
-    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
-    publishedDateTime: 2022-10-03T22:13:00Z
-    webUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/"
-    ampWebUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
-    type: article
-    provider:
-      name: OPB
-      domain: opb.org
-    quality: 44
-    images:
-      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/L9NsjYUzh89KuiJJ2K2xMwMqOtE=/767x431/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XCBF6V7PK5HW7LLZMTKNWELROM.JPG"
-        width: 767
-        height: 431
-        isCached: true
-  - title: "Jury awards protester injured by Salem police $1M in lawsuit"
-    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
-    publishedDateTime: 2022-10-03T22:20:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Protester injured by Salem police awarded $1M in lawsuit"
     excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
     publishedDateTime: 2022-10-06T11:31:00Z

@@ -74,15 +74,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla’s Optimus robot isn’t very impressive – but it may be a sign of better things to come"
-    excerpt: "Humanoid robots could be useful in all kinds of situations, but the one Elon Musk unveiled last week is far from being ready to roll out."
-    publishedDateTime: 2022-10-03T19:03:00Z
-    webUrl: "https://theconversation.com/teslas-optimus-robot-isnt-very-impressive-but-it-may-be-a-sign-of-better-things-to-come-191761"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 26
 
 secured: "uwUJt75K6bLC1mwsZoDI7ZozDnCWl8McmiiXltyt9xh1iuM/rnCStLbwTkdHm3HKSAsg00/RYe5gSnLgMy9reLYaFAFzVBgcKfWK6BnZAIeT4/B9K9sBZDqdELcxYVyvmQp6aN3JHHYbJqO9f2EWdMk12u9rf+3iEzVgYaJlVUndVS29s/xu+6NRGT4HbRbWTIMNttpxonPL0tBWEwh1GWdmJQAfUqLLeTbi38LGZgVooxorgs4bWX/7snr6oinJTK31gDGpc2tMZqz9u70TRDKOeIsiuGVQ756BLZQUtOGrJKqiI9nIpA1yc7NL/xVqJn/kDlBfLuTWTyOVz/y9lAqVTnEVDEwa8P2LNplF2hifAFnNSpqrvWETtCkAlreWDeHqWd6ogG3UWq1puxjs3eZu/7N4W0gFN0gMTqx8Su2BaCyfFPAVPKRJeJ1TT7L0f57WfV3wyc4sF+t+R+3p3eCdEabffO1fmmNpa6iRBLxs3ZkMSwW1mfwiv+Y1iibOqmLJq8+FgLC7t3GX09xJXg==;kPJofLBB7DaGpilpVpjvjA=="
 ---

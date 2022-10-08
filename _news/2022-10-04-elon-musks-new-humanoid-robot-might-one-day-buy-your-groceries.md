@@ -41,36 +41,6 @@ related:
         width: 2840
         height: 1598
         isCached: true
-  - title: "Elon Musk's Half-Baked Robot Is a Clunky First Step"
-    excerpt: "Tesla’s Optimus robot did not dazzle robotics experts and can't yet walk. But if the project delivers, it could give the company an edge in manufacturing."
-    publishedDateTime: 2022-10-03T20:56:00Z
-    webUrl: "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/"
-    ampWebUrl: "https://www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/elon-musks-half-baked-robot-is-a-clunky-first-step/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/633b3fa75347dadd8298df78/master/w_4096,h_2731,c_limit/Tesla-Optimus-Bot-Mechanics-Business.jpg"
-        width: 4096
-        height: 2731
-        isCached: true
-  - title: "Musk Watch: Delaware court releases Elon's texts, Tesla debuts creepy robot"
-    excerpt: "Welcome to Musk Watch, where we examine what Texas' richest (and perhaps most divisive) citizen is up to this week. Forty pages of Elon Musk's texts became publicly available last week as part of the discovery process in his ongoing legal battle with Twitter,"
-    publishedDateTime: 2022-10-03T21:35:00Z
-    webUrl: "https://www.chron.com/news/local/article/elon-musk-texts-tesla-robot-17483260.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 54
-    images:
-      - url: "https://s.hdnux.com/photos/01/27/60/01/23003238/3/rawImage.jpg"
-        width: 2048
-        height: 901
-        isCached: true
   - title: "Tesla's robot waves but can't walk, yet. Elon Musk plans to make millions of them"
     excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot \"Optimus,\" predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000—less than a third of the price of a Model Y."
     publishedDateTime: 2022-10-07T08:42:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 168
+heat: 158
 published: true
 
 provider:
@@ -81,15 +81,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Tesla’s Optimus robot isn’t very impressive – but it may be a sign of better things to come"
-    excerpt: "Humanoid robots could be useful in all kinds of situations, but the one Elon Musk unveiled last week is far from being ready to roll out."
-    publishedDateTime: 2022-10-03T19:03:00Z
-    webUrl: "https://theconversation.com/teslas-optimus-robot-isnt-very-impressive-but-it-may-be-a-sign-of-better-things-to-come-191761"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 26
 
 secured: "BrfoGeVi9L6WT/cFlAa17RtljvLQ/2amwoiXmR4rtoMxTisejlBcWkRQG2R9czYlTiVHyS6W4g/6RSdG4Jd0mz2JdeN7Cx/sry66qhP6pDQ+Uk/b7uQAsV37EixxXYGYBDnUqEZ+naWqU2y6s/CIKsSTg8Z6andzGDSJHYoVVX8q6vVgYdSDjnxchl/EcYypblAjQYJP6x0ur0yvTBz55APTUuDls+MBo4jhIrAWZuOqw3m7Da7KsEPfkhddwmS3NN5po2Xz97yPSMB/hyjvgIyz2sTVCP3qJnWNY8ZX0F88re5d8wQ0GHRSR6OOXxEn+J5Q05gEgrciotZGsHtfPvOsbULcOk8QJNEliJtjOl8xZpJySljUBP1DIidfF6mpt3h6NPvY+d9ZNgceXUokCE+xyGirx7q5vQsvVkDDkwOshzWBF8If4ruPbBuzOiqekS3rxcZYVwm9OU+A3PDJQPx+CjdfiMeZV1FmIHPm+2cAeY/kmxwwuXilRw80keDL6Sg9tNwEE73PtQcsDYYTPw==;QN6WXR0mx1snSIr4zqVo2w=="
 ---

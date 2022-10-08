@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-
 webUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
+    excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
+    publishedDateTime: 2022-10-08T15:00:00Z
+    webUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 42
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-images/2019-03/a7a99470-444d-11e9-85ff-09b62dfac5e7"
+        width: 1062
+        height: 597
+        isCached: true
   - title: "Farming AI: Self-Driving Tractors"
     excerpt: "We check out the technology behind John Deere's latest self-driving tractor. John Deere is looking to deliver a fully autonomous tractor to farmers for production use. In this video, I talked with Gaurav Bansal of John Deere's Blue River Technology group that worked on the machine-learning support."
     publishedDateTime: 2022-10-04T20:59:00Z

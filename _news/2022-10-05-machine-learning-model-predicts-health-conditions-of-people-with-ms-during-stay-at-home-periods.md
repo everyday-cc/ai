@@ -22,22 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Machine learning model predicts health conditions of people with MS during stay-at-home periods"
-    excerpt: "Research led by Carnegie Mellon University has developed a model that can accurately predict how stay-at-home orders like those put in place during the COVID-19 pandemic affect the mental health of people with chronic neurological disorders such as multiple sclerosis."
-    publishedDateTime: 2022-10-03T21:36:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/966761"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 27
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8975eeaf-9012-43d7-b18a-c92f58c45293/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
-
 secured: "MiybrpMB1513C570LuAblNXqEW5FLM/N2l4ZQCSRiLEypB5TEXzNj8HiHYt7HQMBSGclNbWVJxRsh7eHOrIDKlFQ04wv78fEui4e9Rpk56uLoV9oXFif3cWN0832k+Z+y3ojQZkIZl1T1iEqrfe7Oeb8euprLqfCfW043yZXCTjtCCqhxsfie8ijuOOhIBOxAuPOk5XtmpOZNpNDkHdGgh1VqYAQgZ8o43RoRcbNjXeC1B4tRxdGkL+SvC8Pu29Lrs9ucfTx8KTDmmrW4vOSIFFrnd62QAwE+aGfZdPYx1J6quVrsos0DsJq956Pw6/69omqkOYmH4mNcsspEm6r1Nm0i/yU8GTP5JMM2PUzs3s=;PRMSXnMLCg0DjSrbKbOA1g=="
 ---
 

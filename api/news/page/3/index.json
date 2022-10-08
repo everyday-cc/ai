@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
+      "title": "Computer scientist aims to protect people in age of artificial intelligence",
+      "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
+          "width": 1920,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
+      "publishedDateTime": "2022-10-04T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-this-years-physics-nobel-prize-went-to-pioneers-in-quantum-tech-heres-how-their-work-could-change-the-world.md",
+      "title": "This year’s physics Nobel Prize went to pioneers in quantum tech. Here’s how their work could change the world.",
+      "excerpt": "Watson Research Center, the Eero Saarinen-designed, 1960s Jet Age-era headquarters for IBM Research. Deep inside that building, through endless corridors and security gates guarded by iris ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com",
+      "originalUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/2c6JClH139Y24DQHXaZkpf9E2Pw=/0x0:4032x3024/1400x1050/filters:focal(1688x1122:2332x1766):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70903719/IMG_4484.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
+      "publishedDateTime": "2022-10-04T13:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
       "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
       "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
@@ -356,6 +450,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities.md",
+      "title": "Big Tech seeks to improve speech recognition tools for people with disabilities",
+      "excerpt": "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
+      "originalUrl": "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
+      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
+      "publishedDateTime": "2022-10-04T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Euronews",
+        "domain": "euronews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-eight-principles-to-improve-the-effectiveness-of-automation-endeavors.md",
       "title": "Eight Principles To Improve The Effectiveness Of Automation Endeavors",
       "excerpt": "With machine learning and natural language processing, the techniques and technologies for process mining and discovery and myriad low-code/no-code platforms, enterprise automation is entering an exciting era of possibilities.",
@@ -544,40 +681,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-this-rapid-growing-self-driving-giant-has-filed-for-ipo.md",
-      "title": "This Rapid-Growing Self-Driving Giant Has Filed for IPO",
-      "excerpt": "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo",
-      "originalUrl": "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp",
-      "publishedDateTime": "2022-10-04T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -782,7 +885,7 @@
       "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1128,113 +1231,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast.md",
-      "title": "Automate your time series forecasting in Snowflake using Amazon Forecast",
-      "excerpt": "This post is a joint collaboration with Andries Engelbrecht and James Sun of Snowflake, Inc. The cloud computing revolution has enabled businesses to capture and retain corporate and organizational data without capacity planning or data retention constraints. Now, with diverse and vast reserves of longitudinal",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-your-time-series-forecasting-in-snowflake-using-amazon-forecast/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/automate-forecasting-snowflake.jpg",
-          "width": 1532,
-          "height": 765,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T10:22:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch.md",
-      "title": "Achieve four times higher ML inference throughput at three times lower cost per inference with Amazon EC2 G5 instances for NLP and CV PyTorch models",
-      "excerpt": "Amazon Elastic Compute Cloud (Amazon EC2) G5 instances are the first and only instances in the cloud to feature NVIDIA A10G Tensor Core GPUs, which you can use for a wide range of graphics-intensive and machine learning (ML) use cases. With G5 instances, ML customers get high performance and a cost-efficient",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-four-times-higher-ml-inference-throughput-at-three-times-lower-cost-per-inference-with-amazon-ec2-g5-instances-for-nlp-and-cv-pytorch-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/ec2-g5-instances-four-times-1260x630.png",
-          "width": 1260,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T10:19:03-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

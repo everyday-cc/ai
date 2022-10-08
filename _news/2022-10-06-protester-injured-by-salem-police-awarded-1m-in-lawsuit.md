@@ -35,33 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Protester injured by Salem police awarded $1M in lawsuit"
-    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
-    publishedDateTime: 2022-10-03T22:13:00Z
-    webUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/"
-    ampWebUrl: "https://www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
-    cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/03/eleaqia-mccrae-salem-police-department-lawsuit-use-of-force-civil-rights-violations/?outputType=amp"
-    type: article
-    provider:
-      name: OPB
-      domain: opb.org
-    quality: 44
-    images:
-      - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/L9NsjYUzh89KuiJJ2K2xMwMqOtE=/767x431/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/XCBF6V7PK5HW7LLZMTKNWELROM.JPG"
-        width: 767
-        height: 431
-        isCached: true
-  - title: "Jury awards protester injured by Salem police $1M in lawsuit"
-    excerpt: "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights."
-    publishedDateTime: 2022-10-03T22:20:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/law-justice/jury-awards-protester-injured-by-salem-police-1m-in-lawsuit/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "WP/Yvo9nsC2kuxzX7bHiUX8vjldd7oC0m4HWF9SPa1Ix0HN4NinkqGo4ELRx+JkOnmhzB5iFQ7m2DsT/LT4M1Wy/4cySdc1YE0mPMXnEG2oxr6YSGaa40amTR0Ml+c0SYei08uTyQW9IXv2s2IMdJ+2sJzcbHDW1JFYgRtXxVCVsOkG2Gwfh8UjMxcfKFgSje+F+yJDibRpE990aDpykckJ9+/3juUpvue5wak8X7lgv9BMXTfR8XGHlWKpV6Usl+mt33SEbK+0MvJYRdcsINtKCTtwL2ldRxUhxLSBjU6BJyyuWcTadEtnAwZDNAjHKlZO/eBhyMHHHeMNCPt3xDUPFA1oqKKzx2AFeO2wDE7k=;VFghEq4DYZv9zPufI/2Vhw=="
 ---

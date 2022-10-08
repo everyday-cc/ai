@@ -75,15 +75,6 @@ related:
       name: ExtremeTech
       domain: extremetech.com
     quality: 34
-  - title: "Tesla’s Optimus robot isn’t very impressive – but it may be a sign of better things to come"
-    excerpt: "Humanoid robots could be useful in all kinds of situations, but the one Elon Musk unveiled last week is far from being ready to roll out."
-    publishedDateTime: 2022-10-03T19:03:00Z
-    webUrl: "https://theconversation.com/teslas-optimus-robot-isnt-very-impressive-but-it-may-be-a-sign-of-better-things-to-come-191761"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 26
 
 secured: "iXiiga14ZOWtn9+QtrBABmdH7yV/3OIab3quvJbfDTA+Dor3SFy1bQa3cim4i+sDKldy+C1jPWz2BbYwo5FcgfbOTKd1xmKGdzC3yUsabW6KIdZ+t64FJAeXLtGofFvf4OFlgaM2WSAGmIS75pg1zmVyP32eEU6fHSb9SJjkPyikol3fgf7vbAUW3bDO3GsaEZZbYmPQFIiyWRzY1DGK8zjW6azPBKtMFyrh4yxW1i2jmt7qqUWuHAk5KW10uZuXIVir+tFuWmrgb6DnQOmBIkBqlpiW/PE4MpinyZ3PdEMNpQECUIj6Z3YlrXhIA/idvqfuEiIefadBp0ScVTaudq+Ulw67M3cvq0WlywEun4w=;8enLSyH9DyuglKtqR66Knw=="
 ---

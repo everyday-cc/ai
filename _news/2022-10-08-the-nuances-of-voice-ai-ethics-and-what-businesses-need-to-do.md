@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-08T13:44:00Z
 originalUrl: "https://venturebeat.com/ai/the-nuances-of-voice-ai-ethics-and-what-businesses-need-to-do/"
 webUrl: "https://venturebeat.com/ai/the-nuances-of-voice-ai-ethics-and-what-businesses-need-to-do/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: VentureBeat

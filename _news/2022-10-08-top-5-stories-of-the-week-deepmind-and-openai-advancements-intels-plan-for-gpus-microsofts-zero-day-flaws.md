@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-08T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-deepmind-and-openai-advancements-intels-plan-for-gpus-microsofts-zero-day-flaws/"
 webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-deepmind-and-openai-advancements-intels-plan-for-gpus-microsofts-zero-day-flaws/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: VentureBeat

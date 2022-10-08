@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T23:42:00Z
 originalUrl: "https://www.theregister.com/2022/10/06/boston_dynamics_weapons/"
 webUrl: "https://www.theregister.com/2022/10/06/boston_dynamics_weapons/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: theregister

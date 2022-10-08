@@ -5,7 +5,12 @@ excerpt: "Organized by the National Association of Realtors (NAR), the annual co
 publishedDateTime: 2022-10-08T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/"
 webUrl: "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/"
+ampWebUrl: "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/"
 type: article
+quality: 86
+heat: 86
+published: true
 
 provider:
   name: Forbes
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AWS AI
 
-secured: "orzgjEmm4K84COzm1TKebEElbkLdti73nm9Kz1fHJ/hi95eMsk/qh1YAaWCsWopV7ISpLrp5P3iwOKSOOwtxIQ+dZYe1IYbkytPzrrGvrnf5FcrnAmp0Jd8AFfDQ8sZLB6PyVstNFbmazNXA0bVM69X/e+LWMlwrqEhFj/afOeX+d/x8Wds6IikN2aM5+xw+8CezNiiZqJ4jJajc2rYDriO4zvmwyvxl5lOThJcwhSqHQ9Qayf8kJ2KSB2XtuYMWcJtLU7zpNeIq/5e2LbSJFfLglEaSyzJV3WFR3OwAZnj6OFWLpbYIbTlSMG39OCMOvSJZy7qzDestLa5jrF6LKfHsK/7XLyuIlokjhEpbmC90Ns/crRn4eJdhTjsIaygdr6R4FKjXPTM8KLftHvY0gGpN/9AbY8IUbndpOnelXlUzWkIyFwn7TfVjRijbivsHANC83Y/uGMCRWODDt2yoQdyQe3tzhqG79Aih16isrhOUKQzbRfdPElQDL+jGc0L5L7b0RHh+taq8tPJpST1haw==;vI1VlDxLr0NmV7lBDB6qFA=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "ihx6te3VUjsooEWqmKbBf9FbbomE38m4PlDuDSBRXOZIoQXlEPwQODD2tHqrf0QeaCNKNyL+zS8QFZE9BolBYSChznM7Vlte/wrgjRGUhAgTGVpCrF7Bn3fCopvIY/yLBkw9Uq3EGD99TDmVe7fmyb6SEpjuzlK8JpBqnCLUu/FsUrwpqYOXNZEP5V2ueIc8Cx2dvIcBU+h7C3E+OAJNxCMULJMADbDXMIRZNFv2gY9OOz5HwVrhLgJ8dR0jMtTUn0t161KLZGufj2+LJyepXq7TCcEKq1HsX4gUzMeZjA1CTLa5QUm17uSkp7wb72TD4haP/EYM50mZ8NUCpuCMHULXJr4cyAmCgZzRDYWGyU4=;iUSgfoorc0gbjvwk9g7igg=="
 ---
 

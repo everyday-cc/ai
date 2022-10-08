@@ -33,15 +33,6 @@ related:
         width: 770
         height: 400
         isCached: true
-  - title: "How AI can transform pharmaceutical marketing"
-    excerpt: "Agencies of all shapes and sizes continue to explore opportunities in AI and invest resources into machine learning."
-    publishedDateTime: 2022-10-03T19:07:00Z
-    webUrl: "https://www.mmm-online.com/home/channel/how-ai-can-transform-pharmaceutical-marketing/"
-    type: article
-    provider:
-      name: MM&M
-      domain: mmm-online.com
-    quality: 36
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
     publishedDateTime: 2022-10-06T10:32:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-07T17:50:00Z
 originalUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/10/07/xembly-fundraise-series-a-artificial-intelligence.html"
 webUrl: "https://www.bizjournals.com/seattle/inno/stories/fundings/2022/10/07/xembly-fundraise-series-a-artificial-intelligence.html"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 

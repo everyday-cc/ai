@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-gian
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Intel's self-driving technology Mobileye unit files for IPO"
-    excerpt: "The company didn’t disclose terms of the planned share sale in its filing Friday with the U.S. Securities and Exchange Commission. Mobileye will continue to be controlled by Intel after the IPO, according to the filing."
-    publishedDateTime: 2022-10-03T19:34:00Z
-    webUrl: "https://www.autonews.com/mobility-report/will-intel-take-mobileye-public"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/MOBILEYE-02_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Should You Buy the Mobileye Self-Driving Car IPO?"
     excerpt: "Intel-owned Mobileye filed for an IPO in late September, though many details around the self-driving car company's public debut have yet to be released."
     publishedDateTime: 2022-10-05T13:17:00Z

@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Labor shortage: 'You've got to start thinking that robots can do some of these jobs,' expert says"
-excerpt: "As companies struggle to find ways to take on the nationwide labor shortage, automation has become increasingly appealing."
-publishedDateTime: 2022-10-05T19:31:00Z
-originalUrl: "https://www.aol.com/finance/labor-shortage-youve-got-start-193116923.html"
-webUrl: "https://www.aol.com/finance/labor-shortage-youve-got-start-193116923.html"
+excerpt: "“You've got to start thinking that robots can do some of ... and IBM (IBM)— have already invested in AI platforms along with HR-focused and logistics automation. Amazon, in particular, is ..."
+publishedDateTime: 2022-10-05T19:55:00Z
+originalUrl: "https://www.aol.com/news/labor-shortage-robots-jobs-193116161.html"
+webUrl: "https://www.aol.com/news/labor-shortage-robots-jobs-193116161.html"
 type: article
-quality: 6
-heat: 6
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "ru0wUlPlVW/rxRmtqbNx6jKRiCrfaZIu6DV8eWBsOfT1DbH/ylwGSo3UDJacUTLcGWBLliaBMof2gED9HeTYVUqkGakc+ePKJ/hHMrWL7Vr0tgKaH7WaRGDLToely0PqyAYTf2fL38fVl64/q0GOxQ18zJLXbH8GwNcs0tEEtnzVIZA8fVdKsxuh6oV1TOXatDWfg8uYhqe5x+LcTFIeawAIE9cTMe1YF2fmmq7vU0kFMQPg57WM+zI0OJfYnym79rGwfsDw0IPyvdvOOVKHYsVcOSwZZOM/zf8s3jaDTkOsitfRtpWHzgSw3kx4/qA7vAhqMjSLdlOtaQBk4FYXaRGqH9zMSfTeU8iRCd0py8AZDxX2nkxo/q+829wcHDzw0k3bY80DJ6djE9X6XjA6fbIRgbGKgN2jpvnz0aR4fCnLwQSJ3Fj3608fCAh2xRun/OCmuo16fDdtCO7p/mCaKYshUnnEw+qs3XRZfM1Rx5GxPnncae4glOZyM+ld4sRyXUu82342SzjZyOIOSR9Z0Q==;q55E88DnOhx79VCbLPlcGA=="
+images:
+  - url: "https://s.yimg.com/ny/api/res/1.2/35Ce3NUzrCO.W2C0_8QFLA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/15296c40-44e1-11ed-a3fb-0fa3ac62269c"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "cVxvtHaVLPTSfZscilL4+63rPsRN67VaCCXQmbQcpOZ1n1U3jHSA9c4si/qgyoRm/pVsa4aRx44DHuupdL2Xe6OtwJjqi6fs+ACheaEfJidpdLMxlJuq2J2ppbJfJebBXkQp0dehdcIho7c4WpDZSIufkPpozM1NWaXLpElAho4c5irBid7sd4dNPSE/sPMD9AHiYZHtvAyO30H+TjKoytHSvhPZdtKdIGTn4OXNP+oTlLZD9wa9t0rEO47DCTfmQRsk2zDz6CLW9zP16VFt6w+0DhwpTuRG+yStPcvEvC0rnPKcvOnDDzwficISf+FlvE9d567RVSSKPg0OS+QKVRszskx87WrIUHpK2oKXcZc=;EuZE3gGi5jRzlaQdACUX6Q=="
 ---
 

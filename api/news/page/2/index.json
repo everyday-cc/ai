@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-06-europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022.md",
+      "title": "Europe Artificial Intelligence (AI) in Healthcare Market Growth, Trends, Demand, Share, Analysis and Market Survey 2022",
+      "excerpt": "Sample PDF showcases the content structure and the nature of the information included in the report which presents a qualitative and quantitative analysis -  The Europe Artificial Intelligence (AI) in Healthcare Market report formulated at Business Market Insights covers all the most factors which affect the expansion prosperity of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T00:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030.md",
       "title": "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030",
       "excerpt": "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030.",
@@ -104,6 +156,58 @@
         "Machine Learning",
         "AI",
         "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
+      "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
+      "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
+      "originalUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYEO5rwXdifA/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -818,7 +922,7 @@
       "originalUrl": "https://www.cnet.com/home/smart-home/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 131,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -967,7 +1071,7 @@
       "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1157,100 +1261,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
-      "title": "Computer scientist aims to protect people in age of artificial intelligence",
-      "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "publishedDateTime": "2022-10-04T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-this-years-physics-nobel-prize-went-to-pioneers-in-quantum-tech-heres-how-their-work-could-change-the-world.md",
-      "title": "This year’s physics Nobel Prize went to pioneers in quantum tech. Here’s how their work could change the world.",
-      "excerpt": "Watson Research Center, the Eero Saarinen-designed, 1960s Jet Age-era headquarters for IBM Research. Deep inside that building, through endless corridors and security gates guarded by iris ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com",
-      "originalUrl": "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/2c6JClH139Y24DQHXaZkpf9E2Pw=/0x0:4032x3024/1400x1050/filters:focal(1688x1122:2332x1766):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70903719/IMG_4484.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house",
-      "publishedDateTime": "2022-10-04T13:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],
