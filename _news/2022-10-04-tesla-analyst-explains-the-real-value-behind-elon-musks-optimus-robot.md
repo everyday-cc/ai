@@ -102,15 +102,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
-    excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
-    publishedDateTime: 2022-10-03T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/10/03/twitter-users-hate-elon-musks-tesla-bot-maybe-were-just-not-ready-for-the-ai-overlords/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
   - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
     excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."
     publishedDateTime: 2022-10-04T12:02:00Z

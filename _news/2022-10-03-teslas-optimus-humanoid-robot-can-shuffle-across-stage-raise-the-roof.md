@@ -94,15 +94,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Twitter Users Hate Elon Musk’s Tesla Bot. Maybe We’re Just Not Ready For The AI Overlords"
-    excerpt: "Twitter users pounced on the fact that the Tesla robot demo was a bit underwhelming, and they are mostly correct."
-    publishedDateTime: 2022-10-03T12:40:00Z
-    webUrl: "https://www.forbes.com/sites/johnbbrandon/2022/10/03/twitter-users-hate-elon-musks-tesla-bot-maybe-were-just-not-ready-for-the-ai-overlords/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 55
   - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
     excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
     publishedDateTime: 2022-10-03T18:29:00Z

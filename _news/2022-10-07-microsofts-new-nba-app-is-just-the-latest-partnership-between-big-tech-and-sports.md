@@ -125,20 +125,6 @@ related:
         width: 1118
         height: 629
         isCached: true
-  - title: "Amazon, Apple, Microsoft, Meta and Google to improve speech recognition for people with disabilities"
-    excerpt: "The University of Illinois (UIUC) has partnered with Amazon, Apple, Google, Meta, Microsoft and nonprofits on the Speech Accessibility Project.."
-    publishedDateTime: 2022-10-03T12:35:00Z
-    webUrl: "https://www.engadget.com/apple-microsoft-meta-google-nonprofits-speech-recognition-120021686.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 71
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/00e6bc70-42ec-11ed-9b61-c134c193b26e"
-        width: 2126
-        height: 1131
-        isCached: true
   - title: "SAS Viya now available through Microsoft Azure marketplace"
     excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
     publishedDateTime: 2022-10-04T10:37:00Z
@@ -258,15 +244,6 @@ related:
         width: 2560
         height: 1434
         isCached: true
-  - title: "Apple joins project to improve speech recognition for disabled users"
-    excerpt: "The University of Illinois (UIUC) is working with Apple and other tech giants on the Speech Accessibility Project, which aims to improve voice recognition systems for people with speech patterns and disabilities current versions have trouble understanding."
-    publishedDateTime: 2022-10-03T12:48:00Z
-    webUrl: "https://appleinsider.com/articles/22/10/03/apple-joins-project-to-improve-speech-recognition-for-disabled-users"
-    type: article
-    provider:
-      name: AppleInsider
-      domain: appleinsider.com
-    quality: 19
 
 secured: "rgzB/0FtMZjdSg6docyxlMuQ6VDLbdso13lfKIx0uvwLP62k3pOGC4MJoulv3SbHrZoSnA3/W3dDDXsfyOEN0QxsBJMhaYERSmjW9N+V9dkWPQ/OhiFPsTi9NlL1LH8g0/TANNsg0oxf0g28Ud4kPmLsfPqMKqRdhi6X47eiLxIeTmciwLp1uZAVBfdO+AxxQ+gsjHNB9+WrLu0K3R7tPtkCNteWSblvLoEB6f477Ps0xP1ljhq1v6m7vv4OoVsRPyGN+q4COI+Et1JK3FRcf2wI04q5C46AXnDwndHKU3QxlwIfpHBPnhIIJNTlMfY4XLgouq66O69ViI9tQD3wOH5h76X3loeuUvKoHKePTZd3baIm4YRAQiMSKAUxiVMLoMoSwwEgoiPFjpBeF36XWey/xmlM7wFoGemKSaz4FKeQG83g1JYyS7gOP8Omsk5pq2GfydWSXoEL7+lT01eA7RonRxRG/9xIenPYpBo5TK80JmU4Wh+CM77Zspaa0DeLBPOlbgl8LL+9pDRUGI5/XQ==;bHeub0Po08gI8kL53Owyrw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creati
 ampWebUrl: "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Natural Language Processing
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all"

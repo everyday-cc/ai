@@ -7,7 +7,7 @@ originalUrl: "https://fedtechmagazine.com/article/2022/10/intelligence-community
 webUrl: "https://fedtechmagazine.com/article/2022/10/intelligence-community-developing-new-uses-ai-perfcon"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,17 @@ topics:
   - AI
   - AI in Healthcare
   - Natural Language Processing
+
+related:
+  - title: "This new computer chip is ideal for AI"
+    excerpt: "Artificial intelligence presents a major challenge to conventional computing architecture. In standard models, memory storage and computing take place in different parts of the machine, and data must move from its area of storage to a CPU or GPU for processing."
+    publishedDateTime: 2022-10-03T19:00:00Z
+    webUrl: "https://techxplore.com/news/2022-10-chip-ideal-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 36
 
 secured: "YrbHltBicIbaoEqlLcwvotYyGQF7QDoy01ANnGz+97JuoPMQKhd4uKcekO238yMj/6AdkMFLAgWD6R+bjs1UBsaVJ4lOl85tYysPiwfvMQB6nVSZ026pVobOwEQZ962f75/M2S4K8rbaL7/L610fBlLdFFMyHE2MOcBZk7ophF6MhWCvXt0s2+mU14jt/FPF5uhQaJIYy+9pFNHD1zbYA7QItvvqkSQbISs9uOU5xxzxa6HKlVBnwrufwmIOKqLLrsi1d6lncZvmLeU+UloPpUBBsFPZLJijRMHkaPKAuvAV3iXHT1ASmjgqdN2NYOXbNXii9lw2WW3IVrw86OgM27RPKITNnqSRE6sl0I/XzyIyFpFpjO2vHZs5X2E/NHHe0TsfTL1tiLQyIl1KYTM+L/N4jVf6S3OrRRuLMtwbr1EvCWR8p/+WLh+WiRARM3hxeJTo0ekFqNFgKm4d6NGzomk7oByMAc0FIJxS0TDr0ZjGZ4iJYEswHOXbkv5zS3s9UBMWaI2e1kmky6bxGcfFpQ==;0LhDMNJxIizws5FWnlu9qQ=="
 ---

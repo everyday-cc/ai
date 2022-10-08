@@ -32,15 +32,6 @@ related:
         width: 788
         height: 443
         isCached: true
-  - title: "5 Interesting Startup Deals You May Have Missed In September: Not-So-Real People, Better Pet Food And More Bugs"
-    excerpt: "Plenty of interesting rounds went to innovative startups, including faux pet food, more bug food and money for an AI-created virtual person."
-    publishedDateTime: 2022-10-03T12:37:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/insect-food-legaltech-pet-lia/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 0
 
 secured: "7u+7GnSYU5tr5qTAAuTMw187SZufvEpk97v0TjgORUPaYAnKDNw+WSPww5vU/yrMQgdgxubyDhDmKxzAXL9Ojj9bOtqkZMQQLkXI5BASxz4QwAn1D+sR+E3pH+13Qvj50y6LQDJSS7I+CMJbFlHPrVZ9cM9OD+qKam9t598fKJe9Fp9H+QppLdtbE5B8yiT3XWXkxGVTCMmMSeq+jy9j7C920EXYsh9qvX5UAsphe/K8/aYpfkPiAZ0cJx+psNfcLNVXtpWhhwVQF9eBX5X05lOcfGpRFqtQnq0fpKbDbSVLk6awvUVwb6bmlcsqjsVaDgXXY8GmP5CcDwoCcvtyYoZmNuySDmhNc5kxIDmARVM9hLM1sZXhB6n/jmDEDqhvxwotg13NGVd1Zuw88hPLmrqKxfjBTA0YhGkFnu9QKWzO/QQcuBS3cJPQPaYsPe6MkRxQ6VgdrKxS+J846d/bmpVdfx5urZFM0LqR4wjJ8zbMloc4WP2kHZgWDy5sXnJQGfOgyFEVWRkOeXZxyvhfvA==;TmPeclamlxFEg4EQpW87qA=="
 ---

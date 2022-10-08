@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-R
 cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
 type: article
 quality: 22
-heat: 22
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 636
     height: 382
     isCached: true
+
+related:
+  - title: "Robot Ai-Da will speak to the House of Lords in Westminster"
+    excerpt: "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries."
+    publishedDateTime: 2022-10-07T14:38:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/63173407"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/63173407.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg"
+        width: 640
+        height: 360
+        isCached: true
 
 secured: "Aag95Xx91PVxfKZlQyp8hb5zscIRjZmKvOwK7pKGOOuZEyUsR4ApIjVmm/pnzSFUaWkt3XcLuHdbSxNqQKjn9Vn33wxgkhAMA4z8SB5wUThRIt8mDJJ2JptJBbH8Cy0KGbSkuey4YPSX18Ok4Si5eUUrmjydW/l+sKgGwJKtpqvyhVKyp2sYJHGhSOOIvVZ9n/78/4t1YlG+3fQTVYEOc5uxNAaBvKH0I9l1t5SokPFSdconNKmX0caZSbrJmu5Zoio6n3ektWDISke4XucYnBe34eb+z57afVEw70W9R1Qlq3rnfSQ4wKRFfk48Osl2yS50iQv2XvuFnhLi1jtmP8CpDKLhXxYP9zcPCBZjJLQ=;WJuEahobljVrJvejWZcN3g=="
 ---

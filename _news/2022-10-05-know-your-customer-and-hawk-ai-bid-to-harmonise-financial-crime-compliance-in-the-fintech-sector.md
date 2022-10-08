@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/94313/know-your-customer-and
 webUrl: "https://www.finextra.com/pressarticle/94313/know-your-customer-and-hawk-ai-bid-to-harmonise-financial-crime-compliance-in-the-fintech-sector"
 type: article
 quality: 26
-heat: -1
+heat: 26
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "How VYZYO enables financial and social inclusion with fintech-as-a-service platform"
-    excerpt: "Fintech innovator VYZYO wants to ensure essential financial services reach all economic sectors of a country, including the unbanked."
-    publishedDateTime: 2022-10-03T12:40:00Z
-    webUrl: "https://venturebeat.com/programming-development/how-vyzyo-enables-financial-and-social-inclusion-with-fintech-as-a-service-platform/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 28
 
 secured: "MOQE5cPyKXbCiWiitYXEOBz6jLbx8K3uUjKmf2KuPNXh74N1+Uw2xDmYCud3ppcxmqR+pCjso+d7yni3G4pdwkYhlYrQNJofcIvtDZDwScgsxncKME8Hk7Zmuutrr9a8BNwXTIWPy4BhVHkM1mNzlilDg65AAprSN68+fE7Bj29EBh7fRahSmJ4NpewKH0vHcqg5XdB2vHP++BPI40pab1vLz8NhV8UQc0+cNHAsN8Z+czVdegyOWw6dFzdSfJeMtfw12ZA7jKjk/63e32FMA48ynj7owQ5PqnOqrpZuik1uJpOcXP97wRRSwKUixKNr0DoYunlnvhri6AmESggYlAZVT8B9+qWKuIiPusMpaPQ=;YItimBro44T/jbg3+e2VYg=="
 ---

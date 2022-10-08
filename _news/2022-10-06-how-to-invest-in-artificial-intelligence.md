@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artific
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 480
         height: 270
         isCached: true
-  - title: "Keys to Implementing AI in Drug Discovery"
-    excerpt: "Implementing artificial intelligence and machine learning tools in drug discovery requires reasonable expectations, clean data, and collaboration."
-    publishedDateTime: 2022-10-03T12:00:00Z
-    webUrl: "https://www.genengnews.com/artificial-intelligence/keys-to-implementing-ai-in-drug-discovery/"
-    type: article
-    provider:
-      name: GEN
-      domain: genengnews.com
-    quality: 17
 
 secured: "hpC2uTcyMkeJH97gpQZcYas4qIJw1H7HfY4XMjrdyLzJ4JwvlUvYYnG0uJT6IDRwURSoy6E3TOHXucflHRClk0r1nUtQbB9MkdlV7/NeZuxBr2hgXAC57pTUD6cCe7YWuJiTKIc/4Nx5U083Kwt+8LFJYpbZ+bQrqU2/v1d0ToO+4JDP/fHo0/3NgT2q7S1CweQEqygiE1HgdMRGTms8elWFG2ej0vxrL5Uv6ZSKiDNUhGSlHBsHRScpMRmpjINWNM3Z78PKHjpWb0VuBuBX81jc0m/9ri5Wq3xULY+08tg9IwjXAMo/szid6SuMZYTma+cUMRwko82/HFF0xVuZqrr4nxY/2BofpQUV8GG144AfK/5puTRTBfxvcjSA2J+bAv95L3uSs9lRPywh1lqyWKj2linVD5Vs/K+1wSnILIJghe1QkucH0Gn4OK/i9LNiX5hUmdUYowTUwLbBaeWQlVgBau+FcATYmVcie0JRaFg70gv8gJzFvEFk0I+NJsOKbSg0UrmVnx5vGwwzdNlpRw==;COfXIdH4BwgfwEMdBRPaKg=="
 ---
