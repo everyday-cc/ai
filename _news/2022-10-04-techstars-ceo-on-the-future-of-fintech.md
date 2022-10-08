@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 174
+heat: 184
 published: true
 
 provider:
@@ -122,6 +122,20 @@ related:
       - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Shaking the money tree: How big banks need to adapt to tackle fintech rivals"
+    excerpt: "Core systems in large financial services firms are often decades old and rooted in complex, disconnected legacy systems."
+    publishedDateTime: 2022-10-06T19:26:00Z
+    webUrl: "https://www.digitaljournal.com/business/shaking-the-money-tree-how-big-banks-need-to-adapt-to-tackle-fintech-rivals/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/f62b678c573c25a7e0aee09f55e209876d62a0a5.jpg"
+        width: 768
+        height: 511
         isCached: true
   - title: "India’s fintech unicorn Yubi makes UAE debut"
     excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"

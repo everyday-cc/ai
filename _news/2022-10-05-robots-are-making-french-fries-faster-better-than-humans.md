@@ -80,20 +80,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 34
-  - title: "Artificial intelligence designs batteries that charge faster than humans can imagine"
-    excerpt: "An artificial intelligence known as ‘Dragonfly’ has been used by resaerchres to design more efficient batteries. Scientists at Carnegie Mellon have used the tool to design better electrolytes for lithium-ion batteries,"
-    publishedDateTime: 2022-10-03T07:52:00Z
-    webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-batteries-charge-fast-b2191409.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2022/10/03/10/battery-g0145dd061_640.jpeg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "uNJIlodvnUMClOxrNk5137zOHiJh0dF4iiiRjgsPzIYhRcbxNSGIIhEXA45BkZ+qM1fBp+dpNPwNBeIVRHqZSnQ62PdmtaCTb7RkS0L3rF3QzMF04esw4pIi5S1VFUkZ6AeLOBtIg0D9+GIc1gJpTZ9rPRKulQ40KMivWOBspi0PCjvLjsmckcPKCXwaqwegBKJiLiebMBE+YuLipqPWCHrfcBURs57okW67SiIKZ++IHv+qkdRB6w/IdGBOGL1SBHEXJOE835knrnSHYN2zi5unF4wVw1NFe16M+BzkBkMklngQ6c3fbfVS3rpxpW2seDYPYVrkzo6WtmoU+xGszA18DS8RXKgv19phrpNLyr4=;HmX+qWaDOjTnCflMEUpy4g=="
 ---

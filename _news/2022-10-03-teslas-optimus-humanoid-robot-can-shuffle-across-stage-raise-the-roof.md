@@ -66,20 +66,6 @@ related:
       name: redsharknews.com
       domain: redsharknews.com
     quality: 71
-  - title: "Elon Musk reveals Tesla’s Optimus robot, not a man in a suit this time"
-    excerpt: "Musk said the Tesla robot could be ready for orders in three years and cost $20,000, but admitted there's still 'a lot of work to be done'."
-    publishedDateTime: 2022-10-03T07:16:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/elon-musk-tesla-robot-optimus-ai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 56
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/0x0-TeslaBot_03.png"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
     excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
     publishedDateTime: 2022-10-04T12:30:00Z

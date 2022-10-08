@@ -172,15 +172,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
-  - title: "White House Unveils Artificial Intelligence 'Bill of Rights'"
-    excerpt: "White House Unveils Artificial Intelligence 'Bill of Rights' By GARANCE BURKE, Associated Press The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused ..."
-    publishedDateTime: 2022-10-04T11:28:00Z
-    webUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+    publishedDateTime: 2022-10-04T15:49:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Post Register
+      domain: postregister.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -196,6 +203,20 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "On Tuesday, Oct. 4, 2022, the Biden administration unveiled a set of far-reaching goals to align artificial intelligence-powered tools with what it called the values of Democracy and equity ..."
+    publishedDateTime: 2022-10-04T17:18:00Z
+    webUrl: "https://omaha.com/lifestyles/technology/white-house-unveils-artificial-intelligence-bill-of-rights/article_976f8cd2-2440-52ad-b0cd-107f0e18b638.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 39
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/7/f2/7f2178d4-8f04-5be0-91a4-948b19dcf6c4/633c1ce144a7e.image.jpg?crop=1763%2C926%2C0%2C124&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
@@ -234,15 +255,6 @@ related:
       name: Protocol
       domain: protocol.com
     quality: 18
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
-    publishedDateTime: 2022-10-04T22:17:00Z
-    webUrl: "https://apnews.com/article/technology-business-artificial-intelligence-7a39848340d210592aeea2478225f489"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 17
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
     publishedDateTime: 2022-10-06T13:21:00Z

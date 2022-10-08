@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -80,20 +80,6 @@ related:
       name: IT World Canada
       domain: itworldcanada.com
     quality: 34
-  - title: "Artificial intelligence designs batteries that charge faster than humans can imagine"
-    excerpt: "An artificial intelligence known as ‘Dragonfly’ has been used by resaerchres to design more efficient batteries. Scientists at Carnegie Mellon have used the tool to design better electrolytes for lithium-ion batteries,"
-    publishedDateTime: 2022-10-03T07:52:00Z
-    webUrl: "https://www.independent.co.uk/tech/artificial-intelligence-batteries-charge-fast-b2191409.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2022/10/03/10/battery-g0145dd061_640.jpeg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "1ymvyNV2DTWkAOr7/wdyPgy4b722Qn51Fsu51HOd1F3RhH3rAX9CuzZbNDrpf9xBBnAm5o1wgoXxvv2AURgeoIiBZ81fsbhZDpZv+rzuRidDFS/i8qLSH8aeLv4VLxHJMkY4vJrckg/MTZtWtgvALhdrByTwCxMF2mGVCjMYLIKvDzs2IP/oLGEAPxx+KcxRlCbDXolU2SX3sLzzW4Gl1b9vTQ8QMx2GkqvpQqG4ZfVJm0W8N1MkTLarVeFD3VR8RUAzsNwAQmlcDYzDkVzdUsji/vp4qQDzCvY0swef+saVDYkSDyHsk9JuRwxWcRO5K9+k1Ur7Z2AsLzGr/PaDYnBuxbIl8kK5izHLG5icG8Q=;zXiR9KKZuDZG9Vsblc8VDA=="
 ---

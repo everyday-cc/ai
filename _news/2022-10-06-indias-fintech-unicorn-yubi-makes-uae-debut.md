@@ -133,6 +133,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Shaking the money tree: How big banks need to adapt to tackle fintech rivals"
+    excerpt: "Core systems in large financial services firms are often decades old and rooted in complex, disconnected legacy systems."
+    publishedDateTime: 2022-10-06T19:26:00Z
+    webUrl: "https://www.digitaljournal.com/business/shaking-the-money-tree-how-big-banks-need-to-adapt-to-tackle-fintech-rivals/article"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 36
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/f62b678c573c25a7e0aee09f55e209876d62a0a5.jpg"
+        width: 768
+        height: 511
+        isCached: true
   - title: "Gates Hub participates in the largest fintech event in Dubai"
     excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
     publishedDateTime: 2022-10-06T12:52:00Z

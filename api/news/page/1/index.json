@@ -2,6 +2,40 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-08-uber-uber-inks-driverless-robotaxi-deal-with-motional.md",
+      "title": "Uber (UBER) Inks Driverless Robotaxi Deal with Motional",
+      "excerpt": "Uber’s current deal with Motional makes the latter the first autonomous vehicle company to conduct deliveries as well as rides for Uber. This is because in May this year, Uber Eats and Motional launched autonomous deliveries in Santa Monica,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional",
+      "originalUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp",
+      "publishedDateTime": "2022-10-07T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition.md",
       "title": "Parliamentary committee urges Ottawa to pause use of facial recognition",
       "excerpt": "The use of facial recognition technology by companies and government agencies should be strictly controlled, says a parliamentary committee. In a report this week presented to Parliament, the House of Commons ethics and privacy committee made 19 recommendations,",
@@ -158,7 +192,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -197,7 +231,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -706,7 +741,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 218,
+      "heat": 208,
       "tags": null,
       "images": [
         {
@@ -1201,60 +1236,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms.md",
-      "title": "DeepMind unveils first AI to discover faster matrix multiplication algorithms",
-      "excerpt": "DeepMind unveiled AlphaTensor, the “first artificial intelligence system\" to shed light on a 50-year-old open question in mathematics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
-      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all",
-          "width": 724,
-          "height": 483,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
-      "publishedDateTime": "2022-10-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
-        "AI Hardware"
       ]
     }
   ],

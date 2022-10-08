@@ -7,7 +7,7 @@ originalUrl: "https://www.ttnews.com/articles/uber-revives-self-driving-taxi-dre
 webUrl: "https://www.ttnews.com/articles/uber-revives-self-driving-taxi-dreams-plans-start-year"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Thursday Digest: Uber inks self-driving taxi deal; Biotech opens huge new lab"
-    excerpt: "Musk’s deposition, which was scheduled to start Thursday in Texas. However, Axios reported that the judge overseeing the case wrote on Wednesday that she will \"continue to press on toward our trial,\" as neither party had yet requested a stay."
-    publishedDateTime: 2022-10-06T15:25:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/news/2022/10/06/sfbt-digest-thursday-uber-amgen.html"
+  - title: "Uber (UBER) Inks Driverless Robotaxi Deal with Motional"
+    excerpt: "Uber’s current deal with Motional makes the latter the first autonomous vehicle company to conduct deliveries as well as rides for Uber. This is because in May this year, Uber Eats and Motional launched autonomous deliveries in Santa Monica,"
+    publishedDateTime: 2022-10-07T21:07:00Z
+    webUrl: "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional"
+    ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 1
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
+  - title: "These driverless trucks haul drinks"
+    excerpt: "Waymo, Alphabet Inc.’s driverless-vehicle unit, said it has carted in excess of 1 million pounds of Modelo and Corona beer more than 220 miles a day to Houston from Dallas under a pilot program ..."
+    publishedDateTime: 2022-10-03T23:25:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/03/driverless-trucks-haul-beer-drinks-modelo-corona/69537060007/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "ZN2JDSaXhwYvWhw+9rJmjv3If9WrPM67qX3A0JJ1PZOdibgEmAu5oX6NUYm/X2hsMg8gcEFlskaUNTA8YlbXeyFbv5px2LdJ5SOtsXkE64mMqTuSdjdvyfMt+JNFDSUKItTHtawmWYvmgwkkoBPRtlKwaftrSR8W9hsq2XDP5DAe2+U3D0YGCLSQ3XZczAw66jOoXWcflBoveS2vTf7vWOSjR3irYOmaWdXLwrGRjwaX51CAjP6VnvRcioLmiFbPFX1TTmSOy7z1WepjGNpQQtr6581ob1HXghcyEgr1U30AmbnyaM+O6vaf74sMePXCub9+d+mGECEaItBdx3FXh9UtHBnGLGvrNLsEjFlTxuLlWaQyVTI3PfU9E6I0A/QfADQNgx+gqs6VgCQYsJHVWo+AFhVCSmxErSkQuL4zgI25pDS/RyDwerXRRXmOJYh/Siat0dT9pe1JslI2ZHbkFjZN0uj41T3NM+DBpq3si5Nmu4dNEGAXj3e+wbDybhuaCTMn2WLhCGvxZ+np4IAPQg==;Dwdp8cFV6KR0mSXVsXsAEw=="
 ---

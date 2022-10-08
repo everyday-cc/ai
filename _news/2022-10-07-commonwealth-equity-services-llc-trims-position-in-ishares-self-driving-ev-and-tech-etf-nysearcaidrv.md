@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/10/07/commonwealth-equity-servic
 webUrl: "https://www.defenseworld.net/2022/10/07/commonwealth-equity-services-llc-trims-position-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Bank of America Corp DE Has $29.51 Million Holdings in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Bank of America Corp DE grew its holdings in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 25.7% in the first quarter, according to the company in its most recent 13F filing with the SEC."
-    publishedDateTime: 2022-10-03T08:20:00Z
-    webUrl: "https://www.defenseworld.net/2022/10/03/bank-of-america-corp-de-has-29-51-million-holdings-in-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 3
 
 secured: "u5GBNusux8BvLBDpKpj7ZaT3ok45bMyMCZ1Carfl2BfohXcaq/ce/MNpw9nXQOuI1q43vnG89BMwVCkbZ2h/VFxWquuaXoysaeyBGpbMQR/5Wp72QBfwndRkfui2IPeBD3XXKtgIDBOho7+MKVzHRcENq8LiGGd8NhVhInlTGInbOWpnNfxfSswb1VhB3LADey3NIwcAxuho9GftJCP6i9On6+xoaWWJ9wmKYZLPbqox6uBNp4xHjgAws4pEn6AB5bCqpqZQGcLgycwWU0UfGkMlmCpEpMabzlCKY/soVRvoNh1OFhLNcH8fVO4pRm0FsNOdFHTtwKBxscz9tqlPa5mKXKo1A5m+O+wUFbMu7l/EUMjZMEtYlu50AKi9yR6Ry2o6EuUgZ4/+Zupmsd/cDu3V9g3cQAEChXTrg+bzEVS8xtmBhsqKY4YmWyqU8yOL0mRxej75k5a0u24Zmt59obyIbxB0RPiRvvu9XlwYzBtA12CcrDc2ZVTqsR9d6l2oDTYh3pIjVDN+3qqm3b7DhA==;ubV9Ox2E8BJrwfcr6Lm1Nw=="
 ---

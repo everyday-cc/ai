@@ -71,15 +71,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "These driverless trucks haul drinks"
-    excerpt: "Waymo, Alphabet Inc.’s driverless-vehicle unit, said it has carted in excess of 1 million pounds of Modelo and Corona beer more than 220 miles a day to Houston from Dallas under a pilot program ..."
-    publishedDateTime: 2022-10-03T23:25:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/03/driverless-trucks-haul-beer-drinks-modelo-corona/69537060007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "okgtnc3nmHfS6mxHJujZurLHVGQ8ktIdGgE0DEBDAvkH5z7LICUaHqs2L3Dsop3W9RQRvj8frY/aPACg6sNCu1owoDAdnM57mCpycslxUV38HAQDZ/3Z3f8hgWNlmC8x0cOCxieAEU4i2kwCguGk5OLuy3cYDst7i8L+xQ16rHwHew99eHAZamHNzZfUhtfQoztFHM/8McEyeO0OO1D6mKyG30mhfYtHNnMoXDW+Ctgyxxm8SfIWWiZ6eNepqfTpNEGEeX7m7nGVGxqgZrS61KFwi+yySWfc8cUGgrwDKsfGVwFrAQ4KZxgwKnjq3mQ9dN3Ttgp+ElI+8aTmx4lEV2pe23K+a1z1D83mmDBys+VO8KAxHqeVI8+8wI8HiSk/RVvztvtM5Pyc1/ugodWveNSFWJOmhyVqfr2VJpPe7cwyEOZWjcxaCgrVuz9Ho+Niab/JVz7gk8KEjnwpuSXLPU5bc6Ry6tH1G3Qqzlmd+t3U3a3vUP6+n11lqhZq9Z1ZodehDCErz2eux+n6QGBXVA==;u8m0ZRR3POYIBz20TdbA0g=="
 ---
