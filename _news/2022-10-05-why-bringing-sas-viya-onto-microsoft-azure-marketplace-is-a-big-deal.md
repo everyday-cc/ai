@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-micro
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Graphcore value crashes by £1bn after Microsoft deal is axed"
+    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
+    publishedDateTime: 2022-10-08T18:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/graphcore-value-crashes-by-1bn-after-microsoft-deal-is-axed-030m37q6p"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "pAjqjj9ZE0lmSvBzK4FvmYkicz3kdWtu9lzeGIdIIB+NmjhbvUeBy5krso4K1ud4MWOU5BslLamZmZ5IQan4QybbpBFbF07NxhVlxr1LURtaThjPWmDrKPuspUzXCpVceHQDswsJP092nW6JA2XAKp8l3ThQ3jcj8w72NE8WpIW8vEzzSsSW847vTW+CUmWpGnw4erptXzRidK7f3oGTO17SVuS3dHO2XKGlhlaRW+kloVABj4ntzOvBRYXsFYTQzyMS4ydyeu4rIISJXlpI1QrykXYf/y99kJ89Qx3+//QJbQ1PirLuxgdcskxJFlzGHAyD5YKcqTn12rYxe6NaUcaZifYVRhE1z5eJbWEL1OrxN7jDvYRTkmlOHZ2uymDQmTosYUFqDplFxHOXUm3wqC6FLMPIL+d6jxce21jYPTYCSxtSFlplVZGVoWkHFGbXSE3h3Bh+cI4ddiJYvIUEVHzzbsy/OLMPbDY8I0bHOGaF907fhmHyGCLkA913jSLF4T7RXADBIGXf8G2ZzNoBRQ==;cUj2xWM91wMXsJ0oOPy3Wg=="

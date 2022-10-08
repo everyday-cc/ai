@@ -38,15 +38,6 @@ related:
         width: 1545
         height: 770
         isCached: true
-  - title: "DAZN leverages Amazon Rekognition"
-    excerpt: "Baseball isn’t just America’s favorite pastime; it’s also one of the most popular sports in Japan. Nippon Professional Baseball (NPB), the Japanese equiva"
-    publishedDateTime: 2022-10-04T00:09:00Z
-    webUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 36
 
 secured: "J/eXLER7kfW/Wk08k4UOC9aC5DEKBG6ORrNUrZWYK+WM1pCvOPwxhfEq6KnxZ1GMM+JXWYsmR1pun4XOw5tNm4tCuf/Roy/q3zehzXTg6r/vZDAaajvceuLR7Enjx6vp+a/nfl2os2BX44F7+p2NyCUADiL6Gkf08wVX/rJaGdWPVW4Xht2wRlIJIWvdQq3Ijs43p1fI4/yeKoO0wFW0v9k+lVB6NjrOEjcIDBcBu1xOj6HMZsuGN2mLfi1ivb9IpydjUrxPthn1kALiaXQJNMttMZI4PI5VFiU0qWiNkru1hQewDQQwxoy8a0SoEk8ZyoBoWUxwuvEEjCjjO7rJ1wlIMMCJoC+r2pgSYX5kFME=;HRy5get8FYpm90hAL5MSfw=="
 ---

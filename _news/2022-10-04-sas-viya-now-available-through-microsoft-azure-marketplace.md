@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Graphcore value crashes by £1bn after Microsoft deal is axed"
+    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
+    publishedDateTime: 2022-10-08T18:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/graphcore-value-crashes-by-1bn-after-microsoft-deal-is-axed-030m37q6p"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 39
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "KmSEDHqAf/Pv7dJtnYbIfRjnhgqzC18m0XfF96gq9xqy70l+526h2yQiheTroPgdWQPsgCulxhatBZVhZx4NlUrW8AeWcORA6EMELOCA3/V9oIQj6dtJ9P/8aK3TSXb9DGWWEN7030WXXzwV+o3mf5E2/eevYavyR+0UThU9ih0gpCmS6ZFaPaqLg+ELg/Ha1py8SMN44zqfv+pIU8rP6ADfktos35CbDWhUQJ4D1KSpBCthDTqyrjCRAMOZWjvDK+cVYeOlNLCY5i2LGsnmdOpdZSJ5+tvsCKyXopqxs72l/oIVFIQKO/La1MaQFK7cQjCRmfICmFBsWa1PlaVAqc5M3SNkq1rT4AP+yQ51bPV60hLtRFpuBcLibuLW3Qj39kO7QlAJ6ymThDp1YupR3/9PEgHHHEfxNJBMwYlgpsEx/h0AdsMuxmljiaBxx3zPs86hxYkX1Lo+4DZD2GBVKkg1gydikrspXBxNmjxRX1/LNArzmLWihpfsCJR2x+SJp66j7XFbdvsloSq2uAQNlA==;Odz2u85QfnlUgwJ/eASeiw=="
 ---

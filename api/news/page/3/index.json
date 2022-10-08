@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-04-redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose.md",
+      "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
+      "excerpt": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers’ needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg",
+          "width": 1548,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T13:39:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
       "title": "Computer scientist aims to protect people in age of artificial intelligence",
       "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
@@ -598,7 +651,7 @@
       "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -972,6 +1025,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
+      "originalUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
+      "publishedDateTime": "2022-10-03T16:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
       "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
       "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
@@ -1126,111 +1222,6 @@
         "Natural Language Processing",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth.md",
-      "title": "Create high-quality data for ML models with Amazon SageMaker Ground Truth",
-      "excerpt": "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg",
-          "width": 1531,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T10:39:12-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-how-the-innovators-brain-works.md",
-      "title": "How The Innovator’s Brain Works",
-      "excerpt": "How does the human brain learn to innovate? The Thousand Brain theory has direct, important, unexpected implications for how people learn to innovate, and therefore for how teachers, coaches, managers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320b7cd246c4d8df9fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
-      "publishedDateTime": "2022-10-03T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

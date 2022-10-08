@@ -32,7 +32,7 @@ related:
     provider:
       name: Environmental Leader
       domain: environmentalleader.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://s30148.pcdn.co/wp-content/uploads/2022/10/pexels-tom-fisk-3856433-1024x614.jpg"
         width: 1024

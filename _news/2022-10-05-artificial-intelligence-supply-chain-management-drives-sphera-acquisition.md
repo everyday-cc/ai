@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-04T17:32:00Z
 originalUrl: "https://www.environmentalleader.com/2022/10/artificial-intelligence-supply-chain-management-drives-sphera-acquisition/"
 webUrl: "https://www.environmentalleader.com/2022/10/artificial-intelligence-supply-chain-management-drives-sphera-acquisition/"
 type: article
-quality: 51
-heat: 61
+quality: 53
+heat: 63
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s30148.pcdn.co/wp-content/uploads/2022/10/pexels-tom-fisk-3856433-1024x614.jpg"

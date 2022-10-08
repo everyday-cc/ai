@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -47,31 +47,6 @@ related:
         width: 2000
         height: 1125
         isCached: true
-  - title: "Self-driving cars keep causing traffic jams in San Francisco"
-    excerpt: "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker"
-    publishedDateTime: 2022-10-04T01:00:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
-  - title: "These driverless trucks haul drinks"
-    excerpt: "Waymo, Alphabet Inc.’s driverless-vehicle unit, said it has carted in excess of 1 million pounds of Modelo and Corona beer more than 220 miles a day to Houston from Dallas under a pilot program ..."
-    publishedDateTime: 2022-10-03T23:25:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/03/driverless-trucks-haul-beer-drinks-modelo-corona/69537060007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "s6zs0nLtG35UyXKLh+LHGPlrvYZCikMS4t0Y1J7H6jhA8viT+gYlPBS828sOpY/0057MkP9WyR3vG2gTrnwz1Jjpoo5giT5tO2iKoGwP8FXocXHvmkQ1hF5/K5nGPTdCcZNdZdMwa9eN/i9DrhIvq7wE9VMkwNbn8LjUzvpGk/m3nqXvaFJIkDX3MVfVjAd/Tg75jHr5UULx2pdBEt5iPkxuvZEMx+GiLfzeLYkcrD0qbENuaLrrXjxIMixFDSMS5xs+fG+bl4kvQKI5ionNg4D+YXIA0H9yJJYddfDoo6E3jMXVwdCF+8yuYboxgEyb4sJngZ/4jFelEif8aJvFoDLEDthdD87MFDgurSIED7s=;se0Zce/9J/nml5d3UmckRQ=="
 ---

@@ -26,6 +26,22 @@ images:
     height: 1598
     isCached: true
 
+related:
+  - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
+    excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
+    publishedDateTime: 2022-10-06T10:32:00Z
+    webUrl: "https://www.zawya.com/en/business/healthcare/mubadala-health-g42-healthcare-to-create-new-entity-embodying-the-future-of-healthcare-vfmjiodg"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 30
+    images:
+      - url: "https://static.zawya.com/version/c:NTNkODk4NDEtMjA0MS00:MDJmNzQ4/210304082328cwrq-jpg.jpg?f=3%3A2"
+        width: 799
+        height: 533
+        isCached: true
+
 secured: "3ECVdLa1BzWfjrph6+gdNwGROK8hgjoyjjBIfLRYulxaxtRECFlWnDCq4CFkGOJiY1/Ll91l7o3vcn7PGV2ligx/tz1ljWKNvwt/IFkPjVncbZKfrp8y8e0FxihkycY50IIbGtYMOywVG8O2MqZwehxhULUKC0Y/8f2qNun5PDnj3sviKVgjR3NHwwfXCIhaMDJbMuR2r+Jw7nhzHN6QyVrEvx0qz34NKWaclYeJDbA5ov8IK9VLJ/GD1HiWa7G8tEa2CEo1dj0Ua3zFn7ITGwUREdtMf83yAr+uVxkqkC5OYpm6tlokQGEPbSYte9cX4lADnUrXXPj4KR2WAmQtzOvl7Fajzu1QBNfG50iJLyGaNJ4F0l8NsmfL4zVHmQswjF3NNuroG5YS+ZclwQOXTc/VF5UBSmDYjuiMoHcliH4qm2CLNQMmGhEKUnwm2OtcOngTBFdEArwi2N3mV3Rz4237pq3N2Wnw3cJAqrNWuivS74AKHUsYXpd87k99gruPnm6FMwBP1HBfC4KFurCA1A==;9sWlFtTb0wLOSgiHnY8fJw=="
 ---
 

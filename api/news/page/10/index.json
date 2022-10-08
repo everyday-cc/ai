@@ -2,6 +2,93 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-27-kami-visions-fall-management-solution-kamicare-expands-national-access-through-general-availability.md",
+      "title": "Kami Vision's Fall Management Solution, KamiCare, Expands National Access Through General Availability",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprise, SMBs and consumers, announces the general availability of KamiCare, its vision AI fall management solution.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/09/27/9681407.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-physical-training-is-the-next-hurdle-for-artificial-intelligence-researcher-says.md",
+      "title": "Physical training is the next hurdle for artificial intelligence, researcher says",
+      "excerpt": "Let a million monkeys clack on a million typewriters for a million years and, the adage goes, they'll reproduce the works of Shakespeare. Give infinite monkeys infinite time, and they still will not appreciate the bard's poetic turn-of-phrase,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/ai-2.jpg",
+          "width": 1920,
+          "height": 1633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-09-physical-hurdle-artificial-intelligence.amp",
+      "publishedDateTime": "2022-09-27T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
       "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
       "excerpt": "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ...",
@@ -1098,91 +1185,6 @@
         "AI in Autos",
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-james-earl-jones-steps-back-from-voicing-darth-vader-signs-off-on-using-archived-recordings-to-recreate-voice-with-ai.md",
-      "title": "James Earl Jones steps back from voicing Darth Vader, signs off on using archived recordings to recreate voice with AI",
-      "excerpt": "James Earl Jones, who has voiced Darth Vader for nearly 50 years of “Star Wars” films, seems to be stepping away from the role. According to Vanity Fair, the 91-year-old actor has signed off on archival voice recordings being used by young filmmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "originalUrl": "https://www.nbcnews.com/news/nbcblk/james-earl-jones-steps-back-voicing-darth-vader-signs-using-archived-r-rcna49393",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-09/220926-james-earl-jones-darth-vader-jm-0922-1a147b.jpg",
-          "width": 2100,
-          "height": 1400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna49393",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna49393",
-      "publishedDateTime": "2022-09-26T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
-      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
-      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

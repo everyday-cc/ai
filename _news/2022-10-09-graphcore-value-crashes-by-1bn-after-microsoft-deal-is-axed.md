@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
-publishedDateTime: 2022-10-05T11:42:00Z
-originalUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
-webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
+title: "Graphcore value crashes by £1bn after Microsoft deal is axed"
+excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
+publishedDateTime: 2022-10-08T18:00:00Z
+originalUrl: "https://www.thetimes.co.uk/article/graphcore-value-crashes-by-1bn-after-microsoft-deal-is-axed-030m37q6p"
+webUrl: "https://www.thetimes.co.uk/article/graphcore-value-crashes-by-1bn-after-microsoft-deal-is-axed-030m37q6p"
 type: article
-quality: 52
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Insurancenewsnet.com
-  domain: insurancenewsnet.com
+  name: The Times
+  domain: thetimes.co.uk
 
 topics:
-  - AI in Autos
-  - AI
   - Microsoft AI
-  - AI in Healthcare
-  - IBM AI
+  - AI
 
 images:
-  - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
     width: 1200
-    height: 630
+    height: 675
     isCached: true
 
 related:
@@ -55,21 +52,21 @@ related:
       name: businesstech.co.za
       domain: businesstech.co.za
     quality: 69
-  - title: "Graphcore value crashes by £1bn after Microsoft deal is axed"
-    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
-    publishedDateTime: 2022-10-08T18:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/graphcore-value-crashes-by-1bn-after-microsoft-deal-is-axed-030m37q6p"
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
+    publishedDateTime: 2022-10-05T11:42:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-63"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 52
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
-        height: 675
+        height: 630
         isCached: true
 
-secured: "ALq6dXPrX6rYKtsO6lPmcOsp3jf88otzV7jA8sIzyBZ4msQFhCf1w07Lm/8xbpJIJcB9KS/lOqRiKEgLrMJRN+kENDxnG/1mN5jAnnrPxTZzpRn6n+CGjAr1wcJUoYJB+5b3naOtx2/U/zeQWUSdKXXuZu1S7KJgY7kWRzOoWU/aQjYV5go1jupFaximYLGDgI5AapEFq/qg1t4s5exgoUliRAM+SFIrjs4SwLt0QK7xUGB0GikaYEonSTdlZ8wE3fLyxuDnLO3FNcGObgIkGajfdD4AgyDHuQxcn6YYjsvlKsryX/YpQHYHXBb240d+Cc8iKt6y6nuEi5JOM29zFZZzmtPs69eWzni9b9a+EqE=;UhLWH/PpjIWOHhuyESMKqg=="
+secured: "qEYO5G0YAWVmLoL79n9nbgMD2yJdSZ7XAtq+rnOLSwiMyPriHq2fdKOweR9xx65kXkWVARaoeX46dJ7LjB1/ElI0QMu/ms9lagZVexzF4vit9a6TOUKRYzqYRRo2D1qm8LoquQ3nu8aOFB4BYI1NMRx/d9nlAG76ZrStKcpjx4OqmbepP1A3hDqvEkopBsOkfmkuiP3AlblLT+Co/fViRPxXrtjuggnyjX43uxR6vGFkoZffsA2TFvYNyGNmpMvQ0FjdkNoIA1fkzZZVBbceGuyc7WVFqTEsOKhekhSyWYM9uaH4BLO6mHVixYu5cHZYzPpmbH1fBOTh6R44tLoJDT7vP0RP573Go9Ci/A8ikR8=;ERJ0Q0hQM9W25j+7NO3bUA=="
 ---
 

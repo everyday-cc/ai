@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -39,15 +39,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 71
-  - title: "DAZN leverages Amazon Rekognition"
-    excerpt: "Baseball isn’t just America’s favorite pastime; it’s also one of the most popular sports in Japan. Nippon Professional Baseball (NPB), the Japanese equiva"
-    publishedDateTime: 2022-10-04T00:09:00Z
-    webUrl: "https://advanced-television.com/2022/10/04/dazn-leverages-amazon-rekognition/"
-    type: article
-    provider:
-      name: Advanced Television
-      domain: advanced-television.com
-    quality: 36
 
 secured: "e2xQ8YzwEjngLiAVSMzvfyi2XJOGDmxTFnWx2CDrqdRivx0f3IKQix9F69wd9qXorCQOL1sliOeM3UJO0ohAvjyzVJ8N/c/8GIosJDVs9t9cqyb3NUcZfnzIpixDs0yUaW9TcE0PTMUzj/jong9YxHWztJxcnynJs5Qzbp034OksJ8EnCWKHvaPoWcAX2FzLuansQ+rUOn0MwpekSI9WDtDLFgMDryW+NIHyGBvOzEoOKLQWGAMoT9RF3wz2LnXUsW4s3OJ8SSfAXGsz/S+1nU7uKFBhBz3MfDQAtP1OkMJtFVCRA07PUofOeFBqcX4nOo5zKFAcg8W1rqJnIeFwxbiSSauR/J+ssryJG5GVE0o=;s8VQCS7X5Nc1hvczMZKaCw=="
 ---
