@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 related:
   - title: "Xembly Raises $15M in Series A Funding"
