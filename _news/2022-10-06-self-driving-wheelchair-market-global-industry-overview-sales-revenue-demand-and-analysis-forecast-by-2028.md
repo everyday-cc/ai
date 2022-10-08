@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning as a Service (MLaaS) Market Demands, Industry Analysis and Forecast 2030"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market to reach USD 16.7 billion by 2027.Global Machine Learning as"
+    publishedDateTime: 2022-10-06T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-demands-industry-analysis-and-forecast-2030-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
     excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
     publishedDateTime: 2022-10-06T17:31:00Z

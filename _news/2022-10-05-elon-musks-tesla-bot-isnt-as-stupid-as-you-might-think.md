@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/"
 type: article
 quality: 91
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://media.wired.com/photos/633b3fa75347dadd8298df78/master/w_4096,h_2731,c_limit/Tesla-Optimus-Bot-Mechanics-Business.jpg"
         width: 4096
         height: 2731
-        isCached: true
-  - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-03T13:43:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22484464/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Tesla_Elon_Musk_Speaking_AP.633ae6db7650d.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C6%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
         isCached: true
   - title: "Musk Watch: Delaware court releases Elon's texts, Tesla debuts creepy robot"
     excerpt: "Welcome to Musk Watch, where we examine what Texas' richest (and perhaps most divisive) citizen is up to this week. Forty pages of Elon Musk's texts became publicly available last week as part of the discovery process in his ongoing legal battle with Twitter,"

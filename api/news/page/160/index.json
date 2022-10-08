@@ -2,6 +2,49 @@
   "page": 160,
   "value": [
     {
+      "path": "_news/2022-06-03-traffic-noise-around-primary-schools-slows-cognitive-development-in-children-study-warns.md",
+      "title": "Traffic noise around primary schools slows cognitive development in children, study warns",
+      "excerpt": "To study possible effects on cognitive development, the team assessed two abilities that develop rapidly during preadolescence and are essential for learning and success in school — attention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
+      "originalUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/road-noise-top-1620050.jpg?r=1654202340687",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "publishedDateTime": "2022-06-02T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
       "title": "Oregon dropping AI tool used to help decide child abuse cases",
       "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
@@ -1062,49 +1105,6 @@
         "AI",
         "AI in Healthcare",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies.md",
-      "title": "Guardforce AI announces further expansion into China with acquisition of additional 12 robotics companies",
-      "excerpt": "The deal, valued at US$12 million, follows the company's previously announced definitive agreement to acquire seven robotics companies in China",
-      "sourceUrl": null,
-      "webUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
-      "originalUrl": "https://ca.proactiveinvestors.com/companies/news/983942/guardforce-ai-announces-further-expansion-into-china-with-acquisition-of-additional-12-robotics-companies-983942.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA2XC9Sb2JvdC1rYmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
-          "width": 1200,
-          "height": 740,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://ca.proactiveinvestors.com/companies/amp/news/983942",
-      "cdnAmpWebUrl": "https://ca-proactiveinvestors-com.cdn.ampproject.org/c/s/ca.proactiveinvestors.com/companies/amp/news/983942",
-      "publishedDateTime": "2022-06-02T04:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Proactiveinvestors",
-        "domain": "proactiveinvestors.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

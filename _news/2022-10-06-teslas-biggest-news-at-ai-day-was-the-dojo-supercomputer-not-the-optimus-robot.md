@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’"
-    excerpt: "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations."
-    publishedDateTime: 2022-10-03T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/"
-    ampWebUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/teslas-ai-day-optimus/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 90
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/03/Screen-Shot-2022-10-03-at-8.32.31-AM.png?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Tesla's Optimus Humanoid Robot: What Investors Should Know"
     excerpt: "Here's what investors should know about Optimus, which Tesla plans to eventually produce at large scale. Image source: . A rough development prototype of Optimus kicked off Friday's event by walking on stage,"
     publishedDateTime: 2022-10-04T10:30:00Z

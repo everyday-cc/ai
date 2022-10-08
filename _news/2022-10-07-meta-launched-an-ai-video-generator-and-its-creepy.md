@@ -64,6 +64,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 43
+  - title: "Google’s AI Videos Point to a Machine-Generated Future"
+    excerpt: "Artificial intelligence is quickly advancing in the field of video generation. That could have a profound effect on our social media feeds one day."
+    publishedDateTime: 2022-10-08T01:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/googles-ai-videos-point-to-amachine-generated-future/2022/10/08/40a3c0ec-46cf-11ed-be17-89cbe6b8c0a5_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H76Y5NSGZ4I63PQXRHF6NOGAUU.jpg&w=1440"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "19vfFnP59g1KjkVWIVUMf5CPnP4rXrtfxEwreXfx/ZFvRFLyrr3xRmjMHemy8Uy/ubEUzzFBDeljr7XIw9ijoBWwEEv2duAd6oT1doIy5yl+jvuahdwh3Q46Kbz+OuwFmytcDjag4p2bviJp6cTux95U2jZb3y8M35UJlfe9omCY4TIZ9i0aqUC5QJPWKGypqyyd8mpuG+OT5sSPtuEWzB2Y2uwlAew9tRYddFXysRWpbWO/iZ6W2dww4GAB21yuZDhs4NzvKzLVNCBdBhJkG1SP8Nx0g9LGhNmSGeRgTwce+w+SLaOsRALEH7aTrLYKajPukpc/DnxoA/HDOV3dAamZrsBG1/pkGP9NFoKtK/NGhl3ys0rtyyLgClxDrAfOb5zlDymhOIvEF0l5Wh6dZXPLXXzIRiY1Yc3rU7bpAaMl7d9aCZavxyOXfAQ/2BjUZBqSvUrFT+kwmtgeqjsua6TsMIR/nwIBix9Habw6FG9ySYFkBif/lKzUIXEasyzO/JUO1xOzO9/Z7NyaGP6bLA==;+OfASQl9drR1bKWHkWk8vA=="
 ---

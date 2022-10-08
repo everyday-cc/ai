@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Demands, Industry Analysis and Forecast 2030"
+    excerpt: "Global Machine Learning as a Service (MLaaS) Market to reach USD 16.7 billion by 2027.Global Machine Learning as"
+    publishedDateTime: 2022-10-06T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-demands-industry-analysis-and-forecast-2030-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 75
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Medical Speech Recognition Market 2022 Emerging Trend and Business Opportunities, Scope and Overview, Forecast by 2028"
     excerpt: "Global “Medical Speech Recognition Market” report looks at the leading companies, market dynamics, size, share,"
     publishedDateTime: 2022-10-06T11:09:00Z

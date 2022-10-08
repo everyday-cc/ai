@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 915
         isCached: true
+  - title: "Google’s AI Videos Point to a Machine-Generated Future"
+    excerpt: "Artificial intelligence is quickly advancing in the field of video generation. That could have a profound effect on our social media feeds one day."
+    publishedDateTime: 2022-10-08T01:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/googles-ai-videos-point-to-amachine-generated-future/2022/10/08/40a3c0ec-46cf-11ed-be17-89cbe6b8c0a5_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 39
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H76Y5NSGZ4I63PQXRHF6NOGAUU.jpg&w=1440"
+        width: 1024
+        height: 681
+        isCached: true
 
 secured: "fcu3B36A+rPWdAB352KNd97W1pr4V7gBv3QHg9dGIKX4MPNK6sxfqPs6tzMDc/bDawn5uePfGA+5+KkfqhDA6qceZlyyn8Ff9ZKngCI6ZM7hGVZUNmQ3vbnlDgUeQ1VrWQmxGYVhxH9ywpFWa9+2BtqVQTxhUiBOMKcDs2RhdzGPPge3t+mPHsVcOruDKtEg/fK1i01tLnZeVgqHErEMx8q2vGUNAEXuu98um8tCL8i8nYKjxCFjbxYJ4dcul4zuq7128lQrllJgIILcz9pu16dX/j3BaMxGib1waVDYBdC0zcuUhRuTT+U5Nkqi14xZ5/m2YETVjuJQ+yMYXXnqxlUIsDvABiuRWuvCOVkKhLayHq+4XPsZbsaJnf3pD54ovqN+AWhMc42Gl47RwYYbHV5DQSrauUTu9mHStM8EUVWWnDOhNB+qJqzjMCYaT74em5BX2zvxdPGtoJbKsThDaOAFL8BhK2sxpwH5Se5oWhWXDQtOtoBfrdhjUhRt/bert4UVRNT0hOKJcxjjvMdWWA==;EzBmfDKyBNfEWYUPdPJz0Q=="
 ---

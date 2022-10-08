@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla’s Optimus humanoid robot can shuffle across stage, ‘raise the roof’"
-    excerpt: "The robot waved at audience members, and briefly \"raised the roof,\" but stopped short of any in-person capability demonstrations."
-    publishedDateTime: 2022-10-03T15:00:00Z
-    webUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/"
-    ampWebUrl: "https://www.popsci.com/technology/teslas-ai-day-optimus/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/teslas-ai-day-optimus/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 90
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/03/Screen-Shot-2022-10-03-at-8.32.31-AM.png?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
     excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."
     publishedDateTime: 2022-10-03T15:08:00Z

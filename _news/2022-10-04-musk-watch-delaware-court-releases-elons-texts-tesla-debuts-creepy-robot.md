@@ -58,20 +58,6 @@ related:
         width: 4096
         height: 2731
         isCached: true
-  - title: "Tesla Robot Walks, Waves, But Doesn't Impress"
-    excerpt: "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a cheering crowd at the company's artificial intelligence event Friday."
-    publishedDateTime: 2022-10-03T13:43:00Z
-    webUrl: "https://www.manufacturing.net/automotive/news/22484464/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 56
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Tesla_Elon_Musk_Speaking_AP.633ae6db7650d.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C6%2C1024%2C576&w=1200"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Tesla's robot waves but can't walk, yet. Elon Musk plans to make millions of them"
     excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot \"Optimus,\" predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000—less than a third of the price of a Model Y."
     publishedDateTime: 2022-10-07T08:42:00Z

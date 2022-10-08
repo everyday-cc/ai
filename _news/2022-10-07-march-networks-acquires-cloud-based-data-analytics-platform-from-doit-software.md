@@ -49,15 +49,6 @@ related:
         width: 800
         height: 533
         isCached: true
-  - title: "MRI Software Announces Acquisition of Springboard, a Leading Provider of Retail Footfall Counting and AI-Powered Analytics"
-    excerpt: "Acquisition will enable retailers and destinations to optimise operations via real-time data and actionable insightsLONDON, Oct. 3, 2022"
-    publishedDateTime: 2022-10-03T13:07:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/mri-software-announces-acquisition-of-springboard-a-leading-provider-of-retail-footfall-counting-and-ai-powered-analytics-1031778843"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 21
   - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
     excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
     publishedDateTime: 2022-10-06T13:44:00Z
