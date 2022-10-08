@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-supply-chain_logistics_infographic_638521560-e1665099850646.jpg?w=1200&strip=all"
         width: 1200
         height: 500
+        isCached: true
+  - title: "Supply chain tech startup Altana Technologies has $100M Series B raise"
+    excerpt: "New York-based Altana Technologies said it has landed a $100 million Series B investment, led by Activate Capital. The supply chain management software startup said the raise will"
+    publishedDateTime: 2022-10-07T19:57:00Z
+    webUrl: "https://www.freightwaves.com/news/altana-raises-100m-in-series-b"
+    ampWebUrl: "https://www.freightwaves.com/news/altana-raises-100m-in-series-b/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/altana-raises-100m-in-series-b/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/10/Altana_SeriesB-1200x674.jpg"
+        width: 1200
+        height: 674
         isCached: true
   - title: "Altana raises $100M for its AI-powered supply chain platform"
     excerpt: "The New York-based company provides a software platform called Altana Atlas that organizations can use to monitor their supply chains. According to the startup, the platform is powered by an artificial intelligence model that processes billions of data points."

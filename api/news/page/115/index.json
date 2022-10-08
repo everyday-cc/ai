@@ -2,50 +2,6 @@
   "page": 115,
   "value": [
     {
-      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
-      "title": "Designing next generation analog chipsets for AI applications",
-      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
-          "width": 1000,
-          "height": 773,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
-      "publishedDateTime": "2022-07-05T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-07-05-bumrungrad-international-hospital-southeast-asias-largest-hospital-to-deploy-lunits-ai-cancer-screening-system.md",
       "title": "Bumrungrad International Hospital, Southeast Asia’s Largest Hospital to Deploy Lunit’s AI Cancer Screening System",
       "excerpt": "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 5, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,",
@@ -1112,6 +1068,50 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-04-digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence.md",
+      "title": "Digital nursing 1: exploring the benefits and risks of artificial intelligence",
+      "excerpt": "Artificial intelligence is already being used to support advanced ... a robot for children that can respond to emotions; Paro, an animal therapy robot (Robert, 2019). A common theme in the literature on AI and robotics in healthcare is the expectation ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "originalUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2022/07/INDEX-Disc_DigitalNursing-1_59109-series-440x330.jpg",
+          "width": 440,
+          "height": 330,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nursing Times",
+        "domain": "nursingtimes.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

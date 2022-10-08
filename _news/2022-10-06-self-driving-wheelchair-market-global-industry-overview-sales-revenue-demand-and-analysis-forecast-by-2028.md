@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 162
+heat: 152
 published: true
 
 provider:
@@ -38,7 +38,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -123,15 +123,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
-    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-10-03T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
 
 secured: "VxjQ5XUf2PHPfqNVUyqqvg6P/24vddyE45luynQqyr13NTxtyqhsOXgG+6HqBWL9lQw+250YKO4fgIJSq6CvgZ+2vcMa1ytnT+yedtFAjxdaCth654dY27MXkUsrGDQ0hHGvOoHa5CVerbZ//eXbqjzLVR2h9QJrVWWwoTu2UgJB1hUuxnW+FnvKk5HCDPLKfVZO9OUw8hGCkvjB/MUtTUXfpxgvCI6OdFus/mK+3okIfsxfbPeXExjOirW4r+/K9mmhSk8FRSrjtxKiB0Vv1Xf9cYghmNejSLlTTfR5Synak2fYAdfkqgMqEPfC/NSma/0UIePd2TlwdSQH4swaCGKKbX9aG4/8B1FXdADVFkM=;/Vy57ImLduZszxWtbjmX5Q=="
 ---

@@ -133,20 +133,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Investera to participate at Fintech Surge 2022"
-    excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
-    publishedDateTime: 2022-10-03T06:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to-participate-at-fintech-surge-2022-n2tf38bz"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:N2Q3ZWY5ZmItZTRkMS00:OTNmZjI3/metaatriverbed-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
-        isCached: true
   - title: "Gates Hub participates in the largest fintech event in Dubai"
     excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
     publishedDateTime: 2022-10-06T12:52:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03"
 type: article
 quality: 53
-heat: 143
+heat: 123
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing (NLP) Market Size, Growth Insight, Share, Statistics, Regional, And international business Forecast To 2029"
-    excerpt: "In 2022, Natural Language Processing (NLP) Market size, segment (mainly covering product Type (, Machine Translation, Information Extraction, Automatic Summarization, Text and Voice Processing, Others,"
-    publishedDateTime: 2022-10-03T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-growth-insight-share-statistics-regional-and-international-business-forecast-to-2029-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market Research Insights with Upcoming Trends Segmentation Opportunities and Forecast to 2030"
     excerpt: "The global machine learning market size was US$ 11.1 billion in 2021. The global machine learning market is forecast to grow to US$ 121 billion by 2030 by registering a compound annual growth rate (CAGR) of 31% during the forecast period from 2022 to 2030."
     publishedDateTime: 2022-10-04T10:10:00Z
@@ -108,20 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market 2022 Share, Size, Regional Trend, Future Growth, Leading Players Updates, Demand by Forecast to 2029 | 108 Insights Report"
-    excerpt: "In 2022, Computer Vision Market size, segment (mainly covering product Type (, Hardware, Software, ,), Application (,"
-    publishedDateTime: 2022-10-03T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2022-share-size-regional-trend-future-growth-leading-players-updates-demand-by-forecast-to-2029-108-insights-report-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

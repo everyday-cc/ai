@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 500
         isCached: true
+  - title: "Supply chain tech startup Altana Technologies has $100M Series B raise"
+    excerpt: "New York-based Altana Technologies said it has landed a $100 million Series B investment, led by Activate Capital. The supply chain management software startup said the raise will"
+    publishedDateTime: 2022-10-07T19:57:00Z
+    webUrl: "https://www.freightwaves.com/news/altana-raises-100m-in-series-b"
+    ampWebUrl: "https://www.freightwaves.com/news/altana-raises-100m-in-series-b/amp"
+    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/altana-raises-100m-in-series-b/amp"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 57
+    images:
+      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/10/Altana_SeriesB-1200x674.jpg"
+        width: 1200
+        height: 674
+        isCached: true
 
 secured: "fXLzarJAUbcuK7ooiThKEsTxPi850y+QDmB0Rd2ckaHqjbUde71ePnO6rick0f67OqQIaGeZaOVHY8sSD8kUpPgYnq/9eF5vZdVx7ldOF+PpuQ8u3AYSBQ4lITy9TIUxTHvA43waQ5jAjcJg50mDAuogFRY8T/wscsws/lzVIf2htMG9oGlgx19whfUVa4JYZNyvEMI8zAmg2WEE9DfYR6CiwZ7RyqLsIOiFTBndoLySmcJjFyrsimX2SGtvs21ujXL4SQuKFzjUFd/b3kClPWPe7J1ex7YnPbTzuou75I6sZ/DyUqCOwSzJlu/rPQhM0g9bJCDoy58NAVInMKgqwnwozh60Llut+Dhb3v6/zAUl6g3r04r6+IBczms2vemfo31F2901hxh7Xev44/tHIXYHqIy+nE5cQKm6ubrvZPluN4HqeYPZpSHU+lWrT0wvdgl3NwDDX0tVfgx6OmP/8wpTwUxfteBJl/7Rg5FWSCxC7JqmGQWEdNH8cD4tJ6XvYLfAUf3jRISWZNs3eII0PQ==;p9Y/+JwDCBCuboNgZyapXw=="
 ---

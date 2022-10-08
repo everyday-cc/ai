@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 184
+heat: 174
 published: true
 
 provider:
@@ -122,20 +122,6 @@ related:
       - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
         width: 640
         height: 360
-        isCached: true
-  - title: "Investera to participate at Fintech Surge 2022"
-    excerpt: "Will demonstrate its solutions to address the challenges facing companies, individuals, and start-ups, providing them with smart solutions, using AI-based technology"
-    publishedDateTime: 2022-10-03T06:09:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/investera-to-participate-at-fintech-surge-2022-n2tf38bz"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:N2Q3ZWY5ZmItZTRkMS00:OTNmZjI3/metaatriverbed-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 600
-        height: 600
         isCached: true
   - title: "India’s fintech unicorn Yubi makes UAE debut"
     excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"

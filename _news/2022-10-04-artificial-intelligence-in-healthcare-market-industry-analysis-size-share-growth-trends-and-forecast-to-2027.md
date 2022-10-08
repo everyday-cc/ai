@@ -45,7 +45,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -121,15 +121,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
-    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-10-03T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
 
 secured: "F0wB2lJr6E+rIejEIfGZMHwv7f2FYi67osPyK2442D4xUtkUm2k7VH4x/+MsVEkO1OGxiGf7g3lE3ZlG6s6KDJrm99x+U267XdKMTJMchlWJH3Cd3gp3rgMepfzY9+BZNUOsPzkJBFuD7WxhWMn0pG7AOKsxrng8dG7ES17tQOPKMO5lwUJ15TqeyootlVFn1L1dqpX6R8UNHMFQjiTffGbqyyzsmaqGYfv9XDPEJCXcDsfh1Nay0MoTJKO0zUkmX7anBhE00u975m1/xsEi6nh7Z2vF+yaYJcZOqhs7deQ4kVlFkWLFq8YahOPtJdnEgvJr6ff4Ry1E4jauXO7qJk6ngiP8TjSDAozE3WNHRwo=;LNU0yixH/own6Rz5l8eubA=="
 ---

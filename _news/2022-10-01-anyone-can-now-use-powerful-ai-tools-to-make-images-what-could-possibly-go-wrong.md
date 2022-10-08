@@ -3,17 +3,18 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kmbc.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kmbc.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.kmbc.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-kmbc-com.cdn.ampproject.org/c/s/www.kmbc.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: KMBC Kansas City
-  domain: kmbc.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "eiJ9oPpH6oPPMnCr8JwwDP5Yni4Ck3dt2MCy+scqClma6QE4wAENdoMaKRG7nET/BCOKrBoW2h02tZjHT6ARH1M2sU2lMmjyg7VRPveEf6XbYVnNwG2AkwDdvu0bF57PsxWRJjHGT9u362Um95RVjQeYxRcdHJ9sSznBXh3laLRZuW/UgI9HcYfzsKL1Hnv/1/O/v02ZtrIiNO6/0S9ZUIonK6oTVq69+JBLG63h1bVqKPP5qfVEmstC+yulDqRMfSbl/JTHpRVJ6RomvXFUs8U+b+FNVKUZnYrrm2PVXWCAimRqDQ2Iv2x8YfB36DIqbRYlU98x3+hDIEOkj5DNJsRy94RA/DVgXzBAwyJlo5A=;8G79LyW3TO1sRlc/BeYgLw=="
+secured: "7jfjheCBQVi9AFf7yl53/Ub9+YTF0qpzyhPxGkZluWpTg9ktwQU9yXjLS9+JJukskSVkHDcWLwEm8KUmCOQ+1jINcfK3N9iW1V58uU3yUuv8y9C+waa4RNZ1gmwqq51JMp4tVfQQrRzpvGf05IXGMzdS+TgDYvJNOvbR8IIi2yYNdWs/Pdv7TOxDWVpuxrUQnSt9usdFl6eDgqLdPogxKqRPITmlqjepSvCDu6fuZJP97IFpKEah4mQPAH1Vm3fgALvGYfTwhJXP4ScBXonZG2zhqdQKZq7j2C44a24yfLsFkdIwMTcTm7DVavYhwH1M8X8aKno9YRZ/VFDiyq3BlKmv+TJPY1Jla3EDatR8eJQ=;MW9ea1K9NIKmRxUVe429Ow=="
 ---
 

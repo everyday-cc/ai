@@ -41,20 +41,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "The Reality, Promise and Limits of Artificial Intelligence"
-    excerpt: "Just what is artificial intelligence, anyway? In its ultimate form, will it model, augment or replace human thought?"
-    publishedDateTime: 2022-10-03T05:39:00Z
-    webUrl: "https://www.supplychainbrain.com/blogs/1-think-tank/post/35773-the-reality-promise-and-limits-of-artificial-intelligence"
-    type: article
-    provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 39
-    images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2022/09/30/AI-ARTIFICIAL-INTELLIGENCE-ROBOT-HUMAN-iStock-angkhan-1331063982.jpg?height=635&t=1664771136&width=1200"
-        width: 843
-        height: 635
-        isCached: true
 
 secured: "rI3JxMcFxg/SB7vl/l+HNicmu6IKTBIfRPiRkAVIq1/8sARQ9TtGJ31ChCQTB0ywFXk6uftICKWhC1/8soIhIvkYja2WY4iB3VJA7KnI0/QYCUOKiHe4kJ+iyptj8qxO6hVXMhHakRmC+PWQWNEY760kmK88SaiIyd43TTr0oy6rqq7NxVdymV0hw87ZykmPskEcUo0+xx5dqxIoxT1E9qQlTbCE0up2whxNSSInORCnpXrX5GwyvlZSRh6z9STbx/+hPgqPC86DktRZiKAkOGT0ANmXzmViup7hDndZugGYpR0yaeb6GNeFpxHxac6oFP9mHhG1KS8UPXBlWRGpsGHuhXRw44cf4II09ApaDhSFoScwdcS4X1Vcyuwl1M1JOmJWeAzQb/5i6WTVruOKKYVGk1O9+pRyUqI6kQ/rLZRBzIylgX5gA5CFKQDJhB5VxYCpXUJUKFYgU3j/fgF82w6BYb8pwxPplHjWzv2n5KKQNqImSxi6el3BFu4ng/U7NxZIjqgNviYh+0nkG4kRaQ==;f1jaWG6Oguz2yCFjc5KqtQ=="
 ---

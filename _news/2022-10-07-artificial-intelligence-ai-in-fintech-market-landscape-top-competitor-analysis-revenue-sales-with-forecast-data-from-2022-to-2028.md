@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-06T17:31:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
 type: article
-quality: 69
+quality: 71
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ topics:
   - AI in Finance
   - AI
   - AI in Sales
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -123,16 +124,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Lidar for Self-Driving Car Market Outlook and Forecast 2022 To 2028 with Top Countries Data"
-    excerpt: "Lidar for Self-Driving Car Market Research Report is spread across 97 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector."
-    publishedDateTime: 2022-10-03T06:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/lidar-for-self-driving-car-market-outlook-and-forecast-2022-to-2028-with-top-countries-data-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
 
-secured: "e4Ysykj8k53fPBRsoImnA6hgHWT5OZ50Fqb8GkHSAEsOwOpJ2GfiJTpb8xsPTu913ATm+BUCMjF5bbAa4eF962pMIF5F5uPNe5Ftrq6N86asUHYtrLf7VanUR1RQ3qT5xbC79W8/975dTgwfZle9IQD6CzFPO8CdKvo0DLCs7S6bOKZVUYPeUfh9vjVPOqxo6fuwYg3QXKFZqX3RiKzZSCzP1Pt4Mx9WCcvp7fewBXFWKh7dRu08yj4aVsOkUYJ7uymPnAPg3aW7EoYNgqG7+tJZhUmDOxZGlpzFxjkOBNiJMfICtO0YFcbUAEc39j5BDfikukBwOUYOc/rJjRHq0yTZC9G2lNEuuhIr4BJa2Jk=;3wsbDPaknp3ct2Gx6UxOvA=="
+secured: "G4RpRccQSp7KJUHdmDT7nEXOT/A9XJQa/5aTJ7htaWjA4E3Xyie7Js9u1bOZpptig8lt4JQdTyqABbPdylGds+Dv5A13wC6wOVVGgmvRkSL88KfmxyIbkhPIV0KtmhSJCqICeHzoc0vdOz8oQnOBh2WEDsig6vToMARaxCQ92p+2Afku++vbF8jlbyrGWhIkY2xNCj7XSI1ujbFx7w7bddLDjFzA65yc0JeeCfk17J1xWDMpqu1wvL5TVAohgUxxruT435qQLkgZgerLbTG9ycoYMyU0NxkxivKJhKE29Xvqfa7mvLY3e7mEDk9xtuSvLoTmRz4SWTI+x0fSOc/oaiVoPLRJ4+ztYKlqth/0QEwGAlLOYWkKaLForxxSNSe/P7EIcu4H4WhtFOdYg/OJaw+6SxOqgHpwMKHxB8DqhltK0qjPkaW20yLNR1enRmNTXbgQ2yaRc2/h3WmZvV/rJLZGXClR6bA0lBPVi9OBNTKcaWmCukIcWooAefxXkJWPiv7eol7icmnagq3uNenwpw==;chJm2lMbVnU9BdUAzcJlAQ=="
 ---
 

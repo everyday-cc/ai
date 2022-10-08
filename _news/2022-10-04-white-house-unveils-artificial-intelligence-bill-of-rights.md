@@ -260,6 +260,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "RTCSfSnHhvQWF5DuO8i+pBpm3vD7eteXyhAR0NOcryDxK11+laZNLeDS+iT1XU4Tbxi9VCJhl6gYqDWBsFU16RrcKsb1RFqTYhC46fv2iFT2Sh7A1Nb8DiNxaA1EZRbV6sm2IbLxeEBytCG/UFPL+iYxESeuTud/Gz6hAUtsZzzENF1O6neeWioVLtVCePIkZfBOcVi7mxInm7Fn/ZNRuEe0IAZLq7/mZQ4ftbEAxWFZyt5PX5Ozsfd0Mb+ZPPvAUfRBXzhY1O5mkc+Aj88RSWq88RSxhZikNogpC9IwUmas/0YrNV8+jBbzdDzTelG0HtBchramSMSbZzNogEy7HRxB+uYlTbWpXgvfz33Aa5c=;1n8BgxV1eYpxWegLvI0bjQ=="
+secured: "7h6GJb4/5+nByIyb49D/+FqI8Ga9tiAmmM+TYt0AIQSR+W1OZrAIuC7lSkpG02aY3pq9kictOih27/x96Lnwhp68IyBbOytSnc0jfbdC9iXiaxJ7q8h+LyT0hJeohwaJtSRVbkiLnZOtxaw7nXvTx1Gmbt/6MZ8YlgNygVEyNpgQmLWxWPD+2uO6m/otM8pLbttSAlWcTeWfS5xdhpvYwL89im4moMCx2fGtW1/1RL0BYgOaHIDXpAEkmKJs6I1ZlzaTwXetRYCLLThQE3JGEeXbLaaAcwSLswySqOMzCZ2/GgZWargfrYQrFiO4Wr3ddFIm2qM3V1YI1R40SxTqUqCpJh2+0p+HpTiWNSXWrOQ=;OIWSbsuplMrMjhAkMlwUTQ=="
 ---
 

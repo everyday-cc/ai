@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size, Growth Insight, Share, Statistics, Regional, And international business Forecast To 2029"
-    excerpt: "In 2022, Natural Language Processing (NLP) Market size, segment (mainly covering product Type (, Machine Translation, Information Extraction, Automatic Summarization, Text and Voice Processing, Others,"
-    publishedDateTime: 2022-10-03T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-growth-insight-share-statistics-regional-and-international-business-forecast-to-2029-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chatbots Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
     excerpt: "The “Artificial Intelligence Chatbots market” conducted by Reportmines.com brings into light the enhanced dynamics and growth opportunities of Artificial Intelligence Chatbots market. Furthermore, the report provides a detailed analysis and a holistic understanding of the market size,"
     publishedDateTime: 2022-10-04T18:01:00Z
@@ -109,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market 2022 Share, Size, Regional Trend, Future Growth, Leading Players Updates, Demand by Forecast to 2029 | 108 Insights Report"
-    excerpt: "In 2022, Computer Vision Market size, segment (mainly covering product Type (, Hardware, Software, ,), Application (,"
-    publishedDateTime: 2022-10-03T06:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-2022-share-size-regional-trend-future-growth-leading-players-updates-demand-by-forecast-to-2029-108-insights-report-2022-10-03"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

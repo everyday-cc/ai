@@ -2,40 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2022-08-31-amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming.md",
-      "title": "AMAX Launches GPU Servers Powered by Intel’s Newest Data Center GPU Flex Series for AI, Gaming, & Media Streaming",
-      "excerpt": "Intel’s Data Center GPU Flex Series is powered by Intel’s Xe-HPG architecture, which is designed for AI inference, Android and Windows cloud gaming, video transcoding, and virtual desktop ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
-      "originalUrl": "https://www.digitaljournal.com/pr/amax-launches-gpu-servers-powered-by-intels-newest-data-center-gpu-flex-series-for-ai-gaming-media-streaming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-31T07:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-31-tech-whistleblowers-prefer-loud-exit-to-quiet-quitting.md",
       "title": "Tech Whistleblowers Prefer Loud Exit To Quiet Quitting",
       "excerpt": "The penchant for tech whistleblowers to quit their jobs with a bang while many of their colleagues engage in “quiet quitting” should be a wake-up call to industry leaders, according to a blog penned by four Forrester analysts.",
@@ -1052,6 +1018,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-mary-barra-confident-in-gms-self-driving-vehicle-tech-and-goal-to-beat-tesla-in-evs.md",
+      "title": "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs",
+      "excerpt": "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "originalUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/GM-Telsla-Mary-Barra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "publishedDateTime": "2022-08-30T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }
