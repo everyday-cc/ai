@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market is expected"
-    excerpt: "According to a new report published by UnivDatos Markets Insights, the AI in Fintech Market is expected to grow at a CAGR of around 30% from 2022-2028. The analysis has been segmented into Type (Service and Solution);"
-    publishedDateTime: 2022-10-03T16:01:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-fintech-market-expected-display-steady-/2022/10/03/9684952.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://mma.prnewswire.com/media/1225049/UnivDatos_Logo.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Fintech and future of money"
     excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
     publishedDateTime: 2022-10-04T10:30:00Z

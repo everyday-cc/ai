@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-04T16:30:00Z
 originalUrl: "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/"
 webUrl: "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/"
 type: article
-quality: 62
-heat: 72
+quality: 64
+heat: 74
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg"

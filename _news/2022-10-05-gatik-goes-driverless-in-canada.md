@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-dri
 cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: freightwaves.com
@@ -27,50 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
-    excerpt: "Loblaws is partnering with a California-based autonomous vehicle company in what's believed to be a Canadian first: grocery trucks powered by self-driving technology."
-    publishedDateTime: 2022-10-05T13:26:00Z
-    webUrl: "https://www.cbc.ca/news/business/loblaw-gatik-autonomous-1.6606623"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6606623"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6606623"
+  - title: "Behind the Story: Navigating San Francisco in a Driverless Car"
+    excerpt: "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”"
+    publishedDateTime: 2022-10-04T12:31:00Z
+    webUrl: "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html"
+    ampWebUrl: "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html"
     type: article
     provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 48
+      name: The New York Times
+      domain: nytimes.com
+    quality: 89
     images:
-      - url: "https://i.cbc.ca/1.6606695.1664976237!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gatik-loblaws.JPG"
-        width: 620
-        height: 349
+      - url: "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg"
+        width: 1050
+        height: 549
         isCached: true
-  - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
-    excerpt: "Loblaws is partnering with an American autonomous vehicle company in what's believed to be a Canadian first: taking grocery delivery orders between various Loblaws facilities via self-driving trucks."
-    publishedDateTime: 2022-10-05T20:54:00Z
-    webUrl: "https://ici.radio-canada.ca/rci/en/news/1922717/loblaws-partners-with-self-driving-company-gatik-in-canadian-first-driverless-grocery-trucks"
+  - title: "Self-driving cars keep causing traffic jams in San Francisco"
+    excerpt: "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker"
+    publishedDateTime: 2022-10-04T01:00:00Z
+    webUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/"
+    ampWebUrl: "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?amp"
     type: article
     provider:
-      name: Radio-Canada
-      domain: radio-canada.ca
-    quality: 28
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
     images:
-      - url: "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/gatik-loblaws.png"
-        width: 635
-        height: 357
+      - url: "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp"
+        width: 2000
+        height: 1500
         isCached: true
-  - title: "Autonomous Trucking Startup Gatik Is Ditching the Driver in Canada"
-    excerpt: "San Francisco tourists, Phoenix suburbanites and now Canadian bacon — the list of driverless cargo keeps growing."
-    publishedDateTime: 2022-10-05T13:05:00Z
-    webUrl: "https://www.ttnews.com/articles/autonomous-trucking-startup-gatik-ditching-driver-canada"
+  - title: "These driverless trucks haul drinks"
+    excerpt: "Waymo, Alphabet Inc.’s driverless-vehicle unit, said it has carted in excess of 1 million pounds of Modelo and Corona beer more than 220 miles a day to Houston from Dallas under a pilot program ..."
+    publishedDateTime: 2022-10-03T23:25:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/03/driverless-trucks-haul-beer-drinks-modelo-corona/69537060007/"
     type: article
     provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 22
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik_lcl_fully_driverless_press_release_1.jpg?itok=Rbj3oQDr"
-        width: 470
-        height: 246
-        isCached: true
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 19
 
 secured: "05ePX/OX0FnkNwdddy0d3VeFMgg16AVBMt2o53Z/ZqgefoTICeMYcMMWqBAHHhljl2mPnHKD37OQq+m83h5rnERIzxIK0pcWlrHMdhLEOBunTASIWIPZeiHznZiCmWpDl7FBG5Lq417VMm8ByJjxT9IHgK+ylWQJdBXHYz4AOt6mUuToY6DxalmcUHD1k3Oc+mbL0pVgkC22R0mH0ZkJvBUpv2izWh8KF1g0Ldrcj14kkUzEQ7WO0PtnnO2T/QfUft4lx1rlh05eKuY4gI3rZAmquzvVQzq48B9xmewjpag+dLBphwVxcgkzTuKBzqdnh6jG+i4fU4IgQjGbDCXp3LkXQC5ft+XOhuyfYOfW+jXiyTTEqchwJbwA9BEeaDuJXmHfYV3f3S+JIqQcBPWKSUTWSfmD/puAHksbhS9lSVTDbuQLXaGaEX2Vt0Ll7GrKFhrCuAT02chtcLFZNrzbfd3CsTVxn6WHpiEzinPcmPCBuKEeFYVm237MM2yY0xZPHzzsYrsgbBwXslVSoyWa5A==;PvM73AkD5YDq8f+iuA63PQ=="
 ---

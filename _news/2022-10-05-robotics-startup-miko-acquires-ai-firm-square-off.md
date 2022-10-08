@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/announcements/robotics-st
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp"
 type: article
 quality: 89
-heat: 129
+heat: 149
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Robotics startup Miko acquires 70% stake in Square Off"
+    excerpt: "With the acquisition, Miko will expand its product line beyond its flagship AI robot companions for kids ... Atur Mehta, the startup’s co-founder and CTO, says the move will “bring new ..."
+    publishedDateTime: 2022-10-05T14:42:00Z
+    webUrl: "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imageypwb-1664979285228.jpg "
+        width: 800
+        height: 400
+        isCached: true
   - title: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year"
     excerpt: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year - Robotics startup Miko announced it has acquired a majority stake in Square Off, an AI-driven automated"
     publishedDateTime: 2022-10-06T03:26:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-94660924,imgsize-631422,width-1200,height-628,overlay-etretail/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Miko acquires majority stake in AI gaming startup"
+    excerpt: "Miko, an AI robot maker for kids, on Wednesday acquired a 70% stake in gaming platform Square Off for an undisclosed sum. The acquisition will allow a complete exit for Square Off’s existing investors; however, the startup’s leadership is expected to ..."
+    publishedDateTime: 2022-10-05T15:04:00Z
+    webUrl: "https://www.vccircle.com/mikoacquires-majority-stake-in-ai-gaming-startup"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2022/08/MnAmergeracquisitionrfl.jpg"
+        width: 640
+        height: 334
         isCached: true
 
 secured: "u4rTei0AhnG+lhLIgkjyW2mYZeVFqtIScUadFfu7eNe79LP6OU/X0qKGYg92S2gTdA++53RGAcXhvvqgABoH8578ML4mzVPWb97HnSK0tHm6nFgqlYCawaCtkspCE6X8vbrAacmTINETZMSxqPQwf1PJ1RoLT7t77ERDQCnujicL0lzWTwIanjTgJ3CW2DYbknUUi59zZ5NzGmX738QVWn291ofoV6M3YA4oOHtJTulGccbIJqR3+YOif2J45IMedmGYpoMVC0fXwPAk26jxbUWzgV3wzO/HY0wARpaHxhLkL3PTYvDoSDVpwzdPpodgA8/Iz3V/YHoqGSf/err1dQxBKDbCqplmcBFoTfhSNwnYj5GJiPnQq/S0mHKIOI7DKlwX+LTDF2t2UOkYveXN7OOVTLscESa9DwubE8q7agWU7pW0s+6PsOj5JWq2smbSeaEErHq+pwVIl2/c+IMSVcR0ctsLZGMPr1kH3qirrWgX/kZOSjyeZl/9pdTqK3C8P1l0YHzOh1MmpTXMK4dMfw==;UZEOVeh/ViPyvu5mcIfk8Q=="

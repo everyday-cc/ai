@@ -74,6 +74,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Robotics startup Miko acquires 70% stake in Square Off"
+    excerpt: "With the acquisition, Miko will expand its product line beyond its flagship AI robot companions for kids ... Atur Mehta, the startup’s co-founder and CTO, says the move will “bring new ..."
+    publishedDateTime: 2022-10-05T14:42:00Z
+    webUrl: "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imageypwb-1664979285228.jpg "
+        width: 800
+        height: 400
+        isCached: true
   - title: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year"
     excerpt: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year - Robotics startup Miko announced it has acquired a majority stake in Square Off, an AI-driven automated"
     publishedDateTime: 2022-10-06T03:26:00Z
@@ -87,6 +101,20 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/W82Ax1bf.jpg"
         width: 570
         height: 367
+        isCached: true
+  - title: "Miko acquires majority stake in AI gaming startup"
+    excerpt: "Miko, an AI robot maker for kids, on Wednesday acquired a 70% stake in gaming platform Square Off for an undisclosed sum. The acquisition will allow a complete exit for Square Off’s existing investors; however, the startup’s leadership is expected to ..."
+    publishedDateTime: 2022-10-05T15:04:00Z
+    webUrl: "https://www.vccircle.com/mikoacquires-majority-stake-in-ai-gaming-startup"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2022/08/MnAmergeracquisitionrfl.jpg"
+        width: 640
+        height: 334
         isCached: true
 
 secured: "AlI31fRm+8/uncFfu/J3z5DFDx1zNl0DJBKktAvs2jCbyammAPK6psyy9NMY02Np0g0F7kbAT4qLJc5q4oUe96CJNDI8q8M54MVkxdT5vjUyjoAchMZsm8WdXqoJ2I/rombEGooUzUDrwUbGraC781Xm2Az9vKtqr+f/dTSaV3wgR+lEPRIT9zVH5KJbXNUsNZXU1B4ZiAW99HWJyncxZdeSKXek79vC3BJUy/ziN7hhncbScZ5NvXFB9SDMyQOvuoNl4NQxolzVs2GOM+gH1dis4/a/tbmAjUeSYMxjX6HgViV4phVq1pwFWFoe0fs40/xfWdWflldInwsV9ltuhv1qw1AGj7IuYn8Ppx05QO4=;kjJEP2ar/huowGGkdfwz6A=="

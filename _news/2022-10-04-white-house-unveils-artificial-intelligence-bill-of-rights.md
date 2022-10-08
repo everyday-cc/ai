@@ -1,27 +1,29 @@
 ---
 category: news
 title: "White House unveils artificial intelligence 'Bill of Rights'"
-excerpt: "The Blueprint for an AI Bill of Rights notably does not set out specific enforcement actions, but instead is intended as a White House call to action for the U.S. government to safeguard digital and civil rights in an AI-fueled world,"
-publishedDateTime: 2022-10-04T14:14:00Z
-originalUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
-webUrl: "https://www.mysanantonio.com/news/article/White-House-unveils-artificial-intelligence-Bill-17485423.php"
+excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+publishedDateTime: 2022-10-04T15:49:00Z
+originalUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: San Antonio Express-News
-  domain: mysanantonio.com
+  name: Post Register
+  domain: postregister.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://s.hdnux.com/photos/01/27/60/62/23006367/3/rawImage.jpg"
-    width: 2048
-    height: 1365
+  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -267,6 +269,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "mHebQmDM8uQLCXNsZfR2p/b0vGgtwjxSEH/Jaw9SAGU7Y3ZXyodv2mftUYm4Z1DyfH9fDkKzYkYHi9LhPqDTXmvyoro8Nn5KfifuWg+j9Ds4TyMpIrZQb7Wf9pyszTdHq1Hq8Um0HkBhChjVfZKp7EX+6/9ufI+RllVGngu8IDvXwMvpDwxyN+4csbGPxuR2piRRNxh6fMqek7q8oIPRFs7OytleglLOweLoM6b39dHlxtzBH719Y5lAclUAe3aJW9npbOxZPw3ew0fmrk3yWKYwG3yEi3P1G4r//rhvFDVBS0229VzDtMCKjJKNLus9t3unjInPPL35kx/rYK1SBajPHMmp3ceiP6Tc1dlAmTI=;Zw68vextpQOiANZmHzB20Q=="
+secured: "5a7HiLQU1aMk/cB79z7hibvAJch9rH4/LnopDFx4skhQ3y4tdGGKD/YERzJ5K/N/cEqtJsk5gYJO3FXbUcLq1SogC7cwypEC3mTWVuC0LfsbidA6Ge/C6ebJOBWu36AuXlhDW1eNiWmkCFk+l3AV13nemaPt9lOd81UGI/VgtSVO+eYjgcr4gX6pT/7dDNICNuDghgbifQ71Emh8StP1ZW1nW0FNaMlxtEUIW7GKZhg0SCrszwiOVJ6VAdAM78dF/5R43DLUn3Ql1RLyvZ2RsM6WtzU3l2iRPXDi4OZfBXLapQj36NEkTrwrCTWdE/DXRh/langsyRIjRc7kggMpfCNGb8g+qkfQA916Sscj7Jw=;JjtwfmfOVwjMjSqwrIBGNw=="
 ---
 

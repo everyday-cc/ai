@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-d
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp"
 type: article
 quality: 69
-heat: 89
+heat: 80
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
         width: 470
         height: 246
         isCached: true
-  - title: "These driverless trucks haul drinks"
-    excerpt: "Waymo, Alphabet Inc.’s driverless-vehicle unit, said it has carted in excess of 1 million pounds of Modelo and Corona beer more than 220 miles a day to Houston from Dallas under a pilot program ..."
-    publishedDateTime: 2022-10-03T23:25:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/03/driverless-trucks-haul-beer-drinks-modelo-corona/69537060007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "uXL4YyBvKlyNuVAT3HYern23S/nHIO7BsiPScajYtQSx1vmoWgY5zTKRhLmJWg/Ylub5zz3snE8Rm1+X7i6dZCul3PY6SBhRS1wNkK0A72VMN3xG9dAHyF0z5YysjYJOToGjSbjC5aZVncbXh+f13MnSK5cS84mxeUCMFjuC+lVa/4nBPLN5REMMhMbtpYjJtvv2lJQqtv4J3mbX57MUNzv7lLwTju55SyD6LRKRWVfyKJzE+KwF2aEbN15vMk8j8BoIJaBOiZsut+dpuQ/i0nzcnssQWSyDoZW0m4zldUIAL9RaeC11RNecwLr+UVwEKf8p6DrCL3J4ANIf7WZKRB9alrwmmzoFujjwx0VvGaU=;2piiVDZTMCw2TiOhHQJhRQ=="
 ---

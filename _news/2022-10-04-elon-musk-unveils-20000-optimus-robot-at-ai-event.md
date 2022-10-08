@@ -46,17 +46,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 86
-  - title: "Optimus Unprimed - how Tesla’s AI robot was distinctly underwhelming"
-    excerpt: "Elon Musk may be the internet’s favoured ringmaster at the moment, but even he couldn’t pull a decent humanoid robot out of his hat at Tesla’s AI Day event last week."
-    publishedDateTime: 2022-10-03T15:08:00Z
-    webUrl: "https://www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming"
-    ampWebUrl: "https://www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming?hs_amp=true"
-    cdnAmpWebUrl: "https://www-redsharknews-com.cdn.ampproject.org/c/s/www.redsharknews.com/optimus-unprimed-how-teslas-ai-robot-was-distinctly-underwhelming?hs_amp=true"
-    type: article
-    provider:
-      name: redsharknews.com
-      domain: redsharknews.com
-    quality: 71
   - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
     excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
     publishedDateTime: 2022-10-04T12:30:00Z

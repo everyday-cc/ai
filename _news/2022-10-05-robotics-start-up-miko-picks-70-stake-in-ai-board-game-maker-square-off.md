@@ -59,6 +59,20 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Robotics startup Miko acquires 70% stake in Square Off"
+    excerpt: "With the acquisition, Miko will expand its product line beyond its flagship AI robot companions for kids ... Atur Mehta, the startup’s co-founder and CTO, says the move will “bring new ..."
+    publishedDateTime: 2022-10-05T14:42:00Z
+    webUrl: "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp"
+    type: article
+    provider:
+      name: Your Story
+      domain: yourstory.com
+    quality: 54
+    images:
+      - url: "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imageypwb-1664979285228.jpg "
+        width: 800
+        height: 400
+        isCached: true
   - title: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year"
     excerpt: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year - Robotics startup Miko announced it has acquired a majority stake in Square Off, an AI-driven automated"
     publishedDateTime: 2022-10-06T03:26:00Z
@@ -88,6 +102,20 @@ related:
       - url: "https://etimg.etb2bimg.com/thumb/msid-94660924,imgsize-631422,width-1200,height-628,overlay-etretail/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Miko acquires majority stake in AI gaming startup"
+    excerpt: "Miko, an AI robot maker for kids, on Wednesday acquired a 70% stake in gaming platform Square Off for an undisclosed sum. The acquisition will allow a complete exit for Square Off’s existing investors; however, the startup’s leadership is expected to ..."
+    publishedDateTime: 2022-10-05T15:04:00Z
+    webUrl: "https://www.vccircle.com/mikoacquires-majority-stake-in-ai-gaming-startup"
+    type: article
+    provider:
+      name: VCCircle
+      domain: vccircle.com
+    quality: 39
+    images:
+      - url: "https://assets.vccircle.com/uploads/2022/08/MnAmergeracquisitionrfl.jpg"
+        width: 640
+        height: 334
         isCached: true
 
 secured: "zWT6HDRccmfQt6By3atiunvMHdqHq8Qr+V2TP5BboNZq/PZeRTbMVXx1Vs/aoO+LOYhtZQA0ad/rB/mMNXbDFV0gp54LEeHGEpfiY3sQxmEHY+prwE7OQnLMKkUYBS6amTxbCO6n0jNCQlmEIlQxJxok0FhHm3Bs1WmvvhJwTKPsoKJTwGATaji4ZJ9EvhxuqA7AkiTtFdOUjVGpo4aAqtdpokysXGm6svQTrUnQAj8J9A4pFPMtIT7Ep/i1MUE1Q3LmW9bIO9bzUoRLGhKdzhZPcW85NZPgmDbXxtMJ9nR2F2bH6oNuMAn4vfmW96Ys6n4x+Y6oV4WqKLnXgEfUXIpV0e4SOzTPu8UYvSna+LKr80+5lhu5IANRXX2CKJmsUY3iZrnFmWt79T7IO15lTMpB0slWDzVVqOu+ee1Go6JkBjmMC6EGTESt6Fxqy2wRaT/GcQfQepH3txnRDtUtb7/ijW9NSDhQqlswK9Nq1P+PmMPm7RuwpNb9KKpqHtkt80S+CCJHE7fK5z+fcvvdYg==;8zXutHjOFSOdwOySPLV2hA=="

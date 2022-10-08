@@ -32,7 +32,7 @@ related:
     provider:
       name: GeekWire
       domain: geekwire.com
-    quality: 62
+    quality: 64
     images:
       - url: "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg"
         width: 1260
