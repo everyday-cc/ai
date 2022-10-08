@@ -375,6 +375,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-07-kyndryl-and-microsoft-expand-partnership-to-drive-mainframe-connectivity.md",
+      "title": "Kyndryl and Microsoft expand partnership to drive mainframe connectivity",
+      "excerpt": "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
       "title": "Pixel 7: facial recognition is finally available but there is a catch",
       "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
@@ -567,6 +619,59 @@
       ]
     },
     {
+      "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
+      "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
+      "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg",
+          "width": 1549,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:59:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-informediq-automates-verifications-for-origences-auto-lending-using-machine-learning.md",
       "title": "InformedIQ automates verifications for Origence’s auto lending using machine learning",
       "excerpt": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation’s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders’ policies. They improve",
@@ -725,7 +830,7 @@
       "originalUrl": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -828,7 +933,7 @@
       "originalUrl": "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 178,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -871,6 +976,59 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-google-opens-first-cloud-region-in-africa-following-aws-and-microsoft.md",
+      "title": "Google opens first cloud region in Africa, following AWS and Microsoft",
+      "excerpt": "The tech giant is intending to open a new region in South Africa, taking around two years longer than its competitors to enter the continent",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft",
+      "originalUrl": "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T04:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -1071,163 +1229,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030.md",
-      "title": "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030",
-      "excerpt": "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-global-marketing-study-on-machine-learning-stock-2022-2029.md",
-      "title": "Global Marketing study on machine learning stock 2022-2029",
-      "excerpt": "Theglobal \"Machine Learning Stock Market \"2022 research report provides an in-depth analysis of the current trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
-      "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
-      "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
-      "originalUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYEO5rwXdifA/v0/1200x630.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg L.P.",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

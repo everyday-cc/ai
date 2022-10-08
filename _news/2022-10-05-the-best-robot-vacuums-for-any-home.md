@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "The best robot vacuum deals on iRobot Roomba, Roborock and more ahead of Amazon's October Prime Day sale"
-    excerpt: "We found top-rated robot vacuums from Samsung, iRobot, Shark and more ahead of Amazon's early Black Friday sale."
-    publishedDateTime: 2022-10-04T15:17:00Z
-    webUrl: "https://www.cbsnews.com/essentials/the-best-robot-vacuum-deals-on-irobot-roomba-and-more-ahead-of-amazons-early-black-friday-sale/"
-    ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-on-irobot-roomba-and-more-ahead-of-amazons-early-black-friday-sale/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuum-deals-on-irobot-roomba-and-more-ahead-of-amazons-early-black-friday-sale/"
+  - title: "Best robot vacuums for pet hair in 2022"
+    excerpt: "Remote control If your robot vacuum cleaner doesn’t connect ... and clean it regularly as specified in your manual. Bear in mind that the filter will also need to be replaced occasionally ..."
+    publishedDateTime: 2022-10-05T15:44:00Z
+    webUrl: "https://www.tomsguide.com/best-picks/best-robot-vacuums-for-pet-hair"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 42
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 54
     images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/09/27/3168a85a-3a74-4a18-b9e2-f71aec12f6a0/thumbnail/1200x630/97ed89780ad9cf704f59c890c8cf66a5/robot-vacuum-header.jpg"
+      - url: "https://cdn.mos.cms.futurecdn.net/EhA9BQe9x9vyV97ypphW5C-1200-80.jpg"
         width: 1200
-        height: 630
-        isCached: true
-  - title: "Roborock S7 MaxV Ultra for the ultimate in robotic floor cleaning"
-    excerpt: "The docking station is where the S7 MaxV charges itself and this can be set to only charge during off-peak times like at night."
-    publishedDateTime: 2022-10-07T09:28:00Z
-    webUrl: "https://www.irishexaminer.com/business/technology/arid-40978055.html"
-    type: article
-    provider:
-      name: Irish Examiner
-      domain: irishexaminer.com
-    quality: 24
-    images:
-      - url: "https://www.irishexaminer.com/cms_media/module_img/6462/3231395_5_seoimageog_S7_MaxV_Ultra_4.jpg"
-        width: 1200
-        height: 630
+        height: 675
         isCached: true
 
 secured: "Jnoq8cgwZs+wHkVOao2M00A0mv/e3YhZFYmxzezXw6Ru6Hj6gcMuXG+kWXlzgpg4sHk1znj3iTAYU1+DBL3jbuIiP1vHXMhQfLUnCTvna29pN9c0UZkyc+Ne0tIKe0NfQuEMbiTJUbvhX9ptiD6PNsfpLWg5hpbSCcY3CPHkQlY6IYfKFudVCyd5aDzGoCXZcNeswgjDm/vDl5dBYLODGgi6/a301TvW17/jMXAQvPtSdg9WJDuVwpVIdQKS3GylvtulSWnFs4QzOdGtaE/2/z0prlGI/QJ50Vw8O/fqhm3HvvNEjvY4LjtPvpvE9tkBokVI1BrCeFkaENQHhnzV/LxqlW1VVtKEHH82J7/ZAvvpSuWa0cQsnnRk6ogKq6bgVwxc9Qp2AazlGyXzMTWlalSg3JEcHogJuBxUpa6ZUpnK5lQ5sShNW4ECrlY/ES702M4QNJDhudUjCjfYsbj+5uxk0Lu4x6vUKwdyZxCgFsUZYjVPq8bQDWz5aGfi7wXkyyJTQ3V58mdxzdhQcDCGBg==;TItJcA9FeCQEpPksmK9uGQ=="

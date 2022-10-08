@@ -204,6 +204,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
+      "title": "Artificial Intelligence Continues to Transform Healthcare",
+      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
       "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
       "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
@@ -1336,49 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-how-ai-drives-down-healthcare-costs-and-improves-quality-of-care.md",
-      "title": "How AI Drives Down Healthcare Costs and Improves Quality of Care",
-      "excerpt": "By Ronny Shalev, PhD, CEO of Dyad Medical Artificial intelligence (AI) is one of the main tools powering the next generation of healthcare technology. With the potential to drive down healthcare costs and improve patient outcomes,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/129-333x500.jpg",
-          "width": 333,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-ai-drives-down-healthcare-costs-and-improves-quality-of-care/",
-      "publishedDateTime": "2022-09-16T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

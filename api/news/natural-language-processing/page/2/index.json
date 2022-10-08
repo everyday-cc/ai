@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-18-talking-to-whales-can-ai-bridge-the-chasm-between-our-consciousness-and-other-animals.md",
+      "title": "Talking to whales: can AI bridge the chasm between our consciousness and other animals?",
+      "excerpt": "Speaking to animals has long been a fantasy. But now a dizzyingly ambitious project is harnessing all the power of modern science in an attempt to understand what whales say – and then hold conversations with them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
+      "originalUrl": "https://www.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible?amp;amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/6faca857c01debd20fc769617f3c9a15031f2877/0_128_6423_3854/master/6423.jpg?width=620&quality=85&auto=format&fit=max&s=f3d2228236838a3ac62e14c56fad7d0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/environment/2022/sep/18/talking-to-whales-with-artificial-enterprise-it-may-soon-be-possible",
+      "publishedDateTime": "2022-09-18T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-18-say-hello-to-the-next-generational-ai-earbud-thats-the-most-cost-effective-translation-equipment-for-churches-timekettle.md",
       "title": "Say Hello to the Next Generational AI Earbud That’s the most cost effective translation equipment for churches – Timekettle",
       "excerpt": "Listen to the powerful preaching of God’s Word, now in your own language with the AI church translation equipment earbuds. GUANGDONG – SEPTEMBER 18, 2022 – Earbuds have come a long way since they were introduced to the world way back in 1891 by Ernest Mercadier.",
@@ -1271,59 +1323,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe.md",
-      "title": "Improve transcription accuracy of customer-agent calls with custom vocabulary in Amazon Transcribe",
-      "excerpt": "Many AWS customers have been successfully using Amazon Transcribe to accurately, efficiently, and automatically convert their customer audio conversations to text, and extract actionable insights from them. These insights can help you continuously enhance the processes and products that directly improve",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-transcription-accuracy-of-customer-agent-calls-with-custom-vocabulary-in-amazon-transcribe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/07/transcription-accuracy-transcribe.jpg",
-          "width": 1533,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T10:46:36-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
       "path": "_news/2022-09-08-taliban-acknowledge-struggle-for-recognition-of-afghan-govt.md",
       "title": "Taliban acknowledge struggle for recognition of Afghan govt",
       "excerpt": "The international community, wary of the Taliban's harsh rule when they were last in power more than 20 years ago, has withheld official recognition and Afghanistan's assets abroad have been frozen.",
@@ -1365,50 +1364,7 @@
         "Natural Language Processing",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-09-07-aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities.md",
-      "title": "Aster Hospitals adopts AI-powered speech recognition solution across its UAE facilities",
-      "excerpt": "Aster Hospitals in a strategic collaboration with 3M has successfully adopted 3M M*Modal Fluency Direct, the latest speech and AI-powered technology. The technology went live across Aster’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
-      "originalUrl": "https://gulfbusiness.com/aster-hospitals-adopts-ai-powered-speech-recognition-solution-across-its-uae-facilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gulfbusiness.com/wp-content/uploads/2022/09/3M-M-Modal-Fluency_Clinician-with-Speech-Mic.jpg",
-          "width": 930,
-          "height": 620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T06:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Business",
-        "domain": "gulfbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 3
+  "nextPage": null
 }

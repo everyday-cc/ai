@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft, Apple, and more work on speech recognition for users with speech disabilities"
-    excerpt: "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities."
-    publishedDateTime: 2022-10-03T17:46:47Z
-    webUrl: "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
-    ampWebUrl: "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
-    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/"
-    type: article
-    provider:
-      name: Neowin
-      domain: neowin.net
-    quality: 97
-    images:
-      - url: "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg"
-        width: 760
-        height: 428
-        isCached: true
   - title: "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive"
     excerpt: "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities."
     publishedDateTime: 2022-10-03T21:25:00Z
@@ -56,34 +40,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/727c3f40e46bd156e23fe082b021fdbf46f90b69/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Google opens first cloud region in Africa, following AWS and Microsoft"
-    excerpt: "The tech giant is intending to open a new region in South Africa, taking around two years longer than its competitors to enter the continent"
-    publishedDateTime: 2022-10-06T11:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 86
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
-    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
-    publishedDateTime: 2022-10-07T10:40:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 83
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
-        width: 1260
-        height: 710
         isCached: true
   - title: "Big Tech unites to make speech recognition tools better for people with disabilities"
     excerpt: "The Speech Accessibility Project will use artificial intelligence and machine learning to make speech recognition systems more inclusive of different speech patterns. Amazon, Apple, Google, Meta and Microsoft are all involved."
@@ -101,47 +57,6 @@ related:
         width: 1200
         height: 585
         isCached: true
-  - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
-    excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
-    publishedDateTime: 2022-10-05T10:23:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-mec-lbwvksaa"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 80
-    images:
-      - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
-        width: 900
-        height: 599
-        isCached: true
-  - title: "Kyndryl, Microsoft deliver cloud-based insights for mainframes"
-    excerpt: "Kyndryl, which provides secure multi-tenant zCloud, will create data pipes that enable connections between the mainframe, including its zCloud platform, and the Microsoft cloud, making it easier for customers to move their mainframe data to the cloud."
-    publishedDateTime: 2022-10-07T09:42:00Z
-    webUrl: "https://www.itweb.co.za/content/WnxpEv4YY3n7V8XL"
-    ampWebUrl: "https://www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
-    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/WnxpEv4YY3n7V8XL"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 74
-    images:
-      - url: "https://lh3.googleusercontent.com/0Rm2Cr8vP6xK2UbbtiCP8xDEyB45yfe46WHdb7t0RUBO92lmtJUFCj4kA5BDFV89LXCFSC2F3JeW0n5xs7H_Z3cghdbcBzGx8Ho=w1200-h629"
-        width: 1118
-        height: 629
-        isCached: true
-  - title: "SAS Viya now available through Microsoft Azure marketplace"
-    excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
-    publishedDateTime: 2022-10-04T10:37:00Z
-    webUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/"
-    ampWebUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 69
   - title: "Big Tech seeks to improve speech recognition tools for people with disabilities"
     excerpt: "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities."
     publishedDateTime: 2022-10-04T14:23:00Z
@@ -158,15 +73,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
-    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
-    publishedDateTime: 2022-10-06T18:19:00Z
-    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 49
   - title: "Research launched to make voice recognition tech more accessible"
     excerpt: "Microsoft and Google are among the tech companies to have partnered with the University of Illinois Urbana-Champaign on a research initiative that aims to train artificial intelligence to better understand speech patterns of people with disabilities."
     publishedDateTime: 2022-10-05T10:00:00Z
@@ -183,38 +89,26 @@ related:
         width: 1000
         height: 581
         isCached: true
-  - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
-    excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
-    publishedDateTime: 2022-10-05T21:37:00Z
-    webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
+  - title: "Tech Titans Join Forces With The University Of Illinois To Launch New Speech Accessibility Project"
+    excerpt: "Tech heavyweights Amazon, Apple, Meta, and Microsoft have come together in a way that would make Voltron blush in a joint effort to make voice-first user interfaces more accessible to those with speech disabilities."
+    publishedDateTime: 2022-10-04T19:06:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/10/04/tech-titans-join-forces-with-the-university-of-illinois-to-launch-new-speech-accessibility-project/"
     type: article
     provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 40
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Cognitive Search Service Market expansion projected to gain an uptick during 2022 - 2028 | BMC Software, Microsoft, Cisco Systems"
-    excerpt: "Being a proficient and comprehensive, this Cognitive Search Service market report puts a light on primary and secondary drivers, market share, leading segments, possible sales volume, and geographical analysis."
-    publishedDateTime: 2022-10-04T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-service-market-expansion-projected-to-gain-an-uptick-during-2022---2028-bmc-software-microsoft-cisco-systems-2022-10-04"
+      name: Forbes
+      domain: forbes.com
+    quality: 20
+  - title: "University of Illinois joins five tech companies including Apple in new Speech Accessibility Project"
+    excerpt: "The University of Illinois Urbana-Champaign has announced the Speech Accessibility Project, a new research initiative to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities."
+    publishedDateTime: 2022-10-04T02:49:00Z
+    webUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/"
+    ampWebUrl: "https://www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
+    cdnAmpWebUrl: "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/10/04/university-of-illinois-joins-five-tech-companies-including-apple-in-new-speech-accessibility-project/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
-    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
-    publishedDateTime: 2022-10-06T17:53:00Z
-    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 13
+      name: MacTech
+      domain: mactech.com
+    quality: 9
 
 secured: "AyBPlhIYgbODF2XDmfaicDV0tULoXV09R/0EcrxkbeixMuRb5N30eYsVyb0Yk4Gr4ZJfCY/FZB7u5kS7GdxpMvls7Ys51Pwu3IbmFIgs+qmLkFpaFeJRl2mWnMSXlmUdEv0y3RSgcgvunf0qYN13+C3anymVXX+VP/jZKlhs6d559BDtR2r/Gx9HVv3omoO5Eb8kFmOIhNweF6J3t7hqz3PvBVdMF2axxQMnk6uLJvwO4DqWmiXi4xr8bQ32VZzasVlO5bsjouwDQL/5KYENhZdjMVtK6tLi/GL5OoLiBTxYca1Eh1MGWq2PIxrgldgDBPu9vQJf42FJpSzdpC/BclqxkWvA0Pccr9QMLzEO84VIhbdVH/hilBAYVrPcwoJiFDj3/aTQwjULuMDe2w9q5iAqeayTqorzLgWV1xbYTK2m2C2bWuzYk1si3QFFoNwIRbCxm2DLRDVeWhs8P85PyS822KH0VPhFmyw/68HOwJaTNLcGpqr12s0nVaq/I2zFuW7aiQHfxSpKVcJybPc6vg==;Yz8sQoIgn1jNrJY9G/Y1pA=="
 ---

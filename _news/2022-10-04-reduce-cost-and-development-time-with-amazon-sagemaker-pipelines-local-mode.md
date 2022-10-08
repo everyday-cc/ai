@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Create high-quality data for ML models with Amazon SageMaker Ground Truth"
-    excerpt: "Machine learning (ML) has improved business across industries in recent years—from the recommendation system on your Prime Video account, to document summarization and efficient search with Alexa’s voice assistance. However, the question remains of how to incorporate this technology into your business."
-    publishedDateTime: 2022-10-03T17:39:12Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/create-high-quality-data-for-ml-models-with-amazon-sagemaker-ground-truth/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 105
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/create-high-quality-ml-models.jpg"
-        width: 1531
-        height: 766
-        isCached: true
   - title: "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models"
     excerpt: "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead"
     publishedDateTime: 2022-10-06T16:59:08Z

@@ -44,6 +44,17 @@ related:
         width: 2000
         height: 1000
         isCached: true
+  - title: "SAS Viya now available through Microsoft Azure marketplace"
+    excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
+    publishedDateTime: 2022-10-04T10:37:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 69
 
 secured: "ALq6dXPrX6rYKtsO6lPmcOsp3jf88otzV7jA8sIzyBZ4msQFhCf1w07Lm/8xbpJIJcB9KS/lOqRiKEgLrMJRN+kENDxnG/1mN5jAnnrPxTZzpRn6n+CGjAr1wcJUoYJB+5b3naOtx2/U/zeQWUSdKXXuZu1S7KJgY7kWRzOoWU/aQjYV5go1jupFaximYLGDgI5AapEFq/qg1t4s5exgoUliRAM+SFIrjs4SwLt0QK7xUGB0GikaYEonSTdlZ8wE3fLyxuDnLO3FNcGObgIkGajfdD4AgyDHuQxcn6YYjsvlKsryX/YpQHYHXBb240d+Cc8iKt6y6nuEi5JOM29zFZZzmtPs69eWzni9b9a+EqE=;UhLWH/PpjIWOHhuyESMKqg=="
 ---

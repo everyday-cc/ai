@@ -2,6 +2,75 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-13-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision.md",
+      "title": "VeriSilicon AI-ISP Delivers Innovative Image Quality Enhancement that Breaks the Limits of Computer Vision",
+      "excerpt": "Low-power, low-latency and low-DDR bandwidth image quality upgrades enabled by VeriSilicon FLEXA VeriSilicon (688521.SH), a leading Silicon Platform as a Service (SiPaaS) company, today announced",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57045723-verisilicon-ai-isp-delivers-innovative-image-quality-enhancement-that-breaks-the-limits-of-computer-vision-004.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-09-13-msp360-partners-with-deep-instinct-to-fully-integrate-the-worlds-first-deep-learning-cybersecurity-framework-solution.md",
+      "title": "MSP360 Partners with Deep Instinct to Fully Integrate the World's First Deep Learning Cybersecurity Framework Solution",
+      "excerpt": "MSP360, a provider of simple and reliable backup and IT management solutions for managed services providers (MSPs) and IT departments worldwide, is now fully integrated with Deep Instinct, a prevention-first approach to stopping ransomware and other malware using the world's first deep learning cybersecurity framework.",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/13/9672196.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/13/9672196.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-13T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-13-ai-dynamics-and-pettigrew-medical-announce-joint-venture-that-applies-advanced-machine-learning-to-accelerate-automation-of-medical-record-coding.md",
       "title": "AI Dynamics and PETTIGREW Medical Announce Joint Venture that Applies Advanced Machine Learning to Accelerate Automation of Medical Record Coding",
       "excerpt": "AI Dynamics and PETTIGREW Medical announced today the formation of a joint venture, with the working name mAIcode, designed to accelerate the automation of medical record coding by applying advanced machine learning.",
@@ -959,58 +1028,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-dall-e-machine-learning-can-now-imagine-what-lies-beyond-the-frame-of-famous-paintings.md",
-      "title": "DALL-E machine learning can now imagine what lies beyond the frame of famous paintings",
-      "excerpt": "Since being unveiled by OpenAI in early 2021, DALL-E has been turning heads with its ultra-realistic AI image creations. From jaw-dropping to just downright weird, the text-to-image AI system has wowed the internet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html",
-      "originalUrl": "https://www.techspot.com/news/95893-dall-e-machine-learning-can-now-imagine-what.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/09/2022-09-07-image-4.jpg",
-          "width": 1365,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T09:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-is-intel-labs-brain-inspired-ai-approach-the-future-of-robot-learning.md",
       "title": "Is Intel Labs’ brain-inspired AI approach the future of robot learning?",
       "excerpt": "Intel Labs’ new neuromorphic computing approach is aimed primarily at future applications such as robotic assistants.",
@@ -1066,40 +1083,6 @@
       ]
     },
     {
-      "path": "_news/2022-09-07-dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.md",
-      "title": "Dell Technologies Delivers Industry-First Innovations with VMware to Power Multicloud and Edge Solutions",
-      "excerpt": "Dell Technologies is introducing new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organizations embr",
-      "sourceUrl": null,
-      "webUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
-      "originalUrl": "https://technuter.com/channel-news/dell-technologies-delivers-industry-first-innovations-with-vmware-to-power-multicloud-and-edge-solutions.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technuter.com",
-        "domain": "technuter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
       "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
       "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
@@ -1150,233 +1133,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-09-06-researchers-use-machine-learning-to-unlock-the-genomic-code-in-clinical-cancer-samples.md",
-      "title": "Researchers use machine learning to unlock the genomic code in clinical cancer samples",
-      "excerpt": "A new paper from University of Helsinki, published today in Nature Communications, suggests a method for accurately analyzing genomics data in cancer archival biopsies. This tool uses machine learning methods to correct damaged DNA and unveil the true mutation processes in tumor samples.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/researchers-use-machin-3.jpg",
-          "width": 2003,
-          "height": 1784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-09-machine-genomic-code-clinical-cancer.amp",
-      "publishedDateTime": "2022-09-06T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation.md",
-      "title": "How avatars and machine learning are helping this company to fast track digital transformation",
-      "excerpt": "By developing in-house talent and working with pioneering startups, LNER is moving towards its digital destination – and its experiences provide lessons for all businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "originalUrl": "https://www.zdnet.com/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/ed783a2f65ffc74133755054e8c6ce6cca442c79/2022/09/06/1a29cd1a-d332-43c1-8155-6e5699e53cdb/lner-azuma-york.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/how-avatars-and-machine-learning-are-helping-this-company-to-fast-track-digital-transformation/",
-      "publishedDateTime": "2022-09-06T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-06-what-deep-learning-algorithms-can-teach-us-about-snow.md",
-      "title": "What Deep Learning Algorithms Can Teach Us About Snow",
-      "excerpt": "The DeepPrecip neural network developed by Fraser King and colleagues at the University of Waterloo models weather in order to measure annual snowfall and snowmelt in the context of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
-      "originalUrl": "https://cacm.acm.org/news/264341-what-deep-learning-algorithms-can-teach-us-about-snow",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-ai-detects-rare-birth-defects-in-fetal-ultrasound.md",
-      "title": "AI Detects Rare Birth Defects in Fetal Ultrasound",
-      "excerpt": "A new study demonstrates how AI deep learning can be used to diagnose a rare embryonic developmental disorder called cystic hygroma within the first trimester of pregnancy from fetal ultrasound images.",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
-      "originalUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-09/pic27777.gif.jpg?itok=UL6r1b41",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/za/blog/the-future-brain/202209/ai-detects-rare-birth-defects-in-fetal-ultrasound?amp",
-      "publishedDateTime": "2022-09-05T09:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-05-five-experts-address-trends-in-artificial-intelligence-and-machine-learning.md",
-      "title": "Five Experts Address Trends in Artificial Intelligence and Machine Learning",
-      "excerpt": "Trends and risks in a Golden Age of Artificial Intelligence and Machine Learning By David Churbuck, Founder & former Editor-in chief of Forbes.com NEW YORK, Sept. 5, 2022 /PRNewswire/ -- Over the summer of 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
-      "originalUrl": "https://www.marketwatch.com/press-release/five-experts-address-trends-in-artificial-intelligence-and-machine-learning-2022-09-05-9203048",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-05T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Machine Learning"
-      ]
     }
   ],
-  "nextPage": 5
+  "nextPage": null
 }

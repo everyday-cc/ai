@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-micro
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "SAS Viya now available through Microsoft Azure marketplace"
+    excerpt: "with next-generation AI that addresses the complete analytics life cycle.” “We design and test our software to be the fastest and most productive. And now we’re making it all available with a few clicks in the Microsoft Azure Marketplace.”"
+    publishedDateTime: 2022-10-04T10:37:00Z
+    webUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/"
+    ampWebUrl: "https://businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/industry-news/630763/sas-viya-now-available-through-microsoft-azure-marketplace/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 69
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 10/05/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence (AI ..."
     publishedDateTime: 2022-10-05T11:42:00Z

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-06-increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models.md",
+      "title": "Increase ML model performance and reduce training time using Amazon SageMaker built-in algorithms with pre-trained models",
+      "excerpt": "Model training forms the core of any machine learning (ML) project, and having a trained ML model is essential to adding intelligence to a modern application. A performant model is the output of a rigorous and diligent data science methodology. Not implementing a proper model training process can lead",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/increase-ml-model-performance-and-reduce-training-time-using-amazon-sagemaker-built-in-algorithms-with-pre-trained-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/06/increase-ml-model-performance.jpg",
+          "width": 1549,
+          "height": 769,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T09:59:08-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-informediq-automates-verifications-for-origences-auto-lending-using-machine-learning.md",
       "title": "InformedIQ automates verifications for Origence’s auto lending using machine learning",
       "excerpt": "This post was co-written with Robert Berger and Adine Deford from InformedIQ. InformedIQ is the leader in AI-based software used by the nation’s largest financial institutions to automate loan processing verifications and consumer credit applications in real time per the lenders’ policies. They improve",
@@ -916,6 +969,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-29-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
+      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
+      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
+      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2017/12/GettyImages-474395892-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai?amp",
+      "publishedDateTime": "2022-09-29T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-want-to-get-your-team-to-adopt-ai-follow-these-8-critical-steps-for-success.md",
       "title": "Want To Get Your Team To Adopt AI? Follow These 8 Critical Steps For Success",
       "excerpt": "Despite millions of dollars invested in AI, most industry projects never get adopted. Here are the four stages and eight steps to dramatically improve the adoption of your data science solution.",
@@ -1352,113 +1448,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners.md",
-      "title": "Machine Learning Market Size worth US$ 39,986.7 million by 2025 – Exclusive Research by The Insight Partners",
-      "excerpt": "Machine Learning Market Comprehensive Outlook To 2025 Sep 27, 2022 (Heraldkeepers) -- Pune, India -The Machine Learning Market report outlines the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-why-advances-in-neural-3d-rendering-arent-reaching-the-market.md",
-      "title": "Why advances in neural 3D rendering aren’t reaching the market",
-      "excerpt": "Neural 3D rendering uses optics and linear algebra to potentially meet the demand for efficient 3D images for the hyperrealistic metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
-      "originalUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1332177687-e1651777358698.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/whats-keeping-advances-neural-3d-rendering-from-market/amp/",
-      "publishedDateTime": "2022-09-26T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "Computer Vision"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-
 webUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Bloomberg L.P.
@@ -38,15 +38,6 @@ related:
       name: Electronic Design
       domain: electronicdesign.com
     quality: 19
-  - title: "Playing nice: How self-driving cars and human-driven cars could share the road"
-    excerpt: "Akin to when Model Ts traveled alongside horses and buggies, autonomous vehicles (AVs) and human-driven vehicles (HVs) will someday share road. How to best manage the rise of AVs is the topic of a new Carnegie Mellon policy brief,"
-    publishedDateTime: 2022-10-03T18:01:00Z
-    webUrl: "https://techxplore.com/news/2022-10-nice-self-driving-cars-human-driven-road.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 0
 
 secured: "31ZRUz7k58tk7SfotqB7fLI5f4sl/SSdX8krxtJjRc8lddGVdJ2LuU2zao4s9BfVnpXXSkAM8guAddGdqmn86cm1iNrG6ZO7Ap1NpNvqx49uLMQxdt8cUzM3qqExBvCWEaZH6CvYe5/6/9OAyddtlXH30BgsZiwT/6LAut2o8kJMS5jmHrWRPyAArIX09NbCMsSeEqmC04D7JOyR5a4Y3Q/aACTe31bx96XncTCHPtbDXSirMtm+ZPcBe/C6SjMRql85XbEG7zbGecl4F8EcZeamnx976xNQgflXQe/y9dqsu1QPVrDfwBOBVwI9iV+3i7IG4+kon6tUN1xJHTiAmRly/h7+SlgWYkzYS9ASMq+UgOpx3Z2z16IP8MAjgspYIh3HVgQlibO2N9DJBCM3ld7Gmviqiwx0rDvOa9t8X4fQxiXAKTv6NOVLr/2TqzB1KBvwW2osqjJOFfw3+exuUXuwpjfnIR0qMnp6+RTs+y+8R4DnWFnMZj60M7leikXoP58XsKbglZs5sFY+IdFqKA==;zIWaekJLfp+GTeu/9xJ/lQ=="
 ---

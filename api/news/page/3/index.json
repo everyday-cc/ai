@@ -2,6 +2,109 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
+      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
+      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
+          "width": 1260,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
+      "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
+      "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633c36cd250f5641618d9da8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
+      "publishedDateTime": "2022-10-04T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping.md",
       "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
       "excerpt": "It touches on concerns about bias in AI systems, AI-based surveillance, unfair health care or insurance decisions, data security—and much more—in the context of American civil liberties, criminal justice,",
@@ -671,6 +774,153 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
+      "title": "Artificial Intelligence Continues to Transform Healthcare",
+      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-white-house-proposes-voluntary-safety-and-transparency-rules-around-ai.md",
+      "title": "White House proposes voluntary safety and transparency rules around AI",
+      "excerpt": "In five bullet points crafted with feedback from the public, companies like Microsoft and Palantir and human rights and AI ethics groups, the document lays out safety, transparency and privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "originalUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1297487090.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
+      "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
+      "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/727c3f40e46bd156e23fe082b021fdbf46f90b69/hub/2022/09/28/2da9106a-c646-435f-99b3-c88a36ab519d/echo-dot-1920x1080-301.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive/",
+      "publishedDateTime": "2022-10-03T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-the-importance-of-monitoring-machine-learning-models.md",
       "title": "The importance of monitoring machine learning models",
       "excerpt": "The life-cycle management of machine learning models is more complex than software. Andy Dang, cofounder and head of engineering at WhyLabs, explains, “Model development life cycle resembles ...",
@@ -985,243 +1235,6 @@
         "Machine Learning",
         "Natural Language Processing",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
-      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
-      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
-          "width": 1200,
-          "height": 744,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
-      "publishedDateTime": "2022-10-03T10:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
-      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
-      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-long-term-study-supports-link-between-inflammation-and-cognitive-problems-in-older-breast-cancer-survivors.md",
-      "title": "Long-term study supports link between inflammation and cognitive problems in older breast cancer survivors",
-      "excerpt": "Elevated C-Reactive Protein and Subsequent Patient-Reported Cognitive Problems in Older Breast Cancer Survivors: The Thinking and Living With Cancer Study. Journal of Clinical Oncology , 2022; DOI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel.md",
-      "title": "Future of AI in Fintech Market – A comprehensive study by Key Players: Microsoft, IBM, Intel",
-      "excerpt": "The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech market study covers significant research data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Online-privacy-Meta-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
-      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
-      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

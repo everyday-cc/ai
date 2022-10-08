@@ -66,15 +66,6 @@ related:
         width: 1280
         height: 853
         isCached: true
-  - title: "Tesla analyst explains ‘the real value’ behind Elon Musk’s Optimus robot"
-    excerpt: "Tesla robots have taken center stage, but the real value could be for the EV maker's autopilot software, one analyst argues."
-    publishedDateTime: 2022-10-03T18:29:00Z
-    webUrl: "https://www.aol.com/finance/tesla-analyst-explains-real-value-182943007.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 50
   - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
     excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."
     publishedDateTime: 2022-10-04T12:02:00Z

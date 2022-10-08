@@ -25,22 +25,38 @@ images:
     isCached: true
 
 related:
-  - title: "Study finds the risks of sharing health care data are low"
-    excerpt: "In recent years, scientists have made great strides in their ability to develop artificial intelligence algorithms that can analyze patient data and come up with new ways to diagnose disease or predict which treatments work best for different patients."
-    publishedDateTime: 2022-10-07T15:39:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-health.amp"
+  - title: "Artificial Intelligence Continues to Transform Healthcare"
+    excerpt: "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ..."
+    publishedDateTime: 2022-10-04T00:00:00Z
+    webUrl: "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare"
     type: article
     provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 44
+      name: MD&M East
+      domain: mddionline.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-the-risks.jpg"
-        width: 2100
-        height: 1598
+      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png"
+        width: 770
+        height: 400
         isCached: true
+  - title: "How AI can transform pharmaceutical marketing"
+    excerpt: "Agencies of all shapes and sizes continue to explore opportunities in AI and invest resources into machine learning."
+    publishedDateTime: 2022-10-03T19:07:00Z
+    webUrl: "https://www.mmm-online.com/home/channel/how-ai-can-transform-pharmaceutical-marketing/"
+    type: article
+    provider:
+      name: MM&M
+      domain: mmm-online.com
+    quality: 36
+  - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
+    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
+    publishedDateTime: 2022-10-06T07:28:00Z
+    webUrl: "https://www.albawaba.com/business/pr/mubadala-health-and-g42-healthcare-join-forces-create-new-entity-embodying-“-future"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 2
 
 secured: "WWfLZPJ2MnK0GaHAsXdAp27R0eScrsHZLkAZGGkcychx8cMMKXp45HFNrlqm3EGt9G8umybtCGiMGfs69p61JcdfMd/HyOYfnZJ9Sxe4cq7mBZhYj7RFjkcAsRG5XjHemAf3aYQbY6OWybHAcOnToGXQzQxxYXx/WE7+xmaNjtG0JgSN6PpXVFOLUNJN6OoumaWrwCWSdppn3/qfzO9KbU/88MnPpYoUWAdThKF0k7EsOmJ+rV95MJ04NFfnk2sRwGBfehf6LfCTJOGnVIq9fZmL/vLp1YEpHx8tx8uLxHCnToPM5fRzzIX26/ax0spNGU49me9sd5jGPScojbSMbwGU3mlY8+iqaM+LyfWPPmM=;FSdrtS4DrkUpuHBQ55fGjg=="
 ---

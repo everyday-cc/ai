@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Best Robot Vacuums for Any Home"
-    excerpt: "While the hovering sedans of the Jetsons have yet to materialize, robot vacuums—on the other hand—have arrived. And while they don’t look like George’s Rosie, these wafer-shaped, dirt-sucking automatons have come of age."
-    publishedDateTime: 2022-10-04T18:40:00Z
-    webUrl: "https://www.aol.com/lifestyle/best-robot-vacuums-home-220800347.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 19
 
 secured: "8lKhRnuXQd9mpBKFZ5sLbH5KndlF3j5oQqTknMIplW4cLm9mnbxzX+9nyKlJH+/zOelCTpvIh/Yw8BnN830UWYLsQpTpj8K1xD8Fcetx9Dg7X6rEYdGJgsr/ZXg9ebuCWYJxiRAi3yjJo+OAoPrRg956/BeFlQ2MhOsepqO5l0iHPWLQcMkPSHdEurvxwcy6gwY0/pMwjlyXd7Oc36Muvi7q3CAv921sIhbzvP0RFeD1ZfIMMHWBGC0WddyQlHKe2Xx8+oqJ5Jvs8HsugRPhq9qntMyUTI19xoEj/v67Rq99pTlrnKEsNxm8f2yDWE+IqxM14vvP65r+NhV/BZbLM+KFtE3myuatzd37VkVeDdYUAzcd8GE6J2XJYL3mjWPIsmCrT6jFbsngMD09MwZ6Gna2KqTyb4iGkyPrqQAk+dSs5sDZsTg4EaFi496GOfFc9VRoYs2CCjvTVETqBGiVlhlPgDxeVs925bLxKuQy93/HCwGoozuIi5NEM6+aWLLJ6g785rW9EaQGgBgSR7tTfQ==;Rrqbba6tJiAzOT4Dp/fP1A=="
 ---

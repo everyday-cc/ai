@@ -2,6 +2,286 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-04-geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways.md",
+      "title": "Geely’s Europe expansion continues, Argo robotaxis on the Lyft app and Tesla AI Day takeaways",
+      "excerpt": "The Station weekly newsletter is the central hub for all past, present and future means of moving people and packages from Point A to Point B.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "originalUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/09/tesla-robot-hand.jpg?resize=1200,744",
+          "width": 1200,
+          "height": 744,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/03/geelys-europe-expansion-continues-argo-robotaxis-on-the-lyft-app-and-tesla-ai-day-takeaways/amp/",
+      "publishedDateTime": "2022-10-03T10:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
+      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
+      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "We spent hundreds of hours testing dozens of robot vacuums, both in a controlled environment and ... who value convenience above all, and don’t mind paying top dollar for it.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/its2Ps4RMjDGBkHtngK9S7-1200-80.jpg",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-long-term-study-supports-link-between-inflammation-and-cognitive-problems-in-older-breast-cancer-survivors.md",
+      "title": "Long-term study supports link between inflammation and cognitive problems in older breast cancer survivors",
+      "excerpt": "Elevated C-Reactive Protein and Subsequent Patient-Reported Cognitive Problems in Older Breast Cancer Survivors: The Thinking and Living With Cancer Study. Journal of Clinical Oncology , 2022; DOI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/09/220930163202.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel.md",
+      "title": "Future of AI in Fintech Market – A comprehensive study by Key Players: Microsoft, IBM, Intel",
+      "excerpt": "The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech market study covers significant research data and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Online-privacy-Meta-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
+      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
+      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-how-will-openais-whisper-model-impact-ai-applications.md",
       "title": "How will OpenAI’s Whisper model impact AI applications?",
       "excerpt": "OpenAI's Whisper is a deep learning model that shows promise in transcribing audio in several languages. It's also a nod to open source.",
@@ -898,283 +1178,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-google-pixel-7-and-pro-might-support-secure-face-unlock.md",
-      "title": "Google Pixel 7 and Pro might support secure Face Unlock",
-      "excerpt": "Reports in April hinted that Google is working on face recognition support for its Pixel phones despite ditching its Face ID-like technology. Google introduced its version of 3D face recognition ...",
-      "sourceUrl": null,
-      "webUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
-      "originalUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgr.com/wp-content/uploads/2022/05/Pixel-7-and-Pixel-7-Pro.jpg?quality=82&strip=all",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
-      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/google-pixel-7-and-pro-might-support-secure-face-unlock/amp/",
-      "publishedDateTime": "2022-09-30T16:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "bgr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
-      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
-      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
-          "width": 1533,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T16:23:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
-      "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
-      "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "originalUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2126488/vladmir-putin-satanism-republicans-maga-trump-rhetoric.jpg",
-          "width": 1939,
-          "height": 1342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "publishedDateTime": "2022-09-30T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
-      "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
-      "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "originalUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6601376.1664575671!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robot-running.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6600931",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6600931",
-      "publishedDateTime": "2022-09-30T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-microsofts-latest-ai-tool-can-predict-missed-doctors-appointments.md",
-      "title": "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments",
-      "excerpt": "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63376ab52f11fec9fc57e042/0x0.jpg?format=jpg&crop=3083,1735,x0,y577,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
-      "publishedDateTime": "2022-09-30T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
-      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
-      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }
