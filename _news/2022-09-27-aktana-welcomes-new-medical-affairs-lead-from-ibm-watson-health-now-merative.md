@@ -15,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-    width: 600
-    height: 315
-    isCached: true
-
-secured: "QixGVC8WEV69DSVNI8ET2s/DbJeyz8H4ninREo4Ql8dsIu25R7FhqzPoxnH/zrl1t6RoTAFOlI90GbFyRwWB2CSxVCOhUi4xYNFlfcGMy3Omj4ZOhISxOOqDTHC+bWTO4xdGG6BRl4Q45w+9farMEfbQ810OoFk+mzLC8C7cLRntWnINnaF3GefM115YEE8RxmHaYqUcMsN7X4/C73OFX7vTT4OeoeviUSkqFAkROqRg07wXe9SDS7shr+sfMxITy2Nzcu0YmpsSk7jXikmTvHIPZQ1536XrXPlLcAlfkmV28gxW4MsvVITzwr/41OdpvscnjnI4CO8Bx4Rl+fqBM2m5lyBlmU3NETxI8Z8/ifg=;dmogVZbVt2lUsOW8SvTkfQ=="
+secured: "8dIbROHasGE7xuTGuujxagABC6RULN4+Vqc3hwXQiJnucdYZ/PmeE2vC5uNoP4gI2pLTHNEF0tKjFC4Hr2zoEnKl3hMakBF70AQwB35PxfscguGZw54nayDCFzt7I7R2Bl2dtVZH9SBuQFSqE2Z58ONKI3oG+hTvMLpwC5lwi7xK66ROVngksK4Gh1Yc5yBgvPP8/8l/gjAO7rjhyUDW7IbKACDZhp4bknL+IFteafyOx6ANaJk7p6icCFuhPK1mmNQACr4aeEZc+TIBxnTfJSvlvczVYqYkvZa76JvO0EvcH7ty9EWAfzgisZ049cJbK3p6TgGUlBzO9mQ8o6i4tv8IEB8SB8QZXwjCehVNJt8=;0YjRm/9/Viex3UFVSgtQyg=="
 ---
 
