@@ -94,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Speech and Voice Recognition Market Opportunities, And Industry Analysis By 2032"
+    excerpt: "This detailed market study done by Quince Market Insights covers Speech and Voice Recognition Market growth potentials which can assist the stakeholders to understand key trends and prospects in ..."
+    publishedDateTime: 2022-10-06T13:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-opportunities-and-industry-analysis-by-2032"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/UBER-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "d2gPOys/TjAEZScNVKKgxDblWQncTdukmD01umgaf6XPl++/Mj6sgiA48923kLiczUkBw7+nzrizUOPIdEC5W2fj3FowTjRdG4ViT8gyFeGLC5KEYnybyWZJG9HiOE5x3Kh/cXAqVh1bL4WahopgZxLLe0V3TXAYQ50ds0oc2YVFAJXAI6StYx6SPXxThkfQGmT1jyO3lDDjErlauy6TtR1slhrcZk1ZK9MMfy3L9J9n3jcXnuMxcJ/fD596q6W5tCugV+Q3b0U71Y2BFYSHcvVM1kZBLJjGUCgoHCvIo7VXO+489LH6nCrE62ApMBC7I3HF7PtEadw85eCYp0N4eFW6vjGkZF9LU+8izEBnhE4=;Edfl6KCyQ0KbGjrN64qyGg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-br
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -43,6 +43,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
+    excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
+    publishedDateTime: 2022-10-06T23:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
   - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
     excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
     publishedDateTime: 2022-10-07T11:59:00Z

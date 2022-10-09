@@ -40,20 +40,6 @@ related:
         width: 1170
         height: 656
         isCached: true
-  - title: "Google Joins Meta in Creating AI-Powered Text-to-Video Generator"
-    excerpt: "Mark Zuckerberg’s Meta isn't the only company developing an AI-powered program that can generate video out of text inputs. Google has been working on one, too. On Wednesday, researchers at the company’s AI lab,"
-    publishedDateTime: 2022-10-05T21:40:00Z
-    webUrl: "https://www.pcmag.com/news/google-joins-meta-in-creating-ai-powered-text-to-video-generator"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/007sZYPQiaL28pArTs9J6Oj-1.fit_lim.size_1200x630.v1664996190.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "e6aoGZqe78P0tc/1JGjCdTCA/ZoHwFQ70pfB1ZPWKPKWmppen8Sk1pyDyOa4aYpEzDsPBtqvEdIFoX5qAgo38datR81GA6YVSCjAx5QZDSipiJGh9TiiGTW/JuZ0K9mxEgQ114k8EyBqtXRU/tC+Au9Sc8K/X8jjBm34bo0UVKQUg970wWXfLX+PnC/AUrPJ4SQFfPICF+lO9HkZfti0aAnPI41hV+suyekgTLMO5WFYfBuTbXyhqLCwR1822/09JhfKqB0oqZ03KWgmmcDO9qKtPJbKcG2El4nB/9H0Uc5du7XfhqerOo6opGwvCT/sZ6UF0/a5N/c0Z/2hZPZ6hObxJ/v7EZtpB2UpGwHGRp+UcyHpsjr/AnP6zDrJ75pbIATZTGnvEqzBPtcDh6cLpZGgYUUlTnVleFzVqREh2ZXBnMBW7gLa4BkNYo+Sp1RgWENT7IaaouCleKLaCiaUt2+ZL+fIEF+EkuBklZqTBBurmnsyKUYGdbnO14DWb8OH7vd+cAOyH9YfA9PvX6+f7w==;CcrFRfRgljuhGJk/85/+pA=="
 ---

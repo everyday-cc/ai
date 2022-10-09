@@ -117,22 +117,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
-    excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
-    publishedDateTime: 2022-10-04T17:30:00Z
-    webUrl: "https://www.popsci.com/technology/ai-bill-of-rights-biden/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-bill-of-rights-biden/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-bill-of-rights-biden/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 49
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
     publishedDateTime: 2022-10-05T08:49:00Z

@@ -51,6 +51,15 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
+    excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
+    publishedDateTime: 2022-10-06T23:58:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 46
 
 secured: "c8UgpdtjUbPeQeZKUcRmvfUvVNLnKGoGJDfRkfFwJIZ4SlgfGlBQE36GgItCBL2GMS01z6x16fyf0IqJsAMz6/q3IwLiTTiYH8jfy59i5luft3AYR+18QYerA8xD2MzOpOvlajmWUUAS4PcWjCojK5YKe3zOqnjM9GnSpGEMoaxB36CIEJy924pt+xZZipIV7GwUW1WsfpyMPhYtOEUy7lGxkc0tKvp7h9moypgfCpTWkLSVPiX0jOjuDg0wZ+JTWOsWaimUGTiCrHTfVyH7NHl/vmfs04Y2DF8FeUo15N20xnBDYhr76vwaPobeTOMZoR++PHg3ipp7ZvLnJXmfmLiH2Owvn9FrFya46r4/5dZSLnIkekB82jQDwC1xAeNEOnlGt8nJ+mu6b2mWyvIswPoFnSNW1B1wxuBs4py7Vlr0/6Fp5932ytuWjRvbt0FNPdNTpdKLPtmqC3OZl2FZ+uHz9+Fp2Gr8C1nRsPPMllD88g5ENF0xA3sEjyL0ueqtp94oe4GQFhoswSxE/ouaYQ==;jmqajm5zJxHGCAphIJnLJg=="
 ---

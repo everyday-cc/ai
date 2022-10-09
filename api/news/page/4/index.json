@@ -2,6 +2,336 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
+      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
+      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "publishedDateTime": "2022-10-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to.md",
+      "title": "Edge Artificial Intelligence AI Chip Market Research Report, Analysis, Size, Share, Growth | Research Report by Regional and Forecast 2022 to 2028",
+      "excerpt": "The \"Edge Artificial Intelligence AI Chip market\" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
+      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
+      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
+      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T00:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
+      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
+      "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
+      "originalUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/vidthumb/images/manhattan-1571429223.jpg?crop=1xw:1xh;center,top&resize=480:*",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Esquire",
+        "domain": "esquire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-advances-in-computer-vision-propel-transportation-autonomy.md",
+      "title": "Advances In Computer Vision Propel Transportation Autonomy",
+      "excerpt": "Autonomous self-driving car is recognizing road signs. Computer vision and artificial intelligence ... [+] concept. Vision is a powerful human sensory input. It enables complex tasks and processes ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
+      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c112fe78f82ae6dd5384/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
+      "title": "Artificial Intelligence Continues to Transform Healthcare",
+      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-white-house-proposes-voluntary-safety-and-transparency-rules-around-ai.md",
+      "title": "White House proposes voluntary safety and transparency rules around AI",
+      "excerpt": "In five bullet points crafted with feedback from the public, companies like Microsoft and Palantir and human rights and AI ethics groups, the document lays out safety, transparency and privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "originalUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1297487090.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
       "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
       "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
@@ -641,6 +971,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-03-artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-researchandmarketscom.md",
+      "title": "Artificial Intelligence In Marketing Global Market Report 2022: Featuring IBM, Salesforce, Amazon, Facebook & Oracle - ResearchAndMarkets.com",
+      "excerpt": "In October 2020, IBM planned to provide its IBM Watson, an AI for business toolset to industry leaders and make it available across the advertising ecosystem. Altering existing business practices ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
+      "originalUrl": "https://www.eagletribune.com/region/artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-/article_9cdc3ee6-156d-5349-b0dc-97c04ab9bc18.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
       "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
       "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
@@ -839,362 +1213,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029.md",
-      "title": "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029",
-      "excerpt": "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-how-robots-could-change-the-future.md",
-      "title": "How Robots Could Change the Future",
-      "excerpt": "Mind you: This may mean that certain ... And don’t forget the many new and exciting applications for robotics: allowing a surgeon to use a remotely controlled arm to operate on a patient from ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rd.com/article/future-robots/",
-      "originalUrl": "https://www.rd.com/article/future-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reader's Digest",
-        "domain": "rd.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-ai-code-of-ethics.md",
-      "title": "AI code of ethics",
-      "excerpt": "When John Cockcroft & Ernest Walton first split the atom to confirm Einstein’s famous equation, E=MC2, they wouldn’t have anticipated or even imagined in their wildest imagination that their discovery would be used to",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
-      "publishedDateTime": "2022-10-02T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
-      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
-      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
-          "width": 311,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "publishedDateTime": "2022-10-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadameNoire",
-        "domain": "madamenoire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-ai-ethics-and-ai-laws-reveal-troubling-concerns-from-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk.md",
-      "title": "AI Ethics And AI Laws Reveal Troubling Concerns From Tesla’s AI Day Showcase And The Ever Expanding AI Ambitions Of Elon Musk",
-      "excerpt": "A close look at the Tesla AI Day and crucial insights pertaining to AI Ethics and AI & Law that looms ahead for Tesla and Elon Musk.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63393cf2f31b18ce542c2698/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/02/five-key-ways-that-ai-ethics-and-ai-laws-reveal-troubling-concerns-for-teslas-ai-day-showcase-and-the-ever-expanding-ai-ambitions-of-elon-musk/amp/",
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-anyone-can-now-use-powerful-ai-tools-to-make-images-what-could-possibly-go-wrong.md",
-      "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
-      "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "originalUrl": "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "cdnAmpWebUrl": "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "publishedDateTime": "2022-10-01T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPBF",
-        "domain": "wpbf.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-ai-experts-pan-teslas-humanoid-robot-reveal-next-level-cringeworthy.md",
-      "title": "AI experts pan Tesla’s humanoid robot reveal: ‘next level cringeworthy’",
-      "excerpt": "\"None of this is cutting edge,\" tweeted robotics expert Cynthia Yeung. \"Hire some PhDs and go to some robotics conferences Tesla.\"",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "originalUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "cdnAmpWebUrl": "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9169403/tesla-robot-humanoid-optimus-elon-musk/amp/",
-      "publishedDateTime": "2022-10-01T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
 type: article
 quality: 97
-heat: 217
+heat: 207
 published: true
 
 provider:
@@ -107,22 +107,6 @@ related:
       - url: "https://cdn.abcotvs.com/dip/images/12297807_hypatia-h_4ab329e30409f78d1913603108321e24-h_681986e706d1b4db0e09cc8189ce746c.jpg"
         width: 2000
         height: 1333
-        isCached: true
-  - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
-    excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
-    publishedDateTime: 2022-10-04T17:30:00Z
-    webUrl: "https://www.popsci.com/technology/ai-bill-of-rights-biden/"
-    ampWebUrl: "https://www.popsci.com/technology/ai-bill-of-rights-biden/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ai-bill-of-rights-biden/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 49
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
         isCached: true
   - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
     excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."

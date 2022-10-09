@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -95,6 +95,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Speech and Voice Recognition Market Opportunities, And Industry Analysis By 2032"
+    excerpt: "This detailed market study done by Quince Market Insights covers Speech and Voice Recognition Market growth potentials which can assist the stakeholders to understand key trends and prospects in ..."
+    publishedDateTime: 2022-10-06T13:50:00Z
+    webUrl: "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-opportunities-and-industry-analysis-by-2032"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/UBER-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "VxjQ5XUf2PHPfqNVUyqqvg6P/24vddyE45luynQqyr13NTxtyqhsOXgG+6HqBWL9lQw+250YKO4fgIJSq6CvgZ+2vcMa1ytnT+yedtFAjxdaCth654dY27MXkUsrGDQ0hHGvOoHa5CVerbZ//eXbqjzLVR2h9QJrVWWwoTu2UgJB1hUuxnW+FnvKk5HCDPLKfVZO9OUw8hGCkvjB/MUtTUXfpxgvCI6OdFus/mK+3okIfsxfbPeXExjOirW4r+/K9mmhSk8FRSrjtxKiB0Vv1Xf9cYghmNejSLlTTfR5Synak2fYAdfkqgMqEPfC/NSma/0UIePd2TlwdSQH4swaCGKKbX9aG4/8B1FXdADVFkM=;/Vy57ImLduZszxWtbjmX5Q=="
 ---

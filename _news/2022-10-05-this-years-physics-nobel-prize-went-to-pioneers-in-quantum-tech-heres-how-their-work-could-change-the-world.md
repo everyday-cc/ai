@@ -2,9 +2,9 @@
 category: news
 title: "This year’s physics Nobel Prize went to pioneers in quantum tech. Here’s how their work could change the world."
 excerpt: "Watson Research Center, the Eero Saarinen-designed, 1960s Jet Age-era headquarters for IBM Research. Deep inside that building, through endless corridors and security gates guarded by iris ..."
-publishedDateTime: 2022-10-04T20:16:00Z
-originalUrl: "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com"
-webUrl: "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house?ref=upstract.com"
+publishedDateTime: 2022-10-04T20:08:00Z
+originalUrl: "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house"
+webUrl: "https://www.vox.com/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house"
 ampWebUrl: "https://www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house"
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23132776/quantum-computers-ibm-google-cybersecurity-artificial-intelligence-white-house"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 1050
     isCached: true
 
-secured: "0y+NwQWrw/sW/To+DFVggraByksz61w/pnofnIdXS9JVVU5WEJGfAsjWl+id3IETdyXdKPTyo9neMORmzkbW5Iqlll9CBM6cDqPES390q5d21MQeNOA6ypOFebtCJQfoSzXneyQjNuAuqkZGJvhn9NWNI7CUQx1rwhwyLrtZE6uJqxaXh64Ml4mij0og+NoDNtDfznEmBvO+JGnj2GD5Y6CTBmdkl3LaAq0PEqQUtFuPhqWDdE0AH31/FlBeqi2PIRTZmV38ki7DVG1Q45i49YAlK3nOu4sFH2A0pwcEGleni5yoic+IqeTpD28hX4GoN361ZACbZDIK97mf9BVqYamwJibIoqy5Z0nLMd0Brb0=;WF6+BBAq+TL3PEW5LRxGAw=="
+secured: "cZdm6FC/2vO5esCUpBvZODVnZvyn7SJXpHGhKJXsGWI6X4vl+jPBL/YTgvwtG21AxA7SHbqfeIcsIRkFORzR1m6OXbcko5JHhcCOenQ+gC0OAKN6sNINPfZ6Bw3SR0b+F5BP1IqE+FkzkFaMgzk/oHPz7Rq+3UomWuiPXQ/rs0l0UGaFyWYFoX9Rh3t4gj7zaxtGAzH/5HwZQ7sObZrPE5GuZCvgUIZvXoSFIW4HjdQCiv4CNBX3O7hUpTO43j58+cfzQjn7sdcNX9B6o97+4T9HXNDaBZXOEUxGOf7KtQp0u9iZEd2d3rUMKFf6sbDZ9pDFEl3+XDTbvtzVltTlMTMtzXlg/33On32RzHXytVM=;gCHq83hvAOkBRpiLe822UQ=="
 ---
 

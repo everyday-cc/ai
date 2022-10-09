@@ -2,6 +2,145 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-05-indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend.md",
+      "title": "Indian fintech spocto wants to make it easier for UAE banks to lend",
+      "excerpt": "Dubai: Are you having trouble convincing banks to lend? Or offer a bigger credit limit than what banks are willing to extend? An Indian fintech that specialises in credit risk mitigation is ready to help you and the bank meet at the halfway point.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "originalUrl": "https://gulfnews.com/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/10/05/STOCK-FINTECH_183a7250183_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "publishedDateTime": "2022-10-05T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-elon-musks-tesla-bot-isnt-as-stupid-as-you-might-think.md",
+      "title": "Elon Musk's Tesla Bot Isn't as Stupid as You Might Think",
+      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/home/smart-home/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "originalUrl": "https://www.cnet.com/home/smart-home/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
+          "width": 2840,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "publishedDateTime": "2022-10-04T22:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.md",
+      "title": "Bunnings denies use of facial recognition technology in New Zealand stores",
+      "excerpt": "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
+      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
+      "publishedDateTime": "2022-10-04T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights.md",
       "title": "The White House moves to hold artificial intelligence accountable with AI Bill of Rights",
       "excerpt": "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI.",
@@ -10,7 +149,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 217,
+      "heat": 207,
       "tags": null,
       "images": [
         {
@@ -590,6 +729,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence 'Bill of Rights'",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "originalUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "cdnAmpWebUrl": "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "publishedDateTime": "2022-10-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post Register",
+        "domain": "postregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
       "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
       "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
@@ -835,6 +1017,93 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-global-computer-vision-in-healthcare-market-report.md",
+      "title": "Global Computer Vision in Healthcare Market Report…",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision in Healthcare Market (2022-2027) by Component, Applications, End-user, and Geography, with Competitive Analysis, Impact of COVID-19, and Ansoff Analysis\" report has been added to ResearchAndMarkets.com's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-04/global-computer-vision-in-healthcare-market-report-2022-escalating-need-for-quality-inspection-and",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel.md",
+      "title": "Artificial Intelligence Robotics Market Is Expected to Boom- Hanson Robotics, Softbank, Intel",
+      "excerpt": "New Jersey, United States, Oct. 03, 2022 /DigitalJournal/ The Artificial Intelligence Robotics Market research report provides all the information related to the industry. It gives the markets ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.market-news.org/wp-content/uploads/2022/10/Artificial-Intelligence-Robotics.jpg",
+          "width": 599,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
       "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
       "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
@@ -935,284 +1204,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
-      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
-      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "publishedDateTime": "2022-10-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
-      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
-      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-advances-in-computer-vision-propel-transportation-autonomy.md",
-      "title": "Advances In Computer Vision Propel Transportation Autonomy",
-      "excerpt": "Autonomous self-driving car is recognizing road signs. Computer vision and artificial intelligence ... [+] concept. Vision is a powerful human sensory input. It enables complex tasks and processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c112fe78f82ae6dd5384/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-proposes-voluntary-safety-and-transparency-rules-around-ai.md",
-      "title": "White House proposes voluntary safety and transparency rules around AI",
-      "excerpt": "In five bullet points crafted with feedback from the public, companies like Microsoft and Palantir and human rights and AI ethics groups, the document lays out safety, transparency and privacy ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
-      "originalUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1297487090.jpeg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "originalUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "publishedDateTime": "2022-10-03T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

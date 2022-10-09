@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/"
 type: article
 quality: 88
-heat: 108
+heat: 98
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Joins Meta in Creating AI-Powered Text-to-Video Generator"
-    excerpt: "Mark Zuckerberg’s Meta isn't the only company developing an AI-powered program that can generate video out of text inputs. Google has been working on one, too. On Wednesday, researchers at the company’s AI lab,"
-    publishedDateTime: 2022-10-05T21:40:00Z
-    webUrl: "https://www.pcmag.com/news/google-joins-meta-in-creating-ai-powered-text-to-video-generator"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/007sZYPQiaL28pArTs9J6Oj-1.fit_lim.size_1200x630.v1664996190.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "This AI-powered stroller can drive itself"
     excerpt: "Electric motors help get the stroller up steep roads, sidewalks, and paths, similar to how pedal-assist e-bikes turn mountains into molehills. Onboard sensors watch for obstacles or dangers (like speeding cars) and alert whoever's pushing."
     publishedDateTime: 2022-10-06T10:00:00Z
