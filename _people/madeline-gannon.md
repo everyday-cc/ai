@@ -10,7 +10,7 @@ website: https://t.co/It4puKUIPF
 twitter:
   username: madelinegannon
   url: https://twitter.com/madelinegannon
-  followers: 3150
+  followers: 3151
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     isCached: true
     title: "Madeline Gannon"
 
-secured: "AwxzNkKi32W8+LgslSfNiNihbd7yHYSyBbRb7TwT8HX1NBhJ2YbYXRsS6u77rAG0vVTyfS/+YReHSOBGrAmwGJI/jqtfaroig/JVSu+vufKDMuYMyOOCoUsb10l9G8HTgT2kTwR/NPreQLZ9IETo53YQ1wXB7qpAkzup+4+nHp/wq+GGxBVIUZqQy0UYk/LPtXLQsdrtN9zLxUrUsBpKJMM8sKzW1G2QZnV/8d7Vwxhe/7HCHQLOQDPJ8fUX7BmfGhujLp59Uqxgz2EkaLUen5ROvaWxDioKZvDrFs2vbOyVkpEuPZeJALxO4ghFUr5Lj8SALDR9VJXTJnxO2MKn4W1xMlrQeCZJARIn57OCvf+HKVXeN5cd9VB00eDb1dUbxQxGETVP/Dv2Y4YF+KpZSHDyMyXjTjhhPUnE7wrqz14=;e4SoxTAJQrfBkAHzS7bJ7Q=="
+secured: "vcEWoH8XwUhqsZksQW4bcdiZ+vHpZKIuq8Npn5Y/KOmL4lo8zxQ6dsyZk483jJlNNo3xz/4Lzg+ZvtXeA4z4muhmPyuicVl55yA9w1KMBRXbkxQHx5iZq8KhGNfQIUn3xRuIW93BSA5IptPA60lHaM0Rr6x4IbIhmSlPY44Rvr+eVnMI+gKBJB91dnvUKCozPPABGHiZ0PgghmAp13nDfXKpOANo0C2LiNcHlBm6yaDqDzj6MOkR2dwny3PFiMskPx2XS3SUKJ/LijlJMRtvX4QpJGC24ZD/SDEUItdEOlBBJGcNhdEDpSdtOBGDg2ZCxV6A3Ahsqx27gD75mf3TtjT4pqKVRPk3XOSRX2qHIlzjmUSt7jScnlmpRTa8xdnah6Q72GiFU2zJtUTwwr7RpZG7d0vwbfWCoPEBsJfuEd0=;fiEVqMy9PaddTshI1RdR6Q=="
 ---
 
