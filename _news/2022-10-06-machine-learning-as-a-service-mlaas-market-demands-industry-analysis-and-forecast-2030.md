@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
-    publishedDateTime: 2022-10-04T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-106-pages-report-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
     excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
     publishedDateTime: 2022-10-06T10:22:00Z

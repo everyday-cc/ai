@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
-    publishedDateTime: 2022-10-04T13:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-development-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-106-pages-report-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in the Telecommunication Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
     excerpt: "The \" Artificial Intelligence in the Telecommunication Market \" is one of the sectors with the fastest rate of growth, it is crucial for market participants to thoroughly research the sector beforehand."
     publishedDateTime: 2022-10-06T17:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-fas
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
 type: article
 quality: 105
-heat: 205
+heat: 215
 published: true
 
 provider:
@@ -92,6 +92,22 @@ related:
       - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
         width: 1000
         height: 667
+        isCached: true
+  - title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
+    excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
+    publishedDateTime: 2022-10-06T21:40:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 70
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
+        width: 1440
+        height: 810
         isCached: true
   - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
     excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."

@@ -56,38 +56,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
-    excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
-    publishedDateTime: 2022-10-04T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-637258/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
-    excerpt: "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint."
-    publishedDateTime: 2022-10-06T15:56:00Z
-    webUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/"
-    ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200"
-        width: 876
-        height: 494
-        isCached: true
   - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
     excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
     publishedDateTime: 2022-10-04T21:28:00Z
@@ -148,6 +116,22 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+    publishedDateTime: 2022-10-04T15:49:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    type: article
+    provider:
+      name: Post Register
+      domain: postregister.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -163,6 +147,20 @@ related:
       - url: "https://www.popsci.com/uploads/2022/10/04/Depositphotos_179914852_XL.jpg?auto=webp"
         width: 2000
         height: 1500
+        isCached: true
+  - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
+    excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
+    publishedDateTime: 2022-10-07T13:39:00Z
+    webUrl: "https://www.lawfareblog.com/ai-bill-rights-makes-uneven-progress-algorithmic-protections"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/52259005965_8621f988f2_b.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "White House AI ‘Bill of Rights’ sets higher bar for agencies to weed out bias"
     excerpt: "The Biden administration is setting a higher bar for how federal agencies oversee artificial intelligence and automation tools, and how they implement them in their own operations."

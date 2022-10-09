@@ -40,15 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Cognitive Search Service Market expansion projected to gain an uptick during 2022 - 2028 | BMC Software, Microsoft, Cisco Systems"
-    excerpt: "Being a proficient and comprehensive, this Cognitive Search Service market report puts a light on primary and secondary drivers, market share, leading segments, possible sales volume, and geographical analysis."
-    publishedDateTime: 2022-10-04T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-service-market-expansion-projected-to-gain-an-uptick-during-2022---2028-bmc-software-microsoft-cisco-systems-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
   - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
     excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
     publishedDateTime: 2022-10-06T17:53:00Z

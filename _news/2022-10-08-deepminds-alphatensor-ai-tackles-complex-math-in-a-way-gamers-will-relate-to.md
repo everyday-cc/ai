@@ -102,6 +102,22 @@ related:
         width: 1000
         height: 667
         isCached: true
+  - title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
+    excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
+    publishedDateTime: 2022-10-06T21:40:00Z
+    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
+    ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
+    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
+    type: article
+    provider:
+      name: newsbytesapp.com
+      domain: newsbytesapp.com
+    quality: 70
+    images:
+      - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
+        width: 1440
+        height: 810
+        isCached: true
   - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
     excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
     publishedDateTime: 2022-10-06T15:44:00Z

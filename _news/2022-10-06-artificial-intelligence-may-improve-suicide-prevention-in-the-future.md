@@ -8,9 +8,9 @@ webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-
 ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Medical Xpress
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
@@ -37,6 +38,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "Gz+83I2aos8LcsZVgB51EWT15G4bnvXdCS0T2d/5J39WBvkQJAqQJOiqTmL0y+7QPyJ6hmxfmcBEuZDQyThEcn643xrUtEtnlC4Fo9ea9cfQn1wN/lkB5sRUgkJWaXCRBjGNxFw9oUSkapEuIxk+NjMBlDGUh4ds/PVJvkNruwG0S8SilKg4/I42XaUn8GZ9iDakUW7DQ7rg8m7KYGDgLMJA+zJSlSZWXo5+yRmA3HESlM53Vc+92oC3/HxrwgAKev7Sqon+POMtjfyQc1DmiPAR0DjNE4GDGtSMsQxczjpaZmg9Zc6KalhDrX3gyv15F9X8F0awRKAPRnygM5FQZk7Ry9v4eAcnk/hJNLQkXyg=;JWbT3yXBP5kSg1api5os8A=="
+secured: "Ph454RRZmCXnmjq3uaXJjlrPcliD49wN+pdZjfev8H8xI8t4864//9Kp+foDhMWCLHD7qJHYcTW+QJSc5aL4pQ7cOQnWcSMrd7WnVDJ9FvdECD/aMtXa2sjgecege0M2apTCY9zqkNbsX8UgcyShSV5vMFQFb6RT1rne13HJat+A9g5yAT5umTR3wB+sbHfUibm8eUKK0e2zjuL1CFgS9k+GetaviQwJz4L/+vkeSPZcJtlZewb728ISjn9Nx/dma1GmwwvmhSWWMRn+wGmE+QGuEEVRK2KIYriPiCWiRRlvQcH2GQHQaSrYg2iiDaI0FYEeM3K8fPPR+jmuHqj948j0cU8adhAmUz0nrZcOMAnEUxP1S0BNA5RbGWvUe2xOm390eQWFnLSldWHNn7ZQUALXmBnbiHAqxX3a6RPlcM5ExVsWdkZUgP6V4LWvu7wesV1+06YGcthaos3XnIkUVrvIfzepbg+f5jAIHXZMjoBiar0juk8jegsyzs8ntaFlmxDh/igbYsRlv1NADnzfyg==;kYuzwlaKPdRcbxltrcFaKA=="
 ---
 

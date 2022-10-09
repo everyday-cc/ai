@@ -1,32 +1,27 @@
 ---
 category: news
-title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
-excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
-publishedDateTime: 2022-10-06T20:35:00Z
-originalUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
-webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
+title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
+excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
+publishedDateTime: 2022-10-07T13:39:00Z
+originalUrl: "https://www.lawfareblog.com/ai-bill-rights-makes-uneven-progress-algorithmic-protections"
+webUrl: "https://www.lawfareblog.com/ai-bill-rights-makes-uneven-progress-algorithmic-protections"
 type: article
-quality: 71
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: TechSpot
-  domain: techspot.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Lawfare
+  domain: lawfareblog.com
 
 topics:
+  - AI Ethics
   - AI
-  - AI in Autos
-  - AI in Robotics
 
 images:
-  - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
-    width: 1880
-    height: 1258
+  - url: "https://www.lawfareblog.com/sites/default/files/52259005965_8621f988f2_b.jpg"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
@@ -77,6 +72,20 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/b4c3cca4bbda3fdb1b550cbc50100ccba7742cf8/2021/10/04/8040f356-ca69-499e-b8d1-0cb47aeff09c/white-house.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
         height: 802
+        isCached: true
+  - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
+    excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
+    publishedDateTime: 2022-10-06T20:35:00Z
+    webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
+        width: 1880
+        height: 1258
         isCached: true
   - title: "White House AI Bill of Rights Looks to Rein in 'Unaccountable' Algorithms"
     excerpt: "A lengthy statement of AI policy principles announced Tuesday (Opens in a new window) by the White House doesn’t actually say, “An AI may not injure a human being or, through"
@@ -140,20 +149,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
-    excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
-    publishedDateTime: 2022-10-07T13:39:00Z
-    webUrl: "https://www.lawfareblog.com/ai-bill-rights-makes-uneven-progress-algorithmic-protections"
-    type: article
-    provider:
-      name: Lawfare
-      domain: lawfareblog.com
-    quality: 39
-    images:
-      - url: "https://www.lawfareblog.com/sites/default/files/52259005965_8621f988f2_b.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "AI Bill of Rights shows Big Tech’s teeth"
     excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
     publishedDateTime: 2022-10-05T08:49:00Z
@@ -210,6 +205,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "Nl0axuInFWwWlMyDPWEBSvzjTTbraEiipHy3rYgZhkA6Kf7aRQwcUyI35+OvLu2I9bGMYzK/GkbrXbcIhMyO5i5CZvhk02i698W4T3iGPYz6JmTZtNRfI1ZifZbC+RMcW+P9PWfOBFIJtpqklRXQ9slHHoPwu+f9skKp3xZLOmRr+B9gSIWjd/MKp9SJfkFJhTY74/ZtH9e6ZSIp2werfMzzn1hHNzqnALA8hh6Gl+nc5XLjNoAEN2pcJ4+b+051Ovs7R30rDZA4QBuDruvbJrN0JDKZS8JhnhqC0GKdIjHNzyqjYUdMAUO3ljWsCOhnJKTEHKSYpM5IHnPNETpNp4/l4OJ54jlErn/yd4L94E1JGc9p1PlLaov5r2qtgT230OqXoYnKgm0uOqmp5PbFN6YYmlIcDnBYpEzAVWHWp0WN+/XsDFgpuj11W6hVQ4qxje727tQyJOaaKDgbjtlwhtLOJRrxyYVVyU1GLV9lQZr6k6GQZo9jC9mkPifFwM3pBOuSfpq5prbgjjg7Q2dYHg==;lD9e8DtZJ6eLT1UxyRG9Bw=="
+secured: "HkY6mF1mF78+doCtC6oP8rO9yi2SqUBgP4GxILIVP2v7vfauESy2brTSZpnfzyqLjh0h014oKxoVqe+stiaTNk87yQ+FYLQmG1Mp/0PyybukuBgHM0wgNFZRo90roc0vk7/oQ6BdU6JLTCX7+W4JG6HnjPhCLnBuaHQtPDxwq1IwXXGn8BPmXUPyp4dUZNwoV4cThFPYmO/DnvbXkOye0gnmRtlw4de5G1dH8frvGAO7bPIh4NwowKDk2F+hcpL70ZEO/fLPsQ1hyoAD7EeUtKpG15LRLt+7IN/WwWH7w1m+zD5jbXL+IG0NcNSUWRVH5N8UsDM/Ta5oG1ROeeWzUTgBKpYrEuAeU7WSQqDF1L4=;Q3xCxDgj1zpDThxnsHPAqg=="
 ---
 

@@ -1,27 +1,29 @@
 ---
 category: news
-title: "DeepMind AI finds new way to multiply numbers and speed up computers"
-excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
-publishedDateTime: 2022-10-05T15:02:00Z
-originalUrl: "https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/"
-webUrl: "https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/"
+title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
+excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
+publishedDateTime: 2022-10-06T21:40:00Z
+originalUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
+webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
+ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
+cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
 type: article
-quality: 54
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: New Scientist
-  domain: newscientist.com
+  name: newsbytesapp.com
+  domain: newsbytesapp.com
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
-    width: 1200
-    height: 800
+  - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
+    width: 1440
+    height: 810
     isCached: true
 
 related:
@@ -101,22 +103,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
-    excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
-    publishedDateTime: 2022-10-06T21:40:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 70
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
-        width: 1440
-        height: 810
-        isCached: true
   - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
     excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
     publishedDateTime: 2022-10-07T20:19:00Z
@@ -146,6 +132,20 @@ related:
       - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
         width: 512
         height: 512
+        isCached: true
+  - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
+    excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
+    publishedDateTime: 2022-10-05T15:02:00Z
+    webUrl: "https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "DeepMind AI can multiply quicker than ever imagined, beating a previous record"
     excerpt: "AlphaTensor improves and speeds up computation by 20 percent, allowing for quick and accurate matrix multiplication."
@@ -185,6 +185,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "cK/sfiPGNl2tI3DyaAfKU+G1mMUm6GOAuTUeiXEml6FxhOM/s1wmM1ZYRhk+zorknx2Bgza899cWwNYN/0427AAEjXBV88qn7pP09h511C8bewEYDKZ6ARcYafr0br7IvQXK8R9GtO/Gz38pC/X0Qxnc1PhaI0S9xrw2n2KT4uXjpQEwhCiNoSujJlMt73oJFn0wYJFYOBxLWI3W8MzewGM5H09cmZyweskzXyGp5QkmsY+Vis2vAC3K1KMfZegbtEJy+MGgOODPhNW1UDP4xrZD7qCBHeGnn8P9ef4a7KjE49IBiurUAziVkopp7a3/qJSheSGmJLnOGh3E3r93K5AHExBSLRxpYs3ukbG9PPZmI/I3A00jfp3h+S0xiPIy8rVKIMYNmmvaB3VeBEam3QVX4mRaG7GuwgKXbtsNEY07JQhDT0K4Ey9u6dNVq5BWlRQinm7+WJ/yQ2QLGjH+Z2sGq8D9mAQUZujR6XwQzToLSTpHD+Mf56WfPSpu3B9quT4/09pa4W42ASFRT7+C7g==;lMiSd+XFNeBomSgk2RqbYA=="
+secured: "y8TB1/C7jJjdXw7omat6au2nb/B6oor4t5/iYPuzgwG2UbyOZGejeChS64QEjzBNycmvpC2y5LMtLvQXcDTU5BZ+dyXspwsfpas3MYo61vE9KFsHlEH3cmnTsd1/ana78s7E296SVBrtkbkWHu8BGazvjc/JAXq7+9tCxZ/GU7bkvpcTsu5PcUABZcRlNcLI5sAsvFTjK+XPLNxWF0Si1wTolkx7fwsHVljQvB2XEiEsw6+WQAeQLpqICg5moC0qkfSXmiA0KxQmst9b0EeiBbTsrKKJAvoX7Q8D3gLWa3nJwA9oWIpVdQHzL/G7GakUUoZLJf8I/n8+aDd6of5rd72buZk7nSnzQdS9gCLlf6I=;nsE2Sx4plwFNFNYC2/tUUA=="
 ---
 

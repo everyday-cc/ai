@@ -9,7 +9,7 @@ ampWebUrl: "https://www.research-live.com/amp-page.html?id=5103852&name=research
 cdnAmpWebUrl: "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,15 @@ images:
     isCached: true
 
 related:
-  - title: "Big Tech seeks to improve speech recognition tools for people with disabilities"
-    excerpt: "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities."
-    publishedDateTime: 2022-10-04T14:23:00Z
-    webUrl: "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
-    ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
+  - title: "Tech Titans Join Forces With The University Of Illinois To Launch New Speech Accessibility Project"
+    excerpt: "Tech heavyweights Amazon, Apple, Meta, and Microsoft have come together in a way that would make Voltron blush in a joint effort to make voice-first user interfaces more accessible to those with speech disabilities."
+    publishedDateTime: 2022-10-04T19:06:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/10/04/tech-titans-join-forces-with-the-university-of-illinois-to-launch-new-speech-accessibility-project/"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 55
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg"
-        width: 1000
-        height: 563
-        isCached: true
+      name: Forbes
+      domain: forbes.com
+    quality: 20
 
 secured: "4z4Ti7pclAlKf7jd52RtEbvsfcnJ6kBHIJPIJ7QfAmjzM/WtYEQCl9I5CIEY/q+DE4ZlxMVYfYk1sMb/kysTMmF3UZEwknwvTY05uUmolxqW7g67ZSjpDjPWAVpVS4Teif/YsM1qekgVnOqN9HiffX3Za9iEVOpABi9Am7t6+lG8a/AJZOZol9lTso/uyV1jVZL7k1iJNwnJ9XbzkJk5S/pIjkFURosOTgTVWN7CPyEtsl9CCGqgHAs6s9O3TSK86e7TwEpWAs2fU/iI87mcf7S/7RD0iFtkLruvrzXeo4Xz9uYnilvmivsH2hOQbGpMCiuyW5+gF16YRDE/5cCfhqn7/Li1IHYxZ0kMCFyuCjJGQe71fy0cQoMIb1EF1rG3uslgbBGzbjqW4ek2bRDLH46J6Je4QHzuNzRcFkXBW71F4us+tx4iXyRCmgOw1gZyEjoA+JhDVuULLZShztCGOakV8XrlUCNY9KTccmBrEw79yH0DPNptOICSuyCCYz65zCZLyfd1D+jtQ2MxNQ3Oag==;NWfgiKi2fJQJyFXfsOehsQ=="
 ---

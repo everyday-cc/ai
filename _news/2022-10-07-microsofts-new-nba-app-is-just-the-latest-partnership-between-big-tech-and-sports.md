@@ -47,15 +47,6 @@ related:
         width: 900
         height: 599
         isCached: true
-  - title: "Cognitive Search Service Market expansion projected to gain an uptick during 2022 - 2028 | BMC Software, Microsoft, Cisco Systems"
-    excerpt: "Being a proficient and comprehensive, this Cognitive Search Service market report puts a light on primary and secondary drivers, market share, leading segments, possible sales volume, and geographical analysis."
-    publishedDateTime: 2022-10-04T13:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-search-service-market-expansion-projected-to-gain-an-uptick-during-2022---2028-bmc-software-microsoft-cisco-systems-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
 
 secured: "rgzB/0FtMZjdSg6docyxlMuQ6VDLbdso13lfKIx0uvwLP62k3pOGC4MJoulv3SbHrZoSnA3/W3dDDXsfyOEN0QxsBJMhaYERSmjW9N+V9dkWPQ/OhiFPsTi9NlL1LH8g0/TANNsg0oxf0g28Ud4kPmLsfPqMKqRdhi6X47eiLxIeTmciwLp1uZAVBfdO+AxxQ+gsjHNB9+WrLu0K3R7tPtkCNteWSblvLoEB6f477Ps0xP1ljhq1v6m7vv4OoVsRPyGN+q4COI+Et1JK3FRcf2wI04q5C46AXnDwndHKU3QxlwIfpHBPnhIIJNTlMfY4XLgouq66O69ViI9tQD3wOH5h76X3loeuUvKoHKePTZd3baIm4YRAQiMSKAUxiVMLoMoSwwEgoiPFjpBeF36XWey/xmlM7wFoGemKSaz4FKeQG83g1JYyS7gOP8Omsk5pq2GfydWSXoEL7+lT01eA7RonRxRG/9xIenPYpBo5TK80JmU4Wh+CM77Zspaa0DeLBPOlbgl8LL+9pDRUGI5/XQ==;bHeub0Po08gI8kL53Owyrw=="
 ---
