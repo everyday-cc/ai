@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "Fintech and future of money"
-    excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Photo.jpeg"
-        width: 890
-        height: 1024
-        isCached: true
   - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
     excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
     publishedDateTime: 2022-10-06T16:38:00Z
@@ -121,15 +105,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
-    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
 
 secured: "W5NP1G3QK7k/xRzJCG5SoGmJtN/ZTbirNy13kImVODp/yPxgx8YXM4KErAz1Ez/5vnZaGFiA7q9bHEKcfKzXNGyaQbj3/M8KNmbSuMEnU1qsFC2CyR6Lm2bGMXRVJNAIFBnv/Q7K6nIHMW7wuej/Zt2uNE0oxQ3NSi5A61L0Wx+oE9dzDsypORkHDtqV+zfPwuz8PDlXqqwLSnkneEdGzmFloEUcQNl+cP2xM03Vaaf2Vf1hklIBWK+e5Wrl5ol+cqP4qwRmX5tUy/PIPQ9+QSVQ9O4SryI2r6DaphS2c8r8TpQUdQsj0epQ4mKVyfWDCHO0brz7DxaaU2rSzDhOkTQh3TeYUxh0YkvV+9cNkO8SY2bXRotjPMdtZinRS/1wEIewZ0Nc724ftjJS68os4t8wB0nSNxtqxg+RWNreYcFTpyUmw3rMg5DT9wSwrVyatERuF/Sx+WPo/fihY5dUs0Hc6rvlLbuUKo5SIuavwczAKSgED//Gzq4AnFAP5qjeaqrzfpihjB/MN0/qXIP9+w==;YT3qfvkVDsqR6YGBgJaFWQ=="
 ---

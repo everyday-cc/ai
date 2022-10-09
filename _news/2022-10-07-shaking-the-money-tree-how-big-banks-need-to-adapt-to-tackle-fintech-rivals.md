@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "Fintech and future of money"
-    excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Photo.jpeg"
-        width: 890
-        height: 1024
-        isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
     publishedDateTime: 2022-10-07T14:27:00Z
@@ -121,15 +105,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
-    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
 
 secured: "3FsRNitb4U1q+hEQ2YzQQ18/Yd1nm2jPcPmIMfWwzfYpBO9MQThVLMSpuaK5uHGasGKAYVLIMKAKzvg+YMBzBn9CvFABLRI3birvVAkAFEC/9ViD4KSV/P7R42clWpRnn5jtwLUS7s0YscO+wTxyrzbNTKyN+7UpxblVZVQtsVrJywZUfH6ah5I9w/huBYYkgQ+7Hdo0YYYPVIyzKQj12sm7J4rhgLYWTKiZrZlckyQCGj/Zvq+RK5Iw9MaMBGcdsOB7oixYaEkm0DWx9D4hQhYLNRkanItUo4qXvbw2J/JimkRa9l+kR6wxVIB0kjDSBToX4r2nc/RjTJlQt8QnyT2qLQjmgFr42A9zR6+X+BErHS+RNq/5jN0pZP2YtPukioU6q+8mkQtUHF2l8Pb6rQ6xDLyO77zxrnRBx29GU9z+PqB9R6V8JdYqoG/ONuPvmvflh2IyDyRLe0389Qr8DbpjVahGnV0BnEPq1CVtcydM8GEZNEDuEBGxiq6H2pA1BUmo+N+dvqFBnkvCdMY5+g==;cnFR50yyFthw3T+BC9GF2g=="
 ---

@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 835
         isCached: true
-  - title: "Fintech and future of money"
-    excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Photo.jpeg"
-        width: 890
-        height: 1024
-        isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
     publishedDateTime: 2022-10-07T14:27:00Z
@@ -120,15 +104,6 @@ related:
       name: Khaleej Times
       domain: khaleejtimes.com
     quality: 19
-  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
-    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
 
 secured: "CRtiFO+RBB2pwn4JsEgVitlWPgf/fmDdyLAwnIHUueeb9xSJG+wclEpmvaJeWhO4K01VZdX0bctiiDCHpORpXw37znVst3OD0Q/owF0Bk1O51698guYvK5h7EgsQqZ0k8ryHG9da9LXJ2nF8XRgGGmiX9DBgY4qs5lwq46S2gbWcRf3huuxOjQsvdzOqlvPDQMC9iq91sGMdj5RJDTi0fTc4m+LFOsjAbcW70d2wfw9QK7gwitALV5zrBo25ua/5RYodAh1ENANvlQHdgTKXoIFjQfC9oabCXANVFqAS9+KYudzsFpgqoVvPe9Uj6/Ns9UJHNohZbalASPrjc7AxxE6kYnOUIA/wHj5GBxEzVy1at2qVFfKXlhW6eshnplAF5BqJGA2+uSeJNkQKt1lG1ne2qIkrojVXleG/QcbapBDnCqh+rxx5bGkkyAwfgJ4GnCUzrFnUU8ky8RGYDcgk3rnJCIpjpEyDiG16NFU+wW5D9qjnhZ7bfydLEdfkoOJ2EKnV1rNjSGRAxDGs1bAuKg==;c9F3bK6td+vwIMXzUcq7/Q=="
 ---

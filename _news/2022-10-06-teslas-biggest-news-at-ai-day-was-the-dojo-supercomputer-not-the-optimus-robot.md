@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 148
+heat: 138
 published: true
 
 provider:
@@ -33,17 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's Optimus Humanoid Robot: What Investors Should Know"
-    excerpt: "Here's what investors should know about Optimus, which Tesla plans to eventually produce at large scale. Image source: . A rough development prototype of Optimus kicked off Friday's event by walking on stage,"
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot%3A-what-investors-should-know"
-    ampWebUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
     excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
     publishedDateTime: 2022-10-04T12:30:00Z

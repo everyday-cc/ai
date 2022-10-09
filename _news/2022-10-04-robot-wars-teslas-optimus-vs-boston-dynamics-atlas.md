@@ -42,17 +42,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tesla's Optimus Humanoid Robot: What Investors Should Know"
-    excerpt: "Here's what investors should know about Optimus, which Tesla plans to eventually produce at large scale. Image source: . A rough development prototype of Optimus kicked off Friday's event by walking on stage,"
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot%3A-what-investors-should-know"
-    ampWebUrl: "https://www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/teslas-optimus-humanoid-robot:-what-investors-should-know?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 86
   - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
     excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."
     publishedDateTime: 2022-10-04T12:02:00Z

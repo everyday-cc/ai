@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-fut
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
 type: article
 quality: 74
-heat: 154
+heat: 134
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech and future of money"
-    excerpt: "The gigantic challenges that we face today, from Covid-19 to the war in Ukraine all have reminded us that throughout history and turbulent times innovation has helped humanity to adapt, sustain and grow."
-    publishedDateTime: 2022-10-04T10:30:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/fintech-and-future-of-money/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Photo.jpeg"
-        width: 890
-        height: 1024
-        isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
     publishedDateTime: 2022-10-07T14:27:00Z
@@ -125,15 +109,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "DFD Partners Named One of the Top 10 Rising Fintech Companies by Future Proof"
-    excerpt: "DFD Partners has been named one of the top 10 rising fintech companies by Future Proof, the world’s most prominent leaders in finance, investing, tech, culture, & impact gathered for immersive content,"
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/icrowdnewswire-2022-10-4-dfd-partners-named-one-of-the-top-10-rising-fintech-companies-by-future-proof"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
 
 secured: "DMgdMbWz3S9Ih+ZgD0Z9NymKPZQbeRyl7MB20Xh5UEq93suFdnQlI0t6sUT7JwyejsjUku/7J5njAgTMKTtytWykg+8nI2sHEgs313735pX4WS2UU0xISg7AoKuRjCgRX0k84VA607bdZXJGMSkuvzk/8eWDpnrGa2QxJ2OUBfdmwzeWja0zY8nvFCciQb1pAZ5U2LfM8bRGxts5n71gGMbtKD+NqS7cfXDLIrVVKAjJ9WV08fUcEm2Gx7cfAd1i+Z2hWyc4dlfiYRwRZgc0nE6O259Qqfu3SkY694Qhcz2lCyI4TsiqNzCbwW9dNYqnwo9x9Mxb7z+LoCPtn6Afr86pBqjzjTjMMC06ANjd+PardAXhEdaSsLiqawo4iEQyDDAC6lgazSnib7+FNVWHGhFvWXbGrXUbQaHmmkVziLhEi33sm0FX7M/6WzGKaQElmTlGxD4ur9kkkOI3RppNEcKnHq8WhLYV+G7AjPrvT8IF1v6L2U7E7PruVtYVXBeHmcGdZZ49VARgvpiULRJnlQ==;fPyqTlWmrbPV/fakiq2lRg=="
 ---

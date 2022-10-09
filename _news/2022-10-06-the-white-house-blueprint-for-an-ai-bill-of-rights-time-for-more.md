@@ -46,22 +46,6 @@ related:
         width: 409
         height: 293
         isCached: true
-  - title: "Biden's AI Bill of Rights Is Toothless Against Big Tech"
-    excerpt: "The draft's tenets include allowing citizens to opt out of algorithmic decision-making, which could reshape federal government—but not the private sector."
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/"
-    ampWebUrl: "https://www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/amp"
-    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/bidens-ai-bill-of-rights-is-toothless-against-big-tech/amp"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 89
-    images:
-      - url: "https://media.wired.com/photos/633b7e5ad6cae19406ef41d2/master/pass/AI-Bill-of-Rights-OSTP-Blueprint-Business-1319499046.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "The White House released an ‘AI Bill of Rights’"
     excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
     publishedDateTime: 2022-10-04T21:06:00Z
@@ -170,6 +154,22 @@ related:
         width: 3000
         height: 1687
         isCached: true
+  - title: "White House unveils artificial intelligence 'Bill of Rights'"
+    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
+    publishedDateTime: 2022-10-04T15:49:00Z
+    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
+    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+    type: article
+    provider:
+      name: Post Register
+      domain: postregister.com
+    quality: 59
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -223,15 +223,6 @@ related:
       name: Boston.com
       domain: boston.com
     quality: 19
-  - title: "White House AI Bill of Rights lacks specific recommendations for AI rules"
-    excerpt: "The document unveiled today by the White House Office of Science and Technology Policy is long on tech guidance, but short on restrictions for AI."
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://www.protocol.com/policy/ostp-ai-bill-of-rights"
-    type: article
-    provider:
-      name: Protocol
-      domain: protocol.com
-    quality: 18
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
     publishedDateTime: 2022-10-06T13:21:00Z

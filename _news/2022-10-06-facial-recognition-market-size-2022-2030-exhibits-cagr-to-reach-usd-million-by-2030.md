@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06"
 type: article
 quality: 62
-heat: 102
+heat: 82
 published: true
 
 provider:
@@ -29,34 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Research Insights with Upcoming Trends Segmentation Opportunities and Forecast to 2030"
-    excerpt: "The global machine learning market size was US$ 11.1 billion in 2021. The global machine learning market is forecast to grow to US$ 121 billion by 2030 by registering a compound annual growth rate (CAGR) of 31% during the forecast period from 2022 to 2030."
-    publishedDateTime: 2022-10-04T10:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-research-insights-with-upcoming-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Gesture Recognition Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
-    excerpt: "The global Gesture Recognition market size was valued at USD 13839.6 million in 2021 and is expected to expand at a CAGR"
-    publishedDateTime: 2022-10-04T09:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gesture-recognition-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vehicle Speech Recognition System Market Report with Executive Summary, Size, Analysis and Forecast to 2022-2031"
     excerpt: "Application (Commercial Vehicle, Passenger Car, Others) – Global Industry Analysis & Forecast to 2031 Industry Outlook and Trend Analysis The vehicle speech recognition system market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
     publishedDateTime: 2022-10-06T08:03:00Z

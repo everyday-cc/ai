@@ -65,20 +65,6 @@ related:
         width: 1228
         height: 690
         isCached: true
-  - title: "Want fries with that? Robot makes French fries faster, better than humans do"
-    excerpt: "A number of restaurant chains have already adopted Flippy 2, the robotic fry cook, including Jack in the Box in San Diego and White Castle in the Midwest."
-    publishedDateTime: 2022-10-04T11:00:00Z
-    webUrl: "https://www.stltoday.com/business/local/want-fries-with-that-robot-makes-french-fries-faster-better-than-humans-do/article_580f8a84-d42c-58a5-8b11-66b7b14f22fa.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/80/580f8a84-d42c-58a5-8b11-66b7b14f22fa/633c099488868.preview.png?crop=849%2C446%2C0%2C60&resize=849%2C446&order=crop%2Cresize"
-        width: 849
-        height: 446
-        isCached: true
 
 secured: "SSPstcYpLJ7TIPQ7+uy6vkqrrwtbf5yVipfEmRHwKVi9FS5m2yfBzvwpDMaj1DyxPhJL3S4QfqWqcHVVRi/e7EV1v/WjNDI5B5oalhSUDq29LOvP34ez9y3feQ/MSflYuFdS8ug9+/aQV8ySvkSLMgZMAX84eF2ZA4Y3V1UvSHECOST4OQYVYqvATA+RuhByNLSs5fCTehzFeaqYNAZtMsjg6RXuG4YtxWC8maTxvBxydzkkeNQiw0tZmOYasNapxBS560noS1IMY9WVym3m4aPG3aREjLZLjH+9h79nCY1h3qto4yagq2a80hLx+xmOaNrzZ0LPdtnM/ErRzZ9r6mHPF/wde9iwPcID94P3AGw=;cLTXPOYd5E1uE8ozyWBZzw=="
 ---
