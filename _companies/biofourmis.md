@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 64
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "+eCVDeBKUm3SWJw/MZ9eIDfM5sbPrz13w8uM653uLBaLWWgmCecB8AhcIDKPscN4V6I6ooX1AUexHXcnDiQt86VKMEuO3ozWQGVEOEt/K14llDFNowi7F52TmuUgkJKgToL1Rwohlz+ebY7pvgpnjypTgbMdXR+uhs6koAIaxYG05LjOiv2Ew06WkyD8pJH4nvf71xRfuZX3NDgRzc8nnTpLZqDMeJe5i42Anj7vDQqbljNZEvu38pPz8tl79EaTlcqe3WboKY76aq91JMqa3qsxRmBUFQbi5wFNrLmjMUd+ZLERgJIkCzJhuQLTUePuJXeYAbgjGvHnpnCMHr+53ghwS1EEexA0/zYSkrmtm0FTZ973cBEfoH19T1o94gwPPEKhCYcBoF3BTP4iufcUyXrEekI6ucM7eq6gc6CXG9E=;hDOFjxhDko9e3VyfyDMREA=="
+secured: "bV5lC3xIPPxs8hWtMn87p/uLZy9apAymMZgCyBkw4vfTutRkUk7TElWkxbYRXga0ZPj3MWo0f7p9VcA+bx3QgG141FpEP7/nu34NAZ0sbCKVlxqutl0+shmV2UjdTfLxlB99/ZZK+99JGgXUavgKfI8SQm4XFeK1+haFuvgbCagrJyGQeST9NahVqCo9ZdLY4t9USDsgl0JE0mG/J8M58zmV4r53AYhmjyzvMZlocwdiX/3YUXx2+Wrk9umPjdy4zsjdSQ08Hk8gADaqtUqb3fe48KOxvcNNyBeMUlik2JIgWAFyDfWt5xQaKma1aaOGLtsRpaDSje5oI/rETi6s2GA7SSMJoJoD3PxskJqP4+IBY7asbtI6Og0b0qGgc1G+qF1SUVaWrD1+VAd/0eK8zJiu5mPfEFdYSePqsWHQlQY=;IEz1OULfWp/cp0wLBTcG/Q=="
 ---
 
