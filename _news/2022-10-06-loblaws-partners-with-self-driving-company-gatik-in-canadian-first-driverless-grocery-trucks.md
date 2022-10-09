@@ -89,20 +89,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Loblaw puts self-driving delivery trucks on Canadian roads for first time"
-    excerpt: "Loblaw has been testing autonomous driving technology with a human ‘safety driver’ in Ontario since 2020, and began the next phase of its test – without the driver – in August"
-    publishedDateTime: 2022-10-05T05:00:00Z
-    webUrl: "https://www.theglobeandmail.com/business/article-loblaw-self-driving-delivery-trucks/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 23
-    images:
-      - url: "https://www.theglobeandmail.com/resizer/gBdrD_n0nxD5eF8-T6xh0gbYuEU=/1200x798/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/BHCNJSXRCRBCXL3VFQJB2I3ZOM.JPG"
-        width: 1200
-        height: 798
-        isCached: true
   - title: "Autonomous Trucking Startup Gatik Is Ditching the Driver in Canada"
     excerpt: "San Francisco tourists, Phoenix suburbanites and now Canadian bacon — the list of driverless cargo keeps growing."
     publishedDateTime: 2022-10-05T13:05:00Z

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.governing.com/now/facial-recognition-technology-victimiz
 cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/now/facial-recognition-technology-victimizes-people-of-color-it-must-be-regulated?_amp=true"
 type: article
 quality: 55
-heat: -1
-published: false
+heat: 105
+published: true
 
 provider:
   name: Governing
@@ -27,21 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Bunnings denies use of facial recognition technology in New Zealand stores"
-    excerpt: "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation."
-    publishedDateTime: 2022-10-05T03:43:00Z
-    webUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html"
-    ampWebUrl: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
-    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html"
+  - title: "Canadian lawmakers recommend moratorium, regulations for facial recognition use"
+    excerpt: "Recommendations also include establishment of a regulatory framework specifically for facial recognition, and additional legislation and oversight mechanisms."
+    publishedDateTime: 2022-10-05T22:00:00Z
+    webUrl: "https://www.biometricupdate.com/202210/canadian-lawmakers-recommend-moratorium-regulations-for-facial-recognition-use"
     type: article
     provider:
-      name: Newshub
-      domain: newshub.co.nz
-    quality: 57
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
     images:
-      - url: "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg"
-        width: 768
-        height: 438
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2021/07/28184202/face-biometric-database.jpeg"
+        width: 1800
+        height: 734
         isCached: true
   - title: "Investors raise human rights concerns over facial recognition technology"
     excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
@@ -52,6 +50,29 @@ related:
       name: Investment Week
       domain: investmentweek.co.uk
     quality: 33
+  - title: "Opinion: Facial recognition technology victimises people of colour. It must be regulated"
+    excerpt: "Law enforcement identifying the wrong suspect isn’t new. What is new is how police make these kinds of mistakes."
+    publishedDateTime: 2022-10-09T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/09/opinion-facial-recognition-technology-victimises-people-of-colour-it-must-be-regulated"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/07/1767148.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+  - title: "Lawmakers, school officials meet over facial recognition technology in schools"
+    excerpt: "State lawmakers studying facial recognition technology expressed concerns about student privacy when the tech is used in schools. The state Economic Affairs Interim Committee Monday met with a school district that has put in place facial recognition technology,"
+    publishedDateTime: 2022-10-05T11:04:00Z
+    webUrl: "https://www.mtpr.org/montana-news/2022-10-05/lawmakers-school-officials-meet-over-facial-recognition-technology-in-schools"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 15
   - title: "South Bend announces policies for 'real time crime center,' facial recognition technology"
     excerpt: "The project will feature an expansion of video cameras and facial recognition technology as part of the city’s push to curb violent crime. The goal, outlined by city officials, is to have the ..."
     publishedDateTime: 2022-10-05T23:05:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-09T19:10:00Z
 originalUrl: "https://theconversation.com/synthetic-futures-my-journey-into-the-emotional-poetic-world-of-ai-art-making-188533"
 webUrl: "https://theconversation.com/synthetic-futures-my-journey-into-the-emotional-poetic-world-of-ai-art-making-188533"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: The Conversation

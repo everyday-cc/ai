@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market is expected to reach USD 39,986.7 Million by 2025"
+    excerpt: "According to The Insight Partners market research study titled ‘Machine Learning Market to 2025 – Global Analysis"
+    publishedDateTime: 2022-10-07T06:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-expected-to-reach-usd-399867-million-by-2025-2022-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
 
 secured: "9iNdc0rVWTI7Ac6H8J0Taas93cZyhqfVZt//nS4pO6SPA6HDs4hGvVeRh1hm1GnFSV7Tqdb9y52MstgjT2NC3wkLBjp2AjehXMWnlLxo4qV6UOtIDBM25xP+Enbw3ikRgfi4hlwhVcCMaCo0XTyDGiiLGz9PZtZ6eQTYBW+6JI/Lp9YnhdOPOPFiUyEstbxnwAI0pbMpyWCxtri612uDdhIxCSiBgSr87uS9/RIFpIjsPPA96ydPjyjLZeP+rRwLanSpdmzYXEPP6n/cAVHjueGnPNuInkkoCQgQ5n6J8KbGK3Z9ONK+VGYV6feHNP8XgNljyYTuqa259Yy3eW9nb4gAgUI6dkLg7k22JFUEig0=;GIWcyqLTc3rUoFUwTWwg7g=="
 ---
