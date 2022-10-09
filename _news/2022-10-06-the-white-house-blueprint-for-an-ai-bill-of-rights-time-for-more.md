@@ -46,22 +46,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
-    excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
-    publishedDateTime: 2022-10-04T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-637258/social"
-        width: 1280
-        height: 640
-        isCached: true
 
 secured: "9NOn0BUVmAR6nHTPJrdTqZlXlYJrGCxA6VTjpPAk0jljvGii0WN2iSi7Y8xcQubhp9jOUpAmCD/RRViJolVjKEDMCsJ+D2JK8i59vvA3LsUkoKK3smePEsUY04FkJ50BvgThrI4aIr1iJPw5VmERoloJ3iz0thZ85z4FRD3w0y82bNmISHmUJc9FtG71KJZtXExbAYOBxmKc5aTMHEvvNFOBkPKKQcMAXOzB4gfF3RalgZVjYkrAVqdnbu97U6k4i2VGIl+jhLfqkNnVZCyWVbK7w4yuO6BqOxcUaMQTHlX9fHuC6FYPFnQoYGovYfebZtJh2tUQXIc1lRfSc76bHAh9fmAyau2DcKczQPS2k0mM7c6UXFD/RvPmS4ZzixTV/9GHCK0yalYawWV66JHu8Yt1w3cUyU7EkccgTEPEi9WlRnav8UjzlJAR3hUBzxyTGNPNAx1J7mqzvtpl5AUPM2giX8w6w9GjJob+lxkNESnb19yOlaVczE9emMPFQBViiEvakRTVvfI+uwwk793kpg==;me29U+OKmH/TBPMPRirP2g=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-rac
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Government Technology
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "MPs call for tight federal restriction on use of facial recognition technology"
-    excerpt: "OTTAWA - A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian"
-    publishedDateTime: 2022-10-04T20:05:00Z
-    webUrl: "https://www.thestar.com/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 55
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "Opinion: Facial recognition technology victimises people of colour. It must be regulated"
     excerpt: "Law enforcement identifying the wrong suspect isn’t new. What is new is how police make these kinds of mistakes."
     publishedDateTime: 2022-10-09T04:00:00Z

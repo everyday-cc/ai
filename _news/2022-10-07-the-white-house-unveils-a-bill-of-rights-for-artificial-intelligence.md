@@ -46,52 +46,6 @@ related:
         width: 409
         height: 293
         isCached: true
-  - title: "The White House released an ‘AI Bill of Rights’"
-    excerpt: "The White House on Tuesday released a set of guidelines it hopes will spur companies to make and deploy artificial intelligence more responsibly and limit AI-based surveillance, despite the fact that there are few US laws compelling them to do so."
-    publishedDateTime: 2022-10-04T21:06:00Z
-    webUrl: "https://edition.cnn.com/2022/10/04/tech/ai-bill-of-rights/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/04/tech/ai-bill-of-rights/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 87
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221004094542-01-laptop-phone-user-stock-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "The White House passes an AI \"Bill of Rights\" that attempts to put your AI concerns at ease"
-    excerpt: "Today, the White House released the Blueprint for an AI Bill of Rights to set up a framework that can protect people from the negative effects of AI."
-    publishedDateTime: 2022-10-04T21:28:00Z
-    webUrl: "https://www.zdnet.com/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-white-house-passes-an-ai-bill-of-rights-that-attempts-to-put-your-privacy-concerns-at-ease/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/b4c3cca4bbda3fdb1b550cbc50100ccba7742cf8/2021/10/04/8040f356-ca69-499e-b8d1-0cb47aeff09c/white-house.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-        width: 1200
-        height: 802
-        isCached: true
-  - title: "White House AI Bill of Rights Looks to Rein in 'Unaccountable' Algorithms"
-    excerpt: "A lengthy statement of AI policy principles announced Tuesday (Opens in a new window) by the White House doesn’t actually say, “An AI may not injure a human being or, through"
-    publishedDateTime: 2022-10-04T22:13:00Z
-    webUrl: "https://www.pcmag.com/news/white-house-ai-bill-of-rights-looks-to-rein-in-unaccountable-algorithms"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 68
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01WvDxbEj3veLlZEZrolV5o-1.fit_lim.size_1200x630.v1664921526.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
     excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
     publishedDateTime: 2022-10-05T20:22:00Z
@@ -151,15 +105,6 @@ related:
         height: 290
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people ..."
-    publishedDateTime: 2022-10-04T22:26:00Z
-    webUrl: "https://www.boston.com/news/technology/2022/10/04/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 19
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
     publishedDateTime: 2022-10-06T13:21:00Z
     webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
@@ -168,15 +113,6 @@ related:
       name: Seattle Times
       domain: seattletimes.com
     quality: 17
-  - title: "The White House unveils an artificial intelligence ‘Bill of Rights’, but stops short of holding tech companies accountable"
-    excerpt: "“The white paper does not have power over the tech companies that develop the tools nor does it include any new legislative proposals. The white paper also did not specifically address AI-powered technologies funded through the Department of Justice ..."
-    publishedDateTime: 2022-10-04T19:49:00Z
-    webUrl: "https://www.niemanlab.org/reading/the-white-house-unveils-an-artificial-intelligence-bill-of-rights-but-stops-short-of-holding-tech-companies-accountable/"
-    type: article
-    provider:
-      name: Nieman Journalism Lab
-      domain: niemanlab.org
-    quality: 0
 
 secured: "Nl0axuInFWwWlMyDPWEBSvzjTTbraEiipHy3rYgZhkA6Kf7aRQwcUyI35+OvLu2I9bGMYzK/GkbrXbcIhMyO5i5CZvhk02i698W4T3iGPYz6JmTZtNRfI1ZifZbC+RMcW+P9PWfOBFIJtpqklRXQ9slHHoPwu+f9skKp3xZLOmRr+B9gSIWjd/MKp9SJfkFJhTY74/ZtH9e6ZSIp2werfMzzn1hHNzqnALA8hh6Gl+nc5XLjNoAEN2pcJ4+b+051Ovs7R30rDZA4QBuDruvbJrN0JDKZS8JhnhqC0GKdIjHNzyqjYUdMAUO3ljWsCOhnJKTEHKSYpM5IHnPNETpNp4/l4OJ54jlErn/yd4L94E1JGc9p1PlLaov5r2qtgT230OqXoYnKgm0uOqmp5PbFN6YYmlIcDnBYpEzAVWHWp0WN+/XsDFgpuj11W6hVQ4qxje727tQyJOaaKDgbjtlwhtLOJRrxyYVVyU1GLV9lQZr6k6GQZo9jC9mkPifFwM3pBOuSfpq5prbgjjg7Q2dYHg==;lD9e8DtZJ6eLT1UxyRG9Bw=="
 ---

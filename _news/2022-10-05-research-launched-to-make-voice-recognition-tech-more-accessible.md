@@ -26,17 +26,6 @@ images:
     height: 581
     isCached: true
 
-related:
-  - title: "Tech Titans Join Forces With The University Of Illinois To Launch New Speech Accessibility Project"
-    excerpt: "Tech heavyweights Amazon, Apple, Meta, and Microsoft have come together in a way that would make Voltron blush in a joint effort to make voice-first user interfaces more accessible to those with speech disabilities."
-    publishedDateTime: 2022-10-04T19:06:00Z
-    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/10/04/tech-titans-join-forces-with-the-university-of-illinois-to-launch-new-speech-accessibility-project/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 20
-
 secured: "4z4Ti7pclAlKf7jd52RtEbvsfcnJ6kBHIJPIJ7QfAmjzM/WtYEQCl9I5CIEY/q+DE4ZlxMVYfYk1sMb/kysTMmF3UZEwknwvTY05uUmolxqW7g67ZSjpDjPWAVpVS4Teif/YsM1qekgVnOqN9HiffX3Za9iEVOpABi9Am7t6+lG8a/AJZOZol9lTso/uyV1jVZL7k1iJNwnJ9XbzkJk5S/pIjkFURosOTgTVWN7CPyEtsl9CCGqgHAs6s9O3TSK86e7TwEpWAs2fU/iI87mcf7S/7RD0iFtkLruvrzXeo4Xz9uYnilvmivsH2hOQbGpMCiuyW5+gF16YRDE/5cCfhqn7/Li1IHYxZ0kMCFyuCjJGQe71fy0cQoMIb1EF1rG3uslgbBGzbjqW4ek2bRDLH46J6Je4QHzuNzRcFkXBW71F4us+tx4iXyRCmgOw1gZyEjoA+JhDVuULLZShztCGOakV8XrlUCNY9KTccmBrEw79yH0DPNptOICSuyCCYz65zCZLyfd1D+jtQ2MxNQ3Oag==;NWfgiKi2fJQJyFXfsOehsQ=="
 ---
 

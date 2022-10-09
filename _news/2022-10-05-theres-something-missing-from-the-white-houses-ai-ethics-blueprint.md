@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/23387228/ai-bill-of-
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "White House Issues ‘Blueprint for an AI Bill of Rights’"
-    excerpt: "Some tech executives voiced concerns that the nonbinding guidelines could lead to stifling regulation concerning artificial intelligence."
-    publishedDateTime: 2022-10-04T21:12:00Z
-    webUrl: "https://www.wsj.com/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    ampWebUrl: "https://www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/white-house-issues-blueprint-for-an-ai-bill-of-rights-11664921544"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 87
-    images:
-      - url: "https://images.wsj.net/im-637258/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
     excerpt: "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint."
     publishedDateTime: 2022-10-06T15:56:00Z

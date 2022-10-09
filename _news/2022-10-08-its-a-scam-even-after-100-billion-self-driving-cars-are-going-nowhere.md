@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Farming AI: Self-Driving Tractors"
-    excerpt: "We check out the technology behind John Deere's latest self-driving tractor. John Deere is looking to deliver a fully autonomous tractor to farmers for production use. In this video, I talked with Gaurav Bansal of John Deere's Blue River Technology group that worked on the machine-learning support."
-    publishedDateTime: 2022-10-04T20:59:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/video/21250978/electronic-design-farming-ai-selfdriving-tractors"
-    type: article
-    provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 19
 
 secured: "nlrRQavjzMfKIreWgZl+wTQKf/NLpT5770Cb8IK8q/G9brYinyJNwvKCzwYHCpJBJa0o2H1xrEuWq5bUW0Ji9WhxQpLSZcgdjcaL9CtQo+H7sEz3fkbJfl6PNU00P52HNdsJHUwJWNoS4IUHWH4xmnSy/ig9eQ3V+70DHeYkDvyqQmjTQN5EGb6kAUGyNg8KGkCaEuTN2exnWf4ZHXxzkj1y/k+PCqOAoSGODA3ObB7gnP2bgtI8tJDC3b2U5xFMo61Y5WftuXaWLYiERAQHUk8CDmTmjEgSXxT8QsUqiOeDSI4evyt3f+EyLxbcK+b6IYOKzdP6tmMLZKr2wKKDl3+OaMMi+CZSVCFa0hUTzVXq0uivjtuVx1XkGukWfuWJV2/5ab+SiA/yoWyFgY8RS5W5TCabRoSnwgldXtljKTtLVKuUmLhcX4OB96eR3O6dup9VKwxXEug1QcRz/Ha3xRB4cKE2Wx/3ikHBuQgeBtB0lMmfSCq6TGy+PIXZ7e+QohbhinpQDnQHdxiHQRQ56Q==;9m7BhIvW9Npxh98tLHDnOw=="
 ---

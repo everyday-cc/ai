@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-09T13:53:00Z
 originalUrl: "https://www.khaleejtimes.com/uae/watch-humanoid-robot-to-greet-visitors-to-dubais-museum-of-the-future"
 webUrl: "https://www.khaleejtimes.com/uae/watch-humanoid-robot-to-greet-visitors-to-dubais-museum-of-the-future"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Khaleej Times

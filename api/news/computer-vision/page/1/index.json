@@ -331,49 +331,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-05-opinion-facial-recognition-has-a-race-problem-can-federal-law-help.md",
-      "title": "Opinion: Facial Recognition Has a Race Problem. Can Federal Law Help?",
-      "excerpt": "The powerful biometric surveillance tools used to identify suspects are up to 100 times more likely to misidentify Asian and Black people compared with white men, according to a 2019 National Institute of Standards and Technology study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help",
-      "originalUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/cfa992a/2147483647/strip/true/crop/3000x1564+0+90/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3a%2F15%2F005b90464496b2aea33679821d02%2Foped-facial-recognition-commentary-get.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true",
-      "publishedDateTime": "2022-10-04T16:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
       "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
       "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
@@ -607,6 +564,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-protester-injured-by-salem-police-awarded-1m-in-lawsuit.md",
+      "title": "Protester injured by Salem police awarded $1M in lawsuit",
+      "excerpt": "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kansascity.com/news/politics-government/national-politics/article266770231.html",
+      "originalUrl": "https://www.kansascity.com/news/politics-government/national-politics/article266770231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/national-politics/article266770231.html",
+      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article266770231.html",
+      "publishedDateTime": "2022-10-03T13:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kansas City Star",
+        "domain": "kansascity.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1164,7 +1155,7 @@
     {
       "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
       "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "New services will make it easier for organizations to build and run computer vision applications at scale—at the edge, in the cloud, and on premises—to enhance productivity and operations Amazon Web Services (AWS),",
+      "excerpt": "The new set of computer vision services will combine SK Telecom's artificial intelligence (AI) models, trained on more than 10 years of anonymized video data, and AWS's edge services, IoT ...",
       "sourceUrl": null,
       "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
       "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
@@ -1177,7 +1168,7 @@
       "type": "article",
       "ampWebUrl": "https://www.benzinga.com/amp/content/29081188",
       "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188",
-      "publishedDateTime": "2022-09-29T10:00:00-07:00",
+      "publishedDateTime": "2022-09-29T10:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Benzinga.com",
@@ -1191,9 +1182,9 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "Computer Vision",
         "AI",
-        "Computer Vision"
+        "AWS AI"
       ]
     },
     {

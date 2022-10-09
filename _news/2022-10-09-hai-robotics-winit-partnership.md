@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-09T11:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29195586/hai-robotics-winit-partnership"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29195586/hai-robotics-winit-partnership"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Benzinga.com

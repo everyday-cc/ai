@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-09T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/09/ai-ethics-and-ai-law-asking-hard-questions-about-that-new-pledge-by-dancing-robot-makers-saying-they-will-avert-ai-weaponization/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/09/ai-ethics-and-ai-law-asking-hard-questions-about-that-new-pledge-by-dancing-robot-makers-saying-they-will-avert-ai-weaponization/"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
   name: Forbes

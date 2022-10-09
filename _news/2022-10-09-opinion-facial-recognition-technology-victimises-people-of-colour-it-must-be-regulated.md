@@ -41,22 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "MPs call for tight federal restriction on use of facial recognition technology"
-    excerpt: "OTTAWA - A House of Commons committee is calling for a moratorium on the use of facial recognition technology by federal police and Canadian"
-    publishedDateTime: 2022-10-04T20:05:00Z
-    webUrl: "https://www.thestar.com/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    ampWebUrl: "https://www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/politics/2022/10/04/mps-call-for-tight-federal-restriction-on-use-of-facial-recognition-technology.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 55
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "PmZSMnZcZZ9rnsW9giVvbkYItFTMHzUj6ma2rAannUgLzgWre+rFw/a8Xiho4n+8vXb29XrHjY9mslz0UHNllg8woRrbMyuwC5jeS0CaLZ8E5kiHlWWm4CKRZ8EB6NywXPWZkl1ALeSx/EpPg7PdgjBRUYai3mdNyrJPNr8oIhQK6MFkiux/2UUVm4pwaeieYaVzlHOUmfEYY3jpuRofS5TSmKl6EsJMSEAgVotYCH8K/TzWlXByZI+y/korpk4+Q8+aErRm032af45JesT+dLa3D+MERKRfmd1PE6D2Cw8iverBlKJ5Fz6HAL+ea8/QMb0r0PpdmTcxrjY2RwjOWa5r6dloa3auECAxS1AJqo0iCq6AxmG2sWQ94fb2kI16oLyi64tJMjfTgFqQ7B1vvRleUU8WmupowU9JBV+2sKSTzfd6hNUlkcA1lTI6KVQWkKtSUPOmhd6vkhq4++V3hhnln80QWdWR8yKd4zjVFrW6ClMHLJ3DweD50tfUimnQD5FvR2UfD5DSgyPSjO01VQ==;RR+p+Sp5awvHv6K05zz9OA=="
 ---

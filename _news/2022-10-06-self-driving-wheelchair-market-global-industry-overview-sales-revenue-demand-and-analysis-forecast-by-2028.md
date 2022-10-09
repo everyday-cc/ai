@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 142
+heat: 132
 published: true
 
 provider:
@@ -86,15 +86,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in the Telecommunication Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The \" Artificial Intelligence in the Telecommunication Market \" is one of the sectors with the fastest rate of growth, it is crucial for market participants to thoroughly research the sector beforehand."
-    publishedDateTime: 2022-10-06T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
   - title: "Speech and Voice Recognition Market Opportunities, And Industry Analysis By 2032"
     excerpt: "This detailed market study done by Quince Market Insights covers Speech and Voice Recognition Market growth potentials which can assist the stakeholders to understand key trends and prospects in ..."
     publishedDateTime: 2022-10-06T13:50:00Z

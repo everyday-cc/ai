@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wpbf.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.koco.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.koco.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.koco.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-koco-com.cdn.ampproject.org/c/s/www.koco.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WPBF
-  domain: wpbf.com
+  name: koco.com
+  domain: koco.com
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 676
     isCached: true
 
-secured: "1nUg1bkaBl4WnR0mlBaUJGYrlrrV902ZQh0tvyefidY7xvbDBHcEPGblTp02Rqx44eNqBbc+hztrtm1iJHVdGSFu7KwASvU1MqnCwyPQCHQjaRhrGdodN0uWEoUEgqcs6Btc4cwBH/MPO4eeIZKqU+X/mZdLuPrJ4HrQzyBxo2HVtBR5QV/qiiG7VauVHvirWyvJg46cZqYrN56qs8IKuJJ5nA32yrU/3HmxgrxD87WfHecsqCd4Ur20Wi54lrv4fOxYmR/RzBz1yOxCvWYFkdMV1ayT+CAzrP37MhrDXuyOig4ftZhZGY/SmxjeLQExhTMA9c03GZZh8EcZWo1UwY5bJ5aDLeB6wHfX1SOROgeNmxG/UF4hgCj1LyOETDDE7m8DkcOwuKJ9k4TgVDsnwtUpg/jbHU7tce0nodPv88izB//8KZQTUck787LXS7HAeZxCUrxjorpY2zzVo9KjM/ZyIENSHjuoQfOqqPch78/ZafYw7A+6SkZJh5VDa3bFiLjOqIUjrQEGgCKUxiVqvw==;KroYjzaNz//EHlYGjdFMkA=="
+secured: "DcqOaCpccm9U2y72R1fZ+ifo8j/gtOa9ouFN4N+IciAZfhJJgc5EXeS3BxF8FAiKN29tZguok9Lk5pHoyNRiwYXl3h4C8xEIxsU8pYnEYX6S8O8GvsVlNBOBPmZ4QhQ8N1pnItle/bLrMNfDQhSgsI9L6hXsX5XT7lk9f6xehtGP89+FuDloVS5Qze6SFR9rhSqDJBXnPA2cOTwV8OyztpIT1bL1PMVlaC8bAUx7wNKYK37qa7PFsIciVfJF5YFheDQ4KqMqKLlcZ9SfYbxl0BBJ6wtQlpyKNSWBBTyBSnulVr8rcU+Hbyabm9Bt93Bk4nHuRTY6NYJgukUGd/sixMcCMmJQ7LjsoeRNUplivKA=;ez5DCT7PNKyfvJTbSPwFMA=="
 ---
 

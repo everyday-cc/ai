@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-09T12:00:00Z
 originalUrl: "https://www.defensenews.com/home/2022/10/09/task-force-seeks-lighter-javelin-missiles-robot-dogs-for-infantry/"
 webUrl: "https://www.defensenews.com/home/2022/10/09/task-force-seeks-lighter-javelin-missiles-robot-dogs-for-infantry/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Defense News

@@ -35,20 +35,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stanford AI researchers develop new algorithm for more inclusive content moderation"
-    excerpt: "Initiative developed and published their findings on jury learning, an algorithmic approach that aims to improve content moderation"
-    publishedDateTime: 2022-10-04T19:46:00Z
-    webUrl: "https://stanforddaily.com/2022/10/04/stanford-ai-content-moderation/"
-    type: article
-    provider:
-      name: The Stanford Daily
-      domain: stanforddaily.com
-    quality: 33
-    images:
-      - url: "https://stanforddaily.com/wp-content/uploads/2021/08/Screen-Shot-2021-08-06-at-12.19.07-PM.png"
-        width: 476
-        height: 283
-        isCached: true
   - title: "How can AI help create better algorithms?"
     excerpt: "AI is taking the world by storm and is here to stay. Explore how AI can help create better algorithms in Math in this post."
     publishedDateTime: 2022-10-07T11:08:00Z

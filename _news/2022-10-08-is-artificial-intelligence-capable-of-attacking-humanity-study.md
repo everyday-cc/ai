@@ -8,8 +8,8 @@ webUrl: "https://www.jpost.com/business-and-innovation/tech-and-start-ups/articl
 ampWebUrl: "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-719001/amp"
 cdnAmpWebUrl: "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-719001/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

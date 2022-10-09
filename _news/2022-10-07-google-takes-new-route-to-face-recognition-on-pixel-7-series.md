@@ -43,15 +43,17 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-    excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-    publishedDateTime: 2022-10-06T23:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+  - title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+    excerpt: "Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the Alphabet Inc unit knowledgeable about the efforts. We apologize ..."
+    publishedDateTime: 2022-10-06T23:43:00Z
+    webUrl: "https://financialpost.com/pmn/business-pmn/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+    ampWebUrl: "https://financialpost.com/pmn/business-pmn/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/wcm/fdc120a6-df2a-4a35-8953-4e91e260d8a1/amp/"
+    cdnAmpWebUrl: "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/wcm/fdc120a6-df2a-4a35-8953-4e91e260d8a1/amp/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
+      name: Financial Post
+      domain: financialpost.com
+    quality: 36
   - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
     excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
     publishedDateTime: 2022-10-07T11:59:00Z
