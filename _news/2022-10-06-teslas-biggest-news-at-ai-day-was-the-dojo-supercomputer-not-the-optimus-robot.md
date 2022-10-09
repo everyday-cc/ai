@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-n
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamesmorris/2022/10/06/teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot/amp/"
 type: article
 quality: 118
-heat: 138
+heat: 118
 published: true
 
 provider:
@@ -31,31 +31,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Robot Wars: Tesla’s Optimus vs. Boston Dynamics’ Atlas"
-    excerpt: "While Optimus had been built from scratch in a span of eight months, Boston Dynamics had spent years perfecting Atlas."
-    publishedDateTime: 2022-10-04T12:30:00Z
-    webUrl: "https://analyticsindiamag.com/robot-wars-teslas-optimus-vs-boston-dynamics-atlas%EF%BF%BC/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 56
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/AIM-Illustration-1.jpg"
-        width: 2240
-        height: 1260
-        isCached: true
-  - title: "Elon Musk Unveils $20,000 Optimus Robot at AI Event"
-    excerpt: "Musk still has high hopes for Optimus, saying it'll someday find its way into manufacturing and maybe even make \"a meaningful contribution\" to artificial general intelligence."
-    publishedDateTime: 2022-10-04T12:02:00Z
-    webUrl: "https://www.extremetech.com/electronics/339995-elon-musk-unveils-20000-optimus-robot-at-ai-event"
-    type: article
-    provider:
-      name: ExtremeTech
-      domain: extremetech.com
-    quality: 34
 
 secured: "BrfoGeVi9L6WT/cFlAa17RtljvLQ/2amwoiXmR4rtoMxTisejlBcWkRQG2R9czYlTiVHyS6W4g/6RSdG4Jd0mz2JdeN7Cx/sry66qhP6pDQ+Uk/b7uQAsV37EixxXYGYBDnUqEZ+naWqU2y6s/CIKsSTg8Z6andzGDSJHYoVVX8q6vVgYdSDjnxchl/EcYypblAjQYJP6x0ur0yvTBz55APTUuDls+MBo4jhIrAWZuOqw3m7Da7KsEPfkhddwmS3NN5po2Xz97yPSMB/hyjvgIyz2sTVCP3qJnWNY8ZX0F88re5d8wQ0GHRSR6OOXxEn+J5Q05gEgrciotZGsHtfPvOsbULcOk8QJNEliJtjOl8xZpJySljUBP1DIidfF6mpt3h6NPvY+d9ZNgceXUokCE+xyGirx7q5vQsvVkDDkwOshzWBF8If4ruPbBuzOiqekS3rxcZYVwm9OU+A3PDJQPx+CjdfiMeZV1FmIHPm+2cAeY/kmxwwuXilRw80keDL6Sg9tNwEE73PtQcsDYYTPw==;QN6WXR0mx1snSIr4zqVo2w=="
 ---

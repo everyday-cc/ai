@@ -10,7 +10,7 @@
       "originalUrl": "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacing-bumblebees/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -786,7 +786,7 @@
       "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1019,6 +1019,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-05-indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend.md",
+      "title": "Indian fintech spocto wants to make it easier for UAE banks to lend",
+      "excerpt": "Dubai: Are you having trouble convincing banks to lend? Or offer a bigger credit limit than what banks are willing to extend? An Indian fintech that specialises in credit risk mitigation is ready to help you and the bank meet at the halfway point.",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "originalUrl": "https://gulfnews.com/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/10/05/STOCK-FINTECH_183a7250183_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878",
+      "publishedDateTime": "2022-10-05T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-elon-musks-tesla-bot-isnt-as-stupid-as-you-might-think.md",
       "title": "Elon Musk's Tesla Bot Isn't as Stupid as You Might Think",
       "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
@@ -1123,7 +1166,7 @@
       "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 247,
+      "heat": 227,
       "tags": null,
       "images": [
         {
@@ -1168,21 +1211,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
-      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
-      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
+      "path": "_news/2022-10-05-opinion-facial-recognition-has-a-race-problem-can-federal-law-help.md",
+      "title": "Opinion: Facial Recognition Has a Race Problem. Can Federal Law Help?",
+      "excerpt": "The powerful biometric surveillance tools used to identify suspects are up to 100 times more likely to misidentify Asian and Black people compared with white men, according to a 2019 National Institute of Standards and Technology study.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
-      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "webUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help",
+      "originalUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://erepublic.brightspotcdn.com/dims4/default/cfa992a/2147483647/strip/true/crop/3000x1564+0+90/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F3a%2F15%2F005b90464496b2aea33679821d02%2Foped-facial-recognition-commentary-get.jpg",
+          "width": 840,
+          "height": 438,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1190,23 +1233,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "publishedDateTime": "2022-10-04T15:14:00-07:00",
+      "ampWebUrl": "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true",
+      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true",
+      "publishedDateTime": "2022-10-04T16:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Government Technology",
+        "domain": "govtech.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1217,59 +1251,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
-      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
-      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
-      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
-      "publishedDateTime": "2022-10-04T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

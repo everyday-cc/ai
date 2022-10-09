@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Artificial intelligence may improve suicide prevention in the future"
-excerpt: "Machine learning algorithms could be more accurate and reliable than conventional methods of predicting suicide risk."
-publishedDateTime: 2022-10-05T21:08:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/967008"
-webUrl: "https://www.eurekalert.org/news-releases/967008"
+excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
+publishedDateTime: 2022-10-05T20:14:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
+    width: 2880
+    height: 1866
+    isCached: true
 
 related:
   - title: "How Will AI Technology Change Leadership In The Future?"
@@ -29,6 +37,6 @@ related:
       domain: forbes.com
     quality: 47
 
-secured: "w/vpNEsbHJUt5YszpZDxxVT18O9gpUCW4r9t4GdEl9XeU8sSYyTBJUGRYRX7N+l7WO2dZjlDkDVFuYgykIw4QynTacUARj5i4plp6Vrokd3L3wZ8FWf9NN/o7Yxn+lXZt2pPlHLp/+bd6cPcWRWjVhfZ6FMebjMoziEtlGqWJVz5GYggjLDo20MtfH+yoMS+8IcMHZ3XAbqCv6S0QtvcDpjB68R9U/fTbCoUw3kJzzXkLXrnergwTQFTM7esO9fpA5SRoFFFTk2/dxCiQoefP9cVgUtBXIL5cMFkorZlP37bDypH9rwgtLHmxwgaCW+N7Sp5YRryUyeJ7qwBRFkxAItVzWZmzxqrFpL5OFEalAk=;3O24Ajamd2jYPhscFAuQ8A=="
+secured: "Gz+83I2aos8LcsZVgB51EWT15G4bnvXdCS0T2d/5J39WBvkQJAqQJOiqTmL0y+7QPyJ6hmxfmcBEuZDQyThEcn643xrUtEtnlC4Fo9ea9cfQn1wN/lkB5sRUgkJWaXCRBjGNxFw9oUSkapEuIxk+NjMBlDGUh4ds/PVJvkNruwG0S8SilKg4/I42XaUn8GZ9iDakUW7DQ7rg8m7KYGDgLMJA+zJSlSZWXo5+yRmA3HESlM53Vc+92oC3/HxrwgAKev7Sqon+POMtjfyQc1DmiPAR0DjNE4GDGtSMsQxczjpaZmg9Zc6KalhDrX3gyv15F9X8F0awRKAPRnygM5FQZk7Ry9v4eAcnk/hJNLQkXyg=;JWbT3yXBP5kSg1api5os8A=="
 ---
 

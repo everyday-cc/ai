@@ -9,8 +9,8 @@ ampWebUrl: "https://www.globalbankingandfinance.com/robots-are-making-french-fri
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: List of Banks in Belarus
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot That Makes French Fries \"Faster\" Than Humans Developed In US"
-    excerpt: "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods."
-    publishedDateTime: 2022-10-04T11:43:00Z
-    webUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602"
-    ampWebUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Robots are making French fries faster, better than humans"
     excerpt: "A big robotic arm like those in auto plants – directed by cameras and artificial intelligence – takes frozen French fries and other foods out of a freezer, dips them into hot oil, then deposits the ready-to-serve product into a tray."
     publishedDateTime: 2022-10-05T12:39:00Z

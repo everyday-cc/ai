@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
 type: article
 quality: 76
-heat: 76
+heat: 78
 published: true
 
 provider:

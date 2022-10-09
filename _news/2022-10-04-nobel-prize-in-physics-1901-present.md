@@ -41,20 +41,6 @@ related:
         width: 1400
         height: 1050
         isCached: true
-  - title: "‘Spooky’ quantum-entanglement experiments win physics Nobel"
-    excerpt: "Award goes to three experimental physicists whose pioneering research has laid the groundwork for quantum information science."
-    publishedDateTime: 2022-10-04T11:04:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-03088-7"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 24
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03088-7/d41586-022-03088-7_23568798.jpg"
-        width: 1024
-        height: 576
-        isCached: true
 
 secured: "V5T0VN0niWlYI4+Q+AmeXDW9vEqqXeGSwM05vhdelDu385YiMjEonJM2Oq65FpukyZfIpg0zsHY/ogqvYjphlB1Vp0VYUCstA2Fe2t3Zm915/DnyGgeaBJs9fUZ/Oez6zJdYk3U7vpJAoyK5p2Pa3OvnvczBAe3Dfq17mvt1ecnkgp02PZY+1kp9eoBg/UWINittlCqxEVy0x6XwCz3bPJYS+2vEwBAxS/58OvK3V2lOCwmtrNoa73yrudRA39KDvtkHohyKi1dC8FmzZVpFc0WhOtFkIXCqY7FPMCFlXWmrISTPbYe9NGt067JfNdixgeBvJjYwI56rF8HvWVZsII257CeAl4S8uPdKBGv75KQ=;wHJktZZVLXXxYLLFDkX8PA=="
 ---

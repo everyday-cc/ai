@@ -25,21 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TechStars CEO On The Future Of FinTech"
-    excerpt: "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology."
-    publishedDateTime: 2022-10-04T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
+  - title: "Indian fintech spocto wants to make it easier for UAE banks to lend"
+    excerpt: "Dubai: Are you having trouble convincing banks to lend? Or offer a bigger credit limit than what banks are willing to extend? An Indian fintech that specialises in credit risk mitigation is ready to help you and the bank meet at the halfway point."
+    publishedDateTime: 2022-10-05T07:38:00Z
+    webUrl: "https://gulfnews.com/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878"
+    ampWebUrl: "https://gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/banking/indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend-1.1664955501878"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 835
+      - url: "https://imagevars.gulfnews.com/2022/10/05/STOCK-FINTECH_183a7250183_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
@@ -57,54 +57,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
-    excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
-    publishedDateTime: 2022-10-06T16:38:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 36
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Shaking the money tree: How big banks need to adapt to tackle fintech rivals"
-    excerpt: "Core systems in large financial services firms are often decades old and rooted in complex, disconnected legacy systems."
-    publishedDateTime: 2022-10-06T19:26:00Z
-    webUrl: "https://www.digitaljournal.com/business/shaking-the-money-tree-how-big-banks-need-to-adapt-to-tackle-fintech-rivals/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/f62b678c573c25a7e0aee09f55e209876d62a0a5.jpg"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
-    publishedDateTime: 2022-10-06T12:52:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
-  - title: "Japan’s FamilyMart branches out into fintech with instant credit"
-    excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
-    publishedDateTime: 2022-10-07T06:03:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/07/japans-familymart-branches-out-into-fintech-with-instant-credit/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "B9K/BomH5ANFv0mmt76hJ/BzBh/LZjDvCrtIK5M9b7liSQKeIpF1ehyv/K9XaIc+gcxT8+bYZorU9R4aC0CHZECq9T1cAZ5uNQ4etHeNtl0lyyP4KnMKO8+uFMRHywLrUsIrSGnBtJUrduZW9GfstjS31YtfkCinf/wh1L/eQAh4voCsbrN/nTllsIO62SdkqpYdtLrwQQhpYTzAb6vUtDelnPaMrX3kQOEd+cst/NWD/WGISJYwrpYQ3BdsGwR0zUZ7CrroIg9uOix0yRnPokhSSlT6b18UZhtWz/IQWs+vNZAM0hNH5vlOrTXfwBs7je0avhuw0XI9jSF2jvtXGSqXfBx23O3PP0YsRQaU34s=;OyR8Emwk5ZslqOZdVzgUtg=="
 ---

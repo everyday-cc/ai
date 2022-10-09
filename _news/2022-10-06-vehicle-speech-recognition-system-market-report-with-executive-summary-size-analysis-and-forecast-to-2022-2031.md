@@ -37,15 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide Artificial Intelligence in Diabetes Management Industry is Expected to Reach $2.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence in Diabetes Management Market is estimated to be worth USD 590.32 million in 2022, and is expected to reach USD 2,235.15 million by 2027, growing at a CAGR of 30.51%."
-    publishedDateTime: 2022-10-04T11:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-the-worldwide-artificial-intelligence-in-diabetes-management-industry-is-expected-to-reach-22-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "9iNdc0rVWTI7Ac6H8J0Taas93cZyhqfVZt//nS4pO6SPA6HDs4hGvVeRh1hm1GnFSV7Tqdb9y52MstgjT2NC3wkLBjp2AjehXMWnlLxo4qV6UOtIDBM25xP+Enbw3ikRgfi4hlwhVcCMaCo0XTyDGiiLGz9PZtZ6eQTYBW+6JI/Lp9YnhdOPOPFiUyEstbxnwAI0pbMpyWCxtri612uDdhIxCSiBgSr87uS9/RIFpIjsPPA96ydPjyjLZeP+rRwLanSpdmzYXEPP6n/cAVHjueGnPNuInkkoCQgQ5n6J8KbGK3Z9ONK+VGYV6feHNP8XgNljyYTuqa259Yy3eW9nb4gAgUI6dkLg7k22JFUEig0=;GIWcyqLTc3rUoFUwTWwg7g=="
 ---

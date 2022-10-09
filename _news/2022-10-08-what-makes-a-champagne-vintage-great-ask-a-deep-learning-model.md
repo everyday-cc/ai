@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

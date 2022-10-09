@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "TechStars CEO On The Future Of FinTech"
-    excerpt: "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology."
-    publishedDateTime: 2022-10-04T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 835
-        isCached: true
-  - title: "12 Best Fintech Stocks to Buy After The Selloff"
-    excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
-    publishedDateTime: 2022-10-07T14:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 44
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2022/02/06120506/man-791049_1280.jpg?auto=format&expires=1696636800&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
     excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
     publishedDateTime: 2022-10-06T16:38:00Z
@@ -73,38 +41,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "India’s fintech unicorn Yubi makes UAE debut"
-    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
-    publishedDateTime: 2022-10-06T05:39:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
-    publishedDateTime: 2022-10-06T12:52:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
-  - title: "Japan’s FamilyMart branches out into fintech with instant credit"
-    excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
-    publishedDateTime: 2022-10-07T06:03:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/07/japans-familymart-branches-out-into-fintech-with-instant-credit/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "3FsRNitb4U1q+hEQ2YzQQ18/Yd1nm2jPcPmIMfWwzfYpBO9MQThVLMSpuaK5uHGasGKAYVLIMKAKzvg+YMBzBn9CvFABLRI3birvVAkAFEC/9ViD4KSV/P7R42clWpRnn5jtwLUS7s0YscO+wTxyrzbNTKyN+7UpxblVZVQtsVrJywZUfH6ah5I9w/huBYYkgQ+7Hdo0YYYPVIyzKQj12sm7J4rhgLYWTKiZrZlckyQCGj/Zvq+RK5Iw9MaMBGcdsOB7oixYaEkm0DWx9D4hQhYLNRkanItUo4qXvbw2J/JimkRa9l+kR6wxVIB0kjDSBToX4r2nc/RjTJlQt8QnyT2qLQjmgFr42A9zR6+X+BErHS+RNq/5jN0pZP2YtPukioU6q+8mkQtUHF2l8Pb6rQ6xDLyO77zxrnRBx29GU9z+PqB9R6V8JdYqoG/ONuPvmvflh2IyDyRLe0389Qr8DbpjVahGnV0BnEPq1CVtcydM8GEZNEDuEBGxiq6H2pA1BUmo+N+dvqFBnkvCdMY5+g==;cnFR50yyFthw3T+BC9GF2g=="
 ---

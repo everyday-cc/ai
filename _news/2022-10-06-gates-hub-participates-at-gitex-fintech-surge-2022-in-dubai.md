@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participa
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 540
     height: 405
     isCached: true
+
+related:
+  - title: "Gates Hub participates in the largest fintech event in Dubai"
+    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
+    publishedDateTime: 2022-10-06T12:52:00Z
+    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 19
 
 secured: "u1fQtc9wcUZdinlg4FLm98KrNUdXveO93DUJbEFif79vjGqQQpnZODMjVYG4EvsQGzCbKtdajpoK2CQpgiYfEt4vP5oDgEw9jDhscdqpbDyPCqCkpfykDATKCdTWakUPQZEgTk1otQScM8oOSZBi4gUTkDeg66fTL4qTTw2WlRv/j3uUMx+/3I1/MlDAeyF4IsliILw51vLMjTCo47ejGevaudkVdq59fXIkUctslBtpl2xuUVXhB1Z2ppFSDJeY2AGRM49G/QceNrm7B/FJ58rQBEIOhz9d6T6u+Hcd0uxSsiiiXQ3RNaxoXv54umienirX4/hprVTaisXaRBrnxd3Xz1ZvXpCXEnkn+X8w6yjsPaeH3PEQt6FEpdfl1W8V9dl5OhvIdJTZZouNtGaZhj6AOACNaMivOrkLDOENZSieH+znz3EiYZBS7bhe6ucXeOApq4pNlzsjMOaG+s3afFbqQUB7datGJYByOVVxaiZBcK+5xysciFQUXfSB/za4ImNMakOSeESEgksI9dnzFQ==;sKPkjlkTKC7U1VvnGuYKTA=="
 ---

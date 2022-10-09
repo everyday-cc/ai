@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot That Makes French Fries \"Faster\" Than Humans Developed In US"
-    excerpt: "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods."
-    publishedDateTime: 2022-10-04T11:43:00Z
-    webUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602"
-    ampWebUrl: "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 59
-    images:
-      - url: "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Robots are making French fries faster, better than humans"
     excerpt: "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,"
     publishedDateTime: 2022-10-04T14:43:00Z

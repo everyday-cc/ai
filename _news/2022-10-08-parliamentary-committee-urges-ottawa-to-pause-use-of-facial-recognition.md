@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/parliamentary-committee-urges-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/parliamentary-committee-urges-ottawa-to-pause-use-of-facial-recognition/507193?amp=1"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.govtech.com/opinion/opinion-facial-recognition-has-a-rac
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/opinion/opinion-facial-recognition-has-a-race-problem-can-federal-law-help?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Government Technology
@@ -42,6 +42,20 @@ related:
       - url: "https://www.thestar.com/content/dam/thestar/politics/federal/2022/10/04/ottawa-wants-black-class-action-discrimination-lawsuit-dismissed-plaintiffs-say/ketty_nivyabandi.jpg.size.custom.crop.640x360.jpg"
         width: 640
         height: 360
+        isCached: true
+  - title: "Opinion: Facial recognition technology victimises people of colour. It must be regulated"
+    excerpt: "Law enforcement identifying the wrong suspect isn’t new. What is new is how police make these kinds of mistakes."
+    publishedDateTime: 2022-10-09T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/09/opinion-facial-recognition-technology-victimises-people-of-colour-it-must-be-regulated"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/07/1767148.jpg"
+        width: 1240
+        height: 826
         isCached: true
 
 secured: "Zp9LkyzIx4RT7e5lahZaNoLvNgquSL2NsjcxZJO3T1LvUEz67cWXgxyrblf7n8zeEGTD3XdTCzqdRWQ7DEYcCdn9wgRhvvl8sJjVsbhmNndnZ+X5Cqkz1rfT5FoDwuZj1iyQV54T8kd2bKaZkSZbHuz4Mwipqpt6BkkIqKYBWpfL0743fJDf7Ft8oUemjFpVZpFP86IkuO7SU7RoGva2+9cxoPj66oaa2cLqJ8dOLX9EcODQH5NcVnubCA3MSWaaZQfRHT2pIpMyfHRJg1R+UzVT+rkMAMnhuxhWJQbpyy44MEGy9LjJ6nTIaG4XZCoFqmZCKdDCnIS52009Dx0QJM6VB15CnM2b4owSZikeAcEV6zXvFX816TDfvtj3x2ao2fgJexvY5tQJpLrm6xCwsBBdr9umI8Zst9HrfOR5JbMYn22KxUZCCiP6LNxL0n9qQ7JXvrM31ZUBP30UA6Q6N/BZKAJFtiPNVySV2Ujt6VtDvwlNmCmAR86s5y3QA9qzPqpDz5hiZPC02drJvj6pZw==;A3RfdHU43mXW+nhQclfrag=="

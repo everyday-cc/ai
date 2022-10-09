@@ -168,7 +168,7 @@
       "originalUrl": "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacing-bumblebees/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -254,49 +254,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities.md",
-      "title": "Big Tech seeks to improve speech recognition tools for people with disabilities",
-      "excerpt": "Tech giants including Apple and Google are working with university researchers to improve voice recognition tools for people with disabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
-      "originalUrl": "https://www.euronews.com/next/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/07/08/40/80/1000x563_cmsv2_3ed84625-93c2-5d23-bb0f-a54a87147087-7084080.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities",
-      "publishedDateTime": "2022-10-04T07:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {
@@ -1505,6 +1462,59 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-20-how-tymely-combines-nlp-and-a-human-in-the-loop-approach-to-improve-chatbot-conversations.md",
+      "title": "How Tymely combines NLP and a human-in-the-loop approach to improve chatbot conversations",
+      "excerpt": "The report further showed more businesses (44%) plan to invest in asynchronous chat experiences to manage customer responses and are turning to artificial intelligence (AI) tools like chatbots to ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
+      "originalUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/04/chatbot-customer-service-shutterstock_664204579.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-tymely-aims-to-improve-chatbot-conversations/amp/",
+      "publishedDateTime": "2022-09-19T21:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

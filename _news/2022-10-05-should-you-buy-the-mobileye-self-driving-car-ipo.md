@@ -7,7 +7,7 @@ originalUrl: "https://www.kiplinger.com/investing/stocks/should-you-buy-the-mobi
 webUrl: "https://www.kiplinger.com/investing/stocks/should-you-buy-the-mobileye-self-driving-car-ipo"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "This Rapid-Growing Self-Driving Giant Has Filed for IPO"
-    excerpt: "Today's video focuses on Mobileye -- a leader in advanced driver assistance systems (ADAS) and autonomous driving technologies -- and information from its recent SEC IPO filing. Intel (NASDAQ: INTC) acquired Mobileye in 2017,"
-    publishedDateTime: 2022-10-04T12:01:00Z
-    webUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo"
-    ampWebUrl: "https://www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/this-rapid-growing-self-driving-giant-has-filed-for-ipo?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "FCgCVrw2in+1S5hX6Me9hmcjw+FJiFXKUx47Y0zNgQvdUoUK6dWxzMcakPiTxhaaFJPX9laZ6h3HFi+l6/NLtCJGPu2sTjJJqa1KbUHeyDwEcrdqAW0m+nnWksF98LI5oPfbRwqtu9FLX0wWq9GaMSDSf1AtNXUbiENn1BYUCe9M07suopK550QYyNsH9bK83ytAaUdEiupc7E8wo2Q+8FGiYbSAsr3VtFJBpShCr7FSJPOlv2pesq/QMcvtUwO/aMg7YGCBpKFDaSNyjRxzLY2E7BDyFwF9uaxX0ZSE5OeRS4Z/79/jp2pW4BsBxs5R2hKjoA2BenzYqDmG/1fnCS7Lser5gVcCCzSkbV6Mwa2S/h5kFrPb2s0qSzX9Y43rOzo3ixjUUIsmltDmIULloVaWFdPh9Q3aHvhlgFuZ2n8PrG+/Q9UoUzNG/hXZThTNgNuVS9robS5utDFyC4OnnrnwOs+FJIvW9kKV1Ro+g6OOkMicdmPSl9Nnrv5q3Pc6e7YRMdeRm3UIysNTa1hsXg==;mxGMbB97FrPR1Cw2WrF4IA=="
 ---

@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "AI Is Making Its Way Into Drug Discovery. What Does It Mean For Biotech?"
-    excerpt: "Artificial intelligence may unlock the ability to find cures for diseases that have evaded the scientific community for centuries."
-    publishedDateTime: 2022-10-04T12:46:00Z
-    webUrl: "https://news.crunchbase.com/health-wellness-biotech/artificial-intelligence-venture-drug-discovery/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 38
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Biotech_Privacy.jpg"
-        width: 900
-        height: 506
-        isCached: true
-
 secured: "y+FYY9d+zWauXf4plf+fGqinkuophxzr3mzJL1jlVQEoauglLoxSBRzVxKi80zKS8Sf5EXoIh05hgRNFGZVmriUwoFSwLiNN9BatDI/eLxfWfvgBtYUpLfduKDqah+1vZIF94AitIugcaW/Y1QpuvNqHVpNRUiKA1/kL8SG+QXwuTzn/K+6mZt154OsiLFzqGSS0DAz/K0c9hlrumE3tQVqO3CXVtX+CNXWwLZDMc0TbASpoiRyZ0Cs9SDVd4cOqv6vVe7leU7qUffzwN4Aia3F3q8S0cCWJgt1KAHzuShMySxNp8+HLA/r+4ixEgNm7K390+ajnxmg2tjMT8P+XD1Pg20MO8JEU62nUrChFzyPor5nzWNDBBjs2+rrDKzFGnwasYYkCP/2GTlA5FH2txSd4e8tHCaSeCgt7ikDW5H366njDpbP1mwdSVGcWApxt3SfRNjoCu4B7LAfLIsGgYbULWL0sC+GxzkYY/EcfOslt7ynJV65k21C0G8IOI82Jzl1Ey9I1zxaA3FCzEWIH2g==;1wksHGH1aiZFmPCFSaLR8g=="
 ---
 

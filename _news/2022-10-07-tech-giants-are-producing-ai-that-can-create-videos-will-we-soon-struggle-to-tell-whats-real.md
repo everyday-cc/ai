@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Meta unveils AI tool that creates GIF-like videos from text prompts"
-    excerpt: "Facebook’s parent company released a slew of short videos based on text prompts, building on the recent developments in text-to-image artificial intelligence creations. The videos are created by an AI that learns what the world looks like from text and image data that is paired up."
-    publishedDateTime: 2022-10-04T12:25:00Z
-    webUrl: "https://www.euronews.com/next/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
-    ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
-    cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/meta-unveils-ai-tool-that-creates-gif-like-videos-from-text-prompts"
+  - title: "AI can now create videos. What happens when we can’t tell if they’re real or not?"
+    excerpt: "E but for video — text-to-video AI models that can create photorealistic, coherent videos. Artificial intelligence (AI) researchers are showing off the technology’s latest leap forward by demonstrating models capable of creating realistic,"
+    publishedDateTime: 2022-10-06T01:05:00Z
+    webUrl: "https://www.crikey.com.au/2022/10/06/artificial-intelligence-ai-facebook-meta-google-text-to-video/"
     type: article
     provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 59
+      name: Crikey
+      domain: crikey.com.au
+    quality: 34
     images:
-      - url: "https://static.euronews.com/articles/stories/07/08/34/06/1000x563_cmsv2_0b7f99dd-8476-535b-ad97-ef7a34a5cb31-7083406.jpg"
-        width: 1000
-        height: 563
+      - url: "https://www.crikey.com.au/wp-content/uploads/2022/10/New-Project187.png"
+        width: 740
+        height: 400
         isCached: true
 
 secured: "sIKELJl7VnlhthCJbygU/rlEppLpfCiR8FditLx34XyvciCvSQqRLvOKdV7rcbqlURULSaEUTQpAfTFKB56axbgjV8nW6O3TKszdbaEFVwxMEMHhv4j1MksmmlZRsyJE3j8yWT2nX78Q29BaxnjU58GGBM/d5hqma+NfchepSOuxK9ZUmtGZS0s2/QEJDFA8tk+/vLnnoTXJZ2r1WIhKvnE/dClL5baGMfL2tMDEMcNJTOEMi+MJrRSkEgpXj06PIxvK4BDUUbl2IO1DpoyNbFyMktCUGf+EWMxD9DIza5zLzgDkCYo9a6nAmp5EqI3ufefDF+B2O1aeJu2+VGEuQVSvP8C56gvFS/fsWLBOmP9Dl4v7uHo9TKh/rh87G97XQu1/WCAVrxzxrL8+AirgXXBZF/YusPzD/Kn4LPBj0S0bbT6mF8nLEY5Lac95QuuKzrl7mJfbTGYWr89SK89nvlzbA3lPUMZwmxEZgwCS0st6T2A+vvwcgFtHLzpXE2DwANFJQ7Ujl0bHRf6KxB04iw==;ixmGKONp4pWdjrN3EZU7fw=="

@@ -43,20 +43,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
-    excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
-    publishedDateTime: 2022-10-04T11:08:00Z
-    webUrl: "https://mobilesyrup.com/2022/10/04/apple-google-supported-university-of-illinois-project-to-make-speech-recognition-diverse/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 24
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/Speech-Recognition-header-scaled.jpg"
-        width: 2560
-        height: 1434
-        isCached: true
 
 secured: "4z4Ti7pclAlKf7jd52RtEbvsfcnJ6kBHIJPIJ7QfAmjzM/WtYEQCl9I5CIEY/q+DE4ZlxMVYfYk1sMb/kysTMmF3UZEwknwvTY05uUmolxqW7g67ZSjpDjPWAVpVS4Teif/YsM1qekgVnOqN9HiffX3Za9iEVOpABi9Am7t6+lG8a/AJZOZol9lTso/uyV1jVZL7k1iJNwnJ9XbzkJk5S/pIjkFURosOTgTVWN7CPyEtsl9CCGqgHAs6s9O3TSK86e7TwEpWAs2fU/iI87mcf7S/7RD0iFtkLruvrzXeo4Xz9uYnilvmivsH2hOQbGpMCiuyW5+gF16YRDE/5cCfhqn7/Li1IHYxZ0kMCFyuCjJGQe71fy0cQoMIb1EF1rG3uslgbBGzbjqW4ek2bRDLH46J6Je4QHzuNzRcFkXBW71F4us+tx4iXyRCmgOw1gZyEjoA+JhDVuULLZShztCGOakV8XrlUCNY9KTccmBrEw79yH0DPNptOICSuyCCYz65zCZLyfd1D+jtQ2MxNQ3Oag==;NWfgiKi2fJQJyFXfsOehsQ=="
 ---

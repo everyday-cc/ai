@@ -43,6 +43,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Opinion: Facial recognition technology victimises people of colour. It must be regulated"
+    excerpt: "Law enforcement identifying the wrong suspect isn’t new. What is new is how police make these kinds of mistakes."
+    publishedDateTime: 2022-10-09T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/09/opinion-facial-recognition-technology-victimises-people-of-colour-it-must-be-regulated"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 30
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/07/1767148.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "eIC83mZD50jnc7DBM2o8yjW4cTMQO0oSUV6FF3YeW2sqvtsRuUlg8Med/iovO4ZugWDF2SVd/4Q7zHEQ8t7RzDKv9vRONCuqma/d91bJ1XyrYwBpiKVLejKONLGvzFMnIKswqzmf5uiASusSnnFzIGuv98k3vNWxfloYKjP//iZi6d2SjvP/5IFmIkkZpcm/MfDgYX1YcQM1lQrAQLQyUBFTsq36d+TcaG4srf0Dlr3eFAnXeRWs2ZGJInUu3Z/bOTeMNfz2Q+14tb7ye7/L77haBmagJJIx9R5EELTCRBPKRt2vD4zN0SJkjMrA1M+Rx7eACFbJxMR48JPmpSnz/jPUBuQGxCUDhs/gihxpHoc=;kLrp0JNBJCXxyEr3gyXZZg=="
 ---

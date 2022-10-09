@@ -19,91 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "TechStars CEO On The Future Of FinTech"
-    excerpt: "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology."
-    publishedDateTime: 2022-10-04T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/"
+  - title: "Gates Hub participates at GITEX Fintech Surge 2022 in Dubai"
+    excerpt: "Gates Hub brings its crypto and fintech solutions to GITEX Fintech Surge 2022 After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai,"
+    publishedDateTime: 2022-10-06T09:37:00Z
+    webUrl: "https://gulfnews.com/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
+    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 74
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 835
+      - url: "https://imagevars.gulfnews.com/2022/10/06/Gates-Hub_183aca7613a_medium.jpg"
+        width: 540
+        height: 405
         isCached: true
-  - title: "12 Best Fintech Stocks to Buy After The Selloff"
-    excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
-    publishedDateTime: 2022-10-07T14:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 44
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2022/02/06120506/man-791049_1280.jpg?auto=format&expires=1696636800&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
-    excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
-    publishedDateTime: 2022-10-06T16:38:00Z
-    webUrl: "https://www.thestar.com/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    ampWebUrl: "https://www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green.html"
-    type: article
-    provider:
-      name: Toronto Star
-      domain: thestar.com
-    quality: 36
-    images:
-      - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/09/29/the-virtual-cutting-edge-how-augmented-reality-is-poised-to-transform-surgery/_1a_marion_ceo.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Shaking the money tree: How big banks need to adapt to tackle fintech rivals"
-    excerpt: "Core systems in large financial services firms are often decades old and rooted in complex, disconnected legacy systems."
-    publishedDateTime: 2022-10-06T19:26:00Z
-    webUrl: "https://www.digitaljournal.com/business/shaking-the-money-tree-how-big-banks-need-to-adapt-to-tackle-fintech-rivals/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 36
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/f62b678c573c25a7e0aee09f55e209876d62a0a5.jpg"
-        width: 768
-        height: 511
-        isCached: true
-  - title: "India’s fintech unicorn Yubi makes UAE debut"
-    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
-    publishedDateTime: 2022-10-06T05:39:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Japan’s FamilyMart branches out into fintech with instant credit"
-    excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
-    publishedDateTime: 2022-10-07T06:03:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/07/japans-familymart-branches-out-into-fintech-with-instant-credit/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 4
 
 secured: "hCJBp2IGQZN5hBe7X5zIfMpnc6TCJQJlOqKXJGVqXnNbUkCuetuEXOu2b1UMis5K2Djgjd5B8dWBfztK1i81ObduWe3mbKW9SEapA1ujqWVoSEgBNK6PX9FSgpUN79gFeWRMQD1fGJ6zqq1KOdMJf0uXOJHmRNeQTtG48JU1ED5aJp3Z5YS30X/kjDkDmqaMqMgZZgpcUieAmUmP0FqM6lsSW/QAycyy7undt2bL/Xr5bVB+UW43X0m0790z5YGJ4OE4j135qbOSixzu2yEOa4aet2uYQ1sB3G14ByUh384Ck5rbpq702/2Qh3xeMDAzwzKwN7uD5BenjqHlPabKTFsjUyddeLVB6zGNwuINHohHl22yEwRqAQ4W/auyAw8M/nlWNXhCBbDDgR8OuqzUh3YhOypfZsQRkzbog9gmmAVe0oiPVoG5ckicexmlymF1nn82oYlVJxa6mOIefY1f1j+/xJbF3b1Cfhue5f8h3fHy8oZZITrlSBUvm19dcM2Bv4LL23T7XZwP/YogSMq1rw==;oWTyID33gLttxmN0vvIKTg=="
 ---

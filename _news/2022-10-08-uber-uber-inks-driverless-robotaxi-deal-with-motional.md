@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-d
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

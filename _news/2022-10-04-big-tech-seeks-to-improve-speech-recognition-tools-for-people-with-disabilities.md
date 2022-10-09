@@ -9,8 +9,8 @@ ampWebUrl: "https://www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-impro
 cdnAmpWebUrl: "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/10/04/big-tech-seeks-to-improve-speech-recognition-tools-for-people-with-disabilities"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: Euronews
@@ -42,20 +42,6 @@ related:
       - url: "https://www.research-live.com/img/MRS_EM_RGB.jpg"
         width: 1000
         height: 581
-        isCached: true
-  - title: "University of Illinois project supported by Apple and Google to make speech recognition more diverse"
-    excerpt: "A new \"Speech Accessibility Project\" led by The University of Illinois aims to expand voice recognition technology \"more useful for people with a range of diverse speech patterns and disabilities.\""
-    publishedDateTime: 2022-10-04T11:08:00Z
-    webUrl: "https://mobilesyrup.com/2022/10/04/apple-google-supported-university-of-illinois-project-to-make-speech-recognition-diverse/"
-    type: article
-    provider:
-      name: MobileSyrup
-      domain: mobilesyrup.com
-    quality: 24
-    images:
-      - url: "https://cdn.mobilesyrup.com/wp-content/uploads/2022/10/Speech-Recognition-header-scaled.jpg"
-        width: 2560
-        height: 1434
         isCached: true
 
 secured: "JP/5tYe3MlIiqCRB/HqqeBKkfqPsp4tmIxhPpEFwDaZuzuHl9rWMt1o0FqoFRwS+6VOkAxK0NDVyX25HilDv8Jeep/kdmoBNUOh59bJxZOp127YvpNwNja03HGu1SiF+dodXBXNqz3Vd6b/ICTHE7nasnqjgfWiPjjXgX3zcJRjus3wZRKdLi9bTH/R34eBQrowbHMTMcKRF3os4sRDBbFWd43Npd6NUoFg63ek66fNOsVMRSFUHNdBV7IyVpTW3ZHmsPpecO8LGXK7ja6gFrS02UXr4HhQ94P0DhP5LTE0hcrfmB0mF89iq2gonIFgQA1gw/0J2Liv3GkwLsetX1a3whQ2EA7VUXqjmk0/y1pFJZzMpcuMvjJsidqnlr+UZJubQF1X6Ilbik3tUu7nr9Q/Mj9YKn8k35FPbpX3x2lKvuq9lqYMEYTHQjdVmXU797SEMaoUhSwjzKaFeiPxo4MnRIXDXCItAeChYk+x8niKSeEuu3bjjwe+yBCtvzTDI4EJpYzbIW1z+ScTBnIfcIA==;ejqkrsDf/jEYLCVFH1pfRA=="

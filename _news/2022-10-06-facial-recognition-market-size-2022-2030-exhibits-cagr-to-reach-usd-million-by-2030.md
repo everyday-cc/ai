@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
-  - title: "The Worldwide Artificial Intelligence in Diabetes Management Industry is Expected to Reach $2.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence in Diabetes Management Market is estimated to be worth USD 590.32 million in 2022, and is expected to reach USD 2,235.15 million by 2027, growing at a CAGR of 30.51%."
-    publishedDateTime: 2022-10-04T11:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-the-worldwide-artificial-intelligence-in-diabetes-management-industry-is-expected-to-reach-22-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "wIBJUiUtpGSXbqMdmsqXCgX6B/5BZRYVI2EgapmM1Ebbeu5WAhpu0c8WSnmveh+8g5lwWqjFI8vbkgzwsK3stshik8Cv/U2tRNjdeC0Xyu5Jc/DMwCuiQE9YAPZpFFf35OBGnBbVrfSEkoiYJv2ttY5v1WfRdrkoWPfbgliEWmqlRvOLsSGgUz9wMPpRrUIQfpqs8SFISZ8MYU8xcDjcQlSPnTToFTPJLH4+N9H+u5g/tLTF6TjbpCiSQ7ge3Le2InecP+Y+GVherz5xq8iWo1TDU5uZOlJuikfT6xPthDBVPt0auCGIpmGXCfWy8OJyVHHjZ5G5/pVhzwdvnrfGQ8xRNK5b7Gn/n1jrt/pyyeY=;zz3OhgX0rJVSs1nsXyAN9Q=="
 ---
