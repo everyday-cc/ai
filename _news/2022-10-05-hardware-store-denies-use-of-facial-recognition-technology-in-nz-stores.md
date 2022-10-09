@@ -57,17 +57,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "MPs call on Ottawa to tighten restrictions on use of facial recognition technology"
-    excerpt: "The MPs say appropriate privacy protections should address issues including accuracy, retention of data and transparency in facial recognition initiatives."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/"
-    ampWebUrl: "https://globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9176757/mps-facial-recognition-technolog-restriction/amp/"
-    type: article
-    provider:
-      name: Global News
-      domain: globalnews.ca
-    quality: 33
 
 secured: "t+i2qi43nxa+MG3hrS7E/0TxfSYBGUryNoaQZQ4D4Od6832P/8L4GuZ4Azhhx5iiLSCoZ+vAWRkv5rV80+R7+O2Vuyc/DebXUyOx53L21FuF3a1E6doc9PJOsRRoie1bIdFEuW1pncZqhNMwJvPdgs5mAiyeYHZ2wfhkX0SrOvnkuHRQg1/ghstv0l//lWbQz2piVWQwBotp/3gU/96AapyJWCpTDLObX8bDfGYPItGp4ZXHw+reEJICNbSa/4Ftcnyd+L3zNkdF6aXJCM1xRhXGtfArgK02KhE0zw2TYzROKYJ8nmOol/YdBjLkAQPFY3WjHTHObthhp3w45iEbbMtQYIfc5nAwyIlJuIoNfQDp0SCk21DVurgfQFEq8vv/gFyQyNjvF44R3ZBMfJvFVa8HDbd12uKkqWshBlTcP8CCrR5D9o2hOii9j6BZq+PGqKxHt704N/0/XPrZ66v4Lh2DoKBcx8+ov69dbojEtuNW7AHMPp+kznRZpejyy+7n5YdxRHDsaI3niQIaZiW6xw==;3k8xc85/GX8LJeb1jsciOQ=="
 ---

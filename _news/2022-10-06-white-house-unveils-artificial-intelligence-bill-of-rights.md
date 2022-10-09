@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "The White House moves to hold artificial intelligence accountable with AI Bill of Rights"
-    excerpt: "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI."
-    publishedDateTime: 2022-10-04T23:39:00Z
-    webUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/"
-    ampWebUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all"
-        width: 409
-        height: 293
-        isCached: true
   - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
     excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
     publishedDateTime: 2022-10-06T20:35:00Z
@@ -91,20 +75,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/5cb0888e08834c31f655847ccc2ba9cf_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "White House AI ‘Bill of Rights’ sets higher bar for agencies to weed out bias"
-    excerpt: "The Biden administration is setting a higher bar for how federal agencies oversee artificial intelligence and automation tools, and how they implement them in their own operations."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/10/white-house-ai-bill-of-rights-sets-higher-bar-for-agencies-to-weed-out-bias/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png"
-        width: 435
-        height: 290
         isCached: true
 
 secured: "IacHF5ejkcHrqsGKgwHz7w4fs6SrgpayYtj8e4o78XSRyAF5qMIFNcul79eFGpOMcpYv3lN/vwlXJDi4/5F87Mbbi5XLiRvXBEbFAhnjzq39489Dggbrxme/rjYc7N5nZmPrSXtNKSa9Y/0kznc967MdftFOerJMmkjHgCkUGdOsP6RxxPRB1ijWMjPOAZTXHf8++8h/wLLy4jD9X0vcsXz0UUNAdmwneZQRyo2GEwLKJsYPbZlzrt0CnCaYEX3XZb8IRlo8ZJSnfFpckMCdPZ2xWb1LXaOrK3emb0+vLTo2ASpWNowVakS9fTnSJPArwNFBxTEW2xPgf50u8ODJbvhUG3yk8tLOncALGroWvTDg7Za8GmGL34p1f0+u5pqVuB78JAPSj1TfLQXBIp+NveN0sjKFWPBRcrifgyygV7dz+otJbmEl1ivH9C6WhdxGAcjHO94YtuPziWE3G6ev52aZGvxbUmk4iTL0fM5yganB9mszDu9Q1NGODoLJuH9s5l3eJwdd7vGisfL16Ieeiw==;s6fOHxtvuLcvYNdyhC8T+w=="

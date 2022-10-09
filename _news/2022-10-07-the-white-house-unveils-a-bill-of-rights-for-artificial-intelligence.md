@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-right
 webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
 type: article
 quality: 71
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: TechSpot
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "The White House moves to hold artificial intelligence accountable with AI Bill of Rights"
-    excerpt: "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI."
-    publishedDateTime: 2022-10-04T23:39:00Z
-    webUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/"
-    ampWebUrl: "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 97
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all"
-        width: 409
-        height: 293
-        isCached: true
   - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
     excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
     publishedDateTime: 2022-10-05T20:22:00Z
@@ -89,20 +73,6 @@ related:
       - url: "https://www.fudzilla.com/media/k2/items/cache/5cb0888e08834c31f655847ccc2ba9cf_L.jpg"
         width: 620
         height: 465
-        isCached: true
-  - title: "White House AI ‘Bill of Rights’ sets higher bar for agencies to weed out bias"
-    excerpt: "The Biden administration is setting a higher bar for how federal agencies oversee artificial intelligence and automation tools, and how they implement them in their own operations."
-    publishedDateTime: 2022-10-04T23:10:00Z
-    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/10/white-house-ai-bill-of-rights-sets-higher-bar-for-agencies-to-weed-out-bias/"
-    type: article
-    provider:
-      name: federalnewsnetwork.com
-      domain: federalnewsnetwork.com
-    quality: 36
-    images:
-      - url: "https://federalnewsnetwork.com/wp-content/uploads/2020/04/AI-featured-gif.png"
-        width: 435
-        height: 290
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."

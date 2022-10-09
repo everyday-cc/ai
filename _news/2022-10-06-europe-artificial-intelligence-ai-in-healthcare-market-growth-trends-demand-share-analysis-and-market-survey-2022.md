@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-based Surgical Robots Market Size, Share, Movements by Growth Status, Trend Analysis, Revenue Expectation to 2022-2029"
+    excerpt: "Oct 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI-based"
+    publishedDateTime: 2022-10-07T12:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Demand, Size, Share, Growth Trends, Opportunity, Forecast 2030"
     excerpt: "Machine Learning Market report contains detailed information on factors influencing demand, growth, opportunities, challenges, and restraints. It provides detailed information about the structure and prospects for global and regional industries."
     publishedDateTime: 2022-10-06T08:37:00Z

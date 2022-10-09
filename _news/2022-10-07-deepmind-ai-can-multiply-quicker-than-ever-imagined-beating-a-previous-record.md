@@ -71,20 +71,6 @@ related:
         width: 3000
         height: 1688
         isCached: true
-  - title: "Discovering novel algorithms with AlphaTensor"
-    excerpt: "In our paper, published today in Nature, we introduce AlphaTensor, the first artificial intelligence (AI) system for discovering novel, efficient, and provably correct algorithms for fundamental tasks such as matrix multiplication. This sheds light on a 50-year-old open question in mathematics about"
-    publishedDateTime: 2022-10-05T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/discovering-novel-algorithms-with-alphatensor"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 74
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/633c2e27fd141483d83afcb0_MM_Blogheader.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
     excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
     publishedDateTime: 2022-10-06T19:02:00Z
@@ -160,20 +146,6 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Artificial intelligence finds faster algorithms for multiplying matrices"
-    excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."
-    publishedDateTime: 2022-10-05T00:00:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-03023-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 38
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
-        width: 1024
-        height: 576
         isCached: true
   - title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
     excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."

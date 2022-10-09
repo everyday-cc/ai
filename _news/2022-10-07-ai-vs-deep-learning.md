@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/"
 webUrl: "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:
