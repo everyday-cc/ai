@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Key Self driving Sensors Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2028"
-    excerpt: "Get a Sample PDF of the report -  latest report provides a deep insight into the global Automotive Key Self driving Sensors market covering all its essential aspects. This ranges from a macro overview of the market to micro details of the market size,"
-    publishedDateTime: 2022-10-04T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-key-self-driving-sensors-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2028-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision Development Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029 | 106 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Development Market is projected to reach"
     publishedDateTime: 2022-10-04T13:59:00Z

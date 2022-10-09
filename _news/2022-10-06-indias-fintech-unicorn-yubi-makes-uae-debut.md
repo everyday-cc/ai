@@ -73,20 +73,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai, FinTech Surge 2022 from 10 to 13 October 2022 at Dubai World Centre."
-    publishedDateTime: 2022-10-04T09:00:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/gates-hub-participates-in-the-largest-fintech-event-in-dubai-y8x07sev"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://static.zawya.com/version/c:ZDNmZmZmMjAtYjBlNy00:ZDI3MjVh/kapitabuilding-jpg.jpg?f=1%3A1&q=1&w=3840"
-        width: 416
-        height: 416
-        isCached: true
   - title: "Tech update: Toronto’s fintech ecosystem on the rise; Canadian jet fuel is going green"
     excerpt: "Toronto-Waterloo now 7th in the world behind only Silicon Valley, New York City, London, Singapore, Hong Kong, and Beijing"
     publishedDateTime: 2022-10-06T16:38:00Z

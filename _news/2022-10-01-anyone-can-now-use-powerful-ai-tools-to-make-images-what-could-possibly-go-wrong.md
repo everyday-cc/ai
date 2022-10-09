@@ -3,18 +3,17 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.wyff4.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wyff4.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wyff4.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wyff4-com.cdn.ampproject.org/c/s/www.wyff4.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: WYFF
+  domain: wyff4.com
 
 topics:
-  - AI Ethics
   - AI
 
 images:
@@ -23,6 +22,6 @@ images:
     height: 676
     isCached: true
 
-secured: "PRI1Gfupohx4s7fdmthjYkMgczpkm4JwCSEDJas/IhszoN7O0RsMvdxnnS91W2SwIEtYWlNBFwr+BVEQWPsx9INpq+BEjtBmnw4fj/yrAr/nTyBtFDq35SR7qnG0Aatl5UyTIpzYeFnYiq55qOZCtURy42ftOOMmizy7CGxoCSHIvf4v+cZ5iwDexaFc22FFcEHMQsszyErX89CZBqvs98MOCrMKsvZZTbR0iXdXE08BupFOGxUKmHVtuc78ZoOMbplZsj1Udyq/wVYhlv6aZj+rP5GxXrQbzy8ENpSiVk3glStS4M8Jf53IGKWFeRbYVauxJOrLbxtzXFQBmSU7i6SCCVnzjN+tDRjt6GQQVsKnw2edMxgTCKpoWZYCxEt2Ka8AXnzavzF4SpEIjwHSv25wJQQY2xjAMnIH7/0jeqRj4fzR5cA7+xJqO4P77GaJM3MDzrKHKKjDhJLXaJTIEbEn4vdaJ9NRu8lj+gD4tGxWdlPNyyUumBXke6yiYD5KkwUGlIHUsaYBltvdM2tQmg==;4ct8KEgbAPngC/HcfFzFPQ=="
+secured: "SHb0FU/m9fW4hPgPtViqk+wt34/jYNs/mgzSUVKFWCCnuGl15fmDvspaeMkDlwE2rCmSqx5Dc7Py3LZWnhVj/EDNMQrClEYxg6YJQpR143EBS/OfTuGuZCRyfMKoiIbTkOLtghXLe2l3BftV0+Csr0q3zli4U+eRjQHX8sQ4ul9adPDHHTSM6x8kG/dfVMPaM6IqwImKrRovFQB41nmKSSDQP1PgNq8WkpzrD8zMaqpp8FHrlMLj7kTIJrhnurJZwoQ+4Z56OYAYPp2UDG06b7m1LzIdw/cTQXv1Ol8LHVUwWsKYbOZiv4stDb3SZMSHpTaJYy2/En6VJQIMQ7XTOg9QsXkkO1T85M2hf/irq9g=;f/qGsjt7XdT6EX4xQj+S8g=="
 ---
 

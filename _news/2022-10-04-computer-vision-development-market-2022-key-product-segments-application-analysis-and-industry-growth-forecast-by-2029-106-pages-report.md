@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Key Self driving Sensors Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Forecast to 2028"
-    excerpt: "Get a Sample PDF of the report -  latest report provides a deep insight into the global Automotive Key Self driving Sensors market covering all its essential aspects. This ranges from a macro overview of the market to micro details of the market size,"
-    publishedDateTime: 2022-10-04T07:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-key-self-driving-sensors-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-forecast-to-2028-2022-10-04"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
     excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
     publishedDateTime: 2022-10-06T10:22:00Z

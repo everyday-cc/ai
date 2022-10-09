@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
+    excerpt: "The \" Deep Learning Camera market ” main objective is to give information to market participants of Deep Learning Camera on the post-Covid-19 impact that will help them assess their business plans 2022 to 2028."
+    publishedDateTime: 2022-10-06T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "IUVSq89UcLw3HIZMD5NITjW3Ba/EjGuM175KZIWJKrY18XSABcyK2GsGIdiwZcbUlCJ3/uvBzQhV+PofXADP3aW5Mk99VDJ5wpXXA8P+W9vYck8HbSQ86eNW9K/7xCF6XAEomlDUovdxpHMxOn2BdlVi+gn6JaiGa3W9414akyG82EsMUKsjp9GIRRd5YER+b34rN6KvgD5VQ16rQeuNG06EGjgAXlFwMHSx7syCom10CVqnWjpN+IZjARrxYVvj3jphAOLRxqO2D9YTZQgOeJ+YRglIv+JFZ6gd2AXCjz3HnQ9Bfb+ftc4CuaPuyDYo5EPMT4W7P13Rm7PkTNi2RyVqox9KTrn+s1VRpdIKMbc=;mddPkdjoIRvIrwO/YP09vg=="
 ---

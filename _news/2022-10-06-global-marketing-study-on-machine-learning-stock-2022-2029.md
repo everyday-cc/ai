@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-marketing-study-o
 webUrl: "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Deep Learning Camera Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
+    excerpt: "The \" Deep Learning Camera market ” main objective is to give information to market participants of Deep Learning Camera on the post-Covid-19 impact that will help them assess their business plans 2022 to 2028."
+    publishedDateTime: 2022-10-06T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Market Size, Share, Revenue, Latest Trends, Business Boosting Strategies, CAGR Status, Growth Opportunities and Forecast 2022-2029"
     excerpt: "Global \"AI Market\" (2022-2029) report gives detailed depiction on top players, size, share, new techniques, plans of"
     publishedDateTime: 2022-10-04T09:02:00Z
