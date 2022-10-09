@@ -1,28 +1,20 @@
 ---
 category: news
-title: "White House unveils artificial intelligence 'Bill of Rights'"
-excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-publishedDateTime: 2022-10-04T15:49:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+title: "White House unveils artificial intelligence ‘Bill of Rights’"
+excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+publishedDateTime: 2022-10-03T23:26:00Z
+originalUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
 type: article
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
-    isCached: true
-
-secured: "oo/4YjGAm2Gh87GnL7k/OrHweXaars1s4tTvdkU27z2pnuOyfJF57YwYPpS+SykmNR5Kr1ZDfuVr/pH/zFKSzu6zc/75YpUSu8UgDWK05dooV7BWwF7epWEYNNqfrS2TuewYqWszgAr8eDi0l/1e4VrL2bUCb5SXitieVg2QUwDIUPiHwPV+lU2WBg0fJmwYAGB16WbJJ5Xsq7dKRr/U0qqkRptAMwT5KkLDSuex1NG4EvTlZFm52gNHA80N9lrON7CCdf0REszY5jEzIZa3CrR9NkgvZzhDIlRO0YEVx+A3HLn1s3FoUeOrNricIOCL3MChUwFNRGScoD5db2IteICvzkJ+5OuDIzvNb9tyEKM=;ldBOFyHhpUmMGzA76begEw=="
+secured: "EV5znLC1Ouy1Hb537cKntfpFVRkDdIDsK/lHLhJGtxRJfzsx7CXTIuqJIPWInRaFxPQwcfth6RW537TsiuJ6m21meNK0yLy8gUNMjFl8kL49iIu2LmdvPW4qhdsj4wiCAOtSqQbGC6DUwaezq5tjFIqZllrjjZZQmBJAlYTaxz0hl3Gcdwla8rKuwyZkCw67sLq8eGy7Hg0xUIUYiu7DCJMx45XaOlnAhfxwa/hNS5WM8d7BS9brjt8h7vkkxbIE5w6tXOyhzGdPyOtQZnsNOY7JzYZW9x1h7G0isAYAuy96/kLVBEx/3n9UTMBTTNiur3mfjXJXaDMU7mkHFI1ksla9GBM5omQRBnufGLxzrHKDUV+5St4NtTq04q243Ns2CCJHhq3Rsgm1V4dO05HqfH3JloNC3x9lZ6/k4sKyDdc4rPO+F1lCEaSsJFhpmEMzVjAR78WniS5FuNR2V1kKX8cMA7yWfBD3UGZwPZh/vrYmmjca19HUGEabL9dlf8x/N4kteyB/rVpaxnN02zxhjA==;LzopvfOSZOHiipC58HhB7Q=="
 ---
 
