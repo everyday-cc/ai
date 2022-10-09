@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "CobaltRobotics"
   url: "https://twitter.com/CobaltRobotics"
-  followers: 1315
+  followers: 1314
 
 size: 51-200 employees
 yearFounded: 2016
