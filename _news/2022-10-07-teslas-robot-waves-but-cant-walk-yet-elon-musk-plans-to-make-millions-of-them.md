@@ -38,20 +38,6 @@ related:
         width: 2840
         height: 1598
         isCached: true
-  - title: "Elon Musk’s New Humanoid Robot Might One Day Buy Your Groceries"
-    excerpt: "Our goal is to make a useful humanoid robot as quickly as possible,” Musk told the audience. “There’s still a lot of work to be done to refine Optimus and prove it.” This was the first time the robot walked by itself without an extra support to keep it from falling,"
-    publishedDateTime: 2022-10-04T15:11:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/elon-musks-new-humanoid-robot-might-one-day-buy-your-groceries-180980884/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 39
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/UPk4ZPZvAHHov-wXq0goVjrDXMM=/fit-in/1600x0/filters:focal(636x475:637x476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/97/47971855-21cb-4823-9686-636085e05496/optimus_prime_2.jpg"
-        width: 1272
-        height: 949
-        isCached: true
 
 secured: "H36UZLx2IU1P7EJ9eHvpP3DHn4pjAAVgjQ1vQ62Uw9RDqZMRq1JRnX9bhq2hdxreVQzP1Odg+QCkOgPkG9jP9/dDbo08zZWkPiQJ3U8sC0x+Iy8olUMxILfDFfsNxsBtmb0RSeAuDoy22fpYzAGmFjzjyDhamh07hw7He75bcFeihOucBBHnJxs8CAO9XVuPxKcxb7GRW5Lyr05VFDbgWUmN1aaJT23gkozwWsCVVqOF7h/bngbDff9YNvwsFASEgZWX09D1RflwREnodkpTzqoi4FnfvUghZEgBJhIV89oYP5ED9qA1x3mwxBxNDtze2ptI3MRGleIc5+xxmHvi88qio/qw/cgJ3cOlXlRbvIQ=;MGQOhPzdxCt018tSLbK6cA=="
 ---

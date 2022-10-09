@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       name: GMA Network
       domain: gmanetwork.com
     quality: 51
-  - title: "Elon Musk’s New Humanoid Robot Might One Day Buy Your Groceries"
-    excerpt: "Our goal is to make a useful humanoid robot as quickly as possible,” Musk told the audience. “There’s still a lot of work to be done to refine Optimus and prove it.” This was the first time the robot walked by itself without an extra support to keep it from falling,"
-    publishedDateTime: 2022-10-04T15:11:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/elon-musks-new-humanoid-robot-might-one-day-buy-your-groceries-180980884/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 39
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/UPk4ZPZvAHHov-wXq0goVjrDXMM=/fit-in/1600x0/filters:focal(636x475:637x476)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/47/97/47971855-21cb-4823-9686-636085e05496/optimus_prime_2.jpg"
-        width: 1272
-        height: 949
-        isCached: true
 
 secured: "G2OIzC3RDgLLWYAL5pTMDi5LgBPzfM3Ga2zDgjrotuoiwkONJ2eAfFs0OYsiZLxhjuMk5aS7AI/tABdfH7/bEr2fDOYqWJEBDm4/6DQsq6vjRsTnb1GtI0v9MkxNHTCvF6MUPbUvg6fjYmvC3F5k6NVqaI3QMkQLC3NmR8yj1wnG3fc0kym++8uJM2ZXKxi8buPBU9OcdWIH3i1eHQ+RpSoUZX5aMhMgVXl+vNVQs+1Ue0tndf9UDKauFxPmBobxnrkMPc5RpvhV/VQas4bBIQU9zQD7/j7p1VAbX9dIOZE5q/m6mmHQHH6TB6GwG3RAINLtnx49pNpQsKi2th62KQxvWmnDsNNFNoEwpZVqOQU=;wOMMrEh/9JFwJmRmWkQa/Q=="
 ---

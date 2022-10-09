@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/global-marketing-study-o
 webUrl: "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Market – According to latest research on focusing on Leading Manufacturers and Forecast: 2022-2031"
+    excerpt: "The report on the global machine learning market provides qualitative and quantitative analysis for the period from"
+    publishedDateTime: 2022-10-06T04:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-according-to-latest-research-on-focusing-on-leading-manufacturers-and-forecast-2022-2031-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

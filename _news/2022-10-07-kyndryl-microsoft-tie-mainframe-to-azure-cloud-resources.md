@@ -44,15 +44,6 @@ related:
       name: This Day
       domain: thisdaylive.com
     quality: 69
-  - title: "Accenture Collaborates with Mars on ‘Factory of the Future’ Using AI, Cloud, Edge and Digital Twins"
-    excerpt: "Accenture is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and"
-    publishedDateTime: 2022-10-04T16:18:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-collaborates-with-mars-on-factory-of-the-future-using-ai-cloud-edge-and-digital-twins/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 5
 
 secured: "NwjBVWw3nOkBvQiuO7BKNTO7CijkJcaZUxVdxYSWNOelRCOqNSCAvzI2nvp0kbv65N+Ci3q1jXMjmIdV0eJ6+V/3nZoOzPJI7fySG+Qgq019ZIcKg9/JiI9NBRRjNcxstrPqZJTx9urvwYcDnTsajeEPK5dGRegtZC3FfquazEoSb6KkrgXpZQ6CWelAr/3623hj1zJNAtSVD9bpqlXZE/uaqnveeCuS1kCim/npk9LZpUrtx5s67iKZHtSem9ELlWMvMEApeggUPAi0VMreHo/NWkqpG34gEYwbrljulmfDs8d5+Fp2xniNLx8MxB12OS+9bbTHk5BrfiS0agmTFdxFl5Zl8Zxs+Uc6r2uthWzpIx3kDimFHsCj9TfciOBTgM2oDb1HiJesBmeAfBeNgr1NH4yIQ/0q4x78DdWprivx9otqOZXa679G3mmD7J56BkNRHVVGitAjS4O+uDIqhFoqTHH8ZfguMCH04kTRSoBWq5IiALcYXAx1im65G7Ny5W0tUaTtVOIU1YPWu5HQWA==;UmAOqUJ9KPQ3fQC3v6Og8Q=="
 ---

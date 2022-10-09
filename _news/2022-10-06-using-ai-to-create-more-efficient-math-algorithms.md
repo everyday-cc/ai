@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
 type: article
 quality: 76
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Climate simulation more realistic with artificial intelligence"
-    excerpt: "Accurately modeling extreme precipitation events remains a major challenge for climate models. These models predict how the earth's climate may change over the course of decades and even centuries. To improve them especially with regard to extreme events,"
-    publishedDateTime: 2022-10-04T15:24:00Z
-    webUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-climate.jpg"
-        width: 1920
-        height: 1271
-        isCached: true
   - title: "Stanford AI researchers develop new algorithm for more inclusive content moderation"
     excerpt: "Initiative developed and published their findings on jury learning, an algorithmic approach that aims to improve content moderation"
     publishedDateTime: 2022-10-04T19:46:00Z

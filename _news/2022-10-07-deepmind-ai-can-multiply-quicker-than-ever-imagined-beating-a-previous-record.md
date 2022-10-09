@@ -175,6 +175,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
+    excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."
+    publishedDateTime: 2022-10-09T08:12:00Z
+    webUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
+    type: article
+    provider:
+      name: heise online
+      domain: heise.de
+    quality: 38
+    images:
+      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/2/0/3/2/Screenshot_2022-10-06_143311-a84fee75ccd5217a.jpg"
+        width: 1200
+        height: 611
+        isCached: true
   - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
     excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
     publishedDateTime: 2022-10-07T09:56:00Z

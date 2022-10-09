@@ -117,22 +117,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "White House unveils artificial intelligence 'Bill of Rights'"
-    excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-    publishedDateTime: 2022-10-04T15:49:00Z
-    webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-    ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-    cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-    type: article
-    provider:
-      name: Post Register
-      domain: postregister.com
-    quality: 59
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "The White House’s new ‘AI Bill of Rights’ plans to tackle racist and biased algorithms"
     excerpt: "The roadmap towards American data privacy is a good start, but not legally binding—which is concerning for some experts."
     publishedDateTime: 2022-10-04T17:30:00Z
@@ -205,6 +189,6 @@ related:
       domain: niemanlab.org
     quality: 0
 
-secured: "HkY6mF1mF78+doCtC6oP8rO9yi2SqUBgP4GxILIVP2v7vfauESy2brTSZpnfzyqLjh0h014oKxoVqe+stiaTNk87yQ+FYLQmG1Mp/0PyybukuBgHM0wgNFZRo90roc0vk7/oQ6BdU6JLTCX7+W4JG6HnjPhCLnBuaHQtPDxwq1IwXXGn8BPmXUPyp4dUZNwoV4cThFPYmO/DnvbXkOye0gnmRtlw4de5G1dH8frvGAO7bPIh4NwowKDk2F+hcpL70ZEO/fLPsQ1hyoAD7EeUtKpG15LRLt+7IN/WwWH7w1m+zD5jbXL+IG0NcNSUWRVH5N8UsDM/Ta5oG1ROeeWzUTgBKpYrEuAeU7WSQqDF1L4=;Q3xCxDgj1zpDThxnsHPAqg=="
+secured: "khdhhtq+5A6ASSSOTVzouXt/SBRN9fz0nT+d5jnwbbfidnotOq//anyoY73ipiFQkj91bTNg2RgzAATVKmiQ/wjrGdqbUxSBj+rAaCipfqqJHusyiOqBreCiw3Cq4AeNqu85tfZsWf68vx65U1E/nOy42CVR7iAWkmDVv5q9zc0DRbSS/JNLkdwJPzr+3PJ4sHkOZcb994Ntd7rz4Fl42vZnTJNhmhmHo7zkzAdNyLIlNtIJstSCPOjnn5ZBwIfBzbx2hyf9+u2DagdNoN4fPxLka4lX0eQpH5FUrYILKHdTHCBsGMKEqgdU/CXdmXdhDX8+S1sr13vDVxXWhLlNMEHmP5VqQzk6zKBz3k02mhnmjYju58C56MAVfmfbHern10oWow575ICKdSPACcMUyvfQDLNKf1iLctyx5ILkZbudInfFL5KwKs8kW1CcSJ0uRXOjdV37gffufhU7mAdsE+XPPeSet0xRET5OBy2+Ps/ZhlK+xHMNljY4Y6cZF0sNyTkkMLvYUi8mXcbH1D3pGQ==;Wuv3tm93qvXo/EfYOd8Ecg=="
 ---
 

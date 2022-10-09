@@ -33,17 +33,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "Xembly Raises $15M Series A, Reimagines Workplace Productivity with Conversational AI"
-    excerpt: "AI chief of staff executes tasks, redefines what workers and teams can accomplish SEATTLE, Oct. 4, 2022 /PRNewswire-PRWeb/ -- Xembly, the AI chief of staff for knowledge workers, today announced a $15"
-    publishedDateTime: 2022-10-04T15:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29138952/xembly-raises-15m-series-a-reimagines-workplace-productivity-with-conversational-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29138952"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29138952"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 32
   - title: "Gather AI raises $10 million Series A"
     excerpt: "Gather AI, a Pittsburgh-based inventory management startup that uses consumer drones to autonomously track goods throughout a warehouse, announced the raise of a $10 million Series A funding round."
     publishedDateTime: 2022-10-06T15:47:00Z

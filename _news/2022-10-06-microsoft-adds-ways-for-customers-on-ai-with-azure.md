@@ -44,15 +44,6 @@ related:
       name: Network World
       domain: networkworld.com
     quality: 49
-  - title: "Accenture Collaborates with Mars on ‘Factory of the Future’ Using AI, Cloud, Edge and Digital Twins"
-    excerpt: "Accenture is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and"
-    publishedDateTime: 2022-10-04T16:18:00Z
-    webUrl: "https://www.datanami.com/this-just-in/accenture-collaborates-with-mars-on-factory-of-the-future-using-ai-cloud-edge-and-digital-twins/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 5
 
 secured: "pkVkVPwr7kYKGHm4GK0OFhC+MA1TqdEtODrchc7BhWKLGHXu2guzbOkYA/VabNqc9nQL5CpBVETcuu0an/EWRJJugPWHxqRJVBrjd4aqVOK8yyUzJiULeHoFFnoX08xjZzMqB9kWBFceXLWgJAN3Q4aPd3CEHt+o/3RUFtNbfGCWoPZt/WEeNDKOdiN96COhqS8aL3lF6ZagXiSrVMDqOWehGWdFPzoAao2KnRlZZuXGRZWijjqVOgjJUBGA2E7+CTayXOQtmGcSuUJV0AyrpoZtYL1GIawDfyggxJcB0qDrJcY+YVQdgmbMso/Qn8uNExjnUcBKUO2WPSmXeXCPPFV8fPaYV26cSphzcknWNLY=;VtLAOyDtH0ztBd7sGwwIJw=="
 ---

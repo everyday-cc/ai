@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Artificial intelligence finds faster algorithms for multiplying matrices"
-excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."
-publishedDateTime: 2022-10-05T00:00:00Z
-originalUrl: "https://www.nature.com/articles/d41586-022-03023-w"
-webUrl: "https://www.nature.com/articles/d41586-022-03023-w"
+title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
+excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."
+publishedDateTime: 2022-10-09T08:12:00Z
+originalUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
+webUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Nature
-  domain: nature.com
+  name: heise online
+  domain: heise.de
 
 topics:
+  - Google AI
   - AI
-  - AI in Healthcare
 
 images:
-  - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
-    width: 1024
-    height: 576
+  - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/2/0/3/2/Screenshot_2022-10-06_143311-a84fee75ccd5217a.jpg"
+    width: 1200
+    height: 611
     isCached: true
 
 related:
@@ -175,19 +175,19 @@ related:
         width: 1920
         height: 1097
         isCached: true
-  - title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
-    excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."
-    publishedDateTime: 2022-10-09T08:12:00Z
-    webUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
+  - title: "Artificial intelligence finds faster algorithms for multiplying matrices"
+    excerpt: "Algorithms have been used throughout the world’s civilizations to perform fundamental operations for thousands of years. However, discovering algorithms is highly challenging. Matrix multiplication is a fundamental operation that is taught in school."
+    publishedDateTime: 2022-10-05T00:00:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03023-w"
     type: article
     provider:
-      name: heise online
-      domain: heise.de
+      name: Nature
+      domain: nature.com
     quality: 38
     images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/2/0/3/2/Screenshot_2022-10-06_143311-a84fee75ccd5217a.jpg"
-        width: 1200
-        height: 611
+      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03023-w/d41586-022-03023-w_23557214.png"
+        width: 1024
+        height: 576
         isCached: true
   - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
     excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
@@ -199,6 +199,6 @@ related:
       domain: analyticsindiamag.com
     quality: 33
 
-secured: "kuHg1bxDgC1YEeFWyq0Y3+Ds1B4TnpWN3a8ei82tXRyx/91Rw46SZMENq4m0jOTG+kvCm83GVn72I2h/niUuxgfc6fuKeNm6P5cU34YQ+5Ajog3bdzITGeGy/oB1ZudwIvxyE1wVYvzJhq7DV+JiOEaE2RcIKq/ok96LH2TX/rFHT/LPyakv8EXX2vrxqvKzr+11kBFlvy9wa/b8XeigIhvUjDz+BcqMPbFmB3TZ3JAiIl5D0g7SBq9q3SqfO2igW8ndfVly3HldY3LZEqb7s5xC7AObLOMI5FrRy7kWB4Ce0Gdxij0NUYRwjs8oxMGM82Vjtjk7xzkJwmumWF2rxuYDCvUfIMfZ6x5inUaEdQEScnMdYmth/ICGaGDtHxf1ngYlMfls+1cKoTi9+mKs4WaCKlNFu3maNgBbAGNkt4RhU1m01L61Ss83QfhzslfgbiakR1l30G4003qB1g1Mcu3TNa9FqEr7kh23FHNO+NDgnoeNxOvGrLo4SOkcFcv2IHTaRj0QHw9FmKAoN9nIWg==;XcDqSTgwDVf/h8iWa1593w=="
+secured: "7gyeDwtJfIt7A3xP+DRM3SRo2DMDsHJPm2GnopeVL1zf3DRY8gzVFU7lKFaIMde9ZLZe53WSIIBdn8jnPIV/xRqCys6KeAkwOFrRqiF36oBLUzerJbFUE4yVbPpTbp8czryUfMld0n7a0JfojmCusij1/jNAN9JwRbwrqZgXl/L0EqO+EVB6gf2rhrroRE9GPbSVmlYJVPvUiaiapALqAiTtnBNE4XvJcpFW3q6Wjg6QtTT7tgzv39mTUgNIQRu/owTlWyU+xcI+02y4DtgWYfMjsvpVM7f96ijAkSloMvH3Vz6mo7dtVbSDiIdvEd1qdrBwDlKjrCx3pUPFz9l3XjUJOCGyCLqE23tMHWsb8oU=;xKFRCSROGYoCLvNwJGvPFQ=="
 ---
 

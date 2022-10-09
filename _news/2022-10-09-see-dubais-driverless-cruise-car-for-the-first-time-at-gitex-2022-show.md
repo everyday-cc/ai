@@ -1,51 +1,47 @@
 ---
 category: news
-title: "Gatik Goes Driverless In Canada For Grocery Giant Loblaws"
-excerpt: "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ..."
-publishedDateTime: 2022-10-05T12:02:00Z
-originalUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/"
-webUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/"
-ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
+title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
+excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
+publishedDateTime: 2022-10-09T08:48:00Z
+originalUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200"
-    width: 1000
-    height: 666
+  - url: "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg"
+    width: 540
+    height: 405
     isCached: true
 
 related:
-  - title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
-    excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
-    publishedDateTime: 2022-10-09T08:48:00Z
-    webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+  - title: "Gatik Goes Driverless In Canada For Grocery Giant Loblaws"
+    excerpt: "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ..."
+    publishedDateTime: 2022-10-05T12:02:00Z
+    webUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/"
+    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 666
         isCached: true
   - title: "Gatik goes driverless in Canada"
     excerpt: "Gatik on Wednesday announced that it is now running fully driverless vehicles in Toronto with longtime partner Loblaw Companies. Gatik’s multi-temperature box trucks are transporting online grocery orders for Loblaw’s PC Express service."
@@ -122,6 +118,6 @@ related:
         height: 246
         isCached: true
 
-secured: "4guOZsEufrjbUq0CxrvZLg28qiO3rDANJew5P8PUOyFl5TvD37XK5FOsc1PSunKk7Y/oBIcOWBAxzi5KvRWuGVq/gSm0rXxRTUB+OrMOijpDB9UTlY5fNpYTSEUuXc/0GR9ik3kLXhQVPK9N1xK79FISSnBdhdJ4qetXQ+wV3IxemN2IUCCaczK+0qEUpIqg6sS+Zqgbz8dlx1cDKecMBOJupe8+JfPKNeoO6NBHVBKlYjUcB1zeJ8OJ8S7CMsbT54UICE2OiLHrCRbMYNoZgzpUn9dZryHFMR653X7dgDGW8d5T/WrRbnjsUDWWaasg3XjOeQZuTbM6WjvjCVm7e1c0ZTLwcRkCX7aqgqPpask=;3dp6TZzXY3YSgg0LI2EEVQ=="
+secured: "zgiMxvxmgADgMGT4CtQqE0P0MUKt6rA1tDeiO9JCbCmjClmwgKkkozkPce5nbwJzdiA8yPoUOp4qBcFiqiZnEvRnhaqGS7o2WFkztLRO9ciht+N2PXmGaKImPO1ckdxSFyRe/n+f1ST2y+9gMzfxn4X92j+pRiGtrCyeSlPXwQq/ConL1o5ewbfIHjfomHtix3X+lX7raqcFjBs7SAsFxh8PlJO+I60lhcJPIA8ycMSlrQGaYIEIzn2AyI+yyeXA4eI+KMlpYAwQAYPuW83/OuUGpZKi6tuBTnCFDtOS69pkCMNKDCIlJGqZfbgRirS/ty/DCZPQbnr4B1WOFbG4nOMccS/sEUjbg4eOesU2qPs=;NvdwonZfPWKeuExAbNfzzA=="
 ---
 

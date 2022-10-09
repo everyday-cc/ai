@@ -41,22 +41,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Climate simulation more realistic with artificial intelligence"
-    excerpt: "Accurately modeling extreme precipitation events remains a major challenge for climate models. These models predict how the earth's climate may change over the course of decades and even centuries. To improve them especially with regard to extreme events,"
-    publishedDateTime: 2022-10-04T15:24:00Z
-    webUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.html"
-    ampWebUrl: "https://phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-climate-simulation-realistic-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 63
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2019/3-climate.jpg"
-        width: 1920
-        height: 1271
-        isCached: true
   - title: "How 6 health systems are using AI to improve patient care"
     excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
     publishedDateTime: 2022-10-05T17:11:00Z
