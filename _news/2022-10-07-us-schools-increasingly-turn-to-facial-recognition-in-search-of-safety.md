@@ -24,6 +24,17 @@ images:
     height: 729
     isCached: true
 
+related:
+  - title: "Lawmakers, school officials meet over facial recognition technology in schools"
+    excerpt: "State lawmakers studying facial recognition technology expressed concerns about student privacy when the tech is used in schools. The state Economic Affairs Interim Committee Monday met with a school district that has put in place facial recognition technology,"
+    publishedDateTime: 2022-10-05T11:04:00Z
+    webUrl: "https://www.mtpr.org/montana-news/2022-10-05/lawmakers-school-officials-meet-over-facial-recognition-technology-in-schools"
+    type: article
+    provider:
+      name: MTPR
+      domain: mtpr.org
+    quality: 15
+
 secured: "r3EM0LKcumh5E1aF8B9Vx+XYOD7e54gE2xT1TdGjLhNMNEf91A86gSNBf9r/wG1zsjvcomVpo2UQrOR5cUKb/9lhzfnoLPhOjrkclDGXtFefbdiVlP1oRGB18abvZAnkuLOhPNyc73xSEmbUHPlV8qckdYWIIjbNlxDtUFdtlRtG+owC5i9bSwAGh4Gj+Hk+192xYI9tFMrwPsUkcFDLPp4jw389DgX8kyd0PEgqpviZvn6SFT0zc33RASt/vO77+ivbNKYCUHOhZfheoYDh36aRnOBgZzGOqyTtZnnfjwT5RZ/+6ee8Tb4x7t8uMBhJ/nPt77GkzzMVFX3Pm1CNzrcjXP/6+KxSDNUm30RVzQqNLwQnLWnjZ17aE/XOKBbmXkPzwvbQ+m7Bs65fOVR457yDJh1/EXzA+dDQMokOCnN92GsZKWSddPnznoh5jHHVZmLpI0p5MASZVqBdCmNIZBrfPi+o171XmWRGnd/eQsxBCUINdZKUduTe0r3ymGbf2Te0FnpqXXn0lbGHpH6siA==;94KyhgAF1mNseVCwni7rDA=="
 ---
 

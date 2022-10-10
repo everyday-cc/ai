@@ -7,8 +7,8 @@ originalUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-
 webUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Bloomberg L.P.
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
+    excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
+    publishedDateTime: 2022-10-09T23:40:00Z
+    webUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/"
+    ampWebUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00.jpg"
+        width: 1920
+        height: 1040
+        isCached: true
   - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
     excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
     publishedDateTime: 2022-10-08T15:00:00Z

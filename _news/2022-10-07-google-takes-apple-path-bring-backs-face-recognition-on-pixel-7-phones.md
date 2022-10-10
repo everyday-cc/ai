@@ -43,15 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-    excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-    publishedDateTime: 2022-10-06T23:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+  - title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+    excerpt: "Google's pursuit of face unlock for Android smartphones spans at least a decade, but it came under greater pressure when Apple released Face ID in September 2017, the sources said. To that point ..."
+    publishedDateTime: 2022-10-07T07:46:00Z
+    webUrl: "https://www.channelnewsasia.com/business/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2993571"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 36
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--1hB0-Vz1--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-06t234944z_4_lynxmpei9515u_rtroptp_3_alphabet-google-hardware.jpg?itok=h-AntNL8"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
     excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
     publishedDateTime: 2022-10-07T11:59:00Z

@@ -22,21 +22,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Elon Musk's Tesla Bot Isn't as Stupid as You Might Think"
-    excerpt: "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ..."
-    publishedDateTime: 2022-10-05T05:25:00Z
-    webUrl: "https://www.cnet.com/home/smart-home/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/"
+  - title: "Tesla robot walks, waves, but doesn’t show off complex tasks"
+    excerpt: "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event"
+    publishedDateTime: 2022-10-08T21:26:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
     type: article
     provider:
-      name: CNET
-      domain: cnet.com
-    quality: 91
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 76
     images:
-      - url: "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp"
-        width: 2840
-        height: 1598
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605"
+        width: 1024
+        height: 604
         isCached: true
 
 secured: "H36UZLx2IU1P7EJ9eHvpP3DHn4pjAAVgjQ1vQ62Uw9RDqZMRq1JRnX9bhq2hdxreVQzP1Odg+QCkOgPkG9jP9/dDbo08zZWkPiQJ3U8sC0x+Iy8olUMxILfDFfsNxsBtmb0RSeAuDoy22fpYzAGmFjzjyDhamh07hw7He75bcFeihOucBBHnJxs8CAO9XVuPxKcxb7GRW5Lyr05VFDbgWUmN1aaJT23gkozwWsCVVqOF7h/bngbDff9YNvwsFASEgZWX09D1RflwREnodkpTzqoi4FnfvUghZEgBJhIV89oYP5ED9qA1x3mwxBxNDtze2ptI3MRGleIc5+xxmHvi88qio/qw/cgJ3cOlXlRbvIQ=;MGQOhPzdxCt018tSLbK6cA=="

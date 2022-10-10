@@ -1,26 +1,28 @@
 ---
 category: news
-title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-publishedDateTime: 2022-10-06T23:58:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
-webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+excerpt: "Google's pursuit of face unlock for Android smartphones spans at least a decade, but it came under greater pressure when Apple released Face ID in September 2017, the sources said. To that point ..."
+publishedDateTime: 2022-10-07T07:46:00Z
+originalUrl: "https://www.channelnewsasia.com/business/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2993571"
+webUrl: "https://www.channelnewsasia.com/business/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2993571"
 type: article
-quality: 46
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--1hB0-Vz1--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-06t234944z_4_lynxmpei9515u_rtroptp_3_alphabet-google-hardware.jpg?itok=h-AntNL8"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Google takes Apple path, bring backs face recognition on Pixel 7 phones"
@@ -65,6 +67,6 @@ related:
       domain: tomsguide.com
     quality: 4
 
-secured: "i0eeHviK5BNES1ysuuIAN6ZlKztdtV24eYfaQ/+WYAjIwWsBOoq83NKvAp3RuermD4l2HVtMF1+zV5IRJS5MXn544cURr11MFpEF4a6cjCOqY3stO2Rcsq2yNZ/jNk/IQVtB9zDIlzZmrvwnzhwqlupiTQGNODTy9tr3KZzYNXIEB7BebM1N6b6F6KaVNH0pFp2NWsmFCcGGqmhK5CA3EX2SGAMO2odMCzfWzOsfoIpC28NqmvNar7jgyMhuOjnphC2beeTCCtSpxdBC6yOm4gSNudG2tg0kTXcf0MAtxRuz0cnd7jBwwnnJhC8cLazlehvqGWJk2gTbvgwI/PKP/U7RgmgodJ9ceN1178m/x6Q=;IYZgHH+/llC4TMZxKw4Xmg=="
+secured: "vXaNZ4uk1yl2PCrrYwWJxvqN95UG/THu081oNwHfkgupam1ChX1iRVQ0Sbxwc7bqgIou/Kq03qxRkRqcU8PAD2TlaGAsXCutQKtifIDdmT2k1bDF8b4YVacpF4hJmQDZuq6uD5Vta/C99A1PW/Z/l0rS86pOO+/gifq0xlsJ1HHYvZRU9SmsCTzxKyqRQmYpP5sOBIB3lR2yEksKHciN0S/aiz9vuwr5G6wGXMPXu0xbDj/cSz4cWyMOc/z0IN8PZSsb2xzFrPv0o+FFWRrSXeusqgJxOAWREFxvQe1gyRdB6g6VEmPsVZMfMmLU++dUE1QOaVVyQchv+8rxqBhF1ddnxA+zsSLp/l0RWMY0pAk=;sxDlDrdyv0xbJ2jsHXuWSw=="
 ---
 
