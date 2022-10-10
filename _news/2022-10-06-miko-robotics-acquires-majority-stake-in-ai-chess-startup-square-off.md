@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-st
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 799
     isCached: true
-
-related:
-  - title: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year"
-    excerpt: "Robotics startup Miko buys 70% stake in Square Off, eyes $100 million revenue by next year - Robotics startup Miko announced it has acquired a majority stake in Square Off, an AI-driven automated"
-    publishedDateTime: 2022-10-06T03:26:00Z
-    webUrl: "https://www.siliconindia.com/news/startups/robotics-startup-miko-buys-70-stake-in-square-off-eyes-100-million-revenue-by-next-year-nid-220145-cid-19.html"
-    type: article
-    provider:
-      name: SiliconIndia
-      domain: siliconindia.com
-    quality: 44
-    images:
-      - url: "https://www.siliconindia.com/news/newsimages/W82Ax1bf.jpg"
-        width: 570
-        height: 367
-        isCached: true
 
 secured: "5xbsy3XFbfx4rlPi5T8MRzbF41o+0qPiGcYw9T2NLHHScfUXfhCrRuAWoaeNkypjCT+bSjEnm6Qw7FZOW7M6zX+Z8EQ4kuUxMGhSLThcnrB3Q1vDDm57rxYWDVyRbR5hXu3d4Tx5hsWxwd1Jd08HXS5cTyajQTPLMA13xswq3289baVTWD6fmTcqgg+mXvCtUfR+DOBjGd4NKk7/+KuMOcBI8fc3mjECoPX5wyTE8Xvts/KpIRvnitsUKGU2gcs6sPxq9IFWsD+RpOJp+7czILIFF7Qi3pmGMuGs3KwVKbS53Fni2E3M6QZ1bhH14b/c2dynpvOic939KqRDrLnSK2clmdVFbhFPBIkbo/CaxEE=;CTUv8rKCswePwT+8NIMICQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T19:46:00Z
 originalUrl: "https://www.benzinga.com/general/education/19/10/12484847/this-day-in-market-history-self-employment-laws-go-into-effect-1"
 webUrl: "https://www.benzinga.com/general/education/19/10/12484847/this-day-in-market-history-self-employment-laws-go-into-effect-1"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

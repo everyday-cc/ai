@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T17:58:00Z
 originalUrl: "https://www.protocol.com/bulletins/china-ai-research-chips-accelerators"
 webUrl: "https://www.protocol.com/bulletins/china-ai-research-chips-accelerators"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Protocol

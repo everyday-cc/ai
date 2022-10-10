@@ -7,7 +7,7 @@ originalUrl: "https://www.smartcompany.com.au/technology/tech-ai-can-create-vide
 webUrl: "https://www.smartcompany.com.au/technology/tech-ai-can-create-videos/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 733
     height: 355
     isCached: true
-
-related:
-  - title: "AI can now create videos. What happens when we can’t tell if they’re real or not?"
-    excerpt: "E but for video — text-to-video AI models that can create photorealistic, coherent videos. Artificial intelligence (AI) researchers are showing off the technology’s latest leap forward by demonstrating models capable of creating realistic,"
-    publishedDateTime: 2022-10-06T01:05:00Z
-    webUrl: "https://www.crikey.com.au/2022/10/06/artificial-intelligence-ai-facebook-meta-google-text-to-video/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 34
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/10/New-Project187.png"
-        width: 740
-        height: 400
-        isCached: true
 
 secured: "sIKELJl7VnlhthCJbygU/rlEppLpfCiR8FditLx34XyvciCvSQqRLvOKdV7rcbqlURULSaEUTQpAfTFKB56axbgjV8nW6O3TKszdbaEFVwxMEMHhv4j1MksmmlZRsyJE3j8yWT2nX78Q29BaxnjU58GGBM/d5hqma+NfchepSOuxK9ZUmtGZS0s2/QEJDFA8tk+/vLnnoTXJZ2r1WIhKvnE/dClL5baGMfL2tMDEMcNJTOEMi+MJrRSkEgpXj06PIxvK4BDUUbl2IO1DpoyNbFyMktCUGf+EWMxD9DIza5zLzgDkCYo9a6nAmp5EqI3ufefDF+B2O1aeJu2+VGEuQVSvP8C56gvFS/fsWLBOmP9Dl4v7uHo9TKh/rh87G97XQu1/WCAVrxzxrL8+AirgXXBZF/YusPzD/Kn4LPBj0S0bbT6mF8nLEY5Lac95QuuKzrl7mJfbTGYWr89SK89nvlzbA3lPUMZwmxEZgwCS0st6T2A+vvwcgFtHLzpXE2DwANFJQ7Ujl0bHRf6KxB04iw==;ixmGKONp4pWdjrN3EZU7fw=="
 ---

@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Even After $100 Billion, Self-Driving Cars Are Going Nowhere"
-    excerpt: "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger."
-    publishedDateTime: 2022-10-06T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYEO5rwXdifA/v0/1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
     excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
     publishedDateTime: 2022-10-09T23:40:00Z

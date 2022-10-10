@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Even After $100 Billion, Self-Driving Cars Are Going Nowhere"
-    excerpt: "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger."
-    publishedDateTime: 2022-10-06T04:01:00Z
-    webUrl: "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 54
-    images:
-      - url: "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYEO5rwXdifA/v0/1200x630.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
     excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
     publishedDateTime: 2022-10-08T15:00:00Z

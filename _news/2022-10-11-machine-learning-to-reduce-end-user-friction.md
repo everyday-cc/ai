@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T19:24:00Z
 originalUrl: "https://www.finextra.com/blogposting/23026/machine-learning-to-reduce-end-user-friction"
 webUrl: "https://www.finextra.com/blogposting/23026/machine-learning-to-reduce-end-user-friction"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: Finextra

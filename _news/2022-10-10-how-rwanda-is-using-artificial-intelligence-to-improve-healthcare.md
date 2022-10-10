@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
-    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
-    publishedDateTime: 2022-10-07T15:49:00Z
-    webUrl: "https://allafrica.com/view/group/main/main/id/00083624.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 54
-    images:
-      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:9418def9d1bedca53c634cafaf8a0961:arc614x376:w1200.jpg"
-        width: 979
-        height: 600
-        isCached: true
   - title: "A robot painter will make the case for AI art before the House of Lords this week"
     excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
     publishedDateTime: 2022-10-10T15:51:00Z
@@ -69,6 +55,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
+    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
+    publishedDateTime: 2022-10-06T19:41:00Z
+    webUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
+    type: article
+    provider:
+      name: ecofinagency
+      domain: ecofinagency.com
+    quality: 34
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
     publishedDateTime: 2022-10-06T10:32:00Z
