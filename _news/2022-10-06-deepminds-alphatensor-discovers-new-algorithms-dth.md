@@ -27,36 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI invents faster algorithms to solve tough maths puzzles"
-    excerpt: "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess."
-    publishedDateTime: 2022-10-05T16:42:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 88
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Using AI to create more efficient math algorithms"
-    excerpt: "A team of researchers at Google's DeepMind, London, has found that AI can find faster algorithms to solve matrix multiplication problems. In their paper published in the journal Nature, the group describes using reinforcement learning to improve math-based algorithms."
-    publishedDateTime: 2022-10-06T15:10:00Z
-    webUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 76
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/using-ai-to-create-mor.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
     excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
     publishedDateTime: 2022-10-06T19:02:00Z
@@ -117,43 +87,6 @@ related:
         width: 620
         height: 465
         isCached: true
-  - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
-    excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
-    publishedDateTime: 2022-10-05T15:02:00Z
-    webUrl: "https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "DeepMind AI can multiply quicker than ever imagined, beating a previous record"
-    excerpt: "AlphaTensor improves and speeds up computation by 20 percent, allowing for quick and accurate matrix multiplication."
-    publishedDateTime: 2022-10-06T19:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/deepmind-ai-can-multiply-quicker-than-ever-imagined-beating-a-previous-record"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 50
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/06/image/jpeg/Szn8Dxk2UaLaaGGCAy921PTBb2yYR35MlF2LCexk.jpg"
-        width: 1920
-        height: 1097
-        isCached: true
-  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
-    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
-    publishedDateTime: 2022-10-07T09:56:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
 
 secured: "fE7K9RYOPPfZ8GRvBfTlA1Lbf+R2xX+pm6jKuurP78FYCzQj1FJiVTOqtdUw8sgQvuqwjLfc+p3w5q4y4FG8buJCrQVe+EdQVxeExBFVFxeuVVpQh0eXhQ4jIVZz76V6T9cKmmmMyrkRBOe3/BVYNShLa8SeLyyoQ5g420Bx81IlKPxTswA0ZbI7IpAez9uhZGTAeHNcRwcPbJpNVCSowxPG1V4Qq9zaCGKASHfu9XRHoWHQQn9h53W6CPXxbKLqMdBYxVuUH1wr9TTmeRQqXN2Q8BCzMiq9dw0sH4np5VbZNqFw7zdjIeAcEVhzn4qHiLbethG4rmprgTH5hAZoDx0soZW56eCvOzX1cvrdUdc/w0gmBBuGZBtF3Nkl+A6LAZnM9CKDiENXizpxQ57G93mCZIthIvgCY5bsCY05EZ3/fiSQs/ual9Hr2hZK3MsyexJmfmewAvccX3p8iLiD3hjGIjixEZ3fNXBqiy8G6TzmN3zrtIBCdFKyt+nuAyPQKuxBXtGvyoDK4VdT/UpzKQ==;lJhjr4tHbEBVObO61Jto/g=="
 ---

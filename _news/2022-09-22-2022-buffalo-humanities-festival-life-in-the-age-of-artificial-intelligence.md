@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.buffalorising.com/wp-content/uploads/2022/09/ae6d1412-487a-76d8-5fc4-833b6dab284e.png"

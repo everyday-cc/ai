@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artif
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6343bdc93a68ef0014de06ad/0x0.jpg?format=jpg&width=1200"
@@ -46,6 +47,6 @@ related:
         height: 630
         isCached: true
 
-secured: "XOKit9ZmX7yQj+39rlBOP+nIMrbrQMb122q2r2gU1coOglEfNsO942Y7ziVfp4dKuO4JZSRZzv7JpFYpN2h28YlBQVLyKh1GLkRD0ub96iPpdAwCXcfFt9E8l2A4ONMuIWcM8nKeoeoxsB4xNHUfCWxuV2F0qudF3mqcxn9CtIGftxiiLrcgoomTgUazZdHmkX8ZCLoZtTVWMUMfgjWfltCDhFinpAD4RvFweA8B8rco6JjwbHxc89TMhD38hJwUyd4rlwzxWjhHWToh0g3E4+Pc2m3YknhJ5fCBcdP+BgMURtBTgDwM8F8mcXERqrStmXLcnudnOsvKBvZoDrYU2p4lt8cp6iQokSaQEvRisJ8=;dCfjaCspfVEjDf6/GED16w=="
+secured: "kH4UyE5k9afKJGHLVuQIv0TKhVlHGS7vUKZPfKAkFY+XRabarkBwplxWgBkaXXYNZmc1ydqKn0ST6yVKWYcim0ezs4c3zWKuMGpwb8yz9BGfFEC9Fw44wTJ936B0JK2y0P1xY+JIs8x/in0vvrlFx6jkzogbFeN1ygVOJ69ZOo8+Vcvp07e7FTS67bhC83cdXiKYMpEvg+F1dMMkLxx/GuIG7HP18UCd21I+mj2L/Cx8qbHFZRsHy5irkVRYov7kdUTjR/6mgfyQNM77XgsBN2JGuCsqfhw/tmjmC7t3d3jd+//hbaR0W4G0nVNb9dz8JJfhBq5gJ+dZ902t3ywmaqSbrCjAr9s327qcN4l2zsMTygGdi9sbcuYvOARdyrOZSuAiYpHYocE5m/aL3TSIzPPj8pLz2tVyzau7L+hTzMt2Axn8dxtbvTn8/CinX2JTEkmjzG0s2lnYhhfTdUVzz5hmJakV0le+DegnZxCM8NuCIX4tj8E2VQKiDnbh5lg60u7XVFoCd2pDMYBLRnmA8Q==;p4uvFvC3Qnflpksv/AkS1Q=="
 ---
 

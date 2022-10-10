@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/iit-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
 type: article
 quality: 55
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
         width: 700
         height: 394
+        isCached: true
+  - title: "IIT Mandi and NSDC launch certificate programmes in Data Science and Machine Learning"
+    excerpt: "The course will be conducted through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be carried out through an eligibility test which will be conducted on October 15 and 16."
+    publishedDateTime: 2022-10-10T08:47:00Z
+    webUrl: "https://indianexpress.com/article/education/iit-mandi-and-nsdc-launch-certificate-programmes-in-data-science-and-machine-learning-8200266/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 32
+    images:
+      - url: "https://images.indianexpress.com/2022/10/IIT-Mandi-North-campus-1.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"

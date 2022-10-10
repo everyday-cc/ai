@@ -7,8 +7,8 @@ originalUrl: "https://allafrica.com/view/group/main/main/id/00083624.html"
 webUrl: "https://allafrica.com/view/group/main/main/id/00083624.html"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: AllAfrica.com
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "How 6 health systems are using AI to improve patient care"
-    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
-    publishedDateTime: 2022-10-05T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
     excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
     publishedDateTime: 2022-10-06T07:28:00Z

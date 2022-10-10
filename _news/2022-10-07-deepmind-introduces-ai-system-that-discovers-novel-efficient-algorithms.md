@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind AI invents faster algorithms to solve tough maths puzzles"
-    excerpt: "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess."
-    publishedDateTime: 2022-10-05T16:42:00Z
-    webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 88
-    images:
-      - url: "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Using AI to create more efficient math algorithms"
     excerpt: "A team of researchers at Google's DeepMind, London, has found that AI can find faster algorithms to solve matrix multiplication problems. In their paper published in the journal Nature, the group describes using reinforcement learning to improve math-based algorithms."
     publishedDateTime: 2022-10-06T15:10:00Z
@@ -49,110 +35,38 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
-    excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
-    publishedDateTime: 2022-10-06T19:02:00Z
-    webUrl: "https://www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
+  - title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
+    excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."
+    publishedDateTime: 2022-10-09T08:12:00Z
+    webUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 71
+      name: heise online
+      domain: heise.de
+    quality: 38
     images:
-      - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
-    excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
-    publishedDateTime: 2022-10-06T21:40:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 70
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
-        width: 1440
-        height: 810
-        isCached: true
-  - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
-    excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
-    publishedDateTime: 2022-10-07T20:19:00Z
-    webUrl: "https://hothardware.com/news/deepminds-alphatensor-ai-complex-math-gamers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59815/content/hero-gaming-model-ai-learning-news.jpg"
-        width: 708
-        height: 400
-        isCached: true
-  - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
-    excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
-    publishedDateTime: 2022-10-06T15:44:00Z
-    webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
-    ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    type: article
-    provider:
-      name: Daily Tech News Show
-      domain: dailytechnewsshow.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "Deep Mind improves matrices maths"
-    excerpt: "Improved 50 years worth of maths classesGoogle’s DeepMind has been using applied reinforced learning techniques to the multiplication of mathematical matrices and can do it better than some 50 year-old human-made algorithms."
-    publishedDateTime: 2022-10-07T08:20:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55615-deep-mind-improves-matrices-maths"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/296515b3f2e75ad2c719f4fc5c518981_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
-  - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
-    excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
-    publishedDateTime: 2022-10-05T15:02:00Z
-    webUrl: "https://www.newscientist.com/article/2340343-deepmind-ai-finds-new-way-to-multiply-numbers-and-speed-up-computers/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/05134003/SEI_128179808.jpg"
+      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/2/0/3/2/Screenshot_2022-10-06_143311-a84fee75ccd5217a.jpg"
         width: 1200
-        height: 800
+        height: 611
         isCached: true
-  - title: "DeepMind AI can multiply quicker than ever imagined, beating a previous record"
-    excerpt: "AlphaTensor improves and speeds up computation by 20 percent, allowing for quick and accurate matrix multiplication."
-    publishedDateTime: 2022-10-06T19:42:00Z
-    webUrl: "https://interestingengineering.com/innovation/deepmind-ai-can-multiply-quicker-than-ever-imagined-beating-a-previous-record"
+  - title: "How 6 health systems are using AI to improve patient care"
+    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
+    publishedDateTime: 2022-10-05T17:11:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
     type: article
     provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 50
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/06/image/jpeg/Szn8Dxk2UaLaaGGCAy921PTBb2yYR35MlF2LCexk.jpg"
-        width: 1920
-        height: 1097
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+  - title: "How can AI help create better algorithms?"
+    excerpt: "AI is taking the world by storm and is here to stay. Explore how AI can help create better algorithms in Math in this post."
+    publishedDateTime: 2022-10-07T11:08:00Z
+    webUrl: "https://www.techthirsty.com/how-can-ai-help-create-better-algorithms/"
+    type: article
+    provider:
+      name: Tech Thirsty
+      domain: techthirsty.com
+    quality: 19
 
 secured: "dekVjgjYHiroOUxKDVbFhcFz6g+qR6RhgsqpHR0fi8BeFJSWRCmWpCyZTRtAUKlEqNwr28cuJluUkhapri/FpVtE52ObsE7bJCt6ilp0poju9vVAH+jOH+25N+UzbqLZ4oAdq0SbW0hCjJtkOOoJitJBYJCFI8j4Q0P1buhdaW2LTgys9FDsTK21dNTocVkJrpF/ice5HHzR+g6DNWIuSQw/e1Okx8VQ2JFFx90q1K81p4ohhj/sVVaJEYljaTr6RVHpBOWp4AFQ+hb5e5OPUYQbHE8/GvNImBFa5ZH41D+5axihp3U1/wLKb7YoeAwvrf2GtdVobf4e5NCbsdTFA7YILpdMSBJ1M0OuAKlJcQMIoMQugJbdKzjk+8En9K7s8XR8dlh998Y2STTQ0LWo+gpqxZgEGTs3wLQHM66k/BvJsttbaOaArSf5unzlrkHw012XbSjx2JE5fe70moggfk91Z7aegnL+p3cuzLiN648+mpKwBGEiDTz6ZKwyXDiffxqTNfYGgkZy3XcCB5imOA==;Xv3yolziKyp6upHogdB3hQ=="
 ---

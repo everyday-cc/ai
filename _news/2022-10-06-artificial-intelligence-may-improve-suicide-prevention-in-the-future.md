@@ -1,31 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence may improve suicide prevention in the future"
-excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
-publishedDateTime: 2022-10-05T20:14:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
-webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
+excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. “Having AI that could take in a lot more data than a clinician ..."
+publishedDateTime: 2022-10-05T20:57:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/967008"
+webUrl: "https://www.eurekalert.org/news-releases/967008"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - AI in Autos
   - AI
-  - AI in Healthcare
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
-    width: 2880
-    height: 1866
-    isCached: true
 
 related:
   - title: "How Will AI Technology Change Leadership In The Future?"
@@ -37,7 +27,16 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 47
+  - title: "Synthetic futures: my journey into the emotional, poetic world of AI art making"
+    excerpt: "My first image requests were whimsical queries, nocturnal flights of fancy, gentle tentative casts into the virtual spirit world."
+    publishedDateTime: 2022-10-09T19:10:00Z
+    webUrl: "https://theconversation.com/synthetic-futures-my-journey-into-the-emotional-poetic-world-of-ai-art-making-188533"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 15
 
-secured: "O0ezpSQGP1u+DVkmQh2I5yaBQwYdvlTNihjc2hbU1kbIwKruOggBwoy3rQGUt60RDSO4pVR4zi5pEG8kW221JVg29oz9kpO6rAiHVTBQwNPQiiTRmkn2ep8M2brv8JPMpwHWsJhAQ0B16pJpFVwkekR/f4FHRiU1Hl7aN3sIAtQRA6hIFCYIUnzb8LhR3JXc6TRIEogiYCWfm2r+5axkwcUfcfnZhDEk3xZ/v/T72/HQXgjX60kYHhHs6Fs2KxAdrm4TFvT6t4eaVBroRmJMCqJ81OxKohW7n8e3yM/Zwd5kcEUI2HS6ZeJi/2C5w9HnGiKfCFsvaN23i55+IP1Mp+OtyutQSkCwHj87wYR89A1ByDa8KdmztfrACmUse+jZlP7efcWexWO6l0LA79FwqMhVCzcn9hHT3T8AofDEPErOlPt+zlFbzWrKiCVIm85LQMGEOWpp307Cf42LZRr0hpxSQ+OkJUv8OfRpoUSSB1w8rNCIffzlc2caMyV7NVetrI+CK4v7fd3DOGNc6aKZhg==;y5HZZKaN0Yl8uQr/o9mCfQ=="
+secured: "uorY+D2y3fqbEF/yRk0uaf+HVjj3yZr7Nr8MRHVbQqzvrPiysJcoVbVR5XC70o5H387MF4tSyMdJLXi9vqutLb8fbEEuZV84cUTMol76BFAsEI8ojILO1+1FjGoGqXPHqka/ggBUMh7xYkSBrh5oggtokOtB0RJkXGUjec8MhS5ETGnSRsoJ26DRYq0yD+zBjbnxnRV+LGdlsR8I9k5RYYKYu53nk80fZUzisFnfNprB23lP/bVkQ7IW7yOvSvk7BOxcyFd84eto4+3WiCRZ1PGhTNDkyxno1dsCfka+xqU8R0RWBBqlJgBlFP8KWZMxqUbJo/l9J/Zm52jb0MDQpxIYOdNRgEV3qhRyk/fZwuE=;ckNjP9U4EUWz0zF3qt0fuA=="
 ---
 

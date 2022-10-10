@@ -44,6 +44,22 @@ related:
         height: 405
         isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
+    excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4.."
+    publishedDateTime: 2022-10-09T17:17:00Z
+    webUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022"
+    ampWebUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 73
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
     publishedDateTime: 2022-10-09T10:13:00Z
     webUrl: "https://www.zawya.com/en/business/transport-and-logistics/dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex-obp9xlsl"

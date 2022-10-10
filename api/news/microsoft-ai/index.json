@@ -54,15 +54,15 @@
       ]
     },
     {
-      "path": "_news/2022-10-06-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview.md",
-      "title": "Domino’s MLOps release focuses on GPUs and deep learning, offers multi-cloud preview",
-      "excerpt": "New connectors and support for GPU inferencing accompany private preview of Nexus hybrid-/multi-cloud capabilities",
+      "path": "_news/2022-10-07-dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multicloud-preview.md",
+      "title": "Domino’s MLops release focuses on GPUs and deep learning, offers multicloud preview",
+      "excerpt": "[Also read: Domino Data Lab announces latest MLops platform to satisfy both data science and IT] GPUs can make lots of ML and deep learning operations go faster because they parallelize massive ...",
       "sourceUrl": null,
       "webUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
       "originalUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 110,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -78,7 +78,7 @@
       "type": "article",
       "ampWebUrl": "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
       "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/",
-      "publishedDateTime": "2022-10-06T08:12:00-07:00",
+      "publishedDateTime": "2022-10-06T18:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -101,9 +101,9 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI",
-        "Machine Learning"
+        "Microsoft AI"
       ]
     },
     {

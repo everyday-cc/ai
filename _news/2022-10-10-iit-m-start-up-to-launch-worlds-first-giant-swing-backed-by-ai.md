@@ -50,6 +50,20 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "IIT Mandi and NSDC launch certificate programmes in Data Science and Machine Learning"
+    excerpt: "The course will be conducted through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be carried out through an eligibility test which will be conducted on October 15 and 16."
+    publishedDateTime: 2022-10-10T08:47:00Z
+    webUrl: "https://indianexpress.com/article/education/iit-mandi-and-nsdc-launch-certificate-programmes-in-data-science-and-machine-learning-8200266/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 32
+    images:
+      - url: "https://images.indianexpress.com/2022/10/IIT-Mandi-North-campus-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "IIT Mandi start up to launch world’s first giant swing backed by AI in Manali"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at Indian Institute of Technology (IIT),"
     publishedDateTime: 2022-10-09T11:59:00Z
