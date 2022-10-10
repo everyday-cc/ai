@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all"
@@ -30,6 +31,6 @@ images:
     height: 800
     isCached: true
 
-secured: "n1qHzJyhUZ6rxWjL6IOB/9BLwy6MOXYLAJ771L86dpclZvXJjDDdc3OWIx4FX69DFIKPXujn0n7AzI/V6Qv8ZyQeD29IfOecfjQEid+bomTkbgVcEiX6T59KXhKDZbESENvfXJudbNtc/awfESUSP2DesDxvhUgeIA7t3A38Whxed/LIooMj589Ia8S7vnDHuWZK6HkDlpnKB/9NZUnERTN8K3pkebMqWjFUNoYjYWP/d1LNc2qZ+0Sp7SP70743YiFZeRqV3w2T2f72Y+Ho0+4topoDs4y/7BVlhdHipZSbX3cJoZ/Gfh743hN8ibB6btW/sLVuV1PXk4cWJ49eq9Vrq1GYUVS5VehxmeNnYN0=;T7hnxBeclG/J678JB5qyFA=="
+secured: "WGs0McetepbZDYPfjquD3dea4KwLDJ65Qqq7CneSGX0kpCBR68iXOPfuvNuSve9r+BsQA7S+HU19taIAURGRomgb+g5WcR1fyHv606aRST+Bdm43t4IJo4Ytnm87HDhW7k3MrVjVMzB7e0pim8Da2fCD1DnwERqPw73EOF3mXaz9IShwtrF3+G5oLR5zYUziAO26U0o4AD9a9txYPDxMw/HNlMjh+U0UCdGPxemnJO0NAy6pOVtAdpX3PPSy3c/mlCV43uoz/DFLCdz9eLlb4OAiplYH0AKbaaem9878Nx455ARuxuYDpxuFRiCq/xVf+rbdRsdoBe5iPrsBpxNTMIa2VUZv5XqaU0ocij8HtfGUwpW5eldIop9lgfSFd1UBPLHV1IxOMn0DRQD+bWPaoFKg48i9HGrOSvXSmR1nSZPw3l+GSWSVqZvBzONhZ1K9OLyOvbLg/BuAVAFLOU8nW3KdP2izxEc90cwjfd17H0TG/xk2lk8QCEa7ZXRT/wEYlMFx21WMA1LJakiS6GUE8Q==;585qB3ytKyJdaNy++LBGQQ=="
 ---
 
