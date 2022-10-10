@@ -24,17 +24,6 @@ images:
     height: 734
     isCached: true
 
-related:
-  - title: "Investors raise human rights concerns over facial recognition technology"
-    excerpt: "Candriam, Aviva Investors, Columbia Threadneedle and Robeco are among a group of 20 investors raising human rights concerns over facial recognition technology, citing its potential risk of racial and gender bias,"
-    publishedDateTime: 2022-10-05T11:44:00Z
-    webUrl: "https://www.investmentweek.co.uk/news/4057533/investors-raise-human-rights-concerns-facial-recognition-technology"
-    type: article
-    provider:
-      name: Investment Week
-      domain: investmentweek.co.uk
-    quality: 33
-
 secured: "WJ2BhD+4Bn7vc7xL65II0dkNtGht14ADjnx6Tz0td47LmjmW11B6hVbT07PGZohydwU7eWsBByDSXc7Fja5DlsIrwPwNpOKQNhEGL2h8UoX2czykH8DYl4aMxE4zxK0MJ9UQj9+rnKcOAoPChCTW7qhE29oiHLvZ0RDCeayA7ScXp+4nPDxn4mkDYw8nS02ltH5OkLflD714TzwGRuVDHN7olYNRyzVYta8IFSOLtc/LUzD9VsdCA8vLsLCI8GDTnxkxYHKYSDJOVJid/qeJuwkYW3FMXvaqYUNbgiayIG2RUfMh8nNhcis57TOqFpfIcL8QxnRmamIw4syelorVmrYZTD2NOqhWBH9mfDOMUaadsala/JnExB1zCLpRVMMw4g6fgWOmpBBkmP73hRzvNGtS8kfo3zvUrDG7rLlc5D434oWWxWykKfj6r09MWo9H+bUlNIySylqxdDs1NXNY+372mgids7y68UanRJlDHla9bO2bCEm2D30S4HsNZ7YzbiakIB2meu05ObYt5FveOw==;VCGRaOjNJp6dTe4Ify7jEg=="
 ---
 

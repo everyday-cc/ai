@@ -2,41 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
-      "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "The new set of computer vision services will combine SK Telecom's artificial intelligence (AI) models, trained on more than 10 years of anonymized video data, and AWS's edge services, IoT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29081188",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188",
-      "publishedDateTime": "2022-09-29T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-29-metas-new-make-a-video-signals-the-next-generative-ai-evolution.md",
       "title": "Meta’s new Make-a-Video signals the next generative AI evolution",
       "excerpt": "Make-A-Video builds on AI image generation technology (including Meta's Make-A-Scene work from earlier this year)",
@@ -1147,6 +1112,49 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-intel-reveals-arc-a770-gpu-price-and-availability.md",
+      "title": "Intel Reveals Arc A770 GPU price and availability",
+      "excerpt": "Intel claims that its GPU offers up to 65% better peak performance versus competing products (presumably NVIDIA RTX 3060 series) in ray tracing. In addition, A770 features a full complement of 32 Xe Cores and ray tracing units.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "originalUrl": "https://www.digit.in/news/pc-components/intel-reveals-arc-a770-gpu-price-and-availability-65431.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.digit.in/default/6c05faa58515f2a238ad80b12e86c16810dc453c.jpeg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/pc-components/65431/intel-reveals-arc-a770-gpu-price-and-availability",
+      "publishedDateTime": "2022-09-28T18:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digit",
+        "domain": "digit.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     }

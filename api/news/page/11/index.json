@@ -2,49 +2,6 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-09-27-aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative.md",
-      "title": "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)",
-      "excerpt": "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
-      "originalUrl": "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Item",
-        "domain": "dailyitem.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
       "title": "How AI Is Changing The Game In Insurance",
       "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
@@ -1182,6 +1139,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial.md",
+      "title": "Alzheimer’s treatment slowed cognitive decline in closely watched clinical trial",
+      "excerpt": "A n investigational Alzheimer’s disease treatment from Biogen and Eisai slowed the rate of cognitive decline by 27% in a clinical trial, the companies said Tuesday, meeting the goals of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "originalUrl": "https://www.statnews.com/2022/09/27/alzheimers-treatment-slowed-cognitive-decline-in-closely-watched-clinical-trial/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.statnews.com/wp-content/uploads/2022/06/AdobeStock_205319783-1024x576.jpeg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "STAT",
+        "domain": "statnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

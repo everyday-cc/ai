@@ -7,7 +7,7 @@ originalUrl: "https://www.zawya.com/en/business/transport-and-logistics/dubais-r
 webUrl: "https://www.zawya.com/en/business/transport-and-logistics/dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex-obp9xlsl"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     isCached: true
 
 related:
+  - title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
+    excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
+    publishedDateTime: 2022-10-09T08:48:00Z
+    webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+    ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
+  - title: "Gates Hub participates at GITEX Fintech Surge 2022 in Dubai"
+    excerpt: "Gates Hub brings its crypto and fintech solutions to GITEX Fintech Surge 2022 After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai,"
+    publishedDateTime: 2022-10-06T09:37:00Z
+    webUrl: "https://gulfnews.com/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
+    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 59
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/10/06/Gates-Hub_183aca7613a_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "RTA to exhibit self-driving cruise vehicle for the first time at GITEX 2022"
     excerpt: "RTA has outlined an integrated roadmap for the future of self-driving transport. It is moving ahead toward realising the Dubai Smart Self-Driving Transport Strategy aimed to transform 25% of total mobility journeys in Dubai."
     publishedDateTime: 2022-10-09T14:50:00Z
@@ -39,6 +71,33 @@ related:
         width: 750
         height: 450
         isCached: true
+  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
+    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles Transport"
+    publishedDateTime: 2022-10-09T11:03:00Z
+    webUrl: "https://www.arabianbusiness.com/industries/transport/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+  - title: "Self-driving cars are coming to Dubai"
+    excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
+    publishedDateTime: 2022-10-10T05:14:00Z
+    webUrl: "https://www.timeoutdubai.com/news/self-driving-cars-are-coming-to-dubai"
+    type: article
+    provider:
+      name: Time Out Dubai
+      domain: timeoutdubai.com
+    quality: 19
+  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
+    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"
+    publishedDateTime: 2022-10-10T03:33:00Z
+    webUrl: "https://www.arabianbusiness.com/gitex-global/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "/vBsfbVnQqz7vUaZzl5LtNOvlwHZH3oscXJhqOHU7GaFNS81AsJit2Egg+mKCjVF7AhviV/2wSvzCHoSZ5HD2r18mR1shNj9qU7gjyItPtIS9Q9VxBKY90KVb6iVSMhwORvLJOe1Ib097GL4M5AHT7ehVhHTIFEDRxlu3osjn+rsw6DMUC1+N03yf6+ig9rJ1y4d4t3vZ4c85/Y029aE0FN1W+kZjjo1nuT9DqHM78lFaD8Uc1eMeVaUQSxNfNrRpjD9QqAvlkp9wst9rBru6gTXXpx3+ieDK1mtpJziLP/tdNlyzSyG3idUsLVJKMintbtHhsrXwpGOQAJ3ATOs6o13Q32k58LnEXYS+vzI/d4=;00JolxyqWp6v/NJdmTCnrw=="
 ---

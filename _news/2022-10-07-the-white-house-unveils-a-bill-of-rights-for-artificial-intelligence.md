@@ -7,8 +7,8 @@ originalUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-right
 webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
 type: article
 quality: 71
-heat: 112
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechSpot
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
+    excerpt: "The published blueprint is a nice overview of the issue, but that’s not what should be happening at the federal level. The White House should be doing more to work with Congress to create clear legislation to implement the blueprint."
+    publishedDateTime: 2022-10-06T15:56:00Z
+    webUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/"
+    ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,494,x0,y21,safe&width=1200"
+        width: 876
+        height: 494
+        isCached: true
   - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
     excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
     publishedDateTime: 2022-10-05T20:22:00Z

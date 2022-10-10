@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 137
+published: true
 
 provider:
   name: Forbes
@@ -30,22 +30,75 @@ images:
     isCached: true
 
 related:
-  - title: "There’s something missing from the White House’s AI ethics blueprint"
-    excerpt: "It’s a big week for Americans who’ve been sounding the alarm about artificial intelligence. We want to get to know you better — and learn what your needs are. Take Vox’s survey here."
-    publishedDateTime: 2022-10-05T11:37:00Z
-    webUrl: "https://www.vox.com/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias"
-    ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias"
-    cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23387228/ai-bill-of-rights-white-house-artificial-intelligence-bias"
+  - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
+    excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
+    publishedDateTime: 2022-10-06T20:35:00Z
+    webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
     type: article
     provider:
-      name: Vox
-      domain: vox.com
-    quality: 104
+      name: TechSpot
+      domain: techspot.com
+    quality: 71
     images:
-      - url: "https://cdn.vox-cdn.com/thumbor/7t7iMNvC06jPvCGWMkP6W--58Zs=/0x0:1921x1081/1400x1050/filters:focal(808x388:1114x694):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71455806/AI_3.0.png"
-        width: 1400
-        height: 1050
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
+        width: 1880
+        height: 1258
         isCached: true
+  - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
+    excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
+    publishedDateTime: 2022-10-05T20:22:00Z
+    webUrl: "https://abc7chicago.com/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    ampWebUrl: "https://abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
+    type: article
+    provider:
+      name: ABC 7 Chicago
+      domain: abc7chicago.com
+    quality: 64
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12297807_hypatia-h_4ab329e30409f78d1913603108321e24-h_681986e706d1b4db0e09cc8189ce746c.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
+  - title: "White House Unveils Artificial Intelligence Bill of Rights"
+    excerpt: "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies."
+    publishedDateTime: 2022-10-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
+  - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
+    excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
+    publishedDateTime: 2022-10-07T13:39:00Z
+    webUrl: "https://www.lawfareblog.com/ai-bill-rights-makes-uneven-progress-algorithmic-protections"
+    type: article
+    provider:
+      name: Lawfare
+      domain: lawfareblog.com
+    quality: 39
+    images:
+      - url: "https://www.lawfareblog.com/sites/default/files/52259005965_8621f988f2_b.jpg"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
+    publishedDateTime: 2022-10-06T13:21:00Z
+    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
 secured: "9NOn0BUVmAR6nHTPJrdTqZlXlYJrGCxA6VTjpPAk0jljvGii0WN2iSi7Y8xcQubhp9jOUpAmCD/RRViJolVjKEDMCsJ+D2JK8i59vvA3LsUkoKK3smePEsUY04FkJ50BvgThrI4aIr1iJPw5VmERoloJ3iz0thZ85z4FRD3w0y82bNmISHmUJc9FtG71KJZtXExbAYOBxmKc5aTMHEvvNFOBkPKKQcMAXOzB4gfF3RalgZVjYkrAVqdnbu97U6k4i2VGIl+jhLfqkNnVZCyWVbK7w4yuO6BqOxcUaMQTHlX9fHuC6FYPFnQoYGovYfebZtJh2tUQXIc1lRfSc76bHAh9fmAyau2DcKczQPS2k0mM7c6UXFD/RvPmS4ZzixTV/9GHCK0yalYawWV66JHu8Yt1w3cUyU7EkccgTEPEi9WlRnav8UjzlJAR3hUBzxyTGNPNAx1J7mqzvtpl5AUPM2giX8w6w9GjJob+lxkNESnb19yOlaVczE9emMPFQBViiEvakRTVvfI+uwwk793kpg==;me29U+OKmH/TBPMPRirP2g=="
 ---

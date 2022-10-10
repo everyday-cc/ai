@@ -7,8 +7,8 @@ originalUrl: "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-sq
 webUrl: "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Your Story
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Miko acquires 70% stake in AI board-game startup Square Off; aims $1 billion revenue in next 5 years"
-    excerpt: "Sneh Vaswani, co-founder and CEO of the company told ETRetail that it aims to reach $1 billion revenue in next 5 years. The company also expects to cr.."
-    publishedDateTime: 2022-10-05T11:11:00Z
-    webUrl: "https://retail.economictimes.indiatimes.com/news/consumer-durables-and-information-technology/games/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years/94660924"
-    ampWebUrl: "https://retail.economictimes.indiatimes.com/amp/news/consumer-durables-and-information-technology/games/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years/94660924"
-    cdnAmpWebUrl: "https://retail-economictimes-indiatimes-com.cdn.ampproject.org/c/s/retail.economictimes.indiatimes.com/amp/news/consumer-durables-and-information-technology/games/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years/94660924"
-    type: article
-    provider:
-      name: retail.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 42
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94660924,imgsize-631422,width-1200,height-628,overlay-etretail/miko-acquires-70-stake-in-ai-board-game-startup-square-off-aims-1-billion-revenue-in-next-5-years.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Miko acquires majority stake in AI gaming startup"
     excerpt: "Miko, an AI robot maker for kids, on Wednesday acquired a 70% stake in gaming platform Square Off for an undisclosed sum. The acquisition will allow a complete exit for Square Off’s existing investors; however, the startup’s leadership is expected to ..."
     publishedDateTime: 2022-10-05T15:04:00Z

@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-09-see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show.md",
+      "title": "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show",
+      "excerpt": "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "originalUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "publishedDateTime": "2022-10-09T01:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
       "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
       "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
@@ -77,59 +120,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
-      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
-      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
-          "width": 1880,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     },
     {

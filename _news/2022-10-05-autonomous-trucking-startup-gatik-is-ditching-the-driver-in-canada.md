@@ -24,38 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Gatik Goes Driverless In Canada For Grocery Giant Loblaws"
-    excerpt: "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ..."
-    publishedDateTime: 2022-10-05T12:02:00Z
-    webUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/"
-    ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 666
-        isCached: true
-  - title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
-    excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
-    publishedDateTime: 2022-10-09T08:48:00Z
-    webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 74
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
     excerpt: "Loblaws is partnering with a California-based autonomous vehicle company in what's believed to be a Canadian first: grocery trucks powered by self-driving technology."
     publishedDateTime: 2022-10-05T13:26:00Z

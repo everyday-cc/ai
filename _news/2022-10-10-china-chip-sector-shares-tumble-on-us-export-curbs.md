@@ -1,0 +1,45 @@
+---
+category: news
+title: "China chip sector shares tumble on U.S. export curbs"
+excerpt: "Shares in several Chinese chip companies tumbled by up to 20% on Monday after the U.S. unveiled its toughest curbs yet on Beijing's tech ambitions. Chinese companies from semiconductor equipment and materials makers to AI chip developers are bracing for the impact of the new rules announced on Friday,"
+publishedDateTime: 2022-10-10T04:58:00Z
+originalUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/China-chip-sector-shares-tumble-on-U.S.-export-curbs"
+webUrl: "https://asia.nikkei.com/Business/Tech/Semiconductors/China-chip-sector-shares-tumble-on-U.S.-export-curbs"
+type: article
+quality: 39
+heat: -1
+published: false
+
+provider:
+  name: Nikkei Asia
+  domain: nikkei.com
+
+topics:
+  - AI Hardware
+  - AI
+
+images:
+  - url: "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F8%252F3%252F7%252F42557389-3-eng-GB%252FCropped-1665374955chip%2520curb%2520top.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms"
+    width: 1260
+    height: 630
+    isCached: true
+
+related:
+  - title: "China’s chip industry set for deep pain from US export controls"
+    excerpt: "Two years after the US hit Huawei with harsh sanctions, the Chinese technology group’s revenue has dropped, it has lost its leadership position in network equipment and smartphones, and its founder has told staff that the company’s survival is at stake."
+    publishedDateTime: 2022-10-09T03:25:00Z
+    webUrl: "https://www.ft.com/content/e950f58c-0d8f-4121-b4f2-ece71d2cb267"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 54
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
+        width: 619
+        height: 377
+        isCached: true
+
+secured: "dnzXIjKIorhSIGqlM4PgTlp0f6exrPHp6hP9ncYaksUNBW/75FGaIuHn+dPQ4KPDwpkEwUtOXg+yvkFB/xFe50hQW17dj8BqSsFZYic8rVZvEppZswgK60MCUWbHXyoodTn/dvg+6GIoxsAQMusUfBZTrYp295UG2tnjYWkpTcguXSKeN9SL1xKp45+ZRYIehRINmi8QIZ/e+G5fexDpDfMzrtLDux6/USeFlzL3uNLXolXLvOdW8G2IHqb3mxe/FJKqh2RivRdxxE73iY7CrBhmuK0/LTPmk9f0hTdXRmPaSpbFEXXcYNCf6Z4rwXgftvnPBiI5jpylAWs+xIMZ5fkPseWf4Dh6ptko0drHNwg=;p/R5lSgtJWDV0RLBgb8umQ=="
+---
+

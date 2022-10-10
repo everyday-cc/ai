@@ -228,59 +228,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
-      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
-      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
-          "width": 1880,
-          "height": 1258,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-10-06-teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot.md",
       "title": "Tesla’s Biggest News At AI Day Was The Dojo Supercomputer, Not The Optimus Robot",
       "excerpt": "Tesla's Dojo supercomputing technology promises to accelerate the development of self-driving cars by an order of magnitude, and it will start coming online early in 2023.",
@@ -430,49 +377,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-robotics-startup-miko-acquires-70-stake-in-square-off.md",
-      "title": "Robotics startup Miko acquires 70% stake in Square Off",
-      "excerpt": "With the acquisition, Miko will expand its product line beyond its flagship AI robot companions for kids ... Atur Mehta, the startup’s co-founder and CTO, says the move will “bring new ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp",
-      "originalUrl": "https://yourstory.com/2022/10/robotics-startup-miko-acquisition-square-off-ai-smart-board-games/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/a09f22505c6411ea9c48a10bad99c62f/Imageypwb-1664979285228.jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1359,6 +1263,104 @@
         "AI in Robotics",
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
+      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
+      "excerpt": "An early prototype of Tesla Inc.'s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned, and waved to a",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "originalUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 138,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2018/01/MYNW_Facebookj.jpg",
+          "width": 452,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3656528/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
+      "publishedDateTime": "2022-09-30T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-tesla-unveils-the-hands-of-its-humanoid-robot-ahead-of-full-unveil-today.md",
+      "title": "Tesla unveils the hands of its humanoid robot ahead of full unveil today",
+      "excerpt": "Tesla is teasing the hands of its humanoid Optimus robot that is going to be fully unveiled at its AI Day event later today. Today, Tesla is expected to hold its AI Day 2 in Palo Alto starting at 5 p.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
+      "originalUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Robot-hands.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-unveils-hands-humanoid-robot/amp/",
+      "publishedDateTime": "2022-09-30T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     }
   ],

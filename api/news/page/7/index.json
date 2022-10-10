@@ -2,49 +2,6 @@
   "page": 7,
   "value": [
     {
-      "path": "_news/2022-09-30-amazon-vp-explains-how-to-move-past-limits-of-machine-learning.md",
-      "title": "Amazon VP explains how to move past limits of machine learning",
-      "excerpt": "Many companies believe machine learning is the solution to their problems, but it can’t overcome bad data and metrics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "originalUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/09/Amazons-Matt-Taddy.jpg",
-          "width": 2000,
-          "height": 1125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/amazon-vp-explains-how-to-move-past-limits-of-machine-learning/amp",
-      "publishedDateTime": "2022-09-30T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-09-30-alphasoc-announces-industry-first-cloud-native-network-traffic-analysis-product-to-identify-compromised-workloads-across-popular-cloud-platforms.md",
       "title": "AlphaSOC Announces Industry-First Cloud-Native Network Traffic Analysis Product to Identify Compromised Workloads Across Popular Cloud Platforms",
       "excerpt": "AlphaSOC, Inc., the Security Analytics Company, today announced its new AlphaSOC Analytics Engine (AE) solution, a differentiated cloud-native network traffic analysis (NTA) product that uniquely identifies compromised workloads across Amazon Web Services,",
@@ -1174,6 +1131,41 @@
       "topics": [
         "AI in Finance",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
+      "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
+      "excerpt": "The new set of computer vision services will combine SK Telecom's artificial intelligence (AI) models, trained on more than 10 years of anonymized video data, and AWS's edge services, IoT ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29081188",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188",
+      "publishedDateTime": "2022-09-29T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
       ]
     }
   ],

@@ -34,6 +34,22 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "IIT Mandi start up to launch world's first giant swing backed by AI in Manali"
+    excerpt: "The swing was built under a startup incubated at Indian Institute of Technology (IIT), Mandi, and is claimed to be a first-of-its-kind in the world."
+    publishedDateTime: 2022-10-10T04:53:00Z
+    webUrl: "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286"
+    ampWebUrl: "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp"
+    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp"
+    type: article
+    provider:
+      name: Zee Business
+      domain: zeebiz.com
+    quality: 54
+    images:
+      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
+        width: 700
+        height: 394
+        isCached: true
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
     publishedDateTime: 2022-10-09T18:53:00Z
