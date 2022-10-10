@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 related:
   - title: "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030"

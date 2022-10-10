@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AI in Finance
 
 images:
   - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816707/itpro/2019/01/ai_shutterstock_1089540200.jpg"

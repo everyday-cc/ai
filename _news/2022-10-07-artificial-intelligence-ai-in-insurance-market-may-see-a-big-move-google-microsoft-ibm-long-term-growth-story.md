@@ -18,6 +18,7 @@ topics:
   - AI
   - Microsoft AI
   - AI in Autos
+  - IBM AI
 
 images:
   - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
