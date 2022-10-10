@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participa
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
     excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles Transport"
     publishedDateTime: 2022-10-09T11:03:00Z
     webUrl: "https://www.arabianbusiness.com/industries/transport/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
+  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
+    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"
+    publishedDateTime: 2022-10-10T03:33:00Z
+    webUrl: "https://www.arabianbusiness.com/gitex-global/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
     type: article
     provider:
       name: Arabian Business

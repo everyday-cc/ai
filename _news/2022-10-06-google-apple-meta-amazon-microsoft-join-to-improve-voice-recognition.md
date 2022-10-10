@@ -40,22 +40,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Google picks South Africa for its first cloud region in Africa"
-    excerpt: "Alphabet Inc's Google is also building Dedicated Cloud Interconnect sites in Lagos, Nairobi, Johannesburg, and Cape Town."
-    publishedDateTime: 2022-10-05T10:23:00Z
-    webUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/"
-    ampWebUrl: "https://techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-picks-south-africa-for-its-first-cloud-region-in-africa/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1337404332-1.jpg?resize=1200,802"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "Kyndryl, Microsoft deliver cloud-based insights for mainframes"
     excerpt: "Kyndryl, which provides secure multi-tenant zCloud, will create data pipes that enable connections between the mainframe, including its zCloud platform, and the Microsoft cloud, making it easier for customers to move their mainframe data to the cloud."
     publishedDateTime: 2022-10-07T09:42:00Z

@@ -58,7 +58,7 @@ related:
   - title: "Google announces Tensor G2 chip at Pixel 7 event"
     excerpt: "This made a number of the Pixel 6's flagship new features possible due to the phone's machine learning and AI features enabled by the powerful Tensor chip. Magic Eraser is a perfect example of one ..."
     publishedDateTime: 2022-10-07T08:47:00Z
-    webUrl: "https://www.mashable.com/article/google-event-tensor-2-chip-ai-announcement"
+    webUrl: "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement"
     type: article
     provider:
       name: Mashable

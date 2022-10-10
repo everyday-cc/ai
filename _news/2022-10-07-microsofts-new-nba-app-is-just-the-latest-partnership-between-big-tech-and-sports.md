@@ -33,20 +33,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
-    excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
-    publishedDateTime: 2022-10-05T10:23:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-mec-lbwvksaa"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 80
-    images:
-      - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
-        width: 900
-        height: 599
-        isCached: true
 
 secured: "rgzB/0FtMZjdSg6docyxlMuQ6VDLbdso13lfKIx0uvwLP62k3pOGC4MJoulv3SbHrZoSnA3/W3dDDXsfyOEN0QxsBJMhaYERSmjW9N+V9dkWPQ/OhiFPsTi9NlL1LH8g0/TANNsg0oxf0g28Ud4kPmLsfPqMKqRdhi6X47eiLxIeTmciwLp1uZAVBfdO+AxxQ+gsjHNB9+WrLu0K3R7tPtkCNteWSblvLoEB6f477Ps0xP1ljhq1v6m7vv4OoVsRPyGN+q4COI+Et1JK3FRcf2wI04q5C46AXnDwndHKU3QxlwIfpHBPnhIIJNTlMfY4XLgouq66O69ViI9tQD3wOH5h76X3loeuUvKoHKePTZd3baIm4YRAQiMSKAUxiVMLoMoSwwEgoiPFjpBeF36XWey/xmlM7wFoGemKSaz4FKeQG83g1JYyS7gOP8Omsk5pq2GfydWSXoEL7+lT01eA7RonRxRG/9xIenPYpBo5TK80JmU4Wh+CM77Zspaa0DeLBPOlbgl8LL+9pDRUGI5/XQ==;bHeub0Po08gI8kL53Owyrw=="
 ---

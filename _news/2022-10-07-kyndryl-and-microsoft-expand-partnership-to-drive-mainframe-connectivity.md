@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-micr
 webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
 type: article
 quality: 83
-heat: 103
+heat: 93
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Palo Alto Networks 5G-native security now available on Microsoft Azure Private MEC"
-    excerpt: "Azure private MEC combines network functions, applications and edge-optimized Azure services managed from the cloud to deliver high-performance, ultra-low-latency 4G/5G private wireless solutions that address the modern business needs of enterprise customers."
-    publishedDateTime: 2022-10-05T10:23:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/palo-alto-networks-5g-native-security-now-available-on-microsoft-azure-private-mec-lbwvksaa"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 80
-    images:
-      - url: "https://static.zawya.com/version/c:MGNkYjZkMDgtYjUwYS00:MmE5Mjg4/a74fd7ec-5e43-40e6-a12b-f7b9383aa7ae-jfif.jfif?f=3%3A2"
-        width: 900
-        height: 599
-        isCached: true
   - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
     excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
     publishedDateTime: 2022-10-06T17:53:00Z

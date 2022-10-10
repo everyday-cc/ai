@@ -44,6 +44,15 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
+  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
+    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"
+    publishedDateTime: 2022-10-10T03:33:00Z
+    webUrl: "https://www.arabianbusiness.com/gitex-global/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
+    type: article
+    provider:
+      name: Arabian Business
+      domain: arabianbusiness.com
+    quality: 19
 
 secured: "hCJBp2IGQZN5hBe7X5zIfMpnc6TCJQJlOqKXJGVqXnNbUkCuetuEXOu2b1UMis5K2Djgjd5B8dWBfztK1i81ObduWe3mbKW9SEapA1ujqWVoSEgBNK6PX9FSgpUN79gFeWRMQD1fGJ6zqq1KOdMJf0uXOJHmRNeQTtG48JU1ED5aJp3Z5YS30X/kjDkDmqaMqMgZZgpcUieAmUmP0FqM6lsSW/QAycyy7undt2bL/Xr5bVB+UW43X0m0790z5YGJ4OE4j135qbOSixzu2yEOa4aet2uYQ1sB3G14ByUh384Ck5rbpq702/2Qh3xeMDAzwzKwN7uD5BenjqHlPabKTFsjUyddeLVB6zGNwuINHohHl22yEwRqAQ4W/auyAw8M/nlWNXhCBbDDgR8OuqzUh3YhOypfZsQRkzbog9gmmAVe0oiPVoG5ckicexmlymF1nn82oYlVJxa6mOIefY1f1j+/xJbF3b1Cfhue5f8h3fHy8oZZITrlSBUvm19dcM2Bv4LL23T7XZwP/YogSMq1rw==;oWTyID33gLttxmN0vvIKTg=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1880
         height: 1258
         isCached: true
+  - title: "White House Unveils Artificial Intelligence Bill of Rights"
+    excerpt: "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies."
+    publishedDateTime: 2022-10-07T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 59
+    images:
+      - url: "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg"
+        width: 480
+        height: 278
+        isCached: true
   - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
     excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
     publishedDateTime: 2022-10-07T13:39:00Z

@@ -24,17 +24,6 @@ images:
     height: 690
     isCached: true
 
-related:
-  - title: "Miso Robotics unveils Flippy, a robot that makes fries"
-    excerpt: "Miso Robotics has begun shipping its Flippy 2 robot, which robotizes the process of frying potatoes, onions and other foods and takes fast-food French fries and onion rings to a new level of sophistication."
-    publishedDateTime: 2022-10-05T10:39:00Z
-    webUrl: "https://www.itworldcanada.com/post/miso-robotics-unveils-flippy-a-robot-that-makes-fries"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 34
-
 secured: "uNJIlodvnUMClOxrNk5137zOHiJh0dF4iiiRjgsPzIYhRcbxNSGIIhEXA45BkZ+qM1fBp+dpNPwNBeIVRHqZSnQ62PdmtaCTb7RkS0L3rF3QzMF04esw4pIi5S1VFUkZ6AeLOBtIg0D9+GIc1gJpTZ9rPRKulQ40KMivWOBspi0PCjvLjsmckcPKCXwaqwegBKJiLiebMBE+YuLipqPWCHrfcBURs57okW67SiIKZ++IHv+qkdRB6w/IdGBOGL1SBHEXJOE835knrnSHYN2zi5unF4wVw1NFe16M+BzkBkMklngQ6c3fbfVS3rpxpW2seDYPYVrkzo6WtmoU+xGszA18DS8RXKgv19phrpNLyr4=;HmX+qWaDOjTnCflMEUpy4g=="
 ---
 
