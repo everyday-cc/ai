@@ -39,6 +39,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
+    excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
+    publishedDateTime: 2022-10-10T10:53:00Z
+    webUrl: "https://www.investing.com/news/stock-market-news/semi-stocks-fall-as-us-ramps-up-export-controls-of-highend-chips-to-china-432SI-2908262"
+    type: article
+    provider:
+      name: Investing
+      domain: investing.com
+    quality: 36
+    images:
+      - url: "https://i-invdn-com.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "dnzXIjKIorhSIGqlM4PgTlp0f6exrPHp6hP9ncYaksUNBW/75FGaIuHn+dPQ4KPDwpkEwUtOXg+yvkFB/xFe50hQW17dj8BqSsFZYic8rVZvEppZswgK60MCUWbHXyoodTn/dvg+6GIoxsAQMusUfBZTrYp295UG2tnjYWkpTcguXSKeN9SL1xKp45+ZRYIehRINmi8QIZ/e+G5fexDpDfMzrtLDux6/USeFlzL3uNLXolXLvOdW8G2IHqb3mxe/FJKqh2RivRdxxE73iY7CrBhmuK0/LTPmk9f0hTdXRmPaSpbFEXXcYNCf6Z4rwXgftvnPBiI5jpylAWs+xIMZ5fkPseWf4Dh6ptko0drHNwg=;p/R5lSgtJWDV0RLBgb8umQ=="
 ---

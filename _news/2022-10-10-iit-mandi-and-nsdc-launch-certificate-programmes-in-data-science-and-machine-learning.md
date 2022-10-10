@@ -57,6 +57,22 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "IIT Mandi along with NSDC launches online certification course in Data Science and Machine Learning"
+    excerpt: "The course will be held through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be done through an eligibility test which will be conducted on 15 and 16 October."
+    publishedDateTime: 2022-10-10T11:06:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 45
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Oct/1665399778_iit-mandii-1.jpg"
+        width: 1500
+        height: 896
+        isCached: true
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
     publishedDateTime: 2022-10-09T18:53:00Z

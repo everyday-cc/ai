@@ -5,10 +5,12 @@ excerpt: "Over the last few years, artificial intelligence (AI) has worked its w
 publishedDateTime: 2022-10-07T13:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: Forbes
@@ -21,7 +23,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "UxQmuUtwX65flsetS9OL+mswZgeFwcfnkhfCQoGTp+NXxpXICSiGc0IBU2tnEWlgM6caexRJy6X0sZXwjQXC0nxho+n8oiwLE9hm4l3sZ8JoBPE2gt0ibCg4qY8Y3TECjV+ghpIvfPNdbRE3I9miNEgggZ99ceC4onQgXUBWA3Uq0I7O+vplSg46XAZN7XyUQ9WObCggsOeahRhvnzfPumC3yyT+fDT1VnPv5k+l8DFT0N/txTluiV4nvUZnayoPxNWeMP+ZbPYFiKds2a9yS2sYyJAzXab0Jz8tTIL1bBU7ozzUVp/OHpO4ZpJioAaZprifibtetPeyRT2JQikEtcV9jHlfxrekxzc6cCDMpPhBv1BFvbV5R3Qezm7kr9o120EGDstNQwecGiZX8vyn6GUf92evVWj53frFtMuu+o9dWlb/rCaafLxEgGEmAFEwr3J68uMmKLU82NBnrc1eUvvjMue2DYOZI6PMXSQ3kCPQJf8CZ0tRzQc3MlGcAlgtYkvu9ezufZmiO2XNwnXm7A==;BZHccVdDFWimzHOoDbgB+Q=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 639
+    isCached: true
+
+secured: "f8A3oOfJpQ8G27BHjH1KaoR5vk01PkQPAtDBimxE6HrjE6KW1RxyHRDqv/hlsb8J5XY/SQA21FLEh7IXOJbNaGC1lgu4N0L5acZ+zg2trqUWOqBxlayblPUkDF3zYpij2FWZSTxfqVhLX2ZgxiiCdlwbtgttQCMlMQlZqVfjAZfItlt/3D4L6X1x/gw8qipp3eICmZfMoIahgEm0uP7WNbvGonR+ZucXF9dGZ0HrW0CVykSsuB3b+oYieUt1MFe5JA6LBMLAjiicc3Iy3whNiq5XrW6GUkfEMtdkUcKiLHweoHGyxAm++UqzvpN9kinteRtl73bSAWjJnMfgVwbtdP0QrKkTyOBKBDQpRFhMz0I=;rVlOtqc0gqu0rEsc6et4OA=="
 ---
 

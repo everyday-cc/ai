@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-a
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video/"
 type: article
 quality: 88
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1545
     height: 770
     isCached: true
-
-related:
-  - title: "Metrics for evaluating content moderation in Amazon Rekognition and other content moderation services"
-    excerpt: "Content moderation is the process of screening and monitoring user-generated content online. To provide a safe environment for both users and brands, platforms must moderate content to ensure that it falls within preestablished guidelines of acceptable behavior that are specific to the platform and its"
-    publishedDateTime: 2022-10-05T18:38:22Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/metrics-for-evaluating-content-moderation-in-amazon-rekognition-and-other-content-moderation-services/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 71
 
 secured: "e2xQ8YzwEjngLiAVSMzvfyi2XJOGDmxTFnWx2CDrqdRivx0f3IKQix9F69wd9qXorCQOL1sliOeM3UJO0ohAvjyzVJ8N/c/8GIosJDVs9t9cqyb3NUcZfnzIpixDs0yUaW9TcE0PTMUzj/jong9YxHWztJxcnynJs5Qzbp034OksJ8EnCWKHvaPoWcAX2FzLuansQ+rUOn0MwpekSI9WDtDLFgMDryW+NIHyGBvOzEoOKLQWGAMoT9RF3wz2LnXUsW4s3OJ8SSfAXGsz/S+1nU7uKFBhBz3MfDQAtP1OkMJtFVCRA07PUofOeFBqcX4nOo5zKFAcg8W1rqJnIeFwxbiSSauR/J+ssryJG5GVE0o=;s8VQCS7X5Nc1hvczMZKaCw=="
 ---

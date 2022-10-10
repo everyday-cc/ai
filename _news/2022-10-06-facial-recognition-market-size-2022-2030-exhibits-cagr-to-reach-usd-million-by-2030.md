@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06"
 type: article
 quality: 62
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "AI in Manufacturing Market Size to Reach $17,925.50 Mn at a CAGR of 51.5% | Vantage Market Research"
+    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market was valued at USD 1,482.50 Million in 2021 and is projected to surpass the valuation of USD 17,925.50 Million by"
+    publishedDateTime: 2022-10-10T10:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29198911/ai-in-manufacturing-market-size-to-reach-17-925-50-mn-at-a-cagr-of-51-5-vantage-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29198911"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29198911"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "wIBJUiUtpGSXbqMdmsqXCgX6B/5BZRYVI2EgapmM1Ebbeu5WAhpu0c8WSnmveh+8g5lwWqjFI8vbkgzwsK3stshik8Cv/U2tRNjdeC0Xyu5Jc/DMwCuiQE9YAPZpFFf35OBGnBbVrfSEkoiYJv2ttY5v1WfRdrkoWPfbgliEWmqlRvOLsSGgUz9wMPpRrUIQfpqs8SFISZ8MYU8xcDjcQlSPnTToFTPJLH4+N9H+u5g/tLTF6TjbpCiSQ7ge3Le2InecP+Y+GVherz5xq8iWo1TDU5uZOlJuikfT6xPthDBVPt0auCGIpmGXCfWy8OJyVHHjZ5G5/pVhzwdvnrfGQ8xRNK5b7Gn/n1jrt/pyyeY=;zz3OhgX0rJVSs1nsXyAN9Q=="
 ---

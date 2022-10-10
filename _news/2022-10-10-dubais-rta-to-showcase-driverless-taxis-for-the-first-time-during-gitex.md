@@ -96,15 +96,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "Self-driving cars are coming to Dubai"
-    excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
-    publishedDateTime: 2022-10-10T05:14:00Z
-    webUrl: "https://www.timeoutdubai.com/news/self-driving-cars-are-coming-to-dubai"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 19
   - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
     excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"
     publishedDateTime: 2022-10-10T03:33:00Z
@@ -115,6 +106,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "e3u3IfUsneld8c3ktDkfFJkQzRk5uj4fvvA9tBXR+3Vw2sIqa0u0Ni66miO4HXGAI1c/t/ogfBXGtvq4Jz2yDbWHOUbVACXIS+3TGRCSbKPzPRbpfTe/97rhz0q21goe7mVIJl1ugnyZwVnKRHZp3a5rcxSg+JFL/geABp1g1ea7/dJjVPRqoJcVo/OPdYeeSZQaoCU3Ma4pwxgH4DuY6T4WKCufNbHEAz3m7smie9wSprdmrkyNm7lMm+mBQNhVCvWkVFJYE0NuNoGEg59IcaFxHXF7FjNrqEZZCR5IY2XlcYIKvmZ16ep+j3+RuXso1sMaQ2KgRrqtY48ZuFQ0soNwTOw33qOfGW2KWkj7Z04=;/2/+M7/UckSX8UqfP2pc7A=="
+secured: "pAGXWx8J4o6gGELiJCoA1uiwKP97Q6ORDhnKeLpj3M+qQbQju3hFrrTbf0auYqGjYu1MNyZ1CPUUFNIVtumaD+1V14WmYMZgZmbdO6HZTUDWFSGP5heI2ChdekEVBEqFawu5Et22FjuhM+U1y4z1k60Pw68CKrQYqEBOTwOHXGcP8QREyOVwbn2HEPZf82/NBvUKvbYwUmbpyvk2xOQge9HEEeagAbay97k0/XiO9wNSRE9SGLnETMh+1qW5Biy4kVYtJBzeHqY59+6AFZPsOzbGmvGUPcFH5UJFOpyAwvaFNZqFZVEDoUw7lA0jXQO8Ec+NeRL5aznpfc+A6ZOLlOIGEHWM6vx+GuVZWLGYV7WuyEb8S/e70sm3C9p1JGDjwbvGhE97yO7ZMEMj9Ref9E53ip9LJqe3B1QFlGqQ6EQ0r8jHqsLeURBHkZBrLGrajXjDJEUuZhgXiYp8AbGMuBK+fRZT/snH41aWihPCRlF+7mDxuNkGPgxp34vsErsHAon/VYQklqCxvI9Ci/XPIw==;gMeVjQ2xH0T9vyjnmdT/hg=="
 ---
 

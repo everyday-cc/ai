@@ -38,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
+  - title: "UK Autonomous Last Mile Delivery Market Report 2022: Adoption of Self-Ruling Vehicles to Deliver Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The UK's Autonomous Last Mile Delivery Market is estimated to be USD 1.07 Bn in 2022 and is expected to reach USD 3.64 Bn by 2027, growing at a CAGR of 27.73%. The UK's Autonomous Last Mile Delivery Market is segmented based on Type,"
+    publishedDateTime: 2022-10-10T11:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-10-uk-autonomous-last-mile-delivery-market-report-2022-adoption-of-self-ruling-vehicles-to-deliver-driving-growth-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "fN4ukxwom5ZVPIKPnCbhvYzGRKMpPVkV9MJmaVe9WQnNHQ9qpMSnXAuQ0fn0CwKOnx7L7IFh7l3+YvD75OgsMnJY4p/ZP1WldOVArWtpfVeFsqYQW54wAMImi+61kBGkfLciqMKkVf94IHNTirHy0NFJIT58xK34UMUpE/ag1yHXOEw45Mb5g6LFNitRXaG0Vka20W0nCA8hHCeNVTntUPKAJvA5a6tHwfxvkvkKbNEg0Sq+u8uLc8sqri53wGkcXlu9fnNUC8HZVq26/uxO6nIEn1S8Ke7mTmnSI5VpCuuWw6KAE9jE1u7/EaZBhpnUU2WEvjzxp27Ym73o9IjOoDLtUCTbXNU6rwwc7Ylazro=;OHHZy9r9+4GO+21mdjGPpg=="
 ---

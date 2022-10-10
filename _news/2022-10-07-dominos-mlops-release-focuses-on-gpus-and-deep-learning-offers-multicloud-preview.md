@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dominos-mlops-release-focuses-on-gpus-and-deep-learning-offers-multi-cloud-preview/amp/"
 type: article
 quality: 100
-heat: 111
+heat: 110
 published: true
 
 provider:

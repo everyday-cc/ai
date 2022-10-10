@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
 quality: 74
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -95,15 +95,6 @@ related:
     provider:
       name: Arabian Business
       domain: arabianbusiness.com
-    quality: 19
-  - title: "Self-driving cars are coming to Dubai"
-    excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
-    publishedDateTime: 2022-10-10T05:14:00Z
-    webUrl: "https://www.timeoutdubai.com/news/self-driving-cars-are-coming-to-dubai"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
     quality: 19
   - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
     excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"

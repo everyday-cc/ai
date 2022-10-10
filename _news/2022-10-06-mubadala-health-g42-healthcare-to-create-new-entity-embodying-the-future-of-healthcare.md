@@ -25,22 +25,75 @@ images:
     isCached: true
 
 related:
-  - title: "Study finds the risks of sharing health care data are low"
-    excerpt: "In recent years, scientists have made great strides in their ability to develop artificial intelligence algorithms that can analyze patient data and come up with new ways to diagnose disease or predict which treatments work best for different patients."
-    publishedDateTime: 2022-10-07T15:39:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-health.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-health.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-health.amp"
+  - title: "AI and Robotics is the future of healthcare sector"
+    excerpt: "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range"
+    publishedDateTime: 2022-10-10T11:36:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 106
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Artificial intelligence may improve suicide prevention in the future"
+    excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
+    publishedDateTime: 2022-10-05T20:14:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 44
+    quality: 59
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-the-risks.jpg"
-        width: 2100
-        height: 1598
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
+        width: 2880
+        height: 1866
         isCached: true
+  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
+    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
+    publishedDateTime: 2022-10-07T15:49:00Z
+    webUrl: "https://allafrica.com/view/group/main/main/id/00083624.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 54
+    images:
+      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:9418def9d1bedca53c634cafaf8a0961:arc614x376:w1200.jpg"
+        width: 979
+        height: 600
+        isCached: true
+  - title: "How Rwanda Is Using Artificial Intelligence to Improve Healthcare"
+    excerpt: "Viebeg Technologies, a venture capital-backed Health Tech company, is helping to expand access to affordable health care in Central and East Africa by aiding healthcare facilities in procuring supplies in real-time."
+    publishedDateTime: 2022-10-10T10:57:00Z
+    webUrl: "https://allafrica.com/view/group/main/main/id/00083630.html"
+    type: article
+    provider:
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 54
+    images:
+      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:7f9cc6a1e1de7cb8246b8a4bade7c8ba:arc614x376:w1200.jpg"
+        width: 1008
+        height: 617
+        isCached: true
+  - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
+    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
+    publishedDateTime: 2022-10-06T07:28:00Z
+    webUrl: "https://www.albawaba.com/business/pr/mubadala-health-and-g42-healthcare-join-forces-create-new-entity-embodying-“-future"
+    type: article
+    provider:
+      name: Al Bawaba News
+      domain: albawaba.com
+    quality: 2
 
 secured: "WWfLZPJ2MnK0GaHAsXdAp27R0eScrsHZLkAZGGkcychx8cMMKXp45HFNrlqm3EGt9G8umybtCGiMGfs69p61JcdfMd/HyOYfnZJ9Sxe4cq7mBZhYj7RFjkcAsRG5XjHemAf3aYQbY6OWybHAcOnToGXQzQxxYXx/WE7+xmaNjtG0JgSN6PpXVFOLUNJN6OoumaWrwCWSdppn3/qfzO9KbU/88MnPpYoUWAdThKF0k7EsOmJ+rV95MJ04NFfnk2sRwGBfehf6LfCTJOGnVIq9fZmL/vLp1YEpHx8tx8uLxHCnToPM5fRzzIX26/ax0spNGU49me9sd5jGPScojbSMbwGU3mlY8+iqaM+LyfWPPmM=;FSdrtS4DrkUpuHBQ55fGjg=="
 ---

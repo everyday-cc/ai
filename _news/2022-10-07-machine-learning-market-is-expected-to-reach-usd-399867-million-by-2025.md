@@ -46,6 +46,17 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "AI in Manufacturing Market Size to Reach $17,925.50 Mn at a CAGR of 51.5% | Vantage Market Research"
+    excerpt: "Global Artificial Intelligence (AI) in Manufacturing Market was valued at USD 1,482.50 Million in 2021 and is projected to surpass the valuation of USD 17,925.50 Million by"
+    publishedDateTime: 2022-10-10T10:42:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29198911/ai-in-manufacturing-market-size-to-reach-17-925-50-mn-at-a-cagr-of-51-5-vantage-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29198911"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29198911"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 23
 
 secured: "0HmG4EYEA5mxMOWkO0dF+i89jwAAaQYj1rCT6imbeKTAQqb6jP4ALEiWqF5wI6noCQE/jWjNE4mhtIkoRgy4NoZjngCY01uZAg22x3T30S+7IAz0FpzPkahRYXcYXpw5rrZ0LFNU0DlHIqRnVWILxq6A1kecsFo0Q2C9iSb1viuTUNOoCMT/N9E9coMShA5X1kjfgL+deK+IWFIVMbYNg6KIuSGmaN34o7pfG8bwA64vgb1B59kQ7C7wL2uIuCerD5sFKQrQf4GWkl0hasDIV7ptby8vn9QyWPpFZqZGOvovZYZ0TO6aNSgOLU4Us8kq8lA7AlQFrh/B8ZABGD8ns0xHu8mKVEKunxl5raZCWlM=;+e/cckTO5juzaJnHRKxCVA=="
 ---

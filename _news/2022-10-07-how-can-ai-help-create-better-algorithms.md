@@ -58,15 +58,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 33
-  - title: "How 6 health systems are using AI to improve patient care"
-    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
-    publishedDateTime: 2022-10-05T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
 
 secured: "hYoZyiqPlOboFzZ2tZ1NNiIlPggYTVyMCwIlHFeKutc6BeOrYZELVNQtfJTsAPxgdrISJ3/DWNH71sYXg9+tVc2xHTgmMUAi1sNuLl8PzsNl+/hSpm0axFYOgucnLfZc3MwncKNEYaPfrOXDiTRjBnzRZXk3kGEq5g7TGSp3PI+ffpisWsCd93x5fE3wEQJBk420kRKHoLs57UcfB05ybOsz2Qlz3KTQCF/qwHT+SjIYm30kd2e1cHdF5hByPvS5DNaJ1wEyyy0sMFDxB3k8GfMgnj1kbQKLayb3ub+3WxGUdsZDZlRxpKa7r10n6eG+Gi2/Dzh61JLIkfUdrsOWZajNps9VIZpVqxXHiPexgFCNjrUGRFFebNXRFtkUlhcPOKbRzrtriuFQUK9x0wscRe7zHWA3cmZHNcjS9auayqCTtYwwselCsD1EI+gdohW1mKtm+bt+QXbAtlXcl5EhNqlq0dhRtEPr4eduezBeL7fkgLvqIoWm6z960wnhMghrv61ftLEtU2xe7uvb/stIPA==;Nz259PwqQtH7veJedQe+yA=="
 ---

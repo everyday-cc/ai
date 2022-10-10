@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/iit-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
 type: article
 quality: 55
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -41,6 +41,22 @@ related:
       - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
         width: 700
         height: 394
+        isCached: true
+  - title: "IIT Mandi along with NSDC launches online certification course in Data Science and Machine Learning"
+    excerpt: "The course will be held through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be done through an eligibility test which will be conducted on 15 and 16 October."
+    publishedDateTime: 2022-10-10T11:06:00Z
+    webUrl: "https://www.telegraphindia.com/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    ampWebUrl: "https://www.telegraphindia.com/amp/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/news/iit-mandi-along-with-nsdc-launches-online-certification-course-in-data-science-and-machine-learning/cid/1891212"
+    type: article
+    provider:
+      name: The Telegraph
+      domain: telegraphindia.com
+    quality: 45
+    images:
+      - url: "https://assets.telegraphindia.com/telegraph/2022/Oct/1665399778_iit-mandii-1.jpg"
+        width: 1500
+        height: 896
         isCached: true
   - title: "IIT Mandi and NSDC launch certificate programmes in Data Science and Machine Learning"
     excerpt: "The course will be conducted through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be carried out through an eligibility test which will be conducted on October 15 and 16."

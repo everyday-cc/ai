@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 611
         isCached: true
-  - title: "How 6 health systems are using AI to improve patient care"
-    excerpt: "Hospitals are using AI to improve health outcomes, clinician workflows and patient care. Here are six artificial intelligence projects health systems have recently created and deployed as reported by Becker's Hospital Review: Jacksonville,"
-    publishedDateTime: 2022-10-05T17:11:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/how-6-health-systems-are-using-ai-to-improve-patient-care.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
   - title: "How can AI help create better algorithms?"
     excerpt: "AI is taking the world by storm and is here to stay. Explore how AI can help create better algorithms in Math in this post."
     publishedDateTime: 2022-10-07T11:08:00Z

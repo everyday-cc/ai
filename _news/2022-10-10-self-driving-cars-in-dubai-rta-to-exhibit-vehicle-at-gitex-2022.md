@@ -104,15 +104,6 @@ related:
       name: Arabian Business
       domain: arabianbusiness.com
     quality: 19
-  - title: "Self-driving cars are coming to Dubai"
-    excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
-    publishedDateTime: 2022-10-10T05:14:00Z
-    webUrl: "https://www.timeoutdubai.com/news/self-driving-cars-are-coming-to-dubai"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 19
 
 secured: "PDS701R6dnM21S2Ki7sFIbL1zW5B4nzgNoK6dw0G84fQ7k2LPWRJWJMO0xkYdNt+fmx60RiosnCgWtS9Wr5YUxM4Vu9BON/g0oolvSIsrMJZqtSHULpa/CMKRrZ74sxMx/fFWvHq8a1YWMotNM9Dm7EN4iUrYQ0QE70L66hO5XaYp7LDe0PXWv1bfvj7L2SwvTVovUDCDcSw76nrQIH+9MGploWG5+beZrJGNsmafs6Cbll5c9KKEOVY6xQ/HcoW8uX0PeEoFgdrdCEuYJumipVIcIt5Bv/rUkJKX91Ny4nchVBmssKBpAwOWOEt8ctcbElJBumONNhIZlhzzeHIlm0tZugEvJAwdW3YJJ5lPfrt9hdCrTlaQ6mYp5+VrZWis72/MbGnwJnvEDhtPjHojBZq6OxV94MhoEFdYWc0XLr+Mwt1PR3Xy6tKpsbSVU+6Tav2PEam6t5Zgr04joZvhUKbIssEV35Ztz/hwhtX9rAfpfXHr2XZ3nZJdnBcDr1AzgiJFIkCgIj90bMKOBN/0A==;QW4XkITEeTDNO+orO91NBA=="
 ---
