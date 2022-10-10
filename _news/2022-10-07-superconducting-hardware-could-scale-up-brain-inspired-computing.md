@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "NIST’s superconducting hardware could scale up brain-inspired computing"
-    excerpt: "Scientists have long looked to the brain as an inspiration for designing computing systems. Some researchers have recently gone even further by making computer hardware with a brainlike structure. These “neuromorphic chips” have already shown great promise,"
-    publishedDateTime: 2022-10-06T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/967155"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
-
 secured: "skNIFSoiy4Ro0YCFP8KpjXpwuGVucArvQC9HwlzT58isLRCCGycVfJFypp7ylGRw0wSvJe765n7LIc7BWFJC/AoPnQ05GD5fPvayaH+JVvU9ILS6hlvnzrTaV3IV9e+m5WrqH0pNoD8YNC7Jm/lMy9RvovkIk2R3siiNp/g2rbFylsd/zhQ2ndW3KNYwdKNzecGh1MNJn7AjOD3ZtmHlr4Kqy6+98F4pTMeBEvD35EgEmCvRFrAUtP+9TmH4q0j7i0yfnVZ+9zf0shmA2MEb50UblsDP3G3fPq/y3P804okDoc0qBCYtJPGgkTl1vq6X+RQ2dJQSQso+APsMCzo3l/dLRm7r6U/31HVv26Cf5c0=;mbuM3bNNUvfSpQXkY3uZug=="
 ---
 

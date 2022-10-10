@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/how-techno
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/amp/"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "Meeting global mental health needs, with technology's help"
+    excerpt: "The World Health Organization (WHO) estimates that nearly 1 billion people are living with a mental disorder, worldwide. During the global pandemic, the world saw a 25% increase in the prevalence of anxiety and depression. There was even a corresponding spike in searches on Google for mental health resources"
+    publishedDateTime: 2022-10-10T16:00:00Z
+    webUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 74
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/302-ORG-World_Mental_Health_Day-BW_V4.max-1300x1300.png"
+        width: 1300
+        height: 731
+        isCached: true
 
 secured: "JYNlDfBV0CUbdJpLUkV3XEymZ0nzeTpWHDXLQFJwW8pBklTVd3ozYA8zecVqou8U387B6FN0GmV+UWVZbrk19WAAW3JIk6st8M6njc6NFDqPCvbheuB65skK7PZVLt8tvhTNQEAJvIIFPWNHQv56pTacjwcP2zlFvLQdsJKL7O0e8qXZt7Nd1uRmj7tkCbs+UB7LgKm0FkSR38omCNVZVQcTJOHPmFBOkGJyw1WmBGV1bgLgfnyOgWmsFoEOkHK+NgUP/+590TgxRI65CM+zBAZyeyFFmE2eWR7ECdEO9JsKVEdzUIlVCMz/qY0mSUrWogdzXny8yY9ujFFXGnBmOxxUw33UU5TEbgJFwoXaBT1dSXfrxfOZKnVGFlooDvQ5SPuHZy+PUIolcDVYf5lACb4O3VZaf4MAZGty5ujkb4sGWeoBPU7FCVI9KWDu2aoI0bXEpwhpRpEcB0CrQyPASQobA9a8POqOjK3WG4w+YptMbprrWrElTORXZJ4vRUFryLAWAMfvhzkdHQNjBWWVnA==;EJ0AVOtv0mtaFo0eW9ljzQ=="
 ---

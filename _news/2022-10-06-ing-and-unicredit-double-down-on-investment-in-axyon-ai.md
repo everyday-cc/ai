@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/41082/ing-and-unicredit-doubl
 webUrl: "https://www.finextra.com/newsarticle/41082/ing-and-unicredit-double-down-on-investment-in-axyon-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "How To Invest In Artificial Intelligence"
-    excerpt: "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now."
-    publishedDateTime: 2022-10-06T00:26:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
+  - title: "Axyon AI completes €1.6 million funding round"
+    excerpt: "The round was led by the Fondo Rilancio Startup with ING, UniCredit, Gemini and Metes as co-investors. It was managed by CDP Venture Capital SGR."
+    publishedDateTime: 2022-10-07T09:06:00Z
+    webUrl: "https://www.assetservicingtimes.com/assetservicesnews/technologyarticle.php?article_id=13515&navigationaction=home&page=1&newssection=technology"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 93
+      name: Asset Servicing Times
+      domain: assetservicingtimes.com
+    quality: 37
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.assetservicingtimes.com/assetservicesnews/images/FridayOctober720221665133207.jpg"
+        width: 990
+        height: 640
         isCached: true
 
 secured: "J/jK640b4SpTivbsIz2yNiixD7C0ozRo712wRovX/DoIAldPDaxiXQxkILeoUet6fEr4Umit7yH8XzYEhyR1pG+RyxEs7+47gTiR04NwJ3bC6zRHiNH9yAAoSrGF0HL5IF74pb28/JzuvOljoQdRrwHjr+M5mDy4NJPl6G9kw8FQcvy+tEZ5i7adU3DoZsNCnGFLiOJlbuI7FxuFpJ4UrKGHk/bg8YFnoXS0VKigECl4OQfrUjAIfj4CEdm4X+81WlLe74PCd/pakyf6EStfGSJOitvVM/UHlGp4NNEbhAF/hPO8VJSOPZhvsfkVlWeuuj+CZF+fvRAIm7xpXv6RwEl/WzmnILPzoAAxtMnMmnApz7uVJo7NthJpMlUAj+e37Zn76solc77ve1QxJoC9zPzWd1DlgtmCQi0/smdobHt/RQQzPB/EF8KFfwOvo3PjUpia6teMrA4goF0jYj1ShRxGs1o+OtFxoNgZXBtJJTNUe4s7W+1IGAYZsVqFczwgvAHQbEEaKgWhbyoZ5NvL3w==;/k5TRv5vh2DX1H2YZqZ8TQ=="
