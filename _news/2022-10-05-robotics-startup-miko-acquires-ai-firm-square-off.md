@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/announcements/robotics-st
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/announcements/robotics-startup-miko-acquires-ai-firm-square-off-9281351.html/amp"
 type: article
 quality: 89
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-04/14/full/1618410148-4568.jpg?im=Resize,width=480"
         width: 480
         height: 359
-        isCached: true
-  - title: "Robotics startup Miko acquires 70% stake in Square Off, eyes $100 million revenue by next year"
-    excerpt: "Sneh Vaswani, Mikos cofounder and chief executive officer (CEO), said the acquisition is a natural fit for two companies that share a passion for robotics and learning."
-    publishedDateTime: 2022-10-05T08:23:00Z
-    webUrl: "https://economictimes.indiatimes.com/tech/startups/robotics-startup-miko-acquires-70-stake-in-square-off-eyes-100-million-revenue-by-next-year/articleshow/94659475.cms"
-    ampWebUrl: "https://m.economictimes.com/tech/startups/robotics-startup-miko-acquires-70-stake-in-square-off-eyes-100-million-revenue-by-next-year/amp_articleshow/94659475.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/robotics-startup-miko-acquires-70-stake-in-square-off-eyes-100-million-revenue-by-next-year/amp_articleshow/94659475.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 62
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-631422,msid-94659471/miko-square-off.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Robotics startup Miko acquires 70% stake in Square Off"
     excerpt: "With the acquisition, Miko will expand its product line beyond its flagship AI robot companions for kids ... Atur Mehta, the startup’s co-founder and CTO, says the move will “bring new ..."

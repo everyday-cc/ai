@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverl
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://imagevars.gulfnews.com/2022/10/09/driverless-cruise-car-by-rta-1665304835837_183bbe73710_medium.jpg"
         width: 540
         height: 405
-        isCached: true
-  - title: "Gatik goes driverless in Canada"
-    excerpt: "Gatik on Wednesday announced that it is now running fully driverless vehicles in Toronto with longtime partner Loblaw Companies. Gatik’s multi-temperature box trucks are transporting online grocery orders for Loblaw’s PC Express service."
-    publishedDateTime: 2022-10-05T09:00:00Z
-    webUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle"
-    ampWebUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/10/Gatik_LCL-Fully-Driverless-Press-Release-3.jpg"
-        width: 2000
-        height: 1125
         isCached: true
   - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
     excerpt: "Loblaws is partnering with a California-based autonomous vehicle company in what's believed to be a Canadian first: grocery trucks powered by self-driving technology."

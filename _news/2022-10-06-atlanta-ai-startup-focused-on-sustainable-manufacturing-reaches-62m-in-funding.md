@@ -7,7 +7,7 @@ originalUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2022/10/
 webUrl: "https://www.bizjournals.com/atlanta/inno/stories/fundings/2022/10/05/atlanta-multiscale-technologies-startup-funding.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -16,22 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Startup Funding: September 2022"
-    excerpt: "Startup funding hits $2.9B; manufacturing onshoring and fab buildout drive investments in adjacent markets. The onshoring and buildout of dozens of fabs, many costing tens of billions of dollars, is beginning to spill over into other areas that are critical for chip manufacturing."
-    publishedDateTime: 2022-10-05T07:05:00Z
-    webUrl: "https://semiengineering.com/startup-funding-september-2022/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 22
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/blue-green-road-iStock-989217778-07-26-2020.jpg?fit=788%2C443&ssl=1"
-        width: 788
-        height: 443
-        isCached: true
 
 secured: "7u+7GnSYU5tr5qTAAuTMw187SZufvEpk97v0TjgORUPaYAnKDNw+WSPww5vU/yrMQgdgxubyDhDmKxzAXL9Ojj9bOtqkZMQQLkXI5BASxz4QwAn1D+sR+E3pH+13Qvj50y6LQDJSS7I+CMJbFlHPrVZ9cM9OD+qKam9t598fKJe9Fp9H+QppLdtbE5B8yiT3XWXkxGVTCMmMSeq+jy9j7C920EXYsh9qvX5UAsphe/K8/aYpfkPiAZ0cJx+psNfcLNVXtpWhhwVQF9eBX5X05lOcfGpRFqtQnq0fpKbDbSVLk6awvUVwb6bmlcsqjsVaDgXXY8GmP5CcDwoCcvtyYoZmNuySDmhNc5kxIDmARVM9hLM1sZXhB6n/jmDEDqhvxwotg13NGVd1Zuw88hPLmrqKxfjBTA0YhGkFnu9QKWzO/QQcuBS3cJPQPaYsPe6MkRxQ6VgdrKxS+J846d/bmpVdfx5urZFM0LqR4wjJ8zbMloc4WP2kHZgWDy5sXnJQGfOgyFEVWRkOeXZxyvhfvA==;TmPeclamlxFEg4EQpW87qA=="
 ---

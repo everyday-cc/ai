@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "RBI plans to extensively use AI, machine learning to improve regulatory supervision"
-    excerpt: "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,"
-    publishedDateTime: 2022-10-05T08:28:00Z
-    webUrl: "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307"
-    ampWebUrl: "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 68
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Apr/1649873219_rbi.jpg"
-        width: 900
-        height: 500
-        isCached: true
-  - title: "RBI plans to extensively use artificial intelligence, machine learning to improve regulatory supervision"
-    excerpt: "While the RBI is already using AI and ML in supervisory processes, it now intends to upscale it to ensure that the benefits of advanced analytics can accrue to the Department of Supervision in the central bank."
-    publishedDateTime: 2022-10-05T08:23:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/banking/finance/banking/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/articleshow/94659490.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/banking/finance/banking/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/amp_articleshow/94659490.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/banking/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/amp_articleshow/94659490.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-623434,msid-94659476/rbi-.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "RBI plans to extensively use artificial intelligence, machine learning to improve regulatory supervision"
     excerpt: "While the RBI is already using AI and ML in supervisory processes, it now intends to upscale it to ensure that the benefits of advanced analytics can .."
     publishedDateTime: 2022-10-06T03:17:00Z

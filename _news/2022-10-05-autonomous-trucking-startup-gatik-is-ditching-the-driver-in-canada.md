@@ -56,22 +56,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Gatik goes driverless in Canada"
-    excerpt: "Gatik on Wednesday announced that it is now running fully driverless vehicles in Toronto with longtime partner Loblaw Companies. Gatik’s multi-temperature box trucks are transporting online grocery orders for Loblaw’s PC Express service."
-    publishedDateTime: 2022-10-05T09:00:00Z
-    webUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle"
-    ampWebUrl: "https://www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
-    cdnAmpWebUrl: "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatik-and-loblaw-remove-safety-driver-from-autonomous-vehicle/amp"
-    type: article
-    provider:
-      name: freightwaves.com
-      domain: freightwaves.com
-    quality: 59
-    images:
-      - url: "https://s29755.pcdn.co/wp-content/uploads/2022/10/Gatik_LCL-Fully-Driverless-Press-Release-3.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
   - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
     excerpt: "Loblaws is partnering with a California-based autonomous vehicle company in what's believed to be a Canadian first: grocery trucks powered by self-driving technology."
     publishedDateTime: 2022-10-05T13:26:00Z

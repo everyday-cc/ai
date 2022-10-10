@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-right
 webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -59,20 +59,6 @@ related:
       - url: "https://www.lawfareblog.com/sites/default/files/52259005965_8621f988f2_b.jpg"
         width: 1024
         height: 683
-        isCached: true
-  - title: "AI Bill of Rights shows Big Tech’s teeth"
-    excerpt: "White House powerless to stop it Attempts by the White House to bring in a bill of rights for the age of algorithms has shown how weak elected governments are over the money and power of Big Tech. White House Office of Science and Technology Policy (OSTP) released the Blueprint for an AI Bill of"
-    publishedDateTime: 2022-10-05T08:49:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55600-ai-bill-of-rights-shows-big-tech-s-teeth"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5cb0888e08834c31f655847ccc2ba9cf_L.jpg"
-        width: 620
-        height: 465
         isCached: true
   - title: "White House unveils artificial intelligence ‘Bill of Rights’"
     excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
