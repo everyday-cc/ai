@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T10:03:00Z
 originalUrl: "https://diginomica.com/assessing-nist-ai-risk-management-framework"
 webUrl: "https://diginomica.com/assessing-nist-ai-risk-management-framework"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Diginomica

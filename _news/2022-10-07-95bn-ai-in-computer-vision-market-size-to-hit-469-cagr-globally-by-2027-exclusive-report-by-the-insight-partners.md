@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T12:58:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29183718/95-bn-ai-in-computer-vision-market-size-to-hit-46-9-cagr-globally-by-2027-exclusive-report-by-the-"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29183718/95-bn-ai-in-computer-vision-market-size-to-hit-46-9-cagr-globally-by-2027-exclusive-report-by-the-"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Benzinga.com

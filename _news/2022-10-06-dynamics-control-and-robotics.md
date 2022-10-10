@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-06T16:35:00Z
 originalUrl: "https://www.unr.edu/me/research/me-research-dynamics-control-and-robotics"
 webUrl: "https://www.unr.edu/me/research/me-research-dynamics-control-and-robotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: unr.edu

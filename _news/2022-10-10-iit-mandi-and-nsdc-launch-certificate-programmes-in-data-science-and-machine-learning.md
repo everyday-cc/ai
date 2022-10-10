@@ -73,6 +73,15 @@ related:
         width: 1500
         height: 896
         isCached: true
+  - title: "World’s first AI-backed swing will provide top security to a retreat in the Himalayas"
+    excerpt: "Four engineers have developed the world's first Artificial Intelligence-backed giant swing in Manali, India. The swing will be open to public in 2023."
+    publishedDateTime: 2022-10-10T11:25:00Z
+    webUrl: "https://interestingengineering.com/innovation/first-ai-backed-swing-security-himalayas"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 27
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
     publishedDateTime: 2022-10-09T18:53:00Z

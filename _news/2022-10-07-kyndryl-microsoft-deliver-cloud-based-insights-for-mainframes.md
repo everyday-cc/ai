@@ -41,34 +41,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
-    excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
-    publishedDateTime: 2022-10-05T21:37:00Z
-    webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 40
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Google Builds Cloud Region In South Africa As Country’s Tech Sector Grows"
-    excerpt: "In an effort to scale up cloud capabilities in South Africa, Google plans to build a suite of interconnected sites in Nairobi, Capetown, Johannesburg and Lagos."
-    publishedDateTime: 2022-10-05T19:26:00Z
-    webUrl: "https://news.crunchbase.com/cloud/tech-cloud-region-south-africa-google-microsoft-amazon/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 23
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
-        isCached: true
 
 secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---

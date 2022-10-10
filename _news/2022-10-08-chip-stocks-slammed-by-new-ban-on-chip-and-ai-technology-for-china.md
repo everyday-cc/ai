@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-07T19:04:00Z
 originalUrl: "https://www.morningstar.com/news/marketwatch/20221007538/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china"
 webUrl: "https://www.morningstar.com/news/marketwatch/20221007538/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Morningstar%2c Inc.

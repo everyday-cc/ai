@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-
 webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
 type: article
 quality: 82
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
   - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
     excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
     publishedDateTime: 2022-10-06T10:22:00Z

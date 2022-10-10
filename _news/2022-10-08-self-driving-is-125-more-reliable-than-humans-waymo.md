@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-08T10:43:00Z
 originalUrl: "https://www.gizchina.com/2022/10/08/self-driving-is-12-5-more-reliable-than-humans-waymo/"
 webUrl: "https://www.gizchina.com/2022/10/08/self-driving-is-12-5-more-reliable-than-humans-waymo/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GizChina

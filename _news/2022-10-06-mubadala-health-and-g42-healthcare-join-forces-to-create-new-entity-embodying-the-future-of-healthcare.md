@@ -35,22 +35,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Artificial intelligence may improve suicide prevention in the future"
-    excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
-    publishedDateTime: 2022-10-05T20:14:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
-        width: 2880
-        height: 1866
-        isCached: true
   - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
     excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
     publishedDateTime: 2022-10-07T15:49:00Z
@@ -78,6 +62,20 @@ related:
       - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:7f9cc6a1e1de7cb8246b8a4bade7c8ba:arc614x376:w1200.jpg"
         width: 1008
         height: 617
+        isCached: true
+  - title: "A robot painter will make the case for AI art before the House of Lords this week"
+    excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
+    publishedDateTime: 2022-10-10T15:51:00Z
+    webUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 49
+    images:
+      - url: "https://static.standard.co.uk/2021/10/21/12/ARTS%20Robot%20%2010442308.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"

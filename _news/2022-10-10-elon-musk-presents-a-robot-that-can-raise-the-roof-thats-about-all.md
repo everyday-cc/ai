@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T13:00:00Z
 originalUrl: "https://www.seattletimes.com/business/elon-musk-presents-a-robot-that-can-raise-the-roof-thats-about-all/"
 webUrl: "https://www.seattletimes.com/business/elon-musk-presents-a-robot-that-can-raise-the-roof-thats-about-all/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Seattle Times

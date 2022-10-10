@@ -9,7 +9,7 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/iit-ma
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
 type: article
 quality: 55
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "World’s first AI-backed swing will provide top security to a retreat in the Himalayas"
+    excerpt: "Four engineers have developed the world's first Artificial Intelligence-backed giant swing in Manali, India. The swing will be open to public in 2023."
+    publishedDateTime: 2022-10-10T11:25:00Z
+    webUrl: "https://interestingengineering.com/innovation/first-ai-backed-swing-security-himalayas"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 27
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
     publishedDateTime: 2022-10-09T18:53:00Z

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may improve suicide prevention in the future"
-excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. “Having AI that could take in a lot more data than a clinician ..."
-publishedDateTime: 2022-10-05T20:57:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/967008"
-webUrl: "https://www.eurekalert.org/news-releases/967008"
+excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
+publishedDateTime: 2022-10-05T20:14:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "D5hrYjIRiWNZxMYyn4BZMcrpdqfzIXpc/S8ErWnSC+Lbcq2rlHR4rMU6NA/xOXB90ZK/IxlL+FzhFemJ6pZ54evQk+devfeeYfnJsM1tInv3rOu4PEKxbjT7zGd/a3ZxD4ilQcZI5H9ogvci2xRTErvVMxG5lVxD0okvnKu5Pd54B1cuA+MWxKgrX+osDzOgECgbWxVSrfjxay/mwLI3HY2yIg8j53kQOgQy29D9i6Zbj9gGAcXl/LCfJr26foMF/x7SC3nGjnecImRZkWUuxWOwVvlWPlU8FpMG8Adtzne/KdFFL6HwYlCHoEN7DAIvjCxX1/8JeZJ+j9nLRJyQRVx4JkKvLkZNh7j9/CELHV4=;lYI6HwEuhd02260DswcW5w=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
+    width: 2880
+    height: 1866
+    isCached: true
+
+secured: "D5ZkkNsT1rN2ltxIE2zRCOxbC0DZLVSPymPnWeCxHIYNyi10yvvFT6NaIOjPpBROsxI3c7JrAs0jan1H66a1Ufx3db4fYwMfAp8KSr9SHE17szfqYCpSK5CCc/Oeo6jWxwNeRrMLLgN4XfLtmN7g99ZR6NOTpQzAHSts/iGUNHiVLbG6JPdnO1h6Xl5QNQnSTmsnkH2R5Lc6EufgwEnWGgIDg7R1lOvdacAA2LozyNzoA8l50zveSrYQWvqEwoIGU/kSaZsc4Cdj/o2smP8zuUX2twWynsofcTd27XJIPIbXGlJYtaeLO6b0mHKEcdRXvrDUDS2py9zFGf3xR5rZh9KvUsJ2OSp0Ld6v6CEKKJQ=;4yjfZofPfijiLrEarHFbtw=="
 ---
 

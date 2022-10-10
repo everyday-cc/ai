@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-regi
 webUrl: "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft"
 type: article
 quality: 86
-heat: 116
+heat: 96
 published: true
 
 provider:
@@ -45,34 +45,6 @@ related:
       - url: "https://lh3.googleusercontent.com/0Rm2Cr8vP6xK2UbbtiCP8xDEyB45yfe46WHdb7t0RUBO92lmtJUFCj4kA5BDFV89LXCFSC2F3JeW0n5xs7H_Z3cghdbcBzGx8Ho=w1200-h629"
         width: 1118
         height: 629
-        isCached: true
-  - title: "Google, Apple, Meta, Amazon & Microsoft Join To Improve Voice Recognition"
-    excerpt: "The new Speech Accessibility Project brings together five technology companies to bring voice recognition to those with non-standard speech patterns. Rather than work separately, all five companies ar"
-    publishedDateTime: 2022-10-05T21:37:00Z
-    webUrl: "https://www.searchenginejournal.com/speech-accessibility-project/467075/"
-    type: article
-    provider:
-      name: Searchenginejournal.com
-      domain: searchenginejournal.com
-    quality: 40
-    images:
-      - url: "https://cdn.searchenginejournal.com/wp-content/uploads/2022/10/speech-accessibility-project-633df84a4735f-sej.jpg"
-        width: 1600
-        height: 840
-        isCached: true
-  - title: "Google Builds Cloud Region In South Africa As Country’s Tech Sector Grows"
-    excerpt: "In an effort to scale up cloud capabilities in South Africa, Google plans to build a suite of interconnected sites in Nairobi, Capetown, Johannesburg and Lagos."
-    publishedDateTime: 2022-10-05T19:26:00Z
-    webUrl: "https://news.crunchbase.com/cloud/tech-cloud-region-south-africa-google-microsoft-amazon/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 23
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/Cloud_Computing.jpg"
-        width: 900
-        height: 506
         isCached: true
 
 secured: "TSdZDMVCupe9vnZJC7MFllSQsJJLQvJQZdU9F0vaAAcSu4/MWftpAdxFaZjWZfDzlRctPLUyIom6DzEB914kLtZJkrE+yiPnY/B1bSZYDFTOPV5OlPbqnvvZEDXQdlMLgCufcC0DoeGLoGswPfSLERryrqSJ0QuENVjc56YDGSbd2VrtI5kdhWtfkdcGdMZTpvpp41lENn7Y8h5s41epFOWzNmPGpzvxSjMXwONk0zuYTRcLfS0U1CIkNQPxutz9ioFK6kVJbKWoq0uHG4ltmCsu/ItD7WbpbMQYPfCjTLxDFRyRWwDfVOQcdDwaMacemDs9qRJanh+qGgPDOBR6SCq6IGqSAVCx0glU/CEHwQmB7fJ7F0DknNyNAtIx4zhDTTYDHRAvwbyXzqVAxgiUlnxcFqK38QKk1ot048vJ1Sgl5SySZzgGm6x9/Km4Mlf+QVkX7xwhkpZWQsczmzdMrhPKiuAI8uQkNrGYAkPTy12V9Iiy0gTE2ZJ3q/2UAVbzeMakq1rUnVfpj3MGaTg3jQ==;xYFDGfwNWh7pS+L5x6p/zw=="

@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
   - title: "Vehicle Speech Recognition System Market Report with Executive Summary, Size, Analysis and Forecast to 2022-2031"
     excerpt: "Application (Commercial Vehicle, Passenger Car, Others) – Global Industry Analysis & Forecast to 2031 Industry Outlook and Trend Analysis The vehicle speech recognition system market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
     publishedDateTime: 2022-10-06T08:03:00Z
@@ -56,7 +65,27 @@ related:
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 23
+    quality: 25
+  - title: "Autonomous Car Market Size to Reach $196.97 Billion by 2030; CAGR: 25.7% - Confirms Strategic Market Research"
+    excerpt: "The Worldwide Autonomous Car Market's value in 2021 was worth USD 25.14 billion, and by 2030 will reach USD 196.97 billion at a 25.7% CAGR. An autonomous car uses"
+    publishedDateTime: 2022-10-10T14:50:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29203158/autonomous-car-market-size-to-reach-196-97-billion-by-2030-cagr-25-7-confirms-strategic-market-res"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29203158"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203158"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 5
+  - title: "Self-Monitoring Blood Glucose (SMBG) Devices Global Market to Reach $18.1 Billion by 2026 at a CAGR of 8.3%"
+    excerpt: "Monitoring Blood Glucose (SMBG) Devices Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering.The global self-monitoring"
+    publishedDateTime: 2022-10-10T12:53:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29200959/self-monitoring-blood-glucose-smbg-devices-global-market-to-reach-18-1-billion-by-2026-at-a-cagr-o"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "0HmG4EYEA5mxMOWkO0dF+i89jwAAaQYj1rCT6imbeKTAQqb6jP4ALEiWqF5wI6noCQE/jWjNE4mhtIkoRgy4NoZjngCY01uZAg22x3T30S+7IAz0FpzPkahRYXcYXpw5rrZ0LFNU0DlHIqRnVWILxq6A1kecsFo0Q2C9iSb1viuTUNOoCMT/N9E9coMShA5X1kjfgL+deK+IWFIVMbYNg6KIuSGmaN34o7pfG8bwA64vgb1B59kQ7C7wL2uIuCerD5sFKQrQf4GWkl0hasDIV7ptby8vn9QyWPpFZqZGOvovZYZ0TO6aNSgOLU4Us8kq8lA7AlQFrh/B8ZABGD8ns0xHu8mKVEKunxl5raZCWlM=;+e/cckTO5juzaJnHRKxCVA=="
 ---

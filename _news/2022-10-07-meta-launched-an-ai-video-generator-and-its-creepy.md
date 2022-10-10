@@ -7,7 +7,7 @@ originalUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generat
 webUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generator-and-its-creepy/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,68 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Google answers Meta’s video-generating AI with its own, dubbed Imagen Video"
-    excerpt: "Google's Imagen Video model, like Meta's recently detailed Make-A-Video, can generate short looping clips given a text prompt."
-    publishedDateTime: 2022-10-05T20:54:00Z
-    webUrl: "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/"
-    ampWebUrl: "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/"
+  - title: "Meta’s text-to-audio AI can create common sounds and generate music"
+    excerpt: "Meta’s AudioGen text-to-audio artificial intelligence model could create sound for video games, film soundtracks or music production"
+    publishedDateTime: 2022-10-07T14:33:00Z
+    webUrl: "https://www.newscientist.com/article/2341416-metas-text-to-audio-ai-can-create-common-sounds-and-generate-music/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 85
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675"
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/07151848/SEI_128475358.jpg"
         width: 1200
-        height: 675
+        height: 800
         isCached: true
-  - title: "Google’s newest AI generator creates HD video from text prompts"
-    excerpt: "Only six months after the launch of OpenAI's DALLE-2 text-to-image generator, progress in the field of AI diffusion models has been heating up rapidly. Google's Imagen Video announcement comes less than a week after Meta unveiled its text-to-video AI tool,"
-    publishedDateTime: 2022-10-05T20:42:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/10/googles-newest-ai-generator-creates-hd-video-from-text-prompts/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/imagen_teddy_bear_1-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
-  - title: "Google’s Imagen takes on Meta’s Make-A-Video as text-to-video AI models ramp up"
-    excerpt: "Thanks to Google and Meta, the text-to-video trend shows all the signs of getting ready to explode much like text-to-image tools."
-    publishedDateTime: 2022-10-06T18:27:00Z
-    webUrl: "https://venturebeat.com/ai/google-ai-generator-takes-on-meta-as-text-to-video-trend-ramps-up/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
-  - title: "Google’s AI Videos Point to a Machine-Generated Future"
-    excerpt: "Artificial intelligence is quickly advancing in the field of video generation. That could have a profound effect on our social media feeds one day."
-    publishedDateTime: 2022-10-08T01:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/googles-ai-videos-point-to-amachine-generated-future/2022/10/08/40a3c0ec-46cf-11ed-be17-89cbe6b8c0a5_story.html"
-    type: article
-    provider:
-      name: The Washington Post
-      domain: washingtonpost.com
-    quality: 39
-    images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H76Y5NSGZ4I63PQXRHF6NOGAUU.jpg&w=1440"
-        width: 1024
-        height: 681
-        isCached: true
-  - title: "Google AI Videos Point to a Machine-Generated Future"
-    excerpt: "In just the past week, AI researchers from Meta Platforms Inc. and Alphabet Inc.'s Google have taken an extraordinary leap forward, developing systems that can generate videos with just about any text prompt one can imagine."
-    publishedDateTime: 2022-10-08T18:05:00Z
-    webUrl: "https://tech.hindustantimes.com/tech/news/google-ai-videos-point-to-a-machine-generated-future-71665230264578.html"
-    type: article
-    provider:
-      name: Hindustan Times Tech
-      domain: hindustantimes.com
-    quality: 19
 
 secured: "19vfFnP59g1KjkVWIVUMf5CPnP4rXrtfxEwreXfx/ZFvRFLyrr3xRmjMHemy8Uy/ubEUzzFBDeljr7XIw9ijoBWwEEv2duAd6oT1doIy5yl+jvuahdwh3Q46Kbz+OuwFmytcDjag4p2bviJp6cTux95U2jZb3y8M35UJlfe9omCY4TIZ9i0aqUC5QJPWKGypqyyd8mpuG+OT5sSPtuEWzB2Y2uwlAew9tRYddFXysRWpbWO/iZ6W2dww4GAB21yuZDhs4NzvKzLVNCBdBhJkG1SP8Nx0g9LGhNmSGeRgTwce+w+SLaOsRALEH7aTrLYKajPukpc/DnxoA/HDOV3dAamZrsBG1/pkGP9NFoKtK/NGhl3ys0rtyyLgClxDrAfOb5zlDymhOIvEF0l5Wh6dZXPLXXzIRiY1Yc3rU7bpAaMl7d9aCZavxyOXfAQ/2BjUZBqSvUrFT+kwmtgeqjsua6TsMIR/nwIBix9Habw6FG9ySYFkBif/lKzUIXEasyzO/JUO1xOzO9/Z7NyaGP6bLA==;+OfASQl9drR1bKWHkWk8vA=="
 ---

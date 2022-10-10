@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "A Supply-Chain Tech Startup Nets $100 Million"
-    excerpt: "Altana, which uses AI to help companies manage their supply chains, drew investors despite a tough dealmaking environment."
-    publishedDateTime: 2022-10-06T21:43:00Z
-    webUrl: "https://www.wsj.com/articles/a-supply-chain-tech-startup-nets-100-million-11665096182"
+  - title: "Miko Robotics acquires majority stake in AI chess startup, Square Off"
+    excerpt: "courtesy of underlying AI, grabbed the attention of a jaded crowd of showgoers. This morning, it takes the next step in the startup lifecycle, as Bay Area-based kids robotics firm Miko announces ..."
+    publishedDateTime: 2022-10-06T14:09:00Z
+    webUrl: "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/"
+    ampWebUrl: "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/"
     type: article
     provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 67
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 119
     images:
-      - url: "https://images.wsj.net/im-638923/social"
-        width: 1280
-        height: 640
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/KId-playing-against-AI.jpeg?resize=1200,799"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "zuMmOOytaRP09/0Sf1UMZeZD6UdPGJXLV5Erm+RxcAAxtWomGyW/dsqTI5vGAzEhp3qMy5LxxTQaY7V1ahqzhSgrDE0bdXnJhlxpPXhofxjifoXAWSMwuRqrRADuCXJZdx0c9h34cWin65r5kSa/b6EYIa8THTbENV7Zwn2XYTwwjHsM1vb40IufRhdDgBmrnDYw75YobCG6gDrBAwocHn1DhjhXO8aqn6TRnrdGWgpVo84EiY5BJzZP4rr3fos6qa4xO6fG9jzl80f8x5vkFdWxJIXVZ0LAEs7Wpk92C+q8WhYockCeKR80fEegRFyH8kSZbR2RY17BGss54I5m6ZEJKRkS3WMyC+irEP6+MP1gCOSqXhyBrLJrI+4lfzRJMUqh0qaYPq87LmG6KNriT+tvdAV5D97ZuWcnb9V/r8sgykdggZI853RHYFBlnQD4w/68aoXFI/xD1bJ5Il8OsNrUTS0/WTVbpbLGFWBHqhSyX4zjAXmOn9QXiQTUwYm8/qxCksOqH1zD3Cwj9r7rCA==;c/lxn0ENYeW+FICdxdrZnA=="

@@ -1,24 +1,32 @@
 ---
 category: news
 title: "4 Tech Giant Executives Resolve Four Major AI/ML Adoption Obstacles in the Enterprise"
-excerpt: "AI executives from Google Cloud, Microsoft, Oracle, and SAP sat down to debunk recurrent challenges when businesses attempt to integrate AI/MLNEW"
-publishedDateTime: 2022-10-10T13:38:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/4-tech-giant-executives-resolve-four-major-ai-ml-adoption-obstacles-in-the-enterprise-1031793245"
-webUrl: "https://markets.businessinsider.com/news/stocks/4-tech-giant-executives-resolve-four-major-ai-ml-adoption-obstacles-in-the-enterprise-1031793245"
+excerpt: "To tackle this problem, Aamar Hussain, Director of Azure Data at Microsoft, suggested not treating AI adoption as any software development project and understanding the current maturity level of the business. Assessing your organization's skillsets ..."
+publishedDateTime: 2022-10-10T13:43:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29201759/4-tech-giant-executives-resolve-four-major-aiml-adoption-obstacles-in-the-enterprise"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201759/4-tech-giant-executives-resolve-four-major-aiml-adoption-obstacles-in-the-enterprise"
+ampWebUrl: "https://www.benzinga.com/amp/content/29201759"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201759"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
+  - Microsoft AI
   - AI
   - Machine Learning
 
-secured: "bTl/m1i7KIvRh+U3hILCknbbq9LF9OfEDyDRHGzXcZ1gxa2CejTCODEnjYDNpU5vDBQ0zneAs2ebAV4UVNbIGwz8doMXLiKMx4/OeZWt3CdguFCMejk/P9z5FW64TDO+GjdDsWieFiUvA26vNtqJmq3px3QG9v9BzcxX4EKGMuKr2667Xw8CF8SaQoPN1cK5BOkjZUk215uwwsPLHBtksxorUzXG6oxaGf2eBo2vafsgD3BxQ/alpkMGISr7pgbhvMPWvbkM7tuQxU7He0y3BMCm8AeCx5cEE99HllTmgNzQ6EZTo0DZRDolmsCvkOxCC+VnqBidGwyxnrGSgGUPWj9MezU2r5Jv/7Z2x0uSBd6oooe/hY0pOAJAU8zZoD91hsLbI7b8kpgOY3AmrymzPDyhVSRF6LYO580dZNaRmcntHfBxtnn8kXwtvtlKhmippWLNWFNZcvBOF31vq3Maenh0dZctoLNi1tDtpomPBtuy/T/uQn0bQxO0MvGXP3qF5SD7RPYxnV3u490WUHtmFw==;QJFnoVrAvAEaGmaI5+9M9g=="
+images:
+  - url: "https://mma.prnewswire.com/media/1916997/Artboard_1.jpg"
+    width: 400
+    height: 300
+    isCached: true
+
+secured: "Fg+hfSukDTbGWpZ5VOd8QpL1CCYJG42eaFUHy/CnV/R2jkI3GR5Z7ogmw2RRPuf4AgBen6LHmFu9IC06OCLGeKOYBtwZKOhkPT/Kfauge92/38VJgnVQy1AD/i0vy+GRb7WfRS/7QoPVKfe0bTCkWrncp3H53/jXo+x+0op3D0v3ztWG6BuFruL4EIXawS9B4erVBDCng8F8sgslvP38QgXLwlVTymWBtzgHP5NeBxfomzp9/1l4AEAcKRYY+Ygv/mTYHPUGMs/17NimAhcKr+vEMqrFPjUhjANukDlCRy23IANmr254eLvL+3Cf/UEygQewwf6/0eRANYQKhaxy0JM1GSdsCQfZas+cWE90qAA=;qB0PjY7SlUBCC/83nnEu5g=="
 ---
 

@@ -46,22 +46,6 @@ related:
         width: 876
         height: 494
         isCached: true
-  - title: "AI Bill of Rights: White House artificial intelligence guidelines hope to protect consumers"
-    excerpt: "There are no federal laws specifically regulating AI or applications of AI, such as facial-recognition software, which has been criticized by privacy and digital rights groups for years over privacy issues."
-    publishedDateTime: 2022-10-05T20:22:00Z
-    webUrl: "https://abc7chicago.com/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
-    ampWebUrl: "https://abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
-    cdnAmpWebUrl: "https://abc7chicago-com.cdn.ampproject.org/c/s/abc7chicago.com/amp/ai-bill-of-rights-what-is-artificial-intelligence-definition-in-business/12297746/"
-    type: article
-    provider:
-      name: ABC 7 Chicago
-      domain: abc7chicago.com
-    quality: 64
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12297807_hypatia-h_4ab329e30409f78d1913603108321e24-h_681986e706d1b4db0e09cc8189ce746c.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "White House Unveils Artificial Intelligence Bill of Rights"
     excerpt: "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies."
     publishedDateTime: 2022-10-07T13:30:00Z

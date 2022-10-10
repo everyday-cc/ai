@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-t
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -58,20 +58,6 @@ related:
       - url: "https://helios-i.mashable.com/imagery/articles/027l7uxerp61532fIjB7nUH/hero-image.fill.size_1200x675.v1665065449.png"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Google Joins Meta in Creating AI-Powered Text-to-Video Generator"
-    excerpt: "Mark Zuckerberg’s Meta isn't the only company developing an AI-powered program that can generate video out of text inputs. Google has been working on one, too. On Wednesday, researchers at the company’s AI lab,"
-    publishedDateTime: 2022-10-05T21:40:00Z
-    webUrl: "https://www.pcmag.com/news/google-joins-meta-in-creating-ai-powered-text-to-video-generator"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/007sZYPQiaL28pArTs9J6Oj-1.fit_lim.size_1200x630.v1664996190.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "Lilbits: Google’s Tensor G2 chip revealed (powers the Pixel 7, Pixel 7 Pro, and Pixel Tablet)"
     excerpt: "Google debuted its first-gen Tensor processor with the Google Pixel 6 and Pixel 6 Pro last year. While the chip didn’t have the fastest CPU or graphics around, it was able to offer decent all-around performance for flagship phones with reasonably affordable price tags."
