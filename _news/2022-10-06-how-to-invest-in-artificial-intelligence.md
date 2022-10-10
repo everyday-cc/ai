@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artific
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/amp/"
 type: article
 quality: 93
-heat: 113
+heat: 103
 published: true
 
 provider:
@@ -33,22 +33,6 @@ images:
     isCached: true
 
 related:
-  - title: "How To Turn An AI Idea Into A Real Product"
-    excerpt: "The next thing to pay attention to is the innovativeness of your product idea. Among our customers, there is a clear trend of having wrong expectations on the project development time, budget and resources required."
-    publishedDateTime: 2022-10-05T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633c405ce9d5e02f358286ff/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "ING and UniCredit double-down on investment in Axyon AI"
     excerpt: "ING and Unicredit have joined a €1.6 million investment round in Axyon AI, an Italian fintech that supplies asset managers with AI-powered market insights and investment strategies."
     publishedDateTime: 2022-10-06T09:04:00Z

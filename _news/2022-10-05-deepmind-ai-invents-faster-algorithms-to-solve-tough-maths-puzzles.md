@@ -7,8 +7,8 @@ originalUrl: "https://www.nature.com/articles/d41586-022-03166-w"
 webUrl: "https://www.nature.com/articles/d41586-022-03166-w"
 type: article
 quality: 88
-heat: -1
-published: false
+heat: 178
+published: true
 
 provider:
   name: Nature
@@ -27,37 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind unveils first AI to discover faster matrix multiplication algorithms"
-    excerpt: "DeepMind unveiled AlphaTensor, the “first artificial intelligence system\" to shed light on a 50-year-old open question in mathematics."
-    publishedDateTime: 2022-10-05T15:00:00Z
-    webUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/"
-    ampWebUrl: "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/"
+  - title: "Using AI to create more efficient math algorithms"
+    excerpt: "A team of researchers at Google's DeepMind, London, has found that AI can find faster algorithms to solve matrix multiplication problems. In their paper published in the journal Nature, the group describes using reinforcement learning to improve math-based algorithms."
+    publishedDateTime: 2022-10-06T15:10:00Z
+    webUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-efficient-math-algorithms.amp"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 105
+      name: techxplore
+      domain: techxplore.com
+    quality: 76
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all"
-        width: 724
-        height: 483
-        isCached: true
-  - title: "DeepMind’s game-playing AI has beaten a 50-year-old record in computer science"
-    excerpt: "The new version of AlphaZero discovered a faster way to do matrix multiplication, a core problem in computing that affects thousands of everyday computer tasks."
-    publishedDateTime: 2022-10-05T15:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/05/1060717/deepmind-uses-its-game-playing-ai-to-best-a-50-year-old-record-in-computer-science/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/05/1060717/deepmind-uses-its-game-playing-ai-to-best-a-50-year-old-record-in-computer-science/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/05/1060717/deepmind-uses-its-game-playing-ai-to-best-a-50-year-old-record-in-computer-science/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 74
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/matrix-math.jpeg?w=3000"
-        width: 3000
-        height: 1688
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/using-ai-to-create-mor.jpg"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
     excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
@@ -121,6 +105,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "Deep Mind improves matrices maths"
+    excerpt: "Improved 50 years worth of maths classesGoogle’s DeepMind has been using applied reinforced learning techniques to the multiplication of mathematical matrices and can do it better than some 50 year-old human-made algorithms."
+    publishedDateTime: 2022-10-07T08:20:00Z
+    webUrl: "https://www.fudzilla.com/news/ai/55615-deep-mind-improves-matrices-maths"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 56
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/296515b3f2e75ad2c719f4fc5c518981_L.jpg"
+        width: 620
+        height: 465
+        isCached: true
   - title: "DeepMind AI finds new way to multiply numbers and speed up computers"
     excerpt: "Matrix multiplication - where two grids of numbers are multiplied together - forms the basis of many computing tasks, and an improved technique discovered by an artificial intelligence could boost com"
     publishedDateTime: 2022-10-05T15:02:00Z
@@ -148,20 +146,6 @@ related:
       - url: "https://inteng-storage.s3.amazonaws.com/2022/10/06/image/jpeg/Szn8Dxk2UaLaaGGCAy921PTBb2yYR35MlF2LCexk.jpg"
         width: 1920
         height: 1097
-        isCached: true
-  - title: "AlphaTensor: AI system speeds up matrix multiplication with new algorithm"
-    excerpt: "With Deep Reinforcement Learning, DeepMind has discovered an algorithm no human thought of. It is supposed to significantly accelerate matrix multiplication."
-    publishedDateTime: 2022-10-09T08:12:00Z
-    webUrl: "https://www.heise.de/news/AlphaTensor-AI-system-speeds-up-matrix-multiplication-with-new-algorithm-7288780.html"
-    type: article
-    provider:
-      name: heise online
-      domain: heise.de
-    quality: 38
-    images:
-      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/6/2/2/0/3/2/Screenshot_2022-10-06_143311-a84fee75ccd5217a.jpg"
-        width: 1200
-        height: 611
         isCached: true
   - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
     excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."

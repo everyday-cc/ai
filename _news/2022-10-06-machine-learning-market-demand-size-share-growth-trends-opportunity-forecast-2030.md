@@ -23,29 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Europe Artificial Intelligence (AI) in Healthcare Market Growth, Trends, Demand, Share, Analysis and Market Survey 2022"
-    excerpt: "Sample PDF showcases the content structure and the nature of the information included in the report which presents a qualitative and quantitative analysis -  The Europe Artificial Intelligence (AI) in Healthcare Market report formulated at Business Market Insights covers all the most factors which affect the expansion prosperity of the market."
-    publishedDateTime: 2022-10-06T07:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06"
+  - title: "India Autonomous Vehicle Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group \" India Autonomous Vehicle Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", The India autonomous vehicle market is expected to exhibit robust growth during 2022-2027."
+    publishedDateTime: 2022-10-07T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-autonomous-vehicle-market-2022-27-trends-share-size-growth-and-forecast-2022-10-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-based Surgical Robots Market Size, Share, Movements by Growth Status, Trend Analysis, Revenue Expectation to 2022-2029"
-    excerpt: "Oct 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI-based"
-    publishedDateTime: 2022-10-07T12:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

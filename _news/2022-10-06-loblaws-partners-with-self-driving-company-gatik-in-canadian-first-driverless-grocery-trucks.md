@@ -7,7 +7,7 @@ originalUrl: "https://ici.radio-canada.ca/rci/en/news/1922717/loblaws-partners-w
 webUrl: "https://ici.radio-canada.ca/rci/en/news/1922717/loblaws-partners-with-self-driving-company-gatik-in-canadian-first-driverless-grocery-trucks"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 635
     height: 357
     isCached: true
-
-related:
-  - title: "Loblaws partners with self-driving company Gatik in Canadian first: driverless grocery trucks"
-    excerpt: "Loblaws is partnering with a California-based autonomous vehicle company in what's believed to be a Canadian first: grocery trucks powered by self-driving technology."
-    publishedDateTime: 2022-10-05T13:26:00Z
-    webUrl: "https://www.cbc.ca/news/business/loblaw-gatik-autonomous-1.6606623"
-    ampWebUrl: "https://www.cbc.ca/amp/1.6606623"
-    cdnAmpWebUrl: "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6606623"
-    type: article
-    provider:
-      name: CBC.ca
-      domain: www.cbc.ca
-    quality: 48
-    images:
-      - url: "https://i.cbc.ca/1.6606695.1664976237!/fileImage/httpImage/image.JPG_gen/derivatives/16x9_620/gatik-loblaws.JPG"
-        width: 620
-        height: 349
-        isCached: true
-  - title: "Autonomous Trucking Startup Gatik Is Ditching the Driver in Canada"
-    excerpt: "San Francisco tourists, Phoenix suburbanites and now Canadian bacon — the list of driverless cargo keeps growing."
-    publishedDateTime: 2022-10-05T13:05:00Z
-    webUrl: "https://www.ttnews.com/articles/autonomous-trucking-startup-gatik-ditching-driver-canada"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 22
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/gatik_lcl_fully_driverless_press_release_1.jpg?itok=Rbj3oQDr"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "okgtnc3nmHfS6mxHJujZurLHVGQ8ktIdGgE0DEBDAvkH5z7LICUaHqs2L3Dsop3W9RQRvj8frY/aPACg6sNCu1owoDAdnM57mCpycslxUV38HAQDZ/3Z3f8hgWNlmC8x0cOCxieAEU4i2kwCguGk5OLuy3cYDst7i8L+xQ16rHwHew99eHAZamHNzZfUhtfQoztFHM/8McEyeO0OO1D6mKyG30mhfYtHNnMoXDW+Ctgyxxm8SfIWWiZ6eNepqfTpNEGEeX7m7nGVGxqgZrS61KFwi+yySWfc8cUGgrwDKsfGVwFrAQ4KZxgwKnjq3mQ9dN3Ttgp+ElI+8aTmx4lEV2pe23K+a1z1D83mmDBys+VO8KAxHqeVI8+8wI8HiSk/RVvztvtM5Pyc1/ugodWveNSFWJOmhyVqfr2VJpPe7cwyEOZWjcxaCgrVuz9Ho+Niab/JVz7gk8KEjnwpuSXLPU5bc6Ry6tH1G3Qqzlmd+t3U3a3vUP6+n11lqhZq9Z1ZodehDCErz2eux+n6QGBXVA==;u8m0ZRR3POYIBz20TdbA0g=="
 ---

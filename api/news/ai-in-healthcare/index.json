@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-07-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare.md",
+      "title": "How Rwanda is using Artificial Intelligence to improve healthcare",
+      "excerpt": "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,",
+      "sourceUrl": null,
+      "webUrl": "https://allafrica.com/view/group/main/main/id/00083624.html",
+      "originalUrl": "https://allafrica.com/view/group/main/main/id/00083624.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:9418def9d1bedca53c634cafaf8a0961:arc614x376:w1200.jpg",
+          "width": 979,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AllAfrica.com",
+        "domain": "allafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
       "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
       "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
@@ -54,58 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-06-europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022.md",
-      "title": "Europe Artificial Intelligence (AI) in Healthcare Market Growth, Trends, Demand, Share, Analysis and Market Survey 2022",
-      "excerpt": "Sample PDF showcases the content structure and the nature of the information included in the report which presents a qualitative and quantitative analysis -  The Europe Artificial Intelligence (AI) in Healthcare Market report formulated at Business Market Insights covers all the most factors which affect the expansion prosperity of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-growth-trends-demand-share-analysis-and-market-survey-2022-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T00:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
       "title": "How To Invest In Artificial Intelligence",
       "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
@@ -114,7 +105,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/10/05/how-to-invest-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 103,
       "tags": null,
       "images": [
         {

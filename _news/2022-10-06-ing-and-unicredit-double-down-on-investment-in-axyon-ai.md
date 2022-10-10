@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How To Turn An AI Idea Into A Real Product"
-    excerpt: "The next thing to pay attention to is the innovativeness of your product idea. Among our customers, there is a clear trend of having wrong expectations on the project development time, budget and resources required."
-    publishedDateTime: 2022-10-05T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/how-to-turn-an-ai-idea-into-a-real-product/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/633c405ce9d5e02f358286ff/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "J/jK640b4SpTivbsIz2yNiixD7C0ozRo712wRovX/DoIAldPDaxiXQxkILeoUet6fEr4Umit7yH8XzYEhyR1pG+RyxEs7+47gTiR04NwJ3bC6zRHiNH9yAAoSrGF0HL5IF74pb28/JzuvOljoQdRrwHjr+M5mDy4NJPl6G9kw8FQcvy+tEZ5i7adU3DoZsNCnGFLiOJlbuI7FxuFpJ4UrKGHk/bg8YFnoXS0VKigECl4OQfrUjAIfj4CEdm4X+81WlLe74PCd/pakyf6EStfGSJOitvVM/UHlGp4NNEbhAF/hPO8VJSOPZhvsfkVlWeuuj+CZF+fvRAIm7xpXv6RwEl/WzmnILPzoAAxtMnMmnApz7uVJo7NthJpMlUAj+e37Zn76solc77ve1QxJoC9zPzWd1DlgtmCQi0/smdobHt/RQQzPB/EF8KFfwOvo3PjUpia6teMrA4goF0jYj1ShRxGs1o+OtFxoNgZXBtJJTNUe4s7W+1IGAYZsVqFczwgvAHQbEEaKgWhbyoZ5NvL3w==;/k5TRv5vh2DX1H2YZqZ8TQ=="
 ---
