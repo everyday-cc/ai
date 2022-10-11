@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
-    publishedDateTime: 2022-10-06T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
     excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
     publishedDateTime: 2022-10-11T02:37:00Z
@@ -59,6 +45,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
+  - title: "Artificial Intelligence Robotic Dogs Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
+    excerpt: "The \" Artificial Intelligence Robotic Dogs market \" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis forecast 2022 to 2028."
+    publishedDateTime: 2022-10-10T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI-based Surgical Robots Market Size, Share, Movements by Growth Status, Trend Analysis, Revenue Expectation to 2022-2029"
+    excerpt: "Oct 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI-based"
+    publishedDateTime: 2022-10-07T12:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
     publishedDateTime: 2022-10-10T06:28:00Z
@@ -73,31 +87,29 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
-    excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
-    publishedDateTime: 2022-10-11T05:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 46
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
-    excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
-    publishedDateTime: 2022-10-10T16:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-industry-forecast-to-2029-size-2022-statistics-share-growth-rate-trends-regional-analysis-by-key-players-2022-10-10"
+  - title: "Automatic Speech Recognition(ASR) Software Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The \"Automatic Speech Recognition(ASR) Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Automatic Speech Recognition(ASR) Software market size as considered by the top market leaders for this Automatic Speech Recognition(ASR) Software market Industry,"
+    publishedDateTime: 2022-10-10T14:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Smart Irrigation Software Market 2022 Industry Size by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Global Smart Irrigation Software Market 2022 report is a thorough assessment of the worldwide industry with the"
+    publishedDateTime: 2022-10-11T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-irrigation-software-market-2022-industry-size-by-major-companies-profile-competitive-landscape-and-key-regions-2028-top-countries-data-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

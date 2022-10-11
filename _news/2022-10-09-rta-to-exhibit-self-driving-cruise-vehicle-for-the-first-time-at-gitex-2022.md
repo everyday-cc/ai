@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Sensorium to Showcase Latest Innovations of its AI-driven Metaverse at GITEX 2022"
+    excerpt: "Verse, a new GITEX event dedicated to immersive technologies and the Web 3.0 industry, Sensorium will showcase some of its latest innovations in the field of extended reality and artificial intelligence with an interactive multi-day program."
+    publishedDateTime: 2022-10-10T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensorium-to-showcase-latest-innovations-of-its-ai-driven-metaverse-at-gitex-2022-1031792602"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1916298/Gitex_Streaming.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
     publishedDateTime: 2022-10-09T10:13:00Z

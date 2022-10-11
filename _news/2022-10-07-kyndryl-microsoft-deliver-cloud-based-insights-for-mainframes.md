@@ -57,24 +57,6 @@ related:
         width: 750
         height: 600
         isCached: true
-  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
-    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
-    publishedDateTime: 2022-10-06T18:19:00Z
-    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
-    type: article
-    provider:
-      name: Network World
-      domain: networkworld.com
-    quality: 49
-  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
-    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
-    publishedDateTime: 2022-10-06T17:53:00Z
-    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 13
 
 secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---

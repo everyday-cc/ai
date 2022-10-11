@@ -62,7 +62,7 @@
       "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 103,
       "tags": null,
       "images": [
         {
@@ -266,7 +266,7 @@
     {
       "path": "_news/2022-10-06-an-epidemic-of-cognitive-impairment.md",
       "title": "An Epidemic of Cognitive Impairment?",
-      "excerpt": "Partisan charges grew so intense that Trump voluntarily took -- and aced -- the Montreal Cognitive Assessment. CARTOONS | Michael Ramirez View Cartoon Strangely, the same Left armchair ...",
+      "excerpt": "Partisan charges grew so intense that Trump voluntarily took -- and aced -- the Montreal Cognitive Assessment. CARTOONS | Tom Stiglich View Cartoon Strangely, the same Left armchair psychiatrists ...",
       "sourceUrl": null,
       "webUrl": "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043",
       "originalUrl": "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043",
@@ -457,31 +457,22 @@
       "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
       "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html",
-      "originalUrl": "https://www.eagletribune.com/region/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_61eb2f91-a077-5255-b34c-08d55f0e3200.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/01/5018dc19-4132-5b2b-9b93-d8edcc791c69/633bb1b6803b2.image.jpg?crop=1773%2C931%2C0%2C119&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:02:00-07:00",
+      "publishedDateTime": "2022-10-03T21:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

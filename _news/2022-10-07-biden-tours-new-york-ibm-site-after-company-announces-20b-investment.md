@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-af
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Biden visiting New York with IBM poised to announce $20B program; what to know"
-    excerpt: "The Poughkeepsie IBM site is where the z16 mainframe, a product which utilizes artificial intelligence, was tested and is manufactured. IBM also opened up the first Quantum Computation Center in ..."
-    publishedDateTime: 2022-10-06T18:32:00Z
-    webUrl: "https://www.usatoday.com/story/news/politics/2022/10/06/biden-poughkeepsie-ibm/8194658001/"
+  - title: "Biden Visits IBM to Promote Investments in U.S. Semiconductor Production"
+    excerpt: "President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips. Send any friend a story As a ..."
+    publishedDateTime: 2022-10-07T18:41:00Z
+    webUrl: "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html"
+    ampWebUrl: "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html"
+    cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html"
     type: article
     provider:
-      name: USA Today
-      domain: usatoday.com
-    quality: 20
+      name: The New York Times
+      domain: nytimes.com
+    quality: 73
     images:
-      - url: "https://www.gannett-cdn.com/presto/2022/10/05/PFTM/fb6f934b-b743-4e43-9e39-c354ef21bd78-Joe_Biden_surveys_Hurrican_Ian_damage_0262_SY.jpg?auto=webp&crop=3113,1752,x0,y288&format=pjpg&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://static01.nyt.com/images/2022/10/06/multimedia/06dc-biden-photo02-1-9057/06dc-biden-photo02-1-9057-facebookJumbo-v2.jpg"
+        width: 1050
+        height: 550
         isCached: true
 
 secured: "cfYdTQmftHNq4JGtSvV2kbvyeLuqr79F0j83xTkzQ5d1h5xfj1yG/U2gW3E3ok0w1kfmvPVb/BgAFWW4DnOSrb1e5zcbHdkUFnAMX6rISU0l3bwuhLWFa0CFgfoOvxO6TzDteIH7IWDFkh291y0OA0rGcwElXtQIDLmLKgiraFhDTAEC6LlD4OrPQLBbruMrsAvSTM8Lfuxoud91eAilZ/fxhSz55qDAqmTLRUSJfJYXpqf4BQ5GyJdvupG8nz0xDrBVwKQfCVJYjoQGSJbAuG8iGurDWPYeYFNga5/2bEtRKzbtgG0TvMCG5AKaCIpZVkDyzF9/GmpQy6mzQVHl2812n/cz/QNrANboiJvQ+3A=;ldcrtfgdP2rScDSXxiCELA=="

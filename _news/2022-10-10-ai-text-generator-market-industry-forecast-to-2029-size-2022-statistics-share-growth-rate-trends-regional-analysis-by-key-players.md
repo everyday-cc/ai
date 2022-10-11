@@ -28,82 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
-    publishedDateTime: 2022-10-06T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
+  - title: "India Autonomous Vehicle Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group \" India Autonomous Vehicle Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", The India autonomous vehicle market is expected to exhibit robust growth during 2022-2027."
+    publishedDateTime: 2022-10-07T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-autonomous-vehicle-market-2022-27-trends-share-size-growth-and-forecast-2022-10-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 71
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
-    excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
-    publishedDateTime: 2022-10-11T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
+  - title: "UK Autonomous Last Mile Delivery Market Report 2022: Adoption of Self-Ruling Vehicles to Deliver Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The UK's Autonomous Last Mile Delivery Market is estimated to be USD 1.07 Bn in 2022 and is expected to reach USD 3.64 Bn by 2027, growing at a CAGR of 27.73%. The UK's Autonomous Last Mile Delivery Market is segmented based on Type,"
+    publishedDateTime: 2022-10-10T11:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-10-uk-autonomous-last-mile-delivery-market-report-2022-adoption-of-self-ruling-vehicles-to-deliver-driving-growth-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
-    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-  - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
-    publishedDateTime: 2022-10-10T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-97-pages-report-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
-    excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
-    publishedDateTime: 2022-10-11T05:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 46
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "VbahFW0GgIApzi54vbGRxT2YWO0vO2AWG4/+G6F1S1sgJhbjhNT8RCyIq7nWCMsKASN2soYDE70MDauoE3TfT6EZYx/VjckFWTearRC4G7EQqFM7hvyTPYyB5XNPFqnAC/TXDy0EFxPjnSVdtzUl0Xb2MQLSRBpoGmb4dYOsqnJuzY61fX+0Wem3tgmyFUdGcbGu3R7Jg+JO2TedFZ3Kr9+kRLluMadQjC3cPK1h9Vv7+roXgt7yieCy+zj3tdI+8hqvlKa7nR+VgoumEApb9A/kUqIJbYeYskmgfdX59Axn4uCzaxIBo6TpZ+O7xUEp8k02MtSOPViJ0wqz8PtTLV1cyO/v4iyrUII/pf/6MQE=;oZupLnAUq3mb0Jkm7b1k8g=="
 ---

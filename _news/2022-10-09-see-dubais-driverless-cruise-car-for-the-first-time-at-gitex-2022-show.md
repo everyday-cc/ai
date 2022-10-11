@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
 quality: 74
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Sensorium to Showcase Latest Innovations of its AI-driven Metaverse at GITEX 2022"
+    excerpt: "Verse, a new GITEX event dedicated to immersive technologies and the Web 3.0 industry, Sensorium will showcase some of its latest innovations in the field of extended reality and artificial intelligence with an interactive multi-day program."
+    publishedDateTime: 2022-10-10T12:00:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sensorium-to-showcase-latest-innovations-of-its-ai-driven-metaverse-at-gitex-2022-1031792602"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 62
+    images:
+      - url: "https://mma.prnewswire.com/media/1916298/Gitex_Streaming.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"

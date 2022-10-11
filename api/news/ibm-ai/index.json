@@ -2,6 +2,187 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-08-biden-visits-ibm-to-promote-investments-in-us-semiconductor-production.md",
+      "title": "Biden Visits IBM to Promote Investments in U.S. Semiconductor Production",
+      "excerpt": "President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips. Send any friend a story As a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06dc-biden-photo02-1-9057/06dc-biden-photo02-1-9057-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "publishedDateTime": "2022-10-07T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-president-biden-visits-ibm-to-announce-20b-investment-in-hudson-valley.md",
+      "title": "President Biden visits IBM to announce $20B investment in Hudson Valley",
+      "excerpt": "artificial intelligence and quantum computing. Thanks to the CHIPS and Science Act, IBM Poughkeepsie will directly benefit and be able to ensure a reliable and secure supply of next-generation ...",
+      "sourceUrl": null,
+      "webUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "originalUrl": "https://westchester.news12.com/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.chdrstatic.com/media/d58cb652-7d2f-4be8-a0ba-43cd43c5626b.jpg?width=1200&source=backend&auto=webp",
+          "width": 1200,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "cdnAmpWebUrl": "https://westchester-news12-com.cdn.ampproject.org/c/s/westchester.news12.com/amp/president-biden-to-announce-20b-investment-by-ibm-in-hudson-valley",
+      "publishedDateTime": "2022-10-06T09:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News 12 Networks",
+        "domain": "news12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-ibm-pumps-20b-into-us-tech-sector.md",
+      "title": "IBM pumps $20B into US tech sector",
+      "excerpt": "IBM announced it would invest $20 billion in the state of New York over the next ten years to increase development and manufacturing of semiconductors, AI, mainframe technology and quantum computing. Chairman and CEO Arvind Krishna stated investing in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/10/ibm-.jpeg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/ibm-pumps-20b-into-us-tech-sector/amp/",
+      "publishedDateTime": "2022-10-06T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-artificial-intelligence-in-energy-market-market-still-has-room-to-grow-siemens-schneider-electric-ibm-general-electric.md",
+      "title": "Artificial Intelligence in Energy Market Market Still Has Room to Grow | Siemens, Schneider Electric, IBM, General Electric",
+      "excerpt": "The latest study released on the Global Artificial Intelligence in Energy Market by ... (United States), Siemens (Germany), Watty (Sweden), IBM (United States), Schneider Electric (France ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-market-still-has-room-to-grow-siemens-schneider-electric-ibm-general-electric",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-energy-market-market-still-has-room-to-grow-siemens-schneider-electric-ibm-general-electric",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Ukraine-Kyiv-Russia-missile-strikes-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-03-artificial-intelligence-in-marketing-global-market-report-2022-featuring-ibm-salesforce-amazon-facebook-oracle-researchandmarketscom.md",
       "title": "Artificial Intelligence In Marketing Global Market Report 2022: Featuring IBM, Salesforce, Amazon, Facebook & Oracle - ResearchAndMarkets.com",
       "excerpt": "In October 2020, IBM planned to provide its IBM Watson, an AI for business toolset to industry leaders and make it available across the advertising ecosystem. Altering existing business practices ...",
@@ -1213,189 +1394,7 @@
         "AI",
         "AI Hardware"
       ]
-    },
-    {
-      "path": "_news/2022-09-09-for-triangle-startups-heres-what-ibm-is-looking-for-in-its-next-acquisition.md",
-      "title": "For Triangle startups, here's what IBM is looking for in its next acquisition",
-      "excerpt": "IBM is always looking for potential acquisitions, but is there any chance of another mega-deal like the one for Raleigh-based Red Hat?",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/triangle/inno/stories/news/2022/09/08/ibm-red-hat-next-acquisition-startups-technology.html",
-      "originalUrl": "https://www.bizjournals.com/triangle/inno/stories/news/2022/09/08/ibm-red-hat-next-acquisition-startups-technology.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-novel-ai-solutions-expected-from-new-hebrew-u-technion-partnership-with-ibm.md",
-      "title": "Novel AI solutions expected from new Hebrew U, Technion partnership with IBM",
-      "excerpt": "Last week, the Technion-Israel Institute of Technology and the Hebrew University of Jerusalem signed a partnership agreement with IBM Research to advance artificial-intelligence capabilities and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-716662",
-      "originalUrl": "https://www.jpost.com/business-and-innovation/tech-and-start-ups/article-716662",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/514347",
-          "width": 640,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.jpost.com/business-and-innovation/tech-and-start-ups/article-716662/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/business-and-innovation/tech-and-start-ups/article-716662/amp",
-      "publishedDateTime": "2022-09-08T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-ibm-watson-services-market-size-share-2022-global-key-leaders-analysis-segmentation-growth-at-a-cagr-of-around-325.md",
-      "title": "IBM Watson Services Market Size, share 2022 Global Key Leaders Analysis, Segmentation, Growth | at a CAGR of around 32.5%",
-      "excerpt": "The global IBM Watson Services market is anticipated to grow at a CAGR of around 32.5% over the period of next",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-share-2022-global-key-leaders-analysis-segmentation-growth-at-a-cagr-of-around-325-2022-09-08",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-size-share-2022-global-key-leaders-analysis-segmentation-growth-at-a-cagr-of-around-325-2022-09-08",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-08T05:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-08-facebook-ibm-microsoft-lead-advances-in-ai.md",
-      "title": "Facebook, IBM, Microsoft lead advances in AI",
-      "excerpt": "IBM will make a 10-year, $240 million commitment to the MIT-IBM Watson AI Lab, which will be located in Cambridge, Mass., where IBM has a research lab and where MIT’s campus is located.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/facebook-ibm-microsoft-lead-advances-ai/",
-      "originalUrl": "https://sdtimes.com/ai/facebook-ibm-microsoft-lead-advances-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2017/09/ai-lab-brain.png",
-          "width": 583,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Microsoft AI"
-      ]
     }
   ],
-  "nextPage": null
+  "nextPage": 2
 }

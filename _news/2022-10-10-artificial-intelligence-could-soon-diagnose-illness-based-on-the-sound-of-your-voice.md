@@ -2,30 +2,28 @@
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
 excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
-publishedDateTime: 2022-10-10T14:35:00Z
-originalUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
-webUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
-ampWebUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/?outputType=amp"
-cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/?outputType=amp"
+publishedDateTime: 2022-10-10T16:35:00Z
+originalUrl: "https://www.wabe.org/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
+webUrl: "https://www.wabe.org/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: OPB
-  domain: opb.org
+  name: WABE
+  domain: wabe.org
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/Lk6QEIyPsZCzyG8ZA9SeC15xcdo=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/FSE3OZJT4QHR6W6CKTANWZAHZE.jpg"
-    width: 767
-    height: 575
+  - url: "https://www.wabe.org/app/uploads/news/npr-stories/20211112-usfh-yael-bensoussan-ent-029_custom-a7b05f16cd3c0e2bcb6dbe5132a64fb59b1a1dda-scaled.jpg"
+    width: 2560
+    height: 1892
     isCached: true
 
-secured: "/Mc/uj4LRcyL1gp1+QwSMFKR8SpqmN/tHzjtV8Ru+1KVWeEoksR8yFRIGUaopQ2GmcctIlyEa/JyfCe1SDC6DOS48MJwFLNER7cCFL5VJeikBR/tHaAMuDMu00CkYRCgz/DF9g/MXAS4JdkJO0qcFrrPsv5j2I684gZtTbD4dJJ/K3DGeu8YWK8JoEjEY3E9ubiPjZ3WegiotGUMKRj8wGNtK8w+SBWaQeIW9u6XfcqzLFJijmEI4NrmEMZeFyqrA/2ZU1QRQ1uG2DcvFuoGDwPw/EuSGT2gbV+1chvTN8OccNmpn69zWqRntBdxZwvD7E+2Q7OmB5TbD/0qOxk77vCJ8CJtvm7/btp3c7plir0=;5A22ON9rn9UHX3g4B16nvg=="
+secured: "FLnYW0ZtZtzjD4x4w+AjwIDmbYX5Hp4pV+Bki5kbkoIrTmTXO1RBYAiAcxjT83zsc1hu6JqI9noHmpdr2j76IEP2ozSzs/O4hF0l1JhGq6ebq4EfX2R5G2AGZsDSNINrZ96KBQfKzFfriLy+UgmWiTDvXrKODkYq6IAeeEiTI8DM91asHUY8NmMofwr7cDZKoINbHhJKeY5qU/Z0LSeAvJjNvreKayH60YWVyXr/s6rcCjJXGCKc7mTFdeZXnCCIeN3GJoiz9A4CoZJA5pBq48gGbYP8TXllbrDqLYjQicpdsShtfzGs9isEch+2ZmiXaAZXTv+epjYhCf6/kEjZ1kUvCd1wghjXTmTXivDU5q4=;GQg5tuP41q90xDemyyOGAA=="
 ---
 

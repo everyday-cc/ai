@@ -1,7 +1,7 @@
 ---
 category: news
 title: "An Epidemic of Cognitive Impairment?"
-excerpt: "Partisan charges grew so intense that Trump voluntarily took -- and aced -- the Montreal Cognitive Assessment. CARTOONS | Michael Ramirez View Cartoon Strangely, the same Left armchair ..."
+excerpt: "Partisan charges grew so intense that Trump voluntarily took -- and aced -- the Montreal Cognitive Assessment. CARTOONS | Tom Stiglich View Cartoon Strangely, the same Left armchair psychiatrists ..."
 publishedDateTime: 2022-10-06T00:01:00Z
 originalUrl: "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043"
 webUrl: "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043"
@@ -21,6 +21,6 @@ images:
     height: 366
     isCached: true
 
-secured: "/9RFTWCupG7YtRKTig3sjcVrtjgElRVTP2AiuYUQMs7exf+wUsjyrgAxesCgoWZq8VBGZdQVhGCoHNjRNMI4mD9mxMc1XtpgQEeh+BgIUWw9JqSYBxgutD+P+6yDiemxNixMD+3tP4pi1EMhXD0eSw8HKzPjrOf2q7W9PDo5AvNSjyQ2RsEMNJ0ZySpe8lGp/rR0y+yUV6pcvPewF0qN4rr3GULV0Tt9MgsPrOdYuumwJlATaLanJ997Ql6SjrN4Sp1sL7IIdgzwlLUh/f7D18n4xEOKcsdkro5L2XrIeha6U2XUtB64VsJRYPj+3Mo6yC5auaK2DPFq5yBjT2tRiNWaiwBRWLpUc6hbQbnHNyY=;RXK7Es1exmNDh6L/unY40Q=="
+secured: "E/ZA4d3U2w4MAVjs2U//hG1T/yNlzCQuUTo8euHmaROPZBe1W4tIEIW/pLClQu66dKurjHsuHCB6oGw1vez4N1CmpbdXLmeQUvBh5OS+DogSze/s2uJRXcSwvoK5FvHFj4Vf2imcYpCvQhIBCdDdtZIZyqKa7NIiUFub+phx8LnM8btKxMrUnlrmus6BtcKiPT24qX+O74n0uI74pFPpxBGKElf0r5+0ri/8u62CnxPBbCXE+KWdvB/ZftkxY8ba/Nf2nmu+LxXnk0/CEREh4+DniCxwI8TStDlrZZevFx76+HCj1JMyIKDWnJSvdrcLaYcOF+WT90s6pV0e7dp1Owr/N3HQDaVsCJl89lGLbs4=;6WIlQHAY6tQq8MulEHaqUg=="
 ---
 

@@ -25,15 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "Google’s Imagen takes on Meta’s Make-A-Video as text-to-video AI models ramp up"
-    excerpt: "Thanks to Google and Meta, the text-to-video trend shows all the signs of getting ready to explode much like text-to-image tools."
-    publishedDateTime: 2022-10-06T18:27:00Z
-    webUrl: "https://venturebeat.com/ai/google-ai-generator-takes-on-meta-as-text-to-video-trend-ramps-up/"
+  - title: "Meta Launched an AI Video Generator, and It’s Creepy"
+    excerpt: "The technology isn’t available for public use, but Meta (formerly Facebook) released a series of eerie sample clips based on prompts like “cat watching TV” and “spaceship landing.”"
+    publishedDateTime: 2022-10-06T21:31:00Z
+    webUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generator-and-its-creepy/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 43
+      name: Hyperallergic
+      domain: hyperallergic.com
+    quality: 39
+    images:
+      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/10/cat-tv.jpg"
+        width: 1200
+        height: 915
+        isCached: true
+  - title: "Meta’s text-to-audio AI can create common sounds and generate music"
+    excerpt: "Meta’s AudioGen text-to-audio artificial intelligence model could create sound for video games, film soundtracks or music production"
+    publishedDateTime: 2022-10-07T14:33:00Z
+    webUrl: "https://www.newscientist.com/article/2341416-metas-text-to-audio-ai-can-create-common-sounds-and-generate-music/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 37
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/07151848/SEI_128475358.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google AI Videos Point to a Machine-Generated Future"
     excerpt: "In just the past week, AI researchers from Meta Platforms Inc. and Alphabet Inc.'s Google have taken an extraordinary leap forward, developing systems that can generate videos with just about any text prompt one can imagine."
     publishedDateTime: 2022-10-08T18:05:00Z
