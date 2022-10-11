@@ -64,6 +64,15 @@ related:
       name: ecofinagency
       domain: ecofinagency.com
     quality: 34
+  - title: "Tap into AI for better healthcare"
+    excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
+    publishedDateTime: 2022-10-11T01:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
     publishedDateTime: 2022-10-06T10:32:00Z
@@ -78,15 +87,6 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
-    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
-    publishedDateTime: 2022-10-06T07:28:00Z
-    webUrl: "https://www.albawaba.com/business/pr/mubadala-health-and-g42-healthcare-join-forces-create-new-entity-embodying-“-future"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 2
 
 secured: "AbgUuYFNgv8m5/Cas0sAGAf85QaS3IbOnfZr23f/FSKeV+NOr/rQPnc9qOAqI70myjHv0izY6sNJezNjMrBHaHrZGxsmCpcfcJEw2rxV6S7w0CXYHdTbsHFsfZcdAwDE1usPY1CDKrQuWSoSZK1d4DqhWNAmM3DDmEh9YW1f0kTRHRinlcJGMO8fl38DH7lQ591dMDYDUnhUzHtFHFafcoEzzAgd+0sCQOAG93O2aVhRysrY8zMriStViEEqizBtqdQcmbuEVJ74QwOdnczemukkrOk8a06IsmZGN5cTHi8fTgXyhzaGkpAgQ3PMQjVWtpa15ARanvYWExPAvd/tgE8VLr6yKwraLAi1fhW86RikeNgc5i2aqFnTkxrFe8f5v/Is80ZOsx49oaK7zDBf3xyPkPvMK4qXbLikCo2g32uVlWPUzoucZmXOk/lte6VbNL0z/xUAtB53/vAMKN1ILMplzS4839W3Q/GYIGA7LjK7uEcfJcORPWMRpTN169jQiz2Abr10o1d68dT0BHhKoQ==;GoAYejrjlKdyKfXsfd1RPQ=="
 ---

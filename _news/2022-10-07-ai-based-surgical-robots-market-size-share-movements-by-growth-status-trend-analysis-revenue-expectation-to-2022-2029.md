@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: MarketWatch
@@ -29,15 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vehicle Speech Recognition System Market Report with Executive Summary, Size, Analysis and Forecast to 2022-2031"
-    excerpt: "Application (Commercial Vehicle, Passenger Car, Others) – Global Industry Analysis & Forecast to 2031 Industry Outlook and Trend Analysis The vehicle speech recognition system market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
-    publishedDateTime: 2022-10-06T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-report-with-executive-summary-size-analysis-and-forecast-to-2022-2031-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
   - title: "Artificial Intelligence In Sports Market To Witness Excellent Revenue Growth, Emerging Trends And Forecast"
     excerpt: "Artificial Intelligence in Sports Market Artificial Intelligence in sports has a massive impact on audience engagement, game strategy, an"
     publishedDateTime: 2022-10-07T05:37:00Z

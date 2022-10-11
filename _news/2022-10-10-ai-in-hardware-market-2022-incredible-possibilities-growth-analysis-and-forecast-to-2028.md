@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Self Driving Wheelchair Market Global Industry Overview, Sales Revenue, Demand and Analysis, Forecast by 2028"
-    excerpt: "Self Driving Wheelchair Market New competitors are exploring? Global “Self Driving Wheelchair Market” the research"
-    publishedDateTime: 2022-10-06T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
     excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
     publishedDateTime: 2022-10-06T17:31:00Z
@@ -50,6 +36,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
   - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
     publishedDateTime: 2022-10-10T06:28:00Z
@@ -59,20 +54,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Medical Speech Recognition Market 2022 Emerging Trend and Business Opportunities, Scope and Overview, Forecast by 2028"
-    excerpt: "Global “Medical Speech Recognition Market” report looks at the leading companies, market dynamics, size, share,"
-    publishedDateTime: 2022-10-06T11:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/medical-speech-recognition-market-2022-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -92,20 +73,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Opportunities, And Industry Analysis By 2032"
-    excerpt: "This detailed market study done by Quince Market Insights covers Speech and Voice Recognition Market growth potentials which can assist the stakeholders to understand key trends and prospects in ..."
-    publishedDateTime: 2022-10-06T13:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-opportunities-and-industry-analysis-by-2032"
+  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
+    publishedDateTime: 2022-10-06T13:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/UBER-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
 secured: "avgfwmbGloM4skWuqj1kx+OCcDQ8a/Yydd6wCrpB1dWcpnCc2iqbGX63UAFhBpo2bSuCWjLv6c3X8e77plzhj/e8FlTaIQ0tig5JIB6Po8H8Ls/lOU+f3s4Hw9KrmUp8MtidipgwSKt9MckMQ9hvhII4Ko9pzK8/pG+1dK/re5CD57m5QKJ9WOw5i3xEnEaBRc9FPTgqek7ERllBwMcZj4CVsPxfnuRJcWK+dpXd/0mEr5ZSJD4k3xS+PkD6RSEVw7VK1n9TTqwx9+N3uUjKeUOQkEapOCwAmbC9mTSC9Kr+Bo/Xfiu26zTdItEeVQ3B3XrX50JAaL9jQbQQlPShhDW+9z1mqBeEdKt5Dm9AKBw=;F5hLi3979w9Aj/0CTKIq3Q=="
 ---

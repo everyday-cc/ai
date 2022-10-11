@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Aktana Welcomes New Medical Affairs Lead from IBM Watson Health (Now Merative)"
-excerpt: "Patil comes to Aktana after leadership roles at IBM Watson Health ... “As we prioritize new, AI-driven solutions for medical affairs teams, Deepak will help expertly shape our new offerings ..."
-publishedDateTime: 2022-09-27T14:07:00Z
-originalUrl: "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html"
-webUrl: "https://www.dailyitem.com/wire/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative/article_80395d7e-81d9-5b36-b412-f7b8f9dc1330.html"
+excerpt: "Aktana, the leader in intelligent customer engagement for the global life sciences industry, welcomes Deepak Patil as"
+publishedDateTime: 2022-09-27T11:33:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative-2022-09-27"
+webUrl: "https://www.marketwatch.com/press-release/aktana-welcomes-new-medical-affairs-lead-from-ibm-watson-health-now-merative-2022-09-27"
 type: article
 
 provider:
-  name: The Daily Item
-  domain: dailyitem.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/dailyitem.com/content/tncms/custom/image/49694cfa-ad01-11e7-9c96-3b6781bae985.jpg?resize=600%2C315"
-    width: 600
-    height: 315
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "XAIRBwhOLfvaCjudtFNsfFmB4QXguhht+olaGp6IEWc9o4bO28KmwrPEwzZJ6w5rF8ajpdSxTBndO/G+KZkjtP1y40/6l2Mg+1tqk3MMO3fTAoEiVXt24VZBgbcyqXBIXOjwtliDsZv8xOSo2UQBVh9aFFXp0VoPwwarfttx7p5Q04EtGtUqXrhOgYHozLyHqNCSWI8aI+WbLjDfiZn1NCRHbhz7sPreqzNRSBcQ2zVY+a8+8YKd1O3h/OMdJzuGpOiVVxtuFhhZm3I+vuPGU8T4FDTUWASxEPXpyT23GCohLt04CQPsII9vs4t4jGWdnM0oT+hIHAJUwDoH7FJrA3E/L0x36K2WktNsF+daIjo=;B/TkoqHH5Z226VEdqjl3Rw=="
+secured: "PcjhtMNcDZd7Z3DXw1xGQDI37EUGKlpgKqru7vimdK643nj5pIXw7yt4syG6BZ44zLfAeQqlQDuMO7pPM619q7EAQEFpeCGKLOX2ECByvCNd/R13/S3IG3SS8Pq3lhTAMcEVH+XjDBBSexuKw66ZLZTbtieMTg2H6GIFCOJPLR5KFrwb9kFvzXyjRCYo85U9QSZB0FPySjJhJ0ivoNfandxt1Gxzmc/sieGJnsjZRQnNqTxn9Vn7liq+4oHfAYqzgT1DhJuqypksnklKJpApOWfoGChRecbf5ZWD2SK+IuCGTkP+meiWzujlO0MVKlTXGavtgLmVNQhWx7VSPTm2DMY94TSO2rYPMdia0hW0aL8=;49PRRj+baGgqJTrmJUMgFQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/newsround/63173407.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "A robot will address the House of Lords this week"
+    excerpt: "Robot painter Ai-Da will appear before the House of Lords Communications and Digital Committee tomorrow afternoon. The robot will be there to give a speech and answer questions about the threat posed by artificial intelligence to the creative industries."
+    publishedDateTime: 2022-10-10T10:24:00Z
+    webUrl: "https://metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/?ico=zone-post-strip_item_3_news"
+    ampWebUrl: "https://metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 59
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/10/GettyImages-1318598068-5538.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
+        width: 600
+        height: 400
+        isCached: true
   - title: "Ai-Da Robot artist to make history as the first robot to speak at the House of Lords next week - as she questions whether creativity in the UK is under attack from technology"
     excerpt: "Ai-Da, a 'realistic' robot artist created and built in Britain, will speak at the House of Lords at the Palace of Westminster, next Tuesday."
     publishedDateTime: 2022-10-06T11:19:00Z

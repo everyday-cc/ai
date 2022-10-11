@@ -21,24 +21,66 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market is expected to reach USD 39,986.7 Million by 2025"
-    excerpt: "According to The Insight Partners market research study titled ‘Machine Learning Market to 2025 – Global Analysis"
-    publishedDateTime: 2022-10-07T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-expected-to-reach-usd-399867-million-by-2025-2022-10-07"
+  - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
+    excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
+    publishedDateTime: 2022-10-06T17:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+  - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
+    publishedDateTime: 2022-10-10T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-97-pages-report-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
-  - title: "The Worldwide Educational Robot Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "Component (Sensors, End Effectors, Actuators, Controllers), Education Level (Higher Education, Special Education) - Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global educational robot market size is expected to grow from USD 1."
-    publishedDateTime: 2022-10-06T16:13:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-6-the-worldwide-educational-robot-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
+    excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
+    publishedDateTime: 2022-10-06T10:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-2022-growth-factors-industry-size-share-cagr-value-global-trends-future-opportunities-and-forecast-to-2028-2022-10-06"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NlwRyJX2MHwpRwQW8a5iFoYkLB98j8aopj7tqvHV9FzeUMG1gGcxdY0VcZAdq2sZoE0Y9dTQq1ih+SQ19x1yIdvMvbePCCP8yIw6zhx0ok+No2njNUM6V8WJRzgD4N05hZyNjHJFc/BBHsDYKNZn+/HYecwh5F4KWBg65KFCz9bm6+X0KafnJy/jJBKfhTkvXJC1Eev48tCHE5n6m4DrehcciAixHyC3XbSoZNB/c/AuU1o077GHcEzt+G3WjhHb5c09FnW3Gc6Fc//3Km+0l9C3AW2M6PeMaWrbDegV53CyrRNFBdIa5gWabzHhgGrBVcVKAx/4bS3daLtIK29s9C+bKn4J10jHb+8yUIRZf9w=;6bzds6frvkxxiWgKF4vKlg=="
 ---

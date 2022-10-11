@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Finance
 
 images:
   - url: "https://etimg.etb2bimg.com/thumb/msid-94671065,imgsize-623434,width-1200,height-628,overlay-etcio/rbi-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision.jpg"

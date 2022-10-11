@@ -65,6 +65,15 @@ related:
       name: ecofinagency
       domain: ecofinagency.com
     quality: 34
+  - title: "Tap into AI for better healthcare"
+    excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
+    publishedDateTime: 2022-10-11T01:50:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 34
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
     publishedDateTime: 2022-10-06T10:32:00Z
@@ -79,15 +88,6 @@ related:
         width: 799
         height: 533
         isCached: true
-  - title: "Mubadala Health and G42 Healthcare Join Forces To Create New Entity Embodying “The Future of Healthcare”"
-    excerpt: "G42, the leading UAE-based artificial intelligence and cloud computing technology company, and Mubadala, an Abu Dhabi sovereign investor, today announce"
-    publishedDateTime: 2022-10-06T07:28:00Z
-    webUrl: "https://www.albawaba.com/business/pr/mubadala-health-and-g42-healthcare-join-forces-create-new-entity-embodying-“-future"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 2
 
 secured: "+Nwk4nUtlvN/xTE7ECyWLB5VIqUaUHWX01LCwTcCE3qA7JQAbZaEdWVIZ4trEUVZZeiRfooY8ybF0aETBJ12GBu77SO5V2jAEAICfDTcAtnrz/i73wmF1X79zov7IUkYyasvCUGcxu6QO+wJK/j9wdRKXUzHsAee92eNNhbgAPFMBMz/R4lGgFauhdgAU9u6IgrrLyuEE2H/S0C43zjIx52snWlT+9d9KSAfIDYIhb68+f1BCWqr5YPsZYaqDzW7dYp/gZvbpua6k60Y4Ckww+ZPXNNVXVXAlA7TY/X4zq4AF+iBb7qZ3TCCqxgfoZw624s+YrUlf7AwguTgQyL7e81hkdU3O+A1FvIJIJPYrYo=;zZ1HJEg3s0pepRuBvaKY8Q=="
 ---

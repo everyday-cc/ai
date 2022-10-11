@@ -23,17 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
-    publishedDateTime: 2022-10-06T13:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
   - title: "The Worldwide Educational Robot Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "Component (Sensors, End Effectors, Actuators, Controllers), Education Level (Higher Education, Special Education) - Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global educational robot market size is expected to grow from USD 1."
     publishedDateTime: 2022-10-06T16:13:00Z

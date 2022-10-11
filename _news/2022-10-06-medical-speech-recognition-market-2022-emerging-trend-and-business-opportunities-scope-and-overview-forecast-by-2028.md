@@ -29,85 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Self Driving Wheelchair Market Global Industry Overview, Sales Revenue, Demand and Analysis, Forecast by 2028"
-    excerpt: "Self Driving Wheelchair Market New competitors are exploring? Global “Self Driving Wheelchair Market” the research"
-    publishedDateTime: 2022-10-06T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-global-industry-overview-sales-revenue-demand-and-analysis-forecast-by-2028-2022-10-06"
+  - title: "India Autonomous Vehicle Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group \" India Autonomous Vehicle Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", The India autonomous vehicle market is expected to exhibit robust growth during 2022-2027."
+    publishedDateTime: 2022-10-07T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-autonomous-vehicle-market-2022-27-trends-share-size-growth-and-forecast-2022-10-07"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The \" Artificial Intelligence (AI) in Fintech Market \" is expected to observe the highest growth rate (CAGR Rate) for the forecasted duration between 2022 to 2028. The market research report provides a detailed overview of geography expansion,"
-    publishedDateTime: 2022-10-06T17:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
+  - title: "UK Autonomous Last Mile Delivery Market Report 2022: Adoption of Self-Ruling Vehicles to Deliver Driving Growth - ResearchAndMarkets.com"
+    excerpt: "The UK's Autonomous Last Mile Delivery Market is estimated to be USD 1.07 Bn in 2022 and is expected to reach USD 3.64 Bn by 2027, growing at a CAGR of 27.73%. The UK's Autonomous Last Mile Delivery Market is segmented based on Type,"
+    publishedDateTime: 2022-10-10T11:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-10-uk-autonomous-last-mile-delivery-market-report-2022-adoption-of-self-ruling-vehicles-to-deliver-driving-growth-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
-    publishedDateTime: 2022-10-10T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-97-pages-report-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-  - title: "Face Recognition Door Lock Market 2022 Growth Factors, Industry Size, Share, CAGR Value, Global Trends, Future Opportunities and Forecast to 2028"
-    excerpt: "Global “Face Recognition Door Lock Market” research report provides a comprehensive overview, industry shares, and"
-    publishedDateTime: 2022-10-06T10:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-door-lock-market-2022-growth-factors-industry-size-share-cagr-value-global-trends-future-opportunities-and-forecast-to-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Opportunities, And Industry Analysis By 2032"
-    excerpt: "This detailed market study done by Quince Market Insights covers Speech and Voice Recognition Market growth potentials which can assist the stakeholders to understand key trends and prospects in ..."
-    publishedDateTime: 2022-10-06T13:50:00Z
-    webUrl: "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-opportunities-and-industry-analysis-by-2032"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 19
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/09/UBER-AFP-1K-01-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "d2gPOys/TjAEZScNVKKgxDblWQncTdukmD01umgaf6XPl++/Mj6sgiA48923kLiczUkBw7+nzrizUOPIdEC5W2fj3FowTjRdG4ViT8gyFeGLC5KEYnybyWZJG9HiOE5x3Kh/cXAqVh1bL4WahopgZxLLe0V3TXAYQ50ds0oc2YVFAJXAI6StYx6SPXxThkfQGmT1jyO3lDDjErlauy6TtR1slhrcZk1ZK9MMfy3L9J9n3jcXnuMxcJ/fD596q6W5tCugV+Q3b0U71Y2BFYSHcvVM1kZBLJjGUCgoHCvIo7VXO+489LH6nCrE62ApMBC7I3HF7PtEadw85eCYp0N4eFW6vjGkZF9LU+8izEBnhE4=;Edfl6KCyQ0KbGjrN64qyGg=="
 ---

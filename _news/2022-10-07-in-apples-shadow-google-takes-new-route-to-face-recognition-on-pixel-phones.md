@@ -67,6 +67,6 @@ related:
       domain: tomsguide.com
     quality: 4
 
-secured: "V6ig/gNqnVL6E34avj+7J65SuavkGEVU3gEoFoNrY2oM72N9r5PwkQ3sZ9Yw+AMarOXkoM/NCN93chVs6Js8aVjKeCcUeT72VXpxlUI2DdkEjcYRAk4a0/KnCVOJXE04oW5L1tYfKXiun4C0F+eOsjuRN+veJ6+aFQPjfxBRLtA/D7fx2Ut0sftgiVs9R2Owcia6TblaViNlE+gOSuFnmQAq6JqO4roJuzOGPsJvA+yZgSzSzw1/NneHqH+pVQJdpx7/J53ybCce6UJueLekYHeOHuQG1UBDZa3UlPnLyWKxu70WTmC+F6CwxoVPNSyN+KxPntk+SAzrI7Dcf0YE7U7I7WExQnC+3nLWTjx3TAg=;Vki/iHiZ/dh4xhmVXnA9Eg=="
+secured: "pqtGjeqXTxETwzhLCriHi/cB2K7YEliQvAhmLegITYfcdTFrKg54XbJ5quqA2SgFJWd4dnyWw/ioakMVfhaMDYmY7Y94KidW+RwGH/I3UvuM6KU7TvXn4mahat+WAfSCYGrvzN2XS4WXU1jDL3Uv7FugNApiFjTb39rrnogi/IxIMHf8l+dLz69UQb6XI8lExCqGOOuCzb89ybZnKlewukQeTDIBMK/Qul169QmJe+LcEwiABv+OW/bYeSzR7/QIRqNNTgYqvSRSSraRnWAED5VBkahbrZLVT0JSms75g17kyBytGl6fWRmlLrtna5QRySpW3T6ktD8RnlXLfuwVwq3dBD1xMUlU0Iwt4UPi7bg=;1MkI67JqDGadAfP8EMDGwA=="
 ---
 

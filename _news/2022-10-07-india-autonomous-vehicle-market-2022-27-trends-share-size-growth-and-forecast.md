@@ -29,15 +29,20 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market Demand, Size, Share, Growth Trends, Opportunity, Forecast 2030"
-    excerpt: "Machine Learning Market report contains detailed information on factors influencing demand, growth, opportunities, challenges, and restraints. It provides detailed information about the structure and prospects for global and regional industries."
-    publishedDateTime: 2022-10-06T08:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-demand-size-share-growth-trends-opportunity-forecast-2030-2022-10-06"
+  - title: "Medical Speech Recognition Market 2022 Emerging Trend and Business Opportunities, Scope and Overview, Forecast by 2028"
+    excerpt: "Global “Medical Speech Recognition Market” report looks at the leading companies, market dynamics, size, share,"
+    publishedDateTime: 2022-10-06T11:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-speech-recognition-market-2022-emerging-trend-and-business-opportunities-scope-and-overview-forecast-by-2028-2022-10-06"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "UK Autonomous Last Mile Delivery Market Report 2022: Adoption of Self-Ruling Vehicles to Deliver Driving Growth - ResearchAndMarkets.com"
     excerpt: "The UK's Autonomous Last Mile Delivery Market is estimated to be USD 1.07 Bn in 2022 and is expected to reach USD 3.64 Bn by 2027, growing at a CAGR of 27.73%. The UK's Autonomous Last Mile Delivery Market is segmented based on Type,"
     publishedDateTime: 2022-10-10T11:02:00Z

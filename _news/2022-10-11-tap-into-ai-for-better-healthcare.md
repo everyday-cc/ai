@@ -1,22 +1,22 @@
 ---
 category: news
-title: "How Rwanda is using Artificial Intelligence to improve healthcare"
-excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
-publishedDateTime: 2022-10-06T19:41:00Z
-originalUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
-webUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
+title: "Tap into AI for better healthcare"
+excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
+publishedDateTime: 2022-10-11T01:50:00Z
+originalUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
+webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
 type: article
 quality: 34
 heat: -1
 published: false
 
 provider:
-  name: ecofinagency
-  domain: ecofinagency.com
+  name: Free Malaysia Today
+  domain: freemalaysiatoday.com
 
 topics:
-  - AI in Healthcare
   - AI
+  - AI in Healthcare
 
 related:
   - title: "AI and Robotics is the future of healthcare sector"
@@ -63,14 +63,14 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tap into AI for better healthcare"
-    excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
-    publishedDateTime: 2022-10-11T01:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
+  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
+    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
+    publishedDateTime: 2022-10-06T19:41:00Z
+    webUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: ecofinagency
+      domain: ecofinagency.com
     quality: 34
   - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
     excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
@@ -87,6 +87,6 @@ related:
         height: 533
         isCached: true
 
-secured: "fV2TFXTTlTEJ4jV9euEW7UBh/+2GMtYZyEntbPKtqSuRy4WSArNSmU7wk6+Iu6zAwETVV7mW2yFts28kc4RP4MW3gCbMPDPgsKKKz9oc7rj8J1txOaiFEyIuEuBURbC2L3pYKItWsFTULVtqWG8If12leU9Fb81RPY9LfIArxhjP4Ay3SoeG5GBzS8T0DQJ2aGwQG1mN0BkX/nzV7Y4J0hps9fafyCkQPq6cx6udcaBzGXPLIOUx3tHlr0WjyXnseq53/uQScDud6pMp1tvvPAN0Bqik3koGV/GyiwIYD0b8QBk1cB8ai8DZvBoCfE9/9j4TpH1E5jpfs09TSNEIyKnhIdSGmApKNPlx1G2j+TI=;lrCti01Q/5y94hbes/mvVA=="
+secured: "36KxmKLnrdyWiAflMHZqgGpbaOG5RS7rW0JtUx1X24RzH87qKf8ikW/Q0frvwvRQ/1QnuIj7WeYbyhke8KkfJaRtsjm7w+Fhki6nIYxXEJsHHe0ng6DMjvxkU3FbPhpa8w/8XHVHw7cFb9lmrVbSZBjCqUXw6e5V/C+g8URhF1Blt6g1natC6IIYN95AAxTbrfHbcdJSfkjAoNjx7yBmlVIreDg6VG8IBdWmEZpOLoH6RMMoGPliRe6hcT7VjIWoYUDSNc9/k08LRo0ZKSDJDgnlSGHqWw+iSJfv94RU7xDaPmePovtSbMJs05D5bk3aOAzjQCuiAxgOKVLe8Knhb+Im5v0D+nD50oS8lxB5lbspsPh3H6Skon7Wfu37/7mF83T9rLlyKRXr4VGw3wcWp+JmHUadhVe0cIGYQq7vqieJaFMVEVDaz1fXfNVzkIW7G8XMF2ultFzsQgrZ6dQnh/mz+0Wcp88Q9HtmxNCwvR++PxMxxDtqBbAclXIIsQ2K3xIE6I6ZcPB1ZkwUTVTrTw==;CfHJGhLvhwJkwifLdoMudA=="
 ---
 

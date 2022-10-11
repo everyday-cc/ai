@@ -6,9 +6,6 @@ publishedDateTime: 2022-10-06T00:01:00Z
 originalUrl: "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043"
 webUrl: "https://townhall.com/columnists/victordavishanson/2022/10/06/untitled-n2614043"
 type: article
-quality: 19
-heat: -1
-published: false
 
 provider:
   name: Townhall
@@ -18,22 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "An epidemic of cognitive impairment?"
-    excerpt: "President Joe Biden, the nominal head of the Democratic Party, is 79. But he increasingly acts and sounds 89. Recently, Biden has pivoted repeatedly on stage with his arm outstretched to shake the hand -- of someone not there."
-    publishedDateTime: 2022-10-08T05:00:00Z
-    webUrl: "https://www.semissourian.com/story/2967534.html"
-    type: article
-    provider:
-      name: Southeast Missourian
-      domain: semissourian.com
-    quality: 39
-    images:
-      - url: "https://www.semissourian.com/images/nameplate-sharing.jpg"
-        width: 1000
-        height: 523
-        isCached: true
+images:
+  - url: "https://media.townhall.com/cdn/hodl/2022/266/0606356b-fb83-4033-8601-b4416c483158.png"
+    width: 650
+    height: 366
+    isCached: true
 
-secured: "iTJpN1U3Vrg9Hmza64vmi78ub3D8azZzdXKUOclZM8d0z1N/sFY7hkapfRNrtP29EvqKDf2ksAzbIRQjKlGwPW/kLq7mvD7yIminuSPXf3NwvwlGAp+ocgJ3/L17WMnxPGV5YJbLiXBakFJA83HCwPMLxVaom4uEqzEvLK25+cYNPNx1fAkJaTQB6rL7yRMo4hlKU50gYb/h2rnnf2yXeSwzgqBktpDCdRUohaqWbQCcBfRsVQDz0XzX/PBX3xZGpZJn7cGQXJl7ijY2gJPlzuOv+TCz7tNHwpI15eiscTEYZ8S1z/ufak3TH/QIp1xZgEQaHEils4/s5x1TABmH+VJu+ZAmgrta+7CvH69UC/0=;vIj+JvNbB1tT4/NfWAVhHw=="
+secured: "avKpVzlzbUyU+V1p2rhpV62N8xbMnqukv6UFnZohnevXx+5jhYjuo1R44ve0qlMjHbZIFb7u258dLHlny54ONnSTs+NpCXgT+I71fZPYvg97/H6mvB7Pu4vW4R9XXGxha5B5+rGEdrQoo6kBS4iAyAWPSZRp1op4MJSy8U8BYJTip8QdeGgT4xJYMqSENfit2pVo9Kwwep9I9VDiU5ChXoQxU3pvj6tXONTg2ZJUtmbH0f1X7xHHCHRZ8zRTE0aTs8Rzdw/w/AXayAW4qvc9L4QPKWGzePT8Htzv1ToDLUPVXVYA0MMC1cKreruPnEiQsqlq9uHbOU8SYjfq0Yz9GnHsSg1vrWzHs5qZeAodBqo=;PSBdDQv4DTteM+PYqBiKyQ=="
 ---
 
