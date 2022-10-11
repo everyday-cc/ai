@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercrui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
 type: article
 quality: 61
-heat: 91
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, study finds"
+    excerpt: "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”"
+    publishedDateTime: 2022-10-11T14:38:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 71
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
     excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
     publishedDateTime: 2022-10-09T23:40:00Z
@@ -79,6 +95,24 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
+    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T13:03:00Z
+    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 34
+  - title: "Many drivers treat partially automated cars as fully self-driving"
+    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
+    publishedDateTime: 2022-10-11T12:32:00Z
+    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "Ik1vJBRoEc9r31AwDeOBwLUFGWRKGTL8UR1mped2NMnggcG7aGH+mXG38GtmsImwV7VWtZI8sVvS3/cPRQJbZMrMZLJyTh26QKef4HRZxWPCMOZ3YMXrHZvGp6TCLiuwIQrs4i2eJXtC6e3H5CB+UYTqxW9BXZ5zTYT7Ch+VYwa/T/TnK0OFQI6qCKwZGLw8UnPcnJnvyN+W6xLbtENgU5AHArw0EcXZ11WxZ5HRVNI0o7Yu/wE5QadaJESdkjOObCRnF/2NAuwCJcQWc7/QtJC/X1dNvw8kR416gvDO1/wO2i+f2oJusSHi637a5skCFslgJCps7Gi8E/FLsxsdMX6SZHuKNK9ydGReOTLKy3089zAsR71ydyBzC/gAKzONUOiY4hGh1Pf8afUjIpUdEjzR+Mxu3rV2H/cOHtHGgIVtoJZMbXY49614Y5Fqqe/lcXnvnbYwFRws/poFjBAOW0Ac0NKcrRtDJ78amsmY5ieDQc+bm3Dt4wJPq2n4AH3VmgiO/OEyrT+a54Xrr7uSBA==;y8aGmTBRIVadfMGnJGaTjg=="
 ---

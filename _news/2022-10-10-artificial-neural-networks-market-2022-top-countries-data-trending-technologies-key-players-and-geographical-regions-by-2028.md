@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI In Telecommunication Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
-    excerpt: "MarketsandResearch.biz has attempted to present complete research on the Global AI In Telecommunication Market."
-    publishedDateTime: 2022-10-10T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "vVkodtFpCF1rynZuyEeGgcTQSwvH+B94MXR/TNmxYAEnRwOfPjbL1xKLGcC9kaU4t0IRNRlGCe7yQ47Po8IiBIph2pPHgg84fqLciMsNV8PFxsgup3tXNMNak/Rff/dWqo+7N4RQPqzG5IrcL1lRQbeay9xXFgRquDBMsqkjyMnOQ5BegDqHQLkuBEtUGez7x+XY8jmBpppE/sNgxXqc+R9LDj1ghSElNAlsmcOk7hjrmWVO+QmhMJRv+njRXr8o85kbbteGjuqZAvy0CuUhJ3O0hgym/Jxs/JV3LVjqyzqg09AGmvAZ1wZLMmgH+3o4eX4X1KMGJsk5kdB5Veiv4UnoY+ZX0o1OReqVooaEsyw=;bIQJ1A9Q4Gi6R/KPRIhRTQ=="
 ---

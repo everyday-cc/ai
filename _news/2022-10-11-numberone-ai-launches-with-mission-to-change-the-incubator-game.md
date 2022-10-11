@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T13:39:00Z
 originalUrl: "https://www.forbes.com/sites/tonybradley/2022/10/11/numberone-ai-launches-with-mission-to-change-the-incubator-game/"
 webUrl: "https://www.forbes.com/sites/tonybradley/2022/10/11/numberone-ai-launches-with-mission-to-change-the-incubator-game/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

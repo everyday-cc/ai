@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:00:00Z
 originalUrl: "https://www.theverge.com/2022/10/11/23397341/google-workspace-meet-aparna-pappu"
 webUrl: "https://www.theverge.com/2022/10/11/23397341/google-workspace-meet-aparna-pappu"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: The Verge

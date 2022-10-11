@@ -10,7 +10,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -107,7 +107,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -149,6 +149,49 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House Unveils Artificial Intelligence Bill of Rights",
+      "excerpt": "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
+      "originalUrl": "https://healthitanalytics.com/news/white-house-unveils-artificial-intelligence-bill-of-rights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg",
+          "width": 480,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
+      "cdnAmpWebUrl": "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights",
+      "publishedDateTime": "2022-10-07T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics",
+        "domain": "healthitanalytics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -292,6 +335,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence 'Bill of Rights'",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "originalUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "cdnAmpWebUrl": "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "publishedDateTime": "2022-10-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post Register",
+        "domain": "postregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-global-computer-vision-in-healthcare-market-report.md",
       "title": "Global Computer Vision in Healthcare Market Report…",
       "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Global Computer Vision in Healthcare Market (2022-2027) by Component, Applications, End-user, and Geography, with Competitive Analysis, Impact of COVID-19, and Ansoff Analysis\" report has been added to ResearchAndMarkets.com's ...",
@@ -365,49 +451,6 @@
       "provider": {
         "name": "MD&M East",
         "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "originalUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "publishedDateTime": "2022-10-03T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1320,49 +1363,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence.md",
-      "title": "Dementia diagnosis could be fast-tracked using artificial intelligence",
-      "excerpt": "Dr Roman Bauer, senior author of the study from the University of Surrey, said: \"Our study shows that using artificial intelligence analysis of EEG data as a diagnostic tool to identify dementia could be life-changing for many people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "originalUrl": "https://www.surrey.ac.uk/news/dementia-diagnosis-could-be-fast-tracked-using-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.surrey.ac.uk/sites/default/files/styles/image_gallery/public/2022-09/GettyImages-1132352689.jpg?itok=slQvzZv_",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T02:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "University of Surrey",
-        "domain": "surrey.ac.uk",
-        "images": null,
         "publishers": null,
         "authors": null
       },

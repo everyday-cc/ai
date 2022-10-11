@@ -57,6 +57,20 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
+    excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
+    publishedDateTime: 2022-10-11T15:06:00Z
+    webUrl: "https://www.myjoyonline.com/microsoft-and-liquid-cloud-launch-initiative-to-support-african-businesses-with-hybrid-cloud-infrastructure/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 21
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
+        width: 720
+        height: 480
+        isCached: true
 
 secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---

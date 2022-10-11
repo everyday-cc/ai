@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T11:42:00Z
 originalUrl: "https://www.law.com/litigationdaily/2022/10/11/encounters-with-a-robot-david-boies-on-cross-examination/"
 webUrl: "https://www.law.com/litigationdaily/2022/10/11/encounters-with-a-robot-david-boies-on-cross-examination/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Law

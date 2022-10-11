@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T13:47:00Z
 originalUrl: "https://phys.org/news/2022-10-jpl-venus-aerial-robotic-balloon.html"
 webUrl: "https://phys.org/news/2022-10-jpl-venus-aerial-robotic-balloon.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

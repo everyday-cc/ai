@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T13:05:00Z
 originalUrl: "https://www.glamourmagazine.co.uk/article/ai-facial-recognition-systems-work-worst-for-black-women"
 webUrl: "https://www.glamourmagazine.co.uk/article/ai-facial-recognition-systems-work-worst-for-black-women"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: GLAMOUR UK

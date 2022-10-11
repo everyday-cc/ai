@@ -2,6 +2,352 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
+      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
+      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
+      "publishedDateTime": "2022-10-04T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
+      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
+      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
+      "publishedDateTime": "2022-10-04T14:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
+      "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
+      "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
+      "originalUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg",
+          "width": 2000,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
+      "publishedDateTime": "2022-10-04T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose.md",
+      "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
+      "excerpt": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers’ needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg",
+          "width": 1548,
+          "height": 772,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T13:39:38-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
+      "title": "Computer scientist aims to protect people in age of artificial intelligence",
+      "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
+          "width": 1920,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
+      "publishedDateTime": "2022-10-04T13:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
+      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
+      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
+          "width": 1260,
+          "height": 815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
+      "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
+      "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633c36cd250f5641618d9da8/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
+      "publishedDateTime": "2022-10-04T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping.md",
       "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
       "excerpt": "It touches on concerns about bias in AI systems, AI-based surveillance, unfair health care or insurance decisions, data security—and much more—in the context of American civil liberties, criminal justice,",
@@ -145,6 +491,49 @@
       "topics": [
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence 'Bill of Rights'",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "originalUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "cdnAmpWebUrl": "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "publishedDateTime": "2022-10-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post Register",
+        "domain": "postregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     },
     {
@@ -776,369 +1165,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to.md",
-      "title": "Edge Artificial Intelligence AI Chip Market Research Report, Analysis, Size, Share, Growth | Research Report by Regional and Forecast 2022 to 2028",
-      "excerpt": "The \"Edge Artificial Intelligence AI Chip market\" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-research-report-analysis-size-share-growth-research-report-by-regional-and-forecast-2022-to-2028-2022-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
-      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
-      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-ai-oven-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028.md",
-      "title": "Artificial Intelligence (AI) Oven Market 2022 Trends, Industry Size, Share, Emerging Trends, Top Leading Players, and Forecast 2028",
-      "excerpt": "Oct 04, 2022 (The Expresswire) -- Number of Tables and Figures :138 | The global \"Artificial Intelligence (AI) Oven Market\"size is projected to reach Multimillion USD by 2028, In comparison to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-oven-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-10-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-oven-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2028-2022-10-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins.md",
-      "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
-      "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
-      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
-      "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
-      "originalUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/vidthumb/images/manhattan-1571429223.jpg?crop=1xw:1xh;center,top&resize=480:*",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Esquire",
-        "domain": "esquire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
-      "title": "Self-driving cars keep causing traffic jams in San Francisco",
-      "excerpt": "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "originalUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?view=login&amp",
-      "publishedDateTime": "2022-10-03T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-advances-in-computer-vision-propel-transportation-autonomy.md",
-      "title": "Advances In Computer Vision Propel Transportation Autonomy",
-      "excerpt": "Autonomous self-driving car is recognizing road signs. Computer vision and artificial intelligence ... [+] concept. Vision is a powerful human sensory input. It enables complex tasks and processes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6331c112fe78f82ae6dd5384/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/04/advances-in-computer-vision-propel-transportation-autonomy/amp/",
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-continues-to-transform-healthcare.md",
-      "title": "Artificial Intelligence Continues to Transform Healthcare",
-      "excerpt": "Artificial intelligence is finding its way into healthcare at an astonishing rate. A new collaboration between Novartis Pharmaceuticals and Anumana is the latest example of how both pharma and medtech are embracing AI. The multi-year strategic ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "originalUrl": "https://www.mddionline.com/artificial-intelligence/artificial-intelligence-continues-transform-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-311.png",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconduct
 cdnAmpWebUrl: "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html"
 type: article
 quality: 73
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1050
     height: 550
     isCached: true
-
-related:
-  - title: "Biden tours New York IBM site after company announces $20B investment"
-    excerpt: "artificial intelligence and quantum computers.\" \"IBM is deeply honored to host President Biden at our Poughkeepsie site today and we look forward to highlighting our commitments to the innovations ..."
-    publishedDateTime: 2022-10-06T21:40:00Z
-    webUrl: "https://www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment"
-    ampWebUrl: "https://www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment.amp"
-    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment.amp"
-    type: article
-    provider:
-      name: Fox Business
-      domain: foxbusiness.com
-    quality: 44
-    images:
-      - url: "https://prd-streamcontroller-videoops.s3.amazonaws.com/thumbs/Biden_in_Rose_Garden_August_8_2021.png"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "XyQE9JFyyG5oT4EAcGIUT2teQqa19Z3LF2e+vPFZNZSob3GFHdqJbYyD99T05x5jWmuhUmWKLFDKGls/qsBJKeGR46dDu7pB4+pCZjYedwyOSIF1d4BglCQU8lDA83nYeDjpDL1aUgqUPEvToW/gb6ttWReYWs2afsfKbR2C/oDpWPNYgRmO+xoaNA5E3NKwGGJJe3fc9zAA6SuE/xjkWrV+Qv+0IBxpzuzesg8kFDwW/9ohDdDDs+cySq8eeqL0Ij5rn/rEWM3oq6pOpkmSFXN3hJOLOLdyIuiZADS96robMx6efTlP1hyjy7/mIw+ZNM3Wtj2UbjFtKZ9s8glQaRckUqrtbQYnCVGqDGN+LGk=;5eHaYTXSgt+T1NIDf6QeKg=="
 ---

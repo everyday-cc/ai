@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-11-deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing.md",
+      "title": "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing",
+      "excerpt": "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
+      "originalUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
+      "publishedDateTime": "2022-10-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-meeting-global-mental-health-needs-with-technologys-help.md",
       "title": "Meeting global mental health needs, with technology's help",
       "excerpt": "The World Health Organization (WHO) estimates that nearly 1 billion people are living with a mental disorder, worldwide. During the global pandemic, the world saw a 25% increase in the prevalence of anxiety and depression. There was even a corresponding spike in searches on Google for mental health resources",

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
-    excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
-    publishedDateTime: 2022-10-06T20:35:00Z
-    webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
-        width: 1880
-        height: 1258
-        isCached: true
   - title: "White House Unveils Artificial Intelligence Bill of Rights"
     excerpt: "The White House has unveiled a 'blueprint' for an AI Bill of Rights, which outlines five protections Americans should have in the face of the rising use of these technologies."
     publishedDateTime: 2022-10-07T13:30:00Z

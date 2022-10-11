@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T08:00:00Z
 originalUrl: "https://www.fastcompany.com/90794357/google-launches-its-ai-driven-translation-hub-as-a-cloud-service"
 webUrl: "https://www.fastcompany.com/90794357/google-launches-its-ai-driven-translation-hub-as-a-cloud-service"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fast Company

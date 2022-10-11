@@ -28,29 +28,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market 2022: Overview by Rising Demands and Precise Outlook by 2028"
-    excerpt: "The most recent information in the sector, which considers the effects of the changing geopolitical environment, is used to gather and evaluate market insights for the Artificial Intelligence Software market."
-    publishedDateTime: 2022-10-11T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10"
+  - title: "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028"
+    excerpt: "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides"
+    publishedDateTime: 2022-10-10T06:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Networks Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
-    excerpt: "Product types of the Artificial Neural Networks market report includes: Google Inc. The application segment of the Artificial Neural Networks market report include: Prominent players profiled in the Global Artificial Neural Networks market include: Google Inc."
-    publishedDateTime: 2022-10-09T22:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-top-countries-data-trending-technologies-key-players-and-geographical-regions-by-2028-2022-10-09"
+  - title: "Deep Learning Chipset Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
+    excerpt: "The Deep Learning Chipset market research study's bases are its fundamental data and market growth prospects. The study also considers several additional characteristics, such as growth rate, product pricing,"
+    publishedDateTime: 2022-10-10T21:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

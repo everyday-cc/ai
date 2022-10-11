@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving"
+    excerpt: "Users of Super Cruise, ProPILOT and Autopilot more likely to perform non-driving-related activities while driving unassisted Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings,"
+    publishedDateTime: 2022-10-11T15:22:00Z
+    webUrl: "https://driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving"
+    ampWebUrl: "https://driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving/wcm/bbaf7451-b998-4727-b554-c05b9af0442f/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving/wcm/bbaf7451-b998-4727-b554-c05b9af0442f/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
 
 secured: "oaxjU8HrXqkOacPZxwr2P5d0/q0eBbtVM2H/GAq7eXi04IXHi1klz90oOzH5aydnMMLHIVbs+ekcHRVuom4r4KLmIyUH1HmBbtXdwzMxK5PMZmO98CCp+K1bI1p5NAtkbltvHaBeuAhXRr1G6oq0zdIToLRWNwwzAtkXsOZHE3Bp+WZMX5dHS1w6bwhRtbbzdiwQwvzI4y5ZPs3KFWFG6fy5yIvw/XQLee+CFFsUar9sIchRs4hqlgrToCIpxFJMNskXygrQKjz/AfggPeHqpc9zcrYKj42Lpmjs6wh7PgJbPz7JDcAx2UQRrypZlEOjyg1igVzGU7WqtmM6dqWafXHQkXQge70ZbueGsL68xSTLufU6IUSMNnSTqI6e4bRR24oHmcgW9KMdsa+wG6lLT5Cj9GutF1b+JVKcxqAILDFxZ9KYXqERcFa9N16c+2+7V+nkvsNQPC3lTTDP//CH70WX5v1G33oxBN4B0C/Hfrp4l9FLp8oAIlLT6MelwjYcr5AJHdbzGj9GYrDOGVVpHw==;dqZ86B7o4QeQr0hT95CMPw=="
 ---

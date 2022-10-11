@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T00:00:00Z
 originalUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
 webUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Hackaday

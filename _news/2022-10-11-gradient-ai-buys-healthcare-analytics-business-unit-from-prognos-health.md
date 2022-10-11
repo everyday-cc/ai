@@ -69,15 +69,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
-    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
-    publishedDateTime: 2022-10-06T19:41:00Z
-    webUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
-    type: article
-    provider:
-      name: ecofinagency
-      domain: ecofinagency.com
-    quality: 34
   - title: "Tap into AI for better healthcare"
     excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
     publishedDateTime: 2022-10-11T01:50:00Z

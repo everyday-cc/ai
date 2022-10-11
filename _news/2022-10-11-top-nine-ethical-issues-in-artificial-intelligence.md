@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/"
 type: article
+quality: 66
+heat: 66
+published: false
 
 provider:
   name: Forbes

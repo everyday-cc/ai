@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-ch
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -60,6 +60,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The next big fintech trend is tax planning"
+    excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."
+    publishedDateTime: 2022-10-11T13:00:00Z
+    webUrl: "https://www.accountingtoday.com/opinion/the-next-big-fintech-trend-is-tax-planning"
+    type: article
+    provider:
+      name: Accounting Today
+      domain: accountingtoday.com
+    quality: 4
 
 secured: "wOkwDdAy+XHBPMKFcM7I5bKE+ME/Gjbg8rHwsgbPvvn4HANNyDiUisqyD3W6KLGYzV2G3hCOOzJP3KQN363zxrXFwffMIw2ctCz6fO1vcI/HaZCadvRawWH7+9MIF5oq3Iaq/BNPHTR6qHynBBVWhPX+7wC3fKhWtQBkh4MgKf/ZA4eAt7GMyatmoEZt6Rv2Pxn3gHVvTK7jIA1LUAW7m2f54JBjBzW0cxVY0Kf3mEY6n9mGa2EVQ0ZBtQXRblaIyoVwDFmLGk74EOh2p5+iad6/GDN86vImFfkXFts09ZMdaHnrA4cU15mABupSfylekNKQiKs7tM8oWLga7ySJ5O2aGbbNgn5MXQW0EV2bqfXc3mEcXsy6hRscX0p0VR1RKsWgNgRb+ETj0YGbtnh5rgT7MKC96mWVI7Uz70DFvGlrSsa53mQzMZYWWFBe4ncQwcDld021TkJzF2X1o/b7wKYlk5lsxSjc7lNtoIiyMc8sYAtIM2REpLQi5QoHy5SElP58YNXTlLGTtotN9w94CA==;6GBHCLTp7P7X0As1L8exSw=="
 ---

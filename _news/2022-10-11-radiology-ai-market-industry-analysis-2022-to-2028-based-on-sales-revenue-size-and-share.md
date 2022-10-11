@@ -61,6 +61,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 12
+  - title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
+    excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
+    publishedDateTime: 2022-10-11T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-size-future-trends-2022-top-key-players-growth-share-and-global-analysis-by-forecast-to-2026-93-report-pages-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
 
 secured: "6ZaBK0Pc3+C6yQyrEPhZGiVf2SLh7Z5+m6i2XQVKA/uWMubFtqcQDQRAXU0kP9cLmlKOEhyZffW3GjrtMJTbD5s/qk5vnzZziRAXiVJtoncPcHUchSyvy9Y56nckjkeMsGIqlFPMOl0TA01D3F9N0LSQoRDpLDkSKzzAfnC1Venez9qihw2fdQ4rT+aeukdNfsVBayrbsSg/3+H5K9Akuz5x0IP+vsUqSzmK/AuiXrpuVHEqHbTJJxqIuPTvqU9gJ8bAL/8ve9LT5mOpd8LA5bC37v0BYYxFBfNtfFOJCn0SUOa236242zISJmiIWHYSwTEdGh6cFNr46RVd4yXLCH6g0q9yPf1XZGT42RkgXC4=;m6HufMu2OVowTcg/9yEtBA=="
 ---

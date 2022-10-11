@@ -24,17 +24,6 @@ images:
     height: 600
     isCached: true
 
-related:
-  - title: "Chip stocks slammed by new ban on chip and AI technology for China"
-    excerpt: "Chip makers like Nvidia and AMD are down almost ... China's military ambitions by issuing new restrictions on semiconductor and AI technology that can be sold to the country."
-    publishedDateTime: 2022-10-07T19:04:00Z
-    webUrl: "https://www.morningstar.com/news/marketwatch/20221007538/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 34
-
 secured: "QZzqZ+1JYt//ZqLKssas/+zUzC68nJnGjvYd07nrjyrzWS5EtVOKBwGgGAGxe0/qh8Ac62eFnr/Qa46afMTXBZHrNxmM3MfXtIS2JmfEFylRYUHkWXWvL3FZGUA9P8FKXZvFV3qvJy565HjdQbwjhUTll2xvqqoxWELHLRs3CvqIFFtibt8kMTxbalyGOPyzRWaI16Quh9KA2yskN6ugHmjJVx3Yy/P5UD0+O19b3i1ZE9OK3GuvziiX0Z25BXyEMrravWrlK15Fu09W1eF6xaJpm+6gEFUelkHixusU8LcSVosiBlIsx1jo7JOMTGLe46zKQmGsM5nmFKbyetvzaQAMMKQ2yOQBeGX2d8bT1h8=;3kwj5AOCttmr7IfqWl0nSA=="
 ---
 

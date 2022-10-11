@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:00:00Z
 originalUrl: "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/"
 webUrl: "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

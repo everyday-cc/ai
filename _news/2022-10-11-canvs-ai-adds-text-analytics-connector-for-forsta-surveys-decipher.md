@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T13:46:00Z
 originalUrl: "https://www.marketingdive.com/press-release/20221010-canvs-ai-adds-text-analytics-connector-for-forsta-surveys-decipher/"
 webUrl: "https://www.marketingdive.com/press-release/20221010-canvs-ai-adds-text-analytics-connector-for-forsta-surveys-decipher/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Marketing Dive

@@ -9,8 +9,8 @@ ampWebUrl: "https://healthitanalytics.com/news/amp/white-house-unveils-artificia
 cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/white-house-unveils-artificial-intelligence-bill-of-rights"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: Analytics
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "The White House unveils a \"Bill of Rights\" for artificial intelligence"
-    excerpt: "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual"
-    publishedDateTime: 2022-10-06T20:35:00Z
-    webUrl: "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 71
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg"
-        width: 1880
-        height: 1258
-        isCached: true
   - title: "White House Unveils Blueprint to Guide Use of AI, Automated Systems Technology"
     excerpt: "The White House, on October 4, 2022, unveiled its “ Blueprint for an AI Bill of Rights ,” outlining non-binding recommendations for the design, use, and deployment of artificial"
     publishedDateTime: 2022-10-10T22:22:00Z

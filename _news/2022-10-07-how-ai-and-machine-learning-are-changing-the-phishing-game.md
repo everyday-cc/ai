@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishi
 webUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/"
 type: article
 quality: 64
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: VentureBeat
@@ -23,19 +23,35 @@ topics:
   - AI
 
 related:
-  - title: "AI vs. Deep Learning"
-    excerpt: "Deep learning finally allows machines to tackle problems of similar complexity to those humans can solve, and has been responsible for impressive AI achievements in recent years. Deep learning has ..."
-    publishedDateTime: 2022-10-06T19:14:00Z
-    webUrl: "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/"
+  - title: "Reading old handwriting with an AI platform"
+    excerpt: "Using artificial intelligence, computers can decipher handwritten texts and make them readable for everyone. The Transkribus platform, co-developed at the University of Innsbruck, Austria, makes this technology available to scholars and the general public."
+    publishedDateTime: 2022-10-11T13:54:00Z
+    webUrl: "https://techxplore.com/news/2022-10-ai-platform.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 84
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
     images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Servers-01-1088x725-1.jpg"
-        width: 1088
-        height: 725
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
+        width: 800
+        height: 450
+        isCached: true
+  - title: "Like Texting and Driving: The Human Cost of AI"
+    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
+    publishedDateTime: 2022-10-10T15:08:00Z
+    webUrl: "https://www.medscape.com/viewarticle/982119"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "cz/g7hBJbff9jfBD/RLY3+eBVzeslgpH6ID6f06jfVumYRq52NLRgcvC2tF254NB3tm3//kGWjiv60vdOB3tVh9qYOd4VeYMG6jJE1IfXWmm9yOejSJ2tl/M/lRHEnWui4qxG8fkKxX0HNk3wYz7RrshYYD5tPjUUnUC1WoN9W7kdiqRjPqSJ13+PYSWrtm63TCRybWjrH/1355Oii3MdX4FWjLaRfc5epUSipxRlQIazM0WydMSAtBVo+iJYEtc3I9ox/gvo6tq2q/8m7a7EmdEoUcGMcdM24Qc+DXvpYyMXqzsnuhFFyPO9CwE1sdenIssXZs+BVSl+HZl5hNmuiIJJ8GN0LQAzvuovs2rfl+WieHFjKNowPG5BWvn9H0PPWLf8jkmDvBFpJRkxyAG6QOx/KjT/oNRmHXkrzEBL0y+pZeVaCXhYAyHNzfLxjJOIj92hLxXKjqyfw5vleFmVzlp2lF4hy94VsJ5HxlZaWaySvfXeepwvcpwfDZLkzq2Xg/quGLFBEqXk6j6mqhI+A==;U24T5SoRaZzx7xwnEHooFQ=="

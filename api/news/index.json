@@ -2,6 +2,196 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-11-google-reveals-whats-next-for-cloud-ai.md",
+      "title": "Google reveals what’s next for Cloud AI",
+      "excerpt": "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "publishedDateTime": "2022-10-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-many-us-drivers-treat-partially-automated-cars-as-self-driving-study-finds.md",
+      "title": "Many U.S. drivers treat partially automated cars as self-driving, study finds",
+      "excerpt": "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna51662",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662",
+      "publishedDateTime": "2022-10-11T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers.md",
+      "title": "Artificial Intelligence Is Dangerous For Disabled People At Work: 4 Takeaways For Developers And Buyers",
+      "excerpt": "Eight of the 10 largest private U.S. employers use AI to track the productivity metrics of individual workers, many in real time, according to The New York Times.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
+      "originalUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63457c2e30f94eb36c4befae/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/drnancydoyle/2022/10/11/artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers/amp/",
+      "publishedDateTime": "2022-10-11T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing.md",
+      "title": "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing",
+      "excerpt": "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
+      "originalUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
+      "publishedDateTime": "2022-10-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
       "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
       "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
@@ -199,58 +389,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-11-confused-drivers-think-they-have-self-driving-cars-thats-dangerous-an-insurance-group-warns.md",
-      "title": "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns",
-      "excerpt": "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS).",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html",
-      "originalUrl": "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html",
-      "publishedDateTime": "2022-10-10T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments.md",
       "title": "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments",
       "excerpt": "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips",
@@ -259,7 +397,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -303,57 +441,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-11-artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028.md",
-      "title": "Artificial Intelligence Software Market 2022: Overview by Rising Demands and Precise Outlook by 2028",
-      "excerpt": "The most recent information in the sector, which considers the effects of the changing geopolitical environment, is used to gather and evaluate market insights for the Artificial Intelligence Software market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape.md",
       "title": "Overcoming cyber security challenges in the evolving fintech landscape",
       "excerpt": "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,",
@@ -362,7 +449,7 @@
       "originalUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -563,7 +650,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/the-four-pillars-to-ai-innovation-how-businesses-can-jumpstart-the-ai-journey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -614,7 +701,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -658,7 +745,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -754,6 +841,58 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028.md",
+      "title": "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028",
+      "excerpt": "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-09T23:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1081,153 +1220,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
-      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
-      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
-      "publishedDateTime": "2022-10-08T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
-      "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
-      "excerpt": "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "originalUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6340b2bf6f81dc98cfa7cfa4/master/pass/Bollinger-Champagne-Featured-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "publishedDateTime": "2022-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
-      "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
-      "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/10/08/1600x900/chess_1665218963112_1665218963387_1665218963387.jpeg",
-          "width": 1599,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games-101665217813692-amp.html",
-      "publishedDateTime": "2022-10-08T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:21:00Z
 originalUrl: "https://www.nasdaq.com/articles/toyota-expands-partnership-with-google-clouds-ai-powered-speech-services"
 webUrl: "https://www.nasdaq.com/articles/toyota-expands-partnership-with-google-clouds-ai-powered-speech-services"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Nasdaq
@@ -14,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles"
+    excerpt: "Google Cloud's new product Speech On-Device enables AI-driven speech services on embedded devices regardless of internet connectivityToyota to"
+    publishedDateTime: 2022-10-11T12:05:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles-1031795636"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "ymd5soog6lyP1j38YuyQYlcDL0s2xy4ErrQl+PgJNVXCj5qzSh8XtalVrUlxlIkwogr0Nth8SRx5FUYnLfjWat058O4JF1PSb42WMdBYY6m+QDTeMTgi/YVuNmJOuxwgDdejsJUj/iCk4qMMKqs3Uro5ed8e/K/PxdqFuAiyzYREqJljjo9dN1EnGuHaMNOLjpyw3Svl+hHxNkMO4Kj/z1Q50ZNs4UbzUlR2ha7K87W9Ew13pq0Q/semoLj7MLnYUjZqWCIngtw7aQACvC3cavKTI0JSMgOLJO8v83rXlB0Ul7IDMAkXw1xpVSrk4Y/jxyB8qQhZ00yRky/oJNY3N4PamJ2Z8TzhN4lx4HKYBxY=;eV0GXQwaTcbyK8GA7ofGiQ=="
 ---

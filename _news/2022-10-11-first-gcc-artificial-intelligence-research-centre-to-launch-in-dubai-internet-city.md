@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T13:14:00Z
 originalUrl: "https://www.arabianbusiness.com/industries/technology/first-gcc-artificial-intelligence-research-centre-to-launch-in-dubai-internet-city"
 webUrl: "https://www.arabianbusiness.com/industries/technology/first-gcc-artificial-intelligence-research-centre-to-launch-in-dubai-internet-city"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Arabian Business

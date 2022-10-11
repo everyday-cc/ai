@@ -3,17 +3,25 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kmbc.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kmbc.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: KMBC Kansas City
-  domain: kmbc.com
+  name: WDSU
+  domain: wdsu.com
 
 topics:
   - AI
 
-secured: "xB3QDUxFhP/PcRaM3KolSp5VTCx3R5/dQXNmvdP0afWPEIEBF4VnmfcDpnHefTbHqEjwtH+91ao0SPYT45l47EEg10QwJUQwU2vi/FcUrnCnTHxtuSrZBLlQ5PSAsPSxNeSuLhL4CicbmBx9Crm09Xe/Fi4As6v6aMZqj27WbZTevEwaYpH+a+lrPwzEys7JAtxdltYaYPnkPqmixk+r4kI7gMgFPzxe051cALJ1kQdgyg4eurnKKdlPIn5poYo9GuXEmUlbwPJdNnvOFl2nhpIq+6MO26bGitBERzbKzqQEI4jGIUM4wqE6/4UeO+RsBerUAmWIZl9OKk4vv3glNPCA62X0i3Abw9+lKcF0nDBPgxy0FiZ5DF+UESoMTI82MnLB04IoZFQPu6qoHO97ppq6Zkv/D5e/tGcOy73/r3UTSojWbxFypwweVo/P0CrjDKefCA3YZaRUjXmzkIRXfclSGn09yQyY6PKDrv0xHiNgdzYQtEHRQQFylwQOCkvJzJVfMJUl+DGxoXLZ3aBoog==;ev0/gAvVPRicL8GvzsAfyw=="
+images:
+  - url: "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/hypatia-h-3c09dfff59686ea0cf8955d05b8f2d28-h-526e72dcb41c83dd4880165dd446fa8a-1664643570.jpg?crop=1.00xw:0.564xh;0,0.268xh&resize=1200:*"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "0TILmfttCr/wAuz3pIqT4p/QDc0wfFB+y8mWJaBUXPMa3cC0l7C6I2UqxDDw1rMXRqxMR15pk/m+Wsl+Onk4rQTy6jqYAedFgs2ZJ8HeoHzJuloA6+k3PuChWmj9ylZFXI490/p5sCQVwJk1axn/UEcyUpako57r/AOQsOOOzAazMDi8CGnr1wktdc/y+R6HiVkk2qICbStsviuWLMic8fr6z8ZU3VuTEWpcrpGPvvTDG8YaVTCK3hLnnkJU5lj25AOToqgLQZK1UhMoE/9o7IzY2c5eNsBhUicjqul33jfrV6kzK8MWK7OYcrz0B/xAOVAwm50C2PWosILM2ErZTlXlv4zAxNW/Vn9V7Ae9fS8=;Tyd5EclnuGZftPubli0VMg=="
 ---
 

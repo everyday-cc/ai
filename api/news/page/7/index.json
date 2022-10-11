@@ -2,6 +2,336 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
+      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
+      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
+          "width": 850,
+          "height": 478,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cc.gatech.edu",
+        "domain": "gatech.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-how-will-openais-whisper-model-impact-ai-applications.md",
+      "title": "How will OpenAI’s Whisper model impact AI applications?",
+      "excerpt": "OpenAI's Whisper is a deep learning model that shows promise in transcribing audio in several languages. It's also a nod to open source.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "originalUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-will-openais-whisper-model-impact-ai-applications/amp/",
+      "publishedDateTime": "2022-10-03T04:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
+      "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
+      "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
+      "publishedDateTime": "2022-10-03T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-advancing-anomaly-detection-with-aiopsintroducing-aidice.md",
+      "title": "Advancing anomaly detection with AIOps—introducing AiDice",
+      "excerpt": "We introduce AiDice, a novel anomaly detection algorithm developed jointly by Microsoft Research and Microsoft Azure that identifies anomalies in large-scale, multi-dimensional time series data. AiDice captures incidents quickly and provides engineers with important context that helps them diagnose issues",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
+      "originalUrl": "https://azure.microsoft.com/blog/advancing-anomaly-detection-with-aiops-introducing-aidice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/d05c8214-ce5a-4578-91f7-ffdca3c0cc5c.png",
+          "width": 640,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T02:00:04-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029.md",
+      "title": "GPU for AI Market Share 2022 Key Opportunities, Regional Segments, Business Statistics, Development, Size and Growth Forecast to 2029",
+      "excerpt": "Global “GPU for AI Market” Report 2022-2029 discusses an innovative concept of top growing business strategies,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-ai-market-share-2022-key-opportunities-regional-segments-business-statistics-development-size-and-growth-forecast-to-2029-2022-10-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-03-how-robots-could-change-the-future.md",
+      "title": "How Robots Could Change the Future",
+      "excerpt": "Mind you: This may mean that certain ... And don’t forget the many new and exciting applications for robotics: allowing a surgeon to use a remotely controlled arm to operate on a patient from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rd.com/article/future-robots/",
+      "originalUrl": "https://www.rd.com/article/future-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reader's Digest",
+        "domain": "rd.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-02-ai-code-of-ethics.md",
+      "title": "AI code of ethics",
+      "excerpt": "When John Cockcroft & Ernest Walton first split the atom to confirm Einstein’s famous equation, E=MC2, they wouldn’t have anticipated or even imagined in their wildest imagination that their discovery would be used to",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/75433510.cms",
+          "width": 330,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-code-of-ethics/",
+      "publishedDateTime": "2022-10-02T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-02-intels-self-driving-company-mobileye-files-for-an-ipo.md",
       "title": "Intel’s self-driving company Mobileye files for an IPO",
       "excerpt": "Founded in 1999 by Amnon Shashua and Ziv Aviram, Mobileye is known for its EyeQ system-on-a-chip (SoC), which serves as the “brain” for Mobileye’s driver-assist and self-driving technology.",
@@ -251,8 +581,8 @@
       "title": "Anyone can now use powerful AI tools to make images. What could possibly go wrong?",
       "excerpt": "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity.",
       "sourceUrl": null,
-      "webUrl": "https://www.ketv.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "originalUrl": "https://www.ketv.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "webUrl": "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "originalUrl": "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -269,13 +599,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.ketv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
-      "cdnAmpWebUrl": "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "ampWebUrl": "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
+      "cdnAmpWebUrl": "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712",
       "publishedDateTime": "2022-10-01T09:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KETV Omaha",
-        "domain": "ketv.com",
+        "name": "WDSU",
+        "domain": "wdsu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -826,335 +1156,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-celebrate-over-20-years-of-aiml-at-innovation-day.md",
-      "title": "Celebrate over 20 years of AI/ML at Innovation Day",
-      "excerpt": "Be our guest as we celebrate 20 years of AI/ML innovation on October 25, 2022, 9:00 AM – 10:30 AM PT. &nbsp;The first 1,500 people to register will receive $50 of AWS credits. Register here. Over the past 20 years, Amazon has delivered many world firsts for artificial intelligence (AI) and machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/celebrate-over-20-years-of-ai-ml-at-innovation-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/celebrate-ai-ml-innovation.jpg",
-          "width": 1533,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T16:23:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-putins-satanism-speech-compared-to-rhetoric-from-maga-republicans.md",
-      "title": "Putin's 'Satanism' Speech Compared to Rhetoric From MAGA Republicans",
-      "excerpt": "Russian President Vladimir Putin accused the West of \"Satanism\" and bemoaned that \"there are supposedly genders besides women and men\" on Friday.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "originalUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2126488/vladmir-putin-satanism-republicans-maga-trump-rhetoric.jpg",
-          "width": 1939,
-          "height": 1342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/putins-satanism-speech-compared-rhetoric-maga-republicans-1748094?amp=1",
-      "publishedDateTime": "2022-09-30T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-this-robot-ran-a-world-record-but-its-trainer-says-its-not-dangerous-yet.md",
-      "title": "This robot ran a world record — but its trainer says it's 'not dangerous yet'",
-      "excerpt": "Cassie first made a name for itself in 2021 by completing a 5K on campus with a time of 53 minutes. After months of training, the machine has now set a Guinness World Record for the fastest 100 metre dash by a bipedal robot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "originalUrl": "https://www.cbc.ca/radio/asithappens/this-robot-ran-a-world-record-but-its-trainer-says-it-s-not-dangerous-yet-1.6600931",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.cbc.ca/1.6601376.1664575671!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/robot-running.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbc.ca/amp/1.6600931",
-      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6600931",
-      "publishedDateTime": "2022-09-30T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBC.ca",
-        "domain": "www.cbc.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-microsofts-latest-ai-tool-can-predict-missed-doctors-appointments.md",
-      "title": "Microsoft’s Latest AI Tool Can Predict Missed Doctor’s Appointments",
-      "excerpt": "This piece is exactly what Microsoft’s latest artificial intelligence (AI) tool is trying to address: reducing missed healthcare appointments. Merav Davidson,  Vice President of Industry AI, wrote in the  Industry Blogs: “The annual cost of missed appointments in the healthcare industry is more than $150 billion in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
-      "originalUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 174,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63376ab52f11fec9fc57e042/0x0.jpg?format=jpg&crop=3083,1735,x0,y577,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/saibala/2022/09/30/microsofts-latest-ai-tool-can-predict-missed-doctors-appointments/amp/",
-      "publishedDateTime": "2022-09-30T15:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-bruce-willis-has-no-deal-with-company-that-created-his-digital-twin-rep.md",
-      "title": "Bruce Willis has no deal with company that created his 'digital twin': rep",
-      "excerpt": "Bruce Willis has retired from making movies since his aphasia diagnosis, but he may continue to be an action star. How? Well, technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "originalUrl": "https://www.aol.com/bruce-willis-may-still-appear-190942819.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-intels-self-driving-car-division-mobileye-files-for-ipo.md",
-      "title": "Intel's self-driving car division Mobileye files for IPO",
-      "excerpt": "Mobileye, an Intel-owned company that makes key processors for self-driving cars, has filed for an IPO, according to an SEC filing on Friday. The move to list Mobileye on the Nasdaq is part of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/106913978-16268192682021-07-20t192606z_1895303704_rc2ioo9l1187_rtrmadp_0_mobileye-autonomous.jpeg?v=1664573981",
-          "width": 3500,
-          "height": 2334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/30/intel-owned-mobileye-files-s-1-for-ipo.html",
-      "publishedDateTime": "2022-09-30T15:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-01-this-is-what-whales-are-betting-on-baidu.md",
-      "title": "This Is What Whales Are Betting On Baidu",
-      "excerpt": "Someone with a lot of money to spend has taken a bearish stance on Baidu BIDU. And retail traders should know. We noticed this today when the big position showed up on publicly available options ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/options/22/09/29102305/this-is-what-whales-are-betting-on-baidu",
-      "originalUrl": "https://www.benzinga.com/markets/options/22/09/29102305/this-is-what-whales-are-betting-on-baidu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/movers_image_18233.jpeg?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29102305",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29102305",
-      "publishedDateTime": "2022-09-30T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

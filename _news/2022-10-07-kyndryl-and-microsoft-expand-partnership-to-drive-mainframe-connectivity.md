@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-micr
 webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
 type: article
 quality: 83
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m"
         width: 750
         height: 600
+        isCached: true
+  - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
+    excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
+    publishedDateTime: 2022-10-11T15:06:00Z
+    webUrl: "https://www.myjoyonline.com/microsoft-and-liquid-cloud-launch-initiative-to-support-african-businesses-with-hybrid-cloud-infrastructure/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 21
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "2Qf+EoOaMPV9bnp9+z7Ehy5BPxLrrJmNLip+MfBC+puLbNJyQ7yX7rgRK3JBDy6/k/yp2u+PPOLA5GuKOoOI8dooEWh5rpJoushBK5OqXzExJqfA0RNxyAQMGy2qWQesgB5sn1F6z4NYfYpM5HTTF2dr3SVbNsHKtiXiZqZUEBAuR4UwSBZuhZAQSwbZCNGD7sCYMzd0ADihRYM3t+Z3a118jt498b4mnd5BzyOKTxgCj6PqTPBF8MMivaV9cvxH55eECWBz5L7rAgROvngcwE5l8zVU2gheymZ/MIZwwEoPlQEqQRy+kblREq71aXFczMO4VP9jSjE8ufamUbbdtA8FhcVdp+DANchF23BFEVXsP5+enfIKK+pu4smTS80V9ljZKkDQtf8GDgmRbwy5Eqx/9f2brhdmls+eHLmp2r/dorv5uSiNpqqPil9+seJ/4lO1thDqaYpkRwU/v6OXoJgGkYRotXjsC8OsVCUJg0jkCgMOmBKI0xZMaISNsQeKZFeDHG+K99TaQ09Ti4Bh6g==;3pH5Zp+eJAaGJMt4Mce4LA=="

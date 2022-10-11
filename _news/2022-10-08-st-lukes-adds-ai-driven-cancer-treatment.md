@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
+    excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
+    publishedDateTime: 2022-10-11T13:00:00Z
+    webUrl: "https://seekingalpha.com/article/4545877-google-cloud-next-open-data-ai-advancements"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
 
 secured: "nLiXjQgthay839+zgoMh9w02AaUcc5xVEml1oVtkpe9uh4eR6zsL4gXd3OTuVLsMqGpgtOdkPQus5clsldKCf9RjffVOuoh0jns28fjmVj0toEaFFSbx2WK3fZYsr3flBGoJXKCuatAJUS617EWYyxoG5YnQNiTLaQDOlOReUsjkxWt/3DkHZku9CzSGMuFBzzrnDxKNgum6KEj9CyTuVDQCLZoK1yEW53TRfEwHYXswYGWBG+cB5aE8ITxqY4nvgQwNS4kYXgp2HhnPNGleoMSThHFPIsNCKf8zYStA4PcRpyqbR+Hvau+NFKfYeajAKWj64RWcuM0KC/2tQC4AuLoJOfu0K4xoMDyDB6T5vBA=;0OLOXzAU5sbjuCLQg/9u4A=="
 ---

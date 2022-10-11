@@ -2,6 +2,328 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-06-google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video.md",
+      "title": "Google answers Meta’s video-generating AI with its own, dubbed Imagen Video",
+      "excerpt": "Google's Imagen Video model, like Meta's recently detailed Make-A-Video, can generate short looping clips given a text prompt.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/",
+      "originalUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?resize=1200,675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/05/google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video/amp/",
+      "publishedDateTime": "2022-10-05T13:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
+      "title": "Artificial intelligence may improve suicide prevention in the future",
+      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-tesla-to-remove-sensors-from-the-vehicles-self-driving-system-and-instead-rely-on-eight-cameras-and-artificial-intelligence-after-intense-scrutiny.md",
+      "title": "Tesla to REMOVE sensors from the vehicle's self-driving system and instead rely on eight cameras and artificial intelligence after intense scrutiny following series of crashes",
+      "excerpt": "Tesla is removing sensors from its cars as it shifts toward a system based solely on eight cameras that feed information into its self-driving artificial intelligence. Ultrasonic sensors (USS ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/10/05/17/63146475-0-image-a-30_1664988606459.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
+      "publishedDateTime": "2022-10-05T10:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-deepmind-ai-is-able-to-make-algorithms-better-than-humans-have-imagined-creators-claim.md",
+      "title": "DeepMind AI is able to make algorithms better than humans have imagined, creators claim",
+      "excerpt": "DeepMind, the Google sister company that has brought a number of machine learning breakthroughs, says the latest discovery is one step on its mission to use artificial intelligence to advance science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-algorithm-deepmind-google-new-alphatensor-b2196214.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/09/27/14/artificial%20intelligence%20quantum%20physics%20equation.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-deepmind-ai-invents-faster-algorithms-to-solve-tough-maths-puzzles.md",
+      "title": "DeepMind AI invents faster algorithms to solve tough maths puzzles",
+      "excerpt": "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03166-w",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03166-w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-winds-of-change-adapting-to-procurement-change-with-artificial-intelligence.md",
+      "title": "Winds Of Change: Adapting To Procurement Change With Artificial Intelligence",
+      "excerpt": "AI is helping procurement teams and their organizations adapt to change by ensuring reaction times are quicker than their competition while bolstering supplier relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633da8354c6ec5386eb3ab41/0x0.jpg?format=jpg&crop=3313,1864,x0,y165,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-05T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms.md",
+      "title": "DeepMind unveils first AI to discover faster matrix multiplication algorithms",
+      "excerpt": "DeepMind unveiled AlphaTensor, the “first artificial intelligence system\" to shed light on a 50-year-old open question in mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
+      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
+      "publishedDateTime": "2022-10-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-renderedai-joins-aws-marketplace.md",
       "title": "Rendered.ai Joins AWS Marketplace",
       "excerpt": "First synthetic data platform for computer vision to be offered to Amazon Web Services customers worldwideBELLEVUE, Wash., Oct. 5, 2022",
@@ -836,352 +1158,6 @@
         "name": "Associated Press",
         "domain": "apnews.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-protestor-suffering-from-vision-loss-awarded-1m-in-lawsuit-against-or-police.md",
-      "title": "Protestor suffering from vision loss awarded $1M in lawsuit against OR police",
-      "excerpt": "A racial justice demonstrator will be awarded $1 million in a lawsuit against Salem, Oregon. The protestor suffered from permanent vision loss and chest injury by the city police.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
-      "originalUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/818f86fb-741c-403f-82c8-4531bb4369de/2bd411d9-3125-48af-9f7f-1b2a6929879f/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/protestor-suffering-vision-loss-awarded-1m-lawsuit-against-or-police.amp",
-      "publishedDateTime": "2022-10-04T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-tesla-announces-its-moving-away-from-ultrasonic-sensors-in-favor-of-tesla-vision.md",
-      "title": "Tesla announces it’s moving away from ultrasonic sensors in favor of ‘Tesla Vision’",
-      "excerpt": "Tesla announced today that it is moving away from using ultrasonic sensors in its suite of Autopilot sensors in favor of its camera-only “Tesla Vision” system. Last year, Tesla announced it would transition to its “Tesla Vision” Autopilot without radar and start producing vehicles without a front-facing radar.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
-      "originalUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/11/tesla-ultrasonic-e1479179062536.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/04/tesla-moving-away-ultrasonic-sensors-in-favor-tesla-vision/amp/",
-      "publishedDateTime": "2022-10-04T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-why-bringing-sas-viya-onto-microsoft-azure-marketplace-is-a-big-deal.md",
-      "title": "Why bringing SAS Viya onto Microsoft Azure Marketplace is a big deal",
-      "excerpt": "With files from Lynn Greiner. On Sept. 27, SAS officially brought its Viya analytics platform to the Microsoft Azure Marketplace. The service enables Azure customers to use the solution on a pay-as-you-go basis with the click of a button.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "originalUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.itworldcanada.com/wp-content/uploads/2021/01/GettyImages-1173288726.jpg",
-          "width": 2000,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/why-bringing-sas-viya-on-microsoft-azure-marketplace-is-a-big-deal/506524?amp=1",
-      "publishedDateTime": "2022-10-04T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose.md",
-      "title": "Redact sensitive data from streaming data in near-real time using Amazon Comprehend and Amazon Kinesis Data Firehose",
-      "excerpt": "Near-real-time delivery of data and insights enable businesses to rapidly respond to their customers’ needs. Real-time data can come from a variety of sources, including social media, IoT devices, infrastructure monitoring, call center monitoring, and more. Due to the breadth and depth of data being",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/redact-sensitive-data-from-streaming-data-in-near-real-time-using-amazon-comprehend-and-amazon-kinesis-data-firehose/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/04/redact-sensitive-data-comprehend.jpg",
-          "width": 1548,
-          "height": 772,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T13:39:38-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
-      "title": "Computer scientist aims to protect people in age of artificial intelligence",
-      "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "publishedDateTime": "2022-10-04T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
-      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
-      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
-      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
-          "width": 1260,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
-      "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
-      "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633c36cd250f5641618d9da8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "publishedDateTime": "2022-10-04T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

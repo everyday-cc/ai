@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:09:00Z
 originalUrl: "https://www.nzz.ch/english/what-would-happen-if-putin-resorted-to-nuclear-weapons-ld.1706654"
 webUrl: "https://www.nzz.ch/english/what-would-happen-if-putin-resorted-to-nuclear-weapons-ld.1706654"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Neue Zürcher Zeitung

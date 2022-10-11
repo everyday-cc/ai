@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T07:08:00Z
 originalUrl: "https://www.washingtonpost.com/business/taylor-swift-will-always-be-bigger-than-ai/2022/10/11/0e050d68-495d-11ed-8153-96ee97b218d2_story.html"
 webUrl: "https://www.washingtonpost.com/business/taylor-swift-will-always-be-bigger-than-ai/2022/10/11/0e050d68-495d-11ed-8153-96ee97b218d2_story.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Washington Post

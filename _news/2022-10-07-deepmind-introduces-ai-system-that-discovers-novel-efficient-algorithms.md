@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind uses matrix math to automate discovery of better matrix math techniques"
-    excerpt: "Founded in London in 2010, DeepMind has become famous for beating the world champion at board game Go with its AlphaGo AI and taking on the mind-bogglingly complex challenge of protein folding with AlphaFold."
-    publishedDateTime: 2022-10-06T19:02:00Z
-    webUrl: "https://www.theregister.com/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/06/deepmind_ai_matrix_multiplication_improvements/"
+  - title: "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing"
+    excerpt: "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself."
+    publishedDateTime: 2022-10-11T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/"
+    ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 71
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 75
     images:
-      - url: "https://regmedia.co.uk/2022/10/06/shutterstock_matrix_math.jpg"
-        width: 1000
-        height: 667
-        isCached: true
-  - title: "DeepMind's AlphaTensor AI makes complex matrix multiplications look like games"
-    excerpt: "We all have done matrix multiplications in schools, haven't we? Outside the classroom, this humble mathematical operation is used in various complex activities"
-    publishedDateTime: 2022-10-06T21:40:00Z
-    webUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story"
-    ampWebUrl: "https://www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    cdnAmpWebUrl: "https://www-newsbytesapp-com.cdn.ampproject.org/c/s/www.newsbytesapp.com/news/science/deepmind-s-ai-can-solve-tough-math-puzzles/story/amp"
-    type: article
-    provider:
-      name: newsbytesapp.com
-      domain: newsbytesapp.com
-    quality: 70
-    images:
-      - url: "https://i.cdn.newsbytesapp.com/images/l32720221006155804.png"
-        width: 1440
-        height: 810
+      - url: "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg"
+        width: 1068
+        height: 601
         isCached: true
   - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
     excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
@@ -65,19 +49,21 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "Deep Mind improves matrices maths"
-    excerpt: "Improved 50 years worth of maths classesGoogle’s DeepMind has been using applied reinforced learning techniques to the multiplication of mathematical matrices and can do it better than some 50 year-old human-made algorithms."
-    publishedDateTime: 2022-10-07T08:20:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55615-deep-mind-improves-matrices-maths"
+  - title: "Mathematical formula tackles complex moral decision-making in AI"
+    excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
+    publishedDateTime: 2022-10-10T15:23:00Z
+    webUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 56
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/296515b3f2e75ad2c719f4fc5c518981_L.jpg"
-        width: 620
-        height: 465
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "dekVjgjYHiroOUxKDVbFhcFz6g+qR6RhgsqpHR0fi8BeFJSWRCmWpCyZTRtAUKlEqNwr28cuJluUkhapri/FpVtE52ObsE7bJCt6ilp0poju9vVAH+jOH+25N+UzbqLZ4oAdq0SbW0hCjJtkOOoJitJBYJCFI8j4Q0P1buhdaW2LTgys9FDsTK21dNTocVkJrpF/ice5HHzR+g6DNWIuSQw/e1Okx8VQ2JFFx90q1K81p4ohhj/sVVaJEYljaTr6RVHpBOWp4AFQ+hb5e5OPUYQbHE8/GvNImBFa5ZH41D+5axihp3U1/wLKb7YoeAwvrf2GtdVobf4e5NCbsdTFA7YILpdMSBJ1M0OuAKlJcQMIoMQugJbdKzjk+8En9K7s8XR8dlh998Y2STTQ0LWo+gpqxZgEGTs3wLQHM66k/BvJsttbaOaArSf5unzlrkHw012XbSjx2JE5fe70moggfk91Z7aegnL+p3cuzLiN648+mpKwBGEiDTz6ZKwyXDiffxqTNfYGgkZy3XcCB5imOA==;Xv3yolziKyp6upHogdB3hQ=="

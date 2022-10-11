@@ -24,6 +24,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
+    excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
+    publishedDateTime: 2022-10-11T12:16:00Z
+    webUrl: "https://www.capitalfm.co.ke/business/2022/10/microsoft-liquid-cloud-in-deal-to-deliver-cloud-services-in-africa/"
+    type: article
+    provider:
+      name: Capital FM
+      domain: capitalfm.co.ke
+    quality: 39
+    images:
+      - url: "https://www.capitalfm.co.ke/business/files/2016/06/MICROSOFT.jpg"
+        width: 630
+        height: 350
+        isCached: true
+
 secured: "e2KAIitGZZc8OPD2DXzCVUbcDCB1Ci4JBJyrSU/4zbdyJbgF97pWDEQ9KrB7PBlSx3842H1x379FG0ppWV6NDyKphEz7Bqee3w7mAuJ9lFZ+Jw2En/p1+5qAfLIYAEdp0VY7pL0hDdOET9InDnJAxn+2vQVEZqdBN4GZS/NulbbsS/pDoZOZFTGy2F79zsLap/MtPF/HJtU61qQLcxi4gd5gq4tOgR0IiLXelVG6AUURtynH1zthP/t1RUumffIKKZ10pH9IU5UenJwF6cdYGDXKrFl95+gX5KgaSQIBbnAxtguUh1QRlPref2ixHwpc7eo4ECDrkcMWFlBH24mJgheP+uxi7vsUcMhPJzOCzbs=;+1S9IyS52B3NNVD3yUrLFg=="
 ---
 

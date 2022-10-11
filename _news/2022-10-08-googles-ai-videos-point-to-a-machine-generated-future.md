@@ -7,7 +7,7 @@ originalUrl: "https://www.washingtonpost.com/business/googles-ai-videos-point-to
 webUrl: "https://www.washingtonpost.com/business/googles-ai-videos-point-to-amachine-generated-future/2022/10/08/40a3c0ec-46cf-11ed-be17-89cbe6b8c0a5_story.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,34 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Launched an AI Video Generator, and It’s Creepy"
-    excerpt: "The technology isn’t available for public use, but Meta (formerly Facebook) released a series of eerie sample clips based on prompts like “cat watching TV” and “spaceship landing.”"
-    publishedDateTime: 2022-10-06T21:31:00Z
-    webUrl: "https://hyperallergic.com/767287/meta-launched-an-ai-video-generator-and-its-creepy/"
-    type: article
-    provider:
-      name: Hyperallergic
-      domain: hyperallergic.com
-    quality: 39
-    images:
-      - url: "https://hyperallergic-newspack.s3.amazonaws.com/uploads/2022/10/cat-tv.jpg"
-        width: 1200
-        height: 915
-        isCached: true
-  - title: "Meta’s text-to-audio AI can create common sounds and generate music"
-    excerpt: "Meta’s AudioGen text-to-audio artificial intelligence model could create sound for video games, film soundtracks or music production"
-    publishedDateTime: 2022-10-07T14:33:00Z
-    webUrl: "https://www.newscientist.com/article/2341416-metas-text-to-audio-ai-can-create-common-sounds-and-generate-music/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 37
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/07151848/SEI_128475358.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google AI Videos Point to a Machine-Generated Future"
     excerpt: "In just the past week, AI researchers from Meta Platforms Inc. and Alphabet Inc.'s Google have taken an extraordinary leap forward, developing systems that can generate videos with just about any text prompt one can imagine."
     publishedDateTime: 2022-10-08T18:05:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:00:00Z
 originalUrl: "https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/"
 webUrl: "https://blog.google/around-the-globe/google-africa/how-mapping-the-worlds-buildings-makes-a-difference/"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: Google

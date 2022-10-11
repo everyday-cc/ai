@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-sha
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
 type: article
 quality: 62
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Europe Self-driving Car Market 2022 New Opportunities, Top Trends and Business Development 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Europe Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-new-opportunities-top-trends-and-business-development-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

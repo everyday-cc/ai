@@ -39,15 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Google Pixel 7 Event: New Pixel 7, 7 Pro, Pixel Watch, Tensor G2 and More Reveals"
-    excerpt: "Google's new Pixel 7 and Pixel 7 Pro phones are on display at the company's new event alongside the Pixel Watch. Plus, the Pixel Tablet gets a tease ahead of its 2023 release."
-    publishedDateTime: 2022-10-06T19:59:00Z
-    webUrl: "https://www.cnet.com/news-live/google-pixel-7-event-live-blog/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 29
 
 secured: "h9nZgMpbSfjGP+UOUPWzZOu/ndL2rOuxQGm4OG0WAkZqlVUJAo4ZVlHwggE2TAtGmcrKLKgbX+9sbJwk7UT/jFZeEeSxYyzvjpRkwxfUQ3zT5X3SD89ld3BsOcY2oBMXGanHMsVIJ/XegAB5b4UEUu54XSekdlT9oe8nEbi6rZq7vADuFue50O4JOK84RIlF9dn9XzrZ+1z+FD69k3Eo/BrVWnZDP8zFfFH39+1xQTEsmgWt5vQS5ZKwQisbTvYgLFU683HaTnElCYA6RXPoUj/ig2EkvMmwsn2RPpXHEwCXpect38SFWccYE41BlH3F9l2nKpUOatDu+409SRCKWQgGTuUCkft49TFkJBozfcS8i9C85km/YOJqa1agHJR5QfMyP4ol1Na92p6OKurLziist8zCGgEtZxfD6cSOcBbt8c0qmWd3JKweePg7AeszmmnxBGrzhIZdfukj/unYZ6VB/XWXTjLmDgB5bXjcmkA2auGbUJYg9pY59iC/ocUqZUfBCjgAQ40+poswjOVCbg==;HqAZWfaXfK0mqFyPLD6wFg=="
 ---

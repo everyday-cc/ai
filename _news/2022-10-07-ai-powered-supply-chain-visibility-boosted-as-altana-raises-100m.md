@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-booste
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -45,20 +45,6 @@ related:
       - url: "https://s29755.pcdn.co/wp-content/uploads/2022/10/Altana_SeriesB-1200x674.jpg"
         width: 1200
         height: 674
-        isCached: true
-  - title: "Altana raises $100M for its AI-powered supply chain platform"
-    excerpt: "The New York-based company provides a software platform called Altana Atlas that organizations can use to monitor their supply chains. According to the startup, the platform is powered by an artificial intelligence model that processes billions of data points."
-    publishedDateTime: 2022-10-06T19:35:00Z
-    webUrl: "https://siliconangle.com/2022/10/06/altana-raises-100m-ai-powered-supply-chain-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/unsplash-2.jpg"
-        width: 750
-        height: 500
         isCached: true
 
 secured: "2VMmTX2UurTV5fCfkO9557hPhILbzo08VGXQerfkiXVD8FxesSdLjo+nvLz+EHRVNDaq9GICSSuON0nv56DQUPVD19mOz15vzZ/GgzRZGK7n1KTrj4Rpa7EsPUnDKTpP+2oo72r7FFtNmqFiJtwX7+7Vy2FTS0F9bSu8VO2rpaM5zg0WQ7dXYQh1dOa7C4JD6E/K5blX+KBrzsoVYsncjWNkl0IGpksBx3UEwg89odg/bAGipXFzsA7ny00mzSLJwwsQRuLuD7S6CXvmoFe42ihmArTOMQktXBAhjt/hZcJRNOe+JTVCCpE5YRKL5rcDHewrr3S7vqRurnntA6HHIWfetNaXEfMbwY3jdUQofF11gCI3JeQgO0jDSqgzpiEe2v/aw/Rqm6FrhxguFFHRbQRQjB4QCkonrTG8RAHIqEXQmDS9l3/YJnK/UuPzOcLF3o/q9z3q/Z3AqDPIJh9FH5PniydmcC05Lfl9Dhfp7m5aT+XAUQhf6y+SGoMz8LNf56PZAPyvR/W9jdvHvWy6RQ==;+zw41Ny6UwrAMIzwleIaOw=="

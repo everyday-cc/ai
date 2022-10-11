@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T07:02:00Z
 originalUrl: "https://www.khaleejtimes.com/uae/dubai-would-you-drive-this-car-without-a-steering-wheel"
 webUrl: "https://www.khaleejtimes.com/uae/dubai-would-you-drive-this-car-without-a-steering-wheel"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Khaleej Times

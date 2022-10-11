@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T13:39:00Z
 originalUrl: "https://railway-news.com/bosch-engineering-is-working-on-automated-driving-in-rail-traffic/"
 webUrl: "https://railway-news.com/bosch-engineering-is-working-on-automated-driving-in-rail-traffic/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: railway-news

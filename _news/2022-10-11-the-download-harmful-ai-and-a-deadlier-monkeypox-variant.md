@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/10/11/1061036/download-harmful-ai-deadlier-monkeypox-variant/"
 webUrl: "https://www.technologyreview.com/2022/10/11/1061036/download-harmful-ai-deadlier-monkeypox-variant/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MIT Technology Review

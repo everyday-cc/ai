@@ -93,6 +93,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Europe Self-driving Car Market 2022 New Opportunities, Top Trends and Business Development 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Europe Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-new-opportunities-top-trends-and-business-development-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
     excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
     publishedDateTime: 2022-10-10T08:43:00Z

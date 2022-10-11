@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 500
         isCached: true
-  - title: "Altana raises $100M for its AI-powered supply chain platform"
-    excerpt: "The New York-based company provides a software platform called Altana Atlas that organizations can use to monitor their supply chains. According to the startup, the platform is powered by an artificial intelligence model that processes billions of data points."
-    publishedDateTime: 2022-10-06T19:35:00Z
-    webUrl: "https://siliconangle.com/2022/10/06/altana-raises-100m-ai-powered-supply-chain-platform/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 37
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/unsplash-2.jpg"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "tU5ydZRX3TmyQ1AqAeF3bu9rOb9dpOQsFMJYn1EeLPxbnYfISkWtTfqsfXezFlaBM9W4gbTg0UzSh3O5bQeqjVo4s7obPuE7w0u6PwTac1K8W1LO03lohLrg1xZn1k58SLKWxVSRRCs3bAu9YWE9rJaw0nS+cFoN7KrwFO9/Fc6EQQXOcMe2Dki1nAlxYgdQxXFJo6sYJ9jor+vGSJUzB9gbwKp6YomSqVDNw8nRQwIR3IKc8XEN0/Ewl5XeyTJgDfgQUGLrLvxLwRdCGLVBgv7Z2VqN5TBiYgcVUI0m1C9TgESmnw8g4J7WLT/LfwC04IKMx8SNNffANIcC1D1IzU6luRu25wVtH/AiVAtPmk1RMtD7lnm0MySoO41qzICEixTnAScMAdvwSK9UftKagmVb1H37+4zCNcF7q3ZVObs9O+meunaHcsva+Q0/WRynXAZEPpaw1rZBO2NbTQjRbyxx/z24eW45/T0UCo2jb4JSM369wvE5orvcS4XtqJOuQjMC3g6XFWjBlXB1D8PWkg==;paEAJDtRx2zGzBduwSdeHg=="
 ---
