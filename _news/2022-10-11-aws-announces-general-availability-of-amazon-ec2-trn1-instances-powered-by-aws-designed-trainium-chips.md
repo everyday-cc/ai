@@ -2,12 +2,12 @@
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
-publishedDateTime: 2022-10-10T23:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
+publishedDateTime: 2022-10-10T23:35:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
 type: article
-quality: 55
-heat: 55
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
-  - AI
   - AWS AI
+  - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
@@ -25,6 +25,6 @@ images:
     height: 210
     isCached: true
 
-secured: "08th1nuguNBuDeD0iWX54AdeiobDRbgbjOrqvtzfzdgZqUXaGNw6biUmaONKd0bPL78Fzb4nX2MGcwISMoUr3AP1bnCc75GLOofUsTdDx39C45r5hiAWoePIswjYl07y4tyxf+MJO0YEwre0RTicK8I2jiEQRwtThiv7ne2CTTz+JvmzzTdEdgf8vSaK7gWV9sW5mdL+CNdH3YhQSAi/V0a4y8Ok6qqHNYpQ4oADJibFAzCTWU6a1TPhFPiRVGvfSNFMiVi+GmSUkYnpmhvAaws9TwJWPSetLZL6eS5OTC/9Ub2f/oIvMrnBmDtV+yymNeR4bzebVO/yHJBmMNBHwxzvBINPbFltAKVkaqQbeGE=;IF1enGcaU06pvc9uxLfSDQ=="
+secured: "YTvR6VUIVLutiFgDcnG6DuF6/SYNvZSCI2nuMe+42piiNgngPS9fQZbgDCqO3UWdMY+Wtb6K4/Y/iljmohkyk3TjXBrMLWSUXb30q38R2n0GnizbAMo30waZRcd3lFYypSv4No/cdsnn/LHk5G9JMd/dRGeZ2vstgNP0Ev33FwGT1VzGQ354cGB7U8tV6gW5rB5l3OjXX8Zactz3AGTeOkNtSBYXm27d7sHz5P1zjESFPa0V1fYkZ6Z0E0jyvFe65gXvdma4g+1G/Vz97zcE+fygxcdr8HXOxw3TAd2wAZexmcNDOaey/WINfZ45cDO1sLG6jvs2zzK358Q6Mq+YUeHTU9AA1jq90C0j4i33MEo=;6YJqdlB1b34UyCzx8U4iYA=="
 ---
 

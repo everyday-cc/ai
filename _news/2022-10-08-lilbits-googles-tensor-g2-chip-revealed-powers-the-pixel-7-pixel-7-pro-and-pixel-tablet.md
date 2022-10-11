@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Tensor G2 Chip Is Key to Many Pixel 7 AI-Powered Abilities"
-    excerpt: "AI accelerators and other modules. Tensor G2 keeps the same basic design with a modest CPU upgrade, including its reliance on chip designer Arm. Unchanged from the first-generation Tensor are the ..."
-    publishedDateTime: 2022-10-06T15:36:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/b7d936d8063788b4bd3a13dd3ecc04025b7a86e6/hub/2022/10/05/79af2cc4-06f5-4508-9bdb-75faa4f75b96/google-tensor-g2-pixel-7-processor.jpg?auto=webp"
-        width: 2312
-        height: 1156
-        isCached: true
-  - title: "Google Tensor G2 chip: Everything you need to know"
-    excerpt: "Tensor G2 is Google's second semi-custom mobile chip. It debuted with the Pixel 7 series and is built for machine learning tasks."
-    publishedDateTime: 2022-10-06T15:57:00Z
-    webUrl: "https://www.androidauthority.com/google-tensor-g2-explained-3216087/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Tensor-G2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Google announces Tensor G2 chip at Pixel 7 event"
     excerpt: "This made a number of the Pixel 6's flagship new features possible due to the phone's machine learning and AI features enabled by the powerful Tensor chip. Magic Eraser is a perfect example of one ..."
     publishedDateTime: 2022-10-07T08:47:00Z
@@ -69,6 +39,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google Pixel 7 Event: New Pixel 7, 7 Pro, Pixel Watch, Tensor G2 and More Reveals"
+    excerpt: "Google's new Pixel 7 and Pixel 7 Pro phones are on display at the company's new event alongside the Pixel Watch. Plus, the Pixel Tablet gets a tease ahead of its 2023 release."
+    publishedDateTime: 2022-10-06T19:59:00Z
+    webUrl: "https://www.cnet.com/news-live/google-pixel-7-event-live-blog/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 29
 
 secured: "h9nZgMpbSfjGP+UOUPWzZOu/ndL2rOuxQGm4OG0WAkZqlVUJAo4ZVlHwggE2TAtGmcrKLKgbX+9sbJwk7UT/jFZeEeSxYyzvjpRkwxfUQ3zT5X3SD89ld3BsOcY2oBMXGanHMsVIJ/XegAB5b4UEUu54XSekdlT9oe8nEbi6rZq7vADuFue50O4JOK84RIlF9dn9XzrZ+1z+FD69k3Eo/BrVWnZDP8zFfFH39+1xQTEsmgWt5vQS5ZKwQisbTvYgLFU683HaTnElCYA6RXPoUj/ig2EkvMmwsn2RPpXHEwCXpect38SFWccYE41BlH3F9l2nKpUOatDu+409SRCKWQgGTuUCkft49TFkJBozfcS8i9C85km/YOJqa1agHJR5QfMyP4ol1Na92p6OKurLziist8zCGgEtZxfD6cSOcBbt8c0qmWd3JKweePg7AeszmmnxBGrzhIZdfukj/unYZ6VB/XWXTjLmDgB5bXjcmkA2auGbUJYg9pY59iC/ocUqZUfBCjgAQ40+poswjOVCbg==;HqAZWfaXfK0mqFyPLD6wFg=="
 ---

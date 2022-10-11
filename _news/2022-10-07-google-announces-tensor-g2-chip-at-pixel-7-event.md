@@ -7,8 +7,8 @@ originalUrl: "https://mashable.com/article/google-event-tensor-2-chip-ai-announc
 webUrl: "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Mashable
@@ -25,36 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Tensor G2 Chip Is Key to Many Pixel 7 AI-Powered Abilities"
-    excerpt: "AI accelerators and other modules. Tensor G2 keeps the same basic design with a modest CPU upgrade, including its reliance on chip designer Arm. Unchanged from the first-generation Tensor are the ..."
-    publishedDateTime: 2022-10-06T15:36:00Z
-    webUrl: "https://www.cnet.com/tech/mobile/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-tensor-g2-chip-is-key-to-many-pixel-7-ai-powered-abilities/"
+  - title: "Google Pixel 7 Event: New Pixel 7, 7 Pro, Pixel Watch, Tensor G2 and More Reveals"
+    excerpt: "Google's new Pixel 7 and Pixel 7 Pro phones are on display at the company's new event alongside the Pixel Watch. Plus, the Pixel Tablet gets a tease ahead of its 2023 release."
+    publishedDateTime: 2022-10-06T19:59:00Z
+    webUrl: "https://www.cnet.com/news-live/google-pixel-7-event-live-blog/"
     type: article
     provider:
       name: CNET
       domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/b7d936d8063788b4bd3a13dd3ecc04025b7a86e6/hub/2022/10/05/79af2cc4-06f5-4508-9bdb-75faa4f75b96/google-tensor-g2-pixel-7-processor.jpg?auto=webp"
-        width: 2312
-        height: 1156
-        isCached: true
-  - title: "Google Tensor G2 chip: Everything you need to know"
-    excerpt: "Tensor G2 is Google's second semi-custom mobile chip. It debuted with the Pixel 7 series and is built for machine learning tasks."
-    publishedDateTime: 2022-10-06T15:57:00Z
-    webUrl: "https://www.androidauthority.com/google-tensor-g2-explained-3216087/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Tensor-G2.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
+    quality: 29
   - title: "Lilbits: Google’s Tensor G2 chip revealed (powers the Pixel 7, Pixel 7 Pro, and Pixel Tablet)"
     excerpt: "Google debuted its first-gen Tensor processor with the Google Pixel 6 and Pixel 6 Pro last year. While the chip didn’t have the fastest CPU or graphics around, it was able to offer decent all-around performance for flagship phones with reasonably affordable price tags."
     publishedDateTime: 2022-10-07T21:00:00Z

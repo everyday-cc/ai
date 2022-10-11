@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots
 webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -37,25 +37,39 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 44
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Sports Market To Witness Excellent Revenue Growth, Emerging Trends And Forecast"
-    excerpt: "Artificial Intelligence in Sports Market Artificial Intelligence in sports has a massive impact on audience engagement, game strategy, an"
-    publishedDateTime: 2022-10-07T05:37:00Z
-    webUrl: "https://menafn.com/1104982475/Artificial-Intelligence-In-Sports-Market-To-Witness-Excellent-Revenue-Growth-Emerging-Trends-And-Forecast"
+  - title: "India Autonomous Vehicle Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group \" India Autonomous Vehicle Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", The India autonomous vehicle market is expected to exhibit robust growth during 2022-2027."
+    publishedDateTime: 2022-10-07T04:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-autonomous-vehicle-market-2022-27-trends-share-size-growth-and-forecast-2022-10-07"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 19
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
-      - url: "https://menafn.com/updates/pr/2022-10/07/EP_d88ffimage_story.jpeg"
-        width: 890
-        height: 466
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition(ASR) Software Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The \"Automatic Speech Recognition(ASR) Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Automatic Speech Recognition(ASR) Software market size as considered by the top market leaders for this Automatic Speech Recognition(ASR) Software market Industry,"
+    publishedDateTime: 2022-10-10T14:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognitionasr-software-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "O09/SKAyXUY9/uNvMeZ32WDGmMH+BCAfmpu12AuWEQTskZSTmvzq+pD34ehU4nCovxv3YpB01enB9zUxWEODeX3v7MjTiZad1pyhKg7aK6gyin/0k2Fl6W8O+cZ8g8nMzQdo+TyBFGOjGKB5EoRvzNraRYII+Cnxs1Z/NI0UuLEavwy6LrpgS27DYCKPMRIqXa4ljivI7ZOIpl96oA8Z/MxnwZc00oNmVJwyiw4ZQUpcLZTw2REdvWp8QHBCa305wXIvHUnEOPJ1NFQO3C47qI7GSzPct/TFkbD1RNZsvIblOY7yFZKOPaY05H6cL7ZXOFCKZa+ZBtxjFxImp12C34z6+LSRjKFVO8TpmOyiq38=;XAXsLySVNca/CDqSWfivUQ=="

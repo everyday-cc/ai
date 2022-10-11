@@ -3,17 +3,18 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -22,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "BVmxKuer9UkmDZleOW8qn35PIkXp+wHMoxjoWPBFvLygLk8m/UGZ4mMossT/q0//yCziuk392mCn+JPq1H+tD14VlRtb2NjHT1kc0N9OOg4GR7KNce6FLfbIK0nfraDl3c8t/QiFh/X9LjKxEmBtROmEH0IQP/p9g4ZrJ95f4bqCwhCPEsqdw1vI+rZ9xZa4Mvz5KJJj0pRT8Th/mDxahIjl/yL4M1t/mjLulyG+FVpZ5h8MEtiFJOHqSnlSZ6KDHbLS2eJ4Sd0/bKfZpaxezcNIVQ2g+K5AJgtMuhRaCiBp6TCAOWi00Fet+WzqXZndmtIJ7q+Ehqy6WEHWzHem24z1S2EB9coI5xze4JPPapU=;DSI1rbZvJx7zFBsXqYo1IQ=="
+secured: "ySBnN3/bzP4AI2g5chlH54E+oNCccmaNyv2dhkj4mSMpmuG6yKuG6TN6Qkn93rx1zmGRUr/Pgtu1PVEPZ49DRa0xPhptUMnlxCh2rVh8/gehKgXc67oFIDE3K6zeXU8ExyT1wAYD/kjqlmT154G/PADGiILcCmp8PdzVwny2txQf9+/nsbkEL5nM2uW6i9Qt7FWqz8gqtT/cS2cKYLanqXCsA1q4rbt3q0VR1D3VuJENjFXY43cOpAxl7Y8ds66Mf0HS+jXUSB6ohQD8C/uWH6u/nLj6W6n/I7Kpce0yPnoV8o0YlIA3bFx6UocXiNbtRX/RRfyDL9mMNKjFGEoBPBWX5qZVcf7nO/7sGkJrUJ0=;rqLREYSwI8GtUdKjFA8vZQ=="
 ---
 

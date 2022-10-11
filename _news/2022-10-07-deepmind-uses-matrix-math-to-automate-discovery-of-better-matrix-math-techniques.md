@@ -58,22 +58,6 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
-    excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
-    publishedDateTime: 2022-10-06T15:44:00Z
-    webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
-    ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    type: article
-    provider:
-      name: Daily Tech News Show
-      domain: dailytechnewsshow.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
-        width: 512
-        height: 512
-        isCached: true
   - title: "Deep Mind improves matrices maths"
     excerpt: "Improved 50 years worth of maths classesGoogle’s DeepMind has been using applied reinforced learning techniques to the multiplication of mathematical matrices and can do it better than some 50 year-old human-made algorithms."
     publishedDateTime: 2022-10-07T08:20:00Z
@@ -88,6 +72,15 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
+    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
+    publishedDateTime: 2022-10-07T09:56:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
 
 secured: "NwUqJZBnI9pfrBl8LTpHQfk7HWE5W6khVvt+ApyFKtftbwBSc7t/nfeZ1u4Rf7OPpfG+WwsOaPHzDNtEdhL+FMu8+RYN4j/bB9cFThQxqIUyCZm3JbWBg4dK3CaEHWtlWo03gDVODDGGgUNv1i3srN++gGgmcBhik1mn5xT89wCL96dLojtn+zIkmGouERdR+X01/mY5V149NfrOqCLz6sOnLil8kEh8SWRyc+n+6ogqzwp/viGcpe/RnBOO+MN6saLEFcimwcOFygpr5dGLyGadkCyTg2A5ORIdijzR/IxMmNyPd+LDhTgcog8WW6lPdI5QeH2kGsqIhiSt/R6XtqDZVHJeGey78InQp/ZsM90p870zQUxDCkahYet3p6AR5NYMvfsfGe6LFgecwO2pQmklZXAFk+YuGu1Dj7jALCtdLIBhsTW5YHxSl4Hw27iLyy7yTGJNvGRxFno3S4TnF2HarkJJBoKnMI3TsYJFKQOzJB9YYyT3UsX3zLhTW04TEr2Z0vJip3vZEnJAVqQ/sA==;9B3K4Ew1ec84OlElMwSb1A=="
 ---

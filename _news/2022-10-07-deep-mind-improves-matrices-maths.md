@@ -72,22 +72,15 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "DeepMind’s AlphaTensor Discovers New Algorithms – DTH"
-    excerpt: "DeepMind’s AlphaTensor finds new algorithms to multiply matrices, Twitter rolls out support for mixed-media tweets, and Google shows off two text-to-video systems. MP3 Please SUBSCRIBE HERE."
-    publishedDateTime: 2022-10-06T15:44:00Z
-    webUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/"
-    ampWebUrl: "https://dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
-    cdnAmpWebUrl: "https://dailytechnewsshow-com.cdn.ampproject.org/c/s/dailytechnewsshow.com/2022/10/06/deepminds-alphatensor-discovers-new-algorithms-dth/amp/"
+  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
+    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
+    publishedDateTime: 2022-10-07T09:56:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
     type: article
     provider:
-      name: Daily Tech News Show
-      domain: dailytechnewsshow.com
-    quality: 59
-    images:
-      - url: "https://i0.wp.com/dailytechnewsshow.com/wp-content/uploads/2019/11/cropped-DTNS-CoverArt-New-1400-x-1400-1.png?fit=512%2C512&ssl=1"
-        width: 512
-        height: 512
-        isCached: true
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 33
 
 secured: "POTMljY0m5RaemI6UcJyyD7qyn/uPzu8X1OvKpHdZ2yBqdWRUwUEKcQxh2+/XokNeiUZWDb+OJPHY2StbPn7ypco3Yt43Fu+lvdXXo84CJY3bKg3By4z+EWz201uO3YgUU+vKprh9S1Wyv/C0q2aSBpNLkefE8GcQlbIZ8NoooSfr5wklwOHPIrO5W0sHr5f8iYX0GpbxrTb/A4Dm0g8sKSQf5S8yKa7WDV8ayV/HRhsXxL6Znj7iLg2JwJA4TzcPzX0ywrIesjkrwEc0uBVHV6HFfsHWoRxbTbsLfSZwDAHANcA1v4lYLUzV5ILpIfRC/yKstrbRJ+ogzJPxMsfN/q1ja4i9Ks3kHB7hMfZsfwiDgqghNmggWgTArt6QhP/ozB++qeyX0RXESCdFrYhIix7riIHsDq0Rp//XT/g7M3rTbxd83uUD2OJg5jFqhxs4Khga9Nqh8HFAcQmKthtrN+W/NGiK+oz7hUOtDsb4sX9GkV4J2rHvpxrcGq1P3wXSEoAZpZoe+DziuvJw6BZ5A==;UKehc/3o+IsaR+8cL06ZGQ=="
 ---

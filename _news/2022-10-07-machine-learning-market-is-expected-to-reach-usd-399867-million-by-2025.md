@@ -22,17 +22,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "The Worldwide Educational Robot Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "Component (Sensors, End Effectors, Actuators, Controllers), Education Level (Higher Education, Special Education) - Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The global educational robot market size is expected to grow from USD 1."
-    publishedDateTime: 2022-10-06T16:13:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-6-the-worldwide-educational-robot-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 3
-
 secured: "0HmG4EYEA5mxMOWkO0dF+i89jwAAaQYj1rCT6imbeKTAQqb6jP4ALEiWqF5wI6noCQE/jWjNE4mhtIkoRgy4NoZjngCY01uZAg22x3T30S+7IAz0FpzPkahRYXcYXpw5rrZ0LFNU0DlHIqRnVWILxq6A1kecsFo0Q2C9iSb1viuTUNOoCMT/N9E9coMShA5X1kjfgL+deK+IWFIVMbYNg6KIuSGmaN34o7pfG8bwA64vgb1B59kQ7C7wL2uIuCerD5sFKQrQf4GWkl0hasDIV7ptby8vn9QyWPpFZqZGOvovZYZ0TO6aNSgOLU4Us8kq8lA7AlQFrh/B8ZABGD8ns0xHu8mKVEKunxl5raZCWlM=;+e/cckTO5juzaJnHRKxCVA=="
 ---
 

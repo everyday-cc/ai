@@ -60,15 +60,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Artificial Intelligence in the Telecommunication Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
-    excerpt: "The \" Artificial Intelligence in the Telecommunication Market \" is one of the sectors with the fastest rate of growth, it is crucial for market participants to thoroughly research the sector beforehand."
-    publishedDateTime: 2022-10-06T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-telecommunication-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "XJeVldjW24rdXbgwFf/sDgppQmpoC4RQWQbUj+APJjhgTSoXSIwzhrObRs271AhnQCLZ8D9gUk6xqgbsKvF9ZHvmu/zW+gdzcEWgHVJsQ07EOWzhRR0q+DuvuBow05Uo/O8fgAHwZPsr1qDCvLSLfCqbRFmldAzHfLS21EJzc9D6ff/8xg4k+VOhRKF7ME+2fLmJKSMAYaW7cG94JLr8YBSO7gLT3FQFPU+kYFTecdtwmAoBmyZi3fqmykckjV1oI7X0qaSwVzzFbprA1dqueMNPXmxjluzkkmZew3uST7aE1dE/I4mg2AmWXng4MImjsLynMU8WW7oCvK+ZtMVPxZLfIVAdxS+7UXFrr8xJ0bQ=;xJdtp8sLD+2MYWGpWj4RJg=="
 ---
