@@ -6,24 +6,14 @@ publishedDateTime: 2022-10-10T16:35:00Z
 originalUrl: "https://www.wabe.org/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
 webUrl: "https://www.wabe.org/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: WABE
   domain: wabe.org
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://www.wabe.org/app/uploads/news/npr-stories/20211112-usfh-yael-bensoussan-ent-029_custom-a7b05f16cd3c0e2bcb6dbe5132a64fb59b1a1dda-scaled.jpg"
-    width: 2560
-    height: 1892
-    isCached: true
-
-secured: "FLnYW0ZtZtzjD4x4w+AjwIDmbYX5Hp4pV+Bki5kbkoIrTmTXO1RBYAiAcxjT83zsc1hu6JqI9noHmpdr2j76IEP2ozSzs/O4hF0l1JhGq6ebq4EfX2R5G2AGZsDSNINrZ96KBQfKzFfriLy+UgmWiTDvXrKODkYq6IAeeEiTI8DM91asHUY8NmMofwr7cDZKoINbHhJKeY5qU/Z0LSeAvJjNvreKayH60YWVyXr/s6rcCjJXGCKc7mTFdeZXnCCIeN3GJoiz9A4CoZJA5pBq48gGbYP8TXllbrDqLYjQicpdsShtfzGs9isEch+2ZmiXaAZXTv+epjYhCf6/kEjZ1kUvCd1wghjXTmTXivDU5q4=;GQg5tuP41q90xDemyyOGAA=="
+secured: "g0qtXKwylTIz1eDG03/xxYgsMwq25c+H74ljXSOgTg3TCfa1KTUGfS7dtL2zJSDYMVUbpOnJWM5vgSQbaaow9Ue35xiUFZJQ3W/2yq8DpGGEVb2CDWHPpAQy93FStkXEkat5nCyKMQ3qGcBvLCaRSRql/QzNd6aJvuAo91ldlnW1D4sBLIwCX0ICqSTfHufbyC4KKc0G5R59LB8rCYQQ5A+wk+i2Q0r0RyA7ycQ7L9fG42YNIDgk63bA4YAeAVJJjOy4NzJfpoLAFmfjvJ+dGdfMxFujnaNgA1pBtTpGB7ecpbi9LzUaIUJ0J+ulvlcsRBAJ2QrHLHXdku73Wi69/MPdaBT3vexD1csq3thb31x5yubyc5Xr6tq7gr+ch3CfTy1GgCrAkUYwOJdqFEZgCIhpHyGdI1M1gIfCTTDFgDeOlp7dHTZNfSU6pIa9KPfn2xW3YbIF1LvA7Zr9e/L2R7L2QLXpSJky6rkyuR05QiRb4rhujRaHerrElZKnIMTfbsffedhAaeodJMRa5hpV/Q==;S/3FngeeJ/CO1xAhlsIXTw=="
 ---
 
