@@ -8,7 +8,7 @@ webUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translat
 ampWebUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
 cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
 type: article
-quality: 59
+quality: 63
 heat: -1
 published: false
 
@@ -19,6 +19,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
+  - Microsoft AI
 
 images:
   - url: "https://www.cio.com/wp-content/uploads/2022/10/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
@@ -44,6 +46,6 @@ related:
         height: 599
         isCached: true
 
-secured: "c0ABXjuPU4cmV80CHgegiRjg4C9MB0jp9fg2VAiodi0O1C1a3EXgDAI/ZzpTJVAm28nnIems936KHu1bHe9Hd3kGklyKHo72dTBJ5LLTX/IJrQXUCzpDxuCYbyj29NrzYL2QULuqadCIMWKNoaK1o9HCeRKchMnGxMn0tffhf520uaYK2taaq80XXlCGNgFwBsnCG5yyoDoxkXJewStlmI5sn4lIoq5edcGXXS5bCTqgheKS8ziAN0YRusTEaOA+UlE8+NYRj797y6vBxHt2zydNJRbzigxr9mARDpS86mwv0txBZIie3CUKsEjUKgujS3W97IBT8RHUOqJXA+9Y1DCXenipnFC3GTWI0MgxfJQ=;Of8GERRWPdoNaqFUQiUkRA=="
+secured: "j+gfPLc6MNGbnMPa7Yfff09UBY4/PBXPnadm2JoCVst5nSjYlF1LjDg6jQdn7uc36cYkTHGbOh4w+ISWMPBG2RvzmxCmp2rcNuNXRs3NN4oqylDzrqOvLNwZ4VcJNcmJ/okW+6uhz2OhMixteleu4Sxl3xXGSUELQkSJmWQ97qCV1/Wb+Ua9sL6Af7MLHnL68Sps2mxg6A75H42d8kMLc4JaVBboC0HLPutpT78CAkH8JFVf7e5YfjfTr28gPtk+TJbhUvshe1z1EMWo+EICdHjYQgndXZDkXJw/Bejbod7Kpw5iAiewBsuHLDzA0zeOm3I2l+J9D9wR+7w8m29Qp0ls27hWeoRPGz4USvBLJQDvQBJEmCduJin6boJn6+wDwSb675tpnxVZoniGo+s4PMQTrI/gFHMFfcR9f9ceXdagXojV9pAtjGiXyKpOmB0CYLHBeF8GrRryqDufRlY56cxwcHGoVsTAXNm+s7BKuXwyFpNbDbnufA2pyxByjDwzYA6jCo7PEVG8sji9cpc3xg==;XVcXUvrZnje5fMxivbK4Rg=="
 ---
 

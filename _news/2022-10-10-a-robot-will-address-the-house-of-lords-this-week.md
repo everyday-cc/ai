@@ -43,6 +43,15 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "Ai-Da the robot turned on and off again during historic speech in House of Lords"
+    excerpt: "An AI-powered robot has become the first to give evidence to a parliamentary committee after appearing before peers. | ITV National News"
+    publishedDateTime: 2022-10-11T16:39:00Z
+    webUrl: "https://www.itv.com/news/2022-10-11/ai-da-the-robot-turned-on-and-off-again-during-historic-speech-in-house-of-lords"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 29
 
 secured: "kIPK2jIuUHT2ngVKzs8nNztRy53XfejCgIPITO9tOCLtT3T1SxDBUE8CC3W63LbDTZj/CttJx6MWyZ73mztmjxGhl0aOARLAnDpOQDhmHzssOqlfuEHYVQYz4RHesx08bwouO63rC5VgfEMUl5Lq1aO4wOmiaHGLsVXM+a1NtNSMIC1qzj9wRJbD0BUf95rofFppiuQjNGPZXxF8eVelEPV0Dc3iNuMimhsrKzKGy7F0R4DklYVL0GQYLdeiAL3kht3+ymOg+Ei1be1LtC/P+7AzGoreceQ55qFOaH+JEk37j97OgD928uA4k1WjlGUaOKZVJ5SIe8vBMywF/+xVb4nLSehl/fdlyv90NbuLaaU=;lTsknGqJsBoGkV2izlBnEg=="
 ---

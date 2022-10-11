@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.ketv.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.ketv.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.ketv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-ketv-com.cdn.ampproject.org/c/s/www.ketv.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WDSU
-  domain: wdsu.com
+  name: KETV Omaha
+  domain: ketv.com
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 676
     isCached: true
 
-secured: "0TILmfttCr/wAuz3pIqT4p/QDc0wfFB+y8mWJaBUXPMa3cC0l7C6I2UqxDDw1rMXRqxMR15pk/m+Wsl+Onk4rQTy6jqYAedFgs2ZJ8HeoHzJuloA6+k3PuChWmj9ylZFXI490/p5sCQVwJk1axn/UEcyUpako57r/AOQsOOOzAazMDi8CGnr1wktdc/y+R6HiVkk2qICbStsviuWLMic8fr6z8ZU3VuTEWpcrpGPvvTDG8YaVTCK3hLnnkJU5lj25AOToqgLQZK1UhMoE/9o7IzY2c5eNsBhUicjqul33jfrV6kzK8MWK7OYcrz0B/xAOVAwm50C2PWosILM2ErZTlXlv4zAxNW/Vn9V7Ae9fS8=;Tyd5EclnuGZftPubli0VMg=="
+secured: "c40XckUy0MO6BwKA+j7DVnPbNY6TkOwH7jY8qHyouQxoHLiG6HH+2ZV+gLa+yYXE6iRGtN576x7Ewlz7wyXi6tts+l5jdexLWmGBC6uRl6wg8zjRF2mwqV9rwdq9MtqZoN9xuPYuPINLrz5Ir0n+8qaCTfTP0hTRY0a5BLPKzD9Dmi7GpWxuHKpeKq0Y9ILMkQgcOHKqOgwWz7aEf0oczvXojxqrQING+Mu2KhLBi7/mogYo16mMjie4BoZH+XrDiU5mR49kApLQZXEuIdb25ZqRnzba930TTGh1+NlH8Nprhzxr2p2own4v6qlCYwbaWGtm4MbfFQ0e447agRWjNmxlq6wr+WLA9O4Bk+BVS1k=;0dOtpUqrXLdkdg21EqtWrQ=="
 ---
 

@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI is helping revolutionize the service industry"
+    excerpt: "The service industry is a multi-trillion dollar industry. It deals not only with professionals such as lawyers, doctors, and engineers, but also with different sectors such as sales, customer service,"
+    publishedDateTime: 2022-10-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/10/11/453739-how-ai-helping-revolutionize-service-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/1378388327-artificial-intelligence-2167835_960_720.jpg"
+        width: 960
+        height: 642
+        isCached: true
   - title: "Synthetic futures: my journey into the emotional, poetic world of AI art making"
     excerpt: "My first image requests were whimsical queries, nocturnal flights of fancy, gentle tentative casts into the virtual spirit world."
     publishedDateTime: 2022-10-09T19:10:00Z

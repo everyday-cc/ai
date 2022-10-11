@@ -41,13 +41,13 @@ related:
     provider:
       name: CIO
       domain: cio.com
-    quality: 59
+    quality: 63
     images:
       - url: "https://www.cio.com/wp-content/uploads/2022/10/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 576
         isCached: true
 
-secured: "48vuFhXH5jjwP40ThxKTWPMxPtpVJe88yGb8iEK1UWDMsm5GjMIa+Cwy3YCFcEeoj2uQOqSPnGPCIn1/zCWO2CpK056XaOiwVKasPJCTuYopRiVRDVFbEZ99bTUbtxn0D1ugwKQEwzXKIYVQ2nYXdA+JD1VukTcf9zatFT85c5yb7tDkOcwCcOAkRRvu2Gb6MTrqb8oa91UCCHfn10wPKg77WR5tnuV5uOC/QaW2sh1wIMk9Ox043kHGpy4LoUR2tztG1zc//kts/yx12vZyA8t/Sss/KxL0opBCgnaZsccLRpsW/lgnd6yA9Ux3x5ORQJBCQ+UNRTUuUMtkBlRxZW2t5PrDC1LClwyAkjjWBwc=;bgvMBIKNvd1XAsarEWkl6g=="
+secured: "9U1GqAfTl329IMvooyhHL6WG9av3FkSdRDYBBj5zHtvfVlKkdXPTercum3fE5q9TpxGTYrn7UDVfq+ymzAxLz5TzbnpP/dNACfi/r3UbNbyzj1sJZBOlCKtq3As6F/mTKafU5QdYsjqxZHmaBk4vDKKDY8exfNx5ANzrqOKTR8OJA8T4+RouDD2oMn9u7Nc/Kh7dNjE7YyjIzs1/LyH2GHGGmwpYJ1271pLmDxhr0a9L1388lbn5M91Cg9rodliuZ9muLhOjusbctn5/1KyambsqN9WstXHE46bNnCEJgoJU2WTeVwWHgiYjofpVH8B23JyYISIyr4uUT8lzkoekJBWxyDJEQweV3LSvo698vkp4JUc1TpCNUfkdKGDEa3ebjwan0uaJpqazgIe6iYch1VzUW4908/btrhoCETpCRfxfH1PfYllxhkmXblGfkkGvDdTV28M2fdSNK7/bX9hUJDun4q+hdnyn5AniyBS6X7C9btk2AQcbWJ3WlrfyzOJEyZV0B0nilMaQi7L49MhpXQ==;iFqwtXDxpGpreOEoqdfGrg=="
 ---
 

@@ -35,20 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "Like Texting and Driving: The Human Cost of AI"
-    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
-    publishedDateTime: 2022-10-10T15:08:00Z
-    webUrl: "https://www.medscape.com/viewarticle/982119"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "EMIRkUiG3ac4Y5SEv1uTR8ZW3BGjstD0shs0rH75+0sEhOarFcv+GSWk4UTNgk8JgJUKOz/IqHA5VdXjRn1xhwrScbWgLm1Hk8SG22xBg8PZnox7prNuAyOVvmjwhw1SS8qNQHm3IdFk1uIxpDYar8ee7q4JCvCsvpRz6Fj//UCBLVFCH3LauAizUYGbqUMS4gG4j0qZ0Dmez11ABtkSgbWXqbX0idy2ot/SzyDGz6Glqon1kJfLQePvlbM/i+nzZC/+0n4etFEpvMApQyM32aZ8OMOc+uDz0n7c0k8kEO3aOEOR+FAwy6Wy88sxIvmioSAaUhNN4PyHo+U8jrrEmE0EO5HQ6jv/Jy7A4Iu5vKs=;6yXkR0z0KjcY7P6YZVbSpg=="
 ---

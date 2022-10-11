@@ -26,6 +26,22 @@ images:
     height: 420
     isCached: true
 
+related:
+  - title: "FULL SPEECH: Buhari confers National Honours on 447 Nigerians, foreigners"
+    excerpt: "By Biodun Busari President Muhammdu Buhari conferred National Honours on 447 Nigerians and foreign nationals who have distinguished themselves in various fields contributing to the"
+    publishedDateTime: 2022-10-11T17:20:00Z
+    webUrl: "https://www.vanguardngr.com/2022/10/full-speech-buhari-confers-national-honours-on-447-nigerians-foreigners/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 23
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/bUHARI-e1658209279643.jpg"
+        width: 960
+        height: 475
+        isCached: true
+
 secured: "iPWH5fluev6NCy7dsYKdpPSIEZzol4bWzYBeYMjngbD+qe3HB2HQboRzZKAeCNeOj0xK/VXC1BkG4/WIQSgiZdvPWcENxBT7aF23y6j/M6Fze47P5N3bnUZzU0O2gKe2i6WLd2C43GEUVs0wso/OdB3YBy/rxdllTD3ocri9Cfi3JcxtS4SqYEX1NVpoOMEMfW1HGhx3p8DvcZqBdoyQ9h3Q2mkexQRABDNn4iy5l7qKC9bSsAPB4U/8032DF6UFvcBqf9CqVez3GYaDhUJVQd00tM6rOwmVjhiBz7+Kvf1b/5BaBNwmRuNRp5Q7/6rb/aT1RAKiOHLeQvQ6c9r7d3TNVcSu/ffXxCWfYMpPyac=;TX6dz2rZiVlkfFSnL2ijHA=="
 ---
 

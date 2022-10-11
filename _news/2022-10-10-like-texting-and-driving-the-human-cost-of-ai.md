@@ -24,31 +24,63 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning are changing the phishing game"
-    excerpt: "Bad actors are using AI and machine learning to up their phishing game, and we must address this now, or the game will exceed our reach."
-    publishedDateTime: 2022-10-07T03:25:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/"
+  - title: "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems"
+    excerpt: "Partial automation systems available in today’s market aren’t meant to replace the human driver, or to make it safe for drivers to perform other activities that take their focus away from the road."
+    publishedDateTime: 2022-10-11T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "Reading old handwriting with an AI platform"
-    excerpt: "Using artificial intelligence, computers can decipher handwritten texts and make them readable for everyone. The Transkribus platform, co-developed at the University of Innsbruck, Austria, makes this technology available to scholars and the general public."
-    publishedDateTime: 2022-10-11T13:54:00Z
-    webUrl: "https://techxplore.com/news/2022-10-ai-platform.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
-        width: 800
-        height: 450
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6345958eb856c002e26bc1fd/0x0.jpg?format=jpg&width=1200"
+        width: 1120
+        height: 630
         isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, study finds"
+    excerpt: "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”"
+    publishedDateTime: 2022-10-11T14:38:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 71
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, says study"
+    excerpt: "The IIHS study of 600 active users found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners \"said that they were comfortable treating their vehicles as fully self-driving.\""
+    publishedDateTime: 2022-10-11T06:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 41
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/7pvkuv/article65995619.ece/alternates/FREE_1200/2022-10-11T030659Z_2009033551_RC2Q3T90TFBN_RTRMADP_3_USA-DRIVING-AUTONOMOUS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Many drivers treat partially automated cars as fully self-driving"
+    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
+    publishedDateTime: 2022-10-11T12:32:00Z
+    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 4
 
 secured: "C6QdLBtUPoo7a4VE1z+y9fBuJbzKVKoinLsqztmhVeeBIe7TtFSZVFcUwkTYB5VYqrbVoMOBZNrjZg6r4Nr+1Pqr7seJgI9vEuxYLaR9D/zfP3gxOCqdgL2hGR3iULsvEtNzxlNP1Mi3HU0V6eToIMCjHj6VeqDAEYo0gk2JzaaAEZQiWlnvktYQ9GhDI7me/gx95TnJyPAQ7/GM/YJkGS/PnelGX6FI3pDOuuEnGLk8yQV7J7hJZR1kHArgaz/jZq45EaKNMZMIckXlkf6MaBPyZEFtwESgt9fKdiC3uzYu3XMR8vv1s73XX+YeAmNP2E+1zyGv4JpVo21w37Ag0gIB1OMgkaoQ8e/7AsJ9xucQGH/pOyWBHM4Q9X3p3lBNVRlYBwb2M0EyB6ChajRRZl2kxNTlxz+adDwM1FmzTVWKBCxmS0v/Z4qjBFgCt0fWau9bwitJi8+/PPmwPDhCxm1lIEEfvl2Tt6u2H3IVGcZyOFU9mK5qmT1l+EtJwAgqlz4C6oZ4eC8CRrPBliiTVw==;+CRGqBsZ35J91GvpvXuyUQ=="
 ---

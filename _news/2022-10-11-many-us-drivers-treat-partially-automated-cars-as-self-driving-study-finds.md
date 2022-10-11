@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
 type: article
 quality: 71
-heat: 131
-published: true
+heat: -1
+published: false
 
 provider:
   name: NBC News
@@ -27,53 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns"
-    excerpt: "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T04:01:00Z
-    webUrl: "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+  - title: "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems"
+    excerpt: "Partial automation systems available in today’s market aren’t meant to replace the human driver, or to make it safe for drivers to perform other activities that take their focus away from the road."
+    publishedDateTime: 2022-10-11T16:15:00Z
+    webUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/"
+    ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 61
+      name: Forbes
+      domain: forbes.com
+    quality: 74
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
-    excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
-    publishedDateTime: 2022-10-09T23:40:00Z
-    webUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/"
-    ampWebUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00.jpg"
-        width: 1920
-        height: 1040
-        isCached: true
-  - title: "Self-driving cars still far away"
-    excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
-    publishedDateTime: 2022-10-10T23:45:00Z
-    webUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
-        width: 1200
-        height: 675
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6345958eb856c002e26bc1fd/0x0.jpg?format=jpg&width=1200"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Many U.S. drivers treat partially automated cars as self-driving, says study"
     excerpt: "The IIHS study of 600 active users found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners \"said that they were comfortable treating their vehicles as fully self-driving.\""
@@ -91,15 +59,20 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
-    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T13:03:00Z
-    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+  - title: "Like Texting and Driving: The Human Cost of AI"
+    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
+    publishedDateTime: 2022-10-10T15:08:00Z
+    webUrl: "https://www.medscape.com/viewarticle/982119"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 34
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Many drivers treat partially automated cars as fully self-driving"
     excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
     publishedDateTime: 2022-10-11T12:32:00Z
@@ -110,6 +83,6 @@ related:
       domain: autoblog.com
     quality: 4
 
-secured: "SL8U79GIBAbMluUGbcuPg+P2xuG7SXrZ265djrlW3aMh8NUreLgd8gukBx9Cwu+/OcTx2ahsHFG4thAP+zjBWpP9WlHcconnpDF6omSNok/FNLF8T1y5rAluPQus5LhznltvjKXZnbC5oTluzXjWkROpNrmKKM8CW61eTeCNO0ZDbhYWiJGkvPZaOyNx2fLzGvO/7SP6jLLY6WnPefK9DP63Dj/hsDRgl8Bg+5mXZjLQNuJkdS7/z1WS5Xzjp9VJlmo8aZoyFk6rMTxrz71bmMJGuEdOw+ArYoS1laBWamvNqDQx7sDrZATl0ZnGrg5ncYYor9cpMFDI3e9bnnvul48EfeOjBov/2JNqd28ywTk=;UqWs3Xt7POLTRVzc4PP4lA=="
+secured: "r5cE/7c7FzVwE7kobAh9qAxKV0E/ZwtHe/zEb0TSGEpS4nHMo7xCMWnuQJ7PfI8WJz+SksjB2lHNfhuUuNVnYE+Bt6foPcpBTDyPV/tE8eNEVMwS6Lakv+AaLR4fdhBIFW/ZXjlj2gbin/TSv/DPJxf4kKynHzjAEfaFo1I9E2f71bGUUm4ktkuYjCIgtRRqWcYLY7c3Ip1lZZ1TC32AmpDSK6XydgeK6XevHIz4aIDYCmu1nn3SHzFbLh2LjoNScmUBZsrP4lJiGuSuE53/QQGgxqBRtOGnoJyc2mUmsQZxtvhMQR1m4gDgaFPMdfgC48R+OY2ypPBg+nBHyK8ecSHzBY9AVlqRi48kabgnQIRmLb0jrCU1+xxke08a8rWBpUnaUPTbFsEOwbmpW+/RisHqHpVtdDlUY6Hu55c31ICBCHHPsnvBTh2Pjd+LSEhtbkD1ivfOelOUq+fi/N3iP0UW6w3ufYI71rWqElasTndvJtEyeLDRgcv3sF85kI6vVR2/7o7VFYJMcSCQYlJ29A==;Px64LYDC2UIUaf97GnJRgw=="
 ---
 

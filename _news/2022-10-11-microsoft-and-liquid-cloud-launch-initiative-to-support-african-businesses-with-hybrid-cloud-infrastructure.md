@@ -71,7 +71,21 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Why Microsoft Voice Access is Windows 11’s best feature"
+    excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
+    publishedDateTime: 2022-10-10T16:57:00Z
+    webUrl: "https://knowtechie.com/why-microsoft-voice-access-is-windows-11s-best-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 41
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/10/CR-Falcon-Laser-Engraver-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
-secured: "QV/CEy6aOgpwhgTOXVnjoSUeGjAMD0DCggViQWiW7V0UHbgiDa/v6YkvuzXSrm8SZMKk8upryrTYOmsW8CMRbKigZFHT8cLma/XpzZhPpdiER6ZQQfOnH+m9s9CJ1yKwYoAYfI9dg+my8l5w/hpl0rzj3mF1dHGK4h72COIIUpz6Mhw9W/++QnmUpiUub6hMkCJVweJwAz/wNEpYPfW4CxMFiAzlHo75iKN9fsFE1ZaSGBEf+1Rr90U62frJ5ou6rfKCwQYG7abAJpKlWcCBIOouvuaalbrkDhq6qTHqcAhwzTZZpkwsQORlues+1ZeyMiMMR11MgdzrVo1XgM/8MyXtq5xaNNiydnLzjpVNe4c=;oby2ZhBTuXQDwO7qn3mebw=="
+secured: "OxECCHg3jB9DiRoiBn22uykSYDvn6B6pdgd3/W4/aDArfWhSg09+C4JM6ZgyhxKyM5b21uPzH/SxDARbqfRu3t2qOVnfDeFI1pEhthWxr9MzBfvjFlLAEVAcVa+RyKoz1mnCA5PaalYpRhGcp4qudLlnSlTABOWf4UWUAycZGE7Vch5iTI4cJIkdT4d0Vnzsfe8UHV/bJEFzfxNIv4I59oUnLICgcjBXgpurNJNOyjPO+184fYWtc+rdw87GDph4poz6C6dMu03Tl4K8k1xSkYX8836wmCXCDQvUNGwmqFWvgKAMmWMckQyz/IHrdBcZqv2u4W86cnmPYLB++8jAeH/w0nilbRNXusH9sO1G3Ebi3n1rJxnwC7yIO3SFjhzXKANW62SLuTgEkKvGacRxALNwmLF7RreVKCbT1Epns6R+ztO3ZN4sy8Di8hBrP46TUQiPjRp3zzO2c0UDrHvR1F7NZeWHgVdeTHwQ2FZrG6ELFJ8MFBRrsv4QAmV/UBAClkk6qfP9S7s6/SoIUldxcQ==;mjDgauz7rWusXW6iDqkNGA=="
 ---
 

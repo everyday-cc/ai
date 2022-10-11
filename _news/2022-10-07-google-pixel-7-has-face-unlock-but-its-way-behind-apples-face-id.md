@@ -51,20 +51,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
-    excerpt: "(Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the ..."
-    publishedDateTime: 2022-10-07T00:04:00Z
-    webUrl: "https://gazette.com/news/us-world/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/article_53640c96-2d56-5acf-bd9d-f28e98cb8d11.html"
-    type: article
-    provider:
-      name: The Gazette
-      domain: gazette.com
-    quality: 36
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/09/409dbc6a-bda6-5398-8cbe-7637629c379c/633f6a315409a.image.jpg?crop=800%2C420%2C0%2C71&resize=800%2C420&order=crop%2Cresize"
-        width: 800
-        height: 420
-        isCached: true
 
 secured: "c8UgpdtjUbPeQeZKUcRmvfUvVNLnKGoGJDfRkfFwJIZ4SlgfGlBQE36GgItCBL2GMS01z6x16fyf0IqJsAMz6/q3IwLiTTiYH8jfy59i5luft3AYR+18QYerA8xD2MzOpOvlajmWUUAS4PcWjCojK5YKe3zOqnjM9GnSpGEMoaxB36CIEJy924pt+xZZipIV7GwUW1WsfpyMPhYtOEUy7lGxkc0tKvp7h9moypgfCpTWkLSVPiX0jOjuDg0wZ+JTWOsWaimUGTiCrHTfVyH7NHl/vmfs04Y2DF8FeUo15N20xnBDYhr76vwaPobeTOMZoR++PHg3ipp7ZvLnJXmfmLiH2Owvn9FrFya46r4/5dZSLnIkekB82jQDwC1xAeNEOnlGt8nJ+mu6b2mWyvIswPoFnSNW1B1wxuBs4py7Vlr0/6Fp5932ytuWjRvbt0FNPdNTpdKLPtmqC3OZl2FZ+uHz9+Fp2Gr8C1nRsPPMllD88g5ENF0xA3sEjyL0ueqtp94oe4GQFhoswSxE/ouaYQ==;jmqajm5zJxHGCAphIJnLJg=="
 ---

@@ -1,28 +1,28 @@
 ---
 category: news
-title: "White House unveils artificial intelligence 'Bill of Rights'"
-excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe"
-publishedDateTime: 2022-10-04T15:49:00Z
-originalUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-webUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html"
-ampWebUrl: "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
-cdnAmpWebUrl: "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html"
+title: "White House unveils artificial intelligence ‘Bill of Rights’"
+excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+publishedDateTime: 2022-10-03T23:26:00Z
+originalUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
 type: article
 
 provider:
-  name: Post Register
-  domain: postregister.com
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
   - AI in Healthcare
   - AI
 
 images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682"
-    width: 1024
-    height: 682
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+    width: 1280
+    height: 853
     isCached: true
 
-secured: "T74eA4f1a6ahXERTFKnruEa0SIRxuGKZGY3fdDE8TUhsuMpCK9lcZaHL99rhElov/nTPhBWf69j/U/th4wBoJeYhhJt0wKSAkScNu+h2hPaHT0vtR4ZsDwuTtsPzACnVWxSU/bDrhVVTB298jvp0wlmoC7Mw5lhQOXBeQwgMWJswQHGL2pAN/Foj/abxcXpg/EUgpwB3bmUJHBgcdI/G4tHkD6HQrDvKOEJzTFEeyk14+jCDB9v8146QbGzPH9JsuD4XslJawfrXTSjkboOQfLyK27w+y4DMXkybvXEHJ4oC/d/Ve5wwoP/VvFPwVvLHTcxesNpG93U9xA4YcuIBqcyQ82yDm1gmN9M4+ybfRKM=;YAUIZtTt9l8Xk1TD7T6sPg=="
+secured: "8d9/jEhXm9tb4B50lpW3Ab/kO7SoqLTxXgICVo8RMXDj9nI2lrdZAo+4oOcWGN+270Mycsl8vBOjgd+U1CDt2JxDyfhvNdjrBDkEx55L2guOTQRQ1ViNHpkFsXnehy9wSoUxKfd1L8J5xhvZJKKtn68zXQPB74BjPeQnRpiQN9bJ+L6i5QkQXdDH2wQ1l2M7UXxUHmkui4XzCo1cRFWRsCzPgGBiwZDYItK3nuUCsZ5h6FTNzf9pRvYGnLB4IVUnqd/0UkMggCBCfr4yrT54XT/s8JGpvmKwVD3hMgaamApNzauRdwzmSNFwUpUsbWYTQDuFot5ursvlEgBN8KZnnMwNA25QsUifTg6i2FUvmLE=;1IxInWUVAK5rJxF1HCCCkw=="
 ---
 

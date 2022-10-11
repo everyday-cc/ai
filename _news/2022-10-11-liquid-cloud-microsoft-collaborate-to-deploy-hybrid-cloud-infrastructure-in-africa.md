@@ -57,6 +57,20 @@ related:
         width: 1118
         height: 629
         isCached: true
+  - title: "Why Microsoft Voice Access is Windows 11’s best feature"
+    excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
+    publishedDateTime: 2022-10-10T16:57:00Z
+    webUrl: "https://knowtechie.com/why-microsoft-voice-access-is-windows-11s-best-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 41
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/10/CR-Falcon-Laser-Engraver-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
     excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
     publishedDateTime: 2022-10-11T15:06:00Z

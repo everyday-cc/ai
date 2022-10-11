@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AlphaFold Developers Win $3-Million Breakthrough Prize in Life Sciences"
-excerpt: "Demis Hassabis and John Jumper, both at DeepMind in London, were recognized for creating the tool that has predicted the 3D structures of almost every known protein on the planet. “Few ..."
-publishedDateTime: 2022-09-22T19:32:00Z
-originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
-webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
+excerpt: "DeepMind’s system for predicting the 3D structure of proteins is among five recipients of science’s most lucrative awards"
+publishedDateTime: 2022-09-22T17:18:00Z
+originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
+webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/?amp;text=AlphaFold"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 496
     isCached: true
 
-secured: "m6OIfn8HpUNjJiGEER2esEo5veLxmft8A1sKq0JHA5n3PvOSAzLsQUdGtSSb5BfK3gv+G4OifYWQlcBui+sIgGyDyGyu709AWcxRuGj10VRiTPBEkq7AwK3cGIuir7LjvzS7ZFp/VLVrNW6njjDJXHjfgEk+EFwQoeWK2Z4FdGIgWgr5X1wiE2UDsWfYOqIkm8GNHbkAE80v9s5wK6cHBGf18ljSCU/1mVf48h6w1SXtWb36Hq1agBpzH2LH8lFpOdwm1zgvZbUMl9+mOEEtyU3xx8mE7i/hC9MMj2Ee9CTECWGv6pNgHFuisjIchF4AIadF3SyJ7Ge/KXBBI3B3K5fVVssNwL3AE/YqVi1G3wU=;fP3SZMQYNuoMd0c0p8VYdw=="
+secured: "5o6h0wN3JHnSDDgTfu38T/ye3mJ433zf3kYBPWxnw9X+j9FSk/54gPneVuiASVyiGRrHNutCqE6KLRnEfEgV5mN5N1BQ5f7sVCCuh6uEgzK3qyXGinoiknArmxgVjEJ8dJKbF4qXzb3f72ckBVV/A2JKn8BYTCzqfWD1XYBv+yuvRf04Bv4ARtBFxtklDKyGmurLk8YqKeyG3dy87HL9yLFtWp71+z5L9W0edMwMb3VrwBCY2joMwnLVgGNjLCTwfgnYkFox2MKBSP23epTjLpjqCj16H3wcSIMweaPfWDjdzkLXrSilS+sX2h+WHW7rv6x+pO45WDKtTdz5lgK7nAUr5Hoy4dBzW6ZSNedxF/Y=;TNy3vL7FACqRa+kr19zlQA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishi
 webUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
     quality: 57
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Like Texting and Driving: The Human Cost of AI"
-    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
-    publishedDateTime: 2022-10-10T15:08:00Z
-    webUrl: "https://www.medscape.com/viewarticle/982119"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
         width: 800
         height: 450
         isCached: true

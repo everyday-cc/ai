@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/express-mobility/automated-future-a
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/lite/"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is helping revolutionize the service industry"
+    excerpt: "The service industry is a multi-trillion dollar industry. It deals not only with professionals such as lawyers, doctors, and engineers, but also with different sectors such as sales, customer service,"
+    publishedDateTime: 2022-10-11T16:13:00Z
+    webUrl: "https://www.tmcnet.com/topics/articles/2022/10/11/453739-how-ai-helping-revolutionize-service-industry.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/1378388327-artificial-intelligence-2167835_960_720.jpg"
+        width: 960
+        height: 642
+        isCached: true
   - title: "Synthetic futures: my journey into the emotional, poetic world of AI art making"
     excerpt: "Generative art making is flourishing. Algorithms that turn text prompts into images, such as DALL-E and Stable Diffusion, are emerging as viable creative tools. And theyre fuelling much debate about their"
     publishedDateTime: 2022-10-11T04:31:00Z
