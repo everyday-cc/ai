@@ -49,6 +49,20 @@ related:
         width: 1008
         height: 617
         isCached: true
+  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
+    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
+    publishedDateTime: 2022-10-11T06:39:00Z
+    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "A robot painter will make the case for AI art before the House of Lords this week"
     excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
     publishedDateTime: 2022-10-10T15:51:00Z

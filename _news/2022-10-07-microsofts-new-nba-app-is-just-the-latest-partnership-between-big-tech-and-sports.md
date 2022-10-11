@@ -65,6 +65,15 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
 
 secured: "rgzB/0FtMZjdSg6docyxlMuQ6VDLbdso13lfKIx0uvwLP62k3pOGC4MJoulv3SbHrZoSnA3/W3dDDXsfyOEN0QxsBJMhaYERSmjW9N+V9dkWPQ/OhiFPsTi9NlL1LH8g0/TANNsg0oxf0g28Ud4kPmLsfPqMKqRdhi6X47eiLxIeTmciwLp1uZAVBfdO+AxxQ+gsjHNB9+WrLu0K3R7tPtkCNteWSblvLoEB6f477Ps0xP1ljhq1v6m7vv4OoVsRPyGN+q4COI+Et1JK3FRcf2wI04q5C46AXnDwndHKU3QxlwIfpHBPnhIIJNTlMfY4XLgouq66O69ViI9tQD3wOH5h76X3loeuUvKoHKePTZd3baIm4YRAQiMSKAUxiVMLoMoSwwEgoiPFjpBeF36XWey/xmlM7wFoGemKSaz4FKeQG83g1JYyS7gOP8Omsk5pq2GfydWSXoEL7+lT01eA7RonRxRG/9xIenPYpBo5TK80JmU4Wh+CM77Zspaa0DeLBPOlbgl8LL+9pDRUGI5/XQ==;bHeub0Po08gI8kL53Owyrw=="
 ---

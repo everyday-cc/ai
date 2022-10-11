@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-micr
 webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Kyndryl, Microsoft tie mainframe to Azure cloud resources"
+    excerpt: "Kyndryl and Microsoft have extended their existing partnership to include mainframe connectivity to cloud applications and workloads. The extension ties together Kyndryl’s zCloud mainframe service with Microsoft’s Power Platform,"
+    publishedDateTime: 2022-10-06T18:19:00Z
+    webUrl: "https://www.networkworld.com/article/3675958/kyndryl-microsoft-tie-mainframe-to-azure-cloud-resources.html"
+    type: article
+    provider:
+      name: Network World
+      domain: networkworld.com
+    quality: 49
   - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
     excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
     publishedDateTime: 2022-10-06T17:53:00Z

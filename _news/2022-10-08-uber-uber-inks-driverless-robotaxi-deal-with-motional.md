@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-d
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Nasdaq
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Uber Revives Self-Driving Taxi Dreams, Plans to Start This Year"
-    excerpt: "Uber Technologies Inc. inked a deal with Motional Inc. to offer driverless deliveries and rides, rekindling its vision of a self-driving taxi fleet nearly two years after it sold its autonomous vehicle division."
-    publishedDateTime: 2022-10-06T13:48:00Z
-    webUrl: "https://www.ttnews.com/articles/uber-revives-self-driving-taxi-dreams-plans-start-year"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/motional_ioniq5av_uber.jpg?itok=V6cO66fw"
-        width: 470
-        height: 246
-        isCached: true
 
 secured: "uXL4YyBvKlyNuVAT3HYern23S/nHIO7BsiPScajYtQSx1vmoWgY5zTKRhLmJWg/Ylub5zz3snE8Rm1+X7i6dZCul3PY6SBhRS1wNkK0A72VMN3xG9dAHyF0z5YysjYJOToGjSbjC5aZVncbXh+f13MnSK5cS84mxeUCMFjuC+lVa/4nBPLN5REMMhMbtpYjJtvv2lJQqtv4J3mbX57MUNzv7lLwTju55SyD6LRKRWVfyKJzE+KwF2aEbN15vMk8j8BoIJaBOiZsut+dpuQ/i0nzcnssQWSyDoZW0m4zldUIAL9RaeC11RNecwLr+UVwEKf8p6DrCL3J4ANIf7WZKRB9alrwmmzoFujjwx0VvGaU=;2piiVDZTMCw2TiOhHQJhRQ=="
 ---

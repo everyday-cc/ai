@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:7f9cc6a1e1de7cb8246b8a4bade7c8ba:arc614x376:w1200.jpg"
         width: 1008
         height: 617
+        isCached: true
+  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
+    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
+    publishedDateTime: 2022-10-11T06:39:00Z
+    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
+        width: 400
+        height: 400
         isCached: true
   - title: "A robot painter will make the case for AI art before the House of Lords this week"
     excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"

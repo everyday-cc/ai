@@ -87,15 +87,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
-    publishedDateTime: 2022-10-06T13:21:00Z
-    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "khdhhtq+5A6ASSSOTVzouXt/SBRN9fz0nT+d5jnwbbfidnotOq//anyoY73ipiFQkj91bTNg2RgzAATVKmiQ/wjrGdqbUxSBj+rAaCipfqqJHusyiOqBreCiw3Cq4AeNqu85tfZsWf68vx65U1E/nOy42CVR7iAWkmDVv5q9zc0DRbSS/JNLkdwJPzr+3PJ4sHkOZcb994Ntd7rz4Fl42vZnTJNhmhmHo7zkzAdNyLIlNtIJstSCPOjnn5ZBwIfBzbx2hyf9+u2DagdNoN4fPxLka4lX0eQpH5FUrYILKHdTHCBsGMKEqgdU/CXdmXdhDX8+S1sr13vDVxXWhLlNMEHmP5VqQzk6zKBz3k02mhnmjYju58C56MAVfmfbHern10oWow575ICKdSPACcMUyvfQDLNKf1iLctyx5ILkZbudInfFL5KwKs8kW1CcSJ0uRXOjdV37gffufhU7mAdsE+XPPeSet0xRET5OBy2+Ps/ZhlK+xHMNljY4Y6cZF0sNyTkkMLvYUi8mXcbH1D3pGQ==;Wuv3tm93qvXo/EfYOd8Ecg=="
 ---

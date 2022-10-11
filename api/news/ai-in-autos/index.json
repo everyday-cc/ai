@@ -10,7 +10,7 @@
       "originalUrl": "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -211,7 +211,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -244,40 +244,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-uber-uber-inks-driverless-robotaxi-deal-with-motional.md",
-      "title": "Uber (UBER) Inks Driverless Robotaxi Deal with Motional",
-      "excerpt": "Uber’s current deal with Motional makes the latter the first autonomous vehicle company to conduct deliveries as well as rides for Uber. This is because in May this year, Uber Eats and Motional launched autonomous deliveries in Santa Monica,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional",
-      "originalUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/uber-uber-inks-driverless-robotaxi-deal-with-motional?amp",
-      "publishedDateTime": "2022-10-07T14:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -544,6 +510,49 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
+      "title": "Artificial intelligence may improve suicide prevention in the future",
+      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg",
+          "width": 2880,
+          "height": 1866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
+      "publishedDateTime": "2022-10-05T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {

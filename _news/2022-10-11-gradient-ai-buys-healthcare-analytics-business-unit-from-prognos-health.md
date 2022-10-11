@@ -1,27 +1,27 @@
 ---
 category: news
-title: "A robot painter will make the case for AI art before the House of Lords this week"
-excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
-publishedDateTime: 2022-10-10T15:51:00Z
-originalUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
-webUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
+title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
+excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
+publishedDateTime: 2022-10-11T06:39:00Z
+originalUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
 type: article
-quality: 49
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: London Evening Standard
-  domain: standard.co.uk
+  name: finsmes
+  domain: finsmes.com
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://static.standard.co.uk/2021/10/21/12/ARTS%20Robot%20%2010442308.jpg?width=1200&width=1200&auto=webp&quality=75"
-    width: 1200
-    height: 800
+  - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -55,19 +55,19 @@ related:
         width: 1008
         height: 617
         isCached: true
-  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
-    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
-    publishedDateTime: 2022-10-11T06:39:00Z
-    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+  - title: "A robot painter will make the case for AI art before the House of Lords this week"
+    excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
+    publishedDateTime: 2022-10-10T15:51:00Z
+    webUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
     type: article
     provider:
-      name: finsmes
-      domain: finsmes.com
-    quality: 54
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 49
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
-        width: 400
-        height: 400
+      - url: "https://static.standard.co.uk/2021/10/21/12/ARTS%20Robot%20%2010442308.jpg?width=1200&width=1200&auto=webp&quality=75"
+        width: 1200
+        height: 800
         isCached: true
   - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
     excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
@@ -88,6 +88,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "hZVVSL9R7mPJl8GV783asgiXVazn+j50G/Qi3DoauEtfbnSlJVxCqTV3YZK5ZqPcH5NFnFRGyMINPgueafBqjPG3LbomIaKSO7pFMgr1aycj1i6achCLMzCAR1jN01Gf++55rfniipjNmauBLKJIm1Lhrc//J2ppy+LSSf43sShMmkxXPrhG8nlw7xaGFjE2f1kspSoEDcx4BnKT5uhu/5dDKnkuAsaDdNXabD76PBSys7f2+/cLZVkTPw2acUGSgC92Q0im0VljD7FS/rJjGFCJpix6JQdp4yMRjfcV/cjtL9lvwux8GFhWcD6zJqqploMUDIM99ssMjrY1ODr3aiKJxgtDLOyCSxWI+DWr91c=;wGFu0/eBystinpAanbiVlw=="
+secured: "sh9wPrEB0swCo0vispIr3OfliAg23kq9F1v6/OakyhARL5GU0yBXQNiTajRfjnx6jMwdBxVftOAMQhHJgxV9w0dWRiLoPa6sLfAikka1lGYPvZLzugjmEIHtDzpRxSTZNJtwrE5Je0Rc1BDsFZtUvUgCudxXuEi8cx+NGVbrcgvnuUW0wBbMgij0l+T1y6fA2P9qCJZNTGMqy6McPE46aKtgbZAvggAFoDQJ3jK74/pVXQ2u4NjBGV2UMNRPG1IdaPmboEUhUevEuuDarhaEwjbVSETBYaQf8TKNbR6NjstKos8xWhB3Cw2z4eL7tx4BaZBN0ZZmpd7XOI90WqknW5XjwZBYvZOz33obNBFGNKo=;ZuCPStdcVwPgEMQyvs9qtA=="
 ---
 

@@ -1,19 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence may improve suicide prevention in the future"
-excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. “Having AI that could take in a lot more data than a clinician ..."
-publishedDateTime: 2022-10-05T20:57:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/967008"
-webUrl: "https://www.eurekalert.org/news-releases/967008"
+excerpt: "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ..."
+publishedDateTime: 2022-10-05T20:14:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp"
 type: article
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
+  - AI in Autos
   - AI
 
-secured: "0Qr0i6iuvvqHgirwgh7JKmGAe34M6+KnYa0U99bv6Os5KZFQalM1fewEhTgEExldMAEWWYm2WOnlLNBSeWNz0G1t3pSv3ToLEjE7RDsuQiftKsIy2dAbGiv6KSIL6oy3Kn80XtulQK0l0unaTEIwMOpvUqPUc1dvRh3jWqX/QvQ5Z6mKZAAtNMBVd17QouQB1btmpZAtiviWz7MIj1pVBMR4M+oZ7AHQsuVNL4QzNTR2TjdNmW1hnhAAEhHvbuFAC/ffp5P98EKScfpHjc+0SmVxOgP8F4T0Vibb6NanANPUGuv52m8T27dfhHtGFIrZ0sNY94dJd4N8vk53K7vpBP1XXbYX8do14/yCAD+vEAc=;BnKqpeLSsGVApVj2gFlX+Q=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg"
+    width: 2880
+    height: 1866
+    isCached: true
+
+secured: "dBC2gC91h/QcD+YaGb+h2tYq3dMOWTKTQLnP/2ZT4rcGFrDKbft1BeunR62EzpSrf2s6MN23gjuvZdJYokQI35QledVvZrwZVUIle9ir7yVnV0Fcs6c+LjvLb8h0tdjV3zkVK4d87k9PmDNS5dAJRha5RW0xed08cWiXz6LYNrKBa7LXFRSxX10ynVK/LIWyzu9VS92WVi/EfozyUpzRGC0AYqmwWL6vZWd2/s0ldB+BrVuoe5iuHeBEYxQkdbHASNQQkuFlatXck/4dnSRSbVkizH58Hoc2WFxEjwi3koKu3OloaiEmHXC4Ywgor/JFsLKdk6WJidETcz7xvzuRDoBXYHVn7rYvNqq6sbeWvOU=;QiTN6lt63zhThxL2s2XsZA=="
 ---
 

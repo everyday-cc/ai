@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered supply chain visibility platform Altana bags $100M"
-    excerpt: "Altana, a supply chain visibility startup, has raised $100 million in a venture funding round, bringing its total raised to $123 million."
-    publishedDateTime: 2022-10-06T13:56:00Z
-    webUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/"
-    ampWebUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1281413327-e1657293225925.jpg?resize=1200,674"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "AI-powered supply chain visibility boosted as Altana raises $100M"
     excerpt: "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding."
     publishedDateTime: 2022-10-06T23:48:00Z

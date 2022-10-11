@@ -7,7 +7,7 @@ originalUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ais-treat
 webUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ais-treaty-delays-facial-recognition-and-scope-discussions/"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 800
     height: 450
     isCached: true
-
-related:
-  - title: "AI Act: EU Parliament’s discussions heat up over facial recognition, scope"
-    excerpt: "EU lawmakers held their first political debate on the AI Act on Wednesday (6 October) as the discussion moved to more sensitive topics like the highly debated issue of biometric recognition."
-    publishedDateTime: 2022-10-06T14:22:00Z
-    webUrl: "https://www.euractiv.com/section/digital/news/ai-act-eu-parliaments-discussions-heat-up-over-facial-recognition-scope/"
-    type: article
-    provider:
-      name: EURACTIV
-      domain: euractiv.com
-    quality: 52
-    images:
-      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/10/shutterstock_1927891232-800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "o+o2esOi+oJzc/vCcJPJzHmBAWjgD/YFm1H+ADik96/qI67J8OzzCdDjQJFnMqwNT1/sJRrd7gDxv3CPBvOp8Hi3+5FzylNTmHJTBUavWYMdomqd5BuRCIKDW/r92S+LB9Mhlg2qWUeIbEbyZGmu/uGYCkA5Iltr9xZJxCRoWjbLQQinHzbQnwdWHERGgeZ1edCa7xug2iKShpf3fc/B5N0Iad+f+X9Tb8XnkGrrJvFD4XVI+/Q+gRfBAyvwwNwTlwl84ZjHyufIr1Wb5KOooAKxuiZ39BTgxE8835l7TNT5cdw90GWWmAkOIuSJ6TXknvAm/yhS7OqBMp9NJOUiejTtBelWNPV7sXeSHl9BIOnf7Xsj8sg0UmeQJQ9u5dHKlje9lBo0PCmlDxeoYQhUy49xQ0X3lA2wS39Z7h6RpG35hyFsMmitnjNEcSlz3dzg/ZrwClyYN6pOJlqKtV2An4j0d3/tD7vsWv4cypta35jcvoV9JjM2M09mKnGofqW3VzcHCQhWF6Xv5MF+Ee1zjg==;lgm2T1+xWIfJ5dIo+xfvOQ=="
 ---

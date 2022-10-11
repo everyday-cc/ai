@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, says study"
+    excerpt: "The IIHS study of 600 active users found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners \"said that they were comfortable treating their vehicles as fully self-driving.\""
+    publishedDateTime: 2022-10-11T06:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 41
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/7pvkuv/article65995619.ece/alternates/FREE_1200/2022-10-11T030659Z_2009033551_RC2Q3T90TFBN_RTRMADP_3_USA-DRIVING-AUTONOMOUS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "rIahoYoRxstnepLpZXwi45PdtnvEAcfdg5gkhJ3T7PWEzc1266CebQ2AhXPSzMgW2fwzYVZAoP7C7kyf8CNAQAhUbtvavthoIWUuytVz00LZeOk7eb+9k7LkLU/176up5wU1/bL7yrZ/GiEO+KXI0wXPA8NzwrokllAl1rg4BEZiE5Fc8Xc4GnGPvC1/l3cfwYePOsi5QAlxJijp6jwG6lOZ1P5qPDmz/hTpIY7h3kdNw2fj42KojXCJrMx/P5k/eoY8O28XiPS3M6jFVs9sp4Ogy+41gd4oVr28R4BW48Z904AGq22LI892JWUUz+6KWiUfHFm+m0O11xDVI7QFzCh4DN7n18DNVQIQzFDpUH7gMAu52Pcej7XhlNwDj40RhT8YumUangeN8pTRzPOMOIER4T4ORBfBKiwD4t482fA9UN/TwiuNH7z5WhdjVwPvhUfij8HJcE51AU/AsPRg/kqG2EBq8DGE45mO5sKEt+FRxSeu/28KZmzfe5Q+9W8ZLBuIVOX5G6pivpT75bZmvQ==;HXpL0HCyw+ys7WZazHkuqg=="
 ---

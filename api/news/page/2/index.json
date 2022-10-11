@@ -2,58 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-10-07-boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers.md",
-      "title": "Boston Dynamics: We won't weaponize our robots and neither should our customers",
-      "excerpt": "The company's open letter highlights that consumers' trust in robots has waned after seeing weapons combined with autonomous and remotely controlled robots. Also: The White House passes an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/718372034ce92ee7772a751ee6c975e2498c3e13/2020/06/16/a4a4823e-ca8b-440e-a820-258bff48d5f8/spot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 961,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
-      "publishedDateTime": "2022-10-07T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
       "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
       "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
@@ -150,6 +98,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-07-ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029.md",
+      "title": "AI-based Surgical Robots Market Size, Share, Movements by Growth Status, Trend Analysis, Revenue Expectation to 2022-2029",
+      "excerpt": "Oct 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI-based",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-kyndryl-and-microsoft-expand-partnership-to-drive-mainframe-connectivity.md",
       "title": "Kyndryl and Microsoft expand partnership to drive mainframe connectivity",
       "excerpt": "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud.",
@@ -158,7 +158,7 @@
       "originalUrl": "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity",
       "featuredContent": null,
       "highlight": null,
-      "heat": 113,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -341,6 +341,57 @@
       ]
     },
     {
+      "path": "_news/2022-10-07-ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m.md",
+      "title": "AI-powered supply chain visibility boosted as Altana raises $100M",
+      "excerpt": "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/",
+      "originalUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-supply-chain_logistics_infographic_638521560-e1665099850646.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/",
+      "publishedDateTime": "2022-10-06T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
       "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
       "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
@@ -498,7 +549,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 131,
       "tags": null,
       "images": [
         {
@@ -711,7 +762,7 @@
       "originalUrl": "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -1206,58 +1257,6 @@
         "AI in Autos",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence.md",
-      "title": "Can We Reverse Our Psychological Age And Get Happier At The Same Time Using Artificial Intelligence?",
-      "excerpt": "As the body grows old, our minds are often instigated by mental decline and progressive, natural psychological aging. However, while there are very little we can do about biological aging, there are many ways to reverse psychological aging and get happier at the same time.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633e91a7876cdce21e209bb4/0x0.jpg?format=jpg&width=1200",
-          "width": 773,
-          "height": 431,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/10/06/can-we-reverse-our-psychological-age-and-get-happier-at-the-same-time-using-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-10-06T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

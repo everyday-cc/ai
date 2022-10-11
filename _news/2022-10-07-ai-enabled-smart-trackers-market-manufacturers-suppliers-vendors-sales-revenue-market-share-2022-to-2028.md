@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Radiology AI Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+    excerpt: "This “ Radiology AI market ” report offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Radiology AI group. Some of the companies that are profiled in this Radiology AI report are: Arterys,"
+    publishedDateTime: 2022-10-11T02:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in the Telecommunication Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
     excerpt: "The \" Artificial Intelligence in the Telecommunication Market \" is one of the sectors with the fastest rate of growth, it is crucial for market participants to thoroughly research the sector beforehand."
     publishedDateTime: 2022-10-06T17:00:00Z

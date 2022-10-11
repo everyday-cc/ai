@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercrui
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -63,7 +63,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, says study"
+    excerpt: "The IIHS study of 600 active users found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners \"said that they were comfortable treating their vehicles as fully self-driving.\""
+    publishedDateTime: 2022-10-11T06:32:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/us-drivers-partially-automated-cars-self-driving-tesla-propilot-autopilot-super-cruise-says-study/article65995617.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 41
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/7pvkuv/article65995619.ece/alternates/FREE_1200/2022-10-11T030659Z_2009033551_RC2Q3T90TFBN_RTRMADP_3_USA-DRIVING-AUTONOMOUS.JPG"
+        width: 1200
+        height: 800
+        isCached: true
 
-secured: "VlNElByrJJKEvn6x3PVLTBUnMH0G1ohgpxdPNW7stH9M6TtrWWtcOosheYPlncQGBow2dsNaHz0w8ZveWUF7bMlzbTmIWh5XOW/SAN8yk8UrSkBYmGuqOJRLmChiBZ0bL0oLldrJaIKdsCI5SSuPKtviVzkmfmmhKai8d7mLKfnKWamX8o3Mu9yHrFawu+lBtezAxzMrdPT4udJAPLo/d2x+IUmRhb00HAI/4eSYaiiWGmNnzwtkb7Pl5mUD/a1zXDvOPOHmta+eLfdwACyJIISF8lrdLQRTlPHzp8KYKO2NaqBbeCL0YeFf5IrWybyyRHfhuYPU2WEBv0XXahpWLVJWj7nKnEswPz8ANFFvW7Q=;ai10YJf8860jQ6ZyaGsfbg=="
+secured: "0yyUe4pWxJbdbIiufzGilYGc0Kx3K6A8Rnie9EpulbB0hYbXl16UZTmiCHtClx2b5bKs21tOY4zrnTFzXBbIYqc60fERY9kPxte9M78YSa0lOkQ4TTxadPu0g83OwT2SOV5Ff3ByhViYo8Ji5UIf/6JgdEoxlnmXpJLrnyjhKim/NK9KccCSYo3CgcIXdw4hwTX/Xj6VJHZOEBrOWNKqdhRJG1BeeZQWlvAtfCKcmjGHUTeFNO/qEJ+hNr4M392wRKI1f62BVurktLZsb7ksR7QtozDelF4+WiTAw1iS9OIVZG023uZs9peJM3huroq8Tv96PI6Suru4RgtqzK8jHLtCCfyMbRPzDMF5Z2xxE3dDTNyBg8U9ZLi4cePI1xWEYrRtc1XAHHEABVLkstH352AbV3wwo6xcr/KNHGyQRPYzXHT2xKvVs6EVqjsL37kf2u21g+jtWdsSa/imbkk7xXWTwYTuKm83aVQjTJcAJZUv2jgkuLYZ9sJGfY3Ev9JaQJbQtpfTat1dnnn36gtcvQ==;8EaWsprGQUNLuIA3lX0B5w=="
 ---
 

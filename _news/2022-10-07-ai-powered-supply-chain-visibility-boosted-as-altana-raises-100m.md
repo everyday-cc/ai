@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/ai-powered-supply-chain-visibility-booste
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 107
+published: true
 
 provider:
   name: VentureBeat
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered supply chain visibility platform Altana bags $100M"
-    excerpt: "Altana, a supply chain visibility startup, has raised $100 million in a venture funding round, bringing its total raised to $123 million."
-    publishedDateTime: 2022-10-06T13:56:00Z
-    webUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/"
-    ampWebUrl: "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1281413327-e1657293225925.jpg?resize=1200,674"
-        width: 1200
-        height: 674
-        isCached: true
   - title: "Supply chain tech startup Altana Technologies has $100M Series B raise"
     excerpt: "New York-based Altana Technologies said it has landed a $100 million Series B investment, led by Activate Capital. The supply chain management software startup said the raise will"
     publishedDateTime: 2022-10-07T19:57:00Z

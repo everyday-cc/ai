@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-10-06"
 type: article
 quality: 71
-heat: 141
+heat: 131
 published: true
 
 provider:
@@ -107,17 +107,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
-    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
-    publishedDateTime: 2022-10-06T13:44:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 10
 
 secured: "G4RpRccQSp7KJUHdmDT7nEXOT/A9XJQa/5aTJ7htaWjA4E3Xyie7Js9u1bOZpptig8lt4JQdTyqABbPdylGds+Dv5A13wC6wOVVGgmvRkSL88KfmxyIbkhPIV0KtmhSJCqICeHzoc0vdOz8oQnOBh2WEDsig6vToMARaxCQ92p+2Afku++vbF8jlbyrGWhIkY2xNCj7XSI1ujbFx7w7bddLDjFzA65yc0JeeCfk17J1xWDMpqu1wvL5TVAohgUxxruT435qQLkgZgerLbTG9ycoYMyU0NxkxivKJhKE29Xvqfa7mvLY3e7mEDk9xtuSvLoTmRz4SWTI+x0fSOc/oaiVoPLRJ4+ztYKlqth/0QEwGAlLOYWkKaLForxxSNSe/P7EIcu4H4WhtFOdYg/OJaw+6SxOqgHpwMKHxB8DqhltK0qjPkaW20yLNR1enRmNTXbgQ2yaRc2/h3WmZvV/rJLZGXClR6bA0lBPVi9OBNTKcaWmCukIcWooAefxXkJWPiv7eol7icmnagq3uNenwpw==;chJm2lMbVnU9BdUAzcJlAQ=="
 ---

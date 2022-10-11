@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
-    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
-    publishedDateTime: 2022-10-06T13:21:00Z
-    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 17
 
 secured: "9NOn0BUVmAR6nHTPJrdTqZlXlYJrGCxA6VTjpPAk0jljvGii0WN2iSi7Y8xcQubhp9jOUpAmCD/RRViJolVjKEDMCsJ+D2JK8i59vvA3LsUkoKK3smePEsUY04FkJ50BvgThrI4aIr1iJPw5VmERoloJ3iz0thZ85z4FRD3w0y82bNmISHmUJc9FtG71KJZtXExbAYOBxmKc5aTMHEvvNFOBkPKKQcMAXOzB4gfF3RalgZVjYkrAVqdnbu97U6k4i2VGIl+jhLfqkNnVZCyWVbK7w4yuO6BqOxcUaMQTHlX9fHuC6FYPFnQoYGovYfebZtJh2tUQXIc1lRfSc76bHAh9fmAyau2DcKczQPS2k0mM7c6UXFD/RvPmS4ZzixTV/9GHCK0yalYawWV66JHu8Yt1w3cUyU7EkccgTEPEi9WlRnav8UjzlJAR3hUBzxyTGNPNAx1J7mqzvtpl5AUPM2giX8w6w9GjJob+lxkNESnb19yOlaVczE9emMPFQBViiEvakRTVvfI+uwwk793kpg==;me29U+OKmH/TBPMPRirP2g=="
 ---
