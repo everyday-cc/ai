@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - Machine Learning
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/05/google-io-tpuv4-hub-logo.jpg"
@@ -27,6 +28,6 @@ images:
     height: 639
     isCached: true
 
-secured: "KZMatYfATE40z8nzvEn/k8FFyhz+dAnO3M8ABQX92syujnH3lcuWEioeByp4IVN+EINK+qEPBy3mLxb81eYWGoLltGl6ljP7qAF11dheaTVcjG8FcN/j00kK57gprug2R1mXQxwWc2Bb4yuMgLOQhwSgkHUkPydG8vCMAkT0TOJCFNLK7Ye4v20gx4CQKLW6iJbnl1kpJebWLZTRTqffov54qpeuCkivxPdxcBOw58mNKNqKxHo9gibJnjX87rDo8gxXrsdCbuWcGKIQ+8QGJ9IbGFeguzY68ifCMkUbZvmx4JYfRSX1cYIRcXCghILuyu1KX/FVOzBly7UzL07ayTlxUBnMbwqS7EcUX5hyYlk=;AU++z6yddQIV20EvX+B3Gg=="
+secured: "vxP7fc8qgVZb6in4QOVfYfzNeu968OKmuCGB7bOA7/pk3+q6cc9WWEesu4Jm+NtQgOEIJz51RtL4U88ZUwynBewcfkids76xAb4dcJ0xXPm383iRXkO/rK9TIhjEFZjFzLptZjKIViMAp8lK+UJeEc9msOD+JxsBh4tbW0mjYQSop9U6cdkVlQ3egO/XinQIHvBZMD/7mDndh0cQFEolHOR5EVPYsaVSOu+cbgFRYzZuYEpoigqcqwXynm2DRY4pBI/gH6oas5ai7lLdckbODo5occFVPZkLtlXh905fw3nKR7tFK/zrNzqNTzMUOi0iBabhUtkr3OVVaAfKmjmDK85u8zvxDDbcPVe5kNsr9WFGB57HtcI9nAJbgPz3t7LnJ0gBf0AF8zqU/gpTWhlIvqoH46rlCUHQvKazCbGhHdrAh5DF7ur8k5JbMtszdwCAVUqVAaaMyW17Pv/sRF1Pw5TKzOPzVQ94Go2e5WzaAQkSvhIFJ/gd+UB1ZknBX6fVG8MSiEz7erXqEt0mlAl2JA==;+J8epDNlwhqjJ2kqXM8fOg=="
 ---
 

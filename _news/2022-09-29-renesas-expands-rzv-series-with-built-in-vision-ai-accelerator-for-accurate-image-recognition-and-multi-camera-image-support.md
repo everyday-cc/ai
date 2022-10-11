@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support"
-excerpt: "Renesas has developed the \" Vision AI Gateway Solution,\" which is an AI-based object detection and recognition platform that uses multiple cameras to collect and efficiently transmit data wirelessly."
-publishedDateTime: 2022-09-29T12:11:00Z
-originalUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
-webUrl: "https://www.eagletribune.com/region/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_2d84ad82-f621-5631-9280-e3a8b5eeb6d0.html"
+excerpt: "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,"
+publishedDateTime: 2022-09-29T12:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html"
 type: article
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/5d/65dd4c6f-976e-58ce-8abd-138e93c4dcfe/633589f4c4dee.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "Hbed3M8aI/G2o9LsilTSBfg4oGLKKJ4P3ud1HkT0OZ1l3+BPSSy/FZ4PFVUKkdDaB5E4u2Zk4GQNfrtLlc+tMsaMCPmqwA1VMIN9cAkvimq2uTXos8vtIJmSOe4g0ev45ucKnJLndeI9e/1d+L56syAsCPJW3VFxY1EZES8QD/IqaTi2u3KeyNR9/Rq/TEDfkJAS2rDDzG/ueUDQ56GbRG6GZgkg7yalOm55/T3Fxg6TpmMWQHAfLIxxDMAe6W5LmZdFEzywcVnR1znvw/diuf6sM3shsW/CF+iURF5rRgfBRknhC5JPkBdiEbrp89q9Z8Ga9sTY0mDLTRuOLZ8pVprbYSIoxEx+Yd99u3TqpZw=;3Udqh0gT5RRcewzjTFQiKg=="
+secured: "uDmrJkUqpwkS930u2DUW+EyNUnswF/Ib/eE/royu5mPUwrPoOQhvC6AW49x52HSsJFLtXfQrGZWLZXRmxfkgDczePKrItE5Ckwq5Fggm/VRjZ3/w915rlkzndXrA6H9pM232w6tKiHPE9rwih69JPFocdbuWCKwhG4Dfjas5WfMc4Iga5lo5oJz8nyyNGC1PdaS+2FJti/DxyDD5MZgqVGweVQzH8IZNgUbgVnV73QPgGjcc/aoIYCEv6rhAQNn4gLfbVqYlF5d9CxRPtjWwfIUxdOSIzrAqpzliXg5upeBIiwKG3TdOoxT+6RMELlJk+tVKIaRNJzRsyhhYuM+TNWNQzlpFMQ4CBvB566v8bBqt+rUlrrZEpjNrpajE1CtYipYv3NdwIMPt+9K943W4KjAWxWz2zawpBMVsCIg6ny1o9YVLo+q0xiVNfej9mcAosb/jUg0/tdC+BkvTdIMws/8P4UI9XHxrHZLdiARLZoD5SGVlMVtWJCe1M7K8Q5DGPV+NGgFV/VAXgnIip0M5Dw==;zRrfKU9g9DBiBFGSsGgPYg=="
 ---
 

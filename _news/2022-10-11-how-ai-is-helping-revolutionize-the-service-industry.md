@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/1378388327-artificial-intelligence-2167835_960_720.jpg"
@@ -65,6 +66,6 @@ related:
       domain: theconversation.com
     quality: 15
 
-secured: "LHQgMmowlS/pGfd2SDIiaTOr/jUmdpzMhdLl9Z2nxbOR68y/rZht3KZZjbxpDKcGyC/zDxjUGZv5vJV9fh+IhTv2n/5jZWNfJeN/HJX0KRD8IcyshSfpfzah5gnBTp6GFfOf4jQnTtBz+Ht/btGpkfbH5mEfKqlNFHrmWont+uQ6ZZr16eyLfIy1DMMJb94I9gy6tep9zWhxTWOmUHYpoO69nG4Ele71E4WkKEiB8zVrlPSWWIvr4233Egx81h01nb4clyNLa7S6TQdp7pXAMklYdV6Q7cXu/jHGtpSssA29L+VHxyYketWA0meHdTsnxrDLWpX5oljnEE3f/SaXul34VTWAME2wiznM5+bXfqU=;zkN00RCxEQ4dBlaEe1Yrmg=="
+secured: "F5jpkIu0O0FkOXJXaM0cvGBY00F533c7K18LUnX+CShZN/00xKYS8iTCbjIpGaKy8gsuDlH/EM6exTHgTDrIUGuwVdR6mdOOC31jDJM0J6QWBh3TengGe+ELor6o2zwY3UVpmZU3TTVBcTveWHrt7ELqu00p8M3oU6F+a4bfrcew2IUx7IH89HkuhBbmaoZL3cs3XLinAa8rOvOzeancA/4/if1MDfxg/DCiUrsLLr2R5KtR2mv578pgYzWlU+YhIpZyeEijGexuzJG7xSSd8UOdvkFvlL5gzSAKLWV/OU2QyQYkstsqX2qXsAJNcXYQTuRhQQ41h1pBMxN7xrZXFw7mMC/HiP9XKv+N6f7lSxp+s3GtoKV6Nq+bliJFGjHYtjBqYvvixcEMFbN42e7ADiE5vpS4ZrSQ7WNpRy8wD6faka2QB1zscSaV5AFtbe7IqIUNnJ3GoAGj2Z7tdE8I4rc+mAn8UYVY5FxnVrcnB5oZPn/CdxWWm8uzstJsjB0x/uVnQ3KIc3Bx1IJmT5cE3Q==;886LLAcqkNTaVJlJ2EGxbQ=="
 ---
 
