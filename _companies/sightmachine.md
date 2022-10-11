@@ -2,7 +2,7 @@
 name: "Sight Machine"
 overview: "Sight Machine is the category leader for manufacturing analytics and used by Global 500 companies to make better, faster decisions about their operations. Sight Machine's analytics platform, purpose-built for discrete and process manufacturing, uses artificial intelligence, machine learning, and advanced analytics to help address critical challenges in quality and productivity throughout the enterprise."
 type: "profile"
-heat: 50
+heat: 41
 
 website: https://sightmachine.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sightmachine"
   url: "https://twitter.com/sightmachine"
-  followers: 1181
+  followers: 1180
 
 size: 51-200 employees
 yearFounded: 2011
@@ -37,6 +37,6 @@ images:
     isCached: true
     title: "Sight Machine"
 
-secured: "O9aLNnid6cn6//w3j1rZR4BCmpdQwiM63m5hVRb5zY9L6W/mOp83IL4X1FoN4mlVcQIrTKx9qOcn+qdxpJh84rBwe0ZYXncgwasbbNZuH5Y8GWbsneHnr6Auw+0acucQ2QPU5AhJE+KyrifHtKyDYC+AeK7U+6mca9T+Wtj13wVc0POBMMfOvsU2wiiKjRXgQHhu8Mz3sN7r0ey2H0tMGDMH9C3oGwtKjkn30MbwGXVXi8qH5sPY6+sC4G+3nMt9nHVy548sWW5KYkgkCT56jkI8e4nZSoFImBeIDToCwRERfgiWx0JV/FCyKrO6bc43cZc7yWIe/S+TgmbJusVO91NC16kuhV9zF8jNYGI4qZeprz+BQvdgWZ/O5L8S9GLi9uxssCdYOG6uwk5MOfxmzsdha8DfvDTTqF71uLPxdr4=;b9S+nVh/0L0T3RlAWc9RGw=="
+secured: "I8crgOqFYzo0rbCTn+tZWGFdGCCBtsgyaWUBJmyGSRhXlKpunoiL9gf4YEF6HAEFRVyR3dWr+K8H6VoURJlYQdPbDPXED1T2vVUZ9vOPWMudeEW6sqhx5G5CgXfqSNFJGAsJxyCvtl0eJxuBESugJY6/gvUd5t9ez1x33whnFsyaPZKjjt3wwn/XEQjupbnAog5ws0ssxBbYrJqneP4OiGSH8jmt3grq4UeZgHESKajfzdNL5VDiYxRi6nmtJUhrKXPNTwH4kAcJGN/TOBZfBnTdwkurEmQDiBeKc+Q6Abxy9z2biJH/t2nubeW5k2vONEtRFrshYGvEom8WmUJ3jxz9k0Z9wmoWzyDXchUtHtaU52hnPIxpejG2vlnj++m6v9ewYpB4mXK91RTWVwwB4m15lOp9X+7xaCUF97M2oFo=;QOBt/RXsyr+OAmazBiHbqg=="
 ---
 
