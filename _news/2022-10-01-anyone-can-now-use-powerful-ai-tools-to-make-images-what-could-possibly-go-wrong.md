@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wgal.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wgal.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wgal.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wgal-com.cdn.ampproject.org/c/s/www.wgal.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.wdsu.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-wdsu-com.cdn.ampproject.org/c/s/www.wdsu.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WGAL
-  domain: wgal.com
+  name: WDSU
+  domain: wdsu.com
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     height: 676
     isCached: true
 
-secured: "MtIPQwM8zeb7g+LwvdNhTdlmxryi4QKIrvcT1pAXJYlL1NNN+X9cPeyNgdqxZkVLa4qtp8xZCOj4K8ULniWORxKOUusVKqSGLDX9tadCqPz/vJ4657OV4gYoy8H9ofyfLUYMxKCI17YRXtgBNC48jB+o6Zh9g/E7qmznLUkCvUqbAPpCxFcwrPRROXslkPAlOSNABt1pPuw/sPrl6DcXPtdNtH73p9by5kwnm/z2lHODu015ikkZ06jq2brRCSsjiUEO/MSw0n1ZUkLLMUFeJVJK3/54c3cpAlUvtf6NXVh9OR3lA0gBgo3pezd62LNT5KATMnj27yPm9eZM4kMD4ouDOVB5p3YvUUVpmkMSnAA=;JW3RhHF+pJHn34ABlguuAQ=="
+secured: "bScwoAJ3JV6mktLU4l3dWKTCAUbdqv1d0l5cJpsU0R/U5tK+RfqEGDn39R18+DldZDvgPNjHdMWybrcU+zv4jZIUMmSeOVrz7Jw1BHQVAmUXm14AdfnzLKJ0cog4r96oJH7Nog4DLIyPPAqqcF/i9LF9ZtzVX8BOPOY+wn1rg7lDzia4ganT6Waz2NP10sL/9EAw7zcVEF1LqWhWN15zn0XDsH/y25aFp3P0SfSzfhs4D/TBeAs5q/khHDlj1me6GYVnlJXRZEUU1RebxaB8XKS4cXHAM4WrM0MA76DFWHJrmBSVKQ3unU6TsZYunDCyUEDezMSyL+LVIESVsowkEaXmAT//gWKWMJ3faOZwZEc=;XMnCYw8w3iD/WxlCrr84oA=="
 ---
 

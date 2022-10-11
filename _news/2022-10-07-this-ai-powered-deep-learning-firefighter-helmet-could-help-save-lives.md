@@ -3,8 +3,8 @@ category: news
 title: "This AI-powered, deep learning firefighter helmet could help save lives"
 excerpt: "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device."
 publishedDateTime: 2022-10-06T19:30:00Z
-originalUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
-webUrl: "https://omaha.com/news/science/this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
+originalUrl: "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
+webUrl: "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 630
     isCached: true
 
-secured: "sTj6b5C3ua8PLILQf59h9Y8u2kPthMH1tV14oyr6MrAZAeI8PBD9zJ0XUgahoQX23pvV4kkCWRYlRKuBLCV+OK8AzUvmVOdJ+0KfurczcPIntCsZNbcD8L6kIk43fvz/h5zDWXU1m6mCtIsuBJPx2t/QFzsT7/KpYSk75JpRKaRuTrbRRkLXBLuvdoZbG2FQJCCisc1N4gwaij63Lqn5ZTFX24/zdBJC7tdER1tLpcZ69MWf/UGWxzjo3/Hbv5kCHScLMbk6SyJ0SK0UCdd4xEpVam803drrAPCB3QUVIx5ZplNqHsGn6gkvPe2xQivz8ifoQDaX2hFbXLBkFWBInHxSjfkW0ym0Jl/z0Sloaf4=;NKR091QCAgJrM4pjpDxTzw=="
+secured: "PDDs8b0Rz2uyPMLSKWMxmbzvPW9zR6UVyDv+25Y4SxA0OD5OPkQSQc0veTSB2cJ1bg9VVxtvJL2GPIGy96qn26WzULw8HGuiurAHM0avzWKM0QcA3vZXZfvSHSMtrtAIoqP4mXQbce6/s/Igv8cWo7HzYH9oX7titoNvHaAFF4+D4qnJeWJC7vwiRoMuhHI+gsdYg/58IKLFPx3akzAfxmEyq0eBzoXcRmSiT6+Cri7LtZPorZ2J4n89qwzgAEwDZHuRn9pCwoiIw4VNYZ01JyeoC9Ek9Rtcw5e9F88dGIAo/ZN9BdYmhnoh3InLainaDac4bf96DoCRe9fQZ1n+s0l+UyU4A4YADQQr4FIQcUE=;LGz5MYPBEwBvpU0BeWBKjw=="
 ---
 

@@ -21,20 +21,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030"
-    excerpt: "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030."
-    publishedDateTime: 2022-10-06T05:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
     excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
     publishedDateTime: 2022-10-10T08:43:00Z
@@ -44,44 +30,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 61
-  - title: "Machine Learning Market is expected to reach USD 39,986.7 Million by 2025"
-    excerpt: "According to The Insight Partners market research study titled ‘Machine Learning Market to 2025 – Global Analysis"
-    publishedDateTime: 2022-10-07T06:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-is-expected-to-reach-usd-399867-million-by-2025-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-  - title: "Vehicle Speech Recognition System Market Report with Executive Summary, Size, Analysis and Forecast to 2022-2031"
-    excerpt: "Application (Commercial Vehicle, Passenger Car, Others) – Global Industry Analysis & Forecast to 2031 Industry Outlook and Trend Analysis The vehicle speech recognition system market has encountered significant development over the recent years and is anticipated to grow tremendously over the forecast period."
-    publishedDateTime: 2022-10-06T08:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/vehicle-speech-recognition-system-market-report-with-executive-summary-size-analysis-and-forecast-to-2022-2031-2022-10-06"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-  - title: "Autonomous Car Market Size to Reach $196.97 Billion by 2030; CAGR: 25.7% - Confirms Strategic Market Research"
-    excerpt: "The Worldwide Autonomous Car Market's value in 2021 was worth USD 25.14 billion, and by 2030 will reach USD 196.97 billion at a 25.7% CAGR. An autonomous car uses"
-    publishedDateTime: 2022-10-10T14:50:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29203158/autonomous-car-market-size-to-reach-196-97-billion-by-2030-cagr-25-7-confirms-strategic-market-res"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29203158"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203158"
+  - title: "$95+Bn, AI in Computer Vision Market Size to hit 46.9% CAGR, Globally, by 2027 – Exclusive Report by The Insight Partners"
+    excerpt: "The top five companies in the AI in computer vison market include ALLIED VIS; BASLER AG; XILINX; COGNEX CORPORATION; TELEDYNE TECHNOLOGIES, INC. The above listing of key players is derived by ..."
+    publishedDateTime: 2022-10-07T12:58:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29183718/95-bn-ai-in-computer-vision-market-size-to-hit-46-9-cagr-globally-by-2027-exclusive-report-by-the-"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 5
-  - title: "Self-Monitoring Blood Glucose (SMBG) Devices Global Market to Reach $18.1 Billion by 2026 at a CAGR of 8.3%"
-    excerpt: "Monitoring Blood Glucose (SMBG) Devices Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering.The global self-monitoring"
-    publishedDateTime: 2022-10-10T12:53:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29200959/self-monitoring-blood-glucose-smbg-devices-global-market-to-reach-18-1-billion-by-2026-at-a-cagr-o"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+    quality: 9
 
 secured: "sdSvH24J2G/MRUWvHmc3IVRUKjSHlj73HgJc/+0IYpWkySizolMUsaQuOx/u+9ZEerMgPz0quIMi+ofnR0O5XOTyhmAACiG9lkXLpgnRkNvUkrToPnIMeZ4vI1sBlGA41pDBrb+DoWDZ0OJ/XDtWnCrBihaFFtVm5+afMoka0J11RSXhBIZvXf9qBlxRVES8qprgBleXAAq8nEvAP/7G2Kz2R/hAKVwll5Me5JDXEu20jYtTWLqfwmEBi9IpFV2IldxvCEg5cShdfd1n1InMZ39ID/lGfy9WlVsh+cs4CeR1idRK+9+lfjIfrlQbZgq2eW0TBTFSM1tBadi5di+XGoQrLIfohHxT8Aa9qEqMlCo=;KBoJbqsBuPVHnA341UMDOA=="
 ---

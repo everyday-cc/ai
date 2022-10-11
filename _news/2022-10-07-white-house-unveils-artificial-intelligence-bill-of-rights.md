@@ -57,6 +57,22 @@ related:
         width: 1880
         height: 1258
         isCached: true
+  - title: "White House Unveils Blueprint to Guide Use of AI, Automated Systems Technology"
+    excerpt: "The White House, on October 4, 2022, unveiled its “ Blueprint for an AI Bill of Rights ,” outlining non-binding recommendations for the design, use, and deployment of artificial"
+    publishedDateTime: 2022-10-10T22:22:00Z
+    webUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 55
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
     excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
     publishedDateTime: 2022-10-07T13:39:00Z

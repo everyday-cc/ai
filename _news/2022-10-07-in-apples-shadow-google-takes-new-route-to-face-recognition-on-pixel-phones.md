@@ -1,26 +1,28 @@
 ---
 category: news
-title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-publishedDateTime: 2022-10-06T23:58:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
-webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+excerpt: "(Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the ..."
+publishedDateTime: 2022-10-07T00:04:00Z
+originalUrl: "https://gazette.com/news/us-world/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/article_53640c96-2d56-5acf-bd9d-f28e98cb8d11.html"
+webUrl: "https://gazette.com/news/us-world/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/article_53640c96-2d56-5acf-bd9d-f28e98cb8d11.html"
 type: article
-quality: 46
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Gazette
+  domain: gazette.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/09/409dbc6a-bda6-5398-8cbe-7637629c379c/633f6a315409a.image.jpg?crop=800%2C420%2C0%2C71&resize=800%2C420&order=crop%2Cresize"
+    width: 800
+    height: 420
+    isCached: true
 
 related:
   - title: "Google takes Apple path, bring backs face recognition on Pixel 7 phones"
@@ -65,6 +67,6 @@ related:
       domain: tomsguide.com
     quality: 4
 
-secured: "vWf0LQvf9cLxUfNk/o/ZRtgz30n6nty+nvNWCXJc8pSozX0tlSC0H2c+el9fjS2jBeUXA3MA9fgKqX6lVmMAHm1iEGtgq5QMVeD/nkDyDwWzaDpPK0pYm7MB7Rx58CAOzCez0Qk7oquP2kRi314Sh78CP2T8Agsd0HcATIf7+lVuqYIa14HXSSglvxW5REUSu3CgHKCAWNXePiFy7R1OyLqCnoIrgxs1r7M7LVAcjyMPc2iXqUOwn1r4ptz9L0c8OK6zLLuTA3PDgQXGqqM6FG/AIaaPMfWRp20S/agKMkMtmt/uCbSgzV5knKaIlgHdd/xQplNnkSeCUPh0ToVlgl2Q0tdtfcC3vCwHdji+OlE=;Gj3wovosCcE1NDlWEwRANg=="
+secured: "V6ig/gNqnVL6E34avj+7J65SuavkGEVU3gEoFoNrY2oM72N9r5PwkQ3sZ9Yw+AMarOXkoM/NCN93chVs6Js8aVjKeCcUeT72VXpxlUI2DdkEjcYRAk4a0/KnCVOJXE04oW5L1tYfKXiun4C0F+eOsjuRN+veJ6+aFQPjfxBRLtA/D7fx2Ut0sftgiVs9R2Owcia6TblaViNlE+gOSuFnmQAq6JqO4roJuzOGPsJvA+yZgSzSzw1/NneHqH+pVQJdpx7/J53ybCce6UJueLekYHeOHuQG1UBDZa3UlPnLyWKxu70WTmC+F6CwxoVPNSyN+KxPntk+SAzrI7Dcf0YE7U7I7WExQnC+3nLWTjx3TAg=;Vki/iHiZ/dh4xhmVXnA9Eg=="
 ---
 

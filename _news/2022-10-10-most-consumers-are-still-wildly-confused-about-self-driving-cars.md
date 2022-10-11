@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars still far away"
+    excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
+    publishedDateTime: 2022-10-10T23:45:00Z
+    webUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
     excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
     publishedDateTime: 2022-10-08T15:00:00Z

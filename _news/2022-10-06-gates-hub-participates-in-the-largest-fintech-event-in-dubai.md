@@ -81,20 +81,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "India’s fintech unicorn Yubi makes UAE debut"
-    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
-    publishedDateTime: 2022-10-06T05:39:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Japan’s FamilyMart branches out into fintech with instant credit"
     excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
     publishedDateTime: 2022-10-07T06:03:00Z

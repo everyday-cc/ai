@@ -43,15 +43,20 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-    excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-    publishedDateTime: 2022-10-06T23:58:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+  - title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+    excerpt: "(Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at the ..."
+    publishedDateTime: 2022-10-07T00:04:00Z
+    webUrl: "https://gazette.com/news/us-world/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones/article_53640c96-2d56-5acf-bd9d-f28e98cb8d11.html"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 46
+      name: The Gazette
+      domain: gazette.com
+    quality: 36
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/gazette.com/content/tncms/assets/v3/editorial/4/09/409dbc6a-bda6-5398-8cbe-7637629c379c/633f6a315409a.image.jpg?crop=800%2C420%2C0%2C71&resize=800%2C420&order=crop%2Cresize"
+        width: 800
+        height: 420
+        isCached: true
   - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
     excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
     publishedDateTime: 2022-10-07T11:59:00Z

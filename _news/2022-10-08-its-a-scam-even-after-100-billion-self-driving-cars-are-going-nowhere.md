@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1040
         isCached: true
+  - title: "Self-driving cars still far away"
+    excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
+    publishedDateTime: 2022-10-10T23:45:00Z
+    webUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "nlrRQavjzMfKIreWgZl+wTQKf/NLpT5770Cb8IK8q/G9brYinyJNwvKCzwYHCpJBJa0o2H1xrEuWq5bUW0Ji9WhxQpLSZcgdjcaL9CtQo+H7sEz3fkbJfl6PNU00P52HNdsJHUwJWNoS4IUHWH4xmnSy/ig9eQ3V+70DHeYkDvyqQmjTQN5EGb6kAUGyNg8KGkCaEuTN2exnWf4ZHXxzkj1y/k+PCqOAoSGODA3ObB7gnP2bgtI8tJDC3b2U5xFMo61Y5WftuXaWLYiERAQHUk8CDmTmjEgSXxT8QsUqiOeDSI4evyt3f+EyLxbcK+b6IYOKzdP6tmMLZKr2wKKDl3+OaMMi+CZSVCFa0hUTzVXq0uivjtuVx1XkGukWfuWJV2/5ab+SiA/yoWyFgY8RS5W5TCabRoSnwgldXtljKTtLVKuUmLhcX4OB96eR3O6dup9VKwxXEug1QcRz/Ha3xRB4cKE2Wx/3ikHBuQgeBtB0lMmfSCq6TGy+PIXZ7e+QohbhinpQDnQHdxiHQRQ56Q==;9m7BhIvW9Npxh98tLHDnOw=="
 ---

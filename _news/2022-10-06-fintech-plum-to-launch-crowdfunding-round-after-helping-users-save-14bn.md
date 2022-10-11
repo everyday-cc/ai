@@ -81,20 +81,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "India’s fintech unicorn Yubi makes UAE debut"
-    excerpt: "The Middle East foray is in line with the fintech firm’s long-term ambition of being ubiquitous to the debt ecosystem"
-    publishedDateTime: 2022-10-06T05:39:00Z
-    webUrl: "https://www.zawya.com/en/business/fintech/indias-fintech-unicorn-yubi-makes-uae-debut-sztvyia9"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:YmYzY2UyZGQtZmE1NS00:YzUxYjI5/1223779913.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Gates Hub participates in the largest fintech event in Dubai"
     excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
     publishedDateTime: 2022-10-06T12:52:00Z

@@ -1,21 +1,30 @@
 ---
 category: news
-title: "White House unveils artificial intelligence ‘Bill of Rights’"
-excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
-publishedDateTime: 2022-10-06T13:21:00Z
-originalUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
-webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
+title: "White House Unveils Blueprint to Guide Use of AI, Automated Systems Technology"
+excerpt: "The White House, on October 4, 2022, unveiled its “ Blueprint for an AI Bill of Rights ,” outlining non-binding recommendations for the design, use, and deployment of artificial"
+publishedDateTime: 2022-10-10T22:22:00Z
+originalUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology"
+webUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology"
+ampWebUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
 type: article
-quality: 17
+quality: 55
 heat: -1
 published: false
 
 provider:
-  name: Seattle Times
-  domain: seattletimes.com
+  name: The National Law Review
+  domain: natlawreview.com
 
 topics:
+  - AI Ethics
   - AI
+
+images:
+  - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+    width: 1426
+    height: 808
+    isCached: true
 
 related:
   - title: "The White House Blueprint For An AI Bill Of Rights – Time For More"
@@ -64,22 +73,6 @@ related:
         width: 480
         height: 278
         isCached: true
-  - title: "White House Unveils Blueprint to Guide Use of AI, Automated Systems Technology"
-    excerpt: "The White House, on October 4, 2022, unveiled its “ Blueprint for an AI Bill of Rights ,” outlining non-binding recommendations for the design, use, and deployment of artificial"
-    publishedDateTime: 2022-10-10T22:22:00Z
-    webUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 55
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
-        isCached: true
   - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
     excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
     publishedDateTime: 2022-10-07T13:39:00Z
@@ -94,7 +87,16 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "White House unveils artificial intelligence ‘Bill of Rights’"
+    excerpt: "The Biden administration has unveiled a set of far-reaching goals aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance."
+    publishedDateTime: 2022-10-06T13:21:00Z
+    webUrl: "https://www.seattletimes.com/business/white-house-unveils-artificial-intelligence-bill-of-rights/"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 17
 
-secured: "IacHF5ejkcHrqsGKgwHz7w4fs6SrgpayYtj8e4o78XSRyAF5qMIFNcul79eFGpOMcpYv3lN/vwlXJDi4/5F87Mbbi5XLiRvXBEbFAhnjzq39489Dggbrxme/rjYc7N5nZmPrSXtNKSa9Y/0kznc967MdftFOerJMmkjHgCkUGdOsP6RxxPRB1ijWMjPOAZTXHf8++8h/wLLy4jD9X0vcsXz0UUNAdmwneZQRyo2GEwLKJsYPbZlzrt0CnCaYEX3XZb8IRlo8ZJSnfFpckMCdPZ2xWb1LXaOrK3emb0+vLTo2ASpWNowVakS9fTnSJPArwNFBxTEW2xPgf50u8ODJbvhUG3yk8tLOncALGroWvTDg7Za8GmGL34p1f0+u5pqVuB78JAPSj1TfLQXBIp+NveN0sjKFWPBRcrifgyygV7dz+otJbmEl1ivH9C6WhdxGAcjHO94YtuPziWE3G6ev52aZGvxbUmk4iTL0fM5yganB9mszDu9Q1NGODoLJuH9s5l3eJwdd7vGisfL16Ieeiw==;s6fOHxtvuLcvYNdyhC8T+w=="
+secured: "+po7YDhoEKU7+R9lOVwk3gwQ7ylrBj3Hm4zEYW7I2RNuxmuSgx2WAQejIJxSaesEHJQsTMFizbXmkz8w/GpZEU38AeJpGhGTa6FU3nbaNuWEtgOMM3+Vay55FZbMjBDrOKviQLDr28edV3EDC69qudEhZvKiV+CbSeYNHKfpCIv7Y+/AHlTFzKUKl4tQJNDxe9cMckWK5ZFTvQXGXsqOssPGt08Fli8GcZUqBX+vBp7xD0Fm6x4/ULoM88MGa7uzoxAoSZG0fCI8xLIXfifQd2FPnSposiz1XAmIdtIt++t9kXFuxtMdPn7qaTLASvDCtC4oO+bXbISisvqHd+zRD/9ZN94h+ngoX3TwZt56PWg=;G82UHXUfMvII+QmxuKDH8A=="
 ---
 

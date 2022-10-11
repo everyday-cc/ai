@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/davidteich/2022/10/06/the-white-house-b
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/10/06/the-white-house-blueprint-for-an-ai-bill-of-rights--time-for-more/amp/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -59,6 +59,22 @@ related:
       - url: "https://healthitanalytics.com/images/sized/2021-03-05-GettyImages-474772731-e4b00c1efb9503a805928b101c78b499.jpg"
         width: 480
         height: 278
+        isCached: true
+  - title: "White House Unveils Blueprint to Guide Use of AI, Automated Systems Technology"
+    excerpt: "The White House, on October 4, 2022, unveiled its “ Blueprint for an AI Bill of Rights ,” outlining non-binding recommendations for the design, use, and deployment of artificial"
+    publishedDateTime: 2022-10-10T22:22:00Z
+    webUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/white-house-unveils-blueprint-to-guide-use-ai-automated-systems-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 55
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
         isCached: true
   - title: "The AI Bill of Rights Makes Uneven Progress on Algorithmic Protections"
     excerpt: "The Biden administration issues a clarion call for algorithmic justice but misses some key early opportunities."
