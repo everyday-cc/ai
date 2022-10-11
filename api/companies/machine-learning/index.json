@@ -31,7 +31,7 @@
         "Machine Learning",
         "Deep Learning"
       ],
-      "heat": 302,
+      "heat": 301,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1044656645584773121/8vZCwo0F_400x400.jpg",
@@ -70,7 +70,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 90180
+        "followers": 90188
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 18725
+        "followers": 18731
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -194,7 +194,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 80754
+        "followers": 80755
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -251,7 +251,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 34555
+        "followers": 34562
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -613,7 +613,7 @@
       "twitter": {
         "username": "amperity",
         "url": "https://twitter.com/amperity",
-        "followers": 947
+        "followers": 946
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
