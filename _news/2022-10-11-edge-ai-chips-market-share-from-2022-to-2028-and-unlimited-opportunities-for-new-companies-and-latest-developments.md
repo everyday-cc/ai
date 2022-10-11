@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
-excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
-publishedDateTime: 2022-10-06T13:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
+title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
+excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
+publishedDateTime: 2022-10-11T02:37:00Z
+originalUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
+webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
 type: article
-quality: 10
+quality: 62
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Finance
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
@@ -30,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
-    excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
-    publishedDateTime: 2022-10-11T02:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -111,7 +105,18 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
+    publishedDateTime: 2022-10-06T13:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
-secured: "NlwRyJX2MHwpRwQW8a5iFoYkLB98j8aopj7tqvHV9FzeUMG1gGcxdY0VcZAdq2sZoE0Y9dTQq1ih+SQ19x1yIdvMvbePCCP8yIw6zhx0ok+No2njNUM6V8WJRzgD4N05hZyNjHJFc/BBHsDYKNZn+/HYecwh5F4KWBg65KFCz9bm6+X0KafnJy/jJBKfhTkvXJC1Eev48tCHE5n6m4DrehcciAixHyC3XbSoZNB/c/AuU1o077GHcEzt+G3WjhHb5c09FnW3Gc6Fc//3Km+0l9C3AW2M6PeMaWrbDegV53CyrRNFBdIa5gWabzHhgGrBVcVKAx/4bS3daLtIK29s9C+bKn4J10jHb+8yUIRZf9w=;6bzds6frvkxxiWgKF4vKlg=="
+secured: "BXLjcfpFpS8ClGqDcAXqRNbdOUoo9olDENLekRmf5mw2SQ5eEXRhihvAs9lDHr8oGXnI5yw45WPKs8yGZPrybYKIpzvR0P/56mFB6SknSx7t9xyrcwpecolNB8E2Efanx4IFBY3ERuY2EDQjVJ1qbVRZ5n4pF82UaI3x7GPFufn+TI3ZTDtGx5AnHewOJMISdxXKn/Gvi3ba8juzlVhYIm3rNoTmfLg2owRiprn5FDBSBr2WPc4X9KHq3cORoUnaPZfGXpN+AZpV2jVExlszpVa+yt3vyr7WL+qPBfShIiutdHOHBOC5qXihkPCM1NHJW2KfwYtQO6gOGGwm6ZIHU5blvsLmAjP/VYYzZcI0yAI=;/mpVzJbJAI46BgbVnNbUyw=="
 ---
 

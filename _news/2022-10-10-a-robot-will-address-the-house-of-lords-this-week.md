@@ -43,22 +43,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Ai-Da Robot artist to make history as the first robot to speak at the House of Lords next week - as she questions whether creativity in the UK is under attack from technology"
-    excerpt: "Ai-Da, a 'realistic' robot artist created and built in Britain, will speak at the House of Lords at the Palace of Westminster, next Tuesday."
-    publishedDateTime: 2022-10-06T11:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11286785/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/10/06/12/63177611-0-image-a-2_1665055610310.jpg"
-        width: 636
-        height: 382
-        isCached: true
 
 secured: "kIPK2jIuUHT2ngVKzs8nNztRy53XfejCgIPITO9tOCLtT3T1SxDBUE8CC3W63LbDTZj/CttJx6MWyZ73mztmjxGhl0aOARLAnDpOQDhmHzssOqlfuEHYVQYz4RHesx08bwouO63rC5VgfEMUl5Lq1aO4wOmiaHGLsVXM+a1NtNSMIC1qzj9wRJbD0BUf95rofFppiuQjNGPZXxF8eVelEPV0Dc3iNuMimhsrKzKGy7F0R4DklYVL0GQYLdeiAL3kht3+ymOg+Ei1be1LtC/P+7AzGoreceQ55qFOaH+JEk37j97OgD928uA4k1WjlGUaOKZVJ5SIe8vBMywF/+xVb4nLSehl/fdlyv90NbuLaaU=;lTsknGqJsBoGkV2izlBnEg=="
 ---

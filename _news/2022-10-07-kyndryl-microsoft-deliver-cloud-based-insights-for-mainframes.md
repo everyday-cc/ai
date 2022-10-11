@@ -27,17 +27,17 @@ images:
     isCached: true
 
 related:
-  - title: "Google opens first cloud region in Africa, following AWS and Microsoft"
-    excerpt: "The tech giant is intending to open a new region in South Africa, taking around two years longer than its competitors to enter the continent"
-    publishedDateTime: 2022-10-06T11:18:00Z
-    webUrl: "https://www.itpro.co.uk/cloud/369257/google-opens-first-cloud-region-in-africa-following-aws-microsoft"
+  - title: "Kyndryl and Microsoft expand partnership to drive mainframe connectivity"
+    excerpt: "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud."
+    publishedDateTime: 2022-10-07T10:40:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/big-data/369268/kyndryl-microsoft-expand-partnership-mainframe-connectivity"
     type: article
     provider:
       name: IT Pro
       domain: itpro.co.uk
-    quality: 86
+    quality: 83
     images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1665054335/itpro/2022/October/Cape_Town_South_Africa_GettyImages-1307773280.jpg"
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1618305820/itpro/kyndryl.jpg"
         width: 1260
         height: 710
         isCached: true
@@ -57,6 +57,15 @@ related:
         width: 750
         height: 600
         isCached: true
+  - title: "Microsoft's new NBA app is just the latest partnership between big tech and sports"
+    excerpt: "Microsoft (MSFT) and the NBA are doubling down on their partnership at a moment when tech companies and professional sports are more connected than ever."
+    publishedDateTime: 2022-10-06T17:53:00Z
+    webUrl: "https://www.aol.com/finance/microsofts-nba-app-just-latest-175309794.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 13
 
 secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---

@@ -73,15 +73,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
-    publishedDateTime: 2022-10-06T12:52:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
   - title: "Japan’s FamilyMart branches out into fintech with instant credit"
     excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
     publishedDateTime: 2022-10-07T06:03:00Z
@@ -91,15 +82,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "Fintech Plum to launch crowdfunding round after helping users save £1.4bn"
-    excerpt: "London based smart money app Plum is gearing up to embark on its third crowdfunding round, following a “standout” year… | London | Digital | International | Finance | Europe | Fintech | Business Growt"
-    publishedDateTime: 2022-10-06T12:13:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/10/06/fintech-plum-to-launch-crowdfunding-round-after-helping-users-save-14bn"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 3
 
 secured: "+gkFbH3LA1z2AfVj4yi397bIKHaXDP+FczY7SPMyp4HYyHWJxlb3/r/tBbiV4JZR9l+wy610estwVozgUUl/vkT2iw6VjKyDbrLJpIZIez3Nc86tgcKp0MspzIoKzn76n77NsXXU0UiAOHRj07FmV59IDb5/0QfP8PepCZ1xNQWTTJGgR8IVuseY7WhZK2AdSYjXudxKKw0kFwzpTbQda4OgGFQlbk6gkRBh75JZX44Jl8OdpFcOZVjXhp4CH0Lp4qFq2cRKYdTeJn73++tWOR1w/gd4pMzgdqkUCndVJsM5MiKL80XQPQ6P/Y2S1b5hAj1/OOPUV0i31OO/kubpWj3KsHRmINAUwytphM48wHE=;SoRqha5fNbY3gVCbfpdCuw=="
 ---

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns"
+    excerpt: "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T04:01:00Z
+    webUrl: "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 61
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
     excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
     publishedDateTime: 2022-10-09T23:40:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00.jpg"
         width: 1920
         height: 1040
-        isCached: true
-  - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
-    excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
-    publishedDateTime: 2022-10-08T15:00:00Z
-    webUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-images/2019-03/a7a99470-444d-11e9-85ff-09b62dfac5e7"
-        width: 1062
-        height: 597
         isCached: true
 
 secured: "Hiv0gPJCFNDYNVPBOxS12f+HNcaZQX+SK090J72PJsIJYSnTAKcOgM2/f2GLRC8PfubY4+Rztfj06RgJcsw1vH18Fl+G2rCzU14xlW0/O9b9K7J98qffhMH/M/1ha9ZMeGo3DgNdiUx8kyN5W3Fz22TdgbLxnFQvmpSIHFWu1IKc/+myAWHMqr7v1jOgiMK3nsws2qkD1FspmNQ78X53eIE3QHpOEGqyZRo7TCjsHQB1iNROaOX4+9J8lfMHSlPseZ8HrCgTtlAU6PwfqhAZ6QwMy6YJv1IIx/n3hxUnDWn2KLymD8/V8Nqr3AbELTwaK1qCvm6y9+iyDj+RXTIm4s/N8qmDpqtWsmErfVzrec8=;r8jo4laWvRDRB0sbKtP8Xw=="

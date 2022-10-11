@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
+    excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
+    publishedDateTime: 2022-10-11T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
     publishedDateTime: 2022-10-10T06:28:00Z
@@ -50,6 +64,22 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
+    excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
+    publishedDateTime: 2022-10-11T05:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 46
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
     excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"

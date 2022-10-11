@@ -1,24 +1,30 @@
 ---
 category: news
-title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
-excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
-publishedDateTime: 2022-10-06T13:44:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
-ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
+title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
+excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
+publishedDateTime: 2022-10-11T05:04:00Z
+originalUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
+webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
 type: article
-quality: 10
+quality: 46
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
+    width: 1280
+    height: 720
+    isCached: true
 
 related:
   - title: "Artificial Intelligence (AI) in Fintech Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028"
@@ -72,22 +78,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
-    excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
-    publishedDateTime: 2022-10-11T05:04:00Z
-    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 46
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
     excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
     publishedDateTime: 2022-10-10T08:43:00Z
@@ -111,7 +101,18 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Business Analytics in FinTech Market to Reach $22.9 Billion by 2031: Allied Market Research"
+    excerpt: "According to the report published by Allied Market Research, the global business analytics in fintech market generated $3.1 billion in 2021, and is projected to reach"
+    publishedDateTime: 2022-10-06T13:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29169362/global-business-analytics-in-fintech-market-to-reach-22-9-billion-by-2031-allied-market-research"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29169362"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29169362"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 10
 
-secured: "NlwRyJX2MHwpRwQW8a5iFoYkLB98j8aopj7tqvHV9FzeUMG1gGcxdY0VcZAdq2sZoE0Y9dTQq1ih+SQ19x1yIdvMvbePCCP8yIw6zhx0ok+No2njNUM6V8WJRzgD4N05hZyNjHJFc/BBHsDYKNZn+/HYecwh5F4KWBg65KFCz9bm6+X0KafnJy/jJBKfhTkvXJC1Eev48tCHE5n6m4DrehcciAixHyC3XbSoZNB/c/AuU1o077GHcEzt+G3WjhHb5c09FnW3Gc6Fc//3Km+0l9C3AW2M6PeMaWrbDegV53CyrRNFBdIa5gWabzHhgGrBVcVKAx/4bS3daLtIK29s9C+bKn4J10jHb+8yUIRZf9w=;6bzds6frvkxxiWgKF4vKlg=="
+secured: "3/7sQdmLLIQJFiY+n2dg8yzqkUvliOBhonbwHXDAQsoznJF/F1W3lq6n2qIDciFVatLUtvIoTYBsupjpJf58WEeQWJSzSzC64UgwsC5u1ZTzts9PvURmRGB7Z0WjOpamxKGCnTjcFviV+QzYpKqhh3Wj5jddrdti0of/g5+qSlaTzc7+49H+6EV+qr5lG0o7Y18lgSKW0FY6Ra70q+seTBTuY6ELs0TS6OZvsgQMXivgL680wCbzCG3Oo0pjpUDZHGCSD5U+bAYJBiAl9SPQEaE2WRKb7/Recy0pybFF3d0opOXAyKJcs1PRkbkF8uEO6coM1snkJdB8t1TGIc+Q9kBPGHU+JC/Cmehneas26N4=;zqUPAl2NzvL2E1rKdVnksg=="
 ---
 

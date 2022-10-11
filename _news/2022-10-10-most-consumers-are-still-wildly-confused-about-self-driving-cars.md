@@ -9,7 +9,7 @@ ampWebUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns"
+    excerpt: "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T04:01:00Z
+    webUrl: "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 61
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Self-driving cars still far away"
     excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
     publishedDateTime: 2022-10-10T23:45:00Z
@@ -42,22 +58,6 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
-    excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
-    publishedDateTime: 2022-10-08T15:00:00Z
-    webUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 42
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-images/2019-03/a7a99470-444d-11e9-85ff-09b62dfac5e7"
-        width: 1062
-        height: 597
         isCached: true
 
 secured: "rIahoYoRxstnepLpZXwi45PdtnvEAcfdg5gkhJ3T7PWEzc1266CebQ2AhXPSzMgW2fwzYVZAoP7C7kyf8CNAQAhUbtvavthoIWUuytVz00LZeOk7eb+9k7LkLU/176up5wU1/bL7yrZ/GiEO+KXI0wXPA8NzwrokllAl1rg4BEZiE5Fc8Xc4GnGPvC1/l3cfwYePOsi5QAlxJijp6jwG6lOZ1P5qPDmz/hTpIY7h3kdNw2fj42KojXCJrMx/P5k/eoY8O28XiPS3M6jFVs9sp4Ogy+41gd4oVr28R4BW48Z904AGq22LI892JWUUz+6KWiUfHFm+m0O11xDVI7QFzCh4DN7n18DNVQIQzFDpUH7gMAu52Pcej7XhlNwDj40RhT8YumUangeN8pTRzPOMOIER4T4ORBfBKiwD4t482fA9UN/TwiuNH7z5WhdjVwPvhUfij8HJcE51AU/AsPRg/kqG2EBq8DGE45mO5sKEt+FRxSeu/28KZmzfe5Q+9W8ZLBuIVOX5G6pivpT75bZmvQ==;HXpL0HCyw+ys7WZazHkuqg=="

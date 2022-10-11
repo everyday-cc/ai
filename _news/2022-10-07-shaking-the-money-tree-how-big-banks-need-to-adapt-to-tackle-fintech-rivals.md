@@ -73,15 +73,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
-    publishedDateTime: 2022-10-06T12:52:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
   - title: "Japan’s FamilyMart branches out into fintech with instant credit"
     excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
     publishedDateTime: 2022-10-07T06:03:00Z
@@ -91,15 +82,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "Fintech Plum to launch crowdfunding round after helping users save £1.4bn"
-    excerpt: "London based smart money app Plum is gearing up to embark on its third crowdfunding round, following a “standout” year… | London | Digital | International | Finance | Europe | Fintech | Business Growt"
-    publishedDateTime: 2022-10-06T12:13:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/10/06/fintech-plum-to-launch-crowdfunding-round-after-helping-users-save-14bn"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 3
 
 secured: "3FsRNitb4U1q+hEQ2YzQQ18/Yd1nm2jPcPmIMfWwzfYpBO9MQThVLMSpuaK5uHGasGKAYVLIMKAKzvg+YMBzBn9CvFABLRI3birvVAkAFEC/9ViD4KSV/P7R42clWpRnn5jtwLUS7s0YscO+wTxyrzbNTKyN+7UpxblVZVQtsVrJywZUfH6ah5I9w/huBYYkgQ+7Hdo0YYYPVIyzKQj12sm7J4rhgLYWTKiZrZlckyQCGj/Zvq+RK5Iw9MaMBGcdsOB7oixYaEkm0DWx9D4hQhYLNRkanItUo4qXvbw2J/JimkRa9l+kR6wxVIB0kjDSBToX4r2nc/RjTJlQt8QnyT2qLQjmgFr42A9zR6+X+BErHS+RNq/5jN0pZP2YtPukioU6q+8mkQtUHF2l8Pb6rQ6xDLyO77zxrnRBx29GU9z+PqB9R6V8JdYqoG/ONuPvmvflh2IyDyRLe0389Qr8DbpjVahGnV0BnEPq1CVtcydM8GEZNEDuEBGxiq6H2pA1BUmo+N+dvqFBnkvCdMY5+g==;cnFR50yyFthw3T+BC9GF2g=="
 ---

@@ -73,15 +73,6 @@ related:
         width: 768
         height: 511
         isCached: true
-  - title: "Gates Hub participates in the largest fintech event in Dubai"
-    excerpt: "After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest fintech event in Dubai, FinTech Sur.."
-    publishedDateTime: 2022-10-06T12:52:00Z
-    webUrl: "https://www.khaleejtimes.com/kt-network/gates-hub-participates-in-the-largest-fintech-event-in-dubai"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 19
   - title: "Japan’s FamilyMart branches out into fintech with instant credit"
     excerpt: "FamilyMart lets customers pay for Amazon purchases, utility bills, event tickets and other expenses – a total of ¥3 trillion (US$20.7 billion) in transactions a year, roughly the same as annual sales."
     publishedDateTime: 2022-10-07T06:03:00Z
@@ -91,15 +82,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 4
-  - title: "Fintech Plum to launch crowdfunding round after helping users save £1.4bn"
-    excerpt: "London based smart money app Plum is gearing up to embark on its third crowdfunding round, following a “standout” year… | London | Digital | International | Finance | Europe | Fintech | Business Growt"
-    publishedDateTime: 2022-10-06T12:13:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/10/06/fintech-plum-to-launch-crowdfunding-round-after-helping-users-save-14bn"
-    type: article
-    provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 3
 
 secured: "Ut44XcrLlZO1G0xoxx2+PAhYfJ7uY+ed3nrlwezEKwzyH3QzNtJ+mrEF7d2iDKgCYG1LhshkxjkDpWhdwt4EfKctUmGqVAhEnos5UDmI3DfA8XqM10Xs02PRMlsyfojNQvc/zdkM1fOeNuoRQTy5L7f7TsA/rjfFGt3zQxPs2STsGw4+FRchhuj/XO03eawcI+tzDR2L7dEYzHqeZWke/qrWq7Zur4jNTVzPuCIvdUZuW0f8/Z3LJlb74qAPht1hC5erIwINgJ3AB+4U9Bz8R2054UjxJ+q6rloCa2N7EcLwZqx1qZ61+NUreO37y7PeW0CmZryQA3q589oVqun+W2c9mUjVQriv8DzF6OMLxPU=;zfSTEntVe5Rrl73ePLLrlA=="
 ---

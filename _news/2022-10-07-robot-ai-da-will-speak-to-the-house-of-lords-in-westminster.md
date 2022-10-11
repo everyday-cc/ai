@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.co.uk/newsround/63173407.amp"
 cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://metro.co.uk/wp-content/uploads/2022/10/GettyImages-1318598068-5538.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
         width: 600
         height: 400
-        isCached: true
-  - title: "Ai-Da Robot artist to make history as the first robot to speak at the House of Lords next week - as she questions whether creativity in the UK is under attack from technology"
-    excerpt: "Ai-Da, a 'realistic' robot artist created and built in Britain, will speak at the House of Lords at the Palace of Westminster, next Tuesday."
-    publishedDateTime: 2022-10-06T11:19:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11286785/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    ampWebUrl: "https://www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    cdnAmpWebUrl: "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11286785/amp/Ai-Da-Robot-artist-make-history-robot-speak-House-Lords-week.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 22
-    images:
-      - url: "https://i.dailymail.co.uk/1s/2022/10/06/12/63177611-0-image-a-2_1665055610310.jpg"
-        width: 636
-        height: 382
         isCached: true
 
 secured: "3ZX4UIBjvNvlvRDnYtdPqSyQcNKey7eXD+1O1FpyQz6FWg5PPEGFmO2RTizooDF++qSSnqfUPtyPeu4qBt9dn3RcwjuN96dHXieYQlw+hsjNcnbrb8fftd1cNsogIQKIZoTgtVo6deUXdRTnDrjkEtX0LlwAeDmb1kLbn6ctgG3bkXliVqItj8Bi42sij8cGArLBpEAYBMiWDeGGafsdu3qkpL1izxgegWxh/DONUh3Hw2hlQd2NO0XsrLHcSzCretIkbH7r3fy0HVlF+cEGhIMt46zIuuSPbGrqot5mAAjd2LLdOq/xdbUhtIzOLO0nIrpvqIJYKOeShaWPCwBvoH7r3dtPI9Pt/Y6yrpEEHu69I5lpIziSrceY9b9l+KVhVAxekHm8x58NOW6gp0GFKd/zsWyWdX+dZchJqEcKKMed4zdehfLD0EkXshOXzqYfKxCku7HAzYQefwncWVB6JxPrrZoVXDIywBf7MTdnhMUQv807ZisNQNt8FGEueAdZ/J6S4IbGeE5lx0LA8PNWWw==;MsUK9Z7RR8rkwoPEeMt5HA=="

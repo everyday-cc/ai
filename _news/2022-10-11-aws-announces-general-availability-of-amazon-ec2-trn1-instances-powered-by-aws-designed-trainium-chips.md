@@ -2,12 +2,12 @@
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
-publishedDateTime: 2022-10-10T23:13:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
+publishedDateTime: 2022-10-10T23:35:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
 type: article
-quality: 55
-heat: 55
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -15,7 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
+  - Natural Language Processing
   - AI
   - AWS AI
 
@@ -25,6 +25,6 @@ images:
     height: 210
     isCached: true
 
-secured: "G3yhd3LFm/badMoXMbaG40BbRYgEZ2pOgvw/n1iEi0kgnYaOO6/xILKUIB/Um/L0C/GCIYZybkNJBOYFKAlgs9pS3nWEMoX+UJ8MQ6EL3IU4hKaOfFuqhK3/+JFhKwdYUWpBLtKA2TnJ7ZaYC4sSOElb0gF2kksyvWD5XKLXYyGVEcwty6pbWdABpMUv0yS9j0kqD96hsTeHb9Q/2fMU9ONVooZVpBt94R39uq9Vkz2zCokDgmfIVWp0NNdmERKmBggyQljShYxaNJ6eSHWWhoZqrbXs4sZ3LAbQb1CfC24OxE3MN1kTwFWd5lNfFynsbU4pZdxrUDOYR4j4dYDnh4mVmTxFY2PSm9MzQirpobo=;MGUvEhcJms/Ih4zo3lAv7A=="
+secured: "DhKQhgmFq4XjIrfuD1WR3anJTaT7D9ONPCQT4mEJckYkBDLQ7gX8K1VXwrPJ87BX7cKB6R7Gc7jJlIJCxmyFv1UKSUtFAM2YVb8iCfjZubgDCHnyN1HIA+SaIWdcuOyIgWDZe0iXiLVSitksk9g/iTpUsIYGWbmUhOeMlMJSPPs+doHFvGHhss7j+R0uEyg4hIfnd/4rzshKpiCpEgpOPUHNL4Vgz0qLl5R9D/Fp1McDkdmpHfBgeaIP5qkLxuAavDDALItWPxNex1ZWodesDXb2nD1tRObxmblL8IQGSeLOR/jsjqnDEZ4qmIjxCvD1FsNMdmHfLE8GBl6SaCdLdrBhnWWOPc8A2hIDoyzsKZc=;jHNBiNgajgNuVeoMfV07yg=="
 ---
 

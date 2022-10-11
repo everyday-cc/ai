@@ -1,17 +1,15 @@
 ---
 category: news
 title: "Saudi Data, AI Authority (SDAIA) and Ministry of Energy Partner with IBM to Accelerate Sustainability Initiatives in Saudi Arabia Using AI"
-excerpt: "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM IBM announced today the signing of a strategic agreement to ..."
-publishedDateTime: 2022-09-27T04:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/n29024166/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/n29024166/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability"
-ampWebUrl: "https://www.benzinga.com/amp/content/29024166"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29024166"
+excerpt: "RIYADH, Saudi Arabia and ARMONK, N.Y., Sept. 27, 2022 /PRNewswire/ -- Saudi Data and Artificial Intelligence Authority (SDAIA) and IBM (NYSE: IBM) announced today the signing of a strategic ..."
+publishedDateTime: 2022-09-27T09:20:00Z
+originalUrl: "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/"
+webUrl: "https://www.nbc4i.com/business/press-releases/cision/20220927NY84344/saudi-data-ai-authority-sdaia-and-ministry-of-energy-partner-with-ibm-to-accelerate-sustainability-initiatives-in-saudi-arabia-using-ai/"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: NBC4 Columbus
+  domain: nbc4i.com
 
 topics:
   - IBM AI
@@ -23,6 +21,6 @@ images:
     height: 209
     isCached: true
 
-secured: "mlCj6VxiJn1GG944dDD+7EnFl8zAic2R4VgSEAy0wJddGXbTLl/RLOZmW0EJgCDzc9nlDhQqSY1CbWAkQHWEjnFs+Rd5tsTZEQXN/dS2aBnbitu1C0xF+fRYYasNih5NDr/6UWNysPBQRhDfUrPLGka8P3p5P5Tz/P13+yyPjO7DH7+w2tgSKctWiUBO+gmxd9OpfIVFF0yKYgmbPKeLIg8ubhAVMVwRQKOLf3OpQGlK3Kt9L4VIh0+2rdem6xbbFjie+GrHTIFKZ3+9FefB9DAp4s7mjMRCAuizRTT/b9tyhuAUtgJ7NNUpHl+yoRuzJiYTG6yVNuS6qztVrVF93a671fYT4zMScsMlCyF+MpI=;mZoBb79X8orRtACu0UihVw=="
+secured: "0hFKmlkiaoj9rXzXTkzvaHwh5/bQkrgmnwrV+farbxQFhUrpYGt4qy0CucJMz2b8Qpv2UZVdXchAC8I4hMoUasTktSTrouED9ckrc0aUCugxGbLniQt5xRMlxai1UEaAhbOR8vBeB1W2G6i8t8yhKSQfE4pUMb1aClhogvmbS/WKPsRuWzOikyhNXNjleuhGd7fRS1a7oI4dBg1SjdrcrlN3Q1KbozGX5uNZYuqq0l6MV5/Rz3tEiwB4mphVW8O+SDv7Rs7sSZKB0mXMWabLENjiQJKeYJ1LDh5lkUHxAR879rZ8IKH08u9bkBBFXpbLbeL+kzi6UWTJn1O4v7NY+GueHuTP5/Tv4DMViIZ2tHE=;L0efXe1u4sqy0j/v80fk/A=="
 ---
 
