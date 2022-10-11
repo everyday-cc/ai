@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
+    publishedDateTime: 2022-10-11T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-top-countries-data-trending-technologies-key-players-and-geographical-regions-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "O09/SKAyXUY9/uNvMeZ32WDGmMH+BCAfmpu12AuWEQTskZSTmvzq+pD34ehU4nCovxv3YpB01enB9zUxWEODeX3v7MjTiZad1pyhKg7aK6gyin/0k2Fl6W8O+cZ8g8nMzQdo+TyBFGOjGKB5EoRvzNraRYII+Cnxs1Z/NI0UuLEavwy6LrpgS27DYCKPMRIqXa4ljivI7ZOIpl96oA8Z/MxnwZc00oNmVJwyiw4ZQUpcLZTw2REdvWp8QHBCa305wXIvHUnEOPJ1NFQO3C47qI7GSzPct/TFkbD1RNZsvIblOY7yFZKOPaY05H6cL7ZXOFCKZa+ZBtxjFxImp12C34z6+LSRjKFVO8TpmOyiq38=;XAXsLySVNca/CDqSWfivUQ=="
 ---

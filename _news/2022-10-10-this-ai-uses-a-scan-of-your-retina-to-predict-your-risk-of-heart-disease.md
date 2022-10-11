@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-re
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1068
     height: 601
     isCached: true
+
+related:
+  - title: "Team uses digital cameras, machine learning to predict neurological disease"
+    excerpt: "In an effort to streamline the process of diagnosing patients with multiple sclerosis and Parkinson's disease, researchers used digital cameras to capture changes in gait—a symptom of these diseases—and developed a machine-learning algorithm that can differentiate those with MS and PD from people without those neurological conditions."
+    publishedDateTime: 2022-10-11T18:24:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-team-digital-cameras-machine-neurological.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "qegjZvT+hgbENFsLQqcjNsTRe4AovzCvA9q7IRG7LEaQLAK4nSYmvFCTUgzIOn+AgM0ZbNPr29NE+mVYbe/AvzN51OZVkaMAEaOvwfyHAt1MYKQWg01b8Hf4c9IIktVTgQ6gsCHAI6W9712H64+aa0x5RNI0WbbzdYINlcxG76DNusFgYK7OAPhhKiwYDWXQ/3M0qvJTqnW354S0NScfqW70N8fSvS3KY0GYAs6ZIyK5Nkk8a1cQvp0hZC5+UabCTersKIqsxh7eG5MrhZuqp1pv/jdkvScCH03iiwTO9g22kKA4vi+pinxpX5lc1HsmQIMt44/I9WtkcDdiTnjBHZOAkCXD0dXsTALavDHJKVIXvll4KVS2HgRC2TH3p9dRP8CVj6ZV5Sv+yIGx631SLNRN7Hic0ef2MP3cs9PQ0Ml4Q/UpuAcWqIDJHRVJZmYpmYTtgEry82QGG0KbEF2OvAueDUCGxS+hzYlAWp1xhkZgas4zZFF1O1Zl0UJvzj4P8YO9v3zuEHfR5jCAZQwGJA==;evp0E8oIkHRTCENNsfj1Cw=="
 ---

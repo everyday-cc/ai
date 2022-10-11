@@ -49,7 +49,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/1378388327-artificial-intelligence-2167835_960_720.jpg"
         width: 960

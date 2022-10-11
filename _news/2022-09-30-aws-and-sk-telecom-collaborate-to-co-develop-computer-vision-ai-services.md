@@ -1,21 +1,27 @@
 ---
 category: news
 title: "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services"
-excerpt: "New services will make it easier for organizations to build and run computer vision applications at scale—at the edge, in the cloud, and on premises—to enhance productivity and operations Amazon Web Services (AWS),"
-publishedDateTime: 2022-09-29T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services"
-webUrl: "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services"
+excerpt: "This collaboration aims to make it easier and more cost effective for customers to build, use, and scale computer vision applications, which enhance productivity, maintain equipment, and improve ..."
+publishedDateTime: 2022-09-29T17:18:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_d4b30d7a-5a66-5fb2-b590-3b065991488d.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_d4b30d7a-5a66-5fb2-b590-3b065991488d.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
-  - AWS AI
-  - AI
   - Computer Vision
+  - AI
+  - AWS AI
 
-secured: "cKDRtB7RowYFJhouswZX+olJKJesO8sMZ+iWYSF/mF08504dsGiK+p4TnwspyJOtfEykKP4FEs1E2403eqmqumGXJU+HKh2TXU555sI2yPzsbE+XItk+zywFIZmYtkddP9hIf8nJj4Vqyd24Vm7pfU16tJNqsWmXW/IyGuDMz8CzmRm7Gf7wgChe03RwUwCpw74nqRs74bBQ1RQTufsDgHngC/LO1oTcCRLXRplfDK0xbdpV5fK/qd2piX/8ZO9htT/P9w/oHgywScQh0ODoP/HK5ZQ/8FZHN2AWe+NsrK37p1opVCYVNiQApiFncbQeqsItiRT82wquzgu2H/5htCk28siwDUP/QsSTO+eeKkI=;6d4u3sgAD6OXlJd215il3w=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "qMtZjJL2aOuRgo0HRydAMz4E/MyPGRVhe18dzMsl/qHb7tWrrtW057A5QyjOclyXeCimYDzj6jXgsUQ0lJk9+7RZDLbAR1+QuNSdLyRDbr405PCiHImbLEgVxFy1vGFvnNhPqX+kBmPXIPE4fTbppb1c42+5p8xqiGQO4h8LWBxzCt62zab5T6ksCkWZJGVqUcS5/AxDpOmhEdaen0mB3prqv7aWi0mvISDAmZqbGKW4v0ETjk6L32iyoYBM4k5PG92qmmjFSFWF6Unx1ff5Z2rwHU/rNEcnHn11H068Gjjg0Tjf8YAL1JPa6a2UpAeHh0Wfx+wDaV1oE8LpCqfUobYg9aE/6xAvzoUDv/nAdng=;o1gIlmxYeWePlvuz/477Mg=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-br
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Hindustan Times
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google takes new route to face recognition on Pixel 7 series"
-    excerpt: "Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at th"
-    publishedDateTime: 2022-10-07T02:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/articleshow/94693469.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/amp_articleshow/94693469.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/amp_articleshow/94693469.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27466,msid-94693684/google-pixel-7.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
     excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
     publishedDateTime: 2022-10-07T11:59:00Z

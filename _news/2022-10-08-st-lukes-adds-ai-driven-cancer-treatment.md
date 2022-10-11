@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
+    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
+    publishedDateTime: 2022-10-11T17:17:00Z
+    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
     excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
     publishedDateTime: 2022-10-11T13:00:00Z

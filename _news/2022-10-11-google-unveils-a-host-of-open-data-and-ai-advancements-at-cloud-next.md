@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 639
         isCached: true
+  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
+    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
+    publishedDateTime: 2022-10-11T17:17:00Z
+    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
   - title: "St. Luke’s adds AI-driven cancer treatment"
     excerpt: "St. Luke’s Allentown Campus is the first in Pennsylvania, New Jersey and Delaware to acquire the Varian Ethos therapy system, advancing treatment for cancer patients in the Lehigh Valley and"
     publishedDateTime: 2022-10-08T05:18:00Z

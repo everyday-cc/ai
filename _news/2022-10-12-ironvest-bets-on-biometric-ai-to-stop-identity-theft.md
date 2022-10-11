@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T17:00:00Z
 originalUrl: "https://venturebeat.com/ai/ironvest-biometric-ai/"
 webUrl: "https://venturebeat.com/ai/ironvest-biometric-ai/"
 type: article
+quality: 47
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -17,6 +20,24 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "IronVest bets on biometric AI to stop identity theft"
+    excerpt: "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding."
+    publishedDateTime: 2022-10-11T10:00:00Z
+    webUrl: "https://venturebeat.com/security/ironvest-biometric-ai/"
+    ampWebUrl: "https://venturebeat.com/security/ironvest-biometric-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all"
+        width: 1200
+        height: 850
+        isCached: true
 
 secured: "JQ9RQ6pqVOqB38uyd5US4Rwlp8c8/J5wCwcNpmXOKkmOqd6NYEJDVQNFHyQH9Jt7RilKZNbPoHWqZGhlBzl7LDchl1r1pu50q7ySkdftXZoTQIWCIJ8v6lFkIcXe3bfzmKbTotSCbCkjOHfrmS4pOM3enzBvBnKEqmhbOlyASBnorkn1Gob5bAoZfR7HKQRF/4yNxzJrPN9Y19bxs8QTg/3FZUsF23kjz2/SJPlnDeawtVilg47sSISP/aN9h8VVEjut3ZiZlDsVMKYavnyIHmOviwbYdblQwnsDgxVZtBqXuHETQVBg+ExaDUkOUFme+FqDhsvYrrbMekT4DTRDR+6HNkhWIJeTFyoVKAjs2TDYnnlN9q5Ip936/iZrsVQxa3LtobBYCDEzboxNjxKbbvLlpuAvgBFfDc5lNeanVGhVt0LnOi9yymODMM2K7Dr4n6VGKJDwLQzLz86BBPj3xfezjeYSJbzgUw4ek++HrW707BbxUu9E5wlTSGit96cQk1VV9xXy3PbQ210ai0L79Q==;VIBq0px/HsCoiQh43aa2cg=="
 ---

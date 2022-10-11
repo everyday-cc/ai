@@ -32,6 +32,29 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 48
+  - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
+    excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
+    publishedDateTime: 2022-10-11T21:47:00Z
+    webUrl: "https://dallasinnovates.com/lets-talk-toyota-google-cloud-expand-next-gen-in-car-voice-ai-systems/"
+    type: article
+    provider:
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 38
+    images:
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Lexus-interface-voice-assistant.jpg"
+        width: 970
+        height: 464
+        isCached: true
+  - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
+    excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
+    publishedDateTime: 2022-10-11T17:59:00Z
+    webUrl: "https://www.autonews.com/technology/toyota-google-cloud-partner-bolster-speech-recognition-ai"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "UDOBAekEJjTCsXHL6IHDl3lrRKZnBPOvcL7sTjP/HIP5/5k6Z4w6i1zZOHqyK911Pr7Vld6Ac6HFz00kxrFEL8dYf+I6gMOlrtNMZj5ytqMxmlMvrcFE933acIdqewsVMha/Gw84UwSZzyheyb02JAx5F6qCUwosJobwW6F+mOpY/rJABfteORXaSL4Cog/wHxgSQ6oahFweNXDdMBqZC8ut+0Ao5SPIKNZ+BT7Az0nD9OQJKrsOAW9X3EV165I4FoPm7DnFccSdc6TPVLjb/OjaYZCZX6tD6Vn2J0SO9RdZrpzhWdT1OrBHwYAbOtJ/3RV1Gm8iV1d/j+L6zHFXnFZe2gzo+TjZKhsynaTWzRM=;+U1cjceSrGtODyL8TqzxCg=="
 ---

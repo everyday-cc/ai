@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:15:00Z
 originalUrl: "https://www.commondreams.org/news/2022/10/11/sotomayor-leads-dissent-scotus-refuses-take-death-penalty-case"
 webUrl: "https://www.commondreams.org/news/2022/10/11/sotomayor-leads-dissent-scotus-refuses-take-death-penalty-case"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Common Dreams

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:24:00Z
 originalUrl: "https://medicalxpress.com/news/2022-10-team-digital-cameras-machine-neurological.html"
 webUrl: "https://medicalxpress.com/news/2022-10-team-digital-cameras-machine-neurological.html"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -14,6 +17,24 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "This AI Uses a Scan of Your Retina to Predict Your Risk of Heart Disease"
+    excerpt: "Heart disease is the number one cause of death among American adults. Conditions like obesity or diabetes increase a person’s risk of developing heart disease, and blood tests or blood pressure measurements can provide a better estimate of how likely someone is to have heart problems."
+    publishedDateTime: 2022-10-10T15:34:00Z
+    webUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/"
+    ampWebUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 56
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/10/eye-retina-scan-AI.jpg"
+        width: 1068
+        height: 601
+        isCached: true
 
 secured: "6jSwmSznN4VYqkZrbv+RxnnNa5ndXTmS5PMNul4x9gg+hfy+rLctcvQmrkDtBl//QkSEz19iG+FmnACET6s6PCaFCK1pQmtBh/DJyXi7R9oTgWmM8TyfwTL5aCkfb4uBJSJWnPOuBvj+/ZSDOkKCIpnquikYMn+Qk7YCJkAc1LwWImPRZKfKeUH2xVmMT0TsYz3SRgrrCch+gprK1G518r4azwMpxF3/PgdWn9Uuel/9r6cs3xagNDElw+lWx7YBY/4VIKVb6cwHYvC4zylHHFZb58CS1J/6aXAgt/vTai2lkS1gW5ylGovEse1IzZEoBGWa10AqsCytVyyd+ouEHQeqPOwTu7UkTKENFDjCaRFw0zhuFwhw6kHb21gOSNXFuQpO3McUaX7dQwq1CNrNJQDedjgoxVFw9+xwXK//ezkICczh+RVs1pp2zYvxzYKM85r1XGGSv2ZNXT1rk4rffOjfHmj9WboxxuLae7uT4SRZIy4Nn6CwncDdWf8r4uO+5suB9YaLEinBhoLHuSG4sg==;GGj5/Fr02a11DgP0m/DL6A=="
 ---

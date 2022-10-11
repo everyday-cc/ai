@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:34:00Z
 originalUrl: "https://people.com/movies/watch-an-android-toy-haunt-allison-williams-family-in-m3gan-trailer/"
 webUrl: "https://people.com/movies/watch-an-android-toy-haunt-allison-williams-family-in-m3gan-trailer/"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: People

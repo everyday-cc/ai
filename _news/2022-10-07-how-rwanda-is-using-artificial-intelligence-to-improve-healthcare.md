@@ -2,21 +2,27 @@
 category: news
 title: "How Rwanda is using Artificial Intelligence to improve healthcare"
 excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
-publishedDateTime: 2022-10-06T19:41:00Z
-originalUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
-webUrl: "https://www.ecofinagency.com/public-management/0610-43930-how-rwanda-is-using-artificial-intelligence-to-improve-healthcare"
+publishedDateTime: 2022-10-07T07:42:00Z
+originalUrl: "https://africabusinesscommunities.com/health-industry/features/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare/"
+webUrl: "https://africabusinesscommunities.com/health-industry/features/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: ecofinagency
-  domain: ecofinagency.com
+  name: africabusinesscommunities.com
+  domain: africabusinesscommunities.com
 
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+    width: 336
+    height: 280
+    isCached: true
 
 related:
   - title: "AI and Robotics is the future of healthcare sector"
@@ -87,6 +93,6 @@ related:
       domain: freemalaysiatoday.com
     quality: 34
 
-secured: "fV2TFXTTlTEJ4jV9euEW7UBh/+2GMtYZyEntbPKtqSuRy4WSArNSmU7wk6+Iu6zAwETVV7mW2yFts28kc4RP4MW3gCbMPDPgsKKKz9oc7rj8J1txOaiFEyIuEuBURbC2L3pYKItWsFTULVtqWG8If12leU9Fb81RPY9LfIArxhjP4Ay3SoeG5GBzS8T0DQJ2aGwQG1mN0BkX/nzV7Y4J0hps9fafyCkQPq6cx6udcaBzGXPLIOUx3tHlr0WjyXnseq53/uQScDud6pMp1tvvPAN0Bqik3koGV/GyiwIYD0b8QBk1cB8ai8DZvBoCfE9/9j4TpH1E5jpfs09TSNEIyKnhIdSGmApKNPlx1G2j+TI=;lrCti01Q/5y94hbes/mvVA=="
+secured: "EconPP+HK59BN8AGTG3KYqRF70dgBZ0eF90DaIU742dXXrcfPIDWjXyqm8M8ubrZjofS0V9S9crRz6IxKZS4/uMzmEDH9wF9n1FYRfjDX67Y3LMN+m5G51y2J1YkWyPF9pR1NWzRUnabJUzPaJvPcTzRaTydDMdE+oCP5bhZHUIESeUcx3ZIM95WFvs05Pb0Uf0TT/3JLHIVxBxTxcvLp1uhlZLHAPqnOSv47TJMGr3uyEnLnEjklOWHplGlngFvDOJj5FJoGyz7tXKSi/C8rjDZUneQNWOoB4PUD/UoHn+StWr03doWcDii1M+c/a/E4yRCYCDrxoSYDgSX5CC8vvsZ0tBfhtBpQR4tJvDxujI=;gZ5rdRWoMfRcRTqKaYz9mA=="
 ---
 

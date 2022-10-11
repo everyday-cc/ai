@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: MarketWatch
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Latin America Self-driving Car Market 2022 Insights on Covering Sales Outlook, Demand Forecast and Key Trends 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Latin America Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2022-insights-on-covering-sales-outlook-demand-forecast-and-key-trends-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Neural Networks Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
     excerpt: "Product types of the Artificial Neural Networks market report includes: Google Inc. The application segment of the Artificial Neural Networks market report include: Prominent players profiled in the Global Artificial Neural Networks market include: Google Inc."
     publishedDateTime: 2022-10-09T22:53:00Z

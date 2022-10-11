@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:14:00Z
 originalUrl: "https://www.telegram.com/story/news/2022/10/11/robin-robot-programmed-smiles-pediatrics-umass-memorial-medical-center/8238033001/"
 webUrl: "https://www.telegram.com/story/news/2022/10/11/robin-robot-programmed-smiles-pediatrics-umass-memorial-medical-center/8238033001/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Telegram

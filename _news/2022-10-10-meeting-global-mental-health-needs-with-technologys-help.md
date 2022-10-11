@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-h
 webUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/5f909cb5ee199aa2c8471895/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
+        isCached: true
+  - title: "AI equal to humans in text-message mental health trial"
+    excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care."
+    publishedDateTime: 2022-10-11T21:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg"
+        width: 1920
+        height: 1280
         isCached: true
 
 secured: "AQs/AdM9nq+xn0HJ65qLVzar8BwhWphoS2R2hP/SDj7E09QO5k+0h63GvKwK4ZFdaVeD8BqWtkOG0TeVTDROKDgjJPagai9UtoRSKrwwdiO2O3g7frO+KxYp4z/Mgjo6W9pqQtev2fjZjyTcvz+N2N7RsxOPR0xxjy+U5z/3hxvGBsUTjEtOJ8ntc6030NIFJPfroimFUEy5l/RNm3DLEzmiFCpujVNO1/wNMbTA+62GJ6MB+yrt/gzmhZkVuhSdT3CtpNCrWJ2Z7JMK8OhxKpxRL0udfUGzmCLCS6K5Smu4FkfYmMbcq+EHlObGovyw3i92blC+gNnsbYAHrds8Dk9EKwZFY0XdZlyXhysx4dM=;d3n2WCPf570c7oi0UddOcQ=="

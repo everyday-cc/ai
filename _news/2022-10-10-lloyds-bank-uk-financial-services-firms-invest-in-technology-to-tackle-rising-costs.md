@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T10:10:00Z
 originalUrl: "https://financialit.net/news/banking/lloyds-bank-uk-financial-services-firms-invest-technology-tackle-rising-costs"
 webUrl: "https://financialit.net/news/banking/lloyds-bank-uk-financial-services-firms-invest-technology-tackle-rising-costs"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Financial IT

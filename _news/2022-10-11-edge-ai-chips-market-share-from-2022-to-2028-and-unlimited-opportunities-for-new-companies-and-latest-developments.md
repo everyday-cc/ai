@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-sha
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
 type: article
 quality: 62
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -131,6 +131,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
+    publishedDateTime: 2022-10-11T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-top-countries-data-trending-technologies-key-players-and-geographical-regions-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "BXLjcfpFpS8ClGqDcAXqRNbdOUoo9olDENLekRmf5mw2SQ5eEXRhihvAs9lDHr8oGXnI5yw45WPKs8yGZPrybYKIpzvR0P/56mFB6SknSx7t9xyrcwpecolNB8E2Efanx4IFBY3ERuY2EDQjVJ1qbVRZ5n4pF82UaI3x7GPFufn+TI3ZTDtGx5AnHewOJMISdxXKn/Gvi3ba8juzlVhYIm3rNoTmfLg2owRiprn5FDBSBr2WPc4X9KHq3cORoUnaPZfGXpN+AZpV2jVExlszpVa+yt3vyr7WL+qPBfShIiutdHOHBOC5qXihkPCM1NHJW2KfwYtQO6gOGGwm6ZIHU5blvsLmAjP/VYYzZcI0yAI=;/mpVzJbJAI46BgbVnNbUyw=="
 ---

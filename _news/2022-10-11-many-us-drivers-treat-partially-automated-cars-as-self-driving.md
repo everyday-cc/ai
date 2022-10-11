@@ -43,6 +43,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving -study"
+    excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found."
+    publishedDateTime: 2022-10-11T18:05:00Z
+    webUrl: "https://www.reuters.com/technology/many-us-drivers-treat-partially-automated-cars-self-driving-study-2022-10-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
   - title: "Self-driving cars are coming to Dubai"
     excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
     publishedDateTime: 2022-10-10T05:14:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:48:00Z
 originalUrl: "https://techcrunch.com/2022/10/11/many-americans-treat-driver-assist-systems-like-self-driving/"
 webUrl: "https://techcrunch.com/2022/10/11/many-americans-treat-driver-assist-systems-like-self-driving/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechCrunch

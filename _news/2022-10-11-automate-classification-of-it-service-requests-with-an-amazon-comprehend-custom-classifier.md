@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T19:08:01Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: AWS

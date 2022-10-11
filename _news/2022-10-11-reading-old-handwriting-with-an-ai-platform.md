@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
 type: article
 quality: 57
-heat: -1
+heat: 67
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "How AI and machine learning are changing the phishing game"
-    excerpt: "Bad actors are using AI and machine learning to up their phishing game, and we must address this now, or the game will exceed our reach."
-    publishedDateTime: 2022-10-07T03:25:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-machine-learning-changing-phishing-game/"
+  - title: "Veritone giving sports data an AI voice with Stats Perform"
+    excerpt: "Veritone Voice will be used with Stats Perform’s Opta sports data to bring localized, AI voice capabilities to content creators, media organizations, brand agencies, teams, leagues and betting platforms globally through Opta Voice."
+    publishedDateTime: 2022-10-11T11:08:00Z
+    webUrl: "https://www.broadcastnow.co.uk/tech-innovation/veritone-giving-sports-data-an-ai-voice-with-stats-perform/5175306.article"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
+      name: Broadcast
+      domain: broadcastnow.co.uk
+    quality: 39
+    images:
+      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/5/8/1381558_statsperformoptavoiceveritone1_170633.jpg"
+        width: 1024
+        height: 536
+        isCached: true
 
 secured: "EMIRkUiG3ac4Y5SEv1uTR8ZW3BGjstD0shs0rH75+0sEhOarFcv+GSWk4UTNgk8JgJUKOz/IqHA5VdXjRn1xhwrScbWgLm1Hk8SG22xBg8PZnox7prNuAyOVvmjwhw1SS8qNQHm3IdFk1uIxpDYar8ee7q4JCvCsvpRz6Fj//UCBLVFCH3LauAizUYGbqUMS4gG4j0qZ0Dmez11ABtkSgbWXqbX0idy2ot/SzyDGz6Glqon1kJfLQePvlbM/i+nzZC/+0n4etFEpvMApQyM32aZ8OMOc+uDz0n7c0k8kEO3aOEOR+FAwy6Wy88sxIvmioSAaUhNN4PyHo+U8jrrEmE0EO5HQ6jv/Jy7A4Iu5vKs=;6yXkR0z0KjcY7P6YZVbSpg=="
 ---

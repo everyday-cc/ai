@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T18:15:00Z
 originalUrl: "https://blog.google/technology/health/machine-learning-to-understand-proteins/"
 webUrl: "https://blog.google/technology/health/machine-learning-to-understand-proteins/"
 type: article
+quality: 71
+heat: 71
+published: true
 
 provider:
   name: Google

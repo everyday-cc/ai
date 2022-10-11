@@ -35,22 +35,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Google takes new route to face recognition on Pixel 7 series"
-    excerpt: "Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at th"
-    publishedDateTime: 2022-10-07T02:52:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/articleshow/94693469.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/amp_articleshow/94693469.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/google-takes-new-route-to-face-recognition-on-pixel-7-series/amp_articleshow/94693469.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-27466,msid-94693684/google-pixel-7.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
 secured: "c8UgpdtjUbPeQeZKUcRmvfUvVNLnKGoGJDfRkfFwJIZ4SlgfGlBQE36GgItCBL2GMS01z6x16fyf0IqJsAMz6/q3IwLiTTiYH8jfy59i5luft3AYR+18QYerA8xD2MzOpOvlajmWUUAS4PcWjCojK5YKe3zOqnjM9GnSpGEMoaxB36CIEJy924pt+xZZipIV7GwUW1WsfpyMPhYtOEUy7lGxkc0tKvp7h9moypgfCpTWkLSVPiX0jOjuDg0wZ+JTWOsWaimUGTiCrHTfVyH7NHl/vmfs04Y2DF8FeUo15N20xnBDYhr76vwaPobeTOMZoR++PHg3ipp7ZvLnJXmfmLiH2Owvn9FrFya46r4/5dZSLnIkekB82jQDwC1xAeNEOnlGt8nJ+mu6b2mWyvIswPoFnSNW1B1wxuBs4py7Vlr0/6Fp5932ytuWjRvbt0FNPdNTpdKLPtmqC3OZl2FZ+uHz9+Fp2Gr8C1nRsPPMllD88g5ENF0xA3sEjyL0ueqtp94oe4GQFhoswSxE/ouaYQ==;jmqajm5zJxHGCAphIJnLJg=="
 ---

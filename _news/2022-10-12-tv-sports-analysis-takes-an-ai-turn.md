@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T17:52:00Z
 originalUrl: "https://www.tvtechnology.com/news/tv-sports-analysis-takes-an-ai-turn"
 webUrl: "https://www.tvtechnology.com/news/tv-sports-analysis-takes-an-ai-turn"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TV Technology

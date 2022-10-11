@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Latin America Self-driving Car Market 2022 Insights on Covering Sales Outlook, Demand Forecast and Key Trends 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Latin America Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2022-insights-on-covering-sales-outlook-demand-forecast-and-key-trends-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "vVkodtFpCF1rynZuyEeGgcTQSwvH+B94MXR/TNmxYAEnRwOfPjbL1xKLGcC9kaU4t0IRNRlGCe7yQ47Po8IiBIph2pPHgg84fqLciMsNV8PFxsgup3tXNMNak/Rff/dWqo+7N4RQPqzG5IrcL1lRQbeay9xXFgRquDBMsqkjyMnOQ5BegDqHQLkuBEtUGez7x+XY8jmBpppE/sNgxXqc+R9LDj1ghSElNAlsmcOk7hjrmWVO+QmhMJRv+njRXr8o85kbbteGjuqZAvy0CuUhJ3O0hgym/Jxs/JV3LVjqyzqg09AGmvAZ1wZLMmgH+3o4eX4X1KMGJsk5kdB5Veiv4UnoY+ZX0o1OReqVooaEsyw=;bIQJ1A9Q4Gi6R/KPRIhRTQ=="
 ---

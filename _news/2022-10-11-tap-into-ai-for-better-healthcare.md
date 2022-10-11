@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
+    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
+    publishedDateTime: 2022-10-07T07:42:00Z
+    webUrl: "https://africabusinesscommunities.com/health-industry/features/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare/"
+    type: article
+    provider:
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 54
+    images:
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
+        isCached: true
   - title: "How Rwanda Is Using Artificial Intelligence to Improve Healthcare"
     excerpt: "Viebeg Technologies, a venture capital-backed Health Tech company, is helping to expand access to affordable health care in Central and East Africa by aiding healthcare facilities in procuring supplies in real-time."
     publishedDateTime: 2022-10-10T10:57:00Z

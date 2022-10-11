@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T17:41:00Z
 originalUrl: "https://www.govexec.com/sponsors/2022/10/responsible-ai-speed-mission-how-can-government-agencies-achieve-both/378266/"
 webUrl: "https://www.govexec.com/sponsors/2022/10/responsible-ai-speed-mission-how-can-government-agencies-achieve-both/378266/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Government Executive

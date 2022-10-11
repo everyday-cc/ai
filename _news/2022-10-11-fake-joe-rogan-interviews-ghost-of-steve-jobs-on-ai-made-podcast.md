@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T10:16:00Z
 originalUrl: "https://appleinsider.com/articles/22/10/11/fake-joe-rogan-interviews-ghost-of-steve-jobs-on-ai-made-podcast"
 webUrl: "https://appleinsider.com/articles/22/10/11/fake-joe-rogan-interviews-ghost-of-steve-jobs-on-ai-made-podcast"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
   name: AppleInsider
@@ -13,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "AI-Generated Joe Rogan Chats Up Steve Jobs Over His Use of LSD, Spat With Gizmodo"
+    excerpt: "Podcast.ai generated a fake audio recording using artificial voices and language model transcripts based on Rogan and Jobs’ old public speeches and keynotes."
+    publishedDateTime: 2022-10-11T17:57:00Z
+    webUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 42
 
 secured: "FLN390U1tNXDu2HXmDYeebk6Zr9ZcwnDu2PSA2wzIxUmqQI9HXaDDaNn4rOXLhYofKHjDrBD6CXvkm/DWsD816+9aHL8N5eQ/dZLpB7vMjPXK9w64cA9U89UkYCOpOyAwiMbmft/qzeCCjGSmMw1073QewfF91kbrlrlxN+N6afueE4Aer0lsCM0Qd5TqtLMwUKyfWouRHasa0r9hgXtnjAPCPJsMoSft+nv5Bn9oIJr+K0ywD6OOCr/e63GEDAugRJ3xaRYncCEopWl2m21LsBXiiXORNkQk2jUmqlC/SKGSdUjK7eEOj9RPFxB3LNnHRy17rZoYZEdmeMZdCXL6tsy1/5KQDj6Ce2k4gOAvXL9TwQ97E+nt98cajoVoZE/6pUX+Ak9d3ReJ9i5G6v9L+UMKxH/LhKTa0RujwVo51rXE9SnWPhPXmR9o+p5d4rSZgLwW2fSYGhvMuTclXpr9Jo+aOM3vgOQhLmSPzl5O9WqnXlipe5T6unbc/Q5yeNXF+OnwRf1T7KUopyWWHEseQ==;407Zg5FDys8sr9fIntEyZg=="
 ---

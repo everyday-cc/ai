@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/10/11/deep-dive-on-googles-exascale-t
 ampWebUrl: "https://www.nextplatform.com/2022/10/11/deep-dive-on-googles-exascale-tpuv4-ai-systems/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/10/11/deep-dive-on-googles-exascale-tpuv4-ai-systems/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:

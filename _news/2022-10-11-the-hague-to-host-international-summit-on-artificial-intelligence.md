@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T15:13:00Z
 originalUrl: "https://eturbonews.com/the-hague-to-host-international-summit-on-artificial-intelligence/"
 webUrl: "https://eturbonews.com/the-hague-to-host-international-summit-on-artificial-intelligence/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: eturbonews

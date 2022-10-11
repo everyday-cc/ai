@@ -1,0 +1,46 @@
+---
+category: news
+title: "BigBear.ai Names Amanda Long as CEO"
+excerpt: "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who"
+publishedDateTime: 2022-10-11T20:45:00Z
+originalUrl: "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
+webUrl: "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
+ampWebUrl: "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
+type: article
+quality: 89
+heat: 99
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "BigBear hires IBM vet as new chief executive"
+    excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
+    publishedDateTime: 2022-10-11T21:25:00Z
+    webUrl: "https://washingtontechnology.com/companies/2022/10/bigbear-hires-ibm-vet-new-chief-executive/378301/"
+    type: article
+    provider:
+      name: Washington Technology
+      domain: washingtontechnology.com
+    quality: 4
+
+secured: "sBgG/DyXUPeZMCxJRVYVc9tAIwQveJFy8sOaoO4JS8oWSWx3SuUphXZ87llm6ZZE/954bKk5xsIMSG1oWK1+DQCAloSpvEv2nkUa/D8rZKUE2aSQ1sGH0/3DY+4BedPtt/LpMKQt8EmIu5osUjp/9UxDA62pXYW5F7S0mFqnM0Z0CV7M4+NlPlb12IIAFgayhYDsscLHmVTNS9ydMl6wUvTUIyBo1QlcyNeJQNMQk+h/AwxsntYQ2YdkWEtfFBBZW5F+m+XMFZydtJrx9ugBkIRPypNs2l2Xjq+sTQmphopLY1OiQpsIRuXV8n3x+6Xx+/q7mCTVJjEZMkOwhA0yanj120VZIUxDUkLyy9nD9CU=;h6YgrIlGPdSk+JF70w6Ixw=="
+---
+

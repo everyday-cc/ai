@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T19:46:00Z
 originalUrl: "https://www.ncregister.com/commentaries/was-there-a-need-for-a-second-vatican-council"
 webUrl: "https://www.ncregister.com/commentaries/was-there-a-need-for-a-second-vatican-council"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: National Catholic Register

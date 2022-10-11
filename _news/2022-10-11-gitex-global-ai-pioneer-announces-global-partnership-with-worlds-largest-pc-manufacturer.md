@@ -26,6 +26,22 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Gitex Global: AI Pioneer Announces Global Partnership With World's Largest PC Manufacturer"
+    excerpt: "(AI) pioneer, and Lenovo, the world's largest personal computer (PC) maker, announced their pact to join their software and hardware respectively on the opening day of Gitex Global on Monday. The 42nd edition of Gitex is being held at the Dubai World Trade Centre and the exhibition will run until Friday,"
+    publishedDateTime: 2022-10-11T20:37:00Z
+    webUrl: "https://menafn.com/1105004467/Gitex-Global-AI-Pioneer-Announces-Global-Partnership-With-Worlds-Largest-PC-Manufacturer"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 29
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/11/KT_d8487image_story.jpg"
+        width: 600
+        height: 337
+        isCached: true
+
 secured: "quoAJNBeR+b7+tfvBu/T/no6JBcGqtQ7wBzDMOryPGqB2HMGS6qEu4DP04MzkWKdYpChVgi4NRhUqa/vp7sDs28rhwUI5eT+4GHNT0F+ZULUWdHFqahZJ3MGPbaI/OIvpuExGrL1JAfhSLJX1Z7bRexRhDGi18ffbQo+p471hcCWiJO5Q0qb8WPpftZrINZ91cnkkT0nVHee6Nroi7mb6pWNMCkm2Ld7bG+nNp7B5xmT+XhP7MVLKViOcnyOao5NLseTTndSceMewsfhrWjVIJn2PE3G/+3Gz4D1VXmNLGNxxQkycPwYbvktwaOLJ/bS1ge5R2aIewmz0NJaNYYbtvR+NqD8T+Mz7+6VBfLtKZ7zUOsoCVEx+LCg2AMNXTouSh2b9VE55StRiujcLxJG72jR4K4ZxK+tkxHEIHmy/rdY8D4OlP3SPC7AERhjokddl6BGnf3z1A88CBPj1ZtpBleuFbl8YUUHarlb4hkmfqHS5/ytik4ZhlTYZbTg4KvODWPMyVTW7bnGDoMKWHceAw==;zzZ/x765xOguVI9XOl6Hkg=="
 ---
 

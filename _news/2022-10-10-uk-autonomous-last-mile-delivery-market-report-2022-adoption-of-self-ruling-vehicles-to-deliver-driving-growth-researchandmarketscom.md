@@ -19,34 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "India Autonomous Vehicle Market 2022-27: Trends, Share, Size, Growth and Forecast"
-    excerpt: "According to the latest report by IMARC Group \" India Autonomous Vehicle Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027 \", The India autonomous vehicle market is expected to exhibit robust growth during 2022-2027."
-    publishedDateTime: 2022-10-07T04:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-autonomous-vehicle-market-2022-27-trends-share-size-growth-and-forecast-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
-    excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
-    publishedDateTime: 2022-10-10T16:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-industry-forecast-to-2029-size-2022-statistics-share-growth-rate-trends-regional-analysis-by-key-players-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Middle East and Africa Self-driving Car Market Report 2022 Industry Trends, Share, Size, Demand and Future Scope 2030"
     excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Middle East and Africa Self-driving Car Market are also discussed in detail in the research,"
     publishedDateTime: 2022-10-10T06:54:00Z

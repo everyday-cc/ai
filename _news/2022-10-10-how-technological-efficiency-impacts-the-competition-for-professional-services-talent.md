@@ -45,6 +45,22 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "AI equal to humans in text-message mental health trial"
+    excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care."
+    publishedDateTime: 2022-10-11T21:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
 
 secured: "JYNlDfBV0CUbdJpLUkV3XEymZ0nzeTpWHDXLQFJwW8pBklTVd3ozYA8zecVqou8U387B6FN0GmV+UWVZbrk19WAAW3JIk6st8M6njc6NFDqPCvbheuB65skK7PZVLt8tvhTNQEAJvIIFPWNHQv56pTacjwcP2zlFvLQdsJKL7O0e8qXZt7Nd1uRmj7tkCbs+UB7LgKm0FkSR38omCNVZVQcTJOHPmFBOkGJyw1WmBGV1bgLgfnyOgWmsFoEOkHK+NgUP/+590TgxRI65CM+zBAZyeyFFmE2eWR7ECdEO9JsKVEdzUIlVCMz/qY0mSUrWogdzXny8yY9ujFFXGnBmOxxUw33UU5TEbgJFwoXaBT1dSXfrxfOZKnVGFlooDvQ5SPuHZy+PUIolcDVYf5lACb4O3VZaf4MAZGty5ujkb4sGWeoBPU7FCVI9KWDu2aoI0bXEpwhpRpEcB0CrQyPASQobA9a8POqOjK3WG4w+YptMbprrWrElTORXZJ4vRUFryLAWAMfvhzkdHQNjBWWVnA==;EJ0AVOtv0mtaFo0eW9ljzQ=="
 ---

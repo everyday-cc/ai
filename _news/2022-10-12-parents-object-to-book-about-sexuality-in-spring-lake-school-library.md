@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T17:56:00Z
 originalUrl: "https://www.woodtv.com/news/ottawa-county/parents-object-to-book-about-sexuality-in-spring-lake-school-library/"
 webUrl: "https://www.woodtv.com/news/ottawa-county/parents-object-to-book-about-sexuality-in-spring-lake-school-library/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: WOOD-TV

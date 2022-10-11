@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T15:00:00Z
 originalUrl: "https://www.cio.com/article/409275/at-astrazeneca-data-and-ai-are-more-than-game-changers-they-are-life-changers-2.html"
 webUrl: "https://www.cio.com/article/409275/at-astrazeneca-data-and-ai-are-more-than-game-changers-they-are-life-changers-2.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: CIO

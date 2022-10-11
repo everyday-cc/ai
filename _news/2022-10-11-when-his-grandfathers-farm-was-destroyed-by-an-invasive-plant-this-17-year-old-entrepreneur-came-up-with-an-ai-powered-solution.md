@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T14:30:00Z
 originalUrl: "https://www.entrepreneur.com/science-technology/this-17-year-old-founder-is-helping-farmers-using-ai/436766"
 webUrl: "https://www.entrepreneur.com/science-technology/this-17-year-old-founder-is-helping-farmers-using-ai/436766"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Entrepreneur

@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How Rwanda is using Artificial Intelligence to improve healthcare"
+    excerpt: "Drug stock-outs and shortage of medical equipment in health facilities in Rwanda are becoming a thing of the past, thanks to an innovation that is addressing procurement constraints. Viebeg Technologies,"
+    publishedDateTime: 2022-10-07T07:42:00Z
+    webUrl: "https://africabusinesscommunities.com/health-industry/features/how-rwanda-is-using-artificial-intelligence-to-improve-healthcare/"
+    type: article
+    provider:
+      name: africabusinesscommunities.com
+      domain: africabusinesscommunities.com
+    quality: 54
+    images:
+      - url: "http://adserver.20nine.nl/www/delivery/avw.php?zoneid=85&n=238f97b"
+        width: 336
+        height: 280
+        isCached: true
   - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
     excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
     publishedDateTime: 2022-10-11T06:39:00Z

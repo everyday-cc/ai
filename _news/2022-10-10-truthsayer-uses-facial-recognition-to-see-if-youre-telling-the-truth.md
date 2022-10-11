@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-10T00:00:00Z
 originalUrl: "https://hackaday.com/2022/09/02/truthsayer-uses-facial-recognition-to-see-if-youre-telling-the-truth/"
 webUrl: "https://hackaday.com/2022/09/02/truthsayer-uses-facial-recognition-to-see-if-youre-telling-the-truth/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hackaday

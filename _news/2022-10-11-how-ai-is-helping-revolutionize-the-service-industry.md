@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-11T16:13:00Z
 originalUrl: "https://www.tmcnet.com/topics/articles/2022/10/11/453739-how-ai-helping-revolutionize-service-industry.htm"
 webUrl: "https://www.tmcnet.com/topics/articles/2022/10/11/453739-how-ai-helping-revolutionize-service-industry.htm"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
