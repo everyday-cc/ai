@@ -73,20 +73,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
-    excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
-    publishedDateTime: 2022-10-06T10:32:00Z
-    webUrl: "https://www.zawya.com/en/business/healthcare/mubadala-health-g42-healthcare-to-create-new-entity-embodying-the-future-of-healthcare-vfmjiodg"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://static.zawya.com/version/c:NTNkODk4NDEtMjA0MS00:MDJmNzQ4/210304082328cwrq-jpg.jpg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "hZVVSL9R7mPJl8GV783asgiXVazn+j50G/Qi3DoauEtfbnSlJVxCqTV3YZK5ZqPcH5NFnFRGyMINPgueafBqjPG3LbomIaKSO7pFMgr1aycj1i6achCLMzCAR1jN01Gf++55rfniipjNmauBLKJIm1Lhrc//J2ppy+LSSf43sShMmkxXPrhG8nlw7xaGFjE2f1kspSoEDcx4BnKT5uhu/5dDKnkuAsaDdNXabD76PBSys7f2+/cLZVkTPw2acUGSgC92Q0im0VljD7FS/rJjGFCJpix6JQdp4yMRjfcV/cjtL9lvwux8GFhWcD6zJqqploMUDIM99ssMjrY1ODr3aiKJxgtDLOyCSxWI+DWr91c=;wGFu0/eBystinpAanbiVlw=="
 ---

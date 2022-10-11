@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
 type: article
 quality: 106
-heat: 156
+heat: 146
 published: true
 
 provider:
@@ -74,20 +74,6 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 34
-  - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
-    excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
-    publishedDateTime: 2022-10-06T10:32:00Z
-    webUrl: "https://www.zawya.com/en/business/healthcare/mubadala-health-g42-healthcare-to-create-new-entity-embodying-the-future-of-healthcare-vfmjiodg"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://static.zawya.com/version/c:NTNkODk4NDEtMjA0MS00:MDJmNzQ4/210304082328cwrq-jpg.jpg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "+Nwk4nUtlvN/xTE7ECyWLB5VIqUaUHWX01LCwTcCE3qA7JQAbZaEdWVIZ4trEUVZZeiRfooY8ybF0aETBJ12GBu77SO5V2jAEAICfDTcAtnrz/i73wmF1X79zov7IUkYyasvCUGcxu6QO+wJK/j9wdRKXUzHsAee92eNNhbgAPFMBMz/R4lGgFauhdgAU9u6IgrrLyuEE2H/S0C43zjIx52snWlT+9d9KSAfIDYIhb68+f1BCWqr5YPsZYaqDzW7dYp/gZvbpua6k60Y4Ckww+ZPXNNVXVXAlA7TY/X4zq4AF+iBb7qZ3TCCqxgfoZw624s+YrUlf7AwguTgQyL7e81hkdU3O+A1FvIJIJPYrYo=;zZ1HJEg3s0pepRuBvaKY8Q=="
 ---

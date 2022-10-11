@@ -218,7 +218,7 @@
       "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -566,7 +566,7 @@
       "originalUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1177,21 +1177,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-07-robot-ai-da-will-speak-to-the-house-of-lords-in-westminster.md",
-      "title": "Robot Ai-Da will speak to the House of Lords in Westminster",
-      "excerpt": "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries.",
+      "path": "_news/2022-10-07-boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers.md",
+      "title": "Boston Dynamics: We won't weaponize our robots and neither should our customers",
+      "excerpt": "The company's open letter highlights that consumers' trust in robots has waned after seeing weapons combined with autonomous and remotely controlled robots. Also: The White House passes an AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/newsround/63173407",
-      "originalUrl": "https://www.bbc.co.uk/newsround/63173407",
+      "webUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "originalUrl": "https://www.zdnet.com/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg",
-          "width": 640,
-          "height": 360,
+          "url": "https://www.zdnet.com/a/img/resize/718372034ce92ee7772a751ee6c975e2498c3e13/2020/06/16/a4a4823e-ca8b-440e-a820-258bff48d5f8/spot.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 961,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1199,14 +1199,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/newsround/63173407.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp",
-      "publishedDateTime": "2022-10-07T07:38:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/boston-dynamics-we-wont-weaponize-our-robots-and-neither-should-our-customers/",
+      "publishedDateTime": "2022-10-07T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1215,8 +1224,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

@@ -41,6 +41,22 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
+    excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
+    publishedDateTime: 2022-10-11T03:20:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
+    type: article
+    provider:
+      name: This Day
+      domain: thisdaylive.com
+    quality: 53
+    images:
+      - url: "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m"
+        width: 750
+        height: 600
+        isCached: true
 
 secured: "PhRls++D5/XfZ248TBbZ9vhAh416ECb1ylo5pRbTgqLUaQYtBJPy267bbAvXzkWPfUkl81rlds4t0ZK7QndVkhG8oar0MzMaIe3DyRyphRan+v9+LHrAnXwVuust7yRWKTZDZTwUZb2Cs8hAFD/h1P5E3NtmbD9fWETJ2X6E7+Vja6DHetuSseg2TbKBCD4HB05A4isYeJYerMNm+rM+RWI4TZdpYmhspba0fLmqgr4xo+4pmgqBczaKZBlps2O1NkdXZEHYprtXPFvZVT098GIt6F8fhWVQyAc75IOKCRFKNYj+BFw3E/VNUCMEPjXJftK3hFVUfMv/SjPr+Dz2AJyEM+QTpkCl+9jnT6wqzFIUBOrYfaOb8/dlpdYAS8STcO6YR2mbsOfF8Utm/zsV6jWHuJ8TeV/+55PDPJZ08rf86fB5KPk1/ZF+OeaLcUSYjM/yBDaxxvvsBIuBKp07LS2l2F4buyyTcVeAH9N1s+WrU1DHB9qqMB2YrQ/cXAfQ32U4tcoM7ODpAlfMpciLfQ==;MQUl79AMr4fa5+y077KBWg=="
 ---

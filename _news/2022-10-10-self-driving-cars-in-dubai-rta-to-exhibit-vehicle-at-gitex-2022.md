@@ -51,22 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gates Hub participates at GITEX Fintech Surge 2022 in Dubai"
-    excerpt: "Gates Hub brings its crypto and fintech solutions to GITEX Fintech Surge 2022 After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai,"
-    publishedDateTime: 2022-10-06T09:37:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/06/Gates-Hub_183aca7613a_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
     publishedDateTime: 2022-10-09T10:13:00Z

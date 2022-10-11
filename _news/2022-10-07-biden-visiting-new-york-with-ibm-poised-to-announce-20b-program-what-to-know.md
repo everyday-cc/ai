@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/news/politics/2022/10/06/biden-poug
 webUrl: "https://www.usatoday.com/story/news/politics/2022/10/06/biden-poughkeepsie-ibm/8194658001/"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Biden tours New York IBM site after company announces $20B investment"
+    excerpt: "artificial intelligence and quantum computers.\" \"IBM is deeply honored to host President Biden at our Poughkeepsie site today and we look forward to highlighting our commitments to the innovations ..."
+    publishedDateTime: 2022-10-06T21:40:00Z
+    webUrl: "https://www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment"
+    ampWebUrl: "https://www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment.amp"
+    cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/markets/biden-tours-new-york-ibm-site-after-company-announces-20b-investment.amp"
+    type: article
+    provider:
+      name: Fox Business
+      domain: foxbusiness.com
+    quality: 44
+    images:
+      - url: "https://prd-streamcontroller-videoops.s3.amazonaws.com/thumbs/Biden_in_Rose_Garden_August_8_2021.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "8kqknPKiy0ri5ZLrFSDq/zo2Gx9CeyYFJNs7lezTJcsAMD8su7Jga1cBczEkIWSgmfscG4L//Jz0eyRCyt7TzFz9gTEobSa7IO+B5TuQucV1ApdkGg2jkUoa7SlArZv0PcYsbsSKMwHBcgBm2lWCZ9MjsGdVWMG/T3szevgHvw8SalZ/iIRfE8Ir91UxLPgab18oNkCzrzPnmOnCJGFXjHGS7Adk47r8Kw9qVABkBcgMRlK7nsg9YG4bLWjXjTIYVxA+rTW+zxfFajmQNUmeiVIbwKxnn5C2j74NUn0ppOGnkIOEjQ8FANts1pHWEWK7oUcrRmFy9ZJbZe+RyEbC0NtKKEoOcBVdGgft1bvuZHY=;CGyEiMgcBJePETBsykifjw=="
 ---

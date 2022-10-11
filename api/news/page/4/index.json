@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-05-bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.md",
+      "title": "Bunnings denies use of facial recognition technology in New Zealand stores",
+      "excerpt": "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
+      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg",
+          "width": 768,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
+      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
+      "publishedDateTime": "2022-10-04T20:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newshub",
+        "domain": "newshub.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-bloom-ivf-group-rolls-out-artificial-intelligence-across-its-clinics-in-india-helping-patients-get-pregnant-sooner-and-for-lower-cost.md",
       "title": "Bloom IVF Group rolls out Artificial Intelligence across its clinics in India, helping patients get pregnant sooner and for lower cost",
       "excerpt": "One of the oldest IVF chains in India, Bloom IVF Group, is using a new Artificial Intelligence technology across their clinics, helping patients get pregnant sooner and more affordably. The AI software called Life Whisperer analyzes images of patient embryos to assess their quality,",
@@ -623,6 +666,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
+      "title": "White House unveils artificial intelligence 'Bill of Rights'",
+      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe",
+      "sourceUrl": null,
+      "webUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "originalUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "cdnAmpWebUrl": "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
+      "publishedDateTime": "2022-10-04T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Post Register",
+        "domain": "postregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-seeks-to-accelerate-ai-inference-with-open-source-aitemplate.md",
       "title": "Meta seeks to accelerate AI inference with open-source AITemplate",
       "excerpt": "Meta is open sourcing its AITemplate technology that enables AI inference to run across multiple hardware vendors, with the claim of better performance.",
@@ -1070,101 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
-      "title": "TechStars CEO On The Future Of FinTech",
-      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "publishedDateTime": "2022-10-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
-      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
-      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
-      "publishedDateTime": "2022-10-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

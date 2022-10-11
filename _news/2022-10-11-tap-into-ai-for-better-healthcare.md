@@ -72,20 +72,6 @@ related:
       name: ecofinagency
       domain: ecofinagency.com
     quality: 34
-  - title: "Mubadala Health, G42 Healthcare to create new entity embodying ‘The Future of Healthcare’"
-    excerpt: "The new entity will seek to revolutionise the regional healthcare landscape and deliver a new approach to personalised, patient-centric care"
-    publishedDateTime: 2022-10-06T10:32:00Z
-    webUrl: "https://www.zawya.com/en/business/healthcare/mubadala-health-g42-healthcare-to-create-new-entity-embodying-the-future-of-healthcare-vfmjiodg"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 30
-    images:
-      - url: "https://static.zawya.com/version/c:NTNkODk4NDEtMjA0MS00:MDJmNzQ4/210304082328cwrq-jpg.jpg?f=3%3A2"
-        width: 799
-        height: 533
-        isCached: true
 
 secured: "36KxmKLnrdyWiAflMHZqgGpbaOG5RS7rW0JtUx1X24RzH87qKf8ikW/Q0frvwvRQ/1QnuIj7WeYbyhke8KkfJaRtsjm7w+Fhki6nIYxXEJsHHe0ng6DMjvxkU3FbPhpa8w/8XHVHw7cFb9lmrVbSZBjCqUXw6e5V/C+g8URhF1Blt6g1natC6IIYN95AAxTbrfHbcdJSfkjAoNjx7yBmlVIreDg6VG8IBdWmEZpOLoH6RMMoGPliRe6hcT7VjIWoYUDSNc9/k08LRo0ZKSDJDgnlSGHqWw+iSJfv94RU7xDaPmePovtSbMJs05D5bk3aOAzjQCuiAxgOKVLe8Knhb+Im5v0D+nD50oS8lxB5lbspsPh3H6Skon7Wfu37/7mF83T9rLlyKRXr4VGw3wcWp+JmHUadhVe0cIGYQq7vqieJaFMVEVDaz1fXfNVzkIW7G8XMF2ultFzsQgrZ6dQnh/mz+0Wcp88Q9HtmxNCwvR++PxMxxDtqBbAclXIIsQ2K3xIE6I6ZcPB1ZkwUTVTrTw==;CfHJGhLvhwJkwifLdoMudA=="
 ---

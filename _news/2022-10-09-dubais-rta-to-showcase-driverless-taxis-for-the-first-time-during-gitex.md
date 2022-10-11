@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Gates Hub participates at GITEX Fintech Surge 2022 in Dubai"
-    excerpt: "Gates Hub brings its crypto and fintech solutions to GITEX Fintech Surge 2022 After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai,"
-    publishedDateTime: 2022-10-06T09:37:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/06/Gates-Hub_183aca7613a_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "RTA to exhibit self-driving cruise vehicle for the first time at GITEX 2022"
     excerpt: "RTA has outlined an integrated roadmap for the future of self-driving transport. It is moving ahead toward realising the Dubai Smart Self-Driving Transport Strategy aimed to transform 25% of total mobility journeys in Dubai."
     publishedDateTime: 2022-10-09T14:50:00Z

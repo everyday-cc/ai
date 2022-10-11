@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-06-global-marketing-study-on-machine-learning-stock-2022-2029.md",
+      "title": "Global Marketing study on machine learning stock 2022-2029",
+      "excerpt": "Theglobal \"Machine Learning Stock Market \"2022 research report provides an in-depth analysis of the current trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
       "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
       "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
@@ -202,6 +255,39 @@
       ]
     },
     {
+      "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
+      "title": "Artificial intelligence may improve suicide prevention in the future",
+      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. “Having AI that could take in a lot more data than a clinician ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/967008",
+      "originalUrl": "https://www.eurekalert.org/news-releases/967008",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-google-answers-metas-video-generating-ai-with-its-own-dubbed-imagen-video.md",
       "title": "Google answers Meta’s video-generating AI with its own, dubbed Imagen Video",
       "excerpt": "Google's Imagen Video model, like Meta's recently detailed Make-A-Video, can generate short looping clips given a text prompt.",
@@ -249,49 +335,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
-      "title": "Artificial intelligence may improve suicide prevention in the future",
-      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg",
-          "width": 2880,
-          "height": 1866,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
-      "publishedDateTime": "2022-10-05T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1160,49 +1203,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.md",
-      "title": "Bunnings denies use of facial recognition technology in New Zealand stores",
-      "excerpt": "In Australia, Bunnings and Kmart have put the use of controversial cameras on pause while they are under investigation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
-      "originalUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores/_jcr_content/par/image.dynimg.768.q75.jpg/v1664940713801/rnz-phil-pennington-bunnings-1120.jpg",
-          "width": 768,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
-      "cdnAmpWebUrl": "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/new-zealand/2022/10/bunnings-denies-use-of-facial-recognition-technology-in-new-zealand-stores.amp.html",
-      "publishedDateTime": "2022-10-04T20:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newshub",
-        "domain": "newshub.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

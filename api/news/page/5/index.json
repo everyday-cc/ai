@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
+      "title": "TechStars CEO On The Future Of FinTech",
+      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 835,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
+      "publishedDateTime": "2022-10-04T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-robot-that-makes-french-fries-faster-than-humans-developed-in-us.md",
+      "title": "Robot That Makes French Fries \"Faster\" Than Humans Developed In US",
+      "excerpt": "Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot, which automates the process of deep frying potatoes, onions and other foods.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "originalUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-10/u91evqeo_french-fries-robot-650_625x300_04_October_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/robot-that-makes-french-fries-faster-than-humans-developed-in-us-3402602/amp/1",
+      "publishedDateTime": "2022-10-04T04:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-aiello-inc-raises-us58m-to-expand-its-voice-ai-solutions-internationally.md",
       "title": "Aiello Inc. raises US$5.8M to expand its Voice AI solutions internationally",
       "excerpt": "Aiello Inc.(Aiello), a leading Natural Language Processing and Voice AI startup, announced it has raised US$5.8M in a Series Pre-A+ funding round led by two major institutional investors, JAFCO Asia and Wistron Corporation.",
@@ -456,49 +551,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence ‘Bill of Rights’",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of",
-      "sourceUrl": null,
-      "webUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "originalUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/",
-      "publishedDateTime": "2022-10-03T16:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MyNorthwest.com",
-        "domain": "mynorthwest.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1139,40 +1191,6 @@
         "AI in Finance",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-after-hurricane-ian-robots-to-the-rescue.md",
-      "title": "After Hurricane Ian, Robots To The Rescue",
-      "excerpt": "Flying, swimming, and even crawling robots are becoming vital tools in disaster response. How data from robotic partners can help steer scarce human resources in dangerous terrain.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencefriday.com/segments/hurricane-ian-robots-rescue/",
-      "originalUrl": "https://www.sciencefriday.com/segments/hurricane-ian-robots-rescue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Friday",
-        "domain": "sciencefriday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

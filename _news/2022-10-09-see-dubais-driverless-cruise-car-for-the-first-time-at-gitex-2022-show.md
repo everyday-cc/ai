@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Gates Hub participates at GITEX Fintech Surge 2022 in Dubai"
-    excerpt: "Gates Hub brings its crypto and fintech solutions to GITEX Fintech Surge 2022 After tremendous success with its prominent presence in the market, Gates Hub is thrilled to participate in the largest Fintech event in Dubai,"
-    publishedDateTime: 2022-10-06T09:37:00Z
-    webUrl: "https://gulfnews.com/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    ampWebUrl: "https://gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/corporate-news/gates-hub-participates-at-gitex-fintech-surge-2022-in-dubai-1.1665048520678"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/06/Gates-Hub_183aca7613a_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
