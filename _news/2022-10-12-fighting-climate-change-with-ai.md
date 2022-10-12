@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg"

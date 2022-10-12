@@ -6,24 +6,14 @@ publishedDateTime: 2022-10-10T13:07:00Z
 originalUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
 webUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: WBUR
   domain: wbur.org
 
 topics:
-  - AI in Healthcare
   - AI
 
-images:
-  - url: "http://media.npr.org/assets/img/2022/10/06/20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg?s=5"
-    width: 786
-    height: 589
-    isCached: true
-
-secured: "y2mq3kkUIKdesHTE7ZI24FcbxAAbjCl/uOAbw5NRukoxRi/iQ47rIjfpQbeOnOWNZ6LW/npcdR/nUyRH0uKK4PudM3PO6HfgFmFDIkhFDzB4iv/Oukt/Z+ko05XlUK7hNJXopgmGeMrhUm+tHDvDSpL9yQOnCp0r2dwYYr5/GYuWwP7E3VCvcAvMXCyvqmxFVs53q9d9IXH1i4kajF9FY1ImF984Opp4mXtn/EHYhsp4LLlPrV/VGG2b1viuAu6bTJ6VBmenCGx44E9eN1EynmIIXG5MFAMk8zDwaUrbpHuBIs8HKnHq3nTacNDVO6pX8sCxptT+A/FDs1MqjZ3la5i7hqtJzAWCzU2SpAnXob0=;ZXq624zzyyG/jYt4UodgZw=="
+secured: "TubAr9e1e6hRZhRbiOp9FgFmAfW51Mhc5nLldnEPQoa7X9s7h/7rMZaMiSGZPkWc3W4WjMYSx9hBChHahLwJRUd5a0i9GQj9OM4dc32iKE+RIOobrGjyyfT5LwLOncAO3DorA308kyP+XbTXBMuYQvHRKAZrAxMXZyi4vjEGoWI7rhC8NU7FUrDkJXt+72NoJnCWDFu4+/JlGXd6z+opA1BTc9nC+Uvx3DXJAQTOXtrEVN+OBj+HznaPivu7WC51kVY6gNlBHch5G5hug9uwVqL1pBot2Xwpw+dn8YxX60ax0W7hYW2eQpIuvyrHTwP1F9hPWZa+CQHxD5OyK3i2HTiKGVX90LJl65PEoUAn0Fc8K9BTLFwWguodEfVOpNbi7WHS+DJxkhcNXfTNIeqgHwwLaoIncOmt9smEP5eZ5A7bz1NggABWCsuDFqDIJtTh/u8/pHeNUNXJZIN2lypAId8r0IktyrvjQwN4pPfVZQHioGO0vpjcAwU0rd9mSxRO8VMh0Jd/KqE5VMVNlqO82g==;83RSKnYhY5mj2Fz1xWNrNw=="
 ---
 
