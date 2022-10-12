@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "botanic_io"
   url: "https://www.twitter.com/botanic_io"
-  followers: 548
+  followers: 547
 
 locations:
   - CA, USA
