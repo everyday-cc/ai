@@ -4,7 +4,7 @@ otherNames:
   - "Tesla Motors"
 overview: "Tesla’s mission is to accelerate the world’s transition to sustainable energy through increasingly affordable electric vehicles in addition to renewable energy generation and storage. CA-based Tesla is committed to having the best-in-class in safety, performance, and reliability in all Tesla cars. There are currently over 275,000 Model S, Model X and Model 3 vehicles on the road worldwide. To achieve a sustainable energy future, Tesla also created infinitely scalable energy products: Powerwall, Powerpack and Solar Roof. As the world’s only vertically integrated energy company, Tesla continues to innovate, scale and reduce the costs of commercial and grid-scale systems, with the goal of ultimately getting us to 100% renewable energy grids."
 type: "profile"
-heat: 580
+heat: 598
 
 website: https://www.tesla.com
 
@@ -18,7 +18,7 @@ crunchbase:
 twitter:
   username: "tesla"
   url: "https://twitter.com/tesla"
-  followers: 17163753
+  followers: 17165019
 
 size: 10,001+ employees
 yearFounded: 2003
@@ -43,6 +43,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "j/Caz5YZOS2+uY0B4b4rRcGmFyO3zTa7XZ5kic6T4ppwbrwjTHV3J9iCZ2C5PoOPIfrSsUdV5+ekhCUH+6evbst23mlQfUf4bomNbWNKsh+vxu74Og38v2UJlBOLKNPuLK9eIVC1q/MAzf/47wdplrXcUy0p01+cCW+LIHwPQgHyMkdyPz/MfKFaYXg+ytILfuVeCxFEBR0hdgsIHvGwdoJMQdqbIpbRqBw/U6Nk4oDFRrlc/0oCUFdwCOL07Pcxt6ahX/q1Znd17lM73n8+0hdp4oCyT4s4IeOiMGpb8D2qGwd08Xndli1UitFolLGxcZGtP2M8U9otAbTi5Yl/5QYGHKoS+dphBwdqEG+XS0Lyy5FVqAaG1iaed8Ecae1cCPsikjlhwmbU+KLj5biEuYjq7Z1NQx80g57GfZixOKk=;s9DVfZOXO7DU3a4kf/OkJg=="
+secured: "/7Hmv3zfIYKTfnfDOYNPYEmy4YqluYywcHSESk1tcTOw790kniq/jIcEnD6ZtNVBpebS5WJlCDTtMjTDeHz53Sr+y0HRx/2W1k/eLM7SSVK4IwXQnyKu6nr1hQfbcFX83B+uPx8XM6pxKYU/WcJNSKBtYeFhb/V+ym43nFffCJStEXxcXv7CAXYTypcDsfjZ0cwzeVjjbIqYL8PufAqOzspQdApX70PwB2fPQ7xPV+ORPM7DjEb2NjVlxXp05GjQrrlqj2rwVp4mYxwoqQQoz6GvNeQ04E9f6imNKztVroIYX5SiKBj6ZbsG7Kr5a8D0zAGBd06DFAghV6+3Df5UdJvUOuU1/EaUH/KTk63QtWnlyowy778VQ9uB+l1DTzbzOIVNM4arUT3KBRZmDEtmXKdl2JkYo0C9e313oovNwns=;uZgAea/SSxXSEKqerJi3CA=="
 ---
 

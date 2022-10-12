@@ -2,7 +2,7 @@
 name: "Baidu"
 overview: "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need."
 type: "profile"
-heat: 65
+heat: 110
 
 website: http://ai.baidu.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "BaiduResearch"
   url: "https://twitter.com/BaiduResearch"
-  followers: 58959
+  followers: 58960
 
 size: 10,001+ employees
 yearFounded: 2000
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "spRKEWSBHXgbmJlNE8Wd9rz8cAakUwRY5RyFAOkdUpJ62wvNRrbgQXao2P+TW9+mhiXKsOkeMrYe/rWL/AADAy1XNfYrZiLX4hhWJgv9B8GRosDQUW4b/9+lnDZk3Y13u1VbwtaxUvjSXN+afFUuBhkIfF0OjbLKPkKmANraBC10z7PHg/DdoPhwKGg1W0yMNEKKlDhMOPf+ELg4hFS9VMDKihGTrC+5KS6d65KQXLm+sKGx1Plj2i2qJ3LTB1dozJklUZos9BNahHM23eFli6LEyeK4iZzuxg2agOeKzmStzyeEL0UoESucjOc69fvThhVyZpGtN7u2AM+IFlwf1O12lUedvCKWOAnxWSPje6+QJ8mbMiuijf1qcDcsPYZr/dXrAx9Tsv6bmv1uzusM/iIpKhP1MGQsvOCgP6PD4Ic=;TK5GyAeDWZA9veGVpsrhfg=="
+secured: "sAd4/+S/3MS0OfEK+JJJ3H2Ae5LojbHGLue+n+SzVPG9/PchkJV9jTYvTzyouqQ8cixhyXXWXnQCNNFfKHJEkcEOvOhGOD1WRsfs+ACz8QoE0me4+umqE4VeFb7nbKJB4fYg/09PlF0lCjy3+2qSIDbmaVo4xdc4vn5IVQMVM35sO+yQJgXWtdeeI7Tx+ebiA3K9AL6mPV1uU761BL9+Pzz7a0FQiVqJAagEYeSY3v+TZcCRgnOhnZImbZbTNXOKvucnq/9wxAU6vOfc1sxIAmdLmTJi/DKOtpk/1CXoOvF6obT0XF7VrQGCRA/GwyIaZ7Q0foLrQBxy1fk6dJRNfuBKKZjWw1WL4UFLLSYlSsjNCtNKamJkk3zfNttFHdDNZun85eyuXQVN6fofU//bajSMHaYxHn/fjLXJhKlturY=;RWVXAEzm5G9Lggz1PrqhUg=="
 ---
 
