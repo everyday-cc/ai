@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T11:00:00Z
 originalUrl: "https://www.wired.com/story/us-chip-sanctions-kneecap-chinas-tech-industry/"
 webUrl: "https://www.wired.com/story/us-chip-sanctions-kneecap-chinas-tech-industry/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Wired

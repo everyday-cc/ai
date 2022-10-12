@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Veritone giving sports data an AI voice with Stats Perform"
-    excerpt: "Veritone Voice will be used with Stats Perform’s Opta sports data to bring localized, AI voice capabilities to content creators, media organizations, brand agencies, teams, leagues and betting platforms globally through Opta Voice."
-    publishedDateTime: 2022-10-11T11:08:00Z
-    webUrl: "https://www.broadcastnow.co.uk/tech-innovation/veritone-giving-sports-data-an-ai-voice-with-stats-perform/5175306.article"
+  - title: "Fighting Climate Change with AI"
+    excerpt: "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?"
+    publishedDateTime: 2022-10-12T14:05:00Z
+    webUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/"
+    ampWebUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
     type: article
     provider:
-      name: Broadcast
-      domain: broadcastnow.co.uk
-    quality: 39
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://d11p0alxbet5ud.cloudfront.net/Pictures/1024x536/5/5/8/1381558_statsperformoptavoiceveritone1_170633.jpg"
-        width: 1024
-        height: 536
+      - url: "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "How artificial intelligence and virtual reality are changing the way children learn"
+    excerpt: "Artificial Intelligence (AI) and Virtual Reality (VR) are not just hot topics, they possess the ability to way to customise the learning journey of each student, thereby moving away from the ..."
+    publishedDateTime: 2022-10-09T13:58:00Z
+    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 53
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/edtech-children-4.webp"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "EMIRkUiG3ac4Y5SEv1uTR8ZW3BGjstD0shs0rH75+0sEhOarFcv+GSWk4UTNgk8JgJUKOz/IqHA5VdXjRn1xhwrScbWgLm1Hk8SG22xBg8PZnox7prNuAyOVvmjwhw1SS8qNQHm3IdFk1uIxpDYar8ee7q4JCvCsvpRz6Fj//UCBLVFCH3LauAizUYGbqUMS4gG4j0qZ0Dmez11ABtkSgbWXqbX0idy2ot/SzyDGz6Glqon1kJfLQePvlbM/i+nzZC/+0n4etFEpvMApQyM32aZ8OMOc+uDz0n7c0k8kEO3aOEOR+FAwy6Wy88sxIvmioSAaUhNN4PyHo+U8jrrEmE0EO5HQ6jv/Jy7A4Iu5vKs=;6yXkR0z0KjcY7P6YZVbSpg=="

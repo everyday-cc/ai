@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:13:00Z
 originalUrl: "https://www.buffalo.edu/ubnow/stories/2022/10/robot-dog.html"
 webUrl: "https://www.buffalo.edu/ubnow/stories/2022/10/robot-dog.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Medicine Buffalo

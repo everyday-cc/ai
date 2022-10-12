@@ -71,6 +71,17 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 34
+  - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
+    excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
+    publishedDateTime: 2022-10-12T14:06:00Z
+    webUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/"
+    ampWebUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 24
 
 secured: "lbNN2reckNE/rZGRKdC9iHmWIX9L/orhyXEmGaZ3WbcRdJvjD6przXrC9PErXBbjnIqfHj/WkHpV+J80W/RUxhJb7JWuaUiz2CUu/vbQKUojKpm7DzMweomNZ5XtsEuCI1/TP8WZzQoL3IiBMOgbIDroBUhOZNblkzuFMPa/WwrDiXfim45Jcpa5mzFb3q+p1/XqB588bht5IHExWYRhzminMaLKyNBXyy1GbI4/JJ5DZYPF3Y+UTOurvTlRq85EtT0Mb1RtTCp3DmmACQY6cmLO6eFp5iIhBpd+E7ZJWKt4sNf8OY1MRzrK7Y2xfnSirHm6pyJE24jF1I/BQMlMZAbC3qp+3k13dsgdJ2ukAfo=;ILGcRJ4QtiNsRwDSh9FDWg=="
 ---

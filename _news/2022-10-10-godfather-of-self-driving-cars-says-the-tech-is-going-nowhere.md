@@ -59,6 +59,20 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "UBS gives long-term buys for the transportation revolution from self-driving cars to sky taxis"
+    excerpt: "Ride hailing and short-range flights could grow along with electric vehicles in the coming decade, according to UBS."
+    publishedDateTime: 2022-10-12T13:07:00Z
+    webUrl: "https://www.cnbc.com/2022/10/12/ubs-gives-long-term-buys-for-the-transportation-revolution-from-self-driving-cars-to-sky-taxis.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105544540-1541053552696gettyimages-506651018.jpeg?v=1665587279&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
     excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
     publishedDateTime: 2022-10-11T17:00:00Z

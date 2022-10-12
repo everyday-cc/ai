@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:36:00Z
 originalUrl: "https://optics.org/press/5572"
 webUrl: "https://optics.org/press/5572"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Optics

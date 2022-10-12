@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:19:00Z
 originalUrl: "https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html"
 webUrl: "https://www.pcworld.com/article/1341464/intel-arc-a770-a750-graphics-card-xe-hpg-review.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: PC World

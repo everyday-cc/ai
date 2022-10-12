@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How AI Is Making Healthcare More Affordable And Accessible"
+    excerpt: "AI is still an emerging technology in healthcare, but it shows incredible potential to make care more affordable and accessible for all patients."
+    publishedDateTime: 2022-10-12T12:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/12/how-ai-is-making-healthcare-more-affordable-and-accessible/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
   - title: "How Rwanda Is Using Artificial Intelligence to Improve Healthcare"
     excerpt: "Viebeg Technologies, a venture capital-backed Health Tech company, is helping to expand access to affordable health care in Central and East Africa by aiding healthcare facilities in procuring supplies in real-time."
     publishedDateTime: 2022-10-10T10:57:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:24:00Z
 originalUrl: "https://nocamels.com/2022/10/israeli-startup-that-helps-companies-be-sustainable-raises-5-7m/"
 webUrl: "https://nocamels.com/2022/10/israeli-startup-that-helps-companies-be-sustainable-raises-5-7m/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: NoCamels - Israeli Innovation News

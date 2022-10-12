@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market 2022 Size and Dynamic Analysis by Company Recent Development, Strategies, Competitive Landscape and Demand Forecast till 2026"
+    excerpt: "Oct 11, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI in Fintech Market” 2022"
+    publishedDateTime: 2022-10-11T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-size-and-dynamic-analysis-by-company-recent-development-strategies-competitive-landscape-and-demand-forecast-till-2026-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yt3OxXeALaSMkn3iWTyg2Rz9k3uvgZRwlGDtNW9nonX1lg1frwBJGUnGTsEWg0WjrK6aGF5rfS/qA3fppm5vH1xa3r9PGeaN7DPJSYH8uQwu6xCLrsDm3g8NWtykmrE26x6zLQtmmJm+cy6iEo3Wds2zH53mNLjw8OdNdv8mXG3zlmyIHvBm08ofKZ07QLLpo3xLja+UFDSwLzASR7DXJ34GWvs1uu3DJpB1fr3iChE2sCSEsk7DM3mqTlER0B6eG03CYfNa3401sbWlIARyJ+9EHb1iyHpHtdDRIhZ1nd8hcsaI83Im3C2ZDNBJ7vO5YRts77xSNJWsONV7IT+8rgAyuYwu1LBSywU05xYuyxA=;dMuGldYsjdQibvUuEvLJKg=="
 ---

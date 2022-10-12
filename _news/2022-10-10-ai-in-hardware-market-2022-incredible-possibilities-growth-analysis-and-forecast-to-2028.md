@@ -101,6 +101,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market 2022 Size and Dynamic Analysis by Company Recent Development, Strategies, Competitive Landscape and Demand Forecast till 2026"
+    excerpt: "Oct 11, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI in Fintech Market” 2022"
+    publishedDateTime: 2022-10-11T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-size-and-dynamic-analysis-by-company-recent-development-strategies-competitive-landscape-and-demand-forecast-till-2026-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
     excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
     publishedDateTime: 2022-10-11T02:08:00Z

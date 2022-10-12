@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-g
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
 type: article
 quality: 56
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -68,6 +68,17 @@ related:
       name: Automotive News
       domain: autonews.com
     quality: 34
+  - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
+    excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
+    publishedDateTime: 2022-10-12T14:06:00Z
+    webUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/"
+    ampWebUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 24
 
 secured: "i4873EaP2AJHuIdCVJ93VbQTzKHQfsX1Z4x8QaU0lqiLTcCG/yTWEy7A9IR4iCz4j/xKVD4EjWJQSPhmf1xKQhND/mUW3SclwvCnIU7Rsursoa2WgXLmBHYyPhyGHqn0+EvvFgC8EbC3sNjcNfZ0w4gB3dYy83wVuI8uVhJCvLzfsdTbBiqhyB9nLQn3SI1bRD8UoDzsqmOfxH5CSfFKAGPGCJkHpDFe8Cqajv/RKk8m9KgLu4uagnf423FzdxyC1hz2oTh14PRuS+bpxUtz+ZEbBT2WorIXNwTCSwAklAZywPiumQAj4DS6ip+ysu5AQhb208t1c68HMVeoo9kWCdG1VtTUOfL2qyF9QDKujDw=;NhQ6AUcUw/k8DtXlawYtCQ=="
 ---

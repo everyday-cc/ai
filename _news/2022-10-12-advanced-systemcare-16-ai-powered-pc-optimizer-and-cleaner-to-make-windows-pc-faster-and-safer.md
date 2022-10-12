@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:01:00Z
 originalUrl: "https://www.sfexaminer.com/ap/national/advanced-systemcare-16-ai-powered-pc-optimizer-and-cleaner-to-make-windows-pc-faster-and/article_373edbe9-bebf-599a-8530-599e54bddb9d.html"
 webUrl: "https://www.sfexaminer.com/ap/national/advanced-systemcare-16-ai-powered-pc-optimizer-and-cleaner-to-make-windows-pc-faster-and/article_373edbe9-bebf-599a-8530-599e54bddb9d.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: San Francisco Examiner

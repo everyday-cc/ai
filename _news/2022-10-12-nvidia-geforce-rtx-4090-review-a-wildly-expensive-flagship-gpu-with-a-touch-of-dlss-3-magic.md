@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:00:00Z
 originalUrl: "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4090-review"
 webUrl: "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4090-review"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Rock Paper Shotgun

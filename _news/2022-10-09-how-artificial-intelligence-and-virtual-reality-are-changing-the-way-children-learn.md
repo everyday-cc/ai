@@ -27,21 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022"
-    excerpt: "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,"
-    publishedDateTime: 2022-10-08T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/"
+  - title: "Fighting Climate Change with AI"
+    excerpt: "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?"
+    publishedDateTime: 2022-10-12T14:05:00Z
+    webUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/"
+    ampWebUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
+    cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 86
+      name: Wired
+      domain: wired.com
+    quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg"
+        width: 3840
+        height: 2160
+        isCached: true
+  - title: "Reading old handwriting with an AI platform"
+    excerpt: "Using artificial intelligence, computers can decipher handwritten texts and make them readable for everyone. The Transkribus platform, co-developed at the University of Innsbruck, Austria, makes this technology available to scholars and the general public."
+    publishedDateTime: 2022-10-11T13:54:00Z
+    webUrl: "https://techxplore.com/news/2022-10-ai-platform.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
+        width: 800
+        height: 450
         isCached: true
 
 secured: "FVEtNLuCCMVchAt2/Mu0NB5Vtki/Jrx65D6ViN8DDT1C5JNNapN/jzqUQvbZQqeSiltUBEsBjtpEZITbQK450M1IsTbm3SbI05D5ileiZOuv+fybfUl+ArFocbrEDAa97qazTEYp/2Kmxl5jCLEUqBiUk6iPfjy6KuI4XVnXtLTIagIkOjmHOmzSX8fipLrlzm1JO2QR0autnpWMIukB6w/aEJGB/E3noXzN/iphp6bj/X7PT1DpOSGlaQrwWAWzEWDzyp1fllgAhl3W6oAoo/bmaMBQIjozSAD9XcvtJcsq1mG0UI+KemulSv+N6R01kebUzxwilx8tQJHSxJyHyt3Z7chfZ3mvjFekgmotoBg=;0rhq17MBVqjvHN8xT6hFlQ=="

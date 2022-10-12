@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:08:00Z
 originalUrl: "https://medicalxpress.com/news/2022-10-role-clinician-data-scientist-health.html"
 webUrl: "https://medicalxpress.com/news/2022-10-role-clinician-data-scientist-health.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Medical Xpress

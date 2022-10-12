@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematic
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
-    excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
-    publishedDateTime: 2022-10-07T20:19:00Z
-    webUrl: "https://hothardware.com/news/deepminds-alphatensor-ai-complex-math-gamers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59815/content/hero-gaming-model-ai-learning-news.jpg"
-        width: 708
-        height: 400
-        isCached: true
   - title: "Mathematical formula tackles complex moral decision-making in AI"
     excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
     publishedDateTime: 2022-10-10T00:00:00Z

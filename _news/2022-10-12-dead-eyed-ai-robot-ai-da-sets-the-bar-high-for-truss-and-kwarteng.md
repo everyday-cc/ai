@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
 type: article
 quality: 74
-heat: 84
+heat: 85
 published: true
 
 provider:

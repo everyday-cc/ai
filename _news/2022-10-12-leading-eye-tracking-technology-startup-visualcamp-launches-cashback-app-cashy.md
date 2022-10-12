@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:16:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/leading-eye-tracking-technology-startup-visualcamp-launches-cashback-app-cashy-1031799613"
 webUrl: "https://markets.businessinsider.com/news/stocks/leading-eye-tracking-technology-startup-visualcamp-launches-cashback-app-cashy-1031799613"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Leading Eye-Tracking Technology Startup VisualCamp will Participate in TechCrunch Disrupt"
+    excerpt: "With the increasing demand for contactless and remote services, eye-tracking is being utilized to understand users' focuses and monitoring functions to prevent fraud in mobile apps/web. Using gaze data,"
+    publishedDateTime: 2022-10-12T09:42:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/leading-eye-tracking-technology-startup-visualcamp-will-participate-in-techcrunch-disrupt-1031798697"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 23
 
 secured: "HbsMEE46lCpgqy44rD6brqsAfTKRLL3xpWkxb5i+4QwLb6Bjt41DjKQYQrC4vPFPhMTVesCSMizTM0wLEvUlXsCiOCaqkoCqdfWuDA2ympMVhS4n1iBHnCRIRgVonslgJklTQGpl8223opdxl01bMVQJGAt/vY62DZ8TM3ozhHEHYP3R70fKFZWs7W349oz0xFdLoaav0XqEb9jo/m+9NaDLrkrHEA06wKUVjHAbjIPn+xX8YZ9t4Q4bcltZRe9DK7+ShG+QnZMaKizsn4RnqFWQeG5Gzpy71Ki0/cHuJJPUiQaY1KFNBrlsV6FHiYn09CwYZ5x+I7oQIbtemvlj3CY4342rLbm02tDm5/QCit0=;/yheTR9XPjFn05Tgi4pSxQ=="
 ---

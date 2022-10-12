@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:50:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-global-microprocessor-and-gpu-market-report-2022-growing-adoption-of-the-iot-enabled-devices-and-equipment-driving-sector-researchandmarketscom"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-global-microprocessor-and-gpu-market-report-2022-growing-adoption-of-the-iot-enabled-devices-and-equipment-driving-sector-researchandmarketscom"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Daily Herald
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The report on artificial intelligence in healthcare diagnosis identifies key attributes about the customer to define the potential market and ident"
+    publishedDateTime: 2022-10-11T12:34:00Z
+    webUrl: "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html"
+    type: article
+    provider:
+      name: WSIL-TV
+      domain: wsiltv.com
+    quality: 7
 
 secured: "F/652vHN+Vq2H2uuT0fFw1jws4fCC7nL5gEWFju10cC/vlBmCPF7l2hB5fHUQB/LuqdEiW1xf0V7pIk+f0jrd/lJF91VIERKWFJ14mx1dKoccf+TqiJel2PC1jnYJXxCaNxl53lR8uF1Au48Gm8tLUnUiIhUtdcpDMsjckdMRM7Pbj0dGAuz/QAT5O+y4fI7a8BIIgQf5gkc45aaVd29BaKcH+xaiesG0sdtRuLHUVtltsZqVaxz8nOMtcXnJ+WiIw7eTzBHLgT9LjIi82pAy8XAJkjEz1M09ailUv6R0JCV/Z+dw4zirmNAv6IOLTJDGhIcPiXGVVvS678zXSgYzy3DtDCRIPVH+G0qfXkT2Bo=;hJbqvVsedZC/qzYyp6kU/A=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/12/a-farm-of-robots-how-do-we-define-a-collection-of-modern-smart-devices/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/12/a-farm-of-robots-how-do-we-define-a-collection-of-modern-smart-devices/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: Forbes

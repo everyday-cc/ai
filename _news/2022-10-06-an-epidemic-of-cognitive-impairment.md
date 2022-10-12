@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "hkOZS1E6EebKuc0v4x9j75qFnnCxTBptLaudsyv81i5Y9IsklWum/zonBlwEBJYQAOBz9FCTJguR65eHNGwuPBz9ruvTIKIumwo3FqPMOPe9E3hTiXq4xIpjSvTeeLh3ZunDB+7jT1FZZDpX4KpjxlFpjJ4i86OsaHhlF44BOMixJp+mkKC1sk9D6dkdissszNonNrzm4kS535oJcElacCO7gXh2y4QKcGg7135Cq5iMHrV/9/f/qQequ6rCqabRokoafcQFwGibNI0g5dGG4rf8oI/LuMupy2XdVAJnjnc6yy+DiCXDPFdAeEuo41Et73DELJykZd/UFhf0L66Pn697tF8wOvdr8eyiYnVzwwc=;SyKFGQ1krPPLrnc66cJpWw=="
+images:
+  - url: "https://media.townhall.com/cdn/hodl/2022/266/0606356b-fb83-4033-8601-b4416c483158.png"
+    width: 650
+    height: 366
+    isCached: true
+
+secured: "dfjNt3cvQILKgn3/e1vNt+nDnFUYhqAs1Y2iLLqQ4z60u+pOutd/eItAiHujP7VaYuORkPfq98mjCzwE3rcYfkSap1Od3tRpK92dPZurk24SVXrl4U7hnsoKVmIPP++N/4WpkdGsVrF6KPGVaWzT1lSst3xyhUq4Ak4pB1Ll14Fuo+Wy7Jx4Dr33LfZEOFFwjDuRBs1UFGlGLjeNG9h6OBIkcl9W0r1G5nI4O7l5oZTLH0I3MiJYW+qH5og5bJutPnQnJqnROoz2VEbYvFDY3zlU6Mi8RL+a69PMjCCxnEjdBa3kgS40LteTrSldnB1IBxLbaCwpYbF9fsLt+lA3/pMfaImvlJebLZxLJwk9YL8=;4RSg1NGAJQjj55DZYkO5tg=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-ro
 webUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/"
 type: article
 quality: 67
-heat: 107
+heat: 109
 published: true
 
 provider:

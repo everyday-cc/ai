@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:00:00Z
 originalUrl: "https://venturebeat.com/security/secondsight-enters-cyber-insurance-market-with-ai-driven-platform-for-inside-out-underwriting/"
 webUrl: "https://venturebeat.com/security/secondsight-enters-cyber-insurance-market-with-ai-driven-platform-for-inside-out-underwriting/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: VentureBeat

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-marke
 webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
 type: article
 quality: 64
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -98,6 +98,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market 2022 Size and Dynamic Analysis by Company Recent Development, Strategies, Competitive Landscape and Demand Forecast till 2026"
+    excerpt: "Oct 11, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI in Fintech Market” 2022"
+    publishedDateTime: 2022-10-11T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-size-and-dynamic-analysis-by-company-recent-development-strategies-competitive-landscape-and-demand-forecast-till-2026-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

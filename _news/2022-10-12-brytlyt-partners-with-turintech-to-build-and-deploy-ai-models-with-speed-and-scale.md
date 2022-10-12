@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:55:00Z
 originalUrl: "https://bdaily.co.uk/articles/2022/10/12/brytlyt-partners-with-turintech-to-build-and-deploy-ai-models-with-speed-and-scale"
 webUrl: "https://bdaily.co.uk/articles/2022/10/12/brytlyt-partners-with-turintech-to-build-and-deploy-ai-models-with-speed-and-scale"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Bdaily Business Network

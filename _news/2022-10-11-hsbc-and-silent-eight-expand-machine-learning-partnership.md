@@ -39,6 +39,15 @@ related:
         width: 400
         height: 337
         isCached: true
+  - title: "HSBC and Silent Eight team up to tackle financial crime"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-10-12T11:59:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/hsbc-and-silent-eight-team-up-to-tackle-financial-crime/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 4
 
 secured: "ddoBdATXGINSAcK9WgRwc0EQJ/Jb+jhoBJXsV3mB2kJNka5SDHItA5Ryy0rLJo1phvJAl8fBAINCBAI01Sj5Mdna5RmXUtmS2pHxwPqg+5CIr9pGG002I7Pz/4Q2mmGyIyyDixPKYvYgm0GfSSr2Ana3uYIK730oe+4/eGjFHCwInb1a6C0rfZ0V8VWIYfgKPjW3Y3ucZx5te/qP1JbW9MOl3n35AI64Ck96b8OAGSo9qjROI0nMPmLkmrIdA0FHs4Mt2GF7D+qZZR13qF23xyUm3xfOhUJz5bHZCLm6L8ZUoNz0NU5CGSQRaYvVg1CaQowVlVycc3ruC7Zky5XIsVXOhgcm1aO9I/OaijPkbjk=;Xf9M0bj7FAR4CIgRn+/3CQ=="
 ---

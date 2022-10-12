@@ -35,20 +35,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "DeepMind's AlphaTensor AI Tackles Complex Math In A Way Gamers Will Relate To"
-    excerpt: "The DeepMind team behind AlphaTensor have detailed how they use deep reinforcement learning to gamify the machine learning process."
-    publishedDateTime: 2022-10-07T20:19:00Z
-    webUrl: "https://hothardware.com/news/deepminds-alphatensor-ai-complex-math-gamers"
-    type: article
-    provider:
-      name: HotHardware
-      domain: hothardware.com
-    quality: 68
-    images:
-      - url: "https://images.hothardware.com/contentimages/newsitem/59815/content/hero-gaming-model-ai-learning-news.jpg"
-        width: 708
-        height: 400
-        isCached: true
 
 secured: "YUGaycGt+E+LP5lZi+1wvmCvN4haSqrZ+gJQ6D+GSHNSQ07VfObsLeJ9oIqSNSr+MMCAd6obtiXqX0WylXw09Ep4Txf6cimc4u8rjoqAGR5hIZqkIzzsDgos1NcHRms1XPgBagWR2Lo9ip5TCkjaAgDcFnwgnk6TSmgFvevmLIZ4NpL9TFpOFFYThkgfrIrHhpnw5nBnKJd5TfLnlR4DG6OLAaegQv6MUWErNwfcDxqn55oatSMnmfq91e6LYdmBcvIBXojXQ4GggMEgpfo9RZuNPIwt/KO98H1Nm3hevVrKsPuG81afPrlKNECIaMwfaS/QY/66fH/xDjeATUB8Wj0ndQL4vNm6zq15GXaFpl0=;ksEZSt7ZPiBSaIfUi5F04g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:03:00Z
 originalUrl: "https://oaklandpostonline.com/43688/showcase/dr-steve-wilsons-research-in-developing-ai-methods-to-promote-better-communication/"
 webUrl: "https://oaklandpostonline.com/43688/showcase/dr-steve-wilsons-research-in-developing-ai-methods-to-promote-better-communication/"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Oakland Post
