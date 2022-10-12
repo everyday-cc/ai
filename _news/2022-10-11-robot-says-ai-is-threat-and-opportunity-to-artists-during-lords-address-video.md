@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "‘Technology can be both a threat and an opportunity’: World’s first robot artist Ai-Da address House of Lords"
+    excerpt: "Ai-Da, a creative artificial intelligence (AI) humanoid robot, has spoken to the U.K. parliament for the first time ever as part of the House of Lords inquiry into the future of the country's creative industry."
+    publishedDateTime: 2022-10-12T16:39:00Z
+    webUrl: "https://interestingengineering.com/innovation/worlds-first-robot-artist-ai-da-address-house-of-lords"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 35
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/12/image/jpeg/1cQ7cRrEFM5l7E8yjfdHVEwSCkMRY9hwVQQNoUM6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+
 secured: "UNvYfEbwthwZmyf4+ksiCSKpIMImG/FGbYnRr1DYQ8E28QZ2Oq8x/8SnSJN2OcRD56bZxurcGYjPla/CK6uvN8hhncM+YBaGDlkkryXvstHyajtczrPSRPBZ5naNhMSZ6P1unXdLnCKuXYvdj9J/50pHV1LXEgEd07/Ji3n0C0YWWe0ywHbeeMx6yDE8MrFtQ3VLhbXsXYRkeM+IDqTanq4wTunRrWVXBdQyoGCO0LdF4SDSPpXsz8x0kcntOnA8kBEtY9w1Am6+6qg7uIR05O4+gVx2O9FupN4uccxNXVdTaZ5bGDatQWlq1VHGNkglkgac23nzfwVqXccz3iBSYai2+i0nCjxVe3FnrnN3cKeXoauH3v46x+f26XQGWeBnzq0k37HqqdO9wzhH16v91yz322Q7WjNGY2HGEVstm0VeoTvbo3IG1SIDU8ZwSwvEeYkXs/vfA9r2I7tl1EsHUpkoI7x3cZK5gFToL04MHOWEvUZpP0EBQ3INS/LzPqu8jMTOBqoMvRp0EWU55hxoAg==;2Ta0o4/muon/bOI9gGMEdg=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-ro
 webUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/"
 type: article
 quality: 67
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: Ars Technica
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Fake Joe Rogan and Steve Jobs AI-Powered Interview Freaks Out the Internet"
+    excerpt: "A recent episode of podcast.ai pairs Jobs with Joe Rogan, whose own podcast The Joe Rogan Experience has been a runaway success. \"Hello, freak b**ches,\" the fake Rogan said in opening. \"Welcome to another episode of The Bro Jogan Experience."
+    publishedDateTime: 2022-10-12T16:27:00Z
+    webUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275"
+    ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 85
+    images:
+      - url: "https://d.newsweek.com/en/full/2132825/steve-jobs-joe-rogan-split-photo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "AI-Generated Joe Rogan Chats Up Steve Jobs Over His Use of LSD, Spat With Gizmodo"
     excerpt: "Podcast.ai generated a fake audio recording using artificial voices and language model transcripts based on Rogan and Jobs’ old public speeches and keynotes."
     publishedDateTime: 2022-10-11T17:57:00Z

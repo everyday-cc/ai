@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "Fake Joe Rogan and Steve Jobs AI-Powered Interview Freaks Out the Internet"
+    excerpt: "A recent episode of podcast.ai pairs Jobs with Joe Rogan, whose own podcast The Joe Rogan Experience has been a runaway success. \"Hello, freak b**ches,\" the fake Rogan said in opening. \"Welcome to another episode of The Bro Jogan Experience."
+    publishedDateTime: 2022-10-12T16:27:00Z
+    webUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275"
+    ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
+    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 85
+    images:
+      - url: "https://d.newsweek.com/en/full/2132825/steve-jobs-joe-rogan-split-photo.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Fake Joe Rogan interviews fake Steve Jobs in an AI-powered podcast"
     excerpt: "A voice synthesis company based in Dubai published a fictional podcast interview between Joe Rogan and Steve Jobs using realistic voices digitally cloned from both men. It takes place during the \"first episode\" of a purported podcast series called \"Podcast."
     publishedDateTime: 2022-10-11T22:23:00Z

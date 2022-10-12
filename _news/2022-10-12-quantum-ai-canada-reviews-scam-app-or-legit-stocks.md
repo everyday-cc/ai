@@ -8,8 +8,8 @@ webUrl: "https://www.outlookindia.com/business-spotlight/quantum-ai-canada-revie
 ampWebUrl: "https://www.outlookindia.com/business-spotlight/quantum-ai-canada-reviews-scam-app-or-legit-stocks--news-229294/amp"
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business-spotlight/quantum-ai-canada-reviews-scam-app-or-legit-stocks--news-229294/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1665552486.jpg"

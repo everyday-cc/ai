@@ -7,7 +7,7 @@ originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29209263/mobility-de
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29209263/mobility-demand-market-to-grow-by-usd-198-21-by-2026-growing-interest-in-self-driving-vehicles-to-"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,24 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "Blockchain Technology Market in BFSI Sector Market to grow by USD 4.02 Bn by 2026, Increase In FinTech Spending to Boost Growth - Technavio"
-    excerpt: "The blockchain technology market in the BFSI sector market is expected to grow by USD 4.02 bn during 2021-2026, at a CAGR of 36.6% during the forecast period, according to"
-    publishedDateTime: 2022-10-10T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29197364/blockchain-technology-market-in-bfsi-sector-market-to-grow-by-usd-4-02-bn-by-2026-increase-in-fint"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29197364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29197364"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1916163/Technavio_Global_Blockchain_Technology_Market_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
 
 secured: "5XWwbv7ayp3NfFnds1sIYgx5GXoembt8TWd8aq1le+8EomfRC2b2svi4CiUHZI/GNonaHqp4Own1FIsWWjScdfClxzl7a7FFOwe//aSZHgBVMwgsJawAP5MCwhRSUIvtqnpJeqgt7nuYE8MRSFGXTs2yAY6IwCqC3Qsk0BugKxw0NAtQl9ABCJppfm1ua6fgQTUneeDZaj8zGCqhrcxkGfI80ysxWFtt/vV1X468BvS9XozQvbVHzxuli2vvPpDYpBSNnFuSCHZDeRuU2MdAvpOL3e5a39LHklEpCak69BYKCNjTNqSMcOrQwvE1K0DVV14koGHK2Wi14oNu5HB1HP7X//nf+uEDWvScSnrAfl0=;UpAqwghu/YH7vQUGoHbImA=="
 ---

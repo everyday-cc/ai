@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29197364"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29197364"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -27,15 +27,34 @@ images:
     isCached: true
 
 related:
-  - title: "Mobility Demand Market to grow by USD 198.21 by 2026, Growing Interest In Self-driving Vehicles to Boost Market Growth - Technavio"
-    excerpt: "The Mobility Demand Market report has been added to Technavio's offering. With ISO 9001:2015 certification, Technavio is proudly partnering with more than 100 Fortune 500"
-    publishedDateTime: 2022-10-11T02:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29209263/mobility-demand-market-to-grow-by-usd-198-21-by-2026-growing-interest-in-self-driving-vehicles-to-"
+  - title: "Report predicts 30% CAGR of AI in fintech market through 2028"
+    excerpt: "According to a new report published by UnivDatos Markets Insights, artificial intelligence in the fintech market is expected to grow at a compound annual growth rate (CAGR) of around 30% from 2022 through 2028."
+    publishedDateTime: 2022-10-12T15:36:00Z
+    webUrl: "https://www.autoremarketing.com/autofinjournal/report-predicts-30-percent-cagr-ai-fintech-market-through-2028"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Auto Remarketing
+      domain: autoremarketing.com
+    quality: 39
+    images:
+      - url: "https://www.autoremarketing.com/sites/default/files/artificial%20intelligence_12.jpg"
+        width: 877
+        height: 495
+        isCached: true
+  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
+    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
+    publishedDateTime: 2022-10-12T16:05:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
+    type: article
+    provider:
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 38
+    images:
+      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
+        width: 300
+        height: 204
+        isCached: true
 
 secured: "Ut44XcrLlZO1G0xoxx2+PAhYfJ7uY+ed3nrlwezEKwzyH3QzNtJ+mrEF7d2iDKgCYG1LhshkxjkDpWhdwt4EfKctUmGqVAhEnos5UDmI3DfA8XqM10Xs02PRMlsyfojNQvc/zdkM1fOeNuoRQTy5L7f7TsA/rjfFGt3zQxPs2STsGw4+FRchhuj/XO03eawcI+tzDR2L7dEYzHqeZWke/qrWq7Zur4jNTVzPuCIvdUZuW0f8/Z3LJlb74qAPht1hC5erIwINgJ3AB+4U9Bz8R2054UjxJ+q6rloCa2N7EcLwZqx1qZ61+NUreO37y7PeW0CmZryQA3q589oVqun+W2c9mUjVQriv8DzF6OMLxPU=;zfSTEntVe5Rrl73ePLLrlA=="
 ---

@@ -38,20 +38,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Hackers are coming for industrial robots. San Antonio roboticists look to strengthen cybersecurity."
-    excerpt: "“In my mind, in robotics, there’s still time to secure ... “If someone were able to hack into it, then they could effectively control someone else’s arm or you could control the strength ..."
-    publishedDateTime: 2022-10-07T23:20:00Z
-    webUrl: "https://www.expressnews.com/business/article/SA-experts-protect-industrial-robots-hackers-17494143.php"
-    type: article
-    provider:
-      name: San Antonio Express-News
-      domain: expressnews.com
-    quality: 25
-    images:
-      - url: "https://s.hdnux.com/photos/01/27/64/31/23021132/3/rawImage.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/iFkivh/1XjitFJr2/9pa5LQAnSGklklaRWeV78c2drolx5RDiAFk1S3aVzPFnwE9RS2gTcmVqMIoH8Kikiuaj/DeuWJT9IuBYTvIKjfCgdcK4LGa9w7+kH/A6BTAWHeO2tYCdB7ryJlLSF7sGcHVKNS1xbwfYcyVA/g/2opPEYjEYeUMYs6laZHODTErjHvZvyrMwMd8FRu/wHovXe6aW/HUq5r1qU+FedskX3KQjE42tUTSgGMPVt76n0toT1jSeMoC6ANl1j6wp5KF5M/Qyh/GhsNydBeFP/KHCoxXjsj8fBIIxqvIkmel3UGmQtDVggu+lHs7NlFzzfWQFGFmXsnSxU3vjj7ZUPQNCvWaDayTLPNFqb48aNDUpL4nwenMLYYy8i4l7xQGTdQHYgRCKQkyB26FWDiDMLvbN3LFlTzBJpB6bEtyMRf4k9Q59ElgndX2SMOIt4F5ZGvCC8Nn6axMx7GFrCkP0Lw8eYeDmd99cOitZLGi6xxYXL8+zipLxVVbrRamIS9UueShVHmUA==;SQBZQv4cQ90dydohV4tYaA=="
 ---

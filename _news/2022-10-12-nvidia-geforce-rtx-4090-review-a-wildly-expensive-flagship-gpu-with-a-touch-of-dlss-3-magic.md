@@ -7,7 +7,7 @@ originalUrl: "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4090-review"
 webUrl: "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4090-review"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Nvidia GeForce RTX 4090 review – a Lovelace GPU leviathan"
+    excerpt: "The Nvidia RTX 4090 is a goliath graphics card with staggering DLSS 3.0 abilities, and the Asus TUF gaming model pairs efficient fans with unsightly aesthetics"
+    publishedDateTime: 2022-10-12T17:16:00Z
+    webUrl: "https://www.pcgamesn.com/nvidia/geforce-RTX-4090-review?driver=mgg"
+    type: article
+    provider:
+      name: PCGamesN
+      domain: pcgamesn.com
+    quality: 39
+    images:
+      - url: "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/10/nvidia-geforce-rtx-4090-review-featured.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "UN6FUIPh7wUEr5n6ZVkAIZQ85p5xEXPVCgeFiltQBBiW0iLy+L+d5IBmb7LmLfqjaEwMWSpkKgEqNlEJo9yQ/hWBN4A5WPIIj6D7wEECR147iIPXahqbq8dfPFrGH6ppqmPFHzcGBWWnZcHXBt7OrSkOX3TphEpaEm2Uj2yMBuGhUd4qBfoUadv9T7WrRBnP+90CIP3/F3PJ9tROhE+KCtI5jmD4vxZt/Ne1ioHrxTD2G3q7wdQWfZ4ssZOTqg1xW0ZaQ9RFHCd49XBWcX42LKRfNQCG5zLKczfSnBYclFX81JFXPBKNy/fn6KBpxlA9NDM/GAM7zkR6iAIlFfrwH9CP3rVeUqk6rpe6EkH8hZzA0m6dPHj2/exo7EdwzEBbkRyFTTycNrSOgVzfbdbxLTflk82hh7Y7mPt5V2g4yV8V1qpoFJF1cCQRFZpkW7hdqSs/j6XUyyF6oaZ2x+wru9rsxkxSCLUclvv7dimO7CFy6LwhzQfB402vkCUkbzlX7IwjzA/cumblg4mTl4CvoQ==;ujq9OwEZwJFEx4ajfRugLg=="
 ---

@@ -32,8 +32,8 @@ images:
 related:
   - title: "Nividous Launches Enhanced IDP Capabilities within its Integrated Intelligent Automation Platform"
     excerpt: "The native Business Process anagement (BPM) component within the Nividous platform remains vital for all IDP-led business process automation. The BPM component adds workflow capabilities to allow businesses to automate any complex process end-to-end (even those that necessarily include humans)."
-    publishedDateTime: 2022-10-12T14:35:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691305.htm"
+    publishedDateTime: 2022-10-12T16:03:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/12/9691305.htm"
     type: article
     provider:
       name: TMCnet

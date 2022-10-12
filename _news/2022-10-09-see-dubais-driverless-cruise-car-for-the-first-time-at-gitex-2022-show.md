@@ -1,10 +1,10 @@
 ---
 category: news
 title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
-excerpt: "RTA will also showcase digital twin of Dubai Metro in the metaverse, among other services The launch of the driverless service ... technologies and artificial intelligence as means of boosting ..."
-publishedDateTime: 2022-10-09T09:07:00Z
-originalUrl: "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-webUrl: "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
+publishedDateTime: 2022-10-09T08:48:00Z
+originalUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
@@ -120,6 +120,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "KUwF5FILMrWmK541Juh3rISvRNus27JUONcG2EzabT3pyB2XreesnZBaF+0mbq2Bue1Rvmfq+Eil9O8WWouoE4p/mqPnOSnNkfVvQAmMYoh7Gx76LmjTU/sX7SHOHhVB11NLXm45t0ZeBW/YioOEktIyuoQdiv25AdK49MSvTZ+kAQMBlTlnklOeZME4wA+j31/KQXQxxpjjqtrpgIZFg1B59S+FpszOo+VQ0tWQSp2tktFgMXh0PINfAn5VsOU2uWasalv8AkNhVWFJ8hA4wo/EhsvOEAjXvXrjmIpU8154LSUbp2wHek9BxbifDo1bHb4R76LvdA+08rTlUGvuY2eesMa7MX9xdp0z8PyDy/k=;lsKa705CIyNVkONXO6OnDw=="
+secured: "4SxCvwCESE80iexi9/WTtgV8BFovP3Iu+gpitdKDwW/RkOdQbhMBFA0jxIam7kEHTRUgbsBRAdiWplRAvhnoJ4SnChJLB9mTKxqlYv7BA0NnwKP1vThSBFFYxd9xwA0buKhfyjKZL0C1BsoFP9nGSu3yi64/v74sw6PJv0k9+YwAKBtBczgHoAbj3wu1arpjNawgpu7GGJlpaUIrteIz/o7YpjzhUzQf9Hs/CuYWXJQHzLDSfJ4BfIl2Tf/xCK2dJXTjGi1UcwZQkG66wyuxpVMHosMmixxuRph+oyZAgtURkfAsh58au1HHLXw5AZb3TFym/VJ9rmu6Hdn+5O50ub1f9k8XOKHA+bYKgwQN1HA=;JK/PUv8ZHCBZQxFOZd8DUg=="
 ---
 
