@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-12-toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required.md",
+      "title": "Toyota and Lexus cars to get AI-powered voice assistant, no internet required",
+      "excerpt": "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity.",
+      "sourceUrl": null,
+      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html",
+      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/auto/img/2022/10/12/1600x900/TOYOTA-INVESTMENT-0_1646050256447_1665573668818_1665573668818.JPG",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html",
+      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html",
+      "publishedDateTime": "2022-10-12T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Auto News India",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform.md",
+      "title": "Levity raises seed round, debuts no-code AI workflow automation platform",
+      "excerpt": "Using modular AI blocks, the startup aims to help small and mid-sized enterprises to build automated business process workflows.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/",
+      "originalUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-926128842.jpg?fit=800%2C587&strip=all",
+          "width": 800,
+          "height": 587,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/",
+      "publishedDateTime": "2022-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches.md",
+      "title": "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches",
+      "excerpt": "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
+      "originalUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/",
+      "publishedDateTime": "2022-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
       "title": "How can banks supercharge credit operations with AI?",
       "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
@@ -94,6 +240,58 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report.md",
+      "title": "Data and AI Ethics Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 104 Pages Report",
+      "excerpt": "According to this latest study, In 2022 the growth of Data and AI Ethics Market is projected to reach Multimillion USD",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -354,7 +552,7 @@
       "originalUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1034,196 +1232,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-teslas-mass-market-optimus-robot-could-change-humanity-forever.md",
-      "title": "Tesla's Mass Market Optimus Robot Could Change Humanity Forever",
-      "excerpt": "Tesla's Optimus Robot will represent a step change for humanity when it hits the market in five years. Find out the implications for shareholders and the world.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
-      "originalUrl": "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640351119/image_640351119.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa.md",
-      "title": "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa",
-      "excerpt": "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m",
-          "width": 750,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/",
-      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/",
-      "publishedDateTime": "2022-10-10T20:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments.md",
-      "title": "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments",
-      "excerpt": "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 172,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T19:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028.md",
-      "title": "Artificial Intelligence Software Market 2022: Overview by Rising Demands and Precise Outlook by 2028",
-      "excerpt": "The most recent information in the sector, which considers the effects of the changing geopolitical environment, is used to gather and evaluate market insights for the Artificial Intelligence Software market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

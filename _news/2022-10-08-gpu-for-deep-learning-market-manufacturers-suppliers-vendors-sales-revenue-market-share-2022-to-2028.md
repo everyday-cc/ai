@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07"
 type: article
 quality: 86
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -68,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Tools Market Report 2022-2028 | Size, Share, Growth, Trends, Competitive Landscape, Revenue, Forecast Analysis"
+    excerpt: "Global “Machine Learning Tools Market” report offers key factors in the market status, size, top trends of the"
+    publishedDateTime: 2022-10-11T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-tools-market-report-2022-2028-size-share-growth-trends-competitive-landscape-revenue-forecast-analysis-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

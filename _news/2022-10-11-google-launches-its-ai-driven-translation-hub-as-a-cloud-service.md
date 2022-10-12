@@ -7,7 +7,7 @@ originalUrl: "https://www.fastcompany.com/90794357/google-launches-its-ai-driven
 webUrl: "https://www.fastcompany.com/90794357/google-launches-its-ai-driven-translation-hub-as-a-cloud-service"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
+    excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
+    publishedDateTime: 2022-10-12T11:20:00Z
+    webUrl: "https://slator.com/google-launched-translation-hub-enterprise-scale-translation-service/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 20
+    images:
+      - url: "https://slator.com/assets/2022/10/Google-Cloud-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "u+Ndmk+jQQ16yO9ndDzbHLXAzfhkVFivHjisVM0oQqnzcZXz8Nn+bwl4RiMiOdexyloHtFVxjRnqTq8Xlu/LXmno+g/cGQ/xLXrLzqMYcnvYAVTXN0AtYXHCwh346/pspagSkFwm4PRB3VTgTJkbpY6XbYqNyL+d2H66hMo8SvU8tNVUhwL4Jz2VXluMTL61eOdfpH7VGMoXKdPsCFi0bkd4+/e9sHehAXORWOmfGJadr/4WJ7XgcSLyrAr1PrgwDGbJ5m5M2gK1+MtgRqGpj5RlJkuPe71QteJhg5e4anTmHKyqvNvCEGpvEKikm5Q5Fc1flSu0y7MXfv3b4Ru8loQMG92auIGdx0c1siobroGQsWvT5byAV21k4tX6ydvYhHJ4GydHMMGTSFJfH1IkHiSW1WFqmbanr1nvG6rIW1Gncl2jlLnT0EpdAQReTWFkn/+yRb36spI9wptthB5YbQVH8xjTzXC9XUgBu32flj6erD2594KwOqro9xz3CFoUFGNQcxSdFVh7J+TvYwOtTA==;NNMh9dzP6L5eGlAUzD+Kvw=="
 ---

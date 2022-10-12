@@ -84,6 +84,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Tools Market Report 2022-2028 | Size, Share, Growth, Trends, Competitive Landscape, Revenue, Forecast Analysis"
+    excerpt: "Global “Machine Learning Tools Market” report offers key factors in the market status, size, top trends of the"
+    publishedDateTime: 2022-10-11T08:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-tools-market-report-2022-2028-size-share-growth-trends-competitive-landscape-revenue-forecast-analysis-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
     excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
     publishedDateTime: 2022-10-11T08:14:00Z

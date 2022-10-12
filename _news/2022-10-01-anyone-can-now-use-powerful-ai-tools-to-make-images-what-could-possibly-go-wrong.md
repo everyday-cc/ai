@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.koat.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.koat.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.koat.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: KCCI Des Moines
-  domain: kcci.com
+  name: KOAT Albuquerque
+  domain: koat.com
 
 topics:
   - AI Ethics
@@ -23,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "7xOJzSEzJaPxuC0nrWVcuqjM4Q7YXZuDObvSZxBqpbHPkzAOykjELQE/yqr0l47Xr27gliEGFH/7huUaunEJ7zzJKGUVhs9608gLt+CS9ADYyPy5MjKJwnMRJrM3AD8LZfTLdpP/w/ag3TrlV0sSh4WeIVavoMtwTSzyAJZPVkdIeUuuSV9QLxvwPpr57VnYa6i41XOwMbGSkkVRUKrG9j3JAVAtuWYX82AiOwf/dD1ou8v7vsoxB1qsG1r5++YnEBa+xD89/UqxhvgKRGIUhzt5/rsRrCBoRJccZdIqo1k/IcjlfP09l6NFdmBanfjqd3GX/PIIjB2TkRUanwmxDTPCoV+BBfAXVNC97rJgoP2qPIQq+E+VcJXPTVdUKM1sdP8Jp5yFw8fDknRhDWPQFUS4O22OqLUuVyr+X+gDn75h5YZNQFezZz2B6K1mjvRkFSlGklm/od8OGSv6pKyslWdiBv+hoDPw6xL3uZkL1YdE80Fw/QaMSPJXZ5bxc0mDCsbok94q9mIdp1kpaDi7pg==;kThTRJOBjvW+UlBFSdLIoA=="
+secured: "WfsnHFQH4rG1J5pL7FfZxId5lxM0Jhu5BIzox7bZYqU14TSlWjXzKWrEJhHDH2Z9aBFe78DpyUNUZKMBqCODYa6lxxhWH48B/VScLk86LK2U7A448mj/CHNGmUNnps0CGppzN9FG+guP+VAibe7/wEoyLCKrAiYMpzfCdI77fykuIRVUs1JK0GK8bupWnYO5ZWnMgbCloygLKBJBgFxdHWAPz1GYaxVZUAefzw1PtDdmcl9fxrwtq6NAtZMzAY/Sbe1JhRpaYbN455dPK7g3KRnwukzLDcV+BHP8R4+wyWPKxTKxn6nw5ynMAf5WlypIui1wD/cQO0uz7ZCbqdXuRVzK0fFGAiY6AcAPDXY+D+c=;l44qSplDKI7fFJWbOvi6dQ=="
 ---
 

@@ -2,218 +2,19 @@
   "page": 39,
   "value": [
     {
-      "path": "_news/2022-09-03-the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletter-august-27th.md",
-      "title": "The Pending Home Sales And Durable Goods Reports: Forbes AI Newsletter - August 27th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/631235c2d3078549f8dbaac6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/09/02/the-pending-home-sales-and-durable-goods-reports-forbes-ai-newsletteraugust-27th/amp/",
-      "publishedDateTime": "2022-09-02T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-flinders-university-is-testing-a-driverless-shuttle-bus-on-campus.md",
-      "title": "Flinders University Is Testing a Driverless Shuttle Bus On Campus",
-      "excerpt": "An autonomous shuttle bus is currently being tested at Flinders University and has now entered the second stage of its trial. Dubbed the “Flinders University Express Shuttle” (FLEX), the bus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/09/02/flinders-autonomous-bus.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/09/flinders-autonomous-bus/amp/",
-      "publishedDateTime": "2022-09-02T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-cruise-recalls-self-driving-car-software-because-humans-are-dumb.md",
-      "title": "Cruise Recalls Self-Driving-Car Software Because Humans Are Dumb",
-      "excerpt": "GM's Cruise subsidiary has performed over 120,000 unprotected left turns in its self-driving development vehicles, but a single extreme scenario that resulted in a collision ended up prompting a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/cruise-automated-driving-system-recall-collision/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/cruise-automated-driving-system-recall-collision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/2cbe305b5c51aae4ef811090b276c34e6ea7e85a/2022/06/03/020fe553-1f0b-4704-986d-788b6811f817/cruise-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/cruise-automated-driving-system-recall-collision/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/cruise-automated-driving-system-recall-collision/",
-      "publishedDateTime": "2022-09-02T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-distributed-training-with-amazon-eks-and-torch-distributed-elastic.md",
-      "title": "Distributed training with Amazon EKS and Torch Distributed Elastic",
-      "excerpt": "Distributed deep learning model training is becoming increasingly important as data sizes are growing in many industries. Many applications in computer vision and natural language processing now require training of deep learning models, which are growing exponentially in complexity and are often trained",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-amazon-eks-and-torch-distributed-elastic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/02/Featured-images-for-ML-9589.jpg",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T08:37:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-how-artificial-intelligence-can-explain-its-decisions.md",
-      "title": "How artificial intelligence can explain its decisions",
-      "excerpt": "Today, when an algorithm identifies a tumour in a tissue sample, it doesn’t reveal how it arrived at this result. And that’s not very trustworthy. Researchers in Bochum are therefore pursuing a new approach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/963644",
-      "originalUrl": "https://www.eurekalert.org/news-releases/963644",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bc5e8a87-496d-4021-8859-1d7a822ea861/Rendition/low-res/Content/Public",
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
           "width": 700,
           "height": 467,
           "title": null,
@@ -223,152 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T07:04:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-four-ways-voice-recognition-will-improve-healthcare.md",
-      "title": "Four Ways Voice Recognition Will Improve Healthcare",
-      "excerpt": "The severe stress our health system endured restricted its capacity to respond as fully and quickly as it may have in the pre-pandemic era. Thus, consumers often looked elsewhere to find answers to their pressing questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6310bd9b5bc94a00b06398ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/02/four-ways-voice-recognition-will-improve-healthcare/amp/",
-      "publishedDateTime": "2022-09-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-with-new-china-ai-chip-restrictions-us-takes-aim-at-a-critical-niche.md",
-      "title": "With new China AI chip restrictions, US takes aim at a critical niche",
-      "excerpt": "The restricted chips have the ability to carry out AI calculations quickly, at huge scale, and with high precision, necessary for tasks such as designing fighter jets The United States beefed up ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
-      "originalUrl": "https://www.rappler.com/technology/china-ai-chip-nvidia-amd-restrictions-september-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.rappler.com/tachyon/2022/09/reuters-nvidia-sept-2022-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rappler",
-        "domain": "rappler.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-the-failed-monorail-idea-that-would-have-seen-driverless-cabs-carrying-passengers-around-cardiff.md",
-      "title": "The failed monorail idea that would have seen driverless cabs carrying passengers around Cardiff",
-      "excerpt": "Could you imagine a public transport system where driverless cabs would be taken you and your friends and family around Cardiff? Well, back in 2002, the capital was looking to the future in a bid ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645",
-      "originalUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.walesonline.co.uk/lifestyle/nostalgia/article24902529.ece/ALTERNATES/s1200/0_JS44547328.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/lifestyle/nostalgia/failed-monorail-idea-would-seen-24902645.amp",
-      "publishedDateTime": "2022-09-02T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wales Online",
-        "domain": "walesonline.co.uk",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
         "images": null,
         "publishers": null,
         "authors": null
@@ -383,247 +45,12 @@
       ]
     },
     {
-      "path": "_news/2022-09-02-why-deepmind-is-sending-ai-humanoids-to-soccer-camp.md",
-      "title": "Why DeepMind Is Sending AI Humanoids to Soccer Camp",
-      "excerpt": "DeepMind’s attempt to teach an AI to play soccer started with a virtual player writhing around on the floor—so it nailed at least one aspect of the game right from kickoff. But pinning down ...",
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/",
-      "originalUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/631134163dfe1372fb611162/master/pass/soccer_HZ_science_GettyImages-520264154.jpg",
-          "width": 2400,
-          "height": 1799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/alphabet-deepmind-ai-humanoids-soccer-camp/amp",
-      "publishedDateTime": "2022-09-02T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban.md",
-      "title": "US Deals Heavy Blow to China Tech Ambitions With Nvidia Chip Ban",
-      "excerpt": "The US government’s new restrictions on the ability of Nvidia Corp. to sell artificial intelligence chips to Chinese customers threatens to deal a heavy blow to the country’s development of a sweeping range of cutting-edge technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
-      "originalUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.bnnbloomberg.ca/polopoly_fs/1.1813843!/fileimage/httpImage/image.png_gen/derivatives/landscape_620/nvidia-headquarters-in-santa-clara-california-u-s-on-tuesday-feb-23-2021-nvidia-corp-is-expected-to-release-earnings-figures-on-february-24.png",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
-      "cdnAmpWebUrl": "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/us-deals-heavy-blow-to-china-tech-ambitions-with-nvidia-chip-ban-1.1813842.amp.html",
-      "publishedDateTime": "2022-09-02T03:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bnnbloomberg",
-        "domain": "bnnbloomberg.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-gm-driverless-car-unit-recalls-vehicles-after-accident.md",
-      "title": "GM driverless car unit recalls vehicles after accident",
-      "excerpt": "The company, which is the first to have deployed driverless taxis in San Francisco in June, sent a notice this week to the US agency in charge of road safety, the National Highway Traffic Safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/09/02/gm-driverless-car-unit-recalls-vehicles-after-accident",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/09/02/gm-driverless-car-unit-recalls-vehicles-after-accident",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/09/02/1722509.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T03:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-investing-in-self-driving-car-stocks.md",
-      "title": "Investing in Self-Driving Car Stocks",
-      "excerpt": "After years of hype and behind-the-scenes development, self-driving car technology is beginning to be a reality. Vehicles featuring advanced driver-assist systems (ADAS) and some level of self ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
-      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/consumer-discretionary/automotive-stocks/self-driving-car-stocks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/dubs/images/Driverless-cars.width-600.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T03:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-commercial-operation-of-driverless-sanitation-vehicles-launched-in-south-china.md",
-      "title": "Commercial operation of driverless sanitation vehicles launched in South China",
-      "excerpt": "[Photo provided to China Daily] GUANGZHOU -- Chinese self-driving startup WeRide launched the commercial operation of driverless sanitation vehicles on open roads in the southern metropolis of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
-      "originalUrl": "https://www.chinadaily.com.cn/a/202209/02/WS63116047a310fd2b29e75974.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://img2.chinadaily.com.cn/images/202209/02/63116047a310fd2bec9f6e89.jpeg",
-          "width": 702,
-          "height": 468,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra.md",
-      "title": "Liquidnet EMEA business development head departs for AI fintech Imandra",
-      "excerpt": "Liquidnet’s former head of business development for EMEA has left the firm to join artificial intelligence (AI) fintech Imandra in a similar role, The TRADE can reveal. Dan Squires has been appointed as a vice president of sales at Imandra after spending ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
-      "originalUrl": "https://www.thetradenews.com/liquidnet-emea-business-development-head-departs-for-ai-fintech-imandra/",
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -633,93 +60,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The TRADE",
-        "domain": "thetradenews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-gms-cruise-recalls-revises-self-driving-software-after-crash.md",
-      "title": "GM's Cruise recalls, revises self-driving software after crash",
-      "excerpt": "Cruise said in a rare circumstance, the software caused the autonomous vehicle to hard brake while performing an unprotected left turn that it deemed necessary to avoid a severe front-end collision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/why-gms-cruise-unit-recalling-80-self-driving-cars",
-      "originalUrl": "https://www.autonews.com/mobility-report/why-gms-cruise-unit-recalling-80-self-driving-cars",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/CRUISE-MAIN_i_4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report.md",
-      "title": "Artificial Intelligence (AI) Chips Market Future Growth and Business Opportunities 2022-2025|Latest Research Report",
-      "excerpt": "Global \"Artificial Intelligence (AI) Chips Market\" in the forecast period of 2022-2025. Artificial Intelligence (AI)",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-future-growth-and-business-opportunities-2022-2025latest-research-report-2022-09-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T01:26:00-07:00",
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -742,26 +83,103 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI Hardware"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-09-02-thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028.md",
-      "title": "Thermometer with Face Recognition Market Global Outlook, and Forecast 2022 To 2028.",
-      "excerpt": "The \" Thermometer with Face Recognition Market Research Report \" published by Report Mines is segmented into regions (country), Company, Application, and Type. The report presents the research and analysis provided within the Thermometer with Face Recognition Market Research is meant to benefit stakeholders,",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/thermometer-with-face-recognition-market-global-outlook-and-forecast-2022-to-2028-2022-09-02",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -771,14 +189,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-02T01:00:00-07:00",
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -794,373 +212,10 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle.md",
-      "title": "Kiwi expat Dave Ferguson on founding $14b driverless vehicle",
-      "excerpt": "Kiwi singer Mel Parsons is back with her fifth studio album, Slow Burn which is out on Friday. Video / Newstalk ZB The Queen leaves Buckingham Palace for the last time, have we already been in a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "originalUrl": "https://www.nzherald.co.nz/business/kiwi-expat-dave-ferguson-on-founding-14b-driverless-vehicle/HS5XMAH3OLHNN4K47CQSUAC4FY/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.nzherald.co.nz/resizer/i2CMQvmJ_bWJ_Yt2zWDGw2uDTrU=/1200x675/filters:quality(70)/cloudfront-ap-southeast-2.images.arcpublishing.com/nzme/NPMMK34HQFJGFJUHTP5BWJQLIQ.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-01T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-study-new-treatment-increases-cognitive-function-in-down-syndrome-patients.md",
-      "title": "Study: New treatment increases cognitive function in Down Syndrome patients",
-      "excerpt": "PARIS (AFP) — A new hormone treatment improved the cognitive function of six men with Down Syndrome by 10-30 percent, scientists said Thursday, adding the “promising” results may raise hopes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "originalUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.timesofisrael.com/www/uploads/2022/09/000_32HG96V-640x400.jpg",
-          "width": 640,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "cdnAmpWebUrl": "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/study-new-treatment-increases-cognitive-function-in-down-syndrome-patients/amp/",
-      "publishedDateTime": "2022-09-01T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Times of Israel",
-        "domain": "timesofisrael.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-teachers-union-say-to-new-face-recognition-app-education-minister-satyanarayan.md",
-      "title": "Teachers’ union say to new face recognition app: Education Minister Satyanarayan",
-      "excerpt": "The minister expressed confidence that technical glitches will not be a hindrance and they will be sorted out in the due course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/9/2/w600X390/faceapp.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/vijayawada/2022/sep/02/teachers-union-sayto-new-face-recognition-appeducation-ministersatyanarayan-2494005.amp",
-      "publishedDateTime": "2022-09-01T17:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-nvidia-says-us-government-allows-ai-chip-development-in-china.md",
-      "title": "Nvidia says U.S. government allows A.I. chip development in China",
-      "excerpt": "Nvidia said in an SEC filing Wednesday that the U.S. government is restricting sales of high-performance AI chips for servers, the A100 and H100, to China and Russia. Sales of both chips are still ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "originalUrl": "https://www.cnbc.com/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107067150-1653504509165-gettyimages-1399238927-0j5a8860_7b828a63-4abc-4260-8e26-82fd1b37b3b6.jpeg?v=1653504562",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/09/01/nvidia-says-us-government-allows-ai-chip-development-in-china.html",
-      "publishedDateTime": "2022-09-01T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss.md",
-      "title": "Boy paralyzed in Highland Park shooting may have cognitive loss",
-      "excerpt": "According to the family, they are now seeing some patterns of behavior that could indicate cognitive loss. Therapists are noticing short term memory loss, issues with word recovery and loss of ...",
-      "sourceUrl": null,
-      "webUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "originalUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wgntv.com/wp-content/uploads/sites/5/2022/08/Cooper_Roberts_new.jpg?w=1280",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "cdnAmpWebUrl": "https://wgntv-com.cdn.ampproject.org/c/s/wgntv.com/news/highland-park-parade-shooting/boy-paralyzed-in-highland-park-shooting-may-have-cognitive-loss/amp/",
-      "publishedDateTime": "2022-09-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WGN-TV",
-        "domain": "wgntv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-can-ai-help-solve-educations-big-data-problems.md",
-      "title": "Can AI help solve education's big data problems?",
-      "excerpt": "This Intel executive thinks AI applications will be essential to extracting future insights from the onslaught of data modern education creates.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "originalUrl": "https://www.zdnet.com/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/7550c114ff55f32d60dc60534ecc1bf85ef71db1/2019/03/25/a6d4ddc6-f89a-4338-a513-9e211cde545e/computerscienceistock-962475952.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/intel-using-ai-to-solve-education-big-data-problems/",
-      "publishedDateTime": "2022-09-01T15:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-8-year-old-paralyzed-in-fourth-of-july-parade-shooting-may-have-some-cognitive-loss-family-says.md",
-      "title": "8-year-old paralyzed in Fourth of July parade shooting may have ‘some cognitive loss,’ family says",
-      "excerpt": "(CNN) – The family of the 8-year-old boy left paralyzed from the Fourth of July mass shooting in Highland Park, Illinois, said he may have “some cognitive loss.” Cooper Roberts is paralyzed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "originalUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-ky3-prod.cdn.arcpublishing.com/resizer/z-rZ__lANoTOxqKZsZCne3qjePE=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6XQW3YV7PNCGVJG3FNWGQWHIEE.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-ky3-com.cdn.ampproject.org/c/s/www.ky3.com/2022/09/01/8-year-old-paralyzed-fourth-july-parade-shooting-may-have-some-cognitive-loss-family-says/?outputType=amp",
-      "publishedDateTime": "2022-09-01T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KY3",
-        "domain": "ky3.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-02-financial-language-and-the-evolution-of-speech-recognition-technology.md",
-      "title": "Financial language and the evolution of speech recognition technology",
-      "excerpt": "By Katy Wigdahl, CEO, Speechmatics Due to its long heritage and diverse spread of legacy technologies, it can be challenging to integrate new technological developments into the financial industry. But by not doing so,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "originalUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/iStock-861092546.jpg",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/financial-language-and-the-evolution-of-speech-recognition-technology/",
-      "publishedDateTime": "2022-09-01T14:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
         "AI"
       ]
     }
   ],
-  "nextPage": 40
+  "nextPage": null
 }

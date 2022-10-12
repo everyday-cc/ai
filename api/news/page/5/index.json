@@ -2,6 +2,209 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-05-deepmind-ai-invents-faster-algorithms-to-solve-tough-maths-puzzles.md",
+      "title": "DeepMind AI invents faster algorithms to solve tough maths puzzles",
+      "excerpt": "Researchers at DeepMind in London have shown that artificial intelligence (AI) can find shortcuts in a fundamental type of mathematical calculation, by turning the problem into a game and then leveraging the machine-learning techniques that another of the company’s AIs used to beat human players in games such as Go and chess.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03166-w",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03166-w",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 178,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03166-w/d41586-022-03166-w_23572390.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-winds-of-change-adapting-to-procurement-change-with-artificial-intelligence.md",
+      "title": "Winds Of Change: Adapting To Procurement Change With Artificial Intelligence",
+      "excerpt": "AI is helping procurement teams and their organizations adapt to change by ensuring reaction times are quicker than their competition while bolstering supplier relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633da8354c6ec5386eb3ab41/0x0.jpg?format=jpg&crop=3313,1864,x0,y165,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paulnoble/2022/10/05/winds-of-change-adapting-to-procurement-change-with-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-05T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms.md",
+      "title": "DeepMind unveils first AI to discover faster matrix multiplication algorithms",
+      "excerpt": "DeepMind unveiled AlphaTensor, the “first artificial intelligence system\" to shed light on a 50-year-old open question in mathematics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
+      "originalUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 205,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1393498313-1.jpg?w=1200&strip=all",
+          "width": 724,
+          "height": 483,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/deepmind-unveils-first-ai-to-discover-faster-matrix-multiplication-algorithms/amp/",
+      "publishedDateTime": "2022-10-05T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-renderedai-joins-aws-marketplace.md",
+      "title": "Rendered.ai Joins AWS Marketplace",
+      "excerpt": "First synthetic data platform for computer vision to be offered to Amazon Web Services customers worldwideBELLEVUE, Wash., Oct. 5, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1914395/2022_9_collage_ID_ffd96ec7f5c2.jpg",
+          "width": 400,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-whatever-happened-to-those-self-service-passport-kiosks-at-airports.md",
       "title": "Whatever Happened to Those Self-Service Passport Kiosks at Airports?",
       "excerpt": "How often is the new facial recognition system used and how does it work? Around 85 percent of the 221,000 daily visitors arriving from abroad are now verified by face, according to C.B.P. officials.",
@@ -994,194 +1197,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-computer-scientist-aims-to-protect-people-in-age-of-artificial-intelligence.md",
-      "title": "Computer scientist aims to protect people in age of artificial intelligence",
-      "excerpt": "As data-driven technologies transform the world and artificial intelligence raises questions about bias, privacy and transparency, Suresh Venkatasubramanian is offering his expertise to help create guardrails to ensure that technologies are developed and deployed responsibly.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-5.jpg",
-          "width": 1920,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-scientist-aims-people-age-artificial.amp",
-      "publishedDateTime": "2022-10-04T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-haystacksai-successfully-completes-sfr-portfolio-trade-pilot.md",
-      "title": "Haystacks.AI successfully completes SFR portfolio trade pilot",
-      "excerpt": "Haystacks.AI, a property intelligence platform for investors, announced piloting its 1031 exchange solution to executive a SFR trade.",
-      "sourceUrl": null,
-      "webUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
-      "originalUrl": "https://finledger.com/articles/haystacks-ai-successfully-completes-sfr-portfolio-trade-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://finledger.com/wp-content/uploads/sites/5/2022/01/AdobeStock_354021440.jpeg?resize=1024,512",
-          "width": 1024,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FinLedger",
-        "domain": "finledger.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens.md",
-      "title": "What octopus intelligence can teach us about artificial intelligence — and aliens",
-      "excerpt": "Are intelligent aliens among us? A newly published novel just might lead you to think so — and these aliens aren’t from another planet",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
-      "originalUrl": "https://www.geekwire.com/2022/what-octopus-intelligence-can-teach-us-about-artificial-intelligence-and-aliens/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/octopus1-1260x815.jpg",
-          "width": 1260,
-          "height": 815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
-      "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
-      "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633c36cd250f5641618d9da8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "publishedDateTime": "2022-10-04T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

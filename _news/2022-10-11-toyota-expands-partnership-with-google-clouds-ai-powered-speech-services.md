@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-par
 webUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-partnership-with-google-cloud-s-ai-powered-speech-services-1031795820"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -23,19 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "HSBC and Silent Eight Expand Machine Learning Partnership"
-    excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the"
-    publishedDateTime: 2022-10-11T09:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-expand-machine-learning-partnership-301643369.html"
+  - title: "Toyota and Lexus cars to get AI-powered voice assistant, no internet required"
+    excerpt: "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity."
+    publishedDateTime: 2022-10-12T11:23:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 39
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg?p=facebook"
-        width: 2700
-        height: 1414
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/12/1600x900/TOYOTA-INVESTMENT-0_1646050256447_1665573668818_1665573668818.JPG"
+        width: 1600
+        height: 899
         isCached: true
   - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
     excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."

@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-e
 webUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-expand-machine-learning-partnership-301643369.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,47 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Expands Partnership With Google Cloud's AI-Powered Speech Services"
-    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio"
-    publishedDateTime: 2022-10-11T12:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-partnership-with-google-cloud-s-ai-powered-speech-services-1031795820"
+  - title: "Silent Eight Pte. Ltd.: HSBC and Silent Eight Expand Machine Learning Partnership"
+    excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative"
+    publishedDateTime: 2022-10-11T09:45:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57269601-silent-eight-pte-ltd-hsbc-and-silent-eight-expand-machine-learning-partnership-008.htm"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
-  - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
-    excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
-    publishedDateTime: 2022-10-11T21:47:00Z
-    webUrl: "https://dallasinnovates.com/lets-talk-toyota-google-cloud-expand-next-gen-in-car-voice-ai-systems/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 38
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Lexus-interface-voice-assistant.jpg"
-        width: 970
-        height: 464
-        isCached: true
-  - title: "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles"
-    excerpt: "Google Cloud's new product Speech On-Device enables AI-driven speech services on embedded devices regardless of internet connectivityToyota to"
-    publishedDateTime: 2022-10-11T12:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles-1031795636"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 36
-  - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
-    excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
-    publishedDateTime: 2022-10-11T17:59:00Z
-    webUrl: "https://www.autonews.com/technology/toyota-google-cloud-partner-bolster-speech-recognition-ai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg"
+        width: 400
+        height: 337
+        isCached: true
 
 secured: "ddoBdATXGINSAcK9WgRwc0EQJ/Jb+jhoBJXsV3mB2kJNka5SDHItA5Ryy0rLJo1phvJAl8fBAINCBAI01Sj5Mdna5RmXUtmS2pHxwPqg+5CIr9pGG002I7Pz/4Q2mmGyIyyDixPKYvYgm0GfSSr2Ana3uYIK730oe+4/eGjFHCwInb1a6C0rfZ0V8VWIYfgKPjW3Y3ucZx5te/qP1JbW9MOl3n35AI64Ck96b8OAGSo9qjROI0nMPmLkmrIdA0FHs4Mt2GF7D+qZZR13qF23xyUm3xfOhUJz5bHZCLm6L8ZUoNz0NU5CGSQRaYvVg1CaQowVlVycc3ruC7Zky5XIsVXOhgcm1aO9I/OaijPkbjk=;Xf9M0bj7FAR4CIgRn+/3CQ=="
 ---

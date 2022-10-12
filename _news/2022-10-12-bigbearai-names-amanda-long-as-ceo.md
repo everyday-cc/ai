@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former IBM VP Mandy Long Becomes CEO of BigBear.ai"
+    excerpt: "general manager for IBM Watson health provider analytics and chief product and strategy officer, AI for IBM Watson. She previously served as VP of product management at Modernizing Medicine and Experian Health. Amanda “Mandy” Long, most recently vice ..."
+    publishedDateTime: 2022-10-12T09:44:00Z
+    webUrl: "https://www.govconwire.com/2022/10/mandy-long-named-bigbear-ai-ceo-board-member/"
+    type: article
+    provider:
+      name: GovCon Wire
+      domain: govconwire.com
+    quality: 39
+    images:
+      - url: "https://www.govconwire.com/wp-content/uploads/2022/10/unnamed-file-61.png"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "BigBear hires IBM vet as new chief executive"
     excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
     publishedDateTime: 2022-10-11T21:25:00Z
