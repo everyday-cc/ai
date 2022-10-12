@@ -26,14 +26,28 @@ images:
 
 related:
   - title: "Toyota Expands Partnership With Google Cloud's AI-Powered Speech Services"
-    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio multimedia systems and Google Cloud's AI-based speech services. Toyota's next-generation system will no longer require an internet connection for natural-speech functions."
-    publishedDateTime: 2022-10-11T12:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/toyota-expands-partnership-with-google-clouds-ai-powered-speech-services"
+    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio"
+    publishedDateTime: 2022-10-11T12:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-partnership-with-google-cloud-s-ai-powered-speech-services-1031795820"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 48
+  - title: "HSBC and Silent Eight Expand Machine Learning Partnership"
+    excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the"
+    publishedDateTime: 2022-10-11T09:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-expand-machine-learning-partnership-301643369.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles"
     excerpt: "Google Cloud's new product Speech On-Device enables AI-driven speech services on embedded devices regardless of internet connectivityToyota to"
     publishedDateTime: 2022-10-11T12:05:00Z
@@ -53,6 +67,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "/mfBvC1knJKGPDIvdvVHYwOMOdM0fU1fLwGFcNTACcv3qXUOXnTqT99kiW1bDcD+Ulbei0YZGGmSEe++TRXyCgWiEKqs4q+A47dxn0QOXeRTxjVWbmg0c1StfcFUFqeyTqOgQ8rnVl6d8RwcDGwxo/nnQ+MfUVILwvCQFvQ+rWRQDwGD1Rmdx85XMdIc7ZDSWRzg7mNvVBZUZLPapooQEKZiBHV1v94aacHsAZaC8oyZ0NEAgB5CjF08UHob9f23qwP+rOOPfI91nXCOk5b2WojlhUFErt7u9MtsalwvOzeOpjunz0NMTgHdRJ9CimsC1nngVYtA++RYEdM4jIFFP8itkrF9w5l5ypLyiAfkgM4=;4/mzV/uU0dJQ9W1Y1LqNag=="
+secured: "LmI8vtqCg23wXELywXzIVJCHo/rG6MdY6sfHD6aB9mZ36qxgPVnYQB7oLXFEGuC1WCfvQCVKbzw4CB/PYiw5fguldes03YpQ57TVuwPH9vudxcb1cbpYVnlzWg2lw5mBoqxXDiHKPQDX1ZtQBZBMMyXNg1LlTK2RIm4KzlUYqoLwxCBWbBSWU8xvyBvny4z6KK4npAXzGKq3Mz0g0uPZiJX3P7OL9fsv05aPYqHJgxQOwLBrNSWxb/LITYKsmqyv/sR36XeA0zLM9JCxZnKU7KyDAdrK78MUbpk25EW/0uUiXA54yDuycuSGBvyCePfmrXyGzPgI1NrLL54X2hz8ivwuwkLfcXCDdtQQjDI/ZwoPslI85YQaGBXY2nl+Xv5wxf1P93aPIK8u/o62bHxn3EAZkilhjztpcknweMTdIZcoZmK9x7ES22UWTvEQsnS74numU6fn6bSoPZ5lzbCJAX1qfTSCSKLp/6evR6Nq+vsjC95JpOzoHxODEZOllpwqwKqlh4/6qw3VZIIYRTp2Mg==;w50lbqHqFG3aIXFHll3T1w=="
 ---
 

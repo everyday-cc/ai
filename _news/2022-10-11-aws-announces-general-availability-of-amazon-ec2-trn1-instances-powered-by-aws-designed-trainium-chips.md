@@ -2,12 +2,12 @@
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
 excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
-publishedDateTime: 2022-10-10T23:35:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+publishedDateTime: 2022-10-10T23:13:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm"
 type: article
-quality: 40
-heat: -1
+quality: 55
+heat: 65
 published: false
 
 provider:
@@ -15,9 +15,9 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AWS AI
+  - AI Hardware
   - AI
-  - Natural Language Processing
+  - AWS AI
 
 images:
   - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
@@ -36,6 +36,6 @@ related:
       domain: insidehpc.com
     quality: 53
 
-secured: "FMexk5klAXGSUJqq/orJHziLaPOROqE49omOMo9dkeZMWKf26vEIUCGJ/K9UIiPcgkx4O7pf2ppcjnTQmNvWCmjGmal+8JeHVmohjeLMZl57iiLNcFCMfEOTqhmeOHC42HRjVW+bpt6ZeoeHOuDjwbwNVFatwc3TXytsQa1jJE3OjA/+DSXTrzJBTP0sMzbywTjizDXdd/2Sh6p2nJZIrCw0ZfnxA57mY+fLsqPYtgfp9IbbI0KvfM5Cb+MvsEE4hTIz5/Sgg1Vtg5mgjhyo3ikPPvVt+NWv22hRTIzZWKOR9aj6+o8/0NtIrnkMvETB0GpV98vJ+9R/b4jWw/b8xeA4T0QBtTu9iBERfftCefE=;JXSfJnyhPR9GR+JL9/KLPA=="
+secured: "L+okmknYrQ8gIgM/zdN9R06PQHTbJ+2V0Sw9dNZu7V7teGU5dWmrprC+BPdEpw7zqFg/Qz7BegMKNemqXjCjVJuEMtrZvpUrvO6E4d5X4z/M5IQEy8/H04aFlJ0JqqeaGCKn+P3oeMXM1eNojSGTj1bmnyRxwMVkN32uj0VEmTbvawqyJBXs7/+l4eLRKNLr0ijkeB2JfvdeFw5vKmga5vy7TPorFvpYTn6pJQ/G2RiiQFAW2dwd7k1bvuFGEqxjiVqPaUReix6cNL6JJ5FJ7UuyS7p/wRyE8VD9LZe2KkHtjnTIE7sI7NBlF6+fNZ6cX287Z+7i2JwEafrp3NuXMu2uCuFOPGLLWryDRfTwgdg=;J7/4jOyzaIJHeWMWJYDJjg=="
 ---
 

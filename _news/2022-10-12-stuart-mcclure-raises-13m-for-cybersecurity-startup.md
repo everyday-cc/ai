@@ -7,7 +7,7 @@ originalUrl: "https://www.ocbj.com/internet-2/stuart-mcclure-venture/"
 webUrl: "https://www.ocbj.com/internet-2/stuart-mcclure-venture/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     height: 475
     isCached: true
 
-secured: "gTwghYdZXRTxQOV5Em1kpqzdOhMtMAoEr5qr3WZpcmlcuS9pc9IR+nG69PV7Hie5vymLQQv30LtQmcOa04sNN2oKvxamDCQpu5kJn58b3P0I2+2iFD2orLQhm/2cZASvfDo544yvytM2HF6Bb8ZCa0rF76ZC6a37Fgm8BgXTOLx5n4g8MwzZSMN1KvFNhQHy2Ru9psgw+whckTh9Ih9zrLtFwE/0VI+nIHaUTNKoPTREJzPBpuZADaybEcEUw6dRZ1MzLEK8zHu1SlBBeWoo4YuBhveJcWwSzq+lk3mBgjbChGPexqsaLD8m2Oex/XBf/4rBytmc1mUn/o/lZcA7c+1Rksblg3OZU+pDyKZlyMc=;Shb5P+jb8qVKMXTOf0zxeg=="
+related:
+  - title: "Sophos CTO Joe Levy on AI in Cybersecurity"
+    excerpt: "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals."
+    publishedDateTime: 2022-10-11T22:10:00Z
+    webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
+    type: article
+    provider:
+      name: eWeek
+      domain: eweek.com
+    quality: 67
+    images:
+      - url: "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "/iFkivh/1XjitFJr2/9pa5LQAnSGklklaRWeV78c2drolx5RDiAFk1S3aVzPFnwE9RS2gTcmVqMIoH8Kikiuaj/DeuWJT9IuBYTvIKjfCgdcK4LGa9w7+kH/A6BTAWHeO2tYCdB7ryJlLSF7sGcHVKNS1xbwfYcyVA/g/2opPEYjEYeUMYs6laZHODTErjHvZvyrMwMd8FRu/wHovXe6aW/HUq5r1qU+FedskX3KQjE42tUTSgGMPVt76n0toT1jSeMoC6ANl1j6wp5KF5M/Qyh/GhsNydBeFP/KHCoxXjsj8fBIIxqvIkmel3UGmQtDVggu+lHs7NlFzzfWQFGFmXsnSxU3vjj7ZUPQNCvWaDayTLPNFqb48aNDUpL4nwenMLYYy8i4l7xQGTdQHYgRCKQkyB26FWDiDMLvbN3LFlTzBJpB6bEtyMRf4k9Q59ElgndX2SMOIt4F5ZGvCC8Nn6axMx7GFrCkP0Lw8eYeDmd99cOitZLGi6xxYXL8+zipLxVVbrRamIS9UueShVHmUA==;SQBZQv4cQ90dydohV4tYaA=="
 ---
 

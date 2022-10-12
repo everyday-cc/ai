@@ -43,22 +43,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Many U.S. drivers treat partially automated cars as self-driving, study finds"
-    excerpt: "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”"
-    publishedDateTime: 2022-10-11T14:38:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 71
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "Like Texting and Driving: The Human Cost of AI"
     excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
     publishedDateTime: 2022-10-10T15:08:00Z

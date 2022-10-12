@@ -18,6 +18,36 @@ topics:
   - AI
 
 related:
+  - title: "Fake Joe Rogan interviews fake Steve Jobs in an AI-powered podcast"
+    excerpt: "A voice synthesis company based in Dubai published a fictional podcast interview between Joe Rogan and Steve Jobs using realistic voices digitally cloned from both men. It takes place during the \"first episode\" of a purported podcast series called \"Podcast."
+    publishedDateTime: 2022-10-11T22:23:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/cyborg_steve_jobs-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
+  - title: "AI-generated Steve Jobs and Joe Rogan talk in bizarre podcast interview"
+    excerpt: "Someone created a bizarre podcast interview with an AI-generated Steve Jobs and also AI-generated Joe Rogan. Listen to it here."
+    publishedDateTime: 2022-10-11T15:20:00Z
+    webUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/"
+    ampWebUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
+    type: article
+    provider:
+      name: BGR
+      domain: bgr.com
+    quality: 57
+    images:
+      - url: "https://bgr.com/wp-content/uploads/2022/10/steve-jobs-joe-rogan-bgr.jpg?quality=82&strip=all"
+        width: 2000
+        height: 1000
+        isCached: true
   - title: "AI-Generated Joe Rogan Chats Up Steve Jobs Over His Use of LSD, Spat With Gizmodo"
     excerpt: "Podcast.ai generated a fake audio recording using artificial voices and language model transcripts based on Rogan and Jobs’ old public speeches and keynotes."
     publishedDateTime: 2022-10-11T17:57:00Z
@@ -27,6 +57,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 42
+  - title: "This podcast brings Steve Jobs back to life, thanks to AI"
+    excerpt: "What would Steve Jobs have to say if he were alive today? A podcast attempts that experience. But is it effective?"
+    publishedDateTime: 2022-10-10T19:54:00Z
+    webUrl: "https://interestingengineering.com/culture/ai-brought-steve-jobs-back-to-life"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/10/image/jpeg/b6UhhSaMZ8oQyTCKgoYgnIqqxvDS3L3o1MvA3Sj6.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "FLN390U1tNXDu2HXmDYeebk6Zr9ZcwnDu2PSA2wzIxUmqQI9HXaDDaNn4rOXLhYofKHjDrBD6CXvkm/DWsD816+9aHL8N5eQ/dZLpB7vMjPXK9w64cA9U89UkYCOpOyAwiMbmft/qzeCCjGSmMw1073QewfF91kbrlrlxN+N6afueE4Aer0lsCM0Qd5TqtLMwUKyfWouRHasa0r9hgXtnjAPCPJsMoSft+nv5Bn9oIJr+K0ywD6OOCr/e63GEDAugRJ3xaRYncCEopWl2m21LsBXiiXORNkQk2jUmqlC/SKGSdUjK7eEOj9RPFxB3LNnHRy17rZoYZEdmeMZdCXL6tsy1/5KQDj6Ce2k4gOAvXL9TwQ97E+nt98cajoVoZE/6pUX+Ak9d3ReJ9i5G6v9L+UMKxH/LhKTa0RujwVo51rXE9SnWPhPXmR9o+p5d4rSZgLwW2fSYGhvMuTclXpr9Jo+aOM3vgOQhLmSPzl5O9WqnXlipe5T6unbc/Q5yeNXF+OnwRf1T7KUopyWWHEseQ==;407Zg5FDys8sr9fIntEyZg=="
 ---

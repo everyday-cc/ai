@@ -131,6 +131,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Artificial Intelligence For Drug Development and Discovery Market, Share, Size, Segmentations, Industry Trends, And Forecasts 2022 To 2030"
+    excerpt: "The artificial intelligence for drug discovery and development market was valued at $520 million in 2019 and is projected to reach $4,815 million by 2027, registering a CAGR of 31.6% from 2020 to 2027."
+    publishedDateTime: 2022-10-10T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-drug-development-and-discovery-market-share-size-segmentations-industry-trends-and-forecasts-2022-to-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
     excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
     publishedDateTime: 2022-10-11T02:08:00Z

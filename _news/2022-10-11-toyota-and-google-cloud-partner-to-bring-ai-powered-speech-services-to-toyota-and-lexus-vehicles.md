@@ -24,14 +24,28 @@ topics:
 
 related:
   - title: "Toyota Expands Partnership With Google Cloud's AI-Powered Speech Services"
-    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio multimedia systems and Google Cloud's AI-based speech services. Toyota's next-generation system will no longer require an internet connection for natural-speech functions."
-    publishedDateTime: 2022-10-11T12:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/toyota-expands-partnership-with-google-clouds-ai-powered-speech-services"
+    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio"
+    publishedDateTime: 2022-10-11T12:31:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-partnership-with-google-cloud-s-ai-powered-speech-services-1031795820"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
+      name: Business Insider
+      domain: businessinsider.com
     quality: 48
+  - title: "HSBC and Silent Eight Expand Machine Learning Partnership"
+    excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the"
+    publishedDateTime: 2022-10-11T09:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-expand-machine-learning-partnership-301643369.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 39
+    images:
+      - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg?p=facebook"
+        width: 2700
+        height: 1414
+        isCached: true
   - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
     excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
     publishedDateTime: 2022-10-11T21:47:00Z

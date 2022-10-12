@@ -7,7 +7,7 @@ originalUrl: "https://www.itpro.co.uk/technology/machine-learning/369163/machine
 webUrl: "https://www.itpro.co.uk/technology/machine-learning/369163/machine-learning-vs-deep-learning-vs-neural-networks"
 type: article
 quality: 100
-heat: 102
+heat: 100
 published: true
 
 provider:
