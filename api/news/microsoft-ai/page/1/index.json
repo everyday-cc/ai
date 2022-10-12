@@ -550,24 +550,33 @@
     {
       "path": "_news/2022-10-04-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins.md",
       "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
-      "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
+      "excerpt": "The new platform will provide next-generation robotics, AI and automation capabilities at the edge to ... It also works closely with Microsoft to leverage the Azure platform and Accenture’s proprietary edge accelerators. Earlier this year, Accenture ...",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
+      "webUrl": "https://www.wsiltv.com/news/illinois/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_5178fbfe-1476-5225-b510-75a2c86c0ffc.html",
+      "originalUrl": "https://www.wsiltv.com/news/illinois/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_5178fbfe-1476-5225-b510-75a2c86c0ffc.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/2/2f/22f0a747-ca3e-58a0-b610-dcfd34dab900/633bb1320cc48.image.jpg?crop=1773%2C931%2C0%2C119&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:01:00-07:00",
+      "publishedDateTime": "2022-10-03T21:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "WSIL-TV",
+        "domain": "wsiltv.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -899,6 +908,49 @@
       "topics": [
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-01-new-alzheimers-drug-reduces-cognitive-decline-say-biotech-firms.md",
+      "title": "New Alzheimer’s Drug Reduces Cognitive Decline, Say Biotech Firms",
+      "excerpt": "The companies said that the drug slowed cognitive decline by 27% in patients treated with the intravenous medication. It’s likely the drug will get the FDA’s approval by the end of the year. This all comes after the recent controversy surrounding ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencefriday.com/segments/new-alzheimers-drug/",
+      "originalUrl": "https://www.sciencefriday.com/segments/new-alzheimers-drug/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.sciencefriday.com/wp-content/uploads/2022/09/brain-scans.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-30T12:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Friday",
+        "domain": "sciencefriday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1331,58 +1383,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-new-trial-finds-first-ever-alzheimers-drug-to-slow-cognitive-decline.md",
-      "title": "New trial finds first-ever Alzheimer’s drug to slow cognitive decline",
-      "excerpt": "The drug seems to be successful at slowing cognitive decline ... He also noted health services should begin preparing for how this treatment can be equitably distributed if it does go on to ...",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
-      "originalUrl": "https://newatlas.com/health-wellbeing/lecanemab-alzheimers-drug-slow-cognitive-decline-large-human-trial/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/add920d/2147483647/strip/true/crop/7360x3864+0+524/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F92%2Faf%2Fde5ed6104a7ea392a28be31cfb4c%2Fdepositphotos-322004950-xl.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -72,15 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Enabled Smart Trackers Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The \"AI Enabled Smart Trackers Market\" is"
-    publishedDateTime: 2022-10-07T16:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-enabled-smart-trackers-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
     excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
     publishedDateTime: 2022-10-10T04:42:00Z
@@ -105,6 +96,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "O7DxUdUF1K5VKMLA26X5zewPMgL2tr5zaqYQchJRkJKsBr3SJgIE2q4Q7y3mhrR5u2oNArPPeCijzqh/5FSYu4MqMZOrSjUagH45s7regqYJxcTkp+mr92QChWvfaIPsK9AaSFdkqnSWmQI1OXyYalmBABoC00L6PNw2Xjz8A0EZHwxzyQMo0fLXMCEG+QbCeGBFSmtEbh2veJotCGbnJD51m1g9FqjhKTXLbYHmbRTkGrkg/nuEtTcDWuRh5n2uf/0XK5jJUmO6R/2tKHote6BpiOJArl4vNayVRVM+GNfmA7igqjheXBl5gnTsDaBqzNewyDQSDeQ1Un3uxFXl0we1X39uubKAw4o39JiG8t4=;NNoUMN+kP/TgL5RTzohnOg=="
+secured: "57G1FXvcEc/ixlOWDMuvfTGVD4Z29FCkjX4bTFefeVSVnndmdlcbLQyd8VkD6iSE5Wa184UIxdPQ42t2/+Lvwv76K2prim7rMLJcgsbpd7OwYgCfTM8+XGx2Was3MDSDRxeVcyEKSz4s08QE/2SlBG7oi2hJ9tqu5RP9TMvq5Qiw2e2u2a0CjpYj5Z59z8o/V26HPLAztZeIeDrVut1JiYzvCP7Xrr/2p+9SfVlFpmheqYjUSN2/ikilnBMG/0aH5F3D6gm/seW0VTLvJBn9d60+lzugyF7Upxc8SBHiV+XiBLtck3K6OLoK10nowUY3EanTiHTnV3EAFk8BhTyVFHkrqzkVSZGIj+wEBB2zPHZ+PCeafZegRS4ZGQT7A+5w77CpNw+bPQcORb7ET+iFiy1uXogT02idW4YrbuJybzVv1hse0hgIVOHF5WQrnZcyM5cyezlZ0quR6lvzhpT5z6P9LdhpL4OT421yPNNE6WV/l8fHN/4TiUYOXr8V/Yvdu4IvKtcWREtmImcOh/LbVw==;pBi5xYBEuBJde0joUtPEoQ=="
 ---
 

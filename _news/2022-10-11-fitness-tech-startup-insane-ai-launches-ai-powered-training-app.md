@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/fitness-tech-startup-insan
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/fitness-tech-startup-insane-ai-launches-ai-powered-training-app/amp_articleshow/94793526.cms"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
+    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when… | London | Technology |"
+    publishedDateTime: 2022-10-12T09:03:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+    type: article
+    provider:
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 44
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
+        width: 1200
+        height: 627
+        isCached: true
 
 secured: "HPMAUJEYmtNA9WAUuE7JW3hlMaIIcSrkQLG739zXUGxnSbAy1Z8EB+13TvxsoH2wH5miN73pRyFDuS/1hfZ7g+2re3FQaArSJhb4qonePFf2bJahzOQqmNDGKSQhUXDa8JFMFAL6WTyM3KWDleuNjuF6M25KCgUAp0wF9kVS3iPy4zECeFrP+UjybSncDI3P3ris8jLsgCdE0TIdqcw3kpj5NbkMYDfuFAXQ411C04d6hHgozQKQAUJYkjNoQzNF+Kk0lePNXKAhxpyR/el+8Gea0iGMs+NkgohaXDRn/JZYnXJHiEyFlvgGa6uhH3tJg9UZajH1DV6ulG7U82vPneTWj2jGhxgKTH4zUkAksr+BzFVG+aM4AJQUv5ZkBaXV2uP62mFOntJzyc92wx70V8LQSdsZD/rlWYkCWVAnMOsDk/is3BnMxtMDR9u2h0LDVJp538XVElIjA6qyFXcW48tetRfOyP3w6XCBmxlOME6UYUWdi3+DFE6pjF4V3m0gUdFtpR9yaq/AFaRYSCOpLQ==;gKhivHSsKLY1boFLiVdVXw=="
 ---

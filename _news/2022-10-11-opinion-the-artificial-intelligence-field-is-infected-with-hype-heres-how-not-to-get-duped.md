@@ -24,22 +24,6 @@ images:
     height: 825
     isCached: true
 
-related:
-  - title: "Column: The artificial intelligence field is infected with hype. Here's how not to get duped"
-    excerpt: "\"When we talk about AI,\" Kapoor says, \"we tend to say things like 'AI is doing X — artificial intelligence is grading your homework,' for instance. We don't talk about any other technology this way — we don't say,"
-    publishedDateTime: 2022-10-07T16:00:00Z
-    webUrl: "https://www.aol.com/news/column-artificial-intelligence-field-infected-130008286.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 26
-    images:
-      - url: "https://s.yimg.com/cv/apiv2/aolfp/metadata/og-image.png"
-        width: 1200
-        height: 630
-        isCached: true
-
 secured: "UHQytWlhrozPw/Sa4Hb0cNhLFjIOZBBPlQocY/FCWCxGDfTKTU/gzLKOGJG5qne23lUvDOO30vO9sTf10or7hoWEsSZLTRvPduQ04XlIcUxfZX5QfHz41Al+TH8vixCp/0TqcpBosOlcWMRdwziKrK7U7BLOowRMQrjufMmn+uGOfDmUvVZ6c3CZX69r7JhizqQCUxbzLXyzAWcL5z2q87wAXlTIhLhX0OA5WU2Q1u72vr4xlLDlkrUYNDxb1N5wVFyUscZ6tCVhc+C5BAwc0VlOw5VnydUl+FOwlga1Wnm6jLZp/bdvq5z3vg0XrdCS2YeOqZ3bNmJxoMcgGXSxHhhJnpIBcO9vH8lmeVnZ6P5QUDVZB5EjsnFhNG3NsQ5X7xe3eqqdSbljMWSdBidZyPjpRxR707QrYgsNtiQgQSz6zWFyUJQcSwIPdzkCO1jOnhQ0Lge6AUZ+NlEXe5TBC0lyfalFC5zX13hRyFYTMCUI+rk9m6QnjFUE3IrhH5w86XFY2g9qqS16twMU2u/9Yg==;r5LUQ/ETxy9YEiqU/PKX3w=="
 ---
 

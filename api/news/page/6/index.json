@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-04-biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping.md",
+      "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
+      "excerpt": "It touches on concerns about bias in AI systems, AI-based surveillance, unfair health care or insurance decisions, data security—and much more—in the context of American civil liberties, criminal justice,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai_whitehouse_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T09:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-meta-launches-ai-software-tools-to-ease-switching-between-nvidia-amd-chips.md",
       "title": "Meta launches AI software tools to ease switching between Nvidia, AMD chips",
       "excerpt": "Meta's new open-source AI platform is based on an open-source machine learning framework called PyTorch, and can help code run up to 12 times faster on Nvidia Corp's (NVDA.O) flagship A100 chip or ...",
@@ -94,49 +145,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-white-house-unveils-artificial-intelligence-bill-of-rights.md",
-      "title": "White House unveils artificial intelligence 'Bill of Rights'",
-      "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s pe",
-      "sourceUrl": null,
-      "webUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
-      "originalUrl": "https://www.postregister.com/businessreport/healthcare/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/assets/v3/editorial/4/f6/4f684d58-8467-5029-980f-ff02e6910d45/633c12f798b36.image.jpg?resize=1024%2C682",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.postregister.com/businessreport/government/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
-      "cdnAmpWebUrl": "https://www-postregister-com.cdn.ampproject.org/c/s/www.postregister.com/businessreport/government/white-house-unveils-artificial-intelligence-bill-of-rights/article_80e54c19-f827-57dd-9936-cfe6afaeebd7.amp.html",
-      "publishedDateTime": "2022-10-04T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Post Register",
-        "domain": "postregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     },
     {
@@ -922,24 +930,33 @@
     {
       "path": "_news/2022-10-04-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins.md",
       "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
-      "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
+      "excerpt": "The new platform will provide next-generation robotics, AI and automation capabilities at the edge to ... It also works closely with Microsoft to leverage the Azure platform and Accenture’s proprietary edge accelerators. Earlier this year, Accenture ...",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-4-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins",
+      "webUrl": "https://www.wsiltv.com/news/illinois/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_5178fbfe-1476-5225-b510-75a2c86c0ffc.html",
+      "originalUrl": "https://www.wsiltv.com/news/illinois/accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and/article_5178fbfe-1476-5225-b510-75a2c86c0ffc.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wsiltv.com/content/tncms/assets/v3/editorial/2/2f/22f0a747-ca3e-58a0-b610-dcfd34dab900/633bb1320cc48.image.jpg?crop=1773%2C931%2C0%2C119&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T21:01:00-07:00",
+      "publishedDateTime": "2022-10-03T21:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "WSIL-TV",
+        "domain": "wsiltv.com",
         "images": null,
         "publishers": null,
         "authors": null

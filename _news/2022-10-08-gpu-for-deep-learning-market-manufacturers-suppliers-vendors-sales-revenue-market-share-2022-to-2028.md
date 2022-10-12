@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-ma
 webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -73,15 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Enabled Smart Trackers Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The \"AI Enabled Smart Trackers Market\" is"
-    publishedDateTime: 2022-10-07T16:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-enabled-smart-trackers-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
     excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
     publishedDateTime: 2022-10-10T04:42:00Z

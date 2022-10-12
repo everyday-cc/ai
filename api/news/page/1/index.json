@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
+      "title": "How can banks supercharge credit operations with AI?",
+      "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/05/Rajat-Deshpande-Finbox.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-can-banks-supercharge-credit-operations-with-ai/",
+      "publishedDateTime": "2022-10-12T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency.md",
       "title": "Microsoft and Mercedes-Benz tap AI for auto production efficiency",
       "excerpt": "Microsoft and Mercedes-Benz announced a new collaboration today, tapping artificial intelligence (AI), digital twins and data analytics.",
@@ -1182,50 +1225,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape.md",
-      "title": "Overcoming cyber security challenges in the evolving fintech landscape",
-      "excerpt": "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "originalUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1326418539.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "publishedDateTime": "2022-10-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
       ]
     }
   ],

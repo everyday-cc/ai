@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-11-overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape.md",
+      "title": "Overcoming cyber security challenges in the evolving fintech landscape",
+      "excerpt": "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "originalUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1326418539.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
+      "publishedDateTime": "2022-10-10T13:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
       "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
       "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
@@ -895,7 +939,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -1183,58 +1227,6 @@
         "AI Ethics",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-music-generators-could-be-a-boon-for-artists-but-also-problematic.md",
-      "title": "AI music generators could be a boon for artists — but also problematic",
-      "excerpt": "Stability AI is funding an effort to create a music-generating system using the same AI techniques behind Stable Diffusion.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
-      "originalUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/DALL·E-2022-10-07-00.01.33-a-robot-composing-music-musical-notes-synthesizer-saturated-colors-shadows-trending-on-artstation-abstract-1-e1665150702829.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/07/ai-music-generator-dance-diffusion/amp/",
-      "publishedDateTime": "2022-10-07T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],
