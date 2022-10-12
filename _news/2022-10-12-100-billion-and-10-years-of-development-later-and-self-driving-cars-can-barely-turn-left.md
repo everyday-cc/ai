@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Most Consumers Are Still Wildly Confused About Self-Driving Cars"
-    excerpt: "Study has revealed that 65 per cent of consumers are unable to accurately define fully automated, self-driving vehicles, with 56 per cent classifying current driver-assist technologies as self-driving systems."
-    publishedDateTime: 2022-10-09T23:40:00Z
-    webUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/"
-    ampWebUrl: "https://www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/many-consumers-are-still-confused-about-self-driving-cars/amp/"
+  - title: "Godfather of Self-Driving Cars Says the Tech Is Going Nowhere"
+    excerpt: "There’s tons of enthusiasm over self-driving cars. But nearly twenty years and some $100 billion since the first demos, the technology just isn’t there yet. In fact, it may be further off ..."
+    publishedDateTime: 2022-10-10T05:47:00Z
+    webUrl: "https://futurism.com/self-driving-industry-going-nowhere"
+    ampWebUrl: "https://futurism.com/self-driving-industry-going-nowhere?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-industry-going-nowhere?amp"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
+      name: Futurism
+      domain: futurism.com
     quality: 44
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2020/05/Tesla-Autopilot-report-00.jpg"
-        width: 1920
-        height: 1040
+      - url: "https://wp-assets.futurism.com/2022/10/self-driving-industry-going-nowhere-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "Self-driving cars still far away"
     excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
@@ -75,15 +75,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
-    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T13:03:00Z
-    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 34
   - title: "Self-Driving Cars Are Not (Yet) Safe"
     excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
     publishedDateTime: 2022-10-10T00:00:00Z

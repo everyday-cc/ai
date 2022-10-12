@@ -52,15 +52,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Deep Learning Camera Market Size in 2022 | Trends Shaping by Top Manufacturers with Best Opportunities, SWOT Analysis till 2028 | 85 Report Pages"
-    excerpt: "In 2022, “Deep Learning Camera Market“Size, Status and Market Insights, Forecast to 2028 |(Number of Pages: 85)"
-    publishedDateTime: 2022-10-07T11:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-size-in-2022-trends-shaping-by-top-manufacturers-with-best-opportunities-swot-analysis-till-2028-85-report-pages-2022-10-07"
+  - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
+    excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
+    publishedDateTime: 2022-10-10T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 12
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
     excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
     publishedDateTime: 2022-10-11T08:14:00Z

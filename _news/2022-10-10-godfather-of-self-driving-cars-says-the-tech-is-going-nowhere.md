@@ -1,48 +1,32 @@
 ---
 category: news
-title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
-excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
-publishedDateTime: 2022-10-08T15:00:00Z
-originalUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-webUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-ampWebUrl: "https://www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
-cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+title: "Godfather of Self-Driving Cars Says the Tech Is Going Nowhere"
+excerpt: "There’s tons of enthusiasm over self-driving cars. But nearly twenty years and some $100 billion since the first demos, the technology just isn’t there yet. In fact, it may be further off ..."
+publishedDateTime: 2022-10-10T05:47:00Z
+originalUrl: "https://futurism.com/self-driving-industry-going-nowhere"
+webUrl: "https://futurism.com/self-driving-industry-going-nowhere"
+ampWebUrl: "https://futurism.com/self-driving-industry-going-nowhere?amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-industry-going-nowhere?amp"
 type: article
-quality: 42
-heat: -1
+quality: 44
+heat: 44
 published: false
 
 provider:
-  name: Autoblog
-  domain: autoblog.com
+  name: Futurism
+  domain: futurism.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-images/2019-03/a7a99470-444d-11e9-85ff-09b62dfac5e7"
-    width: 1062
-    height: 597
+  - url: "https://wp-assets.futurism.com/2022/10/self-driving-industry-going-nowhere-600x315.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
-  - title: "Godfather of Self-Driving Cars Says the Tech Is Going Nowhere"
-    excerpt: "There’s tons of enthusiasm over self-driving cars. But nearly twenty years and some $100 billion since the first demos, the technology just isn’t there yet. In fact, it may be further off ..."
-    publishedDateTime: 2022-10-10T05:47:00Z
-    webUrl: "https://futurism.com/self-driving-industry-going-nowhere"
-    ampWebUrl: "https://futurism.com/self-driving-industry-going-nowhere?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-industry-going-nowhere?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/10/self-driving-industry-going-nowhere-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Self-driving cars still far away"
     excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
     publishedDateTime: 2022-10-10T23:45:00Z
@@ -58,6 +42,22 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
         width: 1200
         height: 675
+        isCached: true
+  - title: "'It's a scam': Even after $100 billion, self-driving cars are going nowhere"
+    excerpt: "Six years after companies started offering autonomous rides and almost 20 years after the first self-driving demos, there are few AVs on the road. Why?"
+    publishedDateTime: 2022-10-08T15:00:00Z
+    webUrl: "https://www.autoblog.com/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/08/autonomous-cars-slow-progress-losses-doubt/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 42
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-images/2019-03/a7a99470-444d-11e9-85ff-09b62dfac5e7"
+        width: 1062
+        height: 597
         isCached: true
   - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
     excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
@@ -85,6 +85,6 @@ related:
       domain: hackaday.com
     quality: 4
 
-secured: "nlrRQavjzMfKIreWgZl+wTQKf/NLpT5770Cb8IK8q/G9brYinyJNwvKCzwYHCpJBJa0o2H1xrEuWq5bUW0Ji9WhxQpLSZcgdjcaL9CtQo+H7sEz3fkbJfl6PNU00P52HNdsJHUwJWNoS4IUHWH4xmnSy/ig9eQ3V+70DHeYkDvyqQmjTQN5EGb6kAUGyNg8KGkCaEuTN2exnWf4ZHXxzkj1y/k+PCqOAoSGODA3ObB7gnP2bgtI8tJDC3b2U5xFMo61Y5WftuXaWLYiERAQHUk8CDmTmjEgSXxT8QsUqiOeDSI4evyt3f+EyLxbcK+b6IYOKzdP6tmMLZKr2wKKDl3+OaMMi+CZSVCFa0hUTzVXq0uivjtuVx1XkGukWfuWJV2/5ab+SiA/yoWyFgY8RS5W5TCabRoSnwgldXtljKTtLVKuUmLhcX4OB96eR3O6dup9VKwxXEug1QcRz/Ha3xRB4cKE2Wx/3ikHBuQgeBtB0lMmfSCq6TGy+PIXZ7e+QohbhinpQDnQHdxiHQRQ56Q==;9m7BhIvW9Npxh98tLHDnOw=="
+secured: "Qx2VDAKgYNr3rrTFKxjvszwl6nxgolIIBeOqlL6AFPnGfDIxRTR4RHz1/Ec8eCn2nFi67+QCG/005dyu5c8cSzWQ3fo87fT+/KVIyliwuobG5xODcLvph+6WGdJXDh+yjAL4d0nMicsaiN5R3N3sn6hEiVitrFzi2CP4TOl9csm/rx40A56X6nAIG6B8iTuthlC2tTKqGDiWOUPlsDAKAbNrlkh0kwRnvBxt/ZqTJiuBodTqsuEBaJStHLxfFzMB9mPBSF+sTgQHeJ0ghr8mi9WXM6ltKpSqmR7TNR4U69gaqcPObsfBbaJETQKYHL3c/Ha3xrxyVVh3Fkq3Qmclz3lE686ZKcKmry8wkXulGa0=;EnuE4as5En9qp/qvCkL0xQ=="
 ---
 

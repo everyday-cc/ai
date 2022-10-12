@@ -39,6 +39,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "US imposes crippling controls on export of advanced chips to China"
+    excerpt: "The latest export bans underscore the determination of US imperialism to weaken and ultimately subordinate China, regarded in Washington as the chief threat to its global hegemony."
+    publishedDateTime: 2022-10-12T03:34:00Z
+    webUrl: "https://www.wsws.org/en/articles/2022/10/12/ysao-o12.html"
+    type: article
+    provider:
+      name: World Socialist Web Site
+      domain: wsws.org
+    quality: 39
+    images:
+      - url: "https://www.wsws.org/asset/d1c77582-d66e-4adf-b951-0e5fd30e15ac?rendition=image1280"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
     excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
     publishedDateTime: 2022-10-10T10:53:00Z

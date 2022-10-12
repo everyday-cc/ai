@@ -8,8 +8,8 @@ webUrl: "https://thebulletin.org/2022/10/spotting-frankensteins-why-humans-beat-
 ampWebUrl: "https://thebulletin.org/2022/10/spotting-frankensteins-why-humans-beat-ai-at-detecting-freakish-fakes/amp/"
 cdnAmpWebUrl: "https://thebulletin-org.cdn.ampproject.org/c/s/thebulletin.org/2022/10/spotting-frankensteins-why-humans-beat-ai-at-detecting-freakish-fakes/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://thebulletin.org/wp-content/uploads/2022/10/amanda-dalbjorn-UbJMy92p8wk-unsplash.jpg"

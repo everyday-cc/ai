@@ -2,29 +2,21 @@
 category: news
 title: "Mathematical formula tackles complex moral decision-making in AI"
 excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
-publishedDateTime: 2022-10-10T15:23:00Z
-originalUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.html"
-webUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.html"
-ampWebUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
+publishedDateTime: 2022-10-10T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/967384"
+webUrl: "https://www.eurekalert.org/news-releases/967384"
 type: article
-quality: 59
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
-  - Natural Language Processing
+  - AI Ethics
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
-    width: 1920
-    height: 1280
-    isCached: true
 
 related:
   - title: "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing"
@@ -57,16 +49,7 @@ related:
         width: 708
         height: 400
         isCached: true
-  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
-    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
-    publishedDateTime: 2022-10-07T09:56:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
 
-secured: "9DIM7K48V7y4IlUlwAHdIpM3Idpk0kRin+YORcMSxUmIjYDwc+Lz8hip6h5HRIMVaRGxziEsxA8Jq6dVfW8mIMFIWi/+vAmWeJ4Ft8yL1YHUFgNbYhZDZ0YQGynJYwBSls4cGWF93fKBxhqg3HbDOvEHl2Wiw9LWzHoDJCjxxIZY3ZuYNOG9qTNVjZmzIWYB2m1gIw7RsUTfwvbByoN70z+SKvlGsdDDwWnX1Y6w3nswqF2XUv5stfnc2b3pEi606CCSB/N5QhS9PSK47rLJo2O0Vpg0tjr0qiTdkaivZ4GeSv4T9fW2ib9WVcT8JkVJnaFkVqgaWF0cXARUc+1zL1CeUmjR87w8qLCdLEtgOazHU+CApDP0dWthjVg9vhn0cdK6dDjshTZlP4FRwmTh6kq8geLHq2dQ0RK8RS2fgiFd+vEqaI2yNI1AMdoJXED8r7hQXTr7cY46bvYpXxXxAqbwFsxBVH/uorMWgTv7tpuaL9qFGFDqPC/yvzcvjpw8rLevfj84etmXrZj0zJq6LA==;yu0yvSesRzMXY22FQcUC6g=="
+secured: "YUGaycGt+E+LP5lZi+1wvmCvN4haSqrZ+gJQ6D+GSHNSQ07VfObsLeJ9oIqSNSr+MMCAd6obtiXqX0WylXw09Ep4Txf6cimc4u8rjoqAGR5hIZqkIzzsDgos1NcHRms1XPgBagWR2Lo9ip5TCkjaAgDcFnwgnk6TSmgFvevmLIZ4NpL9TFpOFFYThkgfrIrHhpnw5nBnKJd5TfLnlR4DG6OLAaegQv6MUWErNwfcDxqn55oatSMnmfq91e6LYdmBcvIBXojXQ4GggMEgpfo9RZuNPIwt/KO98H1Nm3hevVrKsPuG81afPrlKNECIaMwfaS/QY/66fH/xDjeATUB8Wj0ndQL4vNm6zq15GXaFpl0=;ksEZSt7ZPiBSaIfUi5F04g=="
 ---
 

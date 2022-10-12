@@ -41,7 +41,7 @@ related:
     provider:
       name: The Financial Express
       domain: financialexpress.com
-    quality: 51
+    quality: 53
     images:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/edtech-children-4.webp"
         width: 1200

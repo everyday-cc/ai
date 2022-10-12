@@ -8,7 +8,7 @@ webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligenc
 ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
 type: article
-quality: 51
+quality: 53
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/edtech-children-4.webp"

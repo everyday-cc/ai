@@ -25,19 +25,49 @@ images:
     isCached: true
 
 related:
-  - title: "Graphcore value crashes by $1bn after Microsoft deal is axed"
-    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
-    publishedDateTime: 2022-10-08T18:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/f1c7282a-4637-11ed-a9bf-432f673b24aa?shareToken=a742581835c0961b967c5e5484edaa84"
+  - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
+    excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
+    publishedDateTime: 2022-10-11T03:20:00Z
+    webUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/"
+    ampWebUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
+    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
     type: article
     provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
+      name: This Day
+      domain: thisdaylive.com
+    quality: 53
     images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
-        width: 1200
-        height: 675
+      - url: "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m"
+        width: 750
+        height: 600
+        isCached: true
+  - title: "Why Microsoft Voice Access is Windows 11’s best feature"
+    excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
+    publishedDateTime: 2022-10-10T16:57:00Z
+    webUrl: "https://knowtechie.com/why-microsoft-voice-access-is-windows-11s-best-feature/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 41
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/10/CR-Falcon-Laser-Engraver-400x240.jpg"
+        width: 400
+        height: 240
+        isCached: true
+  - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
+    excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
+    publishedDateTime: 2022-10-11T15:06:00Z
+    webUrl: "https://www.myjoyonline.com/microsoft-and-liquid-cloud-launch-initiative-to-support-african-businesses-with-hybrid-cloud-infrastructure/"
+    type: article
+    provider:
+      name: MyJoyOnline
+      domain: myjoyonline.com
+    quality: 21
+    images:
+      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
+        width: 720
+        height: 480
         isCached: true
 
 secured: "QlfHSINAYoNN71yto0Sg+rfr0NG7MFxaIByA+HOA4k1GOwKUx+eg0ldV48Fb+4dtSev5+Ekrx7CYht5IxZD6ot3Zolhn4aDwVLBUwRueQeUvO+qVBaTrtw2hDwq3FG6Ag9pLEPq73wRDUPgrmUEyjVQZxKw2/xSynBksenqxgmqD5z2QMpNWwgUEA3B/hOem9B+mbuU9qcCTiaGChBPLREDiEWpiqHiJZCY0xBg5JxEvQ648jBQCSMF8qSl7trluCv+DWt+6lDmcJLVlb7Rx3kB7M9H/OWwfQcpwpiBfqkpi7qvVItupppRvc7L4lObQPZUNirlOTfNvCYdPr0UoiTnyOLMQzaJoj3oY6U0Sw9zXOidIsJXkh0PidTBgwPYBu5pp5pn5Nax6TjRKP8XOzsjnpBtOvgNePG0hR/QFdIwVbj6/5RsiUANpwLM6tnqupp90F8n+paR5IZB5mCjTU+d6TtRA03NKg5M/JsuL4BHi3qTFPQVs1Ugnzj3YAKL1Fl4xBwbPveTCSf5pcH2u9g==;/baQlqdCPF5osejiqDYHRA=="

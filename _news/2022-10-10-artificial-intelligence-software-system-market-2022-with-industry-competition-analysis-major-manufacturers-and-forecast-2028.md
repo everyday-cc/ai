@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
-excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
-publishedDateTime: 2022-10-11T08:14:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-size-future-trends-2022-top-key-players-growth-share-and-global-analysis-by-forecast-to-2026-93-report-pages-2022-10-11"
-webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-size-future-trends-2022-top-key-players-growth-share-and-global-analysis-by-forecast-to-2026-93-report-pages-2022-10-11"
+title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
+excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
+publishedDateTime: 2022-10-10T04:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
 type: article
-quality: 0
+quality: 40
 heat: -1
 published: false
 
@@ -19,8 +19,13 @@ provider:
       height: 50
 
 topics:
-  - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "GPU for Deep Learning Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
@@ -60,21 +65,16 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
-    excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
-    publishedDateTime: 2022-10-10T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
+  - title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
+    excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
+    publishedDateTime: 2022-10-11T08:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-spending-market-size-future-trends-2022-top-key-players-growth-share-and-global-analysis-by-forecast-to-2026-93-report-pages-2022-10-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 0
 
-secured: "V1p5kC7paqRUhhR7FqeNzS5i3sjKRGSL0LdUQGZv0o8voCde4Ts76+Y3Wqc2nyToE2vd3jOKqGHoHcgEcNzkJa95UW5u88znUWLT1uU2GeDCGW4WjivEXEfcdfRyzJfGN6J2IoFKJXuAbxWRtEDe5SOSf+5u3cxK/UogzJJ34Urz2DiskBV3M8OXPooJKqB/F18cFFP/u07yn5DEsRoxRjl00L+dY8R8UtahjaP/syz9rhnL4gtim146sS9wq3yS2ha0ktxog5FIhIMBXLBS4SMwoqV0MeW+PAPs6QOFzofohsCNXH18gKlIXuaSpcNNr55DO52roQeZTNRFpGaZh0rk5zBaUBAvM2XVjfJs460=;VRoSf0GO2CKL63Tf7LZamA=="
+secured: "y3SZTGT4amTA75gAdC32O0e9DePKwdItCln5Yju/MlBL3vwpUaJo5vVZtQASQaRBR+AVtwkPzA3QVRz7uyZLflMCvXdJANUyz4Imk9ZF8k+KyRN0P5OZO8bJ+SbZsT7oPBQvt0OPtvjlVKf/0RuntV9ABEpP0RN/hbhyggsnNcB+wUEbATmZ8Bu/ISNtyRejJuGvx2YsbOXsLwhhcKUeue8pTpi48r4OL7LPH6lU2rK2BqOBSEQbFgwlu7k2IjLlAy3/ZgL17YJ1O2wujSJOSLqOvpnuAL5XzjVZtF8XRKLl4CYLmxEGS2PJ7ouBsUGUAVNGApPxeWNwBuzlZstjvavbmd9pji9zR3tG+yNlSB0=;K5Y8hB1nZjeca2HPBaObjg=="
 ---
 

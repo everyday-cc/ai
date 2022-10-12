@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematic
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
 type: article
 quality: 75
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -44,29 +44,13 @@ related:
         isCached: true
   - title: "Mathematical formula tackles complex moral decision-making in AI"
     excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
-    publishedDateTime: 2022-10-10T15:23:00Z
-    webUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-mathematical-formula-tackles-complex-moral.amp"
+    publishedDateTime: 2022-10-10T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/967384"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "DeepMind Introduces AI System That Discovers Novel, Efficient Algorithms"
-    excerpt: "Researchers at Google’s DeepMind in London have introduced a new artificial intelligence (AI) system called AlphaTensor that can find shortcuts in this fundamental type of mathematical calculation. The new AI system can discover efficient and correct algorithms for tasks such as matrix multiplication."
-    publishedDateTime: 2022-10-07T09:56:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-introduces-ai-system-that-discovers-novel-efficient-algorithms/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 33
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 19
 
 secured: "cVzNp2km6hZ9OIQ9lV0gnTa0wvldhX04lLDdPeNDlBvvcHhVhPhCYvwLucdoF7YaOskZIGNpZ1ztKjDK4o/IPY5GtYHK6Ko46Sxwwef7ap9p6N45lGNthCN8nRsZmA9to+XNby9OfpiefM8kXul07F0oV7ZmpXdWRvIvwTk7uMPmRJD5u3dTwdfWLSbqJRim/LEmYwCAweuj0jwbbxGBW0mx/X9Ae58k4jvD9NmdoqOurfodqlaFr2cPOB9zK4JzZdMypcz9a7ctirkoAagFTvEGpd71gm81+Qn7dg70VSXnSNwC+STXjHe2rQ46UnjK90Z4fXkIy8opP751+agu9axTutbbK4w6/9qNzN+6ODw=;VC4Kwx4KW47659na5f4dBw=="
 ---
