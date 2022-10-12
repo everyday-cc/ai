@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "VoiceBox_Tech"
   url: "https://twitter.com/VoiceBox_Tech"
-  followers: 737
+  followers: 736
 
 size: 201-500 employees
 yearFounded: 2001
