@@ -59,6 +59,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
+    excerpt: "Almost half of drivers using Tesla and GMC driver assist technology report feeling comfortable treating their cars as fully autonomous."
+    publishedDateTime: 2022-10-12T19:00:00Z
+    webUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving"
+    ampWebUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 44
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
+        width: 1000
+        height: 668
+        isCached: true
   - title: "UBS gives long-term buys for the transportation revolution from self-driving cars to sky taxis"
     excerpt: "Ride hailing and short-range flights could grow along with electric vehicles in the coming decade, according to UBS."
     publishedDateTime: 2022-10-12T13:07:00Z

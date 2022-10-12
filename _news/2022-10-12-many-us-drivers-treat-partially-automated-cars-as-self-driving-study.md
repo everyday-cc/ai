@@ -64,6 +64,15 @@ related:
       name: Time Out Dubai
       domain: timeoutdubai.com
     quality: 19
+  - title: "Do You Recognize These Robots?"
+    excerpt: "This is part of the Do You Recognize This series in the Electronic History section of our Series Library and in the TechXchange: ROS: Robot Operating System What were some of the more interesting robots of the past?"
+    publishedDateTime: 2022-10-12T18:00:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/media-gallery/21252616/electronic-design-do-you-recognize-these-robots"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 19
 
 secured: "lzhrrc+9iSenFMGWK7j4ceaW9nrutvaa6TO7/SaBd67gh+S/JFgUK2UQ8n9pp7ge3K6gpJ2iH2uIfoqK6P+gYiwmksIrcdv/OzNkOc09omv9cbnfcJtJPR0WO2c9hxErPMIc98kiUgPxm5OJFfVUbokPhUb1O0A3XxlbKTCRf/ibr8SfuLyMlyR2jJuWDScyvYiLfJ3f53dOT1gGjeyeXoXlnpjlKifPfvDXRl/dcn2m+lxPcx0JhuJYnxum05S4k9JQbDM/tb6lpUGk1X0yl598vjTPVrfoC9vimdfe/hFpedXi8ckQRIDhYdtHKuaNdYrMzbiOe52DRIsIafBcn+nxxkfY5+X8Bd5BtpiFjC3GMsRA5VYo35m2HjVF20eKwgYdbSU4HAD/Qd1KF1XEPuyZduQEyvYkIrWJH3Et5AcmAr3ftcFkNpvpZH0tjFwnqTMTRYFBPPWJP0RackL59sSj/103+dYBGxY++CBPm5NC2dwxqPvR3EfkZXNhUwCINKYpKHXWqR7oKhoNR17c4w==;PS0Q7hkgpDAK8pTa7vrLmQ=="
 ---

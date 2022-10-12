@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/"
 ampWebUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:

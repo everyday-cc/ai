@@ -59,16 +59,25 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
-    excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-    publishedDateTime: 2022-10-11T23:02:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article267180096.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html"
+  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
+    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
+    publishedDateTime: 2022-10-11T00:01:00Z
+    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Hackaday
+      domain: hackaday.com
+    quality: 45
+  - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
+    excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
+    publishedDateTime: 2022-10-11T22:02:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
+    type: article
+    provider:
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 17
 
 secured: "r5cE/7c7FzVwE7kobAh9qAxKV0E/ZwtHe/zEb0TSGEpS4nHMo7xCMWnuQJ7PfI8WJz+SksjB2lHNfhuUuNVnYE+Bt6foPcpBTDyPV/tE8eNEVMwS6Lakv+AaLR4fdhBIFW/ZXjlj2gbin/TSv/DPJxf4kKynHzjAEfaFo1I9E2f71bGUUm4ktkuYjCIgtRRqWcYLY7c3Ip1lZZ1TC32AmpDSK6XydgeK6XevHIz4aIDYCmu1nn3SHzFbLh2LjoNScmUBZsrP4lJiGuSuE53/QQGgxqBRtOGnoJyc2mUmsQZxtvhMQR1m4gDgaFPMdfgC48R+OY2ypPBg+nBHyK8ecSHzBY9AVlqRi48kabgnQIRmLb0jrCU1+xxke08a8rWBpUnaUPTbFsEOwbmpW+/RisHqHpVtdDlUY6Hu55c31ICBCHHPsnvBTh2Pjd+LSEhtbkD1ivfOelOUq+fi/N3iP0UW6w3ufYI71rWqElasTndvJtEyeLDRgcv3sF85kI6vVR2/7o7VFYJMcSCQYlJ29A==;Px64LYDC2UIUaf97GnJRgw=="

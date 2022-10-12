@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Google focuses on data innovations for enterprise users at Cloud Next"
+    excerpt: "At this year’s Google Cloud Next conference, Google has treated enterprises with some notable product developments, starting with the launch of new AI agents and software delivery shield to new cloud regions."
+    publishedDateTime: 2022-10-12T21:02:00Z
+    webUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/"
+    ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Google Cloud AI update adds translation, document services"
     excerpt: "The company has released a new AI-based translation service called Translation Hub and added two new features to its Document AI service."
     publishedDateTime: 2022-10-11T14:21:00Z

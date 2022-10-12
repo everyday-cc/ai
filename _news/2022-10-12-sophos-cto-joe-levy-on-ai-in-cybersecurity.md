@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 78
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 600
         height: 475
         isCached: true
+  - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
+    excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"
+    publishedDateTime: 2022-10-12T18:35:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/10/12/ncat-awarded-9m-department-defense-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "Xcb6y4PMJjAVK/17G2zflGVVGqQ5MuFMRRi9gQ7jVjkNqLPQjZa/XvOt1m3nW0MQ2ZFt6w147iS2Uq/mWxfG5Wl4eTZ0UUfGQHIGXTxK6odKdXkPjWM9e2AMcHDjasqL1ZrVQEsNSJMjem8pQEzj7ho9lQAYcLvKTk3Bt88Rs5+2MhzFEeDIqn1ai/U0l31S3ImojVL07gLbNvu8zVcghGGurhnutVXdgHioXx/zs0PLQarjVCzTkWVqnhkJt88xYDUw6ll6EP0t/UlA+W9j2/1iXjdg4ctLE6uJTyWcGuyJN5Rs9jJu3htJaZ+XAVrxCT1bFiklrjgUu7ObFmqndkOgTOIuZTpErx7yX0X35bAPSk1RqiH//FBFmDqzSzBXZ/wHkouTlNIxCskidC99HZxyNByXHb90U/HE2tQ375voQXva1VkxVCvNmcXcSl/h7b/ImXBioQUrRwK2lZsoMYzghix8LdNP9PltAPSI7n+R2e37Oo955kVwjSmtL6O5gDa4wTrCFpGEA/DRxSMtaw==;ljFIahGggBSAkoUC7/WDfA=="
 ---

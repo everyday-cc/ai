@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-ma
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Telecommunication Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
-    excerpt: "MarketsandResearch.biz has attempted to present complete research on the Global AI In Telecommunication Market."
-    publishedDateTime: 2022-10-10T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

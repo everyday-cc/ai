@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T19:35:00Z
 originalUrl: "https://www.financialexpress.com/lifestyle/health/mental-health-can-ai-be-my-therapist/2708686/"
 webUrl: "https://www.financialexpress.com/lifestyle/health/mental-health-can-ai-be-my-therapist/2708686/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Financial Express

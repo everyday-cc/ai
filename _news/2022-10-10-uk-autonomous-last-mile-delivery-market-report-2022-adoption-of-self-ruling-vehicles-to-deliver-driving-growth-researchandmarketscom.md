@@ -19,20 +19,40 @@ topics:
   - AI
 
 related:
-  - title: "Middle East and Africa Self-driving Car Market Report 2022 Industry Trends, Share, Size, Demand and Future Scope 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Middle East and Africa Self-driving Car Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-10T06:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/middle-east-and-africa-self-driving-car-market-report-2022-industry-trends-share-size-demand-and-future-scope-2030-2022-10-10"
+  - title: "Europe Self-driving Car Market 2022 New Opportunities, Top Trends and Business Development 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Europe Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-new-opportunities-top-trends-and-business-development-2030-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "China Top-10 ADAS & Autonomous Driving Carmakers Report 2022 - Analysis of ADAS Fitments in 313 Models"
+    excerpt: "Ranking of Chinese Carmakers in ADAS & Autonomous Driving\" report has been added to ResearchAndMarkets.com's offering. This report analyzes the"
+    publishedDateTime: 2022-10-10T10:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29198595/china-top-10-adas-autonomous-driving-carmakers-report-2022-analysis-of-adas-fitments-in-313-models"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29198595"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29198595"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 8
+  - title: "Global Microprocessor and GPU Market Report 2022: Growing Adoption of the IoT Enabled Devices and Equipment Driving Sector - ResearchAndMarkets.com"
+    excerpt: "The global microprocessor and GPU market is expected to grow from $86.78 billion in 2021 to $92.73 billion in 2022 at a compound annual growth rate (CAGR) of 6.9%. The market is expected to reach $111."
+    publishedDateTime: 2022-10-12T12:50:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-global-microprocessor-and-gpu-market-report-2022-growing-adoption-of-the-iot-enabled-devices-and-equipment-driving-sector-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "N8nArHs+JWye53THd1yiwDwcgjJ3R4BGfykhBVqsrrI96uB29RImAR8UVSHtQELq//FbvxKs+EwUjbLCQ99S/mTWg+MDbBhwsUHhGjYbaE9H8n7yDB5fr2A88dp+Kn0QbrTie1tj2Doks3Tm5VaR864i4g3BjEwzsBAmdTf+dtS63mtUED+RFlSU163sSYezis58MwhqhZSn6pm5foyAuLlUOwTn3bsN7oaarAvC4otzuXp7u2V/RfRYq3bc1vAtC4VLoq8yltrwhJO9wffeK9ugkgYZoc7SFaDN12knQsocUgni0LO+/MNS+80ZYMfuMOt3uqw2Iw/nuY6ceG+6B1P4GU8PVYF7Ik/m/c4b/sA=;r4smstUGrkkCkGetjgXekQ=="
 ---

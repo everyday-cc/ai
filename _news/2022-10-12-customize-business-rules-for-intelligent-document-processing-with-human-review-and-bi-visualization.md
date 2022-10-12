@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T19:16:29Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/customize-business-rules-for-intelligent-document-processing-with-human-review-and-bi-visualization/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/customize-business-rules-for-intelligent-document-processing-with-human-review-and-bi-visualization/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: AWS

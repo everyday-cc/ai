@@ -49,6 +49,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "BigBear.ai Changes CEO As Government Results Slow"
+    excerpt: "BigBear.ai reported its Q2 results in early August and announced a new CEO, Mandy Long, previously an IBM executive. See my rating on BBAI stock."
+    publishedDateTime: 2022-10-12T19:10:00Z
+    webUrl: "https://seekingalpha.com/article/4546210-bigbearai-changes-ceo-as-government-results-slow"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "QmAS/48waveiYcU0yXSyJjEy61/wCe+s7Nv4/YVspE1S90Eg//d30sNCiTIFOqIJi9Pivol7vxDzRf/ZFan5i0JnetGkF/gkkxoKCr6ddszYXrJ5Dm0hHzfQ00uhGC6e3BdiEa+L9v19ml8AlPJM/QHR96eqPfQWJqSPAEXsisDsZtv2/Czx+bwKsHZTxMP/G6s6/GvVds4I+hVVosS7+l1+55LcecMs8X2uk4r3kodmSVnN1EuacgajAGKLSTRAwWwunnO4rm0zrfNdRGGf89B1hUVQaQ/UoOEQOcvvTPvLi0n072AvBcD2AMwBo444eFmjywCvIbxaPqZ0XoPA8np5VOoX3orf0/W9MZuNAYQ=;ITtgWCiu+qTSqFmhXk/Kxg=="
 ---

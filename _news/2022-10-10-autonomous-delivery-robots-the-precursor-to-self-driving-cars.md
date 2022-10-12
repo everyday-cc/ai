@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     provider:
       name: Time Out Dubai
       domain: timeoutdubai.com
+    quality: 19
+  - title: "Do You Recognize These Robots?"
+    excerpt: "This is part of the Do You Recognize This series in the Electronic History section of our Series Library and in the TechXchange: ROS: Robot Operating System What were some of the more interesting robots of the past?"
+    publishedDateTime: 2022-10-12T18:00:00Z
+    webUrl: "https://www.electronicdesign.com/industrial-automation/media-gallery/21252616/electronic-design-do-you-recognize-these-robots"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
     quality: 19
 
 secured: "9bUlWGKZLzEs9e+OAII1MnioRRfYn7rbM1c02EBxDpWgqUf34W1cpj4TmEO2ok2iZKPOlIa2JV4YmxR5bFWTkFBn1ryYSop/EKfFd6MDf1bzICjYsZ+NudvboUT+WJkrCHmdflfC1Eg2t76xWkU3YSssUOdk0dAR0fQGn8mFKZk7OSnTVx+bHVg4XEn/mzb7niFojc1F/7gtc0j0yRErZH9m/DmFH9aZfvO1j+oJUyqy1zD5GdA8P1Vc0m2LVMAiirXUtWqtDJaaMQmd7urZRqBtJAaGXbMamOUq/Qw3JNIvHkw+BWl6EfU4hoC7O/HAylplc+m6h9QI9t414E9O5B2DpbikkNS0hTITemnzMLWj/MEyyIUP4He++150APVd9jUOBm6k7jsFrk33GYM3puBBsFfAI3AOVX9ufAuv8+s7CSFyj0AoAZM1rPVjOsUIJtZYzaAkiUJtU9YVAx8wanGKDjSn/sd5UvYl+9Z4caFSzJ2GSBgVb2Srwh+Zhpus8dYDU89laSVx/JiPPZVtSg==;3T5MXFACcneV3wBtAllqqw=="

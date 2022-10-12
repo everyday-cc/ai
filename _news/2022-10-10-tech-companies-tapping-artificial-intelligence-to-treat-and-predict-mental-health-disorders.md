@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-10T03:01:00Z
 originalUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-mental-health-pills-apps-2998911"
 webUrl: "https://www.channelnewsasia.com/singapore/artificial-intelligence-mental-health-pills-apps-2998911"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:

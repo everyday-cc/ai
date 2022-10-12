@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "GPU for Deep Learning Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "The \" GPU for Deep Learning Market \" study helps to Interact with valuable trends, gain insight into consumer behavior, and use visualizations to perform effective competitor analysis. Rather than adding streams of shaky data to a static spreadsheet,"
-    publishedDateTime: 2022-10-08T02:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 86
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Radiology AI Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
     excerpt: "This “ Radiology AI market ” report offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Radiology AI group. Some of the companies that are profiled in this Radiology AI report are: Arterys,"
     publishedDateTime: 2022-10-11T02:00:00Z
@@ -71,6 +57,71 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data and AI Ethics Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 104 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Data and AI Ethics Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-10-12T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Edge AI Chips Market Share From 2022 To 2028 And Unlimited Opportunities for New Companies and Latest Developments"
+    excerpt: "Oct (The Expresswire) -- \"Edge AI Chips Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalEdge AI Chips"
+    publishedDateTime: 2022-10-11T02:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
+    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+  - title: "Artificial Intelligence Robotic Dogs Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
+    excerpt: "The \" Artificial Intelligence Robotic Dogs market \" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis forecast 2022 to 2028."
+    publishedDateTime: 2022-10-10T20:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 61
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Global Artificial Intelligence (AI) in Insurance Market Report 2022 - Analysis by Product Type, End-user and Region"
+    excerpt: "As per the updated \" Artificial Intelligence (AI) in Insurance Market \" report by Report Mines, the Artificial Intelligence (AI) in Insurance market value was in billions in the year 2022. Furthermore,"
+    publishedDateTime: 2022-10-11T07:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-report-2022---analysis-by-product-type-end-user-and-region-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing and Recognition Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
     excerpt: "The \" Natural Language Processing and Recognition market \" aims to give decision-makers current market data to support reliable investment choices. The Natural Language Processing and Recognition market research report offers the most significant and instructive data on opportunities,"
     publishedDateTime: 2022-10-11T06:31:00Z
@@ -85,6 +136,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Retail Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 97 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Retail Market is projected to"
+    publishedDateTime: 2022-10-10T06:28:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-retail-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-97-pages-report-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Healthcare Artificial Intelligence Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 Research Report"
+    excerpt: "The Healthcare Artificial Intelligence Market 2022 report provides an in-depth assessment of the market's size,"
+    publishedDateTime: 2022-10-12T06:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-research-report-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI In Telecommunication Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
+    excerpt: "MarketsandResearch.biz has attempted to present complete research on the Global AI In Telecommunication Market."
+    publishedDateTime: 2022-10-10T22:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
     excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
     publishedDateTime: 2022-10-10T04:42:00Z
@@ -94,6 +187,108 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
+    excerpt: "The report also includes the latest technological developments, growth factors, challenges, and market trends. The Global Face Recognition Device market report provides an in-depth analysis of the top investment pockets,"
+    publishedDateTime: 2022-10-11T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
+    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
+    publishedDateTime: 2022-10-10T08:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+  - title: "Artificial Intelligence For Drug Development and Discovery Market, Share, Size, Segmentations, Industry Trends, And Forecasts 2022 To 2030"
+    excerpt: "The artificial intelligence for drug discovery and development market was valued at $520 million in 2019 and is projected to reach $4,815 million by 2027, registering a CAGR of 31.6% from 2020 to 2027."
+    publishedDateTime: 2022-10-10T05:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-drug-development-and-discovery-market-share-size-segmentations-industry-trends-and-forecasts-2022-to-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
+    excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
+    publishedDateTime: 2022-10-10T16:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-industry-forecast-to-2029-size-2022-statistics-share-growth-rate-trends-regional-analysis-by-key-players-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Middle East and Africa Self-driving Car Market Report 2022 Industry Trends, Share, Size, Demand and Future Scope 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Middle East and Africa Self-driving Car Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-10T06:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/middle-east-and-africa-self-driving-car-market-report-2022-industry-trends-share-size-demand-and-future-scope-2030-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Fintech Market 2022 Size and Dynamic Analysis by Company Recent Development, Strategies, Competitive Landscape and Demand Forecast till 2026"
+    excerpt: "Oct 11, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" “AI in Fintech Market” 2022"
+    publishedDateTime: 2022-10-11T09:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-2022-size-and-dynamic-analysis-by-company-recent-development-strategies-competitive-landscape-and-demand-forecast-till-2026-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning Data Catalog Software Market Size 2022-2028 | Share Analysis, Research Report, Business Growth | Top Countries Data"
+    excerpt: "The Machine Learning Data Catalog Software Market 2022 report provides an in-depth assessment of the market's size,"
+    publishedDateTime: 2022-10-11T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-2022-2028-share-analysis-research-report-business-growth-top-countries-data-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+  - title: "Smart Irrigation Software Market 2022 Industry Size by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
+    excerpt: "The Global Smart Irrigation Software Market 2022 report is a thorough assessment of the worldwide industry with the"
+    publishedDateTime: 2022-10-11T09:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/smart-irrigation-software-market-2022-industry-size-by-major-companies-profile-competitive-landscape-and-key-regions-2028-top-countries-data-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -32,7 +32,7 @@ related:
     provider:
       name: Channel NewsAsia Singapore
       domain: channelnewsasia.com
-    quality: 29
+    quality: 31
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--Xn_oHPQ7--/c_crop,h_767,w_1364,x_0,y_1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/istock-1140691167.jpg?itok=TSyeBcja"
         width: 1200

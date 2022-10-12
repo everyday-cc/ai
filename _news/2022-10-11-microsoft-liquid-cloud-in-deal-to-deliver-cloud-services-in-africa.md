@@ -153,6 +153,20 @@ related:
         width: 5428
         height: 3619
         isCached: true
+  - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
+    excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
+    publishedDateTime: 2022-10-12T20:37:00Z
+    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 86
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ee3124b0-499b-11ed-b9dd-b770a62b524f"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative"
     excerpt: "The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.\n"
     publishedDateTime: 2022-10-12T16:00:02Z
@@ -204,6 +218,15 @@ related:
         width: 952
         height: 529
         isCached: true
+  - title: "8 new Microsoft Azure AI updates to boost productivity"
+    excerpt: "At its Ignite Conference, Microsoft announced new innovations for its AI services, including Azure Applied AI Services, Azure Cognitive Services and Azure Machine Learning."
+    publishedDateTime: 2022-10-12T16:00:00Z
+    webUrl: "https://venturebeat.com/ai/8-new-microsoft-azure-ai-updates-to-boost-productivity/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 81
   - title: "AI-generated imagery is the new clip art as Microsoft adds DALL-E to its Office suite"
     excerpt: "Microsoft is bringing AI-generated art to its Office suite, with new apps and features that leverage OpenAI’s text-to-image model, DALL-E."
     publishedDateTime: 2022-10-12T14:00:00Z
@@ -251,7 +274,7 @@ related:
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -275,6 +298,20 @@ related:
       - url: "https://www.microsoft.com/en-us/microsoft-365/blog/uploads/prod/sites/2/2022/10/CLO22_HybridWork_080.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Nutanix (NASDAQ: NTNX ), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
+    publishedDateTime: 2022-10-12T20:30:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/12/9691533.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 54
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
   - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
     excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
@@ -359,6 +396,33 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Google chases Amazon and Microsoft in cloud with AI technology"
+    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
+    publishedDateTime: 2022-10-12T18:40:00Z
+    webUrl: "https://techxplore.com/news/2022-10-google-amazon-microsoft-cloud-ai.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 36
+  - title: "Microsoft Ignite ‘22 Microsoft focuses on employee engagement, developer innovation, among others"
+    excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
+    publishedDateTime: 2022-10-12T18:04:00Z
+    webUrl: "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 36
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "IBM Corporation, Avaamo Inc, Baidu Inc, Cape Analytics LLC, Oracle Corporation &?Artificial Intelligence (AI) in InsuranceMarket Scope and Market Breakdown. Next step one should take to boost topline?"
+    publishedDateTime: 2022-10-10T21:21:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-66"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 28
   - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
     excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
     publishedDateTime: 2022-10-11T15:06:00Z
@@ -372,6 +436,20 @@ related:
       - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
         width: 720
         height: 480
+        isCached: true
+  - title: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications"
+    excerpt: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications - SiliconANGLE"
+    publishedDateTime: 2022-10-12T20:10:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/nutanix-microsoft-partner-simplify-infrastructure-deployment-management-support-modern-applications-nutanixhybridcloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Thomas-Cornely-Indu-Keri-Eric-Lockard-Nutanix-Accelerate-Hybrid-Cloud-2022.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "QlfHSINAYoNN71yto0Sg+rfr0NG7MFxaIByA+HOA4k1GOwKUx+eg0ldV48Fb+4dtSev5+Ekrx7CYht5IxZD6ot3Zolhn4aDwVLBUwRueQeUvO+qVBaTrtw2hDwq3FG6Ag9pLEPq73wRDUPgrmUEyjVQZxKw2/xSynBksenqxgmqD5z2QMpNWwgUEA3B/hOem9B+mbuU9qcCTiaGChBPLREDiEWpiqHiJZCY0xBg5JxEvQ648jBQCSMF8qSl7trluCv+DWt+6lDmcJLVlb7Rx3kB7M9H/OWwfQcpwpiBfqkpi7qvVItupppRvc7L4lObQPZUNirlOTfNvCYdPr0UoiTnyOLMQzaJoj3oY6U0Sw9zXOidIsJXkh0PidTBgwPYBu5pp5pn5Nax6TjRKP8XOzsjnpBtOvgNePG0hR/QFdIwVbj6/5RsiUANpwLM6tnqupp90F8n+paR5IZB5mCjTU+d6TtRA03NKg5M/JsuL4BHi3qTFPQVs1Ugnzj3YAKL1Fl4xBwbPveTCSf5pcH2u9g==;/baQlqdCPF5osejiqDYHRA=="

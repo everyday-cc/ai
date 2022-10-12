@@ -3,18 +3,82 @@ category: news
 title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
 excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
 publishedDateTime: 2022-10-11T22:02:00Z
-originalUrl: "https://www.newsobserver.com/news/nation-world/national/article267180096.html"
-webUrl: "https://www.newsobserver.com/news/nation-world/national/article267180096.html"
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
 type: article
+quality: 17
+heat: -1
+published: false
 
 provider:
-  name: Raleigh News & Observer
-  domain: newsobserver.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
   - AI
 
-secured: "iWlzwiGBNpljbxtysB5ksglherlMtJjeC6NP3B5Kdrfql5Us2DBuU38UmreGn26xFYLCFOkXlqPRz2H7RzI2kAfcLwQBQAM87ZSpBa3hejsuVrxefo2C4enypzdmC/yEff7m9sUl4BLUocG0yz3Fbc14afwO38pZy9zD7aVJG+lCYX5QM/GDg4bbjrUYdVjJ5HYm7y9EdJPVV9aIak9COY0NNS/fvTt3hNCz9sBZHkLN3QvK6m26155cggbReqqNOvKPkxDdJo98jEJCuBM8oqqghrfTH5vfBs/lh2Kz8NxoT+npOcaDLomPb+XaYOkKfu2NSA6EWhQFuVikuhdhRGIv8vJJvpmK9T16lAADjsBmKPyjU8sXRfkuDNBoSK2n2Hw53/oZEaAYO03W06iTxN8pZOs0uTx6MzAPk4DeH/ZjXDsXI2BWyqtOjvoZKsBv5GlctAAeAQfKHpiIHaW8/lSJJbgaphImzO/PLoJ2XATnSmpvoMc4jW2E6iVF1sfmi6lkYp5GSCS79uGqvFpXaQ==;HgPmdd34DgPxct89/pV2BA=="
+related:
+  - title: "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much"
+    excerpt: "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system."
+    publishedDateTime: 2022-10-11T22:04:00Z
+    webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/"
+    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 79
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving, study finds"
+    excerpt: "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”"
+    publishedDateTime: 2022-10-11T14:38:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 71
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
+  - title: "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns"
+    excerpt: "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T04:01:00Z
+    webUrl: "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 61
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
+    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
+    publishedDateTime: 2022-10-11T00:01:00Z
+    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
+    type: article
+    provider:
+      name: Hackaday
+      domain: hackaday.com
+    quality: 45
+
+secured: "5XPTGmwiGgMEAlJkEtZlnYDfBy2npL57t1ZClwoWLPdXyFyBYZw/GzWkWHHh4w+TYmv1cH3xoOMQJ4yJ4YQoSHxiDO7XlYDBuZAiuv8/4pQZF+dPyJ6j40lPozZOq0yaFFLtg5/ZgbcCBL145qzN8dv7O52e9npBepWnYlenDqNsAN/cbNtZ8RTh9/omXK0YyCDMBjKW4NJJQkJctdtzd6RQvOfbFK0N/5Gc/QWZRW5RotSolCgJ3NfLeqLY/GFsv/s0/a4dUrdSmE9wX+nsHOTajtcjGhRbNYoXTWcDXi5eBODqACTeUOVCNYuWrX/j+G1gurGuqnYEID3AcbDnK7vRKKgC4ng0cNL3BkKI0iOBtU9WFUJWCrJSDgIIJ1PylHME+j6rGIQG6FdDKd/rmyUHWRbtv966DnRTut+Y5J29xl/0mgClHv8fM70BPjQ0DfMvqTpIrPukPWShPSPr4lzjBjq7nTV0/yC8goUW87BL57d/zGt510SqmolnRFG00deCzdGfMstzyJfEG2R0Gw==;jNL13zENfSqt3H32sLnTLg=="
 ---
 

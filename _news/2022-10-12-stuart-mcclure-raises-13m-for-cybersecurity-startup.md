@@ -38,6 +38,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
+    excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"
+    publishedDateTime: 2022-10-12T18:35:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/10/12/ncat-awarded-9m-department-defense-cybersecurity.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 5
 
 secured: "/iFkivh/1XjitFJr2/9pa5LQAnSGklklaRWeV78c2drolx5RDiAFk1S3aVzPFnwE9RS2gTcmVqMIoH8Kikiuaj/DeuWJT9IuBYTvIKjfCgdcK4LGa9w7+kH/A6BTAWHeO2tYCdB7ryJlLSF7sGcHVKNS1xbwfYcyVA/g/2opPEYjEYeUMYs6laZHODTErjHvZvyrMwMd8FRu/wHovXe6aW/HUq5r1qU+FedskX3KQjE42tUTSgGMPVt76n0toT1jSeMoC6ANl1j6wp5KF5M/Qyh/GhsNydBeFP/KHCoxXjsj8fBIIxqvIkmel3UGmQtDVggu+lHs7NlFzzfWQFGFmXsnSxU3vjj7ZUPQNCvWaDayTLPNFqb48aNDUpL4nwenMLYYy8i4l7xQGTdQHYgRCKQkyB26FWDiDMLvbN3LFlTzBJpB6bEtyMRf4k9Q59ElgndX2SMOIt4F5ZGvCC8Nn6axMx7GFrCkP0Lw8eYeDmd99cOitZLGi6xxYXL8+zipLxVVbrRamIS9UueShVHmUA==;SQBZQv4cQ90dydohV4tYaA=="
 ---

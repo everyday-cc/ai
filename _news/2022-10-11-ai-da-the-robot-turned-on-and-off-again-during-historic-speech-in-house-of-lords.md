@@ -35,6 +35,15 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Robot artist Ai-Da reset while speaking to UK politicians"
+    excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
+    publishedDateTime: 2022-10-12T18:09:00Z
+    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 64
 
 secured: "QoqsjsBewM+VZ58oggK0cXmK9x3Vh7wtoRFf0WKJToWbeSZ/6cSyQH27IXto87VOeFKk9KQ0yIu2K/KCmAbLMeovvSbfD+7q4lUXp+XPIxFR5sWNeKx/nV3ox/QwwW449u3MsYZcd62glZD8Ss7MC9J7/PMOtsseMalj8YZxI44SPR458C4yvYxC/d3T6f62dgzbW10ARZ5N4wVnnqNXIgxwnqqLyYANzwOv0flulkvCOfHnZbTyeq2ESehhDqm0eCRjc4WnY1duL5wkZSbU7EgokofB6vZo7nhyEXD3KybIaZF+okFB9cTYDGZwityYxYO4fDDHz23aotPp4SK0bh1c9ASq27/4/YeXSJlGnKIoZJtMOv44BGh8oIaoQFDt468ylEwwIeM06k+N3waUPa0mXeU58i1U91uMZtQ6UYauzGFNO+Y5RrHo87m1OSK+rgcvSl3/qoNnoe1F/NuhofheUFU+4rRx1v8OSOlUy+t16BIR/fJVaUkLPBV0hebZZEQydFABIq8exBBxGsh0Nw==;x1J+a8PekbopfzYXvmRLLw=="
 ---

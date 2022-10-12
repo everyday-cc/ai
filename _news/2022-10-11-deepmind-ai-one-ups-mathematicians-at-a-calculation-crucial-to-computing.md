@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematic
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
 type: article
 quality: 75
-heat: 85
+heat: 86
 published: true
 
 provider:

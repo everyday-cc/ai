@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-a
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "BigBear.ai Changes CEO As Government Results Slow"
+    excerpt: "BigBear.ai reported its Q2 results in early August and announced a new CEO, Mandy Long, previously an IBM executive. See my rating on BBAI stock."
+    publishedDateTime: 2022-10-12T19:10:00Z
+    webUrl: "https://seekingalpha.com/article/4546210-bigbearai-changes-ceo-as-government-results-slow"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
   - title: "BigBear hires IBM vet as new chief executive"
     excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
     publishedDateTime: 2022-10-11T21:25:00Z
