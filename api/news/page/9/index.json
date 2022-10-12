@@ -2,6 +2,57 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-01-image-generating-ai-dall-e-is-now-free-for-anyone-to-play-with.md",
+      "title": "Image-generating AI Dall-E is now free for anyone to play with",
+      "excerpt": "Image-generating AI is becoming more accessible to the public, with one engine called DALL-E making its network free to use. While the text-to-art generator has some stipulations, you can create images by simply typing a description into the generator.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
+      "originalUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/openai-text-prompt-930.jpg?p=1",
+          "width": 1209,
+          "height": 825,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/image-generating-ai-is-now-more-accessible-to-the-public/?amp",
+      "publishedDateTime": "2022-09-30T13:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-01-computational-shortcut-for-neural-networks.md",
       "title": "Computational shortcut for neural networks",
       "excerpt": "Neural networks are learning algorithms that approximate the solution to a task by training with available data. However, it is usually unclear how exactly they accomplish this. Two young Basel ...",
@@ -1130,49 +1181,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
-      "title": "Meta is using AI to generate videos from just a few words",
-      "excerpt": "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion.",
-      "sourceUrl": null,
-      "webUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
-      "originalUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Local News 8",
-        "domain": "localnews8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

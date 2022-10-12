@@ -45,6 +45,29 @@ related:
         width: 1200
         height: 599
         isCached: true
+  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
+    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
+    publishedDateTime: 2022-10-11T17:17:00Z
+    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 49
+  - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
+    excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
+    publishedDateTime: 2022-10-11T13:00:00Z
+    webUrl: "https://seekingalpha.com/article/4545877-google-cloud-next-open-data-ai-advancements"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Google expands cloud to more regions, adds new AI"
     excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
     publishedDateTime: 2022-10-12T04:51:00Z

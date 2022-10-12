@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-04-white-house-proposes-voluntary-safety-and-transparency-rules-around-ai.md",
+      "title": "White House proposes voluntary safety and transparency rules around AI",
+      "excerpt": "In five bullet points crafted with feedback from the public, companies like Microsoft and Palantir and human rights and AI ethics groups, the document lays out safety, transparency and privacy ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "originalUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2021/01/GettyImages-1297487090.jpeg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/04/white-house-proposes-voluntary-safety-and-transparency-rules-around-ai/amp/",
+      "publishedDateTime": "2022-10-03T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-speech-accessibility-project-aims-to-make-voice-recognition-more-inclusive.md",
       "title": "Speech Accessibility Project Aims to Make Voice Recognition More Inclusive",
       "excerpt": "Tech giants are teaming up with researchers at the University of Illinois to improve speech recognition for people with disabilities.",
@@ -1142,49 +1194,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-parfait-is-here-to-revoluntionize-the-wig-world-with-artificial-intelligence.md",
-      "title": "Parfait Is Here To Revoluntionize The Wig World With Artificial Intelligence",
-      "excerpt": "Four Black women in tech have come together to create Parfait, a startup that customizes wigs using artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "originalUrl": "https://madamenoire.com/1323782/gorgeous-wigs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://madamenoire.com/wp-content/uploads/sites/9/2022/09/16645934693721-rotated.jpg?w=311&strip=all&quality=80",
-          "width": 311,
-          "height": 414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "cdnAmpWebUrl": "https://madamenoire-com.cdn.ampproject.org/c/s/madamenoire.com/1323782/gorgeous-wigs/amp/",
-      "publishedDateTime": "2022-10-02T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MadameNoire",
-        "domain": "madamenoire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

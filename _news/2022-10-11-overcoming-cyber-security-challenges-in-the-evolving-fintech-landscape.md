@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-ch
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
 type: article
 quality: 61
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "12 Best Fintech Stocks to Buy After The Selloff"
-    excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
-    publishedDateTime: 2022-10-07T14:27:00Z
-    webUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/"
-    ampWebUrl: "https://www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    cdnAmpWebUrl: "https://www-insidermonkey-com.cdn.ampproject.org/c/s/www.insidermonkey.com/blog/12-best-fintech-stocks-to-buy-after-the-selloff-1073679/?amp=1"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 44
-    images:
-      - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2022/02/06120506/man-791049_1280.jpg?auto=format&expires=1696636800&w=400&h=225&fit=crop"
-        width: 400
-        height: 225
         isCached: true
   - title: "Sonic Branding “The Undisputed Key” for Banks & Fintech Targeting Gen Z"
     excerpt: "\"the undisputed key\" for banks and fintech companies targeting the next generation of consumers in the fourth edition of its quarterly editorial periodical, amplify."

@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-29-former-gop-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues.md",
+      "title": "Former GOP congressman: I “came to believe” some far-right colleagues had “serious cognitive issues”",
+      "excerpt": "In a new book by former Rep. Denver Riggleman, R-Va., in his last days serving in the House he admits he grew more and more disturbed by the wild ravings of two of his colleagues who were all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "originalUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/12/louie-gohmert-12121.jpg",
+          "width": 1200,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-28T10:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-amazon-wants-to-cocoon-you-with-ambient-intelligence.md",
       "title": "Amazon Wants to Cocoon You With ‘Ambient Intelligence’",
       "excerpt": "The company’s new smart gadget uses radar to track your breathing while you sleep. It’s part of Amazon’s plan to weave its products invisibly into your life.",
@@ -1111,58 +1154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-the-j7-is-irobots-first-two-in-one-vacuum-and-mop-combo.md",
-      "title": "The j7+ is iRobot’s first two-in-one vacuum and mop combo",
-      "excerpt": "Robot has revealed the Roomba Combo j7+, a premium robot vacuum featuring a retractable mop that allows it to both mop and vacuum without input from the user.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "originalUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/Roomba-j7-Lifestyle.jpg?p=1",
-          "width": 2048,
-          "height": 1365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/home/irobot-roomba-combo-j7-plus-reveal/?amp",
-      "publishedDateTime": "2022-09-27T14:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

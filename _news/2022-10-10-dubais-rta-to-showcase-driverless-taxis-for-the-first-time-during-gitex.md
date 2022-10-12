@@ -57,6 +57,22 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "China is setting the rules for driverless cars"
+    excerpt: "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example"
+    publishedDateTime: 2022-10-12T06:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/opinion/china-is-setting-the-rules-for-driverless-cars-9315641.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 59
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2018/07/driverless_car_artificial_intelligence_smart_car.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
     publishedDateTime: 2022-10-09T10:13:00Z

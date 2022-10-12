@@ -19,37 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Robot Ai-Da will speak to the House of Lords in Westminster"
-    excerpt: "A robot called Ai-Da will become the first robot to speak in the House of Lords in Westminster. The robot will speak to the Lords about Artificial Intelligence (AI) and the future of arts, design, fashion and music industries."
-    publishedDateTime: 2022-10-07T14:38:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/63173407"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/63173407.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/63173407.amp"
+  - title: "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng"
+    excerpt: "A robot addressing a Lords committee evinced a clarity and personality all too lacking at the top of the Tory party"
+    publishedDateTime: 2022-10-11T21:46:00Z
+    webUrl: "https://www.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
+    ampWebUrl: "https://amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
     type: article
     provider:
-      name: BBC
-      domain: bbc.co.uk
+      name: The Guardian
+      domain: theguardian.com
     quality: 74
     images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/101C6/production/_127009956_gettyimages-1404663363.jpg"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "A robot will address the House of Lords this week"
-    excerpt: "Robot painter Ai-Da will appear before the House of Lords Communications and Digital Committee tomorrow afternoon. The robot will be there to give a speech and answer questions about the threat posed by artificial intelligence to the creative industries."
-    publishedDateTime: 2022-10-10T10:24:00Z
-    webUrl: "https://metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/?ico=zone-post-strip_item_3_news"
-    ampWebUrl: "https://metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/10/10/a-robot-will-address-the-house-of-lords-this-week-17534367/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 59
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/10/GettyImages-1318598068-5538.jpg?quality=90&strip=all&zoom=1&resize=600%2C400"
-        width: 600
-        height: 400
+      - url: "https://i.guim.co.uk/img/media/4a3ae4282c813b0b73212427e0e4352a2039a3a4/2_737_7326_4398/master/7326.jpg?width=620&quality=85&auto=format&fit=max&s=7c24efff0b4aad62622d4a417924cfdd"
+        width: 620
+        height: 372
         isCached: true
 
 secured: "QoqsjsBewM+VZ58oggK0cXmK9x3Vh7wtoRFf0WKJToWbeSZ/6cSyQH27IXto87VOeFKk9KQ0yIu2K/KCmAbLMeovvSbfD+7q4lUXp+XPIxFR5sWNeKx/nV3ox/QwwW449u3MsYZcd62glZD8Ss7MC9J7/PMOtsseMalj8YZxI44SPR458C4yvYxC/d3T6f62dgzbW10ARZ5N4wVnnqNXIgxwnqqLyYANzwOv0flulkvCOfHnZbTyeq2ESehhDqm0eCRjc4WnY1duL5wkZSbU7EgokofB6vZo7nhyEXD3KybIaZF+okFB9cTYDGZwityYxYO4fDDHz23aotPp4SK0bh1c9ASq27/4/YeXSJlGnKIoZJtMOv44BGh8oIaoQFDt468ylEwwIeM06k+N3waUPa0mXeU58i1U91uMZtQ6UYauzGFNO+Y5RrHo87m1OSK+rgcvSl3/qoNnoe1F/NuhofheUFU+4rRx1v8OSOlUy+t16BIR/fJVaUkLPBV0hebZZEQydFABIq8exBBxGsh0Nw==;x1J+a8PekbopfzYXvmRLLw=="

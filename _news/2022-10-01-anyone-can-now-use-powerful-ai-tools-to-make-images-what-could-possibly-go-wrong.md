@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.wxii12.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.wxii12.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-wxii12-com.cdn.ampproject.org/c/s/www.wxii12.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: WXII 12 NEWS
-  domain: wxii12.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI Ethics
@@ -23,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "sqTB8ngJDQtLr3dl4rHXrAaSr0mn8AwJ8dcG7WCZP2YX+1EMLPf4F4Cn4cTP6ClKxOYv/WbQAUNgiM6p4+KtvKs4xX+kamQ5W9eFb1sRrehdx/IUCAGd/N707uN3UpdT2n5IUICG5EB8NWwn2b6YpMxmxkCfgCY1AtN9xE5TN6bb6fs5oSTYyNOzfEy4OmjyGf08VmB08b4sqXzmmfFTSirmJpNf5e31OkFPDWyetF8YO0y84gSgcmkMOpCtmIoEbYPgpK2L2bze5ESukPxHZO1OZlPcVxOolQ65eYn928r9Ps3SRd9BCcmN5+51+gcsf3HyLh3XNXK5o+U0NiyxZqrkls4Sy+fXoJWeiTcAS94=;T8ne5loXLOBXOCwXv3C1Mw=="
+secured: "t0VAgdRo/e0m0wIp7DXAE9jUtiyF61Tg2OWFjtpF2onpXQH/nsSavgdVYtwK203iWNGmV7525zMYXFGk59E5XjBvKJZByzwpmPm2RgsxdfB6fOLIynEjcUQvlH5jhGDm1QZmO6ard7VMzc7ynn/BLICRs+B30jKAZW11nKK61LUNrS4IRqBsfVAIGt04638RuzWRunUmwslYKdB8VVHowtXPCXCVlgoHlniJ2bZtn8853hpDHGa40YCaYVXRNLOsSr978tR5J5egzsnXvsZiFLeauF0F45EiWmZZeGHgKNVrAGhQbGzEJ+3juUzqcouutSUE8VyRwm7Nux7P5n4Yd2KRmhMloAs/QeQ+2Y4X9CI=;zgdAW6to7/FJ9K2zVccBMQ=="
 ---
 

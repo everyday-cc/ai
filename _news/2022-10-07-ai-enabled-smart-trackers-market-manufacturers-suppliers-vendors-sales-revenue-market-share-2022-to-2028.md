@@ -52,6 +52,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,"
+    publishedDateTime: 2022-10-11T18:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing and Recognition Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
+    excerpt: "The \" Natural Language Processing and Recognition market \" aims to give decision-makers current market data to support reliable investment choices. The Natural Language Processing and Recognition market research report offers the most significant and instructive data on opportunities,"
+    publishedDateTime: 2022-10-11T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
     excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
     publishedDateTime: 2022-10-10T04:42:00Z

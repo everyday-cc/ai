@@ -23,35 +23,37 @@ topics:
   - AI
 
 related:
-  - title: "Recent Advancements In Artificial Intelligence"
-    excerpt: "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs"
-    publishedDateTime: 2022-10-07T13:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/"
+  - title: "Google reveals what’s next for Cloud AI"
+    excerpt: "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases."
+    publishedDateTime: 2022-10-11T14:40:00Z
+    webUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/"
+    ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200"
+      - url: "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all"
         width: 1200
-        height: 639
+        height: 599
         isCached: true
-  - title: "St. Luke’s adds AI-driven cancer treatment"
-    excerpt: "St. Luke’s Allentown Campus is the first in Pennsylvania, New Jersey and Delaware to acquire the Varian Ethos therapy system, advancing treatment for cancer patients in the Lehigh Valley and"
-    publishedDateTime: 2022-10-08T05:18:00Z
-    webUrl: "https://www.tnonline.com/20221008/st-lukes-adds-ai-driven-cancer-treatment/"
+  - title: "Google Cloud AI update adds translation, document services"
+    excerpt: "The company has released a new AI-based translation service called Translation Hub and added two new features to its Document AI service."
+    publishedDateTime: 2022-10-11T14:21:00Z
+    webUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html"
+    ampWebUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
     type: article
     provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 39
+      name: CIO
+      domain: cio.com
+    quality: 63
     images:
-      - url: "https://www.tnonline.com/wp-content/themes/ltn/images/tnonline_share_logo.jpg"
-        width: 864
-        height: 432
+      - url: "https://www.cio.com/wp-content/uploads/2022/10/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
     excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
@@ -67,6 +69,17 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Google expands cloud to more regions, adds new AI"
+    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
+    publishedDateTime: 2022-10-12T04:51:00Z
+    webUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 39
 
 secured: "cCJERXuEMl9eVnakCOj+7oBSG9EhRvsF7Wy2CSFJHdKdSxgujq91ePGRVxn7XitxJ3TlZ03Bg5lPpW5FnNXZMegyepOLIlnd3Tl8xRc7Kk/4Ero5LlY/WqtezqBD0E7ZE301pSlnq4pTfj308zFu0liX6HuH0EGZIUj7DuC5toSqmWiKHeL7a6AW6h67Ayh2LwPi9amb0lKRRsNZy5o3WwzVu/jyYxD18G9y/8UUyW0o5Z14EztjXvjsA/gsumOm6yS6La93XkVoDxFEVsZ05F6wKhVXNs5c/xWSngWD2RiCSQRbV+2+1roBkkHqiZNsTCWL1DOdeRvQQq3ojEocj7l7jFNw2BFPVuLq6Oukloa8LQMnjNQk9+KrPI5L6C5EuZBJFNTbivOSCL/xhFcsq9M+AUIKbWu7d/Cy8R3IQVnVb4gUSxjLTWjI3nJ6tPGW7NbESkTB3oojVoF1QtIsbYNdGuFrcSgxFX6wym4gRr6uujtO5MDIkUGe9MzB4aoHtxFl5zUvMzyP+K2C961haw==;729Tf20PE8n1vxcr5Xwr2w=="
 ---

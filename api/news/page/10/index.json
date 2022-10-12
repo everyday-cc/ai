@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
+      "title": "Meta is using AI to generate videos from just a few words",
+      "excerpt": "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
+      "originalUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-aws-sk-telecom-develop-computer-vision-platform.md",
       "title": "AWS, SK Telecom develop computer vision platform",
       "excerpt": "LIVE FROM MWC LAS VEGAS 2022: SK Telecom and Amazon Web Services (AWS) announced a partnership to develop a cloud-based computer vision platform, designed to make it easier and more cost effective for the mobile operator’s customers to build, use and ...",
@@ -1113,49 +1156,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-radware-expands-relationship-with-fortune-500-financial-services-provider-in-a-multimillion-dollar-deal.md",
-      "title": "Radware Expands Relationship with Fortune 500 Financial Services Provider in a Multimillion-Dollar Deal",
-      "excerpt": "Radware ® (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, announced it expanded its relationship with a Fortune 500 financial services provider in a multimillion-dollar deal.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/09/29/9682948.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/09/29/9682948.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T04:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

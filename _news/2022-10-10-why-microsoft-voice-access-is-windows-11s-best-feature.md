@@ -26,49 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
-    excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
-    publishedDateTime: 2022-10-11T03:20:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
+  - title: "Microsoft and Mercedes-Benz tap AI for auto production efficiency"
+    excerpt: "Microsoft and Mercedes-Benz announced a new collaboration today, tapping artificial intelligence (AI), digital twins and data analytics."
+    publishedDateTime: 2022-10-12T06:30:00Z
+    webUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/"
+    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
     type: article
     provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 53
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 104
     images:
-      - url: "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m"
-        width: 750
-        height: 600
-        isCached: true
-  - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
-    excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
-    publishedDateTime: 2022-10-11T12:16:00Z
-    webUrl: "https://www.capitalfm.co.ke/business/2022/10/microsoft-liquid-cloud-in-deal-to-deliver-cloud-services-in-africa/"
-    type: article
-    provider:
-      name: Capital FM
-      domain: capitalfm.co.ke
-    quality: 39
-    images:
-      - url: "https://www.capitalfm.co.ke/business/files/2016/06/MICROSOFT.jpg"
-        width: 630
-        height: 350
-        isCached: true
-  - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
-    excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
-    publishedDateTime: 2022-10-11T15:06:00Z
-    webUrl: "https://www.myjoyonline.com/microsoft-and-liquid-cloud-launch-initiative-to-support-african-businesses-with-hybrid-cloud-infrastructure/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 21
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
-        width: 720
-        height: 480
+      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Mercedes-Benz-Microsoft-MO360-Data-Platform-Announcement-Photo.jpg?fit=800%2C533&strip=all"
+        width: 800
+        height: 533
         isCached: true
 
 secured: "ql16aJYoH8sVxP6g4adwGvNFI8VSVXqZGIJw+qDbL2i12APExwhqSVztMMlQhHTNujEPmQ3zR4XQWcDJDmtzpLp9uxy+DHLEtVyY1I4LhaeUdzdObvD2/8Zrw3CzKfdSkCaesOUKozGvsymSxBYhvmP7qq4BPOTFkf2QNlyOyOjGNQ1tZEG/PklQDtrSxjDiGqFJOVTc47uKHswSL53gBj9rpnP3fHLPQM3zdpWnjadmJMH94hxZOlQvzCM5BOoHhvGKcIq7atdQQJNJUeTZBkF/0Jl9QLOCy6aJ2W1RBhBdoDnHg5AD4fcYXBodbysD0/C5t9Bne/v3E4AfR6bAjnVFW95TxXeF5O6mqrPUeAk=;JwjmGuVWrJTJGltEYuf/xw=="
