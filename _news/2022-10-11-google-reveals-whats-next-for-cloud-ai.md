@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google expands cloud to more regions, adds new AI"
+    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
+    publishedDateTime: 2022-10-12T04:51:00Z
+    webUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/"
+    ampWebUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
+    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
+    type: article
+    provider:
+      name: businesstech.co.za
+      domain: businesstech.co.za
+    quality: 39
 
 secured: "9U1GqAfTl329IMvooyhHL6WG9av3FkSdRDYBBj5zHtvfVlKkdXPTercum3fE5q9TpxGTYrn7UDVfq+ymzAxLz5TzbnpP/dNACfi/r3UbNbyzj1sJZBOlCKtq3As6F/mTKafU5QdYsjqxZHmaBk4vDKKDY8exfNx5ANzrqOKTR8OJA8T4+RouDD2oMn9u7Nc/Kh7dNjE7YyjIzs1/LyH2GHGGmwpYJ1271pLmDxhr0a9L1388lbn5M91Cg9rodliuZ9muLhOjusbctn5/1KyambsqN9WstXHE46bNnCEJgoJU2WTeVwWHgiYjofpVH8B23JyYISIyr4uUT8lzkoekJBWxyDJEQweV3LSvo698vkp4JUc1TpCNUfkdKGDEa3ebjwan0uaJpqazgIe6iYch1VzUW4908/btrhoCETpCRfxfH1PfYllxhkmXblGfkkGvDdTV28M2fdSNK7/bX9hUJDun4q+hdnyn5AniyBS6X7C9btk2AQcbWJ3WlrfyzOJEyZV0B0nilMaQi7L49MhpXQ==;iFqwtXDxpGpreOEoqdfGrg=="
 ---

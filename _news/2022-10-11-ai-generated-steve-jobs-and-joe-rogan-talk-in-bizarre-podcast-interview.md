@@ -44,11 +44,13 @@ related:
     excerpt: "Podcast.ai generated a fake audio recording using artificial voices and language model transcripts based on Rogan and Jobs’ old public speeches and keynotes."
     publishedDateTime: 2022-10-11T17:57:00Z
     webUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390"
+    ampWebUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
     type: article
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 42
+    quality: 64
   - title: "This podcast brings Steve Jobs back to life, thanks to AI"
     excerpt: "What would Steve Jobs have to say if he were alive today? A podcast attempts that experience. But is it effective?"
     publishedDateTime: 2022-10-10T19:54:00Z

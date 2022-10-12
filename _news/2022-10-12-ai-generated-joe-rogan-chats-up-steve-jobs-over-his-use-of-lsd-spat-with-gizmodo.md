@@ -5,8 +5,10 @@ excerpt: "Podcast.ai generated a fake audio recording using artificial voices an
 publishedDateTime: 2022-10-11T17:57:00Z
 originalUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390"
 webUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390"
+ampWebUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
 type: article
-quality: 42
+quality: 64
 heat: -1
 published: false
 
@@ -20,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Fake Joe Rogan interviews fake Steve Jobs in an AI-powered podcast"

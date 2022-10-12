@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-sha
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-share-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-10"
 type: article
 quality: 62
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -52,15 +52,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI-based Surgical Robots Market Size, Share, Movements by Growth Status, Trend Analysis, Revenue Expectation to 2022-2029"
-    excerpt: "Oct 07, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI-based"
-    publishedDateTime: 2022-10-07T12:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-based-surgical-robots-market-size-share-movements-by-growth-status-trend-analysis-revenue-expectation-to-2022-2029-2022-10-07"
+  - title: "Artificial Intelligence Chatbots Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "The main goal of this research is to inform participants in the \" Artificial Intelligence Chatbots market \" about the effects of COVID-19 so they can evaluate their business strategies. The regions covered by this Artificial Intelligence Chatbots market research study include North America: United States,"
+    publishedDateTime: 2022-10-11T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 59
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -103,6 +103,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
+    excerpt: "The report also includes the latest technological developments, growth factors, challenges, and market trends. The Global Face Recognition Device market report provides an in-depth analysis of the top investment pockets,"
+    publishedDateTime: 2022-10-11T01:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-2022-company-profile-analysis-industry-segmentation-opportunity-assessment-and-forecast-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

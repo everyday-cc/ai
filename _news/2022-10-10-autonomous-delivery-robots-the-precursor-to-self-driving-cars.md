@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/"
 type: article
 quality: 91
-heat: 122
+heat: 123
 published: true
 
 provider:

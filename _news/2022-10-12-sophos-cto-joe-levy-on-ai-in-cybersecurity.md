@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.ocbj.com/wp-content/uploads/2021/12/Stuart_McClure_at_his_desk.jpg"
         width: 600
         height: 475
+        isCached: true
+  - title: "Hackers are coming for industrial robots. San Antonio roboticists look to strengthen cybersecurity."
+    excerpt: "“In my mind, in robotics, there’s still time to secure ... “If someone were able to hack into it, then they could effectively control someone else’s arm or you could control the strength ..."
+    publishedDateTime: 2022-10-07T23:20:00Z
+    webUrl: "https://www.expressnews.com/business/article/SA-experts-protect-industrial-robots-hackers-17494143.php"
+    type: article
+    provider:
+      name: San Antonio Express-News
+      domain: expressnews.com
+    quality: 25
+    images:
+      - url: "https://s.hdnux.com/photos/01/27/64/31/23021132/3/rawImage.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Xcb6y4PMJjAVK/17G2zflGVVGqQ5MuFMRRi9gQ7jVjkNqLPQjZa/XvOt1m3nW0MQ2ZFt6w147iS2Uq/mWxfG5Wl4eTZ0UUfGQHIGXTxK6odKdXkPjWM9e2AMcHDjasqL1ZrVQEsNSJMjem8pQEzj7ho9lQAYcLvKTk3Bt88Rs5+2MhzFEeDIqn1ai/U0l31S3ImojVL07gLbNvu8zVcghGGurhnutVXdgHioXx/zs0PLQarjVCzTkWVqnhkJt88xYDUw6ll6EP0t/UlA+W9j2/1iXjdg4ctLE6uJTyWcGuyJN5Rs9jJu3htJaZ+XAVrxCT1bFiklrjgUu7ObFmqndkOgTOIuZTpErx7yX0X35bAPSk1RqiH//FBFmDqzSzBXZ/wHkouTlNIxCskidC99HZxyNByXHb90U/HE2tQ375voQXva1VkxVCvNmcXcSl/h7b/ImXBioQUrRwK2lZsoMYzghix8LdNP9PltAPSI7n+R2e37Oo955kVwjSmtL6O5gDa4wTrCFpGEA/DRxSMtaw==;ljFIahGggBSAkoUC7/WDfA=="

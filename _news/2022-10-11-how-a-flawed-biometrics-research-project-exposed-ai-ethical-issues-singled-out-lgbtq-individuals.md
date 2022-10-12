@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/"
 type: article
 quality: 92
-heat: 94
+heat: 96
 published: true
 
 provider:
