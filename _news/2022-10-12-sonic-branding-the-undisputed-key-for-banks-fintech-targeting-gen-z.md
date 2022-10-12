@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
-excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
-publishedDateTime: 2022-10-11T05:04:00Z
-originalUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
-webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
-ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
-cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+title: "Sonic Branding “The Undisputed Key” for Banks & Fintech Targeting Gen Z"
+excerpt: "\"the undisputed key\" for banks and fintech companies targeting the next generation of consumers in the fourth edition of its quarterly editorial periodical, amplify."
+publishedDateTime: 2022-10-12T01:27:00Z
+originalUrl: "https://www.bandt.com.au/sonic-branding-the-undisputed-key-for-banks-fintech-targeting-gen-z/"
+webUrl: "https://www.bandt.com.au/sonic-branding-the-undisputed-key-for-banks-fintech-targeting-gen-z/"
 type: article
-quality: 46
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: moneycontrol.com
-  domain: moneycontrol.com
+  name: B and T
+  domain: bandt.com.au
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
-    width: 1280
-    height: 720
+  - url: "https://www.bandt.com.au/information/uploads/2022/10/amplify_-The-Sound-of-Banking-FinTech-Mockup-750x500.jpg"
+    width: 750
+    height: 500
     isCached: true
 
 related:
@@ -43,6 +41,22 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
+    excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
+    publishedDateTime: 2022-10-11T05:04:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/fintech-files-part-4-why-tie-ups-with-fintechs-are-the-best-way-for-banks-to-make-tech-strides-9308121.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 46
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2017/10/Rubique_Top-Tech-Trends_Blochchain_Fintechedge.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "12 Best Fintech Stocks to Buy After The Selloff"
     excerpt: "The fintech industry has taken a beating in the past few months due to soaring inflation and rising interest rates, a combination that has pushed investors towards value offerings at the stock market."
     publishedDateTime: 2022-10-07T14:27:00Z
@@ -59,20 +73,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Sonic Branding “The Undisputed Key” for Banks & Fintech Targeting Gen Z"
-    excerpt: "\"the undisputed key\" for banks and fintech companies targeting the next generation of consumers in the fourth edition of its quarterly editorial periodical, amplify."
-    publishedDateTime: 2022-10-12T01:27:00Z
-    webUrl: "https://www.bandt.com.au/sonic-branding-the-undisputed-key-for-banks-fintech-targeting-gen-z/"
-    type: article
-    provider:
-      name: B and T
-      domain: bandt.com.au
-    quality: 39
-    images:
-      - url: "https://www.bandt.com.au/information/uploads/2022/10/amplify_-The-Sound-of-Banking-FinTech-Mockup-750x500.jpg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "The next big fintech trend is tax planning"
     excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."
     publishedDateTime: 2022-10-11T13:00:00Z
@@ -83,6 +83,6 @@ related:
       domain: accountingtoday.com
     quality: 4
 
-secured: "A1el4QJaFb5eNJtdTnIcBmZRDKh/0uiLK4se2stONseTCWi/0j4ml0hfKI9HDStVtfDLXg8B8kNSmIZ3OIqJy3T36PGEmrceHbiQ//2Wby/dQL+JfE45/BLBlFHz6vFqH6xxyX1AO+HCHPFHRq4khPzr+vvY40DPM0AwX57Ok+vUxod4/s00hZj6cnhaRyJo2F1ZrGNBFXirnFoaVZ0T/pwjNetjWgyaCJmT+spzWtsPxWg8pdVuYnw0M84Oj1l7H/W/pmnMHVz1S7G3LwBXss2dG8YBJ0/HelGrVagMyljTB/n3LmOkOa0pjSfT8pP6T3x9W4R024n79JUpGeXBymG4e9FIUHHOb0bdzXHblS/mg4LMl3PyfOpYRjvm7r5CiY/ieSVVPaocFoYZinUUjFGT5JlVse9SuaXbyAsoIhre2eHDFBthNxyHoiIKA/beLtao/s7Wp4SV861hitMpWemAwILvwhpLPn45YhNczkQOhfGWcNn4NLZrGLubeCizVsignM4G+XnhqMOchlKbHQ==;V0hDIS++HTjnp4rKXGK3VQ=="
+secured: "rtIxDeMSiBFI+cU9EHzK/Q7F5SO8d2lM0Wk1ZcZyZ7XurMXG8EQVKSGUUtadgDzxrYpG+h+Ob/vLkzHY4t7XmUjrhltJsJfaWf7WqfF/xzXQ30/R94S37UqiCu3PjwDHGeC/vT2oGwMQdEBnbZ4CqG5YwVpFxxwLY5Fb+a1dc+shXKfA2R+4CoUCKgFh7S20qaHr7UtOzsbpg2jKrzI0RjxsfdX+uRTlVcWnS3n+2RjCpx1ZS/G9xB5Spq/uPXjo8B7iXddYTb/zEUZc5Enni7LadS9RuhfGroWPwTvOyHPF8jSCYO0goKdhGtSlX+jyqy+xhxpYED9jlitQLIsQXUZ0ASJh2HhHP5eLytPzE3w=;cKu0LtS+GxTNDdBkj9SlRQ=="
 ---
 

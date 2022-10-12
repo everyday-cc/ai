@@ -3,15 +3,15 @@ category: news
 title: "Anyone can now use powerful AI tools to make images. What could possibly go wrong?"
 excerpt: "The move will likely expand the reach of a new crop of AI-powered tools that have already attracted a wide audience and challenged our fundamental ideas of art and creativity."
 publishedDateTime: 2022-10-01T16:12:00Z
-originalUrl: "https://www.koat.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-webUrl: "https://www.koat.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
-ampWebUrl: "https://www.koat.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
-cdnAmpWebUrl: "https://www-koat-com.cdn.ampproject.org/c/s/www.koat.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+originalUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+webUrl: "https://www.kcci.com/article/powerful-ai-tools-what-could-go-wrong/41475712"
+ampWebUrl: "https://www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
+cdnAmpWebUrl: "https://www-kcci-com.cdn.ampproject.org/c/s/www.kcci.com/amp/article/powerful-ai-tools-what-could-go-wrong/41475712"
 type: article
 
 provider:
-  name: KOAT Albuquerque
-  domain: koat.com
+  name: KCCI Des Moines
+  domain: kcci.com
 
 topics:
   - AI Ethics
@@ -23,6 +23,6 @@ images:
     height: 676
     isCached: true
 
-secured: "HTWqI5MWlzNCE2OehSh0yfG1E8JyE0ohbmooTNnJHc3GmGVJYco9rmV1+VIeV3S8ziyA/Z4Nyv+S6769sxyH/4ySjSQc+RJccytIHTDlge+NF9ambA3SE2FU9wUiOZPhmTDrJp3JWynWQqhU3QKPV+0LoY5kBZRtuMehXct1fAEJRacYpARbCxPSF6Fu6x6Dl2qKoRVM1EklUyBPHIN1Xu9mLkjrbAnAsKkaB5pOvmYDBcf0KyqguFdh/HUjNO8NMDB7xOUjgQQX1yppCbx5kYavZC0XFXcyy/DBYplN778ZZdpbpJzwALhfhqGVqyU+Ix9E3QoswJv19xQ2x9PCS8KVv6K+y+8BIBnw2E0vf7Q=;OrAv431Zs1F3Bajh0pCn7Q=="
+secured: "u9dVm9HFYsjz3z6N19e5TZWIChQZSYN8GzXszaKUP63r1o7Yqg0vD/fMqUydmGo0PjPKVHLbL+FK+wIMu+InYUhBEsujGBo2q88pvLRlXpLYMxY+y8otrrUvOhReD1XYSOpYSg2Vyp4ZKcGXOZWAsgKPtyhUiqxopkAzR9eXGD0168KP5eDIm5ROFNdHjgu+L9ukc73V2IGyeskWFMeM2kr2V3vRB3q9oluo6DR6bunkHxooIeGLudOHG1zG2SRhJDqt9trcd/K3soQj5OBB4oPFen5USh7FNLTKDflitIKTlmak5LbIwJYNat2kgZLTGM6eNwAcQBb5pvCaDaUtNPJMNWZbA/e90HaYE+7Xu0I=;dMQabgXYDubLQa1H0AoxYQ=="
 ---
 

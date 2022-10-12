@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Google takes Apple path, bring backs face recognition on Pixel 7 phones"
-    excerpt: "The feature on the new Pixel 7 is not as good Apple Inc's Face ID unlocking mechanism, as it can struggle in low light and is more vulnerable to being spoofed."
-    publishedDateTime: 2022-10-07T07:27:00Z
-    webUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/google-takes-apple-path-bring-backs-face-recognition-on-pixel-7-phones-101665126702058-amp.html"
+  - title: "Pixel 7 Face Unlock isn’t as good or as secure as iPhone Face ID"
+    excerpt: "Google finally unveiled the Pixel 7 series on Thursday and confirmed all the leaks in the process. The new phones have the exact specs, features, and prices we expected, and you can already ..."
+    publishedDateTime: 2022-10-07T14:56:00Z
+    webUrl: "https://bgr.com/tech/pixel-7-face-unlock-isnt-as-good-or-as-secure-as-iphone-face-id/"
+    ampWebUrl: "https://bgr.com/tech/pixel-7-face-unlock-isnt-as-good-or-as-secure-as-iphone-face-id/amp/"
+    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/pixel-7-face-unlock-isnt-as-good-or-as-secure-as-iphone-face-id/amp/"
     type: article
     provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
+      name: BGR
+      domain: bgr.com
+    quality: 44
     images:
-      - url: "https://images.hindustantimes.com/img/2022/10/07/1600x900/pixel_7_1665068876655_1665126882938_1665126882938.jpg"
-        width: 1600
-        height: 900
+      - url: "https://bgr.com/wp-content/uploads/2022/10/pixel-7-pro-2.jpg?quality=82&strip=all"
+        width: 1596
+        height: 1066
         isCached: true
 
 secured: "c8UgpdtjUbPeQeZKUcRmvfUvVNLnKGoGJDfRkfFwJIZ4SlgfGlBQE36GgItCBL2GMS01z6x16fyf0IqJsAMz6/q3IwLiTTiYH8jfy59i5luft3AYR+18QYerA8xD2MzOpOvlajmWUUAS4PcWjCojK5YKe3zOqnjM9GnSpGEMoaxB36CIEJy924pt+xZZipIV7GwUW1WsfpyMPhYtOEUy7lGxkc0tKvp7h9moypgfCpTWkLSVPiX0jOjuDg0wZ+JTWOsWaimUGTiCrHTfVyH7NHl/vmfs04Y2DF8FeUo15N20xnBDYhr76vwaPobeTOMZoR++PHg3ipp7ZvLnJXmfmLiH2Owvn9FrFya46r4/5dZSLnIkekB82jQDwC1xAeNEOnlGt8nJ+mu6b2mWyvIswPoFnSNW1B1wxuBs4py7Vlr0/6Fp5932ytuWjRvbt0FNPdNTpdKLPtmqC3OZl2FZ+uHz9+Fp2Gr8C1nRsPPMllD88g5ENF0xA3sEjyL0ueqtp94oe4GQFhoswSxE/ouaYQ==;jmqajm5zJxHGCAphIJnLJg=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-
 cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,19 +26,6 @@ images:
     width: 1024
     height: 604
     isCached: true
-
-related:
-  - title: "Tesla's robot waves but can't walk, yet. Elon Musk plans to make millions of them"
-    excerpt: "Tesla CEO Elon Musk showed off on Friday a prototype of its humanoid robot \"Optimus,\" predicting the electric vehicle maker would be able to produce millions and sell them for under $20,000—less than a third of the price of a Model Y."
-    publishedDateTime: 2022-10-07T08:42:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/"
-    ampWebUrl: "https://www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
-    cdnAmpWebUrl: "https://www-gmanetwork-com.cdn.ampproject.org/c/s/www.gmanetwork.com/news/scitech/science/847281/tesla-s-robot-waves-but-can-t-walk-yet-elon-musk-plans-to-make-millions-of-them/story/?amp"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 51
 
 secured: "vqeeYS2DEHrRV5aV5ZQdCrs4qIHrQIfTyer/7m1CSaz1axhBjsNyYTH0tc70aBRWUdJZ/H1OX2xfHKdGsySoByheSBHXvm9nLVB7iqHVE7gqMMWLRHWWW3xO1GmVoj8xl4v59fz5z0ZD3HY4Cz82xhtON7HK7JsKuPX8i2IJ7wXbS5OkGrK//YfJ5lw+XKK3z52vRElCNiN+c3HQLz+Q97NUqAligWNbMB+Fjm0JTkjIonUhlHJIBVJJlD712Xf0XveZ+6F/Zgwc4Zvbia49IoqsEpj3YkFGLFS6ULQGIXXt8IITxbQDLKmKSCzM9zpp1r2Hw7cCCUFE0pTmY3iKi7QaCg+srH9Hzj6nz2+fcxyssLfktisWXdyj20+APvwGGS/Ce4nkAIJgBVb+oY94TatDC0p4CH5jUCkUky7IlJMxUpo7f8HZWwgm7aoc0z1egu6d6y3p5MxFgfbZTr8TjvoQT0pFRhpV+brg9gZwQr2YBH3MGpJKarQEQIw3u1Nd96QIKPH4iH4DtUF5EaCwqA==;ib8SsIkug0N1CsEw+tq1pw=="
 ---

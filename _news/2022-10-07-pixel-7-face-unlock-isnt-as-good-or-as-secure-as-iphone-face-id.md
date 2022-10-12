@@ -26,6 +26,17 @@ images:
     height: 1066
     isCached: true
 
+related:
+  - title: "Google Pixel 7 has Face Unlock — but it's way behind Apple's Face ID"
+    excerpt: "The Google Pixel 7 and the Pixel 7 Pro have officially arrived, and they've brought Face Unlock with them. But let's not get ahead of ourselves, as it's been confirmed that the phones' fingerprint sensors are still your primary unlocking and security method."
+    publishedDateTime: 2022-10-07T11:59:00Z
+    webUrl: "https://www.tomsguide.com/news/google-pixel-7-has-face-unlock-but-its-way-behind-apples-face-id"
+    type: article
+    provider:
+      name: Tom's Guide
+      domain: tomsguide.com
+    quality: 4
+
 secured: "/ecgfYT6GzWBIYl4wUrSIzROE/f/w6B4elMR6m2OomI+Ma4q1qx6/CA8xENHwA9dW0RmYdnbAhMI9j/090YMyzL9qjET+3oja1V8ZSYQAWvrp4+NFk9jbuBBME8RCGjnJ62Lke/e96GXkuUhLMxGq3d3fJLHMKcsl7BuGrVHKl6Jr2RmlMwzOWJPWhICOFdFSDrzTHpUEhgtiwaa0TEkr92yfoGOe4UL9RwUg7iHiBEWuNSChHyHioiPQHozVJt4eY1hfA+aseCxmLOWlkRMz0+SLdLr+eoNB0Fq/fols1EMw0c/FtowwpSgBkikWGIab8AozN9nq6qmeDcfmgFzD0ZxEp2eVRuDzfK+moaXtVI=;X6a8SkzzY+WYZORhihxuPg=="
 ---
 

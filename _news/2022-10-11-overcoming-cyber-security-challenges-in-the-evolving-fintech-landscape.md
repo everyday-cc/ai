@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-ch
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -59,6 +59,20 @@ related:
       - url: "https://imonkey-blog.imgix.net/blog/wp-content/uploads/2022/02/06120506/man-791049_1280.jpg?auto=format&expires=1696636800&w=400&h=225&fit=crop"
         width: 400
         height: 225
+        isCached: true
+  - title: "Sonic Branding “The Undisputed Key” for Banks & Fintech Targeting Gen Z"
+    excerpt: "\"the undisputed key\" for banks and fintech companies targeting the next generation of consumers in the fourth edition of its quarterly editorial periodical, amplify."
+    publishedDateTime: 2022-10-12T01:27:00Z
+    webUrl: "https://www.bandt.com.au/sonic-branding-the-undisputed-key-for-banks-fintech-targeting-gen-z/"
+    type: article
+    provider:
+      name: B and T
+      domain: bandt.com.au
+    quality: 39
+    images:
+      - url: "https://www.bandt.com.au/information/uploads/2022/10/amplify_-The-Sound-of-Banking-FinTech-Mockup-750x500.jpg"
+        width: 750
+        height: 500
         isCached: true
   - title: "The next big fintech trend is tax planning"
     excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."
