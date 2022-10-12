@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://media.townhall.com/cdn/hodl/2022/266/0606356b-fb83-4033-8601-b4416c483158.png"
-    width: 650
-    height: 366
-    isCached: true
-
-secured: "dMRPVZ8j3UADQxqghQ5ytAV91fJckoJwpwf75O8Ac0ISq0TW9+0lgXhowpXDqHaoddlRazJqqZqvodnynXpmT+XldoqCBKkgAPdbuq1BlYM3gAcTUj9yMQz7MVLI4Ij/u1vjPH83nLlSHA2N6NYs0HFSUt4RL6dAhe1TgkcVykMNsbZb6bxPW7ciQElI3FKgpul9FY528JD0o3uVk/nXRc2Z5jOTIKsMPs7esAQdI3UjNJItrVrdgFXu0wb2fQK+da5XBer30tfVLsasLJVqrsGr0fBZVSYJhkJC5erb0ziC9Y+mv/ESZzCq8q7j/lOcdB9stqKuG3O/BrdIWqOiqXN+iMoLsP2oBUn2ic4ygCw=;HGwhprQwCoYoqvDenDOq9w=="
+secured: "hkOZS1E6EebKuc0v4x9j75qFnnCxTBptLaudsyv81i5Y9IsklWum/zonBlwEBJYQAOBz9FCTJguR65eHNGwuPBz9ruvTIKIumwo3FqPMOPe9E3hTiXq4xIpjSvTeeLh3ZunDB+7jT1FZZDpX4KpjxlFpjJ4i86OsaHhlF44BOMixJp+mkKC1sk9D6dkdissszNonNrzm4kS535oJcElacCO7gXh2y4QKcGg7135Cq5iMHrV/9/f/qQequ6rCqabRokoafcQFwGibNI0g5dGG4rf8oI/LuMupy2XdVAJnjnc6yy+DiCXDPFdAeEuo41Et73DELJykZd/UFhf0L66Pn697tF8wOvdr8eyiYnVzwwc=;SyKFGQ1krPPLrnc66cJpWw=="
 ---
 

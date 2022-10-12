@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all"
@@ -46,6 +47,6 @@ related:
         height: 210
         isCached: true
 
-secured: "ZzaM/fQndd0iVns21+U2uktux7ZoI5zrQ6mhAAPzvpWfWlgUJeLETQxoXMQaA8IiL0TiclFeNcti6pkfEZDnt8JimhHZfVhsKl0pgdXp7CxKgz8SH1kKO61XUvksafCsygTK4OcT18tk8umGR/HRPWSMBYqiu1v0927ZMHraE1DE2zrT2oNyz5r/eLUJUeBZz6RhfRJ2klRZNeRu7JLfx2xZBHhyFBFfUWzUSe/ZbHCPwd+oEgco2u9gP2HMBlinkYm3dcGYJsST35dCKMfcS5DKWcspmdHyoM+8Q7kjsa3XlFw8SKOCIXuxg739o2dR+0vT8BQ6cM792vn/ac61c/U+ofuhXiGIX7uFUjF15Xs=;sj7TpH3ucrO2qrUEpFt3xw=="
+secured: "q5//QZxeyPThraGlmCpwDyJK848Pd3Exd2nzf6zP4rsuWTNOw1gwCLP/u8xPLZibVwL+Q87oZ3IVQnRoAwjmxJy5kXmOmFcJMPLQAK7P4/W6S/QlxYBVgaDkeREj3uqS8T4vg3FIB82kGQV557J7PCaE3xlTmtgcI7ETZ7fKGnB0gAhso/1xNGzsn3Vja04mYZhD4bXtFwB46L5BMK5HOwrKNKl6ss0ITm4VN341jwYNhL462egZjeVzXCwF95yoaPnSwjJdUvJbY9GGKYbulyV81ZBoZEW0AO4pecZRabycbRQe57EoFKblUB838f2uLBmzLeyWCMPcXMIqY7Ex4dIbnc50wfRbnb4Zduq3lekybzIF4soIg4nL/000U/fg71fahTJl/KXRkFsF90NKJ5iOWK4Mxoqsaha/Rz+jCGSEMb+5ic35vhHoVcNVUBBUoNNRKdczKWo2A2IRFnjUhaUJMdSK4Q7VFFosBBgd6/0fk+tDMH1HiwNQIhXZvvR6SelTbyVPD0MJLELfeRu9mQ==;L8DXJnWWrAIcXLuDiFO7bg=="
 ---
 
