@@ -5,8 +5,10 @@ excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in cras
 publishedDateTime: 2022-10-11T12:32:00Z
 originalUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
 webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
+ampWebUrl: "https://www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
+cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
 type: article
-quality: 4
+quality: 44
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+364/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-04/0ca8caa0-a3c7-11eb-bfbe-54c17eed3351"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems"
@@ -75,6 +83,6 @@ related:
       domain: usnews.com
     quality: 33
 
-secured: "iAMkjHdh8H/xGac8z29Ag/nsznJuXsYW1UH+GrPQr/KAUrHDav5KqJwIxx0C+mO71LZl9i6TG1SaJ7JZ1iB6LUGjqNH0+fFMRB6aStn23srZczR+V4SUDHaDr9OHdveC00rXmo0PYtEJI8K+NHXsbaaBeiKsgPuw1gEjpZ4xv6oxTmk4HLgEfRep2EzftYTs2Qd8/jS0zHvimlkWeF3njrBZ2FjkA1qiHjAoQNvlP0L4KWCKkKEoVTa6dCr50fwlyhLSasL7RMPUXYnMzBafA7zuCxIrpnsBPP9pANk6RPHu+4H+RjNKbECW3X0evwhO1FarYkoOfhI5ATI/Idnrxj9JBdfpH28Ha151exlAuz4=;jBBcJAoB9d4zpdjutIB6aA=="
+secured: "S3UC2+X4Yv7nS79Xa0S8yW9SOx2FuszNZUByImmwL/O5vO0NKDQZAbxqCGEBzTV5Th3LbfAP/c7ZVp9JQQyqzpqEEgAeLfIVvymW+jEt+WDgw0zZXoX8tOru/9XUrqOcJHZlkUy5rD2fGdDi5urrxfN8EJBEj5E0DlwItGSgVMgFTM9yj7cIJJyEIuj8hiNqKeN3zI5gYxAte9vtXM4qUifWuiMr3i1p1yY42Oe1ZmLZnw0QMYK0JwsAelhh0blvY6eCKJw/c6ngDoUv4r8p9BqN5fYI82o5eOE47ofwPQS8I1itcaNEf8QlIBFJARxpT0vmuXBrZJDXkFIosBomQcA1GgHslDcs4GdvfEUoLes=;Ij3oGuN+tKVSQEvUwwzXMg=="
 ---
 

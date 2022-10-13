@@ -415,6 +415,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
+    excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
+    publishedDateTime: 2022-10-13T08:38:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 51
+    images:
+      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock_microsoft35757.jpg"
+        width: 1024
+        height: 506
+        isCached: true
   - title: "Why Microsoft Voice Access is Windows 11’s best feature"
     excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
     publishedDateTime: 2022-10-10T16:57:00Z

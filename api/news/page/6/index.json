@@ -2,6 +2,162 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-05-whatever-happened-to-those-self-service-passport-kiosks-at-airports.md",
+      "title": "Whatever Happened to Those Self-Service Passport Kiosks at Airports?",
+      "excerpt": "How often is the new facial recognition system used and how does it work? Around 85 percent of the 221,000 daily visitors arriving from abroad are now verified by face, according to C.B.P. officials.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/04/travel/oakImage-1664909585424/oakImage-1664909585424-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
+      "publishedDateTime": "2022-10-05T05:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise.md",
+      "title": "Preparing For Artificial Intelligence-Enabled IT Services: Machine-Induced Noise",
+      "excerpt": "and how to deploy artificial intelligence (AI) and machine learning (ML) techniques to identify and remove the noise. This article covers machine-induced noise. Before we get into that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
+      "publishedDateTime": "2022-10-05T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-gatik-goes-driverless-in-canada-for-grocery-giant-loblaws.md",
+      "title": "Gatik Goes Driverless In Canada For Grocery Giant Loblaws",
+      "excerpt": "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
+      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
+      "publishedDateTime": "2022-10-05T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations.md",
       "title": "Massive Bio and Perthera.ai Partner to Empower Cancer Patients with Personalized Therapies and Accurate Trial Recommendations",
       "excerpt": "Massive Bio, a leader in AI-powered cancer clinical trial enrollment, announced a strategic partnership with Perthera.ai, a pioneer in connecting oncologists and patients with biomarker-based therapy options.",
@@ -1008,160 +1164,6 @@
       "topics": [
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder.md",
-      "title": "Why AI Can’t Be Fooled By Kim Kardashian’s Crypto Blunder",
-      "excerpt": "The crypto market deflated, leaving thousands of investors high and dry – and several celebrities in hot water. A is the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633c36cd250f5641618d9da8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/why-ai-cant-be-fooled-by-kim-kardashians-crypto-blunder/amp/",
-      "publishedDateTime": "2022-10-04T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping.md",
-      "title": "Biden proposes new “Bill of Rights” to protect Americans from AI snooping",
-      "excerpt": "It touches on concerns about bias in AI systems, AI-based surveillance, unfair health care or insurance decisions, data security—and much more—in the context of American civil liberties, criminal justice,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/biden-proposes-new-bill-of-rights-to-protect-americans-from-ai-snooping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai_whitehouse_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T09:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-meta-launches-ai-software-tools-to-ease-switching-between-nvidia-amd-chips.md",
-      "title": "Meta launches AI software tools to ease switching between Nvidia, AMD chips",
-      "excerpt": "Meta's new open-source AI platform is based on an open-source machine learning framework called PyTorch, and can help code run up to 12 times faster on Nvidia Corp's (NVDA.O) flagship A100 chip or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
-      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/ZYDMYPCb1mkwySHI1uD8zjrOgoI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XDFHGK4QCJOXNCOTVIM6U32PF4.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

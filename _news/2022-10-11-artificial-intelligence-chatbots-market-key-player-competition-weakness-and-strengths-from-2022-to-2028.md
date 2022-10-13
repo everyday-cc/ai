@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
+    publishedDateTime: 2022-10-11T02:08:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-top-countries-data-trending-technologies-key-players-and-geographical-regions-by-2028-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 12
 
 secured: "Fgf2/MXydSLq3nBpRbCc2x7YbTByT2gPo2k/ne8cw6uOT+P0y/Fx64sNvv2XZC2l51zn1ljsk/FZ3ImKF1xbYep1Yw61PJyYEQLMfJaGpUPqqgenPt3eCtU0qd1rsdpARD+W/ZonA8xIwS3K7IKZ0tW5RrKPipS8WU2eL1kMDLyh1Zy4hgKOLY0TciSTfrfsMnoK1pkhQiaRtdxADqZKf7HC7q4r/2GCqVRpgp/Xke1n7wIMIUGEQhh6UrT2pzZ34lx75yjpuEgQy5VTn4ctT7hv8riSHl8FTSp6GL/vrsL2oHljh1tsEb+Iv2UEo8JSO1xcsaVjb2Z1I1O25/GDIMxqebXpvS2Lb001cNmUtKY=;QJ9FQ+tn3dfSkepRVtwvQw=="
 ---

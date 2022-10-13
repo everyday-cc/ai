@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-ch
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
 type: article
 quality: 61
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://www.bandt.com.au/information/uploads/2022/10/amplify_-The-Sound-of-Banking-FinTech-Mockup-750x500.jpg"
         width: 750
         height: 500
+        isCached: true
+  - title: "tbi bank contributes to the development of the fintech entrepreneurial landscape and launches a pilot project"
+    excerpt: "Banking - tbi bank announced the beginning of a pilot project with the fintech startup Prime Dash, to help the emerging Romanian fintech startups to grow and scale"
+    publishedDateTime: 2022-10-13T09:42:00Z
+    webUrl: "https://business-review.eu/money/banking/tbi-bank-contributes-to-the-development-of-the-fintech-entrepreneurial-landscape-and-launches-a-pilot-project-236455"
+    type: article
+    provider:
+      name: business-review.eu
+      domain: business-review.eu
+    quality: 20
+    images:
+      - url: "https://business-review.eu/wp-content/uploads/2021/03/Petr-Baron-CEO-TBIF-TBI-Bank-1024x683.jpg"
+        width: 1024
+        height: 683
         isCached: true
   - title: "The next big fintech trend is tax planning"
     excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."

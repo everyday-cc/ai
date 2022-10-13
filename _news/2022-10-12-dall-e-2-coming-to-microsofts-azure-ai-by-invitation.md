@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/"
 type: article
 quality: 119
-heat: 489
+heat: 499
 published: true
 
 provider:
@@ -404,6 +404,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/laptop-2557586_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
+    excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
+    publishedDateTime: 2022-10-13T08:38:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 51
+    images:
+      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock_microsoft35757.jpg"
+        width: 1024
+        height: 506
         isCached: true
   - title: "Microsoft invites agritech players into the field with new open-source AI tools"
     excerpt: "Microsoft is open-sourcing its AI algorithms to encourage data scientists and researchers to advance data-driven agriculture."

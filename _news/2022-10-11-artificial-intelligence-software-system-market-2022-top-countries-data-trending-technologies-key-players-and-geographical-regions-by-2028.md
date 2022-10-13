@@ -22,43 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Software Market 2022: Overview by Rising Demands and Precise Outlook by 2028"
-    excerpt: "The most recent information in the sector, which considers the effects of the changing geopolitical environment, is used to gather and evaluate market insights for the Artificial Intelligence Software market."
-    publishedDateTime: 2022-10-11T01:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-2022-overview-by-rising-demands-and-precise-outlook-by-2028-2022-10-10"
+  - title: "Artificial Intelligence Chatbots Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "The main goal of this research is to inform participants in the \" Artificial Intelligence Chatbots market \" about the effects of COVID-19 so they can evaluate their business strategies. The regions covered by this Artificial Intelligence Chatbots market research study include North America: United States,"
+    publishedDateTime: 2022-10-11T11:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Latin America Self-driving Car Market 2022 Insights on Covering Sales Outlook, Demand Forecast and Key Trends 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Latin America Self-driving Car Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-10T06:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2022-insights-on-covering-sales-outlook-demand-forecast-and-key-trends-2030-2022-10-10"
+  - title: "Artificial Intelligence Software Market Type, Application, Business Growth, Top Key Players And Forecast To 2028"
+    excerpt: "Xcellent Insights has recently added a novel research report on Artificial Intelligence Software market to its database"
+    publishedDateTime: 2022-10-10T04:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-type-application-business-growth-top-key-players-and-forecast-to-2028-2022-10-10"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
-    excerpt: "Product types of the Artificial Neural Networks market report includes: Google Inc. The application segment of the Artificial Neural Networks market report include: Prominent players profiled in the Global Artificial Neural Networks market include: Google Inc."
-    publishedDateTime: 2022-10-09T22:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-2022-top-countries-data-trending-technologies-key-players-and-geographical-regions-by-2028-2022-10-09"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+    quality: 46
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

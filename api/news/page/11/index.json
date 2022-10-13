@@ -2,19 +2,209 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
-      "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
-      "excerpt": "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, September 30–October 2.",
+      "path": "_news/2022-09-30-pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.md",
+      "title": "P&G turns to AI to create digital manufacturing of the future",
+      "excerpt": "The consumer goods multinational company, with help from Microsoft, is adopting the industrial internet of things, digital twin, AI, and machine learning to transform manufacturing at scale.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
+      "webUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html",
+      "originalUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/09/Vittoiro_Cretella_48569.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/408351/pg-turns-to-ai-to-create-digital-manufacturing-of-the-future.html/amp/",
+      "publishedDateTime": "2022-09-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-rcmps-use-of-facial-recognition-extends-well-beyond-clearview-ai.md",
+      "title": "RCMP's use of facial recognition extends well beyond Clearview AI",
+      "excerpt": "OTTAWA — Canada’s national police force, which was heavily criticized for using Clearview AI software, has signed contracts to use multiple facial recognition tools. The Royal Canadian Mounted ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.politico.com/news/2022/09/30/rcmps-facial-recognition-clearview-ai-00059639",
+      "originalUrl": "https://www.politico.com/news/2022/09/30/rcmps-facial-recognition-clearview-ai-00059639",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/39/539faa5b-05ba-50f3-b256-ad1e59a0d41d/63366bd136b5c.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
+          "url": "https://www.politico.com/dims4/default/7fd215e/2147483647/strip/true/crop/900x489+0+0/resize/630x342!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2F37%2Ff3%2F4b7681a8425090923ba713769b4b%2F20191226-facialrecognitioncamera-getty-900.jpg",
+          "width": 630,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.politico.com/amp/news/2022/09/29/rcmps-facial-recognition-clearview-ai-00059639",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/09/29/rcmps-facial-recognition-clearview-ai-00059639",
+      "publishedDateTime": "2022-09-30T02:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Politico",
+        "domain": "politico.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-the-problem-with-biased-ais-and-how-to-make-ai-better.md",
+      "title": "The Problem With Biased AIs (and How To Make AI Better)",
+      "excerpt": "Many AI systems can exhibit biases that stem from programming or data sources. Learn what a top AI ethicist says about how we can mitigate bias in algorithms and protect against potential risks to consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633680e9f575e0775e377afd/0x0.jpg?format=jpg&crop=2808,1579,x191,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/09/30/the-problem-with-biased-ais-and-how-to-make-ai-better/amp/",
+      "publishedDateTime": "2022-09-29T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-global-marketing-study-on-image-recognition.md",
+      "title": "Global Marketing study on Image Recognition",
+      "excerpt": "Image Recognition Market leaders and important players, competencies, and capacities of these companies in terms of production as well as sustainability and prospects. The Covid-19 pandemic favored the growth of the market due to a rise in the shift toward the adoption of technologies since most businesses implemented the work-from-home culture.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-image-recognition-2022-09-30",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-image-recognition-2022-09-30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
+      "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
+      "excerpt": "The new Win Probability Match Fact emphasizes notable swings in the chances of a team winning their respective match throughout the 90 minutes of game play. This new fact is based on action from the game,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "originalUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/56/556d7599-2b76-5991-9cd5-0d8f2eb26930/63366cb9d45a0.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
           "width": 800,
           "height": 420,
           "title": null,
@@ -29,8 +219,8 @@
       "publishedDateTime": "2022-09-29T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -277,6 +467,92 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-ai-tech-startup-spokesperson.md",
+      "title": "AI Tech Startup Spokesperson",
+      "excerpt": "Casting a spokesperson for an AI tech startup, producing a short 5 minute sales video/explainer video for the launch of their new product. Looking to contract a male between 25-35 who can record ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
+      "originalUrl": "https://www.backstage.com/casting/ai-tech-startup-spokesperson-2514399/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Backstage",
+        "domain": "backstage.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-why-ai-is-the-next-step-in-digitization-of-the-finance-sector.md",
+      "title": "Why AI Is the Next Step In Digitization Of the Finance Sector",
+      "excerpt": "And this is merely the start. As we move to the next frontier of technological discovery, and research and development, let us delve into the role of AI in disrupting the financial sector ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
+      "originalUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664428624-Myproject-196.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Finance"
       ]
     },
     {
@@ -889,283 +1165,6 @@
         "AI Hardware",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure.md",
-      "title": "Monnai taps explainable AI to build global fintech insight infrastructure",
-      "excerpt": "Monnai aims to use explainable AI to deliver a global infrastructure and power fintech decision-making at scale.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "originalUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1249306214.jpg?fit=800%2C397&strip=all",
-          "width": 800,
-          "height": 397,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/monnai-taps-explainable-ai-to-build-global-fintech-insight-infrastructure/amp/",
-      "publishedDateTime": "2022-09-29T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise.md",
-      "title": "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise",
-      "excerpt": "Amazon Web Services (\"AWS\") — continues to strengthen its service offerings in a bid to sustain its cloud dominance. The move to make AWS IoT FleetWise generally available is a testament to the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
-      "publishedDateTime": "2022-09-29T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-why-fintech-stocks-crashed-today.md",
-      "title": "Why Fintech Stocks Crashed Today",
-      "excerpt": "Fintech stocks are especially sensitive to interest ... This is especially true for Upstart, which claims its AI models are a new and better way to underwrite loans than traditional FICO scores.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
-      "originalUrl": "https://www.fool.com/investing/2022/09/29/why-fintech-stocks-crashed-today/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/editorial/images/702990/gettyimages-1142511318.jpg",
-          "width": 2120,
-          "height": 1414,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T07:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning.md",
-      "title": "IIT Delhi launch Certificate Programme in Machine Learning and Deep Learning",
-      "excerpt": "The Indian Institute of Technology Delhi has launched the six-month Certificate Programme in Machine Learning and Deep Learning to provide skills for learners.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/articleshow/94536998.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/articleshow/94536998.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/msid-94536994,width-640,height-480,resizemode-7/a84-pic-1-min.jpg",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/amp_articleshow/94536998.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/services/education/iit-delhi-launch-certificate-programme-in-machine-learning-and-deep-learning/amp_articleshow/94536998.cms",
-      "publishedDateTime": "2022-09-29T05:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
-      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
-      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2017/12/GettyImages-474395892-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai?amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai?amp",
-      "publishedDateTime": "2022-09-29T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
-      "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
-      "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ( (OTC PINK:ONEI). OneMeta AI and its cutting edge AI technology product: Verbum,  will be providing live language interpretation for over 50 International speakers and over 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

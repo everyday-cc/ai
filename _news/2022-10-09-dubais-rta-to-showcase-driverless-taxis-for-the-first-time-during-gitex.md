@@ -103,6 +103,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-10-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 57
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Commentary: China is setting the rules for driverless cars"
     excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
     publishedDateTime: 2022-10-12T22:09:00Z

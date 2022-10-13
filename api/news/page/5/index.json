@@ -2,6 +2,143 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-06-how-to-setup-facial-recognition-and-fingerprint-recognition-on-the-genesis-gv60.md",
+      "title": "How to setup Facial Recognition and Fingerprint Recognition on the Genesis GV60",
+      "excerpt": "At Autoblog’s Tech of the Year, Senior Editor John Snyder demonstrates the steps needed to set up Facial Recognition and Fingerprint on the 2023 fully electric Genesis GV60. Transcript JOHN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "originalUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off.md",
+      "title": "Miko Robotics acquires majority stake in AI chess startup, Square Off",
+      "excerpt": "courtesy of underlying AI, grabbed the attention of a jaded crowd of showgoers. This morning, it takes the next step in the startup lifecycle, as Bay Area-based kids robotics firm Miko announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "originalUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/KId-playing-against-AI.jpeg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "publishedDateTime": "2022-10-06T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-ai-powered-supply-chain-visibility-platform-altana-bags-100m.md",
+      "title": "AI-powered supply chain visibility platform Altana bags $100M",
+      "excerpt": "Altana, a supply chain visibility startup, has raised $100 million in a venture funding round, bringing its total raised to $123 million.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/",
+      "originalUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1281413327-e1657293225925.jpg?resize=1200,674",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/ai-powered-supply-chain-visibility-platform-altana-bags-100m/amp/",
+      "publishedDateTime": "2022-10-06T06:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-an-epidemic-of-cognitive-impairment.md",
       "title": "An Epidemic of Cognitive Impairment?",
       "excerpt": "Partisan charges grew so intense that Trump voluntarily took -- and aced -- the Montreal Cognitive Assessment. Strangely, the same Left arm-chair psychiatrists offer no such worries about Biden's ...",
@@ -1063,162 +1200,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-whatever-happened-to-those-self-service-passport-kiosks-at-airports.md",
-      "title": "Whatever Happened to Those Self-Service Passport Kiosks at Airports?",
-      "excerpt": "How often is the new facial recognition system used and how does it work? Around 85 percent of the 221,000 daily visitors arriving from abroad are now verified by face, according to C.B.P. officials.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/04/travel/oakImage-1664909585424/oakImage-1664909585424-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/05/travel/customs-kiosks-facial-recognition.amp.html",
-      "publishedDateTime": "2022-10-05T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise.md",
-      "title": "Preparing For Artificial Intelligence-Enabled IT Services: Machine-Induced Noise",
-      "excerpt": "and how to deploy artificial intelligence (AI) and machine learning (ML) techniques to identify and remove the noise. This article covers machine-induced noise. Before we get into that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/621f96c5064da803e2d507d9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/05/preparing-for-artificial-intelligence-enabled-it-services-machine-induced-noise/amp/",
-      "publishedDateTime": "2022-10-05T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-gatik-goes-driverless-in-canada-for-grocery-giant-loblaws.md",
-      "title": "Gatik Goes Driverless In Canada For Grocery Giant Loblaws",
-      "excerpt": "based company's driverless delivery operations. Gautam Narang, CEO and co-founder, Gatik “As of today Gatik is the first and only autonomous trucking company operating in a commercial capacity ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633c3e6abc7da697deb3ab3f/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/10/05/gatik-goes-driverless-in-canada-for-grocery-giant-loblaws/amp/",
-      "publishedDateTime": "2022-10-05T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

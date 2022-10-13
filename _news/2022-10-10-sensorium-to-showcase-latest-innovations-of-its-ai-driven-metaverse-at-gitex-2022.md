@@ -92,6 +92,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-10-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 57
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
     excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
     publishedDateTime: 2022-10-09T10:13:00Z

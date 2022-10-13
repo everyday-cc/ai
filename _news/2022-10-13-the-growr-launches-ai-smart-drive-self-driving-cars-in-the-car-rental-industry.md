@@ -1,29 +1,23 @@
 ---
 category: news
-title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars In The Car Rental Industry"
-excerpt: "The Growr, in recent progress, has announced the launch of AI Smart Drive cars in the car rental industry. is an innovation in the car rental in"
-publishedDateTime: 2022-10-13T07:38:00Z
-originalUrl: "https://menafn.com/1105013078/The-Growr-Launches-AI-Smart-Drive-Self-Driving-Cars-In-The-Car-Rental-Industry"
-webUrl: "https://menafn.com/1105013078/The-Growr-Launches-AI-Smart-Drive-Self-Driving-Cars-In-The-Car-Rental-Industry"
+title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
+excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
+publishedDateTime: 2022-10-12T21:17:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
 type: article
-quality: 34
-heat: 34
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?286606"
-    width: 375
-    height: 250
-    isCached: true
-
-secured: "mqvkuGMfVghPt8A6hOCVDXD38qKRHCCxdDGdyq13EyLvd2WJojQd4VhwRHi2gfJaZroYJ2cWefR/prEq3t9nWUx1jTl9NA6Led287VAV5QWXNsv8JeCCj24nGu2FXgZThcPM7GvpmAxTFCORGzyRT5jHw/IOSW9k4rC0FJ1HLdNcPyGBjHBH/8EWMqF8wDfHGnKjyEOqX5+jys+uLQNDXgf7J2za1e4Ig5B2G0SGgf42z96knRs9UAgqmH8AWI2SXYA21VnX0nzUu+mq41v0Am2xtmjS/1eYypfcCXYcceNfpnMjWfkRm8zWl6oVSHSe7SpJCbts3MDqM1q0dSii+DTPtUbDLuGajOfMWFSvqHI=;SktR+XGDOCEBqvTdUvx0Og=="
+secured: "QfO+kOuqJPpphNmEcknmCktL8kOqDW5+BsZAAoVHFCtnADxpcqwZ2t8D+YviKIol70fS4XqwrSeDsTxDJFWSTMh6DCGQW83Im+ZBQm76pfSB+JtM2X+REm2rhufx+VqCxpYM/plbdG1K5W58wahrTVzG03BaXN9SqE/GV/eV+cHBJKlWV/68eW44QV8HyOb86dNP5SyND+5QylVlr2a2awkXpnF1NXudsx/xfS25msc7NeVKg5mt7qD2e0AqCKJDXfLhNlQglAwQYZAcCNwQpJ/Ff72Qex1uFN1QdxoB63SFpbWsmkY5c2viC033P7BORCamxnr7SlgLUHS7kxIly9XHwQmSO5tFqvJqn5KIg+yVAQ+p/n/lZxR4lI23I3HrY7C+JbW5m2kgMPTklHiIqtvRsBDX3Qmh7NEux+mtPZSbWJLopbXgqNMJ7Qb/x3O13fmcepQKIrS3wN1thoVXEoZwWZbdQCtdaMSQRzIYMQw6mE4ozb54fX0zqHCOA7kWtYu21jOuCaP86BdKaqf4iQ==;l6b52DhuIc0KH2LpJ4MQog=="
 ---
 

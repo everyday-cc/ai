@@ -43,6 +43,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Many drivers treat partially automated cars as fully self-driving"
+    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
+    publishedDateTime: 2022-10-11T12:32:00Z
+    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+364/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-04/0ca8caa0-a3c7-11eb-bfbe-54c17eed3351"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Like Texting and Driving: The Human Cost of AI"
     excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
     publishedDateTime: 2022-10-10T15:08:00Z
@@ -66,15 +82,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
-  - title: "Many drivers treat partially automated cars as fully self-driving"
-    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
-    publishedDateTime: 2022-10-11T12:32:00Z
-    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
 
 secured: "By/3MQzza8vQ3w5XhbZUEQwbKW3VpYJMtTHRbO2H9eTH5HpFTQ2JqZR3nnqK6MTQy7+BSo/eDbfr6GjsbUwacoTbAfzV30iBfUjBkSi2jwWBdfU3dBlsKQxdRic31VcKeDEzAEVTS7E8Vk0GIRPuLeM80KJn/1i0zE74fecxUjQo/uiwwSXmUvVNY0IMvBDgme5NyBxK3GaaqjrQvQkWEAfFOGZIaN4c555gAyhfJrPE9rk7dSf5OZni0hxInjTgizW/3T2coNYYhwnt//HA0Jw1zFue9n5jRfCbthNVGZ5HAQxLfDrFO5o/J5ZQednMWH+70HIwbAdj+tTYo+js4dqfi/DEiJ//igVgaQfu6dLS2OErIMnmjxt03kkNE0pV5R3msl2iOB/kqmnj60hXXJOOT/Iwi52UOtg0Cfy8aeQpBGKSKAH+HOoSGLFrLln5z6106dsRgJdUz72QdYyRRzdPy3P6Ot5mD6WW+l8ExEy+4fICspl7EMdC6yAoOQEFWf+/5p+MV9Nvg7+5VeNsFw==;o53xqVx2pBDpaMzQKumO1A=="
 ---

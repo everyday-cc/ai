@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Many drivers treat partially automated cars as fully self-driving"
+    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
+    publishedDateTime: 2022-10-11T12:32:00Z
+    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/11/semi-autonomous-self-driving-misuse/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 44
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/crop/3500x1969+0+364/resize/800x450!/format/jpg/quality/85/https://s.yimg.com/os/creatr-uploaded-images/2021-04/0ca8caa0-a3c7-11eb-bfbe-54c17eed3351"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Many U.S. drivers treat partially automated cars as self-driving, says study"
     excerpt: "The IIHS study of 600 active users found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners \"said that they were comfortable treating their vehicles as fully self-driving.\""
     publishedDateTime: 2022-10-11T06:32:00Z
@@ -70,15 +86,6 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 33
-  - title: "Many drivers treat partially automated cars as fully self-driving"
-    excerpt: "NHTSA has opened 37 special investigations involving 18 deaths in crashes involving Tesla vehicles and where systems like Autopilot were suspected of use."
-    publishedDateTime: 2022-10-11T12:32:00Z
-    webUrl: "https://www.autoblog.com/2022/10/11/semi-autonomous-self-driving-misuse/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 4
 
 secured: "vgXVv0yWqDqbIhyBaxkn7P27gdf3i3nRZRbjj2CQmvs46ZT7O2A4nK7ZSv6sZT33fynEqpTULVkC0+eyKsV3rGJAeRWHYmKe8ITslRsM2PVur2f1z9jvm4jlwG1OPKpQwNZhsEBZzTHuFyv0NUeLCxB+z0BhoBPRjedNuvX2mVxNV1KB1acMVFThDSvdiGVsa4kZ7GzAGI4SktzvEDUjqqjVyeS4POWyBZe6vWkUSJj7Ln1Zv5FFaAOFcSahV/jD1f/7K0FUFVBo3qY1GSjvp1jHJy53old85594YKnO9BacO+G+fv8e80AelW0AIqD8SH6H7lHZTHy0zhvPIRC75DV7T7Crv2aXDSm0duYRCZg=;H5n9WiF++Jr9SmfqYkEvFA=="
 ---
