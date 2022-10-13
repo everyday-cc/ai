@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Stylitics Appoints Global Commerce Expert Richard Hearn to Board of Directors"
-excerpt: "Hearn brings world-class operational, product and marketing expertise to the AI-powered merchandising and outfit-styling platform Stylitics, the category leader in AI-powered automated visual merchand"
+excerpt: "Stylitics, the category leader in AI-powered automated visual merchandising and outfit styling, announced today that Richard Hearn has been appointed to its board of directors, effective immediately."
 publishedDateTime: 2022-10-12T14:10:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29236944/stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29236944/stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
 type: article
 quality: 1
 heat: 1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "KhU8ZiO1o4/w0bY4e73QFQC6hU4qRX62Zj96V4UHNd9gCNXLDSqDSDkbTHR9H2HfIRRyFbmyfUDTPtaEbt7PALhKA8zFCoKUQ59uhQb7QnIffPvwICK62Br2Ax9C2Z9UUU83uFjTYZAasWbF611SfM88zInU2eCLxuqNtrr/3OPL8kY10Ezi9Sc2ax6sE79vWSQQND4tFa1+hKbBcAqLr2B69/HwJlRi2w9H8Hxp6auc8MU2/IZEyhEOf+AeU9kH5LxPpiqSrcve+2Rgo+cbYlMoD7zlfUjipvx8vMtO2euHt0OD/m5cwn865tLJuZ324b2GlO8iZHprR4oftt1KzhEf1QF1EeOohwyErZ8UHi8=;E+g3h/oi3YUXt5PY88O79w=="
+secured: "PH0X6D+n/F3Whk/sa8mADKJSjwfPVr1RSy0Y0xjzZz0uEOtkbTElcl5dLvW/400S/kXSgsuuLBtDaKdc+rpfEIi7mX4t/ZCr+Nzlb+I/5jBjBQLwhkYHenczAbUEDzrcCjFfDCzfFe7SPD42SynW9nC+GGsYV2jhqC3zQNVXmpL9DKByNWA9pTlBsWduAL1/dGDIUsnrWpookjbSIRG9T+SmkRkgQzuP1Sedeeh7EpM3vo3bFZ1AYBU9arb1Vz5SDsXqW8saBaKnT334E/heIokUTXvLq98GIroWpwTD5P4xhEQTd1FjUEE2MT7z1GGYNR+NX0957/M8YCoGClVwaQgNZjA5B6pdKrvCxadH+Qg=;qXi0AbpeRvqaZH5mm3Gf8g=="
 ---
 

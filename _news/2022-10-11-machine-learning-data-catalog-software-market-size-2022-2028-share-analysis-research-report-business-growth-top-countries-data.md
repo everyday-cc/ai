@@ -279,6 +279,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Market Size and Share Outlook 2022-2026: Industry Growth Analysis, Sales revenue, CAGR Status, Future Demand and Developments"
+    excerpt: "The Facial Recognition Market Report 2022 Size, Share, Growth Trends Forecast by Regions 2026 Covers industrial updates, major key regions, segments with Product type, applications, and dashboard ..."
+    publishedDateTime: 2022-10-10T09:16:00Z
+    webUrl: "https://www.digitaljournal.com/pr/facial-recognition-market-size-and-share-outlook-2022-2026-industry-growth-analysis-sales-revenue-cagr-status-future-demand-and-developments"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 19
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/Ukraine-Kyiv-Russia-missile-strikes-AFP-1K-01-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Smart Irrigation Software Market 2022 Industry Size by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
     excerpt: "The Global Smart Irrigation Software Market 2022 report is a thorough assessment of the worldwide industry with the"
     publishedDateTime: 2022-10-11T09:18:00Z

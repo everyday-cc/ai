@@ -2,28 +2,59 @@
 category: news
 title: "An ornithologist, a cellist and a human rights activist: the 2022 MacArthur Fellows"
 excerpt: "This year's MacArthur Fellows include scientists, artists and historians. The so-called MacArthur 'geniuses' receive unrestricted grants of $800,000 for their \"exceptional creativity\" and \"promise.\""
-publishedDateTime: 2022-10-12T20:02:00Z
-originalUrl: "https://wusfnews.wusf.usf.edu/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows"
-webUrl: "https://wusfnews.wusf.usf.edu/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows"
+publishedDateTime: 2022-10-12T21:02:00Z
+originalUrl: "https://www.tpr.org/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows"
+webUrl: "https://www.tpr.org/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows"
+ampWebUrl: "https://www.tpr.org/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows?_amp=true"
+cdnAmpWebUrl: "https://www-tpr-org.cdn.ampproject.org/c/s/www.tpr.org/2022-10-12/an-ornithologist-a-cellist-and-a-human-rights-activist-the-2022-macarthur-fellows?_amp=true"
 type: article
-quality: 18
-heat: 18
+quality: 38
+heat: -1
 published: false
 
 provider:
-  name: wusfnews.wusf.usf.edu
-  domain: usf.edu
+  name: Texas Public Radio
+  domain: tpr.org
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/5d7d456/2147483647/strip/true/crop/2396x1258+0+45/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fmacarthur-fellows-22_wide-eeee3316b741cf293d828e9e822e4cc022dd74ca.jpg"
-    width: 1200
-    height: 630
+  - url: "https://npr.brightspotcdn.com/dims4/default/bcd3c61/2147483647/strip/true/crop/1024x576+0+54/resize/480x270!/quality/90/?url=https%3A%2F%2Fnpr.brightspotcdn.com%2F15%2F73%2F04e18f6b4150bee0190d46bac200%2F52421303615-865c4435da-b.jpg"
+    width: 480
+    height: 270
     isCached: true
 
-secured: "3d7C1a4suevjjL6CVhK2fN8dyIbE+AlXYAFhQEcvSUjLSNqNS+o0XQIDDfb1hx18CPVpVn8C85ARDyHuVvPJeN/ZZGwiDscUmsWXyfqnJiqzSOri4O+kJnPnJJ9QcpU+Gp9aVgwIl0jjRIY2BKqFe8NJBL7gub1zwOFiSEfxLhgztl9GWnjs1sH/LjRlMAhOsW+jKKyx33W0uyUeE+m2fjXEbrm7lDPhev+fZeSTbznqEhr1LtdsBUt+TX5wMEEXd9Gb8a8vfqAUxv6bgHggb23ly0eUWwbi08Pk5j0cm+9pxVR0N4DnzhGcBVSfspf6vrQukfaLp6WCLeg93wuJ5J7fS+7fO+8Y3ERmK5/TxGHdtk6KbvGaYnQPHMat/Q46OtU1T5qCfBp58l2zxNfdW81UqDKoNLK/q4Uu/4HEMJM1bQpA7B1hJ4BkgVZ5SHzBBf5/LN8AYk/P7gmTgUbZA+1bmYGLQOgIrHnvI0qLR34dMW/s15j7atOrxzrW3gaHsJL8Q8FFUVOld7xypgRINw==;qRgByrCHmb0xMISO5DeN7Q=="
+related:
+  - title: "List: The 25 recipients of the 2022 MacArthur Foundation ‘genius’ grant"
+    excerpt: "The program’s stated mission is “to encourage people of outstanding talent to pursue their own creative, intellectual and professional inclinations.”"
+    publishedDateTime: 2022-10-13T02:16:00Z
+    webUrl: "https://www.eastbaytimes.com/2022/10/12/list-the-25-recipients-of-the-2022-macarthur-foundation-genius-grant/"
+    ampWebUrl: "https://www.eastbaytimes.com/2022/10/12/list-the-25-recipients-of-the-2022-macarthur-foundation-genius-grant/amp/"
+    cdnAmpWebUrl: "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/12/list-the-25-recipients-of-the-2022-macarthur-foundation-genius-grant/amp/"
+    type: article
+    provider:
+      name: East Bay Times
+      domain: eastbaytimes.com
+    quality: 44
+    images:
+      - url: "https://www.eastbaytimes.com/wp-content/uploads/2022/10/macarthur.png?w=709&h=538"
+        width: 709
+        height: 538
+        isCached: true
+  - title: "UW computer science professor wins MacArthur ‘genius grant’"
+    excerpt: "The professor conducts research in natural language processing and joins 13 other UW professors who have been named MacArthur fellows."
+    publishedDateTime: 2022-10-12T16:42:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
+
+secured: "GyOWWoMJYBbD5/tL7rE7MSI3/V5geNFxwK+fv5BHng5dfAXfFn7aihpnXN7yoiPBTlpjTGDSJVdBwB5qjHCsFAeIypyfbVIuTlq3VH/cG7FVl0GCqJttFoD7JmsAdfuE5TI1xEQnD0ctNwNSPRteGK0ER/AyDelOfJQx0YmBssdUUJvdBZhdx9iGatC46pMcWp7WaGYy5oYsbeczwHBbwYQGAtApzWzp8zJDCp359fr/RJC4RK6TJ2r7y8sFRN4IF28W1VBdjl8jQCPF6pMX02bSPnZfUw0BWLLVR9tckLdPxhCwoCoC+XZ/D/hdoLw5faXRCRbQorhPbCts8tiFk8kBvzlmdcKb9BcxiYuK96M=;Cjdt1vB9s2ho7RajynnVog=="
 ---
 

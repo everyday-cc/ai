@@ -334,6 +334,20 @@ related:
         width: 476
         height: 210
         isCached: true
+  - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
+    excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
+    publishedDateTime: 2022-10-12T18:57:00Z
+    webUrl: "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 61
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg"
+        width: 969
+        height: 537
+        isCached: true
   - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "Nutanix (NASDAQ: NTNX ), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
     publishedDateTime: 2022-10-12T20:30:00Z

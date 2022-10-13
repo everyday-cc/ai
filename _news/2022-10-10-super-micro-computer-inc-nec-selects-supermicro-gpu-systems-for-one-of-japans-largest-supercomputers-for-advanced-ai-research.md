@@ -20,14 +20,16 @@ topics:
 
 related:
   - title: "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research"
-    excerpt: "Solution Adds 580 PetaFLOPS of AI Performance to Meet the Growing Demand for AI Training and Leverages Supermicro's Extensive Portfolio and"
-    publishedDateTime: 2022-10-10T13:12:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-1031793177"
+    excerpt: "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ..."
+    publishedDateTime: 2022-10-10T13:16:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29201236"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 71
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 59
     images:
       - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
         width: 400

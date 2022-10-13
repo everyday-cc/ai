@@ -319,6 +319,20 @@ related:
         width: 476
         height: 210
         isCached: true
+  - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
+    excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
+    publishedDateTime: 2022-10-12T18:57:00Z
+    webUrl: "https://sdtimes.com/microsoft/microsoft-ignite-22-microsoft-focuses-on-employee-engagement-developer-innovation-among-others/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 61
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg"
+        width: 969
+        height: 537
+        isCached: true
   - title: "Welcome to Microsoft Syntex—Content AI integrated in the flow of work"
     excerpt: "Microsoft Syntex is Content AI that’s integrated in the flow of work, helping enhance, manage, and connect your content at scale. Learn more."
     publishedDateTime: 2022-10-12T16:23:00Z
@@ -526,6 +540,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "2BIwpcnoNj3pH94ecCUhE+ZMo+tLVoHl/xOp5OKIEZePcs3FKzUnMAsjSe8xYd2NSYpz/M6Wch2/nZW4CquGTCq0vchGAba+l3pOdGLadmIGLMLTEkpDATsv/XOGaYy1R/LighJyto56OUoL/plHhxWa//Jzv4LgxbQaSm4XfQosqFIHyF9i/nmdzZJcsxBtqfgGUbJCrB+e+5C7Yu0fPJ9QYVYcEEw1DNdfgRnSZU5/or++MFWafowUPDU3DMO/AbcqXGey2lMGfsCmQ3Y5kW7xuDSCXRk+uFzpDCpAET7Del2lb3KWF6Ob8JyVPFcFT5ADnQY0np0Onw4kGJKkruwxHunm5mRwb+NKpdipFQ8=;3G6ua8KItKZA6aQUB79xCg=="
+secured: "nt2ME+/5VJHFo5C6XObtrmg5LlBvJqqiU6oYJWOUSOhMJc1npXeysinvloVL7q9SaQB4tAqkZLT2fYZVE6vi+cZU2dcCU1X5t/E+G7CWWaGzZjGrM6BFMhf5wqqmqkD8DLHLx4Ng7Qdsus7SgCTYkms6YwP4l9QL+WCKPdj3uo19EZua2/3CqSQj9Nn+iRN+4BLfceDU0hMC45xVU8OUpwjr6D7DXUBXWVU7ThMQFKo8Hek2/XBlnJByA43ohbQvFhBdEOrs8kuwmYELLJp5o2df+MPaDlHQD/SnwFUcuCQZWD6XV4/ilpdHY5w6DvGhaozbuSCakcRGgrB90/v16sxpMfJORcW2Z3OYh0yEUpvLfRS3ywuLriOQ6YHr+aOG0rW9HWPQSwvNBcy68dcg3N/NuerkA7OadbQhpPj5+S7JdF0ldnu3JJF1r/iZ+w09vllykxG0araz1r+ZmTziry5OM7oi297stBc0K7mDJWO0cUqz2femE3NmsKa0Uc0HBkxSPJX9yxLM4DWczcteqw==;SwUCjGDbJZm/IrvwOFlGwA=="
 ---
 
