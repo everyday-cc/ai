@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T08:22:00Z
 originalUrl: "https://diginomica.com/robots-hit-road-show-uk-manufacturing-way"
 webUrl: "https://diginomica.com/robots-hit-road-show-uk-manufacturing-way"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Diginomica

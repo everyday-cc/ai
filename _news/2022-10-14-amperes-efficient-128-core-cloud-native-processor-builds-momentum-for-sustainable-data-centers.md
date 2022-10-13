@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T18:12:00Z
 originalUrl: "https://www.forbes.com/sites/davealtavilla/2022/10/13/amperes-efficient-128-core-cloud-native-processor-builds-momentum-in-sustainable-data-centers/"
 webUrl: "https://www.forbes.com/sites/davealtavilla/2022/10/13/amperes-efficient-128-core-cloud-native-processor-builds-momentum-in-sustainable-data-centers/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Forbes

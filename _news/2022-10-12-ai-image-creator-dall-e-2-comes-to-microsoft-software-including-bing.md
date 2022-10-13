@@ -275,6 +275,22 @@ related:
         width: 913
         height: 651
         isCached: true
+  - title: "Microsoft will launch an AI graphics app powered by DALL•E"
+    excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
+    publishedDateTime: 2022-10-13T19:46:00Z
+    webUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/"
+    ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
+    type: article
+    provider:
+      name: archpaper
+      domain: archpaper.com
+    quality: 74
+    images:
+      - url: "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Microsoft's Seeing AI app can scan the boxes of Advil, Theraflu and more to read out details"
     excerpt: "Microsoft's free iOS app will read out detailed information of products like Advil, Theraflu, Excedrin and more, so those with visual impairments can more easily learn about them.."
     publishedDateTime: 2022-10-12T23:35:00Z
@@ -507,6 +523,15 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 36
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T19:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 32
   - title: "Informatica Extends Microsoft Partnership to Help Enterprises Operationalize AI"
     excerpt: "By bringing the end-to-end data management capabilities of the Informatica Intelligent Data Management Cloud (IDMC) which includes data ingestion, analytics and governance to augment the Analytics, AI/ML capabilities of the Microsoft Intelligent Data Platform (MIDP),"
     publishedDateTime: 2022-10-12T19:00:00Z

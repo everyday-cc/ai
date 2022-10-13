@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T19:37:00Z
 originalUrl: "https://www.benzinga.com/general/22/10/29260096/is-artificial-intelligence-ruining-art-two-ways-to-make-money-off-other-peoples-art"
 webUrl: "https://www.benzinga.com/general/22/10/29260096/is-artificial-intelligence-ruining-art-two-ways-to-make-money-off-other-peoples-art"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Benzinga.com

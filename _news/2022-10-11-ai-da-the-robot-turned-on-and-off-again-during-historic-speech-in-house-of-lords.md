@@ -51,6 +51,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
+    excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
+    publishedDateTime: 2022-10-13T21:33:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "QoqsjsBewM+VZ58oggK0cXmK9x3Vh7wtoRFf0WKJToWbeSZ/6cSyQH27IXto87VOeFKk9KQ0yIu2K/KCmAbLMeovvSbfD+7q4lUXp+XPIxFR5sWNeKx/nV3ox/QwwW449u3MsYZcd62glZD8Ss7MC9J7/PMOtsseMalj8YZxI44SPR458C4yvYxC/d3T6f62dgzbW10ARZ5N4wVnnqNXIgxwnqqLyYANzwOv0flulkvCOfHnZbTyeq2ESehhDqm0eCRjc4WnY1duL5wkZSbU7EgokofB6vZo7nhyEXD3KybIaZF+okFB9cTYDGZwityYxYO4fDDHz23aotPp4SK0bh1c9ASq27/4/YeXSJlGnKIoZJtMOv44BGh8oIaoQFDt468ylEwwIeM06k+N3waUPa0mXeU58i1U91uMZtQ6UYauzGFNO+Y5RrHo87m1OSK+rgcvSl3/qoNnoe1F/NuhofheUFU+4rRx1v8OSOlUy+t16BIR/fJVaUkLPBV0hebZZEQydFABIq8exBBxGsh0Nw==;x1J+a8PekbopfzYXvmRLLw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T17:46:00Z
 originalUrl: "https://ijr.com/self-driving-evs-still-suck-basic-tasks-100-billion-10-years-promises/"
 webUrl: "https://ijr.com/self-driving-evs-still-suck-basic-tasks-100-billion-10-years-promises/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: ijr.com

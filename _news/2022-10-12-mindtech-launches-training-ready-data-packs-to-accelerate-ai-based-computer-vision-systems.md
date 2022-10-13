@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
-publishedDateTime: 2022-10-12T09:00:00Z
-originalUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
-webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
+excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when… | London | Technology |"
+publishedDateTime: 2022-10-12T09:03:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: realwire
-  domain: realwire.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.realwire.com/twitter_writeitfiles/Mindtech_Logo.jpg"
-    width: 600
-    height: 315
+  - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
+    width: 1200
+    height: 627
     isCached: true
 
 related:
@@ -41,7 +41,16 @@ related:
         width: 600
         height: 450
         isCached: true
+  - title: "Tifin launches AI-powered investing assistant"
+    excerpt: "Tifin, the fintech platform known for Magnifi, it’s award-winning investment marketplace, today announced the launch of their new premium subscription Magnifi Personal, aimed at helping investors without enough time or knowledge to build and grow their portfolios with intelligence."
+    publishedDateTime: 2022-10-13T18:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94454/tifin-launches-ai-powered-investing-assistant"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
 
-secured: "G+DarxOrp9z2TuiMs7L1mVA5ZrodrFqn9klWkL3tEpb+yWt8sO2XlmORmVU53281M55deNKnx82XAZf1KOfzAr7G6jMXNqi6TqgU8dIv7nVa9kyk1C/JEJtFUftkfyaysSMlkxcMl4eXBEbHPYEPKIqILn2g/a7hMFkVwXuHNElSoZLvESlHfAYLTMmenyi0L9oRkIm7pDTE2ia0ShAkDcLo0ksrppDDqhh9+mxj2oHVVotFu4jotkig9K4Hv0kSxJl7rKqz+ymL4eXNjdrI++t7pWnzTYoT+/ZRZ+NcWSVnUosg7VzW8sKkTQSnaEvhZACZRVHjnQMSds3cuuwLeLi+dDmE43voaF447X+Hqwm3Zk8IoxZUXWnwVBRP6XU6sDJ/U2myWxKREaq9uGczhdghaB5rGx+YUWZlNUvRpF3EXlei+z4m0VmtN6bpGW6Vus2wZgjoXgN+TPaVQOGgl7Vn8LGRJd0DPhdNH0lpPbZBdQZK554obF8RDl46GTxqLkFISPok5oqLIUrJFqB69g==;VhnphuwsLkkAdcp3OP7T1w=="
+secured: "3g7AoiNAOiu1felr7fqYEwEuOewuL8VWxnPglrRdeAj/BGZXO8e1CPOfjljdDVf+M0BqBkZ1LG5WYgbMjRD8rthKmtrpHiMf3L+2j3koMyA4hjrvCmiea/mpdTFtSNWnvOTqt9BMtL7g9Z2+qjAcrIRIsPdjkGenUoeAhZknu9gb6HMJXdQNIVDBqFcg8vqak2stUI+eo33HNJECVW/RYYdGValNe7ZUbjG4BftOPbDSqiq8nAQl7dq44YUr1BOMlqDSS7Vx8Y8IVphrpo9/j2KUuxqzJx5iL4yNsGA+bhmO4gWTHK7ZzwZkhW53l/P3Go/jFd8wT6TUNjtA/73gJoVB+A0YTM1K8qoV34lVWVs=;6PWr5IhQZ1No1/QalbyNAA=="
 ---
 

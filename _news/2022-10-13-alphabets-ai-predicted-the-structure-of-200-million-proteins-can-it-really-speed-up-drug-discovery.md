@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T08:30:00Z
 originalUrl: "https://www.statnews.com/2022/10/13/can-alphabet-alphafold-really-speed-up-drug-discovery/"
 webUrl: "https://www.statnews.com/2022/10/13/can-alphabet-alphafold-really-speed-up-drug-discovery/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: STAT

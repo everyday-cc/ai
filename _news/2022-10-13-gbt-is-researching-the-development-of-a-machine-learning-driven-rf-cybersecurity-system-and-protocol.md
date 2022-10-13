@@ -62,6 +62,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 5
+  - title: "GBT is Researching the Development of a Machine Learning Driven, RF Cybersecurity System and Protocol"
+    excerpt: "SAN DIEGO, Oct. 13, 2022 (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”) is researching the development of a machine learning driven radio frequency (RF) cybersecurity system and protocol. Typical wireless ..."
+    publishedDateTime: 2022-10-13T18:44:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9691887.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
 
 secured: "4Y3l80dp6A0veaDgJ+GZAgZ4nICQH4xVi3EnNm9V2hNKZ3lJpwZ22SAyXjCYpbH9Mp826711xVUgeBLBKQJGERr2zRExB9pF02WU6e12eFdooZlpOxFwHVLTzCvdvei1brgOG9F+ZYDVrRFp5np/gbsIbuMwqV9zlC2m0RL42j214Zu5nleGHM+8fhI2iPDwFJ3KTtkYHaebVGv5LsqYM+8qFLRllfMG3LLgOzuGRK/RcYsuNO+Ac2iWaSekmn85d9eGKDax/dsbp+44KLd1AjUCAewyDaZTIgSmNod10hVXMchQemG8tv+/a/5wGqo2UIcr7OTO49x2OllwfmiOZtUsEupqaJgrtjmntoITats=;HHnejzmLuFzOUrWkQo7hUA=="
 ---

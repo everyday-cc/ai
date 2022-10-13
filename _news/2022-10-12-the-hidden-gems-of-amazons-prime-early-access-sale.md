@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T09:57:00Z
 originalUrl: "https://www.myarklamiss.com/reviews/br/home-br/the-hidden-gems-of-amazons-prime-early-access-sale/"
 webUrl: "https://www.myarklamiss.com/reviews/br/home-br/the-hidden-gems-of-amazons-prime-early-access-sale/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KTVE

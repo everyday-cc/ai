@@ -2,6 +2,205 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-14-eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online.md",
+      "title": "Eyeballs and AI power the research into how falsehoods travel online",
+      "excerpt": "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "originalUrl": "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/1b7c153/2147483647/strip/true/crop/910x512+0+85/resize/480x270!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F13%2Fgettyimages-1228773157-4--5a86bfff5ba9c5b49a365f1af999b49416a0f0af.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true",
+      "cdnAmpWebUrl": "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true",
+      "publishedDateTime": "2022-10-13T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WLRN",
+        "domain": "wlrn.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-google-pixel-7-hands-on-more-camera-ai-premium-design.md",
+      "title": "Google Pixel 7 Hands-On: More Camera AI, Premium Design",
+      "excerpt": "The new Pixel 7 has improved camera AI and a fresh design. Ahead of our official review, here's a quick hands-on take of what's in store.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6346a1551609bfa6c4de06b1/0x0.jpg?format=jpg&crop=1995,1331,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
+      "publishedDateTime": "2022-10-13T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later.md",
+      "title": "DeepMind breaks 50-year math record using AI; new record falls a week later",
+      "excerpt": "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-matrix-math-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker.md",
+      "title": "How Amazon Search runs large-scale, resilient machine learning projects with Amazon SageMaker",
+      "excerpt": "If you have searched for an item to buy on amazon.com, you have used Amazon Search services. At Amazon Search, we’re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/05/architecture-conceptual-1026x630.png",
+          "width": 1026,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T13:39:06-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
       "title": "Here's Why Machine Learning Benefits Biz Developers",
       "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
@@ -415,7 +614,7 @@
       "originalUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -667,7 +866,7 @@
       "originalUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -865,7 +1064,7 @@
       "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 499,
+      "heat": 519,
       "tags": null,
       "images": [
         {
@@ -1061,205 +1260,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-57m.md",
-      "title": "Continue AI aims to add ESG intelligence to sustainability, lands $5.7M",
-      "excerpt": "Continue AI today announced $5.7 million in seed funding to provide ESG intelligence for companies to create meaningful change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "originalUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354356302-Fritz-Jorgensen-e1665583446575.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "publishedDateTime": "2022-10-12T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-fighting-climate-change-with-ai.md",
-      "title": "Fighting Climate Change with AI",
-      "excerpt": "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "originalUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633b3b9843f9a94be890d208/master/pass/GettyImages-1347310502.jpg",
-          "width": 3840,
-          "height": 2160,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp",
-      "publishedDateTime": "2022-10-12T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.md",
-      "title": "Microsoft's Yusuf Mehdi: If customers want a particular chip, we will support them",
-      "excerpt": "Microsoft CVP Yusuf Mehdi joins 'TechCheck' to discuss Microsoft's collaboration with Intel, the use of cloud and advanced AI, and the offering of chip choices for customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107133320-16655890161665589013-25962498727-1080pnbcnews.jpg?v=1665589847&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required.md",
-      "title": "Toyota and Lexus cars to get AI-powered voice assistant, no internet required",
-      "excerpt": "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/10/12/1600x900/TOYOTA-INVESTMENT-0_1646050256447_1665573668818_1665573668818.JPG",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html",
-      "publishedDateTime": "2022-10-12T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Auto News India",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

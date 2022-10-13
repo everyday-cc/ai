@@ -10,7 +10,7 @@
       "originalUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -148,50 +148,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing.md",
-      "title": "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing",
-      "excerpt": "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
-      "originalUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1",
-      "publishedDateTime": "2022-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI Hardware"
       ]
     },
     {
@@ -1507,6 +1463,40 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-09-22-falkonry-unveils-gpu-based-high-speed-time-series-anomaly-detection-application.md",
+      "title": "Falkonry Unveils GPU-Based, High-Speed Time Series Anomaly Detection Application",
+      "excerpt": "Falkonry today announced an automated anomaly detection application called Falkonry Insight which operates on high-speed sensor time series data. Insight is the newest addition to Falkonry's Time Series AI Suite to drive higher operational reliability and yield,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/09/22/9679188.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-22T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

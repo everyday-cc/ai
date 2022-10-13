@@ -39,6 +39,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "US restricts chip exports to China."
+    excerpt: "US expected to proceed with cybersecurity labeling modeled on EnergyStar. Transatlantic data sharing agreement could face pushback. US restricts chip exports to China. CISA chooses not to share industry feedback on performance goals."
+    publishedDateTime: 2022-10-13T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/4/197"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2022/Policy-22-101322.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
 
 secured: "cNnurwpqBxw39kVlw6B7f5BNmO9r75rSw8MNlUemvs5JL6T/bDDuEQdZ0XXmkp6TwNeSH7Ap+FKhPUuRFLAjb2kjSM+UlqpMJNb5R6udofv80romFgM2B5/n3PTj1Q6f3ppa/26ep9RAJ6wc2WEmetGJdt5yfMi5PA9Zm0dvudKfbESU52YY0NVRr8LSkTvCqj/12pwgbwZvPbgMclFL45VXpqGPtIjVR1mhwd8e61RxRkUpb+SiZ5aim9D22gEa7VYHV5sp1mqxMCk+NLI1XGIEfV+BU5/SZS5abvyQbqIHJo9MRBuGM5A1IyfmtBn2aN9aSD/4Gx5xa8HxtRCeGCSX+yrFdjat8XtC2mCNimfD0iGVxxVm1YbKjaNWmDEHvXHRHPFHZYFpc6B5dZdIuLl4OlkNYQeuPvKSVcP+dcmnJS+fVAoq+pXxTt+DpNoh3HoRgJfitlugAue2h40xmrudYB1s+dj6sQ1qiuAtSYxoiqIY4VSZzlh6kOpq2GSFPASyRxU87M1YegLwpWTBbg==;vOxzkzdQ51gmmpyEq5waCQ=="
 ---

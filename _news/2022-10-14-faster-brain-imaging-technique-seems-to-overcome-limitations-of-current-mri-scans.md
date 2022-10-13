@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T18:01:00Z
 originalUrl: "https://www.statnews.com/2022/10/13/faster-brain-imaging-seems-to-overcome-limitations-of-mri-scans/"
 webUrl: "https://www.statnews.com/2022/10/13/faster-brain-imaging-seems-to-overcome-limitations-of-mri-scans/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: STAT

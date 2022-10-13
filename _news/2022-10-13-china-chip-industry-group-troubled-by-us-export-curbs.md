@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/world/china/top-china-trade-association-ch
 webUrl: "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "China’s chip industry set for deep pain from US export controls"
-    excerpt: "Two years after the US hit Huawei with harsh sanctions, the Chinese technology group’s revenue has dropped, it has lost its leadership position in network equipment and smartphones, and its founder has told staff that the company’s survival is at stake."
-    publishedDateTime: 2022-10-09T03:25:00Z
-    webUrl: "https://www.ft.com/content/e950f58c-0d8f-4121-b4f2-ece71d2cb267"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "China chip sector shares tumble on U.S. export curbs"
     excerpt: "Shares in several Chinese chip companies tumbled by up to 20% on Monday after the U.S. unveiled its toughest curbs yet on Beijing's tech ambitions. Chinese companies from semiconductor equipment and materials makers to AI chip developers are bracing for the impact of the new rules announced on Friday,"
     publishedDateTime: 2022-10-10T04:58:00Z

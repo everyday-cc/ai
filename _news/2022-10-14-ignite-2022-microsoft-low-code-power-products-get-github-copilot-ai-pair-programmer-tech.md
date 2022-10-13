@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T19:04:00Z
 originalUrl: "https://visualstudiomagazine.com/articles/2022/10/13/ignite-power-platform.aspx"
 webUrl: "https://visualstudiomagazine.com/articles/2022/10/13/ignite-power-platform.aspx"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: Visual Studio Magazine
@@ -14,7 +17,14 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - Natural Language Processing
 
-secured: "2qGOpH9kZhRYB58uEtdam9/rjL9ZA93y/mofK9THPq3c2ekaBs073V2ROANEEMktGNE/nfL5hX2jAKfgqgMPJpSt7cD9LRv6Xq1ct7H+nvYTTO06brudgsZxApKAyzNFkgUS0TLPkun39DxrqQF2qh8SXuX9foz4IRMUFnblPfR2sgag9RsAVeErIVRphy1Uxgi41+uNZBwAhFwXTM/yCwwkFVVVipfsK0BE57fhvDgwEOsGrr11sUWXOzj5kVE7q6GTm0yCooHuCu/6Y8/oPMHbnsaGH1QN4ZrBQXkHJd8PK/3PpT0BEmdj93vakUV6GA8eVzL6ouH8vY8nAthvqc8G1J+Zxh/KKsUw8xyRltAyjidT9+GUajYeImSpgSmsBiPse0DmOcyIwIXwhBVIidmxZcAtozYgccuPU1B5Ajb4v1SSYvtLZ/bizdsx3JrafhM/jY+QKHgqm8USAZxzE/lcDy061EtSLXOL39w0yl+xhOfag8aV+1yBnnJslfjNVvrju9NZrBMBWY2bGtpHug==;pWuOoCc44LgTvuJhvXCGJA=="
+images:
+  - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2016/0516red_RedView.jpg"
+    width: 647
+    height: 450
+    isCached: true
+
+secured: "HVxayv4sbeKAn+mu0pw5H37pQu5mbUO3TzHu0gNW5BY65afEkYkO8MHxDKZcLoMTB4F3BQv2/VIPPZFXFBhBZg/FYkmlpKBfsR0gYBMwgU67Wv6ym6exLXJZlkXFiQn6p4jTaDNpmKrLGHejRnWQSyuZRONPvezo1yBlx+ccyo6p9fOWn3cHEjAbUwHDI4tEmEZn+3U0LTv9RHvklC9zywiExruZFkPQZTyBSf0AqBY1ebA8fxDr1omcveWFKX9DMKiZ9T4LAuS83gVUj3Y368CkoBqRhLxxqeoM26DyNsnGPJgpnmmBlxcSjIPWZhYHbt6N7zFci5oKct7nLtBdTzEH+rSdAgBtXFQQyfuBB5E=;sn/kQlLXMJcaemhHyAaJRA=="
 ---
 

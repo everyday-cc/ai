@@ -15,6 +15,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "MS/0cJtNANV+wFhbXdNakfiTdkxOFgHzw8JPvWj+dfW8kzNMpjf8VfoJWw3TiWcZ0GWofzZHjoT+YQp5usJT/brlKJN/iYdgOc3YHwx/Rj1Xe+0z9NvJBREUaGqqNNG1KCd2Tx78hwq1r/fpD6RDFAddopwCYQmGBMC1MqGDog0/epH8moKkoxt2WtyVKOyOdur+8uiJoBps05dV5IxRBKIyHPTXg8OeMKKXuP/o8hLnn8ykpfxjPnsumMG57PuUjqRb3MSCrhnYagM7nzLelnyixlcEelQ1kMos4bnBopAFbdlL91WOi+Z56GivvfsTLHCGoTO3Md5JJrvMCV528Pz/b43dT4KvAa5cDgDBvAg=;/vvoZ6xxapw3k1hwhrwJSw=="
+images:
+  - url: "https://media.wired.co.uk/photos/63408807c355476fe206deed/16:9/w_1280,c_limit/Bollinger-Champagne-Featured-Gear.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+secured: "aOv4epGjFnVMezAa888+4yu/m1L7/dfAacwxw7xNkzLDGgA07nUd8R6s2af9gChgyIz4FVHabdIAYoFSiuBZWtwPRyay0f7Du71DZ35aNRnYcDbMax+ENdizLJt0ZmJmTAnLvT81aRPWkj8Iaen0zo/9uYd/YNhnpD2485TC2zBqec2cFyjxfC7j/3Bp0rshYAPM6w/3KeFIBfuNAgmMgWF3JxDot/HAmOkUA0oHWase0npksYbfhauiPZxINaRuHJHWJgKODrElT2VfxWwacs/IS2TMdN5Wbgjp7+QYUAYCE/QqGdYquycGo0vDBDIW7FLPt9nyv4T+DKb7IEGUOngVXVQkVf/TzvVqXKA52vc=;D/3DYBDTUH8QC1rNr+F/8A=="
 ---
 

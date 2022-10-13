@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematic
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
 type: article
 quality: 75
-heat: 95
-published: true
+heat: -1
+published: false
 
 provider:
   name: Singularity Hub
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "DeepMind breaks 50-year math record using AI; new record falls a week later"
+    excerpt: "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step."
+    publishedDateTime: 2022-10-13T20:46:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 99
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-matrix-math-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "Humans beat DeepMind AI in creating algorithm to multiply numbers"
     excerpt: "One week after DeepMind revealed an algorithm for multiplying numbers more efficiently, researchers have an even better way to carry out the task"
     publishedDateTime: 2022-10-13T14:37:00Z
@@ -42,15 +56,6 @@ related:
         width: 1200
         height: 799
         isCached: true
-  - title: "Mathematical formula tackles complex moral decision-making in AI"
-    excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
-    publishedDateTime: 2022-10-10T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/967384"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 19
 
 secured: "mPvG5C86KAMuV61202+5niRVeXP/wT7ZcqqlxtbaQrbL8S/p6WZbzhSXI7gm1O97UqkJ2gUooJtCvpVG0S1+REyXtztmfBpWCvJJUvntLaoZJhJyYMv1jBSKtiJu/0iz4AzHR92/aVfsc7rsf8q/s5dYxTFSdPc8RFyzo3WZCvbP2vaJddQFpjhf+kqWkXms57ZWsOY0bMtTMERNtwYT/3/pHIox2bQsoK6IRRdqlTJWZm+sdCpGmu9+WKq1HGQwKYFKxaGcIGQIIwIY2NSTvqPb85uAfmxGC6Or6C4juDseeGIhznoC/DdVhT2UC4U3XAWAztHbehti111E0jdEHh+EHO+pA133ygSi7CL3juowWuDbFywGAjuQAtpBjICFdAIs8PB2euf+7VLJD4COcb0iRa43lv0/fyQs5AuFWHT+Y/IbuOgonjQyPzxShw6jzEMi57/Sv/UtdFVkAXf9xaiVbaBgk6UIxwChPWunshYa3YzdWYN+zenSU4XJSpNmfa/zz0NKG5XOO+DDY9S9xw==;DWF2YbzvzyE7WiOYURHQhg=="
 ---

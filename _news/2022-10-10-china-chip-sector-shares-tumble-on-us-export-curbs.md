@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "China’s chip industry set for deep pain from US export controls"
-    excerpt: "Two years after the US hit Huawei with harsh sanctions, the Chinese technology group’s revenue has dropped, it has lost its leadership position in network equipment and smartphones, and its founder has told staff that the company’s survival is at stake."
-    publishedDateTime: 2022-10-09T03:25:00Z
-    webUrl: "https://www.ft.com/content/e950f58c-0d8f-4121-b4f2-ece71d2cb267"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 54
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "dnzXIjKIorhSIGqlM4PgTlp0f6exrPHp6hP9ncYaksUNBW/75FGaIuHn+dPQ4KPDwpkEwUtOXg+yvkFB/xFe50hQW17dj8BqSsFZYic8rVZvEppZswgK60MCUWbHXyoodTn/dvg+6GIoxsAQMusUfBZTrYp295UG2tnjYWkpTcguXSKeN9SL1xKp45+ZRYIehRINmi8QIZ/e+G5fexDpDfMzrtLDux6/USeFlzL3uNLXolXLvOdW8G2IHqb3mxe/FJKqh2RivRdxxE73iY7CrBhmuK0/LTPmk9f0hTdXRmPaSpbFEXXcYNCf6Z4rwXgftvnPBiI5jpylAWs+xIMZ5fkPseWf4Dh6ptko0drHNwg=;p/R5lSgtJWDV0RLBgb8umQ=="
 ---

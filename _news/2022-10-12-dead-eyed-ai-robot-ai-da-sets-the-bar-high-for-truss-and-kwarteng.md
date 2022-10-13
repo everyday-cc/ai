@@ -47,6 +47,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
+    excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
+    publishedDateTime: 2022-10-13T21:33:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
   - title: "Ai-Da the robot turned on and off again during historic speech in House of Lords"
     excerpt: "An AI-powered robot has become the first to give evidence to a parliamentary committee after appearing before peers. | ITV National News"
     publishedDateTime: 2022-10-11T16:39:00Z

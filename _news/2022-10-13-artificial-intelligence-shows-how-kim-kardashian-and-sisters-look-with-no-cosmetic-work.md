@@ -35,6 +35,15 @@ related:
       name: Metro
       domain: metro.co.uk
     quality: 6
+  - title: "Artificial intelligence reveals what the Kardashians would look like without all their cosmetic surgeries"
+    excerpt: "Artificial intelligence technology is being used more and more and in many situations it is used to see how people would look with the passing of time or by removing aesthetic touc"
+    publishedDateTime: 2022-10-13T18:36:00Z
+    webUrl: "https://www.marca.com/en/lifestyle/tv-shows/2022/10/13/634866c0268e3ec51d8b4567.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 0
 
 secured: "L+5/A4rY3ucUsYuKTggRYS2GA49d1jJQyg5/lQ2QVFyXskfiCqTBR3UgAwdAGuh1NG/Xzufq4ArD+mn9J5Xi1YD6r1nA3hL2DBaoGOItkBACik2ZVPmPk/VLMb/3iK2FrDKYSnANmUROl9Crs4yzJdcXnBo9GamGc5G9TZtTSK07HVe+msnHjPewn8fjerBvaNzL80qGMkcd4uttrs/O//FBZkQ9ogqdkzZfJaBJG6DToo197tB6nOTfIrWZmfwCewxHOg2eIiLpe2OSRWrM2Aobb3btLVG2MX/4D0QBq0DyRfQ1OcX2M3a+g+Z8dCa2YmIpu4McdjNTcmRvJMhEtb0WkfkM6xBIdlHE79WJOYs=;0oDqHyeerSZMxjo9m3qoaA=="
 ---

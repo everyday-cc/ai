@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T19:56:00Z
 originalUrl: "https://www.govtech.com/education/higher-ed/professor-wins-genius-grant-for-ai-to-learn-implied-meanings"
 webUrl: "https://www.govtech.com/education/higher-ed/professor-wins-genius-grant-for-ai-to-learn-implied-meanings"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Government Technology

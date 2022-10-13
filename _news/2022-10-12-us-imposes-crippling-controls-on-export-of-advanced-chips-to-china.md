@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "US restricts chip exports to China."
+    excerpt: "US expected to proceed with cybersecurity labeling modeled on EnergyStar. Transatlantic data sharing agreement could face pushback. US restricts chip exports to China. CISA chooses not to share industry feedback on performance goals."
+    publishedDateTime: 2022-10-13T19:45:00Z
+    webUrl: "https://thecyberwire.com/newsletters/policy-briefing/4/197"
+    type: article
+    provider:
+      name: Cyber Wire
+      domain: thecyberwire.com
+    quality: 39
+    images:
+      - url: "https://thecyberwire.com/images/social-media/policy-briefing/2022/Policy-22-101322.jpg"
+        width: 2640
+        height: 1320
+        isCached: true
   - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
     excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
     publishedDateTime: 2022-10-10T10:53:00Z
