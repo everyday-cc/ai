@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematic
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
 type: article
 quality: 75
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humans beat DeepMind AI in creating algorithm to multiply numbers"
+    excerpt: "One week after DeepMind revealed an algorithm for multiplying numbers more efficiently, researchers have an even better way to carry out the task"
+    publishedDateTime: 2022-10-13T14:37:00Z
+    webUrl: "https://www.newscientist.com/article/2341965-humans-beat-deepmind-ai-in-creating-algorithm-to-multiply-numbers/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 54
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/13145344/SEI_129278585.jpg"
+        width: 1200
+        height: 799
+        isCached: true
   - title: "Mathematical formula tackles complex moral decision-making in AI"
     excerpt: "An interdisciplinary team of researchers has developed a blueprint for creating algorithms that more effectively incorporate ethical guidelines into artificial intelligence (AI) decision-making programs."
     publishedDateTime: 2022-10-10T00:00:00Z

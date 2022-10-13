@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "China chip industry group 'troubled' by U.S. export curbs"
+    excerpt: "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains."
+    publishedDateTime: 2022-10-13T03:36:00Z
+    webUrl: "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 69
+    images:
+      - url: "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "China’s chip industry set for deep pain from US export controls"
     excerpt: "Two years after the US hit Huawei with harsh sanctions, the Chinese technology group’s revenue has dropped, it has lost its leadership position in network equipment and smartphones, and its founder has told staff that the company’s survival is at stake."
     publishedDateTime: 2022-10-09T03:25:00Z
@@ -38,48 +52,6 @@ related:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
         width: 619
         height: 377
-        isCached: true
-  - title: "US imposes crippling controls on export of advanced chips to China"
-    excerpt: "The latest export bans underscore the determination of US imperialism to weaken and ultimately subordinate China, regarded in Washington as the chief threat to its global hegemony."
-    publishedDateTime: 2022-10-12T03:34:00Z
-    webUrl: "https://www.wsws.org/en/articles/2022/10/12/ysao-o12.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/d1c77582-d66e-4adf-b951-0e5fd30e15ac?rendition=image1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "China chip industry group 'troubled' by US export curbs"
-    excerpt: "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.Last week, the U.S. Comm"
-    publishedDateTime: 2022-10-13T04:36:00Z
-    webUrl: "https://www.channelnewsasia.com/business/china-chip-industry-group-troubled-us-export-curbs-3005536"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--l5j5Tpc4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-13t035153z_1_lynxmpei9c04u_rtroptp_3_usa-china-chips-kla.jpg?itok=O2eg3UXO"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
-    excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
-    publishedDateTime: 2022-10-10T10:53:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/semi-stocks-fall-as-us-ramps-up-export-controls-of-highend-chips-to-china-432SI-2908262"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 36
-    images:
-      - url: "https://i-invdn-com.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg"
-        width: 800
-        height: 533
         isCached: true
 
 secured: "dnzXIjKIorhSIGqlM4PgTlp0f6exrPHp6hP9ncYaksUNBW/75FGaIuHn+dPQ4KPDwpkEwUtOXg+yvkFB/xFe50hQW17dj8BqSsFZYic8rVZvEppZswgK60MCUWbHXyoodTn/dvg+6GIoxsAQMusUfBZTrYp295UG2tnjYWkpTcguXSKeN9SL1xKp45+ZRYIehRINmi8QIZ/e+G5fexDpDfMzrtLDux6/USeFlzL3uNLXolXLvOdW8G2IHqb3mxe/FJKqh2RivRdxxE73iY7CrBhmuK0/LTPmk9f0hTdXRmPaSpbFEXXcYNCf6Z4rwXgftvnPBiI5jpylAWs+xIMZ5fkPseWf4Dh6ptko0drHNwg=;p/R5lSgtJWDV0RLBgb8umQ=="

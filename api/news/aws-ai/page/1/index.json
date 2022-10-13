@@ -787,17 +787,17 @@
     {
       "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
       "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
-      "excerpt": "The new Win Probability Match Fact emphasizes notable swings in the chances of a team winning their respective match throughout the 90 minutes of game play. This new fact is based on action from the game,",
+      "excerpt": "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, September 30–October 2.",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
-      "originalUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/56/556d7599-2b76-5991-9cd5-0d8f2eb26930/63366cb9d45a0.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/39/539faa5b-05ba-50f3-b256-ad1e59a0d41d/63366bd136b5c.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
           "width": 800,
           "height": 420,
           "title": null,
@@ -812,8 +812,8 @@
       "publishedDateTime": "2022-09-29T21:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -874,24 +874,33 @@
     {
       "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
       "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "New services will make it easier for organizations to build and run computer vision applications at scale—at the edge, in the cloud, and on premises—to enhance productivity and operations Amazon Web Services (AWS),",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and SK Telecom, the information and communications technology arm of SK Group, the second largest conglomerate in Korea, today announced at Mobile World Congress (MWC) Las Vegas that the two companies will co-develop a new set of computer vision services.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29081188",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188",
-      "publishedDateTime": "2022-09-29T10:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null

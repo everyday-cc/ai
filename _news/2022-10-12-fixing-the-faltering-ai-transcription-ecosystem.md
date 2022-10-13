@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/machine-learning/369166/fixing-
 webUrl: "https://www.itpro.co.uk/technology/machine-learning/369166/fixing-the-faltering-ai-transcription-ecosystem"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -29,15 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Measuring perception in AI models"
-    excerpt: "Perception – the process of experiencing the world through senses – is a significant part of intelligence. And building agents with human-level perceptual understanding of the world is a central but challenging task, which is becoming increasingly important in robotics, self-driving cars, personal assistants,"
-    publishedDateTime: 2022-10-12T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/measuring-perception-in-ai-models"
+  - title: "When the AI goes haywire, bring on the humans"
+    excerpt: "Surveys found that most organizations are not regularly monitoring AI-based programs after launching them. But human oversight can be crucial."
+    publishedDateTime: 2022-10-13T15:30:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna52079"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079"
     type: article
     provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 69
+      name: NBC News
+      domain: nbcnews.com
+    quality: 87
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221013-grocery-store-line-2020-ew-1127a-f8562f.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "ZwMjTR9F6cmuOzVLlCv4E9QOGGmPM2YH1kbXnp1WVHV621UIm6LmsyC+EMQ/5D84K0fOmfYGa7upYCqZn8/903PtB79D+oe+UyCXXly/AnC2om5grJeO+Ic7VE7icdoL7YGwbRFKafn/1EK+wlVebeMl73Zl35uCdIPXuuSmfoI9nBh2i+jFm9KjgwyzNqe2JW7tevZ3/wPOoFUqoYv7XYPd7KBZnAuU44dCm9hE0BaAEWGXub5UHwJptrGmiBNW0HvGXPytSAhNUZRpzp9zWklr9JUDYwuzDgSWSWgpdZ0+fCoroxhd9Q8TyWZQFFV8ZmfLeId5tkJntgdsMT7WzC5rLzdNInDxFc4n4Enoo3E=;8L08XUm+7Zg4LS4QW44YUQ=="
 ---

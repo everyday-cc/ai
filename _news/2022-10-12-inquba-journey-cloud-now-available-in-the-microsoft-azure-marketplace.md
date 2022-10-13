@@ -2,9 +2,9 @@
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
 excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-publishedDateTime: 2022-10-12T15:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+publishedDateTime: 2022-10-12T13:28:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
 type: article
 quality: 69
 heat: -1
@@ -315,6 +315,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
+    publishedDateTime: 2022-10-13T12:43:00Z
+    webUrl: "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 69
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
     excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
     publishedDateTime: 2022-10-12T18:57:00Z
@@ -415,6 +429,20 @@ related:
         width: 1024
         height: 506
         isCached: true
+  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
+    excerpt: "IBM Corporation, Avaamo Inc, Baidu Inc, Cape Analytics LLC, Oracle Corporation &?Artificial Intelligence (AI) in InsuranceMarket Scope and Market Breakdown. Next step one should take to boost topline?"
+    publishedDateTime: 2022-10-10T21:21:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-66"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 50
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft invites agritech players into the field with new open-source AI tools"
     excerpt: "Microsoft is open-sourcing its AI algorithms to encourage data scientists and researchers to advance data-driven agriculture."
     publishedDateTime: 2022-10-11T17:44:00Z
@@ -484,15 +512,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 30
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "IBM Corporation, Avaamo Inc, Baidu Inc, Cape Analytics LLC, Oracle Corporation &?Artificial Intelligence (AI) in InsuranceMarket Scope and Market Breakdown. Next step one should take to boost topline?"
-    publishedDateTime: 2022-10-10T21:21:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-66"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 28
   - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
     excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
     publishedDateTime: 2022-10-11T15:06:00Z
@@ -536,6 +555,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "dvKHi/Jsz+BTTrh0zJviO1YuT6F9pLkwBGzdaZI6FPm5RS+jKB2Qzdya3ysA/wLxb4ax06CIx292IYFX4qYsA6eq/koaczsHDe1XytoXQY5wXgfSRVI7TAGIga0eCYj666joioNYwcVOgPGBrUFn2b5pi59wdyxJpj16OCCzXIWJEI4JcPg/Bj5NZaf8DKYvRHIGycn4NfMfo6LEah1u5vfbVpEdmTdTvBZZ7H4OrNLL+2rmt7qYPWhHTJAk+M3FZGRc76EJyxYkB49xGB5TfoXLE98HSGx/7WpCQL3UhPKfvW4k2SR6Ezeo4//tAkkwTOZhd6qBgHpmd9i7xYLkZCwsMDhobeN62sehc+19JZ4=;TdrS1FlGDMxKBigV8havgg=="
+secured: "BOF5gXggg1aXB8gxK8cspIaPjS0fDcbK8B9CFfGIAiUXvEkUV15kJvRxz6BEFsbeWHDNG3/H4FYwp3ooFWxurh3FAc7yTqAdi8uCp8Fpu8aEO7mXNwv302ZPctj19bfaZ5aeLWTsgvqre8nRRxzmCjXnQYnVn8KEvwx5NXuwi7yjEAbCSd5yaOD9LT+mOcaYzXmejF3kdM73sAehoM4N1A0P7GWzqHJu+0XyQFeaYLg8Bh58j7lWuEX3gQp3WOjtTxUWrBcN0nWEw+9Xgdpm8S1Esj+uNfNfBxhFc2NtvZZfwLsCBOvC4OZchwrkylU77HfdIb7pnb8uhah/YnczcXokF60LpAybz3osDRw+EXg=;SfKOHGF5c6SrduCLPL3Vgw=="
 ---
 

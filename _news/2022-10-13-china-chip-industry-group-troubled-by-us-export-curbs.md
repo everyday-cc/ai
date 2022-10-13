@@ -1,27 +1,31 @@
 ---
 category: news
-title: "China chip industry group 'troubled' by US export curbs"
-excerpt: "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.Last week, the U.S. Comm"
-publishedDateTime: 2022-10-13T04:36:00Z
-originalUrl: "https://www.channelnewsasia.com/business/china-chip-industry-group-troubled-us-export-curbs-3005536"
-webUrl: "https://www.channelnewsasia.com/business/china-chip-industry-group-troubled-us-export-curbs-3005536"
+title: "China chip industry group 'troubled' by U.S. export curbs"
+excerpt: "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains."
+publishedDateTime: 2022-10-13T03:36:00Z
+originalUrl: "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/"
+webUrl: "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 69
+heat: 89
+published: true
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
 images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--l5j5Tpc4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-13t035153z_1_lynxmpei9c04u_rtroptp_3_usa-china-chips-kla.jpg?itok=O2eg3UXO"
+  - url: "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg"
     width: 1200
-    height: 676
+    height: 628
     isCached: true
 
 related:
@@ -53,35 +57,7 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "US imposes crippling controls on export of advanced chips to China"
-    excerpt: "The latest export bans underscore the determination of US imperialism to weaken and ultimately subordinate China, regarded in Washington as the chief threat to its global hegemony."
-    publishedDateTime: 2022-10-12T03:34:00Z
-    webUrl: "https://www.wsws.org/en/articles/2022/10/12/ysao-o12.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/d1c77582-d66e-4adf-b951-0e5fd30e15ac?rendition=image1280"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
-    excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
-    publishedDateTime: 2022-10-10T10:53:00Z
-    webUrl: "https://www.investing.com/news/stock-market-news/semi-stocks-fall-as-us-ramps-up-export-controls-of-highend-chips-to-china-432SI-2908262"
-    type: article
-    provider:
-      name: Investing
-      domain: investing.com
-    quality: 36
-    images:
-      - url: "https://i-invdn-com.investing.com/news/AppliedMaterials_800x533_L_1645098425.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
-secured: "UiV4HPO5zA/ZKqChwn6hk1zaYUQfTzXsPNjyWNnF6OQ19d1lAsOQ3XuKXWORIRfpZRnzzF9Oo0GH3JtPiBzi4zsIlPNIj8lgkjp0f4hQPnNPOYeg2p17pwfmQoINzGaUkmh3FHWfQcZaFCfuKpGW8KjjACqsEn+oaSAlSddu7dIVYARH11sBWgsn9TEWeoGJ/yHG2lBLL9CIpHUhQUgDP0xS239/H6QCS0B/ZUbZZtjAdvJRm+4Zd0mQaSj0+EPx5Now+EhInfMyx063l+rxbeL6FVkUq9CBwm+vp2Oew6gEq3oiajy7bSUcPojIRiRmmYmil4m+msoQStuH63MLkzx1QBsZVC0gJcPcgIhSiwEGUZ4+qi2Zwd+zxYaFNkAgW2GsULPbP/dmMXj3U098k4bx+kk4eVzdqdZ8XmXWhawf92cldROvp/UT9oGRatRwn6dC6b2dSozQO0gUvgrAmLrNwbOeb7/6sAATz0YHXjaEs9MwhQQQeW/R9Lv37jaQcoLFvw3tk7C/A9FzeITrYA==;ZwC8VK52/5WPvLtXK1wVFw=="
+secured: "H3bWpZJ7rlXU77cF44cdB4APzIuCdBFQklloLX2pS3HGtBV/8dvkeZNOm0XLGZHqA+GAkhrg+/xVji2Dudvdh5Fjqt97vpsFBLlrpoPGPK8m3cRvPyU2H7vrhsAaJeFut7WuHcpqmOCB6ezooXakqnuetMrfQ1FI8Rke3TocIC3LzRP1jV6ddG2HGcuNeUymX0igCIrij0/q0tq+qUWa0OBmzUBcrPdmRq/W8tetQgMsQsumfa1fOJq5u+l3r/34Wg2jLoMXGd1bijVrcccjyf1dEfPO76Ves79URM6F5ELcGIyUtgB/9Xy9X7CJmpvFU8Px5xDw571O3UJSm7ncJDOsjD1DmpfeV6w2tHy4hwQ=;+eIl2Vhzf4bROxoK1yJXoA=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://www.ocbj.com/wp-content/uploads/2021/12/Stuart_McClure_at_his_desk.jpg"
         width: 600
         height: 475
+        isCached: true
+  - title: "GBT is Researching the Development of a Machine Learning Driven, RF Cybersecurity System and Protocol"
+    excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”) is researching the development of a machine learning driven radio frequency (RF) cybersecurity system and protocol. Typical wireless security depends on a software and hardware identification for each wireless device."
+    publishedDateTime: 2022-10-13T12:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-gbt-researching-development-a-machine-learning-driven-rf-/2022/10/13/9691887.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 24
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
   - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
     excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"

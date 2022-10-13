@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
-publishedDateTime: 2022-10-10T09:00:00Z
-originalUrl: "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
+publishedDateTime: 2022-10-10T10:25:00Z
+originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
 type: article
 quality: 52
 heat: 52
 published: false
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: WAMC
+  domain: wamc.org
 
 topics:
   - AI in Autos
@@ -26,6 +26,6 @@ images:
     height: 542
     isCached: true
 
-secured: "ITm1i2HO/YH3iyxmFsXsW/ehLUmzkDy5IV5fpKPCpbXma+/vtZX5+CJk6gUIU5wvD8GZ9FO3kNhQs6BY+Uy1syuFDiPP9N4gHHCB+a+TCq86nRZ3uPNVVFd1sZn80hnacU9f9TsfVffGHYUAtQt3RqZ1O0bt8owEWCyFzQUCrwdYWxc6WVTqOhBxJetjLQ4L1Pj93jEX3U38hbbHZata8VNviOvizqoAfdfUqNAwIQ3ZMXQshpz1OT+FZ7pU3+eb40mJoCf4xMDHV54pMTMKDR3wR4NtOnAfIAu3wsyp278BZDjMnnTfHpmk28EF+mwQ4APrVsAjdQ3SECmQnbnt84+Fvpy9BqtDNWb6oUCdZes=;rR7vVjmBecuKI3I6eeOOOw=="
+secured: "yMuwFh7tRJQqKckTAUPVJpTfBlDoPn4Q/hRN2Y/IdgHayLG/wUo5su9WCs8xTtWGKYL6mKn8lU6TUe/mrPj4Z1rIuGdkdhAy2fc615ueE0mbzHS2OElL3jt2PtqP+7mr6A3s0Z/2KYdsaEAsf7cdA4IiTvPdKpt4SQHEk5JOLu2izR1g9eNPG8XpZi7SkkW2cSA4d+BGwvdUkbM8q1GhOahmlhZbyqL5X3yDWVnr5mRJ/mR1TVd+FlxpBIRLrrpdbUXfmhWGW7luQv5XCwolf/6Q+tYUfUU+Gv71RSZrp2WvzMLZvYZMMjMYe4EDqwfP2wov+1C8XjuepZQH8uMIRXI+R8C375iiD/F8vYUjJO4=;x8vKYpi6lx3nalAErYug6w=="
 ---
 

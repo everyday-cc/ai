@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/633e91a7876cdce21e209bb4/0x0.jpg?format=jpg&width=1200"

@@ -153,24 +153,33 @@
     {
       "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
       "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "New services will make it easier for organizations to build and run computer vision applications at scale—at the edge, in the cloud, and on premises—to enhance productivity and operations Amazon Web Services (AWS),",
+      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and SK Telecom, the information and communications technology arm of SK Group, the second largest conglomerate in Korea, today announced at Mobile World Congress (MWC) Las Vegas that the two companies will co-develop a new set of computer vision services.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/09/b29081188/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services",
+      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29081188",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29081188",
-      "publishedDateTime": "2022-09-29T10:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
         "images": null,
         "publishers": null,
         "authors": null
