@@ -2,9 +2,9 @@
 category: news
 title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
 excerpt: "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
-publishedDateTime: 2022-10-12T11:13:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/12/9690729.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/12/9690729.htm"
+publishedDateTime: 2022-10-12T13:05:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
 type: article
 quality: 0
 heat: -1
@@ -56,6 +56,6 @@ related:
         height: 267
         isCached: true
 
-secured: "J8wgLET55QxLWzFWXte0hgz5meJ6jtpnv8EOaIo8io7OzgsX9PN/0dgRDRAjAzlNQMg6VELRHaZHAYBjXrkSU7SEH3uWhntjO1hdQin5q6YPPVG/wEii+JNxtrxmlc0Bjh5TUfFGRBFOBOEzbTXkZydjpSiFcDmrXN1BH8Tw2kr13l1OMmzREkOoU8fHR/kIWyXVvGjgkNGIKUy2EovievJXrJoFl1O7jwXxH25IVa4+6aaMxSxyROz+v4eaVyF8QFuit+4GOuSHO7emuj35RfmzGQVKOe0+rgh1XSjV+CIR/pmTO+XorJ38Upduo7ZOgIVwX7RPPgUvyX9yFna2xByo6MFD5HR8VCE6EWeORbc=;IPTpwpGwQFvI6UvFOVA/UA=="
+secured: "knnluc7VVpGhBAUf5snATv17yNacqoFP9w6Q5O3MpF/d6NBxNIdPCvixKqKb0TwNd4FJ8LqDtmusz9T903UuexpE/BA0MpkQBuPdCNrvs7rCQRN3Kk3dc1OyGepnL9I2YRKAs+VwS+1Ilzoj73cweWFmDoohKrJCJrlzWRzsfCjlygHAVoOOURcqigTa/OTaaybOtDTCY83tebRJbUsORRpPur9yAu34ZMLxt7mE7jYNi7wWXKqCGoONZLbFyNrcVd4kceTy/8IFxeMi1bHN2sK5U8/t8NYwK79GU9fc4lBaPlYhADae/6u/LHhPOlLw/S+i0lT6la//rk1Ztg6uBAy3qNbhVMGMs4Acp4Cmixg=;qAMo3Gf3yAfUkg6QloO+ig=="
 ---
 

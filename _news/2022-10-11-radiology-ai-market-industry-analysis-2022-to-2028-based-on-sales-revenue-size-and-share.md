@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-indu
 webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10"
 type: article
 quality: 73
-heat: 293
+heat: 303
 published: true
 
 provider:
@@ -233,6 +233,20 @@ related:
     excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
     publishedDateTime: 2022-10-10T16:30:00Z
     webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-industry-forecast-to-2029-size-2022-statistics-share-growth-rate-trends-regional-analysis-by-key-players-2022-10-10"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Robot Market 2022 Share, Size, by Global Major Companies Profile, Competitive Landscape and Key Regions 2028 Latest Research Report"
+    excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this Self-driving Robot industry.\" Global"
+    publishedDateTime: 2022-10-12T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2022-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-latest-research-report-2022-10-12"
     type: article
     provider:
       name: MarketWatch

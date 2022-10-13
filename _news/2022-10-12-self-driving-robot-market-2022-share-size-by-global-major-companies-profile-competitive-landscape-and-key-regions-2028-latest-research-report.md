@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Data and AI Ethics Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 104 Pages Report"
-excerpt: "According to this latest study, In 2022 the growth of Data and AI Ethics Market is projected to reach Multimillion USD"
-publishedDateTime: 2022-10-12T04:31:00Z
-originalUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
-webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
+title: "Self-driving Robot Market 2022 Share, Size, by Global Major Companies Profile, Competitive Landscape and Key Regions 2028 Latest Research Report"
+excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this Self-driving Robot industry.\" Global"
+publishedDateTime: 2022-10-12T04:15:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2022-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-latest-research-report-2022-10-12"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2022-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-latest-research-report-2022-10-12"
 type: article
-quality: 64
+quality: 34
 heat: -1
 published: false
 
@@ -19,8 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI Ethics
+  - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -52,6 +53,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 71
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Data and AI Ethics Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 104 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Data and AI Ethics Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-10-12T04:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -243,20 +258,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Robot Market 2022 Share, Size, by Global Major Companies Profile, Competitive Landscape and Key Regions 2028 Latest Research Report"
-    excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this Self-driving Robot industry.\" Global"
-    publishedDateTime: 2022-10-12T04:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-robot-market-2022-share-size-by-global-major-companies-profile-competitive-landscape-and-key-regions-2028-latest-research-report-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Middle East and Africa Self-driving Car Market Report 2022 Industry Trends, Share, Size, Demand and Future Scope 2030"
     excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Middle East and Africa Self-driving Car Market are also discussed in detail in the research,"
     publishedDateTime: 2022-10-10T06:54:00Z
@@ -332,6 +333,6 @@ related:
       domain: marketwatch.com
     quality: 0
 
-secured: "3EuR+W8i4T6K4q+XGANdWzSoVpInCsVKxP4s7vUiCTp/n4DjVU++Q84e5uowfi/I5Qitb8mPMWesypLlxxlmqo04WRGM/JOGhW5GRZTidxXFoZ37HJY8k2sgKAvI14PmP5SBZYxYsXjjetHS3qkk5NZ5i+FgOvZQGpNgXSb49aixWWhLOu3bqF+UT+kApZ93aZzQ2fc72nUcCnlaBx0DLhkF6OfOV+Oup/m3yE2hMjz5cIXUlkQ+yCsYCL2JYNlcsqGFWY3rz2uJg4vC9NYFkrTJt2FKmNX20W6nGBbgR/nkYKLAncDeMtUubCiobAkbns64LliTGSh/DuReZbOOf7RjDgsmzreXbJyPlFUDVb8=;8l0q/wZj7dfa2lJEMmWiEw=="
+secured: "H+2DjSmW0RCiMyfQDwmQUOjW+1tAzEtESP67l5JusqsyqREnz81s3J+e359w8DulM9QBsi/FmMX/eSrxxgoT3eKv/Gqqo3BMH//BAXAqbEgykXeX/A0iKb0qDcAp7MyxkQJDPK+801HcDmuyjoV5u2kXfE60ym8rGe1VWgQlSh1RIkJgdJ50BzG5XNO4vXIyA4EmZVa22HpwTw8vLpDZWEHssM7tfD/zRCe5qbZuVsx+iHnGs1TuuQ+7LZIngqfq5LyET0nGoImSL6ysAxwTdMZ6LgLg0vJwIgoqD6YR6RBZjafhKXD5uKY7n7YqjiMdBzvkQzjLTXE1BKX5AncEgBCo/q2FZHFl4CYbdV0ucWE=;EqTsNwUQZJBbWkpWh5+oRw=="
 ---
 

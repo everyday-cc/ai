@@ -55,6 +55,15 @@ related:
         width: 300
         height: 204
         isCached: true
+  - title: "AI In Fintech Market Estimated to Reach Value of Approximately Over US$ 54 Billion from 2022 to 2032"
+    excerpt: "The global artificial intelligence in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-10-13T07:54:00Z
+    webUrl: "https://www.fmiblog.com/2022/10/13/ai-in-fintech-market-estimated-to-reach-value-of-approximately-over-us-54-billion-from-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 4
 
 secured: "Ut44XcrLlZO1G0xoxx2+PAhYfJ7uY+ed3nrlwezEKwzyH3QzNtJ+mrEF7d2iDKgCYG1LhshkxjkDpWhdwt4EfKctUmGqVAhEnos5UDmI3DfA8XqM10Xs02PRMlsyfojNQvc/zdkM1fOeNuoRQTy5L7f7TsA/rjfFGt3zQxPs2STsGw4+FRchhuj/XO03eawcI+tzDR2L7dEYzHqeZWke/qrWq7Zur4jNTVzPuCIvdUZuW0f8/Z3LJlb74qAPht1hC5erIwINgJ3AB+4U9Bz8R2054UjxJ+q6rloCa2N7EcLwZqx1qZ61+NUreO37y7PeW0CmZryQA3q589oVqun+W2c9mUjVQriv8DzF6OMLxPU=;zfSTEntVe5Rrl73ePLLrlA=="
 ---

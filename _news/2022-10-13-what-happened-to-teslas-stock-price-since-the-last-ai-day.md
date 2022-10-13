@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

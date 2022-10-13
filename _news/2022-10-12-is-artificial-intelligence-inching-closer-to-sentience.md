@@ -8,8 +8,8 @@ webUrl: "https://www.thestar.com/business/mars/2022/10/11/is-ai-inching-closer-t
 ampWebUrl: "https://www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html"
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/business/mars/2022/10/11/is-ai-inching-closer-to-sentience.html"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.thestar.com/content/dam/thestar/business/mars/2022/10/06/tech-update-torontos-fintech-ecosystem-on-the-rise-canadian-jet-fuel-is-going-green/_2_mars_discovery_district.jpg.size.custom.crop.640x360.jpg"
