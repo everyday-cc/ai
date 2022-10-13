@@ -44,20 +44,6 @@ related:
         width: 600
         height: 600
         isCached: true
-  - title: "St. Luke’s adds AI-driven cancer treatment"
-    excerpt: "St. Luke’s Allentown Campus is the first in Pennsylvania, New Jersey and Delaware to acquire the Varian Ethos therapy system, advancing treatment for cancer patients in the Lehigh Valley and"
-    publishedDateTime: 2022-10-08T05:18:00Z
-    webUrl: "https://www.tnonline.com/20221008/st-lukes-adds-ai-driven-cancer-treatment/"
-    type: article
-    provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 39
-    images:
-      - url: "https://www.tnonline.com/wp-content/themes/ltn/images/tnonline_share_logo.jpg"
-        width: 864
-        height: 432
-        isCached: true
 
 secured: "YsgS0VV0T+P7PiixjbkeaZpPR61O6wy1cD8jrNM6hT60WWmhsx55daSvdGOVZA68DnYbmMg36TNJP1kHVUrU6PUJk3AOEBD31QL/4kLP2xxVh4bFK2gMctwInPYHnfQgkKp6VEXGiLzTfCZbN6LdTHQ7NVYLTtsjlkF+W570GhIYc35JW8mhKQ5EsyJTgw/YC6vbCllMLIaT+4PJMn+gLE9HwlDFSuNudvxViEQ3z6bL9xHQUklkJURYC+CGEmdPK7Te2VqxosDVfTmlwdS+i9zH4G+rwNgUiYXQv3agziqngW2lirAfpjKmHKLQEBCn6uI41GGVoL9XReUgFb1YuOYJUjbQDL0yHAisD3vMuf2EXYK748SK7AAaIdBE9b7KGlToTLh7MT7xgNJdR5MgaR5ScCH5ZP6zwjR7QAZCEbIDMA2KGK/5GVaHd13i02osJWm1Vpn88YgTPgv8EPfAImRqa3I78iKiCiltT4YWt1cx3SdkpFJhmXe98PfTdIHf2jGdRxp9axuAcewt2EmWCw==;uGyK3d2We8iiJkaGHn30yQ=="
 ---

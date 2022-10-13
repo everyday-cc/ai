@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: NOLA.com
@@ -43,20 +43,6 @@ related:
       - url: "https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/c/06/c06b7424-44c6-11ed-ab1d-9b7bc78c5670/633daa3a94e74.image.jpg"
         width: 600
         height: 600
-        isCached: true
-  - title: "St. Luke’s adds AI-driven cancer treatment"
-    excerpt: "St. Luke’s Allentown Campus is the first in Pennsylvania, New Jersey and Delaware to acquire the Varian Ethos therapy system, advancing treatment for cancer patients in the Lehigh Valley and"
-    publishedDateTime: 2022-10-08T05:18:00Z
-    webUrl: "https://www.tnonline.com/20221008/st-lukes-adds-ai-driven-cancer-treatment/"
-    type: article
-    provider:
-      name: Times News
-      domain: tnonline.com
-    quality: 39
-    images:
-      - url: "https://www.tnonline.com/wp-content/themes/ltn/images/tnonline_share_logo.jpg"
-        width: 864
-        height: 432
         isCached: true
 
 secured: "2oiYopiM8LXGalVYreN6aBNPnJZCzH/moOyqiq1mRrB0640qRDpyNE9HLzTPB0sJP7TNJyyLWZBcc892xJEAQLFjvE5UP5r47fYyHcoCA9UXB6UmrSwUlvMSKDFToWW7UUKvxZ52nUDQcLBO4Q0+wxn7tx7VyJYr9UHg3CIm7sd0Iyv4+HWb/sLzh+LVDWnc2xIHvhus6wbdpiYK7Z/3uAIcs5+3eRBYIPuEZRFBUJwtrrrPb0YB6sl1USGzL5dUzcyovT9JNpl1pOjGTplqTjwVftqirKsWS/N6z33k9Fd2eOjpPRDAVVc2ONcxlV/iKOB0wlIC1FP9DeFTlYaC2+rRkdwUfOiK6LD2nxHM7Uhe4+NQw1+4UKWUklR7P96B8a/IX/PI8h0/XTuz+1UXPUppE3977ipTvaZa8YoojoMA4soZhxSiWqOgD12JYOBtxrsXb2fLq1/mTFnowLw+QEGycyTUi1w703Ka1iBVFlk0NpyHj0C0gf5N9mmIz7Zv6657tD/rhJ0b7Rhj/FtRfw==;sQW1gC/7FstLy0OxFzObrg=="

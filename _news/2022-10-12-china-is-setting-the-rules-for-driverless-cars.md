@@ -87,6 +87,20 @@ related:
         width: 793
         height: 529
         isCached: true
+  - title: "Commentary: China is setting the rules for driverless cars"
+    excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
+    publishedDateTime: 2022-10-12T22:09:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/china-self-driving-car-av-regulation-robotaxi-pony-ai-baidu-geely-3003851"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "RTA to exhibit self-driving cruise vehicle for the first time at GITEX 2022"
     excerpt: "RTA has outlined an integrated roadmap for the future of self-driving transport. It is moving ahead toward realising the Dubai Smart Self-Driving Transport Strategy aimed to transform 25% of total mobility journeys in Dubai."
     publishedDateTime: 2022-10-09T14:50:00Z

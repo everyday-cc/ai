@@ -1,17 +1,17 @@
 ---
 category: news
-title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
-excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
-publishedDateTime: 2022-10-06T23:58:00Z
-originalUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
-webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
+excerpt: "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ..."
+publishedDateTime: 2022-10-07T15:49:00Z
+originalUrl: "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/"
+webUrl: "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "udZAgD2XEQgjHhLZ3KFv4YJXur1ByuyW/KipcubN2bYK2FBGg2QTFWsnNlPCs474/T2HHlrOipQGKnmjxYriqDNEHxbjtZIiMNiX+Adqgq/GFKdHjdtUTeENF8S+Q0ERgnWRLs4zJwIFbHR8jTfthKqpNHibBpbWQ/CsUWpawLQ8p0LKe96ILAJboZd5YCioFkmg+GTuO9bfFp4MwfMBmVkSfKU7re83fQiaKH+ZhddORoUhk6zZEfehKVAZAGmDpvcQkCfpR8kbGLfsoXhQUAkbpSD2cNXnehFOJIYrdxNlBwKCrKZgTtaKHkanwR0Cfj6fzbBxRBshdzEsvHMv05qfFiHbHoOd55u3cC73xKc=;nShQYPM+jtAR4VvuZTI/Sw=="
+images:
+  - url: "https://www.reuters.com/resizer/hlaKOKrPAL7q3PSr1hNU3uLOZ-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUFE6S6QERLQ3K6NLCVKMMLSRQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "updR6ojrehIqdBSCYuaKKToK+cPOHcbcxPhmovWUuL7FY0cIv9xMkUNUDbPq5bY+Cai6SIDAYs4/1LGul7H3sIdBJvy0HryR8fMJlirMMjq87Qckc3MjPCIjcbYeAwg7sh7ol/6rMJt9F5pZj5zhvsJByWJ46mNdO7AjLb+nOVCGCLRxDo2ylSMVrgzzMIWeVgyldUM13gTsF/0/wqNiolekRw8+ecpDveSpeK8xyJ8E4ik1iQqX/kg7UtcxBjbQr9TFhfLR/EsJ+wwsYJra8xB7AlPlDWTcC+zAnuHON0ZHr80GBcX3wZesF3rReyf1DlA8sSTWgLTcq78XlDXqaFGqhUiYM8wtiEV5vwiawzw=;I/xxlAvjw2S4qjzyQ6C77Q=="
 ---
 

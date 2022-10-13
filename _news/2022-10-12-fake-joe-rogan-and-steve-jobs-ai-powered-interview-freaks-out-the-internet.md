@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
 type: article
 quality: 85
-heat: 136
+heat: 137
 published: true
 
 provider:

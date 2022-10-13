@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-a
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/"
 type: article
 quality: 86
-heat: 97
+heat: 98
 published: true
 
 provider:

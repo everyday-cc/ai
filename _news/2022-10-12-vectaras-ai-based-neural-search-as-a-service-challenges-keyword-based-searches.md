@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-serv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 109
 published: true
 
 provider:

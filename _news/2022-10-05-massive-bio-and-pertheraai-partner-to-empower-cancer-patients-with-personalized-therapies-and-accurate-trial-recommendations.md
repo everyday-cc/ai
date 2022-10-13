@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Massive Bio and Perthera.ai Partner to Empower Cancer Patients with Personalized Therapies and Accurate Trial Recommendations"
-excerpt: "Massive Bio, a leader in AI-powered cancer clinical trial enrollment, announced a strategic partnership with Perthera.ai, a pioneer in connecting oncologists and patients with biomarker-based therapy options."
-publishedDateTime: 2022-10-05T11:37:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-5-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-5-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations"
+excerpt: "Less than three percent of cancer patients today are matched and enrolled in a clinical trial. By combining the advanced computational methods and artificial intelligence capabilities of both companies,"
+publishedDateTime: 2022-10-05T11:43:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/05/9686538.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/05/9686538.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "2H6ikvsBx/CcoyCkfLksFrf3kJO5DHcLHHRA9BKcn0NrjHBnweDcAZW048VoJEVcHSLd1ibT6iY5G68z0B67ofSWXUxBSkDuq8Pv+WGLANEzqgLbiFtKbFBIK+W0l9bxAVDp43l2DoCL1BtU2GqOCkmKy5Omu4aJ0QdI1FhGEG7Y8ycUq0eU56pAVYQ2fuHF2+V0IScQdv9XNixK3YYNMNnOZRi3xq64vnIiQP4i7qO/SrXQxzN0U46TJZJobvXQheynYzze1CNDbF/Y7j3ooUh9YvAgtq/aZIEWTNs+xArfkHphjx2pKQQ0zmCbF14B3rs5HSlcf/5LPowXVIiUM9cufmU2tutgib4T8Zc1HGQ=;uv0dyUnGrunsKlATtl/nxw=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "1hHnbi5gA3DUFBblHP4wzLPE2bfTuWYz9lPa4b3F5ixUXDJqnxx5WGIo72FcOT+pPz0k2ZbjoTVF2b2LUE910fOP8OnGFGsM+c2BmgM8VNDkt1gVsUD23JGei+aFq7n4rtpJlabd+sTnhq7w7sHwnzLipmsdpy+PYbNlr66PWPI18tSDeryO9Dr9BCAha/tpID7N1Io9C0lCcWC9VmPDGBVhwAbRvrv/l2ozgR04//fRdTddrUKSzg3Ie1K5pmev6Ss4UmJ1+9EQoaNoFRL09z3ndJhmaagjSVxKN0/2bHu0NdsiIWzqJ3c1pXHHzRe4O72h6w6MvJs027g41J8RHoEknc3jmxx6NEQtmcJiiSs=;dXM/fPNLONRlVTi+t3EJQQ=="
 ---
 

@@ -63,6 +63,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Google Announces AI Updates to Its Cloud Offerings"
+    excerpt: "There’s also an AI-based service called Translation Hub that translates documents in 135 languages, the Alphabet Inc.-owned company said. Google is beefing up its cloud infrastructure as well, relying on a fourth-generation version of Intel Corp.’s ..."
+    publishedDateTime: 2022-10-12T23:54:00Z
+    webUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings"
+    ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 59
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/2614a4e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F3f%2F4660393d4d39b26096194218444d%2Fshutterstock-1083498080.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Google unveils a host of open data and AI advancements at Cloud Next"
     excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
     publishedDateTime: 2022-10-11T17:17:00Z
@@ -98,6 +114,6 @@ related:
       domain: businesstech.co.za
     quality: 39
 
-secured: "czwTr3uglMJLckiCw80SWg2rZGlKUlr8uS00t5XS4RioTT0OzaxPD/ZM3Y+U2mBl6goczmaUt+cEuu+bl/WBJPQlB6p5KpnOHgJWyUumqHIsJOufGz68Yh2xp+mKjRR+c5DQ7QSOxmokXhCReDFkgm082sadQevz9N8ptyafJQComJBYlZHnfEVE1RqV4/oHBwCOuyNcCBHD8eIpUhdRAA0lGQVQL/vcMkVw17hmPCI6ThCiqHSNlo50hyZVRVzz8cqKyu7V8dqSjxTlPeIucnvavC6s25icLgehMP1PXStUoL7/c7igsHaFUdNJWA2mTRXCvzYNJg84EvTmH1nAh/zEjp2TMyyEAySMuMCgBfw=;U96vPhTGOlIENuhVUkajQg=="
+secured: "YrUEu05x1VamQ1PSs6C018LuvEflVt99Qq/Z1js5Ih95NwRKD2kPWlXAFOxlp+ZfdWF84vWwVKzMDUimbxT6w36MHwxTN9UIZ30ZDMsUnpLq294zzyhjTrSEpqq0cZ6Pjma5iUeen0YUIa9rP0uVA103ruZrl3whQ2Nj7Aduhzjud0T/dv9TdiqjWrdELv2XpXddm6cwLu90p/QbznH78e+vpDyRoFiaHVkuX823rFUOWl2Ns8UcaBokoXpF5F0wISioyGVMNhI86xH5e/0H1jNPMSr85fdNev3jbmtLhGw0ZP3wAQ4SCs/3BWjYs8KzTbzJomjilBxkzksnARUpEVQ4NOtyTmTYbZgXOpzMG8Du1yVgo3ssE8KvFRwBOe7afGLAK7pBLHQ8F2Rq9YZdPhRHAqL8m1HzWJI33z9Yf48woovkKDKupeWAsdv6TS2vxMX1/M/KIJF1RuJHR2TKzHbWeSYb+wSu3zkGyUCuVj/8IktG9B308z+X8ZwktKsQwI3X0obDFpo8Q0kM9yLAEw==;9CdgFVOZlkHTyNoybMrw2w=="
 ---
 

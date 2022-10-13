@@ -7,7 +7,7 @@ originalUrl: "https://www.therobotreport.com/softbank-robotics-partners-with-gau
 webUrl: "https://www.therobotreport.com/softbank-robotics-partners-with-gausium-to-deploy-2-robotic-solutions/"
 type: article
 quality: 84
-heat: 84
+heat: 86
 published: true
 
 provider:

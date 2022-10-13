@@ -1,20 +1,18 @@
 ---
 category: news
 title: "Informatica Extends Microsoft Partnership to Help Enterprises Operationalize AI"
-excerpt: "Microsoft Names Informatica as Initial Partner for Intelligent Data Platform Ecosystem Today Informatica, an enterprise cloud data management leader, is announcing its inclusion as an initial partner"
-publishedDateTime: 2022-10-12T17:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29240436/informatica-extends-microsoft-partnership-to-help-enterprises-operationalize-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29240436/informatica-extends-microsoft-partnership-to-help-enterprises-operationalize-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/29240436"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29240436"
+excerpt: "By bringing the end-to-end data management capabilities of the Informatica Intelligent Data Management Cloud (IDMC) which includes data ingestion, analytics and governance to augment the Analytics, AI/ML capabilities of the Microsoft Intelligent Data Platform (MIDP),"
+publishedDateTime: 2022-10-12T19:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-informatica-extends-microsoft-partnership-to-help-enterprises-operationalize-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-informatica-extends-microsoft-partnership-to-help-enterprises-operationalize-ai"
 type: article
-quality: 50
+quality: 30
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
@@ -177,6 +175,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI Image Creator DALL-E 2 Comes to Microsoft Software, Including Bing"
+    excerpt: "Redmond is adding the DALL-E 2 access to a new Microsoft Designer app and through a new Image Creator function on the Bing search engine."
+    publishedDateTime: 2022-10-12T14:00:00Z
+    webUrl: "https://www.pcmag.com/news/ai-image-creator-dall-e-2-comes-to-microsoft-software-including-bing"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-1.fit_lim.size_1200x630.v1665491211.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Drive efficiency through automation and AI with the Microsoft Cloud"
     excerpt: "This year at Microsoft Ignite, we explore how organizations can activate AI and automation directly in their business workflows and empower developers to use those same intelligent building blocks to deliver their own differentiated experiences."
     publishedDateTime: 2022-10-12T09:00:06Z
@@ -251,6 +263,20 @@ related:
         width: 913
         height: 651
         isCached: true
+  - title: "Microsoft's Seeing AI app can scan the boxes of Advil, Theraflu and more to read out details"
+    excerpt: "Microsoft's free iOS app will read out detailed information of products like Advil, Theraflu, Excedrin and more, so those with visual impairments can more easily learn about them.."
+    publishedDateTime: 2022-10-12T23:35:00Z
+    webUrl: "https://www.engadget.com/microsoft-seeing-ai-app-scan-read-out-drug-haleon-accessibility-230047595.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 73
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/f89d2270-4a75-11ed-99fb-4fd7cb360f36"
+        width: 2056
+        height: 1371
+        isCached: true
   - title: "Microsoft relaunches Syntex with broad set of AI-based content management tools"
     excerpt: "Defining a new category of technology labeled “content AI,” Microsoft has relaunched Syntex with a set of artificial intelligence and low-code tools to automate content creation, indexing, and discovery."
     publishedDateTime: 2022-10-12T13:51:00Z
@@ -270,7 +296,7 @@ related:
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
     publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -451,6 +477,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "s3+OV+fIXgqLcJtL5vM+fVwJctcFivZqve2EFzeqqUeK34HXqeB1DWge3O5+YWQ64WnLg7xPZKCEZt/pP6eTQIZYEZH2RkAjerOqXEKNd+GRmvuu+rQ3rQvZENLtHtlhrqyRVDagFDWj/bQJijvkdNzJ9n8TYY5wAQg19vAX/+wOr+FP4Vdb/OS0Nm7RTZAY4h8URnuc3wW1VgljV9zBTW8nBiAJo2r71YfdobJW1/HcXCb8hRlSy3MP+BuBtqE89Fl0oL2SliOd/RWxMxJMAHzkZh3VDkFXRd1efsGUKbg737uxTh/uZ/hz07wMx9tsn3kk3U3nMAd6Y5Yf/ZxC6FDHaj86sc/QPgTi/XPJZvE=;xFD5RYGBMkMxXeA1ZvU33Q=="
+secured: "aSjPmKJVTKsVRu1OqZLOqRaKZHRY3/RUCrT5xu/AoLrJ5BbGBr2h+adh6T989RyEqGzUHH114bbOXlOKMGzEZUydR9Ou0/ZLaTQvSKrMv9vRCLveJWZNzq6fTeptzdx7F/+dvVvm15AVpTEPTwEoxEYIHnaj7Ktf6QR3E3ipQXC5/CnUoJbOFdy0i++MwCkzuCPFw+Nb6XKbfLkyW5tGrMgqZS0Ui4ssDwwrNqdgz2nYVG0LTTGTLbwllU6v+afFv3pGwozpe7s221qUtWnKHjgHHjhtyFazAnhVL9W9K30rupj8sRujc602SVNhOuR6qcVd6YWlgBlMsGt9oDHyvCEbHt7acZtspVXVSbj0oI8=;Yp7vFfJZYLSZ09IMARKCUA=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-11T18:15:00Z
 originalUrl: "https://www.commondreams.org/news/2022/10/11/sotomayor-leads-dissent-scotus-refuses-take-death-penalty-case"
 webUrl: "https://www.commondreams.org/news/2022/10/11/sotomayor-leads-dissent-scotus-refuses-take-death-penalty-case"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "pzoKRWT43BLSu9rMcxPpxO7IQaiZZK2iOgngd2muwsfe17HGtrJMRcby8KfK0bxND6jlb7A2qqyxrOFYJd4L4CXIXoPI2fKOkog+HJhAMeDJhcfcDVY2KUmSKhrNypvVe4LOIqj/OA6ITDe9O9KwgVoecBpWjDh5d8LffbmbsSBedD6LV6iH3yQwKpewBfU9ftp0HjP2kV2j0OqdhzE65tbbmUUfsj9XvPCOGp6hJ30To+RhFEYpXgQX3H/nJcvGatL/e+qy3pDlUHbAKvV6UKmBKw+CB0BzYSp1/q0M6g/16p+izLIHEULLxZlhF6UDe43twQvVnFJB5pNvwlvkISGgx3ZbE/KQSlQffpv/J2E=;UYZxf/b8tNMAK43PVxWt+w=="
+images:
+  - url: "https://www.commondreams.org/sites/default/files/styles/social_share_image/public/2022-10/sonia-sotomayor-getty1147138335%281%29.jpg?h=780ac52d&itok=TvlIeCCC"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "RzPJjUp0CzPKd/QGkWw9+K028KzLKQnlgJ9NqVwYVDtJhAZvolcWjLkTF9UJo5s0wjeKqYjELg00V3UQXBMFaQLNmIF8560DG+6hiGeC50oxyTFbtJyk+Q/RDbNLhIijShK9F28I5tsUrQCTehfqgxWBwGKA5Ybc6RhzhQm3pbyNLEqoAwB+U+P1DVV4eWcYXS6Z9OQ3DiqpcpMKLWYpd9juqzGwo3BeEOTd3j9SZzoYF8WfVNzlI7QD7nOdQei/u+g7qyumVhP3Db3RtEmCAxzPOBMXfnF3C2b3pUyA91FUggMARGl5AKzPuA7+KObuu0q0SNmhVUZW/JgIZdx/7E8Pt0feRLAGl9mWKzuYkJw=;26z6xs3AXYnyXtUDaXC4AA=="
 ---
 
