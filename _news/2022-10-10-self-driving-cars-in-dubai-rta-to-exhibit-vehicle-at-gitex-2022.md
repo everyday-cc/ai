@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
+    excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
+    publishedDateTime: 2022-10-10T18:40:00Z
+    webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 71
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Sensorium to Showcase Latest Innovations of its AI-driven Metaverse at GITEX 2022"
     excerpt: "Verse, a new GITEX event dedicated to immersive technologies and the Web 3.0 industry, Sensorium will showcase some of its latest innovations in the field of extended reality and artificial intelligence with an interactive multi-day program."
     publishedDateTime: 2022-10-10T12:00:00Z

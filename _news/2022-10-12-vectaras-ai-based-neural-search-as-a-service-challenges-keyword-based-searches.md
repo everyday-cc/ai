@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-serv
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 109
 published: true
 
 provider:
@@ -34,13 +34,18 @@ images:
 related:
   - title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
     excerpt: "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
-    publishedDateTime: 2022-10-12T13:05:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
+    publishedDateTime: 2022-10-12T11:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9690729.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
     quality: 0
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
     excerpt: "Vectara, the operating platform for neural network technology, launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
     publishedDateTime: 2022-10-12T21:46:00Z

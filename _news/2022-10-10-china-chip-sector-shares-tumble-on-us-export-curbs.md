@@ -53,6 +53,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "China chip industry group 'troubled' by US export curbs"
+    excerpt: "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.Last week, the U.S. Comm"
+    publishedDateTime: 2022-10-13T04:36:00Z
+    webUrl: "https://www.channelnewsasia.com/business/china-chip-industry-group-troubled-us-export-curbs-3005536"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--l5j5Tpc4--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-13t035153z_1_lynxmpei9c04u_rtroptp_3_usa-china-chips-kla.jpg?itok=O2eg3UXO"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Semi Stocks Fall as U.S. Ramps Up Export Controls of High-end Chips to China"
     excerpt: "Shares of major U.S. chipmakers are trading lower in pre-open Monday after the Department of Commerce’s Bureau of Industry and Security (BIS) announced a series of limits on exports of high-end AI chips to China."
     publishedDateTime: 2022-10-10T10:53:00Z

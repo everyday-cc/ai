@@ -7,7 +7,7 @@ originalUrl: "https://www.econotimes.com/Synthetic-futures-my-journey-into-the-e
 webUrl: "https://www.econotimes.com/Synthetic-futures-my-journey-into-the-emotional-poetic-world-of-AI-art-making-1642896"
 type: article
 quality: 35
-heat: -1
+heat: 35
 published: false
 
 provider:
@@ -25,36 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Automated future: AI in the automotive industry is revolutionizing the vehicle market"
-    excerpt: "The automotive artificial intelligence market has been segmented into deep learning, machine learning, computer vision, natural language processing (NLP), and context-aware computing. Deep learning is the primary technology adopted by companies in human-machine interface (HMI),"
-    publishedDateTime: 2022-10-11T09:43:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 50
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai-self-driving.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How AI is helping revolutionize the service industry"
-    excerpt: "The service industry is a multi-trillion dollar industry. It deals not only with professionals such as lawyers, doctors, and engineers, but also with different sectors such as sales, customer service,"
-    publishedDateTime: 2022-10-11T16:13:00Z
-    webUrl: "https://www.tmcnet.com/topics/articles/2022/10/11/453739-how-ai-helping-revolutionize-service-industry.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
-    images:
-      - url: "https://images.tmcnet.com/tmc/misc/articles/image/2022-oct/1378388327-artificial-intelligence-2167835_960_720.jpg"
-        width: 960
-        height: 642
-        isCached: true
   - title: "Synthetic futures: my journey into the emotional, poetic world of AI art making"
     excerpt: "My first image requests were whimsical queries, nocturnal flights of fancy, gentle tentative casts into the virtual spirit world."
     publishedDateTime: 2022-10-09T19:10:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
-excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4.."
-publishedDateTime: 2022-10-09T17:17:00Z
-originalUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022"
-webUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022"
-ampWebUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
-cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
+title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
+excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
+publishedDateTime: 2022-10-10T18:40:00Z
+originalUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
 type: article
-quality: 73
+quality: 71
 heat: -1
 published: false
 
 provider:
-  name: Khaleej Times
-  domain: khaleejtimes.com
+  name: Gulf News
+  domain: gulfnews.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
-    width: 1200
-    height: 675
+  - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
+    width: 540
+    height: 405
     isCached: true
 
 related:
@@ -43,21 +43,21 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
-    excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
-    publishedDateTime: 2022-10-10T18:40:00Z
-    webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+  - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
+    excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4.."
+    publishedDateTime: 2022-10-09T17:17:00Z
+    webUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022"
+    ampWebUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 71
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 73
     images:
-      - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
-        width: 540
-        height: 405
+      - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Sensorium to Showcase Latest Innovations of its AI-driven Metaverse at GITEX 2022"
     excerpt: "Verse, a new GITEX event dedicated to immersive technologies and the Web 3.0 industry, Sensorium will showcase some of its latest innovations in the field of extended reality and artificial intelligence with an interactive multi-day program."
@@ -150,6 +150,6 @@ related:
       domain: arabianbusiness.com
     quality: 19
 
-secured: "pAGXWx8J4o6gGELiJCoA1uiwKP97Q6ORDhnKeLpj3M+qQbQju3hFrrTbf0auYqGjYu1MNyZ1CPUUFNIVtumaD+1V14WmYMZgZmbdO6HZTUDWFSGP5heI2ChdekEVBEqFawu5Et22FjuhM+U1y4z1k60Pw68CKrQYqEBOTwOHXGcP8QREyOVwbn2HEPZf82/NBvUKvbYwUmbpyvk2xOQge9HEEeagAbay97k0/XiO9wNSRE9SGLnETMh+1qW5Biy4kVYtJBzeHqY59+6AFZPsOzbGmvGUPcFH5UJFOpyAwvaFNZqFZVEDoUw7lA0jXQO8Ec+NeRL5aznpfc+A6ZOLlOIGEHWM6vx+GuVZWLGYV7WuyEb8S/e70sm3C9p1JGDjwbvGhE97yO7ZMEMj9Ref9E53ip9LJqe3B1QFlGqQ6EQ0r8jHqsLeURBHkZBrLGrajXjDJEUuZhgXiYp8AbGMuBK+fRZT/snH41aWihPCRlF+7mDxuNkGPgxp34vsErsHAon/VYQklqCxvI9Ci/XPIw==;gMeVjQ2xH0T9vyjnmdT/hg=="
+secured: "NnHtzmUdEpj3LKovS6k01dQMTxL2HZ3hx61ma+Ntg2yoRK+cc6kovn4qTXfoF9bGcYoXfZ0Y+muplZyLa2POjcwUgHXMeZ+mTCXqmc1wHtMzuKGsSxs8zaSCNPgyCeYpnuCugLVwsFkAF5zjdHgvMJPhmqkf8mZirrg8ESqIGRwjMi0yjy1DOKqw1P1WWhvEMagZHLwXzfxX5feRR9Q0me0Y48cRFLsVDdaPxT7loMmr/UyKdTSUljqEX5mTfRejMCPJqb4iZSAzVbgoZkpueg39HMWq62IbTOh/x5C13L73CZbNIMFXjeYp5ZF3zxfdjw1xkJSVj81ZHiKddwRU3Ey409EdU0/GR6MnlSDk5VM=;9DhcGBYzc3LjSZxSN+EMgw=="
 ---
 

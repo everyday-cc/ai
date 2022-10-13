@@ -60,6 +60,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
+    excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
+    publishedDateTime: 2022-10-10T18:40:00Z
+    webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 71
+    images:
+      - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "China is setting the rules for driverless cars"
     excerpt: "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example"
     publishedDateTime: 2022-10-12T06:53:00Z

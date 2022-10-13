@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/security/ironvest-biometric-ai/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 107
 published: true
 
 provider:
