@@ -1,24 +1,20 @@
 ---
 category: news
 title: "What Makes a Champagne Vintage Great? Ask a Deep Learning Model"
-excerpt: "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change."
-publishedDateTime: 2022-10-08T11:00:00Z
-originalUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/"
-webUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/"
+excerpt: "In early 2021, Bollinger’s winemakers were able to get their first taste of La Grande Année 2014, a prestige fizz that had been aging in the champagne house’s cellars since it was blended."
+publishedDateTime: 2022-10-08T11:59:00Z
+originalUrl: "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model"
+webUrl: "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model"
 type: article
 
 provider:
-  name: Wired
-  domain: wired.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
   - Machine Learning
   - AI
 
-secured: "/ArjRvoAHMOfRiIOhZVXRVkE3isO22dXufa9Vcnr9y15B5MVxzCn5O3wkgf0iC+dla6CT/s7dUK8DKz6PRHTAXXuHpeMEPeDPudLARyA32W6+oGD5Yjbs3fHJyVo1Q8RMoYemrIig20z+m7xt9XruGloFVqp2XdeQVRqsLnuW7qdkxkTIzVGOybR/Zx7Gtz2UxPvVeGEGXPKzIxqQVeG9MIxs5LvxEKnUdV/8tbaqA3EJgiDqh0l7uPM/nhIbLaZmCgLtRCMM1+VuTgL/Bl49jx4kguCRJg5XVKcY3du46abMT0AlQHQLgyyutzdOcpvI+S3Wq1T8pUzqp42BQEbq9uj511dM5hQVO+YvJ3MW5SHjNA/jhOJ/3Xp75hpN+a+Zhb4XQvP5/Q80w7B50GsLnUa/Ho3ygtcWcgjMHSEVU4K0n/KkMaNCK/pa3mVJM611WCnE/yqildQbkTzWnQDhNOLhcCKSVMMhw6b/FkV2Hn/Xo3oSl25ZotFlfkzmVZnAiRRP2CuOAet9PRw5DhHTA==;Zv3WLfGRb2xzOCWnuW15ZQ=="
+secured: "MS/0cJtNANV+wFhbXdNakfiTdkxOFgHzw8JPvWj+dfW8kzNMpjf8VfoJWw3TiWcZ0GWofzZHjoT+YQp5usJT/brlKJN/iYdgOc3YHwx/Rj1Xe+0z9NvJBREUaGqqNNG1KCd2Tx78hwq1r/fpD6RDFAddopwCYQmGBMC1MqGDog0/epH8moKkoxt2WtyVKOyOdur+8uiJoBps05dV5IxRBKIyHPTXg8OeMKKXuP/o8hLnn8ykpfxjPnsumMG57PuUjqRb3MSCrhnYagM7nzLelnyixlcEelQ1kMos4bnBopAFbdlL91WOi+Z56GivvfsTLHCGoTO3Md5JJrvMCV528Pz/b43dT4KvAa5cDgDBvAg=;/vvoZ6xxapw3k1hwhrwJSw=="
 ---
 
