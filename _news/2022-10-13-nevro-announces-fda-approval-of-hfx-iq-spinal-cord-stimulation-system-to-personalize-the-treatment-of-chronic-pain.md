@@ -28,6 +28,22 @@ images:
     height: 267
     isCached: true
 
+related:
+  - title: "FDA approves Nevro HFX iQ spinal cord stimulation"
+    excerpt: "Nevro (NYSE:NVR) announced yesterday that the FDA approved its Senza HFX iQ spinal cord stimulation (SCS) system."
+    publishedDateTime: 2022-10-13T14:51:00Z
+    webUrl: "https://www.massdevice.com/fda-approves-nevro-hfx-iq-spinal-cord-stimulation/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 24
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2022/10/Nevro-Senza-HFX-iQ-System.jpg"
+        width: 770
+        height: 500
+        isCached: true
+
 secured: "w+wFOi5VUngQVW0qZ55JfHiSbkBXeMqLZqFeCk7C0YtP6u7EVWWrqwUe3A9DZ8ffn7tv0h7C4uVDrgGBp14Nbgk6aHyE6HU5qpiax9TX2zkFYFfp0iGy7U54lLR9y6/XGh0VR13EOU9ufgNgS2gjTHogJNktqIt5QyFoaPC+JWuUxa9uLTdRSg3YNKMiF5hyA5wRAk8JSDY2JEJW9Vbwf56UZiKSOQHv81nGBZydwmmf282nXyREsBL5xETt2fHgjkyz07OtJIvSr4vImaMet2UJ3zqti1bJLnZS9v7yd5ZcCAValo5dPjQ8jb3Cu7+hf5KfiTcXk+eylXYuOmLWb1kiBSLi9ldEU3IkiS9ViovJ9S8/XzWNTUUyZosHVDjCKKZkFcGtcIEpm3MTr7Ny087NJq2eSz0NeyAgUaGTpDIj2qqJ7tkXrvwO2NOzhbD5w/uiqFqFiIV/SY9SzfVbDR6EhjGGYYZFM/EbuWZ3JqIlq5zhOZKT74GZHEFgBlHdTfwnMwg1gWXYKCYIN4iu+g==;pV6bBc91W6tHHOuBC5ccrQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:49:00Z
 originalUrl: "https://www.scmp.com/news/hong-kong/society/article/3195873/artificial-intelligence-hong-kong-businesses-government"
 webUrl: "https://www.scmp.com/news/hong-kong/society/article/3195873/artificial-intelligence-hong-kong-businesses-government"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: scmp.com

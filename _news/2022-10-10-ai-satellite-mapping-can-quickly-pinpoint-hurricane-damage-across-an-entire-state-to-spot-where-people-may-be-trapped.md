@@ -25,6 +25,17 @@ images:
     height: 810
     isCached: true
 
+related:
+  - title: "Where AI Can — and Can’t — Help Talent Management"
+    excerpt: "Companies are struggling to hire and retain talent and AI tools have the potential to help. Across hiring, development, and retention, AI can help companies address pain points. However, it’s not as simple as plug and play — there are serious risks and drawbacks that companies need to consider if they’re going to incorporate AI into their talent management processes."
+    publishedDateTime: 2022-10-13T12:25:00Z
+    webUrl: "https://hbr.org/2022/10/where-ai-can-and-cant-help-talent-management"
+    type: article
+    provider:
+      name: Harvard Business Review
+      domain: hbr.org
+    quality: 17
+
 secured: "FoyLRpq/1iB2qIaULoCAmGL9J2E1bkbPVZmzvJTwi41U/+N/kEa5zTOSEUVoactGJku7PRWiFc3ZIcpFgqyBg3PXagV61xAuGEuy5E921X+eZs1orUewNEDQjMoHAOY773V0/PX53AnXDB/3N6wQeqzohNoQhwFKxXn8foyE0rbu+KxavyBNtenX+x88cdu2K9mDxOqsFvxhVWRW4TqGx2xQ/al9saV2ylo7LRLwwJqq5MiGshxLQ5jvDSXKzauGpumoOgClDXh+ON8AI+4S+nlXuf/hU4Ty4TQLmjEAW7GOt+puAeBdP61X/mKFlo+vvyeuqQC3DQnnFk9Bba66WfQXP095RZwX/B5BTSdxv8f0cYJdS7+D1jhUAPX29n72D80sh/S8+/jyKML/aVcBTr/CeraKAyH/P9+3b92rwS0YpoGPHghUzyKrSHWfMzVfOifngD6ys2UtfDJKZlsnKZfQFuIlRYwVHm85ajqzUHiF/iFemM9aYRXtdYEInYmHbF5vA7kjbnNRSiwd/Z1OGw==;D+yFQzEa6f99/142HTqISQ=="
 ---
 

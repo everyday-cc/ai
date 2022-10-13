@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:34:00Z
 originalUrl: "https://knowtechie.com/does-pixel-7-have-face-unlock/"
 webUrl: "https://knowtechie.com/does-pixel-7-have-face-unlock/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KnowTechie

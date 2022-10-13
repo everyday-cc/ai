@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:19:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

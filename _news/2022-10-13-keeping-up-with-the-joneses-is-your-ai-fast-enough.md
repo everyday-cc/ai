@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/13/keeping-up-with-the-joneses-is-your-ai-fast-enough/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/13/keeping-up-with-the-joneses-is-your-ai-fast-enough/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

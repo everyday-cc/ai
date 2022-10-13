@@ -79,6 +79,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "8 Challenges Fintech Startups Should Be Ready to Face"
+    excerpt: "Can Fintech change how traditional banks function?” “What effects will it have on the global economy in the long run?” “Can Fintech match the stability and reliability of traditional banking systems?” Most people have these questions when they first hear about fintech."
+    publishedDateTime: 2022-10-13T12:17:00Z
+    webUrl: "https://techbullion.com/8-challenges-fintech-startups-should-be-ready-to-face/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "GM5g9uft3b2jjDybHiaQEbQoSuYTbvAV1z9ykqd19tL46ZqtoTUTl45TQTdbAp6wPJXA+4rxllQDS+MIio1Wo71dn+/B4Cz5tMuWGCpIFGbmEjE5dSrQqiDXYKrteE+Ca7EDPENQNWKVGDIW5TgHOCACfChOd+V2rWLkaYtsI/d7JKdqlIFvsBQ5pDiz8EueKT4rrmEA3BdlqA+Pw4aPPbPO3HMejXqNrx+iilTN14JC7Q3mH0uiWaD+kgwheVoWFoicTQBiNBscMc73njEnCuPMzn95GuuS652InmWS2M3owqCiqWPjallrNN/JAjPWVuBgPNixOwlDRO4gMiQdJ4cAwHkolicPZc4unpuzWm0=;Neqc+C9rwHHfX8o2k0qToA=="
 ---

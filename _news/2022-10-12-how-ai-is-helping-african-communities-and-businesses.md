@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/around-the-globe/google-africa/how-ai-is-helpi
 webUrl: "https://blog.google/around-the-globe/google-africa/how-ai-is-helping-african-communities-and-businesses/"
 type: article
 quality: 89
-heat: 89
+heat: 91
 published: true
 
 provider:

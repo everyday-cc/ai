@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/13/14-powerful-business-use-cases-that-combine-business-intelligence-with-machine-learning/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/13/14-powerful-business-use-cases-that-combine-business-intelligence-with-machine-learning/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Forbes

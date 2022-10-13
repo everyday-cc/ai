@@ -80,6 +80,15 @@ related:
       name: Accounting Today
       domain: accountingtoday.com
     quality: 4
+  - title: "8 Challenges Fintech Startups Should Be Ready to Face"
+    excerpt: "Can Fintech change how traditional banks function?” “What effects will it have on the global economy in the long run?” “Can Fintech match the stability and reliability of traditional banking systems?” Most people have these questions when they first hear about fintech."
+    publishedDateTime: 2022-10-13T12:17:00Z
+    webUrl: "https://techbullion.com/8-challenges-fintech-startups-should-be-ready-to-face/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
 
 secured: "tIjTwth8f7CCMcNmNMzz/TvyVpwOYeZ31syQxb0WM+pE7Jn29Chp99VRcuo6XTa5ZmcXVRyf+u3eDKcR8j5yIHaizhoea1xPkTfTDNayabQGc3ktfPZAkXNMo8FI1yLUxBSFaV45htSphLutiFKNrqMaGk8KH2LmW2k6cmWtnl6IyONA5MUncoh45hCvRbL0nq4QzC/jTIhQpfT4CjU/L0rl5/We1QmXbgbHLOJUFCC24HTUAb6s8JCOFQIqKAtcaJPdsDs7+/maUQYD+QJZFIJz9pChnJEAyme5BJGsCphPMFC6oQZvPCD2LJkkqCAu8lCUQVTuEdviN7f3GzHEEKVmJBmPwE54VcD+bg5WJHPSHTUaZfRAHLI5VN8TjV9Cs1v3AznRW196ztMuPCrHOHz5GAz0jO/Bw1TaDl0Ee5sL+tIqsLcG5UBxnBj1GbFV2ITKCaxH1eySTH5UEgxiyTEniV0Hy4JvOdM5J8NxeTnggt43HRXQepOsxStfKSagdPfLaeSS7sB8VVLL0nvl+w==;mtRiHe4wmjJJv0j+iBnjEg=="
 ---

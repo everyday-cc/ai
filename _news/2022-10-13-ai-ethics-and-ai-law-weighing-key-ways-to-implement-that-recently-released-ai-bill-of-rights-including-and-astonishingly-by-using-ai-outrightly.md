@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/13/ai-ethics-and-ai-law-weighing-key-ways-to-implement-that-recently-released-ai-bill-of-rights-including-and-astonishingly-by-using-ai-outrightly/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/13/ai-ethics-and-ai-law-weighing-key-ways-to-implement-that-recently-released-ai-bill-of-rights-including-and-astonishingly-by-using-ai-outrightly/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Forbes

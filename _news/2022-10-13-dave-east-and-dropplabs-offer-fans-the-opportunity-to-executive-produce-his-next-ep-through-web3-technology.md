@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T13:18:00Z
 originalUrl: "https://www.01net.it/dave-east-and-dropplabs-offer-fans-the-opportunity-to-executive-produce-his-next-ep-through-web3-technology/"
 webUrl: "https://www.01net.it/dave-east-and-dropplabs-offer-fans-the-opportunity-to-executive-produce-his-next-ep-through-web3-technology/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: 01Net

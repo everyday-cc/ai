@@ -24,6 +24,17 @@ images:
     height: 675
     isCached: true
 
+related:
+  - title: "Genomic Testing Cooperative and its Co-Op Members"
+    excerpt: "Genomic Testing Cooperative, LCA (GTC) announced that its innovative artificial intelligence (AI) algorithms are now formally implemented in daily use to aid pathologists in the diagnosis and interpretation of molecular findings of genomic profiling."
+    publishedDateTime: 2022-10-13T12:34:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-genomic-testing-cooperative-its-co-op-members-first-/2022/10/13/9691857.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 4
+
 secured: "XEhQKYKAdvmaauJ5q0MeFHKdtRUfGyVqeeVBhQxmeKGgI5wKHa5gfAGP0va3qhgYI4wop77ejBww3I4J0s2eGfGmv7c52EqpnWcSK8nSyMaHal9kXso9cykO6qDW0TUtnX1RpxkO7GegwWBMSMsitsB6VNh/O+qtRi2f6WJHxgCidUhmJmDYLegS/C54FIPHSmvd15HSiW7zyEG8FMwxTz9xjDJlkvuhDW1zvMeymQzEeVk3p1fuqMWhGX9YR5jK1vm0z6v7GYUBk7ilDFGBa1DTAbwNhUYjBOLY8nE3arzOSCZnvsO5sEcEQn4frwY3hq+mTUeIfEkaN7QhHpvBljUic/9CuFkKQJMhQ2+HAH+uirQJWMK+tBI2S8smzX2cFTwdfBzKYk0EI3otkTYHvsTxjaE/JIqVwOIQZTpM7xrWbqtEIp7P98dz6573OT3lZNrSta50fNHdn3fQxAr+84kwVXhskQxvVHDL5xQvTWPXPXw9YvurfBPlXi5lcjyBJ5QboQE3cVIJ0G4X9X8gOA==;QNyjOVxzcpx5iAdwotXtJg=="
 ---
 

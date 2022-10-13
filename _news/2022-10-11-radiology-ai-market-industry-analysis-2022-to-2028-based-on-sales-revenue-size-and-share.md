@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-indu
 webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10"
 type: article
 quality: 73
-heat: 313
+heat: 323
 published: true
 
 provider:
@@ -178,6 +178,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
+    publishedDateTime: 2022-10-13T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
     excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
     publishedDateTime: 2022-10-10T04:42:00Z

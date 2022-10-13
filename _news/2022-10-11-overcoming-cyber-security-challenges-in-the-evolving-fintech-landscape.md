@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-ch
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
     provider:
       name: Accounting Today
       domain: accountingtoday.com
+    quality: 4
+  - title: "8 Challenges Fintech Startups Should Be Ready to Face"
+    excerpt: "Can Fintech change how traditional banks function?” “What effects will it have on the global economy in the long run?” “Can Fintech match the stability and reliability of traditional banking systems?” Most people have these questions when they first hear about fintech."
+    publishedDateTime: 2022-10-13T12:17:00Z
+    webUrl: "https://techbullion.com/8-challenges-fintech-startups-should-be-ready-to-face/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
     quality: 4
 
 secured: "wOkwDdAy+XHBPMKFcM7I5bKE+ME/Gjbg8rHwsgbPvvn4HANNyDiUisqyD3W6KLGYzV2G3hCOOzJP3KQN363zxrXFwffMIw2ctCz6fO1vcI/HaZCadvRawWH7+9MIF5oq3Iaq/BNPHTR6qHynBBVWhPX+7wC3fKhWtQBkh4MgKf/ZA4eAt7GMyatmoEZt6Rv2Pxn3gHVvTK7jIA1LUAW7m2f54JBjBzW0cxVY0Kf3mEY6n9mGa2EVQ0ZBtQXRblaIyoVwDFmLGk74EOh2p5+iad6/GDN86vImFfkXFts09ZMdaHnrA4cU15mABupSfylekNKQiKs7tM8oWLga7ySJ5O2aGbbNgn5MXQW0EV2bqfXc3mEcXsy6hRscX0p0VR1RKsWgNgRb+ETj0YGbtnh5rgT7MKC96mWVI7Uz70DFvGlrSsa53mQzMZYWWFBe4ncQwcDld021TkJzF2X1o/b7wKYlk5lsxSjc7lNtoIiyMc8sYAtIM2REpLQi5QoHy5SElP58YNXTlLGTtotN9w94CA==;6GBHCLTp7P7X0As1L8exSw=="

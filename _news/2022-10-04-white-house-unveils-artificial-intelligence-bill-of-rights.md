@@ -1,28 +1,24 @@
 ---
 category: news
-title: "White House unveils artificial intelligence ‘Bill of Rights’"
-excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
-publishedDateTime: 2022-10-03T23:26:00Z
-originalUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
-webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
-ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
-cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+title: "White House Unveils Artificial Intelligence 'Bill of Rights'"
+excerpt: "White House Unveils Artificial Intelligence 'Bill of Rights' By GARANCE BURKE, Associated Press The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused ..."
+publishedDateTime: 2022-10-04T11:28:00Z
+originalUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
+webUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
 type: article
 
 provider:
-  name: MyNorthwest.com
-  domain: mynorthwest.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-images:
-  - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
-    width: 1280
-    height: 853
-    isCached: true
-
-secured: "DZNwnPhMUrJeQkD+tgXmNAXMKRBnmYxWEE1+H+p0igA4dL9IACAHIMrzyNlZI+ZmA95zUBjdz/BhBg9t5EekZteATVdsEBW35vhFSXt3dcTV0goCJt+wU+7oeE8Z7soexZKIZSG3d480P27MzHneZDwovtjsMkQDkKZmRguJ5IC4QVWXQkABdH1fwzpSasPppF8H1ZONQPcSc2mWcSAIQVC1/2M4eR5dWbpyoTwQ+kTI5yLGoZOVxKkHPX/dFw3VsNw9Q/el//lYZkhExrn1geI8MZ8mRlCtJM1FppxE21wpRuNOxljcYtsW17bWrmx2jjUBHtACxPY7QZkMDP4cz9okN8tgcKy5IvOF50ClNzs341bhbv5m2Uq3WHUheYvQdEUs5rX/1Ic8+m0ITfMW97/fnUGAs7IMgHWDkHzm0vSQ1hzNgBSd18YSUw+JoeZ0+4IEMnWYu86jqJdwhR/16Y9a0sNbsvfmQ/6NSs9oQlvwFsFR38NtujI0iZLleHmy+mhfHYbSGUjPViwmLFjwBQ==;YJQ6eYHKz0C1f3PqTMkO7Q=="
+secured: "rnVMQiFIyAh3FEgf6BnmkWvNvfz8q8pgumsC0LM2W1uiDcNjzflYcPY/ZuJMXMiH8NJHjG3lpdTtViFPypE4GaF1Jh6qyPRG3lK6Yg5xME0eP7PIB0rudgwYGkMJxn3M11JmQNmG0lVXgeH47Tco3XONJ0QZqHk4fQALRZFQ8AdQDlyhHvVVmTLCsq1OUBh2qS0mykb7qp/lKcMB/X4CEMOVKXKZS4FyPvpsL1son9WqWH/j64uSerYOmDSDr0NyjcTMGWA48E9Y/60Z/fCAZ2hKRwaAhbi47b4V69U5OPeTU/ygSgQ28wWrDZtf1tbORohBVgJZjtwztzewDQDMZlOYyr7cb97Gix0QsdXDIOY=;VRAq/R4AwfqNwlDk0bavQg=="
 ---
 

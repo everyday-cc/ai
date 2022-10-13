@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T13:53:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-cloudfabrix-named-leader-innovator-the-2022-gigaom-radar-/2022/10/13/9692043.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-cloudfabrix-named-leader-innovator-the-2022-gigaom-radar-/2022/10/13/9692043.htm"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: TMCnet

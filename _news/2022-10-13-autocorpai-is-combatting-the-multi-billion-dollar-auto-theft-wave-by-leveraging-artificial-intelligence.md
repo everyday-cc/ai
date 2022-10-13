@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T13:47:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
 webUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Big News Network.com

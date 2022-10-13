@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T12:45:00Z
 originalUrl: "https://www.design-reuse.com/news/52821/polyn-voice-processing-tiny-ai-chip-voice-extraction.html"
 webUrl: "https://www.design-reuse.com/news/52821/polyn-voice-processing-tiny-ai-chip-voice-extraction.html"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Design-Reuse

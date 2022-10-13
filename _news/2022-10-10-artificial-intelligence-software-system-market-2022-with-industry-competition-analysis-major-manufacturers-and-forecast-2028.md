@@ -191,6 +191,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
+    publishedDateTime: 2022-10-13T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "Face Recognition Device Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
     excerpt: "The report also includes the latest technological developments, growth factors, challenges, and market trends. The Global Face Recognition Device market report provides an in-depth analysis of the top investment pockets,"
     publishedDateTime: 2022-10-11T01:58:00Z

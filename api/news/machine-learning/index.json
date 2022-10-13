@@ -312,34 +312,34 @@
     {
       "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
       "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
-      "excerpt": "In early 2021, Bollinger’s winemakers were able to get their first taste of La Grande Année 2014, a prestige fizz that had been aging in the champagne house’s cellars since it was blended.",
+      "excerpt": "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change.",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model",
-      "originalUrl": "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model",
+      "webUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
+      "originalUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.co.uk/photos/63408807c355476fe206deed/16:9/w_1280,c_limit/Bollinger-Champagne-Featured-Gear.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-08T04:59:00-07:00",
+      "publishedDateTime": "2022-10-08T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wired UK",
-        "domain": "wired.co.uk",
-        "images": null,
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
