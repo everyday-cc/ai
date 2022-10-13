@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Massive Bio and Perthera.ai Partner to Empower Cancer Patients with Personalized Therapies and Accurate Trial Recommendations"
-excerpt: "Less than three percent of cancer patients today are matched and enrolled in a clinical trial. By combining the advanced computational methods and artificial intelligence capabilities of both companies,"
-publishedDateTime: 2022-10-05T11:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/05/9686538.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/05/9686538.htm"
+excerpt: "Massive Bio, a leader in AI-powered cancer clinical trial enrollment, announced a strategic partnership with Perthera.ai, a pioneer in connecting oncologists and patients with biomarker-based therapy options."
+publishedDateTime: 2022-10-05T11:37:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-5-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-5-massive-bio-and-pertheraai-partner-to-empower-cancer-patients-with-personalized-therapies-and-accurate-trial-recommendations"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Healthcare
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "1hHnbi5gA3DUFBblHP4wzLPE2bfTuWYz9lPa4b3F5ixUXDJqnxx5WGIo72FcOT+pPz0k2ZbjoTVF2b2LUE910fOP8OnGFGsM+c2BmgM8VNDkt1gVsUD23JGei+aFq7n4rtpJlabd+sTnhq7w7sHwnzLipmsdpy+PYbNlr66PWPI18tSDeryO9Dr9BCAha/tpID7N1Io9C0lCcWC9VmPDGBVhwAbRvrv/l2ozgR04//fRdTddrUKSzg3Ie1K5pmev6Ss4UmJ1+9EQoaNoFRL09z3ndJhmaagjSVxKN0/2bHu0NdsiIWzqJ3c1pXHHzRe4O72h6w6MvJs027g41J8RHoEknc3jmxx6NEQtmcJiiSs=;dXM/fPNLONRlVTi+t3EJQQ=="
+secured: "e/JR7KPApoTWfi6hemnnDZa5TEmh3nJFpFZ2oOC9j1ZZPvfxgDWXscLfWLMAH6ofwJgxX2EIiEUVkqRYWe/RSjVswwEQtxUtX1q3BJ3saMhrpUWA70FooJI4PB8GwnUFvBPM3hqzrteCASBvnkr6JOBOhsKls1c1MEzDabCjXTBAiTlCiqJ1AuUecN2kr3Oh+mwh9mSwy1WrDO+bdP8aVavDQfEIX8t9wiJ+ioJrsMn3/b+lH4z4PpytceNuiRV81WaUCInsg5OYufRVyrtE46gIqbpzIyS4YHUtzOvwAlBMJDXFzKo4zTRUD5OAywImjOp5i8WvH3gLHfdCo3vDF3t6MU3rcfFI5Glm7CgRoTU=;sqsIhyxt0S8NwRgRolRb9Q=="
 ---
 

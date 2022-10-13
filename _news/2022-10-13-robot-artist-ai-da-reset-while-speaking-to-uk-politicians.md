@@ -3,12 +3,14 @@ category: news
 title: "Robot artist Ai-Da reset while speaking to UK politicians"
 excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
 publishedDateTime: 2022-10-12T18:09:00Z
-originalUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+originalUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
+webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
+ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 104
+heat: 124
+published: true
 
 provider:
   name: CNN
@@ -21,6 +23,12 @@ provider:
 topics:
   - AI
   - AI in Robotics
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
 
 related:
   - title: "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng"
@@ -49,6 +57,6 @@ related:
       domain: itv.com
     quality: 29
 
-secured: "Zmc5t1Qxs5iU+iz5hwzVm+cuO5KxTMVIxEb70JC98z7l3ewbLcUOkKYWOHOEKz0/GmBTPQVUzMihU14PBUvtohFRtamizx9nOzhVAOwncCM70M7rC6EOW12Cm7pgn/jsgAaFp+uc1dxssuy3WMOW9k6AXQn5WffXLmPozC2Lzg9BEQbOyMFKmKE2S2RXmxXDRadQk4tNaral8Lol2sg/ubiGc5V4TcTE/D+TpFFKrXq/XhhnAwVfS/KYVyF5sEbaFQsVg2a0T/Taj1rTAD5Z0GligRRzflnbrKybHuPdVf9aQ6/MfnbC2n9bwd9yp+f6pdINNV3gtiK9nJxnQkMLorRUAZDS58+vvUPvUGGo/snK9IAlqEFd5i5uewoUaUGr74E9isOTDARN0WYUKuHoV7D3ZrSBCAQh0OOou3z1B+H0KFD1CndRREZfEzafHYvVtaxvldKonK1ViRD0k0E1bLT09LkNlLhbTtssLz6D+KzwdIIb58uoRB9f7mymprYKkaJYCT9Hz38vY5fXTmKMHw==;lYKx0mzH4ccgMOsrXqgxpw=="
+secured: "MQeeSnsB3Xwhi/YW4FxCgJtQ+6SlLfFba08VUwFt+XSTa/dpXy3Arg4Nr/SySYg2R5Hy7KoHT6kMISGT7Fa/+X1zm5oZPniHQdnH5eKx2fnaeAxCC1bVYu5aUf5cncG0WXnWxo9HHprDEXg2MmP5vW2JOiLHE3Y4pL3y16yuZM7mhJJiclNzoopTwG0KTBXeWFenkbfiMxmyg1vd2E2Hzv38NQpxpDMsnd6wOamiT17SDDZ5mQJj5qlukRa8vsuo0Ll0z/YTkuqru98HQLRtqlvCJtcaNWc9TgAGa9d20B81vPKWh/AlTADcxNK77grMDUxL2SIDmceWNOFQzgA0vo16jreo/S5odeq93yUgcAE=;EBvUkL2nRraJ701Aourz8Q=="
 ---
 

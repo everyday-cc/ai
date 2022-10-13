@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-13-finpro-uses-applied-ai-to-forecast-financials-faster.md",
+      "title": "Finpro Uses Applied AI to Forecast Financials Faster",
+      "excerpt": "Today, he lives in San Francisco and is the founder and CEO of Finpro (formerly Finmod). This fintech start-up applies artificial intelligence (AI) and machine learning techniques to help businesses forecast financials.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster",
+      "originalUrl": "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/f/finpro-use/finpro-uses-applied-ai-to-forecast-financials-faster_x73c.1200.png",
+          "width": 1200,
+          "height": 858,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T15:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-what-happened-to-teslas-stock-price-since-the-last-ai-day.md",
       "title": "What Happened To Tesla’s Stock Price Since The Last AI Day?",
       "excerpt": "What happened with Tesla’s stock price after AI Day? We look at the recent Tesla news that has come out in the 12 days since the event.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -95,6 +147,58 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-robot-artist-ai-da-reset-while-speaking-to-uk-politicians.md",
+      "title": "Robot artist Ai-Da reset while speaking to UK politicians",
+      "excerpt": "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "originalUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn",
+      "publishedDateTime": "2022-10-12T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -201,7 +305,7 @@
       "originalUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 145,
       "tags": null,
       "images": [
         {
@@ -252,7 +356,7 @@
       "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 449,
+      "heat": 479,
       "tags": null,
       "images": [
         {
@@ -996,58 +1100,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-12-dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng.md",
-      "title": "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng",
-      "excerpt": "A robot addressing a Lords committee evinced a clarity and personality all too lacking at the top of the Tory party",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng",
-      "originalUrl": "https://www.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/4a3ae4282c813b0b73212427e0e4352a2039a3a4/2_737_7326_4398/master/7326.jpg?width=620&quality=85&auto=format&fit=max&s=7c24efff0b4aad62622d4a417924cfdd",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng",
-      "publishedDateTime": "2022-10-11T14:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-10-12-bigbearai-names-amanda-long-as-ceo.md",
       "title": "BigBear.ai Names Amanda Long as CEO",
       "excerpt": "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who",
@@ -1185,57 +1237,6 @@
         "AI",
         "Google AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip.md",
-      "title": "TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP",
-      "excerpt": "IMO, “growth hacking\" is a sloppy way to describe the iterative work required to fine-tune marketing campaigns and systems.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
-      "originalUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1324729821.jpg?resize=1200,859",
-          "width": 1200,
-          "height": 859,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
-      "publishedDateTime": "2022-10-11T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

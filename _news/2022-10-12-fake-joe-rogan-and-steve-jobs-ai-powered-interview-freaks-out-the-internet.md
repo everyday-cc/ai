@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
 type: article
 quality: 85
-heat: 137
+heat: 145
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       - url: "https://bgr.com/wp-content/uploads/2022/10/steve-jobs-joe-rogan-bgr.jpg?quality=82&strip=all"
         width: 2000
         height: 1000
+        isCached: true
+  - title: "Steve Jobs stars in Joe Rogan podcast thanks to artificial intelligence"
+    excerpt: "Artificial Intelligence has created a fake episode of the Joe Rogan Experience with Steve Jobs - and the internet is divided."
+    publishedDateTime: 2022-10-12T20:29:00Z
+    webUrl: "https://www.dexerto.com/entertainment/steve-jobs-stars-in-joe-rogan-podcast-thanks-to-artificial-intelligence-1956809/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 39
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/10/12/AI-creates-podcast-episode-with-Joe-Rogan-and-Steve-Jobs.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "This podcast brings Steve Jobs back to life, thanks to AI"
     excerpt: "What would Steve Jobs have to say if he were alive today? A podcast attempts that experience. But is it effective?"

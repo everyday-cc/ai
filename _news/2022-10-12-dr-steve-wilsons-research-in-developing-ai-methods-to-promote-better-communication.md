@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-12T13:03:00Z
 originalUrl: "https://oaklandpostonline.com/43688/showcase/dr-steve-wilsons-research-in-developing-ai-methods-to-promote-better-communication/"
 webUrl: "https://oaklandpostonline.com/43688/showcase/dr-steve-wilsons-research-in-developing-ai-methods-to-promote-better-communication/"
 type: article
-quality: 12
-heat: 12
+quality: 34
+heat: 34
 published: false
 
 provider:
@@ -17,7 +17,14 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Natural Language Processing
 
-secured: "4WLqAiHJFzaYS4JF6W8kw4z7F+eByNP2MdJrR6AktRzWU03ZNymmZyqOz9Xdt5kQjGIujwwuPJWl3rcOal3jG0KM5EygxYiBLikMT9ZLLsr7+LF6KpfzV2+/jN4Q1fhpCm9P9kpvSKOXJV6YRpj1ALtikT99kB2/uEqTZXAJ7SBSVipqVE9x5vuI591JbhIMjRuQKiut4AfLZvay4tRVXxINQGwJJL1xu3FXI9Pxonz+t4eBjuV12Ei0JfZeElvr4zHUxL8FSKuoF2Fre0Cw1ySrA9IjVLwxRmjQlgyaGA0RH2ksYHlGOcJNW2eXL5JsCwC4a4L4f1VOq2Z/a+rZ1foTcZtuK/sXHQCd00aC4WmXx4n64FcciJRQmfxq/2SbmaaA/qcJIHaod4eWxt89JUO3dBUFV0ZiJshKNbuMpYcX9bDH7SHb+hzsnBEF387KtKnr5iyc7ZXwlrP5ejyKnAPXoAs5ziPZwLs811ke4Zbc2N4FNYBG8xmsR23FZoc6Y+88wfOz4c8/l6+xUyHO9A==;H14a97+FqJcTZ5MzceFGeA=="
+images:
+  - url: "https://oaklandpostonline.com/wp-content/uploads/2022/10/prof_pic-1400x1364-1-900x877.jpg"
+    width: 900
+    height: 877
+    isCached: true
+
+secured: "Yjf2Aqdgu3QWXo77jX55t2BBUVyOG8jt/M0Qpne2992DzRjifV+4Dq9eB8kf2YnjpEavmvDzMUvpIGtOqYneV+pNwIwMsxgzlUmb+/N9ZtAobZpwTjgPDjuJMHUTOvl+ShEdnuXKdH5QlU5E+ADESnh0RQ4HfsATT2LIUfIMxXAUHPF7hFDoe0ky/mNmcWrM3USj2pxeW3N+XQip81WbmtdXv2AfgxcBbtGwr0EZriSMJpy1jRAQPW+LHjvww3pLacnFhVkSGnMOlUeZv1HEWpfuTx8Bb4HYsNwYFBQcdV/z4a6Dum6mQbrsk9wduhAxKBHZBQsAjLzeNiF0sda9qLfzYha61ibGAPjG1QSA9q0=;p2wGYzpEDS68uD72U6sDaw=="
 ---
 

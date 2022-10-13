@@ -8,7 +8,7 @@ webUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-upd
 ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
 type: article
-quality: 59
+quality: 61
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://erepublic.brightspotcdn.com/dims4/default/2614a4e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F3f%2F4660393d4d39b26096194218444d%2Fshutterstock-1083498080.jpg"

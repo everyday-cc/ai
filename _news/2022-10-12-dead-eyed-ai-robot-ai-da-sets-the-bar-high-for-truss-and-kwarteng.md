@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
 type: article
 quality: 74
-heat: 96
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -34,12 +34,19 @@ related:
   - title: "Robot artist Ai-Da reset while speaking to UK politicians"
     excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
     publishedDateTime: 2022-10-12T18:09:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
     type: article
     provider:
       name: CNN
       domain: cnn.com
-    quality: 64
+    quality: 104
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Ai-Da the robot turned on and off again during historic speech in House of Lords"
     excerpt: "An AI-powered robot has become the first to give evidence to a parliamentary committee after appearing before peers. | ITV National News"
     publishedDateTime: 2022-10-11T16:39:00Z

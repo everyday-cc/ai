@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-11T00:01:00Z
 originalUrl: "https://www.news-medical.net/?tag=/Artificial-Intelligence"
 webUrl: "https://www.news-medical.net/?tag=/Artificial-Intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"

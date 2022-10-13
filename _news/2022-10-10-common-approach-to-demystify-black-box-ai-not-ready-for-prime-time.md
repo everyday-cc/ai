@@ -34,7 +34,7 @@ related:
     provider:
       name: News Medical
       domain: news-medical.net
-    quality: 39
+    quality: 41
     images:
       - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
         width: 973

@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-12T14:16:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/10/microsoft-integrates-ai-image-generator-into-edge-bing-and-a-new-app/"
 webUrl: "https://arstechnica.com/information-technology/2022/10/microsoft-integrates-ai-image-generator-into-edge-bing-and-a-new-app/"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - Microsoft AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft_designer_shot-760x380.jpg"
@@ -140,6 +141,22 @@ related:
       - url: "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Microsoft announces Canva competitor with new 'Designer' app powered by AI"
+    excerpt: "Microsoft Designer uses the OpenAI DALLE-2 model to help create designs faster. Users can sign up for the free preview today."
+    publishedDateTime: 2022-10-12T15:24:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-announces-canva-competitor-with-new-designer-app-powered-by-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-announces-canva-competitor-with-new-designer-app-powered-by-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-announces-canva-competitor-with-new-designer-app-powered-by-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 102
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4c7e307bd67283d15674453d3dcf9c5dc088bd3f/2022/10/10/bcf28bd7-43e4-4a94-9d2c-5096d2bdcc33/start-from-scratch-large-960-5fps.gif?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Microsoft launches Designer, its answer to highly valued startup Canva"
     excerpt: "Microsoft initially wants to pick up consumer use with its Designer application for graphic design. Over time it could bring the tool to companies."
@@ -331,6 +348,20 @@ related:
         width: 476
         height: 210
         isCached: true
+  - title: "Nutanix launches Cloud Clusters on Microsoft Azure"
+    excerpt: "Nutanix, a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
+    publishedDateTime: 2022-10-13T01:10:00Z
+    webUrl: "https://itwire.com/guest-articles/company-news/nutanix-launches-cloud-clusters-on-microsoft-azure.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 54
+    images:
+      - url: "https://itwire.com/media/k2/items/cache/6bcac9a5eabf126835a566d6372c3767_M.jpg"
+        width: 375
+        height: 250
+        isCached: true
   - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
     excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
     publishedDateTime: 2022-10-11T03:20:00Z
@@ -480,6 +511,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Thomas-Cornely-Indu-Keri-Eric-Lockard-Nutanix-Accelerate-Hybrid-Cloud-2022.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Haleon harnesses Microsoft’s Seeing AI technology to make health product information more accessible for people who are blind or have low vision"
+    excerpt: "Haleon and Microsoft expanded the functionality of Seeing AI to provide detailed audio information for 1,500-plus consumer health products."
+    publishedDateTime: 2022-10-12T23:05:00Z
+    webUrl: "https://news.microsoft.com/transform/haleon-harnesses-microsofts-seeing-ai-technology-to-make-health-product-information-more-accessible-for-people-who-are-blind-or-have-low-vision/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 17
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/382/2022/10/Haleon_Seeing-AI_hero-scaled.jpg"
+        width: 2560
+        height: 1440
         isCached: true
 
 secured: "g2DAm4WOnponKFGcVjMSDtNiE/nTkxofhOMh+lmBmN7Uc1P964e3MOKjGP/TCLzX7FsPgtUykCw4c/fUzDln/sPGbgKK0GddhuHccKxuXm0Oft1k0lVOryZbgMoC32Ap7kWw7edtbgX9xYJbmeHS/ojzHMJRIWYZ7ko0T2ltBy0OWipPRyRxqItXpeiDeN1Tnz+aXn2s0iJAHcB2V6/imUeNiuyXInSvVuAHJoZtgPagssGbg/8hr6MQXAG0wZ/yHl8IKzG/E6eEqD3uR2MkqeI16g2GN+Nd/3u69NkczWXAtlekVibCfzdiIKkY5Sl1kKXUm4AvthLBLVJeiVj4NIaPrY7IsQRWuzAYCke50GUry/eJaw2GtCbMdaa6+V+cT6IZNKoL+7OsJQS8UzOQljca+4/b9ZjgM70oiymi0y5DlPnMtcgAmDZLC2Q9Q1xCwEUhPN6oc8A/MxOCRdxv2Gj6bCwMwBJ3HxBGyCzbLSeZDu2p3eQptVGBFLGCY4PcEVbq4y/YQI7jeq+TjwWB4g==;EUYEDZWXZOG+TF9SRVXvNA=="
