@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-11T12:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai---enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030-2022-10-11"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai---enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030-2022-10-11"
 type: article
-quality: 55
-heat: 95
+quality: 57
+heat: 97
 published: true
 
 provider:
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

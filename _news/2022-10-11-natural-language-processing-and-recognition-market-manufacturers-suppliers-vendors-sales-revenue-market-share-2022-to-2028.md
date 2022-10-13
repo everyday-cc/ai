@@ -216,6 +216,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Artificial Intelligence in IoT Market 2022 Segment by Types, Applications, Leading Players Update, SWOT Analysis and Forecast 2029"
+    excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2022-10-12T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2022-segment-by-types-applications-leading-players-update-swot-analysis-and-forecast-2029-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence For Drug Development and Discovery Market, Share, Size, Segmentations, Industry Trends, And Forecasts 2022 To 2030"
     excerpt: "The artificial intelligence for drug discovery and development market was valued at $520 million in 2019 and is projected to reach $4,815 million by 2027, registering a CAGR of 31.6% from 2020 to 2027."
     publishedDateTime: 2022-10-10T05:35:00Z

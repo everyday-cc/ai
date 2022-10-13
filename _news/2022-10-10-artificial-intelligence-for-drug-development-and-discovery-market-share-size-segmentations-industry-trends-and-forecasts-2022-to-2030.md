@@ -229,6 +229,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Artificial Intelligence in IoT Market 2022 Segment by Types, Applications, Leading Players Update, SWOT Analysis and Forecast 2029"
+    excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2022-10-12T07:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-iot-market-2022-segment-by-types-applications-leading-players-update-swot-analysis-and-forecast-2029-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
     excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
     publishedDateTime: 2022-10-10T16:30:00Z

@@ -1,27 +1,24 @@
 ---
 category: news
 title: "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research"
-excerpt: "Solution Adds 580 PetaFLOPS of AI Performance to Meet the Growing Demand for AI Training and Leverages Supermicro's Extensive Portfolio and"
-publishedDateTime: 2022-10-10T13:12:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-1031793177"
-webUrl: "https://markets.businessinsider.com/news/stocks/nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-1031793177"
+excerpt: "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ..."
+publishedDateTime: 2022-10-10T13:16:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
+ampWebUrl: "https://www.benzinga.com/amp/content/29201236"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 59
+heat: 69
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - Facebook AI
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
@@ -40,6 +37,6 @@ related:
       domain: finanznachrichten.de
     quality: 5
 
-secured: "yYNUPxAPgwLYMLGvtq2YPFuPua0t5z/yFJjpktLSDr4U29iaWPS7R2oO7VAYgD1p3y2PYInevf3sYarrm4/miHS5bg1LX2+oYd94U2bDG+njzImCNziVu344apsz7kyXB8zR63FdEmtnxQhpvCX3C6zr9sFAya2zZjiTBn1fG0zSDP56QQPPB7FiJRBm1mVZDQfXE0DN9iYDTB0n7YtG2DtxBrIRM4iEykZPV5ETHhXb267zQ3/VfoNk0tdTYM8AijX2kvVQymNKc0JbljxanJ+bDVudiRRHxgJ33wZ1Ux8tPFuQW0lJosg2YBnUgPWdbFdxXFuUBDh+IK9+9QShBlGYLnljrXpUgGD8haCN8gI=;No+qCnSCem+sgukaXbIZYQ=="
+secured: "kSAdL1SJAKC9287i7+EGWfBa2rkurHg1DPAa2sbpf8cO3LbF8cLuemAv5cRxTa081kqK9B18O+6bdS+jzCOHRmEYrkvPY1+s1XdIK4//+QgeTQp+H/PnqT5K83VjqQuvP9XcAMEeMHlvdhHBtoPtlniwF37hyyOMPZGZyCDp0vh+d/ZXH04iCzaeMNstlYa2URxQV+yTaxJxUHTkOHENktAzBflF/MAJEUP9AV3oNHU77/4/wJ7N4QAU4yOMu5JFqN3f/d8v+yWa1sVKyOjqv/AGtg7H2FeMZebFxZ1nkbuOlx7lvpAsLyq0CDn4/LKWYlJX6OTD+smgxLSeigYINz0r0RqkM11ma8zIuatg97I=;MVQRDSphht2Vy9HdmS4V6Q=="
 ---
 

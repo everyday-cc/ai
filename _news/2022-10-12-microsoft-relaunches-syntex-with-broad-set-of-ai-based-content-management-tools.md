@@ -444,20 +444,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Graphcore value crashes by $1bn after Microsoft deal is axed"
-    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
-    publishedDateTime: 2022-10-08T18:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/f1c7282a-4637-11ed-a9bf-432f673b24aa?shareToken=a742581835c0961b967c5e5484edaa84"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
     excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
     publishedDateTime: 2022-10-11T12:16:00Z

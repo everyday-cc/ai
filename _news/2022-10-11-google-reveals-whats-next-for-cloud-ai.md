@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
 type: article
 quality: 89
-heat: 151
+heat: 149
 published: true
 
 provider:

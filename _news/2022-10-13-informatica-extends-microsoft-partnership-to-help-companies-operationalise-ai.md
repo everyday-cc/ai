@@ -443,20 +443,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "Graphcore value crashes by $1bn after Microsoft deal is axed"
-    excerpt: "It was November 2019 and Nigel Toon declared a “landmark moment” for Graphcore. His Bristol-based firm, which develops computer processors focused on artificia"
-    publishedDateTime: 2022-10-08T18:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/f1c7282a-4637-11ed-a9bf-432f673b24aa?shareToken=a742581835c0961b967c5e5484edaa84"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 39
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Fsundaytimes%2Fprod%2Fweb%2Fbin%2Fe061b34e-46e0-11ed-a9bf-432f673b24aa.jpg?crop=5911%2C3325%2C45%2C165&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
     excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
     publishedDateTime: 2022-10-11T12:16:00Z
@@ -550,6 +536,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "z7zdNvmcdZbFvToYuv+NrnqB8buBcT3pImrpWLqoxn6Njbd8j66YIOsv+Ca1eTaoQoumUdESmC6OLbX6/fIYhQrYehy+5lXXed3pMNkuuHHcAR+282cw1c9DH0JgzVwoX8f2y1iOwhbKeBO98F1NgwIxYXvJJY8T1T7n+cazziI7I494W3sXWFntaYeVQWe+Z/aA4YC63vdAly9ON+EK17TE7zSLhGatV9uq6vNw52t6iqZ3cJGVJBEhS0ZubKWdV7xwPvHa4rWazOVEsCoZuooxgslt/rKHtXL+xSEL0EDDhwc1ynQEKiquudAzzaO51jSvfF6FEOoEgIbH99YpSdpEbet/EXyxDZJy/RH3Xwo=;3uZ3dKcjWFR346xZ1DQaMg=="
+secured: "wcup7CxaRy6ACrowrHKqLO0E/mPMsmNAXo4OFuG1BwP3ALywax8DDNej2oCICfAsQheseBA2n/ZmSvC8T3T5HTc3Hn8YqtaUM5zA6dRRfwxcYldFfiJD+kARlR4tvynaEb35+G5GlxPQpYg4XHgqjGNZmkpsseMOpNkPunVcfLeK7I+78z5DRI6yDLHcBOWsBMV+4SkZqYVjNqhq/yEDtognIBs/wpU/ZuroTuLOpkapTIW0EcAezSFXtVmW+ejZVF64tbrYW3wH8W7VmklRvx6iOCKP6yoGECvP0SbtxPuis1YuHt+pmaGcMg+jf15ed/zlf9tu+QXACVEx9pWQIHcUopZEjoN82rjC8zMMaos/sKibFKZzADYlm32MxJp05l1D0E/5LSV9+R9T/1a5L/mMrmFfpl74+/scc5oVk0bSYGd4fbnUsZlhhAKTN4Z2pnxpiYdE4u7kO0wnQTypPg3hvASAsQvr5iB2nhyLozMAy0AeFQeyBCpWXhuCe9HyWMIM0o7UlqtjZngaxLTC4w==;Xo3A+C6BgRSd70UoBDZvgQ=="
 ---
 
