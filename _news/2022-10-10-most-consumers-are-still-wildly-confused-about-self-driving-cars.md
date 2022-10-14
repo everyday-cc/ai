@@ -36,6 +36,17 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 34
+  - title: "China unveils self-driving car ahead of party congress"
+    excerpt: "China unveiled a domestically developed self-driving car at an event on Friday organized by the Communist Party ahead of the party's National Congress."
+    publishedDateTime: 2022-10-14T10:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
   - title: "Googly eyes on self-driving cars reduce accidents, study claims"
     excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
     publishedDateTime: 2022-10-13T11:55:00Z

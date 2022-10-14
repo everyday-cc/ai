@@ -44,6 +44,17 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 34
+  - title: "China unveils self-driving car ahead of party congress"
+    excerpt: "China unveiled a domestically developed self-driving car at an event on Friday organized by the Communist Party ahead of the party's National Congress."
+    publishedDateTime: 2022-10-14T10:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    type: article
+    provider:
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
 
 secured: "RMhA5gZTwI9F+Uzb8pUpJhZI3cZa7IHnCx0yu3Z0VnUv4KMJEZnqeW8vR+790/rTGYXNrKgw1aLznc65EX0DTfHaCg2/zMgsL8nEgrOworTMscczZn8LfQtHLhdBcvHXMULiB5tYWM4vtu/2RmqxpRmY6KUGE7Bo04HQhPUzAXCEgwruhuBYR7Ncoc85sWba/nLzgdoETxMljNtgRt/p43FtB2eET7BEiPbt5YX1M7fpSCi1qqd0yMs0+G8nV55JdfemhjC205vJW3QUYMrcI6cgYjkQUtoDOvFu5QQhbqw8Sw7i4/RVWPBWAGxmW/XzyGMLwtM3HMQBuYM8XClpuxquj2NbGnn3Ww61MPzRK8sDRx5SI/DaaqNSXeys0aFHXfYafw7Hy6Akq42EHanihkeRhWgiAYRXLESf6nBKbDosq06s593q7bzq1+zJ7uORhBkPO+ro+4e++FJ5dzfrUKOL6ZMV4qWA0JDAzGyNI8DmwrPBCB7hwK9JAD2gqsf1YA6m/Q2CeULV7ngFl77CXg==;KUFeClhlsxIa6X4uJpiRYQ=="
 ---

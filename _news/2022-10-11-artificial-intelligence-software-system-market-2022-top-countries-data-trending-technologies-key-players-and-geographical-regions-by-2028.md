@@ -50,6 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
+    excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
+    publishedDateTime: 2022-10-13T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "yt3OxXeALaSMkn3iWTyg2Rz9k3uvgZRwlGDtNW9nonX1lg1frwBJGUnGTsEWg0WjrK6aGF5rfS/qA3fppm5vH1xa3r9PGeaN7DPJSYH8uQwu6xCLrsDm3g8NWtykmrE26x6zLQtmmJm+cy6iEo3Wds2zH53mNLjw8OdNdv8mXG3zlmyIHvBm08ofKZ07QLLpo3xLja+UFDSwLzASR7DXJ34GWvs1uu3DJpB1fr3iChE2sCSEsk7DM3mqTlER0B6eG03CYfNa3401sbWlIARyJ+9EHb1iyHpHtdDRIhZ1nd8hcsaI83Im3C2ZDNBJ7vO5YRts77xSNJWsONV7IT+8rgAyuYwu1LBSywU05xYuyxA=;dMuGldYsjdQibvUuEvLJKg=="
 ---

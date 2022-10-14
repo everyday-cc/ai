@@ -43,6 +43,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Nevro Receives FDA Approval for its HFX iQ Spinal Cord Stimulation System"
+    excerpt: "Nevro Corp has received approval from the U.S. Food and Drug Administration for the Senza HFX iQ spinal cord stimulation system."
+    publishedDateTime: 2022-10-13T21:25:00Z
+    webUrl: "https://ptproductsonline.com/pain-management/nevro-receives-fda-approval-for-its-hfx-iq-spinal-cord-stimulation-system/"
+    type: article
+    provider:
+      name: Physical Therapy Products
+      domain: ptproductsonline.com
+    quality: 23
+    images:
+      - url: "https://ptproductsonline.com/wp-content/uploads/2022/10/HFX_iQ_System.jpg"
+        width: 825
+        height: 550
+        isCached: true
 
 secured: "w+wFOi5VUngQVW0qZ55JfHiSbkBXeMqLZqFeCk7C0YtP6u7EVWWrqwUe3A9DZ8ffn7tv0h7C4uVDrgGBp14Nbgk6aHyE6HU5qpiax9TX2zkFYFfp0iGy7U54lLR9y6/XGh0VR13EOU9ufgNgS2gjTHogJNktqIt5QyFoaPC+JWuUxa9uLTdRSg3YNKMiF5hyA5wRAk8JSDY2JEJW9Vbwf56UZiKSOQHv81nGBZydwmmf282nXyREsBL5xETt2fHgjkyz07OtJIvSr4vImaMet2UJ3zqti1bJLnZS9v7yd5ZcCAValo5dPjQ8jb3Cu7+hf5KfiTcXk+eylXYuOmLWb1kiBSLi9ldEU3IkiS9ViovJ9S8/XzWNTUUyZosHVDjCKKZkFcGtcIEpm3MTr7Ny087NJq2eSz0NeyAgUaGTpDIj2qqJ7tkXrvwO2NOzhbD5w/uiqFqFiIV/SY9SzfVbDR6EhjGGYYZFM/EbuWZ3JqIlq5zhOZKT74GZHEFgBlHdTfwnMwg1gWXYKCYIN4iu+g==;pV6bBc91W6tHHOuBC5ccrQ=="
 ---

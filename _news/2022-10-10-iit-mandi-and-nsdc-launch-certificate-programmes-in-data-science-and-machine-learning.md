@@ -57,15 +57,6 @@ related:
         width: 1500
         height: 896
         isCached: true
-  - title: "IIT-M start up to launch world's first giant swing backed by AI"
-    excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
-    publishedDateTime: 2022-10-09T18:53:00Z
-    webUrl: "https://www.thehansindia.com/hans/young-hans/iit-m-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-764747"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 17
 
 secured: "/9AXA/XR6A114CUKSsL7jg1qTDB/qb7yR3VAnhsbfyg1X/c3Xt/sbcWeaSMfrXjf4WCkamyaCCNog35YNy7FyvedANNlRCS71ik+HlmLxujG7Iv7oswSmW0tWQa4jCbqJZFdWW20YVb7ycV4nzFLguE3V3LpW9IqxcmHp8XQK9R35614C5T43dgoTzAiQ+WDKYacmsd6dH2Ne0LjdG2d5sbcwT6VtLPmAfLG3nVZdMYEb3zOA5tw7YgBuZTPXLZKhxoXa/cadfkOETMhTs83YpgjxlPFJxtcgDx0kgirKSGQcTxGUJ+OhU2ctbjpVC0sgXhpg0EnKiz+P3r+YUEgJC72Fsq/gUr3eHMBGO169zc=;kvxk4jRDznYYS60bzfrxUw=="
 ---
