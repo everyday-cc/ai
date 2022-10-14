@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Groundbreaking Translation Industry Study from Smartcat Reveals Major Gaps in Linguistic Supply Chain Efficiency"
-excerpt: "While the company recognizes prominent industry studies from the recent past, which clearly document major gaps and inefficiencies in the linguistic supply chain, it sought to answer the following question: what strategies could change the status quo and solve these inefficiencies for everyone,"
-publishedDateTime: 2022-10-13T10:13:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/13/9691799.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691799.htm"
+excerpt: "Smartcat, the Language Delivery Platform™ and founder of LocTalk™ (formerly LocFromHome™) the global localization"
+publishedDateTime: 2022-10-13T10:18:00Z
+originalUrl: "https://www.01net.it/groundbreaking-translation-industry-study-from-smartcat-reveals-major-gaps-in-linguistic-supply-chain-efficiency/"
+webUrl: "https://www.01net.it/groundbreaking-translation-industry-study-from-smartcat-reveals-major-gaps-in-linguistic-supply-chain-efficiency/"
 type: article
-quality: 18
-heat: 18
+quality: 0
+heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: 01Net
+  domain: 01net.it
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "rWJLHP8ECTJpVIk4kadgUCl6KUe5hgLeTNvXklJN+bk3BbuJmO0MEYtvVmWhmA4Lr3QtK+1gSYcYAVnT2MnYg3U88xhX23geIhMfTIn5uO6Og9HOPS4ZPm3bzsprpf60v7MZnRDuVu8eWZ6cxkqUHTcOL40HHGdpRDhXtdGUTJ3f8Rd9QA02RJcXEdm2/TEVzbVCx9QXB+QO+Oyn/xJHPAvDjxq1vvTVMypj4KRrnBFPhPWgZB6y6lu64SJSaPi55CsyU2YoOGEGTIyCK2CtFac5vL1BDVoz/0mmvE0aiIhi6/VuIW/CM0ocCg4gnLFriBMOeGYMAa/leMFhhH/DH8a3J9CvMbOl/PX0DDQUGXg=;mo9F236LoFlKHYeWBQfVCA=="
+secured: "T6CWU9pOkxHFpQIyWy02LYX5Y4k+O8Mqzkx5ax7PlFQA2yUc7QCLREwhOT7/+XIsnmfRuNniP0aB8lwesqazbYg6eUqSS+LFW+rIm41szcNhfbJaqPlhnqzDp5fh43Dry86R5ph4wsB8UwDOrXxGYDEb4sFQlLkgbvlirTYBsoyzhmpkf0W9DOUvFQK3G3CQoQ94sXTWHSgoNmeqFkvcY0ScLgIcGztJhiP0aE0KMW2BgWb/7lH2ZbkKo/X5Q2PEABvbaoFkt1Zy8wtQSuvOltoPecu7iksrCz5bXyei5nTBw5Z/WdCLAaiDLBJmCr0E7AGD9A9MLgYrgVBqI2HuhK0j7cn09m3TL3avi4th6XIHo3S/Md7kNzSUYD5Q6YuoG9g5CLfWcP2SLXi8YE1emYqWhuIbG5cM/BVrlaEJl89Bji5Jrf/0h3naPBBNbOyxsMa23d7fbtOWyyhBRkyFElT3+seifjeQubni2Mll96AM94p6DPe6+08xDOqkCAmg6bcua7AOUuVA03FG0BATwg==;Bq0YmxqivDTZgQ/xymhlIg=="
 ---
 

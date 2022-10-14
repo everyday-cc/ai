@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-language-bias-people-disabili
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp"
 type: article
 quality: 57
-heat: 57
-published: false
+heat: 77
+published: true
 
 provider:
   name: techxplore
@@ -25,6 +25,36 @@ images:
     width: 1920
     height: 1275
     isCached: true
+
+related:
+  - title: "AI language models show bias against people with disabilities: Study"
+    excerpt: "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications"
+    publishedDateTime: 2022-10-14T03:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 39
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1665719039.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "AI language models could be offensive or prejudiced toward individuals with disabilities"
+    excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications -; such as smart assistants or email autocorrect and spam filters -;"
+    publishedDateTime: 2022-10-14T02:23:00Z
+    webUrl: "https://www.news-medical.net/news/20221013/AI-language-models-could-be-offensive-or-prejudiced-toward-individuals-with-disabilities.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 30
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
 
 secured: "xKn/r31AVoNZ+zhT2vpbnKpsI4L6IsokkDG2yE/2ItgM+JBBLzU/sUHhdUN+0uYnK/jOX1k/CMUixG0xNlF+FXMMfo9zCulS4CUhHdj/SjcZGplHr5SOdkAYBJLVrpNwTgrLnnuIWYkA0A5BzBDxUlfzlHBduZJlWrC1KqORKcd1SWQdwW81v8DfYLEw3N5uFQfkV+CbTBfjjaTpmQGFp58hw2fzS0H8YtDtOFwhDo5L1eqFd7RFYh3zU2ZUUJ1eo+J3nTAsCXZh5C007lSsgP7M8xo0PFs/wNSrT05L8nghTBygN4/zkePVzUDX4AEgS+6xTDyaout4CoKv/PyJRSpLV5rUOW8VeCTlDHEVO962RXO2T3hEHruXbqse2aTyKQJJmxUt07Qk1+FYMgEgdctch5pbTpef01Yj5s9LAZf0joQHUow4ZTygj2Cd0A4wv5pCZ3o4UlXyR3Oyc7+U8lkg7oAi/1W/5bNIH80KQ8a35Ywk4AE+GOHIVlPY11Vgu9G4v8JGNTEEkUkVV21iSw==;w8WdtkwbzA7LReo0HKbFVA=="
 ---

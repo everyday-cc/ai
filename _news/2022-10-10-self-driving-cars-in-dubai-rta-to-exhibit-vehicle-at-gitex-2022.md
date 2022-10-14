@@ -95,20 +95,6 @@ related:
         width: 770
         height: 513
         isCached: true
-  - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
-    excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which commences tomorrow,"
-    publishedDateTime: 2022-10-09T10:13:00Z
-    webUrl: "https://www.zawya.com/en/business/transport-and-logistics/dubais-rta-to-showcase-driverless-taxis-for-the-first-time-during-gitex-obp9xlsl"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 53
-    images:
-      - url: "https://static.zawya.com/version/c:NGJiYjIzYTMtYThmMS00:ODY4YzUx/fenl9qtwiaef4jr-jpeg.jpeg?f=3%3A2"
-        width: 793
-        height: 529
-        isCached: true
   - title: "Commentary: China is setting the rules for driverless cars"
     excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
     publishedDateTime: 2022-10-12T22:09:00Z
@@ -137,15 +123,6 @@ related:
         width: 750
         height: 450
         isCached: true
-  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
-    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles Transport"
-    publishedDateTime: 2022-10-09T11:03:00Z
-    webUrl: "https://www.arabianbusiness.com/industries/transport/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "PDS701R6dnM21S2Ki7sFIbL1zW5B4nzgNoK6dw0G84fQ7k2LPWRJWJMO0xkYdNt+fmx60RiosnCgWtS9Wr5YUxM4Vu9BON/g0oolvSIsrMJZqtSHULpa/CMKRrZ74sxMx/fFWvHq8a1YWMotNM9Dm7EN4iUrYQ0QE70L66hO5XaYp7LDe0PXWv1bfvj7L2SwvTVovUDCDcSw76nrQIH+9MGploWG5+beZrJGNsmafs6Cbll5c9KKEOVY6xQ/HcoW8uX0PeEoFgdrdCEuYJumipVIcIt5Bv/rUkJKX91Ny4nchVBmssKBpAwOWOEt8ctcbElJBumONNhIZlhzzeHIlm0tZugEvJAwdW3YJJ5lPfrt9hdCrTlaQ6mYp5+VrZWis72/MbGnwJnvEDhtPjHojBZq6OxV94MhoEFdYWc0XLr+Mwt1PR3Xy6tKpsbSVU+6Tav2PEam6t5Zgr04joZvhUKbIssEV35Ztz/hwhtX9rAfpfXHr2XZ3nZJdnBcDr1AzgiJFIkCgIj90bMKOBN/0A==;QW4XkITEeTDNO+orO91NBA=="
 ---

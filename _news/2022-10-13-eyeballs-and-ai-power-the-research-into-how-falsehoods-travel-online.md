@@ -1,27 +1,26 @@
 ---
 category: news
 title: "Eyeballs and AI power the research into how falsehoods travel online"
-excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
-publishedDateTime: 2022-10-13T09:01:00Z
-originalUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
-webUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
+excerpt: "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading."
+publishedDateTime: 2022-10-13T13:01:00Z
+originalUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
+webUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: KUOW
-  domain: kuow.org
+  name: wusfnews.wusf.usf.edu
+  domain: usf.edu
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-    width: 837
-    height: 628
+  - url: "https://npr.brightspotcdn.com/dims4/default/a841607/2147483647/strip/true/crop/5922x3109+0+417/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fgettyimages-1055494208_custom-193c70ce843e1d174efc8f2a6fd301db7bba656a.jpg"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -56,6 +55,6 @@ related:
         height: 240
         isCached: true
 
-secured: "XPoCCLH3zvuvwcaJnNXXrCqBia09Hz5kHGkO8blSAcs9cDz1oC8WQINFwa+V47x00huYwU3FAGLMRqiazSHewt+QwW36zTzAM4tQuOtc2EKtGr5B9AznPgokPHeOf9FqAkrpzOwmFn44+RcdB6ldkUHSGJ038O+alamkcWkBxZQXEXkzou0f49ZEOHGzdWM6Gc8HsZJybZOO8CnpcpImrI6LzqVgM+Hmu4h1vadAJb5VLS1GWNkXQWekYEfP8EAGC7i4RKvB5MWzLPRBlMsKL9MyNBBR6yfriocdWEJxUsuSfq76CTJCtCgGELZJ5rSlBrDyGReaF07IV3q2SfkfKsQ6NPwJrzi5nETMRkk4mZg=;38Sbi0df0sVYWf2DP9XrLQ=="
+secured: "+z+rLMRboLporsJXcBSdEldh4MjwYSoz6TLYZgYHGnA2o+n+PspLuHIUN2TwuN7DEl4qoJ6RGIU9t//r0TIeNZ6SmIPEy2dOW00xZFf8iKhBxOYnKFARj/JEbkLUDDaFu24kBn3kFh8ccHySlVHrw8tosJyOleNpbtCwmUGVVJGsS4LcSE6B5Eo6u2dDt+fSaa61mm89+8ATzcmNSTkt7gH7zLtaLTDG3G2e1XouhIAfNzLCYog7yy4NoBupx5gC3fEKz0pDf6pLQE7EAztFzCOWndPIcUOi+qmOdLMMt0iPKrhmPtuOV0dEyG1FdZ51dErkRsvpGwUPZ7xJ98nH5Frm0qO2/fUm2SM1lzwaees=;hzwpyR10NPVWA7SRcto1Fg=="
 ---
 

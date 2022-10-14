@@ -19,15 +19,22 @@ topics:
   - AI
 
 related:
-  - title: "AI Ethics And AI Law Asking Hard Questions About That New Pledge By Dancing Robot Makers Saying They Will Avert AI Weaponization"
-    excerpt: "A recently announced pledge by some leading AI robotics makers (\"dancing robots\") says they will avoid AI weaponization of their wares, but some critics and skeptics argue this pledge has loopholes and omissions that render it without substantive teeth."
-    publishedDateTime: 2022-10-09T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/09/ai-ethics-and-ai-law-asking-hard-questions-about-that-new-pledge-by-dancing-robot-makers-saying-they-will-avert-ai-weaponization/"
+  - title: "TaTio AI-based work simulations help diverse job seekers showcase their skills"
+    excerpt: "TaTio, an Israeli startup, helps companies source job candidates from historically underrepresented groups using AI-based work simulations."
+    publishedDateTime: 2022-10-13T16:34:00Z
+    webUrl: "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/"
+    ampWebUrl: "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 52
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 83
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/GettyImages-526660996.jpg"
+        width: 1024
+        height: 833
+        isCached: true
 
 secured: "vGFmvdEPO76qNdJj1jTl16cNLqufIEm4cWm2dBrg6GtHq9NfML5KDXP8I9MD22k35twKHKxlWFvhjwkomDdOCsGBP7DB4zfx7dSvojDPWVPMLa+eXk2sX44GqJ9pPzvPakGp/PFcjqG9H2q4G8Pgx+5unfcGgKqw91aWf8n9GgnZXy5BNZR0FtHeuKDq+FaFzuI/D4tI9cdo0aRyJ9/zo9aGovVHmjnrziB0DdxB60F0cVsKVVhu/gsdK7ZwXPGd1pJmFIFojsgNLvGeS/nFKT9RZI9nknMcvyNPT7OGMrk5qf5nDsNQP0ARdpNFHqD1/heT0DNr046i1uPdNZVWTJHrsrgCIkcS4y13HbFVdo8=;F3P7/7XH76B3d3LaO/Paew=="
 ---
