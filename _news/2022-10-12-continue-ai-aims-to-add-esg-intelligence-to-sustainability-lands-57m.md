@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 89
 published: true
 
 provider:

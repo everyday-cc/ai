@@ -33,6 +33,20 @@ related:
         width: 2700
         height: 1414
         isCached: true
+  - title: "HSBC and Silent Eight Expand Machine Learning Partnership"
+    excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. LONDON, Oct. 11, 2022 /PRNewswire/ -- The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,"
+    publishedDateTime: 2022-10-13T23:40:00Z
+    webUrl: "https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 39
+    images:
+      - url: "https://beta.darkreading.com/images/og-image.jpg"
+        width: 342
+        height: 342
+        isCached: true
   - title: "Silent Eight Pte. Ltd.: HSBC and Silent Eight Expand Machine Learning Partnership"
     excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative"
     publishedDateTime: 2022-10-11T09:45:00Z

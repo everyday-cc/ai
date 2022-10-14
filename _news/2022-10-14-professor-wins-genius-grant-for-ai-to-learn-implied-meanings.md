@@ -7,7 +7,7 @@ originalUrl: "https://www.govtech.com/education/higher-ed/professor-wins-genius-
 webUrl: "https://www.govtech.com/education/higher-ed/professor-wins-genius-grant-for-ai-to-learn-implied-meanings"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,33 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "UW professor gets MacArthur honor for work with nuanced, ethical AI"
+    excerpt: "A University of Washington professor has been named one of this year's 25 MacArthur Fellows. Yejin Choi uses natural language processing, not logic or probability, to develop artificial intelligence that has the ability to reason and understand implied meanings."
+    publishedDateTime: 2022-10-13T22:32:00Z
+    webUrl: "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-work-with-nuanced-ethical-ai"
+    type: article
+    provider:
+      name: KUOW
+      domain: kuow.org
+    quality: 56
+    images:
+      - url: "https://kuow-prod.imgix.net/store/23595b9cb4866513658bba8e04c95ede.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 942
+        height: 628
+        isCached: true
+  - title: "UW computer science professor wins MacArthur ‘genius grant’"
+    excerpt: "The professor conducts research in natural language processing and joins 13 other UW professors who have been named MacArthur fellows."
+    publishedDateTime: 2022-10-12T16:42:00Z
+    webUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/"
+    ampWebUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
+    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
+    type: article
+    provider:
+      name: Seattle Times
+      domain: seattletimes.com
+    quality: 24
 
 secured: "D9larGaF+1X1L791ThzS9AMstuD7wB05ohLRKda3socWwiMsYazjI3/ca/oC/clkJ+2c5xDXdGQoI9nnXbsjhpMW+/TZA4hWhKkbGrR63ESuxl2fJcW48S+juf5FxF0RRl6bukTuVYu1IQk8C0HDLlzuNN7h4LLFmdGCeBME9JTIV9B62KrAfJh9jfzyQ+pW01x6bLhsPRH8R05yGEsjMYJEvsLxw3w/NwVvzBHU1kLoSZSX5a1mpPmyhOXNrZH8BZ6CuJDy5opiThsMmxXksPZn3A0jFRDjCGy/mg0nGEBGkcTHAH1XiEwdXArto0jqi+td45l3rOaFx8ODythPgEeOMdC/GrTSFZ5AtPVJ2Faf+NOP8YhjYkpe+LBRgKBtiLU4Z4izH6ydilFPqNHBQzCWW5RXJDsSAzBi1CrjILWfX0TQ17Ii6qcEgljU7O5TIi/6xA4TsTrcYLTJcNNxS7+jaGUJhAxvq1klzYZuDTqw1+zv3ayzwj8XwZG35By2157lpvTjUCp/fR+XTF/iWA==;z9iz7gnk//j/ow943bmV7g=="
 ---

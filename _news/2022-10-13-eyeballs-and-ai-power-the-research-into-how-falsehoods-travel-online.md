@@ -2,7 +2,7 @@
 category: news
 title: "Eyeballs and AI power the research into how falsehoods travel online"
 excerpt: "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading."
-publishedDateTime: 2022-10-13T09:01:00Z
+publishedDateTime: 2022-10-13T13:01:00Z
 originalUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
 webUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
 type: article
@@ -55,6 +55,6 @@ related:
         height: 240
         isCached: true
 
-secured: "4HR01Neya84E83tlAFSTqjeGl/Yn8dEjWuJrWewh8/SDTpuZkNGzsfk5HM0IlOxP1NVP+1EXF6tmshrdWoBEYzY36JnjoX/KwEf4ogE0nV26ungxMrRILJnUWN7O1sCR+z336KmixZNG6+rp2H6DPUPSoKOQortkUMrJ/nkSNVpQRnpy0MIQ+QR7FVC8WrDEggAAr/VQwLWZDXqTfu9NPzOqjpCza3qtc5dIPea0NHc/RgukJkBzBDeOVwWrrYUPSsY14t7J67CIqiefLAdPVK7HszCTpXXmoyu+hSVSnMaiOJxK+zIpnyRz4yWkfKiMXVfN725vAapA+d7pDMiI6j8JZrhlE9wlEj4QW8UjFNI4Gy4GY1UhDu4lGwjGGTBYwQhqzVQyZu2ea0D+i7W5FsgIWQhQOqJrvRKC5UDb0wC+fMoK1zPBNL3tDyY67O+ht12/2KObd9jg+45ArfN86hB2aqaLfWecDYYxl+A+AigFirVLJRNR2KQ/enMgPBsyChdfFF/i/pHQFIcIUed1vw==;2uaKC+BiMZlbNPI/cUbEng=="
+secured: "s2T6gu3j9frqTXm84kesya7P2yK3M5uPXxD5WOWC36QtLDq9A1fouAYyu7ID96dTmLk8E6lr+mGyvT+3ubRMDPGNvdy3MQMpEw5FKW9G59fORiwkEP0Vq+AUKKobMhGsZHi/EHW/YOv5tWWQRZFM+0EwFcaSgKpb+75N3gaNNM3STmaeMuOgRJPEifa0bIW+usRz+Irt7MKHxtFnTPtTJY2JwzAy0F4EsAnrP+LytDD4evtPhin92JYztAIfgVwxcaGiNLUzfMfFNr0MRGOIcvFgbK/OnEmD1/uaT3SZwy0pvGO6/BEPKVdSWqcDQ/TcSFKvLgj5ymrP6oLCq0hnirtUztzdS/tm4+ubdJCgEok=;Im6XErUf2BTYEQ3hqXcuQw=="
 ---
 

@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Google unveils Translation Hub"
+    excerpt: "The Hub is a new enterprise-scale translation AI Agent for self-service document translation. Google has unveiled the Translation Hub, a new enterprise-scale translation AI Agent for self-service document translation."
+    publishedDateTime: 2022-10-13T22:20:00Z
+    webUrl: "https://gadget.co.za/translationhub/"
+    ampWebUrl: "https://gadget.co.za/translationhub?amp=1"
+    cdnAmpWebUrl: "https://gadget-co-za.cdn.ampproject.org/c/s/gadget.co.za/translationhub?amp=1"
+    type: article
+    provider:
+      name: gadget.co.za
+      domain: gadget.co.za
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/10/Googletranslation.png?fit=596%2C331&ssl=1"
+        width: 596
+        height: 331
+        isCached: true
   - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
     excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
     publishedDateTime: 2022-10-12T11:20:00Z

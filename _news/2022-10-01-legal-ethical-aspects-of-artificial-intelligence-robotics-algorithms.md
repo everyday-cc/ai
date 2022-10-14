@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://static.toiimg.com/photo/75476733.cms"

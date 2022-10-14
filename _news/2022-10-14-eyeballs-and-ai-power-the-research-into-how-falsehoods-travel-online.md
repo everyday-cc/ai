@@ -28,7 +28,7 @@ images:
 related:
   - title: "Eyeballs and AI power the research into how falsehoods travel online"
     excerpt: "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading."
-    publishedDateTime: 2022-10-13T09:01:00Z
+    publishedDateTime: 2022-10-13T13:01:00Z
     webUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
     type: article
     provider:

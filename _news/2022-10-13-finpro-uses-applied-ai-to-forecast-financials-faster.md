@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecas
 webUrl: "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster"
 type: article
 quality: 69
-heat: 81
+heat: 83
 published: true
 
 provider:

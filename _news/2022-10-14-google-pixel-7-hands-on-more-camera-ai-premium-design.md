@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-
 ampWebUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/6346a1551609bfa6c4de06b1/0x0.jpg?format=jpg&crop=1995,1331,x0,y0,safe&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 801
     isCached: true
 
-secured: "l4eMbb5UBPfTkqY33mJJmDF4aMsDP+z39CiYfYFaPjFE4t/rBkkppVxPOqvI7MPHqS+hFbeBRXYbwUpDig9l1/GDxZ48p/J7xRDUowtB0nK4EYm9CT1kQmyY1rXo9NHULZVBkAwWyTh/Akmk3BOihibDfRn2KFNgvZDOGmDOz6kiavJfza0g0J/2n+lKTWe9jJ2d2Y8JnR4g9FfguZuy4U24+7f3hGMbXhEXDeF0ifY3QgoSylLnMhwbbjIDveqMMsaYI1yiPOxTtnIoIF2bGM7kt84VV3Lzzt3vTgJ5IxfwVKfZtOuJ0cQZ8Vye8jYtArrlq4enRiNpZegLM4piGdFqEL3uED9P54qaLpoOp4I=;FDWZHOWUy6F27zdct/2Mpw=="
+secured: "oPokENaiqW94giMGbGn9ZCkUGdKWBxzu/CLr+eTdMwuFBzcHcDIroSpkpncFhvpUZ249iimy+StfKm7Lrl/5yB2Djk0HbkKjvsVXq01EK5AIvDNesES2ncmhSujRQQRFl4FLeED6H2cBN1QKF7ByYzsaZhl8m00/Zs4owxJhC/Xi1AxqdQ5UyaY7xZHBaiCasLzA47z7wpkzpJjt+D1qfQSKsYag7KAo8zdSHhZqpvZU9qYjxhp9/wDfLEIw5Kpyza0KWiHf5HQujIctsK6YKJi0Dp8ZmyGmJxrwclbSN9aQiPPT2fDRiOOL26hNxKZXDq8Wh5HlrPVm0Uc6F1Nuw2Ndxwyylv/pklFKwXqshxgWCeLsVTsXzZ6e1e0gQWxcDLNHUCCpY70QSUFEWrpy+DvynA2CLWkJPPusv3k7+394vFSFsG3yMPZpywENt3qRQoMXa7PLGxkaOcKLPTlW2TIV/WOpv1cEaStNJJADmVJFWnEme6kSfgSGybXazht8AG5jMp+CBumFkLILjZo97w==;J9Vt3OH+PC75BTyV5kwcmQ=="
 ---
 

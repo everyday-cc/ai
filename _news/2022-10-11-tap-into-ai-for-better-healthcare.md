@@ -86,6 +86,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Reaching the Customers of the Future Using AI and Analytics"
+    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
+    publishedDateTime: 2022-10-13T22:59:00Z
+    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "36KxmKLnrdyWiAflMHZqgGpbaOG5RS7rW0JtUx1X24RzH87qKf8ikW/Q0frvwvRQ/1QnuIj7WeYbyhke8KkfJaRtsjm7w+Fhki6nIYxXEJsHHe0ng6DMjvxkU3FbPhpa8w/8XHVHw7cFb9lmrVbSZBjCqUXw6e5V/C+g8URhF1Blt6g1natC6IIYN95AAxTbrfHbcdJSfkjAoNjx7yBmlVIreDg6VG8IBdWmEZpOLoH6RMMoGPliRe6hcT7VjIWoYUDSNc9/k08LRo0ZKSDJDgnlSGHqWw+iSJfv94RU7xDaPmePovtSbMJs05D5bk3aOAzjQCuiAxgOKVLe8Knhb+Im5v0D+nD50oS8lxB5lbspsPh3H6Skon7Wfu37/7mF83T9rLlyKRXr4VGw3wcWp+JmHUadhVe0cIGYQq7vqieJaFMVEVDaz1fXfNVzkIW7G8XMF2ultFzsQgrZ6dQnh/mz+0Wcp88Q9HtmxNCwvR++PxMxxDtqBbAclXIIsQ2K3xIE6I6ZcPB1ZkwUTVTrTw==;CfHJGhLvhwJkwifLdoMudA=="
 ---

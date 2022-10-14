@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T19:13:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+publishedDateTime: 2022-10-13T17:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
@@ -328,8 +330,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -580,6 +582,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "aU5JpaxOrXGn/UZr/ETljhb0eHxjw1OOC5FlEBHWbOhlgWNIzEIHwbJdqbpiIpTyxqXZkVlMZ5W4acNTkEXGZMptXdCHmtedvlwjZ8gQsu8lMhlARCco4Xl6WNg6si/lhbhhJ82RcKq8iqUCUwDWfNPIsABZwxUxjklYDI7sRVCef5WjMmAwcvurLl2VcnLWRvwJ4OgoUCHgflR1AL/ezgYrnEg/FXBTpbG9nKq6Tl13GMNnvzDv2ekd7S9OylVG1WFTAEGVW4LXBblYRrVKRDvhDbDq71yGa1VqjdrORmnqvjy0Uz9xBwlWYgNYNFmVYBXegVfIA6xCDMJOKY0q31w8/FbZkMB0sYbMivWrO9o=;ozRISOJTac+D+wzj1BrRCA=="
+secured: "0rk1dtIq/ItW4Yvg4ajVZ9RZ6L7kqjBTzKHhpCbPUkntLCxgD/DxU4Ydq0sw9dWcVkdPsazbjMiuFDgPI+MfcenMoqtOltli7aAtfYeHEotVgev5lkXrFs0ZXN+I0aT6JmAceyt00NdO8FJnamLx9ht2B1TBmORTvwj8eXRL86kbWU03lWHFhLt7tu26zQOsIt+9MjSX0f8Y++UnIpGhERWj9REOfIh/k+mXcEgeZ3UzF/QHTRoQDXl55arkv2+6tDAu6GOnJAYg/44obQ+WWeHHrGdGBpuhsf7JMvhmI0vcfIkUZ6QhfyZ0cJaVKNQF8uMkEekIj1L2KhC2+q5aij5Ye62rLjecl35rqAHqZFg=;/C0A/Vj57Pr731PWBlZQdA=="
 ---
 

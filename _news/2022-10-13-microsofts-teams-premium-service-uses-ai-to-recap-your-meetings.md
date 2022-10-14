@@ -324,8 +324,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -436,6 +436,17 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 52
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z
@@ -524,15 +535,6 @@ related:
       name: SD Times
       domain: sdtimes.com
     quality: 36
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
   - title: "Informatica Extends Microsoft Partnership to Help Enterprises Operationalize AI"
     excerpt: "By bringing the end-to-end data management capabilities of the Informatica Intelligent Data Management Cloud (IDMC) which includes data ingestion, analytics and governance to augment the Analytics, AI/ML capabilities of the Microsoft Intelligent Data Platform (MIDP),"
     publishedDateTime: 2022-10-12T19:00:00Z
@@ -585,6 +587,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "c/KEFj0p+OuD289bfpdgx6x5HEShc8UjSIHuY7d5rXdy91J2Z2DFNbt5CU8avWIaWEWq9fUfe3xb9GCvdk/ohpJnfkUUkJsYmxY3MvGMEfCb1zzFaLYfSogvuX7JdnwmWToHlSBXD+gaTgHIP1wsFgkFcuVuKDUne7/XQJHvP70Alnf/VXiBJIdZgLp3oh7bJZSnDTDooBS6/I4UxmemonkilWJ637rk1AkrbnBWuOs9dcIIZSAOHQ7+MjjdX3RAUfGJ95gwm5fJMcyWWPDAqXvYp4/8mA/sDcGx576WYLYs172TribAIW519X5/gWG7p4nAaHeI8elg9wa/dv7nFxOkXiMbhezVni1Pb/VGTRI=;4A0i+NNOKGv3fIEArFomYQ=="
+secured: "rXZU1jBS5hLMj2nXA6z9f+4E1UqEAOsgotZ5vUAQf/qTI/N73rPNoc2K1wULwdqXTuVEnwJ8aXzeyqqhDmeRi+IhLLqpwOIYXhr/k0Zvc8V8LXkREftCRo6s/Vu8okLiSPLBxDYKpt+qKB5/FtyS4LtQx1d51RPqDYfGJOku/EmEjDURkHVWj27eSRyoPdTqOrTTq6181gNuyUiqirycdB09M5r0mwaZSc94zssSJZH9JoNKzJBFNPHdGn/JNKei8BAFJPJ24CAbfUqVAzgAkOvtHENqylyu+XQVMSna7HTHizSHscchblZEQuyY139Dc5iuT4EsLGx+97GY3Qo2PamCSiHgN2LOxTum2KANS1YGmErdcQmgAnqyoZE1Zb159/ENgSzI0e+IfxmhlErjIMEWteXla0EmP+VQYMjPH+dxNavAEBxAqBgjnGXKtyRpXhR52MYCfqb6MOjbqls0Gir9MLs7zn6QV7VXpX7UxAuiejsr3LK7x/4e3fAPQThKEiGgR1jIjPrxlHpsrsAmWg==;9/fMo3ykwPVrEGcluk65oQ=="
 ---
 

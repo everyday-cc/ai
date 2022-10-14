@@ -43,17 +43,6 @@ related:
         width: 709
         height: 538
         isCached: true
-  - title: "UW computer science professor wins MacArthur ‘genius grant’"
-    excerpt: "The professor conducts research in natural language processing and joins 13 other UW professors who have been named MacArthur fellows."
-    publishedDateTime: 2022-10-12T16:42:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
 
 secured: "GyOWWoMJYBbD5/tL7rE7MSI3/V5geNFxwK+fv5BHng5dfAXfFn7aihpnXN7yoiPBTlpjTGDSJVdBwB5qjHCsFAeIypyfbVIuTlq3VH/cG7FVl0GCqJttFoD7JmsAdfuE5TI1xEQnD0ctNwNSPRteGK0ER/AyDelOfJQx0YmBssdUUJvdBZhdx9iGatC46pMcWp7WaGYy5oYsbeczwHBbwYQGAtApzWzp8zJDCp359fr/RJC4RK6TJ2r7y8sFRN4IF28W1VBdjl8jQCPF6pMX02bSPnZfUw0BWLLVR9tckLdPxhCwoCoC+XZ/D/hdoLw5faXRCRbQorhPbCts8tiFk8kBvzlmdcKb9BcxiYuK96M=;Cjdt1vB9s2ho7RajynnVog=="
 ---

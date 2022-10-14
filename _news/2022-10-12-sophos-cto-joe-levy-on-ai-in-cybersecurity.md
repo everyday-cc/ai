@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 111
+heat: 107
 published: true
 
 provider:

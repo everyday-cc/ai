@@ -81,6 +81,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Reaching the Customers of the Future Using AI and Analytics"
+    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
+    publishedDateTime: 2022-10-13T22:59:00Z
+    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
+    type: article
+    provider:
+      name: The Information
+      domain: theinformation.com
+    quality: 37
+    images:
+      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Tap into AI for better healthcare"
     excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
     publishedDateTime: 2022-10-11T01:50:00Z

@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon (AMZN) Boosts Cloud Offerings With EC2 Trn1 Instances"
+    excerpt: "These instances offer quick machine learning model training on AWS and feature up to 16 ... strength will continue to drive AWS’s customer momentum. Notably, Microsoft Azure has become the key growth driver for Microsoft. The company is currently riding ..."
+    publishedDateTime: 2022-10-13T14:33:00Z
+    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances"
+    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "AWS Announces GA of EC2 Trn1 Instances for ML Model Training"
     excerpt: "Amazon Web Services today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips. Trn1 instances are built for high-performance training of machine learning models in the cloud."
     publishedDateTime: 2022-10-11T19:56:00Z
