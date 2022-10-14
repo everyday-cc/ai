@@ -2,9 +2,9 @@
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
 excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-publishedDateTime: 2022-10-12T13:28:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+publishedDateTime: 2022-10-12T15:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
 type: article
 quality: 69
 heat: -1
@@ -432,19 +432,16 @@ related:
         height: 853
         isCached: true
   - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 52
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z
@@ -613,6 +610,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "h7tRxOn243bpdX+HZ2T4Eir3c4LtqGQttJcaT1MUfVBi40PWYh/Blbn5xF+diZpUYuTuSjlzLEuHGD+vk6kt2fk3g6LwFbORb9rA3mQsIOxvt6pCl5xG1SgmkZCimIrggTKI9hFDl2arSEQL4zxzQChpj2pNV8wwEsYKNPGb0mrvpr9qtqvwsISCvHxWzjcb+lgQlxiAMcNGv3k7UjOfV6+hWUyCaF5s696KwJkX5ebpIuMYsogjTraJm5g21I7aX4sHtJ2KZ5f+/CO48vBE1Bjd1XSy/Owdttq1/OHW7juwxQCx36qwpuwtlQ9Z8/zMhBPl0YrEfoU3KEYg5i1LXYaV2AFBBHpPJthr7xPbzYQ=;2uJSox+cfGWaJbieIodzxQ=="
+secured: "YmxC3qv0mKHADUJO/QQdavnEOCJMfx/HJC25uRFz2aAMscn73hGcvAger0wqQsbMLvz6TGnfvxiIu6ifPQKsTQ5qF9VrjViAIgXpAnlGR7ZGQhNs/6Z/GO4pCK5R23/fX8zkG7G3NzPtIVsqoieG8j462O2N6nT6nNDZNiLHXJt2AtFGEG0bWJOY7ht2oU41/+bd96oz2q6OIV7rZ3NnrTZxhU5itfmgkVwULPqtygFCC9/wtJdKVhcupzlsbEDG7AF136iRuG1k5ZWlbSA4ffp/9Sa5SdA1d0FuqZi4jK3MwsbkvUAJ0TFIlq6GL+z76CKkQgPR88Id06sQg18dqNoqP/hUTc/4yJcC02fbyFE=;JksgwH+B/tA0CYbTfS63gg=="
 ---
 

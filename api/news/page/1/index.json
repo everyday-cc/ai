@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-14-ai-language-processors-show-bias-against-people-with-disabilities-study.md",
+      "title": "AI language processors show bias against people with disabilities: Study",
+      "excerpt": "A recent study has found that the algorithms that power AI based language processors frequently exhibit characteristics that might be insulting or discriminatory toward people with disabilities",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html",
+      "originalUrl": "https://www.business-standard.com/article/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/10/full/1610289975-7509.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html",
+      "publishedDateTime": "2022-10-13T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-uw-professor-gets-macarthur-honor-for-work-with-nuanced-ethical-ai.md",
       "title": "UW professor gets MacArthur honor for work with nuanced, ethical AI",
       "excerpt": "A University of Washington professor has been named one of this year's 25 MacArthur Fellows. Yejin Choi uses natural language processing, not logic or probability, to develop artificial intelligence that has the ability to reason and understand implied meanings.",
@@ -10,7 +53,7 @@
       "originalUrl": "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-work-with-nuanced-ethical-ai",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -43,49 +86,6 @@
         "Natural Language Processing",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study-finds.md",
-      "title": "AI language models show bias against people with disabilities, study finds",
-      "excerpt": "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2020/1-language.jpg",
-          "width": 1920,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp",
-      "publishedDateTime": "2022-10-13T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

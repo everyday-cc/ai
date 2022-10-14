@@ -7,7 +7,7 @@ originalUrl: "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-wor
 webUrl: "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-work-with-nuanced-ethical-ai"
 type: article
 quality: 56
-heat: 76
+heat: 78
 published: true
 
 provider:

@@ -1,24 +1,28 @@
 ---
 category: news
-title: "White House Unveils Artificial Intelligence 'Bill of Rights'"
-excerpt: "White House Unveils Artificial Intelligence 'Bill of Rights' By GARANCE BURKE, Associated Press The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused ..."
-publishedDateTime: 2022-10-04T11:28:00Z
-originalUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
-webUrl: "https://www.usnews.com/news/us/articles/2022-10-04/white-house-unveils-artificial-intelligence-bill-of-rights"
+title: "White House unveils artificial intelligence ‘Bill of Rights’"
+excerpt: "The Biden administration unveiled a set of far-reaching goals Tuesday to align artificial intelligence-powered tools with what it called the values of"
+publishedDateTime: 2022-10-03T23:26:00Z
+originalUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+webUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/"
+ampWebUrl: "https://mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
+cdnAmpWebUrl: "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3660702/white-house-unveils-artificial-intelligence-bill-of-rights/amp/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: MyNorthwest.com
+  domain: mynorthwest.com
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-secured: "3N7AwotZsdEzhJi5KOwL+s8l2JF5wneE0Tt3p9xgYaQfqHPR/6bV4SRgbeXp0whqXs8oENwUOdy8L6Yc22x6Br5yGKpC4rB8C+XcvUIlsGxNdc3og7BTEPDbAybO7Jmg7kD3+GDOcoFOfPNLbQEOKZdA3WImLQpstQjb3WEWzWFrnwonLko25oxrRzSiM3uLgFxEOGpVFyAdvui//FUqP1b8FZTB1lrx3jl+bSaU5JCBeVDWXbKlf5T2BzCExqWIF8CGvxJUNTbYiMUhskWt3VJ1EsbgJ+EeuiWToWjYNwoWnEMpMc2eRghud7vbN09kRI+F6Y0Vvs7gcxft7HgOeZDCnjGGdVQU0U7aUYgerNQ=;x8rmwWGoQVR7tmf2sVLomw=="
+images:
+  - url: "https://mynorthwest.com/wp-content/uploads/2022/10/ap_aad76466d8b343bc9379e040e55ff4ca.jpg"
+    width: 1280
+    height: 853
+    isCached: true
+
+secured: "AmiN8WWzLirmt/OVq0aHI2MQPBaJZi6O6B86KVSacmWON3JBgXVfMbQOibgKGsq1DAhu74gyLQi7zmWEugroJbezlnZYRANSLOSfofs00ka2vulT7plAgQqw0yIEv16OGzhJmPVog9TYfAGiOpS+nKoinq6Xys/jTEIwEx661ER4r09ioVSa0fYL3wBNhEMrCinIuoQkmxcgK4GbgX9hB3COmg+zAq/K7WxLKXSGan09llQfElsvWweZsA3SpGEjnXx1lAoSZhmOGbKt6eeJBagSFwEWr/lpsy9+2Gi47kHwaNrA6Hd9ebq6NgpcBTsfapDuuJcEllUxrYxZ0mak2OlDNJApg3DweFpvllSn85Q=;lZ3/dvpfpF9VxsCDBooppw=="
 ---
 

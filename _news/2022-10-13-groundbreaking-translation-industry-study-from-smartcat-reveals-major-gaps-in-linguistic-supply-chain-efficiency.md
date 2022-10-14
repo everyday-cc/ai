@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Groundbreaking Translation Industry Study from Smartcat Reveals Major Gaps in Linguistic Supply Chain Efficiency"
-excerpt: "Smartcat, the Language Delivery Platform™ and founder of LocTalk™ (formerly LocFromHome™) the global localization"
-publishedDateTime: 2022-10-13T10:18:00Z
-originalUrl: "https://www.01net.it/groundbreaking-translation-industry-study-from-smartcat-reveals-major-gaps-in-linguistic-supply-chain-efficiency/"
-webUrl: "https://www.01net.it/groundbreaking-translation-industry-study-from-smartcat-reveals-major-gaps-in-linguistic-supply-chain-efficiency/"
+excerpt: "While the company recognizes prominent industry studies from the recent past, which clearly document major gaps and inefficiencies in the linguistic supply chain, it sought to answer the following question: what strategies could change the status quo and solve these inefficiencies for everyone,"
+publishedDateTime: 2022-10-13T10:13:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/13/9691799.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691799.htm"
 type: article
-quality: 0
-heat: 0
+quality: 18
+heat: 18
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "T6CWU9pOkxHFpQIyWy02LYX5Y4k+O8Mqzkx5ax7PlFQA2yUc7QCLREwhOT7/+XIsnmfRuNniP0aB8lwesqazbYg6eUqSS+LFW+rIm41szcNhfbJaqPlhnqzDp5fh43Dry86R5ph4wsB8UwDOrXxGYDEb4sFQlLkgbvlirTYBsoyzhmpkf0W9DOUvFQK3G3CQoQ94sXTWHSgoNmeqFkvcY0ScLgIcGztJhiP0aE0KMW2BgWb/7lH2ZbkKo/X5Q2PEABvbaoFkt1Zy8wtQSuvOltoPecu7iksrCz5bXyei5nTBw5Z/WdCLAaiDLBJmCr0E7AGD9A9MLgYrgVBqI2HuhK0j7cn09m3TL3avi4th6XIHo3S/Md7kNzSUYD5Q6YuoG9g5CLfWcP2SLXi8YE1emYqWhuIbG5cM/BVrlaEJl89Bji5Jrf/0h3naPBBNbOyxsMa23d7fbtOWyyhBRkyFElT3+seifjeQubni2Mll96AM94p6DPe6+08xDOqkCAmg6bcua7AOUuVA03FG0BATwg==;Bq0YmxqivDTZgQ/xymhlIg=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "cvcFaM8q2z0n5A+PXHTsJa8r5zuz0C9x+9+T2tJ6hfsxb3NP2Jw4NCRBH+333NqXBKwU0+j9VtH+P1tKONUxtfd/mwKq9VCFc0rgtsMIJXBC9bN11Dn6V+qwkjVQs+v/Zvy7bpa8SrfNxl1BYFQShrnzdKqb9aAr0q1WgRJmHVloD8wm1mfCpvR59bIntDf8JvagasTcjfTjfZHgRIhhVlCd3EKx/uXdIfqyUWIExI2G1g/TEUHJO19eYJrta4y/eSxT3LU8OFlZ0uJF0C08gD/FPhnh8zua9YFHChTiUu2Dldgi9vfT84df3rKbJmmUHBpV16KtE8kHqPPiI/8TV1vt8H5NRM1lEHY7xgjuGQs=;KDcXG5S1LIbyStqBrkRrEQ=="
 ---
 

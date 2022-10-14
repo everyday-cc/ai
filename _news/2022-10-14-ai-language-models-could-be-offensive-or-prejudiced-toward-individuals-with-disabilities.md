@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI language processors show bias against people with disabilities: Study"
+    excerpt: "A recent study has found that the algorithms that power AI based language processors frequently exhibit characteristics that might be insulting or discriminatory toward people with disabilities"
+    publishedDateTime: 2022-10-14T05:15:00Z
+    webUrl: "https://www.business-standard.com/article/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/10/full/1610289975-7509.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "AI language models show bias against people with disabilities, study finds"
     excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises."
     publishedDateTime: 2022-10-13T21:01:00Z

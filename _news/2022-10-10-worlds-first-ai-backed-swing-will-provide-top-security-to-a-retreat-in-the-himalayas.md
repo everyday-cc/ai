@@ -90,15 +90,6 @@ related:
       name: The Hans India
       domain: thehansindia.com
     quality: 17
-  - title: "IIT Mandi start up to launch world’s first giant swing backed by AI in Manali"
-    excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at Indian Institute of Technology (IIT),"
-    publishedDateTime: 2022-10-09T11:59:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/iit-mandi-giant-swing-artificial-intelligence-8199104/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 14
 
 secured: "8hv5/y7jnqT3L2agfxI9U9oW9ufuF0FkxCqOyqgX9sZl6ruP2QJERzVbzkJWTUw5rbCRWJvZ4oIigPCi4nLJsWhn/fSI04LhjAhOXvcGtsUfxq7qFbj8MM9ivoXw7X8sQqHYx/mTNq1xWDJcv/d1ji1w/aGsPGJarsvZAstYzwOnq0qNZqG4QPuf3Cu/MCRWy081OvCuGLKgNR/Xb5o8d2rc31H0mswHMxngSlx9g1CTpUIS9P0EjE6fcDPI/u/ktnei075LDOFJsgNEimAA1ahy73YSvV3Itgb4ishW/nJ9I8MwcG0vEK+h82+pxo/YGGxx2O8tjwi85ivYb+rSohcov5h6sulQyFrG/D920HOsoSkHjO2Byk2GJfRQjomrFRptAbyCkq9Rd2MyZCT11e4MvZLq65J/6aqZKUG5moJ+27i5zkyAgygajfbI5rJAYHyHDILgKCzWWl7uZnEO3hSuHmlFXAGu29QRbxtu+izCKDTfJ6JjuL6c575P9WkjP+njRvuo0YSi7dwjUYCNFg==;zsrxVbhWvHRCLPowlQfBxA=="
 ---

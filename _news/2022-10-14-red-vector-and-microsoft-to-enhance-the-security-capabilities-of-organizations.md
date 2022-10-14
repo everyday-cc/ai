@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T19:13:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+publishedDateTime: 2022-10-13T17:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -334,8 +330,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -614,6 +610,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "eVxii3gF8kDC6vffXPwYKu/rsGmOjEdgaOD316UPvMKZ3XR9iUWHqVPTu5xQYEBGdB5iIg7RWWHyGYFY0f5h7Ow7SBUmFSuT0kUWJj0jUM0MQaqEFDCs/CyNoJ2INuiU8BPDWsURzL0eAHl+r5UD35yt8jT4mJVXQ5NtmABjYqORE4CKESYUJuUtFV7aD/HMqYTxgvSqmz9lbPrWjC4aZES/i6tdnvTDVGQhW5S0/SVV/vieDpTvcgUl8dt9/nJJbwo45PREg9DzsFMN40YgEOn4RsQhnXjuxUpoSbVNme0a4kfvR6uNqr7bPZpOg8G7ucQJj1/TOIyDG0UV1rr0z8O0+3NM6GOGZNWVaBk1Mbc=;rjWba0wX+2KbvhOA4xTg0Q=="
+secured: "TmKtPGXC6IYieE84RuIlIRayf3UnGlYRIBzep77m6orQ+Yz8dy7sBcUhHnpnX+sxQcW56LnQm3XVjG4iNMUppfwPfvE6m8vYdOgIpBM9Ob6N6LyLrdrgNurzGbiVxCF/xY8Eqo7LRB/PkaX56ORwX4NzOn5YoOyT+G7a9NRdktK/DOp+/4TP2g/gChQt37e8dGDhUNEQDuotWxCNPUCY1HpuUO0ahiu1tyd90bLo39SJ3TgFrEuJsg4lbTqbBToRhxAPRE2TAc+Tn9NKzv+ysDy+0IHVrfqDmNE1irRZ424I5mCu4T/XiFX29ZhmiTsbCfCg4q+4WvVCwEzDwk83dv9UKWLXBZ4kWHT3+Bqa1eY=;U6L8QGolsazowdiS/5IZbQ=="
 ---
 

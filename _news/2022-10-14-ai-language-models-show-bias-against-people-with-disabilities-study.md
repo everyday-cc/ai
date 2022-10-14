@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI language processors show bias against people with disabilities: Study"
+    excerpt: "A recent study has found that the algorithms that power AI based language processors frequently exhibit characteristics that might be insulting or discriminatory toward people with disabilities"
+    publishedDateTime: 2022-10-14T05:15:00Z
+    webUrl: "https://www.business-standard.com/article/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 58
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/10/full/1610289975-7509.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "AI language models show bias against people with disabilities, study finds"
     excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises."
     publishedDateTime: 2022-10-13T21:01:00Z
@@ -56,6 +72,6 @@ related:
         height: 480
         isCached: true
 
-secured: "WJPWDHtqWcWBvOV53vNIMnK64xjex78Dj7r/TIVdJO+EI5zamEklv5DUrhAJFDV4jFT8pEFtgyUELIRs9ytmf6ZRM77hbIW752JQ4GiTIugjedWFiEUIJ/9spiBky5NETrvUM3I1FylTi/fw0Pas7QT1NdwKy7njhlJzVArbQpe8Jgw8k5ebSK/jxb3Ffg8WMWrHF/CZnzurbrhQxE84fgGI4J/K+I7+iXOGBBEQdHjxn4E/kydmnaZkGTYcOOOO35erVtyKVehvEACamwQmZLdwefLgmMJUtEwVbZGmkydVvo49DdhK9HYKFI3IOF7I7dC7xqNiR3cNOigqCGfCeX+sG11s3Casf2KdoJX9adQ=;A1cfcmWjxc+E1Z74Y4fFlA=="
+secured: "Y9j6+W3LcFOn44WB5ynMExgYS/z10dlVmTppLxEv5m4BLuMlLIvSh3YCQZTKNcaC2oJjH3Ub8LQ6b3sjDt04gRxa7t/uZL1PT/fge2ne5tccnmW/kYdGJHRWlgpBLdxi8hJU56wYgq5YmKaer8U7Ag/nOlGWcg558E1Mw36TE+DERZweJBT+2AeWyK8mPmJnlCRRvmeflNNIqVEb2jShvteeye2lCDtiiBTZM6SjllxKefj6Xd2POOqzUlstHFEKfVhv82pj4lPddIP6kG4ERz50LT06UigM9bFj68Y0g0cgUz1o1EaE9xvsFpG+qDSLKPcest1xsPbEN5aDgCy47I3H7eLoXOBdzRp83Fx0olYZFWTsRoFCtTN4fn3jjfNM86u4tOP3S2R+WyoUnCPvXYdKjH2/DnsgjU2YGIQgHLWlANLvHvBjuDQwD8oul3z8JK7SUME6T0UdTXGijlWhpKE2+H0MQ4V4eA4Rb/UO8EMFKwmGCGVVn6remjZNazFucbby2UNPAhySao6Z7CO7BQ==;JZVjoj+3Fu/RYwH2ZU+EaQ=="
 ---
 

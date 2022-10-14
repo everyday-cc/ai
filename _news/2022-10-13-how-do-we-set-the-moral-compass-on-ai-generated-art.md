@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-Generated Art Sounds Alarming, But It Doesn’t Have to Be"
+    excerpt: "Some artist names come up especially frequently as text prompts in similar art generators, and that has some worried about what the technology will do to their careers. AI ethicists are also fretting about a flood of new fake imagery hitting the web and powering misinformation campaigns."
+    publishedDateTime: 2022-10-14T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/ai-generated-art-sounds-alarming-but-it-doesnt-have-to-be/2022/10/14/e7b94976-4b7d-11ed-8153-96ee97b218d2_story.html"
+    type: article
+    provider:
+      name: The Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
+        width: 1484
+        height: 779
+        isCached: true
   - title: "Is Artificial Intelligence Ruining Art? Two Ways To Make Money Off Other People's Art"
     excerpt: "Current culture tells us it's essential to have a side hustle. The phrase itself has made its way mainstream in recent years thanks to high-profile celebrities pushing the practice."
     publishedDateTime: 2022-10-13T19:37:00Z
