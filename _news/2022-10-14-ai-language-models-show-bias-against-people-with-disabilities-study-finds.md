@@ -59,6 +59,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "AI language tools discriminate against disabled people, study suggests"
+    excerpt: "Many artificial intelligence (AI) algorithms commonly used in natural-language processing contain biases against people with disabilities, a study has claimed."
+    publishedDateTime: 2022-10-14T16:06:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/10/ai-language-tools-discriminate-against-disabled-people-study-suggests/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 39
+    images:
+      - url: "https://eandt.theiet.org/media/16892/ai.jpg?crop=0,0.25666666666666671,0,0.25114583333333329&cropmode=percentage&width=1200&height=450&rnd=132803997140000000"
+        width: 1200
+        height: 450
+        isCached: true
   - title: "AI language models could be offensive or prejudiced toward individuals with disabilities"
     excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications -; such as smart assistants or email autocorrect and spam filters -;"
     publishedDateTime: 2022-10-14T02:23:00Z

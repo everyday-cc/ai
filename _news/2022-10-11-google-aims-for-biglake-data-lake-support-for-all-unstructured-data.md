@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3676074/google-aims-for-biglake-da
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     width: 700
     height: 525
     isCached: true
+
+related:
+  - title: "Google Cloud aims for BigLake data lake support for all unstructured data"
+    excerpt: "In its continued bid to support all kinds of data and provide a one-stop data platform in the form of BigLake​, Google Cloud will add support for most commonly used open source table formats in data lakes​."
+    publishedDateTime: 2022-10-13T05:23:00Z
+    webUrl: "https://www.reseller.co.nz/article/702249/google-cloud-aims-biglake-data-lake-support-all-unstructured-data/"
+    type: article
+    provider:
+      name: Reseller News
+      domain: reseller.co.nz
+    quality: 38
+    images:
+      - url: "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_169954569_3.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "olDlAfySYm8d8fa/C0vGMxuK+8KOkEE93eUs+1lQgESm9wz+UOJCiftl9m6bu9UqiIyMOz8nb+MI8ouzNyV7cuYaFXh6B5tTN+waLLUEUuUF00QB85cgKG42OkFEpcFp0hAB85pDIZM4lRFto/jWpBR6ubS02wznpoZIeFC3D686jno3yb0iM3OuZAgGcM0RM24AUscQEgORBHZLMevdzqPEWGNSBxTgcCduFFxpFIxAMSZmhFnvhKqtTz3PV2FO8+8knlS1U3YAb60xVtNeaXEsPNqKTUiEl3N5uHsufHukXhOHu229r0B5QceGW5TQXfM87M2/zC9zWXVbpIg7L84i8hTo8RYbE4a1RqXL+my0ZRWCj/5bjWh14qUxL8NNENfHgG5Wd9yQRijFymdofLTXaBgT4K6x5puBbQCkDNwhInGolxFvaof0mnOgf0uUSx7s8/7PCs8xw/JqVgRYqsOIFGXOHobGk+e4fLe4uiZIjxX4GGFN5ja1lI8Pko2XamVYvJwrpVS/7swOPqpHmw==;l9uqnA2b9UMb9K1Am/Fbgg=="
 ---

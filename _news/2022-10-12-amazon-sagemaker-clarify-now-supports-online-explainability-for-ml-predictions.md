@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Testing approaches for Amazon SageMaker ML models"
+    excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
+    publishedDateTime: 2022-10-14T17:51:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
+        width: 1549
+        height: 774
+        isCached: true
   - title: "How Amazon Search runs large-scale, resilient machine learning projects with Amazon SageMaker"
     excerpt: "If you have searched for an item to buy on amazon.com, you have used Amazon Search services. At Amazon Search, we’re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use"
     publishedDateTime: 2022-10-13T20:39:06Z

@@ -93,15 +93,6 @@ related:
         width: 800
         height: 485
         isCached: true
-  - title: "Self-Driving Cars Are Not (Yet) Safe"
-    excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
-    publishedDateTime: 2022-10-10T00:00:00Z
-    webUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 4
   - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
     excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
     publishedDateTime: 2022-10-14T12:30:00Z

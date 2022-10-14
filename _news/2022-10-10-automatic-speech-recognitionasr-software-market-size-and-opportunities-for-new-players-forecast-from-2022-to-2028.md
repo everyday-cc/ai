@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
-    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-14T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EmwSLxDjbPuB1mNrmFBTx+FlB5oSaAoydbfMWrB+ltUlgVAgUl9MWTZH0BA3Z0J6C2AzB/zqDJ8wBV2JcqLPx3e4LyP+XYiTgAP2SCbUlMaaVmqBNZba5QC9Lz+010hlz8wqCMqz7UVjLF3ABEDC5PFIHYPM6pIS5gwte4E56Y6wz/cQWTRXbHB2SOsP5U2GWuP0y5k+Edlv63dQ28yGfY3RV6uny4u+KheS74GSJ6T/r46ek8cB8/YQ4s29glcsvx6vu2xk9q0/N7lkJyyMooRlVOLd7YbsDdfN8lP9B1XZEjeGZnVH3mW6p0OPtWT1ixby6ZK9o2C3DOKaHxjI7b2JdT4qotyekTw3KOun/14=;ep0KSc+PW6aEVkqZHGXd7g=="
 ---

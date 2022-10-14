@@ -97,15 +97,6 @@ related:
         width: 800
         height: 485
         isCached: true
-  - title: "Self-Driving Cars Are Not (Yet) Safe"
-    excerpt: "Three things have happened in the last month that have made me think about the safety of self-driving cars a lot more. The US Department of Transportation (DOT) has issued its guidance on the ..."
-    publishedDateTime: 2022-10-10T00:00:00Z
-    webUrl: "https://hackaday.com/2016/12/05/self-driving-cars-are-not-yet-safe/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 4
 
 secured: "2WHifB381MyvaUHn2D/q6K4rCXAxQXcUujeiKNZQAplwotcgNxUPFpcWmXKLdyAZnsIj6JRz3Usxz3KuSr6+EWrUVEHqzNCI4RFffuEpj/0ee1lungyJSTWof+xYL7sCtAns2rwt1fkF/OEemffa46p0e0RaPWY7CpFT5dGjZIf0FyLAJTawllRIySyXCOn7TAsn3E2xdA6yte6M/YHJKeqzKdtv8qTU/rfmRED9o+UZu3jNl0S3bcBZ9T+/gIwE2zm4ScDy0nn+W+7Ak0dMLQsRBmGAg2/kqV/rd1RgFSkQqILxpE3U/Uz5ldRuW81wJ2Tg1bKPo0S7iSAf4+2r1+/HfSxgYTmK6hmWJY1Tw0l2n+XNnwe/xz+eNjCVzcKHUseHqXcXImAeLrNEnq4dc4sxEOrekZKUiQ7hEoBIOl4bYXNY6DWvo7hsjlgEXHviDL6HPy9kTeT35ecMkGDpiBp82eLkmGIGE4eVn7Qc11eNhhnxUIyzTAauk8B/B9q1SMaNf7p5yvAXvOZJTFfN6A==;cxJUAw3WrG7AmUWliuvMWg=="
 ---

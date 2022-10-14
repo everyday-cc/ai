@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-12T02:04:00Z
 originalUrl: "https://slate.com/technology/2022/10/artificial-intelligence-superintelligence-gullibility.html"
 webUrl: "https://slate.com/technology/2022/10/artificial-intelligence-superintelligence-gullibility.html"
 type: article
-quality: 22
-heat: 22
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://compote.slate.com/images/2577e4c0-1f81-4760-9185-9af8389b29c5.jpeg?crop=4468%2C2979%2Cx0%2Cy0&width=1560"

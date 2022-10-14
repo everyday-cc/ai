@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-ru
 webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker/"
 type: article
 quality: 95
-heat: 115
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Testing approaches for Amazon SageMaker ML models"
+    excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
+    publishedDateTime: 2022-10-14T17:51:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
+        width: 1549
+        height: 774
+        isCached: true
   - title: "Build a solution for a computer vision skin lesion classifier using Amazon SageMaker Pipelines"
     excerpt: "Amazon SageMaker Pipelines is a continuous integration and continuous delivery (CI/CD) service designed for machine learning (ML) use cases. You can use it to create, automate, and manage end-to-end ML workflows. It tackles the challenge of orchestrating each step of an ML process, which requires time,"
     publishedDateTime: 2022-10-13T20:46:55Z

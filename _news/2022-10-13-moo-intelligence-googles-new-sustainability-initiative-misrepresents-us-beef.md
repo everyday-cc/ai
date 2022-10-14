@@ -26,7 +26,7 @@ related:
     provider:
       name: Slate
       domain: slate.com
-    quality: 22
+    quality: 24
     images:
       - url: "https://compote.slate.com/images/2577e4c0-1f81-4760-9185-9af8389b29c5.jpeg?crop=4468%2C2979%2Cx0%2Cy0&width=1560"
         width: 1560

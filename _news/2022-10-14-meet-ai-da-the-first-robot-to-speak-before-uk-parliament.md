@@ -73,6 +73,22 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "Ai-Da the robot sums up the flawed logic of Lords debate on AI"
+    excerpt: "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting"
+    publishedDateTime: 2022-10-14T15:54:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 74
+    images:
+      - url: "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790"
+        width: 620
+        height: 372
+        isCached: true
   - title: "British humanoid Ai-Da becomes the first robot to speak at the House of Lords"
     excerpt: "The robot's capabilities were developed by ... project' to examine the future of creativity amid concerns that artificial intelligence, machine learning and other technological advances could ..."
     publishedDateTime: 2022-10-11T16:01:00Z

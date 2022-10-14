@@ -88,14 +88,14 @@ related:
     quality: 45
   - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
     excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-    publishedDateTime: 2022-10-11T23:02:00Z
-    webUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article267180096.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html"
+    publishedDateTime: 2022-10-11T22:03:00Z
+    webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
+    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
     type: article
     provider:
-      name: Miami Herald
-      domain: miamiherald.com
+      name: Sacramento Bee
+      domain: sacbee.com
     quality: 17
 
 secured: "Ik1vJBRoEc9r31AwDeOBwLUFGWRKGTL8UR1mped2NMnggcG7aGH+mXG38GtmsImwV7VWtZI8sVvS3/cPRQJbZMrMZLJyTh26QKef4HRZxWPCMOZ3YMXrHZvGp6TCLiuwIQrs4i2eJXtC6e3H5CB+UYTqxW9BXZ5zTYT7Ch+VYwa/T/TnK0OFQI6qCKwZGLw8UnPcnJnvyN+W6xLbtENgU5AHArw0EcXZ11WxZ5HRVNI0o7Yu/wE5QadaJESdkjOObCRnF/2NAuwCJcQWc7/QtJC/X1dNvw8kR416gvDO1/wO2i+f2oJusSHi637a5skCFslgJCps7Gi8E/FLsxsdMX6SZHuKNK9ydGReOTLKy3089zAsR71ydyBzC/gAKzONUOiY4hGh1Pf8afUjIpUdEjzR+Mxu3rV2H/cOHtHGgIVtoJZMbXY49614Y5Fqqe/lcXnvnbYwFRws/poFjBAOW0Ac0NKcrRtDJ78amsmY5ieDQc+bm3Dt4wJPq2n4AH3VmgiO/OEyrT+a54Xrr7uSBA==;y8aGmTBRIVadfMGnJGaTjg=="

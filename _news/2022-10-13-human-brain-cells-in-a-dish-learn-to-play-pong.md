@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Scientists get brain in dish to play Pong"
+    excerpt: "Australian scientists have connected a culture of brain cells to a computer and got it to play video game Pong in what is a major milestone for biological computing. The experiment, dubbed DishBrain,"
+    publishedDateTime: 2022-10-13T17:53:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/scientists-get-brain-in-dish-to-play-pong.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 39
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/brain%20computer.jpg"
+        width: 1162
+        height: 654
+        isCached: true
   - title: "Nerve cells in a dish can learn to play Pong"
     excerpt: "DishBrain is smaller than a human being’s little-finger nail and contains fewer nerve cells than a bee. Those cells are grown from pluripotent stem cells, which are, in turn, derived from ordinary body cells,"
     publishedDateTime: 2022-10-12T17:17:00Z
