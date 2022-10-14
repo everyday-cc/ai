@@ -24,17 +24,6 @@ images:
     height: 276
     isCached: true
 
-related:
-  - title: "Synthetic futures: my journey into the emotional, poetic world of AI art making"
-    excerpt: "My first image requests were whimsical queries, nocturnal flights of fancy, gentle tentative casts into the virtual spirit world."
-    publishedDateTime: 2022-10-09T19:10:00Z
-    webUrl: "https://theconversation.com/synthetic-futures-my-journey-into-the-emotional-poetic-world-of-ai-art-making-188533"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 15
-
 secured: "gUeiIkeR6iR9mBy1Eb58YSbcViYEzit0vxdP5nMqD+Jl9SGe3QSNQfwg8rPUO63LAH71jJ9ahXILieyxRpnZrvtcD3mXwkx6A/FWGyNrQFO1EHovCMVCr2rtZvFXFEWRGauxxoHQN2xec+8n274xMSK+KZ4k2B1waPfRSdoUozvgHXWt6PCmPZe35VCj8fRVkvwBDce8+wTP3dxIQy+/H7V1tIUpX9WD5UlsKdHKxOZT3p+5aYryuN0dCdkMTq5n89VMLNACQ8t1N0ENFWxMtM+RkA4SwmT/OYO/RaUNYgRNt+hdu9ZtpPQn0HUtc7jWTq76VpURHLDMTqnO06E+Gw+TRIBsmmwVEUMlbtIhc6nwV3OIdz0muE4S2sIf1DPixTUSNG1Grby4LBJ6Y3ByZWVRBlajYWEw1Pw8pkuRjAv4taseLyA677/J3c/D9XY9yCAixnXfh95I+B6Hbv2FjEslo62GbHeChDzHPQdD+Q8OG0/OoLabx1ptykhtwYkdGbOPOYWNt/aN2EEFPVml9Q==;s0BCT1OGVbl9OcFRL7HW3w=="
 ---
 

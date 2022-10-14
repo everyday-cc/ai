@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T12:00:00Z
 originalUrl: "https://www.ornl.gov/news/deep-learning-makes-x-ray-ct-inspection-3d-printed-parts-faster-more-accurate"
 webUrl: "https://www.ornl.gov/news/deep-learning-makes-x-ray-ct-inspection-3d-printed-parts-faster-more-accurate"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Oak Ridge National Lab

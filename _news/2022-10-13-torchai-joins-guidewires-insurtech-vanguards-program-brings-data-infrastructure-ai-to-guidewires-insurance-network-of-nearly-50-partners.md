@@ -51,6 +51,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 35
+  - title: "Artificial Intelligence Is Transforming The Aviation Industry"
+    excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
+    publishedDateTime: 2022-10-14T15:52:00Z
+    webUrl: "https://www.bbntimes.com/environment/artificial-intelligence-is-transforming-the-aviation-industry"
+    type: article
+    provider:
+      name: bbntimes
+      domain: bbntimes.com
+    quality: 17
 
 secured: "tmNpfkH8o0r7q1X4uodSVLpEH8yK9qeO6N1fvus9+yXdoJHEpRJZbop4eVSnmj+CWxU3wOY5ZyuUzxjFP0iIlPLL8dTz771zWdt6c/aj3XgJzb8lqeqxeqRs5dsBIUgr13lnV12yrqLuH72/x4RRhbWOBLzbQ1p/pow0Eo9zlbvnArfvvtKpzboYo6OtZxsyi/Xc19CbJTWxtGDGQNnpFcMduPmdY34CQjKt6qPTWOCD68qXP3TKEufQa+zI2kZtZfPGRMFqKNfAd9rjW3GFNbcm/tqpyvBalWPU2aYGY0fchNLn6janRSsJqFukodxm+Uylf2QXgLoCyz3AVRfZwsDzMWaWB/QDVibMrYUiCJBD+Rt0X6GLiBioHea81x0oKEuhyjvxMF8fT731qglD/Fsf7+G3h32huJJ3OaOAZd9ZxrGcTtoJhzkU1RED1klsZKmD46DVNbS0sUp4QTdxEHbufD4usUM4izh3vKcCI5UeB2IsodXsHMXL551pMCmT2Ng/6P+3xmU8zXHIXCWLXw==;Sx45Hc48F5d9UXNrmTYGmg=="
 ---

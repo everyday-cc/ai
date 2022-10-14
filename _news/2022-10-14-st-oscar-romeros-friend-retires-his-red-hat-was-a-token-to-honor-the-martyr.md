@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T10:00:00Z
 originalUrl: "https://aleteia.org/2022/10/14/st-oscar-romeros-friend-retires-his-red-hat-was-a-token-to-honor-the-martyr/"
 webUrl: "https://aleteia.org/2022/10/14/st-oscar-romeros-friend-retires-his-red-hat-was-a-token-to-honor-the-martyr/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Aleteia

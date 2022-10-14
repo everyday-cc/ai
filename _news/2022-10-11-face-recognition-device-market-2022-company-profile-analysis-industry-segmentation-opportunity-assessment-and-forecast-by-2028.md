@@ -373,6 +373,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
+    publishedDateTime: 2022-10-14T04:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2029-103-pages-report-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 10
   - title: "Cognitive Systems Spending Market Size, Future Trends, 2022 Top Key Players, Growth, Share and Global Analysis by Forecast to 2026 | 93 Report Pages"
     excerpt: "Global “ Cognitive Systems Spending Market” (2022-2026) research report covers of opportunities, segmentation of the"
     publishedDateTime: 2022-10-11T08:14:00Z

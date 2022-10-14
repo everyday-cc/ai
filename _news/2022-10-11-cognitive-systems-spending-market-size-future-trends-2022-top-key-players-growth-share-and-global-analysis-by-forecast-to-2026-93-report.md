@@ -381,6 +381,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
+    publishedDateTime: 2022-10-14T04:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2029-103-pages-report-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 10
 
 secured: "V1p5kC7paqRUhhR7FqeNzS5i3sjKRGSL0LdUQGZv0o8voCde4Ts76+Y3Wqc2nyToE2vd3jOKqGHoHcgEcNzkJa95UW5u88znUWLT1uU2GeDCGW4WjivEXEfcdfRyzJfGN6J2IoFKJXuAbxWRtEDe5SOSf+5u3cxK/UogzJJ34Urz2DiskBV3M8OXPooJKqB/F18cFFP/u07yn5DEsRoxRjl00L+dY8R8UtahjaP/syz9rhnL4gtim146sS9wq3yS2ha0ktxog5FIhIMBXLBS4SMwoqV0MeW+PAPs6QOFzofohsCNXH18gKlIXuaSpcNNr55DO52roQeZTNRFpGaZh0rk5zBaUBAvM2XVjfJs460=;VRoSf0GO2CKL63Tf7LZamA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
 type: article
 quality: 104
-heat: 144
+heat: 154
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "British humanoid Ai-Da becomes the first robot to speak at the House of Lords"
+    excerpt: "The robot's capabilities were developed by ... project' to examine the future of creativity amid concerns that artificial intelligence, machine learning and other technological advances could ..."
+    publishedDateTime: 2022-10-11T16:01:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11302895/British-humanoid-Ai-Da-robot-speak-House-Lords.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 31
   - title: "Ai-Da the robot turned on and off again during historic speech in House of Lords"
     excerpt: "An AI-powered robot has become the first to give evidence to a parliamentary committee after appearing before peers. | ITV National News"
     publishedDateTime: 2022-10-11T16:39:00Z

@@ -24,6 +24,17 @@ images:
     height: 1011
     isCached: true
 
+related:
+  - title: "Guidewire Rises to No. 26 in 2022 IDC FinTech Rankings by IDC Financial Insights"
+    excerpt: "Guidewire (NYSE: GWRE) announced it has ranked number 26 out of 100 on the 2022 IDC FinTech Rankings, making an appearance on the list for the second consecutive year and climbing from its previous position."
+    publishedDateTime: 2022-10-14T12:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/14/9692818.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
 secured: "K2vSh0uuA2ITysiH0ZGoV81mZbxdDjEblcvl/mjk2e9Iwn+dZMjQ8x4T86ndgt8BNKVNvHjG8WGeDWrZkFWY+phNXv1rdwfBdnTIa/znxf37HcJTe7kMoFrjb6FKebBoTw+ZB563zUt04eAZnHZj0g5DeWxx96mPzarZqaGtrdU/FTf+tfhLPiMz+DUINbD+Dj5BlVihEYpqutUQtksMgtmIxoztZjDDI1z4emdVfYNM0hvqc1V3xPN8GmZ5OjqQBm/zQVkNIxxvHaGvApSUywcdyg671oxp6sbA+QbO6PkTm8Zoqyx4wMeDGDpS7jLenmeHlvwbBSOw/gpomfnk6fQNDQKzgZQLoqnpTYau4CciMKTAS/1SBKHTdtpEiSnITyk1y5WpmuV5napDFBL8LyQWfobjccfxmsE0GSXUkHt0ezcbWyWn3Bx47GvYaMfmS+VsFka2fUu9Y+cvXD1sDuA/r+8Ym5tCAWE7LkIzlWgoy3sdFPfOwKLG1gZFd7HW6HRw6rzxpzqoKZwsR+WuqA==;ow68zIIserVqLfYnW+4g4g=="
 ---
 

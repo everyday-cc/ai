@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T12:30:00Z
 originalUrl: "https://www.theaustralian.com.au/inquirer/voice-referendum-a-vote-for-what-we-support-not-oppose/news-story/5b9e4321dfba791a54957d21c3b210ef"
 webUrl: "https://www.theaustralian.com.au/inquirer/voice-referendum-a-vote-for-what-we-support-not-oppose/news-story/5b9e4321dfba791a54957d21c3b210ef"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

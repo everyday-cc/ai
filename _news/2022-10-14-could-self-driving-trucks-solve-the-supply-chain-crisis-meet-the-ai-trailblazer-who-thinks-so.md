@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T08:14:00Z
 originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
 webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: The Guardian

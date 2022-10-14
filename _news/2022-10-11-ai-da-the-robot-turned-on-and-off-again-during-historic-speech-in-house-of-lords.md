@@ -81,6 +81,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "British humanoid Ai-Da becomes the first robot to speak at the House of Lords"
+    excerpt: "The robot's capabilities were developed by ... project' to examine the future of creativity amid concerns that artificial intelligence, machine learning and other technological advances could ..."
+    publishedDateTime: 2022-10-11T16:01:00Z
+    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11302895/British-humanoid-Ai-Da-robot-speak-House-Lords.html"
+    type: article
+    provider:
+      name: Daily Mail
+      domain: dailymail.co.uk
+    quality: 31
 
 secured: "QoqsjsBewM+VZ58oggK0cXmK9x3Vh7wtoRFf0WKJToWbeSZ/6cSyQH27IXto87VOeFKk9KQ0yIu2K/KCmAbLMeovvSbfD+7q4lUXp+XPIxFR5sWNeKx/nV3ox/QwwW449u3MsYZcd62glZD8Ss7MC9J7/PMOtsseMalj8YZxI44SPR458C4yvYxC/d3T6f62dgzbW10ARZ5N4wVnnqNXIgxwnqqLyYANzwOv0flulkvCOfHnZbTyeq2ESehhDqm0eCRjc4WnY1duL5wkZSbU7EgokofB6vZo7nhyEXD3KybIaZF+okFB9cTYDGZwityYxYO4fDDHz23aotPp4SK0bh1c9ASq27/4/YeXSJlGnKIoZJtMOv44BGh8oIaoQFDt468ylEwwIeM06k+N3waUPa0mXeU58i1U91uMZtQ6UYauzGFNO+Y5RrHo87m1OSK+rgcvSl3/qoNnoe1F/NuhofheUFU+4rRx1v8OSOlUy+t16BIR/fJVaUkLPBV0hebZZEQydFABIq8exBBxGsh0Nw==;x1J+a8PekbopfzYXvmRLLw=="
 ---

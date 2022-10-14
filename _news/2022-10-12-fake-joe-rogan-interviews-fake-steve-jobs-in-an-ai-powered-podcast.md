@@ -108,6 +108,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 17
+  - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
+    excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
+    publishedDateTime: 2022-10-14T08:37:00Z
+    webUrl: "https://appleinsider.com/articles/22/10/14/zuckerberg-takes-on-apple-ai-takes-on-steve-jobs-and-ask-apple-developer-launches"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 11
 
 secured: "gyLl+374w9ByGxgWJLjjvXg9/vRuRMtJdlKfq2IRCd/IYyImpN5X/X/XHTjPVSCbVIqHw93gvjs1NeGMpNyMtJs9EqEL2rNRAAsiZl3ia7zHzLhgdNjpAru6tHNtYCnJZJW/igo5xcnzGAsJIK3viQfl1hsnlH+OnVCu7DMaYMFFc7mi7CAy9UmwrR7rpbkVu0LMk06i5rlFxWMr3Ze5U7DMsAYrN8sHu8V9XK9ZBnh+1JoCJ2+xw2zKuMkwR8LnsEFyABr7+5taumCizt/tPCAKfQnVZfcAP7jd32xRV8Yb0m93/kRMoJ5Ie7DiAwCMuKdd0IBPaGpMHj4dZMjDEtJBya2VxzlCCCD+Qq1p0BK+FPpVnvwmvrYc6Uwz+ePu+OLSBb8BbQwbhnIVkPeoQ9fSCVeEmfFGWgqDYFuJ/i4p367qlGDbSQnP2djYZQ62RilCgGms/oq/xkyeMMO359qr3R2ZpVjU46dzqirKpHZUAo/BhxzqIa2DLp9TqeyLtdnZmfhbakju16hipSTxiw==;CI44sk4i46Qlo4KIkqBqmQ=="
 ---

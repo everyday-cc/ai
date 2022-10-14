@@ -349,6 +349,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "inQuba Journey Cloud Is Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Quba has made its inQuba Journey Cloud available in the Microsoft Azure Marketplace, an online store for applications and services for use on Azure inQuba optimizes acquisition, retention, and upsell across the customer journeys for financial services,"
+    publishedDateTime: 2022-10-12T04:00:00Z
+    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/inQuba-Journey-Cloud-Is-Now-Available-in-the-Microsoft-Azure-Marketplace-155405.aspx"
+    type: article
+    provider:
+      name: Destination CRM
+      domain: destinationcrm.com
+    quality: 68
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/148232-1022_WFO_NICE_480x610-ORG.png"
+        width: 480
+        height: 610
+        isCached: true
   - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
     excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
     publishedDateTime: 2022-10-12T18:57:00Z
@@ -435,6 +449,15 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Microsoft Cloud and AI chief Scott Guthrie on what's new and next for Microsoft Cloud customers"
+    excerpt: "Microsoft Executive Vice President Scott Guthrie shares his take-aways on Microsoft's latest cloud, data platform, AI, Dynamics and Power Platform announcements this week at Ignite."
+    publishedDateTime: 2022-10-14T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-and-ai-chief-scott-guthrie-on-whats-new-and-next-for-microsoft-cloud-customers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
     excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
     publishedDateTime: 2022-10-13T19:13:00Z
@@ -625,6 +648,15 @@ related:
         width: 2560
         height: 1440
         isCached: true
+  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
+    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
+    publishedDateTime: 2022-10-14T10:10:00Z
+    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "KkWXrV6dNXNDQ1dOR5ABSDHJWnE4lhWBbhJgxulPFUkoyvar7ZQT1Q33jOi9dnHhEBIAVDZ07U+oLX0Q9Qi7YKvGhgGXHzKydB7LjLyrzfUxbcwoo9iQYRge2IiVEvkfpnXOD3wGycKw/hhPkXrbDg3OnVAXsRfEZTeU+fEDA93DehVxEyJAenFl8XqALCbK2GKDZ8beq5ntWUlRgCrczHmhZ7FTYkDdHDdNw/D15uDZM6AfSoMgQ/8LlO8UrJRx82Df2lnYRDtfh9cE/iK03+BZJ0+H7cJEAbzZkOz2XURJY3Cyhg1eDwi60fj+5rZi0ZGe09tRPmC77IcRug7AJ5Z6ddkOPdPwRIHZ0cKoSaDPR354eSwLIGEoKsPJIdUOzT3jkhCjEuK4n1BznyeG3Fpf78pYHOMeD2+v0/eZU4r0ir7+54zj7ouq5V6l+cSXidXPFkJU1sJj47nf0/cbku0lkyESBLC9h/uvZ7TzJtn8ZVgVbQfCPQq7qfSQ/rgB2uexBaKdw+em7Jel03h1Gg==;tY1apu9/IUypNnXxdJd1VA=="
 ---

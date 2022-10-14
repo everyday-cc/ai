@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T09:19:00Z
 originalUrl: "https://techcrunch.com/2022/10/13/instagram-expands-ai-powered-age-verification-program-to-india-and-brazil/"
 webUrl: "https://techcrunch.com/2022/10/13/instagram-expands-ai-powered-age-verification-program-to-india-and-brazil/"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: TechCrunch

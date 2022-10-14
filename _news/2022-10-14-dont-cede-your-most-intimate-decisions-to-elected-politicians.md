@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T12:42:00Z
 originalUrl: "https://www.aol.com/news/don-t-cede-most-intimate-124220462.html"
 webUrl: "https://www.aol.com/news/don-t-cede-most-intimate-124220462.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: AOL

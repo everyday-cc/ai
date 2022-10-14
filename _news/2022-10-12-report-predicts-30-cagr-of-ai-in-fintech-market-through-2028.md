@@ -39,6 +39,20 @@ related:
         width: 300
         height: 204
         isCached: true
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
+        isCached: true
   - title: "Blockchain Technology Market in BFSI Sector Market to grow by USD 4.02 Bn by 2026, Increase In FinTech Spending to Boost Growth - Technavio"
     excerpt: "The blockchain technology market in the BFSI sector market is expected to grow by USD 4.02 bn during 2021-2026, at a CAGR of 36.6% during the forecast period, according to"
     publishedDateTime: 2022-10-10T06:00:00Z

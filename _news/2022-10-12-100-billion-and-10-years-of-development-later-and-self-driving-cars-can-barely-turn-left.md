@@ -98,6 +98,15 @@ related:
       name: Hackaday
       domain: hackaday.com
     quality: 4
+  - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
+    excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
+    publishedDateTime: 2022-10-14T12:30:00Z
+    webUrl: "https://news.crunchbase.com/transportation/self-driving-tech-startups-funding-ipos/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 4
 
 secured: "6heak1xCj0kavYCfvAKy/ePQMBgNPSGxcP6Jb642OOacHxVBvY6xdMXBS9aqDIMUE1HuuixjOeM6aboyvStUoQLlywnFh3+ngns/9ox3yDNlMKQVqB5W8b1TB+NpWYzVhYH5AV2d02n8rpkO6l4MWPG0/Nfvd6EHhQe+49n2WVTPhFW5AEbZxdoe+CB6+YglM4IAX6zfZrcaFOou1DKiAafFjnsWJry0dTCTfAHE/ziq0pWpQNhARW+hc/oBvq7Tc4yIg91AMB/CdZhl9bxWVP7t8sxXEn/aI+y8g/TUUDxTcGhwjmQkEtYs9yUbkxbX68eQywSdCucjmRILfVOhS0ijcO+wMoqCxrK0yRqxGgea6d+ZiMFrzPxOMzwKJIk9LxxdSbIcQw3IYbDPcS2zwt9dMDsozMRcz4efRHVH7rr3kAcuP814Oud59vvTxRV4ugZ7T7JJidqwZqPw7bTPCcb+fkHU8CnmHzndwXtxGXhgJaIthoqmSWap8lCNsfTNCmJYEG2uprTtB5FKDxvQvQ==;GxeHvUuVj5FTvXuEgvM7nA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
 type: article
 quality: 85
-heat: 145
+heat: 155
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 17
+  - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
+    excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
+    publishedDateTime: 2022-10-14T08:37:00Z
+    webUrl: "https://appleinsider.com/articles/22/10/14/zuckerberg-takes-on-apple-ai-takes-on-steve-jobs-and-ask-apple-developer-launches"
+    type: article
+    provider:
+      name: AppleInsider
+      domain: appleinsider.com
+    quality: 11
 
 secured: "8eRr6eiboBTq9I5KNbt9iMu7uBpazL/EVimlqkCY3nCHCEEnUT/fM+y6BnlAIqq90g7smmg3j0c9I5GmURtKC6ekdTQMCKTk6kPEzazHXg6XE335xmvfzmjCgEK3Dhjhz0PpnfnqEfGaNr8VbY7tF4JeaVq0YTuVWgyXjfwCfx/ABe/FsKlR9+5iGpjvUFms6sRKmiHq5pyj1aKEM3TriA+w2rukR+K2Gcgo8ZGrv7iiYS3UNoA0vD9P5e6rOQZHoA0xBoVChAIbMtwNA6f4NnMj+1d0o3C8h1bEJIuOh+1jTFtU4+qb7BzEctP28WcChh0osxHO63H6LcNEEBJBqFSVfBdnp1uAtOavJ9pHfaO3BUnt9UJnfE2cOokk5QJSkGv/ASxH05gMC20tfHHeQUR+wwY8NyBQyFHTiRpixB0ykaavAHtP3x+HjkwcIUrOR1vhbPR6cz8FXvmRMWJF4aTiIb6LF6SKRqITaABw/SVCqHQx1Zx5ufG2zM+RClCDqSQcW8UiJNkdxNiJoGp8uA==;olTfcyk8CN6Y8o5PZv2riw=="
 ---

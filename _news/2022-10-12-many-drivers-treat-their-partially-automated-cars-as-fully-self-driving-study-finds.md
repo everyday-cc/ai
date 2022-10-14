@@ -2,19 +2,19 @@
 category: news
 title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
 excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-publishedDateTime: 2022-10-11T22:02:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
+publishedDateTime: 2022-10-11T23:02:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
+ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article267180096.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -69,6 +69,20 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "42% of Tesla Autopilot Users Treat Their Cars as Fully Self Driving"
+    excerpt: "The Insurance Institute for Highway Safety (IIHS) recently published the results of a study on how users of partially automated vehicles perceive their capabilities. Regular drivers of Cadillac Super Cruise,"
+    publishedDateTime: 2022-10-12T15:13:00Z
+    webUrl: "https://www.manufacturing.net/video/video/22485757/42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving"
+    type: article
+    provider:
+      name: Manufacturing
+      domain: manufacturing.net
+    quality: 54
+    images:
+      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/ep528tn.6346cc0566c0e.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
     excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
     publishedDateTime: 2022-10-11T00:01:00Z
@@ -79,6 +93,6 @@ related:
       domain: hackaday.com
     quality: 45
 
-secured: "uCKgJ1TjXfKTXnY5oOZYFLzyPhBjR02DJCqw+tTASKqiuKTMoQqskookA65imQWvh0gNxW6JrSR1z733nu2SgLB4fsPmomtCQuTobHV0XBlg9VzGN3USweNUiBKMOhQDfl/jj9xrah0RuN109ylGDYo2UZG7pLEfC6pqTbVl7vVMQj2PWbTcioxB72L+0HaHebgj/uQWXOZbwaG2MK9gBlaW6E1NmrgqAK5RWKSqllcVHo25datR02Y+RBddIEVo1kKsOcVWDXsr2PFlVCO3utFEcY16ZMsCBuKfN+yhGgOfZoCcfU8AOZlffh8YhJzDvLoXhyHdLUgeDcGlppb0tDRqWCH4KNEC2v9iCfEattWO6zPIx6hERhFWEhrreG4DenEU5A1nykty4+mwtCh/OTuKQbcVLphqEzE6mkQUvE+4CmVNIXbhd3sM7VqNfNv0z/+HUc34Pe+ZEOnw4U20wuTGJ55HR4nyJBHImAIaRtOPnap5pI28V52fO4lFgLs9G69m8gJvphhojfnhgOPCpg==;Hj0oHkoiINK/umD0to7X2A=="
+secured: "2i7fTcfVwZji3V3dgoGA7pR13sPmZ2Q8+pSlRxIDWe7Qx58iXXrnvuNupYtWojcRCbuCBION6xxRxYOAW+OlNREG/mv3wyFh4wSwaaYyjfDfMgukqQpucxdRZOkbtwaUgBjnH/HJjNIBCZfF/+mEl4sdDnHM+UEz/1vtRu2pearr7dBcW0y0GjAEwzq48tJGNHGpt2Twai49Xk61at020L7tymppYyrz5SqaoaGpxIEiNj556lTCjLIDNeOlt4ZFQCVu3FMKW9Y/B1osn3jqKvsIuMBTA2VhPPvZa911JpzByo8C7r1VJOGpaod5mQDpnkvy3urP8/On14AIAdE+YxszqfCYlsNMGeU5L4TDJWFYvaZk1YqxVewgKOc5W3t7MCAqTy+gc14MAlOOQnggku2XN60Rc7GCysJhMcaRMVQx/F7odSye953VwvcVeo5SI3OmOwlaoo0DiISNQiGEH/s4fcskJTvpnIRfx38fJezMpQU7Tb6zkeb7PKhs+GrtdyHpN6SEA1MFNcq3VNkp9Q==;cvUYYFADq5KKKsL098NLDw=="
 ---
 
