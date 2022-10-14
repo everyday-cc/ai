@@ -32,7 +32,7 @@ related:
     provider:
       name: The Village Voice
       domain: villagevoice.com
-    quality: 17
+    quality: 19
 
 secured: "PWQhJC1CoUsK2yX4pg4Ynjy8SI/T4mNUWZCbR8/afCuUH1neXpPP25EX3fIdR7I/ANOK02mtAFz4/ziSLeBulF1JqHVpDekpFMwtcXhIHxa6pGWZyZFdrc6988Qy7T7Rrc2f4v5cVtns2jzcWnAeRupVvphGQVsjXOvBw3+nOSpxdnNai2vMZujHyddAsuPb30lTK8ABSkxFflTDpRDWMi8fh3l7+S5wtlFZu4iXtpDVL/Zb5yqq3Do3Jlu5MNOaaXOYcu9LVSdfxcqjAZcz2nz8bxaiWk62QChFT4WVVZIW8z0oTkkEFIy/X7Q05OY0DquNrX/PmDoAu8/vu17t41ReGNvXBKe1Br7Hm9nVk68aVuOcG7DWliG+bzNJBTCggbIq39mnCnWIDE7u3MM0ynKOvxHchjq881O34N02yvE+TvILxVnCvNcTr5KeSA98N2kK0gC5/WJ5sx88E8FY5lAHUG+9ouYGb488d4ODPXc8PcpjbJ4aYxMPMiTBkfd2DP5ACYUUJrs+wIvIRpdxDQ==;Fqd0nPaMSee3ue9q86Popw=="
 ---

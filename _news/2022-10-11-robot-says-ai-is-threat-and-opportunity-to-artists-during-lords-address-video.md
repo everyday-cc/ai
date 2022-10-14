@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robot says AI is ‘threat and opportunity’ as owner forced to reset it during House of Lords address"
+    excerpt: "A ‘realistic’ robot has said that artificial intelligence could be both a “threat and opportunity” to artists, in the first address by a robot to the House of Lords today. The robot ..."
+    publishedDateTime: 2022-10-11T16:13:00Z
+    webUrl: "https://www.independent.co.uk/tech/robot-ai-house-lords-ai-da-reset-b2200423.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 40
+    images:
+      - url: "https://static.independent.co.uk/2022/10/11/15/newFile-7.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 898
+        isCached: true
   - title: "‘Technology can be both a threat and an opportunity’: World’s first robot artist Ai-Da address House of Lords"
     excerpt: "Ai-Da, a creative artificial intelligence (AI) humanoid robot, has spoken to the U.K. parliament for the first time ever as part of the House of Lords inquiry into the future of the country's creative industry."
     publishedDateTime: 2022-10-12T16:39:00Z

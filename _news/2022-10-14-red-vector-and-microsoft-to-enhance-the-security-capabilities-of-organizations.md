@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
-publishedDateTime: 2022-10-13T17:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+publishedDateTime: 2022-10-13T19:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -330,8 +334,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -484,6 +488,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
+    publishedDateTime: 2022-10-14T06:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
   - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
     excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
     publishedDateTime: 2022-10-13T16:54:00Z
@@ -610,6 +623,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "TmKtPGXC6IYieE84RuIlIRayf3UnGlYRIBzep77m6orQ+Yz8dy7sBcUhHnpnX+sxQcW56LnQm3XVjG4iNMUppfwPfvE6m8vYdOgIpBM9Ob6N6LyLrdrgNurzGbiVxCF/xY8Eqo7LRB/PkaX56ORwX4NzOn5YoOyT+G7a9NRdktK/DOp+/4TP2g/gChQt37e8dGDhUNEQDuotWxCNPUCY1HpuUO0ahiu1tyd90bLo39SJ3TgFrEuJsg4lbTqbBToRhxAPRE2TAc+Tn9NKzv+ysDy+0IHVrfqDmNE1irRZ424I5mCu4T/XiFX29ZhmiTsbCfCg4q+4WvVCwEzDwk83dv9UKWLXBZ4kWHT3+Bqa1eY=;U6L8QGolsazowdiS/5IZbQ=="
+secured: "6NrJR31w18N0uNhoXsUiaSxSp5J3pDcMm9QyKKN1qJLJnxh+BWV2G2UJQrtUn6tPYxbA1JeKjcgXPiPZ1LSX2FlORFQLP5I/frp2rY2208jTH11bVy5dd2FQb0lnLocyz1yxelhHZ5w2qnc/Uc70jyF7K/7TPAUxplVYtX8EI7/7HxeKrz5Uqb8GyMtfnKkQtpcnDZCuxyuaC9AXEbuKW5lD9kAob4I04cIVHGoYt+RRIrqGdbRyrX0hRehHvIdyXU04a4zn/IIW3UXcb7jlqxniO5+co98L0DvoIv58GLn61C3tuUU0NgyrQjR/098CJnswDaN79yfzx3sSCyHfuDEYNf+Xy9vcGPLgpqojMEI=;nhlv5QUvgCXHkqvteW7WWA=="
 ---
 

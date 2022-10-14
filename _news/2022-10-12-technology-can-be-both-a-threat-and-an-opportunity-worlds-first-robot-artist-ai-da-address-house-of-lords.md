@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robot says AI is ‘threat and opportunity’ as owner forced to reset it during House of Lords address"
+    excerpt: "A ‘realistic’ robot has said that artificial intelligence could be both a “threat and opportunity” to artists, in the first address by a robot to the House of Lords today. The robot ..."
+    publishedDateTime: 2022-10-11T16:13:00Z
+    webUrl: "https://www.independent.co.uk/tech/robot-ai-house-lords-ai-da-reset-b2200423.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 40
+    images:
+      - url: "https://static.independent.co.uk/2022/10/11/15/newFile-7.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 898
+        isCached: true
 
 secured: "vK9RdDxXDfyI2T+zed67L2GCq/NpWyLojVWEAWTSsassLuXhILdz3hbOr1EgoVA9OdbGWiKWB1d5wj1te6yHo+uYJHWkCyypJcyr4qgQtB6GNpk/8ZznxRHaNCqpVxQx5rJXxYyQlIO6Bools19zi9dFJFInQu/am9gn+LApofhjopWiDArjwIxvl//7dIWecQ9AxWWbCAeiziI+MrsPFVwguFSfselJZx0Zsvz5wfNf8RqxaF2wnZsT4YlVjFfiFWTOIqFOw2ArBFM9zWBnFI+IfaZQhLGKAY1i989x3U0s2h9+8JLOMdK4Htd2rxZgPW/PDXx+4mTKGXWraon+tX3Jqa7BsRdUHIKIZtJ6KlcC5QET+8P4IP+g58begIYenSLC1Ij/Icnr7PHM0wnW8BuJ5vLfANZT5HKbSzpI43wrnOCLFlbMrb/9sIqP/qxcFrBXu637ouySQoe0nZucXr/XQUjoojxsupO11c6/EU8TOcZPaHDbc3l8g2d7Cwy4h9vHNLP8Hb+3/JL1Paq3/w==;XQAbNsFq2grbcvT3bA8DDQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-lau
 cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: Zee Business
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Mandi start up to launch world's first AI-backed giant swing in Manali"
-    excerpt: "Four engineer friends have claimed to have innovated a giant swing backed by AI which will provide an \"impeccable\" security to the jumpers with more than 100 jump styles"
-    publishedDateTime: 2022-10-09T13:31:00Z
-    webUrl: "https://www.business-standard.com/article/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
-    ampWebUrl: "https://wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/current-affairs/iit-mandi-start-up-to-launch-world-s-first-ai-backed-giant-swing-in-manali-122100900450_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 55
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-10/09/full/1665323291-3562.jpg"
-        width: 620
-        height: 464
-        isCached: true
   - title: "IIT Mandi along with NSDC launches online certification course in Data Science and Machine Learning"
     excerpt: "The course will be held through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be done through an eligibility test which will be conducted on 15 and 16 October."
     publishedDateTime: 2022-10-10T11:06:00Z
@@ -72,15 +56,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "World’s first AI-backed swing will provide top security to a retreat in the Himalayas"
-    excerpt: "Four engineers have developed the world's first Artificial Intelligence-backed giant swing in Manali, India. The swing will be open to public in 2023."
-    publishedDateTime: 2022-10-10T11:25:00Z
-    webUrl: "https://interestingengineering.com/innovation/first-ai-backed-swing-security-himalayas"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 27
   - title: "IIT-M start up to launch world's first giant swing backed by AI"
     excerpt: "Come January, tourists in Manali will be able to get adrenaline rush riding a giant swing backed by Artificial Intelligence (AI), which has been built by a start up incubated at"
     publishedDateTime: 2022-10-09T18:53:00Z

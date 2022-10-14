@@ -109,20 +109,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "RTA to exhibit self-driving cruise vehicle for the first time at GITEX 2022"
-    excerpt: "RTA has outlined an integrated roadmap for the future of self-driving transport. It is moving ahead toward realising the Dubai Smart Self-Driving Transport Strategy aimed to transform 25% of total mobility journeys in Dubai."
-    publishedDateTime: 2022-10-09T14:50:00Z
-    webUrl: "https://www.gulftoday.ae/news/2022/10/09/rta-to-exhibit-self-driving-cruise-vehicle-for-the-first-time-at-gitex-2022"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 22
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2022/10/9/rta-flying-car.ashx?h=450&w=750&hash=3E6C2D053157AD38300AE3975EB0B8D9"
-        width: 750
-        height: 450
-        isCached: true
 
 secured: "PDS701R6dnM21S2Ki7sFIbL1zW5B4nzgNoK6dw0G84fQ7k2LPWRJWJMO0xkYdNt+fmx60RiosnCgWtS9Wr5YUxM4Vu9BON/g0oolvSIsrMJZqtSHULpa/CMKRrZ74sxMx/fFWvHq8a1YWMotNM9Dm7EN4iUrYQ0QE70L66hO5XaYp7LDe0PXWv1bfvj7L2SwvTVovUDCDcSw76nrQIH+9MGploWG5+beZrJGNsmafs6Cbll5c9KKEOVY6xQ/HcoW8uX0PeEoFgdrdCEuYJumipVIcIt5Bv/rUkJKX91Ny4nchVBmssKBpAwOWOEt8ctcbElJBumONNhIZlhzzeHIlm0tZugEvJAwdW3YJJ5lPfrt9hdCrTlaQ6mYp5+VrZWis72/MbGnwJnvEDhtPjHojBZq6OxV94MhoEFdYWc0XLr+Mwt1PR3Xy6tKpsbSVU+6Tav2PEam6t5Zgr04joZvhUKbIssEV35Ztz/hwhtX9rAfpfXHr2XZ3nZJdnBcDr1AzgiJFIkCgIj90bMKOBN/0A==;QW4XkITEeTDNO+orO91NBA=="
 ---

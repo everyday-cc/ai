@@ -1,26 +1,32 @@
 ---
 category: news
 title: "Meta is using AI to generate videos from just a few words"
-excerpt: "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion."
-publishedDateTime: 2022-09-30T03:04:00Z
-originalUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
-webUrl: "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/"
+excerpt: "Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt. Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make ..."
+publishedDateTime: 2022-09-29T22:06:00Z
+originalUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 type: article
 
 provider:
-  name: Local News 8
-  domain: localnews8.com
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg"
-    width: 1600
-    height: 900
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220929145441-meta-ai-text-to-video-super-tease.jpg"
+    width: 1100
+    height: 619
     isCached: true
 
-secured: "iTrB2kVM8ZTGSUWOPAEdeHkoEWRLthpvLQ8+DJWLKDfH+ER/G8FcniYKpV/jmOJe/T600RcVbNoDmOuQIbR/WDDNO8a90KMKvCLvpV6PAmpTb8gBdQjS2qJ9ij+E5f3Ca8CqbLM3byMxdqi5uFTMcPo1mSALzxKQ90crbDw9gcleV3Oetd/E83jsUUrQG+s9TIPVPwaE+0Iri0Hg66yFqC7s/SHLyLJvSfMyt78u/ljSpIHEf/D2mKo0CvdRqCfycE7eZwYOkginfqx7eEn7lqZzpCX3DXFqbKyWw24IWhSpuh3ViPCr695bEvvNKO67mdraaXYPp/FhORKAF2rSLQiPZtS9euwx+BobwLOq7TnYWZFSBAbXqsolxwZor78TQXnkGO1mX+dv6wGY/H9uWIBqRGXCHKzLV107NEFAKgWKJYYAllQP+UXVzU4PJ9gfuwClI5/mA8HpbdPjATs0Ql9+1AqLaE/koZrLKcLHliXkkkVGCA/GKVKZRy0iuWHZ8ZF8fDRckkYcFjkPTSRhcQ==;PMUKGwvIICEI48qwDdZb6A=="
+secured: "YfEkb2yPNulWs5fFJ7YGmp6ycxTrUOh5H3uYHA3DNUkerf8/Ev9EubGrUUadYG9/6ebhGQOr7YVH41CoF8cjRmem5AXa3wZwtueDcUojgGE3f82BtcBWpeLzPkJaXUoGyGojTrXswh+TQ22rj6PA8aihEMToEg7wp5KNTZZnSJTp9kZwPT9qpNEybyLet9WLpUr88rejzUHaj3/qr1LjfGfcac6SkdzRob4SDiwNewA/vV2fH+rZ7V7XGkXkFjhIBtwAIFkkUzgGX+L5UOFip23+uJIpQokDmG3sdaXNrorlnA8QmaQNXuzVdzVlsRyOPjtwehKqZ9T7ExMwISpHh6znrPL7oyZ5K5meNVGuALM=;HldOpPjGn//0uYIJ2ag9qA=="
 ---
 

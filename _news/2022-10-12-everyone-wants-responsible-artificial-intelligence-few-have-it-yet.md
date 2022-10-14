@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 101
 published: true
 
 provider:

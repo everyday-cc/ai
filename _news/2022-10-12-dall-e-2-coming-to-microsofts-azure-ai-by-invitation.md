@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/"
 type: article
 quality: 119
-heat: 539
+heat: 549
 published: true
 
 provider:
@@ -323,8 +323,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -436,16 +436,19 @@ related:
         height: 853
         isCached: true
   - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
-    publishedDateTime: 2022-10-13T17:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T19:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 52
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z
@@ -488,6 +491,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
+    publishedDateTime: 2022-10-14T06:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
   - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
     excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
     publishedDateTime: 2022-10-13T16:54:00Z

@@ -42,22 +42,6 @@ related:
         width: 3840
         height: 2160
         isCached: true
-  - title: "How artificial intelligence and virtual reality are changing the way children learn"
-    excerpt: "Artificial Intelligence (AI) and Virtual Reality (VR) are not just hot topics, they possess the ability to way to customise the learning journey of each student, thereby moving away from the ..."
-    publishedDateTime: 2022-10-09T13:58:00Z
-    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/edtech-children-4.webp"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "EMIRkUiG3ac4Y5SEv1uTR8ZW3BGjstD0shs0rH75+0sEhOarFcv+GSWk4UTNgk8JgJUKOz/IqHA5VdXjRn1xhwrScbWgLm1Hk8SG22xBg8PZnox7prNuAyOVvmjwhw1SS8qNQHm3IdFk1uIxpDYar8ee7q4JCvCsvpRz6Fj//UCBLVFCH3LauAizUYGbqUMS4gG4j0qZ0Dmez11ABtkSgbWXqbX0idy2ot/SzyDGz6Glqon1kJfLQePvlbM/i+nzZC/+0n4etFEpvMApQyM32aZ8OMOc+uDz0n7c0k8kEO3aOEOR+FAwy6Wy88sxIvmioSAaUhNN4PyHo+U8jrrEmE0EO5HQ6jv/Jy7A4Iu5vKs=;6yXkR0z0KjcY7P6YZVbSpg=="
 ---

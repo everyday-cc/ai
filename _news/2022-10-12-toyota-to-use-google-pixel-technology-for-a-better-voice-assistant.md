@@ -8,7 +8,7 @@ webUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology
 ampWebUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
 cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
@@ -19,6 +19,12 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://www.carscoops.com/wp-content/uploads/2022/10/2023-Toyota-Voice-Assistant-2-1024x555.jpg"
+    width: 1024
+    height: 555
+    isCached: true
 
 related:
   - title: "Toyota and Lexus cars to get AI-powered voice assistant, no internet required"
@@ -79,6 +85,6 @@ related:
       domain: autonews.com
     quality: 34
 
-secured: "3B643WlZiTdbEH4MLHnkHUv5IgOZCYKIfxd0JH2JkwcPnPG7KEB9N1WLcrpclFUnYqNqHBHLVLBWNOzWh6oX1bN5SYk8K460D9w7OoVV+wh1ao5ErUEjDfjlqSSY4mWgtXMC29LfcxUdVIgyLdZqDs1RiztTw7GgpWHx0fZFZ+JIPF7S8dLjrvme+MD5BCebOBdp79DQq/Xb+/r2TLZorKHENR2C4RoqE+OU7MlN2bHiV40i2mBPgJZOLIzFKYWqzNFqDFHDmIk/EWrzcq1E1tw8z4gotrz6U0UXNDGpQTbiyXqCALc8knAIkK+M9L2bTCOda1k/JgQh+vVQqFa7rdpYHIkyy+hVnO6fRZqvzlo=;wCk6ra2Se+wh5ehZ+lDFMA=="
+secured: "Wjp3Vo2w9AEb6U3tHQfTZNamUhylYmWgql/tsaIlQWWMaXYphNuXxm6ER8mHIgNVvdOwAPlXgVQt19yOHoyOPCqntpTfKilroqe5IddyN+w7Un/owL/purm+9d8BsUuQukSl7ibBooM15cdVq4pD5YEHt8Dtqz7aSq5pW6pVxyVaNkhKB2pcvviH93TxHwpMOF/vvTEkrq10OZNyTaOmUVKG+Uin9JmqDoZkIKuNDUMWRqwoLlGgmWi85Xl+BZPpJPGIOdY88xAAAxycZVq2vbmPe5vZU574Aa5A5i9/IOG4UV9jA+2vfM+H0R/ZKSWmPwNx6BestMGgsfaB4QChUakwCFXq5kQ32VXHHpVFTWs=;Bp/wBqpV49eOKxDOeDkLtg=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-ge
 cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
 type: article
 quality: 73
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -100,20 +100,6 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
         width: 1200
         height: 676
-        isCached: true
-  - title: "RTA to exhibit self-driving cruise vehicle for the first time at GITEX 2022"
-    excerpt: "RTA has outlined an integrated roadmap for the future of self-driving transport. It is moving ahead toward realising the Dubai Smart Self-Driving Transport Strategy aimed to transform 25% of total mobility journeys in Dubai."
-    publishedDateTime: 2022-10-09T14:50:00Z
-    webUrl: "https://www.gulftoday.ae/news/2022/10/09/rta-to-exhibit-self-driving-cruise-vehicle-for-the-first-time-at-gitex-2022"
-    type: article
-    provider:
-      name: gulftoday
-      domain: gulftoday.ae
-    quality: 22
-    images:
-      - url: "http://www.gulftoday.ae/-/media/gulf-today/images/articles/news/2022/10/9/rta-flying-car.ashx?h=450&w=750&hash=3E6C2D053157AD38300AE3975EB0B8D9"
-        width: 750
-        height: 450
         isCached: true
   - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
     excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"

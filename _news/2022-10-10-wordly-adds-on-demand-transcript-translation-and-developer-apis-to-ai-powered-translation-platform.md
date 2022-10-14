@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform"
-excerpt: "Affordable Live Translation Solutions to Bridge Global Language Gaps Will Be Showcased at Annual IMEX America and MPI Smart Monday Conferences LAS VEGAS, Oct. 10, 2022 /PRNewswire/ -- Wordly, the lead"
-publishedDateTime: 2022-10-10T15:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
-ampWebUrl: "https://www.benzinga.com/amp/content/29203262"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203262"
+excerpt: "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ..."
+publishedDateTime: 2022-10-10T15:32:00Z
+originalUrl: "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html"
+webUrl: "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/f/aa/faa6d5ea-280b-54b2-ae4b-5e5c30028c8d/63443731cfe48.image.jpg?crop=1629%2C855%2C398%2C0&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Wordly launches on-demand transcript translation"
@@ -36,6 +40,6 @@ related:
         height: 270
         isCached: true
 
-secured: "HQzJHMhpzixyEWkJSFkh6Oh8fG2aiZF7jG0cnma9n+iPlfAZczWVTx9ZkyPFpNgQ3a2JZNtEDF2Xid+R59w+N0BVskHVI9Y+TcQJ2YIditL0tiQ6jShg+DlOVqsGFZgpbBksQJuWjFkLmNFylMPOdIAznA5InOQQj2Gh3iOczDPKktG7aikkY3P7wHbmagDPnqGqCTJH/yYUXnMbjAb5up6UdzG9u0SVDh+oHSnSd7J00gjT1QEz0AK+Bfalfu2brY32RWROnCisrxPEG19/jgR8V7xIDbBGIKSXtQ1V6ctfqMAeOtVbchiLMGKwTbKbr2+m9eKYyldKNqQYQ2z1FKjwspkIE8O8sKNp/GCD3hg=;IvPCCuHq7SOuBbgSLG9qug=="
+secured: "QsRPu7w6aeFh4HvrWGHdo4sjGR4HIp05UPaausvi0Fe4CR+o51aexbWpCZVJ+LL2iwWLYXSonX7UJAErNCnAYzV1k6yhWYUrCEGuTttVZqz+Ii0KOb1C+RUw6EJvpCHqLW0keBRv9usPz+xGZld+8/EAa19dblLW97F0ixILbvSzk1earHYnc58CrwZfIYqWegcPVdl8H32MJ7wcGpsph2+rEcqfbrWQqMvyY4qgfvJ5GeVmGPD4N5aUCv9GgHqg9ZItDqKhI6/SOzuiZsEkb4srGvs06REOdYilcyLkQjDdzfl2G6exsVudOaIfxazL/f98VZpbgw30IYROMsK1qYFVfeQLjMSSPffJs8mLgog=;0R2YBSSvJidYhoJuXvIqfQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-a
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
 type: article
 quality: 89
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "How artificial intelligence and virtual reality are changing the way children learn"
-    excerpt: "Artificial Intelligence (AI) and Virtual Reality (VR) are not just hot topics, they possess the ability to way to customise the learning journey of each student, thereby moving away from the ..."
-    publishedDateTime: 2022-10-09T13:58:00Z
-    webUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/how-artificial-intelligence-and-virtual-reality-are-changing-the-way-children-learn/2704695/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 53
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/edtech-children-4.webp"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "TTRLVz4WsfRkZff7nGLF5e02i8OOAEfnYZopDq3MjLHWBL56+laxNevnMhJx4HOQHwBC44bFJTsfVE/kr3Ryu0Y+VZEmBg3GZEkuLuMy0L196Yj20QEW5qoHX9H7JSrJyZvnqyQSU+ca5uUJwVS8Pp9g2jZ+Y2NF+6eFsr0R+3YZ2eAa7sKxHTKPve2ntVIJkNvoIKC1eIpBQVo2aeUTeCgeAys45OToj/YyeY6vSYVb6Q8TYiRLSQpAFoCBBCaKyYvW3bvaKV1wA2/Zj4ug43pIUqv1HFt/3r54Cd+MGk99cqhjjd1I/1wig0mhV6FjNEfqhj2/LGCed09DSk/RDp1C5pbp/yGeiStXQ1bvg8921Z6Im382rpKlJvUt9jGiOVfGrLzR+eZN6/mYd8OXp+uz4Z4JFCIsIbwjPRsvRFMxcHgFbVMe9u9CRNgmCdnYLJ+gOxFjQENCOUFZJG91F/hQdNdcfvYAF+OYEJzFIRHp4nT2iv2OjuCkRc4ItRT7aiDsTu9BUoPa4mIMuYSGBg==;Xbr03q7YOlaDX94iZccFzA=="

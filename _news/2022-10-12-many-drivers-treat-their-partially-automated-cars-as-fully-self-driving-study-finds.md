@@ -2,19 +2,19 @@
 category: news
 title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
 excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-publishedDateTime: 2022-10-11T23:02:00Z
-originalUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
-webUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
-ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article267180096.html"
-cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html"
+publishedDateTime: 2022-10-11T22:02:00Z
+originalUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
+ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
+cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Miami Herald
-  domain: miamiherald.com
+  name: Sacramento Bee
+  domain: sacbee.com
 
 topics:
   - AI in Autos
@@ -79,6 +79,6 @@ related:
       domain: hackaday.com
     quality: 45
 
-secured: "kl0pMGpLrogK77XGGTI9/C7W7/jVpvXghkNQuUxemx4s4BqKKF4HFGvYHH0wYVNz6nMkevkdALJvsUqh6D9hKi2VzNHNQey3f2zjYDf7nuINcM6qv93ODj1lffxs0zk1MXm+6uhsbWsGw5iP8h1GjPH/hCEtYjwH6bm3UnBrOYGCKNtnzG2dicFWv6OHylM5EYD3ghvdNIIMoZu2Kvd0xhQaonmUbjcs9kzJJRRU6rEcr3Q6l5UZwxSzAHNxmzIyZJbzhuZwFU1Wnf2qofUop5dZ3muVdqXDc9VqT1QpMX/luNL0f7u228cN4HE91UK4USFD4lZ5Ow/pbfiIFYdv1vifO7g/tykr2c3yJrjA1HA2YbPMmFktqvroVYp/4t31bJ4vaJkQF8ayixW62dTQ41ejA2XEOc2IGj33UTpSoD96zIIpT14J1gg1mk5XXC+GOFYWcmT8tRiSww/wIifmRwz5unJEh6Zxyh+xsORBRMp/+IUjwIJic+WussYy2YRGQmKNzy8mWMhkVU58hHjtHQ==;kGWc46AiYP31LEWEHDOVDQ=="
+secured: "uCKgJ1TjXfKTXnY5oOZYFLzyPhBjR02DJCqw+tTASKqiuKTMoQqskookA65imQWvh0gNxW6JrSR1z733nu2SgLB4fsPmomtCQuTobHV0XBlg9VzGN3USweNUiBKMOhQDfl/jj9xrah0RuN109ylGDYo2UZG7pLEfC6pqTbVl7vVMQj2PWbTcioxB72L+0HaHebgj/uQWXOZbwaG2MK9gBlaW6E1NmrgqAK5RWKSqllcVHo25datR02Y+RBddIEVo1kKsOcVWDXsr2PFlVCO3utFEcY16ZMsCBuKfN+yhGgOfZoCcfU8AOZlffh8YhJzDvLoXhyHdLUgeDcGlppb0tDRqWCH4KNEC2v9iCfEattWO6zPIx6hERhFWEhrreG4DenEU5A1nykty4+mwtCh/OTuKQbcVLphqEzE6mkQUvE+4CmVNIXbhd3sM7VqNfNv0z/+HUc34Pe+ZEOnw4U20wuTGJ55HR4nyJBHImAIaRtOPnap5pI28V52fO4lFgLs9G69m8gJvphhojfnhgOPCpg==;Hj0oHkoiINK/umD0to7X2A=="
 ---
 

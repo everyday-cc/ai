@@ -87,6 +87,20 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Toyota partners Google Cloud for AI-powered speech recognition"
+    excerpt: "TOYOTA says it is partnering Google Cloud to boost its artificial intelligence-based speech services. The partnership aims to improve in-vehicle infotainment systems’ voice recognition, something drivers have continuously complained about in the past few years."
+    publishedDateTime: 2022-10-14T05:55:00Z
+    webUrl: "https://www.vanguardngr.com/2022/10/toyota-partners-google-cloud-for-ai-powered-speech-recognition/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/toyota-fuel-pump.jpg"
+        width: 915
+        height: 610
+        isCached: true
   - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
     excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
     publishedDateTime: 2022-10-11T13:00:00Z

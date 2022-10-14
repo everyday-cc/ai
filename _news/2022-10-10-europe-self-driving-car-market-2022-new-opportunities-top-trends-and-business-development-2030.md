@@ -80,6 +80,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
+  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
+    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
+    publishedDateTime: 2022-10-14T06:41:00Z
+    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "KqdJI2LqDXW9hxEi9L0Hp+Ak4WcVFiSSvZetTsipSTy5HI89scf5otAJQ6o/rhGORIvJZd3ZG3/FRyVTsJMPPTWDGOKXvaanDXNLSbqywnRHGt1iEQhoaUvrUR4JOSSrHiyRsoC4hbjQKvZG0eh2lCzcjC7So/E5zlJAcncqfNLPoQy43oLP1yEOIzb7QhInr/TJqay96X1dLf0kCT+GlBVNThbpPTnl6r2/LYfZlG94ITlbC5yCb4A3vYJUTZxclff/TVolmGkyRY/4pX4U2cV3FLD6wrB0MIULK+nB/ZEa+giIQJoptHuAOR3ESB/VorNxLyxjFPWeqjp/5nns+snx4MKlRyt8Tgw59zbx09Q=;xu/s7CqRFG52TO+Z7EhRrA=="
 ---
