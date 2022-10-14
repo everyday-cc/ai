@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "adahealth"
   url: "https://twitter.com/adahealth"
-  followers: 37740
+  followers: 37741
 
 size: 201-500 employees
 yearFounded: 2011
