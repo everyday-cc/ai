@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
-publishedDateTime: 2022-10-10T10:25:00Z
-originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
+publishedDateTime: 2022-10-10T13:07:00Z
+originalUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
+webUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg"
-    width: 880
-    height: 542
-    isCached: true
-
-secured: "DeFqYcepdqwXfKh5US2yqom38MbvH36RKYFL/kMfmeG8LKSv1jNcaBPxkj6sUwd5iAVQnSgUumttqzV+3ahL2/HyMc/eQZ5GLtuAtX6hJ76VU6c72nMOD+QMK3PMHsieX9QoaWgjFz7maaqHMvRsFQQ4WnCZ5jFoIq75VnKqkfLB7YSekdN+M1Im+YkCaSWsGW1XE8HB+ppEMcIRLxd97Pa5pvG/sQ8LjU22bnsfsi0wMJHISeYE3jLUg4/XI8FLG0+P43JTq4FMB7NaMTsjU9pNkY/XAL8lo7lXeahIsUeRP8rRah17MB/r/0inlwB/LaTMiZFoGMx2tpmbd/6vdH0LwGqLsYLgUzpPJlR64CPKoXJ/NGKHyNZJeiWmVK+A5QYmQc5r2Shd/IayzFcg1+HXzeR+6PTUPxF9vTlUiDzRd/IjDQ/4TM20stLp9WK7KYaeQ8WgxCnaKry7QJHriRNvpP96iW/x6DEaEenra3zCGdn6kRlm1Y80PNazUBBvGjj6wV9TFLc3A/eve228Bw==;nNfmQLCxWu/NJfZBvIAd5A=="
+secured: "g5m/iY02yFVK+wtRvexOP/fURpKNj+inaXaoHVpo3nwLwtohf4pa/F5M1k8fe+WDiN6LJWhYsMBvogT3di8LFAFz89aVt4rm3YAWWsw+sjgTIijZkglyn20PLv84U2bExtdy3Gsb9Ej4/O/IQZQfY8FMX0+u98Da1DllsgSN9hoBBt0twt0ezvFPPa6INi7eWDklemSW6tlIK1CZG3whZuK71oS6P4RPwt1nFnTpmA24eWl9o5QX3JJgGXgMyz2ULAc8eRAmV3UyX4VcLdSkz9PJJQNw8QK3TNh66huYz1sSB/m641q6mMANyk6j7mqWNOkeqqrNPkZ9gKghP2fO2hxlJDVHMswO+D32KQRXyRYDl+EIAeA45/gyM1HgrU3rzlhqmYmYwLId/fe9GdeBuQxgfp8jvB5oNkpwQwg074ki1rlOQormIbrSFYL9ykrAjisqWCQ/ftlxWFExv6xFbIVfiE3r8JekiAetSQXV3arPjUW38QYm7RpL72aeUStox4j4JxJNBS7guY0owkSIYg==;ktj449fvWB0Wh/yk3O0WFg=="
 ---
 

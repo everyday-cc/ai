@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all"
@@ -40,6 +41,6 @@ related:
       domain: forbes.com
     quality: 66
 
-secured: "1uvBcwltWp33mZPoL+g08r1fweQhhS4LXPSaFVW7xUQExLo17NrAlqKrQFxwoSGtJ+dO+Lpb/Kwgn2dR8d6jdHCw+gA97+RDZccy/lTS6k3aCkLNAjNzXY+Kk7LYr4FB1kl5iV0MBEUUvpB870Lx+3H0dSGHWMMpqfhYVM1DO0Mu6fvxLc2hgtWQuTS27oJ+1lfncPz/XkREOJ/HFkYc5qpY6lcIgtU5ONiROunlDUpWbCqWy/WePygbpMMCCBol0rMZa6tOY3Ni/vAZqLYDYj5yefqoy60jpQY8Xgtt7OPURX5skkMblmWd8gxyJ8xsQiwqX2D5qgQNbf5PDVlQsadLDPYXTzs0N/cDy/pPL3g=;b3PRwHzDywlQiMjJceI44w=="
+secured: "HuozWvAvcv2ffTh0/12E3aCn6O3DGlKkEf6s63qH9GpOsl7ijHB4DiBKo0BtPMQ644mBRIcqzyKqTNnGWNSoIY21HLaPq0070QiDVaNBRY0/TqxBM5x2NJtFUX7sf5PxHB0GMiO8ZAuynBJFZWD56VAZHufaLwPxrOYP3bcoS77ocz2RhIYP9BXqFNTwHZ9ChY77XHDzMHywzys6QpCH1eJzktm3AfO9fIN6OikdlR2vxoCqNzi8KykJU4+k7nr6jzDwB7HpgEWVbnC4mIbu2iL5rfEzJaZpcOjHJcXyskeQ7uk+/NphPVRLaV/cf1HtFMr/FFOWxCusaCFt/wjIkxOlsGsVOgGxN01M95KgY8uHShBkItSMsIjYjpvJav5Q0AmvybGTNa/a0MhCr1GacAh46IW966xUGiXFuw1wz1IkiiQ9+8kN2aCyL1E+BHAMdfsJc4XTteBSuUzU8REd7bMQsMjuQ28O43Dk6ELI0T/tTi6/AqJ3onaRtLU9Zr3Zg74WIvmYFMTF2u5RGgvN5g==;8m+FMGT1TkVtrNJo4MlMaw=="
 ---
 
