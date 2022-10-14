@@ -27,35 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Dubai's RTA to showcase driverless taxis for the first time during Gitex"
-    excerpt: "Dubai's Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 4.."
-    publishedDateTime: 2022-10-09T17:17:00Z
-    webUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022"
-    ampWebUrl: "https://www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/transport/self-driving-transport-new-gen-taxis-dubai-rta-to-showcase-new-initiatives-at-gitex-2022?amp=1"
+  - title: "Lyft exec was wrong about driverless vehicles — but he still believes in their potential"
+    excerpt: "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit."
+    publishedDateTime: 2022-10-11T18:09:00Z
+    webUrl: "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
     type: article
     provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 73
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
     images:
-      - url: "https://image.khaleejtimes.com?uuid=7cc4b377-db5c-5fac-9612-25ede4150eb9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.95339&width=1200&height=675&x=1.0E-5&y=0.02331"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Sensorium to Showcase Latest Innovations of its AI-driven Metaverse at GITEX 2022"
-    excerpt: "Verse, a new GITEX event dedicated to immersive technologies and the Web 3.0 industry, Sensorium will showcase some of its latest innovations in the field of extended reality and artificial intelligence with an interactive multi-day program."
-    publishedDateTime: 2022-10-10T12:00:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sensorium-to-showcase-latest-innovations-of-its-ai-driven-metaverse-at-gitex-2022-1031792602"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 62
-    images:
-      - url: "https://mma.prnewswire.com/media/1916298/Gitex_Streaming.jpg"
-        width: 400
-        height: 225
+      - url: "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001"
+        width: 5255
+        height: 3402
         isCached: true
   - title: "China is setting the rules for driverless cars"
     excerpt: "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example"
@@ -73,20 +59,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries"
-    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
-    publishedDateTime: 2022-10-13T09:30:00Z
-    webUrl: "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/"
-    type: article
-    provider:
-      name: BetaKit
-      domain: betakit.com
-    quality: 57
-    images:
-      - url: "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg"
-        width: 770
-        height: 513
-        isCached: true
   - title: "Commentary: China is setting the rules for driverless cars"
     excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
     publishedDateTime: 2022-10-12T22:09:00Z
@@ -101,15 +73,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022"
-    excerpt: "RTA unveils first of its fleet of self-driving cars coming to Dubai Self-driving cars in Dubai: RTA to exhibit vehicle at Gitex 2022 RTA, self-driving cars, Self-driving vehicles GITEX Global"
-    publishedDateTime: 2022-10-10T03:33:00Z
-    webUrl: "https://www.arabianbusiness.com/gitex-global/self-driving-cars-in-dubai-rta-to-exhibit-vehicle-at-gitex-2022"
-    type: article
-    provider:
-      name: Arabian Business
-      domain: arabianbusiness.com
-    quality: 19
 
 secured: "NnHtzmUdEpj3LKovS6k01dQMTxL2HZ3hx61ma+Ntg2yoRK+cc6kovn4qTXfoF9bGcYoXfZ0Y+muplZyLa2POjcwUgHXMeZ+mTCXqmc1wHtMzuKGsSxs8zaSCNPgyCeYpnuCugLVwsFkAF5zjdHgvMJPhmqkf8mZirrg8ESqIGRwjMi0yjy1DOKqw1P1WWhvEMagZHLwXzfxX5feRR9Q0me0Y48cRFLsVDdaPxT7loMmr/UyKdTSUljqEX5mTfRejMCPJqb4iZSAzVbgoZkpueg39HMWq62IbTOh/x5C13L73CZbNIMFXjeYp5ZF3zxfdjw1xkJSVj81ZHiKddwRU3Ey409EdU0/GR6MnlSDk5VM=;9DhcGBYzc3LjSZxSN+EMgw=="
 ---

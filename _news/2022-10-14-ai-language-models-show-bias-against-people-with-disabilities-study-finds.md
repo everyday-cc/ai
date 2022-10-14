@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI language models show bias against people with disabilities"
+    excerpt: "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl.."
+    publishedDateTime: 2022-10-14T09:10:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94855381,imgsize-23140,width-1200,height-628,overlay-etcio/ai-language-models-show-bias-against-people-with-disabilities.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI language processors show bias against people with disabilities: Study"
     excerpt: "A recent study has found that the algorithms that power AI based language processors frequently exhibit characteristics that might be insulting or discriminatory toward people with disabilities"
     publishedDateTime: 2022-10-14T05:15:00Z

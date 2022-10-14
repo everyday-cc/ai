@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
 type: article
 quality: 104
-heat: 134
+heat: 144
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between"
+    excerpt: "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,"
+    publishedDateTime: 2022-10-14T09:40:00Z
+    webUrl: "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between"
+    ampWebUrl: "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 101
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng"
     excerpt: "A robot addressing a Lords committee evinced a clarity and personality all too lacking at the top of the Tory party"
     publishedDateTime: 2022-10-11T21:46:00Z

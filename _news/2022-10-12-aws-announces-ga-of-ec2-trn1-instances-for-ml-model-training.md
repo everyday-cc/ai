@@ -32,6 +32,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
+  - title: "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Are Now Available"
+    excerpt: "AWS announces general availability of Amazon EC2 Trn1 instances powered by AWS Trainium Chips. Trn1 instances deliver the highest performance on deep learning training of popular machine learning models on AWS,"
+    publishedDateTime: 2022-10-14T09:10:00Z
+    webUrl: "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 41
+    images:
+      - url: "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
     excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
     publishedDateTime: 2022-10-10T23:35:00Z

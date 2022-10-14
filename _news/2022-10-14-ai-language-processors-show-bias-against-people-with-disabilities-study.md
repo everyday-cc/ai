@@ -9,8 +9,8 @@ ampWebUrl: "https://wap.business-standard.com/article-amp/news-ani/ai-language-p
 cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/news-ani/ai-language-processors-show-bias-against-people-with-disabilities-study-122101400164_1.html"
 type: article
 quality: 58
-heat: 88
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Standard
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI language models show bias against people with disabilities"
+    excerpt: "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl.."
+    publishedDateTime: 2022-10-14T09:10:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94855381,imgsize-23140,width-1200,height-628,overlay-etcio/ai-language-models-show-bias-against-people-with-disabilities.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI language models show bias against people with disabilities, study finds"
     excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises."
     publishedDateTime: 2022-10-13T21:01:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/"
 type: article
 quality: 66
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -24,6 +24,20 @@ topics:
   - AI Ethics
 
 related:
+  - title: "Can AI rescue lab rats and guinea pigs? How new technologies could solve a major ethical issue"
+    excerpt: "Can AI rescue lab rats and guinea pigs? Science’s long-debated ethical question may finally have some answers."
+    publishedDateTime: 2022-10-14T08:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/ai-rescue-lab-rats-technology"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 44
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/12/image/jpeg/axTMOIazSZcZ4CbOYhC1h2qWly0KlnazrpRUzMIw.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Posts Tagged \"ethical AI fintech\""
     excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
     publishedDateTime: 2022-10-13T04:11:00Z
