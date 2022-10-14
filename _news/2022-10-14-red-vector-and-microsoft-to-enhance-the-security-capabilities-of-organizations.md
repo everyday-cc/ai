@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
-publishedDateTime: 2022-10-13T17:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+publishedDateTime: 2022-10-13T19:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -484,6 +488,34 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
+    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
+    publishedDateTime: 2022-10-13T16:54:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
+        isCached: true
+  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
+    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
+    publishedDateTime: 2022-10-14T01:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 47
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
   - title: "Why Microsoft Voice Access is Windows 11’s best feature"
     excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
     publishedDateTime: 2022-10-10T16:57:00Z
@@ -582,6 +614,6 @@ related:
         height: 1440
         isCached: true
 
-secured: "0rk1dtIq/ItW4Yvg4ajVZ9RZ6L7kqjBTzKHhpCbPUkntLCxgD/DxU4Ydq0sw9dWcVkdPsazbjMiuFDgPI+MfcenMoqtOltli7aAtfYeHEotVgev5lkXrFs0ZXN+I0aT6JmAceyt00NdO8FJnamLx9ht2B1TBmORTvwj8eXRL86kbWU03lWHFhLt7tu26zQOsIt+9MjSX0f8Y++UnIpGhERWj9REOfIh/k+mXcEgeZ3UzF/QHTRoQDXl55arkv2+6tDAu6GOnJAYg/44obQ+WWeHHrGdGBpuhsf7JMvhmI0vcfIkUZ6QhfyZ0cJaVKNQF8uMkEekIj1L2KhC2+q5aij5Ye62rLjecl35rqAHqZFg=;/C0A/Vj57Pr731PWBlZQdA=="
+secured: "eVxii3gF8kDC6vffXPwYKu/rsGmOjEdgaOD316UPvMKZ3XR9iUWHqVPTu5xQYEBGdB5iIg7RWWHyGYFY0f5h7Ow7SBUmFSuT0kUWJj0jUM0MQaqEFDCs/CyNoJ2INuiU8BPDWsURzL0eAHl+r5UD35yt8jT4mJVXQ5NtmABjYqORE4CKESYUJuUtFV7aD/HMqYTxgvSqmz9lbPrWjC4aZES/i6tdnvTDVGQhW5S0/SVV/vieDpTvcgUl8dt9/nJJbwo45PREg9DzsFMN40YgEOn4RsQhnXjuxUpoSbVNme0a4kfvR6uNqr7bPZpOg8G7ucQJj1/TOIyDG0UV1rr0z8O0+3NM6GOGZNWVaBk1Mbc=;rjWba0wX+2KbvhOA4xTg0Q=="
 ---
 

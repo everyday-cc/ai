@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
+      "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
+      "excerpt": "In early 2021, Bollinger’s winemakers were able to get their first taste of La Grande Année 2014, a prestige fizz that had been aging in the champagne house’s cellars since it was blended.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model",
+      "originalUrl": "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.co.uk/photos/63408807c355476fe206deed/16:9/w_1280,c_limit/Bollinger-Champagne-Featured-Gear.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-08T04:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired UK",
+        "domain": "wired.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-explained-how-artificial-intelligence-can-be-used-to-cheat-in-chess-games.md",
       "title": "Explained: How Artificial Intelligence can be used to cheat in chess games",
       "excerpt": "The issue cheating in chess has resurfaced after World Champion Magnus Carlsen refused to play against Hans Niemann, apparently alleging cheating.",
@@ -488,49 +531,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
-      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
-      "excerpt": "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {

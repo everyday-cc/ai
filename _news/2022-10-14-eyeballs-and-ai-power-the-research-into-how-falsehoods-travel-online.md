@@ -27,18 +27,18 @@ images:
 
 related:
   - title: "Eyeballs and AI power the research into how falsehoods travel online"
-    excerpt: "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading."
-    publishedDateTime: 2022-10-13T13:01:00Z
-    webUrl: "https://wusfnews.wusf.usf.edu/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
+    excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
+    publishedDateTime: 2022-10-13T09:01:00Z
+    webUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
     type: article
     provider:
-      name: wusfnews.wusf.usf.edu
-      domain: usf.edu
-    quality: 37
+      name: KUOW
+      domain: kuow.org
+    quality: 39
     images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/a841607/2147483647/strip/true/crop/5922x3109+0+417/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fgettyimages-1055494208_custom-193c70ce843e1d174efc8f2a6fd301db7bba656a.jpg"
-        width: 1200
-        height: 630
+      - url: "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+        width: 837
+        height: 628
         isCached: true
   - title: "Eyeballs and AI power the research into how falsehoods..."
     excerpt: "Using the same technologies that in recent years enable AI to write remarkably like humans, the platform generates summaries of trending topics. An analyst reviews the summaries, weeds out irrelevant items like advertising campaigns,"
@@ -55,6 +55,6 @@ related:
         height: 240
         isCached: true
 
-secured: "AY5+xCAkPKkacGw66TPTEsycX6LuYWcDmVY+BgfsjVhGE35m8NhJlMh/ugrv5YopmBCJdFwbs7GfgNCX7B7D/j4hnsJt7KOTis8nTO4UpBOUvComjCJMBd5IAZ8VnQJDGUn4D7JOdzPbjxXUPAwjtgOlc61vc/VzceEZbN6o9I3PySXiJLSVypns/O+eKNj2wXH7tvXZzgnTodZDI0VDTjqVHTUJv+JMqMOyJ0Cc98NuVIYq4v/JisPQD4aa9yKHeLW3UUjdwSCdkMD3R88OefeqFTEL83Usr+IZH78mxLbkNHxD8/IdHJuJMfEiJmiS16cMf1wWMegT+nv7OqaUTi4BRU4RK5V21TUEv1vWW18=;aR1Pt21UefLWcfHRijXA1w=="
+secured: "v0F9Q+1Y9UlbjwP95qYsgULEq14QVUnGl/CISVGllcNuiPqunrVSNDUDMlkW5Q9UP+SO899ituszMTTuvgh3SaXFqglRT2PNHDjfk7oYGim5INvBZ/Bawsdm2Vmj16x0opUni2JqRfTXZjwOeiaFFBiaPQp7Lgfhs7rs1xBZzhBRspgJY9XXnFT5vGM2XuClcuWw9A9M0ZvE6FnMvI5x8x4h4L8+XS5fnfFBOQjIt1lzqBLvukA4M8XBfwBI0vf/gaPUWYNCGZkmGRYLhDl56skNZNTFKwL6KiCqICpgYuPiasF+QTsBsOTHYllBc/lXgmqLiXLIeY7X/2273XrsLcyAff+KUjrTQTyDOfX2TlZUxFzHbtFLFM1GMVOPyYaHixeaBdTyQjI4PrO+p5ohZtxPSCiWsH3PSNFRV7L91Bb+CMmDmo9NeglkRSC+PuXiaRlw9cQuty2Pfz18I9gJs4J2GAmFXYm1pl6D+8iQ8dmaT9B2ptpfgoWQKmvfYR+/XvmccNmk8YefoIPZSxV0AQ==;PV7Tdqt/msIGq5ltqaYcWA=="
 ---
 

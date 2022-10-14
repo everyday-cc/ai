@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-13T23:40:00Z
 originalUrl: "https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership"
 webUrl: "https://www.darkreading.com/application-security/hsbc-and-silent-eight-expand-machine-learning-partnership"
 type: article
-quality: 39
-heat: -1
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://beta.darkreading.com/images/og-image.jpg"

@@ -2,6 +2,136 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
+      "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
+      "excerpt": "The new Win Probability Match Fact emphasizes notable swings in the chances of a team winning their respective match throughout the 90 minutes of game play. This new fact is based on action from the game,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "originalUrl": "https://www.eagletribune.com/region/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_4ced572d-065b-5097-a3d7-37e36046aa19.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/5/56/556d7599-2b76-5991-9cd5-0d8f2eb26930/63366cb9d45a0.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
+      "title": "Meta is using AI to generate videos from just a few words",
+      "excerpt": "By Rachel Metz, CNN Business Artificial intelligence is getting better and better at generating an image in response to a handful of words, with publicly available AI image generators such as DALL-E 2 and Stable Diffusion.",
+      "sourceUrl": null,
+      "webUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
+      "originalUrl": "https://localnews8.com/money/cnn-social-media-technology/2022/09/29/meta-is-using-ai-to-generate-videos-from-just-a-few-words/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://localnews8.b-cdn.net/2022/09/hypatia-h_03283525a8885fcfbfcb4766d4628f46-h_a463ea9a9fd8001bfba9f7fc89c66cfb-300.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T20:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local News 8",
+        "domain": "localnews8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-30-aws-sk-telecom-develop-computer-vision-platform.md",
+      "title": "AWS, SK Telecom develop computer vision platform",
+      "excerpt": "LIVE FROM MWC LAS VEGAS 2022: SK Telecom and Amazon Web Services (AWS) announced a partnership to develop a cloud-based computer vision platform, designed to make it easier and more cost effective for the mobile operator’s customers to build, use and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
+      "originalUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/08/SK_Telecom_SS_Generic.jpg",
+          "width": 650,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
+      "publishedDateTime": "2022-09-29T18:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-30-artificial-intelligence-in-iot-market-size-sales-cagr-and-competition-data-from-2022-to-2029-102-report-pages.md",
       "title": "Artificial Intelligence in IoT Market Size, Sales, CAGR And Competition Data from 2022 To 2029 | 102 Report Pages",
       "excerpt": "Global “ Artificial Intelligence in IoT Market \" Report is a detailed and comprehensive analysis for global Artificial Intelligence in IoT market. Both quantitative and qualitative analyses are presented by manufacturers,",
@@ -1035,135 +1165,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-googles-artificial-intelligence-built-an-ai-that-outperforms-any-made-by-humans.md",
-      "title": "Google's Artificial Intelligence Built an AI That Outperforms Any Made by Humans",
-      "excerpt": "In May 2017, researchers at Google Brain announced the creation of AutoML, an artificial intelligence (AI) that's capable of generating its own AIs. More recently, they decided to present AutoML ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "originalUrl": "https://futurism.com/google-artificial-intelligence-built-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2017/12/GettyImages-474395892-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/google-artificial-intelligence-built-ai?amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-artificial-intelligence-built-ai?amp",
-      "publishedDateTime": "2022-09-29T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants.md",
-      "title": "OneMeta AI and World Congress of Families Will Make the Conference Available in 82 Languages to Over 4,000 Worldwide Participants",
-      "excerpt": "SALT LAKE CITY, UT / ACCESSWIRE / September 29, 2022 / OneMeta AI ( (OTC PINK:ONEI). OneMeta AI and its cutting edge AI technology product: Verbum,  will be providing live language interpretation for over 50 International speakers and over 1,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-and-world-congress-of-families-will-make-the-conference-available-in-82-languages-to-over-4000-worldwide-participants-2022-09-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-renesas-expands-rzv-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition-and-multi-camera-image-support.md",
-      "title": "Renesas Expands RZ/V Series with Built-in Vision AI Accelerator for Accurate Image Recognition and Multi-Camera Image Support",
-      "excerpt": "Renesas Electronics Corporation (TSE: 6723), a premier supplier of advanced semiconductor solutions, has expanded its AI-capable RZ/V Series of microprocessors (MPUs), with a new device that enables AI processing of image data from multiple cameras,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/renesas-expands-rz-v-series-with-built-in-vision-ai-accelerator-for-accurate-image-recognition/article_ac1d2f8c-4aff-5a39-a3d3-b45c01e9b3b4.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

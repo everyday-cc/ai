@@ -7,7 +7,7 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-e
 webUrl: "https://www.prnewswire.co.uk/news-releases/hsbc-and-silent-eight-expand-machine-learning-partnership-301643369.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: Dark Reading
       domain: darkreading.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://beta.darkreading.com/images/og-image.jpg"
         width: 342

@@ -450,16 +450,19 @@ related:
         height: 853
         isCached: true
   - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
-    publishedDateTime: 2022-10-13T17:47:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T19:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 52
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z
@@ -501,6 +504,34 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_506290799.jpeg"
         width: 800
         height: 600
+        isCached: true
+  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
+    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
+    publishedDateTime: 2022-10-13T16:54:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
+        isCached: true
+  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
+    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
+    publishedDateTime: 2022-10-14T01:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 47
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
+        width: 472
+        height: 315
         isCached: true
   - title: "Why Microsoft Voice Access is Windows 11’s best feature"
     excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
