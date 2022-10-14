@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Software Market Type, Application, Business Growth, Top Key Players And Forecast To 2028"
-    excerpt: "Xcellent Insights has recently added a novel research report on Artificial Intelligence Software market to its database"
-    publishedDateTime: 2022-10-10T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-type-application-business-growth-top-key-players-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Software System Market 2022: Top Countries Data, Trending Technologies, Key Players and Geographical Regions by 2028"
     excerpt: "According to a recent study by MarketsandResearch.biz the report Global Artificial Intelligence Software System Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
     publishedDateTime: 2022-10-11T02:08:00Z

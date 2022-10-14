@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "IIT Mandi start up to launch world's first giant swing backed by AI in Manali"
-    excerpt: "The swing was built under a startup incubated at Indian Institute of Technology (IIT), Mandi, and is claimed to be a first-of-its-kind in the world."
-    publishedDateTime: 2022-10-10T04:53:00Z
-    webUrl: "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286"
-    ampWebUrl: "https://www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp"
-    cdnAmpWebUrl: "https://www-zeebiz-com.cdn.ampproject.org/c/s/www.zeebiz.com/small-business/news-iit-mandi-start-up-to-launch-worlds-first-giant-swing-backed-by-ai-in-manali-202286/amp"
-    type: article
-    provider:
-      name: Zee Business
-      domain: zeebiz.com
-    quality: 54
-    images:
-      - url: "https://cdn.zeebiz.com/sites/default/files/styles/zeebiz_700x394/public/2022/02/17/175731-lic.jpg?itok=ar3TG90g"
-        width: 700
-        height: 394
-        isCached: true
   - title: "IIT Mandi along with NSDC launches online certification course in Data Science and Machine Learning"
     excerpt: "The course will be held through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be done through an eligibility test which will be conducted on 15 and 16 October."
     publishedDateTime: 2022-10-10T11:06:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://assets.telegraphindia.com/telegraph/2022/Oct/1665399778_iit-mandii-1.jpg"
         width: 1500
         height: 896
+        isCached: true
+  - title: "'Data Science' and 'Machine Learning' at IIT Mandi"
+    excerpt: "Mandi and National Skill Development Corporation (NSDC) have introduced a Certificate and an Advanced Certificate programme in the fast growing domain of"
+    publishedDateTime: 2022-10-11T02:45:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/data-science-and-machine-learning-at-iit-mandi-764936"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 39
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/10/11/1315823-i.jpg"
+        width: 1200
+        height: 720
         isCached: true
 
 secured: "/9AXA/XR6A114CUKSsL7jg1qTDB/qb7yR3VAnhsbfyg1X/c3Xt/sbcWeaSMfrXjf4WCkamyaCCNog35YNy7FyvedANNlRCS71ik+HlmLxujG7Iv7oswSmW0tWQa4jCbqJZFdWW20YVb7ycV4nzFLguE3V3LpW9IqxcmHp8XQK9R35614C5T43dgoTzAiQ+WDKYacmsd6dH2Ne0LjdG2d5sbcwT6VtLPmAfLG3nVZdMYEb3zOA5tw7YgBuZTPXLZKhxoXa/cadfkOETMhTs83YpgjxlPFJxtcgDx0kgirKSGQcTxGUJ+OhU2ctbjpVC0sgXhpg0EnKiz+P3r+YUEgJC72Fsq/gUr3eHMBGO169zc=;kvxk4jRDznYYS60bzfrxUw=="

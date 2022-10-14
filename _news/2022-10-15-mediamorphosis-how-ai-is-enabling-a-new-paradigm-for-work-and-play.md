@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T18:07:00Z
 originalUrl: "https://venturebeat.com/ai/mediamorphosis-how-ai-is-enabling-a-new-paradigm-for-work-and-play/"
 webUrl: "https://venturebeat.com/ai/mediamorphosis-how-ai-is-enabling-a-new-paradigm-for-work-and-play/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

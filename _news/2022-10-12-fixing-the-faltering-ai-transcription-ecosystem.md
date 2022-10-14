@@ -45,6 +45,15 @@ related:
         width: 2500
         height: 1667
         isCached: true
+  - title: "When the AI goes haywire, bring on the humans"
+    excerpt: "Used by two-thirds of the world’s 100 biggest banks to aid lending decisions, credit scoring giant Fair Isaac Corp and its artificial intelligence software can wreak havoc if something goes wrong. That crisis nearly came to pass early in the pandemic."
+    publishedDateTime: 2022-10-14T07:26:00Z
+    webUrl: "https://www.globalbankingandfinance.com/when-the-ai-goes-haywire-bring-on-the-humans/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 17
 
 secured: "ZwMjTR9F6cmuOzVLlCv4E9QOGGmPM2YH1kbXnp1WVHV621UIm6LmsyC+EMQ/5D84K0fOmfYGa7upYCqZn8/903PtB79D+oe+UyCXXly/AnC2om5grJeO+Ic7VE7icdoL7YGwbRFKafn/1EK+wlVebeMl73Zl35uCdIPXuuSmfoI9nBh2i+jFm9KjgwyzNqe2JW7tevZ3/wPOoFUqoYv7XYPd7KBZnAuU44dCm9hE0BaAEWGXub5UHwJptrGmiBNW0HvGXPytSAhNUZRpzp9zWklr9JUDYwuzDgSWSWgpdZ0+fCoroxhd9Q8TyWZQFFV8ZmfLeId5tkJntgdsMT7WzC5rLzdNInDxFc4n4Enoo3E=;8L08XUm+7Zg4LS4QW44YUQ=="
 ---

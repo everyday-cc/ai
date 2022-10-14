@@ -175,9 +175,9 @@ related:
         height: 380
         isCached: true
   - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-    excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
+    excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
     publishedDateTime: 2022-10-12T20:37:00Z
-    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
+    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
     type: article
     provider:
       name: Engadget
@@ -449,6 +449,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/04/laptop-2557586_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
+    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+    publishedDateTime: 2022-10-14T21:25:00Z
+    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
+        width: 610
+        height: 354
         isCached: true
   - title: "Microsoft Cloud and AI chief Scott Guthrie on what's new and next for Microsoft Cloud customers"
     excerpt: "Microsoft Executive Vice President Scott Guthrie shares his take-aways on Microsoft's latest cloud, data platform, AI, Dynamics and Power Platform announcements this week at Ignite."

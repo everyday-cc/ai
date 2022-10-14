@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T18:37:00Z
 originalUrl: "https://www.globalbankingandfinance.com/merging-a-rules-based-approach-with-ai-in-finance/"
 webUrl: "https://www.globalbankingandfinance.com/merging-a-rules-based-approach-with-ai-in-finance/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: List of Banks in Belarus

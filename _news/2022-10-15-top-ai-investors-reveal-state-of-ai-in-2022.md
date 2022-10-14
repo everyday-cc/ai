@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/
 ampWebUrl: "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 99
 published: true
 
 provider:

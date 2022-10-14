@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T14:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29236944/stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/b29236944/stylitics-appoints-global-commerce-expert-richard-hearn-to-board-of-directors"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Benzinga.com

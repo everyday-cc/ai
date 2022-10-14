@@ -201,20 +201,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
-    excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
-    publishedDateTime: 2022-10-10T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
     excerpt: "The report also includes the latest technological developments, growth factors, challenges, and market trends. The Global Face Recognition Device market report provides an in-depth analysis of the top investment pockets,"
     publishedDateTime: 2022-10-11T01:58:00Z
@@ -368,6 +354,15 @@ related:
     excerpt: "The Machine Learning Data Catalog Software Market 2022 report provides an in-depth assessment of the market's size,"
     publishedDateTime: 2022-10-11T09:17:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-2022-2028-share-analysis-research-report-business-growth-top-countries-data-2022-10-11"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
+  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
+    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-14T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
     type: article
     provider:
       name: MarketWatch

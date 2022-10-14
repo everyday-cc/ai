@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T14:50:00Z
 originalUrl: "https://www.dailyherald.com/news/20221013/mary-fitzgerald-ozog-2022-candidate-for-dupage-county-board-district-4"
 webUrl: "https://www.dailyherald.com/news/20221013/mary-fitzgerald-ozog-2022-candidate-for-dupage-county-board-district-4"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Daily Herald

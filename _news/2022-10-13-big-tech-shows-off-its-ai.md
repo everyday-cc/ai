@@ -23,6 +23,17 @@ images:
     height: 377
     isCached: true
 
+related:
+  - title: "Ethical Dilemmas of AI"
+    excerpt: "AI is already visibly and invisibly woven into our world, but can it be trusted? There are inherent ethical dilemmas around bias, trust, and transparency. However, together we can find a way forward as AI continues to impact the world as we know it."
+    publishedDateTime: 2022-10-14T15:49:00Z
+    webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
+    type: article
+    provider:
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
+
 secured: "lzxEBNZQwZowUQaYy1i+vJ16vE7Oe/YFFecswOa9tZRyeDmQjXAE4JRCLo2JMAXD1llyX7/+jn4Sv7EBvETZJPTRimFKv7Z/3zjEkUW9IpuL2p44xBZ/GYDY5CyhlnoB0jaGk3ZtLfznPFjQLLDXhbAjXfOzME5+EKzlRTKkqeDvCiZIldb/FzpLlTm33jBF7EgpQn4J3W1rQ7tdkDLGm9CD0ubmGy5jQxdD2Ap8dV+IPnSEvrQTlmysqRHtEVcvmOCjZ9NQkqcNLpGXhamgSXgyNsBBuDZVkNlrmpO0wgHp9SX8y/hPHwLoGdR3Jl7szAYCY4YTvJ3E11CXWP3zbKsUmPTHwK9twcYBt13gEOPfpdCDmoI5YYH+GUe+iNIp3Ke2biGD5VUeTon09YghXENsLgD6/OkZL4t0Y5LassLrk0grkYvBNZXOo7I7vDMfyk40v9RZL15Alr/DupIaVLhzXS0qe0qhX9p0bP4XbfR+oCbFdLl9SSixu9VREBwaaaOv9fsdthssfUqsWTCMQA==;4itSdldDjaSQrM9dzLAFxg=="
 ---
 

@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Nvidia “Unlaunches” its 12GB GeForce RTX 4080 GPU"
+    excerpt: "Nvidia is canceling the launch of its 12 GB GeForce RTX 4080 GPU in November, leaving only the 16GB model currently priced at $1,199."
+    publishedDateTime: 2022-10-14T17:59:00Z
+    webUrl: "https://www.thurrott.com/hardware/274723/nvidia-unlaunches-its-12gb-geforce-rtx-4080-gpu"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 19
   - title: "Nvidia GeForce RTX 4090 review: A wildly expensive flagship GPU with a touch of DLSS 3 magic"
     excerpt: "We've tested the Zotac Gaming GeForce RTX 4090 Amp Extreme Airo, a hefty custom version of Nvidia's top Ada Lovelace GPU."
     publishedDateTime: 2022-10-12T13:00:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/amp/"
 type: article
 quality: 89
-heat: 90
+heat: 89
 published: true
 
 provider:

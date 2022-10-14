@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T19:34:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/995465/tesla-prices-margins-deliveries-and-self-driving-in-headlights-for-tuesday-s-earnings-995465.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/995465/tesla-prices-margins-deliveries-and-self-driving-in-headlights-for-tuesday-s-earnings-995465.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Proactiveinvestors

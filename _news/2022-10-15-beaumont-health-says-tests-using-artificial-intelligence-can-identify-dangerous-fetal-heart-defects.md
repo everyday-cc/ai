@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T18:41:00Z
 originalUrl: "https://www.clickondetroit.com/news/local/2022/10/14/beaumont-health-says-tests-using-artificial-intelligence-can-identify-dangerous-fetal-heart-defects/"
 webUrl: "https://www.clickondetroit.com/news/local/2022/10/14/beaumont-health-says-tests-using-artificial-intelligence-can-identify-dangerous-fetal-heart-defects/"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: clickondetroit.com

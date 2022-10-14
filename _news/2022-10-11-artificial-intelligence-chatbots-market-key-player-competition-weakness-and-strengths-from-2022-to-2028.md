@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Software Market Type, Application, Business Growth, Top Key Players And Forecast To 2028"
-    excerpt: "Xcellent Insights has recently added a novel research report on Artificial Intelligence Software market to its database"
-    publishedDateTime: 2022-10-10T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-market-type-application-business-growth-top-key-players-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
     excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
     publishedDateTime: 2022-10-13T13:00:00Z

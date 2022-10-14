@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T18:58:00Z
 originalUrl: "https://www.popularmechanics.com/technology/security/a41507433/stop-ai-from-taking-over/"
 webUrl: "https://www.popularmechanics.com/technology/security/a41507433/stop-ai-from-taking-over/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Popular Mechanics

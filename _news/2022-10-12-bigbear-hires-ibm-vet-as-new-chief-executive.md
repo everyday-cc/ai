@@ -67,6 +67,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "Columbia tech company BigBear.ai taps former IBM exec as CEO"
+    excerpt: "Columbia's BigBear.ai has tapped a former IBM executive to take over as CEO of the publicly traded tech company. Amanda Long, who most recently served as vice president of IT automation at IBM, took over the top job from Reggie Brothers effective Oct."
+    publishedDateTime: 2022-10-14T19:01:00Z
+    webUrl: "https://www.bizjournals.com/baltimore/news/2022/10/14/bigbear-ai-ceo-amanda-long-ibm.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "QmAS/48waveiYcU0yXSyJjEy61/wCe+s7Nv4/YVspE1S90Eg//d30sNCiTIFOqIJi9Pivol7vxDzRf/ZFan5i0JnetGkF/gkkxoKCr6ddszYXrJ5Dm0hHzfQ00uhGC6e3BdiEa+L9v19ml8AlPJM/QHR96eqPfQWJqSPAEXsisDsZtv2/Czx+bwKsHZTxMP/G6s6/GvVds4I+hVVosS7+l1+55LcecMs8X2uk4r3kodmSVnN1EuacgajAGKLSTRAwWwunnO4rm0zrfNdRGGf89B1hUVQaQ/UoOEQOcvvTPvLi0n072AvBcD2AMwBo444eFmjywCvIbxaPqZ0XoPA8np5VOoX3orf0/W9MZuNAYQ=;ITtgWCiu+qTSqFmhXk/Kxg=="
 ---

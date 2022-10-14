@@ -28,6 +28,15 @@ related:
       name: PCGamesN
       domain: pcgamesn.com
     quality: 19
+  - title: "Nvidia “Unlaunches” its 12GB GeForce RTX 4080 GPU"
+    excerpt: "Nvidia is canceling the launch of its 12 GB GeForce RTX 4080 GPU in November, leaving only the 16GB model currently priced at $1,199."
+    publishedDateTime: 2022-10-14T17:59:00Z
+    webUrl: "https://www.thurrott.com/hardware/274723/nvidia-unlaunches-its-12gb-geforce-rtx-4080-gpu"
+    type: article
+    provider:
+      name: Thurrott
+      domain: thurrott.com
+    quality: 19
 
 secured: "UN6FUIPh7wUEr5n6ZVkAIZQ85p5xEXPVCgeFiltQBBiW0iLy+L+d5IBmb7LmLfqjaEwMWSpkKgEqNlEJo9yQ/hWBN4A5WPIIj6D7wEECR147iIPXahqbq8dfPFrGH6ppqmPFHzcGBWWnZcHXBt7OrSkOX3TphEpaEm2Uj2yMBuGhUd4qBfoUadv9T7WrRBnP+90CIP3/F3PJ9tROhE+KCtI5jmD4vxZt/Ne1ioHrxTD2G3q7wdQWfZ4ssZOTqg1xW0ZaQ9RFHCd49XBWcX42LKRfNQCG5zLKczfSnBYclFX81JFXPBKNy/fn6KBpxlA9NDM/GAM7zkR6iAIlFfrwH9CP3rVeUqk6rpe6EkH8hZzA0m6dPHj2/exo7EdwzEBbkRyFTTycNrSOgVzfbdbxLTflk82hh7Y7mPt5V2g4yV8V1qpoFJF1cCQRFZpkW7hdqSs/j6XUyyF6oaZ2x+wru9rsxkxSCLUclvv7dimO7CFy6LwhzQfB402vkCUkbzlX7IwjzA/cumblg4mTl4CvoQ==;ujq9OwEZwJFEx4ajfRugLg=="
 ---

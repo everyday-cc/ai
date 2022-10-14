@@ -1,20 +1,31 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
-publishedDateTime: 2022-10-10T13:07:00Z
-originalUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
-webUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
+excerpt: "Your browser does not support the audio element. Yael Bensoussan, MD, is part of the USF Health's department of Otolaryngology - Head & Neck Surgery. She's leading an ..."
+publishedDateTime: 2022-10-10T14:37:00Z
+originalUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
+webUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/"
+ampWebUrl: "https://www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/?outputType=amp"
+cdnAmpWebUrl: "https://www-opb-org.cdn.ampproject.org/c/s/www.opb.org/article/2022/10/10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice/?outputType=amp"
 type: article
+quality: 52
+heat: 52
+published: false
 
 provider:
-  name: WBUR
-  domain: wbur.org
+  name: OPB
+  domain: opb.org
 
 topics:
-  - AI in Healthcare
+  - AI in Autos
   - AI
 
-secured: "g5m/iY02yFVK+wtRvexOP/fURpKNj+inaXaoHVpo3nwLwtohf4pa/F5M1k8fe+WDiN6LJWhYsMBvogT3di8LFAFz89aVt4rm3YAWWsw+sjgTIijZkglyn20PLv84U2bExtdy3Gsb9Ej4/O/IQZQfY8FMX0+u98Da1DllsgSN9hoBBt0twt0ezvFPPa6INi7eWDklemSW6tlIK1CZG3whZuK71oS6P4RPwt1nFnTpmA24eWl9o5QX3JJgGXgMyz2ULAc8eRAmV3UyX4VcLdSkz9PJJQNw8QK3TNh66huYz1sSB/m641q6mMANyk6j7mqWNOkeqqrNPkZ9gKghP2fO2hxlJDVHMswO+D32KQRXyRYDl+EIAeA45/gyM1HgrU3rzlhqmYmYwLId/fe9GdeBuQxgfp8jvB5oNkpwQwg074ki1rlOQormIbrSFYL9ykrAjisqWCQ/ftlxWFExv6xFbIVfiE3r8JekiAetSQXV3arPjUW38QYm7RpL72aeUStox4j4JxJNBS7guY0owkSIYg==;ktj449fvWB0Wh/yk3O0WFg=="
+images:
+  - url: "https://opb-opb-prod.cdn.arcpublishing.com/resizer/Lk6QEIyPsZCzyG8ZA9SeC15xcdo=/767x0/smart/cloudfront-us-east-1.images.arcpublishing.com/opb/FSE3OZJT4QHR6W6CKTANWZAHZE.jpg"
+    width: 767
+    height: 575
+    isCached: true
+
+secured: "A9Bfmn2in+nwYbfgKbOxnKI3Sl1fMe2Qe7l7BnXRM7JtUjiXkJ2IeYU2fAOrcv8fk1JC4gy6IglumfnmTlxoF2biGwiAhmYWy8kDMS3FuAzUDbScH9OJnHZg8g3JtHEDOUkY9VvoRcXnY5ASucFHVdtN7yHzuahWIjwg7dsPztweS8jygMf82gBQW380DilUHhJeIBK2h3WGEurIsYoWL+y0SEabK8uzjAyElS7pxT4z4px+U/QdYCHV1d3kK3bUC67HerfadPOwJZs6L3mThwBfwRN7xpNUI7REHMlt308zUUv/7jLUiqpsRZKwsc4aii2tc2vpfvJOt8pafc+1q+rdqxXBdDnq08WPxp1cmtQ=;DhB3+C6uWd0PSBZ+N0BHDQ=="
 ---
 

@@ -186,20 +186,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-  - title: "Artificial Intelligence Software System Market 2022 With Industry Competition Analysis, Major Manufacturers And Forecast 2028"
-    excerpt: "Xcellent Insights has recently added a novel report on Global Artificial Intelligence Software System market to its"
-    publishedDateTime: 2022-10-10T04:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-software-system-market-2022-with-industry-competition-analysis-major-manufacturers-and-forecast-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Device Market 2022 Company Profile Analysis, Industry Segmentation, Opportunity Assessment and Forecast by 2028"
     excerpt: "The report also includes the latest technological developments, growth factors, challenges, and market trends. The Global Face Recognition Device market report provides an in-depth analysis of the top investment pockets,"
     publishedDateTime: 2022-10-11T01:58:00Z
@@ -372,6 +358,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
+    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-14T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
   - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
     publishedDateTime: 2022-10-14T04:00:00Z

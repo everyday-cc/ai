@@ -58,6 +58,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Columbia tech company BigBear.ai taps former IBM exec as CEO"
+    excerpt: "Columbia's BigBear.ai has tapped a former IBM executive to take over as CEO of the publicly traded tech company. Amanda Long, who most recently served as vice president of IT automation at IBM, took over the top job from Reggie Brothers effective Oct."
+    publishedDateTime: 2022-10-14T19:01:00Z
+    webUrl: "https://www.bizjournals.com/baltimore/news/2022/10/14/bigbear-ai-ceo-amanda-long-ibm.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
   - title: "BigBear hires IBM vet as new chief executive"
     excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
     publishedDateTime: 2022-10-11T21:25:00Z
