@@ -41,22 +41,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T06:50:00Z
-    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 43
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
     excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
     publishedDateTime: 2022-10-11T13:03:00Z
@@ -109,6 +93,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T14:48:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 3
 
 secured: "gsqgRiGY4Dn1TYWNAIhj7DTQI3qAdSGYFlokvtmQs3OEUuYLxfpmsvxsQUKyuVBD5eC/S7a9uV6Up+1KMzWkcKtVpg8agIf65HzI/Fc7oLjaC6ciSRlx2U5Ee1225f59Ctf4GZUe0aHqUjCFMUfXV54YfGajjsaUrz4QGVb93UIRDv0z+FWC+odEx4dz7YZhV8535Y4eVODvlfGAmPECLLhKE3/y2iefMUnD8dhcBtJzHeSeSsC2EiboAmviRHO+mZ8MJrTTlzW7cgjvQKsyfJEH0f9p2lL6FVJw6ucI6/N0pKID6HtCvpnMt1KIdl6eUz+ev50KfmwBip8dBk/KIyzL/yyjhYY1o8st1ke+hqqnUqw7piTEcqWFCB1LSwEK4Efas1ZWeVxSma2Na/tESG7XlVgGPiDyfQyyMbBHAm2MNb5uihzdxxftePfFvA20fbHcxbc4eaOBrKXhjCfImvOrXCYpiVfRjre2tIHO6MHyibO4EOXjtfO7CvLmfmZbOmDEsPPcNQ5DbrB3kLPOcw==;wwZZk9+8E5KmwweKyscWMw=="
 ---

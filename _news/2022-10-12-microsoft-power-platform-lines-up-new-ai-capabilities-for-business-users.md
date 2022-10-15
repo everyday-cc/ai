@@ -387,6 +387,15 @@ related:
         width: 480
         height: 610
         isCached: true
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
   - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
     excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
     publishedDateTime: 2022-10-12T18:57:00Z
@@ -473,22 +482,6 @@ related:
         width: 7360
         height: 4134
         isCached: true
-  - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
-    excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
-    publishedDateTime: 2022-10-11T03:20:00Z
-    webUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/"
-    ampWebUrl: "https://www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
-    cdnAmpWebUrl: "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2022/10/11/liquid-cloud-microsoft-collaborate-to-deploy-hybrid-cloud-infrastructure-in-africa/amp/"
-    type: article
-    provider:
-      name: This Day
-      domain: thisdaylive.com
-    quality: 53
-    images:
-      - url: "https://thisday-846548948316-wp-data.storage.googleapis.com/wp-media/0c0b89d9-microsoft-tech4dev.png?mrf-size=m"
-        width: 750
-        height: 600
-        isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-14T21:25:00Z
@@ -512,20 +505,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z

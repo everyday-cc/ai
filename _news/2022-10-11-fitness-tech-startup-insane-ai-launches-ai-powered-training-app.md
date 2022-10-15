@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/tech/startups/fitness-tech-startup-insan
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/fitness-tech-startup-insane-ai-launches-ai-powered-training-app/amp_articleshow/94793526.cms"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -27,14 +27,19 @@ images:
 
 related:
   - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
-    publishedDateTime: 2022-10-12T09:00:00Z
-    webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
+    excerpt: "Able to be used immediately, the training data pack ensures GDPR compliance through its use of synthetically generated photo-realistic humans and includes annotations and data that can speed up the training of AI-based computer vision systems significantly."
+    publishedDateTime: 2022-10-12T09:44:00Z
+    webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
     type: article
     provider:
-      name: realwire
-      domain: realwire.com
-    quality: 24
+      name: Bdaily Business Network
+      domain: bdaily.co.uk
+    quality: 44
+    images:
+      - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
+        width: 1200
+        height: 627
+        isCached: true
   - title: "Tifin launches AI-powered investing assistant"
     excerpt: "Tifin, the fintech platform known for Magnifi, it’s award-winning investment marketplace, today announced the launch of their new premium subscription Magnifi Personal, aimed at helping investors without enough time or knowledge to build and grow their portfolios with intelligence."
     publishedDateTime: 2022-10-13T18:01:00Z
@@ -44,6 +49,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
+    excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
+    publishedDateTime: 2022-10-15T21:28:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221015/3993450.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
 secured: "HPMAUJEYmtNA9WAUuE7JW3hlMaIIcSrkQLG739zXUGxnSbAy1Z8EB+13TvxsoH2wH5miN73pRyFDuS/1hfZ7g+2re3FQaArSJhb4qonePFf2bJahzOQqmNDGKSQhUXDa8JFMFAL6WTyM3KWDleuNjuF6M25KCgUAp0wF9kVS3iPy4zECeFrP+UjybSncDI3P3ris8jLsgCdE0TIdqcw3kpj5NbkMYDfuFAXQ411C04d6hHgozQKQAUJYkjNoQzNF+Kk0lePNXKAhxpyR/el+8Gea0iGMs+NkgohaXDRn/JZYnXJHiEyFlvgGa6uhH3tJg9UZajH1DV6ulG7U82vPneTWj2jGhxgKTH4zUkAksr+BzFVG+aM4AJQUv5ZkBaXV2uP62mFOntJzyc92wx70V8LQSdsZD/rlWYkCWVAnMOsDk/is3BnMxtMDR9u2h0LDVJp538XVElIjA6qyFXcW48tetRfOyP3w6XCBmxlOME6UYUWdi3+DFE6pjF4V3m0gUdFtpR9yaq/AFaRYSCOpLQ==;gKhivHSsKLY1boFLiVdVXw=="
 ---

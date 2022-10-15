@@ -90,6 +90,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Driverless tractors, machinery finding their way onto fields"
+    excerpt: "The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control in or out of the cab."
+    publishedDateTime: 2022-10-15T20:00:00Z
+    webUrl: "https://hayspost.com/posts/c4fd2150-6185-484a-942d-abbd3c7f2044"
+    type: article
+    provider:
+      name: Hays Post
+      domain: hayspost.com
+    quality: 39
+    images:
+      - url: "https://media.eaglewebservices.com/public/2022/10/1665753318832.png"
+        width: 515
+        height: 343
+        isCached: true
 
 secured: "aanxUP1ehJnzloCfQxS5CIw1B8AU0NKBk8OzI5r2DUQ9MnT4Ro+PYyqtfq59qpiY5CS6hp+X6KzGe9j6lJfp1l5Z2fRw7ZabQRC/KHBx/wTK+6wYloq+02+ncueMMTaLU/PdkbL+kUhc7ZeMyPsWFuJtUn54D5Hu2ALbyi2JTL118/cr0JE4aYVmzhsOvQrukxuHRcTNpG00Cx+pCoJYJFJFb1AI2fmF/FxDhKvTTh9+QViBpdSvfZwbd6kF0gLBQWXNUvujWs7AYwfrmfKX0lg2Ol6E54QYY0bLbNibtgrqt0dOINZew/WErjHE4YImTGLyTjIp06YV11l3r0zK9WX74w8igHFF3558xs5VLoo=;GWTTrie7FWx/hZACiP+MsA=="
 ---

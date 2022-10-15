@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-15T18:00:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/oct/16/changing-peoples-way-of-thinking-the-cwa-members-working-for-indigenous-recognition"
 webUrl: "https://www.theguardian.com/australia-news/2022/oct/16/changing-peoples-way-of-thinking-the-cwa-members-working-for-indigenous-recognition"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

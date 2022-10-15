@@ -59,15 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Many U.S. Drivers Treat Partially Automated Cars as Self-Driving - Study"
-    excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found. The Insurance Institute for Highway Safety (IIHS),"
-    publishedDateTime: 2022-10-11T04:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-10-11/many-u-s-drivers-treat-partially-automated-cars-as-self-driving-study"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
 
 secured: "ju5J2QawlpRQDfcFvhwyPPhPK3JY+xw8y4w/v5Pm9teLiJr5BL0fMwvf6Nhx9a5jJ8Cuwbeko/feEYtiTC+/zjOLdoDjBaU/j9E38qrIHbzdyKiv4lX3+BMXPb3u1MSxQNKk+GvT4FAsJ+awHx6MRB5Xd3A2iqeCZPL3QhRq9+uSc8DLIRLEQXKzaXUIjmzACW+RMoIw4aoyNUyHVl7djXuN++ndRB4JPoqSN3Q/2t4+eO/3LnF5CygmDw5Wro3ddUFGbtRJ2gT2yuvMuuyN9DdjXi/zVqdXN9cwIJEW/KvXypFtN3/P8PlYCXw1ip1T2VcyUgUMFyiyg6+ylpVXKlKGcOM8tIwbvmcwaeFdXFVN8rEX0fTN6EYc2AG907HRwNfh7y06HFd7YZy0JzBLwMzWj9fsjIXmf8fnzhum10OkNJsjwHYT9mAT5r7EYp1dJfS9aU99lQUnx5iEBTz8T9b3NH/fOL3AgigJDV0s5ymZM6eqVeDmN5GLSjwB7rdSv4u5VlEZRuDqJxp5ZL/3fg==;6cIAmtsOdzY5ImW7RfEzSQ=="
 ---

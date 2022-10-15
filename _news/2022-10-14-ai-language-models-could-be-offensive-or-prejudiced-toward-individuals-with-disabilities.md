@@ -102,13 +102,13 @@ related:
         height: 550
         isCached: true
   - title: "AI language models show bias against people with disabilities: Study"
-    excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
-    publishedDateTime: 2022-10-14T15:59:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+    excerpt: "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications"
+    publishedDateTime: 2022-10-14T03:51:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
     type: article
     provider:
-      name: Webindia 123
-      domain: webindia123.com
+      name: Big News Network.com
+      domain: bignewsnetwork.com
     quality: 19
 
 secured: "ejWzpEa9G3JQhK7fqyq1ccP8z0qeVv8+Ox8T0GE1Y38GbFhPAdcwiOBDHntAyyMDzCDgw77gRaHoKeyuDfSga695U+ra1N7419/DjVPmOmZJC0uLcRKnhfOKbI1+t2VKWCgaGeyx1wvPPG216bGpNHOAGqRfBUJtSJGh9ViXOo6A8Ec2eAgF0uTo7xE9IYLFpH7QIwiBohEOSTYRxOC11v5RirvqcYMcbDqytPNV5wTN360Xv9n0gtBF4gTNDKtkoJjA/373EuwuD44+ooZ8pFSXrpjS9ladmXXqHHY+zAE5tRtJvTlJkqENGNeKkWf2g1ZYwc1wURMgcqQ59IpPvhxByBSW8CwQCdQLi4VvKog=;bJBBgDWaDd2Z9hZ5IlxQaw=="

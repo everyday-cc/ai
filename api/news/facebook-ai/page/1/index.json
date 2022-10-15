@@ -158,6 +158,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
+      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
       "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
       "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
@@ -526,8 +570,8 @@
       "title": "Meta is using AI to generate videos from just a few words",
       "excerpt": "Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt. Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make ...",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
+      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -546,7 +590,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
       "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html",
-      "publishedDateTime": "2022-09-29T15:07:00-07:00",
+      "publishedDateTime": "2022-09-29T15:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNN",
@@ -1470,58 +1514,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-17-top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords.md",
-      "title": "Top 5 stories of the week: AI revelations and Apple moves to kill passwords",
-      "excerpt": "Revelations, innovations and questions about AI unfolded in VentureBeat’s news coverage this week. Deep learning turned 10 and insights from the field’s top leaders like Yann LeCun and Geoffrey Hinton predict that there’s no sign of slowdown for deep learning anytime soon.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/09/GettyImages-1349108067.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-ai-revelations-and-apple-moves-to-kill-passwords/amp/",
-      "publishedDateTime": "2022-09-16T12:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial intelligence tapped as solution to diagnose, treat mental health conditions | Video"
-    excerpt: "Businesses and investors are betting on using artificial intelligence to diagnose and treat mental health conditions. The technology is being tapped as a solution for numerous challenges. Melissa Goh reports."
-    publishedDateTime: 2022-10-11T03:22:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-tapped-solution-diagnose-treat-mental-health-conditions-video-3000341"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 25
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--Agx_vUeS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/1665414131-image.jpg?itok=QIaIWbHx"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Algorithms are as good as human evaluators at identifying signs of mental health issues in texts"
     excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness."
     publishedDateTime: 2022-10-12T03:53:00Z

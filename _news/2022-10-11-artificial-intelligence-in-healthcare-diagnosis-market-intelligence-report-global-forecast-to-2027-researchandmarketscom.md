@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T14:00:00Z
 originalUrl: "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html"
 webUrl: "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: WSIL-TV
@@ -15,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "aXrkXBpBf916xLqtmMdviMPYpPX/3WwuCLXmYlcISCDuYGmE1i9ryZEH9KYH3AP6bccpHbtgZye9mdsGMHJkmaOgSZn0EZgHvh/z+kBVUdvIb3YCDc9U5+ljs2IXXMbvhuCEqzrpoA+VXcdxml2TWFT5UjuRIFgsASPpFBmeadc3wS+feMYlD9kL2F6wvM0sy7vpVrbp0GEh26kasES8wup+OrAFn8sbnPUAhS3jiVugX8X3eTJQVFe5KsNroPvvW4+9zgcNK+0wEV4RKX+0/NYeYBH33ld0O+c33URSgqAo7bPpC+gfaVDlzMIqMZZYStMe75edaWXPm4U+XQ/qtpwBB8/5JkqVagEnDFQMvOg=;3qypZf5vTsc1rY+zasl65w=="
+secured: "thJBcKVVYqQ9S2HJk25y4SXRw7mGDDd2Ib5+oeiQ615oKq5fhlpUDo4EgTneycnHfYI+zy4qALg578JOqA3UMXpaDb89uAIESWT0EMD2exCQWBOgOsM5QqAw884cgreAbugxAAgIe+UCDQ4813sJQtTaB3woikc8tSVvY1XKogerU30vQtSHSBWTbMrJVVSGl607tdcdo5k0kY1zme6G3zzoiL9+M291tt0gZ0RXyGjyrc+xm5WAAmAJ4cEo2eG/XNDXJPHXMmm0rs4TGV0FTT9YKf4C3IUGHkRixN+NkJ2NA1pD4vtLOyp4CUWdsz+K4qC25sKLyHxpMFs/LbIkkDU1nuPP0BeglWAo1iSNvZQ=;kUE1fUiM/JMOMsKELAnpoA=="
 ---
 

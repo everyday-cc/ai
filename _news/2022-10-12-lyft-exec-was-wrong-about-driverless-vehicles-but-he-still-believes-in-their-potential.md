@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driv
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
 type: article
 quality: 80
-heat: 130
+heat: 140
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Driverless tractors, machinery finding their way onto fields"
+    excerpt: "The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control in or out of the cab."
+    publishedDateTime: 2022-10-15T20:00:00Z
+    webUrl: "https://hayspost.com/posts/c4fd2150-6185-484a-942d-abbd3c7f2044"
+    type: article
+    provider:
+      name: Hays Post
+      domain: hayspost.com
+    quality: 39
+    images:
+      - url: "https://media.eaglewebservices.com/public/2022/10/1665753318832.png"
+        width: 515
+        height: 343
         isCached: true
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."

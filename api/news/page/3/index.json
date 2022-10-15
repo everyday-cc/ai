@@ -89,6 +89,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-12-its-like-molecular-speed-dating-lsu-using-artificial-intelligence-in-cancer-treatments.md",
+      "title": "It's like molecular speed dating: LSU using artificial intelligence in cancer treatments",
+      "excerpt": "A team of LSU researchers has developed a way to determine which drug therapies work best against an individual's unique type of cancer, possibly providing a way to find cures",
+      "sourceUrl": null,
+      "webUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "originalUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "cdnAmpWebUrl": "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html",
+      "publishedDateTime": "2022-10-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NOLA.com",
+        "domain": "nola.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-how-can-banks-supercharge-credit-operations-with-ai.md",
       "title": "How can banks supercharge credit operations with AI?",
       "excerpt": "Financial services aren’t just complex businesses, they’re incredibly rigid too. Just ask a bank. Most banks spend decades trying to move their net interest margin up a couple basis points. This isn’t for the",
@@ -234,7 +278,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -286,7 +330,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -513,7 +557,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -554,6 +598,59 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028.md",
+      "title": "Medical Speech Recognition Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028",
+      "excerpt": "This \"Medical Speech Recognition market\" study analysis the top company in the global market and splits the Medical Speech Recognition market by product type and Application/end industries. Global \"Medical Speech Recognition Market\" Industry Report 2022 to 2028 examine the Medical Speech Recognition Market's growth potential and threats in terms of business tactics,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 261,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
       ]
     },
     {
@@ -721,7 +818,7 @@
       "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -773,7 +870,7 @@
       "originalUrl": "https://economictimes.indiatimes.com/tech/startups/fitness-tech-startup-insane-ai-launches-ai-powered-training-app/articleshow/94793526.cms",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -954,59 +1051,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-11-artificial-intelligence-ai-enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030.md",
-      "title": "Artificial Intelligence (AI) - Enabled Drug Discovery and Clinical Market Rising Trends, Growing Demand And Business Outlook 2030",
-      "excerpt": "Report Ocean recently published a new report on the global Artificial Intelligence (AI) - Enabled Drug Discovery and Clinical market for the forecast period from 2022 to 2030. The research report investigates numerous growth elements and key market variables.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai---enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai---enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
       "title": "Google says it's 'cracked the code' to business intelligence",
       "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
@@ -1109,58 +1153,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Artificial Intelligence Chatbots Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The main goal of this research is to inform participants in the \" Artificial Intelligence Chatbots market \" about the effects of COVID-19 so they can evaluate their business strategies. The regions covered by this Artificial Intelligence Chatbots market research study include North America: United States,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     },
     {

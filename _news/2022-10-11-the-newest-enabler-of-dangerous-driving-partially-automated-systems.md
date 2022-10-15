@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Many U.S. Drivers Treat Partially Automated Cars as Self-Driving - Study"
-    excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found. The Insurance Institute for Highway Safety (IIHS),"
-    publishedDateTime: 2022-10-11T04:04:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-10-11/many-u-s-drivers-treat-partially-automated-cars-as-self-driving-study"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 33
 
 secured: "vgXVv0yWqDqbIhyBaxkn7P27gdf3i3nRZRbjj2CQmvs46ZT7O2A4nK7ZSv6sZT33fynEqpTULVkC0+eyKsV3rGJAeRWHYmKe8ITslRsM2PVur2f1z9jvm4jlwG1OPKpQwNZhsEBZzTHuFyv0NUeLCxB+z0BhoBPRjedNuvX2mVxNV1KB1acMVFThDSvdiGVsa4kZ7GzAGI4SktzvEDUjqqjVyeS4POWyBZe6vWkUSJj7Ln1Zv5FFaAOFcSahV/jD1f/7K0FUFVBo3qY1GSjvp1jHJy53old85594YKnO9BacO+G+fv8e80AelW0AIqD8SH6H7lHZTHy0zhvPIRC75DV7T7Crv2aXDSm0duYRCZg=;H5n9WiF++Jr9SmfqYkEvFA=="
 ---

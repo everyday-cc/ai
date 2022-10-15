@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-11T21:13:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Benzinga.com

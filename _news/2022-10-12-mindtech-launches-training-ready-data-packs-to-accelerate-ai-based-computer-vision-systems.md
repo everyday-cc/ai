@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
-publishedDateTime: 2022-10-12T09:00:00Z
-originalUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
-webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
+excerpt: "Able to be used immediately, the training data pack ensures GDPR compliance through its use of synthetically generated photo-realistic humans and includes annotations and data that can speed up the training of AI-based computer vision systems significantly."
+publishedDateTime: 2022-10-12T09:44:00Z
+originalUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
 type: article
-quality: 24
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: realwire
-  domain: realwire.com
+  name: Bdaily Business Network
+  domain: bdaily.co.uk
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
+    width: 1200
+    height: 627
+    isCached: true
 
 related:
   - title: "Fitness tech startup Insane AI launches AI powered training app"
@@ -44,7 +50,16 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
+  - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
+    excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
+    publishedDateTime: 2022-10-15T21:28:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221015/3993450.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 1
 
-secured: "cX2Y8WypcmqAdI0udRvYo2zQMDYK0xgGyEqaSXZVxb4nOgaGnPxtluL44/XPWbX/Wdyrbe28nipgepOXbtuS0UaaArr2hbx8e90FCkQkXYQAFZcnF4ZUJlB28MszLPUmtXmw+KA3i9o89vL2v0xh25A5lOh3DJnPp3Ze5pyj5VRHuPAHNjSYgyMtlm50P0tD/vyyDzABXz84c9ksLWTHLx9oMQ52zL35qPh9lY/jRmrW39o7KVl2qndQDRlHI6WHOTlhTdlf5nvw+WXmwI2vX5lWYIDmSTw1uOI1BHPJ6JSyY76CImkr72+wCBqT0VVykQDUvWGpw/yQoJ1wfaQbUSneiUWJr35rSt/hp9+dycl0lsnjK4GydDdD2Ou+PsMxhBqrXoOKu5IVvNRiprXFUbkmqpCFoOiRKkR9aDFC3TInPCoeyYiDG5BxWUnjOAzMG9xBVb5GqgvXnidFwtCSuiseS+5iC3//aHEsA6XpJ3DzdIHe/EhRl2NPjKbv7eYD04BY9/fIoAduET4oY1VaXg==;e153qGJqTW9Wa/dm2YFW0w=="
+secured: "aA2t+EhQv8KFfo4oH+EFhpjmJMerrlotx8cODxpDKZWpHv8I4qd1bndL/7MDMTabuwOI/U+2ftSadSku9TduHeE5iKMOUmjVO+egpAWL0dhfwnOkul4flsVCaKDkKwFUbyx3OZUSyuQ/EPRc9wgW8izl4vGcST8MrrJ45yMpsGCVICuw8W6BIGn9RrsiOqJvJlG3i98cTrBN/llyCjg6erXtAXgR3/i1GKumbI7t7BNqxHP9uvyrzIAp1Bsd+vKqTFjZ0zMUAaDR5Ef57gqklEBb76rhGqiGcB8fhuBvGY0cO956r+9E7XluQ2xIYK040u7mcOeDbhopRQngAQX/+b1zjpWnkiUuE10D1rZ50e0=;/0MTcMmaE+8PgnuzXTtYPw=="
 ---
 

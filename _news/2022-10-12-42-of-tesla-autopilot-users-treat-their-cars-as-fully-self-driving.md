@@ -57,22 +57,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Confused drivers think they have ‘self-driving’ cars. That’s dangerous, an insurance group warns"
-    excerpt: "Drivers are putting too much trust in their vehicles' driver-assist features, which may lead to dangerous situations, according to the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T04:01:00Z
-    webUrl: "https://edition.cnn.com/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/11/business/iihs-autopilot-supercruise-propilot/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 61
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221010135727-nissan-propilot-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Many U.S. drivers treat partially automated cars as self-driving"
     excerpt: "Users of Super Cruise, ProPILOT and Autopilot more likely to perform non-driving-related activities while driving unassisted Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings,"
     publishedDateTime: 2022-10-11T15:22:00Z

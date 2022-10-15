@@ -39,22 +39,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T06:50:00Z
-    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 43
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
     excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
     publishedDateTime: 2022-10-11T17:00:00Z
@@ -112,6 +96,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T14:48:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 3
 
 secured: "lVRvh7BHLffBVLYE2Xt2rnOfgvjgX5+NarPJRoCjqia0NLP3on0QPTyf9PafCPI20ZaFrZSq3HXJ2thoqvPtT7Ppb8lXwxQae9WK4T8pVg8o5Fozcx72xGGFfVjZ1B1v2fUCv3V+H2i8WNEyA1sJM0b1qqxymurDty4rnbUtkLLlk3MJFeHIkqmZXRFRnSIGVo6yrO3VVbD/yDNlQpy/5uYEUGoslJd9pRHvkBVM0P/XkrrncIh8Dl1UQzfiWy8156n2EdozSMO/jJ5WgpD05mTf2ary9l5yqQiucgCyq2NXvMsz5kQfcB+exxqqr0CNMUdmNVgPdBKxzxRwk3xEIsPD3JCEDCf7IvCWb/kvIZ76GJkS+bL9VWOSeNVC6QxtpwrNVfiCkvrvAiJUrbJX+N8CmuDs9EXqtVQF4UBhdHb7pUrKF3bd7jzE4mcUWHspGoud+Vnyaemf5X9nlhnTqhFABSAd/XX8jdBfWtWlMcmUMsMxkkJpEp5Jw3ABO76r9srOyUq/GTf6a1cN5p+wzQ==;HrseM7P+qMXrEbqt/9C/wQ=="
 ---
