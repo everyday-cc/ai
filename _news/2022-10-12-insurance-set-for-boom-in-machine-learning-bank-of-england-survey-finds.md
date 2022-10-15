@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T11:27:00Z
 originalUrl: "https://www.insuranceage.co.uk/insight/7951629/insurance-set-for-boom-in-machine-learning-bank-of-england-survey-finds"
 webUrl: "https://www.insuranceage.co.uk/insight/7951629/insurance-set-for-boom-in-machine-learning-bank-of-england-survey-finds"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Insurance Age

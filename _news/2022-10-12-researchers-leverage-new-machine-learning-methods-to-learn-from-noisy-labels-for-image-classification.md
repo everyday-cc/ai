@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-12T15:12:00Z
 originalUrl: "https://sciencex.com/news/2022-10-dialog-leverage-machine-methods-noisy.html"
 webUrl: "https://sciencex.com/news/2022-10-dialog-leverage-machine-methods-noisy.html"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:

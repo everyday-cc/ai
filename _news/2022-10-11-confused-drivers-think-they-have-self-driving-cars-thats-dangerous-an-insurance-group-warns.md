@@ -111,6 +111,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 34
+  - title: "A Worrying Number of Tesla Owners Treat Autopilot as Self-Driving"
+    excerpt: "Tesla calls its bundle of driver-assist features Autopilot. It also sells a $15,000 package called \"Full Self-Driving Capability\" with the promise that fully autonomous driving will be enabled ..."
+    publishedDateTime: 2022-10-12T17:32:00Z
+    webUrl: "https://www.roadandtrack.com/news/a41587917/a-worrying-number-of-tesla-owners-treat-autopilot-as-self-driving/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 19
   - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
     excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
     publishedDateTime: 2022-10-11T22:02:00Z

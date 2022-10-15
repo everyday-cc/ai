@@ -79,20 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robotic Dogs Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \" Artificial Intelligence Robotic Dogs market \" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis forecast 2022 to 2028."
-    publishedDateTime: 2022-10-10T20:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robotic-dogs-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Artificial Intelligence (AI) in Insurance Market Report 2022 - Analysis by Product Type, End-user and Region"
     excerpt: "As per the updated \" Artificial Intelligence (AI) in Insurance Market \" report by Report Mines, the Artificial Intelligence (AI) in Insurance market value was in billions in the year 2022. Furthermore,"
     publishedDateTime: 2022-10-11T07:01:00Z
@@ -130,20 +116,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Telecommunication Market 2022 - Future Trends, SWOT Analysis, Remarkable Growth, and Competitive Landscape by 2028"
-    excerpt: "MarketsandResearch.biz has attempted to present complete research on the Global AI In Telecommunication Market."
-    publishedDateTime: 2022-10-10T22:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-2022---future-trends-swot-analysis-remarkable-growth-and-competitive-landscape-by-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -233,6 +205,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
+    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2022-10-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Pet Relocation Market 2022 Share, Size, by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
     excerpt: "The Global Pet Relocation Market provides a detailed overview of the industry with including both qualitative and quantitative information. It provides overview and forecast of the Global Pet Relocation Market based on various segments."
     publishedDateTime: 2022-10-12T06:41:00Z

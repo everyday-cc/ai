@@ -7,7 +7,7 @@ originalUrl: "https://www.autoremarketing.com/autofinjournal/report-predicts-30-
 webUrl: "https://www.autoremarketing.com/autofinjournal/report-predicts-30-percent-cagr-ai-fintech-market-through-2028"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,43 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
-    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
-    publishedDateTime: 2022-10-12T16:05:00Z
-    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
+  - title: "Global Artificial Intelligence in Life Sciences Market Size to Grow at a CAGR of 28.7% by 2027"
+    excerpt: "Growing AI applications in the life sciences sector are anticipated to boost the growth of the global artificial intelligence in life sciences market. While internet giants like Google, Apple, and Amazon have used artificial intelligence (AI) for years,"
+    publishedDateTime: 2022-10-12T06:40:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-life-sciences-market-size-to-grow-at-a-cagr-of-287-by-2027-2022-10-12"
     type: article
     provider:
-      name: https//wallstreetrebel.com
-      domain: wallstreetrebel.com
-    quality: 38
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
-        width: 300
-        height: 204
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
-    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
-    publishedDateTime: 2022-10-14T14:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
-        width: 1280
-        height: 1071
-        isCached: true
-  - title: "AI In Fintech Market Estimated to Reach Value of Approximately Over US$ 54 Billion from 2022 to 2032"
-    excerpt: "The global artificial intelligence in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-10-13T07:54:00Z
-    webUrl: "https://www.fmiblog.com/2022/10/13/ai-in-fintech-market-estimated-to-reach-value-of-approximately-over-us-54-billion-from-2022-to-2032/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 4
 
 secured: "szAVcwOp9cpFbQ7E0Hm7ZGzCLXiWuV6lckVVnmrNkZjwfyAdQlLRyyvqlPRW1yc/TaMJBEk8ZXdWh/o4h2hrtXwT3P6gBxHgbMf2ecTU9il4xk89hB3SkiaSNmmVbUt1Tx457WatCmmF1TDzF88++FHy0I04I72FWTnayK3B6PPmaSt4DiPH5fMBYVoQpPqpr8E6O4R6Gf1docK1kkk1Hf6XYSva6udYO1dy5y4f87r8ywzsfW0sGcPK2Xe/kFayn3FoOt2dKdxEtxfymMOAM+ZtvQmGVYDr+W/lg6gMPHhm8Z/JYskSFYX2wVMQUKC8qdw8H0kRJh6eQUtAQ0IQmcWp9jLXtRv71K8IDLH+ph23bonDXA2OiFSiwf31Tb2jlj4h3TKzv/I9O4CTYrtdZHPwel52KZ+D6xQ7E4YUWZ9yb8lR0FLflyW3fU/I7VMNaxIMMWQ/qdKoqUyuGEr5KNJ5ypRBQ7Vcz5hU+rFG5/lGSJJ4UHHUmamQQUkErkaxUyM6ArUaoEFUdjnRwcXeyQ==;Tll5WuCu5qkHzqSIMVJOIA=="
 ---

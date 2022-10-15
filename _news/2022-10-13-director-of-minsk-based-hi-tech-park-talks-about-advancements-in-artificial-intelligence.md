@@ -3,8 +3,8 @@ category: news
 title: "Director of Minsk-based Hi-Tech Park talks about advancements in artificial intelligence"
 excerpt: "Now AI is gradually transitioning to a stage when you can see AI components in any sphere. It seems to me that this period is the most fruitful one. There are fewer sensational news but more practical solutions and real results."
 publishedDateTime: 2022-10-13T16:24:00Z
-originalUrl: "https://eng.belta.by/society/view/director-of-minsk-based-hi-tech-park-talks-about-advancements-in-artificial-intelligence-153849-2022/?amp"
-webUrl: "https://eng.belta.by/society/view/director-of-minsk-based-hi-tech-park-talks-about-advancements-in-artificial-intelligence-153849-2022/?amp"
+originalUrl: "https://eng.belta.by/society/view/director-of-minsk-based-hi-tech-park-talks-about-advancements-in-artificial-intelligence-153849-2022/"
+webUrl: "https://eng.belta.by/society/view/director-of-minsk-based-hi-tech-park-talks-about-advancements-in-artificial-intelligence-153849-2022/"
 type: article
 quality: 28
 heat: 28
@@ -23,6 +23,6 @@ images:
     height: 486
     isCached: true
 
-secured: "8rlcJSlO1N4TaSV5aSvzm6vCXCb/dyeAhaKU70qRKylituT69+cDjrTs4sOetNhhnTuSHSn8VJ4uZiANau/knWdaVaq0d4WAChFjjKGhyN/fmBiSjdHvAz85FjdXMhYFf3K8tPdA6DpxJCZjlbc5nK587oFHaEjnZfwmM+tBxOjm4aqDnHdagpEsu68Dzv2R5fdUg1sYHe+tMEnrNo/E8NGHvsNvdIH2wGcd1I/EMnJ9amBxJOHf4X6eUOyXw/f3gPGEo9XMvPMUyVNaotZ/nTQt9biTZDEv+JFP/I5KpCw0NoDr7EbQH1bKqhbpx365PjbrxP2LqOHyHKW41SrpMXKJsS7ifJf+Kp9ZM7ZQCp50VNwgaod4hO3BwjMFz5JMIBEvZ8sBAFu/rpmq7zLCnccxDshtHZ0aHwbozhgZbftO0yJw2MwQ9RbE3zz3eoJYmfA6O2QOLV325LSRJDWUtMNYwCiFsntaCMNB+ermEaxBSzmhBD2LJRnf8SxO2nOVyUU06m3AU1ZBiXhSEgJa9A==;9gB5c5XlG1WUkPIRR8zyaQ=="
+secured: "E3xQeY5HtdJ666RhTFl/Y2ks40m5xMhvl5W8AHYu5V3XsX79NVxzGDA4UxB0sL6cnb7MhJ7JMvPlTJBk8fpAFTnz2qjfFReIpWwQVlCukBkMdIH8j205UMa3OFtVZUZMrSr7K5LtW6Yn5dZdrsr7va23SFHoVtVwS0fEWnfTOLjXxCUNulwNDDNnDNuD6tfur0tFsBXlCkFRWyyQxmYndbrEvYn9DyF+sQA4ILsn+fzdaKOQtZdJ8GsP23GwpU+VrygAeFBRgGJDTRirfK+clrjQ4XKGRjnV6HOFFhvRHNHc9NgLdMMUV9W8/nPAHi7OgAZfNxgm5vxs8cbMzXBnjMcon/A/Hw/K73Xcultsbn4=;/Yw2QK5xWTOPHDzWN4hzfQ=="
 ---
 

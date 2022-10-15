@@ -36,20 +36,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market 2022 Research Strategies, Consumer Needs, Application and Specification by 2028"
-    excerpt: "The Deep Learning Chipset market research study's bases are its fundamental data and market growth prospects. The study also considers several additional characteristics, such as growth rate, product pricing,"
-    publishedDateTime: 2022-10-10T21:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-2022-research-strategies-consumer-needs-application-and-specification-by-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
     excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
     publishedDateTime: 2022-10-13T13:00:00Z

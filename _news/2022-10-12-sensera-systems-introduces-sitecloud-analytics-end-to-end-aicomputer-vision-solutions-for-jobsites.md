@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T16:31:00Z
 originalUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
 webUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Construction Dive

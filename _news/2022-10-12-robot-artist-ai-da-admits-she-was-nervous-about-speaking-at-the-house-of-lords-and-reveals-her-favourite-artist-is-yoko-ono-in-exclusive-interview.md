@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T11:03:00Z
 originalUrl: "https://www.dailymail.co.uk/sciencetech/article-11306307/Watch-MailOnline-speak-Ai-Da-robot-House-Lords.html"
 webUrl: "https://www.dailymail.co.uk/sciencetech/article-11306307/Watch-MailOnline-speak-Ai-Da-robot-House-Lords.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Mail

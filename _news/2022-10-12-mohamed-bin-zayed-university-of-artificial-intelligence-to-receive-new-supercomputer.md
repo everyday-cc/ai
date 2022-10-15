@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "University of Bath launches Azure-based cloud supercomputer"
+    excerpt: "The UK’s University of Bath has launched a new cloud-based supercomputer. The new Nimbus system is hosted entirely in Microsoft’s Azure cloud, having now retired its previous on-premise system. The university said it is the first UK university to move all possible HPC (high-performance computing) workloads into the cloud."
+    publishedDateTime: 2022-10-15T13:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/university-of-bath-launches-azure-based-cloud-supercomputer/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 19
   - title: "UAE’s Mohamed bin Zayed University of AI to Acquire NVIDIA-AMD-driven HPC System from HPE"
     excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced it is building a supercomputer for Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), which is dedicated to AI, designed to accelerate scientific discovery."
     publishedDateTime: 2022-10-11T17:39:00Z

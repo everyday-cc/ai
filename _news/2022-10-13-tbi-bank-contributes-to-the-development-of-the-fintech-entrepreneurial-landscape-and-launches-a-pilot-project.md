@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Overcoming cyber security challenges in the evolving fintech landscape"
-    excerpt: "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,"
-    publishedDateTime: 2022-10-10T20:12:00Z
-    webUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 61
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1326418539.jpg"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Fintech Files Part 4 | Why tie-ups with fintechs are the best way for banks to make tech strides"
     excerpt: "Collaboration between banks and fintechs is the new normal in the banking space. Indeed, rather than competing with each other, it makes eminent sense for the two sides to combine their respective strengths and play the market together,"
     publishedDateTime: 2022-10-11T05:04:00Z
@@ -71,6 +55,136 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
+    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
+    publishedDateTime: 2022-10-12T16:05:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
+    type: article
+    provider:
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 38
+    images:
+      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
+        width: 300
+        height: 204
+        isCached: true
+  - title: "Posts Tagged \"ethical AI fintech\""
+    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
+    publishedDateTime: 2022-10-13T04:11:00Z
+    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 36
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
+        isCached: true
+  - title: "What do financial experts say about the future of fintech?"
+    excerpt: "In the current economic climate, fintechs are facing a number of challenges. We asked eight industry experts their views on the future of fintech"
+    publishedDateTime: 2022-10-13T10:16:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/what-do-financial-experts-say-about-the-future-of-fintech"
+    type: article
+    provider:
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/e9764074ff5892ad74a968977442ccf9:d3ec1239073418cd8b11cf947fea4ca3/gettyimages-1272712379.jpg.jpg"
+        width: 1800
+        height: 1011
+        isCached: true
+  - title: "EZOPS partners with Australia based ITEC to accelerate FinTech business"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-10-14T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ezops-partners-with-australia-based-itec-to-accelerate-fintech-business/"
+    type: article
+    provider:
+      name: IBS
+      domain: ibsintelligence.com
+    quality: 24
+    images:
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/gif-Clayfin-V2-1.gif"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Provenir Named a Gold Winner for AI Platforms in Juniper Research’s Future Digital Awards – Fintech & Payments"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the “AI Platform” category in Juniper Research’s Future Digital Awards – Fintech & Payments."
+    publishedDateTime: 2022-10-11T19:11:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/provenir-named-gold-winner-ai-platforms-juniper-researchs-future"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 19
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_10.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
+    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
+    publishedDateTime: 2022-10-15T12:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
+  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-13T07:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
+    images:
+      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
+  - title: "EZOPS and ITEC Announce Strategic Partnership to Accelerate Fintech Business Solutions"
+    excerpt: "To address data and process challenges that financial institutions experience when attempting to establish trustworthy and actionable data across databases and business systems, EZOPS has today announced a strategic partnership agreement with Australia based ITEC PLC."
+    publishedDateTime: 2022-10-13T05:22:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691693.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 16
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
+  - title: "Data analytics and artificial intelligence are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-11T11:38:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-artificial-intelligence-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-h59b4gdo"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 6
+    images:
+      - url: "https://static.zawya.com/version/c:MDc2YmQ3NmYtNTUzOS00:MTRkYmM0/fintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
   - title: "The next big fintech trend is tax planning"
     excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."
     publishedDateTime: 2022-10-11T13:00:00Z
@@ -89,6 +203,33 @@ related:
       name: Impacts
       domain: techbullion.com
     quality: 4
+  - title: "AI In Fintech Market Estimated to Reach Value of Approximately Over US$ 54 Billion from 2022 to 2032"
+    excerpt: "The global artificial intelligence in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
+    publishedDateTime: 2022-10-13T07:54:00Z
+    webUrl: "https://www.fmiblog.com/2022/10/13/ai-in-fintech-market-estimated-to-reach-value-of-approximately-over-us-54-billion-from-2022-to-2032/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 4
+  - title: "Provenir Named a Gold Winner for AI Platforms in Juniper Research’s Future of Digital Awards – Fintech & Payments"
+    excerpt: "Company’s AI-Powered Decisioning Platform recognized in the “AI Platform” category PARSIPPANY, N.J.--(BUSINESS WIRE)--#AI--Provenir, a global leader in"
+    publishedDateTime: 2022-10-11T08:36:00Z
+    webUrl: "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/"
+    type: article
+    provider:
+      name: 01Net
+      domain: 01net.it
+    quality: 0
+  - title: "Guidewire Rises to No. 26 in 2022 IDC FinTech Rankings by IDC Financial Insights"
+    excerpt: "Guidewire (NYSE: GWRE) announced it has ranked number 26 out of 100 on the 2022 IDC FinTech Rankings, making an appearance on the list for the second consecutive year and climbing from its previous position."
+    publishedDateTime: 2022-10-14T12:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/14/9692818.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "MZXzGgJpkWegw7x1SZD6BtUeF6iw/IaFdjkAV6aFOHNr5CBRGkjNy4inow/pPpMgFdewqnoQNrdCJKOLP2SlDE3/uWmAzrwZ7sOa21je0eRtU4AiyMoFlAZLX6uRxYZCpMYClBPZQStr90QUke+Dhi5MzW3OKXVJAM2a3zT0gLlGh9Vv6ezZ41CUbGm9pJjYlKO6oBLHrjSgOcMSW8CGBocLy0WHtGGYRaPq03NNrBwtX8zbmrRrFW7aNHwdAbJA+Umk5OfNxw8e5il99Z1w9KMmIrsqPbf4g0rZp2E58yYSsxOS1H8hqrgmWs9S7dtHVjURKfdZm/R6bYzJne74walckqJd77f+lU3mVhDg6d1qUF5hWUrECsBIsd41vGfD8RFu5D1AfpTcWa/8kQusadBuXEUiLzAd8rGt//4jNG2OzygXyG35zwBoDzBFN3YSkV9Pn07U2FXBoCeaX6h/xOyBuXsZ66qjU2JM5uEClubsy53YZ8AYmY+ocrAWFq/UVly+E+YnQUaBtMbRi1915g==;5P7+yODU9OD+n8rMtkd8YA=="
 ---

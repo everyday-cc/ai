@@ -1,10 +1,10 @@
 ---
 category: news
 title: "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show"
-excerpt: "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,"
-publishedDateTime: 2022-10-09T08:48:00Z
-originalUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
-webUrl: "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+excerpt: "RTA will also showcase digital twin of Dubai Metro in the metaverse, among other services The launch of the driverless service ... technologies and artificial intelligence as means of boosting ..."
+publishedDateTime: 2022-10-09T09:07:00Z
+originalUrl: "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
+webUrl: "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 ampWebUrl: "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 405
     isCached: true
 
-secured: "c+B5LrJrRvT5K/7L9/E9iiaC0kqDO+oNgDgZR+r+Bbktz9DztqH2691AlNHVmq0fQBEsMtQUMiyW+EszaqvdzSz74vaGuO7U7LanAD6e+S4151+TdvrXW4hhA6DVSPLDfJHzG4xeXxx+wHsIKowlH0A+nvtLGuyoKsHS03AUU3qaKGj0pRSUfA48CvnYVmsVZvuQaVMSLHQhXf0h61XxKvqyEkRoHh4fJq9K033tjPf6pLkm5p2ysyTXmlUIbsZQaICeU/5afiN77mqJsuYaYWbhRa3eedPgr+NAiUShMx/mcT1kg1fO98pP0NC24Ws1rTk0CAzNaJCXGbu2GDBNEd60hq2bM6UIaPuG8w2x4wDUhKuNmnK4h2ANf90qvDRV4s/jS1wHXmND26wVsBl/MQgLQjWwmIXU2F6CM5ZPqcvwE6oMil64Xmk2gQcx17AOPVm8MQ0v/inOrsnxz6rXRES4hreVdaFtf6Q6TrTOyyUMKNpSyhJ4SJtPc9GkJoD/zRZEG7Y95HHL0SFe30TgNw==;KPlq2kwL03Fwj4GmqefTtg=="
+secured: "SCO4nJjv3tQPO/cVUrdgbJTQ2atOx+MIHmK0iI4zq1Bbbeu6bl4UYYsK+1CgWrJZwQROIEYbfeca1C/HqV4AO2q/gU/NVMe0lDBpQZdrCLmCdt+1DL48jRrvMuHJVSb1fkUORdw0Zd3OypwXx/qXgfx3IqvRIiqDiqz+OkwItJ2QEzSYBm42/qvvxsmKDqmw/rpIoWd38NvQKwkjuabVZlYf3/CcxhP83018pGn6CGDEIsJNcYINJLwDPQR5WvDEkrehXXvrFtSMy89duh57hoGE4QbtuCBsC0i4j74wYCqlmkr/67cTJmGEmjHFfAx0HVdN45yTzG59Ck+EjRedsHa5uwAr0xU75IPz1yTtLEw=;2IpmiT8sUtZs2oEeM2eVYQ=="
 ---
 

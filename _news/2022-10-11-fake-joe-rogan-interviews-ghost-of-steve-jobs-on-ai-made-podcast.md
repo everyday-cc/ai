@@ -89,20 +89,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "This podcast brings Steve Jobs back to life, thanks to AI"
-    excerpt: "What would Steve Jobs have to say if he were alive today? A podcast attempts that experience. But is it effective?"
-    publishedDateTime: 2022-10-10T19:54:00Z
-    webUrl: "https://interestingengineering.com/culture/ai-brought-steve-jobs-back-to-life"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/10/image/jpeg/b6UhhSaMZ8oQyTCKgoYgnIqqxvDS3L3o1MvA3Sj6.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
     excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
     publishedDateTime: 2022-10-14T08:37:00Z

@@ -117,6 +117,15 @@ related:
       name: Reuters
       domain: reuters.com
     quality: 34
+  - title: "A Worrying Number of Tesla Owners Treat Autopilot as Self-Driving"
+    excerpt: "Tesla calls its bundle of driver-assist features Autopilot. It also sells a $15,000 package called \"Full Self-Driving Capability\" with the promise that fully autonomous driving will be enabled ..."
+    publishedDateTime: 2022-10-12T17:32:00Z
+    webUrl: "https://www.roadandtrack.com/news/a41587917/a-worrying-number-of-tesla-owners-treat-autopilot-as-self-driving/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 19
 
 secured: "uOshVp988Kxv1PUTnobNVxMeqqIVw1hI0dBxBQrSgEJ3RXOgyA62Dcfl7Vmd4cJDei16VEjVamWNXP98gyt9AkwH8BSPsdcOPc3ps9VS2mA3PHp0UYg6lSGpn6NRA1WvCMVJYr8qdf8Xk+L4Xqv4PoD3nKkAkmr9KjuGz1bavf3knyofUnf9KpO7sWGGMXN2+z6nha/FZIio2IDjNokmqGM6VyMuTRhxw0gpOwtLn7dNgYf7TJXbQ8h93j4t/w7acUf0ec5dWYVGUn+OgWkUyhN9GH0s4qDIWzcZ0etn8aYJ0MjgITeSJ6kIrtj6vchWaMe/PI9aWV1zmwCsgpaNtVe5QGZX+0uZubn3cSOLMtpMFSd8RqjSB64Hw1Uka6Zyn90DUuKnOIzQVb9z4T3cHs6Xts2PKljA23HjZBX4QWFmKhexbmQKbUo0P6FT0udncosDjTahnglYKIeKAtidYmW/syB5BNLoLuPcxUJdyb9zscJO56fYvND8Unuj7yJ2EXZHaVH7/4Oh3STIV+kipA==;8d3r5FqfGBFWKEySYyzQRQ=="
 ---

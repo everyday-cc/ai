@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T13:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/nurexone-signs-letter-of-intent-with-nanometrix-for-its-exosome-and-cargo-molecular-profiling-ai-driven-technology-2022-10-12"
 webUrl: "https://www.marketwatch.com/press-release/nurexone-signs-letter-of-intent-with-nanometrix-for-its-exosome-and-cargo-molecular-profiling-ai-driven-technology-2022-10-12"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: MarketWatch

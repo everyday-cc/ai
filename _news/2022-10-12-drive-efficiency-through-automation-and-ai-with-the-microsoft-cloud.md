@@ -334,20 +334,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
     publishedDateTime: 2022-10-13T12:43:00Z
@@ -540,20 +526,6 @@ related:
         width: 1024
         height: 506
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "IBM Corporation, Avaamo Inc, Baidu Inc, Cape Analytics LLC, Oracle Corporation &?Artificial Intelligence (AI) in InsuranceMarket Scope and Market Breakdown. Next step one should take to boost topline?"
-    publishedDateTime: 2022-10-10T21:21:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-66"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft invites agritech players into the field with new open-source AI tools"
     excerpt: "Microsoft is open-sourcing its AI algorithms to encourage data scientists and researchers to advance data-driven agriculture."
     publishedDateTime: 2022-10-11T17:44:00Z
@@ -568,6 +540,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 49
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
     publishedDateTime: 2022-10-14T06:29:00Z
