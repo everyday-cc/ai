@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Microsoft’s new AI graphic design app is built on DALL-E"
-excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
-publishedDateTime: 2022-10-12T14:34:00Z
-originalUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
-webUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
+title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
+excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
+publishedDateTime: 2022-10-14T22:31:00Z
+originalUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
+webUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
+ampWebUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
+cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
 type: article
-quality: 84
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: BizTech
+  domain: biztechmagazine.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4b490250-49a9-11ed-bf41-71ff4a04e5ad"
-    width: 952
-    height: 529
+  - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/2022-10/BTQ422_MicrosoftIgnite_Insider_CTA_300x250_1.jpg"
+    width: 300
+    height: 250
     isCached: true
 
 related:
@@ -252,6 +250,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Microsoft’s new AI graphic design app is built on DALL-E"
+    excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
+    publishedDateTime: 2022-10-12T14:34:00Z
+    webUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4b490250-49a9-11ed-bf41-71ff4a04e5ad"
+        width: 952
+        height: 529
+        isCached: true
   - title: "8 new Microsoft Azure AI updates to boost productivity"
     excerpt: "At its Ignite Conference, Microsoft announced new innovations for its AI services, including Azure Applied AI Services, Azure Cognitive Services and Azure Machine Learning."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -390,22 +402,6 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg"
         width: 969
         height: 537
-        isCached: true
-  - title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
-    excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
-    publishedDateTime: 2022-10-14T22:31:00Z
-    webUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
-    ampWebUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 59
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/2022-10/BTQ422_MicrosoftIgnite_Insider_CTA_300x250_1.jpg"
-        width: 300
-        height: 250
         isCached: true
   - title: "Welcome to Microsoft Syntex—Content AI integrated in the flow of work"
     excerpt: "Microsoft Syntex is Content AI that’s integrated in the flow of work, helping enhance, manage, and connect your content at scale. Learn more."
@@ -702,6 +698,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "kseO+tMUM8Dm/j+yB57LLJCRJplwaR7Cog3ifZ3QOaLh4QbKu5HWKlLfnCaa0rKYwjTcj1BwcOX8uTnu1fFbXPJ3bmDQwHFclgRUEIh+Epa9bBd1y1MF6mzrsCiVSKRJDyj1k+yKzhEg5pK6bK3koCNB3K2bnxRyIEuYUJqZ7lLEuuXbthTJmYNd12Wjtg7ITuSUri/M0vjMf+SRREMoZMba+84X2kYsklzSsjeQyJy3k3BIdSG+lIchfLWo+PeTAMHqcI4EssTXwcIfoYU23GjJr9c/AfmtCKmEhtsX7rSPIldewQ8jm55TEjCeh7msfW7Wqy6QzqpdlZc2EJtlig5WsvkbXPVWqIdrtG8WijJ6sNg2pExgCvhvuRhS581CUmcxa7dza1u5B4cSpMfzacAjg1IfHUjgLT4eiSTzPZ3QRZ5BodzCRiHTNj0X0VN+jQuD4mAvRpEzV+Jtfh5IXQ3Uokba1j98EQgEMiVC+nIzsac67qjAachWiM58J6KTrqX0ab98LarukxoxG1aSZQ==;FkvNW/y17fAKezuiQ9jEjA=="
+secured: "NmqgoYJ6Xl4lda2dOvtd21Oh59WB3zeeDpKVALlmV+QRhGTyZqfkVAeGMLElDnAgEoOA5eEV0OQek0UqOq8NaAG48Lv8e2Oo4XbzwMqG5FZDVSlbeTpn0kJ4Sre5SWMQHKicsLEZ9ZlsUuMxdYMzWf/8hEbCV83zXzhF0enJy08JFJ1NJwBY50V0vqGe0dzTVBwrqf+cOKb+TxOY2ydvkNoAZ1JKzLomCbbChP76gm/1UxKyZ/buwDQwxnTXZ8p6dZXI9eiFVFMiGsxv+Zwe8rW3aSCwVzxGJoH95LOez613Xt3xiBrG4AMzsoxdVE//fzlOHyY0hRswoRk/9/VrDEzTh/Zp6LNrsRwZPPh4QyU=;nOzyS1GjyG8o6cVHrFGXzA=="
 ---
 

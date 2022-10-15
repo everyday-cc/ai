@@ -48,15 +48,6 @@ related:
         width: 640
         height: 430
         isCached: true
-  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
-    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
-    publishedDateTime: 2022-10-13T11:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 19
 
 secured: "n4FBqjLisfeGGcxk6d69BcAAbO63BOFAtZllX0B/fvbvkze/97u32zyZEFmOj/kLIBiPC7v50qsdP0BVMfokng8gRVZeJinn0WXST20abhc4nhQe35A9KUwH9X1/0Ba6jQeMoTlTQVNnSftdG20NTFi7wsEKu8Hn2PosAg0F+jrBg2/6LgdhC9+IXISpDuwQbj/broOzEw/5JSQJvJp9P9fzt+qH0QcdUvAnQhvFAoys40tJk7+5l3kis3hUHs6FWjwxnt3SnfpxFJG4jmdanaSrQuEkEp3GbqKugqtv2j8Ynl2fEmXmvoYHBrkumZzufOWI33ZRmNs2kzevYCOnyiGZEyHYkZ8eUg9roO+Abe4kbOMvlNEmp05oPaEOHZ//vVYrz3hzYUrIUK39S36ZnnjYSDJtUjY5oVHGEFoCO/0gDVxhEhJtK8fL2gIs02z2sRcd5W5K645UFXdCK2chT+XPEtbzkWTIL5+8Wy1QCy6rv6hIaKn2cUPZPyi50WRaHnp2YQQHHuX67xfVbeTJDw==;GagY3UkcN8qVjvZrz1LusQ=="
 ---

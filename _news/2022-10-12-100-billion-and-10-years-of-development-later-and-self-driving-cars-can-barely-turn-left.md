@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Godfather of Self-Driving Cars Says the Tech Is Going Nowhere"
-    excerpt: "There’s tons of enthusiasm over self-driving cars. But nearly twenty years and some $100 billion since the first demos, the technology just isn’t there yet. In fact, it may be further off ..."
-    publishedDateTime: 2022-10-10T05:47:00Z
-    webUrl: "https://futurism.com/self-driving-industry-going-nowhere"
-    ampWebUrl: "https://futurism.com/self-driving-industry-going-nowhere?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/self-driving-industry-going-nowhere?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 44
-    images:
-      - url: "https://wp-assets.futurism.com/2022/10/self-driving-industry-going-nowhere-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Self-driving cars still far away"
     excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
     publishedDateTime: 2022-10-10T23:45:00Z
@@ -75,20 +59,35 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "UBS gives long-term buys for the transportation revolution from self-driving cars to sky taxis"
-    excerpt: "Ride hailing and short-range flights could grow along with electric vehicles in the coming decade, according to UBS."
-    publishedDateTime: 2022-10-12T13:07:00Z
-    webUrl: "https://www.cnbc.com/2022/10/12/ubs-gives-long-term-buys-for-the-transportation-revolution-from-self-driving-cars-to-sky-taxis.html"
+  - title: "China unveils self-driving car ahead of party congress"
+    excerpt: "China unveiled a domestically developed self-driving car at an event on Friday organized by the Communist Party ahead of the party's National Congress."
+    publishedDateTime: 2022-10-14T10:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 42
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/105544540-1541053552696gettyimages-506651018.jpeg?v=1665587279&w=1920&h=1080"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: NHK
+      domain: nhk.or.jp
+    quality: 24
+  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
+    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
+    publishedDateTime: 2022-10-13T11:55:00Z
+    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 19
+  - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
+    excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
+    publishedDateTime: 2022-10-12T21:17:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
   - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
     excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
     publishedDateTime: 2022-10-14T12:30:00Z

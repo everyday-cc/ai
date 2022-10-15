@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
+excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
 publishedDateTime: 2022-10-12T20:37:00Z
-originalUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
-webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
+originalUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
+webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
 type: article
 quality: 86
 heat: -1
@@ -187,6 +187,20 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft_designer_shot-760x380.jpg"
         width: 760
         height: 380
+        isCached: true
+  - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
+    excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
+    publishedDateTime: 2022-10-14T22:38:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 86
+    images:
+      - url: "https://www.crn.com/resources/026b-12dc0c217709-cef7b9099c99-1000/nadella-intro2.jpg"
+        width: 609
+        height: 457
         isCached: true
   - title: "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative"
     excerpt: "The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.\n"
@@ -377,6 +391,22 @@ related:
       - url: "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-12-at-2.03.39-PM.jpg"
         width: 969
         height: 537
+        isCached: true
+  - title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
+    excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
+    publishedDateTime: 2022-10-14T22:31:00Z
+    webUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
+    ampWebUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/2022-10/BTQ422_MicrosoftIgnite_Insider_CTA_300x250_1.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Welcome to Microsoft Syntex—Content AI integrated in the flow of work"
     excerpt: "Microsoft Syntex is Content AI that’s integrated in the flow of work, helping enhance, manage, and connect your content at scale. Learn more."
@@ -673,6 +703,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "Dwgv/lKYFn2i1ZhJNBMFwCxCmhmN+D1fn1fPHIkokmyYNp3An1hLTWP0VYatIax1EFPkV8tLLF4SqwMfdyS+a4IolyX5pQWFlq43mszZUrtXwXtBdIMtpl8gLDJPXGWHMWuOYKMy6ULL1FcPEjKr9h0lT2WCujgVOLoj71RPX4l51kmPnDYhRSC+7ZIjnkVHHvi2KFqYMJI/nSB+VzrlAxMi5wUcf0YL/fAkHtkYD7uaNZMS64IIPd0f9K/67fMQ6S55dGHRrEY61+//Q8Ye0pkDX0l1i1UHPiiRd46rpRQR1prA2qmntJAnAWmOmwteYPjNJS2sFGaAq8PNByr2bV50KVdbzUEPrZ8wrA+tBeM=;ecGje3BCRt4ztGOXjo6ihg=="
+secured: "01xWuRxXkd8mHrKyfyzowuvE/3Ug3R70z1vdwZ+4/pYY9UJqsYJfYEUw7Y1Tw6XO5+jau+0qCYk7E+AXTIa4Hme0JvVpWh89TEHe1k84n6pevGtQLu+FrG+kC9EBOhKwZDcqmPeHs/t0s+mlWykaFGIMC48z7dNBv2QRHm7r778Jcmoi4X7CuuRbngwfERbRpXRKuuYmSwvc0EwYmQ4nmQ/f9S7G4jnYZ193+Ra8KaH1qw3NzMCI0D1CDClDjylc3pZwXRyRan1a1wmLTut13/OP/kbsf2Nz/8KGRjNyHRhvgU0T0o6paFmEeqmFlVDvxMicavBm4EkOxZlokuYurH4lR/OJjADYhIhbnYsB+2k=;JtzFu5n/N3gt7YqheCj6xA=="
 ---
 

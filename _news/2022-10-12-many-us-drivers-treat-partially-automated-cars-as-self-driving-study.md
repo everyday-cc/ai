@@ -55,15 +55,6 @@ related:
         width: 1800
         height: 1200
         isCached: true
-  - title: "Self-driving cars are coming to Dubai"
-    excerpt: "Driverless cars could soon be a reality in Dubai. Yes, you may soon be able to get from A to B without a driver or driving as RTA showcases its all-electric self-driving car at Gitex today. After announcing plans for a self-driving taxi fleet earlier this year,"
-    publishedDateTime: 2022-10-10T05:14:00Z
-    webUrl: "https://www.timeoutdubai.com/news/self-driving-cars-are-coming-to-dubai"
-    type: article
-    provider:
-      name: Time Out Dubai
-      domain: timeoutdubai.com
-    quality: 19
   - title: "Do You Recognize These Robots?"
     excerpt: "This is part of the Do You Recognize This series in the Electronic History section of our Series Library and in the TechXchange: ROS: Robot Operating System What were some of the more interesting robots of the past?"
     publishedDateTime: 2022-10-12T18:00:00Z

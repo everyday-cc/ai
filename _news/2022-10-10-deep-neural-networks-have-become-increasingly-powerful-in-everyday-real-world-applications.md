@@ -26,22 +26,6 @@ images:
     height: 1039
     isCached: true
 
-related:
-  - title: "AI ASICs Will Become Increasingly Application-Specific"
-    excerpt: "I blogged about AI ASICs being not exactly ASICs. One of the primary reasons for not calling AI acceleration chips ASIC is because historically ASIC or Application Specific Integrated Circuit has referred to a fixed hardware block with limited programmability."
-    publishedDateTime: 2022-10-10T07:01:00Z
-    webUrl: "https://semiengineering.com/ai-asics-will-become-increasingly-application-specific/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/Siemens-Logo-Updated.png"
-        width: 559
-        height: 210
-        isCached: true
-
 secured: "u07VzOv0ltzJctYcY9WskQCSVXlUogzBHUGTJzKuFEhJ6lhqcPwuhIdBhWhdiyjRKg32c48eg7JbcrmFf2G/dUqxlvt1x6bSWkth2GAyiVrHM/Dg2rALJRtrQjIZyb1twrmFTnei1Vuk53qnJGd3zEbyMhnTFm95RzVApJhJ9PI1llEVFPChzoyYvwcrfoEc2VkPne6535GNLsZloOYTBTKGDqZmvyiT6WAZYnHG0/csNtQItAUqzd/b6qKrTlmm0/ko4IgJAQgyx+jhWhqs9Ykz2+rNpPYQ5MGN00xv8KAqwsuYOj6NzCOiaRVQIkuneXUxCoK6soPIlPUsxuKgGbrZPDf6p4tLwYepjYP+vdUumNGnqBdTuvDo8HgGeIVQA9BxxShNGyqUXattKWyVpQb3OI6p6BljA/iC0FMSIPeF9E41IxIBEVq7vAKWFgh3MB55tZp8TYy/uFRJXF1IZY2d8EhFdzfJTZn2CXY2i5MSG/Knja/UNwm5SpH8lFIFenRNdO4Rxvw5ZR9Nzq8ndQ==;bGa3EVKENlyxHTr+W/IReA=="
 ---
 

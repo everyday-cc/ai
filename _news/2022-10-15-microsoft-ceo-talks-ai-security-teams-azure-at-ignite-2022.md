@@ -1,31 +1,28 @@
 ---
 category: news
-title: "Microsoft’s new AI graphic design app is built on DALL-E"
-excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
-publishedDateTime: 2022-10-12T14:34:00Z
-originalUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
-webUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
+title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
+excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
+publishedDateTime: 2022-10-14T22:38:00Z
+originalUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
+webUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
 type: article
-quality: 84
+quality: 86
 heat: -1
 published: false
 
 provider:
-  name: Engadget
-  domain: engadget.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN
+  domain: crn.com
 
 topics:
-  - AI
   - Microsoft AI
+  - AI
+  - AI in Security
 
 images:
-  - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4b490250-49a9-11ed-bf41-71ff4a04e5ad"
-    width: 952
-    height: 529
+  - url: "https://www.crn.com/resources/026b-12dc0c217709-cef7b9099c99-1000/nadella-intro2.jpg"
+    width: 609
+    height: 457
     isCached: true
 
 related:
@@ -201,20 +198,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
-    excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
-    publishedDateTime: 2022-10-14T22:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 86
-    images:
-      - url: "https://www.crn.com/resources/026b-12dc0c217709-cef7b9099c99-1000/nadella-intro2.jpg"
-        width: 609
-        height: 457
-        isCached: true
   - title: "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative"
     excerpt: "The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog.\n"
     publishedDateTime: 2022-10-12T16:00:02Z
@@ -252,6 +235,20 @@ related:
       name: Microsoft
       domain: microsoft.com
     quality: 84
+  - title: "Microsoft’s new AI graphic design app is built on DALL-E"
+    excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
+    publishedDateTime: 2022-10-12T14:34:00Z
+    webUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 84
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4b490250-49a9-11ed-bf41-71ff4a04e5ad"
+        width: 952
+        height: 529
+        isCached: true
   - title: "8 new Microsoft Azure AI updates to boost productivity"
     excerpt: "At its Ignite Conference, Microsoft announced new innovations for its AI services, including Azure Applied AI Services, Azure Cognitive Services and Azure Machine Learning."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -702,6 +699,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "kseO+tMUM8Dm/j+yB57LLJCRJplwaR7Cog3ifZ3QOaLh4QbKu5HWKlLfnCaa0rKYwjTcj1BwcOX8uTnu1fFbXPJ3bmDQwHFclgRUEIh+Epa9bBd1y1MF6mzrsCiVSKRJDyj1k+yKzhEg5pK6bK3koCNB3K2bnxRyIEuYUJqZ7lLEuuXbthTJmYNd12Wjtg7ITuSUri/M0vjMf+SRREMoZMba+84X2kYsklzSsjeQyJy3k3BIdSG+lIchfLWo+PeTAMHqcI4EssTXwcIfoYU23GjJr9c/AfmtCKmEhtsX7rSPIldewQ8jm55TEjCeh7msfW7Wqy6QzqpdlZc2EJtlig5WsvkbXPVWqIdrtG8WijJ6sNg2pExgCvhvuRhS581CUmcxa7dza1u5B4cSpMfzacAjg1IfHUjgLT4eiSTzPZ3QRZ5BodzCRiHTNj0X0VN+jQuD4mAvRpEzV+Jtfh5IXQ3Uokba1j98EQgEMiVC+nIzsac67qjAachWiM58J6KTrqX0ab98LarukxoxG1aSZQ==;FkvNW/y17fAKezuiQ9jEjA=="
+secured: "n5w59ABAH3SNqYKUwgNKKkMqE6mgRqBHluo45EhnwwcsvIThjg9GMW8qE91tQI37JpIh60nM8Kl4781sMhCq4mgzkZssfYLnHIsOpommPrvf5AJVtzJN745o6eeD79LRpQCdSe271pPpK8ywzmilThxbL8vPsJ04Kz16ntp5QP3i9BTEK9hDsbvvnDOUZ6Tprafp3k4Dhh53y7auTWIZ7GOGDGrlwEdH+C+lF8yM3gr+q8245VfW9/aTambxl03MI1Bw+eaKzAcW70wQ628MRzJeiO1Qa3QM/zo+NPRMmExl2QBtOKY2F/iigV5B6pYnF+zelvCml/Wh3qQVxkU7m/BQqpEZwCDfcEQmOnJjLqI=;6zzX7MHuiVDv9ByXELNXsw=="
 ---
 

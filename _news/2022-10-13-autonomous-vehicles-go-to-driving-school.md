@@ -34,15 +34,6 @@ related:
       name: Newsweek
       domain: newsweek.com
     quality: 34
-  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
-    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
-    publishedDateTime: 2022-10-13T11:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 19
   - title: "Drivers have \"poor understanding\" of limits of self-driving car technology, IIHS finds"
     excerpt: "Drivers are putting too much faith in hands-free systems that are designed to help them navigate the road, according to the Insurance Institute for Highway Safety."
     publishedDateTime: 2022-10-12T21:22:00Z

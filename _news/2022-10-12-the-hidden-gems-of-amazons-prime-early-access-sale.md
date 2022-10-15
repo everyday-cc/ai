@@ -21,17 +21,17 @@ topics:
 related:
   - title: "The hidden gems of Amazon’s Prime Early Access Sale"
     excerpt: "BestReviews is reader-supported and may earn an affiliate commission. Details. Like Prime Day, Amazon’s Prime Early Access Sale is chock full of impossible-to-resist deals on everything from"
-    publishedDateTime: 2022-10-12T18:38:00Z
-    webUrl: "https://www.fox44news.com/news/the-hidden-gems-of-amazons-prime-early-access-sale/"
-    ampWebUrl: "https://www.fox44news.com/news/the-hidden-gems-of-amazons-prime-early-access-sale/amp/"
-    cdnAmpWebUrl: "https://www-fox44news-com.cdn.ampproject.org/c/s/www.fox44news.com/news/the-hidden-gems-of-amazons-prime-early-access-sale/amp/"
+    publishedDateTime: 2022-10-13T12:25:00Z
+    webUrl: "https://fox2now.com/news/national/the-hidden-gems-of-amazons-prime-early-access-sale/"
+    ampWebUrl: "https://fox2now.com/news/national/the-hidden-gems-of-amazons-prime-early-access-sale/amp/"
+    cdnAmpWebUrl: "https://fox2now-com.cdn.ampproject.org/c/s/fox2now.com/news/national/the-hidden-gems-of-amazons-prime-early-access-sale/amp/"
     type: article
     provider:
-      name: Fox 44 Waco News
-      domain: fox44news.com
+      name: Fox2Now St. Louis
+      domain: fox2now.com
     quality: 44
     images:
-      - url: "https://www.fox44news.com/wp-content/uploads/sites/82/2022/10/the-hidden-gems-of-amazons-prime-early-access-sale-5ce8ea-1-1.jpg?w=1280"
+      - url: "https://fox2now.com/wp-content/uploads/sites/14/2022/10/the-hidden-gems-of-amazons-prime-early-access-sale-5ce8ea-1-1.jpg?w=1280"
         width: 960
         height: 540
         isCached: true

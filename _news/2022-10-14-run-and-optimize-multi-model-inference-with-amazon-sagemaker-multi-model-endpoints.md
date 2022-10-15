@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Testing approaches for Amazon SageMaker ML models"
-excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
-publishedDateTime: 2022-10-14T17:51:56Z
-originalUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
-webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
+title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
+excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"
+publishedDateTime: 2022-10-14T22:12:35Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
 type: article
-quality: 106
-heat: 147
-published: true
+quality: 83
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -21,15 +21,28 @@ provider:
 topics:
   - AI
   - AWS AI
-  - Machine Learning
 
 images:
-  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
-    width: 1549
-    height: 774
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
+    width: 1550
+    height: 773
     isCached: true
 
 related:
+  - title: "Testing approaches for Amazon SageMaker ML models"
+    excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
+    publishedDateTime: 2022-10-14T17:51:56Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 106
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
+        width: 1549
+        height: 774
+        isCached: true
   - title: "How Amazon Search runs large-scale, resilient machine learning projects with Amazon SageMaker"
     excerpt: "If you have searched for an item to buy on amazon.com, you have used Amazon Search services. At Amazon Search, we’re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use"
     publishedDateTime: 2022-10-13T20:39:06Z
@@ -58,20 +71,6 @@ related:
         width: 1548
         height: 772
         isCached: true
-  - title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
-    excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"
-    publishedDateTime: 2022-10-14T22:12:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 83
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
-        width: 1550
-        height: 773
-        isCached: true
   - title: "Amazon SageMaker Clarify Now Supports Online Explainability for ML Predictions"
     excerpt: "Amazon is announcing that Amazon SageMaker Clarify now supports online explainability by providing explanations for machine learning model’s individual predictions in near real-time on live endpoints."
     publishedDateTime: 2022-10-12T08:16:00Z
@@ -87,6 +86,6 @@ related:
         height: 630
         isCached: true
 
-secured: "6wR/wmf8RRqgLp2j6kU7YJFI8r9fl25blSwB5nsg9t9PX4QV5trwTC1H+upQaE/CYBgG4LOYY5Z/tTvozf1mIjPGEpNVSlKKBuzCeMmoVU1oaYyWeeGb2jpXyRsvfcjUk7BUUaYqK0et18lcDSKGlxBtOHj3s97sOPkN+uZyHb3aitvOmhnfPe3slo+6ALMiGqjKFu78/JCMjHd8+5sQog8uu5rs2OpCpF7n7FDEtxldCDKpVj5RdH3p7145hd9VuTDud5dqXktxKRd8rOYYkwUVXoLBvaal4aaRA2h4emrS/UvVhsS0Tk+hovcSG1oQ9aRdQpn0KcGX8xku/xIeTN05yfOtLNLVmO0DcVkNL+M=;0DgxzwGLgMeVD6dLAn7jTA=="
+secured: "VM22+CfCl9tb22UzZM+34U6JOKaT0cfAwhg2Ur5kaJ2JWqRYlXnxqPyNQ9uoL1K4tb7O2thjEVM1sim7OfaDbbnD0cy7A5g6DKRb0X5rcE0UIPIOj7VoI8tcExLml9Xq6szv+h6EthYkuX1KenDaPjJd8+ecen6G+ncFHIXsxh1oRQz/5R7Fc7GW274f+2I8THRhCjwKZ2FrZLRqWfTL8/TmiWwHXuq1tJlMiaaEtt3rhkSt99jEGSkmx56etG1iEBELYdwXoarLmOqHUyCVnMR3QMOwiA0XYWMFWzm2WItfpFT2HvuTz8VMWaBxUvR26SvutMSSUg9RzX3oKc/SH7jLYIvJmbIF+pv8Z3IXMlI=;YtdMc5eKCVMc61rLpSIMow=="
 ---
 

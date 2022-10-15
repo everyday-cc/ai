@@ -53,22 +53,6 @@ related:
         width: 300
         height: 204
         isCached: true
-  - title: "Blockchain Technology Market in BFSI Sector Market to grow by USD 4.02 Bn by 2026, Increase In FinTech Spending to Boost Growth - Technavio"
-    excerpt: "The blockchain technology market in the BFSI sector market is expected to grow by USD 4.02 bn during 2021-2026, at a CAGR of 36.6% during the forecast period, according to"
-    publishedDateTime: 2022-10-10T06:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29197364/blockchain-technology-market-in-bfsi-sector-market-to-grow-by-usd-4-02-bn-by-2026-increase-in-fint"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29197364"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29197364"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 25
-    images:
-      - url: "https://mma.prnewswire.com/media/1916163/Technavio_Global_Blockchain_Technology_Market_Infographic.jpg"
-        width: 400
-        height: 225
-        isCached: true
   - title: "Data analytics and AI set to drive fintech"
     excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
     publishedDateTime: 2022-10-12T10:00:00Z

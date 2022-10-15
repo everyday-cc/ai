@@ -58,6 +58,20 @@ related:
         width: 1026
         height: 630
         isCached: true
+  - title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
+    excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"
+    publishedDateTime: 2022-10-14T22:12:35Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 83
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
+        width: 1550
+        height: 773
+        isCached: true
   - title: "Amazon SageMaker Clarify Now Supports Online Explainability for ML Predictions"
     excerpt: "Amazon is announcing that Amazon SageMaker Clarify now supports online explainability by providing explanations for machine learning model’s individual predictions in near real-time on live endpoints."
     publishedDateTime: 2022-10-12T08:16:00Z

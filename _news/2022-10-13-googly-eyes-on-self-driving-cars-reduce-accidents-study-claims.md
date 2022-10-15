@@ -19,43 +19,83 @@ topics:
   - AI
 
 related:
-  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
-    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T13:03:00Z
-    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+  - title: "Self-driving cars still far away"
+    excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
+    publishedDateTime: 2022-10-10T23:45:00Z
+    webUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/"
+    ampWebUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
     type: article
     provider:
-      name: Newsweek
-      domain: newsweek.com
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 44
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
+    excerpt: "Almost half of drivers using Tesla and GMC driver assist technology report feeling comfortable treating their cars as fully autonomous."
+    publishedDateTime: 2022-10-12T19:00:00Z
+    webUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving"
+    ampWebUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+    type: article
+    provider:
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 44
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
+        width: 1000
+        height: 668
+        isCached: true
+  - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
+    excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
+    publishedDateTime: 2022-10-11T17:00:00Z
+    webUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732"
+    ampWebUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
     quality: 34
-  - title: "Autonomous vehicles go to driving school"
-    excerpt: "When it comes to self-driving cars and trucks, one of the big challenges for developers is programming the vehicles to operate both predictably and safely. Right now, most autonomous vehicles (AVs) operate according to computer algorithms programmed by technical experts."
-    publishedDateTime: 2022-10-13T14:29:00Z
-    webUrl: "https://www.dcvelocity.com/articles/55732-autonomous-vehicles-go-to-driving-school"
+    images:
+      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c332a46e7ed5768da892764986fb91f7.jpg"
+        width: 800
+        height: 485
+        isCached: true
+  - title: "China unveils self-driving car ahead of party congress"
+    excerpt: "China unveiled a domestically developed self-driving car at an event on Friday organized by the Communist Party ahead of the party's National Congress."
+    publishedDateTime: 2022-10-14T10:45:00Z
+    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/"
+    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
+      name: NHK
+      domain: nhk.or.jp
     quality: 24
-    images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/thumb/cscmp_edge_2022_anthill_thumb.jpg?crop=true&height=430&t=1665510005&width=640"
-        width: 640
-        height: 430
-        isCached: true
-  - title: "Drivers have \"poor understanding\" of limits of self-driving car technology, IIHS finds"
-    excerpt: "Drivers are putting too much faith in hands-free systems that are designed to help them navigate the road, according to the Insurance Institute for Highway Safety."
-    publishedDateTime: 2022-10-12T21:22:00Z
-    webUrl: "https://www.axios.com/2022/10/12/self-driving-cars-tesla-autopilot-gm-super-cruise"
+  - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
+    excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
+    publishedDateTime: 2022-10-12T21:17:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
     type: article
     provider:
-      name: Axios
-      domain: axios.com
-    quality: 16
-    images:
-      - url: "https://images.axios.com/Er2wcQuChCubJ3SH4OekFHButt4=/0x0:1280x720/1366x768/2022/10/12/1665603202394.png"
-        width: 1366
-        height: 768
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
+  - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
+    excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
+    publishedDateTime: 2022-10-14T12:30:00Z
+    webUrl: "https://news.crunchbase.com/transportation/self-driving-tech-startups-funding-ipos/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 4
 
 secured: "RMhA5gZTwI9F+Uzb8pUpJhZI3cZa7IHnCx0yu3Z0VnUv4KMJEZnqeW8vR+790/rTGYXNrKgw1aLznc65EX0DTfHaCg2/zMgsL8nEgrOworTMscczZn8LfQtHLhdBcvHXMULiB5tYWM4vtu/2RmqxpRmY6KUGE7Bo04HQhPUzAXCEgwruhuBYR7Ncoc85sWba/nLzgdoETxMljNtgRt/p43FtB2eET7BEiPbt5YX1M7fpSCi1qqd0yMs0+G8nV55JdfemhjC205vJW3QUYMrcI6cgYjkQUtoDOvFu5QQhbqw8Sw7i4/RVWPBWAGxmW/XzyGMLwtM3HMQBuYM8XClpuxquj2NbGnn3Ww61MPzRK8sDRx5SI/DaaqNSXeys0aFHXfYafw7Hy6Akq42EHanihkeRhWgiAYRXLESf6nBKbDosq06s593q7bzq1+zJ7uORhBkPO+ro+4e++FJ5dzfrUKOL6ZMV4qWA0JDAzGyNI8DmwrPBCB7hwK9JAD2gqsf1YA6m/Q2CeULV7ngFl77CXg==;KUFeClhlsxIa6X4uJpiRYQ=="
 ---

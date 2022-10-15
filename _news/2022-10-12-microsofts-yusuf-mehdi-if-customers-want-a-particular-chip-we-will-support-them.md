@@ -7,7 +7,7 @@ originalUrl: "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-cu
 webUrl: "https://www.cnbc.com/video/2022/10/12/microsofts-yusuf-mehdi-if-customers-want-a-particular-chip-we-will-support-them.html"
 type: article
 quality: 80
-heat: 81
+heat: 80
 published: true
 
 provider:

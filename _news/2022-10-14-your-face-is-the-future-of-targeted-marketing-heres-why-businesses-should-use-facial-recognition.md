@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/science-technology/facial-recognition
 webUrl: "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103"
 type: article
 quality: 72
-heat: 72
+heat: 73
 published: true
 
 provider:

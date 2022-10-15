@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Latin America Self-driving Car Market 2022 Insights on Covering Sales Outlook, Demand Forecast and Key Trends 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Latin America Self-driving Car Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-10T06:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-self-driving-car-market-2022-insights-on-covering-sales-outlook-demand-forecast-and-key-trends-2030-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Europe Self-driving Car Market 2022 New Opportunities, Top Trends and Business Development 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Europe Self-driving Car Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-10T06:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-self-driving-car-market-2022-new-opportunities-top-trends-and-business-development-2030-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "F/652vHN+Vq2H2uuT0fFw1jws4fCC7nL5gEWFju10cC/vlBmCPF7l2hB5fHUQB/LuqdEiW1xf0V7pIk+f0jrd/lJF91VIERKWFJ14mx1dKoccf+TqiJel2PC1jnYJXxCaNxl53lR8uF1Au48Gm8tLUnUiIhUtdcpDMsjckdMRM7Pbj0dGAuz/QAT5O+y4fI7a8BIIgQf5gkc45aaVd29BaKcH+xaiesG0sdtRuLHUVtltsZqVaxz8nOMtcXnJ+WiIw7eTzBHLgT9LjIi82pAy8XAJkjEz1M09ailUv6R0JCV/Z+dw4zirmNAv6IOLTJDGhIcPiXGVVvS678zXSgYzy3DtDCRIPVH+G0qfXkT2Bo=;hJbqvVsedZC/qzYyp6kU/A=="
 ---
