@@ -3,16 +3,16 @@ category: news
 title: "Opinion: A driverless vehicle update"
 excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
 publishedDateTime: 2022-10-15T00:18:00Z
-originalUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
-webUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
+originalUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
+webUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Yazoo Herald
-  domain: yazooherald.net
+  name: Northside Sun
+  domain: northsidesun.com
 
 topics:
   - AI in Autos
@@ -34,22 +34,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001"
         width: 5255
         height: 3402
-        isCached: true
-  - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
-    excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
-    publishedDateTime: 2022-10-10T18:40:00Z
-    webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 71
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
-        width: 540
-        height: 405
         isCached: true
   - title: "42% of Tesla Autopilot Users Say They Feel 'Comfortable' Treating Their Vehicles as Fully Driverless"
     excerpt: "An alarming share of drivers using partially automated driver assistance features overestimate their vehicles’ supposed self-driving capabilities. Around one in four Tesla Autopilot drivers and ..."
@@ -107,6 +91,6 @@ related:
         height: 676
         isCached: true
 
-secured: "JpwxZuQ95GfTYeV3Ovb/7/0FEiBGLz+/JGYoCKXL3jEjZHvi32W7ok/o1CXY7gP3lXsB9XpbJyDKtIj2rnVIVOP7gUXh3sGsAIX96BcOHVAjqAFngSJg2sSqYwx1P5diOYu6EhWWot2qdriGSNfEwRUl/jcP3BKxyOyy5V5b1T6ki8ZGx/mwv7sifr4x4Lj/M8RplaCltqhKhOTowBgqLgZo74xwnEG4EbPeVMaXlzi0QDH0N0ISJVTeieQ3CkiXmf8t/iY5nwxPXeu3lJsBAZNJTu0vKKmgPU2RaknLBk/W/eaEkyapF5jXCXmHQVJaJvu/hebIeO52f+3/1kdO9yAoj2KxIaxLwPIArCG5qU8=;levY5Sy5w/tj6BnYMQ/EEQ=="
+secured: "aanxUP1ehJnzloCfQxS5CIw1B8AU0NKBk8OzI5r2DUQ9MnT4Ro+PYyqtfq59qpiY5CS6hp+X6KzGe9j6lJfp1l5Z2fRw7ZabQRC/KHBx/wTK+6wYloq+02+ncueMMTaLU/PdkbL+kUhc7ZeMyPsWFuJtUn54D5Hu2ALbyi2JTL118/cr0JE4aYVmzhsOvQrukxuHRcTNpG00Cx+pCoJYJFJFb1AI2fmF/FxDhKvTTh9+QViBpdSvfZwbd6kF0gLBQWXNUvujWs7AYwfrmfKX0lg2Ol6E54QYY0bLbNibtgrqt0dOINZew/WErjHE4YImTGLyTjIp06YV11l3r0zK9WX74w8igHFF3558xs5VLoo=;GWTTrie7FWx/hZACiP+MsA=="
 ---
 

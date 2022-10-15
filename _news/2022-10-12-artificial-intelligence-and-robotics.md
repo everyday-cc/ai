@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-12T09:09:00Z
 originalUrl: "https://www.nature.com/collections/icbbiigbah"
 webUrl: "https://www.nature.com/collections/icbbiigbah"
 type: article
-quality: 69
-heat: 119
+quality: 71
+heat: 121
 published: true
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"

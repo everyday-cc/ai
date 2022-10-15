@@ -43,22 +43,6 @@ related:
         width: 5255
         height: 3402
         isCached: true
-  - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
-    excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
-    publishedDateTime: 2022-10-10T18:40:00Z
-    webUrl: "https://gulfnews.com/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    ampWebUrl: "https://gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/gitex-global-driverless-dubai-taxis-will-be-cheaper-than-limousine-services-1.91176943"
-    type: article
-    provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 71
-    images:
-      - url: "https://imagevars.gulfnews.com/2022/10/10/driverless-cruise-taxi-at-gitex-1665412797709_183c2569529_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
   - title: "42% of Tesla Autopilot Users Say They Feel 'Comfortable' Treating Their Vehicles as Fully Driverless"
     excerpt: "An alarming share of drivers using partially automated driver assistance features overestimate their vehicles’ supposed self-driving capabilities. Around one in four Tesla Autopilot drivers and ..."
     publishedDateTime: 2022-10-11T16:46:00Z
@@ -101,11 +85,11 @@ related:
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
     publishedDateTime: 2022-10-15T00:18:00Z
-    webUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
+    webUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
     type: article
     provider:
-      name: Yazoo Herald
-      domain: yazooherald.net
+      name: Northside Sun
+      domain: northsidesun.com
     quality: 19
 
 secured: "qEImUuMSNhxEi902Gk2KZiKY/K+aBLKvVU6T5ySxk9Wyy3qviYsxZk3u0ks8AXaA08wjuUljnZg94yiyMDwsqScC9mYuFsB/hxapwbdSp6mn/NmKApYvD6LSIzw+0YXi8JQwHT7jfRXzKYfHRGmsqWUNplZRv86Z+urIhOoXo5EbuadTrFRV6rK/EWb8+HnncjGWFxkhrv3rhqhilptutfrD4+dZ5S2vLkPSd5exdloiyulTnWPbKCwTM5vOitbhwePIQybQYH4xVu06/h29SyHCVFcNWuH1AKrFrl0xd92Cw4eL61nzU6wxShwLYuXFODHuPVOQ1tun1+yR6kUwfcbkRKgvhQW2rpHwD5ECE122jGPkp+nSb1DMwQCgy+97aH9VxIuzAKEK/oZHCWJY84GjpAO1zS0JmysXy2Alo4MQewrVTKuN5oN4Nr/ayNK1xz/PJjcyO4IFcYkvmr19Vv0iS4PtV7JQASylHr4M2iTKDn/UOFN7BhuYeFrPOA58+tNzz8PcZzA3HJ1xyW4ySg==;cH66qRwWVdoBk4477PBiNw=="

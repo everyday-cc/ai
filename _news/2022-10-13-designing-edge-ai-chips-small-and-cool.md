@@ -27,7 +27,7 @@ related:
     provider:
       name: Nature
       domain: nature.com
-    quality: 69
+    quality: 71
     images:
       - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
         width: 580

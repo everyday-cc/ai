@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T19:13:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+publishedDateTime: 2022-10-13T17:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -348,8 +344,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -699,6 +695,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "mlf3W3s9+R6XPjHzmTvBMMVZewU59MogTDGvZ89wChjxvoeQBUGoyfWPz9UhESqWWXbWc9z4Why2DwKh70WxgCueT2siRW8puXEdTzpYGY2lkj5aOQ8QarMZ7WqKtK3lot9YYU1Hb07Sd1ik1+PDdwy7w1HdbbEsk26E7n2LC1iy+O1cLZqECZRax+uEn9jsb+NbKvb5H/mhmGi/R1pA1OuE1uN9Umxz+Gnz1eblzr1GhLEsPEDoW2j69l2x+Z2jRY5wPBT6DkZCJO5F/EQ39mU83RfZmXp72r70W6QlZ337UoCds8ST/Ew+jQWexz7Y9G3ZJUCuR/orbXIyPZpbKmq7exJu+foX2F6B3lAXP1w=;I9OKLTy75R8VyxRQ8wMjrw=="
+secured: "JaBfcO6lq0vyXKonptJ41alkXVyB+/K2yKl4/eVBz6yg5iRq0mWLww7Ht8iU+knJeUCuYvJ7Y+4gXqE0wPjRjEQqCZIrzvtXN1bpsNbWWSDE2F68gVodfmPp3MJxCZ8bylWjK9gOeHHej1rM+QEMWaPGT6qrBm1b5Tk7npn20RYWqJDsqcM48u2kgKPEdK794TKnAfAYjVwSSJ3+f66JJIE7hSIW4NKECpYn4xHK7t+9r3UsceH7V/ANRTw1aQbWgU+k3gNKGKrNza3Pv8INzRKguRdKedg6K7tAUQRzgvZ6yaxBHk0qm0TjN2oxXlloEzKZiJG0QFeXp/qFgOKE8yAu5kRcrzUArI1KWXXIpP8=;RiJZEsA8ZYg3gGeLzkmNww=="
 ---
 

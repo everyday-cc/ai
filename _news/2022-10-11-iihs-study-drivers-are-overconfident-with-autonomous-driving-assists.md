@@ -7,7 +7,7 @@ originalUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-
 webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -23,33 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "Autonomous vehicles go to driving school"
-    excerpt: "When it comes to self-driving cars and trucks, one of the big challenges for developers is programming the vehicles to operate both predictably and safely. Right now, most autonomous vehicles (AVs) operate according to computer algorithms programmed by technical experts."
-    publishedDateTime: 2022-10-13T14:29:00Z
-    webUrl: "https://www.dcvelocity.com/articles/55732-autonomous-vehicles-go-to-driving-school"
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T06:50:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
     type: article
     provider:
-      name: DC Velocity
-      domain: dcvelocity.com
-    quality: 24
+      name: CBS News
+      domain: cbsnews.com
+    quality: 43
     images:
-      - url: "https://www.dcvelocity.com/ext/resources/video-uploads/thumb/cscmp_edge_2022_anthill_thumb.jpg?crop=true&height=430&t=1665510005&width=640"
-        width: 640
-        height: 430
-        isCached: true
-  - title: "Drivers have \"poor understanding\" of limits of self-driving car technology, IIHS finds"
-    excerpt: "Drivers are putting too much faith in hands-free systems that are designed to help them navigate the road, according to the Insurance Institute for Highway Safety."
-    publishedDateTime: 2022-10-12T21:22:00Z
-    webUrl: "https://www.axios.com/2022/10/12/self-driving-cars-tesla-autopilot-gm-super-cruise"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 16
-    images:
-      - url: "https://images.axios.com/Er2wcQuChCubJ3SH4OekFHButt4=/0x0:1280x720/1366x768/2022/10/12/1665603202394.png"
-        width: 1366
-        height: 768
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "lVRvh7BHLffBVLYE2Xt2rnOfgvjgX5+NarPJRoCjqia0NLP3on0QPTyf9PafCPI20ZaFrZSq3HXJ2thoqvPtT7Ppb8lXwxQae9WK4T8pVg8o5Fozcx72xGGFfVjZ1B1v2fUCv3V+H2i8WNEyA1sJM0b1qqxymurDty4rnbUtkLLlk3MJFeHIkqmZXRFRnSIGVo6yrO3VVbD/yDNlQpy/5uYEUGoslJd9pRHvkBVM0P/XkrrncIh8Dl1UQzfiWy8156n2EdozSMO/jJ5WgpD05mTf2ary9l5yqQiucgCyq2NXvMsz5kQfcB+exxqqr0CNMUdmNVgPdBKxzxRwk3xEIsPD3JCEDCf7IvCWb/kvIZ76GJkS+bL9VWOSeNVC6QxtpwrNVfiCkvrvAiJUrbJX+N8CmuDs9EXqtVQF4UBhdHb7pUrKF3bd7jzE4mcUWHspGoud+Vnyaemf5X9nlhnTqhFABSAd/XX8jdBfWtWlMcmUMsMxkkJpEp5Jw3ABO76r9srOyUq/GTf6a1cN5p+wzQ==;HrseM7P+qMXrEbqt/9C/wQ=="

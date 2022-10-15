@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/14/lidia-thorpe-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/14/lidia-thorpe-wants-action-on-treaty-and-truth-before-campaigning-for-indigenous-voice"
 type: article
 quality: 52
-heat: -1
+heat: 52
 published: false
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 620
     height: 413
     isCached: true
-
-related:
-  - title: "‘I will not be campaigning no’: Thorpe rejects campaign against the Voice"
-    excerpt: "Greens Senator Lidia Thorpe lobbied Pauline Hanson to help stop constitutional change in a tweet sent in 2017. Today Thorpe rejected the no campaign."
-    publishedDateTime: 2022-10-10T18:17:00Z
-    webUrl: "https://www.theage.com.au/politics/federal/i-will-not-be-campaigning-no-thorpe-rejects-campaign-against-the-voice-20221011-p5bove.html"
-    ampWebUrl: "https://amp.theage.com.au/politics/federal/i-will-not-be-campaigning-no-thorpe-rejects-campaign-against-the-voice-20221011-p5bove.html"
-    cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/politics/federal/i-will-not-be-campaigning-no-thorpe-rejects-campaign-against-the-voice-20221011-p5bove.html"
-    type: article
-    provider:
-      name: The Age
-      domain: theage.com.au
-    quality: 58
-    images:
-      - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
-        width: 300
-        height: 300
-        isCached: true
 
 secured: "3JZsjFugXaqjxgw9539JPj5xtdTc2ir/e81KgCoVG9xLJ1ZylWJP6cqAOwZfx0/sgixxRwd1PCjPM4eEilMpF4YsT3ZunFdR5FLVcfUavyhHSB0zMeXbPjL5UnYwQdOVVwl7mHwsaOtXnwEvh7hB3XFkNsvrHcYl3Gah+dl+LD0jx+w/I7tcgPmv69pENx7yQCfenbWOHIVFPWvcgqYwbstUu11tSlEbMc4V1/1nGXU9ctzn14Ii1PURd3h2TeVccbpyjinmvLRtyfgfNmZd4xAKPcSi2sAknlRBdtu8ByOIfv82NJ5HpaEetP6suxe4g4UZNo50lnRtd20uucBR6ane9PNfvwc6Oa1/nC9g6nU=;YP0zKvTiQPdAm+qRVPO4hA=="
 ---

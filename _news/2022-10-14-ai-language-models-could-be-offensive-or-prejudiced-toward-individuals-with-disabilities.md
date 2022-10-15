@@ -87,6 +87,20 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "Common AI language models show bias against people with disabilities: study"
+    excerpt: "But new research from the Penn State College of Information Sciences and Technology shows algorithms behind natural language processing (NLP), a type of AI, often have tendencies that could be seen as offensive or prejudiced towards individuals with ..."
+    publishedDateTime: 2022-10-14T18:36:00Z
+    webUrl: "https://www.aol.com/news/common-ai-language-models-show-175827225.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 37
+    images:
+      - url: "https://s.yimg.com/uu/api/res/1.2/_ciJ_hxHtkSRnICtYH8BUA--~B/aD01NTA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_the_hill_articles_315/06c01031bf097ded6698406a0264b8a1"
+        width: 900
+        height: 550
+        isCached: true
   - title: "AI language models show bias against people with disabilities: Study"
     excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
     publishedDateTime: 2022-10-14T15:59:00Z

@@ -2,16 +2,16 @@
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
 excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
-publishedDateTime: 2022-10-10T09:00:00Z
-originalUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+publishedDateTime: 2022-10-10T13:00:00Z
+originalUrl: "https://www.mainepublic.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+webUrl: "https://www.mainepublic.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+ampWebUrl: "https://www.mainepublic.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+cdnAmpWebUrl: "https://www-mainepublic-org.cdn.ampproject.org/c/s/www.mainepublic.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
 type: article
 
 provider:
-  name: WWNO
-  domain: wwno.org
+  name: Maine Public
+  domain: mainepublic.org
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 542
     isCached: true
 
-secured: "yvnhYUywQdZJ98GZqrzbSOMW1Ktfs2J4dxOIPcxG8Yit3fnvZ99IidpVr89ZeQdsuBMxRRtTwXP3c6DaHMu0nTvh4hGu8V0qo2NcVGYraFQPi2vFb4dl8ws1TWyqgPCIjnSRwO1Mge6aRLwUxDyok9vJ+sV4uahSfm9DfdvzYeNnNYaICvFZ9qYlQ7obHU3mOdi/E7L55RI4/WTwDH7MskiMxR5ZdYydzi9OSTbIOMPfueYhchAclJHppPrIIK5wiSz9yACvjqD8RPmDL3bTiLCxRn0q+l29XLLPTdvpXVTwfMEQQaFNU5cFIeq6uE9fEjfOuiS+Leq2pZzmrEufOssVdt2oJ6+ZTisEEHoAYm0=;zZnGU3jkHHQ7PQWAN1hIlA=="
+secured: "MtrSadLKF7Pq1e14uqvpzXMmmRp1SXhgbJgWIJLomTOiijuG8lLKjI2dkeAwSqjkAnwK0TiwuxNS1X8uMgSOecj5AHI/UUUaCkU24TJTRI2q2kUDUuXZBeEdwPqyhuIvYhVKXwFIhRnGORSAU1lEAnP4h099S5XYyz6R9ibgvrCeJAGoU2cd2Lal+Uce0qIJ5opEW18CF10Tq6PUo7BFGtIHwrXJz3JG1d+tJvu7+XxYOsOP87hWbcZ2O7eGt/163fsXPXygTqE+n7dhU5Fm3t/f52+kogrS48Qcavj/VnH4IcrMcmp1B/p9SmiU8Y4HnwcrbjCWj55paGtOQJH+PDhPNjBEQDifxtv5upRWk28=;gkvCzVt3QpS0WYDUiurnvQ=="
 ---
 
