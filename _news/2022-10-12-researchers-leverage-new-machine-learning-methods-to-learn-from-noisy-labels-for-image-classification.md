@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "\n            https://scx2.b-cdn.net/gfx/news/2022/researchers-leverage-n.jpg\n    "
