@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-12-regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment.md",
+      "title": "Regulatory and legacy system contraints hampering machine learning deployment",
+      "excerpt": "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England.",
+      "sourceUrl": null,
+      "webUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
+      "originalUrl": "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finextra",
+        "domain": "finextra.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-artificial-intelligence-and-robotics.md",
       "title": "Artificial intelligence and robotics",
       "excerpt": "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ...",
@@ -191,7 +234,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -867,6 +910,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
+      "title": "Top Nine Ethical Issues In Artificial Intelligence",
+      "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-artificial-intelligence-ai-enabled-drug-discovery-and-clinical-market-rising-trends-growing-demand-and-business-outlook-2030.md",
       "title": "Artificial Intelligence (AI) - Enabled Drug Discovery and Clinical Market Rising Trends, Growing Demand And Business Outlook 2030",
       "excerpt": "Report Ocean recently published a new report on the global Artificial Intelligence (AI) - Enabled Drug Discovery and Clinical market for the forecast period from 2022 to 2030. The research report investigates numerous growth elements and key market variables.",
@@ -1107,109 +1194,6 @@
         "name": "Sky",
         "domain": "sky.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-ironvest-bets-on-biometric-ai-to-stop-identity-theft.md",
-      "title": "IronVest bets on biometric AI to stop identity theft",
-      "excerpt": "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "originalUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 850,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/",
-      "publishedDateTime": "2022-10-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-the-growing-influence-of-robots-on-the-auto-industry.md",
-      "title": "The Growing Influence Of Robots On The Auto Industry",
-      "excerpt": "Despite the century-old notion of robots working within the auto industry, society continues to think of robots as limited, human substitutes. But that will likely change in the coming years as they become increasingly capable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
-      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/632cdbcca57003a0d144b11e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
-      "publishedDateTime": "2022-10-11T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

@@ -210,7 +210,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -355,6 +355,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
+      "title": "Top Nine Ethical Issues In Artificial Intelligence",
+      "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -734,10 +778,10 @@
     {
       "path": "_news/2022-10-09-see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show.md",
       "title": "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show",
-      "excerpt": "RTA will also showcase digital twin of Dubai Metro in the metaverse, among other services The launch of the driverless service ... technologies and artificial intelligence as means of boosting ...",
+      "excerpt": "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,",
       "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
-      "originalUrl": "https://gulfnews.com/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "webUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
+      "originalUrl": "https://gulfnews.com/uae/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -756,7 +800,7 @@
       "type": "article",
       "ampWebUrl": "https://gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
       "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/transport/see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show-1.91150594",
-      "publishedDateTime": "2022-10-09T02:07:00-07:00",
+      "publishedDateTime": "2022-10-09T01:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Gulf News",
@@ -816,6 +860,49 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-chaos-on-launch-day-for-scotlands-first-driverless-bus-system-as-technical-glitches-saw-one-of-the-electric-shuttles-get-lost-forcing-a.md",
+      "title": "Chaos on launch day for Scotland's first driverless bus system as 'technical glitches' saw one of the electric shuttles get LOST - forcing a human operator to drive instead",
+      "excerpt": "Itsy Bitsy Teenie Weenie Driverless Machiney has a capacity of up to 15 passengers and is a first for Scotland. The vehicle uses sensors to guide its way through a pre-taught route but there are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
+      "publishedDateTime": "2022-10-07T13:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1334,102 +1421,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-tesla-to-remove-sensors-from-the-vehicles-self-driving-system-and-instead-rely-on-eight-cameras-and-artificial-intelligence-after-intense-scrutiny.md",
-      "title": "Tesla to REMOVE sensors from the vehicle's self-driving system and instead rely on eight cameras and artificial intelligence after intense scrutiny following series of crashes",
-      "excerpt": "Tesla is removing sensors from its cars as it shifts toward a system based solely on eight cameras that feed information into its self-driving artificial intelligence. Ultrasonic sensors (USS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/05/17/63146475-0-image-a-30_1664988606459.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11283721/amp/Tesla-REMOVE-sensors-new-cars-bet-cameras-AI-amid-scrutiny-crashes.html",
-      "publishedDateTime": "2022-10-05T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
-      "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
-      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/home/smart-home/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "originalUrl": "https://www.cnet.com/home/smart-home/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
-          "width": 2840,
-          "height": 1598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
-      "publishedDateTime": "2022-10-05T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

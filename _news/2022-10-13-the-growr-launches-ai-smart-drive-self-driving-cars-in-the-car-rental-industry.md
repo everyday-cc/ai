@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Self-driving cars still far away"
-    excerpt: "The mere automation of routine tasks is not artificial intelligence. Without reams of carefully categorised data, AI is dead on arrival"
-    publishedDateTime: 2022-10-10T23:45:00Z
-    webUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/"
-    ampWebUrl: "https://www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/self-driving-cars-still-far-away/2706345/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 44
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai1-1.webp"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
     excerpt: "Almost half of drivers using Tesla and GMC driver assist technology report feeling comfortable treating their cars as fully autonomous."
     publishedDateTime: 2022-10-12T19:00:00Z
@@ -51,6 +35,31 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T06:50:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 43
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
+    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T13:03:00Z
+    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 34
   - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
     excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
     publishedDateTime: 2022-10-11T17:00:00Z
@@ -67,17 +76,15 @@ related:
         width: 800
         height: 485
         isCached: true
-  - title: "China unveils self-driving car ahead of party congress"
-    excerpt: "China unveiled a domestically developed self-driving car at an event on Friday organized by the Communist Party ahead of the party's National Congress."
-    publishedDateTime: 2022-10-14T10:45:00Z
-    webUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/"
-    ampWebUrl: "https://www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
-    cdnAmpWebUrl: "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221014_29/amp.html"
+  - title: "Many Americans treat driver assist systems like self-driving"
+    excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
+    publishedDateTime: 2022-10-11T18:48:00Z
+    webUrl: "https://techcrunch.com/2022/10/11/many-americans-treat-driver-assist-systems-like-self-driving/"
     type: article
     provider:
-      name: NHK
-      domain: nhk.or.jp
-    quality: 24
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 34
   - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
     excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
     publishedDateTime: 2022-10-14T19:13:00Z
@@ -101,15 +108,6 @@ related:
       name: The Independent
       domain: independent.co.uk
     quality: 19
-  - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
-    excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
-    publishedDateTime: 2022-10-14T12:30:00Z
-    webUrl: "https://news.crunchbase.com/transportation/self-driving-tech-startups-funding-ipos/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 4
 
 secured: "QfO+kOuqJPpphNmEcknmCktL8kOqDW5+BsZAAoVHFCtnADxpcqwZ2t8D+YviKIol70fS4XqwrSeDsTxDJFWSTMh6DCGQW83Im+ZBQm76pfSB+JtM2X+REm2rhufx+VqCxpYM/plbdG1K5W58wahrTVzG03BaXN9SqE/GV/eV+cHBJKlWV/68eW44QV8HyOb86dNP5SyND+5QylVlr2a2awkXpnF1NXudsx/xfS25msc7NeVKg5mt7qD2e0AqCKJDXfLhNlQglAwQYZAcCNwQpJ/Ff72Qex1uFN1QdxoB63SFpbWsmkY5c2viC033P7BORCamxnr7SlgLUHS7kxIly9XHwQmSO5tFqvJqn5KIg+yVAQ+p/n/lZxR4lI23I3HrY7C+JbW5m2kgMPTklHiIqtvRsBDX3Qmh7NEux+mtPZSbWJLopbXgqNMJ7Qb/x3O13fmcepQKIrS3wN1thoVXEoZwWZbdQCtdaMSQRzIYMQw6mE4ozb54fX0zqHCOA7kWtYu21jOuCaP86BdKaqf4iQ==;l6b52DhuIc0KH2LpJ4MQog=="
 ---

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-15-the-multi-billion-dollar-potential-of-synthetic-data.md",
+      "title": "The multi-billion-dollar potential of synthetic data",
+      "excerpt": "Synthetic data, already in use by tech giants, is an accelerator for ML/AI-based products to further penetrate every industry and sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "originalUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "publishedDateTime": "2022-10-15T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-put-latino-heritage-and-history-where-it-belongs.md",
       "title": "Put Latino Heritage and History Where It Belongs",
       "excerpt": "Most of the classes I took focused on Europeans, but there was little to no mention of Latino or African American history in the United States. I learned about Latinx art, culture and history on my own,",
@@ -1383,50 +1435,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
-      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
-      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

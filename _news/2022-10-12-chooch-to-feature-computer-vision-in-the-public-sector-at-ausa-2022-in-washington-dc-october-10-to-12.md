@@ -1,33 +1,25 @@
 ---
 category: news
 title: "Chooch to feature Computer Vision in the Public Sector at AUSA 2022 in Washington DC, October 10 to 12"
-excerpt: "Leading AI Computer Vision Platform provider, Chooch will showcase computer vision for the Public Sector at the annual AUSA 2022 conference in Washington DC, October 10 th - 12 th. Featuring a complete vision AI platform with end-to-end solutions from autonomous labeling to model training to an API specifically geared towards public sector solutions,"
-publishedDateTime: 2022-10-11T17:02:00Z
-originalUrl: "https://www.marketwatch.com/press-release/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to-12-2022-10-11"
-webUrl: "https://www.marketwatch.com/press-release/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to-12-2022-10-11"
+excerpt: "WASHINGTON, D.C., Oct. 11, 2022 (GLOBE NEWSWIRE) -- Leading AI Computer Vision Platform provider, Chooch will showcase computer vision for the Public Sector at the annual AUSA 2022 conference in ..."
+publishedDateTime: 2022-10-11T21:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
+ampWebUrl: "https://www.benzinga.com/amp/content/29223132"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29223132"
 type: article
-quality: 53
-heat: 53
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "G+gsSs/3c4z8mrZAUmmZe4EEmOdOWBEg0YEJdgnmHdu6sk7VWFDOL7B1uUhGuW/5VO3cct2Kwak6IJibOznI4TiqGU5tHhuar1wU2FwgtIcstdnGy2MC9sTuPw8VGJijs7eOWz8IZc3Fd47Xh+xzVykL5fxqK1DRqJZg530EKopI5/EaHEKe0nuiCJv2AKAH7xJc8LXaxZxzwXWk97Ix1+9FA2otmKrSSpqJK96EE/vIpiitgljvu8A6vBjVg4apbWDSoTFaF1Bi1pt6cwhzg6LIhM/kbQTeB8mLrZnUBhZNHNdAxwsTeaVN1NXD6RcHRHxuq6IbX7udOVRWcgrvsIsAL1cv1oJ6ICoEdbwmE/Y=;z7GJUAtys0Wnaf2jFjSUIA=="
+secured: "KT9vVjeuSagL2yZLkHltLyCbm5yr7UepB+00YDN0yqnxazBU+O7Cpg+kZCs/Rx59cvcKQtJAx4LLBKu4u60c8TA62kuvSVate724idwKInhg5RAMGMVeQ7XycLMJjOJwPVRPTPFhKrRdvSnQ0DUDyG8T/FXapgOdNiMDB02zeBxJjy+cEhj+CVSCrtItwOXrgZgKDAcaGoYJoDqOJTnVvl1P3HsbmNfyejpBBC/ESEXD2XrF66UpG8YxI02D74PbFykwd7yqFunzzPzAawUM5XBe5ykK5NwLhBibxd3VLmqp5aau/w5xT8fUzN+TaXgmpsiaPmeMxI7rZqtANT29FllP9wxxJNhEYR9fYcTakTY=;2L56HW9kM3p/GgJj06tNSg=="
 ---
 

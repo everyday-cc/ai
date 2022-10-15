@@ -63,15 +63,6 @@ related:
         width: 300
         height: 204
         isCached: true
-  - title: "Posts Tagged \"ethical AI fintech\""
-    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
-    publishedDateTime: 2022-10-13T04:11:00Z
-    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 36
   - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
     excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
     publishedDateTime: 2022-10-14T14:46:00Z

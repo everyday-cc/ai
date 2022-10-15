@@ -73,15 +73,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla Begins “Full Self Driving” Public Beta As Waymo And Cruise Go Unattended"
-    excerpt: "Self-driving technology is a holy grail that promises to forever change the way we interact with cars. Thus far, there’s been plenty of hype and excitement, but full vehicles that remove the ..."
-    publishedDateTime: 2022-10-11T00:01:00Z
-    webUrl: "https://hackaday.com/2020/10/23/tesla-begins-full-self-driving-public-beta-as-waymo-and-cruise-go-unattended/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 45
   - title: "Many U.S. drivers treat partially automated cars as self-driving"
     excerpt: "Users of Super Cruise, ProPILOT and Autopilot more likely to perform non-driving-related activities while driving unassisted Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings,"
     publishedDateTime: 2022-10-11T15:22:00Z

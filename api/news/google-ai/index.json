@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-15-top-ai-investors-reveal-state-of-ai-in-2022.md",
-      "title": "Top AI investors reveal State of AI in 2022",
-      "excerpt": "Investors Benaich and Hogarth have published their State of AI report, covering the latest in AI across industry, research and politics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1366475366-e1665766594967.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/amp/",
-      "publishedDateTime": "2022-10-14T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later.md",
       "title": "DeepMind breaks 50-year math record using AI; new record falls a week later",
       "excerpt": "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step.",

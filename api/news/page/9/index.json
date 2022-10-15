@@ -2,6 +2,145 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-05-deepmind-is-working-on-a-solution-to-bias-in-ai.md",
+      "title": "DeepMind Is Working on a Solution to Bias in AI",
+      "excerpt": "In DeepMind's hypothetical college admissions example: qualifications (Q), gender (G), and choice of department (D), all factor into whether a candidate is admitted (A). A Causal Bayesian Network can identify causal and non casual relationships between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "originalUrl": "https://www.designnews.com/design-hardware-software/deepmind-working-solution-bias-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/DeepMind%20CBN%20example.png",
+          "width": 1178,
+          "height": 1070,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
+      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
+      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
+          "width": 278,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights.md",
+      "title": "The White House moves to hold artificial intelligence accountable with AI Bill of Rights",
+      "excerpt": "To address this ever-growing issue, the White House today released a Blueprint for an AI Bill of Rights. This outlines five principles that should guide the design, use and deployment of automated systems to protect Americans in this age of AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "originalUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2010/04/bill-of-rights.jpg?w=1200&strip=all",
+          "width": 409,
+          "height": 293,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-white-house-moves-to-hold-artificial-intelligence-accountable-with-ai-bill-of-rights/amp/",
+      "publishedDateTime": "2022-10-04T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-white-house-unveils-artificial-intelligence-bill-of-rights.md",
       "title": "White House unveils artificial intelligence ‘Bill of Rights’",
       "excerpt": "The Biden administration unveiled a set of far-reaching goals Tuesday aimed at averting harms caused by the rise of artificial intelligence systems, including guidelines for how to protect people’s personal data and limit surveillance.",
@@ -1009,153 +1148,6 @@
         "Computer Vision",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel.md",
-      "title": "Artificial Intelligence Robotics Market Is Expected to Boom- Hanson Robotics, Softbank, Intel",
-      "excerpt": "New Jersey, United States, Oct. 03, 2022 /DigitalJournal/ The Artificial Intelligence Robotics Market research report provides all the information related to the industry. It gives the markets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robotics-market-is-expected-to-boom-hanson-robotics-softbank-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.market-news.org/wp-content/uploads/2022/10/Artificial-Intelligence-Robotics.jpg",
-          "width": 599,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-behind-the-story-navigating-san-francisco-in-a-driverless-car.md",
-      "title": "Behind the Story: Navigating San Francisco in a Driverless Car",
-      "excerpt": "A Times technology reporter in San Francisco, Cade recently wrote about his first ride in a truly driverless car, an experience “by turns spooky, impressive, perplexing and a little stressful.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/10/02/business/04californiatoday-car/04californiatoday-car-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/04/us/san-francisco-driverless-cars.amp.html",
-      "publishedDateTime": "2022-10-04T05:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-techstars-ceo-on-the-future-of-fintech.md",
-      "title": "TechStars CEO On The Future Of FinTech",
-      "excerpt": "Meeting up with TechStars CEO Maëlle Gavet at the Collision conference in Toronto. Here’s what she is excited about in financial technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633b75a5d5779d3d6278b209/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/04/techstars-ceo-on-the-future-of-fintech/amp/",
-      "publishedDateTime": "2022-10-04T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

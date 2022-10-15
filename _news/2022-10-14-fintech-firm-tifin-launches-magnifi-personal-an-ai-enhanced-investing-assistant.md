@@ -69,15 +69,6 @@ related:
         width: 300
         height: 204
         isCached: true
-  - title: "Posts Tagged \"ethical AI fintech\""
-    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
-    publishedDateTime: 2022-10-13T04:11:00Z
-    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
-    type: article
-    provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 36
   - title: "What do financial experts say about the future of fintech?"
     excerpt: "In the current economic climate, fintechs are facing a number of challenges. We asked eight industry experts their views on the future of fintech"
     publishedDateTime: 2022-10-13T10:16:00Z

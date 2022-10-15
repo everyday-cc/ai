@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-resea
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence News and Research"
-    excerpt: "Artificial intelligence models that interpret medical images hold the promise to enhance clinicians' ability to make accurate and timely diagnoses, while also lessening workload by allowing busy ..."
-    publishedDateTime: 2022-10-11T00:01:00Z
-    webUrl: "https://www.news-medical.net/?tag=/Artificial-Intelligence"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
-        width: 973
-        height: 514
-        isCached: true
   - title: "Eyeballs and AI power the research into how falsehoods travel online"
     excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
     publishedDateTime: 2022-10-13T09:01:00Z

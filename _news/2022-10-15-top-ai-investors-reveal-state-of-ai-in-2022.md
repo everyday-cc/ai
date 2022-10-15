@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-20
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-ai-investors-reveal-state-of-ai-in-2022/amp/"
 type: article
 quality: 89
-heat: 100
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -31,15 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "Top Nine Ethical Issues In Artificial Intelligence"
-    excerpt: "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality."
-    publishedDateTime: 2022-10-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/"
+  - title: "Pace Of Artificial Intelligence Investments Slows, But AI Is Still Hotter Than Ever"
+    excerpt: "Private companies using AI are expected to raise 36% less money in 2022 versus the previous year, but are still on track to exceed the 2020 level."
+    publishedDateTime: 2022-10-15T16:59:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 66
+    quality: 96
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/634ae31d6649ea63424d8035/0x0.jpg?format=jpg&width=1200"
+        width: 1196
+        height: 797
+        isCached: true
 
 secured: "HuozWvAvcv2ffTh0/12E3aCn6O3DGlKkEf6s63qH9GpOsl7ijHB4DiBKo0BtPMQ644mBRIcqzyKqTNnGWNSoIY21HLaPq0070QiDVaNBRY0/TqxBM5x2NJtFUX7sf5PxHB0GMiO8ZAuynBJFZWD56VAZHufaLwPxrOYP3bcoS77ocz2RhIYP9BXqFNTwHZ9ChY77XHDzMHywzys6QpCH1eJzktm3AfO9fIN6OikdlR2vxoCqNzi8KykJU4+k7nr6jzDwB7HpgEWVbnC4mIbu2iL5rfEzJaZpcOjHJcXyskeQ7uk+/NphPVRLaV/cf1HtFMr/FFOWxCusaCFt/wjIkxOlsGsVOgGxN01M95KgY8uHShBkItSMsIjYjpvJav5Q0AmvybGTNa/a0MhCr1GacAh46IW966xUGiXFuw1wz1IkiiQ9+8kN2aCyL1E+BHAMdfsJc4XTteBSuUzU8REd7bMQsMjuQ28O43Dk6ELI0T/tTi6/AqJ3onaRtLU9Zr3Zg74WIvmYFMTF2u5RGgvN5g==;8m+FMGT1TkVtrNJo4MlMaw=="
 ---
