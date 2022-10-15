@@ -522,10 +522,10 @@
     {
       "path": "_news/2022-10-04-artificial-intelligence-and-health-care-what-premeds-should-know.md",
       "title": "Artificial Intelligence and Health Care: What Premeds Should Know",
-      "excerpt": "With the advent of electronic medical records and wearable technology, data is becoming exponentially abundant in health care. Artificial intelligence has the potential to reshape medicine. For ...",
+      "excerpt": "With the advent of electronic medical records and wearable technology, data is becoming exponentially abundant in health care. Artificial intelligence has the potential to reshape medicine.",
       "sourceUrl": null,
-      "webUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
-      "originalUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/",
+      "webUrl": "https://www.usnews.com/education/blogs/medical-school-admissions-doctor/articles/artificial-intelligence-and-health-care-what-premeds-should-know",
+      "originalUrl": "https://www.usnews.com/education/blogs/medical-school-admissions-doctor/articles/artificial-intelligence-and-health-care-what-premeds-should-know",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -533,14 +533,23 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
-      "cdnAmpWebUrl": "https://wtop-com.cdn.ampproject.org/c/s/wtop.com/news/2022/10/artificial-intelligence-and-health-care-what-premeds-should-know/amp/",
-      "publishedDateTime": "2022-10-04T07:49:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WTOP News",
-        "domain": "wtop.com",
-        "images": null,
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

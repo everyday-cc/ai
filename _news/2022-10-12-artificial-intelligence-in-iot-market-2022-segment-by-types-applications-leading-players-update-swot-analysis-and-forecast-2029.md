@@ -84,15 +84,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
-    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
   - title: "Artificial Intelligence Robotic Dogs Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
     excerpt: "The \" Artificial Intelligence Robotic Dogs market \" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis forecast 2022 to 2028."
     publishedDateTime: 2022-10-10T20:31:00Z
@@ -200,15 +191,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
     excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
     publishedDateTime: 2022-10-10T16:30:00Z

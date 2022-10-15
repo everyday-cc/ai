@@ -1,36 +1,40 @@
 ---
 category: news
-title: "Lyft exec was wrong about driverless vehicles — but he still believes in their potential"
-excerpt: "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit."
-publishedDateTime: 2022-10-11T18:09:00Z
-originalUrl: "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-webUrl: "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-ampWebUrl: "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+title: "Opinion: A driverless vehicle update"
+excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
+publishedDateTime: 2022-10-15T00:18:00Z
+originalUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
+webUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
 type: article
-quality: 80
-heat: 120
-published: true
+quality: 19
+heat: -1
+published: false
 
 provider:
-  name: CNBC
-  domain: cnbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Yazoo Herald
+  domain: yazooherald.net
 
 topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001"
-    width: 5255
-    height: 3402
-    isCached: true
-
 related:
+  - title: "Lyft exec was wrong about driverless vehicles — but he still believes in their potential"
+    excerpt: "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit."
+    publishedDateTime: 2022-10-11T18:09:00Z
+    webUrl: "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 80
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001"
+        width: 5255
+        height: 3402
+        isCached: true
   - title: "Gitex Global: Driverless Dubai taxis will be cheaper than limousine services"
     excerpt: "Prices for the driverless taxi will be more economical ... new generation of taxi operation systems. The system uses artificial intelligence technologies to streamline taxi shifts by scheduling ..."
     publishedDateTime: 2022-10-10T18:40:00Z
@@ -77,16 +81,7 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Opinion: A driverless vehicle update"
-    excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
-    publishedDateTime: 2022-10-15T00:18:00Z
-    webUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
-    type: article
-    provider:
-      name: Yazoo Herald
-      domain: yazooherald.net
-    quality: 19
 
-secured: "xSqR+DYAAEcv73205XhYzF5zjf6AV3eK8hVFKOHAK7MHJF0KSxs7jh2Lciat/lqOYSUoYQEe3k83LhRwwrrqV7UAuLT7Kny3UjfbfNa9sUnuNIEMxM+gzNlo6EeQlpBN6CX9AzSFab7NPesTLwqVO+ED/Z3y1CAgsRGmLXROvxFMGPb5y+3zmoYFYpmchAOqN/JEwajbWjvjFn1WhX7VxOvWkFmsnHOmuqliP3AUnSHm+pSB2RVRmN1RLMk31dZXScofjg+ZDIaNlRbQXlUoFuLM9dS965sga70afHbhoa1j0k9uAmvyCokZ7EVyZqONMeAnMSpn9SVX1s7BUxOeL9AiY8ixlzeF3eIfifJpUX0=;jY1ZEZNAeQ838mcbz4WB4A=="
+secured: "2sVlWWJJ3y6VhHC+kaD7jmSeKSC7YQCINkff4V8bdExhAbB2b2YbaE1aujkD7m5WIdhfRtQH1Assk9/yDeTNXAtq3BXlQnlQd0+WmOnEn5co3hcx7nT2QsNgVN1fh3asQQwA8mRbThv9mMDIoRBmT/NfeIzWHjF+b2fCMgVx6Y0NY7NPqn6wAYj7tYJaDQQISQS2jUCqlRbvuKfr8FzyWjDSWHyF5Y3lyV4tXjlCBO+qehwlyUrT0FPb/6F7BzHVCeCUq58gXZyYOuVo7W8s/9hLZZKkzkv9jC7bw4BlbOd+E0Rkiu4EABRjSmjm+Xqv5MR/EUqpODplb5DBQtPGeEY6sw5fOpIlusoMEe7HLHM=;zb0t2hyp/CNwWcQQXoa+6Q=="
 ---
 

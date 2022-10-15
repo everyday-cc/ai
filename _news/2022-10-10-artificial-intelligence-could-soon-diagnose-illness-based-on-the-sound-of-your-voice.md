@@ -1,31 +1,29 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
-publishedDateTime: 2022-10-10T10:25:00Z
-originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
+publishedDateTime: 2022-10-10T13:07:00Z
+originalUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
+webUrl: "https://www.wbur.org/npr/1127181418/ai-app-voice-diagnose-disease"
 type: article
-quality: 52
-heat: 52
+quality: 32
+heat: 32
 published: false
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: WBUR
+  domain: wbur.org
 
 topics:
-  - AI in Autos
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg"
-    width: 880
-    height: 542
+  - url: "http://media.npr.org/assets/img/2022/10/06/20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg?s=5"
+    width: 786
+    height: 589
     isCached: true
 
-secured: "EaK/NF+zsSJ2IQVxXwhM0rgVRCwjk0HGy0KTC+BwDzm+rr/fTndZHeLRSKUzcxkIf0xeH/O/i3OsRh2xneEw8oxBlUwa31gcpN9v8dWuIN1zu1G9dVh0RLS9SK9k8ulWf7q//+Iy/WJeTbeNv7q5m7Rj4EDZ0LR3BFT/pjmTXg7GA9Y9B/4SZxAfhbT4PERaZXajGqpyDeeII9wsOaCyAz1OilPoaV6kbkXJ8prLqAM1jCMoR9ittt7Dt9hIQAQFbzeDguHZUzrEGU9jwAOOoBgPY9CUxKOJbkDyK7k7yOktIDtzNhiY7iCgmzLrgj2DObShlTVRGDPQV/4CKCVrcwO7RKHXC5KkcDDIyqVsrMs=;7ks2wlsIdKz9p4YOmSAWGg=="
+secured: "EglEudfT0PXVq6R5dVb9+R33AnJEb+BLs5L2O09RcH5nRCdvL54U5HjGpwaUivytpPFP5yPz8H+PDuxn2bEge1w0sHBYLmnmWTZyDkV2J4gKOjHBeGYsvlnSVmvdk6vs7PtRz205JS9Asf41rG7m18m09siQKJefY5Ez+8oPvbhvyEuO8WCoBu9h8kBJ3auhD8kW5EKU6Qam9V/LvYnBf8Fl1hd5J1BcIXUD0RV71DL4SHw//nhJUoZ7rm1os/wPyyMAcMiiosAQuwfcTBHj+S1huwfmfXby91+qKJAppIBFdz8H7ks7iXVNGJl8TX5bZh9+ICwr3aAZYiWj/5tF9uhKbkF9KqHn9HcopS99QMs=;6dfMmFjAoa8U5MgNYC6WeQ=="
 ---
 

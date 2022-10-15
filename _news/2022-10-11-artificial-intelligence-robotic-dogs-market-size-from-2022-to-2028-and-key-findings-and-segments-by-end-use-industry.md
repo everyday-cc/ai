@@ -85,15 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
-    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
   - title: "Global Artificial Intelligence (AI) in Insurance Market Report 2022 - Analysis by Product Type, End-user and Region"
     excerpt: "As per the updated \" Artificial Intelligence (AI) in Insurance Market \" report by Report Mines, the Artificial Intelligence (AI) in Insurance market value was in billions in the year 2022. Furthermore,"
     publishedDateTime: 2022-10-11T07:01:00Z
@@ -187,15 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Artificial Intelligence in IoT Market 2022 Segment by Types, Applications, Leading Players Update, SWOT Analysis and Forecast 2029"
     excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
     publishedDateTime: 2022-10-12T07:48:00Z

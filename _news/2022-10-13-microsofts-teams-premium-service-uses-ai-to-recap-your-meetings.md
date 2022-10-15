@@ -504,19 +504,16 @@ related:
       domain: zdnet.com
     quality: 52
   - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 52
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z
@@ -703,6 +700,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "01xWuRxXkd8mHrKyfyzowuvE/3Ug3R70z1vdwZ+4/pYY9UJqsYJfYEUw7Y1Tw6XO5+jau+0qCYk7E+AXTIa4Hme0JvVpWh89TEHe1k84n6pevGtQLu+FrG+kC9EBOhKwZDcqmPeHs/t0s+mlWykaFGIMC48z7dNBv2QRHm7r778Jcmoi4X7CuuRbngwfERbRpXRKuuYmSwvc0EwYmQ4nmQ/f9S7G4jnYZ193+Ra8KaH1qw3NzMCI0D1CDClDjylc3pZwXRyRan1a1wmLTut13/OP/kbsf2Nz/8KGRjNyHRhvgU0T0o6paFmEeqmFlVDvxMicavBm4EkOxZlokuYurH4lR/OJjADYhIhbnYsB+2k=;JtzFu5n/N3gt7YqheCj6xA=="
+secured: "4PXWleB0bJgaoF5BGZQOWqUu7I+XB+WslakoDxWzpuwLLlY4i8CMLz0OBgzC6iMiTPXxNfvzdV0Qmivij+OMCF53+z6YFYWUWGjTsCyx7dllNotgaEpMXwZSgGaS3cl4icdFLJfciY/95ud4guDcUPZMhZSPukYiv07ypFPBzNVQQ+95eh3ESJ1/RnpzJBeKZ4MgV17X3U3yIftvuV2xzm6q2tucWlFTD+S7GxkEDiTGGjve49JR/scOKGKidLLCDZ1iW8OVsYBXDKYjyqXJrI091fxHWzeaPc5AV9UAYYcOoMSNIh6j4kunUnai2nLF2MVFRAgW/wAN7t9Wdykzh5JoVJwUcMSLzEiUEezNBLYlvi0dE43ogQMoBwxlfJJu+DwK8YNlas9j7Z1b44uct7vIcIluSqA9ymJnYzZb7qakazHHSBTQeT/0f1GafHMrIKCWpUYWaSc/lUVFROfsachUvAqTjylKDg9/42hFrC1Eu7D32OpnUPByM2J1XksVPuHWV/60M2zufcM/8bdYoA==;PMg2nnyV0d9VFTJXpjQBmQ=="
 ---
 

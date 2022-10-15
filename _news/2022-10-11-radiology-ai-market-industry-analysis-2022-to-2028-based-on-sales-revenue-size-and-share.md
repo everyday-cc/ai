@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-indu
 webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10"
 type: article
 quality: 73
-heat: 323
+heat: 303
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Processor Market Size, Sales, CAGR And Competition Data from 2022 To 2028"
-    excerpt: "Number of Tables and Figures :138 | The global \"AI Processor Market\"size is projected to reach Multimillion USD by 2028,"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-processor-market-size-sales-cagr-and-competition-data-from-2022-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
   - title: "Artificial Intelligence Robotic Dogs Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
     excerpt: "The \" Artificial Intelligence Robotic Dogs market \" report offers a comprehensive analysis, market size and forecast from year to year, trends, growth drivers, challenges, and vendor analysis forecast 2022 to 2028."
     publishedDateTime: 2022-10-10T20:31:00Z
@@ -187,15 +178,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Hardware Market 2022 Incredible Possibilities, Growth Analysis and Forecast To 2028"
-    excerpt: "Number of Tables and Figures :130 | The global \"AI in Hardware Market\"size is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-10T08:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-hardware-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2028-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Artificial Intelligence in IoT Market 2022 Segment by Types, Applications, Leading Players Update, SWOT Analysis and Forecast 2029"
     excerpt: "Oct 12, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
     publishedDateTime: 2022-10-12T07:48:00Z

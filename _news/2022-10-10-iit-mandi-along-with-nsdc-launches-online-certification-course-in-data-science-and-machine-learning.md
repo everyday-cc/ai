@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "IIT Mandi and NSDC launch certificate programmes in Data Science and Machine Learning"
-    excerpt: "The course will be conducted through live-streaming sessions by IIT Mandi faculty members. The selection of interested candidates will be carried out through an eligibility test which will be conducted on October 15 and 16."
-    publishedDateTime: 2022-10-10T08:47:00Z
-    webUrl: "https://indianexpress.com/article/education/iit-mandi-and-nsdc-launch-certificate-programmes-in-data-science-and-machine-learning-8200266/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 32
-    images:
-      - url: "https://images.indianexpress.com/2022/10/IIT-Mandi-North-campus-1.jpg"
-        width: 1200
-        height: 667
-        isCached: true
 
 secured: "rvOWO9gez5qVSYOe7N1f2BPLLTYWfTby2YgsqqaYj8U4bdZxaC//3Vuj3bfsDYxD+M50z8Dh+GccAq+n2rnssJsRiH4XSFJkwL3qVngPajULUrRF5PhgasTSigrieaYd2H4THBb2+FBkQCRMM17U5NoIw8t2Dn1QXjHB8UV9DC7JjxuQkrzLohQJmuPpSpaMovWzFWua7wy3kCSdT7bEZaXsHdhwlm9+NkCZWfmJIP20EXti/8mtMiZyRoE6zuq650JFvPClW+uMie2rZo5yTbqVFt99AKsn4vKhrzaiUALbHAAIaMAFKHV+IOK3FytSQcLiDSDuHupecJEKfBJ4wqYTa17srzHRff2+PuuiN9nKPljg7Mi74Uwx0zAsImUHts82uj1GfFretAB0KruuMNv8xEKYb9B1PIUn2OEopdHJK2IceZUQRRE48QMUauvl0EcVSi4aQ0SowgknN3kZcEKPWprM5lMwFYbVfTCt5QrO4IhN80J3NkZ5RYApZuLWMWb9pT059GWxH49duSWahQ==;PsDUc2Uuvzg90ppaPTxYJw=="
 ---

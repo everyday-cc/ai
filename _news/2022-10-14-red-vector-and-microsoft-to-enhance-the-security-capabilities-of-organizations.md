@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T19:13:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
+publishedDateTime: 2022-10-13T17:47:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
+ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
-
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -699,6 +695,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "JNsIXP9PJJING80OHiBnPF7rr0sJJZikzmRAMrf7f2bMY60UKoaQ54r09L0lydaUhTAyBv0uteGojUIz8O3OauZ3+8/i7gnMKEoDTQHiGUFI14roClILU7H3x8wQpWzPboHVd9flE9GggrHbQ6n5uZMVy6iRwLL06Hx+x/AFB2MKuwKnk760tw8KcmGPixqAOlNjXjwqrUG0WNZK/fergq/o81Sxgj+cqAd56w58l9ym6E0v+kJI0FD2KDmU79+pJum2xMgIg5hnFqf+/6L6WkyZVPHIf6mzRRBOScBsU3tQC5FxPKQWMDMNwMBR4V424qWSgFThzZDiwGFevDfE+gdza5/k7EmBdM1bcS4DdFs=;V/fNVqdkNI67yec439uv9A=="
+secured: "h9F24I1Ds4QKCx7QfqBnAoGX2D6Y2/X3r8fELqaOvnshTX6vKkgfhUB4EOZDb89rwcag0QZ9R63mkzML0PC56RQS2hqZcUgm68yHEPfoO7/Sbz//vZTuQBA7gR20COtaJOKqTtLVulbe6aN1EOU9Pk6YjLzb7fO6UGqLzJdo7mu3F9KFww6hZqa6polgxzt42uyITuyN3+parWxyltc8GT3INjl1koFg2P5cNvOGkucOyeRNF55Wlz9/2adcCgUZyyIaO29KMLRF3+SkdKcPRSQ3v7Upes1nQbUeZMg5+tkYkQKLFeHhUt04y/Eoh6jBEt4uTp0gLIRJq1kYd3HHhiq74CGk0Ik7kqRTuxsBqN4=;mJsY/3pWD7Opb2PeosP3uw=="
 ---
 
