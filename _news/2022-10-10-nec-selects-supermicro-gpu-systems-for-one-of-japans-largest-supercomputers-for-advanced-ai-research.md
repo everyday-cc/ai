@@ -2,35 +2,28 @@
 category: news
 title: "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research"
 excerpt: "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ..."
-publishedDateTime: 2022-10-10T13:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
-ampWebUrl: "https://www.benzinga.com/amp/content/29201236"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236"
+publishedDateTime: 2022-10-10T16:08:00Z
+originalUrl: "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html"
+webUrl: "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: The Victoria Advocate
+  domain: victoriaadvocate.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "Super Micro Computer, Inc.: NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research"
-    excerpt: "Solution Adds 580 PetaFLOPS of AI Performance to Meet the Growing Demand for AI Training and Leverages Supermicro's Extensive Portfolio and Proven Track Record for Large Scale AI Total Solutions SAN"
-    publishedDateTime: 2022-10-10T13:10:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57261988-super-micro-computer-inc-nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 5
+images:
+  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/8/4e/84e9cee1-861a-59bb-8318-3bf492b09d58/63441b33bf51d.image.jpg?crop=859%2C451%2C152%2C0&resize=859%2C451&order=crop%2Cresize"
+    width: 859
+    height: 451
+    isCached: true
 
-secured: "ApkzXjHHERGCbV8JZA+wS0u/u9j9BcpiHn6egq3ayMTaQSz1yRss2J/jNxwYeOtfAdO7ZLxrMJ9ofE0jCMA0IrZiFR+t6Toy8RVH9Tl1Pcoq7rjQsXchiMGU3tGT/4qToN14U6PpX3xAErNLHYrz5dBoN9JAMhTowkECFLi5puC5xlETJeuUxWY2pgRFFDfTpj6K4jB1Gv4MOhw0smWV4oiFB8Z3c8Zo1cXhoSGfiL/vAx3NwOG7Bg1xMXQAZBNkkzb6uAt0gPQbrAhK6IrGOeS5ZVPJomGvZR6GChLK2Xx+XzIETAjRhF9eTUFc0sUDp/K/q1z5SO/++dsVBgnhRhKgGEIkwGUqg0Sb9O4Zhv8=;Uir+Cybm/rVYCJ18wMZQ2Q=="
+secured: "dz95I1PVtz6ZZtUBmbG8KM4W9b1lY3nlK5GptDnZ5ETBguFGhqa0j8OI8TrCZPSK6T2t1zyKpgT4pdtCbl6L+7UgJxjaV4t9vl1DteqVlmlefLzp8FK1A1mLg3pPatKZcmk2TIE70/tZJeDdgNUWVvkE0GCwyk/ZWWtnsitwtQRHGwZt+dPAQ1Bnkboz/PGAGa6IHwUfz+l6y88jY6gQtO6l9XjKzE41N+rXta9M8ZBp/Ai/ViRWK5ZIpPU1ZB5DxTxz6eiVXMY9OqfU+R+uaQsY5wF2sxcsi5OVOw2mFbQEEEC66vXz0BMSc8oF1Vw8uxrCL7r5EVuONL8ZFq/7r4l55px1UU+KQkGUuHJpUnQ=;I8G4uP8SvE5gS69jkfOcmg=="
 ---
 

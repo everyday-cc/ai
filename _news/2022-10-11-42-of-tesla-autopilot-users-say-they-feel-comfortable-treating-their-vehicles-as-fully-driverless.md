@@ -1,28 +1,28 @@
 ---
 category: news
-title: "Commentary: China is setting the rules for driverless cars"
-excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
-publishedDateTime: 2022-10-12T22:09:00Z
-originalUrl: "https://www.channelnewsasia.com/commentary/china-self-driving-car-av-regulation-robotaxi-pony-ai-baidu-geely-3003851"
-webUrl: "https://www.channelnewsasia.com/commentary/china-self-driving-car-av-regulation-robotaxi-pony-ai-baidu-geely-3003851"
+title: "42% of Tesla Autopilot Users Say They Feel 'Comfortable' Treating Their Vehicles as Fully Driverless"
+excerpt: "An alarming share of drivers using partially automated driver assistance features overestimate their vehicles’ supposed self-driving capabilities. Around one in four Tesla Autopilot drivers and ..."
+publishedDateTime: 2022-10-11T16:46:00Z
+originalUrl: "https://gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407"
+webUrl: "https://gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407"
+ampWebUrl: "https://gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407/amp"
+cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407/amp"
 type: article
-quality: 39
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Channel NewsAsia Singapore
-  domain: channelnewsasia.com
+  name: Gizmodo
+  domain: gizmodo.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
-    width: 1200
-    height: 676
-    isCached: true
 
 related:
   - title: "Lyft exec was wrong about driverless vehicles — but he still believes in their potential"
@@ -57,17 +57,6 @@ related:
         width: 540
         height: 405
         isCached: true
-  - title: "42% of Tesla Autopilot Users Say They Feel 'Comfortable' Treating Their Vehicles as Fully Driverless"
-    excerpt: "An alarming share of drivers using partially automated driver assistance features overestimate their vehicles’ supposed self-driving capabilities. Around one in four Tesla Autopilot drivers and ..."
-    publishedDateTime: 2022-10-11T16:46:00Z
-    webUrl: "https://gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407"
-    ampWebUrl: "https://gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/tesla-driverless-elon-musk-cadillac-super-cruise-1849642407/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
   - title: "China is setting the rules for driverless cars"
     excerpt: "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example"
     publishedDateTime: 2022-10-12T06:53:00Z
@@ -84,6 +73,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Commentary: China is setting the rules for driverless cars"
+    excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
+    publishedDateTime: 2022-10-12T22:09:00Z
+    webUrl: "https://www.channelnewsasia.com/commentary/china-self-driving-car-av-regulation-robotaxi-pony-ai-baidu-geely-3003851"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
     publishedDateTime: 2022-10-15T00:18:00Z
@@ -94,6 +97,6 @@ related:
       domain: yazooherald.net
     quality: 19
 
-secured: "0SJfLNR+SdwDvsqPxdhzf3iH8hRZ84/H4Z2rl6GB/giEbo5CJw2E+pdg2ze68wHwxTSCtiJd7kQfCLTr5ybcsw0fZ3sJ3gXiHkX/X3c+Jgpz1b9jUog2WSCROEmKu2ZOTvtsbFUl6TzUrm8XIBKnMN9zAQ3eakCOesgqK/CTj9+Hjy0h0EEClUMU+ZmHLd+C5wusTJgW8czGQcU2Q9lc8ufcSyDVHDJbcr/m/PA8AmJYzT7jlzHwpudbiqTEBpE+Bj28aQL3GldpVhpvr1tTn6l4i5ba9VnIgRobsd1eeZnGTXl2cCaJtAV9tRccfcHRbdJ2qZHZ02zoD1hzv2rkIKmcr4NTNfjiY/AoIhupL9JSF+6vRPiJjEU31Gdyo6T8Gp4BkHLU3NGiAFrw7+BLiwKZTXx3GyI4eTcndlAgeCJ9Atv3WsoGum8SxSJ8vTOsBKf090Cs7x5Qf3COnrxO0LHQ2jyGVrCkkNUUAS0mhcSVNgGzCnBUXYseuPWAcfqyz//etm2EBLCPRRHU3PtXdA==;rkhee4N61/hyVYb0lzQLiA=="
+secured: "hn8Fsg69E9uAxPxIL2D0RQP3aDZd1RL6WeQzTV8DES1mdApjb9l6JDW5z92vTrPH04KU0DP6MudaA0H5cnVd/d4fvWslJmqXiK6EqHM+qOWdi/QPE5yA40I2Q0prvHAgAgxc9qqtY5/svRuiYoXzF7RK31RnAWJ7C6ExEipeXRCdixlD1utR9pwLYtf0fK9WTHOo9qRis3gex5FQYMdq9pNJgaKSLARfK6OCOsxFsN18QjtTuT7RhuS+pT1xceeUsvkzHYYluPnBBK7/glM7sXpwDoAv0PHOAa4+Lx+ASH/N70trQ9Io+r+HsiSMlzaRSc9T21zgVD5AdxXR3Up8nLiJB2OjhhID+eZm2w8XOwk=;yb1lLSuJoFW5TvJHmWMICQ=="
 ---
 

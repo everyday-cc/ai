@@ -8,7 +8,7 @@ webUrl: "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-630
 ampWebUrl: "https://www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html"
 cdnAmpWebUrl: "https://www-nola-com.cdn.ampproject.org/c/s/www.nola.com/news/education/article_923240fe-fb85-5210-b87f-63006d3f1743.amp.html"
 type: article
-quality: 45
+quality: 47
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg"
@@ -43,6 +44,6 @@ related:
         height: 600
         isCached: true
 
-secured: "EnMJJ3UeEbn/NNOL49tP4fh3yPbzG1/IUsCuGDaXKazO99oSzvNlR42iExzOuRhzUe37MZRoiysU+3O+uHlHlIt2/w7Rz+i+dbliiQ/CjrHyurpTEieCp1cZt/4kbTqC7Ey653r+KNvy9NFcz7rkYvn4Snjr+Y1a4GgpAfGH462CDiB64bWc6JG+49kjoNDAvFwwq7muyEvP0e1toctNmhjfM3Fi1upQIMPx5DSDurSQF7SdgGff13uwP0TXY9scUnn8Bx2gnzFuL9Ngm+Jjs+c0GQ3N9KTNOdQ1rCojf2LwBOm1tUoS05E1fGlIKXoaINpZvDqt+7YQOGHunddAvavN9xM5TpSEmXEfYgzSdP4=;ZNWCRUzT/xLc4IfKdRUmWQ=="
+secured: "BwDRDW9an0qMPVzw+IZYRSeufJTU/XDejadbXhRzPjnGdO1XDzapEmSEC+VnHVlbD7hxCBMWRq/BP4fbgPwXizThnuDk2toMHpacCJfZl8atKHB+qVMtUNNQy1TzUr6xoKNU46U3Ka19z2frdwnz/IWatt2UljtcD6lva6aL5hzydxkOCGp+V5DxjGj5iezB/TawBzpTG9G1UpSpVEyjRVsbBju9aHvxGQdSOJ4vpAETqgg1Z/xkemXe4idWd0v4nItXa/Ref2kKrM5JnJC97d4PZnjTczREYimZI5DPtzgJcQnfts++OI5K63YAuvK65yhFvGfAlP28iHDHyoIKTB3ton3B+0CBFKntSTV/vFULKfv+Pe50HnnbXNYHyacebjQiPp4/xY7vSIePthEeGTL17uEilzT5e9m47GA6vHYAncQ+mIT9WEPIFWs9aU0/r4hO1VjsqdQBp3rEx8qiqevp1ttuFjBR7UWL/mkamzHHESj1RGmym/3+5a1pYPCfI9b2CknaqVChz6HUaUYzDg==;ykW5FZ7Sv7YO5lobuTicDg=="
 ---
 

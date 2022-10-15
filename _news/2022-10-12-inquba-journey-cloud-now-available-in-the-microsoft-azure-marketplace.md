@@ -2,9 +2,9 @@
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
 excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-publishedDateTime: 2022-10-12T13:28:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
+publishedDateTime: 2022-10-12T15:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
 type: article
 quality: 69
 heat: -1
@@ -698,6 +698,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "DoSxfcOsPLsBSy56QX8W+UHQEGzoCZ3VN2UgEGH0nYKEjchi+UQ0WA7jn3A2hoYkUuSORbPrv5uWkYemBSkWaHXzY1axjclCg0ymU5SEPijmjadIK0xSA0mkAEr75Cp7ahKJwxB+6OzrTMkUWhjvBQ2EeEpequcxINMNDzGEeIx5oeLf+dHFUJ6tirJ58FuUIOBkJ+ChHdHnw1n2sl/nbCDB56tEkvh2vzZgPwwWpIKg7mDX8GUWAThF2MGs6R+ZA2XIu1MqtOfUWBG4yi3mkk/K3Yn100HfoPFGYcI2kyDhDjBGQZCnNC9Rw1yVCG/25v86dlSM0lSS/Qmr4lLOPkyCUTnhr4cAKpSc75WyVa0=;EFrdMQztsHBevKgtP02tRg=="
+secured: "kOFdIv9dpGGiaY8NR6yr6R7Q5HyVWEadgKKzkSNdovoC08UFQo/G80cl9o8yQ5gw0026xlDXPF2Y5QwXyjx06oJus5rtXKK3IzUPq7D33jJXGJBltBdGdj0TpeENdxtHIAp1D1WA2J36Xu5s62WUplZ1kEYON8VYN7Rk4mvFMWi1QSFhmrx2RnGrgM5GlC1PR/7RfOlzIuIA2gWhbLKosUJs5X/OBnmJE3T09R88vFRFr8dsVgwrlMtqdAdwHIB3fUlP4N5muDMZfqv4mm5V1MPfZjWRsB0IPDd3ckul9FhLokjfUqpGICyqO82hBHItMg8R4+y21+YSaH6Zbe0G1aEcIQPGWEyTrCQTdA+Sx04=;NY7YINzpvgrYx2v5ngyYzQ=="
 ---
 

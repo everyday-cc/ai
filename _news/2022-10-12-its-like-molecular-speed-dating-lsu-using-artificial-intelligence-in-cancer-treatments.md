@@ -38,7 +38,7 @@ related:
     provider:
       name: NOLA.com
       domain: nola.com
-    quality: 45
+    quality: 47
     images:
       - url: "https://bloximages.newyork1.vip.townnews.com/nola.com/content/tncms/assets/v3/editorial/5/fc/5fc540e3-9765-5462-86ed-1865ed2efa75/63460726c216f.image.jpg"
         width: 600

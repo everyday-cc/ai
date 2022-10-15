@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-f
 webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
 type: article
 quality: 106
-heat: 147
+heat: 146
 published: true
 
 provider:

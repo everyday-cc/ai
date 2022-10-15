@@ -24,17 +24,6 @@ images:
     height: 692
     isCached: true
 
-related:
-  - title: "Bosch Engineering Is Working on Automated Driving in Rail Traffic"
-    excerpt: "Bosch Engineering is working on automated driving in rail traffic, pushing mobility transformation for the railway into the future."
-    publishedDateTime: 2022-10-10T13:39:00Z
-    webUrl: "https://railway-news.com/bosch-engineering-is-working-on-automated-driving-in-rail-traffic/"
-    type: article
-    provider:
-      name: railway-news
-      domain: railway-news.com
-    quality: 19
-
 secured: "nIcwwoJpZNhnP4nJNYU/7q+G8iZIglAQ6nek4RgJl9H3jgGka3fw12mjRIy2OaHGJuyTdhAplwfaM0Ehi2Gus2VXv/YGU1gZZbZTjy7TwGdCC3IrYmr6RV0m+tuP6qwwdt8JDj93vkZmEIKxZj5BQimXAFknp97yLb2YobzNZZ04qGGIhwHrsosGJVqRHW73+wIMG2z+MciZG3XA0lp5TGNDCD8bn7ord2j+MHAhNiiOBzzEZmJRFsIUzwaumRKtSTEetfXVcdBPOi1y07bq+GIQ30gK4z2MBODSOQ7HHjlcE4Mj3XkUqkECpP5UzTWhhWH1FPSnR6pv40GU5Gh5laYSRAO1hVRk339nIrK+5TEtQqV0NIXsW7tUbP5Vln/OEVYjtpSZ/7JRaGmRZRR1jhqq7Q7p/+Iq2465YEc50WFNxryQw1T7L4qYOqBwD4UPG/DGoRsfcUOFqRDhX0adf1efUYB7d0cR9OVq2I+pfGHrP2aC7h5Lx3Z8jkmdXzt0DpCYudNdfyVJT4zZBPsaDQ==;gjXMZnMwFLjhviqQ4JImiw=="
 ---
 
