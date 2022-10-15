@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Sensera Systems Introduces SiteCloud Analytics — End-to-End AI/Computer Vision Solutions for Jobsites"
-excerpt: "SiteCloud Analytics is a unique hardware/software platform and ecosystem that allows deployment of analytics applications at scale. The platform consists of Sensera Systems’ cameras and SiteCloud software,"
+excerpt: "Sensera Systems, Inc., the market leader in all-in-one compact-solar site cameras, today announced the introduction of its SiteCloud AnalyticsTM platform and LaborTrend™ application along with 4 new SiteCloud Analytics partners."
 publishedDateTime: 2022-10-12T16:31:00Z
-originalUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
-webUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
+originalUrl: "https://www.ciodive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
+webUrl: "https://www.ciodive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
 type: article
-quality: 19
-heat: 19
-published: false
 
 provider:
-  name: Construction Dive
-  domain: constructiondive.com
+  name: CIO Dive
+  domain: ciodive.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "dpt2mBvVxefL9mhNeu6VNQqz81DdVDQGM31DQu991ZY7MOJ8a7uFHTq+Z6ZLlJwIiku/3d+V3e622WsXdDlw/QKmn2j5HUHfqA3477TpHs8oo5w52+JU5H6KzS35z8MWuV5jOl7MeeYVpPuiLKsmU7V983tqUzB4/X+l7bl32C+wKSNWjaGoHuEugP8d9tVzLG8Xdwgf14UE2knD6AiiwAEcarmC8rQrKk2/uQhcAeHY8P2Ob4z5vBswftMsWg4jUxSYNmE4iClWvLAD9xtHMopPzW6LMVRiowVGuF90cZ0zq9GFs2E3WqZwLJ4zkHj8ZyeL3pVXTwGojFG7bJMFXT0q4CRaByVZrkL/5S6zu/msTuriUrauvGMqLEFnqFHRKxXdT0vrzdVvSn4BoqNR/bfK60n8r/UPgif/UQZuXftCPTdK9M0TgTnUvYkX+Alui405HXGJtFN/CELH62nftowVhpBpzvXLmPtNkKHN3SITZJT20wIRl+BvtuegdR8jq5ZjA/5ArVNTXB0Rsq2Pkg==;t/1B+O1QDRqlSSROazQbKg=="
+secured: "xpMMCPoypZQx8jlOMKmyJF0ufBiBdgRhLxb9D2cI92iMFSlmOHw0ND1k+8/tfEdHJaO+5ovdToZHLJU1X9SmKDk12PiYybvb6Bd4efyyAyJJ6Jao09Le/2wNMlZZczI5ozE9DGFMCEFny+SElXRFSvynrrNHoQ9F2aWLcl+717ZFIdYPhUES50JFjXv/atYJVhbzDWn6mY2fveumEKOR2xsYJ2YVVQ/jEdW57mwYRm41orpr10VktqrqzRW6iDGlgM0r4ujLHEPCa5aJj856zIxb+1yukIVyFEoCEV6i8U8+2oa5vdh0lK4PioMaTOPOXTlcWzH/42OyVge4/tTkaDNL9/draIYIuBZS56d7EVQXBPauFC1Wr1B+huMsDz9OEcLZiH1i+hHTsuedJC/LLdqhscWQkNtj7ZR9xuRzaCs6nimu9fZVBQOjHOGb+3OQ0a1vCO8odaFGTBlKaCplacRUK4MjH7PFQwuT/NK15X3vqkA7i3GKc74nCej19enY0fo6cEQLcFmAPz3cHXBYMA==;q8HuxbDY1pknC0UQhnT8jA=="
 ---
 
