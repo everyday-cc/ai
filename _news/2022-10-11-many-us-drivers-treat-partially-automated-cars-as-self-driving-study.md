@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Like Texting and Driving: The Human Cost of AI"
-    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
-    publishedDateTime: 2022-10-10T15:08:00Z
-    webUrl: "https://www.medscape.com/viewarticle/982119"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "Gg1DzW018MwDxiPpsAh75guf1qB9e6xLKYtLq6VOv3sL+5W+d4VL5bcxauO/0PXwBSiPiOtFnGxAkzylrENbdUohqWIJ+LjWxsndMDj2ZFAgTj6oZJQod1Kqjx0rsX8kMaEKZUqZq7o3PdcEGUm+bEpWbDDpFMjlsaCn2RnFXgsvCLcc+z7PHVdLjYtTtH3u40KdULdfvHx2pK3mdFQViZkPNFX1KzFOcOAdIvBQFJquCNihtYCe6BBWLQbil9CSmYsuCezz2mvYaxp8KnT3mvIXSth6n/792OfWWcO8xy+2RWj++alYyySh0ZaHzg1WJSw7QkuKCYljUf+dMHjcHlWT+3e91TU7iplhS9Xh2SXWaMXoGfuloZQRBQ/ZQdC4Qk73/kMnt65p5IAtAdY2z+uZHWNe7UftXcTDy7fdE0lxnoQmHd7HNdABzi3zMPbsX9CQ3xc2Fhy/zRxUW2LPXjptpPiz8degMUEfttWPsFPkk9gaHqbxqjSeABxI/mcSk12q6WNholW0UKEgnrziig==;+XdN15mEWdEpXC/lVPyRQg=="
 ---

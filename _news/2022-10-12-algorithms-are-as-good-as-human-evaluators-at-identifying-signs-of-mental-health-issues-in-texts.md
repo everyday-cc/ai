@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI equal to humans in text-message mental health trial"
+    excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care."
+    publishedDateTime: 2022-10-11T21:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
   - title: "AI matches humans at detecting mental health red flags in text messages, study shows."
     excerpt: "The study suggests algorithms have the potential to enable automated tools for clinical support of people with mental illness."
     publishedDateTime: 2022-10-13T16:07:00Z
@@ -38,6 +54,20 @@ related:
       - url: "https://www.medtechdive.com/imgproxy/M2V03jMypuSBkZnijO9LgjvonT29ZPfAwSEl5TgJ50w/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2dldHR5aW1hZ2VzLTEyOTY5MDQ0MDktMTcwNjY3YS5qcGc.jpg"
         width: 509
         height: 339
+        isCached: true
+  - title: "Artificial intelligence tapped as solution to diagnose, treat mental health conditions | Video"
+    excerpt: "Businesses and investors are betting on using artificial intelligence to diagnose and treat mental health conditions. The technology is being tapped as a solution for numerous challenges. Melissa Goh reports."
+    publishedDateTime: 2022-10-11T03:22:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-tapped-solution-diagnose-treat-mental-health-conditions-video-3000341"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 25
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--Agx_vUeS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/1665414131-image.jpg?itok=QIaIWbHx"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "kbHy4yBi5e++GrFJYaQ8nYsYspTNgqGaRJgLL2KZr0rcnKuYEPKKZfA6bsGDnqsR/mKYgpAK5JmkY7tVLRgLeN2CbwT54FVADEY268/64P4mvmJAuW33EL6nVgDGfFIZnvfEYYDDHIEyIc8eYmV/lcg18OFNxZv6QPMv6GemwBQBmYH2JAEOS0kqngUGBnSfPx1Wcx6iB5d7B+pfH1GcbIEosUh/TOjByrT5pmkKQWkNQJ4FQlizQl6h8KlbZCflcPkQZ+19Mlte6fqtyNH/agWgDGtEeH3kL7z3MevGr/4yc5WF+3SdU+o34R08V14KjzalR490xNnX79gvQd2Md/5MoZnLgjjz/lJeNOqorUU=;ZSio7YDBvShnFgZ0KIk/LQ=="

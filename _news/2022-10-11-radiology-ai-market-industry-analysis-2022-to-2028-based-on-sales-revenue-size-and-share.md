@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-indu
 webUrl: "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10"
 type: article
 quality: 73
-heat: 293
+heat: 283
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Text Generator Market: Industry Forecast to 2029| Size 2022, Statistics, Share, Growth Rate, Trends, Regional Analysis by Key Players"
-    excerpt: "Worldwide \"AI Text Generator Market\" 2022-2029 is expected to grow significantly during the forecast period 2021-2027,"
-    publishedDateTime: 2022-10-10T16:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-text-generator-market-industry-forecast-to-2029-size-2022-statistics-share-growth-rate-trends-regional-analysis-by-key-players-2022-10-10"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

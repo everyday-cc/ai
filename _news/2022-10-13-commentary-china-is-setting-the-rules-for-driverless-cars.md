@@ -84,6 +84,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Driverless Vehicles Market Seeking Excellent Growth | Audi, Ford Motor, Google, Daimler"
+    excerpt: "Advance Market Analytics published a new research publication on “Driverless Vehicles Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in presentable ..."
+    publishedDateTime: 2022-10-11T07:33:00Z
+    webUrl: "https://www.digitaljournal.com/pr/driverless-vehicles-market-seeking-excellent-growth-audi-ford-motor-google-daimler"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 46
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/c31181b4c57fbf50845a2a5deb7d3d409d17a6a0-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
     publishedDateTime: 2022-10-15T00:18:00Z

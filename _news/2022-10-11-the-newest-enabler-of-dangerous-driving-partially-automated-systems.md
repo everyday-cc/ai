@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -62,20 +62,6 @@ related:
       - url: "https://th-i.thgim.com/public/incoming/7pvkuv/article65995619.ece/alternates/FREE_1200/2022-10-11T030659Z_2009033551_RC2Q3T90TFBN_RTRMADP_3_USA-DRIVING-AUTONOMOUS.JPG"
         width: 1200
         height: 800
-        isCached: true
-  - title: "Like Texting and Driving: The Human Cost of AI"
-    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
-    publishedDateTime: 2022-10-10T15:08:00Z
-    webUrl: "https://www.medscape.com/viewarticle/982119"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
-        width: 800
-        height: 450
         isCached: true
   - title: "Many U.S. Drivers Treat Partially Automated Cars as Self-Driving - Study"
     excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found. The Insurance Institute for Highway Safety (IIHS),"

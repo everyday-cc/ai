@@ -3,8 +3,8 @@ category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
 excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
 publishedDateTime: 2022-10-12T15:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
 type: article
 quality: 69
 heat: -1
@@ -445,6 +445,20 @@ related:
         width: 375
         height: 250
         isCached: true
+  - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
+    excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
+    publishedDateTime: 2022-10-14T20:42:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards"
+    type: article
+    provider:
+      name: Dark Reading
+      domain: darkreading.com
+    quality: 54
+    images:
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt441ad442689eef67/6349c98656714a6f890cb9f1/azure-tofino-alamy.jpg"
+        width: 7360
+        height: 4134
+        isCached: true
   - title: "Liquid Cloud, Microsoft Collaborate to Deploy Hybrid Cloud Infrastructure in Africa"
     excerpt: "Infrastructure expansion accelerates digital transformation and facilitates a connected African continent Through its Africa Transformation Office (ATO), Microsoft is working with Liquid Cloud to enable businesses with cloud services across Africa."
     publishedDateTime: 2022-10-11T03:20:00Z
@@ -591,20 +605,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Why Microsoft Voice Access is Windows 11’s best feature"
-    excerpt: "The best part about Microsoft Voice Access is that you don’t need to spend a fortune to access it. Earlier this month, Microsoft released the latest version of Windows 11 — the snappily-named Windows 11 22H2."
-    publishedDateTime: 2022-10-10T16:57:00Z
-    webUrl: "https://knowtechie.com/why-microsoft-voice-access-is-windows-11s-best-feature/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 41
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/10/CR-Falcon-Laser-Engraver-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
     excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
     publishedDateTime: 2022-10-11T12:16:00Z
@@ -698,6 +698,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "kOFdIv9dpGGiaY8NR6yr6R7Q5HyVWEadgKKzkSNdovoC08UFQo/G80cl9o8yQ5gw0026xlDXPF2Y5QwXyjx06oJus5rtXKK3IzUPq7D33jJXGJBltBdGdj0TpeENdxtHIAp1D1WA2J36Xu5s62WUplZ1kEYON8VYN7Rk4mvFMWi1QSFhmrx2RnGrgM5GlC1PR/7RfOlzIuIA2gWhbLKosUJs5X/OBnmJE3T09R88vFRFr8dsVgwrlMtqdAdwHIB3fUlP4N5muDMZfqv4mm5V1MPfZjWRsB0IPDd3ckul9FhLokjfUqpGICyqO82hBHItMg8R4+y21+YSaH6Zbe0G1aEcIQPGWEyTrCQTdA+Sx04=;NY7YINzpvgrYx2v5ngyYzQ=="
+secured: "pAZFX8peHOvrZ56PIxA/+CslzLocrvkXMRVPHZ23dM8qkVXUWLqOld7xsx5QFSIWWz01xHiKR0ClxLDlKBivLKA0so5xyhkUDsZsjbos+2tQKPr4pq3wp7J/GQipSbfq+K/mVa4r//jXdsfcTis00/gbvW+Tv65VIVdTaOuUJMw5al1HWRsdb8mqT/IesxJ0nPq7DilGI0A+5sZT8i9nfRut4ecjXA1zyjDWgLzdjQoZabVTg8c6Cs/3nv0eRzHyNucnyE870IQtLtaVUKrKCpPLYv3ZDes5ftwRJVdjEW8Q+8TXUZHvf2DozwTMGB+7wsrT91h/XTD75U3ipgiA0gUClOGAse6pcwCYA9jMnM0=;3vSPSzJEgXLo/xbNQZU5Lg=="
 ---
 

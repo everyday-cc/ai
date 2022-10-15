@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/967994"
 webUrl: "https://www.eurekalert.org/news-releases/967994"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -17,47 +17,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "This AI Uses a Scan of Your Retina to Predict Your Risk of Heart Disease"
-    excerpt: "Heart disease is the number one cause of death among American adults. Conditions like obesity or diabetes increase a person’s risk of developing heart disease, and blood tests or blood pressure measurements can provide a better estimate of how likely someone is to have heart problems."
-    publishedDateTime: 2022-10-10T15:34:00Z
-    webUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/"
-    ampWebUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/10/eye-retina-scan-AI.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Team uses digital cameras, machine learning to predict neurological disease"
-    excerpt: "In an effort to streamline the process of diagnosing patients with multiple sclerosis and Parkinson’s disease, researchers used digital cameras to capture changes in gait – a symptom of these diseases – and developed a machine-learning algorithm that can differentiate those with MS and PD from people without those neurological conditions."
-    publishedDateTime: 2022-10-11T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/967441"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 37
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/faa627cf-9f36-4d2b-abea-5f7311556ac9/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
-  - title: "Team uses digital cameras, machine learning to predict neurological disease"
-    excerpt: "In an effort to streamline the process of diagnosing patients with multiple sclerosis and Parkinson's disease, researchers used digital cameras to capture changes in gait—a symptom of these diseases—and developed a machine-learning algorithm that can differentiate those with MS and PD from people without those neurological conditions."
-    publishedDateTime: 2022-10-11T18:24:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-team-digital-cameras-machine-neurological.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 17
 
 secured: "WxdzRhUygQoAN1khOFIyW02u+FK76JNXItTX54JT9Mircdac1QyI8EoIN2eRiCCWtlCSAsFOyuvH+5EVypHDk6FWEjUtTgXuauWUXLsKU/ibNZG3/DuhsBd1HwAadoElZBTUXkED+88s0yOHhlup55p82IT2GkcxTaUajaXfOI9m3vLtg9cJFf0JSDvqWLA7v6U2kX07mE9jGjmzr38oWLLiCX9YiO9WYBGmvSu+otWmMOf6NaXjpSoZ2Td9Gy3IT6o+wFPZtsR1OOsUCrZEA7xPTwi+ggAKdN5E6VHlwjhhmEvoaWboQUW4dKwwF43YCqgfGg+0EkaGkNhzKqaUldJlkdA14wAf04rWSuEtaNs=;Mxp1kc/PdsLh40spznlcsQ=="
 ---

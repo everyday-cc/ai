@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/967441"
 webUrl: "https://www.eurekalert.org/news-releases/967441"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "This AI Uses a Scan of Your Retina to Predict Your Risk of Heart Disease"
-    excerpt: "Heart disease is the number one cause of death among American adults. Conditions like obesity or diabetes increase a person’s risk of developing heart disease, and blood tests or blood pressure measurements can provide a better estimate of how likely someone is to have heart problems."
-    publishedDateTime: 2022-10-10T15:34:00Z
-    webUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/"
-    ampWebUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 56
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/10/eye-retina-scan-AI.jpg"
-        width: 1068
-        height: 601
-        isCached: true
-  - title: "Project aims to use artificial intelligence to turn health data into predictions"
-    excerpt: "“This grant was initially motivated by work that we were doing with healthcare data — and particularly electronic health records data,” said Honavar. “Think about every time you go to the hospital — let's say, for a routine checkup — the ..."
-    publishedDateTime: 2022-10-13T23:59:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/967994"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 29
   - title: "Team uses digital cameras, machine learning to predict neurological disease"
     excerpt: "In an effort to streamline the process of diagnosing patients with multiple sclerosis and Parkinson's disease, researchers used digital cameras to capture changes in gait—a symptom of these diseases—and developed a machine-learning algorithm that can differentiate those with MS and PD from people without those neurological conditions."
     publishedDateTime: 2022-10-11T18:24:00Z

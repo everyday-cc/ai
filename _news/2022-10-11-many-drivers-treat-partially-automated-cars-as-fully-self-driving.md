@@ -59,20 +59,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Like Texting and Driving: The Human Cost of AI"
-    excerpt: "Enthusiastic presentations on the use of AI in medicine at a recent conference left this cardiologist concerned about the potential loss of human interaction."
-    publishedDateTime: 2022-10-10T15:08:00Z
-    webUrl: "https://www.medscape.com/viewarticle/982119"
-    type: article
-    provider:
-      name: Medscape
-      domain: medscape.com
-    quality: 37
-    images:
-      - url: "https://img.medscape.com/thumbnail_library/dt_221004_3d_ai_robot_800x450.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Many U.S. Drivers Treat Partially Automated Cars as Self-Driving - Study"
     excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found. The Insurance Institute for Highway Safety (IIHS),"
     publishedDateTime: 2022-10-11T04:04:00Z

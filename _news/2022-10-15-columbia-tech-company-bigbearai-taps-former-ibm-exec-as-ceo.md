@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer"
-    excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that the"
-    publishedDateTime: 2022-10-11T20:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
   - title: "Former IBM VP Mandy Long Becomes CEO of BigBear.ai"
     excerpt: "general manager for IBM Watson health provider analytics and chief product and strategy officer, AI for IBM Watson. She previously served as VP of product management at Modernizing Medicine and Experian Health. Amanda “Mandy” Long, most recently vice ..."
     publishedDateTime: 2022-10-12T09:44:00Z
@@ -67,6 +58,15 @@ related:
       name: Seeking Alpha
       domain: seekingalpha.com
     quality: 19
+  - title: "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer"
+    excerpt: "Get 7 Days Free Sign In Sign In Topics"
+    publishedDateTime: 2022-10-11T20:43:00Z
+    webUrl: "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer"
+    type: article
+    provider:
+      name: Morningstar%2c Inc.
+      domain: morningstar.com
+    quality: 17
   - title: "BigBear hires IBM vet as new chief executive"
     excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
     publishedDateTime: 2022-10-11T21:25:00Z

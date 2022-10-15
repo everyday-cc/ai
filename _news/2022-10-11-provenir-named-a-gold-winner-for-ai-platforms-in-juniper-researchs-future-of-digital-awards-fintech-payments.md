@@ -1,18 +1,20 @@
 ---
 category: news
-title: "Provenir Named a Gold Winner for AI Platforms in Juniper Research’s Future of Digital Awards – Fintech & Payments"
-excerpt: "Company’s AI-Powered Decisioning Platform recognized in the “AI Platform” category PARSIPPANY, N.J.--(BUSINESS WIRE)--#AI--Provenir, a global leader in"
-publishedDateTime: 2022-10-11T08:36:00Z
-originalUrl: "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/"
-webUrl: "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/"
+title: "Provenir Named a Gold Winner for AI Platforms in Juniper Research's Future of Digital Awards – Fintech & Payments"
+excerpt: "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the \"AI Platform\" category in Juniper ..."
+publishedDateTime: 2022-10-11T07:26:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec"
+ampWebUrl: "https://www.benzinga.com/amp/content/29210036"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210036"
 type: article
-quality: 0
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
@@ -34,6 +36,6 @@ related:
         height: 768
         isCached: true
 
-secured: "A0Q6UZ9SDRFI54OkWd85cCJIu15AAAW6qFSMV35BSSXsYH4CmTHQd9PaTr8SNqbfytPAhk2aAF10UHGv/0yjac3wjwSXrJMuyWeoOx8r+TWBi+GL6AIWubgwUaH3VO8BBz55Df4YPeV7axDntqsKkNRdoKXvzl0J8FmNiVHlstGwVkIm/XbdjdimHIR0mXTrekmdRgUSsqRAcuavZAP3xzbHSTnRmkAmKTiTtGxWUR8F27iwbGHe+Kc+MQZGax0ffRsCsOseemC+ZlSNGupFsIaKIPvaKmAjDjVRZLlbzrNuRsGxI0KKzV0+zO1zvKwmusEVG8eEnakCtP4ulyPY3XezBZ5M+Ejrmsc5tbXEeZKN+R4divprK5nEqFXXEf6ITICBEEypLCUveOQmaycAe5rZ+YceniGlJU5yshjn0rmcwU9T8J7rYxuIotrTEcoQ3c543LQtB/TZI+WuTJNpmiMyBSoItWJ52k8zoc7EenY9xEMy1AwHuBvnO3vXXibZekOQxme7dcwcghtKpSP+EA==;Eqact8uKpsjef86W40IKaQ=="
+secured: "ObvG4zGvobcb9NsjO64waMGDE5+q47ksgsCGhYpWMUcQTqcQOgmjDpqwuRLVmmS1JdqSFMWmoACHNEoivJzBkEaePPuXC+vPEvL5OU98gXFCV47sEf8Rq84W/xkDZBWwS6v+ejDkpX/Ner/FrzYGKU7uQlLvkL4sE1YjdkRDDdBf68AnP4RQjEUxJ8xdkdqBqbvhXKAQoPMa55X9tlrBQWzxgt23FXhAUfCoWHESECnFlS1SfRmb/Fs1jvs75B62sOunbCXp9aleil2qdSjge+48dYnzWZZv8khzrbVr7cOY51hPa0Fh/j1ASHcS8H0DeGxNRllmrm7bazV54ijbXVOJ8Vs80EUfboF0owrQlI8=;sSbvcQ//JYygfyvrY2ejxg=="
 ---
 

@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg"

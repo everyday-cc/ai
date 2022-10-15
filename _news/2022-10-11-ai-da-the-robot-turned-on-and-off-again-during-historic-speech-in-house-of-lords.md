@@ -97,6 +97,20 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "Ai-Da makes history after becoming the first robot to be grilled by UK's House of Lords"
+    excerpt: "The team behind Ai-Da hopes that the robot will provoke discussions about the future of artificial intelligence and robotics. Ai-Da is the first robot ever to appear before the UK's House of Lords ..."
+    publishedDateTime: 2022-10-12T15:51:00Z
+    webUrl: "https://www.euronews.com/next/2022/10/12/ai-da-makes-history-after-becoming-the-first-robot-to-be-grilled-by-uks-house-of-lords"
+    type: article
+    provider:
+      name: Euronews
+      domain: euronews.com
+    quality: 46
+    images:
+      - url: "https://static.euronews.com/articles/stories/07/10/95/54/1000x563_cmsv2_4676b2aa-aee8-5a43-86d7-107906179ae1-7109554.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "British humanoid Ai-Da becomes the first robot to speak at the House of Lords"
     excerpt: "The robot's capabilities were developed by ... project' to examine the future of creativity amid concerns that artificial intelligence, machine learning and other technological advances could ..."
     publishedDateTime: 2022-10-11T16:01:00Z

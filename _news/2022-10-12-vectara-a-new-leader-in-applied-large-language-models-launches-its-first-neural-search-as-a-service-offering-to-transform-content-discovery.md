@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Neural Search Platform Vectara Launches with $20M Seed"
+    excerpt: "Vectara, a neural network technology platform, has announced $20 million in seed funding and has also released its first product for general availability: a neural search as a service. Many existing search engines are keyword-based and attempt to find the ..."
+    publishedDateTime: 2022-10-12T00:00:00Z
+    webUrl: "https://www.datanami.com/2022/10/12/neural-search-platform-vectara-launches-with-20m-seed/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/search-shutterstock_1180124074.jpg"
+        width: 700
+        height: 397
+        isCached: true
   - title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
     excerpt: "Vectara, the operating platform for neural network technology, launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
     publishedDateTime: 2022-10-12T21:46:00Z

@@ -41,6 +41,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Artificial Intelligence News and Research"
+    excerpt: "Artificial intelligence models that interpret medical images hold the promise to enhance clinicians' ability to make accurate and timely diagnoses, while also lessening workload by allowing busy ..."
+    publishedDateTime: 2022-10-11T00:01:00Z
+    webUrl: "https://www.news-medical.net/?tag=/Artificial-Intelligence"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
+        width: 973
+        height: 514
+        isCached: true
   - title: "Eyeballs and AI power the research into how falsehoods..."
     excerpt: "Using the same technologies that in recent years enable AI to write remarkably like humans, the platform generates summaries of trending topics. An analyst reviews the summaries, weeds out irrelevant items like advertising campaigns,"
     publishedDateTime: 2022-10-13T10:19:00Z

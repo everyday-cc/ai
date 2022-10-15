@@ -24,20 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
-    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
-    publishedDateTime: 2022-10-11T06:39:00Z
-    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+  - title: "Artificial intelligence and robotics"
+    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
+    publishedDateTime: 2022-10-12T09:09:00Z
+    webUrl: "https://www.nature.com/collections/icbbiigbah"
     type: article
     provider:
-      name: finsmes
-      domain: finsmes.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 69
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
-        width: 400
-        height: 400
+      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
+        width: 580
+        height: 326
         isCached: true
+  - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
+    excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
+    publishedDateTime: 2022-10-15T01:30:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2022/10/14/oregon-state-lands-200m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
+  - title: "Designing Edge AI Chips Small And Cool"
+    excerpt: "As a young company with experienced physical designers in AI processors, Hailo set out to transform the AI chip industry by developing the best performing AI processors for edge devices without the need for an external memory. These ultra-low-power ..."
+    publishedDateTime: 2022-10-13T07:03:00Z
+    webUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 34
   - title: "Data analytics and AI set to drive fintech"
     excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
     publishedDateTime: 2022-10-12T10:00:00Z
@@ -56,15 +74,6 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
-  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
-    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
-    publishedDateTime: 2022-10-14T12:25:00Z
-    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 12
 
 secured: "HCS9hDlUwFYyd06bYIeELZrJe9Nds0BVN6+D7Dkti9WB4+twHm1xwR+ulZHUyIAypi1HQTSjTGmfv2+MUsjMzZhyqxxYQcH5jDtVTcGxj+9vES5sZmR3BhZv3Zg5YoG2nGGerbn+7OSLlQL1nowzzyXJY1g8QWRH+hLkH6kWrdNSWTJN3qnGT1E7TWsnUjSLdNizoh0TYP66iumFp4i1GaY+NdyRweRbpRRo80XBJhDxu4kwCmJWrtXtipWU3SnddB9MVcOw1FIDxGPYydyWqKcBzgjbHDLfSUFyNR011JKSl0NSnABFU1ONt0ohDVNbX3NJzbPWSnmAWJ9Qtq1a2WI2oKN/zVewgVqFMA1AsSmQ3Go17ROH1OBiSvp9B4m81ClCXMctW3DUDo8tEKnq8CR15qckdmhFRfJCIRAn5VGON5uuncMm4/9GDSnZb/MAbyws3fr2UP6NLyN2eidlwGqLFAO2zZ5ZpLr1Kee+hb19aQMvCQVaDsCSWUR7nGwBWZGPPXn92jZNSd5LTakRqw==;8I70xM57hniy55eQUUOdYQ=="
 ---

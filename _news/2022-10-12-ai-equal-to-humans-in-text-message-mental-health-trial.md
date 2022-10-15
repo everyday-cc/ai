@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Medical Xpress
@@ -27,19 +27,47 @@ images:
     isCached: true
 
 related:
-  - title: "Meeting global mental health needs, with technology's help"
-    excerpt: "The World Health Organization (WHO) estimates that nearly 1 billion people are living with a mental disorder, worldwide. During the global pandemic, the world saw a 25% increase in the prevalence of anxiety and depression. There was even a corresponding spike in searches on Google for mental health resources"
-    publishedDateTime: 2022-10-10T16:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/"
+  - title: "AI matches humans at detecting mental health red flags in text messages, study shows."
+    excerpt: "The study suggests algorithms have the potential to enable automated tools for clinical support of people with mental illness."
+    publishedDateTime: 2022-10-13T16:07:00Z
+    webUrl: "https://www.medtechdive.com/news/ai-matches-humans-at-detecting-mental-health-red-flags-in-text-messages-st/634020/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 74
+      name: medtechdive
+      domain: medtechdive.com
+    quality: 32
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/302-ORG-World_Mental_Health_Day-BW_V4.max-1300x1300.png"
-        width: 1300
-        height: 731
+      - url: "https://www.medtechdive.com/imgproxy/M2V03jMypuSBkZnijO9LgjvonT29ZPfAwSEl5TgJ50w/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL2dldHR5aW1hZ2VzLTEyOTY5MDQ0MDktMTcwNjY3YS5qcGc.jpg"
+        width: 509
+        height: 339
+        isCached: true
+  - title: "Artificial intelligence tapped as solution to diagnose, treat mental health conditions | Video"
+    excerpt: "Businesses and investors are betting on using artificial intelligence to diagnose and treat mental health conditions. The technology is being tapped as a solution for numerous challenges. Melissa Goh reports."
+    publishedDateTime: 2022-10-11T03:22:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/artificial-intelligence-tapped-solution-diagnose-treat-mental-health-conditions-video-3000341"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 25
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--Agx_vUeS--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/10/1665414131-image.jpg?itok=QIaIWbHx"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Algorithms are as good as human evaluators at identifying signs of mental health issues in texts"
+    excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness."
+    publishedDateTime: 2022-10-12T03:53:00Z
+    webUrl: "https://www.news-medical.net/news/20221011/Algorithms-are-as-good-as-human-evaluators-at-identifying-signs-of-mental-health-issues-in-texts.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 11
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Abstract_medicine_background-Hilch-1000_f0a8c263e6e04ed18dfcc5ef27c17907-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "dLA5fBPBJIjgNOJGYIwMluvo6h6HAJLgmFKcNQKdTKTFMqCIWZEQpjvlZc8jPgBzg53/nv02xt0IVvD13rO7PeQD6zoKPwNaFGtNU74Q/SPMixOZcoLjHUNdfVIkaKFqu6OL2qYkU1zxqhCPy9jiHj7P/rXQvQoKTdcoBOFUFM6egiEq2abmOiNPlGJNt1TjIOEcDG0wl86NzqaL1pmV28UxS0l+xGwQijXhSBD1D6j5dE70o6V9b6XIEn+dz0y8nqSMN3ulccBwvBGNBitCPKU0vE69YAbq2oj+b7DefaB3djY1RQrxNLavh2IYfRqyz65OuL71tblWJ49jLLdoQ0g/ZOMGeLXkgCjlAYvgUVQwM9mEmO7I1cEINk1CxO28jtNa/QUXcoOx7/Vq/1LOyQeKrIeuUMSDf3tb3MTBB8SLZpiLzLbdTRg9vdCvBbLAqcnc1Z6gY/Sn4dTjtXKOMsfSLuW20vGPGMOL5oHwDWH/s/dc1rIXPrn8fo/Kf8y+WUbD9Uj9EiVm+WhJ77+6DQ==;atZi33V5eUmRoOzm9l1o4A=="

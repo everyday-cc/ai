@@ -19,20 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
-    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
-    publishedDateTime: 2022-10-11T06:39:00Z
-    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
+  - title: "Artificial intelligence and robotics"
+    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
+    publishedDateTime: 2022-10-12T09:09:00Z
+    webUrl: "https://www.nature.com/collections/icbbiigbah"
     type: article
     provider:
-      name: finsmes
-      domain: finsmes.com
-    quality: 54
+      name: Nature
+      domain: nature.com
+    quality: 69
     images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
-        width: 400
-        height: 400
+      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
+        width: 580
+        height: 326
         isCached: true
+  - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
+    excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
+    publishedDateTime: 2022-10-15T01:30:00Z
+    webUrl: "https://www.bizjournals.com/portland/news/2022/10/14/oregon-state-lands-200m.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 49
   - title: "Reaching the Customers of the Future Using AI and Analytics"
     excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
     publishedDateTime: 2022-10-13T22:59:00Z
@@ -47,6 +56,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Designing Edge AI Chips Small And Cool"
+    excerpt: "As a young company with experienced physical designers in AI processors, Hailo set out to transform the AI chip industry by developing the best performing AI processors for edge devices without the need for an external memory. These ultra-low-power ..."
+    publishedDateTime: 2022-10-13T07:03:00Z
+    webUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 34
   - title: "Data analytics and AI set to drive fintech"
     excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
     publishedDateTime: 2022-10-12T10:00:00Z
@@ -56,15 +74,6 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
-  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
-    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
-    publishedDateTime: 2022-10-14T12:25:00Z
-    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 12
 
 secured: "pC4Wo+6V/EZj0ZX+1ezr+sM8d1vQW2dZt8lDxb/wz4Ix0xO5jyp+/K61f4nSxPhyl1o31XSN2jyQWYlCLHI+QBc7N8/DnCcTenozKUhzuFWKWhThBrNDkvUmt9I8+7UEfX76tSETnZiLM65ExyZm8xWvSakXri+Kqwzk5s2sX+0F6TNc5Ras+5+0tZXOtSX1XhUZ/9DSZ28YxstEhqW1eA+ugUNFigQQ0gVQTbxr9RTv0iT+64ACAVlLcwuJSrZFPJ51nX1naQAlJiemAQY7+qTt2u7UE/ZxaT7qayNIeQJN4aEv3VUvzq4sSiA3eG/prq/hTqgQ/Ud6X7CGJHT8xupmvE+A/z397anvUjdH/xuWqAgW+kvs/YyixqpcprKMKNR/qXRtlJV5rOREtI0ywrpUIuqyc9XuaoMo9VLiLGNWf3RBmwYsGcRUvVPz5frRlqjpAK6nXupwTt6bsPmexAIKyKuJ0IC+lMUY0yZsb+HFICCRHWfaWD6rmmYPrZV4HoItreWor/hE/LwoNwd0Wg==;8GoNpHav1zT+C7qtH6Pq0Q=="
 ---

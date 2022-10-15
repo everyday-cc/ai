@@ -1,22 +1,18 @@
 ---
 category: news
 title: "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer"
-excerpt: "BigBear.ai (NYSE: BBAI), a leader in AI-powered analytics and cyber engineering solutions, today announced that the"
-publishedDateTime: 2022-10-11T20:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer-2022-10-11"
-webUrl: "https://www.marketwatch.com/press-release/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer-2022-10-11"
+excerpt: "Get 7 Days Free Sign In Sign In Topics"
+publishedDateTime: 2022-10-11T20:43:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer"
+webUrl: "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer"
 type: article
-quality: 47
+quality: 17
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - IBM AI
@@ -81,6 +77,6 @@ related:
       domain: washingtontechnology.com
     quality: 4
 
-secured: "AX540mbkgAi3YHPC0KONaZR0dD0AwZSrS0PpQpoXGrP/sSCWWW5zA50FnzHOy3/lExAQeuy9Gu60qGOkqz+mVMkSnmQY3fYU8CcaDf4RvUHS4hWsdc0ccE+QSodJBEkB/o2Dis31nCfzs+cGjK5eZ/WTmHg+wfqMALpfmq/nBFMyHQfdnii5LObFiPJiuScFI4GlckUYQsnUc8AcNv1Nh4SDiygsexIEGvjKUXQHXOISCwcctDCVpUXxOg4m0rhV6W2Iw0X0dAyT70XsQolWLr/NjjFNVq5EDjSqorvjZaUaJs3my3sb0NB9WpUqH5tGAp+QHOUkQqkOoPU2dAT2L1LHBg1HItLxdGjnNp/fTz0=;/FowaiNsC8TRzhBhGvQNLw=="
+secured: "4PPi7cc7qtsGn0WlkuGZLEEuIl7bN4DnCVyZMKxVmSqFqHPdroPONNRK/IkLj2kTTYXAvGxu2eiLh0f+O6vOh2nqmSnwlTjOmNargbQLFmgLYO+5xtVuhBvEhu7oXlkzaK4zHsPUxv5R0Kkf+gBrHtBr0ixJh38kHzkm0ukFJFwcE4djaSQlInU9OexHPR13pJStJ+hYihPQaMBW7f0ya1S+AeriXYBshVitKmiLBC+H9zdDQL1UNA0nM7EK7xATic7SiTzAYWwx39LWwRxr+dOf26LvS+5eCuIVXh6uagA/fQ95Xh8mkyfELE6ekgs4aGYIaE8BHo4fn7EIPJ5mzzI8CCLHE6DO0ROGqUoW/nQ=;Egg0wtR4xP189Ibqcm6gPw=="
 ---
 

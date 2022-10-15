@@ -2,9 +2,9 @@
 category: news
 title: "Meta is using AI to generate videos from just a few words"
 excerpt: "Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt. Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make ..."
-publishedDateTime: 2022-09-29T22:06:00Z
-originalUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
-webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
+publishedDateTime: 2022-09-29T22:07:00Z
+originalUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research"
+webUrl: "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/29/tech/meta-ai-text-to-video-research/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "YfEkb2yPNulWs5fFJ7YGmp6ycxTrUOh5H3uYHA3DNUkerf8/Ev9EubGrUUadYG9/6ebhGQOr7YVH41CoF8cjRmem5AXa3wZwtueDcUojgGE3f82BtcBWpeLzPkJaXUoGyGojTrXswh+TQ22rj6PA8aihEMToEg7wp5KNTZZnSJTp9kZwPT9qpNEybyLet9WLpUr88rejzUHaj3/qr1LjfGfcac6SkdzRob4SDiwNewA/vV2fH+rZ7V7XGkXkFjhIBtwAIFkkUzgGX+L5UOFip23+uJIpQokDmG3sdaXNrorlnA8QmaQNXuzVdzVlsRyOPjtwehKqZ9T7ExMwISpHh6znrPL7oyZ5K5meNVGuALM=;HldOpPjGn//0uYIJ2ag9qA=="
+secured: "HgID8H7hRWacK4EaXvnb+LrC600rcIakW7dXf6r4+AeVmO1f5r1+tP7kQOfe2NckjBrM6k1P5/FSuC/c8xwuIpI8E9Crx+rkDZ25Zb3FkAtF/zHwnO1FJP/l9RjraDJdyazDuFYujgYretvtBWLAxab4CJHieu7jzRMhPpD5FKHAXwmLdklvnLXXQyNte5zefQLKeHXVmRwIcioGA6XZyoVEGYxn8w0gpcLkytWxdI4OaaJRG7hea+zYz2uWE0H2nwIJCTrldz4Bo+tprMSCqQ//CHnVN/DXjsURvzFJ/O9VqCA08m0gv3IRYHts18TK+V3AmfwSfobPPzLw3bgIbC/fs/6ZD3kmMojLOHE7rhY=;0OpZUDyrgVhsaySGhOtqfw=="
 ---
 

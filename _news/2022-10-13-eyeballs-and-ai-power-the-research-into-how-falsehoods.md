@@ -40,6 +40,20 @@ related:
         width: 480
         height: 270
         isCached: true
+  - title: "Artificial Intelligence News and Research"
+    excerpt: "Artificial intelligence models that interpret medical images hold the promise to enhance clinicians' ability to make accurate and timely diagnoses, while also lessening workload by allowing busy ..."
+    publishedDateTime: 2022-10-11T00:01:00Z
+    webUrl: "https://www.news-medical.net/?tag=/Artificial-Intelligence"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 41
+    images:
+      - url: "https://www.news-medical.net/themes/Standard/images/full_site_logo.png"
+        width: 973
+        height: 514
+        isCached: true
   - title: "Eyeballs and AI power the research into how falsehoods travel online"
     excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
     publishedDateTime: 2022-10-13T09:01:00Z
