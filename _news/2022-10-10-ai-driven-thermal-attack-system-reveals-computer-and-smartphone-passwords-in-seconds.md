@@ -25,17 +25,6 @@ images:
     height: 433
     isCached: true
 
-related:
-  - title: "Thermal Cameras and AI Can Be Used to Crack Passwords, Study Warns"
-    excerpt: "Heat-detecting cameras can help crack passwords up to a minute after typing them, researchers have found, as they warn similar systems could be developed by criminals to break into computers and smartphones."
-    publishedDateTime: 2022-10-10T11:15:00Z
-    webUrl: "https://www.bloomberg.com/news/articles/2022-10-10/heat-from-fingertips-can-be-used-to-crack-passwords-researchers-find"
-    type: article
-    provider:
-      name: Bloomberg L.P.
-      domain: bloomberg.com
-    quality: 47
-
 secured: "mZlfh8J3HxRsZx9dtJYzGy9c5hf6yeYI7t4T3sXBoBiYc9ckfD3RGEd9Itdt6j9w68psJh+QkuERAUv/NBGTkImBqX+bo21jgLnES6gQLT7QDThR8NqiBPuo3CBxAjTSc567+muMjQ5VG9UQ0BjgpoVnySR9wrRlxsTDcIJuwtV7szJunIP3r/iq0ItBhtll1OfM/9gvEybtTheA3SdpVi62yDg08qdZPMvvHPl0Rl9+cTk4eFdwIGNZRo6OwdUm1UQPrX1IYGc+jvsWy+HnoDGw3BHt7JNLFHFckASGSLnk534nPfm3b/gelC+OA2Hlq0mUxmYRdbxMQhAXufx8Z4tAD5Nipi6cT4Smt5HmQqVzdT0VeCzyQY4Na4Z+iW0g+KE/ArZ5PkrXkNn9usPq6Au80M8ij+8YZ3ygCRPh7PzD8GoGu7SRZuZaM4s0MJgUttwGmk7Dzg5FVXTRPB94oo0QpSQNTBbNDjqDjjKmNAapaRjXExtID2Fevf1GI5R/45hZm8zzGkomq78M8xvqJA==;7nz3/e1oLb9zALIU0tznYg=="
 ---
 

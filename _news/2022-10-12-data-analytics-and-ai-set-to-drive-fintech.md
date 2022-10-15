@@ -19,57 +19,52 @@ topics:
   - AI
 
 related:
-  - title: "Report predicts 30% CAGR of AI in fintech market through 2028"
-    excerpt: "According to a new report published by UnivDatos Markets Insights, artificial intelligence in the fintech market is expected to grow at a compound annual growth rate (CAGR) of around 30% from 2022 through 2028."
-    publishedDateTime: 2022-10-12T15:36:00Z
-    webUrl: "https://www.autoremarketing.com/autofinjournal/report-predicts-30-percent-cagr-ai-fintech-market-through-2028"
+  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
+    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
+    publishedDateTime: 2022-10-11T06:39:00Z
+    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
     type: article
     provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 39
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
     images:
-      - url: "https://www.autoremarketing.com/sites/default/files/artificial%20intelligence_12.jpg"
-        width: 877
-        height: 495
+      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
+        width: 400
+        height: 400
         isCached: true
-  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
-    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
-    publishedDateTime: 2022-10-12T16:05:00Z
-    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
+  - title: "Reaching the Customers of the Future Using AI and Analytics"
+    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
+    publishedDateTime: 2022-10-13T22:59:00Z
+    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
     type: article
     provider:
-      name: https//wallstreetrebel.com
-      domain: wallstreetrebel.com
-    quality: 38
+      name: The Information
+      domain: theinformation.com
+    quality: 37
     images:
-      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
-        width: 300
-        height: 204
+      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
-    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
-    publishedDateTime: 2022-10-14T14:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
+  - title: "Using AI to solve human error in data-driven analytics"
+    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
+    publishedDateTime: 2022-10-13T03:56:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
-        width: 1280
-        height: 1071
-        isCached: true
-  - title: "AI In Fintech Market Estimated to Reach Value of Approximately Over US$ 54 Billion from 2022 to 2032"
-    excerpt: "The global artificial intelligence in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
-    publishedDateTime: 2022-10-13T07:54:00Z
-    webUrl: "https://www.fmiblog.com/2022/10/13/ai-in-fintech-market-estimated-to-reach-value-of-approximately-over-us-54-billion-from-2022-to-2032/"
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
+    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
+    publishedDateTime: 2022-10-14T12:25:00Z
+    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 4
+      name: Mint
+      domain: livemint.com
+    quality: 12
 
 secured: "4S6a2WmT5AqrEwAOgrL+8gAG89battXB+4qkMh5GX9cSIG4q0PPQjPgJZ1e/F8OBN1m2bTid3enIi19NHDpjpFmBet43YGffNhFS7N9YGDpkQ0fQsWsUQz853//PjxG1c3BJDH7zOAsLjIX5kloSzHqYBooI93fC9G/RQLn5Zfa3hnpCy5j/s3yyW2SlCRHFBK53Fa8ockFBI9OjYXfnLM6EdJxCk87HrlrDIk0C1S7cP6tI29Ya7vC18iqvo9h3wKJxkE0tFCeI5o/gygrSkRohj8PIk4zZqbzkBugZ9YkEjdo3mtX1y7gMYefdPjtCNxOYH0saxTUbed0l6PMXuFnrgp29WPR1vVuKHrbgcwY=;R7PGgQzcG2x23kEG13SqQQ=="
 ---

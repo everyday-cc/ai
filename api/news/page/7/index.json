@@ -2,6 +2,111 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-06-facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030.md",
+      "title": "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030",
+      "excerpt": "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-06-global-marketing-study-on-machine-learning-stock-2022-2029.md",
+      "title": "Global Marketing study on machine learning stock 2022-2029",
+      "excerpt": "Theglobal \"Machine Learning Stock Market \"2022 research report provides an in-depth analysis of the current trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
       "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
       "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
@@ -1119,83 +1224,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-rbi-plans-to-extensively-use-ai-machine-learning-to-improve-regulatory-supervision.md",
-      "title": "RBI plans to extensively use AI, machine learning to improve regulatory supervision",
-      "excerpt": "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
-      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1649873219_rbi.jpg",
-          "width": 900,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
-      "publishedDateTime": "2022-10-05T01:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Telegraph",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year.md",
-      "title": "New Alzheimer’s drug slows cognitive decline – and may be available as early as next year",
-      "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
-      "originalUrl": "https://theconversation.com/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
-      "publishedDateTime": "2022-10-05T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

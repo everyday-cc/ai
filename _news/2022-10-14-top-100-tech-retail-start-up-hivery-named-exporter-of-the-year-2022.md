@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Top 100 Tech Retail Start-Up, HIVERY, named Exporter of the Year 2022"
-excerpt: "HIVERY, a leader in innovative AI-driven retail assortment strategy simulation & optimization solutions, was announced as a winner of the 2022 Premier's NSW Exporter of the Year in recognition of its innovative retail software that now has clients worldwide."
-publishedDateTime: 2022-10-14T08:14:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/10/14/9692692.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/10/14/9692692.htm"
+excerpt: "HIVERY, a leader in innovative AI-driven retail assortment strategy simulation & optimization solutions, was announced as a winner of the 2022 Premier's NSW Exporter of the"
+publishedDateTime: 2022-10-14T06:54:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29264691/top-100-tech-retail-start-up-hivery-named-exporter-of-the-year-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29264691/top-100-tech-retail-start-up-hivery-named-exporter-of-the-year-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/29264691"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29264691"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1921242/Plan_Hivery_Logo_Stacked_with_Tagline_POS_MONO_Logo.jpg"
-    width: 400
-    height: 334
-    isCached: true
-
-secured: "3KUwGmxmqMxFlIL7f7x6zxYLrAJqyT4T9B5biOKPKHH3dfDEaAVRSIrWlDaEIIaeg6AjmSNVgNJ7CjdqLFXUDNyjTAjCnTqM0+IBZ3Ksm6IIX46VsHT+iDEDqZbOVJizVKOR7dsCmZMPybnzS4lG9PS8MBmxM+mmhjRRcZvG26txyYhU6c5zo9OkrsE+I6G8LavM89m8IAwNlsoxgCOXjdMTe+T48aS7cplpqa1CQCSR/yTC/i4ZYLvu5oQcHdDr2/WUqFkc5sX2m6Q6/41NR8cD4GMYGY+ln4aZ7akuPcmLi1CGO7Srxm3T3FYJvwsZVC0VbU9/VUZb3aJ8kPsaGRWkg1WzL41sv6jm7d3XVpjFPwK7AP+pr3e9Ux4B7uBXPnQP0Xvnq3uNWsTKkIPOL7mVc/NVeEVOe1xxNDn53vB2xStDSddhGzrM9/NIKjW93FC4uAPu4GV4KFmI+G6R4Xzz6ociY9ljtwDK05CyLBXmo00sJU/rXgQefXke82WyId3N/VeT16TJMxrcajK3Zw==;bpfHzkPJP60nqPKaPg86EQ=="
+secured: "T3fntNDtQ6GYQeiV51uinFPUkm5fQrAAt+y2V7dFsMlL6DZrG3yMWXbLZdjgveBl34vKG7PLMdt2UbKfqgr/TAMrNktHHn1t5/ZlN9on/IfUIZizi2N8hkPOFiGflLuoaZ2lZ1vBii0ef4JuM+hCxpCG0H8qfXJ6DdhVUcC1I4WaheS2hrxeNOA2+0bg17V4k6BOgYj7EBfHFhKrVlUj5OwM0dZ1HnnZ5ituPheXdLMzp2Sddlm5wjYXtD5D9gHo1X+QUTf2ExRn3MqqZcYZ+H2hSa9VMpf5vX62ql+WG3Goi9J0VN2pKEhBeQQFJItuv9kFTB+PLkhGOPbDQpkNc0mKnfHm9EaWrlwQpZ7eVyc=;VTFnK5QOqLU7m29QN2+c8A=="
 ---
 

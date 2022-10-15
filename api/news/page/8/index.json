@@ -2,6 +2,83 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-05-rbi-plans-to-extensively-use-ai-machine-learning-to-improve-regulatory-supervision.md",
+      "title": "RBI plans to extensively use AI, machine learning to improve regulatory supervision",
+      "excerpt": "The Reserve Bank is planning to extensively use advanced analytics, artificial intelligence and machine learning to analyse its huge database and improve regulatory supervision on banks and NBFCs. For this purpose,",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "originalUrl": "https://www.telegraphindia.com/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Apr/1649873219_rbi.jpg",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/business/reserve-bank-of-india-plans-to-extensively-use-artificial-intelligence-machine-learning-to-improve-regulatory-supervision/cid/1890307",
+      "publishedDateTime": "2022-10-05T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Telegraph",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-05-new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year.md",
+      "title": "New Alzheimer’s drug slows cognitive decline – and may be available as early as next year",
+      "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
+      "originalUrl": "https://theconversation.com/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/new-alzheimers-drug-slows-cognitive-decline-and-may-be-available-as-early-as-next-year-191627",
+      "publishedDateTime": "2022-10-05T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-indian-fintech-spocto-wants-to-make-it-easier-for-uae-banks-to-lend.md",
       "title": "Indian fintech spocto wants to make it easier for UAE banks to lend",
       "excerpt": "Dubai: Are you having trouble convincing banks to lend? Or offer a bigger credit limit than what banks are willing to extend? An Indian fintech that specialises in credit risk mitigation is ready to help you and the bank meet at the halfway point.",
@@ -1058,82 +1135,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-robots-are-making-french-fries-faster-better-than-humans.md",
-      "title": "Robots are making French fries faster, better than humans",
-      "excerpt": "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "originalUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
-      "publishedDateTime": "2022-10-04T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-sphera-completes-previously-announced-acquisition-of-riskmethods-a-leader-in-artificial-intelligence-supply-chain-risk-management-software.md",
-      "title": "Sphera Completes Previously Announced Acquisition of riskmethods, a Leader in Artificial Intelligence Supply Chain Risk Management Software",
-      "excerpt": "Sphera,  a leading global provider of Environmental, Social and Governance (ESG) performance and risk management software, data and consulting services, has completed its planned acquisition of riskmethods,",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

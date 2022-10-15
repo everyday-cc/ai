@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-h
 webUrl: "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Technological Efficiency Impacts The Competition For Professional Services Talent"
-    excerpt: "Over the course of the last few years swimming against a rising tide of increased regulation, record M&A volume and near constant economic and technological disruption, a record 23.2% of law firm associates say they are leaving their jobs and the accounting firm employee turnover rate is hovering at around 20%."
-    publishedDateTime: 2022-10-10T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f909cb5ee199aa2c8471895/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "AI equal to humans in text-message mental health trial"
     excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care."
     publishedDateTime: 2022-10-11T21:03:00Z

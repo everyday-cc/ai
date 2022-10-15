@@ -2,6 +2,111 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-11-how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals.md",
+      "title": "How a flawed biometrics research project exposed AI ethical issues, singled out LGBTQ+ individuals",
+      "excerpt": "Flaws in a facial recognition dataset that was discovered by researchers highlight just some ways in which biometrics tech can cause harm to LGBTQ+ individuals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "originalUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1164656566-1.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-a-flawed-biometrics-research-project-exposed-ai-ethical-issues-singled-out-lgbtq-individuals/amp/",
+      "publishedDateTime": "2022-10-10T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-meeting-global-mental-health-needs-with-technologys-help.md",
+      "title": "Meeting global mental health needs, with technology's help",
+      "excerpt": "The World Health Organization (WHO) estimates that nearly 1 billion people are living with a mental disorder, worldwide. During the global pandemic, the world saw a 25% increase in the prevalence of anxiety and depression. There was even a corresponding spike in searches on Google for mental health resources",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/",
+      "originalUrl": "https://blog.google/outreach-initiatives/google-org/world-mental-health-day-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/302-ORG-World_Mental_Health_Day-BW_V4.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease.md",
       "title": "This AI Uses a Scan of Your Retina to Predict Your Risk of Heart Disease",
       "excerpt": "Heart disease is the number one cause of death among American adults. Conditions like obesity or diabetes increase a person’s risk of developing heart disease, and blood tests or blood pressure measurements can provide a better estimate of how likely someone is to have heart problems.",
@@ -246,10 +351,10 @@
     {
       "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
       "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
-      "excerpt": "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ...",
+      "excerpt": "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app.",
       "sourceUrl": null,
-      "webUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "originalUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "webUrl": "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "originalUrl": "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -266,13 +371,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "cdnAmpWebUrl": "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "publishedDateTime": "2022-10-10T03:25:00-07:00",
+      "ampWebUrl": "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "cdnAmpWebUrl": "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "publishedDateTime": "2022-10-10T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WAMC",
-        "domain": "wamc.org",
+        "name": "WWNO",
+        "domain": "wwno.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1061,93 +1166,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ncs-robotics-adding-security-robot-capabilities-to-open-rmf.md",
-      "title": "NCS Robotics adding security robot capabilities to Open-RMF",
-      "excerpt": "NCS Robotics is working with Open Robotics to extend the Open-RMF capabilities to support security robot use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
-      "originalUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-ncs-robotics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chip-stocks-crushed-to-two-year-low-as-more-tech-ai-ban-to-china-add-to-woes.md",
-      "title": "Chip stocks crushed to two-year low as more tech, AI ban to China add to woes",
-      "excerpt": "The chip sector melted down Friday for its third ... ambitions as it issued wider restrictions on semiconductor and AI technology that can be sold to the world’s second-largest economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "originalUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

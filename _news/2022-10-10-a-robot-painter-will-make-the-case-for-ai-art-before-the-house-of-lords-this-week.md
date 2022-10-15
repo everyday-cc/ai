@@ -7,7 +7,7 @@ originalUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1
 webUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -23,70 +23,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "AI and Robotics is the future of healthcare sector"
-    excerpt: "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range"
-    publishedDateTime: 2022-10-10T11:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 106
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How AI Is Making Healthcare More Affordable And Accessible"
-    excerpt: "AI is still an emerging technology in healthcare, but it shows incredible potential to make care more affordable and accessible for all patients."
-    publishedDateTime: 2022-10-12T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/12/how-ai-is-making-healthcare-more-affordable-and-accessible/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
-    excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
-    publishedDateTime: 2022-10-11T06:39:00Z
-    webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
-    type: article
-    provider:
-      name: finsmes
-      domain: finsmes.com
-    quality: 54
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/gradient-AI.jpeg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Tap into AI for better healthcare"
-    excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
-    publishedDateTime: 2022-10-11T01:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
 
 secured: "hZVVSL9R7mPJl8GV783asgiXVazn+j50G/Qi3DoauEtfbnSlJVxCqTV3YZK5ZqPcH5NFnFRGyMINPgueafBqjPG3LbomIaKSO7pFMgr1aycj1i6achCLMzCAR1jN01Gf++55rfniipjNmauBLKJIm1Lhrc//J2ppy+LSSf43sShMmkxXPrhG8nlw7xaGFjE2f1kspSoEDcx4BnKT5uhu/5dDKnkuAsaDdNXabD76PBSys7f2+/cLZVkTPw2acUGSgC92Q0im0VljD7FS/rJjGFCJpix6JQdp4yMRjfcV/cjtL9lvwux8GFhWcD6zJqqploMUDIM99ssMjrY1ODr3aiKJxgtDLOyCSxWI+DWr91c=;wGFu0/eBystinpAanbiVlw=="
 ---

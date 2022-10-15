@@ -7,7 +7,7 @@ originalUrl: "https://www.pharmiweb.com/press-release/2022-10-11/artificial-inte
 webUrl: "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,19 +25,6 @@ images:
     height: 448
     isCached: true
 
-related:
-  - title: "Global Artificial Intelligence [AI] in Healthcare Market Size & Share to Surpass $95.65 Billion by 2028: Vantage Market Research"
-    excerpt: "Get Sample Copy of This Report: https://www.vantagemarketresearch.com/artificial-intelligence-in-healthcare-market-1141/request-sample Artificial Intelligence in ..."
-    publishedDateTime: 2022-10-10T11:05:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29198977/global-artificial-intelligence-ai-in-healthcare-market-size-share-to-surpass-95-65-billion-by-2028"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29198977"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29198977"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 40
-
-secured: "BOFhBdpt5xto5mx10GKd4pJfdvcQFAWxvRW9pdMLvdebKckhx1hY+NFDJpSLYIFIELglWCujPhAV4ZrfkmRRKi4obJjt9yVzxGsgQw0Fg+P0f/wnwiomdIza2UQyH0nthc8eYwNjqREdOx14kRyWAYfIBh7fDhcPdI+Z3AZjT0sMRa3YdnBcc2Godi/0DEme0/mHAh24lyqoh+IXZcpB4MwQCdDMOntc28RrSQfaefn/9HwqtT5qbuRnZeEL+eT31tkshUlAC61LeSAyu0/T84Pbd+TcB6aypC1Od6+hQl6PrQyFw+EYzQUl/it2D2x0SXZWaersGkz7vWP4uFiJINw80JgrelPp7Djj1+70fOI=;I7gan/sojVi4QSjgxwNp2A=="
+secured: "1NF7nymDlCBTKiL3DHvpxavBDOWx/df6+k96uLYUhh5H7ZimGV5MIIXEaiTrazZUyyC1u226v7ZAdV3qR+Qkj604SZM3Vs+8c8ceR648ceszCyB/PyoQ0EzeZBwqElmItr3AhHZFS6p87UaEjrI0136IwpP5iQ9wkmgTGEm5aaAxJzjkRcgkA6dFFEsXWYVU1eGspDURM/9yucIU+ugbheM97quf7uouSdrYHyk9uCK8O8FcCjqUAfCFZw43enbdoFRn15C2ylbY08Wn8LT1tldcrWRlqPQON3syz6nfoFFnzkf22NYHLQKjCKOjnEGEARMOLyWyxNZ/PPQzKzrCaQulNOjQJOu3pXNME+ELMF8=;9exZ/YasSpqdCf5vxCllTg=="
 ---
 

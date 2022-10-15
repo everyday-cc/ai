@@ -7,8 +7,8 @@ originalUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analyt
 webUrl: "https://www.finsmes.com/2022/10/gradient-ai-buys-healthcare-analytics-business-unit-from-prognos-health.html"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: finsmes
@@ -25,45 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI and Robotics is the future of healthcare sector"
-    excerpt: "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range"
-    publishedDateTime: 2022-10-10T11:36:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 106
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "How AI Is Making Healthcare More Affordable And Accessible"
-    excerpt: "AI is still an emerging technology in healthcare, but it shows incredible potential to make care more affordable and accessible for all patients."
-    publishedDateTime: 2022-10-12T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/12/how-ai-is-making-healthcare-more-affordable-and-accessible/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 64
-  - title: "A robot painter will make the case for AI art before the House of Lords this week"
-    excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
-    publishedDateTime: 2022-10-10T15:51:00Z
-    webUrl: "https://www.standard.co.uk/tech/robot-painter-ai-house-of-lords-b1031610.html"
-    type: article
-    provider:
-      name: London Evening Standard
-      domain: standard.co.uk
-    quality: 49
-    images:
-      - url: "https://static.standard.co.uk/2021/10/21/12/ARTS%20Robot%20%2010442308.jpg?width=1200&width=1200&auto=webp&quality=75"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Reaching the Customers of the Future Using AI and Analytics"
     excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
     publishedDateTime: 2022-10-13T22:59:00Z
@@ -78,15 +39,33 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Tap into AI for better healthcare"
-    excerpt: "Artificial Intelligence can be used to reshape how our hospitals and clinics respond to our healthcare needs with faster and more accurate solutions."
-    publishedDateTime: 2022-10-11T01:50:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/opinion/2022/10/11/tap-into-ai-for-better-healthcare/"
+  - title: "Data analytics and AI set to drive fintech"
+    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
+    publishedDateTime: 2022-10-12T10:00:00Z
+    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 34
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
+  - title: "Using AI to solve human error in data-driven analytics"
+    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
+    publishedDateTime: 2022-10-13T03:56:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
+    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
+    publishedDateTime: 2022-10-14T12:25:00Z
+    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 12
 
 secured: "sh9wPrEB0swCo0vispIr3OfliAg23kq9F1v6/OakyhARL5GU0yBXQNiTajRfjnx6jMwdBxVftOAMQhHJgxV9w0dWRiLoPa6sLfAikka1lGYPvZLzugjmEIHtDzpRxSTZNJtwrE5Je0Rc1BDsFZtUvUgCudxXuEi8cx+NGVbrcgvnuUW0wBbMgij0l+T1y6fA2P9qCJZNTGMqy6McPE46aKtgbZAvggAFoDQJ3jK74/pVXQ2u4NjBGV2UMNRPG1IdaPmboEUhUevEuuDarhaEwjbVSETBYaQf8TKNbR6NjstKos8xWhB3Cw2z4eL7tx4BaZBN0ZZmpd7XOI90WqknW5XjwZBYvZOz33obNBFGNKo=;ZuCPStdcVwPgEMQyvs9qtA=="
 ---

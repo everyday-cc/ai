@@ -2,6 +2,112 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
+      "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
+      "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633f386b1d939b4e05d66336/0x0.jpg?format=jpg&width=1200",
+          "width": 1170,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/10/06/the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon/amp/",
+      "publishedDateTime": "2022-10-06T13:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-the-white-house-unveils-a-bill-of-rights-for-artificial-intelligence.md",
+      "title": "The White House unveils a \"Bill of Rights\" for artificial intelligence",
+      "excerpt": "It would be a massive understatement to say artificial intelligence has affected our lives. Whether that's a positive or negative is entirely up to you. Virtual",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
+      "originalUrl": "https://www.techspot.com/news/96232-white-house-unveils-bill-rights-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-06-image-19.jpg",
+          "width": 1880,
+          "height": 1258,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T13:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
       "title": "This AI-powered, deep learning firefighter helmet could help save lives",
       "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
@@ -1107,111 +1213,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030.md",
-      "title": "Facial Recognition Market Size [2022-2030] Exhibits CAGR to Reach USD Million by 2030",
-      "excerpt": "The Facial Recognition market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-size-2022-2030-exhibits-cagr-to-reach-usd-million-by-2030-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T22:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-global-marketing-study-on-machine-learning-stock-2022-2029.md",
-      "title": "Global Marketing study on machine learning stock 2022-2029",
-      "excerpt": "Theglobal \"Machine Learning Stock Market \"2022 research report provides an in-depth analysis of the current trends,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-marketing-study-on-machine-learning-stock-2022-2029-2022-10-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

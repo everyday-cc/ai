@@ -41,22 +41,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "How Technological Efficiency Impacts The Competition For Professional Services Talent"
-    excerpt: "Over the course of the last few years swimming against a rising tide of increased regulation, record M&A volume and near constant economic and technological disruption, a record 23.2% of law firm associates say they are leaving their jobs and the accounting firm employee turnover rate is hovering at around 20%."
-    publishedDateTime: 2022-10-10T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/how-technological-efficiency-impacts-the-competition-for-professional-services-talent/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/5f909cb5ee199aa2c8471895/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "dLA5fBPBJIjgNOJGYIwMluvo6h6HAJLgmFKcNQKdTKTFMqCIWZEQpjvlZc8jPgBzg53/nv02xt0IVvD13rO7PeQD6zoKPwNaFGtNU74Q/SPMixOZcoLjHUNdfVIkaKFqu6OL2qYkU1zxqhCPy9jiHj7P/rXQvQoKTdcoBOFUFM6egiEq2abmOiNPlGJNt1TjIOEcDG0wl86NzqaL1pmV28UxS0l+xGwQijXhSBD1D6j5dE70o6V9b6XIEn+dz0y8nqSMN3ulccBwvBGNBitCPKU0vE69YAbq2oj+b7DefaB3djY1RQrxNLavh2IYfRqyz65OuL71tblWJ49jLLdoQ0g/ZOMGeLXkgCjlAYvgUVQwM9mEmO7I1cEINk1CxO28jtNa/QUXcoOx7/Vq/1LOyQeKrIeuUMSDf3tb3MTBB8SLZpiLzLbdTRg9vdCvBbLAqcnc1Z6gY/Sn4dTjtXKOMsfSLuW20vGPGMOL5oHwDWH/s/dc1rIXPrn8fo/Kf8y+WUbD9Uj9EiVm+WhJ77+6DQ==;atZi33V5eUmRoOzm9l1o4A=="
 ---

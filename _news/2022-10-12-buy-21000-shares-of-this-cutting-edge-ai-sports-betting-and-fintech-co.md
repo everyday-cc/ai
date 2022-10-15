@@ -53,15 +53,6 @@ related:
         width: 1280
         height: 1071
         isCached: true
-  - title: "Data analytics and AI set to drive fintech"
-    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
-    publishedDateTime: 2022-10-12T10:00:00Z
-    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
   - title: "AI In Fintech Market Estimated to Reach Value of Approximately Over US$ 54 Billion from 2022 to 2032"
     excerpt: "The global artificial intelligence in fintech market is estimated at US$ 10.1 Billion in 2021 and is projected to procure US$ 11.76 Billion by 2022m according to a report published by ESOMAR-certified Future Market Insights."
     publishedDateTime: 2022-10-13T07:54:00Z

@@ -2,6 +2,82 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-04-robots-are-making-french-fries-faster-better-than-humans.md",
+      "title": "Robots are making French fries faster, better than humans",
+      "excerpt": "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "originalUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "publishedDateTime": "2022-10-04T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-sphera-completes-previously-announced-acquisition-of-riskmethods-a-leader-in-artificial-intelligence-supply-chain-risk-management-software.md",
+      "title": "Sphera Completes Previously Announced Acquisition of riskmethods, a Leader in Artificial Intelligence Supply Chain Risk Management Software",
+      "excerpt": "Sphera,  a leading global provider of Environmental, Social and Governance (ESG) performance and risk management software, data and consulting services, has completed its planned acquisition of riskmethods,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
@@ -1055,92 +1131,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-protester-injured-by-salem-police-awarded-1m-in-lawsuit.md",
-      "title": "Protester injured by Salem police awarded $1M in lawsuit",
-      "excerpt": "A jury has awarded a 2020 protester more than $1 million in a lawsuit she filed against the city of Salem accusing officers of violating her civil rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kansascity.com/news/politics-government/national-politics/article266770231.html",
-      "originalUrl": "https://www.kansascity.com/news/politics-government/national-politics/article266770231.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.kansascity.com/news/politics-government/national-politics/article266770231.html",
-      "cdnAmpWebUrl": "https://amp-kansascity-com.cdn.ampproject.org/c/s/amp.kansascity.com/news/politics-government/national-politics/article266770231.html",
-      "publishedDateTime": "2022-10-03T13:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kansas City Star",
-        "domain": "kansascity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-the-importance-of-monitoring-machine-learning-models.md",
-      "title": "The importance of monitoring machine learning models",
-      "excerpt": "The life-cycle management of machine learning models is more complex than software. Andy Dang, cofounder and head of engineering at WhyLabs, explains, “Model development life cycle resembles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/10/14/istock-808157650-100928963-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "publishedDateTime": "2022-10-03T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -61,15 +61,6 @@ related:
         width: 1280
         height: 1071
         isCached: true
-  - title: "Data analytics and AI set to drive fintech"
-    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
-    publishedDateTime: 2022-10-12T10:00:00Z
-    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
 
 secured: "pctWOJr12ljrTtPFox4mmDJ/LaImSAW08z3Ju8B4wm1Ob4VscgCumMQRKs0WaS5xn2YukDkxIMjN/THQhhtbDQv4tWcZ0XsNUU4KOMbwyW4JiaK+WYhnybsoVa2XUeMbNMbuGnpLOpt7FO8tsNNrM9GFLGHAYSLQtIihvuKxcRlgzpAx5mYiGy09ReLDmczZkGKiq7WiFiugMuHhnWYxR0nNX3GPdqQKgSA1gDJlZtUkswRh9IA9FWZm5OyKWcIEcqgdV7u7126nEE1Ak7ovLu5qkITThu9kHVg+jh8xT+FfEtOD3SA2AbGyAO+rbYp10unxojMcGbRpQhyXgAJtxNcWcsl52fCIxHTeAkXq4B0=;pRzdQaVCbMW36w3kompueg=="
 ---
