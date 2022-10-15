@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "GumGum"
   url: "https://twitter.com/GumGum"
-  followers: 3597
+  followers: 3598
 
 size: 201-500 employees
 yearFounded: 2007
