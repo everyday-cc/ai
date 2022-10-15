@@ -50,20 +50,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 64
-  - title: "How Rwanda Is Using Artificial Intelligence to Improve Healthcare"
-    excerpt: "Viebeg Technologies, a venture capital-backed Health Tech company, is helping to expand access to affordable health care in Central and East Africa by aiding healthcare facilities in procuring supplies in real-time."
-    publishedDateTime: 2022-10-10T10:57:00Z
-    webUrl: "https://allafrica.com/view/group/main/main/id/00083630.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 54
-    images:
-      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:7f9cc6a1e1de7cb8246b8a4bade7c8ba:arc614x376:w1200.jpg"
-        width: 1008
-        height: 617
-        isCached: true
   - title: "A robot painter will make the case for AI art before the House of Lords this week"
     excerpt: "The human-looking Ai-Da is the latest example of technology butting its way into artistic fields human-looking robot painter that composed a painting of the late Queen Elizabeth II will appear in front of the House of Lords this week,"
     publishedDateTime: 2022-10-10T15:51:00Z

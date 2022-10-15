@@ -70,6 +70,20 @@ related:
       name: NHK
       domain: nhk.or.jp
     quality: 24
+  - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
+    excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
+    publishedDateTime: 2022-10-14T19:13:00Z
+    webUrl: "https://insideautonomousvehicles.com/faction-and-gocar-partner-for-self-driving-tourist-cars/"
+    type: article
+    provider:
+      name: insideautonomousvehicles
+      domain: insideautonomousvehicles.com
+    quality: 24
+    images:
+      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/10/Faction.png"
+        width: 600
+        height: 453
+        isCached: true
   - title: "Googly eyes on self-driving cars reduce accidents, study claims"
     excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
     publishedDateTime: 2022-10-13T11:55:00Z

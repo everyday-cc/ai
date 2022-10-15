@@ -39,20 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "How Rwanda Is Using Artificial Intelligence to Improve Healthcare"
-    excerpt: "Viebeg Technologies, a venture capital-backed Health Tech company, is helping to expand access to affordable health care in Central and East Africa by aiding healthcare facilities in procuring supplies in real-time."
-    publishedDateTime: 2022-10-10T10:57:00Z
-    webUrl: "https://allafrica.com/view/group/main/main/id/00083630.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 54
-    images:
-      - url: "https://cdn08.allafrica.com/download/pic/main/main/csiid/00611627:7f9cc6a1e1de7cb8246b8a4bade7c8ba:arc614x376:w1200.jpg"
-        width: 1008
-        height: 617
-        isCached: true
   - title: "Gradient AI Buys Healthcare Analytics Business Unit from Prognos Health"
     excerpt: "Gradient AI, a Phoenix, PA-based enterprise software provider of artificial intelligence (AI) solutions in the insurance industry, acquired Prognos Health's analytics business underwriting unit"
     publishedDateTime: 2022-10-11T06:39:00Z

@@ -78,6 +78,20 @@ related:
       name: NHK
       domain: nhk.or.jp
     quality: 24
+  - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
+    excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
+    publishedDateTime: 2022-10-14T19:13:00Z
+    webUrl: "https://insideautonomousvehicles.com/faction-and-gocar-partner-for-self-driving-tourist-cars/"
+    type: article
+    provider:
+      name: insideautonomousvehicles
+      domain: insideautonomousvehicles.com
+    quality: 24
+    images:
+      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/10/Faction.png"
+        width: 600
+        height: 453
+        isCached: true
   - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
     excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
     publishedDateTime: 2022-10-12T21:17:00Z

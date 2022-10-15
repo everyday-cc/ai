@@ -2,19 +2,19 @@
 category: news
 title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
 excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-publishedDateTime: 2022-10-11T22:02:00Z
-originalUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
-webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
-ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
-cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
+publishedDateTime: 2022-10-11T23:02:00Z
+originalUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
+webUrl: "https://www.miamiherald.com/news/nation-world/national/article267180096.html"
+ampWebUrl: "https://amp.miamiherald.com/news/nation-world/national/article267180096.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/nation-world/national/article267180096.html"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Sacramento Bee
-  domain: sacbee.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI in Autos
@@ -92,7 +92,32 @@ related:
       name: Hackaday
       domain: hackaday.com
     quality: 45
+  - title: "Many U.S. drivers treat partially automated cars as self-driving"
+    excerpt: "Users of Super Cruise, ProPILOT and Autopilot more likely to perform non-driving-related activities while driving unassisted Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings,"
+    publishedDateTime: 2022-10-11T15:22:00Z
+    webUrl: "https://driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving"
+    ampWebUrl: "https://driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving/wcm/bbaf7451-b998-4727-b554-c05b9af0442f/amp/"
+    cdnAmpWebUrl: "https://driving-ca.cdn.ampproject.org/c/s/driving.ca/features/safety/many-u-s-drivers-treat-partially-automated-cars-as-self-driving/wcm/bbaf7451-b998-4727-b554-c05b9af0442f/amp/"
+    type: article
+    provider:
+      name: blogs.driving.ca
+      domain: driving.ca
+    quality: 44
+    images:
+      - url: "https://smartcdn.gprod.postmedia.digital/driving/wp-content/uploads/2021/06/692834446.jpg"
+        width: 1800
+        height: 1200
+        isCached: true
+  - title: "Many U.S. drivers treat partially automated cars as self-driving -study"
+    excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found."
+    publishedDateTime: 2022-10-11T18:05:00Z
+    webUrl: "https://www.reuters.com/technology/many-us-drivers-treat-partially-automated-cars-self-driving-study-2022-10-11/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 34
 
-secured: "HuGvCy76na1owl5yfVHSptF3d2wLsny9y5OzGnegfpFofHz85DvVVOUy8HqN8fevEJ1dxDasEm7ENXIxJpkuEFqzB31JSQWyRCzOktYSReI9a8ClQe7KCsW5p3HVrViJMUzLQfY+vx+DBMPAEMVvG9W9aUwVasyaiR1EtMiKKkYaEOjDxLOjwfwzVDvgAfYt/ka++2GrELdYM19zcSLytc9ki5UXhYtvVEIzveP6GLb5+98ktRkSOXeVsBSAVPson1JRlNZCm+/oVCnaUcYjKo6LzVSgBHLtI/VX1oLwSV8bGPTkuEWVDvEZxrFc5Gtps2XygVeSDJYVc5N+/MTG7eaVZW+xD+udNdMdXaAsO4syU7EWFLsbbHJsDTJKhp/zXfbvtMQVfbmCkm1q8xF8WYosDq7tzZoaVnQUIEHnvI4mt9XUKlDs0hkV1lUC1NKSOoEyiImiapKT6jEWQgiA/heyLFtmmVlIYOt7enNw9K6GCnRa5eIUEsHKSN7IQg1gEr+FLgE4PTFlNMAXDT2Yvg==;3UQC4mFfnf8Fl5fM2GbOdw=="
+secured: "jqIFoR5O7lYvi0W1PNIfIrtgs11D6hTZh1PAm6Xapr6qU0qMYSCNDiVf0ExHAPu20aYtAqqLR0qZG0ZFnvcReSfp2lFxN5bBwvEoOXBa0pDFz7dbftTJEA6MkFjyGhpNhA44pHG6CSCDxfTWZCNyDrtXXsvvRnZrGXKkYs54d+Ct02l2VYEEVaKN6FEjO1NUFYh+ak9cm/57Sm43YjkNu3vkTiOS2xLvUiV1ivynGmJeQs9Cfd3Ene4IzCwtw+wwXIXKMnU1AYuhtoWkdRjX57sInv9tbLaowLbTKa7g6B4ObgIivjkVUZNynbyiEdNk4WUJtAqxkX89s5aYbsikb3YFOvT4SJdrkE1aUyJgWPYGXK9dlQniOrbbHFT7x6eMLvgzclD8f+GDtVpqiN9v4qlFulNJauz3iTtgsS/G9AYQkP/WApoA6QHt5GyX6eu+q3mWDn+jT4FZhIpFFvq8kjDaOftU73rwa/t/HSuqCsdN4FuYEUL5wIAtZaaAUV8nWx+bJ9TISnq1/SoFeXwYcw==;AIYqqTEbpYks6bc/nAcniw=="
 ---
 

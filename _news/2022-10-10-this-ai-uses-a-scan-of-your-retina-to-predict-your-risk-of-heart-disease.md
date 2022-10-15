@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-re
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/10/this-ai-uses-a-scan-of-your-retina-to-predict-your-risk-of-heart-disease/?amp=1"
 type: article
 quality: 56
-heat: 76
+heat: 86
 published: true
 
 provider:
@@ -40,6 +40,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Project aims to use artificial intelligence to turn health data into predictions"
+    excerpt: "“This grant was initially motivated by work that we were doing with healthcare data — and particularly electronic health records data,” said Honavar. “Think about every time you go to the hospital — let's say, for a routine checkup — the ..."
+    publishedDateTime: 2022-10-13T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/967994"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
   - title: "Team uses digital cameras, machine learning to predict neurological disease"
     excerpt: "In an effort to streamline the process of diagnosing patients with multiple sclerosis and Parkinson's disease, researchers used digital cameras to capture changes in gait—a symptom of these diseases—and developed a machine-learning algorithm that can differentiate those with MS and PD from people without those neurological conditions."
     publishedDateTime: 2022-10-11T18:24:00Z

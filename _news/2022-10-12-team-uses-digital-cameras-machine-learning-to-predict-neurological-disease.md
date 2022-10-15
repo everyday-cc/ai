@@ -49,6 +49,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Project aims to use artificial intelligence to turn health data into predictions"
+    excerpt: "“This grant was initially motivated by work that we were doing with healthcare data — and particularly electronic health records data,” said Honavar. “Think about every time you go to the hospital — let's say, for a routine checkup — the ..."
+    publishedDateTime: 2022-10-13T23:59:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/967994"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 29
 
 secured: "6jSwmSznN4VYqkZrbv+RxnnNa5ndXTmS5PMNul4x9gg+hfy+rLctcvQmrkDtBl//QkSEz19iG+FmnACET6s6PCaFCK1pQmtBh/DJyXi7R9oTgWmM8TyfwTL5aCkfb4uBJSJWnPOuBvj+/ZSDOkKCIpnquikYMn+Qk7YCJkAc1LwWImPRZKfKeUH2xVmMT0TsYz3SRgrrCch+gprK1G518r4azwMpxF3/PgdWn9Uuel/9r6cs3xagNDElw+lWx7YBY/4VIKVb6cwHYvC4zylHHFZb58CS1J/6aXAgt/vTai2lkS1gW5ylGovEse1IzZEoBGWa10AqsCytVyyd+ouEHQeqPOwTu7UkTKENFDjCaRFw0zhuFwhw6kHb21gOSNXFuQpO3McUaX7dQwq1CNrNJQDedjgoxVFw9+xwXK//ezkICczh+RVs1pp2zYvxzYKM85r1XGGSv2ZNXT1rk4rffOjfHmj9WboxxuLae7uT4SRZIy4Nn6CwncDdWf8r4uO+5suB9YaLEinBhoLHuSG4sg==;GGj5/Fr02a11DgP0m/DL6A=="
 ---

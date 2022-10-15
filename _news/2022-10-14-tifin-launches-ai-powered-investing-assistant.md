@@ -36,18 +36,18 @@ related:
         height: 450
         isCached: true
   - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when… | London | Technology |"
-    publishedDateTime: 2022-10-12T09:03:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
+    publishedDateTime: 2022-10-12T09:00:00Z
+    webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
+      name: realwire
+      domain: realwire.com
     quality: 44
     images:
-      - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
-        width: 1200
-        height: 627
+      - url: "https://www.realwire.com/twitter_writeitfiles/Mindtech_Logo.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "ciHAQgs1f5cilhKPxx4247/6dsMa+oHPRRplwZvVvLisVZ353FZ0WGH9Duetkg8AyyXYzxbKxhMXrbudzwNN4FTOfmpLHuah4RIX40wAxUPz+F+yp4aYK9tj8wn1Llv5TrMDR7KE25D5bcx41QOYm2XGge9kTU3s3W4DRMR4StbXiY3QqekWUbFL6vS0GnY4Rq7fJiwMVfGptdR4U/jk+mv98pEbk+1+l+R0AtcKDkODhelhvzASv8dUnHNxuiRlAbLfhM97rUEzun0lcj2ahcg4xmyUqPZERyRmMV+QkbAzPA+URIfwA/tGB+qB/aqsqZtl7WElwnoxJZshffanXDkQ/p11OdJCWGrR+XfPOGE=;jGCjWZLySM9HiHW/9Irhkw=="
