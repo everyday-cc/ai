@@ -1,25 +1,20 @@
 ---
 category: news
 title: "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit"
-excerpt: "First-of-its-kind capability allows users to robotically insert and steer instruments using the XACT ACE® Robotic System directly from the control room XACT Robotics®, developer of the world's ..."
-publishedDateTime: 2022-10-11T17:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit"
-ampWebUrl: "https://www.benzinga.com/amp/content/29223030"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29223030"
+excerpt: "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ..."
+publishedDateTime: 2022-10-11T17:08:00Z
+originalUrl: "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html"
+webUrl: "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html"
 type: article
-quality: 51
-heat: 51
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "QZBPkiELbuDpcMmu/mibWMNkXdyoR0I3fBUp9XCkfb1J0CSFihRSZZzU9EUD817ut2qTr6hDFyWp5DpDGqdLljD9vosrcOXo/H5ZFbiRIGd6bfNY0VfQC2NhSZH1vXkjLSRfoFWzxgoX6CUbuUxg7PRYYBRvfUBWZAqlQ/zEC1rAh50H4cyasxgamoIQAwMVNnl0+p9kvqhCup6jfrbaQMOoewPfpJWEVRy/hf/mwKdAzKmRE1ne6uZ5X4lSe+dza5V4bvpTWjWAlg6yhGOO10Nfn3kkrKsFUM4xg4hGfz1EYtfxiMT5jLrW0NwHvB7yHDsW3CgyXIzManwsVGM0GBFQR8WZVPLrB3xfF3yk/6E=;0WTH9l7hTYpNXATWKWdqqA=="
+secured: "bVa4OD7qDFOlKWkvuED/6gQDQ+kZJ2dwowQ/rglskUp6MyPBv4Z6zCHf/QgoJfgA33N+Wf9CILh4NfpwBESP5yzM18vkx5X26O9Dv3MiTynUF3H7UoZcN7Mn0mMxo0CSnoklkstfBKwQ2LotPaRArtMXcATG6P/1+GkQDDZ1enVy+Q58ODZqsMG23wv9pcP1lNkld46MZkrnW21EpGkqvkdIZuYkZVtWWXCpDaEP5donKLCXY4AoA4W40lgraTF8XiNAdB7QDZX6IdaMLP3PnFujY+ZkX1MDXep9IBW6oKdcBZo2aus/o1SHOaoB4gK6mIMR6Ly2AJd3Hz+PbwW37GgJDegC4SK0NzHNZxHyTXQ=;MgbosluSDmlp9okJ5/J1ww=="
 ---
 
