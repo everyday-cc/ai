@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
+      "title": "Here's Why Machine Learning Benefits Biz Developers",
+      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "publishedDateTime": "2022-10-13T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-tatio-ai-based-work-simulations-help-diverse-job-seekers-showcase-their-skills.md",
       "title": "TaTio AI-based work simulations help diverse job seekers showcase their skills",
       "excerpt": "TaTio, an Israeli startup, helps companies source job candidates from historically underrepresented groups using AI-based work simulations.",
@@ -849,7 +901,7 @@
       "originalUrl": "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 184,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -953,7 +1005,7 @@
       "originalUrl": "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275",
       "featuredContent": null,
       "highlight": null,
-      "heat": 135,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -1004,7 +1056,7 @@
       "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 579,
+      "heat": 569,
       "tags": null,
       "images": [
         {
@@ -1200,57 +1252,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-57m.md",
-      "title": "Continue AI aims to add ESG intelligence to sustainability, lands $5.7M",
-      "excerpt": "Continue AI today announced $5.7 million in seed funding to provide ESG intelligence for companies to create meaningful change.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "originalUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354356302-Fritz-Jorgensen-e1665583446575.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
-      "publishedDateTime": "2022-10-12T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

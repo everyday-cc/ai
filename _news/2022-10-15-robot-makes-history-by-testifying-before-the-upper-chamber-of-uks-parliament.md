@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kalw.org/2022-10-14/robot-makes-history-by-testifying-be
 cdnAmpWebUrl: "https://www-kalw-org.cdn.ampproject.org/c/s/www.kalw.org/2022-10-14/robot-makes-history-by-testifying-before-the-upper-chamber-of-u-k-s-parliament?_amp=true"
 type: article
 quality: 55
-heat: 65
+heat: 55
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 1080
     height: 1080
     isCached: true
-
-related:
-  - title: "Ai-Da robot makes history by giving evidence to parliamentary inquiry"
-    excerpt: "The humanoid robot appeared before a House of Lords committee examining the potential impact of artificial intelligence on the creative industries."
-    publishedDateTime: 2022-10-11T16:16:00Z
-    webUrl: "https://www.aol.com/ai-da-robot-makes-history-161637255.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 54
-    images:
-      - url: "https://s.yimg.com/ny/api/res/1.2/_BKyA8oRtkXK4Kifjjx1ow--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/c71b92bd123fea0184d82265bd7877d6"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "5ZbgAT+WOaW7ZFp/qJ4ASY0T8oLi8Dz1Z5a3s2nKKcTtvIyEnG2oh3WQ0jEufleAxRSXEByY9AzeThHAGWS7sFWAMe0B+9JiETfwVNfzGXs7ZckTt8cxeGwJdebNM3hm6AS6ApegVFXL2LCTBcZq4mrNqDhfYhQFWZFdMjMsR6pXOT8ql1v6aCGTjVQ11IFVlAmn7M/HR1s1vz6T4SOfFOvFtHmXRTghNeLPcY9C0B5PdRuy+PC7yhTVEsaz3+/KJWm8EAMbmuOy4FUXS9amtWKWGHc8ZPAg3MC1r2ZtozCP0tHcXEQNbCaB6+THHav9ENr1cuSHAhjC6xAZv/HE4itVAtXUNHNDHnUXLigXtxk=;Q35ybMJo8Qsioh5BeHaWGg=="
 ---

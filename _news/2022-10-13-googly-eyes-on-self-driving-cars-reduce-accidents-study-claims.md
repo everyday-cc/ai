@@ -35,21 +35,21 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
-    excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
-    publishedDateTime: 2022-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732"
-    ampWebUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T06:50:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 34
+      name: CBS News
+      domain: cbsnews.com
+    quality: 43
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c332a46e7ed5768da892764986fb91f7.jpg"
-        width: 800
-        height: 485
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Many Americans treat driver assist systems like self-driving"
     excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
@@ -97,15 +97,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T14:48:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 3
 
 secured: "RMhA5gZTwI9F+Uzb8pUpJhZI3cZa7IHnCx0yu3Z0VnUv4KMJEZnqeW8vR+790/rTGYXNrKgw1aLznc65EX0DTfHaCg2/zMgsL8nEgrOworTMscczZn8LfQtHLhdBcvHXMULiB5tYWM4vtu/2RmqxpRmY6KUGE7Bo04HQhPUzAXCEgwruhuBYR7Ncoc85sWba/nLzgdoETxMljNtgRt/p43FtB2eET7BEiPbt5YX1M7fpSCi1qqd0yMs0+G8nV55JdfemhjC205vJW3QUYMrcI6cgYjkQUtoDOvFu5QQhbqw8Sw7i4/RVWPBWAGxmW/XzyGMLwtM3HMQBuYM8XClpuxquj2NbGnn3Ww61MPzRK8sDRx5SI/DaaqNSXeys0aFHXfYafw7Hy6Akq42EHanihkeRhWgiAYRXLESf6nBKbDosq06s593q7bzq1+zJ7uORhBkPO+ro+4e++FJ5dzfrUKOL6ZMV4qWA0JDAzGyNI8DmwrPBCB7hwK9JAD2gqsf1YA6m/Q2CeULV7ngFl77CXg==;KUFeClhlsxIa6X4uJpiRYQ=="
 ---

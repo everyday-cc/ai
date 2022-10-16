@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google aims for BigLake data lake support for all unstructured data"
-    excerpt: "What you need to know about Google Cloud Next data announcements: BigLake support for Apache Iceberg, Hudi and Delta Lake; BigQuery adds unstructured data, Apache Spark and DataStream support; Looker Studio unifies business intelligence products;"
-    publishedDateTime: 2022-10-11T16:25:00Z
-    webUrl: "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html"
-    ampWebUrl: "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html"
-    type: article
-    provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 91
-    images:
-      - url: "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70"
-        width: 700
-        height: 525
-        isCached: true
   - title: "Google Cloud aims for BigLake data lake support for all unstructured data"
     excerpt: "In its continued bid to support all kinds of data and provide a one-stop data platform in the form of BigLake​, Google Cloud will add support for most commonly used open source table formats in data lakes​."
     publishedDateTime: 2022-10-13T05:23:00Z

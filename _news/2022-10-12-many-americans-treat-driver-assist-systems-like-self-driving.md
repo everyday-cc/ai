@@ -39,21 +39,21 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
-    excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
-    publishedDateTime: 2022-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732"
-    ampWebUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T06:50:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 34
+      name: CBS News
+      domain: cbsnews.com
+    quality: 43
     images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c332a46e7ed5768da892764986fb91f7.jpg"
-        width: 800
-        height: 485
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
     excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
@@ -101,15 +101,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T14:48:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 3
 
 secured: "o1cKHOnxBxTBijcEs/LPcH/8mTltnHm/QrJH3ND/lPFzCFZ9GC3dcifUfJAIC+7sKdxt+ygDVU+AudhAw2jj6HqukPspCu3At2Nij/SdDaJyg0JswIMAyWqzkYUmTLLyTany0A56ck2OobkOQuE7sJJ3xTVWgL7/9GfKE2+FZ8aoInw/V7lmjq2KlSe6elpdFJDAIRDS5ise4oPu/l71mN7H4DUsac8YDrhDL0e5FqGouMDRfTCkvxoiWApOYRSy7R7NVHt7D8XI8gZoImonV68rXwAjFm0mSuFNHQM4iNtZGlAjv7MGSdTp5lLw5orAaUKr654KFSjHvc8BgFyGMs4eKJzpegElm/2h5jlVAEtcDPgQ+gT79c3tfb+FjvaAAPSxsqsjlRb+KONCcxW0ICllDIgY7LUFg4LBajaRlfuts1zoehaeQ8Ova6pqGgL+kzn2PxHTv/BA1dTq/IfTbo1Fq2QrzgVheQ4Dw3YHJxBuHsvQKcDJm5CaKatd85hHlNjBhQjJkTuXq72OlKFwPQ==;GlqpJeoVVhGgGnCbojD6zQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
 type: article
 quality: 85
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -55,22 +55,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
-  - title: "AI-generated Steve Jobs and Joe Rogan talk in bizarre podcast interview"
-    excerpt: "Someone created a bizarre podcast interview with an AI-generated Steve Jobs and also AI-generated Joe Rogan. Listen to it here."
-    publishedDateTime: 2022-10-11T15:20:00Z
-    webUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/"
-    ampWebUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/10/steve-jobs-joe-rogan-bgr.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Steve Jobs stars in Joe Rogan podcast thanks to artificial intelligence"
     excerpt: "Artificial Intelligence has created a fake episode of the Joe Rogan Experience with Steve Jobs - and the internet is divided."
     publishedDateTime: 2022-10-12T20:29:00Z

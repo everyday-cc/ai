@@ -2,6 +2,57 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-12-continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-57m.md",
+      "title": "Continue AI aims to add ESG intelligence to sustainability, lands $5.7M",
+      "excerpt": "Continue AI today announced $5.7 million in seed funding to provide ESG intelligence for companies to create meaningful change.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
+      "originalUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1354356302-Fritz-Jorgensen-e1665583446575.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/continue-ai-aims-to-add-esg-intelligence-to-sustainability-lands-5-7m/amp/",
+      "publishedDateTime": "2022-10-12T07:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-fighting-climate-change-with-ai.md",
       "title": "Fighting Climate Change with AI",
       "excerpt": "Climate change's global impact is worsening with each passing day, and society is struggling to keep pace. Is artificial intelligence the key to preparing for—and fighting against—our world's greatest threat?",
@@ -530,7 +581,7 @@
       "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -809,7 +860,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 120,
       "tags": null,
       "images": [
         {
@@ -1153,58 +1204,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-reveals-whats-next-for-cloud-ai.md",
-      "title": "Google reveals what’s next for Cloud AI",
-      "excerpt": "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
-      "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
-      "publishedDateTime": "2022-10-11T07:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

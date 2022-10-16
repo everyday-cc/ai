@@ -66,22 +66,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 64
-  - title: "AI-generated Steve Jobs and Joe Rogan talk in bizarre podcast interview"
-    excerpt: "Someone created a bizarre podcast interview with an AI-generated Steve Jobs and also AI-generated Joe Rogan. Listen to it here."
-    publishedDateTime: 2022-10-11T15:20:00Z
-    webUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/"
-    ampWebUrl: "https://bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
-    cdnAmpWebUrl: "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/tech/ai-generated-steve-jobs-joe-rogan-podcast-interview/amp/"
-    type: article
-    provider:
-      name: BGR
-      domain: bgr.com
-    quality: 57
-    images:
-      - url: "https://bgr.com/wp-content/uploads/2022/10/steve-jobs-joe-rogan-bgr.jpg?quality=82&strip=all"
-        width: 2000
-        height: 1000
-        isCached: true
   - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
     excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
     publishedDateTime: 2022-10-14T08:37:00Z

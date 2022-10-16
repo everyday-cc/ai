@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -61,7 +61,7 @@
       "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -304,6 +304,48 @@
       ]
     },
     {
+      "path": "_news/2022-10-15-bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner.md",
+      "title": "Bengaluru-based startup transforms phone camera into AI workout partner",
+      "excerpt": "The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion. The AI-powered Workout Tracking technology of the app enables precise motion tracking with any smartphone,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freepressjournal.in/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner",
+      "originalUrl": "https://www.freepressjournal.in/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gumlet.assettype.com/freepressjournal/2020-08/f9ac74d2-9c09-4d5f-a8eb-86475fd9d6d6/app_pinterest.jpg?rect=0%2C0%2C3900%2C2048&w=1200&auto=format%2Ccompress&ogImage=true",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freepressjournal.in/amp/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner",
+      "cdnAmpWebUrl": "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner",
+      "publishedDateTime": "2022-10-15T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Free Press Journal",
+        "domain": "freepressjournal.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-the-ai-beat-big-tech-ai-wars-heat-up.md",
       "title": "The AI Beat: Big Tech AI wars heat up",
       "excerpt": "Welcome to the AI Beat – my new column digging into some of the week’s AI news and attempting to put it into context.",
@@ -511,7 +553,7 @@
       "originalUrl": "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -754,58 +796,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
-      "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
-      "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
-      "originalUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665747791-JasonMitakidisfinal.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities.md",
       "title": "AI language models show bias against people with disabilities",
       "excerpt": "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl..",
@@ -845,6 +835,57 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement.md",
+      "title": "Singapore identifies AI, IoT as emerging key skillsets, with infrastructure support set for displacement",
+      "excerpt": "G, cloud computing, artificial intelligence, and Internet of Things are amongst industry trends that Singapore believes will drive demand for skillsets over the next three to five years, while roles in infrastructure and operations are at risk of displacement and require reskilling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/91c7b9b52521ef932bb93424df5087f63cd6a023/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/building-a-people-centric-datacenter.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "publishedDateTime": "2022-10-14T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1194,58 +1235,6 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
-      "title": "Here's Why Machine Learning Benefits Biz Developers",
-      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
-      "publishedDateTime": "2022-10-13T10:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

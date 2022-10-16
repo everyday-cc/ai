@@ -2,11 +2,13 @@
 category: news
 title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
 excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-publishedDateTime: 2022-10-12T14:48:00Z
-originalUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+publishedDateTime: 2022-10-12T06:50:00Z
+originalUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
 type: article
-quality: 3
+quality: 43
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
@@ -34,22 +42,6 @@ related:
       - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
-    excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
-    publishedDateTime: 2022-10-11T17:00:00Z
-    webUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732"
-    ampWebUrl: "https://jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/100-billion-and-10-years-of-development-later-and-sel-1849639732/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 34
-    images:
-      - url: "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/c332a46e7ed5768da892764986fb91f7.jpg"
-        width: 800
-        height: 485
         isCached: true
   - title: "Many Americans treat driver assist systems like self-driving"
     excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
@@ -107,6 +99,6 @@ related:
       domain: dailyherald.com
     quality: 14
 
-secured: "B1mKSqU/2yBY2FoS6xRJZuOhOtAKTru3nz+cAX9ORUoQC8vwvc9UbqOgJHoSjScyEBmNfyvGNDIkDKIfzsJeMVsOFQmFLi88xJ8SPLHJlbf0uUWpOGClnBK4+oW8fm7Qs8V2LaCOkl5Mfa3j63acZPS2stAPRnae/hhXC8pL2LnVCfnYJAkzVDopektYkZ32hSC8eXF60ck2wJ0b/la2PqQWSh+d/bD2y89s8WCURKs13pHWVMxBWVBg4su2FqlcUXoQOHWVLeV8l4Fp7V7JD7lhc19Oj6jxbDYsu4jkDXqkD1XDvx26iPuSHmkxW1L/xXptTzT4W5icn7lSM+f3KknUCaBZG7FxesL21tWM7GU=;pRDyw7LmnR4N+CMN7nC9GA=="
+secured: "aqz2JrNQIBWFWpBiZUrev7t28qN4hbQWYhnn4zJVFQn49VvRzh1k/7JrVCw4mnyeR1sDQ5L1U3VxDsXNCYWmaWLtEtUDNF20nSYleWfEtsCdGh11CVIRZEqgiiA5YlJzShefSUbPTs/Z5KIELO9ewfxdxmu/AYsEu1QpNdu7tBb5vWjeFImv6IbBUEkBGpK3obvFM8qDdQz+OlUhnQHkmqjkuSKRm28S69y73PCCj3pElZ9NgkXYfifFuiHEl0EKUDIVeXkhk5MJYBrMCL2VlWEdYDZi1zenLror+ug45mgw+jBSQOT+0pOhB0S/rOBQX7SIvrwtSOH9NOugQUXzbVHvLvbsQ7qD1aEYysGwc2k=;cDvHX30fOmzFzJOKUPaJqQ=="
 ---
 

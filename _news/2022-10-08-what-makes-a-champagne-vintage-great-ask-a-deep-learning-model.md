@@ -1,26 +1,32 @@
 ---
 category: news
 title: "What Makes a Champagne Vintage Great? Ask a Deep Learning Model"
-excerpt: "In early 2021, Bollinger’s winemakers were able to get their first taste of La Grande Année 2014, a prestige fizz that had been aging in the champagne house’s cellars since it was blended."
-publishedDateTime: 2022-10-08T11:59:00Z
-originalUrl: "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model"
-webUrl: "https://www.wired.co.uk/article/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model"
+excerpt: "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change."
+publishedDateTime: 2022-10-08T11:00:00Z
+originalUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/"
+webUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/"
+ampWebUrl: "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp"
 type: article
 
 provider:
-  name: Wired UK
-  domain: wired.co.uk
+  name: Wired
+  domain: wired.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://media.wired.co.uk/photos/63408807c355476fe206deed/16:9/w_1280,c_limit/Bollinger-Champagne-Featured-Gear.jpg"
-    width: 1280
-    height: 720
+  - url: "https://media.wired.com/photos/6340b2bf6f81dc98cfa7cfa4/master/pass/Bollinger-Champagne-Featured-Gear.jpg"
+    width: 2400
+    height: 1800
     isCached: true
 
-secured: "gxEdX41emzknKUxd1YZ3xvdRKyxRw4RinApcOu6oEqbaqULQhNawNxPBA6V6Nr+um3bHsy3SKLgshT9/GryaQiyCfLSEDtbT+MysKWJJKEhkOlTfkCFzGABVb+f4zFeK1vRdMtzxm36FQmZOle68I2xtvlDKwGDgWSeNc1QBYsws5QqwuePR1irWu2WEOUWOuZ+vSmGnbcbBfNsy17HD9hZRAoqli+mHHdK9mTftmo4EQPRKPKGIkLUb/uLIjzD+Y9TwMHYeMw9jDypVKCIyEt7TXMCP+vql+HMxGpWfpK5YijIaF1ozUy1wMxDAn5Jb283MgSWHZkvTLfgkBrA1CV3lHtF5HxJHvklagIx5frY=;KIPBbNLkN1/Uj2s8bqcPSA=="
+secured: "WWZMHKJn1OqePPT+DNmeyFTENxAd4K0iFc6vnDYY+manVKFCG6XBdKZBOdmdYynZb61p3VWplXB2hBFte+sBqs6zHVGwVGQ+ESoqRpbOpLswmrAk4/vb4hB96X8r763bgzmCRyOg1q8ZG6p5Yp+xptubd7KehpOuzdw7P+N7RzYJu5VeGEUdktkFiWtpYAUEULh2sssAdBPErck9Ofh6hHaWJbabtzRC4WiEqnPYvLmoUiySjpS+cP32BeieaBJ6H5OzrQmljrqNonCFb/beIWVQONj/vyJfRUg0ZFcz8uo8PzFT2CAPSDOPEfS6FN7hhXIYsNEKkKdOmj/qqNLl6XHirICx4HDy1RtnvHO9RpQ=;1q/2+GH3zDrKrEs42vOShg=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-11-google-reveals-whats-next-for-cloud-ai.md",
+      "title": "Google reveals what’s next for Cloud AI",
+      "excerpt": "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/",
+      "publishedDateTime": "2022-10-11T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-artificial-intelligence-is-dangerous-for-disabled-people-at-work-4-takeaways-for-developers-and-buyers.md",
       "title": "Artificial Intelligence Is Dangerous For Disabled People At Work: 4 Takeaways For Developers And Buyers",
       "excerpt": "Eight of the 10 largest private U.S. employers use AI to track the productivity metrics of individual workers, many in real time, according to The New York Times.",
@@ -326,6 +378,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
+      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
+          "width": 605,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -878,25 +973,43 @@
     {
       "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
       "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
-      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
+      "excerpt": "As a result, the Supermicro GPU server line can include the latest and most powerful Intel Xeon scalable processors and the most advanced AI GPUs from NVIDIA. \"Supermicro is thrilled to deliver an ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-1031793177",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/nec-selects-supermicro-gpu-systems-for-one-of-japan-s-largest-supercomputers-for-advanced-ai-research-1031793177",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
+          "width": 400,
+          "height": 206,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29201236",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236",
-      "publishedDateTime": "2022-10-10T06:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1109,110 +1222,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
-      "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030.md",
-      "title": "Self-driving Car Market 2022 Research Report Analysis from Perspective of Segmentation and Industry Growth 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

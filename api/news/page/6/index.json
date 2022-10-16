@@ -2,6 +2,110 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-08-biden-visits-ibm-to-promote-investments-in-us-semiconductor-production.md",
+      "title": "Biden Visits IBM to Promote Investments in U.S. Semiconductor Production",
+      "excerpt": "President Biden traveled to Poughkeepsie, N.Y., to connect a $20 billion investment by IBM to the bipartisan bill meant to spur production of critical microchips. Send any friend a story As a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/06/multimedia/06dc-biden-photo02-1-9057/06dc-biden-photo02-1-9057-facebookJumbo-v2.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/06/us/politics/biden-ibm-semiconductors.amp.html",
+      "publishedDateTime": "2022-10-07T11:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028.md",
+      "title": "Deep Learning Market Trends, Companies, Driver, Segmentation and Global Forecast to 2028",
+      "excerpt": "Deep Learning Market study by \"The Insight Partners\" provides details about the market dynamics affecting the Deep",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-trends-companies-driver-segmentation-and-global-forecast-to-2028-2022-10-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T11:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
       "title": "AI-generated art: A tool for enhancing creativity",
       "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
@@ -157,58 +261,6 @@
       "topics": [
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
-      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
-      "excerpt": "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/hlaKOKrPAL7q3PSr1hNU3uLOZ-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUFE6S6QERLQ3K6NLCVKMMLSRQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     },
     {
@@ -903,6 +955,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
+      "title": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones",
+      "excerpt": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-ai-powered-supply-chain-visibility-boosted-as-altana-raises-100m.md",
       "title": "AI-powered supply chain visibility boosted as Altana raises $100M",
       "excerpt": "Altana, which says it's using AI to build a map of the supply chain network, has raised $100M in series B funding.",
@@ -1091,101 +1186,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-this-ai-powered-deep-learning-firefighter-helmet-could-help-save-lives.md",
-      "title": "This AI-powered, deep learning firefighter helmet could help save lives",
-      "excerpt": "The helmet allows firefighters literally see through smoke. Veuer’s Tony Spitz has the details. Get up-to-the-minute news sent straight to your device.",
-      "sourceUrl": null,
-      "webUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "originalUrl": "https://omaha.com/news/video_48f0f46b-a94e-5866-87f1-9ee642bd6983.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/omaha.com/content/tncms/assets/v3/editorial/4/8f/48f0f46b-a94e-5866-87f1-9ee642bd6983/633efb996ab23.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Omaha.com",
-        "domain": "omaha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-ai-vs-deep-learning.md",
-      "title": "AI vs. Deep Learning",
-      "excerpt": "Deep learning finally allows machines to tackle problems of similar complexity to those humans can solve, and has been responsible for impressive AI achievements in recent years. Deep learning has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/ai-vs-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Servers-01-1088x725-1.jpg",
-          "width": 1088,
-          "height": 725,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T12:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

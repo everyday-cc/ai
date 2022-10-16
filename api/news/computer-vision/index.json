@@ -576,6 +576,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
+      "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
+      "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/b/f3/bf3095ee-8942-58d3-b392-9f22be46304b/6345316f26746.image.jpg?crop=605%2C318%2C0%2C497&resize=605%2C318&order=crop%2Cresize",
+          "width": 605,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-machine-learning-vs-deep-learning-vs-neural-networks-whats-the-difference.md",
       "title": "Machine learning vs deep learning vs neural networks: What’s the difference?",
       "excerpt": "The terms machine learning and deep learning can seem interchangeable to most people, but they aren’t. Both considered subdivisions within the world of artificial intelligence (AI), the two have many differences,",
@@ -673,58 +716,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
-      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
-      "excerpt": "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "originalUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/hlaKOKrPAL7q3PSr1hNU3uLOZ-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUFE6S6QERLQ3K6NLCVKMMLSRQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-07-pixel-7-facial-recognition-is-finally-available-but-there-is-a-catch.md",
       "title": "Pixel 7: facial recognition is finally available but there is a catch",
       "excerpt": "Pixel 7: facial recognition is finally available but there is a catch. You can finally use Face Unlock using the front-facing camera.",
@@ -798,6 +789,49 @@
         "name": "Android Police",
         "domain": "androidpolice.com",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
+      "title": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones",
+      "excerpt": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "originalUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1389,58 +1423,6 @@
         "name": "Kansas City Star",
         "domain": "kansascity.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-how-the-innovators-brain-works.md",
-      "title": "How The Innovator’s Brain Works",
-      "excerpt": "How does the human brain learn to innovate? The Thousand Brain theory has direct, important, unexpected implications for how people learn to innovate, and therefore for how teachers, coaches, managers,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
-      "originalUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6320b7cd246c4d8df9fe585a/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tedladd/2022/10/03/how-the-innovators-brain-works/amp/",
-      "publishedDateTime": "2022-10-03T10:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

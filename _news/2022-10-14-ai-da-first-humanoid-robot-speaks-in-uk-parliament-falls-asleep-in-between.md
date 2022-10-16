@@ -117,24 +117,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "British humanoid Ai-Da becomes the first robot to speak at the House of Lords"
-    excerpt: "The robot's capabilities were developed by ... project' to examine the future of creativity amid concerns that artificial intelligence, machine learning and other technological advances could ..."
-    publishedDateTime: 2022-10-11T16:01:00Z
-    webUrl: "https://www.dailymail.co.uk/sciencetech/article-11302895/British-humanoid-Ai-Da-robot-speak-House-Lords.html"
-    type: article
-    provider:
-      name: Daily Mail
-      domain: dailymail.co.uk
-    quality: 31
-  - title: "Ai-Da the robot turned on and off again during historic speech in House of Lords"
-    excerpt: "An AI-powered robot has become the first to give evidence to a parliamentary committee after appearing before peers. | ITV National News"
-    publishedDateTime: 2022-10-11T16:39:00Z
-    webUrl: "https://www.itv.com/news/2022-10-11/ai-da-the-robot-turned-on-and-off-again-during-historic-speech-in-house-of-lords"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 29
 
 secured: "WD1ssXBUZX5RaTMIygx26YKpqxZu7TJ32CXStOppU2d5t/jeHRGV/ROBFxIYJ2ZxRb1iHw6m4Y5A8YqWS+RxRW6TsmFz0lVfd5oBCezIHhSV4JSDt7xnN9v8lnk9II8I2CBIl+lnXoKH7ymk08kr8YxlOj1nEiN1CW8xDpmmRjhVgrd2FJPGx/Kq9zbMA64eP2iMDNFyRjKGCaOPKwr8G/TekafuvlDptDbC1LX9q0P3kM6ipZde/vkpzFSpsVAeugEUA+aURaL6zS4YmQAzM6/vpN9Lp3VhzTlWprR/6jN8Q9rBF3sfRicGx2pRwlJWQJocKuRtlhBN4NWvOVxd3b3RNHTPk+YPM6mvl8zcapdWrI2GpLbvY1yOeC32kqfieT9vnSQ+nWyT8/iiLGg0OB1prOVCnM/wj0X7WezFZPWSm4bmSbEiGP60V6htGhLI80MEjvG1bnGD0DuQJcMbVOBwYr4uIF0OxG/sJvZdsDO5hl7fngrBq82tzrMURu9H40FhrmI0AaysAFZ51w8Tjw==;rmzRMlomaKAPtsnrEZUmbg=="
 ---

@@ -2,6 +2,82 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-04-robots-are-making-french-fries-faster-better-than-humans.md",
+      "title": "Robots are making French fries faster, better than humans",
+      "excerpt": "PASADENA, Calif. (Reuters) -Fast-food French fries and onion rings are going high-tech, thanks to a company in Southern California. Miso Robotics Inc in Pasadena has started rolling out its Flippy 2 robot,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "originalUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/2022-10-04T133833Z_4_LYNXMPEI930JZ_RTROPTP_4_TECH-ROBOT-FRENCH-FRIES.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/robots-are-making-french-fries-faster-better-than-humans/",
+      "publishedDateTime": "2022-10-04T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-sphera-completes-previously-announced-acquisition-of-riskmethods-a-leader-in-artificial-intelligence-supply-chain-risk-management-software.md",
+      "title": "Sphera Completes Previously Announced Acquisition of riskmethods, a Leader in Artificial Intelligence Supply Chain Risk Management Software",
+      "excerpt": "Sphera,  a leading global provider of Environmental, Social and Governance (ESG) performance and risk management software, data and consulting services, has completed its planned acquisition of riskmethods,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
+      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1280170&cat=PR News Wire",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-3-top-artificial-intelligence-stocks-to-buy-in-october.md",
       "title": "3 Top Artificial Intelligence Stocks to Buy in October",
       "excerpt": "Learn More There's a lot of growth on the horizon. The global artificial intelligence (AI) market is poised to grow into a $1.4 trillion opportunity by 2029, up from around $387 billion now.",
@@ -1047,111 +1123,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-the-importance-of-monitoring-machine-learning-models.md",
-      "title": "The importance of monitoring machine learning models",
-      "excerpt": "The life-cycle management of machine learning models is more complex than software. Andy Dang, cofounder and head of engineering at WhyLabs, explains, “Model development life cycle resembles ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "originalUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/06/10/14/istock-808157650-100928963-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3675389/the-importance-of-monitoring-machine-learning-models.amp.html",
-      "publishedDateTime": "2022-10-03T12:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities.md",
-      "title": "Microsoft, Apple, and more work on speech recognition for users with speech disabilities",
-      "excerpt": "Major companies like Microsoft, Apple, and Meta, among others, are collaborating with the University of Illinois under the Speech Accessibility Project to improve speech recognition facilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "originalUrl": "https://www.neowin.net/news/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 237,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/10/1476908377_speech_recognition_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/microsoft-apple-and-more-work-on-speech-recognition-for-users-with-speech-disabilities/",
-      "publishedDateTime": "2022-10-03T10:46:47-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

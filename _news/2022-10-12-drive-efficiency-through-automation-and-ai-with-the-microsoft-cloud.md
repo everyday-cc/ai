@@ -605,20 +605,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 30
-  - title: "Microsoft and Liquid Cloud launch initiative to support African businesses with hybrid cloud infrastructure"
-    excerpt: "As the demand for cloud-based services grows across Africa due to the adoption of hybrid work, Microsoft has announced a partnership with Liquid Cloud through its Africa Transformation Office (ATO) to provide cloud services to businesses across the continent."
-    publishedDateTime: 2022-10-11T15:06:00Z
-    webUrl: "https://www.myjoyonline.com/microsoft-and-liquid-cloud-launch-initiative-to-support-african-businesses-with-hybrid-cloud-infrastructure/"
-    type: article
-    provider:
-      name: MyJoyOnline
-      domain: myjoyonline.com
-    quality: 21
-    images:
-      - url: "https://www.myjoyonline.com/wp-content/uploads/2020/06/Tech.jpg"
-        width: 720
-        height: 480
-        isCached: true
   - title: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications"
     excerpt: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications - SiliconANGLE"
     publishedDateTime: 2022-10-12T20:10:00Z
