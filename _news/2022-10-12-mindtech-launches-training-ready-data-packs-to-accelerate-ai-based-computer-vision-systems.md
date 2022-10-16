@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-excerpt: "Able to be used immediately, the training data pack ensures GDPR compliance through its use of synthetically generated photo-realistic humans and includes annotations and data that can speed up the training of AI-based computer vision systems significantly."
-publishedDateTime: 2022-10-12T09:44:00Z
-originalUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
-webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
+publishedDateTime: 2022-10-12T09:00:00Z
+originalUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
+webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Bdaily Business Network
-  domain: bdaily.co.uk
+  name: realwire
+  domain: realwire.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
-    width: 1200
-    height: 627
+  - url: "https://www.realwire.com/twitter_writeitfiles/Mindtech_Logo.jpg"
+    width: 600
+    height: 315
     isCached: true
 
 related:
@@ -60,6 +60,6 @@ related:
       domain: webindia123.com
     quality: 1
 
-secured: "aA2t+EhQv8KFfo4oH+EFhpjmJMerrlotx8cODxpDKZWpHv8I4qd1bndL/7MDMTabuwOI/U+2ftSadSku9TduHeE5iKMOUmjVO+egpAWL0dhfwnOkul4flsVCaKDkKwFUbyx3OZUSyuQ/EPRc9wgW8izl4vGcST8MrrJ45yMpsGCVICuw8W6BIGn9RrsiOqJvJlG3i98cTrBN/llyCjg6erXtAXgR3/i1GKumbI7t7BNqxHP9uvyrzIAp1Bsd+vKqTFjZ0zMUAaDR5Ef57gqklEBb76rhGqiGcB8fhuBvGY0cO956r+9E7XluQ2xIYK040u7mcOeDbhopRQngAQX/+b1zjpWnkiUuE10D1rZ50e0=;/0MTcMmaE+8PgnuzXTtYPw=="
+secured: "xBQJD1z6QlX3T65UNy858LxkKCVHW6Dajl8PINIa1zKtdK8XoUlS3SJFuXg42HCrCJkmotE7Zw7tgAdfg6jGyplp6sER8FLaXi1Bug8nYEy1iFm7Li3EbUI37y0ZUcXYuLF4qhqWylLXv9lNsC/p7gol5viF95BLqc9m3WUwfnUxvj7DqUEpMcu+NQ+v5/nv96u4ENPMsrvu8UIWU8d/fDZZ/x2j5w5SebEy0CtQjfSD+yaSBDSl1xMOKIEprOKmTzLRim03lZ289ObdvrVDema27sCh2fkrFxUsp6/Fyz368BM90BRIPZaB70jbW2sbEQaEqQJeP7tGgnaTFs5F2hMtlogNO/6bjwCGT/IQV9A=;JfqcPw19qJ2JnkQ44+NJ3g=="
 ---
 

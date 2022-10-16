@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/experts-doubt-elon-musk-plans-for-
 webUrl: "https://www.businessinsider.com/experts-doubt-elon-musk-plans-for-tesla-optimus-robot-2022-10"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,20 +24,6 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Tesla's Mass Market Optimus Robot Could Change Humanity Forever"
-    excerpt: "Tesla's Optimus Robot will represent a step change for humanity when it hits the market in five years. Find out the implications for shareholders and the world."
-    publishedDateTime: 2022-10-11T07:19:00Z
-    webUrl: "https://seekingalpha.com/article/4545818-teslas-mass-market-optimus-robot-could-change-humanity-hold"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/640351119/image_640351119.jpg?io=getty-c-w750"
-        width: 750
-        height: 530
-        isCached: true
   - title: "Elon Musk touts Tesla's Optimus robot, but experts doubt it's the next big thing"
     excerpt: "Elon Musk has promised that the humanoid robot will someday change the way people live and work, but robotics experts are less optimistic."
     publishedDateTime: 2022-10-11T12:49:00Z

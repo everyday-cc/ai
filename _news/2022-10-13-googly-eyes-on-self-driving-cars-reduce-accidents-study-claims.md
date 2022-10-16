@@ -83,6 +83,20 @@ related:
         width: 600
         height: 453
         isCached: true
+  - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
+    excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
+    publishedDateTime: 2022-10-16T01:31:00Z
+    webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
+    type: article
+    provider:
+      name: Independent.ie
+      domain: independent.ie
+    quality: 21
+    images:
+      - url: "https://www.independent.ie/life/motoring/06b11/42069391.ece/AUTOCROP/w1240h700/mg%20google.jpg"
+        width: 1240
+        height: 700
+        isCached: true
   - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
     excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
     publishedDateTime: 2022-10-12T21:17:00Z

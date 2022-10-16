@@ -5,9 +5,11 @@ excerpt: "WASHINGTON, D.C., Oct. 11, 2022 (GLOBE NEWSWIRE) -- Leading AI Compute
 publishedDateTime: 2022-10-11T21:13:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29223132/chooch-to-feature-computer-vision-in-the-public-sector-at-ausa-2022-in-washington-dc-october-10-to"
+ampWebUrl: "https://www.benzinga.com/amp/content/29223132"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29223132"
 type: article
-quality: 3
-heat: 3
+quality: 23
+heat: 23
 published: false
 
 provider:
@@ -18,6 +20,6 @@ topics:
   - Computer Vision
   - AI
 
-secured: "4ps49w+foBg5wG8MHsW4ukoDzP8Ff8HlrY7CoXDHQPDsX7khkgLc72gML7FcnkTLUvrocjGh56bHTz9mclXjeXD19lFWCJ/3uDUXtxrfr6YbgLs7oJXfR1BOCVi9KucSBb3JK62wOzRH3KvLTo/VXpPs651QyZMqv1aQdEUcQwG1eT/XeuWwG2exuUbuMlHlTc4Os4T11ALnRMJ9v+78BstUVlbpvEntAcrVU8wtx3llorMe79MmCgFElY+HniGXNZmGFtemYK6S1mQDgSQZvq763I9O6eVf3mKFIdfXiZT4YdjRo9WtDuiKS/CVLxXAhkjEmZV9bGQW4G3HR4qMVyd6K833Ocp7CqbgpL7Sv08=;lYd+lvS3x4uWKDbYkWCNwQ=="
+secured: "1KtFL1Ge9ax4rjhQXPdfwk/Xym1I9ef4StwEnvpCyQrIs5dXFo8uXNIecVLhb5hLa4u4dcd7esC00qZQOVdRfwxlGpeFnTRU79zSJxeKr1qbbUPX2Z3L4ai7+Lb4Wg4u5kKmQyGnktdX3tVDW3dzHehhhKzZSzVyXm8464ij+BsVGIA54i8wP6sAF01ZCX2/l86dAuPEQ6Y9F68sjoaK/q7YOwAcqi6RFdacC0VHKxTphXM8C2JGqj7dlzsevu50jpBCqD8efdZbQLbdGQN3gQjzw1b/CKEt3MAqRrTHhwz8pNEUFMoNqNZZyWmCzW9VfJ8Tyk8LYZl5/jy8LVp/vCTCqW5lDI4alRhpGO4HkTg=;+xNcJyWXYPd/J3e4ODf/vg=="
 ---
 

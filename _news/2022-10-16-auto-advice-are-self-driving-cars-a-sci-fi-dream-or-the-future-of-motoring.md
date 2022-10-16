@@ -1,26 +1,28 @@
 ---
 category: news
-title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
-excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
-publishedDateTime: 2022-10-11T13:03:00Z
-originalUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
-webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
+excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
+publishedDateTime: 2022-10-16T01:31:00Z
+originalUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
+webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
 type: article
-quality: 34
+quality: 21
 heat: -1
 published: false
 
 provider:
-  name: Newsweek
-  domain: newsweek.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Independent.ie
+  domain: independent.ie
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.independent.ie/life/motoring/06b11/42069391.ece/AUTOCROP/w1240h700/mg%20google.jpg"
+    width: 1240
+    height: 700
+    isCached: true
 
 related:
   - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
@@ -39,6 +41,15 @@ related:
         width: 1000
         height: 668
         isCached: true
+  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
+    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
+    publishedDateTime: 2022-10-11T13:03:00Z
+    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
+    type: article
+    provider:
+      name: Newsweek
+      domain: newsweek.com
+    quality: 34
   - title: "$100 Billion and 10 Years of Development Later, and Self-Driving Cars Can Barely Turn Left"
     excerpt: "Despite mega genius Elon Musk promising full self driving Teslas for the last nine years and big names like Google’s Waymo and GM’s Cruise constantly developing the technology, we are no closer to seeing self-driving cars on the market."
     publishedDateTime: 2022-10-11T17:00:00Z
@@ -78,20 +89,6 @@ related:
         width: 600
         height: 453
         isCached: true
-  - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
-    excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
-    publishedDateTime: 2022-10-16T01:31:00Z
-    webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 21
-    images:
-      - url: "https://www.independent.ie/life/motoring/06b11/42069391.ece/AUTOCROP/w1240h700/mg%20google.jpg"
-        width: 1240
-        height: 700
-        isCached: true
   - title: "Googly eyes on self-driving cars reduce accidents, study claims"
     excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
     publishedDateTime: 2022-10-13T11:55:00Z
@@ -120,6 +117,6 @@ related:
       domain: cbsnews.com
     quality: 3
 
-secured: "lVRvh7BHLffBVLYE2Xt2rnOfgvjgX5+NarPJRoCjqia0NLP3on0QPTyf9PafCPI20ZaFrZSq3HXJ2thoqvPtT7Ppb8lXwxQae9WK4T8pVg8o5Fozcx72xGGFfVjZ1B1v2fUCv3V+H2i8WNEyA1sJM0b1qqxymurDty4rnbUtkLLlk3MJFeHIkqmZXRFRnSIGVo6yrO3VVbD/yDNlQpy/5uYEUGoslJd9pRHvkBVM0P/XkrrncIh8Dl1UQzfiWy8156n2EdozSMO/jJ5WgpD05mTf2ary9l5yqQiucgCyq2NXvMsz5kQfcB+exxqqr0CNMUdmNVgPdBKxzxRwk3xEIsPD3JCEDCf7IvCWb/kvIZ76GJkS+bL9VWOSeNVC6QxtpwrNVfiCkvrvAiJUrbJX+N8CmuDs9EXqtVQF4UBhdHb7pUrKF3bd7jzE4mcUWHspGoud+Vnyaemf5X9nlhnTqhFABSAd/XX8jdBfWtWlMcmUMsMxkkJpEp5Jw3ABO76r9srOyUq/GTf6a1cN5p+wzQ==;HrseM7P+qMXrEbqt/9C/wQ=="
+secured: "XPpUCydqhFCBKJ7ygbXJtNwwqbLoELF1o1LF1wQB07qCYsuchesgNQZuMoZvB4I+tafUvHmSbqZO1gEDuz9SZrDkpCdRzmjttsThdtIrj7sfIIcaaFUHoz5rJHciJw44pOKZolsO4wZqznnEUvqOUE9Y8L6fNnKDtwFSreKjAqg2S5pKgsadGiUg1+zsqx4Ik8M2fC6D6sCIZSRSPcLpR8RJUufVrWUaoEx5Ff+OhoLPeKK52iELjA3I4azojGU5aCsRlYx75jnh0F04CDIt2yc6thzkxPrI4RuA2SsjI5eWTHWT1ERtnVDiM9EwcWeh69YKkI7I4iW0ywuGxbxX86yCVH1P2BX6HE9HU1y40Gs=;Zl5BM7DeSXj6Pp0JdBebGg=="
 ---
 

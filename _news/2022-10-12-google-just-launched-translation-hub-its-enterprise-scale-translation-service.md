@@ -41,15 +41,6 @@ related:
         width: 596
         height: 331
         isCached: true
-  - title: "Google launches its AI-driven Translation Hub as a cloud service"
-    excerpt: "The company says the service can save customers money and centralize the institutional knowledge of translating documents."
-    publishedDateTime: 2022-10-11T08:00:00Z
-    webUrl: "https://www.fastcompany.com/90794357/google-launches-its-ai-driven-translation-hub-as-a-cloud-service"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 19
 
 secured: "qmtnkmAcfwAolrrMNybXjF2JwcoAJr9pM0M1UUM8ndrHfiYSRjOUb5P/F75C9Glg2t6mcbC7q7VqoE7zUfenJcHkjYDcRyq/MefcFmRf7hTh2GPFBJ72FCFOqsYDK8Naw0o2GrWiVlMzWLPPKP6bK0/yokgxwR67ZVcZAzg4fLl/FBmYCO8GlBnoFJJsLeIB8sD+KLYLWlP4OmxOOFC2iyFi2U53R/e62Dgu064L8HN+EX0TcFkYqNVu6jeNiumY4gkEuFC5yoZZrbGIosJrweuczhX49zF/yz703+6HJU+SW6ZGF9khamkT1QVaoSrPCbk8OYYnVMknAkjwh/ADmzVPt94rGaY87em2Z7GIfXH7ZwPu7zL7fzwmGuuzuCj8tXrKY3mqEf8oTAxkMbxLS6Iv6hmnFWexnMwcibl1Sc36viAd63weyPSkTNDpJkgQErkLbhrSE+DJF0JHjg+jaKzrMZjBprN/iw6gipDUEvhLe477+TP82Fk8zF4UCoQx2hegmWImSoYYkPWrTd1xcw==;5fxiYhmMZGyQSEXsN8B7uQ=="
 ---
