@@ -24,22 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "The benefits of AI in Defence outweigh the costs – but only if you do it right"
-    excerpt: "There is a revolution taking place in the world of Artificial Intelligence and Machine Learning (ML). But it might not be the revolution that you think"
-    publishedDateTime: 2022-10-11T10:07:00Z
-    webUrl: "https://www.openaccessgovernment.org/the-benefits-of-ai-in-defence-outweigh-the-costs-but-only-if-you-do-it-right/145431/"
-    type: article
-    provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 35
-    images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/10/dreamstime_xxl_108269373-scaled.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
-
 secured: "W/OqpdH68ccrKpVgb0FUDbI3VjF8XhP2AkPDBXbNixKYJuuu5wojtUTO6w5n4C+IqqFyNwBlKjskKulKtmoFbppxZIEmU6qlKQ00V92bieDulseABNvQ5t+EBRWwEu/nt+SoYhZkqAmxAJleLgv/kUvmY8pJk5KPv3bpsGOYrRUCX+ZNpk5Kw0Rl2naMknjU9unMm/ffT6bjaxrF4BlX6nsnecNwEJ/2CaowhkA5r1KxbbNVHnUGA5rEq6S4eaDZILFRBcXltZajTbUmWSFzHBmZ3KSxLIWV5kHiFIC8TwQoNzqjqltLhZReLHidtwqyogmSS9aJBj1nBBGZYpG9mqenBB1Jb5yZ1fTYl0JVdgs5WR8meY0/ybAsqpWDmhBE55IMj7Cs6lJriihGbHyPvUjZClExUxEgQHdaob5Q7ML7ASMm7LBlmrwnObsedD0ksXs2uC5cEyJ1nWqAQaZPg1zfkflvYYYVu4AWOg/KUQTJF+iDRoThAZg8jqJsz7OxKf0iuU0omLdH0pGY7TavZg==;sxwdhbLrMfsjbfog88AmBw=="
 ---
 

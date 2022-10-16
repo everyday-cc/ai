@@ -42,6 +42,15 @@ related:
       name: Avanza
       domain: avanza.se
     quality: 3
+  - title: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars"
+    excerpt: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars - SiliconANGLE"
+    publishedDateTime: 2022-10-13T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/10/13/aws-partners-bmw-cloud-based-vehicle-data-platform-power-new-generation-connected-cars/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 3
 
 secured: "m63k06gzgtvUj9TdYttzhLPcKYxdiHetrt78IOgbqX1idUkqBYm/McsLc7hTUN3Yu3dyytTimDoaBZoulazLoFGUIhjWdwrMMayfooQpgQVvXoWWfoMaeNkMAA2qJhOSJSwcBwkU47PJZhMOg9LhIo68mPgYxZPqc3TqZMErE5NRTB2KF3okKGg2eCNNUSW8vp7bYrXdrCAib3OanyqtUGE5TAqa4LQbvYMm0XxRqCTvLH2m3bHBfeh0867U4lfbjZAMRDhKb8Ry1sWyLRjFlXHxs/SeVfUq7eh6dGz0cMinyykZ2Te8hithFQE/mpKqHRDawI5UYP9Ybd9JwEQ+0tvWOkBCHJgY8g/DHQdrseuQ6c18UNRsAV76ReNypY7uDs/AIdy5KGcFNEgl0pGwLUNT64XtVKALBCVLcFxnGf3gWI1AJUm/QCAHaefPkd7bNkjRC7Xyw2aFQUjP5kL7OIY40qAVawGEzWAebnanS6R5pQvifWMdWQjWHc9Ix24WpF7d93sohzwV0TKOEi8Ksg==;FS5I9WF6I945gK/JmqD9sA=="
 ---

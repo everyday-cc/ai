@@ -42,6 +42,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
+  - title: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars"
+    excerpt: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars - SiliconANGLE"
+    publishedDateTime: 2022-10-13T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/10/13/aws-partners-bmw-cloud-based-vehicle-data-platform-power-new-generation-connected-cars/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 3
 
 secured: "aaP5u86gkFipdf7c9Z3khnicTpiwLzli5FsEzLuInUEoAnp0oOVwtEb9jQLm77ijPYVSg59bMyVdP4dw8orbNYOhk5TLjhmwO7EmA4sRUU5D9mLBzcgfWHxDvH7/iXYN3im37w7i+Qx13sdXUfSWiBIRTE5f/EedqvAYTNoRvFo0uiC6FM1EjFQuYLhRjNQZDyiocIy28Iw9j/4ZAjtUw4NbwnOfDmWOlRY5zhxWBlRKetzkC6WudWbi6ud+4glsroP7AwZkG0bPpGetvPbEAdv81MMlepRvVpqCSjchMWE7dkb6v7n2r0MK1DIfqIby6Lc2haydRwGnXZoqkw3UMgZ+avpc/WhjBZPxipd12S8=;A8UAVseOsuvDWEGcwELsmw=="
 ---

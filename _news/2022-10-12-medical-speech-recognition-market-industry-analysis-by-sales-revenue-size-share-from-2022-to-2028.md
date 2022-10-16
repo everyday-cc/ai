@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/medical-speech-recogniti
 webUrl: "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11"
 type: article
 quality: 71
-heat: 251
+heat: 241
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence Chatbots Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
-    excerpt: "The main goal of this research is to inform participants in the \" Artificial Intelligence Chatbots market \" about the effects of COVID-19 so they can evaluate their business strategies. The regions covered by this Artificial Intelligence Chatbots market research study include North America: United States,"
-    publishedDateTime: 2022-10-11T11:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chatbots-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 Research Report"
     excerpt: "The Healthcare Artificial Intelligence Market 2022 report provides an in-depth assessment of the market's size,"
     publishedDateTime: 2022-10-12T06:41:00Z
@@ -72,6 +58,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
+    publishedDateTime: 2022-10-13T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
   - title: "Machine Learning Courses Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data | 125 Pages Report"
     excerpt: "Global “ Machine Learning Courses Market \" Report is a detailed and comprehensive analysis for global Door and Machine Learning Courses market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-14T04:00:00Z
@@ -188,29 +183,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Data Catalog Software Market Size 2022-2028 | Share Analysis, Research Report, Business Growth | Top Countries Data"
-    excerpt: "The Machine Learning Data Catalog Software Market 2022 report provides an in-depth assessment of the market's size,"
-    publishedDateTime: 2022-10-11T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-data-catalog-software-market-size-2022-2028-share-analysis-research-report-business-growth-top-countries-data-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Smart Irrigation Software Market 2022 Industry Size by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Global Smart Irrigation Software Market 2022 report is a thorough assessment of the worldwide industry with the"
-    publishedDateTime: 2022-10-11T09:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/smart-irrigation-software-market-2022-industry-size-by-major-companies-profile-competitive-landscape-and-key-regions-2028-top-countries-data-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
     excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
     publishedDateTime: 2022-10-14T09:02:00Z
@@ -234,6 +206,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "India Event-Based Vision Systems Market Analysis By Size, Share, Trends, Future Growth and Forecast To 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the India Event-Based Vision Systems Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-13T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-analysis-by-size-share-trends-future-growth-and-forecast-to-2030-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
   - title: "Mobile Speech Recognition Software Market Overview 2022 to 2030, Future Trends and Forecast | By -Apple, Nuance Communications, Alphabet"
     excerpt: "The research on the Mobile Speech Recognition Software market provides a complete picture of future requests and significant entryways that will be beneficial for market participants and people. The industry value and growth rate are assessed in this study taking into account both the primary market constituents and additional driving forces."
     publishedDateTime: 2022-10-13T04:12:00Z

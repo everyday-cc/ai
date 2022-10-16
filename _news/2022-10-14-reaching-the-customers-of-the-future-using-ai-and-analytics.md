@@ -38,15 +38,6 @@ related:
         width: 580
         height: 326
         isCached: true
-  - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
-    excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
-    publishedDateTime: 2022-10-15T01:30:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2022/10/14/oregon-state-lands-200m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "Designing Edge AI Chips Small And Cool"
     excerpt: "As a young company with experienced physical designers in AI processors, Hailo set out to transform the AI chip industry by developing the best performing AI processors for edge devices without the need for an external memory. These ultra-low-power ..."
     publishedDateTime: 2022-10-13T07:03:00Z

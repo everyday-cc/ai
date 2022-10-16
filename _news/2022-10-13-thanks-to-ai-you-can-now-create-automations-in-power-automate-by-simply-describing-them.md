@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/12/2420274/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/"
 type: article
 quality: 80
-heat: 90
+heat: 80
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Automated future: AI in the automotive industry is revolutionizing the vehicle market"
-    excerpt: "The automotive artificial intelligence market has been segmented into deep learning, machine learning, computer vision, natural language processing (NLP), and context-aware computing. Deep learning is the primary technology adopted by companies in human-machine interface (HMI),"
-    publishedDateTime: 2022-10-11T09:43:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/automated-future-ai-in-the-automotive-industry-is-revolutionizing-the-vehicle-market/2707013/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 50
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/ai-self-driving.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "E0YvrXnZi72i5FbXuGOqP+RI7qmdH636WxvbqB73Eg1aSbFTzG88SIPfdUibCy2pBO3/MHNg/t5mqgEW6WFHA7IyuzcmoU0CNnJlWGO4BlR0TdnjVn6CEQLQLwC+187iyXw9rDuCoi2OAUJiWhPQt4c9cQfJ1EoGYA1srnI5qQ+axvhSJBIkWb0PuXmHSEQQkreNw8nkhiGCDYLW4zqdARggT63/eHz1Sucr3rRbUTPksexR4Zq/rp4meVRTji4tD78LCvNNg76JlDhw0A+zlTq+cgo3v3ZR6FupRzetaRbHPxxN+4rgQmPurng+jFEeBXWFMDnsB6KNZZLPXVqGvSawrbDjavBUYx2WLgLngxRxY5haJbhzzxe87mCoTTVEcRotc58nMmeYAiFmzF5JNb0AUi6NB+LiP8TU5VWHP65ji4j8wsqxsOKc/3hdLJ+VoD5/0qGjtz6iS7zZIYCW9p+oOStBo+iqAIi8cfXL3mkOk+srwCGMQ6G320px5kfUombMaqCALX6K+HY1hThXTA==;QADjqOI9AyKuzURuujwPBg=="
 ---

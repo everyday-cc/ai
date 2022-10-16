@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-comm
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14"
 type: article
 quality: 65
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-14T06:41:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "Z4W1QBjhcK8vCPgvkbzYUAb/T0jDzuQ2OJ/1ERRqS7KAVkEbPDLSE1ZcW+lXDsKNbj0SWPlNhlS1qzApX1pyof9rIe3YTjIcM5vj6qMP5WBrPQ1SN9dgTZf22XSY1sqkL7u1ySkKHJYDa1RZprsZcLTDe0LGM4Mbk/0VtY22OgcMPt1bOju+AsYW8hBOJJV8jfRElB5lYXwNldYBasV5TT3lupfC21R3p3GRhCmtvW//ZDh1y0nZtCwW7h4kszMcSwd+nTyam8EoXotk4lisBhkhO4mgYdbtGszI9zSF7fWMX5LaDpku3hFb8m/WZ9IpUYoB4UKYbts9DxNdjOct+IgZObMMVKT6sZjciwyWi+o=;D2xHIpTzIsWG4nZUC2AEqA=="
 ---

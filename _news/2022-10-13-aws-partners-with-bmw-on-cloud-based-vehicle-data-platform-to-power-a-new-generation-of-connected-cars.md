@@ -19,22 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "LNER gets on track to deliver data-led innovation through the AWS cloud"
-    excerpt: "UK rail operator London North Eastern Railway (LNER) is using AWS to underpin a digital transformation programme that’s delivering innovative data-led services to passengers. Danny Gonzalez, Chief Digital and Innovation Officer at LNER,"
-    publishedDateTime: 2022-10-11T09:18:00Z
-    webUrl: "https://diginomica.com/lner-gets-track-deliver-data-led-innovation-through-aws-cloud"
-    ampWebUrl: "https://diginomica.com/lner-gets-track-deliver-data-led-innovation-through-aws-cloud?amp"
-    cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/lner-gets-track-deliver-data-led-innovation-through-aws-cloud?amp"
+  - title: "AWS and the BMW Group Collaborate to Deliver BMW's New Cloud-Based Vehicle Data Platform"
+    excerpt: "With the launch of the 'Neue Klasse,' BMW's next generation of vehicles, our offboard cloud platform, powered by AWS, will process roughly triple the volume of vehicle data compared to the current generation of BMW models,"
+    publishedDateTime: 2022-10-13T15:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/10/13/9692169.htm"
     type: article
     provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 59
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 30
     images:
-      - url: "https://diginomica.com/sites/default/files/images/2022-10/rails-gb874cc560_640.jpg"
-        width: 640
-        height: 427
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
+  - title: "AWS and BMW Group Collaborate on New Cloud-Based Vehicle Data Platform"
+    excerpt: "Amazon Web Services, Inc. (AWS) and the BMW Group today announced a strategic collaboration to develop customizable cloud"
+    publishedDateTime: 2022-10-13T17:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-and-bmw-group-collaborate-on-new-cloud-based-vehicle-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+  - title: "AWS and the BMW Group Collaborate to Deliver BMW’s New Cloud-Based Vehicle Data Platform (Businesswire)"
+    excerpt: "With the launch of the ‘Neue Klasse,’ BMW’s next generation of vehicles, our offboard cloud platform, powered by AWS, will process roughly triple the volume of vehicle data compared to the current generation of BMW models,"
+    publishedDateTime: 2022-10-13T13:00:00Z
+    webUrl: "https://www.avanza.se/placera/pressmeddelanden/2022/10/13/amazon-com-inc-aws-and-the-bmw-group-collaborate-to-deliver-bmws-new-cloud-based-vehicle-data-platform.html"
+    type: article
+    provider:
+      name: Avanza
+      domain: avanza.se
+    quality: 3
 
 secured: "5VezUV7uOorcxe8A9QpKuLR3M7GM8riB728JbD7dTPupoKxySK5srzpGbbLxIPq3bd3W2bvxFwO+BNSEaGl7ff3dZsUbBkHRln5QNjialgji2BcVuTw/zFkX+t5XKDfoZ7DEa5Zk+GhlSKowrgzMPr69p3ZICao+w9Ctb0kB19N1h1Ivjr6ldnMtpimX/3pRDdpuNmycVUxdfzXbqRZniWThdJm7f9hkWeZ6PkXb1YZexnWfqrDWnIF4fm6O7eDJU73pi/xwZUutSQ2idOUiAClIqhPnUVMlrqRbSdCUYt6npAv+2UthZEok/nyY1msIrc/M8R3uv7+Eh712bcWLsIqYqg7IEJTndxiJeBRTJYzbxnPWyI66opi98fp4icyrv9CpY+zKTAjrZEfHRzXnAm/hR4lJrXu+qZQK9Bi9IqKnHjZvpklQVOlWroaVKZR0YEhfgmwZnapzikU3B30abebEqgPJNDkGNXfdCLoUDxsZnAqWlq90MLCTc6gT7OUNHyQIKCT/3ErqOkwYI7jkDg==;2Z3ZNf8QjAzAWzp/AkbAkg=="
 ---

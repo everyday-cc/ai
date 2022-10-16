@@ -39,6 +39,20 @@ related:
         width: 400
         height: 267
         isCached: true
+  - title: "Nevro Announces FDA Approval of HFX iQ(TM) Spinal Cord Stimulation System to Personalize the Treatment of Chronic Pain"
+    excerpt: "HFX iQ(TM) is the First and Only SCS System that Uses Artificial Intelligence to Optimize and Maintain Pain Relief Using Each Patient's Response. REDWOOD"
+    publishedDateTime: 2022-10-12T22:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/nevro-announces-fda-approval-of-hfx-iqtm-spinal-cord-stimulation-system-to-personalize-the-treatment-of-chronic-pain-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Nevro Receives FDA Approval for its HFX iQ Spinal Cord Stimulation System"
     excerpt: "Nevro Corp has received approval from the U.S. Food and Drug Administration for the Senza HFX iQ spinal cord stimulation system."
     publishedDateTime: 2022-10-13T21:25:00Z

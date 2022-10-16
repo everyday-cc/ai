@@ -27,22 +27,6 @@ images:
 related:
   - title: "IronVest bets on biometric AI to stop identity theft"
     excerpt: "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding."
-    publishedDateTime: 2022-10-11T10:00:00Z
-    webUrl: "https://venturebeat.com/security/ironvest-biometric-ai/"
-    ampWebUrl: "https://venturebeat.com/security/ironvest-biometric-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all"
-        width: 1200
-        height: 850
-        isCached: true
-  - title: "IronVest bets on biometric AI to stop identity theft"
-    excerpt: "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding."
     publishedDateTime: 2022-10-11T17:00:00Z
     webUrl: "https://venturebeat.com/ai/ironvest-biometric-ai/"
     type: article

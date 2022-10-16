@@ -7,7 +7,7 @@ originalUrl: "https://www.nature.com/collections/icbbiigbah"
 webUrl: "https://www.nature.com/collections/icbbiigbah"
 type: article
 quality: 71
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
-    excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
-    publishedDateTime: 2022-10-15T01:30:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2022/10/14/oregon-state-lands-200m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
   - title: "Reaching the Customers of the Future Using AI and Analytics"
     excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
     publishedDateTime: 2022-10-13T22:59:00Z

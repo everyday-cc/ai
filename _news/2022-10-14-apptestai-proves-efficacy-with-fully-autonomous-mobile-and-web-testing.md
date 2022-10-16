@@ -1,28 +1,25 @@
 ---
 category: news
 title: "Apptest.ai Proves Efficacy with Fully Autonomous Mobile and Web Testing"
-excerpt: "Apptest.ai provides a proprietary SaaS solution for mobile app testing that leverages state-of-the-art computer vision and natural language processing techniques to automatically test for errors without writing a single line of code."
-publishedDateTime: 2022-10-13T21:04:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
+excerpt: "Apptest.ai is pleased to announce their strengthened global sales partnership with LG U+, one of the largest mobile carriers in Korea. The two companies co-marketed at"
+publishedDateTime: 2022-10-13T21:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
+ampWebUrl: "https://www.benzinga.com/amp/content/29261621"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29261621"
 type: article
-quality: 51
-heat: 51
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
-  - Natural Language Processing
 
-secured: "Qxt+G0uDrGhCu5/+Y8ixJM3ae89Sa84P8H87i1ULLR2AReB22gDGLkc0tAXclzNJOCzK7C3n4J+Fc9LVKMdNY+v8Q50Zrl3q6leLa0HISOsAMlejFIF7i9CQnvWqj35e/nq6b0McOm9kRM7xh3qm8lz+a439m+Bz6imaRAyCKjisOkzrxA+twjw3HQ2keIhYk+QKwuh+frRWmhXBoxTz5P2orryVrZr56YzsvcNEmAdY+889DQunaAHiNEu1T9w+62JAUmH4oFNwrk/OOrtyO23Ht/ApDb8H9tKi10QVWOBS8o0YXsIEtxMHhCsJNLhcgW686AjmcyFqW7M+1mwXsKmYPswTcQcLIjxTqnmt5X8=;VEegzZu3KxmYghGs8iDPtw=="
+secured: "49CnRoNcwSoMl/fmSTvvZErpLMTkITsVDTYcZ0aoQFHJvErtv/pTNXZ7y+WLP0mGbSYTrjIzSRnoXBJrehCJ4S7NdQkWAXeqh51A2POlbqYH3NsTHARtwH7n0jQeHi+nZGN3iybpqETYn5qoTqe21RAgc+ed+6DeE+lQlshyLQ3OBWdk6B8JSzubOLgY3qdVbPwf1LJvz3cCR4T0Xi9kAKFJciBTBOQ2C9f0vt37qggHApq0Ww2JX3KFrjJX8xXvTNSysqK1FvB7F7WtaEPMjL32mSmI1vL+iSgCWlMfNvNahnqvP7hRfgzGDKBwpNdoM+lzQIQsQYdMDfAH88Rbs6KY9q6aIaCCuKJydAEw1Fo=;YUi1W6KNFFhxdywQl/74hg=="
 ---
 
