@@ -7,7 +7,7 @@ originalUrl: "https://www.medtechdive.com/news/ai-matches-humans-at-detecting-me
 webUrl: "https://www.medtechdive.com/news/ai-matches-humans-at-detecting-mental-health-red-flags-in-text-messages-st/634020/"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI equal to humans in text-message mental health trial"
-    excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care."
-    publishedDateTime: 2022-10-11T21:03:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
   - title: "Algorithms are as good as human evaluators at identifying signs of mental health issues in texts"
     excerpt: "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness."
     publishedDateTime: 2022-10-12T03:53:00Z

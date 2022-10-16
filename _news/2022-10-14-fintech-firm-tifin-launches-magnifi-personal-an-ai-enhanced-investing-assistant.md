@@ -48,6 +48,15 @@ related:
       name: SmartCompany
       domain: smartcompany.com.au
     quality: 36
+  - title: "Data analytics and AI set to drive fintech"
+    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
+    publishedDateTime: 2022-10-12T10:00:00Z
+    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 19
   - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
     excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
     publishedDateTime: 2022-10-13T07:34:00Z

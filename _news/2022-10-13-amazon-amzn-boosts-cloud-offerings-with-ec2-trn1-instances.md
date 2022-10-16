@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-w
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances?amp"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: Nasdaq
@@ -21,15 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AWS Announces GA of EC2 Trn1 Instances for ML Model Training"
-    excerpt: "Amazon Web Services today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips. Trn1 instances are built for high-performance training of machine learning models in the cloud."
-    publishedDateTime: 2022-10-11T19:56:00Z
-    webUrl: "https://insidehpc.com/2022/10/aws-announces-ga-of-ec2-trn1-instances-for-ml-model-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 53
   - title: "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Are Now Available"
     excerpt: "AWS announces general availability of Amazon EC2 Trn1 instances powered by AWS Trainium Chips. Trn1 instances deliver the highest performance on deep learning training of popular machine learning models on AWS,"
     publishedDateTime: 2022-10-14T09:10:00Z

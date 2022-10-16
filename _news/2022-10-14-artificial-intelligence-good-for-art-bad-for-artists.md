@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-14T02:40:00Z
 originalUrl: "https://www.villagevoice.com/2022/10/13/artificial-intelligence-good-for-art-bad-for-artists/"
 webUrl: "https://www.villagevoice.com/2022/10/13/artificial-intelligence-good-for-art-bad-for-artists/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Autos
 
 related:
   - title: "Artificial Intelligence: Good for Art, Bad for Artists?"
@@ -27,7 +28,7 @@ related:
     provider:
       name: Laweekly
       domain: laweekly.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.laweekly.com/wp-content/uploads/2022/10/Decipher-Spin-1024x1024.jpg"
         width: 1024

@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much"
-    excerpt: "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system."
-    publishedDateTime: 2022-10-11T22:04:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/"
-    ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 79
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "42% of Tesla Autopilot Users Treat Their Cars as Fully Self Driving"
     excerpt: "The Insurance Institute for Highway Safety (IIHS) recently published the results of a study on how users of partially automated vehicles perceive their capabilities. Regular drivers of Cadillac Super Cruise,"
     publishedDateTime: 2022-10-12T15:13:00Z
@@ -49,17 +33,38 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
-    excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
-    publishedDateTime: 2022-10-11T22:02:00Z
-    webUrl: "https://www.sacbee.com/news/nation-world/national/article267180096.html?taid=6345f74e49b6990001cd286d"
-    ampWebUrl: "https://amp.sacbee.com/news/nation-world/national/article267180096.html"
-    cdnAmpWebUrl: "https://amp-sacbee-com.cdn.ampproject.org/c/s/amp.sacbee.com/news/nation-world/national/article267180096.html"
+  - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
+    excerpt: "Almost half of drivers using Tesla and GMC driver assist technology report feeling comfortable treating their cars as fully autonomous."
+    publishedDateTime: 2022-10-12T19:00:00Z
+    webUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving"
+    ampWebUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
     type: article
     provider:
-      name: Sacramento Bee
-      domain: sacbee.com
-    quality: 17
+      name: PLANetizen
+      domain: planetizen.com
+    quality: 44
+    images:
+      - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
+        width: 1000
+        height: 668
+        isCached: true
+  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
+    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
+    publishedDateTime: 2022-10-12T06:50:00Z
+    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 43
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "An4tY3UH234rY4l+Hy13S6/StH/D8FFXOvbPuzCLvNeh/1L3d4Ek7zizAJ7PZZ6igrhW9TcHilttu8780avLghumQKgsguqk6wAEfue0g6tQy+/G31UF3gBs4fhrbBffDUHiWD4Wu5r5ZrQsUNq6upvsepRL8NI17K1PEmv5RBkFYNem2uAL25YNd7ceLD27l7vHvSSlmSDIrgqFIqCS2a8uwtRVcGk9U336r4SkjCTJte8J5Sowhqn3f9t8Hy5D57Ed1+0BfpsNZqORZ//YgD667UDjqv1W/mKbFyxtDu4dKhgCSvoo3Sx9lrKMBb4YPxe0utfvULeXin/7A58b/mLJ/eYTVwduZSTVFA5eBNE=;+QZbVbQ8b5Mrb2h06Q7/Kw=="
 ---

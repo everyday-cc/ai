@@ -7,7 +7,7 @@ originalUrl: "https://www.govconwire.com/2022/10/mandy-long-named-bigbear-ai-ceo
 webUrl: "https://www.govconwire.com/2022/10/mandy-long-named-bigbear-ai-ceo-board-member/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "BigBear.ai Names Amanda Long as CEO"
-    excerpt: "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who"
-    publishedDateTime: 2022-10-11T20:45:00Z
-    webUrl: "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 89
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "BigBear.ai Changes CEO As Government Results Slow"
     excerpt: "BigBear.ai reported its Q2 results in early August and announced a new CEO, Mandy Long, previously an IBM executive. See my rating on BBAI stock."
     publishedDateTime: 2022-10-12T19:10:00Z
@@ -59,24 +43,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
-  - title: "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer"
-    excerpt: "Get 7 Days Free Sign In Sign In Topics"
-    publishedDateTime: 2022-10-11T20:43:00Z
-    webUrl: "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer"
-    type: article
-    provider:
-      name: Morningstar%2c Inc.
-      domain: morningstar.com
-    quality: 17
-  - title: "BigBear hires IBM vet as new chief executive"
-    excerpt: "This transition follows a prior reworking of the artificial intelligence company's senior leadership structure."
-    publishedDateTime: 2022-10-11T21:25:00Z
-    webUrl: "https://washingtontechnology.com/companies/2022/10/bigbear-hires-ibm-vet-new-chief-executive/378301/"
-    type: article
-    provider:
-      name: Washington Technology
-      domain: washingtontechnology.com
-    quality: 4
 
 secured: "MulrL8q/w9XGjFKXDFS8nM8bVNIBDXbJyiH6pL6IJ2eeUPj90emtoW1hItTcCDqvnx1XjdYIKKcMbayh51dM84nw+46nfEHXmSDK6mpGCVaRkN7EXH3X6b7PM3/HSenbaSASSLPbgqWTa+xTAwD77rWEXFo8HuIPfiLDdqqDW58sBtP/j+Dan2lPY6masIW8LJHt/3a/s/REt5ZXUiymSqsBkjMYMHGMU9tLjhH3oQ8dDUWMaGYh+8pI4ABiMHX5cWpHmPMe3Yzc36JS92MipGq/tYNfg/l+UuLXAYraODFt5k9ruqnk9EWWxmnZg3eR3DtP0Onr3i9JTjwGxucR0F/lGBktNrwK9VYBRaU4dvY=;BbwluHBJUvy80+2ex73GgQ=="
 ---

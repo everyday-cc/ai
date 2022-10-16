@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool
 webUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -17,54 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Artificial intelligence and robotics"
-    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
-    publishedDateTime: 2022-10-12T09:09:00Z
-    webUrl: "https://www.nature.com/collections/icbbiigbah"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 71
-    images:
-      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
-        width: 580
-        height: 326
-        isCached: true
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Data analytics and AI set to drive fintech"
-    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
-    publishedDateTime: 2022-10-12T10:00:00Z
-    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Using AI to solve human error in data-driven analytics"
-    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
-    publishedDateTime: 2022-10-13T03:56:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
 
 secured: "ZB5UwIspuZWY4huKzZaymVtyPzXoVYTcRV2ASSgJmnowOXeQKfBbGlgXjv+2tvPBM9D+x1ksgQWFhLFQpoFryXAYqvCiEAQIe7vegF1ddpzWJzr5YHQzVE0dlfehbbjVxSpMowT0GT3tLA8fAzENES05Lv9vB56PdKzMr/8AvQFSbBTNEnvwq8h/j/g+vJfByp7TyCyf3x1fJ0xpTzO2/zOKvDanjMHqBWs8Gi9457jm+ZugU0kaEHbf87DSu9K3qh8AMcfFk24YfzcVe3hIlpUqYgn5oBXuO1BCjklWXoyP4jjiBCZsSFx3WO2mCzVWk+b/V8OB/XxbFRto5SMfEKtjdguvY52lDfCQtjH3cwo=;s47MzPFDKTeUZpE5A78xdg=="
 ---

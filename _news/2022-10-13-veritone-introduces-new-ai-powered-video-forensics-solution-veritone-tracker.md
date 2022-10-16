@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2022/10/13/9691865.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691865.htm"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,36 @@ topics:
   - AI
 
 related:
-  - title: "Veritone Introduces New AI-Powered Video Forensics Solution – Veritone Tracker (Businesswire)"
-    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today unveiled Veritone Tracker, a new AI-powered tracking solution that leverages confidence-based similarity detection to track people and objects through video recognition software."
-    publishedDateTime: 2022-10-13T11:00:00Z
-    webUrl: "https://www.avanza.se/placera/pressmeddelanden/2022/10/13/veritone-inc-veritone-introduces-new-ai-powered-video-forensics-solution-veritone-tracker.html"
+  - title: "We are entering a new era for AI-powered robotics"
+    excerpt: "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics."
+    publishedDateTime: 2022-10-16T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/"
+    ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
     type: article
     provider:
-      name: Avanza
-      domain: avanza.se
-    quality: 8
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Artificial intelligence and robotics"
+    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
+    publishedDateTime: 2022-10-12T09:09:00Z
+    webUrl: "https://www.nature.com/collections/icbbiigbah"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 71
+    images:
+      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
+        width: 580
+        height: 326
+        isCached: true
 
 secured: "jN5MYfQmNC8qjEP+2wG80G/sHBIkSVhTsjhgANBjqpQ70gPhncDeWeL+77Do0AJ2G/FtEVNm7H5S2weCAzEowet4T7cKKnJzqcMOGC/HY5mwYV3BmuqbgjzgvqC/ZtxUrZWx4IE9aCg5E6EtrAvA3uAwMWEITiQjCAvJSlM+Utib2rhTl3gtmuR4pmU2NLFYWJZS3dXZeyGfZn8AnCAWOP3VtMKbgSOSxddRB2LPsBTDJ0186TlBWKyeKumDZbLiwhMTaWZ8+nM7dnIFLS/3j6RJAMhlLd3V+qpwO862clxARceCTL8DZc+w9SjGwqged9T/1ndrf8WFZ32Nw1rU7Jd2bBxscEid/ToQvxagVh8=;xlkmefZ6/XgzMX/EQkOhXw=="
 ---

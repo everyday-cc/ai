@@ -19,52 +19,57 @@ topics:
   - AI
 
 related:
-  - title: "Artificial intelligence and robotics"
-    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
-    publishedDateTime: 2022-10-12T09:09:00Z
-    webUrl: "https://www.nature.com/collections/icbbiigbah"
+  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
+    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
+    publishedDateTime: 2022-10-12T16:05:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
     type: article
     provider:
-      name: Nature
-      domain: nature.com
-    quality: 71
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 38
     images:
-      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
-        width: 580
-        height: 326
+      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
+        width: 300
+        height: 204
         isCached: true
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
+  - title: "Posts Tagged \"ethical AI fintech\""
+    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
+    publishedDateTime: 2022-10-13T04:11:00Z
+    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
-    images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Designing Edge AI Chips Small And Cool"
-    excerpt: "As a young company with experienced physical designers in AI processors, Hailo set out to transform the AI chip industry by developing the best performing AI processors for edge devices without the need for an external memory. These ultra-low-power ..."
-    publishedDateTime: 2022-10-13T07:03:00Z
-    webUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool/"
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 36
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 34
-  - title: "Using AI to solve human error in data-driven analytics"
-    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
-    publishedDateTime: 2022-10-13T03:56:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
+        isCached: true
+  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-13T07:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
+      name: Zawya
+      domain: zawya.com
+    quality: 17
+    images:
+      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "4S6a2WmT5AqrEwAOgrL+8gAG89battXB+4qkMh5GX9cSIG4q0PPQjPgJZ1e/F8OBN1m2bTid3enIi19NHDpjpFmBet43YGffNhFS7N9YGDpkQ0fQsWsUQz853//PjxG1c3BJDH7zOAsLjIX5kloSzHqYBooI93fC9G/RQLn5Zfa3hnpCy5j/s3yyW2SlCRHFBK53Fa8ockFBI9OjYXfnLM6EdJxCk87HrlrDIk0C1S7cP6tI29Ya7vC18iqvo9h3wKJxkE0tFCeI5o/gygrSkRohj8PIk4zZqbzkBugZ9YkEjdo3mtX1y7gMYefdPjtCNxOYH0saxTUbed0l6PMXuFnrgp29WPR1vVuKHrbgcwY=;R7PGgQzcG2x23kEG13SqQQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-g
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
 type: article
 quality: 56
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/10/2023-Toyota-Voice-Assistant-2-1024x555.jpg"
         width: 1024
         height: 555
-        isCached: true
-  - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
-    excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
-    publishedDateTime: 2022-10-11T21:47:00Z
-    webUrl: "https://dallasinnovates.com/lets-talk-toyota-google-cloud-expand-next-gen-in-car-voice-ai-systems/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 38
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Lexus-interface-voice-assistant.jpg"
-        width: 970
-        height: 464
         isCached: true
 
 secured: "Ay8phu+tweuGK8nSD2K8s9bcBAWoN+zWvt7QmmNB41zhCovsaFuCaW8uRRrVkIXhwyAiFxUnKuWPDtwhICVknEDP41c2dQvkWZ7a5NulJSq4vzhDuuXAW+2hvf9WpyrZjKKW81lJdbJxCnEQfBf2sOT/voFNCw7xC3+zVHs3mibMSlQ4cYxOgqcIt9hRYp1c8y/Xp0JH2QUu/kj/E8MEr3j4EJ046NE0bOPl1ixlMtexS7f80FafYcQWwEjKjsXi1ceQdiB+VxKItEEvMy89COXOzNlVRwUqtSw482BSngLxBmfkgrzz3dkveO7UsF51q6YroFl02WFtWmjlhrGlGsaUCRYm8c26jTvRMkfr9NLPF1iS1KdEUsVKGRzB8DmzkT31YfeA++9pshaIcfdBKgxL4aNgGfn90dyfphD0tIHGQqgme7OHZ2KmdLvdy1ojvR/x9jC+XFHk8SAJ5Xv/L2p99i5pa66R3Ea89qxlpu+IHMzGDkXGf8hnMbUK+eAfnKxuS627PfP4W8iawsgE6g==;MCF/kULKbEUMCDGpUcyXKg=="

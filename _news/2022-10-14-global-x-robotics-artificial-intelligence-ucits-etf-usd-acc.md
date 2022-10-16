@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T23:59:00Z
 originalUrl: "https://www.cnbc.com/quotes/BOTZ^-IT"
 webUrl: "https://www.cnbc.com/quotes/BOTZ^-IT"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: CNBC

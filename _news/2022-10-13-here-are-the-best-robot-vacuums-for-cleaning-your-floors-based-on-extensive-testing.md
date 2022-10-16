@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "The best robot vacuums in 2022"
+    excerpt: "Robot vacuums are an excellent way to clean ... making them a worthy addition to your smart home setup. Plus, you can control them using your smart speakers, Google Assistant, or Alexa."
+    publishedDateTime: 2022-10-13T15:12:00Z
+    webUrl: "https://www.androidpolice.com/best-robot-vacuum-cleaners/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2019/07/Robot-vacuums-eufy-roborock-1.jpg"
+        width: 3917
+        height: 2938
+        isCached: true
   - title: "The best October Prime Day deals you can still get on robot vacuums: iRobot Roomba, Samsung Jetbot, Roborock and more"
     excerpt: "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ..."
     publishedDateTime: 2022-10-14T10:33:00Z

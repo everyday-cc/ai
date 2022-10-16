@@ -44,20 +44,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Fake Joe Rogan interviews fake Steve Jobs in an AI-powered podcast"
-    excerpt: "A voice synthesis company based in Dubai published a fictional podcast interview between Joe Rogan and Steve Jobs using realistic voices digitally cloned from both men. It takes place during the \"first episode\" of a purported podcast series called \"Podcast."
-    publishedDateTime: 2022-10-11T22:23:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/10/fake-joe-rogan-interviews-fake-steve-jobs-in-an-ai-powered-podcast/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/cyborg_steve_jobs-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Steve Jobs stars in Joe Rogan podcast thanks to artificial intelligence"
     excerpt: "Artificial Intelligence has created a fake episode of the Joe Rogan Experience with Steve Jobs - and the internet is divided."
     publishedDateTime: 2022-10-12T20:29:00Z

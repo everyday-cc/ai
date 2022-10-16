@@ -8,9 +8,9 @@ webUrl: "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosm
 ampWebUrl: "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp"
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 71
+published: true
 
 provider:
   name: The Mirror
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg"

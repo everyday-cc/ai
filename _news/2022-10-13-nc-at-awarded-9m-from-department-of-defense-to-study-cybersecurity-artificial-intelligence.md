@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Sophos CTO Joe Levy on AI in Cybersecurity"
-    excerpt: "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals."
-    publishedDateTime: 2022-10-11T22:10:00Z
-    webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "GBT is Researching the Development of a Machine Learning Driven, RF Cybersecurity System and Protocol"
     excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”) is researching the development of a machine learning driven radio frequency (RF) cybersecurity system and protocol. Typical wireless security depends on a software and hardware identification for each wireless device."
     publishedDateTime: 2022-10-13T12:53:00Z

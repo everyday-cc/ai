@@ -36,15 +36,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "AWS Announces GA of EC2 Trn1 Instances for ML Model Training"
-    excerpt: "Amazon Web Services today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips. Trn1 instances are built for high-performance training of machine learning models in the cloud."
-    publishedDateTime: 2022-10-11T19:56:00Z
-    webUrl: "https://insidehpc.com/2022/10/aws-announces-ga-of-ec2-trn1-instances-for-ml-model-training/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 53
 
 secured: "14AXmZsFfMkLec5uySwk9A+Y7bE580OAqntxVqaarUf9Z9nziD8IL2LJmtCavLjm+y+g0KQMxB01mzSUcOYarXGvmbjiS779TuHg6aPnOXo4FT18TpFhYnemosYjyIUX/kXj7PlMfM4ueDjd2I3T4NcJOj03QcVuhD5UKMgg6RDHEJPCkac84UlAs/mrPltJVR/VvUJ0klPgovxeq1bFPEc1aO7oBbjCN9jbJeHrq9RMJveSfv8H5jNLs9g9LpTH3XLuLP1K5rq9z7aIuqOAHqY7k8kU6ocKlDOZgdgFPo/TX8oPuo53csB/WgMLi+WWKLtju0fUYK5obnqlIVPj8XUkLxcGQv6t5GJ2GrqWpQUGhpndgCjTZq3hU3i9boFf2uHVZuy2t0CwZXF6QpDmAwPyvckicxu7o5STILXveIrWt63iF7o5eTRnPpChSSyFa7QoHbl8qOUMRZuVkVq9w3bjo3yrZrlPjA0MxkT+Dp0LmcjHB5ApIK8BdeCTM1pVJwnB+4bPCr65xrgGJVKN0g==;xC5bTR8w/J8RnNIly0xnHw=="
 ---

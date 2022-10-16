@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-10-12T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft integrates AI image generator into Edge, Bing, and a new app"
     excerpt: "In an example of Microsoft Designer provided by Microsoft, someone types a description of what they want to see, such as \"Ombre cake decorated with flowers and fall foliage,\" and they can then scroll through AI-generated image examples that they can choose to add to their design."
     publishedDateTime: 2022-10-12T14:16:00Z
@@ -334,20 +348,6 @@ related:
       - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
-        isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T13:28:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
         isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."

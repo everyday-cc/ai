@@ -19,51 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Study: Many Driver Assist Users Consider Their Cars Self-Driving"
-    excerpt: "Almost half of drivers using Tesla and GMC driver assist technology report feeling comfortable treating their cars as fully autonomous."
-    publishedDateTime: 2022-10-12T19:00:00Z
-    webUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving"
-    ampWebUrl: "https://www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
-    cdnAmpWebUrl: "https://www-planetizen-com.cdn.ampproject.org/c/s/www.planetizen.com/news/2022/10/119187-study-many-driver-assist-users-consider-their-cars-self-driving?amp"
+  - title: "How Self-Driving Cars Will Change the Roads"
+    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ..."
+    publishedDateTime: 2022-10-13T00:00:00Z
+    webUrl: "https://www.rd.com/article/self-driving-cars/"
     type: article
     provider:
-      name: PLANetizen
-      domain: planetizen.com
-    quality: 44
-    images:
-      - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
-        width: 1000
-        height: 668
-        isCached: true
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T06:50:00Z
-    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 43
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
-    excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
-    publishedDateTime: 2022-10-14T19:13:00Z
-    webUrl: "https://insideautonomousvehicles.com/faction-and-gocar-partner-for-self-driving-tourist-cars/"
-    type: article
-    provider:
-      name: insideautonomousvehicles
-      domain: insideautonomousvehicles.com
+      name: Reader's Digest
+      domain: rd.com
     quality: 24
     images:
-      - url: "https://insideautonomousvehicles.com/wp-content/uploads/2022/10/Faction.png"
-        width: 600
-        height: 453
+      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
+        width: 2400
+        height: 1600
         isCached: true
   - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
     excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."

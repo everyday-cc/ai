@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-gbt-researching-development-a-mach
 webUrl: "https://www.tmcnet.com/usubmit/-gbt-researching-development-a-machine-learning-driven-rf-/2022/10/13/9691887.htm"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Sophos CTO Joe Levy on AI in Cybersecurity"
-    excerpt: "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals."
-    publishedDateTime: 2022-10-11T22:10:00Z
-    webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
-    type: article
-    provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-2.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
     excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"
     publishedDateTime: 2022-10-12T18:35:00Z

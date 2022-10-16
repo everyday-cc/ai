@@ -7,8 +7,8 @@ originalUrl: "https://www.nature.com/collections/icbbiigbah"
 webUrl: "https://www.nature.com/collections/icbbiigbah"
 type: article
 quality: 71
-heat: 111
-published: true
+heat: -1
+published: false
 
 provider:
   name: Nature
@@ -26,47 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
+  - title: "We are entering a new era for AI-powered robotics"
+    excerpt: "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics."
+    publishedDateTime: 2022-10-16T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/"
+    ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 119
     images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all"
         width: 1200
         height: 800
         isCached: true
-  - title: "Designing Edge AI Chips Small And Cool"
-    excerpt: "As a young company with experienced physical designers in AI processors, Hailo set out to transform the AI chip industry by developing the best performing AI processors for edge devices without the need for an external memory. These ultra-low-power ..."
-    publishedDateTime: 2022-10-13T07:03:00Z
-    webUrl: "https://semiengineering.com/designing-edge-ai-chips-small-and-cool/"
+  - title: "Veritone Introduces New AI-Powered Video Forensics Solution - Veritone Tracker"
+    excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today unveiled Veritone Tracker, a new AI-powered tracking solution that leverages confidence-based similarity detection to track people and objects through video recognition software."
+    publishedDateTime: 2022-10-13T11:13:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691865.htm"
     type: article
     provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 34
-  - title: "Data analytics and AI set to drive fintech"
-    excerpt: "Data analytics and artificial intelligence (AI) are the top technologies of the Fourth Industrial Revolution that are powering fintech solutions, found a Mastercard study on the state of fintech in the Middle East and Turkey markets."
-    publishedDateTime: 2022-10-12T10:00:00Z
-    webUrl: "https://it-online.co.za/2022/10/12/data-analytics-and-ai-set-to-drive-fintech/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 19
-  - title: "Using AI to solve human error in data-driven analytics"
-    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
-    publishedDateTime: 2022-10-13T03:56:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 15
 
 secured: "0YCwNvnSZGcq+0Q66dzrbYj4cpv/riKN97A0qQTakgr4kZbcFKjFLXxw56lNowfqIGqvSQ3BBAUnS9SrfNb3+9+SwZhbJ+1lYHN/uillyPjESqdpHUCfVv+IZTWt7U3zetydEgn/XF8EVdP7Hjkv2PHY7dX80T6TBLhLc9nAsraBbp4aUuIKmZgTSGDB4S1hNPdwTwrZ3GqJl1cQw2RPmMT5eKD3mNbZRa990KBH0zdOOTYBn6OajmN+MBU4GUCY44Vw+J/KJ1REZhCtzHkxYg6pQZFdhfDsmN8fQJzdy0gzHq2gLjldZwnHWgTIx6su09mJijjbwxMp9O9a4SPD9WA7atdntigYjQUJYcAhmnc=;kO9ucZ/86JrWmi4+WiXexw=="
 ---

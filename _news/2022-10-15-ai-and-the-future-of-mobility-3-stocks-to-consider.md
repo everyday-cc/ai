@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T20:44:00Z
 originalUrl: "https://www.nasdaq.com/articles/ai-and-the-future-of-mobility%3A-3-stocks-to-consider"
 webUrl: "https://www.nasdaq.com/articles/ai-and-the-future-of-mobility%3A-3-stocks-to-consider"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Nasdaq

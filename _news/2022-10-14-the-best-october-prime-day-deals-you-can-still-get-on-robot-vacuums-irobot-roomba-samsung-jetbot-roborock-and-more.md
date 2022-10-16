@@ -36,6 +36,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
+  - title: "The best robot vacuums in 2022"
+    excerpt: "Robot vacuums are an excellent way to clean ... making them a worthy addition to your smart home setup. Plus, you can control them using your smart speakers, Google Assistant, or Alexa."
+    publishedDateTime: 2022-10-13T15:12:00Z
+    webUrl: "https://www.androidpolice.com/best-robot-vacuum-cleaners/"
+    type: article
+    provider:
+      name: Android Police
+      domain: androidpolice.com
+    quality: 39
+    images:
+      - url: "https://static1.anpoimages.com/wordpress/wp-content/uploads/2019/07/Robot-vacuums-eufy-roborock-1.jpg"
+        width: 3917
+        height: 2938
+        isCached: true
 
 secured: "ahv0OZd6x4b7pqrIHLoFa/VVw+PW2rPnoqgK9Zr/sO6RD9GXjKxuni4S1HMQfSKTeSdq4+KsLgd34smus+nb1RIXR1O4iOSljulqgLjckyyLaU0Knp4F5yMhQh0xOEssMFMurHiaUislCEMxDbijaRy4OVILNU+9kVTFKWh3YsAx/vYMbSUUTG4ouQoEf31aa9QtWNklmDQbDHsGMbvzRnvqE80Yp+kTK1HMe8xMp8+Td9vz5J3ICsa+LErnDhFPKSNEa4abhOSalFpopH4mY8EQoIZns45ZukPUVYGpNxBsPqql8vAV3ZCknE/19hpxibYGVEgWet6cGMiD+OO10ti0vkVl/SgjWr8tZ2WDbZo=;rZgpwYQzHOtzdv7LVVT99Q=="
 ---

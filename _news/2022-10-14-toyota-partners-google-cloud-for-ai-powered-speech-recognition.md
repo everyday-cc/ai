@@ -57,20 +57,6 @@ related:
         width: 1024
         height: 555
         isCached: true
-  - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
-    excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
-    publishedDateTime: 2022-10-11T21:47:00Z
-    webUrl: "https://dallasinnovates.com/lets-talk-toyota-google-cloud-expand-next-gen-in-car-voice-ai-systems/"
-    type: article
-    provider:
-      name: Dallas Innovates
-      domain: dallasinnovates.com
-    quality: 38
-    images:
-      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Lexus-interface-voice-assistant.jpg"
-        width: 970
-        height: 464
-        isCached: true
 
 secured: "OMXaWE0itdDEB/vs1sb798WNCPEdTD7k0ExkJ78r6yrXsUB6aB6iHsSMN0Llu+/ISSuza2K+5E23G4SqWWr17sLAMHUq8oFJN8XCIQUFr3o8Q69guqjNF49fr3sSRjxPKI9X6FVn3GlovZ4pYQAECb+iXLNeTIclCTnVcrCKUMbu5XEAUOEVXOC/DqA7kvTGukrZ60cBtJLEKop/RRuLv+7LU+dJ+viUAFLlEwjapdUVhye6VXbG8sMdeE7cXnNEBe+4PJva+qGEdEswmuIc3eR6DLeh19eeBHuYGAkpjAtMpfWc4OWTi7KXPMMpHkL++XMBoB0WPQZM2MPfHok1KeBUxO/VxdWUSjE7tJzsnBOitjiwMS0rviiWhMO7zM2ap3Dsfww0i7oFudlwE7ON67yhMJHgPNy4njTWjJPICcyVPSUq0FqnwvxRJbeuN2DJSmgpbfgWLqBtOjGnoOmGPmwyNZyrkQZRbV8E+PBICTWjZqagQhlX89CUVqiuiGOBrO4+EPVUAUb18gI/vuzFtw==;Mz1ZRxD30k/atF0igseDog=="
 ---

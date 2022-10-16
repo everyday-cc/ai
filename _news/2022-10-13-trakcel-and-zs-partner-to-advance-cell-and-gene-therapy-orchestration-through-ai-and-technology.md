@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T10:48:00Z
 originalUrl: "https://www.pharmiweb.com/press-release/2022-10-13/trakcel-and-zs-partner-to-advance-cell-and-gene-therapy-orchestration-through-ai-and-technology"
 webUrl: "https://www.pharmiweb.com/press-release/2022-10-13/trakcel-and-zs-partner-to-advance-cell-and-gene-therapy-orchestration-through-ai-and-technology"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: PharmiWeb

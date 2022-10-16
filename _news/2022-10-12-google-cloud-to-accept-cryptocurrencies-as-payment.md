@@ -43,17 +43,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "Google Cloud to start accepting Bitcoin, Dogecoin, Ethereum as payment"
-    excerpt: "Google Cloud today said it will start accepting cryptocurrencies as payment for its online services. This method will be offered first to a chosen few customers in the Web 3.0 space, according to the internet giant;"
-    publishedDateTime: 2022-10-11T22:09:00Z
-    webUrl: "https://www.theregister.com/2022/10/11/google_cloud_next/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/10/11/google_cloud_next/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_cloud_next/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 24
 
 secured: "NtTx85pzhEivAPjmeIVJnfVR7JrDkeUGFXfwkufKRUWPJ9q5kUdDlArwVGTuLS7Vkl7V/d67vOwJ0kqB3Zb6AHKN4iORfhFiWtgbH7jqqrna5AA/xYQoQzK1F9POyMrUw7zwhmf742uvXbpkZyjS8P/dByGgb7LCsBLpPBMWXrII0S0qS5tdow4XQzeMxLC2g2DFhF3i0rEgZCFkKMDnhu/CwW2kPajC7H9tsV4cfyN3GRuS23YCo5EmfJXlZjy/WFq5zbUTBWm9qZl/xMGHHOioQjgix/uaUvMIxHYe5dDPOB58q7jWofsYj274XzZncBpcix0OJETFCYbkz6tvAQxGWCncZJzqJKJKUgsjk/O3UVJS6uDZn5M65XCTedASpc/9MUiRcyJKEi0hz9R3D0+OQWFm5c8RvQvJOO8c1ehiyP4HspQRh3ItOPycsVAeZ8H6iwqs1fy7VrG8XQk6rPOnMmcE1b2Mxx4nEiLykVPeEYrGc4v3QRtkyC7QAbn21HFMA7pjH+RAHR7Ru3gFEQ==;PN5WYoA3sxJH/PB+FqZdgw=="
 ---

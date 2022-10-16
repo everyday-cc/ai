@@ -28,7 +28,7 @@ related:
     provider:
       name: The Mirror
       domain: mirror.co.uk
-    quality: 49
+    quality: 51
     images:
       - url: "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg"
         width: 1200

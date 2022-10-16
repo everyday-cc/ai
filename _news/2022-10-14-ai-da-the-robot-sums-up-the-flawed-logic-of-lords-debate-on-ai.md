@@ -63,22 +63,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng"
-    excerpt: "A robot addressing a Lords committee evinced a clarity and personality all too lacking at the top of the Tory party"
-    publishedDateTime: 2022-10-11T21:46:00Z
-    webUrl: "https://www.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
-    ampWebUrl: "https://amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/politics/2022/oct/11/dead-eyed-ai-robot-ai-da-sets-the-bar-high-for-truss-and-kwarteng"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/4a3ae4282c813b0b73212427e0e4352a2039a3a4/2_737_7326_4398/master/7326.jpg?width=620&quality=85&auto=format&fit=max&s=7c24efff0b4aad62622d4a417924cfdd"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
     excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
     publishedDateTime: 2022-10-13T21:33:00Z

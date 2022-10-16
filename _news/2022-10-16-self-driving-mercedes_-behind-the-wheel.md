@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-16T12:12:00Z
 originalUrl: "https://www.dailymotion.com/video/x8el3br"
 webUrl: "https://www.dailymotion.com/video/x8el3br"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: DailyMotion
