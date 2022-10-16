@@ -2,7 +2,7 @@
 name: "Knewton"
 overview: "Knewton is an adaptive learning technology provider with a mission to bring personalized education to the world."
 type: "profile"
-heat: 71
+heat: 42
 
 website: https://www.knewton.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Knewton"
 
-secured: "gNjfe7f1mfJ+jLiXqK9rorIqNnm60zo8lL9klCIAX44ZIPaZVeutZp6LXk4kUIoAcl9a3VgV1rbaOc6jlsD9VCW1CPMpHVT4v7w7bTaeTAT/Z3RhinT/8roQkVyt8NfYPxYI0dFHax1Mo48DD8eeS5yf1d6BcUzMrTNHWfBI9g6OyuPJprigmQVaOsJXiRSGrWoB/Lin1up3jHrb6ER1ETTE0k/28ngU9GriW2+j7PXGIP/VS52MacMMBn4nE8Nfns4fMkwg6G7MAN2NJR9ULAvMbC0b3Lgjksxsb+0w66ODE1kyKOXasknVrGLeTUsmN7FZA54I1XNEwE1B6VYx2ZmIKnU7+SIyCo3SDg91u6n7pMZ3f3IK/Xfjta0LfRYmn8dd3dm1QmfWtnqJ0gC7Dr+DE2e4XO7ObFzRihP1u3g=;0YixvCLz/YPtRzKuC31aYw=="
+secured: "PHWhelUj/ZWyW7vuYG9ciXY5xiK7LJUjQBxppqTHLi7R6CsgAWq4V8EKb43WY4+eVfFGegYs/5QvPQF/YWrobY4tUh4Tx5uT85lF2J4dz45w4nySbcN3nFn5ZHXtv7POVmsEcngO/FbtHAmM7a9IzQF4waVf2/u4PcEFqxwEtAprE16VWTRFRmV732Exg674g9mJ6UsVKdPrEHfVrNyA6R0LKVgbm5nMLIMuRcJ5iOsQU8BtHAv81HRbmfJVhLmgdd4qlj/3fgZjxuVDxjdWt0QPxT3x/wN9YcIcgmqk+tihxIdkDLaf5W6qQtM7jhE/M0WRUAgfC7aiakRywv/x598Eg7RGLLM9twvDT29X0ffCFOYKW+LzRceVnN1OUWKvCqTVDhOQK4a97NREZqBHie5vIEbUL0CTXvhiJJ+FptI=;2NPP4XXJHnS3O8B/Ejwp2w=="
 ---
 
