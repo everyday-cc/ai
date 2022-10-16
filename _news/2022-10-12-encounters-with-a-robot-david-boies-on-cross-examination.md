@@ -24,17 +24,6 @@ images:
     height: 633
     isCached: true
 
-related:
-  - title: "Encounters with a Robot: David Boies on Cross-Examination"
-    excerpt: "That lawyer who is cross-examining you might as well be a robot, says Boies. “It's going to have every aspect of a human being except you can't persuade them, you can't intimidate them, you can't control them,"
-    publishedDateTime: 2022-10-11T11:42:00Z
-    webUrl: "https://www.law.com/litigationdaily/2022/10/11/encounters-with-a-robot-david-boies-on-cross-examination/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 19
-
 secured: "zGgDohpCNOHkVzaNAqbLWh8V9O03+NdsI6HZC+wRqrS0Ng7Pxz17mlXcwNtKQejcdM8m7bPmh3MV3uzr//XCpamItuxGRgh4pqwOLVCOsIj8WNCk5PBQYnvWYfjBvxSfBODM8f/mlnDRmWF6pae+SuCsANPzIxdrsZBScIVt/R8eCVggybNff5wMhbEX6RDhe1ZKu2nwCPSpoEFR9gqCLn9DD0HTz5zpF3BqLFU8x8k7nyuka6eQIESs0gX3BC10+OfH3sDzYncYjEmPpnMKWmcaPaD7lblD4m4KYC+CD1PXJ8CFbXiFXCBGI/56Bc7Tu/Vj/ZNMdjJP9jCeLTqzlmNe4JwORSYlCOLd2287iDXvvQXMd2B3kRjvO0SWABOiS0v2L01OQ47/5q6QpzLaIna2qENfKLIVuMXu0mAeicVuv/rsqmTYWgg4+XY9YgdqrpPNnkq4XdNkAewzCIKpNW1M/8KomoRfw/sejtfNgfXW2/Aj/l3bD8G9D6z2iIYsMd8m+Co3czRqkVyJSFSVMg==;jSWViObCPzcVs4Y2OrFRqw=="
 ---
 

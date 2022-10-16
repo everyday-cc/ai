@@ -108,20 +108,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
-    excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
-    publishedDateTime: 2022-10-11T13:00:00Z
-    webUrl: "https://seekingalpha.com/article/4545877-google-cloud-next-open-data-ai-advancements"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "DhZby19vSI6jjTu0QW53P7vp1c/r+BPrsncQz/GzWrfmXSBeD7jUXM7U/h/NnINFfRSpznx5xPI4BpXzLOX3NpgBQUBbKgB66MHtDEUEV0UkLQ/XMzg5t8+A9+KPnE12BMugSUAo2qUe0GoWiW5OvLLFAy8VdXg8itLQlJOuxr4fTdUF2lOkHn2qHFAldHFxnQIIFfvJUtj7BRxcKtv0IvgJyy5diZCYx9Z/y2+1AInwMk6nLkOyazczdw+nJ0y3phr3GiIZxTAIgd+MwX1Azlt2JHjpD2SbAFjmWE6UHzaac7QKijAB/bQBhODkmO9HZV31EaHo68z+qlA7NFtEepUNtHYOZYjto3zfZnBUJh8Irj/5xugDQ+WvJqIbqeoOZ6ZPwwHElzI36DX1/A9+n//udqTM6PS+s1RI+KQNKVRvxMhvhUD8VdK/N3izZSDUt7GyYjLsPjtCDDixOoUm5wNkzjrwNpTcK9jlNXDPn40PcbQileF2QFkKQD4c/oI4CG+5+PFP9Z6yVTNBTpi/Cw==;qromKG0Oq6OIbRHP2sKwFw=="
 ---

@@ -2,6 +2,48 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-13-when-the-ai-goes-haywire-bring-on-the-humans.md",
+      "title": "When the AI goes haywire, bring on the humans",
+      "excerpt": "Surveys found that most organizations are not regularly monitoring AI-based programs after launching them. But human oversight can be crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221013-grocery-store-line-2020-ew-1127a-f8562f.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna52079",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079",
+      "publishedDateTime": "2022-10-13T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances.md",
       "title": "Amazon (AMZN) Boosts Cloud Offerings With EC2 Trn1 Instances",
       "excerpt": "These instances offer quick machine learning model training on AWS and feature up to 16 ... strength will continue to drive AWS’s customer momentum. Notably, Microsoft Azure has become the key growth driver for Microsoft. The company is currently riding ...",
@@ -239,48 +281,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-the-download-ais-life-and-death-decisions-and-plant-based-steak.md",
-      "title": "The Download: AI’s life-and-death decisions, and plant-based steak",
-      "excerpt": "The messy morality of letting AI make life-and-death decisions In a workshop in the Netherlands, Philip Nitschke is overseeing testing on his new assisted suicide machine. Sealed inside the coffin-sized pod,",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/",
-      "originalUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh6.googleusercontent.com/3uXn1NrHGpL8rbnt_pUfL1DJcMHscNoC7H6Gt4mP8Mwje0auvPd0unBoM9lsQnVuJ6KDFDAHI2TSFpSkZixoSP-nZfDINZc8juKy_-QDsx_S8oKEYM82qzlormhg03VNtUczjHqHVoFGyIMBJUkvYjMGUB274MRt4aFprKeXWWqLZrb3hEsez5KB",
-          "width": 860,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/",
-      "publishedDateTime": "2022-10-13T05:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -899,7 +899,7 @@
       "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 589,
+      "heat": 579,
       "tags": null,
       "images": [
         {

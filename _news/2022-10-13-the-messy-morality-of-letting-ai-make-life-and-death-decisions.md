@@ -42,15 +42,6 @@ related:
         width: 860
         height: 598
         isCached: true
-  - title: "The Download: harmful AI, and a deadlier monkeypox variant"
-    excerpt: "The EU wants to put companies on the hook for harmful AI. A new bill will allow consumers to sue companies for damages—if they can prove that a company’s AI harmed them. Read the full story. + How DeepMind thinks it can make chatbots safer."
-    publishedDateTime: 2022-10-11T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/11/1061036/download-harmful-ai-deadlier-monkeypox-variant/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 19
 
 secured: "6feyRUBvAK8lic+BrRpOGn7/o/eEqZ9Z7D6uusAoxxp/XH2PqvAsEZSNbyx7Tn47Cb06jeJt6phFVVojM/Iubbs2XOPCUix5njasRDVRv1Fqd4d9TK1mPY5Q8VARJZAwbqCTqjNf6ONo3ZOBTlaIFI/bKhla5bh/4KxpYfD+rrGyUTh+Y7eSBbDmcfyEIMRweTp/2fhylcjlZQ/iMH8NhPuXfdYcYvm7r0Is4M0GuvqlX/6Mcm15Ay58OX8xXwpZP9nBs7Pjsi1l6XYxzIJi/H9aqwVTarzAxtWAN4EyPHfw4MTB02mNvMb98XwthtGZOZMVtYlv0SFw9wWwTGR6tr3eVMoC07DqEYTrOp82b4NZ1b2Y4sixXNqtIIuvaT9TYAVqKmjgysIzMU4PnUk4Q8lPCDo7K8IZbpvB1fuEp1YB17arfzy7OcF5latE30cwZ3iqcMvKMLDSldvhKwHeiJyX0CZb1UisWNkW3ayl9hgFk8d29/Td9Uxy5XETLXz/1CNSA0gFp44Ng67WWf5j5Q==;Yo1kR+yhrSANrF/aYmhpSA=="
 ---

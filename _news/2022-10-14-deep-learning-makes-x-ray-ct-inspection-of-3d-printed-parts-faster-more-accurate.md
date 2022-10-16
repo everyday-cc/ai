@@ -35,6 +35,15 @@ related:
         width: 1430
         height: 806
         isCached: true
+  - title: "Deep learning makes X-ray CT inspection of 3D-printed parts faster, more accurate"
+    excerpt: "A new deep-learning framework is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography, or CT, while increasing the accuracy of the results. The reduced costs for time,"
+    publishedDateTime: 2022-10-16T04:23:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/10/221014135712.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 44
 
 secured: "hK+bcUsYg6dGCic1ku1XoQC/RvRSGBOgCI8mGvIJzqsenMdhIC1cbt9khSkwo24qinkEphqP0tHBsWFHoU3RIFLfxtM1LV8PwjgVxh/MaozlhhiBTAoYRJag5REnWByTZgWAEjSIQJ+Dztyp7JLJH16fpZh9lQX4KDntUSIM8JqVu4wTBIEtaTXo/pOhBS5UNpZjBTjJmG6ZdtKl4mocamSChg2dj2YcIPVSDNU9WI1Jd1sIUOo52tuZ1Z/XT/6GIOdaua4HxqZfUvkgQjlLzN37jk/hnDXOKVB/B9Pmis2fNLYjJJU6gZeyC43Mz/p96DxfUqkqHBSqe3sZpfaqZ+yg2ztmDiemcFj6RgtT4qg=;eLsQ0DMwkk/TAB2tUEeOQw=="
 ---

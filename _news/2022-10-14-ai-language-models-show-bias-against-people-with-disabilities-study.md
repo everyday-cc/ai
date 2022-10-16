@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AI language models show bias against people with disabilities: Study"
-excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
-publishedDateTime: 2022-10-14T15:59:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+excerpt: "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications"
+publishedDateTime: 2022-10-14T03:51:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
+webUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1665719039.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "AI language models show bias against people with disabilities"
@@ -110,6 +116,6 @@ related:
         height: 480
         isCached: true
 
-secured: "5j8FXHVfsPyuCt5pwYO2WRv2WnKi057bws7CdlXA5etSFkkL+DjWqcr1oVQg/JQBOLvqyr6LqSK3gjVz1d+PV6NQ8M7XZxSRZsMcRCUmyldEmYY90HYNq16OqolE7j862v35sIrYi6/5zCin2ibg+QMson11MTkfNuUhf72NWzUcVmJI7/67TG5J+Wz5tzBhLyw6aVrpaUx3YY6Exq4VR94DphsQlgvAMD328Ac2vjGqJhxO7wrS3ijdnnPgD8Q2nP4HomIIQst7kGFhMJzPgS27r7c1hoCd88mNA1sRWEaKHXa5Imx7zghGTStl9FHGKMkwOuAMyC8lxNzlH+fc2v+oNe7PUF1GDUbJ6YbYdGI=;NXDuAdNs+JXEnfg288oLkg=="
+secured: "Do7+F5ePPpJwxFzUMm3t3lLAi0gsczq9s+Kjh3kBJ/iFoD+6zxcCk7BeoJrqYt7bEJRqP6p+DD3MZRfKOkZ47+WTdoiPBBfqYuFPskIpB8wuT5WpxNQaiKwGShGfbNJIfzkkMId/ONtXJT93xSWd/HtCv4wZJRrEz4ofVj+j+ISM1AFcfLNH2eoS8Dma/3Un7MnbTVHpV6BoFhUNyAxyVeCoiNeehvdlskgPg/7tcn5kEwH93syBCCGmEhaQBXkwJS58DO5Jt39KIVdIM3+m5TaaKUQmEhhC8BOWNsLcmqw9SqG4paY30epTdYLWrFJsOoYEpBrrjFJ91KcNgXFZ/4kArjN2t5usxS7Kw5kfoaQ=;trhWrmuhC8csUNgG9TQIxQ=="
 ---
 

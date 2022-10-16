@@ -222,20 +222,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
-  - title: "Global Automatic Speech Recognition(ASR) Software Market 2022 Segmentation, Types, Application, Industry Share, Size and Forecasts to 2027"
-    excerpt: "The global Automatic Speech Recognition(ASR) Software market size was valued at USD 13410.0 million in 2021 and is expected to expand at a CAGR of 5.9% during the forecast period, reaching USD ..."
-    publishedDateTime: 2022-10-11T13:02:00Z
-    webUrl: "https://www.digitaljournal.com/pr/global-automatic-speech-recognitionasr-software-market-2022-segmentation-types-application-industry-share-size-and-forecasts-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/c31181b4c57fbf50845a2a5deb7d3d409d17a6a0-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
 
 secured: "3NLIkptVt4BJrFaOrngQ47QJ1eyf9bb1wZlmxMzdNhmNM25u5y7P+K5WBpH2aigJ5B8IagrJYpd01bvSTgtGCdiz4w7ZJSDvAXWd+rJNRQdk0h0CINM1gGw4rGt8hISXQr/9ItEH6jLxong6SA2MNep87G48SoWnxOL1vCZswGzUr0yrmxW02VnToZEXKR7YBeoRDuH/X5C9TTUYaP3z+UBmttp240mCtRH11Ujm7QZ+BkC/IANt6v9wyKi3Lzx7yp9QshoS+nYeCfPCh1yuj3/2PtS1jiW6fseWhWjbwkIBmyTtakooPjBPOxwTRT1QAvs4YlJktnvRWYRz3dtS5vHX+tLhk1aC/cXeijRDNTQ=;K/WlIiByXxA50gw/1k4XUQ=="
 ---

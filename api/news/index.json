@@ -217,7 +217,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -500,6 +500,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-deep-learning-makes-x-ray-ct-inspection-of-3d-printed-parts-faster-more-accurate.md",
+      "title": "Deep learning makes X-ray CT inspection of 3D-printed parts faster, more accurate",
+      "excerpt": "A new deep-learning framework developed at the Department of Energy's Oak Ridge National Laboratory is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-makes-x.jpg",
+          "width": 1430,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.amp",
+      "publishedDateTime": "2022-10-14T10:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1193,48 +1236,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-when-the-ai-goes-haywire-bring-on-the-humans.md",
-      "title": "When the AI goes haywire, bring on the humans",
-      "excerpt": "Surveys found that most organizations are not regularly monitoring AI-based programs after launching them. But human oversight can be crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221013-grocery-store-line-2020-ew-1127a-f8562f.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna52079",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079",
-      "publishedDateTime": "2022-10-13T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

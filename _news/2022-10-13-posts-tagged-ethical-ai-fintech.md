@@ -20,38 +20,48 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Top Nine Ethical Issues In Artificial Intelligence"
-    excerpt: "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality."
-    publishedDateTime: 2022-10-11T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/11/top-nine-ethical-issues-in-artificial-intelligence/"
+  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
+    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
+    publishedDateTime: 2022-10-12T16:05:00Z
+    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 66
-  - title: "Can AI rescue lab rats and guinea pigs? How new technologies could solve a major ethical issue"
-    excerpt: "Can AI rescue lab rats and guinea pigs? Science’s long-debated ethical question may finally have some answers."
-    publishedDateTime: 2022-10-14T08:17:00Z
-    webUrl: "https://interestingengineering.com/innovation/ai-rescue-lab-rats-technology"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 44
+      name: https//wallstreetrebel.com
+      domain: wallstreetrebel.com
+    quality: 38
     images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/10/12/image/jpeg/axTMOIazSZcZ4CbOYhC1h2qWly0KlnazrpRUzMIw.jpg"
-        width: 1920
-        height: 1080
+      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
+        width: 300
+        height: 204
         isCached: true
-  - title: "Ethical Dilemmas of AI"
-    excerpt: "AI is already visibly and invisibly woven into our world, but can it be trusted? There are inherent ethical dilemmas around bias, trust, and transparency. However, together we can find a way forward as AI continues to impact the world as we know it."
-    publishedDateTime: 2022-10-14T15:49:00Z
-    webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
     type: article
     provider:
-      name: Computerworld
-      domain: computerworld.com
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
     quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
+        isCached: true
+  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-13T07:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
+    images:
+      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "5YUZ1dkSAPcifiQbI+CtkYqj/RDkWsYYmn8uF41KyqYZLYZqn+xSUl7sJ2z3pvJKXV8vfwfwv4lvkH2CHQQHt/USj7neHkZrCzkoAbiXxV5glY+Gat1egdBaauREPsbjy+GboQktQqZ2WrO3UB3xotusmDyJS1cyYhrWsYag3YNP08VOEwtI6mZseuII7HdUDEap4viataohC3IaiC8hSjnRIJ9Anpp6EGAXKapunFlUIJSIG7qw3pCl9WG8q6HHO77BBqJmSQe56N/5WR9hMl8Y2XWZqvwEhgbR/CoUGXKiXi6XAQ4kycl4JmHyU2qG5JFyKNBGtgNLlQwkBRfEOoBFMy94z/NxJvIvRHmLH8lGhLrp09g0z++cr53ix3+mIXvBIM1cq4Eo+k5PdxI/4ajREnB220WXxy93Irr9vMQUvXRnEi2uNSOW488CE2ixNO8G/xSSCp4kTy2bBmP2lHAd3MXwTERheIVWGpF1yatQTfluO2F2aheNvXgMAecHE7M81wZh4CUtcLOEa9x6Dg==;w1mVJk2Xo5gNV64We9A0vg=="
 ---

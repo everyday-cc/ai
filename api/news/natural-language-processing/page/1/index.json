@@ -202,7 +202,7 @@
       "originalUrl": "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -385,7 +385,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 231,
       "tags": null,
       "images": [
         {
@@ -438,7 +438,7 @@
       "originalUrl": "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 159,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -484,17 +484,17 @@
     {
       "path": "_news/2022-10-10-wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform.md",
       "title": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform",
-      "excerpt": "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ...",
+      "excerpt": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire",
       "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html",
-      "originalUrl": "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html",
+      "webUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/f/aa/faa6d5ea-280b-54b2-ae4b-5e5c30028c8d/63443731cfe48.image.jpg?crop=1629%2C855%2C398%2C0&resize=1200%2C630&order=crop%2Cresize",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -506,12 +506,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T08:32:00-07:00",
+      "publishedDateTime": "2022-10-10T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

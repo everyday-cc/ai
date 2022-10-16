@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/am
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
 type: article
 quality: 89
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -102,20 +102,6 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Google Unveils A Host Of Open Data And AI Advancements At Cloud Next"
-    excerpt: "The process of leveraging all the technology tools that Google offers is complex, but the company unveiled a broad collection of announcements at its Cloud Next event. Read more"
-    publishedDateTime: 2022-10-11T13:00:00Z
-    webUrl: "https://seekingalpha.com/article/4545877-google-cloud-next-open-data-ai-advancements"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/944347618/image_944347618.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Google expands cloud to more regions, adds new AI"
     excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
     publishedDateTime: 2022-10-12T04:51:00Z

@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Posts Tagged \"ethical AI fintech\""
+    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
+    publishedDateTime: 2022-10-13T04:11:00Z
+    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 36
   - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
     excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
     publishedDateTime: 2022-10-14T14:46:00Z
@@ -50,20 +59,6 @@ related:
     quality: 17
     images:
       - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
-  - title: "Data analytics and artificial intelligence are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
-    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
-    publishedDateTime: 2022-10-11T11:38:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-artificial-intelligence-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-h59b4gdo"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 6
-    images:
-      - url: "https://static.zawya.com/version/c:MDc2YmQ3NmYtNTUzOS00:MTRkYmM0/fintechwhitepaper-jpg.jpg?f=3%3A2"
         width: 900
         height: 600
         isCached: true

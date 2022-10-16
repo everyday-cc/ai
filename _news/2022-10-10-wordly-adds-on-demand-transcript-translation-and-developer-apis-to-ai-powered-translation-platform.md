@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform"
-excerpt: "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ..."
-publishedDateTime: 2022-10-10T15:32:00Z
-originalUrl: "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html"
-webUrl: "https://www.victoriaadvocate.com/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform/article_7edb29d0-42d9-534b-8ef6-48924660843c.html"
+excerpt: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire"
+publishedDateTime: 2022-10-10T15:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
+webUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
 type: article
 
 provider:
-  name: The Victoria Advocate
-  domain: victoriaadvocate.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/f/aa/faa6d5ea-280b-54b2-ae4b-5e5c30028c8d/63443731cfe48.image.jpg?crop=1629%2C855%2C398%2C0&resize=1200%2C630&order=crop%2Cresize"
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
     width: 1200
     height: 630
     isCached: true
 
-secured: "Rk0X1PkaFl2LiL6KFn1PQwtOO34Q3cqo4ZAGvY5nAx3Me3yUkkV7ZYYYT3GvhdXFenK7JRuR+F7AlAgM9uhRbvkRVsFIxni6ZTyPSxJthAXMJC/1InGSXmTV1ii60D33RXgyLKv1tLeqf7t5r0vagqu0PO7qY3nSkuQF14DNwFtnDw+9X5LFhBpfdalaFY2HTWU1u6k3EgF9EdaXjo3N3af936F/1M8tvBi3/2+LJl6XGtEJf06yjDs90uaxUgT9ExNN79tS8xgLqbWVKgC1njV+eRrPujX4ddBoNxb6azW+w/5X9d81BUQAvrixNJoZf55sSGrHDCxkoqA1X2wUj5XPRFRnS3dVLzJSJZ8kcT0=;zsZSh4B/7Hx2HxUb8MC6Vw=="
+secured: "/hbv6VugAVMynbAxm9DYeAA7r5aAAQRXfDV6LPRts7+xj0CDDEPy7sz+gOMLEq1ioZf3u7BGmsoX5ZoA50b/W4YMTijB5s4CnDzUrD+aARzuZwMxjCNdhQx7ue7d8LBDNIsBdNnfYnoKWYJ1PeIkcjIZijlhROsgui26gee0tM1jfaf5lv/BBXzUKcLFVwX+RvJ9ljQBjcTUO34gmDHxt+upVnfA2RI8Akp04fvgP8l2aH89z1W5lObkJIxksIy9Z+Cj6hlC81My5qhi9vhG5UmB+HgDjkCN1WLo3r3mpfLy3Bt6dKqCdFkbwdYA6uHnkfQVpQeBO20l1vEsHAGCBNDU8BRed0kpCYeIW3EgtI4=;NRzeeBNJLyCLsKlhqcy+bQ=="
 ---
 

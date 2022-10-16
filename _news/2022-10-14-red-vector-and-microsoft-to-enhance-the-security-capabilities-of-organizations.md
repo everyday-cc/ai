@@ -1,25 +1,29 @@
 ---
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprece"
-publishedDateTime: 2022-10-13T17:47:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29258569/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations"
-ampWebUrl: "https://www.benzinga.com/amp/content/29258569"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29258569"
+excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+publishedDateTime: 2022-10-13T19:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
 type: article
 quality: 52
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -572,20 +576,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Microsoft, Liquid Cloud in deal to deliver cloud services in Africa"
-    excerpt: "Microsoft has partnered with Liquid Cloud to provide cloud services to businesses in Africa. Through its Africa Transformation Kenya breaking news | Kenya news today |"
-    publishedDateTime: 2022-10-11T12:16:00Z
-    webUrl: "https://www.capitalfm.co.ke/business/2022/10/microsoft-liquid-cloud-in-deal-to-deliver-cloud-services-in-africa/"
-    type: article
-    provider:
-      name: Capital FM
-      domain: capitalfm.co.ke
-    quality: 39
-    images:
-      - url: "https://www.capitalfm.co.ke/business/files/2016/06/MICROSOFT.jpg"
-        width: 630
-        height: 350
-        isCached: true
   - title: "Google chases Amazon and Microsoft in cloud with AI technology"
     excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
     publishedDateTime: 2022-10-12T18:40:00Z
@@ -665,6 +655,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "FyB+/z/C+ZcFDVvkxNv/UjNB+B1GELXB853lFD7KpYBmysbjWhbOlIeOeK4Y2IxIlzP2w2jEsm9wcUPPFi4eeBKxySdgegaX4zzNvx4voQORod2kZisJNixyqJYXjLLgQwWtOYg1Zv7HcIVTtCq/BfJSMp2gT0rHE/KMy0xNo5F499NRXYcrsr/tS9x/E8Eta3K20FSDG69fRKxenUR99iMEyHIbWe8MY5RzNIho3R3bNm4SUAkpKWKUZXyJCL9uDrDS1CXJNnuklAauTf0WPWuUJfXbFxBhdu52ZZehz8BsdBPlVYUjamYpf1Hn+dLpmNrrubS48wJCozDS+Wdv4vrzINXMK0eroMgT/3bA77c=;tGaO71wQmG1oRt2pyHsG0w=="
+secured: "m01GnzONVRj5piI2ngpmdMMjL1WBXFnJCPSlT3olZsxpHvxn5v4r8s4n9lXuwsmKZCDVLArYYaTIjqBoWyu2zVy7A0JIwyvArsam/xUPAAh1t+db0OoYfFf/qYBj/kuYkwT/aT9i0r7OiM9cgBVZDK34TvFrLHovL4cyUgFXy/4raKhSa/sO/NWcWRTPXmGq8gq49/ci02jhIBpuhnP2dZzf4j94CvBCefN3PCY/Mo4EnGfe1RI0CbU4fWjkaFbH7hSIl0+LDckOs5EniQYtwSC5ZzdW/S8gxO0/Y7XroOAV+vizTmYVbd5npWs3vN1YYsSP09vs/i26mXNgO9FMKyectY6KvRZwxwbpni2y8Bg=;XLKsvcMkocbEJSMvQGKSdw=="
 ---
 

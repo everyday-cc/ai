@@ -34,15 +34,6 @@ related:
       name: Indiatimes
       domain: indiatimes.com
     quality: 19
-  - title: "The next big fintech trend is tax planning"
-    excerpt: "Banks and other financial institutions are starting to look at \"embedded tax\" to give people more control over their taxes."
-    publishedDateTime: 2022-10-11T13:00:00Z
-    webUrl: "https://www.accountingtoday.com/opinion/the-next-big-fintech-trend-is-tax-planning"
-    type: article
-    provider:
-      name: Accounting Today
-      domain: accountingtoday.com
-    quality: 4
 
 secured: "tIjTwth8f7CCMcNmNMzz/TvyVpwOYeZ31syQxb0WM+pE7Jn29Chp99VRcuo6XTa5ZmcXVRyf+u3eDKcR8j5yIHaizhoea1xPkTfTDNayabQGc3ktfPZAkXNMo8FI1yLUxBSFaV45htSphLutiFKNrqMaGk8KH2LmW2k6cmWtnl6IyONA5MUncoh45hCvRbL0nq4QzC/jTIhQpfT4CjU/L0rl5/We1QmXbgbHLOJUFCC24HTUAb6s8JCOFQIqKAtcaJPdsDs7+/maUQYD+QJZFIJz9pChnJEAyme5BJGsCphPMFC6oQZvPCD2LJkkqCAu8lCUQVTuEdviN7f3GzHEEKVmJBmPwE54VcD+bg5WJHPSHTUaZfRAHLI5VN8TjV9Cs1v3AznRW196ztMuPCrHOHz5GAz0jO/Bw1TaDl0Ee5sL+tIqsLcG5UBxnBj1GbFV2ITKCaxH1eySTH5UEgxiyTEniV0Hy4JvOdM5J8NxeTnggt43HRXQepOsxStfKSagdPfLaeSS7sB8VVLL0nvl+w==;mtRiHe4wmjJJv0j+iBnjEg=="
 ---

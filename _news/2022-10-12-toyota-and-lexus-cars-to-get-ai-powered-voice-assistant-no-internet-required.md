@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-g
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
 type: article
 quality: 56
-heat: 106
+heat: 86
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota Expands Partnership With Google Cloud's AI-Powered Speech Services"
-    excerpt: "Toyota (TM) and Google Cloud announced Tuesday an expanded partnership that brings together Toyota and Lexus next-generation audio"
-    publishedDateTime: 2022-10-11T12:31:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-expands-partnership-with-google-cloud-s-ai-powered-speech-services-1031795820"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
   - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
     excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
     publishedDateTime: 2022-10-12T14:06:00Z
@@ -66,15 +57,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Toyota and Google Cloud Partner to Bring AI-Powered Speech Services to Toyota and Lexus Vehicles"
-    excerpt: "Google Cloud's new product Speech On-Device enables AI-driven speech services on embedded devices regardless of internet connectivityToyota to"
-    publishedDateTime: 2022-10-11T12:05:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/toyota-and-google-cloud-partner-to-bring-ai-powered-speech-services-to-toyota-and-lexus-vehicles-1031795636"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
     excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
     publishedDateTime: 2022-10-11T17:59:00Z
