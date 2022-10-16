@@ -7,7 +7,7 @@ originalUrl: "https://www.rd.com/article/self-driving-cars/"
 webUrl: "https://www.rd.com/article/self-driving-cars/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,38 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
-    excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
-    publishedDateTime: 2022-10-16T01:31:00Z
-    webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
+  - title: "‘Wait and see’ approach to self-driving cars"
+    excerpt: "A multi-million-dollar centre for worshippers of a controversial guru is taking shape in a sacred and historic part of Auckland - and it’s all funded through donations and volunteer hours. Two 22-year-old industrial design students making a low-carbon ..."
+    publishedDateTime: 2022-10-16T16:02:00Z
+    webUrl: "https://www.newsroom.co.nz/pro/wait-and-see-approach-to-self-driving-cars"
+    ampWebUrl: "https://www.newsroom.co.nz/pro/wait-and-see-approach-to-self-driving-cars?amp=1"
+    cdnAmpWebUrl: "https://www-newsroom-co-nz.cdn.ampproject.org/c/s/www.newsroom.co.nz/pro/wait-and-see-approach-to-self-driving-cars?amp=1"
     type: article
     provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 21
+      name: Newsroom
+      domain: newsroom.co.nz
+    quality: 59
     images:
-      - url: "https://www.independent.ie/life/motoring/06b11/42069391.ece/AUTOCROP/w1240h700/mg%20google.jpg"
-        width: 1240
-        height: 700
+      - url: "https://res.cloudinary.com/cognitives-s3/image/upload/c_fill,dpr_auto,f_auto,fl_lossy,h_840,q_auto,w_1200/v1/cog-aap/n/303/2022/Oct/13/yzCo62hCD5egmVeOllbA.jpg"
+        width: 1200
+        height: 840
         isCached: true
-  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
-    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
-    publishedDateTime: 2022-10-13T11:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 19
-  - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
-    excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
-    publishedDateTime: 2022-10-12T21:17:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
 
 secured: "B86lbRiVIb+oc9x/C6YU3WYMCSfYQ9uws/NkP8F3PrScHGUtsuvz4JAuALKg2IzW7rAPuUwGK/20WIDNgDeuOMmonupq45f8x9yEu9xm8/c+XyK/4k8crFBKqoO8ukSQ9EgpGKz2pgUEj5CMcHLcB/hYPnth/UyIp6rcvNbP5gi9ZJVolNzILvGEZXMarKa1I4ynZC5TzlXjEYmY5hjccTUgtSQxorI5h3edP2cxBXCKy+p7jGJZNbWkJoVoQA2snu3ZvgAIN2fCDUOJwqswvKtWFifbnpXsIElWBwc5uV6TQBAcr5RlsjaT4hkhW/gE6wEuHIEfGY2ooKgrTHNpGMON2/ozPP4BbDs/HY1b49Y=;Gm0Lnodo1csycj9WY1tlgA=="
 ---

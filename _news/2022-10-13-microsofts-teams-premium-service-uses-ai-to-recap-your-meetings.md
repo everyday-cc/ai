@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
+excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
 publishedDateTime: 2022-10-12T20:37:00Z
-originalUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
-webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
+originalUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
+webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
 type: article
 quality: 86
 heat: -1
@@ -157,20 +157,6 @@ related:
       - url: "https://www.zdnet.com/a/img/resize/4c7e307bd67283d15674453d3dcf9c5dc088bd3f/2022/10/10/bcf28bd7-43e4-4a94-9d2c-5096d2bdcc33/start-from-scratch-large-960-5fps.gif?width=1200&fit=bounds&auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-    publishedDateTime: 2022-10-12T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 99
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Microsoft launches Designer, its answer to highly valued startup Canva"
     excerpt: "Microsoft initially wants to pick up consumer use with its Designer application for graphic design. Over time it could bring the tool to companies."
@@ -349,6 +335,20 @@ related:
       - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
         width: 1200
         height: 800
+        isCached: true
+  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
+    publishedDateTime: 2022-10-12T15:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 69
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
@@ -631,6 +631,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "4PXWleB0bJgaoF5BGZQOWqUu7I+XB+WslakoDxWzpuwLLlY4i8CMLz0OBgzC6iMiTPXxNfvzdV0Qmivij+OMCF53+z6YFYWUWGjTsCyx7dllNotgaEpMXwZSgGaS3cl4icdFLJfciY/95ud4guDcUPZMhZSPukYiv07ypFPBzNVQQ+95eh3ESJ1/RnpzJBeKZ4MgV17X3U3yIftvuV2xzm6q2tucWlFTD+S7GxkEDiTGGjve49JR/scOKGKidLLCDZ1iW8OVsYBXDKYjyqXJrI091fxHWzeaPc5AV9UAYYcOoMSNIh6j4kunUnai2nLF2MVFRAgW/wAN7t9Wdykzh5JoVJwUcMSLzEiUEezNBLYlvi0dE43ogQMoBwxlfJJu+DwK8YNlas9j7Z1b44uct7vIcIluSqA9ymJnYzZb7qakazHHSBTQeT/0f1GafHMrIKCWpUYWaSc/lUVFROfsachUvAqTjylKDg9/42hFrC1Eu7D32OpnUPByM2J1XksVPuHWV/60M2zufcM/8bdYoA==;PMg2nnyV0d9VFTJXpjQBmQ=="
+secured: "lNMyDHh7GFC1ZbLNwrkjqD5ZoiT2aaNPk85uETlb1i2xQkXSbsMq/c5G1gDqBwQSINLnP4OvDoI5ONvHErlnh94MRP3wZN5J/PM4kJFGOLyqsb28t6eZON1yZyFhT7DFgDsYsJezd07yJwJ1z2xQ8hq5Ddw7Bhb3EG5T3CK7MtMzlheRmOy1hng+Fjcv4dZgGI+eziNPJebC58btW2KoB5OKrw6PVN1BPangxA8kF4CeyDzJX5DKzlQFHlUzI1LIJ97yLOjKl1fI0yxB2npmgirL3iEeQoMOrnxtz/cKxHcSOq/Mh+0W/G0f/GgTRrm11LBKkHqDAD2UBqAuFiu/YjtpEeChukiBMVBsyDkWxog=;ve/E26uYjdqXdmmB4sJbFQ=="
 ---
 

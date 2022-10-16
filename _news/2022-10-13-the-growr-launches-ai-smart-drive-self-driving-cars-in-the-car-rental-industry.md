@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
 type: article
 quality: 14
-heat: -1
+heat: 14
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "How Self-Driving Cars Will Change the Roads"
-    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ..."
-    publishedDateTime: 2022-10-13T00:00:00Z
-    webUrl: "https://www.rd.com/article/self-driving-cars/"
-    type: article
-    provider:
-      name: Reader's Digest
-      domain: rd.com
-    quality: 24
-    images:
-      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
-    excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
-    publishedDateTime: 2022-10-16T01:31:00Z
-    webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
-    type: article
-    provider:
-      name: Independent.ie
-      domain: independent.ie
-    quality: 21
-    images:
-      - url: "https://www.independent.ie/life/motoring/06b11/42069391.ece/AUTOCROP/w1240h700/mg%20google.jpg"
-        width: 1240
-        height: 700
-        isCached: true
-  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
-    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
-    publishedDateTime: 2022-10-13T11:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 19
 
 secured: "QfO+kOuqJPpphNmEcknmCktL8kOqDW5+BsZAAoVHFCtnADxpcqwZ2t8D+YviKIol70fS4XqwrSeDsTxDJFWSTMh6DCGQW83Im+ZBQm76pfSB+JtM2X+REm2rhufx+VqCxpYM/plbdG1K5W58wahrTVzG03BaXN9SqE/GV/eV+cHBJKlWV/68eW44QV8HyOb86dNP5SyND+5QylVlr2a2awkXpnF1NXudsx/xfS25msc7NeVKg5mt7qD2e0AqCKJDXfLhNlQglAwQYZAcCNwQpJ/Ff72Qex1uFN1QdxoB63SFpbWsmkY5c2viC033P7BORCamxnr7SlgLUHS7kxIly9XHwQmSO5tFqvJqn5KIg+yVAQ+p/n/lZxR4lI23I3HrY7C+JbW5m2kgMPTklHiIqtvRsBDX3Qmh7NEux+mtPZSbWJLopbXgqNMJ7Qb/x3O13fmcepQKIrS3wN1thoVXEoZwWZbdQCtdaMSQRzIYMQw6mE4ozb54fX0zqHCOA7kWtYu21jOuCaP86BdKaqf4iQ==;l6b52DhuIc0KH2LpJ4MQog=="
 ---

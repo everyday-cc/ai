@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/13/tatio-uses-ai-based-testing-to-get-diverse-candidates-past-the-resume-roadblock/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1024
     height: 833
     isCached: true
-
-related:
-  - title: "Key Rules and Cases for Patent Practitioners Working on AI Patent Applications"
-    excerpt: "On September 22, 2022, the U.S. Patent and Trademark Office (USPTO) directed patent practitioners to current case law and sections of the Manual of Patent Examining Procedure (MPEP) as reminders as th"
-    publishedDateTime: 2022-10-11T23:26:00Z
-    webUrl: "https://www.natlawreview.com/article/key-rules-and-cases-patent-practitioners-working-ai-patent-applications"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 15
 
 secured: "EnavgvBkgD+wma3WjezEYRL+9sOeLF3ZgLlNCNryRX+z0sZH4eQl9b49EzNVAMe/s5W6tIySgd0BH8nLXwx1pc+CcSIpYNton0vBvy0D9gApZ9HTrts6zQJRI3VUlYuetchwQ/f/pj0F9IQGOX0jI8texcnAvJFa3qIk67AsKQq1nh7ftepQ5WQkbY7DqKWR+YTugcAsncL4AmPt6jLt8Bh7h2wNy6LuvG0B7ASpDfUI3PPSVcvb1hnyEhe1S1nmixaQmmnfoCTAF2nnwK8+KhkVUMuQnq/DaQWbKhs1QHrMPsFFS+2KlaIAH+l8dnrUVRrpmiABXe7pkF+qZNuehndME5/cxfjz9YTqkByXTi27WDfrmhHNeVP3nJ2LcUD7Lrpkh2OIw/KzuDKNWKu0BrvflmqRVhcq24Q4u0NGqOBBO9MV2x+4gTTDtgGrLHsQTZRIJVtqv40o0L5BaxUWHRLPOPin4f0X6EfE3Y8+8uTBuGHjVo84kGDZ3/bfFmQG+qWNz+WfRHlJY3hNBvTLHw==;sahUaZs7vK23PN8ypWymwg=="
 ---

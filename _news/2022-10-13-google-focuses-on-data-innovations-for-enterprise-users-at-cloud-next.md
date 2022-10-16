@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_24.jpg"
         width: 472
         height: 315
-        isCached: true
-  - title: "Google touts open data cloud to unify information from every source"
-    excerpt: "Google announced this “data cloud” vision today at Google Cloud Next 2022, where it introduced an avalanche of updates to its existing data services, as well as some new ones. The new updates are all designed to make this vision of an open and extensible data cloud a reality."
-    publishedDateTime: 2022-10-11T23:44:00Z
-    webUrl: "https://siliconangle.com/2022/10/11/google-touts-open-data-cloud-unifies-information-every-source/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Google-open-data-cloud.png"
-        width: 662
-        height: 364
         isCached: true
   - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
     excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."

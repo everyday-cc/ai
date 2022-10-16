@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google touts open data cloud to unify information from every source"
-    excerpt: "Google announced this “data cloud” vision today at Google Cloud Next 2022, where it introduced an avalanche of updates to its existing data services, as well as some new ones. The new updates are all designed to make this vision of an open and extensible data cloud a reality."
-    publishedDateTime: 2022-10-11T23:44:00Z
-    webUrl: "https://siliconangle.com/2022/10/11/google-touts-open-data-cloud-unifies-information-every-source/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Google-open-data-cloud.png"
-        width: 662
-        height: 364
-        isCached: true
   - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
     excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
     publishedDateTime: 2022-10-12T11:20:00Z

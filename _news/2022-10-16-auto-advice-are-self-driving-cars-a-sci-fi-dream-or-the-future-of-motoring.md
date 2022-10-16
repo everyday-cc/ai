@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driv
 webUrl: "https://www.independent.ie/life/motoring/auto-advice-are-self-driving-cars-a-sci-fi-dream-or-the-future-of-motoring-42069396.html"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,38 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "How Self-Driving Cars Will Change the Roads"
-    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future. When you think of self-driving cars, you probably imagine a ..."
-    publishedDateTime: 2022-10-13T00:00:00Z
-    webUrl: "https://www.rd.com/article/self-driving-cars/"
+  - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
+    excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
+    publishedDateTime: 2022-10-14T12:30:00Z
+    webUrl: "https://news.crunchbase.com/transportation/self-driving-tech-startups-funding-ipos/"
     type: article
     provider:
-      name: Reader's Digest
-      domain: rd.com
-    quality: 24
-    images:
-      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
-  - title: "Googly eyes on self-driving cars reduce accidents, study claims"
-    excerpt: "Self-driving cars fitted with large animated eyes could prevent road accidents, according to a new study. Researchers from the University of Tokyo and Kyoto University in Japan attached robotic eyes to the front of a golf cart in order to test whether pedestrians made safer decisions when crossing the road."
-    publishedDateTime: 2022-10-13T11:55:00Z
-    webUrl: "https://www.independent.co.uk/tech/self-driving-cars-eyes-crash-safety-b2201950.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 19
-  - title: "The Growr Launches 'AI Smart Drive' Self-Driving Cars in the Car Rental Industry"
-    excerpt: "The Growr is a fledgling entrepreneur in a digital space. Recently, the company announced the launch of its AI Smart Drive and Self-Driving cars in the car rental industry. Orlando, Florida-- (Newsfile Corp."
-    publishedDateTime: 2022-10-12T21:17:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/newsfile-2022-10-12-the-growr-launches-ai-smart-drive-self-driving-cars-in-the-car-rental-industry"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 4
 
 secured: "XPpUCydqhFCBKJ7ygbXJtNwwqbLoELF1o1LF1wQB07qCYsuchesgNQZuMoZvB4I+tafUvHmSbqZO1gEDuz9SZrDkpCdRzmjttsThdtIrj7sfIIcaaFUHoz5rJHciJw44pOKZolsO4wZqznnEUvqOUE9Y8L6fNnKDtwFSreKjAqg2S5pKgsadGiUg1+zsqx4Ik8M2fC6D6sCIZSRSPcLpR8RJUufVrWUaoEx5Ff+OhoLPeKK52iELjA3I4azojGU5aCsRlYx75jnh0F04CDIt2yc6thzkxPrI4RuA2SsjI5eWTHWT1ERtnVDiM9EwcWeh69YKkI7I4iW0ywuGxbxX86yCVH1P2BX6HE9HU1y40Gs=;Zl5BM7DeSXj6Pp0JdBebGg=="
 ---

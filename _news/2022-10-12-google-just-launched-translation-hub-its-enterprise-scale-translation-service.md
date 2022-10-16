@@ -55,20 +55,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Google touts open data cloud to unify information from every source"
-    excerpt: "Google announced this “data cloud” vision today at Google Cloud Next 2022, where it introduced an avalanche of updates to its existing data services, as well as some new ones. The new updates are all designed to make this vision of an open and extensible data cloud a reality."
-    publishedDateTime: 2022-10-11T23:44:00Z
-    webUrl: "https://siliconangle.com/2022/10/11/google-touts-open-data-cloud-unifies-information-every-source/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 26
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Google-open-data-cloud.png"
-        width: 662
-        height: 364
-        isCached: true
 
 secured: "qmtnkmAcfwAolrrMNybXjF2JwcoAJr9pM0M1UUM8ndrHfiYSRjOUb5P/F75C9Glg2t6mcbC7q7VqoE7zUfenJcHkjYDcRyq/MefcFmRf7hTh2GPFBJ72FCFOqsYDK8Naw0o2GrWiVlMzWLPPKP6bK0/yokgxwR67ZVcZAzg4fLl/FBmYCO8GlBnoFJJsLeIB8sD+KLYLWlP4OmxOOFC2iyFi2U53R/e62Dgu064L8HN+EX0TcFkYqNVu6jeNiumY4gkEuFC5yoZZrbGIosJrweuczhX49zF/yz703+6HJU+SW6ZGF9khamkT1QVaoSrPCbk8OYYnVMknAkjwh/ADmzVPt94rGaY87em2Z7GIfXH7ZwPu7zL7fzwmGuuzuCj8tXrKY3mqEf8oTAxkMbxLS6Iv6hmnFWexnMwcibl1Sc36viAd63weyPSkTNDpJkgQErkLbhrSE+DJF0JHjg+jaKzrMZjBprN/iw6gipDUEvhLe477+TP82Fk8zF4UCoQx2hegmWImSoYYkPWrTd1xcw==;5fxiYhmMZGyQSEXsN8B7uQ=="
 ---

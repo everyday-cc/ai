@@ -1,31 +1,27 @@
 ---
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-publishedDateTime: 2022-10-12T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2022-10-12T15:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
 type: article
-quality: 99
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
 related:
@@ -188,9 +184,9 @@ related:
         height: 380
         isCached: true
   - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-    excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
+    excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
     publishedDateTime: 2022-10-12T20:37:00Z
-    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
+    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
     type: article
     provider:
       name: Engadget
@@ -630,6 +626,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "6+uTSUyjIIMEfTVjICL5T6RJwfIBNMr908q+N0SdiUzSKzkTgmqDpmNr+btYMZbo0aOwXpC7P1mwSdjhy/Zjj4wOUwC79NsOaCtYBvI6IXHDRvnTix+wLYDEvioRMjPQO7ZyoTNdBIKgB8/q1m6JkyEdyM//tK8z0B4hU2azPtquiyOgmd0U+K73+1xbVwyZaSMd2NrmLVghD6cidQR3U7bKS3lK4HRs5jrN6J/3XQFn1aTc8Mr4/uHJIgP5ar4Y/hKooxmjQXLchQunt3IeYZy09PhWQ3xEWfEBxJvpxhqCTR1HPeZZuEu8PhY14GxdX9Ci0xCHxn6vGCPNzpc+yaB3ngIaoGAFZnw9oTasMJU=;LyVyOIPy/uLTR6h2RlaVcw=="
+secured: "uH3BgtdLVkZ+BhLklDhf2UFDHTGWLLpY+3img6vkFTSNMKsF/SqQIa17OyaHXDOi7kqrFEteqF7EV4SBwhrVjXHJyxfpNPUh6RFDkC7OfIx00py0CmMn4c51TdK+jPm488WstJHI1alGKxh1A/keXalANqxEwHkEC/VLr8AdXVEh8IKjszAYunDdEjFf/Qk6FUEFOMdAd8WeybTpwCaIrwHaHLU60xPLzDP6pl+1SzTtpIZp3ehIq3t0cNAYOB3j/lkGp3Tx2prhLsQb0Dv4DoUiIn9syUw1knLSLjpfS53Z6VfsWMVWkktoUuiNOwViXj2LoDzLEIcp4xsdYo8rCRjtMhFrMvKrYSST6z6k5xo=;10xC+xWgWxZV/24gJk5jJQ=="
 ---
 
