@@ -1,34 +1,29 @@
 ---
 category: news
-title: "Microsoft readies a new Teams Premium add-on with more AI, security features"
-excerpt: "Microsoft is readying a $10 per user per month add-on to Teams called Teams Premium that will add a number of AI, security and personalization capabilities to the platform next year."
-publishedDateTime: 2022-10-12T16:04:00Z
-originalUrl: "https://www.zdnet.com/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
-webUrl: "https://www.zdnet.com/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
-ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
-cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
+title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
+excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
+publishedDateTime: 2022-10-16T20:36:00Z
+originalUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
+webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
 type: article
-quality: 118
+quality: 88
 heat: -1
 published: false
 
 provider:
-  name: ZDNet
-  domain: zdnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
-  - Microsoft AI
   - AI
   - AI in Security
+  - Microsoft AI
+  - Natural Language Processing
 
 images:
-  - url: "https://www.zdnet.com/a/img/resize/5dd24f780e5bcb8683ed524b2b24b587b5f873f9/2022/10/10/522d6205-baa5-4f7e-890b-0ff2810ed0d4/teams-mesh-avatar.png?width=1200&fit=bounds&format=pjpg&auto=webp"
-    width: 1200
-    height: 673
+  - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
+    width: 1000
+    height: 563
     isCached: true
 
 related:
@@ -47,6 +42,22 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2022/10/Mattel-DALL∙E-2.jpg?w=1200&strip=all"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Microsoft readies a new Teams Premium add-on with more AI, security features"
+    excerpt: "Microsoft is readying a $10 per user per month add-on to Teams called Teams Premium that will add a number of AI, security and personalization capabilities to the platform next year."
+    publishedDateTime: 2022-10-12T16:04:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-readies-a-new-teams-premium-add-on-with-more-ai-security-features/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 118
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/5dd24f780e5bcb8683ed524b2b24b587b5f873f9/2022/10/10/522d6205-baa5-4f7e-890b-0ff2810ed0d4/teams-mesh-avatar.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 673
         isCached: true
   - title: "Microsoft brings DALL·E 2 to Azure OpenAI, launches new employability program, and more0 0"
     excerpt: "At its ongoing Ignite 2022 conference, Microsoft announced a bunch of new capabilities for its Azure cloud service and has also launched an employability program with LinkedIn integration."
@@ -159,20 +170,6 @@ related:
       - url: "https://image.cnbcfm.com/api/v1/image/107087482-1657636253378-gettyimages-1240875903-DAVOS_WEF_2022.jpeg?v=1665583201"
         width: 5428
         height: 3619
-        isCached: true
-  - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
-    excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
-    publishedDateTime: 2022-10-16T20:36:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 88
-    images:
-      - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
-        width: 1000
-        height: 563
         isCached: true
   - title: "Microsoft integrates AI image generator into Edge, Bing, and a new app"
     excerpt: "In an example of Microsoft Designer provided by Microsoft, someone types a description of what they want to see, such as \"Ombre cake decorated with flowers and fall foliage,\" and they can then scroll through AI-generated image examples that they can choose to add to their design."
@@ -621,6 +618,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "r5iqwcYu8xtE1b8gXdM6G3Rng/eFoAz2chR3BwxfcYlFB7m3KqCEJj0Uh96eZUXQ4MDmAkPvuT37pPguVHadn3OfF56eAI92zyDS15Fba8HmPEh/2eYcJtmi9AKZ+sflk+kK18o/jIJaoHbHtRHVSGs8gNKd2oWzacchhfwy7S4rwVVIdWV1t1AHeQKM1KAqAVToN+00F4JAbfXs2kTKXvkNgKM8j19tCICXuj5q9niYIEnQRouUZxR1nrXwrh/OGktgkH2oYDxKU+ZMxitJpvZ2GYiL4MU8KrW5rRjEc3/Pj/RYN9sM8+kU0tD+N1XT5s/oycWMdty8qfibz9KBiatFe3DY9fuD8wZy5W7JvOIGvy+zQBBnrweM4LcnQuMr/hrG/tINL0xg/k+TrEdTrG7KILsmI+b+3WbOHC8gDHJVoOaER7MJX2jB6WiNhTIba9+XHLE2j0MQF3Rr47lhcTiUkVp5q3at6KF+hLL299jRFjSZWiZxQoOITIP+nKDKnVu9USN2NBICRocOLGvtmQ==;Ofl/dIUPSe2Y5qzd/Sh7Bw=="
+secured: "KBuAVQAiTJtn+J7HgnKYSEV1OhYlhoHUIAwjAuPEuOw2l3vAjIdmcsDOeYswAkHlBYehAMhxfbjciEL7pbVFXI42OlJYkQMCoXv7ZoJTe6AwRDw8skELlQnFLZFc6ISLBHOwtDJ/Qe3wPCeEjwSQLonOuPMYWOvguUE9P+WGuxMgKisQxK1fOuxn9RHMAiR4a5kcrjTfH9tWzD0sBJlGt3oCEmrrDohcX1ndY/7KsbHs6cXrVRhRe3NtO9mfHpO7ifweVDHWTOsoXKrAsSMCBlKZkTwQlc6JN5r38XdZxeC/Xs/bJ8KlIG8YyuSMKqrl10neRi4Mj45/j1RW+DQE47uUlZODYdzKWIaMNxPrL9M=;MdVep+tRe+qUhuXKnv5eUg=="
 ---
 

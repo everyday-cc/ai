@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T00:00:00Z
 originalUrl: "https://hackaday.com/2018/11/25/quick-face-recognition-with-an-fpga/"
 webUrl: "https://hackaday.com/2018/11/25/quick-face-recognition-with-an-fpga/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hackaday

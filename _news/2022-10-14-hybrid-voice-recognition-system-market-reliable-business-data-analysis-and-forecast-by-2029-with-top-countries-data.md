@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Data and AI Ethics Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 104 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Data and AI Ethics Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-12T04:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-and-ai-ethics-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-104-pages-report-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 64
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "India Event-Based Vision Systems Market Analysis By Size, Share, Trends, Future Growth and Forecast To 2030"
     excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the India Event-Based Vision Systems Market are also discussed in detail in the research,"
     publishedDateTime: 2022-10-13T06:06:00Z

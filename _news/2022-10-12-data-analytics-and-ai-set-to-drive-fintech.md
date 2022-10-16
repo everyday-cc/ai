@@ -56,6 +56,15 @@ related:
         width: 1280
         height: 1071
         isCached: true
+  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
+    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
+    publishedDateTime: 2022-10-15T12:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
     excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
     publishedDateTime: 2022-10-13T07:34:00Z

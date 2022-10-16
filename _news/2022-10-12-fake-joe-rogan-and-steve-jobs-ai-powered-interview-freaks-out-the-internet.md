@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interv
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
 type: article
 quality: 85
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -67,6 +67,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 11
+  - title: "Artificial intelligence creates an amazing interview with Steve Jobs: What did the Apple founder say?"
+    excerpt: "Artificial intelligence (AI) continues to take steps towards its consolidation and the creation of a podcast in which Steve Jobs is interviewed is proof of this. The Apple founder"
+    publishedDateTime: 2022-10-16T18:41:00Z
+    webUrl: "https://www.marca.com/en/technology/2022/10/16/634c5c7eca474146508b4567.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 4
 
 secured: "8eRr6eiboBTq9I5KNbt9iMu7uBpazL/EVimlqkCY3nCHCEEnUT/fM+y6BnlAIqq90g7smmg3j0c9I5GmURtKC6ekdTQMCKTk6kPEzazHXg6XE335xmvfzmjCgEK3Dhjhz0PpnfnqEfGaNr8VbY7tF4JeaVq0YTuVWgyXjfwCfx/ABe/FsKlR9+5iGpjvUFms6sRKmiHq5pyj1aKEM3TriA+w2rukR+K2Gcgo8ZGrv7iiYS3UNoA0vD9P5e6rOQZHoA0xBoVChAIbMtwNA6f4NnMj+1d0o3C8h1bEJIuOh+1jTFtU4+qb7BzEctP28WcChh0osxHO63H6LcNEEBJBqFSVfBdnp1uAtOavJ9pHfaO3BUnt9UJnfE2cOokk5QJSkGv/ASxH05gMC20tfHHeQUR+wwY8NyBQyFHTiRpixB0ykaavAHtP3x+HjkwcIUrOR1vhbPR6cz8FXvmRMWJF4aTiIb6LF6SKRqITaABw/SVCqHQx1Zx5ufG2zM+RClCDqSQcW8UiJNkdxNiJoGp8uA==;olTfcyk8CN6Y8o5PZv2riw=="
 ---

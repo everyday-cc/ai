@@ -41,20 +41,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "US imposes crippling controls on export of advanced chips to China"
-    excerpt: "The latest export bans underscore the determination of US imperialism to weaken and ultimately subordinate China, regarded in Washington as the chief threat to its global hegemony."
-    publishedDateTime: 2022-10-12T03:34:00Z
-    webUrl: "https://www.wsws.org/en/articles/2022/10/12/ysao-o12.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/d1c77582-d66e-4adf-b951-0e5fd30e15ac?rendition=image1280"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "/XUWkk1rASs2hIVyAshSl6V3GfFFcIQ7arsnUVepL9IKHJAI5Vj2SYTti0pR81tBQYQ369DqDQYyafWRVzfOscQ174oFsRDoUiv3/1TxuRibNnXwcOVvrAzyS50ZgiMGWnzj88RmYbzpReFaTUUrDVJ3tsskpin5QnKCW1Mu6Wa8TkM8iGeVM87ywjMytNP7tjTq3Spu0qYSKZ9sXCtbLtrp4Acd45KI1LIdM4HP7PGT8KOD+98gR4I082VyfjraWGLMCK62cXBhnkebxtt3DDaAQt/Nlmy8ZYhuLHm2jlT2eWZvYpB/+mTl832hCaSLeS+ZT2Hr4js2RbMXzAmYH1aOR5bQQ3vusTe/qaccHZvJ5CCyEBhqCSl6/ofCLXAVnw6c+YJIBrh5WGCXp2NtosRpT86wUX4KWg8dCyqCigqUifueqhS7SfKqPMvlXFVOnP1YBoYMZCqxXihkWwxoAS4JHoPe2ssp5fVvOmxptU1vBy3BhdGEskpKJvn/LxULrizr2LZnsyyU2z08vaObvA==;0aNLCe0UfwG1adwqE3XhNg=="
 ---

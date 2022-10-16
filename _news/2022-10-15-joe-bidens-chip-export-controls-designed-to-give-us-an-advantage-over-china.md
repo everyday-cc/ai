@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/joe-biden-s-chip-expor
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/joe-biden-s-chip-export-controls-designed-to-give-us-an-advantage-over-china-71665732639652.html"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Hindustan Times Tech
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "US imposes crippling controls on export of advanced chips to China"
-    excerpt: "The latest export bans underscore the determination of US imperialism to weaken and ultimately subordinate China, regarded in Washington as the chief threat to its global hegemony."
-    publishedDateTime: 2022-10-12T03:34:00Z
-    webUrl: "https://www.wsws.org/en/articles/2022/10/12/ysao-o12.html"
-    type: article
-    provider:
-      name: World Socialist Web Site
-      domain: wsws.org
-    quality: 39
-    images:
-      - url: "https://www.wsws.org/asset/d1c77582-d66e-4adf-b951-0e5fd30e15ac?rendition=image1280"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "US restricts chip exports to China."
     excerpt: "US expected to proceed with cybersecurity labeling modeled on EnergyStar. Transatlantic data sharing agreement could face pushback. US restricts chip exports to China. CISA chooses not to share industry feedback on performance goals."
     publishedDateTime: 2022-10-13T19:45:00Z

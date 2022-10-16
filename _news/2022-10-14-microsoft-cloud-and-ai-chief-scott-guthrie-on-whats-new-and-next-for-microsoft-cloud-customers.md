@@ -167,6 +167,20 @@ related:
         width: 5428
         height: 3619
         isCached: true
+  - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
+    excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
+    publishedDateTime: 2022-10-16T20:36:00Z
+    webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 88
+    images:
+      - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Microsoft integrates AI image generator into Edge, Bing, and a new app"
     excerpt: "In an example of Microsoft Designer provided by Microsoft, someone types a description of what they want to see, such as \"Ombre cake decorated with flowers and fall foliage,\" and they can then scroll through AI-generated image examples that they can choose to add to their design."
     publishedDateTime: 2022-10-12T14:16:00Z
@@ -180,20 +194,6 @@ related:
       - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft_designer_shot-760x380.jpg"
         width: 760
         height: 380
-        isCached: true
-  - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-    excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
-    publishedDateTime: 2022-10-12T20:37:00Z
-    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 86
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ee3124b0-499b-11ed-b9dd-b770a62b524f"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
     excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
@@ -283,6 +283,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
+    excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
+    publishedDateTime: 2022-10-12T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 79
   - title: "Microsoft adds OpenAI’s DALL-E 2 image generation tool to Azure Cognitive Services"
     excerpt: "One of the most impressive new offerings comes from Microsoft’s Azure OpenAI Service. Falling under the umbrella of Azure Cognitive Services, it provides access to an array of powerful models from the artificial intelligence research outfit OpenAI Inc."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -343,20 +352,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 69
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
     publishedDateTime: 2022-10-13T12:43:00Z
@@ -371,20 +366,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "inQuba Journey Cloud Is Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Quba has made its inQuba Journey Cloud available in the Microsoft Azure Marketplace, an online store for applications and services for use on Azure inQuba optimizes acquisition, retention, and upsell across the customer journeys for financial services,"
-    publishedDateTime: 2022-10-12T04:00:00Z
-    webUrl: "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/inQuba-Journey-Cloud-Is-Now-Available-in-the-Microsoft-Azure-Marketplace-155405.aspx"
+  - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
+    excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
+    publishedDateTime: 2022-10-12T20:37:00Z
+    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
     type: article
     provider:
-      name: Destination CRM
-      domain: destinationcrm.com
-    quality: 68
-    images:
-      - url: "https://dzceab466r34n.cloudfront.net/Images/IssueImages/148232-1022_WFO_NICE_480x610-ORG.png"
-        width: 480
-        height: 610
-        isCached: true
+      name: Engadget
+      domain: engadget.com
+    quality: 66
   - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
     excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
     publishedDateTime: 2022-10-12T18:57:00Z

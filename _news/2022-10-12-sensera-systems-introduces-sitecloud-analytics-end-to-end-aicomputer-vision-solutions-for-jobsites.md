@@ -1,18 +1,18 @@
 ---
 category: news
 title: "Sensera Systems Introduces SiteCloud Analytics — End-to-End AI/Computer Vision Solutions for Jobsites"
-excerpt: "SiteCloud Analytics is a unique hardware/software platform and ecosystem that allows deployment of analytics applications at scale. The platform consists of Sensera Systems’ cameras and SiteCloud software,"
+excerpt: "Sensera Systems, Inc., the market leader in all-in-one compact-solar site cameras, today announced the introduction of its SiteCloud AnalyticsTM platform and LaborTrend™ application along with 4 new SiteCloud Analytics partners."
 publishedDateTime: 2022-10-12T16:31:00Z
-originalUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
-webUrl: "https://www.constructiondive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
+originalUrl: "https://www.ciodive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
+webUrl: "https://www.ciodive.com/press-release/20221011-sensera-systems-introduces-sitecloud-analytics-end-to-end-aicomputer-vis/"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Construction Dive
-  domain: constructiondive.com
+  name: CIO Dive
+  domain: ciodive.com
 
 topics:
   - Computer Vision
@@ -24,6 +24,17 @@ images:
     height: 700
     isCached: true
 
-secured: "WGQSOYDBWM5WifwYD+tyHfPyYMmWgEsI3yxVXC4OMrwut6QmXgdzHI94/l9BpCuYJrrJv4OP8tz1TN55LyLwsyD0S0LyCSxCpzqJfF6iMSiJFd1Bs/vaHOqVwUu27y7zrz1L6qzRSJwrSetYngyGL1+iSXaxxkKZm2gjAB4k/LeKziep/vdKsGs7MljFVu4XaeW0GNUjZOIiHJUasN7aNkVquabw0ZNQZXuV4GxoKik7GlB10/IdZH2zDTPH6iuUUD8ojFJtSTJM8sRR1ns8NA2jrTZ4MxF1ABPGZk5//Atu7vugCXoziF3S9UaAFk+rdSFBn2m5ChzriZuiv4gAcvvpKx0TCbOBhzr0snWfkSm27PGGCUBS27W5L5sEHKakpGWjIRBL1oLXG6UzdMHqUf7YaZVFKNILOWVHMcm5ITCAbAv5zOUGBF3bvcvDfjJiuFF76MVOh9Sn+EERmzRPbLQT3DUrXThbKPVFwVfgJYPPdwje2HUIFx1jN0ufN761IyVex1ZkOVF2Wd7lJo3miA==;T3XzRuwYdJXRQtmXjK4SQQ=="
+related:
+  - title: "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation"
+    excerpt: "Seagate® Technology Holdings plc (NASDAQ: STX), a world leader in mass-data storage infrastructure solutions, announced the launch of Lyve™ Cloud Analytics platform, a complete cloud-based analytics solution that includes storage,"
+    publishedDateTime: 2022-10-12T17:23:00Z
+    webUrl: "https://insidebigdata.com/2022/10/12/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
+
+secured: "ySwzuPex0zDQSTj94r6LUVi54JN/wUakQvGrNyfvOVXP4oUVATHRjETgmq4t5kdXGYgzXItpSZ8zrL30LpgXKsvpaqUfLw1LRTVMHLHDab1xVNIjFaHJiAif8ZrvvL9gOjDOeuOq42nhdA4YCHBYgvSVPHv5uc5J9xLYyfcB+tCW6kVLYSWQmsJSCOd6I8p0qFk9tBgzroAo3fWJePQhXBut/e8GifVF5qYtaH0cxyIMmkMd334TY0Lco42UrWzCs8vW+PbY/3C6NDNVo6DzBZ4FTiaOjN4smiuvSKRwQ8h5q+9garOUEbUyb1BGbEuZ33NFTxvQzVfSgAZt/9qQCsVd7paTXxbvVLMbGO5NffA=;K0HWYCq0njrAGrLAp47Xkw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-12T12:50:00Z
 originalUrl: "https://medicalxpress.com/news/2022-10-therapeutic-games-brain-mitigates-cognitive.html"
 webUrl: "https://medicalxpress.com/news/2022-10-therapeutic-games-brain-mitigates-cognitive.html"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: Medical Xpress

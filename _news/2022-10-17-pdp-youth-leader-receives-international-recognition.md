@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-16T17:33:00Z
 originalUrl: "https://www.vanguardngr.com/2022/10/pdp-youth-leader-receives-international-recognition/"
 webUrl: "https://www.vanguardngr.com/2022/10/pdp-youth-leader-receives-international-recognition/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Vanguard

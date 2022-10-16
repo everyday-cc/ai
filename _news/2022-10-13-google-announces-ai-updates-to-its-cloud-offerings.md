@@ -30,18 +30,13 @@ images:
 related:
   - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
     excerpt: "Able to be used immediately, the training data pack ensures GDPR compliance through its use of synthetically generated photo-realistic humans and includes annotations and data that can speed up the training of AI-based computer vision systems significantly."
-    publishedDateTime: 2022-10-12T09:44:00Z
-    webUrl: "https://bdaily.co.uk/articles/2022/10/12/mindtech-launches-training-ready-data-packs-to-accelerate-ai-based-computer-vision-systems"
+    publishedDateTime: 2022-10-12T09:01:00Z
+    webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
     type: article
     provider:
-      name: Bdaily Business Network
-      domain: bdaily.co.uk
-    quality: 44
-    images:
-      - url: "https://bdaily.co.uk/images/uploads/bVwcrTncIDy492lc8wDLupN7OZgmCSD9e8GxB2rU.jpeg?w=1200&h=627&fm=jpg&fit=crop-50-50&s=02e7b16944c922aa23a090b4ac7f414c"
-        width: 1200
-        height: 627
-        isCached: true
+      name: realwire
+      domain: realwire.com
+    quality: 24
 
 secured: "0iwzATd0vNqtdci9X3p+y/Rt0Fi14IqM0Kqc6tb2I2OvZywUHh99tBck+nWNkyy3T+azJpfQKnddVmbgwLXxF6avG85T9Nyd6wgzhtkUMrgiWQQnXz/HBYgONSG6ZJ/40Y7E7XYc5r17MhF+hGMDHIoJTO5uea5X+uQJ/gfxNJDQ96OI5DMY5CTWMvaPXC9EP4d+yccrapu0oRSDbd7z+zik/ZHAaVszzPo5+M8iUdXqLGnStkFbLpK/6ldjoLTqZYGVS4rrkFHX0aChY5ojJzOumwBu+MZOQ6aShOi521IkF/ycgkl+ObzUip2lcqQCJ/AU5ZkrlEvtzXpuwr8qhEA/buFDBC93FXHii7OSWn8=;IsAC92TdZ8TcupF30K7niw=="
 ---

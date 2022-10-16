@@ -64,6 +64,15 @@ related:
       name: AppleInsider
       domain: appleinsider.com
     quality: 11
+  - title: "Artificial intelligence creates an amazing interview with Steve Jobs: What did the Apple founder say?"
+    excerpt: "Artificial intelligence (AI) continues to take steps towards its consolidation and the creation of a podcast in which Steve Jobs is interviewed is proof of this. The Apple founder"
+    publishedDateTime: 2022-10-16T18:41:00Z
+    webUrl: "https://www.marca.com/en/technology/2022/10/16/634c5c7eca474146508b4567.html"
+    type: article
+    provider:
+      name: MARCA
+      domain: marca.com
+    quality: 4
 
 secured: "1sW2lgMEcIfK82GPJnAssZ7ygC3cy20+vHhFfsiZR+VvKQjgJ9lF4EDxWQ3Y1RM7ABDEaxdbLa48igPm59EMLsjpsz34VI1yukewUKluLfpXpNzZ3qPnG5dY/GsaScCljQIqiD1INXnEJtS+xI/aLk3KtgN/FQZE7SuvIbAPJ2SKRratfow4pFS2MtrdX5WsjQucgJeNM7hc9BUKl211B5lwjB2/63FNjwacmquoBRSlvsDk1UhyjLPLYSSytNb1G2IU2JjNr2qMAHz0CRlnGLJ5ypWr4ku6KBB+SJHrNvH+T4E8dXbq6sQK+LlhsaFpPc1tBmuE24o8t3VuCPWaL+0MNLNzTGwxv8L1yicr3DdOcsR14KNdzq3F5IVCYauKR4SePDtgGcceSurL0VcUlmjjB7ofEFeT+NrqH18tqHhIOiDZuBGYBfI7s3xGjQsEF9pMOhWOuVQc4yAdmiNwop25SNMMLBhseOOnmZgN+1vgNxZQ6mp7CouWbWdYiTUt5CY/nAHvS9u6jLrzLCGSCA==;EF11MlQOA0PIgDjEIk+G4g=="
 ---

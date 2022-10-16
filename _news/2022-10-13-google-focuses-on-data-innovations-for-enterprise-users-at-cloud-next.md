@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Cloud adds networking, security features for enterprises"
-    excerpt: "Google Cloud has rolled out 20+ new features including Layer 7 security, policy analysis, and expanded network-connectivity options."
-    publishedDateTime: 2022-10-12T01:12:00Z
-    webUrl: "https://www.arnnet.com.au/article/702257/google-cloud-adds-networking-security-features-enterprises/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_24.jpg"
-        width: 472
-        height: 315
-        isCached: true
   - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
     excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
     publishedDateTime: 2022-10-12T11:20:00Z

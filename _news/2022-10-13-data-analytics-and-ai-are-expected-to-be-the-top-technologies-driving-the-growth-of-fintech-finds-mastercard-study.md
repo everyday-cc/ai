@@ -71,6 +71,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 19
+  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
+    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
+    publishedDateTime: 2022-10-15T12:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
 
 secured: "De+YDCUGrxI47+kN5/UrK93pl1JcFUeP81P3e9Jw4R9mf7uDkP5QBISxD9dyWRGQ0XE2+meF96MoZo3EZ+5e8OkYSshqXpnWBQ1+9eQFq7bEaGYz/JKiIXCSuYDkQQ+tMqvGq4EIiB62JDEdMVtwzHJFyKZmrBoc1Hj2ytxVsX9F7z0VV5bi9w+pqnJNWNrSEJZxIp7yQxGRKctAY9uZrZuR9UUNWpKwy8MQI7LXj3mxQUPEfWGHkBIjWfFci15aVuEU6mCmOl4qTRMmQxnt0gtdu/9/ydBLXUNMIE2E6GeVAK+XDWEfAe0nvdffQ2YPcfL6NIfUBqJ6GSPH+lRSUkB2th5vz1AKxgeoXGzjQKix7BZKxBFKWzuGlq7jUMfBcr4VyWYJ2PYnjjSTmEZWeVbFbFlk8m08h5hImnGSlH3eFpVZmporxQejQ08czYhoH5MynkySqXuNdKHSWzDHbM3pPS1BoDf3V8cuBQ0zVmmYnnX0UEwiehRcrYfBeFzT+Ghc3Q5BytheET/A4ZyYXA==;eJdFfjNxogxwdNS7MgEw7A=="
 ---

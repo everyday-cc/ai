@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google Cloud adds networking, security features for enterprises"
-    excerpt: "Google Cloud has rolled out 20+ new features including Layer 7 security, policy analysis, and expanded network-connectivity options."
-    publishedDateTime: 2022-10-12T01:12:00Z
-    webUrl: "https://www.arnnet.com.au/article/702257/google-cloud-adds-networking-security-features-enterprises/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 41
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_24.jpg"
-        width: 472
-        height: 315
-        isCached: true
 
 secured: "qmtnkmAcfwAolrrMNybXjF2JwcoAJr9pM0M1UUM8ndrHfiYSRjOUb5P/F75C9Glg2t6mcbC7q7VqoE7zUfenJcHkjYDcRyq/MefcFmRf7hTh2GPFBJ72FCFOqsYDK8Naw0o2GrWiVlMzWLPPKP6bK0/yokgxwR67ZVcZAzg4fLl/FBmYCO8GlBnoFJJsLeIB8sD+KLYLWlP4OmxOOFC2iyFi2U53R/e62Dgu064L8HN+EX0TcFkYqNVu6jeNiumY4gkEuFC5yoZZrbGIosJrweuczhX49zF/yz703+6HJU+SW6ZGF9khamkT1QVaoSrPCbk8OYYnVMknAkjwh/ADmzVPt94rGaY87em2Z7GIfXH7ZwPu7zL7fzwmGuuzuCj8tXrKY3mqEf8oTAxkMbxLS6Iv6hmnFWexnMwcibl1Sc36viAd63weyPSkTNDpJkgQErkLbhrSE+DJF0JHjg+jaKzrMZjBprN/iw6gipDUEvhLe477+TP82Fk8zF4UCoQx2hegmWImSoYYkPWrTd1xcw==;5fxiYhmMZGyQSEXsN8B7uQ=="
 ---
