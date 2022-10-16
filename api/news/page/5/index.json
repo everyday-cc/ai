@@ -2,6 +2,155 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-10-ai-and-robotics-is-the-future-of-healthcare-sector.md",
+      "title": "AI and Robotics is the future of healthcare sector",
+      "excerpt": "Recent advances in artificial intelligence and robotics hold great promise for transforming several fields of medicine. Artificial intelligence (AI) and robots have the potential to revolutionise healthcare by automating and improving a wide range",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Dr.-Vijay-Patil.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-and-robotics-is-the-future-of-healthcare-sector/",
+      "publishedDateTime": "2022-10-10T04:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030.md",
+      "title": "Deep Learning Market 2022 Research Report, Industry Growth, Competitors Analysis and Forecast 2030",
+      "excerpt": "The research also provides a market analysis using various analytical techniques, including Porter’s Five Forces Analysis and PESTEL Analysis. These tools provide an in-depth analysis of the micro- and macro-environmental elements that influence the market’s expansion during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-research-report-industry-growth-competitors-analysis-and-forecast-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T04:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-autonomous-delivery-robots-the-precursor-to-self-driving-cars.md",
+      "title": "Autonomous Delivery Robots: The Precursor To Self-Driving Cars",
+      "excerpt": "Although widespread use of self-driving cars is still years away, autonomous delivery robots may be helping to pave the way toward quicker commercial implementation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634028fd5ebb205248de06a9/0x0.jpg?format=jpg&crop=4735,2664,x0,y351,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/10/autonomous-delivery-robots-the-precursor-to-self-driving-cars/amp/",
+      "publishedDateTime": "2022-10-10T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
       "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
       "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
@@ -1027,136 +1176,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ncs-robotics-adding-security-robot-capabilities-to-open-rmf.md",
-      "title": "NCS Robotics adding security robot capabilities to Open-RMF",
-      "excerpt": "NCS Robotics is working with Open Robotics to extend the Open-RMF capabilities to support security robot use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
-      "originalUrl": "https://www.therobotreport.com/ncs-robotics-adding-security-robot-capabilities-to-open-rmf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/10/featured-web-ncs-robotics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T16:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chaos-on-launch-day-for-scotlands-first-driverless-bus-system-as-technical-glitches-saw-one-of-the-electric-shuttles-get-lost-forcing-a.md",
-      "title": "Chaos on launch day for Scotland's first driverless bus system as 'technical glitches' saw one of the electric shuttles get LOST - forcing a human operator to drive instead",
-      "excerpt": "Itsy Bitsy Teenie Weenie Driverless Machiney has a capacity of up to 15 passengers and is a first for Scotland. The vehicle uses sensors to guide its way through a pre-taught route but there are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "publishedDateTime": "2022-10-07T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chip-stocks-crushed-to-two-year-low-as-more-tech-ai-ban-to-china-add-to-woes.md",
-      "title": "Chip stocks crushed to two-year low as more tech, AI ban to China add to woes",
-      "excerpt": "The chip sector melted down Friday for its third ... ambitions as it issued wider restrictions on semiconductor and AI technology that can be sold to the world’s second-largest economy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "originalUrl": "https://www.marketwatch.com/story/chip-stocks-slammed-by-new-ban-on-chip-and-ai-technology-for-china-11665168715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T12:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

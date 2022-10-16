@@ -158,7 +158,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1469,21 +1469,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
-      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
-      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
+      "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
+      "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1493,12 +1493,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T00:20:00-07:00",
+      "publishedDateTime": "2022-10-04T05:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1507,10 +1516,11 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Autos",
-        "AI in Robotics"
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
       ]
     }
   ],

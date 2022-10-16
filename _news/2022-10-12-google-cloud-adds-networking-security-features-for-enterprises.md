@@ -42,15 +42,6 @@ related:
         width: 1200
         height: 600
         isCached: true
-  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
-    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
-    publishedDateTime: 2022-10-11T17:17:00Z
-    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "Google touts open data cloud to unify information from every source"
     excerpt: "Google announced this “data cloud” vision today at Google Cloud Next 2022, where it introduced an avalanche of updates to its existing data services, as well as some new ones. The new updates are all designed to make this vision of an open and extensible data cloud a reality."
     publishedDateTime: 2022-10-11T23:44:00Z

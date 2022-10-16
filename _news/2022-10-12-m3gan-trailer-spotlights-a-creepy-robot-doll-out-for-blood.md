@@ -7,7 +7,7 @@ originalUrl: "https://hypebeast.com/2022/10/m3gan-trailer-universal-allison-will
 webUrl: "https://hypebeast.com/2022/10/m3gan-trailer-universal-allison-williams-horror-watch"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 960
     height: 479
     isCached: true
-
-related:
-  - title: "Allison Williams Deals with a Murderous Robot Doll in Wild First Trailer for Horror Movie 'M3GAN'"
-    excerpt: "The 'M3GAN' trailer is set to Taylor Swift's song 'It's Nice to Have a Friend' and stars Allison Williams as an aunt pairing her niece with an android BFF"
-    publishedDateTime: 2022-10-11T18:34:00Z
-    webUrl: "https://people.com/movies/watch-an-android-toy-haunt-allison-williams-family-in-m3gan-trailer/"
-    type: article
-    provider:
-      name: People
-      domain: people.com
-    quality: 21
 
 secured: "e5ljl4umRi5rCagIMNmhiL1kcg3hpl7gUAACndW5R1LLSsqrGddK+v/zsM8y6K1jIcnZdzYrXzKwA8uzMmraqiqqWrbhdroUQ6WxKtxnJGy+QXSUjJF/tu0kjD3uPIb5iDT/A+VGjjbtjV54WqCYgx+Xn02lT+wdPD5r/d3skvnnpFKFfHnJFJizNB4sRDWzyI8mzp7KdRQbLbkRj1bid9z1OoUQU6+1bscM8OqnSigLDtWukb9NLiPTlEzovMpf/R9p0L4aZv72PcvpQrtikK3F0oZM9XJVtwTzc8wgprXMgd3mYdsC02KYSlNzgBpGsd82IqkIZEa1ZtPHOwOg3ExKQjsIeP7mWU4kq2OFzJaap+ZOuD+f6M4eC/oSIzhP8SljnbYCV58P9IvugeHS0cpLe6R3XS0lt7lhYfliqse97KYKNVaNjh1/Bmw3N+4jGM2KHMXL9fyfFU523CPO5tRuAX5aQRJLtj036gSJL+esp8Qp7kBqu+cJyHxydrtVwSx/BUDmR1+zMQ2eh3dpuw==;697E0nDn5fUSurj6eHWj9Q=="
 ---

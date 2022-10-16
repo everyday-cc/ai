@@ -51,15 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Many Americans treat driver assist systems like self-driving"
-    excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
-    publishedDateTime: 2022-10-11T18:48:00Z
-    webUrl: "https://techcrunch.com/2022/10/11/many-americans-treat-driver-assist-systems-like-self-driving/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "Faction and GoCar Partner For Self-Driving Tourist Cars"
     excerpt: "GoCar driverless EV powered by Faction's DriveLink and TeleAssist technology. Courtesy: Business Wire. Self-driving vehicle startup Faction is partnering wit"
     publishedDateTime: 2022-10-14T19:13:00Z

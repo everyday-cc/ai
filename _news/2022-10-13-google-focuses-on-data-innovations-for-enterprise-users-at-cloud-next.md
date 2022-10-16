@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -31,15 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
-    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
-    publishedDateTime: 2022-10-11T17:17:00Z
-    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
   - title: "Google Cloud adds networking, security features for enterprises"
     excerpt: "Google Cloud has rolled out 20+ new features including Layer 7 security, policy analysis, and expanded network-connectivity options."
     publishedDateTime: 2022-10-12T01:12:00Z

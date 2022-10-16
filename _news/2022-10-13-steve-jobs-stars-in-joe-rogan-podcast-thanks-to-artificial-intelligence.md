@@ -55,17 +55,20 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "AI-Generated Joe Rogan Chats Up Steve Jobs Over His Use of LSD, Spat With Gizmodo"
-    excerpt: "Podcast.ai generated a fake audio recording using artificial voices and language model transcripts based on Rogan and Jobs’ old public speeches and keynotes."
-    publishedDateTime: 2022-10-11T17:57:00Z
-    webUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390"
-    ampWebUrl: "https://gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/joe-rogan-steve-jobs-ai-podcast-1849643390/amp"
+  - title: "I’ve been following a woman around the internet. Turns out she was created by artificial intelligence."
+    excerpt: "Deepfakes created by AI have taken an insidious new form. You've probably fallen for the scam already. But who's behind them?"
+    publishedDateTime: 2022-10-16T11:04:00Z
+    webUrl: "https://www.businessinsider.com/artificial-intelligence-albertina-geller-deepfake-gan-images-online-scams-2022-10"
     type: article
     provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 64
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 51
+    images:
+      - url: "https://i.insider.com/632b6b89dd40a400194ffc35?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
     excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
     publishedDateTime: 2022-10-14T08:37:00Z

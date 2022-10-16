@@ -39,20 +39,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Stuart McClure Raises $13M for Cybersecurity Startup"
-    excerpt: "McClure is also the chief executive of Santa Clara-based cybersecurity company ShiftLeft Inc. McClure co-founded Cylance, the Irvine-based internet security company, a decade ago and sold it in 2019 to Canada-based BlackBerry for $1."
-    publishedDateTime: 2022-10-11T18:19:00Z
-    webUrl: "https://www.ocbj.com/internet-2/stuart-mcclure-venture/"
-    type: article
-    provider:
-      name: Orange County Business Journal
-      domain: ocbj.com
-    quality: 37
-    images:
-      - url: "https://www.ocbj.com/wp-content/uploads/2021/12/Stuart_McClure_at_his_desk.jpg"
-        width: 600
-        height: 475
-        isCached: true
   - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
     excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"
     publishedDateTime: 2022-10-12T18:35:00Z

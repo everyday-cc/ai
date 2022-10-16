@@ -1,25 +1,27 @@
 ---
 category: news
 title: "Apptest.ai Proves Efficacy with Fully Autonomous Mobile and Web Testing"
-excerpt: "Apptest.ai is pleased to announce their strengthened global sales partnership with LG U+, one of the largest mobile carriers in Korea. The two companies co-marketed at"
-publishedDateTime: 2022-10-13T21:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
-ampWebUrl: "https://www.benzinga.com/amp/content/29261621"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29261621"
+excerpt: "Apptest.ai provides a proprietary SaaS solution for mobile app testing that leverages state-of-the-art computer vision and natural language processing techniques to automatically test for errors without writing a single line of code."
+publishedDateTime: 2022-10-13T23:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
+webUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
 type: article
-quality: 39
-heat: 39
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
 
-secured: "49CnRoNcwSoMl/fmSTvvZErpLMTkITsVDTYcZ0aoQFHJvErtv/pTNXZ7y+WLP0mGbSYTrjIzSRnoXBJrehCJ4S7NdQkWAXeqh51A2POlbqYH3NsTHARtwH7n0jQeHi+nZGN3iybpqETYn5qoTqe21RAgc+ed+6DeE+lQlshyLQ3OBWdk6B8JSzubOLgY3qdVbPwf1LJvz3cCR4T0Xi9kAKFJciBTBOQ2C9f0vt37qggHApq0Ww2JX3KFrjJX8xXvTNSysqK1FvB7F7WtaEPMjL32mSmI1vL+iSgCWlMfNvNahnqvP7hRfgzGDKBwpNdoM+lzQIQsQYdMDfAH88Rbs6KY9q6aIaCCuKJydAEw1Fo=;YUi1W6KNFFhxdywQl/74hg=="
+secured: "k41IUdBer3aDvkj1/oJTmngxuaQWFtZuNA9SCzSJtUDXwGdqjuf5CmmQz54jNGjaG8J+QT/dMqUfUMLXtmK/x0pWsI/X2rNUj/MV5lyytmEz7Kwu1mmH13qUsCagbAiGXGtP4W2CeyfG09fiiu7V6X1qkhftAvP7iw15l1OPcHBHGRQMCHEyXOEBT065mRQ4huMZPUwh4fSZBMzPt2HMOCQwKyFAEwyMqn38uimEqsd2efbqamxTax+/IFZ153KD958T7EUKeDAQ6O2D2xlLKbA/UemUlN6eupOoPiG49yc/YfURleHYUSlibxnDZevzvaa18cuYyarMsEKZqTEcRqinxIzWm2V474iVc7z14Qw=;5VJbGDT5c0mvbqz+QLF3Xw=="
 ---
 

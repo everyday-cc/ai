@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 webUrl: "https://www.eweek.com/security/sophos-ai-in-cybersecurity/"
 type: article
 quality: 67
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Stuart McClure Raises $13M for Cybersecurity Startup"
-    excerpt: "McClure is also the chief executive of Santa Clara-based cybersecurity company ShiftLeft Inc. McClure co-founded Cylance, the Irvine-based internet security company, a decade ago and sold it in 2019 to Canada-based BlackBerry for $1."
-    publishedDateTime: 2022-10-11T18:19:00Z
-    webUrl: "https://www.ocbj.com/internet-2/stuart-mcclure-venture/"
-    type: article
-    provider:
-      name: Orange County Business Journal
-      domain: ocbj.com
-    quality: 37
-    images:
-      - url: "https://www.ocbj.com/wp-content/uploads/2021/12/Stuart_McClure_at_his_desk.jpg"
-        width: 600
-        height: 475
-        isCached: true
   - title: "GBT is Researching the Development of a Machine Learning Driven, RF Cybersecurity System and Protocol"
     excerpt: "GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”) is researching the development of a machine learning driven radio frequency (RF) cybersecurity system and protocol. Typical wireless security depends on a software and hardware identification for each wireless device."
     publishedDateTime: 2022-10-13T12:53:00Z

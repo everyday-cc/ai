@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-g
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
 type: article
 quality: 56
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
-    excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
-    publishedDateTime: 2022-10-11T17:59:00Z
-    webUrl: "https://www.autonews.com/technology/toyota-google-cloud-partner-bolster-speech-recognition-ai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
 
 secured: "Ay8phu+tweuGK8nSD2K8s9bcBAWoN+zWvt7QmmNB41zhCovsaFuCaW8uRRrVkIXhwyAiFxUnKuWPDtwhICVknEDP41c2dQvkWZ7a5NulJSq4vzhDuuXAW+2hvf9WpyrZjKKW81lJdbJxCnEQfBf2sOT/voFNCw7xC3+zVHs3mibMSlQ4cYxOgqcIt9hRYp1c8y/Xp0JH2QUu/kj/E8MEr3j4EJ046NE0bOPl1ixlMtexS7f80FafYcQWwEjKjsXi1ceQdiB+VxKItEEvMy89COXOzNlVRwUqtSw482BSngLxBmfkgrzz3dkveO7UsF51q6YroFl02WFtWmjlhrGlGsaUCRYm8c26jTvRMkfr9NLPF1iS1KdEUsVKGRzB8DmzkT31YfeA++9pshaIcfdBKgxL4aNgGfn90dyfphD0tIHGQqgme7OHZ2KmdLvdy1ojvR/x9jC+XFHk8SAJ5Xv/L2p99i5pa66R3Ea89qxlpu+IHMzGDkXGf8hnMbUK+eAfnKxuS627PfP4W8iawsgE6g==;MCF/kULKbEUMCDGpUcyXKg=="
 ---

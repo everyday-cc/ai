@@ -88,7 +88,7 @@
       "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 569,
+      "heat": 559,
       "tags": null,
       "images": [
         {
@@ -714,6 +714,61 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation.md",
+      "title": "Machine Learning as a Service Market projected to discern stable expansion during 2022-2028 | Amazon Web Services, BigML Inc., Microsoft Corporation",
+      "excerpt": "Machine Learning as a Service Market - Global Outlook and Forecast 2022-2028 is latest research study released by",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-projected-to-discern-stable-expansion-during-2022-2028-amazon-web-services-bigml-inc-microsoft-corporation-2022-10-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-04T05:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-accenture-collaborates-with-mars-to-develop-factory-of-the-future-using-ai-cloud-edge-and-digital-twins.md",
       "title": "Accenture Collaborates with Mars to Develop “Factory of the Future” Using AI, Cloud, Edge and Digital Twins",
       "excerpt": "Accenture (NYSE: ACN) is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI),",
@@ -1305,49 +1360,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-former-gop-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues.md",
-      "title": "Former GOP congressman: I “came to believe” some far-right colleagues had “serious cognitive issues”",
-      "excerpt": "In a new book by former Rep. Denver Riggleman, R-Va., in his last days serving in the House he admits he grew more and more disturbed by the wild ravings of two of his colleagues who were all ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
-      "originalUrl": "https://www.salon.com/2022/09/27/former-congressman-i-came-to-believe-some-far-right-colleagues-had-serious-cognitive-issues_partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2019/12/louie-gohmert-12121.jpg",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T10:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salon",
-        "domain": "salon.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

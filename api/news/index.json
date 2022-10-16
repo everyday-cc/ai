@@ -217,7 +217,7 @@
       "originalUrl": "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -898,7 +898,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1133,6 +1133,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027.md",
+      "title": "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027",
+      "excerpt": "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T12:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
       "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
       "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
@@ -1182,59 +1225,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-the-snapdragon-ai-journey.md",
-      "title": "The Snapdragon AI Journey",
-      "excerpt": "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200",
-          "width": 628,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/",
-      "publishedDateTime": "2022-10-13T10:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

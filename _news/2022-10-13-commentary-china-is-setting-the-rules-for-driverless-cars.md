@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lyft exec was wrong about driverless vehicles — but he still believes in their potential"
-    excerpt: "\"I really think in the next two to three years that kind of actual no driver, driverless vehicle will be something you can order pretty easily on the Lyft platform,\" he told CNBC last week in Detroit."
-    publishedDateTime: 2022-10-11T18:09:00Z
-    webUrl: "https://www.cnbc.com/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/11/lyft-president-still-thinks-driverless-cars-will-dominate-ride-share.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 80
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106305984-1576793205346gettyimages-1133498390.jpeg?v=1665486001"
-        width: 5255
-        height: 3402
-        isCached: true
   - title: "China is setting the rules for driverless cars"
     excerpt: "To get riders comfortable in driverless vehicles you need comprehensive regulation. China serves as an example"
     publishedDateTime: 2022-10-12T06:53:00Z
@@ -57,6 +41,34 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries"
+    excerpt: "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe."
+    publishedDateTime: 2022-10-13T09:30:00Z
+    webUrl: "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/"
+    type: article
+    provider:
+      name: BetaKit
+      domain: betakit.com
+    quality: 57
+    images:
+      - url: "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg"
+        width: 770
+        height: 513
+        isCached: true
+  - title: "UBS gives long-term buys for the transportation revolution from self-driving cars to sky taxis"
+    excerpt: "Ride hailing and short-range flights could grow along with electric vehicles in the coming decade, according to UBS."
+    publishedDateTime: 2022-10-12T13:07:00Z
+    webUrl: "https://www.cnbc.com/2022/10/12/ubs-gives-long-term-buys-for-the-transportation-revolution-from-self-driving-cars-to-sky-taxis.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 42
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105544540-1541053552696gettyimages-506651018.jpeg?v=1665587279&w=1920&h=1080"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Driverless tractors, machinery finding their way onto fields"
     excerpt: "The Case IH Trident 5550 applicator with Raven Autonomy allows for one or more driverless machines in the field without an operator present in the cab, providing the flexibility of full control in or out of the cab."
     publishedDateTime: 2022-10-15T20:00:00Z
@@ -71,6 +83,15 @@ related:
         width: 515
         height: 343
         isCached: true
+  - title: "Driverless Cab Service Market to Witness Massive Growth by 2027 : Baidu, Audi, Uber, BMW"
+    excerpt: "Advance Market Analytics published a new research publication on \"Driverless Cab Service Market Insights, to 2027\" with 232 pages and enriched with self-explained Tables and charts in presentable format."
+    publishedDateTime: 2022-10-12T15:43:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/sbwire-2022-10-12-driverless-cab-service-market-to-witness-massive-growth-by-2027-baidu-audi-uber-bmw"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 25
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
     publishedDateTime: 2022-10-15T00:18:00Z

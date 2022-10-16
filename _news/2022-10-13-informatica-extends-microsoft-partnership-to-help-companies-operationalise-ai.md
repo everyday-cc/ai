@@ -347,8 +347,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -523,20 +523,6 @@ related:
       - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
         width: 476
         height: 210
-        isCached: true
-  - title: "Microsoft invites agritech players into the field with new open-source AI tools"
-    excerpt: "Microsoft is open-sourcing its AI algorithms to encourage data scientists and researchers to advance data-driven agriculture."
-    publishedDateTime: 2022-10-11T17:44:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/microsoft-agritech-research-tools"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 50
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_506290799.jpeg"
-        width: 800
-        height: 600
         isCached: true
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."

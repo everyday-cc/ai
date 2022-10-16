@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Many U.S. drivers treat partially automated cars as self-driving -study"
-    excerpt: "Drivers using advanced driver assistance systems like Tesla Autopilot or General Motors Super Cruise often treat their vehicles as fully self-driving despite warnings, a new study has found."
-    publishedDateTime: 2022-10-11T18:05:00Z
-    webUrl: "https://www.reuters.com/technology/many-us-drivers-treat-partially-automated-cars-self-driving-study-2022-10-11/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 34
   - title: "Many drivers treat their partially automated cars as fully self-driving, study finds"
     excerpt: "Drivers of partly automated vehicles often treat them as fully self-driving, according to a new study. The study, conducted by the Insurance Institute for Highway Safety (IIHS), found that 53% of Cadillac Super Cruise users,"
     publishedDateTime: 2022-10-11T22:02:00Z

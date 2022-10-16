@@ -33,15 +33,6 @@ related:
         width: 930
         height: 620
         isCached: true
-  - title: "UAE’s Mohamed bin Zayed University of AI to Acquire NVIDIA-AMD-driven HPC System from HPE"
-    excerpt: "Hewlett Packard Enterprise (NYSE: HPE) today announced it is building a supercomputer for Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), which is dedicated to AI, designed to accelerate scientific discovery."
-    publishedDateTime: 2022-10-11T17:39:00Z
-    webUrl: "https://insidehpc.com/2022/10/uaes-mohamed-bin-zayed-university-of-ai-to-acquire-nvidia-amd-driven-hpc-system-from-hpe/"
-    type: article
-    provider:
-      name: insideHPC
-      domain: insidehpc.com
-    quality: 10
 
 secured: "zFbgcj0C+/9Ytt3yTGwOU7eFqL4GkpiCT2wN6pvS26Z+QMk0g0i756Ef+wFleJT6GViZWL7bs4BfTQmx+Ij0ucwhIwwPoF7HcJkADK3DFNDFDdWwqfnqVytE4Gwlp16ayzx2wj/aikjsmXJPR/BPdV9Jj/IxS9J8e/4MLWYzt/vB9LHyKv9xS6PI8HAinEOlTYcAudj64pHEHDwqmlSaf009MthTlJ+uc8mluf2dOO6jlMafhieFXOeamuzH+gGlhdhLe/omUbr7JzW4LRJyrA0KOczkmTAQGBJ24LMkXFQgI+cqAp0ZAVtzOqOrBo+ubMcMUoT2jkerT/e/eS2CYFvPLtNlKXYEF2myQ2F2x8FK+mSfM3LKUO09RM89Eeq5aVLnzJ8YSaP/0jhngYVcvJwi0m7TBqCijPVRkNq1oqGAIp2TT5EwG6amco14DzKgHE9wfH8uuQPnWrd8En0ZmmT01pdBcNwi/N3dfhnV0IEcRwuZX9ytdWvW6vg2/utabNZtZE1cHM4bSnRBJHYfvw==;hI/I0QphfNoR8jj3UdjhxQ=="
 ---

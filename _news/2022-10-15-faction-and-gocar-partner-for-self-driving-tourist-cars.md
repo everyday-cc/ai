@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Many Americans treat driver assist systems like self-driving"
-    excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
-    publishedDateTime: 2022-10-11T18:48:00Z
-    webUrl: "https://techcrunch.com/2022/10/11/many-americans-treat-driver-assist-systems-like-self-driving/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 34
   - title: "Auto advice: Are self-driving cars a sci-fi dream or the future of motoring?"
     excerpt: "What is meant by a self-driving car? A self-driving or driverless car is one that is capable of operating without any human involvement. There are no steering wheel or pedals. Using a combination of GPS and a host of technology including cameras ..."
     publishedDateTime: 2022-10-16T01:31:00Z

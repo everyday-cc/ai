@@ -71,15 +71,6 @@ related:
         width: 970
         height: 464
         isCached: true
-  - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
-    excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
-    publishedDateTime: 2022-10-11T17:59:00Z
-    webUrl: "https://www.autonews.com/technology/toyota-google-cloud-partner-bolster-speech-recognition-ai"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
 
 secured: "OMXaWE0itdDEB/vs1sb798WNCPEdTD7k0ExkJ78r6yrXsUB6aB6iHsSMN0Llu+/ISSuza2K+5E23G4SqWWr17sLAMHUq8oFJN8XCIQUFr3o8Q69guqjNF49fr3sSRjxPKI9X6FVn3GlovZ4pYQAECb+iXLNeTIclCTnVcrCKUMbu5XEAUOEVXOC/DqA7kvTGukrZ60cBtJLEKop/RRuLv+7LU+dJ+viUAFLlEwjapdUVhye6VXbG8sMdeE7cXnNEBe+4PJva+qGEdEswmuIc3eR6DLeh19eeBHuYGAkpjAtMpfWc4OWTi7KXPMMpHkL++XMBoB0WPQZM2MPfHok1KeBUxO/VxdWUSjE7tJzsnBOitjiwMS0rviiWhMO7zM2ap3Dsfww0i7oFudlwE7ON67yhMJHgPNy4njTWjJPICcyVPSUq0FqnwvxRJbeuN2DJSmgpbfgWLqBtOjGnoOmGPmwyNZyrkQZRbV8E+PBICTWjZqagQhlX89CUVqiuiGOBrO4+EPVUAUb18gI/vuzFtw==;Mz1ZRxD30k/atF0igseDog=="
 ---
