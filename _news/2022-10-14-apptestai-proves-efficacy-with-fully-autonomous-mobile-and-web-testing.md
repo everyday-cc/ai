@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Apptest.ai Proves Efficacy with Fully Autonomous Mobile and Web Testing"
-excerpt: "Apptest.ai provides a proprietary SaaS solution for mobile app testing that leverages state-of-the-art computer vision and natural language processing techniques to automatically test for errors without writing a single line of code."
-publishedDateTime: 2022-10-13T23:00:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
-webUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
+excerpt: "Apptest.ai is pleased to announce their strengthened global sales partnership with LG U+, one of the largest mobile carriers in Korea. The two companies co-marketed at"
+publishedDateTime: 2022-10-13T21:00:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29261621/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "k41IUdBer3aDvkj1/oJTmngxuaQWFtZuNA9SCzSJtUDXwGdqjuf5CmmQz54jNGjaG8J+QT/dMqUfUMLXtmK/x0pWsI/X2rNUj/MV5lyytmEz7Kwu1mmH13qUsCagbAiGXGtP4W2CeyfG09fiiu7V6X1qkhftAvP7iw15l1OPcHBHGRQMCHEyXOEBT065mRQ4huMZPUwh4fSZBMzPt2HMOCQwKyFAEwyMqn38uimEqsd2efbqamxTax+/IFZ153KD958T7EUKeDAQ6O2D2xlLKbA/UemUlN6eupOoPiG49yc/YfURleHYUSlibxnDZevzvaa18cuYyarMsEKZqTEcRqinxIzWm2V474iVc7z14Qw=;5VJbGDT5c0mvbqz+QLF3Xw=="
+secured: "Ld0jIPcQm2VeA8pZ90Gvd4hoC0i//n6zo3JvUwMP5/ySF8UygHnKKpD2CcFogbwLOmDAtMYXXiMy/apuimzgUgNYqH0ZuL5GHaF7AXJwICaHsMMVBS8asDsdmUhK1/45T9ACavOdnU/gYZR7qCTXITS8GR7nKaFtDYu3FEDtLOtA/yfCmFQczlOJteJMH574b8ZG04h+6HYPFC5vv+CInqGEbh4oSq8/q9v7wkm7byrEQlTPrQdOtjzvGWkF4pcO+jhriX7JrL6W0MAnxX1WGuvkS69yU192sbU66pyHinJaHoyUESMTgDMd0fDP6UD7eTm/Y/v/Af0MIe5Ck6Vm/eMEW1zL8+it+qZiaWt4eII=;YedZN5GMsfpyWX8WCp56jw=="
 ---
 
