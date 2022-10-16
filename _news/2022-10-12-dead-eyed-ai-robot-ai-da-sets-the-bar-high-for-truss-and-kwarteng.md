@@ -63,6 +63,20 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers"
+    excerpt: "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on Tuesday that although ... Disrupted Delta Air invests $60 mln, takes stake in air taxi startup Joby Aviation, article with gallery 3:10 PM UTC Disrupted Lyft testing new ..."
+    publishedDateTime: 2022-10-11T17:27:00Z
+    webUrl: "https://www.reuters.com/article/britain-parliament-robot/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-idUSKBN2R61V1"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 81
+    images:
+      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=116"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Ai-Da the robot sums up the flawed logic of Lords debate on AI"
     excerpt: "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting"
     publishedDateTime: 2022-10-14T15:54:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing and Recognition Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "The \" Natural Language Processing and Recognition market \" aims to give decision-makers current market data to support reliable investment choices. The Natural Language Processing and Recognition market research report offers the most significant and instructive data on opportunities,"
-    publishedDateTime: 2022-10-11T06:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Healthcare Artificial Intelligence Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 Research Report"
     excerpt: "The Healthcare Artificial Intelligence Market 2022 report provides an in-depth assessment of the market's size,"
     publishedDateTime: 2022-10-12T06:41:00Z

@@ -1,27 +1,31 @@
 ---
 category: news
-title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
-excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
-publishedDateTime: 2022-10-13T21:33:00Z
-originalUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
-webUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
+title: "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers"
+excerpt: "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on Tuesday that although ... Disrupted Delta Air invests $60 mln, takes stake in air taxi startup Joby Aviation, article with gallery 3:10 PM UTC Disrupted Lyft testing new ..."
+publishedDateTime: 2022-10-11T17:27:00Z
+originalUrl: "https://www.reuters.com/article/britain-parliament-robot/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-idUSKBN2R61V1"
+webUrl: "https://www.reuters.com/article/britain-parliament-robot/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-idUSKBN2R61V1"
 type: article
-quality: 54
+quality: 81
 heat: -1
 published: false
 
 provider:
-  name: Smithsonian Magazine
-  domain: smithsonianmag.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
-    width: 1600
-    height: 1067
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=116"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -57,20 +61,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers"
-    excerpt: "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on Tuesday that although ... Disrupted Delta Air invests $60 mln, takes stake in air taxi startup Joby Aviation, article with gallery 3:10 PM UTC Disrupted Lyft testing new ..."
-    publishedDateTime: 2022-10-11T17:27:00Z
-    webUrl: "https://www.reuters.com/article/britain-parliament-robot/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-idUSKBN2R61V1"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 81
-    images:
-      - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=116"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Dead-eyed AI robot Ai-Da sets the bar high for Truss and Kwarteng"
     excerpt: "A robot addressing a Lords committee evinced a clarity and personality all too lacking at the top of the Tory party"
     publishedDateTime: 2022-10-11T21:46:00Z
@@ -102,6 +92,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790"
         width: 620
         height: 372
+        isCached: true
+  - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
+    excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
+    publishedDateTime: 2022-10-13T21:33:00Z
+    webUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
+    type: article
+    provider:
+      name: Smithsonian Magazine
+      domain: smithsonianmag.com
+    quality: 54
+    images:
+      - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
+        width: 1600
+        height: 1067
         isCached: true
   - title: "Ai-Da makes history after becoming the first robot to be grilled by UK's House of Lords"
     excerpt: "The team behind Ai-Da hopes that the robot will provoke discussions about the future of artificial intelligence and robotics. Ai-Da is the first robot ever to appear before the UK's House of Lords ..."
@@ -136,6 +140,6 @@ related:
       domain: itv.com
     quality: 29
 
-secured: "8+e8knoCWDackCD9CCgQ8TCw0PjfzezNw7FDFDKW97Uuue8Ir9e5tyHKJhScF1z1HeCZmjh6j+GBUh8x7cMVqSB80M2VleAoEKawbOwJSmQ3FKZlwQ2t6cfUzSXwgXFPRVm1clN9ZGQxQIFQ/9qI8bRs1bfrSix7mfhAbJ3f70ke3M51/JZ6BIMTYKpVO/iMapivYfSahYf0bKLdprS6wsYdiUj/08N6NlRYTEcE3YwQ9IlaS9tcxfygqaypla41NPQyXnfIfz1J7aO1Ap051iHj0qCZch3xTL8xIFR4JvBJcrGykouWM/N3zAw5F8i1hoBTfSJOhlvFJf5ZKqLPXkWmAL0xEtR5cMMaCsnesr4gJ3ig8+C8/Swn43Kiworic7SoTpfCNY/N9KzEr4uxUBoctYguRXLnUKTanHnjhSGaa7g4ktUPxPOIO84lpd35jGmxPJWS24lwcSzo1lOFZaZY2Em9Sid0cW8h1PfwG8GSV7SiEcUbfA0usEgfusIUUQav9HH3R+yyhXuhXw0UWA==;3ZfBeC/ttv26df1JVWIILw=="
+secured: "/976Ct5G8npPxyF4XApboQYO0XYiLxEP/MxXqWfktMMCURMGA3laNpX35SZpc0A2a4bsc2is0BNNG/cgiasSFbmxoRl8koKDGRojhvOHftjVqJHfYoIgzFUd9dUxlhDK78DmKRKeCCiL404xhPNH0mave61ljugGMoPUr1b2K5MBd+tRPaVeIajRw7y1a7tXjaOn8RPW6zS93kC5hOmRzQ6wjY4vOONGG/Jb72pnK0GcwnRqiviwQw+AbxSSNLqw4ixsLRKzr1yKXOxEPDHaVRnIiBSNs2DghT41Ipi7+SXyqYPFStZbZrRitWlRVZECM4cAopRiaJ067FoYl/C3tt8mfOM6f2TeGb1lf+FTpfg=;IP131emXYOq73Cl0uQQZ4w=="
 ---
 

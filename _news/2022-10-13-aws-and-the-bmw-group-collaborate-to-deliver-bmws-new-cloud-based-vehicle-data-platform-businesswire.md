@@ -33,6 +33,15 @@ related:
         width: 476
         height: 210
         isCached: true
+  - title: "AWS and BMW Group Collaborate on New Cloud-Based Vehicle Data Platform"
+    excerpt: "Amazon Web Services, Inc. (AWS) and the BMW Group today announced a strategic collaboration to develop customizable cloud"
+    publishedDateTime: 2022-10-13T17:06:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-and-bmw-group-collaborate-on-new-cloud-based-vehicle-data-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "aaP5u86gkFipdf7c9Z3khnicTpiwLzli5FsEzLuInUEoAnp0oOVwtEb9jQLm77ijPYVSg59bMyVdP4dw8orbNYOhk5TLjhmwO7EmA4sRUU5D9mLBzcgfWHxDvH7/iXYN3im37w7i+Qx13sdXUfSWiBIRTE5f/EedqvAYTNoRvFo0uiC6FM1EjFQuYLhRjNQZDyiocIy28Iw9j/4ZAjtUw4NbwnOfDmWOlRY5zhxWBlRKetzkC6WudWbi6ud+4glsroP7AwZkG0bPpGetvPbEAdv81MMlepRvVpqCSjchMWE7dkb6v7n2r0MK1DIfqIby6Lc2haydRwGnXZoqkw3UMgZ+avpc/WhjBZPxipd12S8=;A8UAVseOsuvDWEGcwELsmw=="
 ---

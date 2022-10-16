@@ -2,26 +2,28 @@
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
 excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T17:47:00Z
-originalUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
-webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+publishedDateTime: 2022-10-13T19:13:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
 type: article
-quality: 62
+quality: 52
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
   - AI in Security
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "DALL-E 2 coming to Microsoft’s Azure AI, by invitation"
@@ -346,8 +348,8 @@ related:
         isCached: true
   - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
     excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-    publishedDateTime: 2022-10-12T15:03:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+    publishedDateTime: 2022-10-12T13:28:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/12/9691176.htm"
     type: article
     provider:
       name: TMCnet
@@ -667,6 +669,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "wfMRnp+EEnbgJShckMGeUZLGs3r/rqTi48zwFrx6ji1reJuKzK29fI2zHgPEbNXnipqb1aZgLKVvozAcMRCLDX/bTdOxkD1Xtl/BJnVkJ+LqOPYq6p3UJFxJzBWWv6KRI+C/YafeHfjR2s890i42Cz4dShcBlT12qdc8T1trg4MefiObltc9Epbgzcp/wnvu63vJ78FwQyK1uaftbpBthNjFoOMQ8vkyEhq86iGWtSa7Yiy1/LqaogDkEtxNZQNqc5Rt/34I/TFMIvb2+G8I3S2s+hJE+Ym9gYJEngGU+Keh3MnLSP7zWwipZ63gCzvaClelpCvrNOVY5yMVrhtkYkSpvv3e99TdFJ9zZJYNR4E=;QgPjX05aPx4T/EGJihaxDA=="
+secured: "OV44a1h5mKgFh6BiTZi56b2d2GvkWIdBOwQCZSZe/ffovmW7v3fjleDgLh32jNi7AGuLRhEbgDxVkoc3KQgDgvDPM0YINTvjMylTdxMgeqjwa+ad1fTD/vflmLzikFqyw2cJSyM8yGgVnu8uhQ7RArxuTXtKtkzWGNu8jnL19fDc/5WRWFeJnHla+1bQEBkaHj0b2FvcGxsrZExHlAxeBvPEs5ls0E2IrRXqNDK3uxjGZ8MrEA56RlMAwPDlOLc25Z4vgl2LjOI9z7hVlTE3ZH3ZRv8PJahO7Oz7MHIit08AMB4qJWCMsLGxKaRGOxW0Ek1iVSAtLrIPedIaEhjuZ2HWI/FJ4a5QxtHcYBsIbx4=;FvH+acT4F/PK/8Bk1CkxnA=="
 ---
 

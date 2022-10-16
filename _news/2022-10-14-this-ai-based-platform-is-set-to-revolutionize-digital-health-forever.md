@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platfor
 webUrl: "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237"
 type: article
 quality: 69
-heat: 80
+heat: 79
 published: true
 
 provider:

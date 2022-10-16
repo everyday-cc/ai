@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence (AI) in Insurance Market Report 2022 - Analysis by Product Type, End-user and Region"
-    excerpt: "As per the updated \" Artificial Intelligence (AI) in Insurance Market \" report by Report Mines, the Artificial Intelligence (AI) in Insurance market value was in billions in the year 2022. Furthermore,"
-    publishedDateTime: 2022-10-11T07:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-insurance-market-report-2022---analysis-by-product-type-end-user-and-region-2022-10-11"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027"
     excerpt: "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal."
     publishedDateTime: 2022-10-13T19:04:00Z
