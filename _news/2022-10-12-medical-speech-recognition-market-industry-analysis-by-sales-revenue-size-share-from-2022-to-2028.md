@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/medical-speech-recogniti
 webUrl: "https://www.marketwatch.com/press-release/medical-speech-recognition-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-11"
 type: article
 quality: 71
-heat: 231
+heat: 241
 published: true
 
 provider:
@@ -224,6 +224,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-10-14T10:23:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-14-the-worldwide-computer-vision-in-automatic-inspection-industry-is-projected-to-reach-3-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "j/34k8nlv2jtcPSEj63Krc4urKacYUS61y8aYSBEI+xMAqeE4tScIn2TitKn3r/9PWJzo5CMUpVjeUgWQJjpxFcDpicvK+GFF0Zh7PadXxd8zE+SAzCJtbvIf93THeLIJgUHKPSg/DuNWdXuaENtKzbdofeTwpERB+B+s0HkYQpB8/DJtMUxnYcRLhKV0GXpOSKfQeO5glP+HJOKEOTE7ahP/F/xfQ++p2r4f7MaYQuk9O0AtbnU90nIHgN7CSHSDOIOvsYf2Sr3utin0PJeE/0fQaKblTtnGWi8Q6BjOBzAgbBh3olaReknVLI7vosY+7kIpr34kkTwSLjgniHnKWvoodpgb2Oqp5QvboUpO9s=;fnDBvScLizVoF1EW1Xe68g=="
 ---

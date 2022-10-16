@@ -9,7 +9,7 @@ ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-g
 cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
 type: article
 quality: 56
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Toyota partners Google Cloud for AI-powered speech recognition"
+    excerpt: "TOYOTA says it is partnering Google Cloud to boost its artificial intelligence-based speech services. The partnership aims to improve in-vehicle infotainment systems’ voice recognition, something drivers have continuously complained about in the past few years."
+    publishedDateTime: 2022-10-14T05:55:00Z
+    webUrl: "https://www.vanguardngr.com/2022/10/toyota-partners-google-cloud-for-ai-powered-speech-recognition/"
+    type: article
+    provider:
+      name: Vanguard
+      domain: vanguardngr.com
+    quality: 54
+    images:
+      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/toyota-fuel-pump.jpg"
+        width: 915
+        height: 610
+        isCached: true
   - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
     excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
     publishedDateTime: 2022-10-12T14:06:00Z

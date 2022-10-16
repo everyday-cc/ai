@@ -7,8 +7,8 @@ originalUrl: "https://www.biometricupdate.com/202210/eu-parliament-meeting-shows
 webUrl: "https://www.biometricupdate.com/202210/eu-parliament-meeting-shows-facial-recognition-still-at-the-center-of-ai-act"
 type: article
 quality: 51
-heat: 71
-published: true
+heat: 61
+published: false
 
 provider:
   name: Biometric Companies
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI facial recognition systems work the worst for Black women"
-    excerpt: "Peekaboo doesn't work when your robot doesn't see you. [A few years later] at MIT, when I was creating [a robot] that would say, \"Hello, beautiful,\" I was struggling to have it detect my face. I tried drawing a face on my hand,"
-    publishedDateTime: 2022-10-11T13:05:00Z
-    webUrl: "https://www.glamourmagazine.co.uk/article/ai-facial-recognition-systems-work-worst-for-black-women"
-    type: article
-    provider:
-      name: GLAMOUR UK
-      domain: glamourmagazine.co.uk
-    quality: 34
   - title: "High international participation at the 30th edition of VISION expo"
     excerpt: "To Dr Dietmar Ley, CEO Basler AG, VISION is Europe’s most important Computer Vision market place: “For us, VISION is the central platform for introducing innovations and communicating our new orientation towards becoming a solution provider.”"
     publishedDateTime: 2022-10-12T13:36:00Z

@@ -43,15 +43,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "IIHS Study: Drivers Are Overconfident With Autonomous Driving Assists"
-    excerpt: "Drivers with semi-autonomous features are relying on them too often and treating them as fully self-driving vehicles despite warnings from their owners manuals and numerous high-profile crashes, according to a study from the Insurance Institute for Highway Safety (IIHS)."
-    publishedDateTime: 2022-10-11T13:03:00Z
-    webUrl: "https://www.newsweek.com/iihs-study-drivers-are-too-overconfident-autonomous-driving-assists-1750519"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 34
   - title: "Many Americans treat driver assist systems like self-driving"
     excerpt: "A study found many users of advanced driver assistance systems from GM, Tesla and Nissan are more likely to take eyes off road."
     publishedDateTime: 2022-10-11T18:48:00Z

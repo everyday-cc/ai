@@ -222,6 +222,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 16
+  - title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-10-14T10:23:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-14-the-worldwide-computer-vision-in-automatic-inspection-industry-is-projected-to-reach-3-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
 secured: "AdtuExhxt8rfUUIT9SIkSU+30IVfyaxW3BcZ7w/xKytzP4KErX6YJ7C0jb+DBepWrDLo1cwGiA+qci5tvTv0P1xkDM7/1sxRVuwedZQ9/+BbdgAszdeMuDSnwbNXuGU2FwwoSf19iZDcywUNaEb3myNFftXSuw3QCjXwNRTBptIJ68YUzYWFaU6Qb9RZh2Mu/on/mlI2gFO0+tzHJhuOliLbJNtoEYo/W1fQ4MKP00HaIKkXdLGvIjHck0uw8nOlAI5tY5LOB9VHtUjtf/LMr6/aTPBL22/1mO2QwJ5G0Lo2Vilfs8glSBEZ77iWl/VP2l2afX7kc8nRmwEnQQwuSkluUjvbNCow5QAggPMipDY=;MCn4CzGtNtiMvEjAZebdCg=="
 ---

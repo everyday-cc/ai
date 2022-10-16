@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Many U.S. drivers treat partially automated cars as self-driving, study finds"
-    excerpt: "The IIHS study found 53% of Super Cruise, 42% of Autopilot and 12% of ProPILOT Assist owners “said that they were comfortable treating their vehicles as fully self-driving.”"
-    publishedDateTime: 2022-10-11T14:38:00Z
-    webUrl: "https://www.nbcnews.com/tech/tech-news/many-us-drivers-treat-partially-automated-cars-self-driving-study-find-rcna51662"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna51662"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna51662"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 71
-    images:
-      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221011-tesla-autopilot-mn-1036-c12e44.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
   - title: "42% of Tesla Autopilot Users Treat Their Cars as Fully Self Driving"
     excerpt: "The Insurance Institute for Highway Safety (IIHS) recently published the results of a study on how users of partially automated vehicles perceive their capabilities. Regular drivers of Cadillac Super Cruise,"
     publishedDateTime: 2022-10-12T15:13:00Z

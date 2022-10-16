@@ -35,20 +35,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
-    publishedDateTime: 2022-10-12T09:00:00Z
-    webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
-    type: article
-    provider:
-      name: realwire
-      domain: realwire.com
-    quality: 44
-    images:
-      - url: "https://www.realwire.com/twitter_writeitfiles/Mindtech_Logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
     excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
     publishedDateTime: 2022-10-15T21:28:00Z

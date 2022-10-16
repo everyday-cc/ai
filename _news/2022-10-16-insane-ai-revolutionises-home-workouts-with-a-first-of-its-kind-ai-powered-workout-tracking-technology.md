@@ -34,20 +34,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Mindtech launches training-ready data packs to accelerate AI-based computer vision systems"
-    excerpt: "Mindtech’s synthetic data packs provide a faster and more cost effective alternative to using real world data alone when building AI-based vision systems London, UK; 12th October 2022: Mindtech, the developer of the world’s leading synthetic data creation platform,"
-    publishedDateTime: 2022-10-12T09:00:00Z
-    webUrl: "https://www.realwire.com/releases/Mindtech-launches-training-ready-data-packs"
-    type: article
-    provider:
-      name: realwire
-      domain: realwire.com
-    quality: 44
-    images:
-      - url: "https://www.realwire.com/twitter_writeitfiles/Mindtech_Logo.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Tifin launches AI-powered investing assistant"
     excerpt: "Tifin, the fintech platform known for Magnifi, it’s award-winning investment marketplace, today announced the launch of their new premium subscription Magnifi Personal, aimed at helping investors without enough time or knowledge to build and grow their portfolios with intelligence."
     publishedDateTime: 2022-10-13T18:01:00Z

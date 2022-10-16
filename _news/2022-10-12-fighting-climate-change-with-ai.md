@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wired.com/sponsored/story/fighting-climate-change-with-a
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/fighting-climate-change-with-ai/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,24 +29,6 @@ images:
     width: 3840
     height: 2160
     isCached: true
-
-related:
-  - title: "Reading old handwriting with an AI platform"
-    excerpt: "Using artificial intelligence, computers can decipher handwritten texts and make them readable for everyone. The Transkribus platform, co-developed at the University of Innsbruck, Austria, makes this technology available to scholars and the general public."
-    publishedDateTime: 2022-10-11T13:54:00Z
-    webUrl: "https://techxplore.com/news/2022-10-ai-platform.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-ai-platform.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-platform.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/reading-old-handwritin.jpg"
-        width: 800
-        height: 450
-        isCached: true
 
 secured: "TTRLVz4WsfRkZff7nGLF5e02i8OOAEfnYZopDq3MjLHWBL56+laxNevnMhJx4HOQHwBC44bFJTsfVE/kr3Ryu0Y+VZEmBg3GZEkuLuMy0L196Yj20QEW5qoHX9H7JSrJyZvnqyQSU+ca5uUJwVS8Pp9g2jZ+Y2NF+6eFsr0R+3YZ2eAa7sKxHTKPve2ntVIJkNvoIKC1eIpBQVo2aeUTeCgeAys45OToj/YyeY6vSYVb6Q8TYiRLSQpAFoCBBCaKyYvW3bvaKV1wA2/Zj4ug43pIUqv1HFt/3r54Cd+MGk99cqhjjd1I/1wig0mhV6FjNEfqhj2/LGCed09DSk/RDp1C5pbp/yGeiStXQ1bvg8921Z6Im382rpKlJvUt9jGiOVfGrLzR+eZN6/mYd8OXp+uz4Z4JFCIsIbwjPRsvRFMxcHgFbVMe9u9CRNgmCdnYLJ+gOxFjQENCOUFZJG91F/hQdNdcfvYAF+OYEJzFIRHp4nT2iv2OjuCkRc4ItRT7aiDsTu9BUoPa4mIMuYSGBg==;Xbr03q7YOlaDX94iZccFzA=="
 ---

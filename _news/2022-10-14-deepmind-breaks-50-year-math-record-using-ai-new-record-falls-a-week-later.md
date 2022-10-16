@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/deepmind-br
 webUrl: "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/"
 type: article
 quality: 99
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing"
-    excerpt: "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself."
-    publishedDateTime: 2022-10-11T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/"
-    ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 75
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
   - title: "Humans beat DeepMind AI in creating algorithm to multiply numbers"
     excerpt: "One week after DeepMind revealed an algorithm for multiplying numbers more efficiently, researchers have an even better way to carry out the task"
     publishedDateTime: 2022-10-13T14:37:00Z

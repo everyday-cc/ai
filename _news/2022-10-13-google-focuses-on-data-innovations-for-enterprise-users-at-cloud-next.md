@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: VentureBeat
@@ -31,68 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google reveals what’s next for Cloud AI"
-    excerpt: "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases."
-    publishedDateTime: 2022-10-11T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
-        isCached: true
-  - title: "Google Cloud AI update adds translation, document services"
-    excerpt: "The company has released a new AI-based translation service called Translation Hub and added two new features to its Document AI service."
-    publishedDateTime: 2022-10-11T14:21:00Z
-    webUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html"
-    ampWebUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 63
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/10/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Google Announces AI Updates to Its Cloud Offerings"
-    excerpt: "There’s also an AI-based service called Translation Hub that translates documents in 135 languages, the Alphabet Inc.-owned company said. Google is beefing up its cloud infrastructure as well, relying on a fourth-generation version of Intel Corp.’s ..."
-    publishedDateTime: 2022-10-12T23:54:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
-    type: article
-    provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
-    images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2614a4e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F3f%2F4660393d4d39b26096194218444d%2Fshutterstock-1083498080.jpg"
-        width: 840
-        height: 438
-        isCached: true
-  - title: "Toyota partners Google Cloud for AI-powered speech recognition"
-    excerpt: "TOYOTA says it is partnering Google Cloud to boost its artificial intelligence-based speech services. The partnership aims to improve in-vehicle infotainment systems’ voice recognition, something drivers have continuously complained about in the past few years."
-    publishedDateTime: 2022-10-14T05:55:00Z
-    webUrl: "https://www.vanguardngr.com/2022/10/toyota-partners-google-cloud-for-ai-powered-speech-recognition/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 54
-    images:
-      - url: "https://cdn.vanguardngr.com/wp-content/uploads/2020/01/toyota-fuel-pump.jpg"
-        width: 915
-        height: 610
-        isCached: true
   - title: "Google unveils a host of open data and AI advancements at Cloud Next"
     excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
     publishedDateTime: 2022-10-11T17:17:00Z
@@ -102,17 +40,48 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 49
-  - title: "Google expands cloud to more regions, adds new AI"
-    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
-    publishedDateTime: 2022-10-12T04:51:00Z
-    webUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
+  - title: "Google Cloud adds networking, security features for enterprises"
+    excerpt: "Google Cloud has rolled out 20+ new features including Layer 7 security, policy analysis, and expanded network-connectivity options."
+    publishedDateTime: 2022-10-12T01:12:00Z
+    webUrl: "https://www.arnnet.com.au/article/702257/google-cloud-adds-networking-security-features-enterprises/"
     type: article
     provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 39
+      name: ARN
+      domain: arnnet.com.au
+    quality: 41
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_154242123_24.jpg"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "Google touts open data cloud to unify information from every source"
+    excerpt: "Google announced this “data cloud” vision today at Google Cloud Next 2022, where it introduced an avalanche of updates to its existing data services, as well as some new ones. The new updates are all designed to make this vision of an open and extensible data cloud a reality."
+    publishedDateTime: 2022-10-11T23:44:00Z
+    webUrl: "https://siliconangle.com/2022/10/11/google-touts-open-data-cloud-unifies-information-every-source/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 26
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Google-open-data-cloud.png"
+        width: 662
+        height: 364
+        isCached: true
+  - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
+    excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
+    publishedDateTime: 2022-10-12T11:20:00Z
+    webUrl: "https://slator.com/google-launched-translation-hub-enterprise-scale-translation-service/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 20
+    images:
+      - url: "https://slator.com/assets/2022/10/Google-Cloud-Machine-Translation.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "YrUEu05x1VamQ1PSs6C018LuvEflVt99Qq/Z1js5Ih95NwRKD2kPWlXAFOxlp+ZfdWF84vWwVKzMDUimbxT6w36MHwxTN9UIZ30ZDMsUnpLq294zzyhjTrSEpqq0cZ6Pjma5iUeen0YUIa9rP0uVA103ruZrl3whQ2Nj7Aduhzjud0T/dv9TdiqjWrdELv2XpXddm6cwLu90p/QbznH78e+vpDyRoFiaHVkuX823rFUOWl2Ns8UcaBokoXpF5F0wISioyGVMNhI86xH5e/0H1jNPMSr85fdNev3jbmtLhGw0ZP3wAQ4SCs/3BWjYs8KzTbzJomjilBxkzksnARUpEVQ4NOtyTmTYbZgXOpzMG8Du1yVgo3ssE8KvFRwBOe7afGLAK7pBLHQ8F2Rq9YZdPhRHAqL8m1HzWJI33z9Yf48woovkKDKupeWAsdv6TS2vxMX1/M/KIJF1RuJHR2TKzHbWeSYb+wSu3zkGyUCuVj/8IktG9B308z+X8ZwktKsQwI3X0obDFpo8Q0kM9yLAEw==;9CdgFVOZlkHTyNoybMrw2w=="
 ---

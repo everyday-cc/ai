@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-13-finpro-uses-applied-ai-to-forecast-financials-faster.md",
-      "title": "Finpro Uses Applied AI to Forecast Financials Faster",
-      "excerpt": "Today, he lives in San Francisco and is the founder and CEO of Finpro (formerly Finmod). This fintech start-up applies artificial intelligence (AI) and machine learning techniques to help businesses forecast financials.",
+      "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
+      "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster",
-      "originalUrl": "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster",
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028-2022-10-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 86,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/f/finpro-use/finpro-uses-applied-ai-to-forecast-financials-faster_x73c.1200.png",
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
           "width": 1200,
-          "height": 858,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T15:07:00-07:00",
+      "publishedDateTime": "2022-10-13T01:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {

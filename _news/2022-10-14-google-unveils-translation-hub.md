@@ -26,22 +26,6 @@ images:
     height: 331
     isCached: true
 
-related:
-  - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
-    excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
-    publishedDateTime: 2022-10-12T11:20:00Z
-    webUrl: "https://slator.com/google-launched-translation-hub-enterprise-scale-translation-service/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 20
-    images:
-      - url: "https://slator.com/assets/2022/10/Google-Cloud-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
-
 secured: "3NN0/y2bwoNEqP6QJl0UnYz+6Wmu3owDKm525ws8CkLwfba9UkKGr3MaJbokYploYfKly+ZbFzdQNqBqfrINrg6uapFQpsP0++wAwRit6pe0yD6wy2YyiUIXcjTCvrnR1jN6dHUoo+s8rEPk2PPqtYNvDzqbvZ5ne6hDdl4b9/CWTlQnY+aI/Kw3Me9s9ey7bICmbSiqF0rMbdAG/CMQCmngV7ngvD9FGX/K5la8Tx7zHNbabqbXycUgrJJW5GoX9rjLFQOQnD3wz24gFobbsyoIpCEncBREF5Jsul3ZhoTCPadwbwYcQGoRSEE/KHztAUZajmbMorRgMjg43PkjZG38QsGiPZzxBc6cfo2Q5tPyZXcT+idMlD/Dcs1lgiC5grt8rHLwhmJpnTvnI5BTPuIY0Z7a8ECuhV1TG/yIbKB0aKiPsUc0xzdg4LvuTALCWS0vChAQN6LEGFHQUXCkt0MzpjBxsW6m5MXWwJWIT6+emVeVi3lbZv5q/x5B55nbngTNFpRIsBRl4dR/T96xpA==;N1zE8DhIfX+YyYRv/4TTsQ=="
 ---
 

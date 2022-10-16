@@ -7,8 +7,8 @@ originalUrl: "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecas
 webUrl: "https://uk.pcmag.com/news/143183/finpro-uses-applied-ai-to-forecast-financials-faster"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: PC Magazine
@@ -27,24 +27,6 @@ images:
     width: 1200
     height: 858
     isCached: true
-
-related:
-  - title: "Artificial intelligence not trusted for financial advice"
-    excerpt: "We trust Siri to give us directions, are happy to use a self-checkout at the supermarket, and the introduction of driverless cars is eagerly awaited by many, yet it seems bank customers are not ready to accept investment advice from artificial intelligence bots."
-    publishedDateTime: 2022-10-11T13:57:00Z
-    webUrl: "https://phys.org/news/2022-10-artificial-intelligence-financial-advice.html"
-    ampWebUrl: "https://phys.org/news/2022-10-artificial-intelligence-financial-advice.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-financial-advice.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/robots-and-money.jpg"
-        width: 1920
-        height: 1222
-        isCached: true
 
 secured: "zvJgZfPg5Npd6eh+qgxcRRJ3TWsohHgJXcoGskVOUkhn9g4gNN0lrHyhrFltsnL8qbKJRq36uqowWrVY9qS05v4nqepIAATQm2Sc13AKDvl1dIVVoEAh1ypS4yBeH5ppsyRSPvY1/nOMy4sqHnvUKNHbI74XlxrQ6cU5nqJiw6hU6pyX6uWeQyw3i/j5dwxRA677zZXaOueG/gSarM9seozoBSi1WzXImUkDaUnXUb0s1NQ0MQ2OSgcB+psQW9aknsZrRi383xOpsBYHn55ykswxtbTLIXebqcu+beeUX1mdi5UjMxdnV0pwk6Lgjpo/m+6tQABcApc1xmWBLaPJ1qp8yFUIW+dVLq6TNnJ2958=;Izin7ezTzJ6dCYESVOrp3A=="
 ---

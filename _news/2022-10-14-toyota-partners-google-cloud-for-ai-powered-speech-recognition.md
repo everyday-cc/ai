@@ -25,90 +25,61 @@ images:
     isCached: true
 
 related:
-  - title: "Google reveals what’s next for Cloud AI"
-    excerpt: "At Google Cloud Next 2022, new AI services emerge to help enterprises build and deploy applications for common use cases."
-    publishedDateTime: 2022-10-11T14:40:00Z
-    webUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-reveals-whats-next-for-cloud-ai/amp/"
+  - title: "Toyota and Lexus cars to get AI-powered voice assistant, no internet required"
+    excerpt: "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity."
+    publishedDateTime: 2022-10-12T11:23:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 56
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/Google-Cloud-Next-e1634148277238.jpg?w=1200&strip=all"
-        width: 1200
-        height: 599
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/12/1600x900/TOYOTA-INVESTMENT-0_1646050256447_1665573668818_1665573668818.JPG"
+        width: 1600
+        height: 899
         isCached: true
-  - title: "Google focuses on data innovations for enterprise users at Cloud Next"
-    excerpt: "At this year’s Google Cloud Next conference, Google has treated enterprises with some notable product developments, starting with the launch of new AI agents and software delivery shield to new cloud regions."
-    publishedDateTime: 2022-10-12T21:02:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/"
-    ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
+  - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
+    excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
+    publishedDateTime: 2022-10-12T14:06:00Z
+    webUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/"
+    ampWebUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 74
+      name: Carscoops
+      domain: carscoops.com
+    quality: 44
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/11/google-cloud-e1594658562493.jpg?w=1200&strip=all"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Google Cloud AI update adds translation, document services"
-    excerpt: "The company has released a new AI-based translation service called Translation Hub and added two new features to its Document AI service."
-    publishedDateTime: 2022-10-11T14:21:00Z
-    webUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html"
-    ampWebUrl: "https://www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409490/google-cloud-ai-update-adds-translation-document-services.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 63
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/10/iStock-1297326414_800.jpg?quality=50&strip=all&w=1024"
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/10/2023-Toyota-Voice-Assistant-2-1024x555.jpg"
         width: 1024
-        height: 576
+        height: 555
         isCached: true
-  - title: "Google Announces AI Updates to Its Cloud Offerings"
-    excerpt: "There’s also an AI-based service called Translation Hub that translates documents in 135 languages, the Alphabet Inc.-owned company said. Google is beefing up its cloud infrastructure as well, relying on a fourth-generation version of Intel Corp.’s ..."
-    publishedDateTime: 2022-10-12T23:54:00Z
-    webUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings"
-    ampWebUrl: "https://www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
-    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/artificial-intelligence/google-announces-ai-updates-to-its-cloud-offerings?_amp=true"
+  - title: "Let’s Talk: Toyota, Google Cloud Expand Next-Gen In-Car Voice AI Systems"
+    excerpt: "Plano-based Toyota North America is expanding its partnership with Google Cloud to enhance AI-based speech services in Toyota and Lexus vehicles. Audio control is now just a voice command away, processed by in-vehicle voice AI."
+    publishedDateTime: 2022-10-11T21:47:00Z
+    webUrl: "https://dallasinnovates.com/lets-talk-toyota-google-cloud-expand-next-gen-in-car-voice-ai-systems/"
     type: article
     provider:
-      name: Government Technology
-      domain: govtech.com
-    quality: 61
+      name: Dallas Innovates
+      domain: dallasinnovates.com
+    quality: 38
     images:
-      - url: "https://erepublic.brightspotcdn.com/dims4/default/2614a4e/2147483647/strip/true/crop/1000x521+0+73/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F3f%2F4660393d4d39b26096194218444d%2Fshutterstock-1083498080.jpg"
-        width: 840
-        height: 438
+      - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Lexus-interface-voice-assistant.jpg"
+        width: 970
+        height: 464
         isCached: true
-  - title: "Google unveils a host of open data and AI advancements at Cloud Next"
-    excerpt: "Part of the problem, of course, is that many of the most advanced technologies are complex, and it can be very difficult to bring them to"
-    publishedDateTime: 2022-10-11T17:17:00Z
-    webUrl: "https://www.techspot.com/news/96280-google-unveils-host-open-data-ai-advancements-cloud.html"
+  - title: "Toyota partners with Google Cloud to bolster speech recognition AI"
+    excerpt: "Toyota is partnering with Google Cloud to bolster its artificial intelligence-based speech services. See more newsletter options at autonews.com/newsletters. You can unsubscribe at any time through links in these emails."
+    publishedDateTime: 2022-10-11T17:59:00Z
+    webUrl: "https://www.autonews.com/technology/toyota-google-cloud-partner-bolster-speech-recognition-ai"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 49
-  - title: "Google expands cloud to more regions, adds new AI"
-    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
-    publishedDateTime: 2022-10-12T04:51:00Z
-    webUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/"
-    ampWebUrl: "https://businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
-    cdnAmpWebUrl: "https://businesstech-co-za.cdn.ampproject.org/c/s/businesstech.co.za/news/technology/633261/google-expands-cloud-to-more-regions-adds-new-ai/amp/"
-    type: article
-    provider:
-      name: businesstech.co.za
-      domain: businesstech.co.za
-    quality: 39
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "OMXaWE0itdDEB/vs1sb798WNCPEdTD7k0ExkJ78r6yrXsUB6aB6iHsSMN0Llu+/ISSuza2K+5E23G4SqWWr17sLAMHUq8oFJN8XCIQUFr3o8Q69guqjNF49fr3sSRjxPKI9X6FVn3GlovZ4pYQAECb+iXLNeTIclCTnVcrCKUMbu5XEAUOEVXOC/DqA7kvTGukrZ60cBtJLEKop/RRuLv+7LU+dJ+viUAFLlEwjapdUVhye6VXbG8sMdeE7cXnNEBe+4PJva+qGEdEswmuIc3eR6DLeh19eeBHuYGAkpjAtMpfWc4OWTi7KXPMMpHkL++XMBoB0WPQZM2MPfHok1KeBUxO/VxdWUSjE7tJzsnBOitjiwMS0rviiWhMO7zM2ap3Dsfww0i7oFudlwE7ON67yhMJHgPNy4njTWjJPICcyVPSUq0FqnwvxRJbeuN2DJSmgpbfgWLqBtOjGnoOmGPmwyNZyrkQZRbV8E+PBICTWjZqagQhlX89CUVqiuiGOBrO4+EPVUAUb18gI/vuzFtw==;Mz1ZRxD30k/atF0igseDog=="
 ---

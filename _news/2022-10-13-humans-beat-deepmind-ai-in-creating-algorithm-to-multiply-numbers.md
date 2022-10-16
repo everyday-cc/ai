@@ -39,22 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "DeepMind AI One-Ups Mathematicians at a Calculation Crucial to Computing"
-    excerpt: "AlphaTensor opens the door to a world where AI designs programs that outperform anything humans engineer—including AI itself."
-    publishedDateTime: 2022-10-11T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/"
-    ampWebUrl: "https://singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/11/deepmind-ai-one-ups-mathematicians-at-a-calculation-crucial-to-computing/?amp=1"
-    type: article
-    provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 75
-    images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/10/DeepMind-alphatensor-matrix-multiplication-ai-artificial-intelligence-machine-learning.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "BAcTi4xJP1dkkvxtZbWCWUgNuU64ogCRIBM0UoXLEaZhtsLslhTZzll5RKgmV74w/B7VX3WQCYN/JXC4EbFIog1NcCyGBtKPIFkAeSbsOFtMJmpkRbsMWiR3C2vKdkn8LSZ80bjonTaD12yQT0dYseJI8lfe3hT1rOlrurSMl35uD8hcq+JA+N9MI2GJdvJbtrL61krqnRN1rw4LRFQAVhnBu2o4vVglooZrev+BTpBaxcxo/qFTl4oO4mhx1tjAo4aacau9x01aOooR2ZfguSwgtAH0GWBpFVnmC3k3fqscnCJagtLVi6AWpK4H3EELucwDYQ4SW54OLTxMoQec4IryUxnM4wgHl1JZaJ7c4edPcdbvT8/F1nrIvQuVx9hkWUFHbcUGkYDZW0EGGaKwlMOpZArI0W3F/nZH7m8NamRstuJVOPugRiRVkc6n6+osw9rskhqdyUVYbbWTa/0saE27V0trtanIn7G89PzwKJmWLllVFZB0Nl0YPfpWVDRsR4SnMweFyMsgWMT6EdaHcA==;qt9XeJsakh890hGrEHx1nA=="
 ---
