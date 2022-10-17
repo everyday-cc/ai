@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
-excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-publishedDateTime: 2022-10-14T04:21:00Z
-originalUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
-webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
+title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
+excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
+publishedDateTime: 2022-10-14T07:20:00Z
+originalUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
+webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
 type: article
-quality: 31
+quality: 60
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Robotics
   - AI
 
 images:
@@ -43,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
-    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
-    publishedDateTime: 2022-10-14T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
+  - title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
+    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-14T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -67,6 +67,6 @@ related:
       domain: marketwatch.com
     quality: 16
 
-secured: "oLPqcIjt9qa5OCQuOlVJrXSwFcnbNmX+f5Pg6F+f4POd7NJX6E02Ezo5TwXDzZG8NtJPZR6lTPesdZfxn9oRArC3d1R4SO0yjDFdizBcP5mnHwKSp2u3FK4kQnJJd0lUX9WHEdMDisF9gZdz2oIn7eUZvKPuYq2p2DVEJ6G8Azj2tbv5j4obVieaBW4LmIs+aZxizKcgfJ9g62PnHfMY3/AZV8ooth1vVAkfxOTG3W8FZbwfm3NvzIGhyX3O2C43X3A2yTb1DJ8MbCc5k7n8mcrZ+BJiTgepvelplLDIG4TL7YwbBlMRt1ICX+q4fxMOq9ri6nSq6K8wauCFprMC22bDXiI3zdnNWF6uce3CnNA=;Q0BUqBl5IMNimiUuAv1Qtw=="
+secured: "aTQeZ+guZT4UasymAT5tpTijLfUxsN/Y59tCoO1YH7mmpsir7obSsxw9IWzC1HrTDR0iX5eE4tj/nbragDnDs4r03agMx/ZMlmsZZdUG+FPbt7VvdPFYj6qFS/I6XvTpgLG18fEB4oScP8bU1hO6rSbGPd8VWhD+Bt/0JpUuHXZNY6sOWYcEPoKqLjFbn/XwnwUPulc+ZauBgQmIu8BR8Wuol6rtVvaCGx29vjDXK7sE2sTK5an+SI4zAwDgaPMzvPQMsBl0Z3H4EdYAd25IinvErEJD1rvI51RGeQEf8Tv+EckCmMz/GUSY1GXX997d4SkHPy/vp845/rIxg32OTuaf6AiBsN8EF5cAP42Wpmo=;cdR4aZdbJfYyvFkLqd2nKg=="
 ---
 

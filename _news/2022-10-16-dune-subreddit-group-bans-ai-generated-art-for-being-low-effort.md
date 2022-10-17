@@ -3,8 +3,8 @@ category: news
 title: "Dune subreddit group bans AI-generated art for being ‘low effort’"
 excerpt: "Moderators of community devoted to sci-fi films and novels say they want to prioritise ‘human-made’ art"
 publishedDateTime: 2022-10-16T16:20:00Z
-originalUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort?amp;amp;amp"
-webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
+webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 ampWebUrl: "https://amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "L7L2twCd0IRPjSrGAaFAyLJMa631xivdjWDSQ8VLhWbntnRVTYxBnHvY9AON5zRo2PYf3+ucaDN53SQg8GdwjMVgU0Xa8AtOQ4eE7DaOi706V5pAeXCwaqKLcW0FmgJp9QjpHhFWtmT+rhNATNbKx+Fr9+3/Mn2kzPxa4pHCG3pGLn1pySmuro/0Gs0CFj+DMcH9yHMsG4jzB+j9A+2Th17sV4BIU3neCQfJeetZuhhONiI8jSocRcLuqSR8eCCuKNWIIoI7jm6o2jT/AsZb3G+tocpTSTRbHdzVvRosEkuA77h3EWna2MM9dRUUG+4sxTq2mDV3ap58D7FF4wPQE0mAAO/jfRdtkaCQpQMqZHoWbRVMPIDC5UPuNE3LPbn+s8WTRZZZlbBDGiDpmOhVRzKR9tPTn5TNk+CYTRYD9jxmB8r32/elZjFJb9NFFWVS8zc+V8jOekm5UCEhfqR0WCxD+SCcgfPWOubDEj5WSuStU8mBFeIggG9dnqsXoX28YGAnZkkhNfslYXc/tLkUXw==;EGAmlgezkeBdTAhw5sWlPA=="
+secured: "GcOJBlZWtDDhxIKBW5p72dvOIOiZ/pwZrfSqJml7a3yfTSePtiUS3MSQGnhauFjbiTMug+xPs8jKn7VfDv2wAxSgm2kXG1j7o61aDGq9C+7IyfrTTuOocEtixxfFtqEI2xPbZutwzZlwUWh7HdKgVxCDVA8B1mJeSp8zMfyWT56HVkl6nCYfpsbmkCzgNV4+D9tsDYta6t8gDfD/AxMW0R3yXnoLlA5Y7TVo9mSMaQowLZJdJFV30MIXoZ6iHpx/nMqdhiorjDhAxcVHIzNvMg6VJuhlryoPWGNuDsIN1WjEnWlX2I5Qo8fWHNuDS5lMkJyJ68h9MUgiMuJZlOyrg6om4BtD4anCkKI4OSbld4s=;tNRjZyBtZP5OoiAh292+4Q=="
 ---
 

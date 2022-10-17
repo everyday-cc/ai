@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/google-focuses-on-data-i
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next/amp/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Google Just Launched Translation Hub, Its Enterprise-Scale Translation Service"
-    excerpt: "Google Cloud Next ’22 unveils Translation Hub, a document translation service that translates content while preserving document formats."
-    publishedDateTime: 2022-10-12T11:20:00Z
-    webUrl: "https://slator.com/google-launched-translation-hub-enterprise-scale-translation-service/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 20
-    images:
-      - url: "https://slator.com/assets/2022/10/Google-Cloud-Machine-Translation.png"
-        width: 600
-        height: 400
-        isCached: true
 
 secured: "YrUEu05x1VamQ1PSs6C018LuvEflVt99Qq/Z1js5Ih95NwRKD2kPWlXAFOxlp+ZfdWF84vWwVKzMDUimbxT6w36MHwxTN9UIZ30ZDMsUnpLq294zzyhjTrSEpqq0cZ6Pjma5iUeen0YUIa9rP0uVA103ruZrl3whQ2Nj7Aduhzjud0T/dv9TdiqjWrdELv2XpXddm6cwLu90p/QbznH78e+vpDyRoFiaHVkuX823rFUOWl2Ns8UcaBokoXpF5F0wISioyGVMNhI86xH5e/0H1jNPMSr85fdNev3jbmtLhGw0ZP3wAQ4SCs/3BWjYs8KzTbzJomjilBxkzksnARUpEVQ4NOtyTmTYbZgXOpzMG8Du1yVgo3ssE8KvFRwBOe7afGLAK7pBLHQ8F2Rq9YZdPhRHAqL8m1HzWJI33z9Yf48woovkKDKupeWAsdv6TS2vxMX1/M/KIJF1RuJHR2TKzHbWeSYb+wSu3zkGyUCuVj/8IktG9B308z+X8ZwktKsQwI3X0obDFpo8Q0kM9yLAEw==;9CdgFVOZlkHTyNoybMrw2w=="
 ---

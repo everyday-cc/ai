@@ -137,22 +137,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches Designer, its answer to highly valued startup Canva"
-    excerpt: "Microsoft initially wants to pick up consumer use with its Designer application for graphic design. Over time it could bring the tool to companies."
-    publishedDateTime: 2022-10-12T12:26:00Z
-    webUrl: "https://www.cnbc.com/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107087482-1657636253378-gettyimages-1240875903-DAVOS_WEF_2022.jpeg?v=1665583201"
-        width: 5428
-        height: 3619
-        isCached: true
   - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
     excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
     publishedDateTime: 2022-10-16T20:36:00Z
@@ -237,6 +221,20 @@ related:
         width: 952
         height: 529
         isCached: true
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "8 new Microsoft Azure AI updates to boost productivity"
     excerpt: "At its Ignite Conference, Microsoft announced new innovations for its AI services, including Azure Applied AI Services, Azure Cognitive Services and Azure Machine Learning."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -260,15 +258,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-    publishedDateTime: 2022-10-12T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
   - title: "Microsoft adds OpenAI’s DALL-E 2 image generation tool to Azure Cognitive Services"
     excerpt: "One of the most impressive new offerings comes from Microsoft’s Azure OpenAI Service. Falling under the umbrella of Azure Cognitive Services, it provides access to an array of powerful models from the artificial intelligence research outfit OpenAI Inc."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -475,20 +464,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
     publishedDateTime: 2022-10-14T06:29:00Z

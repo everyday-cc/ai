@@ -29,7 +29,7 @@ related:
   - title: "Dune subreddit group bans AI-generated art for being ‘low effort’"
     excerpt: "Moderators of community devoted to sci-fi films and novels say they want to prioritise ‘human-made’ art"
     publishedDateTime: 2022-10-16T16:20:00Z
-    webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort?amp;amp;amp"
+    webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
     ampWebUrl: "https://amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
     type: article

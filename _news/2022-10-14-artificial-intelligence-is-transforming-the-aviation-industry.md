@@ -46,15 +46,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SecondSight enters cyber insurance market with AI-driven platform for ‘inside-out’ underwriting"
-    excerpt: "SecondSight emerged from stealth with $3M seed funding, offering an AI-driven platform for “inside-out” cyber insurance underwriting."
-    publishedDateTime: 2022-10-12T12:00:00Z
-    webUrl: "https://venturebeat.com/security/secondsight-enters-cyber-insurance-market-with-ai-driven-platform-for-inside-out-underwriting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
   - title: "Torch.AI Joins Guidewire's Insurtech Vanguards Program, Brings Data Infrastructure AI to Guidewire's Insurance Network of Nearly 50 Partners"
     excerpt: "Guidewire's Insurtech Vanguards program is an initiative to help insurers learn about solutions from leading insurtechs and how to best work with them. As part of the program, Torch.AI joins one of the most reputable software providers in the insurance industry today to bring unique enterprise-level data infrastructure technology to a large and growing network of Guidewire customers and partners."
     publishedDateTime: 2022-10-13T10:10:00Z

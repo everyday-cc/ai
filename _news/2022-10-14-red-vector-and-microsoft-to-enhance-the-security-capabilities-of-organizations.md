@@ -2,17 +2,21 @@
 category: news
 title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
 excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-publishedDateTime: 2022-10-13T19:13:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+publishedDateTime: 2022-10-13T17:47:00Z
+originalUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
 type: article
-quality: 52
+quality: 82
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -20,9 +24,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -138,22 +142,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Microsoft launches Designer, its answer to highly valued startup Canva"
-    excerpt: "Microsoft initially wants to pick up consumer use with its Designer application for graphic design. Over time it could bring the tool to companies."
-    publishedDateTime: 2022-10-12T12:26:00Z
-    webUrl: "https://www.cnbc.com/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/12/microsoft-launches-designer-its-answer-to-highly-valued-startup-canva.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 89
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107087482-1657636253378-gettyimages-1240875903-DAVOS_WEF_2022.jpeg?v=1665583201"
-        width: 5428
-        height: 3619
-        isCached: true
   - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
     excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
     publishedDateTime: 2022-10-16T20:36:00Z
@@ -261,15 +249,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-    excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-    publishedDateTime: 2022-10-12T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 79
   - title: "Microsoft adds OpenAI’s DALL-E 2 image generation tool to Azure Cognitive Services"
     excerpt: "One of the most impressive new offerings comes from Microsoft’s Azure OpenAI Service. Falling under the umbrella of Azure Cognitive Services, it provides access to an array of powerful models from the artificial intelligence research outfit OpenAI Inc."
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -592,6 +571,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "m01GnzONVRj5piI2ngpmdMMjL1WBXFnJCPSlT3olZsxpHvxn5v4r8s4n9lXuwsmKZCDVLArYYaTIjqBoWyu2zVy7A0JIwyvArsam/xUPAAh1t+db0OoYfFf/qYBj/kuYkwT/aT9i0r7OiM9cgBVZDK34TvFrLHovL4cyUgFXy/4raKhSa/sO/NWcWRTPXmGq8gq49/ci02jhIBpuhnP2dZzf4j94CvBCefN3PCY/Mo4EnGfe1RI0CbU4fWjkaFbH7hSIl0+LDckOs5EniQYtwSC5ZzdW/S8gxO0/Y7XroOAV+vizTmYVbd5npWs3vN1YYsSP09vs/i26mXNgO9FMKyectY6KvRZwxwbpni2y8Bg=;XLKsvcMkocbEJSMvQGKSdw=="
+secured: "kksyhnJ4F3onmD9KQEsPqx0pw5GJqeXVTWlxpTfH4zfeRLrG1Rlpy/96cd1SFioX8KdkFcXrqY8G8sL3UKwrgLZ497JW7dEyIAHRtlGTO7ZamqfIxxPrEFwYX85lCU1AvoLHZiasLS7Z8tKO17q3klkV0vxMnhi+jCXrRY13TdOGq1hjImI4sNlIWT0wIt4V5aLWnIheQ9DSAlivycdSS9vflIstsIdQBqJ1A+p9ZyuZSkcauLDnyd/ll9W5QXFAsOhwm0OHrk/ZhFkzIrPRn3hrOYXOnNaHhvn8wyQNi8/jwckbF+gZFcPToW2DbxahJWX6ksE4MIu6XA9VIbaMpCVFZoreJg9D9SyqE4LUlxo=;TzUjID8f2De/7nSnE8xZQw=="
 ---
 

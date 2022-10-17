@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Toyota and Lexus cars to get AI-powered voice assistant, no internet required"
-    excerpt: "The new Toyota and Lexus cars will receive this functionality where AI-powered voice assistants will perform tasks irrespective of internet connectivity."
-    publishedDateTime: 2022-10-12T11:23:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required-41665567643138.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/cars/toyota-and-lexus-cars-to-get-ai-powered-voice-assistant-no-internet-required/amp-41665567643138.html"
-    type: article
-    provider:
-      name: Auto News India
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/10/12/1600x900/TOYOTA-INVESTMENT-0_1646050256447_1665573668818_1665573668818.JPG"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "Toyota partners Google Cloud for AI-powered speech recognition"
     excerpt: "TOYOTA says it is partnering Google Cloud to boost its artificial intelligence-based speech services. The partnership aims to improve in-vehicle infotainment systems’ voice recognition, something drivers have continuously complained about in the past few years."
     publishedDateTime: 2022-10-14T05:55:00Z

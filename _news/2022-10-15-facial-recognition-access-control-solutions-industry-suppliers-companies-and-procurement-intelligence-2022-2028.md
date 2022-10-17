@@ -1,13 +1,13 @@
 ---
 category: news
-title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
-excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
-publishedDateTime: 2022-10-14T09:02:00Z
-originalUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
-webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
+title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
+excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
+publishedDateTime: 2022-10-15T03:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
+webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
 type: article
-quality: 18
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -22,21 +22,13 @@ topics:
   - Computer Vision
   - AI
 
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
 related:
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
     excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
     publishedDateTime: 2022-10-14T07:43:00Z
@@ -79,7 +71,16 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
+    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-14T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
-secured: "AdtuExhxt8rfUUIT9SIkSU+30IVfyaxW3BcZ7w/xKytzP4KErX6YJ7C0jb+DBepWrDLo1cwGiA+qci5tvTv0P1xkDM7/1sxRVuwedZQ9/+BbdgAszdeMuDSnwbNXuGU2FwwoSf19iZDcywUNaEb3myNFftXSuw3QCjXwNRTBptIJ68YUzYWFaU6Qb9RZh2Mu/on/mlI2gFO0+tzHJhuOliLbJNtoEYo/W1fQ4MKP00HaIKkXdLGvIjHck0uw8nOlAI5tY5LOB9VHtUjtf/LMr6/aTPBL22/1mO2QwJ5G0Lo2Vilfs8glSBEZ77iWl/VP2l2afX7kc8nRmwEnQQwuSkluUjvbNCow5QAggPMipDY=;MCn4CzGtNtiMvEjAZebdCg=="
+secured: "Dkq8GFsc2Y/ka4qX/Mk22Zp1TcYvUc3aMbFBNr7qwMUuACLDUdoqutjIxKctnRqdpXCQdI5JRUFffqt640GwqwR5B7p+s36GSG4I/Au7b9sD5B/qyGYCkLpxWXLqN/CLoTqy2Bdp9BFaDWq6cDZyDjCjudMLKN4wcCLBypMw9xaQpk9pAYzgBCP45arseG2l9HYf5YBtMTIo5/HNkDvt4OCxtBWhLGVWrm8pIqcPNXV+iaKkV8aOfKIX4A/Pm8kcMv51JaggAtQ/q1RjxAVQP915y6NuuI93d0qZVGFLKQSOBfi/X9jhOBQ1kuGCX2R1AvGNYN4RTJ4ZueZ4M178ZqYFqFxUPl0umkQDpueBPts=;BttEeNUFJtp40Q8qBDUc0Q=="
 ---
 

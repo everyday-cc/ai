@@ -56,15 +56,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "SecondSight enters cyber insurance market with AI-driven platform for ‘inside-out’ underwriting"
-    excerpt: "SecondSight emerged from stealth with $3M seed funding, offering an AI-driven platform for “inside-out” cyber insurance underwriting."
-    publishedDateTime: 2022-10-12T12:00:00Z
-    webUrl: "https://venturebeat.com/security/secondsight-enters-cyber-insurance-market-with-ai-driven-platform-for-inside-out-underwriting/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 35
   - title: "Artificial Intelligence Is Transforming The Aviation Industry"
     excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
     publishedDateTime: 2022-10-14T15:52:00Z

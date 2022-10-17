@@ -28,15 +28,6 @@ related:
       name: Thurrott
       domain: thurrott.com
     quality: 19
-  - title: "Nvidia GeForce RTX 4090 review: A wildly expensive flagship GPU with a touch of DLSS 3 magic"
-    excerpt: "We've tested the Zotac Gaming GeForce RTX 4090 Amp Extreme Airo, a hefty custom version of Nvidia's top Ada Lovelace GPU."
-    publishedDateTime: 2022-10-12T13:00:00Z
-    webUrl: "https://www.rockpapershotgun.com/nvidia-geforce-rtx-4090-review"
-    type: article
-    provider:
-      name: Rock Paper Shotgun
-      domain: rockpapershotgun.com
-    quality: 8
 
 secured: "mlZy3HfitCiOOjdn6ZZtefE/qrSOZJJzX8J14SiP8NGapWcQuDbeQDEDbOBE9LGBRut9qIxkdRdTKHf2hIiFytSVMZAOZGnAFpcWa0zPgie1Ze69ThY/7vwZAohmBF0JOxykmvvqVsHDV1wR4NCnYfw+b2LrVdHV08UV2g+wq6fwwYviRuIK6yekwFMwwGm8V3vFoupDOXWEAMjZOB3Lo5Sz8LX0rQBGr6jGboYTwGIW4spat9Muoq33hnSXK7UzRDM0Nuyr82ZnHJyXf89DPY6PO8MfwHUQ1v9RIzE34jtm5nwYSoVvgLELDVxo6TiFltrI7fzxWKXk0ogSJZG68xqQlpgNZ7jMZZO1U01R0Ch4Gp1MlmZbBP7OYM0lc8a/K2znuH+u8j/EWqYe031jDpbWsUHb8dOCN+0j/MnKW2gzbPZq/9R83ssxoC2vFYiG4OUjggS4TyF+Qjdnc4PF9pan7pt7JbracTmQSCwah6P18cWxswwjYibHkltU+hENCQ12fMznFbiCqsBo22rmgQ==;fU+M5rMUpMCmhleoTXIFsw=="
 ---
