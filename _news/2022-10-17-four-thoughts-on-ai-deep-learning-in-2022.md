@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Google AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all"
@@ -48,6 +49,6 @@ related:
         height: 675
         isCached: true
 
-secured: "czLZ7i6qzICI2jBlhkaQBECFyo1pz5ovlPlupcavIrATqul7Jo6oWmD0GSkfE3bNYbPMgGWzZfMXdd3y3JnDxAs1QaDSQSPbmbxcXVBDQC4brfGLDsBkIuwBbD2rAh1BefUPJn0pGIIPcXhlavE+knJwRO6lSne+gffGsN50xU9XhJ5JGtUojwJmLXfU4OvRQ4s8QHC2yzsMdPhNUsqfo/VYoKGnX0WYJHsz0Gb0jsn/R3Sfptg6b9nzIymO6vF4vko0Y7a4N10brSnZUFGy3lLNfUZNUe7jJ1QbvBczBHzijB6JWr7yMjfz15pHnuYqKefIUhPMled5KZ0+sP3T4oI7ZTF0THZAWzSgqLDRH3Q=;iX6fWN8gkkVEnOplyysL4A=="
+secured: "lMdGt4ILwRnq4ATIrIJGCOmon9E7PrdMdiOzKZO8tdQYbmxwq6dCAnXM7DTWzyg5t4Jt9r7mrLW81FuEY06uB/22UOgVZUyV+YaiYVeDGuQdLDbrzpfTPDrcFC41nZZUQLkOjgExxHWz0k1/7WU+JO9wrqhktJHkLoizq2aOccvXGs0TAIpdUqH0Q0C38R3J0BeSFON7zFQ0ycxh7R04Vys7WRqM8S8HbTgmMikXYCHfgJ9EkZy3P2lKbEgxJ8CVyJPqHfh8QjUFrXRYoeSW4tRDWTyuo6CbMtd7mwhnylqYi6jcs7//dppezE95z4cQGVt+jfRQ2AjdcGRcbEOA9gxB5xTcmdqOI5Z6UGvP1sJQ3w6rLVlkquC8UBWULxfHL4pHqPMIgCZPXPhrD1O0Ufjzal4pf/0SN6f5INqWFO8JAywZVSWGxDQbqiJjB4RNqPjjLIPljbM/MQSz21OlAEMyCSx+wR1rdia2fsjZzUdH4tX5x8gacMupWNzhus/eg1oAIf2Z9kFvgNRxd47n+Q==;G8QVLqTACZK/vzlMBQWcUg=="
 ---
 
