@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-17T16:09:00Z
 originalUrl: "https://businessmirror.com.ph/2022/10/18/can-we-build-trust-and-ethics-in-ai-systems/"
 webUrl: "https://businessmirror.com.ph/2022/10/18/can-we-build-trust-and-ethics-in-ai-systems/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:

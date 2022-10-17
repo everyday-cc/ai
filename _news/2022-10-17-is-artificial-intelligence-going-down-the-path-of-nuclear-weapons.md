@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-17T16:24:00Z
 originalUrl: "https://observer.com/2022/10/is-artificial-intelligence-going-down-the-path-of-nuclear-weapons/"
 webUrl: "https://observer.com/2022/10/is-artificial-intelligence-going-down-the-path-of-nuclear-weapons/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:

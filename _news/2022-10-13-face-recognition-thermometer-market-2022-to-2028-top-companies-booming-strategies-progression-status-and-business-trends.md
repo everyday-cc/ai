@@ -127,24 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "India Event-Based Vision Systems Market Analysis By Size, Share, Trends, Future Growth and Forecast To 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the India Event-Based Vision Systems Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-13T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-analysis-by-size-share-trends-future-growth-and-forecast-to-2030-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-  - title: "Mobile Speech Recognition Software Market Overview 2022 to 2030, Future Trends and Forecast | By -Apple, Nuance Communications, Alphabet"
-    excerpt: "The research on the Mobile Speech Recognition Software market provides a complete picture of future requests and significant entryways that will be beneficial for market participants and people. The industry value and growth rate are assessed in this study taking into account both the primary market constituents and additional driving forces."
-    publishedDateTime: 2022-10-13T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-overview-2022-to-2030-future-trends-and-forecast-by--apple-nuance-communications-alphabet-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "e+VabLNZ33V5qaJmEjaE7ZkL5VKQjfKnQu2vh4Onk+nUxE/bwLLaqy2jubfGSJ+4rfpyP5XxjkoIfsVKfxLbDy0WK+qG7aKAj9K/1kfMzO6giLNcnCKDW0nWRlc2T6s9PTe4IRXDRmu8h3tD2G0x3HTZur6NRj9oWTVvsyCqR6ofNd4FMeWK6GKR4sCb/ci1Y0o0lK/yl6/VLo5jltI7eiR/UDwJ7szKeCErK0v/ZfRRrgyMxLCSJp4xwvEsYiyVmYDQFpKqMpfdpovh5Au5/pGnQs3q4MZoTVtzTrusWbUbRiF5n5cru+3BDjZFzcrJ4qlzKOPXeEniYXC2VEAAGLEf1Bj1XryG49AnOZXRVrU=;sXFnEkx7LdxgA9SwELxQrA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-servi
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
 type: article
 quality: 103
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Nutanix launches Cloud Clusters on Microsoft Azure"
-    excerpt: "Nutanix, a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
-    publishedDateTime: 2022-10-13T01:10:00Z
-    webUrl: "https://itwire.com/guest-articles/company-news/nutanix-launches-cloud-clusters-on-microsoft-azure.html"
-    type: article
-    provider:
-      name: ITWire
-      domain: itwire.com
-    quality: 54
-    images:
-      - url: "https://itwire.com/media/k2/items/cache/6bcac9a5eabf126835a566d6372c3767_M.jpg"
-        width: 375
-        height: 250
         isCached: true
   - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
     excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."

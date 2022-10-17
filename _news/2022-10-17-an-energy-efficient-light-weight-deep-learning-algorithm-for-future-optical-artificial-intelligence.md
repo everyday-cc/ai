@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-10-energy-efficient-light-weight-deep-
 ampWebUrl: "https://techxplore.com/news/2022-10-energy-efficient-light-weight-deep-learning-algorithm-future.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-energy-efficient-light-weight-deep-learning-algorithm-future.amp"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:

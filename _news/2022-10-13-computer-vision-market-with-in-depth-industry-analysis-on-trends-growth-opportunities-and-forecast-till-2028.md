@@ -43,20 +43,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
-    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
-    publishedDateTime: 2022-10-14T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
+  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
+    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-17T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 16
+  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
+    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
+    publishedDateTime: 2022-10-14T06:41:00Z
+    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "fMWwc+sOVtdlMZ1WrTOxoFv6+lU0pXxb79ukdWjjzPmWdA6GljzqgiONcOZkKiej+oZcsmL5GQgbPLtrlh7/M/fZdqwUWJwekfsBwcR+CHBh+FYeqX2mM8g0ey15YJDOV6YsjuL+UlzlCn9sLbW0ii69gcu5DCwVfhvOkwq3OBnOBegtwNHAbFZ6mjfdVK/4+h4TvtCvPS5ivEr0A+qPXIlkZI33q9Zp2HSdTFphi2XmGE1Xl4I8hT+WFHRCea6ZE485L46kpNvpUlKrVVSf8X899wAAzYaT3y7uJoEis8kezR4Y99/Iy097cvvt265C6SV9l2gdKnN5IcDd9F6iywqgzZiIDGqjXto5cDPwe7o=;wFj4qLRCnc/APwNhi9hOUw=="
 ---

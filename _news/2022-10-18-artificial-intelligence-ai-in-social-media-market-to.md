@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (Ai) In Computer Vision Market Size Expected to Grow at a CAGR of 26.2% by 2028"
-    excerpt: "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028., at a CAGR of 26."
-    publishedDateTime: 2022-10-13T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
     excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
     publishedDateTime: 2022-10-14T09:32:00Z
@@ -52,24 +38,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-14T06:41:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
+    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
+    publishedDateTime: 2022-10-14T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
-  - title: "Healthcare Fraud Detection Market Grow at a CAGR of 12.6% by 2031 | Emerging Technological Growth and Business Opportunities"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-15T23:47:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
+    publishedDateTime: 2022-10-13T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "India Event-Based Vision Systems Market Analysis By Size, Share, Trends, Future Growth and Forecast To 2030"
+    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the India Event-Based Vision Systems Market are also discussed in detail in the research,"
+    publishedDateTime: 2022-10-13T06:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-analysis-by-size-share-trends-future-growth-and-forecast-to-2030-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
 
 secured: "kNSnqy+z5E30GGD2wl4UbwVpTTfOdVfHQieqzS6jFLNVIJxR0OpUQ+0Gk3CFWT8PmTjdENk9LXyHUkqMtcXHEFgeLAvOljb7MklaPPyxE1X7zjk2YCWuU4chdbbiL9hbtfulm1if+PHKsVbaf0vLA79ejVXpjoMfJRS7iKhzgCU/hk6f+o8YXvUXoX26ANjucz+WAIogHpjVezg5Ge6YllYuG4+S1ZgHj5IdJcpy6vl1ds7wt5rwkitjokHFHkh4DTHL96L4lkYENlrOmg3oAXw9VwCJDu3OTQXbVMArxB3RbPN68iCZbz+E2e3cEBr89C0w0WdNQcUK12Zgp2FBWV23lZmPLB4TGn4Q4wdA01kOhaMLW54LYIGpNdEAzKqVcC0S9Gu2ONSJWiG86esmoAJQiu6vIkzmm5E834l8WWttMdgRMVgDzaEAvgvz6N7i+s7V0t6OYTOgwW7fvMJuAHCH6mOFKprcUDcbCGA3d7SpIfUuuF31vR0yvd+tRbsEkK3HGI3/7bl3a3zqKWn8/w==;WY5VU8i+xlR9GNPXzKnX9g=="
 ---

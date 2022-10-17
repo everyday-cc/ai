@@ -23,127 +23,66 @@ topics:
   - AI
 
 related:
-  - title: "Face Recognition Systems Market Top Key Players Profile and Forecast to 2028"
-    excerpt: "The recent study on global Face Recognition Systems market added to the database of Xcellent Insights offers a"
-    publishedDateTime: 2022-10-14T14:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-top-key-players-profile-and-forecast-to-2028-2022-10-14"
+  - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
+    excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
+    publishedDateTime: 2022-10-14T09:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 75
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2029"
-    excerpt: "Face Recognition Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
-    publishedDateTime: 2022-10-17T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17"
+  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
+    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
+    publishedDateTime: 2022-10-14T07:20:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
+  - title: "Artificial Intelligence (AI) In Social Media Market to"
+    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
+    publishedDateTime: 2022-10-17T17:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
-    publishedDateTime: 2022-10-13T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 120 Pages Report"
-    excerpt: "Global “ Voice Recognition Software Market \" Report is a detailed and comprehensive analysis for global Door and Voice Recognition Software market. Both quantitative and qualitative analyses are presented by manufacturers,"
+  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
     publishedDateTime: 2022-10-13T05:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-120-pages-report-2022-10-13"
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
-    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-14T04:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
+    quality: 41
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
-    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-14T03:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile Speech Recognition Software Market Overview 2022 to 2030, Future Trends and Forecast | By -Apple, Nuance Communications, Alphabet"
-    excerpt: "The research on the Mobile Speech Recognition Software market provides a complete picture of future requests and significant entryways that will be beneficial for market participants and people. The industry value and growth rate are assessed in this study taking into account both the primary market constituents and additional driving forces."
-    publishedDateTime: 2022-10-13T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-overview-2022-to-2030-future-trends-and-forecast-by--apple-nuance-communications-alphabet-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
+    quality: 26
 
 secured: "AQxF2T8IoP2XC8XyKGOVDVjX5/QFC5vJNX0jNQOGyHSOGzU1p1WYTKXKd3XYBl3m0S4PRTGUY+H+x2bnHSQXv/u36BgG0x/fCASsj5iouDlSuzC6PtvSdo0/UuWkIhT/s9jJblsA2UgC0PhBgcX5/468PynpqYqzjgFAAwi+KG3NY3eNekOsmvXEibQjed+D1qgWnkfhLAfDXNEcsmOxceuWAfjaDjNa7XHROUyXLT05m6+LcoNs+iahDrTJJAgS0RWtSQo2K5bqokpLVjJ9++ZZABHRlfyP/0jyliAU0F7UqWUhErqReNWyHWOfRz0qti5BFAESk0g0TDx4l9iWXtac68xXxBqu1MAOI/109cA=;YJUnK9P/r8ee+OGCZG+/gg=="
 ---

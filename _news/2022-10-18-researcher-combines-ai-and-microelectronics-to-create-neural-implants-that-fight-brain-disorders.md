@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T19:39:00Z
 originalUrl: "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders"
 webUrl: "https://www.utoronto.ca/news/researcher-combines-ai-and-microelectronics-create-neural-implants-fight-brain-disorders"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: University of Toronto
@@ -14,7 +17,15 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Machine Learning
+  - AI Hardware
 
-secured: "Pb/qgstZ4hJnrk28A+xUFZEvm3kGYkVxFzIcNGm82Q+YfTk8LvXhq5OJK/Ogtb42+D0/FqM5uM7Ooa5cjOVMbPRb8qSmKwMAk6qmeEruUJka4FcTKTo4xDsIZTEPsOs4MmQWcNp20DfXfiSHbjRfjuJx2keiDKq4EpmxqfF6LfnxuMncBXXN8GPezI954/1cMS2y59rc5VPjsb9LxbKXkCAqLJbSoceSjexgVtTRx72M4Yu43J/jrKJlwfFqgRsd6g+oGWWVgx+6jz4cSWz0SqCzJJpigCoTjvJyqcHu8CbctOAcJhAEewgtloaa69rqDmC1ChupGKohhIej/bZFINyQ0yEP8XM4Sxw9Dyt0GJ69clIh3vDOoJ4yT6ivEnrUP2ibO3FMrkWBbyBskQnA8Abwc50PfkbSKb0cuVo6FK9KJD3XaY6X5hxVJkMdaOrGN1uu1en7iHmJjur8Sy8mo/PLzkrtv+qUoWcUXnQcTcSPuwXeMhM+JLjTKPoo3kFEnfLoRzjlteel+SkqZ8EZDQ==;0fBNxmd7Xz3EJAMJW69NAg=="
+images:
+  - url: "https://www.utoronto.ca/sites/default/files/XilinLiu2-crop.jpg?177225"
+    width: 1140
+    height: 760
+    isCached: true
+
+secured: "L9vYKtiKk2mjlyUeSLB5VOL4Wzq33pUMUe2ExXM/oAH3he/T4i7oGPx5PHaUQxHI241jyxNxr/6JL9hWubOZFzGek6tYD9ZVLeJSd7R6K1AZsptpwul4N0Nd4C8nZtxC9m42OFiexUb75hANCmDayq4jSj+7yzZLWzgCZjV/UkDAaDgLI+6cuq7EDZ/B053ThAZ6k6SSw3dThEoHi3Yx9MynAiunVkXBgDrEaZMGZlDt7TAKC50PZ/DtDBBtl6sfAxfITQe9ZCdUgpUxVkGmOv5WwoPnkkEsA4e2XSzG0EQfOf6PprPKJzoi0Wdv95mLTbNHHA8+woE/qh1HLp7xydiJq1YMEAUaynXkAuNjddo=;HQS/4vxisi8ubdOkeBAcMQ=="
 ---
 

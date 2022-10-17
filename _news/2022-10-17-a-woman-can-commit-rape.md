@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T16:01:00Z
 originalUrl: "https://www.manilatimes.net/2022/10/18/legal-advice/a-woman-can-commit-rape/1862602"
 webUrl: "https://www.manilatimes.net/2022/10/18/legal-advice/a-woman-can-commit-rape/1862602"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: manilatimes

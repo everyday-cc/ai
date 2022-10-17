@@ -24,17 +24,6 @@ images:
     height: 700
     isCached: true
 
-related:
-  - title: "Self-Driving Tech Startups Are Driving Off A Cliff On Public Markets"
-    excerpt: "A Crunchbase analysis of companies developing self-driving tech that went public in the last few years shows an average decline of over 80%."
-    publishedDateTime: 2022-10-14T12:30:00Z
-    webUrl: "https://news.crunchbase.com/transportation/self-driving-tech-startups-funding-ipos/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 4
-
 secured: "XPpUCydqhFCBKJ7ygbXJtNwwqbLoELF1o1LF1wQB07qCYsuchesgNQZuMoZvB4I+tafUvHmSbqZO1gEDuz9SZrDkpCdRzmjttsThdtIrj7sfIIcaaFUHoz5rJHciJw44pOKZolsO4wZqznnEUvqOUE9Y8L6fNnKDtwFSreKjAqg2S5pKgsadGiUg1+zsqx4Ik8M2fC6D6sCIZSRSPcLpR8RJUufVrWUaoEx5Ff+OhoLPeKK52iELjA3I4azojGU5aCsRlYx75jnh0F04CDIt2yc6thzkxPrI4RuA2SsjI5eWTHWT1ERtnVDiM9EwcWeh69YKkI7I4iW0ywuGxbxX86yCVH1P2BX6HE9HU1y40Gs=;Zl5BM7DeSXj6Pp0JdBebGg=="
 ---
 

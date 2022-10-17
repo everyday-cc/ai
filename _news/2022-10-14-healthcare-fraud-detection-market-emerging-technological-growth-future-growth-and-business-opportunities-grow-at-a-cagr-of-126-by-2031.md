@@ -19,57 +19,43 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (Ai) In Computer Vision Market Size Expected to Grow at a CAGR of 26.2% by 2028"
-    excerpt: "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028., at a CAGR of 26."
-    publishedDateTime: 2022-10-13T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13"
+  - title: "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029"
+    excerpt: "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-14T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
-    publishedDateTime: 2022-10-14T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
+  - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
+    excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
+    publishedDateTime: 2022-10-13T12:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-with-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2028-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) In Social Media Market to"
-    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
-    publishedDateTime: 2022-10-17T17:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
+  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
+    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-17T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Healthcare Fraud Detection Market Grow at a CAGR of 12.6% by 2031 | Emerging Technological Growth and Business Opportunities"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-15T23:47:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 16
 
 secured: "kYIm+p8X1/affb54583py3Yxn4GpSR/GeLZ3RnSvwFnTh6NUqmoTOyN5czMtpHlEhaTpX3/AFGR7UtyHzIx+ZyjOAmTDCzA594Ra2F5LcBI7XMz/cx8B1cNl/B4Uhe5UOvMmHRB9dTbed2MWuyFy1Mu/To3Rd0S2bSxeefXO+bPIIqcZUWbVXh9c9SV4iFXjM8MPQqjJ3Plg6DCJfg3k2xM7wKAJPp9yQ0aobHGZQq3ThMY8P0XBj89H2frfremUsS7cKS6WN93FHme95o+o/H35Z/j8y0qO8ojZ6+fVvZxvFs2cXRiV/O6MyyHyMprgkPKwn27MJd58hPr2flLyxgaBnNQIiMbbZZFKniGtTqPTgKqqGmfHjxiXg1HYrelSm1qnYRr+kqHRXGw5DmihKdHyfRi67W+jJhJygQfbrx0tr04Wn/wIKJewWYZjtiv+VHCAJitQ2iYa7OKN45BvEP2Ri9rcFrzlRTNuWp50Mr00JbgAzP5Q0tmXGM2//oaJLU34X64QXktDxd7v5CcAHg==;IBNVMAunzzcjfCwbr7Yk1A=="
 ---

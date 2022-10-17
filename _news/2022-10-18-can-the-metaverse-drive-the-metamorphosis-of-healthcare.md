@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T19:29:00Z
 originalUrl: "https://www.forbes.com/sites/davidwalcott/2022/10/17/can-the-metaverse-drive-the-metamorphosis-of-healthcare/"
 webUrl: "https://www.forbes.com/sites/davidwalcott/2022/10/17/can-the-metaverse-drive-the-metamorphosis-of-healthcare/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

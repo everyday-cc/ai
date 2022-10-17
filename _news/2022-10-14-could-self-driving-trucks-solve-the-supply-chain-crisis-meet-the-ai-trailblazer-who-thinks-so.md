@@ -2,10 +2,15 @@
 category: news
 title: "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so"
 excerpt: "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research"
-publishedDateTime: 2022-10-14T08:14:00Z
-originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
-webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
+publishedDateTime: 2022-10-14T13:37:00Z
+originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp"
+webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp"
+ampWebUrl: "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
+cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: The Guardian
@@ -19,6 +24,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "/+eZ1f8XWSgFdVVFJyaydrCnATiV7HN70gG7wHR5+pVlYYGJB20ul46hy1pHE15afWTCpShVn/Lz43Q66Ae9wfd80od9mRnowFqTfgG6d6nN7IhOm3jkSdc0ylT3WVE7DdgSqN43psj7iM2mnNC5c1gcMZPDL7VKIGOSpeQrIgjDFV6MOg8kRHjRpOn1HuYQqJpiQ39Tnv0TU1OPXGkLKYw8hLDj2IJWMZFqEvoCM/YWfrJbVbETkb4VXCnvy30U6xLN+bOWDEX5uNCBVJ3wv+wf6anJjVgFquZvvT1VcNDJn9ACYb+VXga2zXCznyGfaq55eD5hEoT5xwzmdKsxD1cBJngXDPOVRcgmLOwK6n4W1MR3vpz6RTAaMQsrEVv+IlCe5TjMijxYcP1iwXNTghBMhKK5bmW8oV2loL0JrRNUrYXLv5Luf1mMuHdmg9IdBPPL3NMCD8vQ/iJvU2HPeTD4VVhbekpBTGbPElXItHgcWX1jQhBC9CrJN10NZZAsVPyA/PodhlimmEqt7kMFVg==;WFLni8jT2GlqpE21gyvyIw=="
+images:
+  - url: "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f"
+    width: 620
+    height: 372
+    isCached: true
+
+secured: "gGaoM7JTH2VzStgQo3xHhFJQ6IM9pz3U064ERlSDq9bpt7NoHKFD4sho7vlvfsD6N7QWAzp/iusA0N1pD06Bgd3gf6j1qLOEOBromohen/+14oPXnRVbNF2o3XnSyKHeWaPs+7tNCQw7/x1iuztFmCbgZJWe11bodY4hr7CqJEKEykqiB5Mw08JbUoGnco8a6RefkR1phjyKfgKKZHqs8faPb2TZQYdNp55ncLhuUFl7O6V2Ume03ZU9yBUw6pyW7bYmwAmHANJabmhiGu+6ZUgANEI2dNjrrTzFga8DATBb3FTrMi1QSLW+QMPVont4j6Np76+/f8VPI72QECbdqGkz6XhXBpbYfI6If+uAa/Q=;uU6pt3D4h/6Rj5jcxFml3g=="
 ---
 

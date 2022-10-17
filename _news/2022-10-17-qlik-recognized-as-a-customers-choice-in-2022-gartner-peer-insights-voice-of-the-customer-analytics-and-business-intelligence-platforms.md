@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Using AI to solve human error in data-driven analytics"
-    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
-    publishedDateTime: 2022-10-13T03:56:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
-    type: article
-    provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
-    quality: 19
   - title: "Autocorp.ai is Combatting the Multi-Billion Dollar Auto Theft Wave, by Leveraging Artificial Intelligence"
     excerpt: "With this added product, Autocorp.ai will be able to provide a safe and secure digital transmission of verified customer identification information between consumers, dealerships and lenders. AVA ID targets identity fraud in vehicle purchases with a simple smartphone application using advanced artificial intelligence and anti-fraud technologies."
     publishedDateTime: 2022-10-13T13:47:00Z

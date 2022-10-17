@@ -15,6 +15,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "hlUYdwLD9hs21iEkLP9Dzv57P040DAAtp/5jhGQE1b87D5wjEYuzVAdR+8JVgaJtlZ4Pmgo1640sEeTW++zeuc66fgxmlarW0hMKaejJEadVbe7aC6CkuHZAejaWRmgcbmeP+ipd5z0R8ZTuMAmlaC4VSIsr16XKnvLMzl0QzEBlI0c2d5EFxeVGg0xP9Jk3UWQswSX7MR9K4X2tpFyDYZ+ZVHMreGpXylQwVoiqw5EZ7obm0YckOcvuahIYe1ZkhxJumLHEqBZv7y81uSHuNuwTg0KkEe8V9SD05HwRpy90OwcIJLmuUHWUL2M22rycYd6YXhzLMkdxEcfFslmoPftYZSAidE5aoxE5O2Ndl2I=;5S7MpRPUTYSw2VZX6MK2yw=="
+images:
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--_b7s9k4G--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-03t160913z_1_lynxmpei920rs_rtroptp_3_france-tech.jpg?itok=iRcHt_u9"
+    width: 1200
+    height: 676
+    isCached: true
+
+secured: "kEmLW0f4DBLbqaagZ4A/FQX9X8iJ857enRL80+kBHcxOCWqpeezBmaaElE0khE1lPqfbpnxkLDBmWIE66EDyVXugxTow5CA1cximza+1N9TBUJkQRayIs514M/nsUyxmN/qzR12f5bHkwG+NfDq7vOqneTf9Cpk1zgAb57tid49lLPhwut+7VglzGKfywZ1+MFgOI0vTmXdmLHY8ouU2N6/4sxB/UYpCCPBU7d6Sc61v0iRY2ExYFeP3lBhtTZszOPtBgsKNvvEe1oAf/QjKSz7XPA37SwVTsM2NRk2Gb5H8Pmzj83xQ7+/gAR+CKUO02a9tpMzbDwUnm//+feKm5GaF2E6teeaxoipi1lmxlXM=;pW9iJAIUe9Jttvhgzc80vQ=="
 ---
 

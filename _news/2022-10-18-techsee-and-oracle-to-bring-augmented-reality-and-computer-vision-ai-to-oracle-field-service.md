@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T18:50:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-techsee-oracle-bring-augmented-reality-computer-vision-ai-/2022/10/17/9693795.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-techsee-oracle-bring-augmented-reality-computer-vision-ai-/2022/10/17/9693795.htm"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: TMCnet

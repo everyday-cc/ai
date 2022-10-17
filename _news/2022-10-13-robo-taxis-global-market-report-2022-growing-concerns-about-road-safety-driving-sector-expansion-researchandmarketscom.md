@@ -47,20 +47,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Image Recognition Technology Market Business overview 2022, and Forecast to 2030 | By -Amazon Web Services, IBM Corporation, Imagga Technologies"
-    excerpt: "Download Sample Image Recognition Technology Market Report 2022 to 2030 here: The Worldwide Image Recognition Technology market size is estimated to be worth USD million in 2022 and is forecast to a readjusted size of USD million by 2030 with a CAGR of % during the review period."
-    publishedDateTime: 2022-10-13T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-technology-market-business-overview-2022-and-forecast-to-2030-by--amazon-web-services-ibm-corporation-imagga-technologies-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
     excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
     publishedDateTime: 2022-10-17T07:49:00Z
@@ -70,15 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
-    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
-    publishedDateTime: 2022-10-17T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
     publishedDateTime: 2022-10-14T04:00:00Z

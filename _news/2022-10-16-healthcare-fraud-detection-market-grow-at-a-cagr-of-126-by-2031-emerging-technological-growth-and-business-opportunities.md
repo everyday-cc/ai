@@ -19,57 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (Ai) In Computer Vision Market Size Expected to Grow at a CAGR of 26.2% by 2028"
-    excerpt: "According to the research report published by Polaris Market Research, the Global Artificial Intelligence (Ai) In Computer Vision Market Size Is Expected To Reach USD 80.10 Billion By 2028., at a CAGR of 26."
-    publishedDateTime: 2022-10-13T05:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13"
+  - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
+    excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
+    publishedDateTime: 2022-10-17T15:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291069/the-healthcare-consulting-services-market-is-expected-to-grow-at-a-12-rate-due-to-rising-digitaliz"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29291069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291069"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 83
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
-    publishedDateTime: 2022-10-14T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Social Media Market to"
-    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
-    publishedDateTime: 2022-10-17T17:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
-        width: 400
-        height: 225
-        isCached: true
-  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-14T06:41:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "Jr/kxuViKAKE74YUXpItIcdUQ3Yg0HIAHm/IsIK2tNgUpfBKEU426jQCEMswmb3pz9R8gOWorv8dA2eEFeG/GWqCZ6QNPcVohW/aejvJfrCToWYSf22FqKFoU+i+xJj87YOLtxcjQTnNpPSymIZfySCJgZm3eoVUkJoxCxZ4dByPubhK4qMViEtf4dVrHhdiRlwRr123jwm6GDHxAcHPv/zPEpd5aQHyqVS4Rwd8aXEOI047oxGu+hGqfutFbt4LAboe247qPmY+e1t3EWqcdz7VTacZx6SHZiBOITnP7JtZvXCiE5YRvphVEwvKB8Jl1zyKdMbqWseLR5lIsTRtSww/B3aX/vyDOKDw/tuXRoazfonq1TfQaBHyIjh/jzzqIhyfAi4JnUyI795nCnykqUlbQg5QCBipUn2SavasukW/zC7wzIiw+JJIZkvlXCQRuwZqrtH8dgvsu6xUEVpiHOfBqzs5O4THO3wvEthRFD9axw3U6PqXwr3NlSa+n8YsxQnxS0Lp4cqgsjcZVECuDw==;eEP/tqul+w0Qr9w7QZ7JCg=="
 ---

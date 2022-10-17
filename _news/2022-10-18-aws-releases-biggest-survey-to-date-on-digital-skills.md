@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T18:42:00Z
 originalUrl: "https://www.itworldcanada.com/article/aws-releases-biggest-survey-to-date-on-digital-skills/507837"
 webUrl: "https://www.itworldcanada.com/article/aws-releases-biggest-survey-to-date-on-digital-skills/507837"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IT World Canada

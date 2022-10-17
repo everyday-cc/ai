@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T18:04:00Z
 originalUrl: "https://techgage.com/article/intel-arc-multi-gpu-creator-performance/"
 webUrl: "https://techgage.com/article/intel-arc-multi-gpu-creator-performance/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Techgage

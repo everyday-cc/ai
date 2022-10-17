@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T19:59:00Z
 originalUrl: "https://www.techzone360.com/topics/techzone/articles/2022/10/17/453782-minority-report-here-ikins-cubara-bridges-gap-between.htm"
 webUrl: "https://www.techzone360.com/topics/techzone/articles/2022/10/17/453782-minority-report-here-ikins-cubara-bridges-gap-between.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Tech Zone 360
