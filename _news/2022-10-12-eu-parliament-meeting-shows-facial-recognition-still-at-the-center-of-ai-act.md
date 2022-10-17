@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202210/eu-parliament-meeting-shows
 webUrl: "https://www.biometricupdate.com/202210/eu-parliament-meeting-shows-facial-recognition-still-at-the-center-of-ai-act"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 2048
     height: 1333
     isCached: true
-
-related:
-  - title: "High international participation at the 30th edition of VISION expo"
-    excerpt: "To Dr Dietmar Ley, CEO Basler AG, VISION is Europe’s most important Computer Vision market place: “For us, VISION is the central platform for introducing innovations and communicating our new orientation towards becoming a solution provider.”"
-    publishedDateTime: 2022-10-12T13:36:00Z
-    webUrl: "https://optics.org/press/5572"
-    type: article
-    provider:
-      name: Optics
-      domain: optics.org
-    quality: 4
 
 secured: "lvRUWrgOMOLga2B+BrpznZgRiEXfPv1o2R3FMiI60qOJSvsXpMcWtSFxbMv+3gjfy3MQMCy9hsw0wYKiGr7rvuEmJu8n11pXbvs2LmHy+wVwVBER2D25B5YyU5rdU516FbODJU+5e+U2RtcQJs50NJGFKYX/O9bUldeXvWDmsIgDLkbxZOVTv18KZv9q1gULZzQ4tcjt0jqYeqeIDbmYDGISf5WhayKlfhtEpfLDoYFu8aAk/U0FQUifntdIRhKNpGkNNa6H/P1BjqSIYXdnqLC2/BAP50ZJUQWgQloPBmDadHPdKX9yMOt9mEkcrVpVC/X7qaNl5KQIoIuxSBncAJH+pJ4QViHj0TtyU0Ry5swVWeF7SAvpFU15uDs0yplGQ2ymTlDJQ4wkRpnVLhvM1zZNaucYxNDa9EEzL3Vk2QzDZiFhgUYMmfDhCVlftiNyCrylyFFQGkItM5ISPS0ccAmSMiqqyFhKpVc2YOW5eU9v8+9ULtGGo+21xX1nKXdWVrOgzeDgAXol+e7FLx79pA==;tLQ3FkMuL3kgssKiL6XKAg=="
 ---

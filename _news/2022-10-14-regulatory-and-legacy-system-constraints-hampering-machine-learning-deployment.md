@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-s
 webUrl: "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Regulatory and legacy system constraints hampering machine learning deployment"
-    excerpt: "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England."
-    publishedDateTime: 2022-10-12T13:26:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-constraints-hampering-machine-learning-deployment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 30
 
 secured: "RweXlY25BnUwMUeRrHuK77hIZrxI6JawtKg6cacFsWrb8VFK0cuNLjv7WSn3w83yEHcbTvuUoxNBl+VrkZ9+eZytTwN3V/tNZJxf3xtLPc1LkcqQTcyhGtGaaL3CAMRe+mCkmPn1KewjeTRCDfexc0WQkbLqDJ39CFpWAif746204qK8/LoosEedAX5sL90vtRtluwL5OQKr1ZN42QxcKcjNSlF6cASULbD8+87TRF2lUYGzBfv4Fpj7MCdEoHFhPC5ZyTtEMNtlM4P4fHryQW3VGn+ZS/+ZHECJP7pvcjXq1atWcj4LI998SruhLjCPf4YribTUQFdENyN70NgsluseF1VnCPko4akQx7EjfsqfIoyOet2iw57Yz2+ApQyQtTzVzJuYUcHGDWrcE++ULZGXdH69f2/hDti4XoIGApiPtzaG2fun3th6BSsJKJTE2O5BWmwqNX8+GmvXRbdQ4YP69nt4Htm537XAxjoPvFJogtqysjzj2aFSDqQAzLNlPLBh2uemjfndMV9FqrUxnA==;lDVpLtAxaflkfS2SJqz1hQ=="
 ---

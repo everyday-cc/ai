@@ -7,7 +7,7 @@ originalUrl: "https://www.vanguardngr.com/2022/10/toyota-partners-google-cloud-f
 webUrl: "https://www.vanguardngr.com/2022/10/toyota-partners-google-cloud-for-ai-powered-speech-recognition/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 915
     height: 610
     isCached: true
-
-related:
-  - title: "Toyota To Use Google Pixel Technology For A Better Voice Assistant"
-    excerpt: "Toyota already uses Google Cloud’s Speech-to-Text service to perform automatic speech recognition on its latest-generation Automotive Grade Linux-based Audio Multimedia infotainment system for its voice assistance."
-    publishedDateTime: 2022-10-12T14:06:00Z
-    webUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/"
-    ampWebUrl: "https://www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/10/toyota-to-use-google-pixel-technology-for-a-better-voice-assistant/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 44
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/10/2023-Toyota-Voice-Assistant-2-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
 
 secured: "OMXaWE0itdDEB/vs1sb798WNCPEdTD7k0ExkJ78r6yrXsUB6aB6iHsSMN0Llu+/ISSuza2K+5E23G4SqWWr17sLAMHUq8oFJN8XCIQUFr3o8Q69guqjNF49fr3sSRjxPKI9X6FVn3GlovZ4pYQAECb+iXLNeTIclCTnVcrCKUMbu5XEAUOEVXOC/DqA7kvTGukrZ60cBtJLEKop/RRuLv+7LU+dJ+viUAFLlEwjapdUVhye6VXbG8sMdeE7cXnNEBe+4PJva+qGEdEswmuIc3eR6DLeh19eeBHuYGAkpjAtMpfWc4OWTi7KXPMMpHkL++XMBoB0WPQZM2MPfHok1KeBUxO/VxdWUSjE7tJzsnBOitjiwMS0rviiWhMO7zM2ap3Dsfww0i7oFudlwE7ON67yhMJHgPNy4njTWjJPICcyVPSUq0FqnwvxRJbeuN2DJSmgpbfgWLqBtOjGnoOmGPmwyNZyrkQZRbV8E+PBICTWjZqagQhlX89CUVqiuiGOBrO4+EPVUAUb18gI/vuzFtw==;Mz1ZRxD30k/atF0igseDog=="
 ---

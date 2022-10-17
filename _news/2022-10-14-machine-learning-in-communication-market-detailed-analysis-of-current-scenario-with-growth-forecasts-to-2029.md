@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-comm
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14"
 type: article
 quality: 65
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
+    excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
+    publishedDateTime: 2022-10-13T12:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-with-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2028-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

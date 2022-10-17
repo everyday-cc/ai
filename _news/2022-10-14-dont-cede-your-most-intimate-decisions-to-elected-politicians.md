@@ -2,9 +2,9 @@
 category: news
 title: "Don’t cede your most intimate decisions to elected politicians"
 excerpt: "Unless you’ve been there, you can’t know what it’s like. For anyone, much less a politician, to claim moral superiority and proclaim absolute control of the decisions of others is unacceptable."
-publishedDateTime: 2022-10-14T15:42:00Z
-originalUrl: "https://www.aol.com/news/don-t-cede-most-intimate-124220462.html"
-webUrl: "https://www.aol.com/news/don-t-cede-most-intimate-124220462.html"
+publishedDateTime: 2022-10-14T12:42:00Z
+originalUrl: "https://www.aol.com/don-t-cede-most-intimate-124220462.html"
+webUrl: "https://www.aol.com/don-t-cede-most-intimate-124220462.html"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 760
     isCached: true
 
-secured: "sSBjF9cOFlDpEZvRfoCU1VwpnrdRws0QhIdOFvPao0AcpsbHgU3LLFmcKwrn149CbBX1l1ohHdQgHthW5EoGSszjIDAE8mK09dAOVdRCuIHtv80cj2YU90W6G/3aCg1HQ2Ta+ZlK8tx4huQ/JpMGJb6EtvMTiDVCobbeLK9KVoL3v+jScmkTTjG4SjGuCwlJF28bHSwR7UkSfLtBBXpl3nugnmtovIYn7Ce4rH2K7/V7kR/IK242z9qcBeGOPc86S6unatBJRrZcjL4u6E2gRcUrOU+krnU5HI2twKR12zwClhfpZpclL/9dqd0RwEK5ShOoDfGM4v6pjkG80/LuBzq1bqniFkhAwjz9G29emA0HCRrEDa7kO/NrEpL7y9R9EyMsfon6U0pBu3wmu76FQ3FcwfrD+2m8qXu9tj39iujiLe2tzXGGK54UhEp5TP+zoo5qAeqsx5KQhjPchHk7F9EcO9nROzKjH0N2QkIP4vE9O+vSkEOHfX9sQrTth7II+cD7utx9U5tNMVcMOsSEpQ==;Jqv4R91aALMEnSTnRT6z3g=="
+secured: "A9wq9atEGPQaMY9QA65lGuzuER6NGY+0RhpJ6fxp8Qp5dEcFzWEUi97dZI9TGI25Hpsk7YVtt2LKp3nhwDNknFUV1msz4BOxBdKaIOsPPzPk87IfFoek3NuohqK++RXZs8aIW/baLAdeYLAEmOsJqrFjcCCUkRCt4Gf8YT618dLUD2FdC3xdV8PrLiZBlfvG20n/mcnK8uVqk+BjHbgJ5lBRSUgB+Xfif4eye8xS0Vv6AZ4TNIRFrOWVoXbP6lXQfEgUL+XZfYYi7KmK3hTh46tr67ktaubgsUkbZVHPdKIJXvcTxmNBE8ELD2KJ9ggtijey374HT4sTjkh+A5TDGYiHVFXdR6SRFgVpg4HQbcw=;nlm2Ch/Ho4DVyTiqdYPBNQ=="
 ---
 

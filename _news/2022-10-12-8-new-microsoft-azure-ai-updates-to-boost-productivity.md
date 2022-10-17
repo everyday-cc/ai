@@ -72,38 +72,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft new Designer app offers DALL-E-like AI art creation for all"
-    excerpt: "Microsoft Designer is a new AI-powered new creator tool that lets the technology do most of the work in developing a creative project."
-    publishedDateTime: 2022-10-12T14:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/microsoft-designer-app-offers-dall-e-experience-for-more-creative-projects/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/microsoft-designer-app-offers-dall-e-experience-for-more-creative-projects/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-designer-app-offers-dall-e-experience-for-more-creative-projects/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 104
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/10/microsoft-designer-1010_1.jpg?p=1"
-        width: 958
-        height: 605
-        isCached: true
-  - title: "Microsoft's New Tools Use AI to Generate Any Image You Imagine"
-    excerpt: "Microsoft launched new creativity and productivity tools Wednesday for Microsoft 365, Microsoft Edge and Bing users. The most significant is . This graphic design app in Microsoft 365 uses the same artificial intelligence technology found in DALL-E 2 to create unique invitations,"
-    publishedDateTime: 2022-10-12T14:47:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/microsoft-launches-ai-powered-graphic-design-app-and-more/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/microsoft-launches-ai-powered-graphic-design-app-and-more/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-launches-ai-powered-graphic-design-app-and-more/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 104
-    images:
-      - url: "https://www.cnet.com/a/img/resize/9544662a7ab21cf6dd555dcd4e278e3ad4429b45/hub/2022/10/11/0404ca94-f9ac-4c86-990a-6cafb956d815/w11-m365-clipchamp-editor-fall-blog-hero-image-1.png?auto=webp&width=1200"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Microsoft debuts PostgreSQL support to Cosmos DB, multiple Azure updates"
     excerpt: "At Microsoft Ignite 2022, the company launched new Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos DB, invite-only access to the DALL·E 2 OpenAI image-generating software,"
     publishedDateTime: 2022-10-12T16:00:00Z
@@ -150,19 +118,19 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Microsoft integrates AI image generator into Edge, Bing, and a new app"
-    excerpt: "In an example of Microsoft Designer provided by Microsoft, someone types a description of what they want to see, such as \"Ombre cake decorated with flowers and fall foliage,\" and they can then scroll through AI-generated image examples that they can choose to add to their design."
-    publishedDateTime: 2022-10-12T14:16:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/10/microsoft-integrates-ai-image-generator-into-edge-bing-and-a-new-app/"
+  - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
+    excerpt: "Microsoft might have a way to make Teams a more enticing option for meetings: make AI tackle the dirty work. The company is launching a Teams Premium offering for Microsoft 365 that uses AI to greatly simplify meeting management."
+    publishedDateTime: 2022-10-12T20:37:00Z
+    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html?src=rss"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
+      name: Engadget
+      domain: engadget.com
     quality: 86
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/microsoft_designer_shot-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ee3124b0-499b-11ed-b9dd-b770a62b524f"
+        width: 1920
+        height: 1080
         isCached: true
   - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
     excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
@@ -191,62 +159,6 @@ related:
       - url: "https://blogs.microsoft.com/wp-content/uploads/prod/sites/3/2022/10/How-brands-are-using-Microsoft-AI-Hero-1024x576.jpg"
         width: 1024
         height: 576
-        isCached: true
-  - title: "AI Image Creator DALL-E 2 Comes to Microsoft Software, Including Bing"
-    excerpt: "Redmond is adding the DALL-E 2 access to a new Microsoft Designer app and through a new Image Creator function on the Bing search engine."
-    publishedDateTime: 2022-10-12T14:00:00Z
-    webUrl: "https://www.pcmag.com/news/ai-image-creator-dall-e-2-comes-to-microsoft-software-including-bing"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/02oPHs6dzNDeXsnOrRSEOag-1.fit_lim.size_1200x630.v1665491211.jpg"
-        width: 1120
-        height: 630
-        isCached: true
-  - title: "Microsoft’s new AI graphic design app is built on DALL-E"
-    excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
-    publishedDateTime: 2022-10-12T14:34:00Z
-    webUrl: "https://www.engadget.com/microsoft-designer-dall-e-2-annouced-140007501.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 84
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/4b490250-49a9-11ed-bf41-71ff4a04e5ad"
-        width: 952
-        height: 529
-        isCached: true
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI-generated imagery is the new clip art as Microsoft adds DALL-E to its Office suite"
-    excerpt: "Microsoft is bringing AI-generated art to its Office suite, with new apps and features that leverage OpenAI’s text-to-image model, DALL-E."
-    publishedDateTime: 2022-10-12T14:00:00Z
-    webUrl: "https://www.theverge.com/2022/10/12/23400270/ai-generated-art-dall-e-microsoft-designer-app-office-365-suite"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 79
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/pG_HQqimWuUkKoL3dev4ODdTnfc=/0x0:2454x1378/1200x628/filters:focal(1227x689:1228x690)/cdn.vox-cdn.com/uploads/chorus_asset/file/24102649/Screenshot_2022_10_12_at_14.57.24.png"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Microsoft adds OpenAI’s DALL-E 2 image generation tool to Azure Cognitive Services"
     excerpt: "One of the most impressive new offerings comes from Microsoft’s Azure OpenAI Service. Falling under the umbrella of Azure Cognitive Services, it provides access to an array of powerful models from the artificial intelligence research outfit OpenAI Inc."
@@ -292,22 +204,6 @@ related:
         width: 2056
         height: 1371
         isCached: true
-  - title: "Microsoft relaunches Syntex with broad set of AI-based content management tools"
-    excerpt: "Defining a new category of technology labeled “content AI,” Microsoft has relaunched Syntex with a set of artificial intelligence and low-code tools to automate content creation, indexing, and discovery."
-    publishedDateTime: 2022-10-12T13:51:00Z
-    webUrl: "https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.html"
-    ampWebUrl: "https://www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.amp.html"
-    cdnAmpWebUrl: "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3676509/microsoft-relaunches-syntex-with-broad-set-of-ai-based-content-management-tools.amp.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 72
-    images:
-      - url: "https://images.techhive.com/images/article/2017/03/p1240491-19-100715058-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
     publishedDateTime: 2022-10-13T12:43:00Z
@@ -322,15 +218,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft's Teams Premium service uses AI to recap your meetings"
-    excerpt: "Premium also uses AI to translate captions in real time for 40 spoken languages, so you won't always need to wait for after-the-fact translations to understand what happened. Meeting guides automatically set up the \"right\" options for a discussion,"
-    publishedDateTime: 2022-10-12T20:37:00Z
-    webUrl: "https://www.engadget.com/microsoft-teams-premium-365-160053805.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 66
   - title: "Microsoft Ignite ‘22 focuses on employee engagement, developer innovation, among others"
     excerpt: "Satya Nadella laid out the five core imperatives that Microsoft is focused on, and then provided updates for each of them."
     publishedDateTime: 2022-10-12T18:57:00Z
@@ -454,6 +341,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T19:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
     excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
     publishedDateTime: 2022-10-13T08:38:00Z

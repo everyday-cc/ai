@@ -2,13 +2,10 @@
 category: news
 title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
 excerpt: "Vectara, the operating platform for neural network technology, today launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
-publishedDateTime: 2022-10-12T13:05:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
+publishedDateTime: 2022-10-12T11:13:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/12/9690729.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/12/9690729.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
   name: TMCnet
@@ -24,22 +21,6 @@ images:
     height: 210
     isCached: true
 
-related:
-  - title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
-    excerpt: "Vectara, the operating platform for neural network technology, launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
-    publishedDateTime: 2022-10-12T21:46:00Z
-    webUrl: "https://insidebigdata.com/2022/10/12/vectara-a-new-leader-in-applied-large-language-models-launches-its-first-neural-search-as-a-service-offering-to-transform-content-discovery/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
-    images:
-      - url: "https://insidebigdata.com/wp-content/uploads/2022/10/Vectara_logo.png"
-        width: 320
-        height: 267
-        isCached: true
-
-secured: "knnluc7VVpGhBAUf5snATv17yNacqoFP9w6Q5O3MpF/d6NBxNIdPCvixKqKb0TwNd4FJ8LqDtmusz9T903UuexpE/BA0MpkQBuPdCNrvs7rCQRN3Kk3dc1OyGepnL9I2YRKAs+VwS+1Ilzoj73cweWFmDoohKrJCJrlzWRzsfCjlygHAVoOOURcqigTa/OTaaybOtDTCY83tebRJbUsORRpPur9yAu34ZMLxt7mE7jYNi7wWXKqCGoONZLbFyNrcVd4kceTy/8IFxeMi1bHN2sK5U8/t8NYwK79GU9fc4lBaPlYhADae/6u/LHhPOlLw/S+i0lT6la//rk1Ztg6uBAy3qNbhVMGMs4Acp4Cmixg=;qAMo3Gf3yAfUkg6QloO+ig=="
+secured: "bKz72y4/qbxFesbO9Ob3P9UB8QUdZz+1R1ul3wPdXSNhAKIV4hPbSBcSEQgt/f7slSHP75fsUEhOAU4uQRJGX/wqIruSx12mS05jvoBPUpKec5bU2AwhqEbWMUsMY1q082vNZO07L2DEMU4GIWkdBRwg5j+nH5bpEyayhyOTzeni/NwX3ZxNpW3u3FWxfat0tLSf1o0oLkvssIYAAmwHSc5bm8TWApBIgx5r+5nd4+vd+ASG6nA1OJUFHKkBrTyyzb7uvtF1OwBjXEPYgbdmyEeh4p+py+Mu2aIcJ2nF4o0V5dZm7kEX4H+wMu6R7CzZD2M6bvPEV37YDWWhfHxHefmBS0ss2Pre+K+XLIRQJgc=;BCYy9h5X0x2e7DiDY9pdeA=="
 ---
 
