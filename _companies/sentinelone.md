@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "SentinelOne"
   url: "https://twitter.com/SentinelOne"
-  followers: 18559
+  followers: 18560
 
 size: 201-500 employees
 yearFounded: 2013
