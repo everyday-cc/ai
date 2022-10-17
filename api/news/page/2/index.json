@@ -984,6 +984,48 @@
       ]
     },
     {
+      "path": "_news/2022-10-13-the-download-ais-life-and-death-decisions-and-plant-based-steak.md",
+      "title": "The Download: AI’s life-and-death decisions, and plant-based steak",
+      "excerpt": "The messy morality of letting AI make life-and-death decisions In a workshop in the Netherlands, Philip Nitschke is overseeing testing on his new assisted suicide machine. Sealed inside the coffin-sized pod,",
+      "sourceUrl": null,
+      "webUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/",
+      "originalUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/3uXn1NrHGpL8rbnt_pUfL1DJcMHscNoC7H6Gt4mP8Mwje0auvPd0unBoM9lsQnVuJ6KDFDAHI2TSFpSkZixoSP-nZfDINZc8juKy_-QDsx_S8oKEYM82qzlormhg03VNtUczjHqHVoFGyIMBJUkvYjMGUB274MRt4aFprKeXWWqLZrb3hEsez5KB",
+          "width": 860,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/",
+      "publishedDateTime": "2022-10-13T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
       "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
       "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
@@ -1189,51 +1231,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
-      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

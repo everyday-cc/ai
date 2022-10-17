@@ -3,8 +3,8 @@ category: news
 title: "HSBC and Silent Eight Expand Machine Learning Partnership"
 excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,"
 publishedDateTime: 2022-10-11T09:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-5197300"
-webUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-5197300"
+originalUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049"
+webUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049"
 type: article
 
 provider:
@@ -26,6 +26,6 @@ images:
     height: 630
     isCached: true
 
-secured: "S+3ECy/art43xC79+FaW5rMLXOQwMqj5VG/C1c0JE0QJ1IJx1rxPrv9ULPWVvUdiWUvurOLn/W7B1y+7AzZVrzIbiGo8aP82LwNDnkKPhNqikE4wqCQ6ny/joAqJovQFyDZ89I/GiLCpFzCkAFbnbq3hI2CdXgbW42CvB/1GjLRyOU5NSGQDf6NkzxvZarg584sEttaHfskNyU2hU5Od66/jPDaPIKQ1fwdfbhBLSkqZEncJlhK8Y0V4kBhlvtwOdtQci1VOiUsae9z9LsfziWeO9hhyxEqAdyPlbrk+TBrbOU0H4WY7F0WpiSrXj+qLObblW3uz6V1etE4lyCcNxPE9dl6q5zt80RrRlKofoR4=;S54ZRyAN47e9/uT5BoXh1A=="
+secured: "vq45kpA2P2uYJ+Z6CitStGKO3KSa3N2oW32NW33iEg91bIF5gfDp8uKFItOB2qBuBj3hydfenGJf51tOmsP320mRjCWo79NYNQCRJvOYc16MG+f0o+WeieeKpR9PaBqf48m5QxWInzyRPRCt2dPJlyVFH2+TmJ6oJi8ZFpn35bqFko/3+xK6TGv6HRIL6cdo0Wct8i65i1tMht7iQtlJ2MC2/dAvNQCdCFqExLOwA0l5iN0Ejc4fIthl+sQ343ilbf6dJvL8EppwU+mPlybCmmaWwgQeK8tPmIg3PSKoAVf7Ebhs8w0rGROhS6/erc+HtZ7Lm+O/NUOeXDHdwHy0I4ORapBpnQJhKAM3bqBlq6I=;0ACfn9UGLzN69oK7mWATzA=="
 ---
 

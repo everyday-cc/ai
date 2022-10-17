@@ -2,9 +2,9 @@
 category: news
 title: "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so"
 excerpt: "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research"
-publishedDateTime: 2022-10-14T08:14:00Z
-originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
-webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
+publishedDateTime: 2022-10-14T13:37:00Z
+originalUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp"
+webUrl: "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp"
 ampWebUrl: "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "H+p0lSvETJYf/vSH/8Z9Iz+cQv/CZU1hTaXeqhKgfEfeBavduZtbyHdEU4fdyk7xBOVzliVOwXR/+E5U8yGytPEQ/G/smWDrHqlYi2m7bOF1Ho8bXwwS5Mer9s4B9WSyuJVj3CZio6aZgcP8tcj/TCvR5h4uEqyocC3CLSwFugUhjfZi8x31gAEqaWafifBqNdOyiMI0JZI272QY9j+rp2kkNSWVqBGVyqHjjij2YOXUPio1g8nO8+82VR8Fx+qYgjVQEl83MJHVGrLjkOFt9nAU7Be6a5smU24rlwHyRdeNazHABFGXMLVfm2GDslyA9e0SezEZE/EPA1+CHjWqAjjZG95zDeZMz/n6OyMCR2Y=;pnCVZy6ENyjCd2GQKGfFvQ=="
+secured: "ZECnfhVRRvZD0crKRiMdgGWun6KD//GQEEjn1qa737KFHtfYBX7al7yCDUqc3pVg9nK99c5nmG5Rx5m3TAJb/ORYTjyp+I7V5cyL3nMoQLWT6h8N7BzZ6Dw4+9d+nh7qghK9i9j0wZJ24EQi4lAcFJUfM8uUZgF6lBEa01NKcAyj81U9rQscV00VMSYN4QeEgT3q/ZYT7R4MtqP0jixejfHa2OFEIF+yEGas9Ma5A5gZgieh9dB8IablNKlGwIUSlkCCBQG6nIcI0sDZ3ASoJfnZxlp8G22NtioUou3zzQ7YZK0dhfeiYnuaPkfCnUvVZyhw/JaMU/HU8w3Js68nj4zXaYT2wfSCI++EAcTt/JI=;5y6JHB02DTzhHkH1WlupJQ=="
 ---
 

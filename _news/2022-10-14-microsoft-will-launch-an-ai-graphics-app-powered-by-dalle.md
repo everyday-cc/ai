@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft's Seeing AI app can scan the boxes of Advil, Theraflu and more to read out details"
-    excerpt: "Microsoft's free iOS app will read out detailed information of products like Advil, Theraflu, Excedrin and more, so those with visual impairments can more easily learn about them.."
-    publishedDateTime: 2022-10-12T23:35:00Z
-    webUrl: "https://www.engadget.com/microsoft-seeing-ai-app-scan-read-out-drug-haleon-accessibility-230047595.html"
+  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
+    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
+    publishedDateTime: 2022-10-17T17:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
+    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
     type: article
     provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 73
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/f89d2270-4a75-11ed-99fb-4fd7cb360f36"
-        width: 2056
-        height: 1371
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
+        width: 796
+        height: 438
         isCached: true
   - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
     excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."

@@ -71,6 +71,20 @@ related:
         width: 1548
         height: 772
         isCached: true
+  - title: "Host code-server on Amazon SageMaker"
+    excerpt: "Machine learning (ML) teams need the flexibility to choose their integrated development environment (IDE) when working on a project. It allows you to have a productive developer experience and innovate at speed. You may even use multiple IDEs within a project. Amazon SageMaker lets ML teams choose to"
+    publishedDateTime: 2022-10-17T17:32:45Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/17/host-code-server-sagemaker.jpg"
+        width: 1550
+        height: 772
+        isCached: true
 
 secured: "VM22+CfCl9tb22UzZM+34U6JOKaT0cfAwhg2Ur5kaJ2JWqRYlXnxqPyNQ9uoL1K4tb7O2thjEVM1sim7OfaDbbnD0cy7A5g6DKRb0X5rcE0UIPIOj7VoI8tcExLml9Xq6szv+h6EthYkuX1KenDaPjJd8+ecen6G+ncFHIXsxh1oRQz/5R7Fc7GW274f+2I8THRhCjwKZ2FrZLRqWfTL8/TmiWwHXuq1tJlMiaaEtt3rhkSt99jEGSkmx56etG1iEBELYdwXoarLmOqHUyCVnMR3QMOwiA0XYWMFWzm2WItfpFT2HvuTz8VMWaBxUvR26SvutMSSUg9RzX3oKc/SH7jLYIvJmbIF+pv8Z3IXMlI=;YtdMc5eKCVMc61rLpSIMow=="
 ---

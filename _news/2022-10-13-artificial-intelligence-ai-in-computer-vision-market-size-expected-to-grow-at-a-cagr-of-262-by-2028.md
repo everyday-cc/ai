@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13"
 type: article
 quality: 83
-heat: 113
+heat: 123
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) In Social Media Market to"
+    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
+    publishedDateTime: 2022-10-17T17:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
+        width: 400
+        height: 225
         isCached: true
   - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
     excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."

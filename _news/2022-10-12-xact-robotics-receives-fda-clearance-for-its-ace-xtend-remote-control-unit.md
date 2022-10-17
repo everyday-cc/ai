@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "bVa4OD7qDFOlKWkvuED/6gQDQ+kZJ2dwowQ/rglskUp6MyPBv4Z6zCHf/QgoJfgA33N+Wf9CILh4NfpwBESP5yzM18vkx5X26O9Dv3MiTynUF3H7UoZcN7Mn0mMxo0CSnoklkstfBKwQ2LotPaRArtMXcATG6P/1+GkQDDZ1enVy+Q58ODZqsMG23wv9pcP1lNkld46MZkrnW21EpGkqvkdIZuYkZVtWWXCpDaEP5donKLCXY4AoA4W40lgraTF8XiNAdB7QDZX6IdaMLP3PnFujY+ZkX1MDXep9IBW6oKdcBZo2aus/o1SHOaoB4gK6mIMR6Ly2AJd3Hz+PbwW37GgJDegC4SK0NzHNZxHyTXQ=;MgbosluSDmlp9okJ5/J1ww=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "MdHbvccnm4VIqpwIJBvlag+6Jr4YEEwyevpRIkCeT/8VErBV25xBf3D3G2qJSQbmP+KeS2wUGaX3zQ+DzTWya3Kfs3D5XKrPr3J7KDW5XogfzOORfm3allLJq8VIvXFKKSJZpcs4linudavYzqcIidpU67nppRNZYPmG6vJCk8wFdh5mthMoWF+2ChLV9Ju64W8TC/L1eUAnGhWyp7uEj+mOB0VWQCek+v4n0ISTWwy6FqBjesVXeqmdfJT5JmG5csBm3ZE4nr85k7NrZjik8sFkgFM3N6GtiaMLSrFch5NklFNYXBqDbKjgPWxRZ8k68Yl0WU6/8dVSgdnf6aKxlkP0xi3vhjIS303rxoCuqyY=;IQWQPVHq+bxbNSqoJcacaQ=="
 ---
 

@@ -38,6 +38,20 @@ related:
         width: 489
         height: 734
         isCached: true
+  - title: "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S."
+    excerpt: "PhysicianOne Urgent Care today announced that it will begin using Augnito, the leading medical voice-to-text AI solution for clinical documentation. PhysicianOne Urgent Care seeks to transform its clinical workflows to reduce administrative burden on providers and improve the quality of clinical documentation,"
+    publishedDateTime: 2022-10-17T16:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Merging a rules-based approach with AI in finance"
     excerpt: "By KK Gupta, CEO. Facctum Of all the technological innovation that has taken place over the last decade, one of the most exciting is the emergence of artificial intelligence (AI), which is revolutionising practices across the banking sector."
     publishedDateTime: 2022-10-14T18:37:00Z
@@ -47,15 +61,6 @@ related:
       name: List of Banks in Belarus
       domain: globalbankingandfinance.com
     quality: 34
-  - title: "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers"
-    excerpt: "Hosted in Microsoft Azure, HxGN Connect provides real-time crime centers, operations centers and others with real-time views of different data sources, collaboration channels to coordinate across teams and the ability to dynamically add new participants and channels as needed."
-    publishedDateTime: 2022-10-17T13:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693604.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "New era of property risk management enabled by transformational location intelligence technology"
     excerpt: "Organizations responding to the challenges of a changing climate – in sectors including insurance, government, financial services, architecture, construction, and engineering – will soon be supported by a range of transformational technologies from leading location intelligence and aerial imagery company,"
     publishedDateTime: 2022-10-14T13:46:00Z
@@ -66,6 +71,6 @@ related:
       domain: gisuser.com
     quality: 0
 
-secured: "pnJCVUiBVmnQMHnU+07zH2RqJenrIAxKBhbmuktRD4NW8hu2p1SQlDnTD1gDK+teO03OsUc7Abwzm4CxyxrgkTGtQ+dlxQMGHmKgJPmGqPmEHuwXOd6bR0jXaXVP3i8mx9rc8kZvHolASCJp+d7LOwwOwntFN9lDgfaMDokZFxHUwsiD1TVLHISbuc53d+DQylIg0yWHShJhVWW5K7rTY0RSb1ze0YPs8MaD0LnfH4yLuyYS9FUecSF5jXN2p7pXl8LKQlZBfJ6tmAP60yrkkrVOgMu2KyYBpYQ+mFJXnbzSnuyjgcSZuPoWVbBhZnzJiBq5HKACpOM3fO0JzHTCeRXoEIW9R3Qr1ExoIXJWoFQ=;wF1+lpOUlv7SB1SqAoMJdQ=="
+secured: "AOm8q1ztvGmditnz0MogGYP4TMNya2Ig2K1uSBifryHLvoumnByQu1K1zCawwECEUFOavUwe1f974XRRXOrGcMmVe6h/PACStjarUckaMDD5NXp+gdapucLbO7j1gD+AscH3iGZTVE3woL2oSlLC6cHzmkU3YrfSfwIw4eLOw4ndGvkD8iRtXsZtlhB85sk0eXJ/8nlMDgKv/M2xoFFlgClBjIw98Npwl7BkjYmRlgWj6maA5Hn5mH6LklL0AE9QJ6fz+nJ4vebqcc1c3daP5m3APsmOUNi4rmksUDa1HJYyNo0M1wS4uMfUy54MWH313t4EIJQGJLVkYaubls/iTZmkkXO2aybkEPRNwAdiZAwn9QhMh9F0f7z4U2hU055OBe/5iPslIbMucsmGKUNBZ0HM3FPdtxZSBqtIeyM5UiMjvOD+BOPLnpyNmrBFbe9Ewdd02CGonCFYlbm57nlliAccRTIiCrRhMgYhKw7gA5q51cxx94Wmpcpsux+bOsLtaTH6k3y654rdMM+zUlKtgg==;M0MaoDniuz8dOu7Zz2aTgg=="
 ---
 

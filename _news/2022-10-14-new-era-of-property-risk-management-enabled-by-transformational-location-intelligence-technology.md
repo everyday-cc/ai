@@ -32,6 +32,20 @@ related:
         width: 489
         height: 734
         isCached: true
+  - title: "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S."
+    excerpt: "PhysicianOne Urgent Care today announced that it will begin using Augnito, the leading medical voice-to-text AI solution for clinical documentation. PhysicianOne Urgent Care seeks to transform its clinical workflows to reduce administrative burden on providers and improve the quality of clinical documentation,"
+    publishedDateTime: 2022-10-17T16:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Merging a rules-based approach with AI in finance"
     excerpt: "By KK Gupta, CEO. Facctum Of all the technological innovation that has taken place over the last decade, one of the most exciting is the emergence of artificial intelligence (AI), which is revolutionising practices across the banking sector."
     publishedDateTime: 2022-10-14T18:37:00Z
@@ -55,15 +69,6 @@ related:
         width: 400
         height: 268
         isCached: true
-  - title: "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers"
-    excerpt: "Hosted in Microsoft Azure, HxGN Connect provides real-time crime centers, operations centers and others with real-time views of different data sources, collaboration channels to coordinate across teams and the ability to dynamically add new participants and channels as needed."
-    publishedDateTime: 2022-10-17T13:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693604.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
 
 secured: "bqa7djRwdnfh+ck4+E72khvjL1Mvmsn1O5nnJg1QVCRMD6DyDEbo9EtpPv3Pt4frJnaIzmBrIiLO3ORr77B7iAxRZPwF8bhe5gj6AmcqCj4JoEwzHD485YOGsjKAS8l5owSii4Ky6VTHpZ5MLRmuaat7OZrqYFvkGvHG1oJOgjyK9f1fuegQjY8BjxMoSQcZLevJ2k9ndmrfqzeZvtuLV69djnvpYno12q4u/y2pW+PvCCV7/UDjVSzE8u4oyFy3OQaVRPlz8VLc3bLpeD/U48IyMLEOgrJ83rjXL7sWBWmaFbZRScqCqeSHrv5rvQqJg/M8yGO+c0qEM2WOZ1uREadxSAehqlPwZYIo25VwC+c=;BM7Q+rpt/3jrL/Reyz906Q=="
 ---

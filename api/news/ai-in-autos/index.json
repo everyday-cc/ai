@@ -575,6 +575,41 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
+      "originalUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSIL-TV",
+        "domain": "wsiltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
       "title": "Top Nine Ethical Issues In Artificial Intelligence",
       "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
@@ -1359,49 +1394,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
-      "title": "Self-driving cars keep causing traffic jams in San Francisco",
-      "excerpt": "In one Reddit post from earlier this month, two of the company’s cars can be seen blocking traffic near the intersection of Sacramento St and Leavenworth St. Two self-driving cruise cars ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/",
-      "originalUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/10/03/cruise-self-driving-car-traffic-jam.jpg?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/self-driving-car-blocks-traffic/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-car-blocks-traffic/?amp",
-      "publishedDateTime": "2022-10-06T04:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -33,6 +33,20 @@ related:
         width: 489
         height: 734
         isCached: true
+  - title: "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S."
+    excerpt: "PhysicianOne Urgent Care today announced that it will begin using Augnito, the leading medical voice-to-text AI solution for clinical documentation. PhysicianOne Urgent Care seeks to transform its clinical workflows to reduce administrative burden on providers and improve the quality of clinical documentation,"
+    publishedDateTime: 2022-10-17T16:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 48
+    images:
+      - url: "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg"
+        width: 400
+        height: 267
+        isCached: true
   - title: "Survey Reveals AI's Impact on Productivity in the Workplace and Customer Service"
     excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its 2022 AI survey examining consumer behavior and attitudes on artificial intelligence (AI). The AI study found that consumers have largely moved beyond the adoption phase of AI and have a generally positive perception of how AI can improve their experiences across areas such as healthcare,"
     publishedDateTime: 2022-10-17T13:15:00Z
@@ -47,15 +61,6 @@ related:
         width: 400
         height: 268
         isCached: true
-  - title: "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers"
-    excerpt: "Hosted in Microsoft Azure, HxGN Connect provides real-time crime centers, operations centers and others with real-time views of different data sources, collaboration channels to coordinate across teams and the ability to dynamically add new participants and channels as needed."
-    publishedDateTime: 2022-10-17T13:44:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693604.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
   - title: "New era of property risk management enabled by transformational location intelligence technology"
     excerpt: "Organizations responding to the challenges of a changing climate – in sectors including insurance, government, financial services, architecture, construction, and engineering – will soon be supported by a range of transformational technologies from leading location intelligence and aerial imagery company,"
     publishedDateTime: 2022-10-14T13:46:00Z
