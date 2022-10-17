@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Kami Vision Rolls Out 'Kami Home Smart Detect' to Distinguish Between Humans, Vehicles and Animals"
-excerpt: "View the full release here:  \"Our new Smart Detect AI models go far beyond the industry standard of motion detection,\" said Yamin Durrani, CEO of Kami Vision. \"Users can now receive only the alerts that really matter - someone visiting their home,"
-publishedDateTime: 2022-10-11T09:12:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/11/9689360.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/11/9689360.htm"
+title: "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals"
+excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products."
+publishedDateTime: 2022-10-11T09:02:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "LXWotCxaDYFS07cNcU9N2ECkYaiyESK7Han4SD6BUCH/bFjRE6NKLdegNJ8zX8bX2jXdyXOw6WzuUuGuuOfZSMrLd5YqRQrgwBL+NmHpYsnPrOxn9biSciO6gNbsxlB1guHzszU+uJzhXGjfEufjbp2DoS8/XSG2OOvfqkHGO9O+VBUNdznkdVie6UsVRCaV+8NkiF0dwD057NFTTDC1ke0UKrrOaKfzeJLUsw8f29Xj6fH4SYhMiwC4+aGQDFRckMpvzcQGBb3yH06RY0FV8xSkt+fyTwM7eOlcyrhgG7sNZXHriU3n/q9FS0U540J+6ZnS5jmWMnL42gqiHFimGs/ENtAvEf/DA3w0pU/280U=;d7hKjCtz8rdpdIVz8jubbA=="
+secured: "zMPRYooODJ+/x5SyxEQ6N8n1fll0qSkPmXss4mKVPAHW7M0YE4lOGkzwIsCyeLwdPyTa58x7WgtqLSEnrI+ux9+/sjtSOg9IiLyxk5SKK46et1PppPJweK4DbzmaT+uNklFPMilLzgmlzuK4SKSng2nKbqOu/8ITVP9QFi7DQGBXG8E6mU73odCX8bwh8mxIxH6BSuEo/rMrU6Z7oEsrHAxbMc85XirEOwsYqmc05GKwtlVPcoAnykpKOR4Fw6Dv8t3ZjRY262eYoZ0rWclqW895QwRKr0phgMx88VEenQz4VYeW5J4NoiT1JyO0Mr4y8wLkosipIDRAJ5aE86uFr9T5VCJnkrF8Sw31+rnHq5sQW+W//K+4JtFW17wnvAvqCu5UtDLknl92/65T7dXnPz4MyfA8/kUjC92QyVZYEskS+kts7jVS86v5yf1gtA0SKptayw1mfFxUCha+SmYD05THhHETd8OrTt7D2GPGzbRt9T77Hi5xdLliuIQ2XuAgP4uTmBG/wK3LuXcBrNZVbg==;ESYlZJ+N2rv7Mmbi0E8G2Q=="
 ---
 

@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Computer Vision
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/an-energy-efficient-li.jpg"
@@ -26,6 +27,6 @@ images:
     height: 645
     isCached: true
 
-secured: "rlr2Cwko5GFVjzwteEz1txcIsDixBQ7ChdFbbYXcWAWCXHFdSKbQNoitju1QLLzLghfmLozpOWiwKlNr1A5uX3Octc3MU1BI/2NkuvHsjkpAx0Aj0KKsUp4nRKsm6tt/Tw8BGA/ge9sktfa9lBZYJ3daHupiYkxDXEIvtYdgnqLZ9R5U+Sc6nXKMa9+YEDjDUvKnAJENZtxDZo/orwqxi2t0mto3yHr077zcZwbViLnnJss1j6wN6QHn3TIHJ1Uva+U9s9dfc3tcUX1ysnrd631+LrdxUJeHRJVMznkAfj8zoHmAQ3aRUUSTPQA2DL6FzMpOYeU+hr4rXG1/fVQjg7x8BsBj3XcqkbQRgqy47+E=;Rv/ImazhLVmBW50jNGqqyQ=="
+secured: "21Hw0G+ylszWDzXfSeetvDbpEssJRSI2xHEQOYwf9mnbDMmt0vzj68PGdWy+t0qSkUH+tcGSmHptT4XobC1jfMncqFYXlzOSZq20HkxZ+Dy2eLUJX4a055PE1NEdvAPilw300VfzUejl8r2DVVRfl3CK9WD7DMniaIODFvJmDjo/f3r0flcIfO7N0UWK4WPHLgNzRBSMuCeqaOaFAJ7bLdouFFCcErT1GLOWSl0yRE3iHsMr+EHY0Z8+mX+550Rt1OFx5x+5aAkDInFu9TmcWRauFvodg5++iwx+8AuU6K3ue9cU/KCP/4F9z81/keaZo3B+H1b73r3lGqkhauIBSgrVGHGxeececc0b/kv9SOBpXbjAukFEi7yEnnHs6ZqdCl6p/YZ48k7a3qYK793LUla/TQ4r1R/Hg7QSXAWkSQYz0yyHsCzsp97Gfby69EwHSJRek/VQL+LMAHN+jJ/z3oC2R96vpaLuZHDYk/4mg38RaTzV2pkwfGwJCZR8mjhrRN9aA6zRNFbdyLt62hr/OQ==;rscrP8ncSzWmMGqAhn4RLQ=="
 ---
 

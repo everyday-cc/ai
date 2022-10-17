@@ -1,22 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
-excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
-publishedDateTime: 2022-10-10T21:43:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
-ampWebUrl: "https://www.benzinga.com/amp/content/29208199"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29208199"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
+publishedDateTime: 2022-10-10T23:35:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "pqSbFZ6xGg3EBToSdF80SQ6LLR0TqHoCGzRhqINXhh8oKv8WiQCcYkTJVwhv6KJwUkPjSr2CRRIzmUhrbX1RgLcUoaLCMVeZRIjbYFBBK2aEIVLBE6DHonVhyR237IMhaJwygXFQ1fEs9XQ8dsgsKCiS3yDZlVZewA674jb32Ntl0HS5+2oS1w+HMNKb+Hl2VkjxhzbmCztSEdV4dFWmL6QWbZRFPxARMckOmwceGW1AiofgzXr1JJCYM3gxrmsALT/Sqh8yQV0CZiR5LYJHMdRklyGdZaH8NXeRcPmmWgDHsvfW1FUU0pf4KfF95VO21fVjvoTkfxkfjN0/T/K3vgoy+TOrPNe4Gsv088jPOUY=;thqgpSSYaIXnhQVxUCSDaA=="
+secured: "oOHcXibGPoiFTYf6Wh6EihKVxP0wxQfiFrxphXo8PgjRpKCHInRDZsGddF15Nd/0Qk0xeCusklxCPud2E0oaxCFSwkRYn0AnlzkGXZSZS+abJLPKr9FRcpLN3fcqMMaExhum8jBg0EHA4EAI6Glk9ycdMagTtKmlBd4T2DZcqiO0ksnOLVcN4USY8r8V+jrLqniFE0vyLxiAmYmWRZ0sFNb4Y+IBg4Pzm1Af1Ag9+hs1om10SAXI62h9JavvolpZSCnPRh3GQfwN//r8ozt0a5J9hltqniiTegRk9IM1vG+i4mK/4xQyWONcUTR53TqAvJ/KTw3oo/xPnzBzH2RTR4qrkEowOGlrDXfF4NWX8Bk=;XI72QPq4l15cCycfTCjNmA=="
 ---
 

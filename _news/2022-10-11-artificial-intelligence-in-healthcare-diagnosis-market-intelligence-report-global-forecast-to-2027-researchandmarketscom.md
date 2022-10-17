@@ -12,10 +12,9 @@ provider:
   domain: wsiltv.com
 
 topics:
-  - AI in Autos
-  - AI
   - AI in Healthcare
+  - AI
 
-secured: "oSFr//5AwXf6WfGom6ts2JL3683QKN/r3FgZn1O4F0kqJQoDb1uujsWS8XLm/av5gRmtqdV7mV/8Qm+rBmSQazfl0/aLaPqS6o7hAXAk3kFMUnO1FV1r+RwqxUzVPLO5mAnmJl1LOCKqSATkrBCbbdlZHQIuee9FSVaPxrw8mhrHeIN8zgjUXCIik9fzPyFTGv6T3lrkNrd4ZUQopva1TTurl3iv3PP5okIPkCtslNDIZuycVXkz524r1N0Xdxh7vLa7ohtdvuOO+SCRfnVfGOeBm2L5M5m+gewWu0gBQBCfJ6oRHBKjqd4row98Y7LD28Tf6MibN4cs3oP3WpOHrvZoChBAJQgc+7d3IzeEEp4=;c9dTl2pjuo4rOQqG18/org=="
+secured: "1ly6PedySYM1SJc3bG7cfd5SMol+BPIyDFjyPlL3qtWmFUWvAF7dqyvj1M+6L1bO0lBpmbAWlCZ6XjSB6qovn0t3qYfPYE7WiH+NUcKj2/h0F4LVvW4hupxaRYrSu4cRKFeilU8nWkqBid2e5E/7nPfhdfJHuQ599S36Rj1PwY6ZgjYeUHT1w0o2/sKJBSGPqNR+Q74qly9tEYiD8pM9ndMVkvHDsHLgID/8o4uOl2nTMgDG43A3klG9pFcAZfN/eP24irr5nLgZ7fzRX46ul3KZfBAHt08c9AmRa1fTLsFVC4nwML9dHIBxvXvZdLEURFr9htUe6dhTkv4ZBX4sUdJLKyG3rO9x+Xe9F+XJjV4=;HAzgNFJK4iA/2WmrAyjEoA=="
 ---
 

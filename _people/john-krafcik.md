@@ -3,14 +3,14 @@ name: "John Krafcik"
 bio: "We're building the world's most experienced driver."
 location: Mountain View, CA
 type: "profile"
-heat: 32
+heat: 71
 
 website: https://t.co/i1uBCCpct5
 
 twitter:
   username: johnkrafcik
   url: https://twitter.com/johnkrafcik
-  followers: 15711
+  followers: 15712
 
 linkedin:
   url: https://www.linkedin.com/in/johnkrafcik/
@@ -29,6 +29,6 @@ images:
     isCached: true
     title: "John Krafcik"
 
-secured: "U14qqyYodAmvLHSyHvPMRUOkC3APsMagIvF3NVk38Mfz7mgC9gHFaa7HnbSF3B/WlhzuMxtCsNl9dVnjlgj+MYbasRFDEv3rtIO1kg9hC3ukYhCaehiJMWkuKbQG5GmTcXjkiT9hYirIu1gvAi8C+2PZA1IPhzBj6/tRt6aSnm9VCpFFQMzgLrEuG8KdGi5ODKOGmwrjrwr76lIgm3PYDt29GnzSK9MthI9OwMVu21vYwEg8STsF0Fz6lgGQBJblHnk8btELsxkjFbKbZQHrFPt1AIOKwQe9ExMi5Bk8ABhr2m3vJb8vcm9/o6EGRCIYwlvJZmMi5qXA9QYktH95fiIBucTlwJcAW72y8gBNgiNLF9gOFmUMSScagm7qf/pHqZ6l5bKcRGSv5cQbRuG3x3z5RUcL4KqN7pP+3yIQlr0=;hzCvxStS3T9W5iMg05Gw0A=="
+secured: "2VbXWT+cguBWLiHVONOdpZ6DlN46G2zShgy6QuelRJggAUzaKuFtfWg0I43eP2j1m3trtpLvPjPTI+AVKxZV3hbNnYy45/X3dLwi9JHHOZ3clodPfnmVhueer291Y6ANYOY7OinDffkSysaOcLi5HF+p46fYTWIc+pOH36JRy2AsIwOCVLcCJSLIgIMJy94/dQpsorK9n0iQeoK4EdtK1kMMFI/4AxbqStBfc/z4Q4ySgIyuRt8VV403laUvPj2CQLRcw4aun/zyfixTOOcyWT0fQyYH0o8lrNYB0BeT5QZBYIjhA3A93MM1j8pcvcjd43fjwjy/nlxX45/9Oy8RXhLhl7DZHadilHh/sLB+F5/24Os2fL3Cwj7CxWMDrTKIH3l4600T/xjwVt/YvAxDNlKRBTRzlCQLwkxBrkRx65c=;0PlIz01GuoU4hmsKmOawYw=="
 ---
 

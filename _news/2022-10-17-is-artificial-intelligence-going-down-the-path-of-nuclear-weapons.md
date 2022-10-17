@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://observer.com/wp-content/uploads/sites/2/2022/10/GettyImages-1243615298.jpg?quality=80&#038;strip"
@@ -24,6 +25,6 @@ images:
     height: 3375
     isCached: true
 
-secured: "cEjW1RbS0eIqukgzhHM+El0Jv+pgOm1jaq9nB1UoozeYxKwT5IqSkzoQHeMArF/vdGKHvEAD0UlXuNONRCxOpQAL/ZIC4MB3uSiDPKQmfbPDIDC/xAdwwG4R2egf/I26DdrwgeQbro56R3mYDEMiYnOb4aQBZgfotMdLtRg0WBRV+DzhBPLbKfv/pyXgdHy+hY/Shj9YrGBN66YrMEbvFlC4V+fTSUV5C+SQ5Stlr7jVNoaTC4YcQf4xSTlQIrktS2zFJe0n2eGQCwXsAvxsGQOkREugwP0GwCJDPy9WDCT/MnywcUvwMZDH6EMdWjbttnGTlMx7rDOI7MeNlHO9ZXAwPmOLiPz54KADYXPcPFc=;i9M/5m/eW4SYKf9/XEyQKw=="
+secured: "gZ3xLrYY+iwibnjmCXW7PVGM3lPMFDT18OpuXlcRfi7vnXiAXJVbvK4ckTWJRUB43jFnrQ/WeKO+vccNCk/QHL/PEWaDRX5mD8Uma97gepSfHIVGMKO2cm90/8KCs+/E3mC7LYEmggIjwyiM+J0fdcCmExJiuaHk3D6pCeW8SAmT++wB94BGz2mYACQ1DKVxXHWguSEA7MoMNfx0EVxdYdLYGU/6X0ndbbMDY/rqZItU7OLD9FSHLyAovx8JI/PW3EPirFhx2EWY2Ev58xVbdJMzeHQvXFsWYmb+5eYWSp41XjFsu0OQNEiCj29Mxq1id7oN2uAwPsjVA2bqv/148PShl1+uRskSK1a2Jp7QUi1cBNjfar8sdtbaLcD5jtWdKMa8XsOyPZCGTIW34Hq9c1S0NvYGdncyQ9h2AZLbWbN4vNNSwmV2dDb/dB99ENmtNXBms18bG2Z2YqCNNE4ik092E3oVA0zdBsBrXwaU5BpNyMDJkwed2vmnjAjMU3OdcnjnEeo+QgUK4vVrl/sgTA==;DrOjIePwKWDbQnCIez+ZQQ=="
 ---
 
