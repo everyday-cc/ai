@@ -42,6 +42,15 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 17
+  - title: "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation"
+    excerpt: "Seagate® Technology Holdings plc (NASDAQ: STX), a world leader in mass-data storage infrastructure solutions, announced the launch of Lyve™ Cloud Analytics platform, a complete cloud-based analytics solution that includes storage,"
+    publishedDateTime: 2022-10-12T17:23:00Z
+    webUrl: "https://insidebigdata.com/2022/10/12/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "HCS9hDlUwFYyd06bYIeELZrJe9Nds0BVN6+D7Dkti9WB4+twHm1xwR+ulZHUyIAypi1HQTSjTGmfv2+MUsjMzZhyqxxYQcH5jDtVTcGxj+9vES5sZmR3BhZv3Zg5YoG2nGGerbn+7OSLlQL1nowzzyXJY1g8QWRH+hLkH6kWrdNSWTJN3qnGT1E7TWsnUjSLdNizoh0TYP66iumFp4i1GaY+NdyRweRbpRRo80XBJhDxu4kwCmJWrtXtipWU3SnddB9MVcOw1FIDxGPYydyWqKcBzgjbHDLfSUFyNR011JKSl0NSnABFU1ONt0ohDVNbX3NJzbPWSnmAWJ9Qtq1a2WI2oKN/zVewgVqFMA1AsSmQ3Go17ROH1OBiSvp9B4m81ClCXMctW3DUDo8tEKnq8CR15qckdmhFRfJCIRAn5VGON5uuncMm4/9GDSnZb/MAbyws3fr2UP6NLyN2eidlwGqLFAO2zZ5ZpLr1Kee+hb19aQMvCQVaDsCSWUR7nGwBWZGPPXn92jZNSd5LTakRqw==;8I70xM57hniy55eQUUOdYQ=="
 ---

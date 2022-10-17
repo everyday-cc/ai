@@ -42,6 +42,15 @@ related:
       name: The Edge Singapore
       domain: theedgesingapore.com
     quality: 19
+  - title: "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation"
+    excerpt: "Seagate® Technology Holdings plc (NASDAQ: STX), a world leader in mass-data storage infrastructure solutions, announced the launch of Lyve™ Cloud Analytics platform, a complete cloud-based analytics solution that includes storage,"
+    publishedDateTime: 2022-10-12T17:23:00Z
+    webUrl: "https://insidebigdata.com/2022/10/12/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 0
 
 secured: "HAjMTl6YkDk2MbojzO+UNd7zmn3uyxye4jCgkcDVBqlBBZVRppMOSm2YF9CCIkQMQB9jw4U7rMd9SnIEfmd6pHumIAqZqMP4T2Hx0Inw6d41qlbvXCBrKikonwYzQMDoIl4ATAXun4gH2vk+HZnxYnEo1OSVlGXArG6xaERdpF6/LgThrPPaOYNbyy96XhyXH3iWjsMhnKyuexQHHC8bYFOp0hcNZH/zdS4ItsOChPoRNlokbeK0KG6dncNYJz5L8+pkYi0gQueAm8zWgntkaac/ETCYZE+17z/q0FLU6iS1pRy6lnzhVwDgw6ebcKm990fO9gTWvQHGsvg1UZ3QiSEt5waMjz4DfayiQ6xEJbA=;BK+vc8WqeNnfhNCYz95IKA=="
 ---

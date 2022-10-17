@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-06-miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off.md",
+      "title": "Miko Robotics acquires majority stake in AI chess startup, Square Off",
+      "excerpt": "courtesy of underlying AI, grabbed the attention of a jaded crowd of showgoers. This morning, it takes the next step in the startup lifecycle, as Bay Area-based kids robotics firm Miko announces ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "originalUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/KId-playing-against-AI.jpeg?resize=1200,799",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/06/miko-robotics-acquires-majority-stake-in-ai-chess-startup-square-off/amp/",
+      "publishedDateTime": "2022-10-06T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-teslas-biggest-news-at-ai-day-was-the-dojo-supercomputer-not-the-optimus-robot.md",
       "title": "Tesla’s Biggest News At AI Day Was The Dojo Supercomputer, Not The Optimus Robot",
       "excerpt": "Tesla's Dojo supercomputing technology promises to accelerate the development of self-driving cars by an order of magnitude, and it will start coming online early in 2023.",
@@ -433,6 +485,59 @@
       "topics": [
         "AI in Robotics",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-04-dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal.md",
+      "title": "Don't Laugh Off the Tesla Bot. Elon Musk's Optimus Is the Real Deal",
+      "excerpt": "With humanoid robots, AI has to work from the start. And the AI challenge is harder with robots. A quick primer on today's AI technology: Instead of programming computers with narrow, rigid if ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "originalUrl": "https://www.cnet.com/news/seeing-teslas-optimus-robot-up-close-has-me-taking-it-seriously/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/50d07895f0e23f1cf03194ab4cc567a7daa60d93/hub/2022/10/04/a47f255e-4d70-4847-979b-981ddb5b9d92/tesla-optimus-robot-2.jpg?auto=webp",
+          "width": 2840,
+          "height": 1598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dont-laugh-off-the-tesla-bot-elon-musks-optimus-is-the-real-deal/",
+      "publishedDateTime": "2022-10-04T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1297,114 +1402,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-10-top-artificial-intelligence-ai-applications-in-healthcare.md",
-      "title": "10 top artificial intelligence (AI) applications in healthcare",
-      "excerpt": "As AI continues to be applied across the healthcare spectrum — from administration to patient interaction and medical research, diagnosis and treatment — here's how it's making an impact.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2018/07/Zebra-Medical-FDA-approval-AI-heart-disease.jpg?w=1200&strip=all",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-ai-applications-in-healthcare/amp/",
-      "publishedDateTime": "2022-09-30T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-tesla-unveils-its-humanoid-robot-for-less-than-20000.md",
-      "title": "Tesla unveils its humanoid robot for ‘less than $20,000’",
-      "excerpt": "Tesla did show some videos of the robot performing some tasks in a controlled environment to demonstrate some level of usefulness. The automaker even showed the robot performing a task at an ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
-      "originalUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/09/Tesla-Optimus-Humanoid-robot.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/09/30/tesla-optimus-humanoid-robot/amp/",
-      "publishedDateTime": "2022-09-29T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

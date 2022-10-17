@@ -2,9 +2,9 @@
 category: news
 title: "Dune subreddit group bans AI-generated art for being ‘low effort’"
 excerpt: "Moderators of community devoted to sci-fi films and novels say they want to prioritise ‘human-made’ art"
-publishedDateTime: 2022-10-16T16:19:00Z
-originalUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
-webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
+publishedDateTime: 2022-10-16T16:20:00Z
+originalUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort?amp;amp;amp"
+webUrl: "https://www.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 type: article
@@ -47,6 +47,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "5eoZK2oOzbIMQ8hCv7XQz101YvpIT3S/CuuzYeAE2/1CvromLrMew7+vPih5U2tUUSi0QQ8SIhxGuu+K6xiQSNVmk3iNDHo3E41eZ82tNgH6B8WE8UkfZbK9Xni+RMTJqFelqgGDNpKtnc2mpeaE3ShJ3mk8OVh1LD9uOzwSsQeJHntVvgjvgi1ysoECsm1KShnmUaPS0XWlcRUbxUs9JJW4+P3ujzeF8Sgam4/xwOEsR718OWVINtV4nbyzwjWh9FD4qieu7CvhyMIDzEejAHONfcnQiDOXhsieydG19pnhAF+otaaFymHY6+sLAtp2wOcsNoz3DaodAahmCbYms424DPrZ4andTnUV90z3UY3q8DgASZjbKtAQBg52GKmYoEgSJuoKBxFAfNN75nE47zewllKaEhORnSS9LnGENGqTWnAuYnUZR7nW7vqVWzg8fVrlnkks93rHBE/v4s+ldxoliK+4ExmZS+70shd9lgQ/fKx7axNd0ffU/DiSakjXP31ici2AAEfSOi272YfO+g==;JLesYO61b5x++AYLWaUGKA=="
+secured: "7Wndp1jXXUtpf392T0qwKt58IR/AifdcH+24wjQcpDNzzjfBmaHI9QraOJxr2TzSDSnnqJA4SSrSDK6pShlf2IoSOks8pzTMDXbc3UoSiYgJ7vNYLNB3rONMNl2eqtDrzg1X6ZeAk/9htd9c52DXhRojFybbhaUkG/r8Pk7i26nNfroTvgXlUaopQ7052Xis7Joeufus2csgDDn0V7gZrWGo2zo0vWRysNb456jzjsMwqns2z3ZvalutfEZclLWnhY6NfAz5vTSs8sy0UYYh4wP9qQgpXgt5QxJyUOFPRBajHqRZIg44PRtkJqRCa8y8FadCScdfN0j/1Iwapgy6qj1TBxSaQLH4Y3SgbUeYBzo=;NpoH+aoYUVrmEJcBq1dvJw=="
 ---
 

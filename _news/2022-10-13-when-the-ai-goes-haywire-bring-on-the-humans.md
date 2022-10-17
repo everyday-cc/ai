@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna52079"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna52079"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fixing the faltering AI transcription ecosystem"
-    excerpt: "Highly in-demand services that make up this ecosystem are riddled with problems, raising negative consequences for productivity and accessibility"
-    publishedDateTime: 2022-10-12T07:00:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/369166/fixing-the-faltering-ai-transcription-ecosystem"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1664193267/itpro/2022/September/GettyImages-AI%20audio%20transcription.jpg"
-        width: 375
-        height: 210
-        isCached: true
   - title: "When the AI goes haywire, bring on the humans"
     excerpt: "Used by two-thirds of the world’s 100 biggest banks to aid lending decisions, credit scoring giant Fair Isaac Corp and its artificial intelligence software can wreak havoc if something goes wrong. That crisis nearly came to pass early in the pandemic."
     publishedDateTime: 2022-10-14T07:26:00Z

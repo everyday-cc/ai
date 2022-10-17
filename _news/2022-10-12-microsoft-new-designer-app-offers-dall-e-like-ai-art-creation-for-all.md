@@ -79,22 +79,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft and Mercedes-Benz tap AI for auto production efficiency"
-    excerpt: "Microsoft and Mercedes-Benz announced a new collaboration today, tapping artificial intelligence (AI), digital twins and data analytics."
-    publishedDateTime: 2022-10-12T06:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Mercedes-Benz-Microsoft-MO360-Data-Platform-Announcement-Photo.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft's New Tools Use AI to Generate Any Image You Imagine"
     excerpt: "Microsoft launched new creativity and productivity tools Wednesday for Microsoft 365, Microsoft Edge and Bing users. The most significant is . This graphic design app in Microsoft 365 uses the same artificial intelligence technology found in DALL-E 2 to create unique invitations,"
     publishedDateTime: 2022-10-12T14:47:00Z

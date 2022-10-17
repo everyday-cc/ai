@@ -99,6 +99,51 @@
       ]
     },
     {
+      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
+      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
+      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
       "title": "Top Nine Ethical Issues In Artificial Intelligence",
       "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
@@ -1354,49 +1399,6 @@
         "AI in Robotics",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-20-ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics.md",
-      "title": "AI and wine are not that different, says SAS’s director of AI ethics",
-      "excerpt": "At the SAS Innovate Roadshow, held in Toronto on Sept. 9, 2022, Reggie Townsend, director of AI Ethics at SAS, compared artificial intelligence's (AI’s) risks and rewards to that of wine. And just like wine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
-      "originalUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/sas-innovate-roadshow-feature-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/ai-and-wine-are-not-that-different-says-sass-director-of-ai-ethics/503456?amp=1",
-      "publishedDateTime": "2022-09-19T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

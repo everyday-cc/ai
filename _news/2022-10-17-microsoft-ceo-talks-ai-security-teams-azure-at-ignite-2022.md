@@ -75,22 +75,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft and Mercedes-Benz tap AI for auto production efficiency"
-    excerpt: "Microsoft and Mercedes-Benz announced a new collaboration today, tapping artificial intelligence (AI), digital twins and data analytics."
-    publishedDateTime: 2022-10-12T06:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Mercedes-Benz-Microsoft-MO360-Data-Platform-Announcement-Photo.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft new Designer app offers DALL-E-like AI art creation for all"
     excerpt: "Microsoft Designer is a new AI-powered new creator tool that lets the technology do most of the work in developing a creative project."
     publishedDateTime: 2022-10-12T14:00:00Z
@@ -618,6 +602,6 @@ related:
       domain: diginomica.com
     quality: 0
 
-secured: "KBuAVQAiTJtn+J7HgnKYSEV1OhYlhoHUIAwjAuPEuOw2l3vAjIdmcsDOeYswAkHlBYehAMhxfbjciEL7pbVFXI42OlJYkQMCoXv7ZoJTe6AwRDw8skELlQnFLZFc6ISLBHOwtDJ/Qe3wPCeEjwSQLonOuPMYWOvguUE9P+WGuxMgKisQxK1fOuxn9RHMAiR4a5kcrjTfH9tWzD0sBJlGt3oCEmrrDohcX1ndY/7KsbHs6cXrVRhRe3NtO9mfHpO7ifweVDHWTOsoXKrAsSMCBlKZkTwQlc6JN5r38XdZxeC/Xs/bJ8KlIG8YyuSMKqrl10neRi4Mj45/j1RW+DQE47uUlZODYdzKWIaMNxPrL9M=;MdVep+tRe+qUhuXKnv5eUg=="
+secured: "SKvoIPk6brkGT0CsaDaNyE3j0P5KBo386fiT/th1g0kPoJQGidTc7DYP2LU1KWXlC3ahgiCtfbZ+AXFgMEL7R8Yh3KAIGYUQaXloAQqK/dkDyWSKs+Mq8SCH6KEtw66Rb4UUlnSBCkPy7VJfMjYwOlb7uzBauz1Zr63e2QbCR8G7b6DFVgW5rxw7V6fzC/1izn8yg4kcQoOVugkjuq6BIAXb8xZNjz/FTJqlkY4GNISPpC3v2OMpdkefvpZzG07HAU692g7eKYa+A6fJa2CcBIwlz4kBnql7SLj66rOGhRCWKj/kPJlZQfReDAgfl0eVZpP9xBLWMG7xyp1LVeajVc/8onIFPXmXJjuVVMR473oXO3v9/lgrp1ZjnSH+snj6Kqg90gCDcMXmHaiycBEzIUNzrVUzL42tbvM4wgySMGerX4qRsBnjEc9gHwtO8fvnM4CBlsbsKL+27WapFGzKrxA4jwuxdopOM087tqglU+aU2A9aWU9SOxcZg/4WU5pU/TO1zWHFezUMo1vXASr7Sw==;nh0Xx8G8LAnAe7Z895gSVA=="
 ---
 

@@ -34,20 +34,6 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Fixing the faltering AI transcription ecosystem"
-    excerpt: "Highly in-demand services that make up this ecosystem are riddled with problems, raising negative consequences for productivity and accessibility"
-    publishedDateTime: 2022-10-12T07:00:00Z
-    webUrl: "https://www.itpro.co.uk/technology/machine-learning/369166/fixing-the-faltering-ai-transcription-ecosystem"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 69
-    images:
-      - url: "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1664193267/itpro/2022/September/GettyImages-AI%20audio%20transcription.jpg"
-        width: 375
-        height: 210
-        isCached: true
 
 secured: "8Iw3n8VUsy8dxAsVH90zlkHqXc+0I8lCceS8YqL0Z69Wyleq9CFljp+wycNQxWVuyFX4ik9j80YFxaypAdklrWPQDFnDCyfccZlkxC+sy5/LQZ8XL8WWSqKA0I6LatwSXeBV9US4woWf8JWOtGN/GuBwtjvzXZXf1K7cmJcpqr+tBpGUO6ldd7v4FpxTk12sHO2EzAgXl5GK4AQklLG07NJFZc57Wrrr5z+vFg1/7tP93hX6GV4KyfEszVD2ija0B6KK9CVDp27sctx05x0U6FZrWi6MxW9KbWcN0PcyIcVYS3MPN6NdcqJaCNZEu4gNS+l9RtmJasy22Kw0+ieRRDJnH//j1GeBq6HKgBJqe6EairTU7BLh1bSPwbLJ/WHBc2Q16RuMS8i4MhI+WBjNhqrrwSRQLTHNS9kcZAft6DwuM0ynylUyHd9wh2LhdSwSduuBnmYjvcpwD+P55pTD7qckDWh0bGT5l/SM0SBqAfhTEcgU9sKNeyYCUYCeOxcB7YHolDBjxY0zOJtMyqYiJQ==;iqkJipj6aZgsjdwUDaHzvg=="
 ---

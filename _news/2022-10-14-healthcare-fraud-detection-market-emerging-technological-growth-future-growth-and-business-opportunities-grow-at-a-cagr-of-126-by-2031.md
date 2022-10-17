@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Artificial Intelligence in Life Sciences Market Size to Grow at a CAGR of 28.7% by 2027"
-    excerpt: "Growing AI applications in the life sciences sector are anticipated to boost the growth of the global artificial intelligence in life sciences market. While internet giants like Google, Apple, and Amazon have used artificial intelligence (AI) for years,"
-    publishedDateTime: 2022-10-12T06:40:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-artificial-intelligence-in-life-sciences-market-size-to-grow-at-a-cagr-of-287-by-2027-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR Says, AMR"
     excerpt: "Rise in need for smart homes & smart cities, advent of quantum computing, and surge in investments in AI startups drive the growth of the global artificial intelligence chip market. Allied Market ..."
     publishedDateTime: 2022-10-12T15:20:00Z

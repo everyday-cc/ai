@@ -67,22 +67,6 @@ related:
         width: 760
         height: 428
         isCached: true
-  - title: "Microsoft and Mercedes-Benz tap AI for auto production efficiency"
-    excerpt: "Microsoft and Mercedes-Benz announced a new collaboration today, tapping artificial intelligence (AI), digital twins and data analytics."
-    publishedDateTime: 2022-10-12T06:30:00Z
-    webUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/"
-    ampWebUrl: "https://venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/microsoft-and-mercedes-benz-tap-ai-for-auto-production-efficiency/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Mercedes-Benz-Microsoft-MO360-Data-Platform-Announcement-Photo.jpg?fit=800%2C533&strip=all"
-        width: 800
-        height: 533
-        isCached: true
   - title: "Microsoft new Designer app offers DALL-E-like AI art creation for all"
     excerpt: "Microsoft Designer is a new AI-powered new creator tool that lets the technology do most of the work in developing a creative project."
     publishedDateTime: 2022-10-12T14:00:00Z

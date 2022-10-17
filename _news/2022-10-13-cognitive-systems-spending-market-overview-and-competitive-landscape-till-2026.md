@@ -34,20 +34,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
-  - title: "Pet Relocation Market 2022 Share, Size, by Major Companies Profile, Competitive Landscape and Key Regions 2028 | Top Countries Data"
-    excerpt: "The Global Pet Relocation Market provides a detailed overview of the industry with including both qualitative and quantitative information. It provides overview and forecast of the Global Pet Relocation Market based on various segments."
-    publishedDateTime: 2022-10-12T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/pet-relocation-market-2022-share-size-by-major-companies-profile-competitive-landscape-and-key-regions-2028-top-countries-data-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TZS0WZTehCbhJuh/F+OkRq5ZiUOt9ljGXqdaHz4I2q83c9bSH7P35GmP1MXJfN8WaX+RjE2XW4DN5G3CNYgN6KOI99XX6C5MJKJwzna+jTARm5NpTV0s0tEPMa4VpYUi7TkEvyL/8D6WGQBo50uKEMM3IfCkQiOFiHZIXwcGB83uKcGjZpB/ivdwaFa7MwnAV1iWvEYbH5/vqFBr0S2vjsV+skLbUJYINU02WIK3vmFPZZmS1/CfChts6MxIbVervnkwYlQJYPGwyek2ka+oRunkrgkJqVh62YCKVGZZF2rbFRpwCAcXOoeI4o80/b2Yi4Ry84NAkF7GU5BTcEGMNY7MVuMbAMcaBEjStg52WXQ=;OrQvwFQdIIj7W+0Hmrzerw=="
 ---

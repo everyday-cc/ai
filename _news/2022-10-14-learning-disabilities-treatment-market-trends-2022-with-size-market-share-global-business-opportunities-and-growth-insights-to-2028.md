@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Artificial Intelligence Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028 Research Report"
-    excerpt: "The Healthcare Artificial Intelligence Market 2022 report provides an in-depth assessment of the market's size,"
-    publishedDateTime: 2022-10-12T06:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-research-report-2022-10-12"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
     excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
     publishedDateTime: 2022-10-13T13:00:00Z
@@ -57,15 +43,43 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
-    publishedDateTime: 2022-10-13T05:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
+  - title: "Machine Learning Courses Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data | 125 Pages Report"
+    excerpt: "Global “ Machine Learning Courses Market \" Report is a detailed and comprehensive analysis for global Door and Machine Learning Courses market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-14T04:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-125-pages-report-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 38
+  - title: "Image Recognition Technology Market Business overview 2022, and Forecast to 2030 | By -Amazon Web Services, IBM Corporation, Imagga Technologies"
+    excerpt: "Download Sample Image Recognition Technology Market Report 2022 to 2030 here: The Worldwide Image Recognition Technology market size is estimated to be worth USD million in 2022 and is forecast to a readjusted size of USD million by 2030 with a CAGR of % during the review period."
+    publishedDateTime: 2022-10-13T04:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/image-recognition-technology-market-business-overview-2022-and-forecast-to-2030-by--amazon-web-services-ibm-corporation-imagga-technologies-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Software Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 120 Pages Report"
+    excerpt: "Global “ Voice Recognition Software Market \" Report is a detailed and comprehensive analysis for global Door and Voice Recognition Software market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-13T05:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-120-pages-report-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
     excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-10-14T08:17:00Z
@@ -80,15 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
-    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2022-10-14T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
+  - title: "Machine Learning Courses Market Business overview 2022, and Forecast to 2030 | By -Ivy Professional School, EdX, NobleProg"
+    excerpt: "The Global Machine Learning Courses Market investigation report contains Types ( Rote Learning, Learning From Instruction, Learning By Deduction, Learning By Analogy, Explanation-Based Learning, Learning From Induction ),"
+    publishedDateTime: 2022-10-14T03:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-business-overview-2022-and-forecast-to-2030-by--ivy-professional-school-edx-nobleprog-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 25
+    quality: 23
   - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
     excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
     publishedDateTime: 2022-10-14T09:02:00Z
@@ -98,24 +112,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 18
-  - title: "Global Microprocessor and GPU Market Report 2022: Growing Adoption of the IoT Enabled Devices and Equipment Driving Sector - ResearchAndMarkets.com"
-    excerpt: "The global microprocessor and GPU market is expected to grow from $86.78 billion in 2021 to $92.73 billion in 2022 at a compound annual growth rate (CAGR) of 6.9%. The market is expected to reach $111."
-    publishedDateTime: 2022-10-12T12:50:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-12-global-microprocessor-and-gpu-market-report-2022-growing-adoption-of-the-iot-enabled-devices-and-equipment-driving-sector-researchandmarketscom"
+  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
+    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-14T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
-    excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
-    publishedDateTime: 2022-10-13T12:19:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mR1aSUeohFy7UHtcjTU29OjafvDzUa/H2DhLDQ7S5QGXYTB4Pxfc72JUITUxSSGkx7SPu7hjTGeXEUb0GHMdnsl4UIFsbHtCx45kaO0xi8TReReA+gXyF3IRnih0fm60RYVB4aIs1X5h/Xg3HrG2Yf/5hXvJj8V7/tAhiB6sC1x90bZtM7L/qqhQIxEj4dFnAyNVUydatm9YsMZaAqVp/HOoA2awiVxmf7n1y3To0JQWQtjz7tpVfptog3oARXQqBG7HAvLay0GIbw8E5K6KRokj+aglkvwL8o5HMOSnau8EDKzxWEw3FXETCzNQN7fANGAJE/eZSKsaXjgRTRMzOICc5uujRCffGTYH5q0Gs2M=;o1UsawELe02Y9DMMDa00+A=="
 ---

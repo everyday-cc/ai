@@ -107,6 +107,51 @@
       ]
     },
     {
+      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
+      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
+      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
       "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
       "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
@@ -262,7 +307,7 @@
       "originalUrl": "https://www.manufacturing.net/video/video/22485757/42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -493,41 +538,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
-      "originalUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WSIL-TV",
-        "domain": "wsiltv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     },
     {

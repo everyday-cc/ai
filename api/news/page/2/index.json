@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-10-14-north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027.md",
-      "title": "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027",
-      "excerpt": "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
       "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
       "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
@@ -261,7 +218,7 @@
       "originalUrl": "https://www.nbcnews.com/tech/tech-news/ai-goes-haywire-bring-humans-rcna52079",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -710,6 +667,51 @@
       ]
     },
     {
+      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
+      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
+      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
+      "sourceUrl": null,
+      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BetaKit",
+        "domain": "betakit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
       "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
@@ -814,7 +816,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-computer-vision-market-size-expected-to-grow-at-a-cagr-of-262-by-2028-2022-10-13",
       "featuredContent": null,
       "highlight": null,
-      "heat": 143,
+      "heat": 133,
       "tags": null,
       "images": [
         {

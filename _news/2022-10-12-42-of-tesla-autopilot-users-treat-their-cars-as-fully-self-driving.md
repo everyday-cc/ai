@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/video/video/22485757/42-of-tesla-aut
 webUrl: "https://www.manufacturing.net/video/video/22485757/42-of-tesla-autopilot-users-treat-their-cars-as-fully-self-driving"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,22 +40,6 @@ related:
       - url: "https://www.planetizen.com/files/images/shutterstock_1058585822.jpg"
         width: 1000
         height: 668
-        isCached: true
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T06:50:00Z
-    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 43
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
-        width: 1200
-        height: 630
         isCached: true
   - title: "A Worrying Number of Tesla Owners Treat Autopilot as Self-Driving"
     excerpt: "Tesla calls its bundle of driver-assist features Autopilot. It also sells a $15,000 package called \"Full Self-Driving Capability\" with the promise that fully autonomous driving will be enabled ..."

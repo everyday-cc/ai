@@ -49,22 +49,6 @@ related:
         width: 1000
         height: 668
         isCached: true
-  - title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
-    excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-    publishedDateTime: 2022-10-12T06:50:00Z
-    webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 43
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/c996ca02-8eb8-49c0-a71d-1eb4c7dc638b/thumbnail/1200x630/a56640f91411e85b96c13bffaf7a59aa/news-101122-cg220611.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "An4tY3UH234rY4l+Hy13S6/StH/D8FFXOvbPuzCLvNeh/1L3d4Ek7zizAJ7PZZ6igrhW9TcHilttu8780avLghumQKgsguqk6wAEfue0g6tQy+/G31UF3gBs4fhrbBffDUHiWD4Wu5r5ZrQsUNq6upvsepRL8NI17K1PEmv5RBkFYNem2uAL25YNd7ceLD27l7vHvSSlmSDIrgqFIqCS2a8uwtRVcGk9U336r4SkjCTJte8J5Sowhqn3f9t8Hy5D57Ed1+0BfpsNZqORZ//YgD667UDjqv1W/mKbFyxtDu4dKhgCSvoo3Sx9lrKMBb4YPxe0utfvULeXin/7A58b/mLJ/eYTVwduZSTVFA5eBNE=;+QZbVbQ8b5Mrb2h06Q7/Kw=="
 ---
