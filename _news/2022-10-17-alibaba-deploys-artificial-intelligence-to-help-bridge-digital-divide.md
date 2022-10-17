@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T13:56:00Z
 originalUrl: "https://www.csrwire.com/press_releases/757506-alibaba-deploys-artificial-intelligence-help-bridge-digital-divide"
 webUrl: "https://www.csrwire.com/press_releases/757506-alibaba-deploys-artificial-intelligence-help-bridge-digital-divide"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: CSR Wire

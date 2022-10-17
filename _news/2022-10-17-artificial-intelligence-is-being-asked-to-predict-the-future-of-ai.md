@@ -7,8 +7,8 @@ originalUrl: "https://www.newscientist.com/article/2342632-artificial-intelligen
 webUrl: "https://www.newscientist.com/article/2342632-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai/"
 type: article
 quality: 52
-heat: 82
-published: true
+heat: -1
+published: false
 
 provider:
   name: New Scientist
@@ -24,42 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI and the Future of Mobility: 3 Stocks to Consider"
-    excerpt: "However, with intense research and development occurring in this segment, investors may want to consider planning ahead with three AI stocks to considering buying – GOOG, GM, and NVDA. To be sure, automating personal mobility carries with it intense responsibility."
-    publishedDateTime: 2022-10-14T20:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-and-the-future-of-mobility%3A-3-stocks-to-consider"
+  - title: "A new AI model can accurately predict human response to novel drug compounds"
+    excerpt: "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process."
+    publishedDateTime: 2022-10-17T15:00:00Z
+    webUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html"
+    ampWebUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
-    type: article
-    provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: Phys.org
+      domain: phys.org
+    quality: 54
     images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "How AI is assisting with the development of future treatments"
-    excerpt: "The use of information technology has long been central to the life sciences, but the promise of augmenting human thinking in the research and development of drugs, therapies and other treatments with artificial intelligence (AI) is nothing less than the promise of speeding breakthroughs in medical discoveries."
-    publishedDateTime: 2022-10-15T21:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/how-ai-is-assisting-with-the-development-of-future-treatments/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=de0aaee4-0b50-51e7-a7ab-ff0ec43eecc9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.94737&width=1200&height=675&x=1.0E-5&y=0.02737"
-        width: 1200
-        height: 675
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg"
+        width: 1024
+        height: 1024
         isCached: true
 
 secured: "8BBlxluUNUWBkA/t0vEXyw4dFb/kqLrlUJHvHNV/DyK3PWSDMCTVzS5K9Z2n/RuL0qwUuMdOniFl3c9E5SOxTMXyw/W+V8gH4wm8QOt6Jzy0RRwZZ70Ud56ARc6V1x0CiofaQ8qRWHfRkI5R01F1rFa+1imYFhXgVD2JPTZL64dqNPVszDQPNCRSTGszoRE6iFU5OWPfqHkpGBZIkYvn9ljwbKZ6T+AadXRmtMR5zmLbfuyDUPTrcTjsaq8wVB5Kl/utgbKiwmKoEOPJF4LkR3yR5BRhwXHIp/2M+obbGK3axxWoEukEwmFt3wj3UbWzk8C/S8Sa1qLkW5zUMSXw38rZsra/FByVW6WZjQ/ylp39Xu776OCY2Co5KZ9Z5fTDKeRPEyQUhNSF4VtGDXhn+sKz2uXbiBTHMUH+APtSDsBhNux6PfPySE5yfpakrPIq212/+yHRdijwrTwz+yKBPYSVFFSZZehOoq8egLEhISN9s6lGpkOsaOnEjd6f2qoLlMH+dxQYGk7DyQ3AKaC7Xw==;lerfbgHaGIvQWEvAeq80Qg=="

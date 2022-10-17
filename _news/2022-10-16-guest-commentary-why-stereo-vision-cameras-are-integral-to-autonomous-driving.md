@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/guest-commentary/why-stereo-vision-camera
 webUrl: "https://www.autonews.com/guest-commentary/why-stereo-vision-cameras-are-integral-autonomous-driving"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Commentary: China is setting the rules for driverless cars"
-    excerpt: "Unlike other parts of the world where regulatory backing is a barrier, China has actively made way for driverless cars through detailed legislation, says Anjani Trivedi for Bloomberg Opinion."
-    publishedDateTime: 2022-10-12T22:09:00Z
-    webUrl: "https://www.channelnewsasia.com/commentary/china-self-driving-car-av-regulation-robotaxi-pony-ai-baidu-geely-3003851"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--goISgDYW--/c_crop,h_562,w_1000,x_0,y_67/fl_relative,g_south_east,l_one-cms:core:watermark:ap_data-1,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/china_driverless_technology_baidu_09001.jpg?itok=H4LlRibd"
-        width: 1200
-        height: 676
-        isCached: true
 
 secured: "Qx28NvnamcSEl1EU4CyspgmwHPSRb7H4RKYYYg0JaQYLtjKhGubCGXzeIqFtLZ+cIDw9mwY7atj0BN0o9fDjc0UVFuCuw/jK0sOmXru2TzvWXswW6zjqQHRDSNTLJQDeIvcbXdt7EBJaF2DmxUWRRWtcYXIyHwczEeTU4hJ25b1AGSHL60t0ASCnLO3VAH//LvGXasNxrRmkwhdm6n2ePTcKsAQRQXfEVSdNhtSFqeAdxTmISgRAXIxk3iP6aLgcm+kfDLRQXhZrkGMra8nLfzPu4OdE//+eJFhATuPa+86ujFpjcynNdmKqg6sTGwovK9t9lYkgDeZjhBTC4hMbWMJf1/qE4vTdwVOBD8Cc2qZ3XlhsDJGnxzvQWf137wxXeLxjeAh06e1KQrVHuC3Th4ZIbdjXn7IV8qlu7RlfyPp6u5YdA+PuMOvE0egFfaC0IrBvMC+Yrdl8UFS6+zpGVdotNT6yT8MPOQtL9N3fLviDQkLosH0+46aMXBFPga9pIIH0CC/PZk6C7w5HzD8/IQ==;5s5PS3Q7OxYHwMwVVT60gA=="
 ---

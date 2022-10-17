@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T11:43:00Z
 originalUrl: "https://www.independent.co.uk/asia/china/china-daily/robotics-automation-ai-industry-b2201055.html"
 webUrl: "https://www.independent.co.uk/asia/china/china-daily/robotics-automation-ai-industry-b2201055.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Independent

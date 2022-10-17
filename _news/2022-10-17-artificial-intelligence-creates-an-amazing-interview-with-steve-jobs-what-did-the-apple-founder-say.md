@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Steve Jobs stars in Joe Rogan podcast thanks to artificial intelligence"
-    excerpt: "Artificial Intelligence has created a fake episode of the Joe Rogan Experience with Steve Jobs - and the internet is divided."
-    publishedDateTime: 2022-10-12T20:29:00Z
-    webUrl: "https://www.dexerto.com/entertainment/steve-jobs-stars-in-joe-rogan-podcast-thanks-to-artificial-intelligence-1956809/"
-    type: article
-    provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
-    images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/10/12/AI-creates-podcast-episode-with-Joe-Rogan-and-Steve-Jobs.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Zuckerberg takes on Apple, AI takes on Steve Jobs, and Ask Apple Developer launches"
     excerpt: "If you only listen to one podcast, listen to this week's AppleInsider Podcast. But, if you listen to two, you've got to check out the show that uses AI to make it sound as if Steve Jobs is alive again."
     publishedDateTime: 2022-10-14T08:37:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-
 webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,43 +24,47 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is being asked to predict the future of AI"
-    excerpt: "Artificial intelligence model predictions from historical data on how AI research would develop over five years matched reality with more than 99 per cent accuracy – soon they will be asked what comes"
-    publishedDateTime: 2022-10-17T11:36:00Z
-    webUrl: "https://www.newscientist.com/article/2342632-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai/"
+  - title: "Using AI to solve human error in data-driven analytics"
+    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
+    publishedDateTime: 2022-10-13T03:56:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
     type: article
     provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 52
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
+  - title: "Autocorp.ai is Combatting the Multi-Billion Dollar Auto Theft Wave, by Leveraging Artificial Intelligence"
+    excerpt: "With this added product, Autocorp.ai will be able to provide a safe and secure digital transmission of verified customer identification information between consumers, dealerships and lenders. AVA ID targets identity fraud in vehicle purchases with a simple smartphone application using advanced artificial intelligence and anti-fraud technologies."
+    publishedDateTime: 2022-10-13T13:47:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 17
+  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-13T07:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
     images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg"
-        width: 1200
-        height: 800
+      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
         isCached: true
-  - title: "AI and the Future of Mobility: 3 Stocks to Consider"
-    excerpt: "However, with intense research and development occurring in this segment, investors may want to consider planning ahead with three AI stocks to considering buying – GOOG, GM, and NVDA. To be sure, automating personal mobility carries with it intense responsibility."
-    publishedDateTime: 2022-10-14T20:44:00Z
-    webUrl: "https://www.nasdaq.com/articles/ai-and-the-future-of-mobility%3A-3-stocks-to-consider"
+  - title: "Qlik Recognized as a Customers' Choice in 2022 Gartner® Peer Insights™ 'Voice of the Customer': Analytics and Business Intelligence Platforms"
+    excerpt: "Qlik® has been recognized as a Customers' Choice in the 2022 Gartner® Peer Insights™ ‘Voice of the Customer': Analytics and Business Intelligence"
+    publishedDateTime: 2022-10-17T12:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29286578/qlik-recognized-as-a-customers-choice-in-2022-gartner-peer-insights-voice-of-the-customer-analytic"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 49
-  - title: "How AI is assisting with the development of future treatments"
-    excerpt: "The use of information technology has long been central to the life sciences, but the promise of augmenting human thinking in the research and development of drugs, therapies and other treatments with artificial intelligence (AI) is nothing less than the promise of speeding breakthroughs in medical discoveries."
-    publishedDateTime: 2022-10-15T21:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/how-ai-is-assisting-with-the-development-of-future-treatments/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=de0aaee4-0b50-51e7-a7ab-ff0ec43eecc9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.94737&width=1200&height=675&x=1.0E-5&y=0.02737"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 0
 
 secured: "HCS9hDlUwFYyd06bYIeELZrJe9Nds0BVN6+D7Dkti9WB4+twHm1xwR+ulZHUyIAypi1HQTSjTGmfv2+MUsjMzZhyqxxYQcH5jDtVTcGxj+9vES5sZmR3BhZv3Zg5YoG2nGGerbn+7OSLlQL1nowzzyXJY1g8QWRH+hLkH6kWrdNSWTJN3qnGT1E7TWsnUjSLdNizoh0TYP66iumFp4i1GaY+NdyRweRbpRRo80XBJhDxu4kwCmJWrtXtipWU3SnddB9MVcOw1FIDxGPYydyWqKcBzgjbHDLfSUFyNR011JKSl0NSnABFU1ONt0ohDVNbX3NJzbPWSnmAWJ9Qtq1a2WI2oKN/zVewgVqFMA1AsSmQ3Go17ROH1OBiSvp9B4m81ClCXMctW3DUDo8tEKnq8CR15qckdmhFRfJCIRAn5VGON5uuncMm4/9GDSnZb/MAbyws3fr2UP6NLyN2eidlwGqLFAO2zZ5ZpLr1Kee+hb19aQMvCQVaDsCSWUR7nGwBWZGPPXn92jZNSd5LTakRqw==;8I70xM57hniy55eQUUOdYQ=="
 ---

@@ -1,8 +1,8 @@
 ---
 category: news
 title: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform"
-excerpt: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire"
-publishedDateTime: 2022-10-10T15:00:00Z
+excerpt: "Affordable Live Translation Solutions to Bridge Global Language Gaps Will Be Showcased ... the leading provider of AI-powered translation services, announced the launch of on-demand Transcript ..."
+publishedDateTime: 2022-10-10T11:01:00Z
 originalUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
 webUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
 type: article
@@ -19,6 +19,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "xVO30qWtgH5qpPnSkXTLO4qqsDvDFd73g2PpKDsshnRdRD4qrhLzLx3onu8JwCkqkeQflmCPj3RJXtktPYYZxa8g2M4UvppZK5YZjTIPYBUijqPQ8N3NrRV5HVl/8eafp+K5kY9CcD6TEJ/oqMNsGssAJf+5Fxi42AWUlQSL14CenZpOBplQV3bYhcNmCj+AVnQ1aVtvlYRyzlIPHDkrcuaf4aU7XnXuh8db4+LIhUGL0jTlPnO1Ot8CHNAWyHGHRUGLSzM/aQqvHtk84eMbxpCdSskAU19GmOHwbXbjUZlMg3aup07X7yu5cCRMBS6e1PVBpfuLHOP34Jp1cRi5UGC5w/pdZt3JlrJXkYg5pEI=;UfwSWdWGOMZx1m/RKqidMA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "+ZXJMtCP8ygXUGmhB3Gqo6Gj7eX50tXyOgNhbeaPI8pM4hWbcyaSS+OgSu2XR9duG1yNbeV9Dg08jhXSm1qzmNCczq/7ybMFByp57UG1cXPsewEg62CHkoHRAZRAheoYVLyRe+9KFj9gcJXC28iQjuZ8FNEYQ2ntX/Nmz2GGf1i45frss7xHvuirIgEFr0CmQ8iXbVSJqMa4aMIH/AZabDWBRJgXMvpnO2NAks/ZXo6L9ywn/k2EeA10jhEH2h6Z8XVyu523nMwPnMDMtqvOkHqEGalMmhowKPTd1q/lZCBnoKwkGpvz7tr3bchX+8WChH0ysmhFXr4e5UmLG2UvC/rtO1LuVLU5kNsVEIofgVc=;QCTzWhylcqoBS0mTukG1bw=="
 ---
 

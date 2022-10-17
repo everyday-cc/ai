@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-13T23:00:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
 webUrl: "https://markets.businessinsider.com/news/stocks/apptest-ai-proves-efficacy-with-fully-autonomous-mobile-and-web-testing-1031804543"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Business Insider

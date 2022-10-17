@@ -59,20 +59,6 @@ related:
         width: 1920
         height: 1275
         isCached: true
-  - title: "AI language models show bias against people with disabilities: Study"
-    excerpt: "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications"
-    publishedDateTime: 2022-10-14T03:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 39
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1665719039.jpg"
-        width: 630
-        height: 420
-        isCached: true
   - title: "AI language tools discriminate against disabled people, study suggests"
     excerpt: "Many artificial intelligence (AI) algorithms commonly used in natural-language processing contain biases against people with disabilities, a study has claimed."
     publishedDateTime: 2022-10-14T16:06:00Z
@@ -115,6 +101,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI language models show bias against people with disabilities: Study"
+    excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
+    publishedDateTime: 2022-10-14T15:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "8gec5zbyyNtjjz90QXx7r3Gdk+NmN7P9+9mdpFtPJeoeeuChhSPv+lTsJa7aYi6TgUmiePVHdT1kxgMYWxtS3PcScKHel7plcPv1LiJ9KHRbuQ6Iz3blpeX6x5ADjyOmjcrlTdlSYN0SneI6e608HzF8kGbrPERvxgmcm9MH9zMBLVLnq4mJE0PMVZ+3iG5T/cK4JoLjf+0Iepu3BL7KDIoBxoX8eb/wB8nxyvZFXbAlRs96wgs2tNq41DsfRJIF1ZBvAMF6BcM+Bo8g11f7XcZI2hyeL3NoieXsXD4kBh43v77MLe0AGedh4b3z6fZ9YyvJ2DaEEA8LRvyiamzO/ve6PYbQ/bgz4CkCg7PxiJOToLFMijzBlN0DWsoIRLdrIUv2LKu3jhLDdLAzmV4KU3mJQCJXEhA4FDASVB7OP0TMy6mRMwAVVwGS24fFLBOo2hvRcmh3ITOJ++JRUGxkatmTulWhcjnP/T/o/0jZL7Drne/ttmsluiyrkfO1gozKD3JdWDi3mRiJALj1sHfm/Q==;oHIdt5tFM9Z0Sgn6/QICSw=="
 ---

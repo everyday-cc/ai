@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T13:00:11Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/real-estate-brokerage-firm-john-l-scott-uses-amazon-textract-to-strike-racially-restrictive-language-from-property-deeds-for-homeowners/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/real-estate-brokerage-firm-john-l-scott-uses-amazon-textract-to-strike-racially-restrictive-language-from-property-deeds-for-homeowners/"
 type: article
+quality: 53
+heat: 53
+published: false
 
 provider:
   name: AWS

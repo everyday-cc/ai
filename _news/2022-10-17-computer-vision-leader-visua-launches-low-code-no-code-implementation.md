@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T13:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29288265/computer-vision-leader-visua-launches-low-code-no-code-implementation"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29288265/computer-vision-leader-visua-launches-low-code-no-code-implementation"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

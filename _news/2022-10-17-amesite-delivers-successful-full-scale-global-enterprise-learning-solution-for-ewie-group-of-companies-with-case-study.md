@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T11:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29285114/amesite-delivers-successful-full-scale-global-enterprise-learning-solution-for-ewie-group-of-compa"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29285114/amesite-delivers-successful-full-scale-global-enterprise-learning-solution-for-ewie-group-of-compa"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T12:56:00Z
 originalUrl: "https://stratechery.com/2022/more-on-the-china-chip-ban-the-ai-focus-apple-and-ymtc/"
 webUrl: "https://stratechery.com/2022/more-on-the-china-chip-ban-the-ai-focus-apple-and-ymtc/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Stratechery

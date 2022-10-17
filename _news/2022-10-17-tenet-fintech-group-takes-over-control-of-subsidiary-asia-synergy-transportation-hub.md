@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T11:58:00Z
 originalUrl: "https://www.proactiveinvestors.com/companies/news/995558/tenet-fintech-group-takes-over-control-of-subsidiary-asia-synergy-transportation-hub-995558.html"
 webUrl: "https://www.proactiveinvestors.com/companies/news/995558/tenet-fintech-group-takes-over-control-of-subsidiary-asia-synergy-transportation-hub-995558.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Proactiveinvestors

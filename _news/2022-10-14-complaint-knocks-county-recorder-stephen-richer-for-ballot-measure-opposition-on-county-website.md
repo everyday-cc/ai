@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-14T00:11:00Z
 originalUrl: "https://www.usatoday.com/story/news/politics/elections/2022/10/13/maricopa-county-recorder-stephen-richer-complaint-website-prop-309/10488894002/"
 webUrl: "https://www.usatoday.com/story/news/politics/elections/2022/10/13/maricopa-county-recorder-stephen-richer-complaint-website-prop-309/10488894002/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: USA Today

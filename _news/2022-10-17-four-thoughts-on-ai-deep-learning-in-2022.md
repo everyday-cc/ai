@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/"
 ampWebUrl: "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/"
 type: article
-quality: 104
-heat: 114
+quality: 106
+heat: 116
 published: true
 
 provider:

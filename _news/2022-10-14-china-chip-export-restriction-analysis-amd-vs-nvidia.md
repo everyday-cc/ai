@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia not cutting it? Google and Amazon’s latest AI chips have arrived"
-    excerpt: "Kicking things off with Amazon, the cloud provider's Trainium chips are now generally available on AWS. First previewed at AWS re:Invent last year, Amazon's Trainium-powered Trn1n instances are designed to train large machine-learning models,"
-    publishedDateTime: 2022-10-12T19:14:00Z
-    webUrl: "https://www.theregister.com/2022/10/11/google_amazon_ai_chips_nvidia/?td=rt-9cp"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/10/11/google_amazon_ai_chips_nvidia/"
+  - title: "AI Accelerator Chip Market Shows Enormous Growth with Leading Players like Nvidia, Cadence, AMD, Intel"
+    excerpt: "The Global AI Accelerator Chip Market Report studies extensive evaluation of the market growth predictions and"
+    publishedDateTime: 2022-10-13T08:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-shows-enormous-growth-with-leading-players-like-nvidia-cadence-amd-intel-2022-10-13"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
     images:
-      - url: "https://regmedia.co.uk/2021/01/12/shutterstock_ai_chip.jpg"
-        width: 1000
-        height: 667
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "78WVhvIPuiVcyBvwG1iSJ/3SLGu84FIOjPdHcADu8yGBnCffORjDx01mHWFttlhc52kphoI57la4vIiBAIxzkINXO1ASSKhQ2gDZH9yjYwTCIFsbwCiU6hHlCRUGIo4ypYU8B1CjvlSjD6xzWRqMDBepkuTWmj+Ql/R6+eXrNXbiPw5zQ0lF7dlUKr8guXXKnxPoNMY1YiMf10xNAfIO2XXAJupFZknOLFHcZcFq4RDfsFJOYLS4RYx6FqGgkddA4iRscRRo7iF74yasSaMXf/sRxGarnDBsTUJVobIFiaeiZ2URITW2AzT65K/Y2S21SOttYK1eE19RMhjouU6bQnLBrE3DOvuMwJ0dX2GHE9evll1hn+h/PC3P98rrz7CH+g3AsL9RnPmOXU7evBbhkPItOUjOrcbek/GAMov8aeJW3bvvpdNoSjfBAHEXgby95vmrXYUt/5gJQN5f0z2/+EEO2+shgVejIEYYpX852yqAtTpNvj/ITnBs1077Ean2/9z/9gx1XtQBaM1xIev1yg==;a9n1nYIF/7AGJw+V6SqBRg=="

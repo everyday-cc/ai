@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-17-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai.md",
-      "title": "Artificial intelligence is being asked to predict the future of AI",
-      "excerpt": "Artificial intelligence model predictions from historical data on how AI research would develop over five years matched reality with more than 99 per cent accuracy – soon they will be asked what comes",
+      "path": "_news/2022-10-17-stability-ai-announces-101-million-in-funding-for-open-source-artificial-intelligence.md",
+      "title": "Stability AI Announces $101 Million in Funding for Open-Source Artificial Intelligence",
+      "excerpt": "Top open-source investors Coatue and Lightspeed Venture Partners back the only independent multimodal AI company in oversubscribed roundLONDON",
       "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342632-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai/",
-      "originalUrl": "https://www.newscientist.com/article/2342632-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stability-ai-announces-101-million-in-funding-for-open-source-artificial-intelligence-1031810521",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stability-ai-announces-101-million-in-funding-for-open-source-artificial-intelligence-1031810521",
       "featuredContent": null,
       "highlight": null,
-      "heat": 82,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg",
-          "width": 1200,
-          "height": 800,
+          "url": "https://mma.prnewswire.com/media/1921903/Stability_AI_Product_DreamStudio.jpg",
+          "width": 400,
+          "height": 231,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,12 +26,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T04:36:00-07:00",
+      "publishedDateTime": "2022-10-17T08:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -44,6 +53,144 @@
       ]
     },
     {
+      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
+      "title": "Ambi Robotics Raises $32M in Funding",
+      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
+      "title": "The Chip War With China Is Just Getting Started",
+      "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
+      "originalUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/",
+      "publishedDateTime": "2022-10-17T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-new-isbn-publication-artificial-intelligence-and-education.md",
+      "title": "New ISBN publication - ARTIFICIAL INTELLIGENCE AND EDUCATION",
+      "excerpt": "Artificial intelligence (Al) is increasingly having an impact on education, bringing opportunities as well as numerous challenges. These observations were noted by the Council of Europe’s Committee of Ministers in 2019 and led to the commissioning of this report, which sets out to examine the connections between Al and education (AI&ED). In particular, the report presents an overview of AI&ED seen through the lens of the Council of Europe values of human rights, democracy and the rule of law; and it provides a critical analysis of the academic evidence and the myths and hype. The Covid-19 pandemic school shutdowns triggered a rushed adoption of educational technology, which increasingly includes AI-assisted classrooms tools (AIED). This AIED, which by definition is designed to influence child development, also impacts on critical issues such as privacy, agency and human dignity – all of which are yet to be fully explored and addressed. But AI&ED is not only about teaching and learning with AI, but also teaching and learning about AI (AI literacy), addressing both the technological dimension and the often-forgotten human dimension of AI. The report concludes with a provisional needs analysis – the aim being to stimulate further critical debate by the Council of Europe’s member states and other stakeholders and to ensure that education systems respond both proactively and effectively to the numerous opportunities and challenges introduced by AI&ED.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coe.int/en/web/education/-/new-isbn-publication-artificial-intelligence-and-education",
+      "originalUrl": "https://www.coe.int/en/web/education/-/new-isbn-publication-artificial-intelligence-and-education",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.coe.int:443/documents/21202288/22594234/PREMS+092922+GBR+2517+Artificial+Intelligence+education++9236+COUV+16x24+prov+web.jpg/c5050695-7dbb-59ae-0f58-1ff0f6816d0f?t=1666012540000",
+          "width": 489,
+          "height": 734,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Council of Europe",
+        "domain": "coe.int",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
       "title": "Four thoughts on AI deep learning in 2022",
       "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
@@ -52,7 +199,7 @@
       "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -92,7 +239,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "Google AI"
       ]
     },
     {
@@ -104,7 +252,7 @@
       "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -254,7 +402,7 @@
       "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -599,7 +747,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -956,7 +1104,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-top-key-players-profile-and-forecast-to-2028-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 156,
       "tags": null,
       "images": [
         {
@@ -1101,143 +1249,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-mathematician-on-ai-dystopia-and-human-superiority-over-machines.md",
-      "title": "Mathematician on AI Dystopia and Human Superiority Over Machines",
-      "excerpt": "Junaid Mubeen, a research mathematician turned educator and author of Mathematical Intelligence: A Story of Human Superiority Over Machines, which will be published November 1, told Newsweek one of the reasons he wrote the book was that AI has generated significant amounts of publicity recently.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/mathematician-ai-dystopia-human-superiority-over-machines-1751829",
-      "originalUrl": "https://www.newsweek.com/mathematician-ai-dystopia-human-superiority-over-machines-1751829",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2133979/robot-arm-holding-human-skull.jpg",
-          "width": 2787,
-          "height": 1851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/mathematician-ai-dystopia-human-superiority-over-machines-1751829?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/mathematician-ai-dystopia-human-superiority-over-machines-1751829?amp=1",
-      "publishedDateTime": "2022-10-14T04:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between.md",
-      "title": "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between",
-      "excerpt": "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "originalUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "publishedDateTime": "2022-10-14T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities.md",
-      "title": "AI language models show bias against people with disabilities",
-      "excerpt": "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl..",
-      "sourceUrl": null,
-      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
-      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94855381,imgsize-23140,width-1200,height-628,overlay-etcio/ai-language-models-show-bias-against-people-with-disabilities.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
-      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
-      "publishedDateTime": "2022-10-14T02:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cio.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

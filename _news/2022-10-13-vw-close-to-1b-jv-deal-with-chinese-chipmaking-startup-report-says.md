@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "VW unveils €2.4bn venture with Chinese AI chip specialist"
-    excerpt: "Volkswagen plans to invest €2.4bn in a joint venture with one of China’s leading designers of artificial intelligence chips, as the carmaker bets on AI-assisted and driverless cars as a way to retain share in its biggest market."
-    publishedDateTime: 2022-10-13T12:17:00Z
-    webUrl: "https://www.ft.com/content/edc1fbce-b7af-44a8-aea4-27cd22a6578f"
+  - title: "The Chip War With China Is Just Getting Started"
+    excerpt: "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,"
+    publishedDateTime: 2022-10-17T14:40:00Z
+    webUrl: "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/"
+    ampWebUrl: "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/634d644194ab28271ead84e5/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "CIvzsMupzkjNXpd5Z9073G+FAA4AUJCGAtT8RUPU6Cwnt8NS+T84uAu5U2+IeuRnYfI4Qqd1RDa70jel2rJgkj0e3/Uz3KzA3N7khh3r3ICjJwdVQU60yvrEP/8seg6UVSXhWTXEyVjnqfZv5mRvdBtAPGhH7cYitSOTi5W7rSAUHkCwrF2fVKj3NZox8Wqea9tZC8sf9OIb/kNxqV3KBsShXPck22ITgqUF2FxclrZlehTGMfQ3EWRmcd+BfXz2qpcumrQdHrOoL+fKO+uMXyhPPCm8Vrjhm8x5DtxooyNeRKZf4SAOZifvlTsDZBbKxGVrdzw8Nje4qF0v9d5jMTmXnlopiCMyGylGp/auIxQ=;57vk5KKP0vOzoeS05eyV1w=="
 ---

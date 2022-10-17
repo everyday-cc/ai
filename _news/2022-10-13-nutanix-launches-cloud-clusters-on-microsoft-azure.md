@@ -25,49 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+  - title: "Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates"
+    excerpt: "Microsoft on Wednesday kicked off its annual Ignite conference with multiple updates to Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos ..."
+    publishedDateTime: 2022-10-13T12:41:00Z
+    webUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html"
+    ampWebUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 103
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70"
         width: 1200
-        height: 630
+        height: 800
         isCached: true
-  - title: "Microsoft will launch an AI graphics app powered by DALL•E"
-    excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
-    publishedDateTime: 2022-10-13T19:46:00Z
-    webUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/"
-    ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
-    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
+  - title: "Top 16 Microsoft Azure certifications to expedite your IT career"
+    excerpt: "Here are 16 role-based Azure certifications that will give you an in-depth understanding of the skills and knowledge required to elevate your IT career using Microsoft’s cloud."
+    publishedDateTime: 2022-10-17T10:00:00Z
+    webUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html"
+    ampWebUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
     type: article
     provider:
-      name: archpaper
-      domain: archpaper.com
+      name: CIO
+      domain: cio.com
     quality: 74
     images:
-      - url: "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg"
+      - url: "https://www.cio.com/wp-content/uploads/2022/10/shutterstock_2048828078-08.12.21-it-certifications-grow-in-pay-reversing-a-three-year-downward-trend-david-foote-100912983-orig.jpg?quality=50&strip=all&w=1024"
         width: 1024
-        height: 683
-        isCached: true
-  - title: "Microsoft's Seeing AI app can scan the boxes of Advil, Theraflu and more to read out details"
-    excerpt: "Microsoft's free iOS app will read out detailed information of products like Advil, Theraflu, Excedrin and more, so those with visual impairments can more easily learn about them.."
-    publishedDateTime: 2022-10-12T23:35:00Z
-    webUrl: "https://www.engadget.com/microsoft-seeing-ai-app-scan-read-out-drug-haleon-accessibility-230047595.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 73
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/f89d2270-4a75-11ed-99fb-4fd7cb360f36"
-        width: 2056
-        height: 1371
+        height: 682
         isCached: true
   - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
     excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
@@ -83,19 +71,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
-    excerpt: "Nutanix (NASDAQ: NTNX ), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
-    publishedDateTime: 2022-10-12T20:30:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/12/9691533.htm"
+  - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
+    excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
+    publishedDateTime: 2022-10-14T20:42:00Z
+    webUrl: "https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Dark Reading
+      domain: darkreading.com
     quality: 54
     images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
+      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt441ad442689eef67/6349c98656714a6f890cb9f1/azure-tofino-alamy.jpg"
+        width: 7360
+        height: 4134
         isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
@@ -110,20 +98,6 @@ related:
       - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
         width: 610
         height: 354
-        isCached: true
-  - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
-    excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
-    publishedDateTime: 2022-10-13T08:38:00Z
-    webUrl: "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/"
-    type: article
-    provider:
-      name: Cloud Computing
-      domain: cloudcomputing-news.net
-    quality: 51
-    images:
-      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock_microsoft35757.jpg"
-        width: 1024
-        height: 506
         isCached: true
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
@@ -148,43 +122,6 @@ related:
         width: 1152
         height: 768
         isCached: true
-  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
-    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
-    publishedDateTime: 2022-10-14T01:06:00Z
-    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 47
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
-  - title: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications"
-    excerpt: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications - SiliconANGLE"
-    publishedDateTime: 2022-10-12T20:10:00Z
-    webUrl: "https://siliconangle.com/2022/10/12/nutanix-microsoft-partner-simplify-infrastructure-deployment-management-support-modern-applications-nutanixhybridcloud/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 18
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Thomas-Cornely-Indu-Keri-Eric-Lockard-Nutanix-Accelerate-Hybrid-Cloud-2022.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
-    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
-    publishedDateTime: 2022-10-14T10:10:00Z
-    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
 
 secured: "OaCjv99EH0PGP1xf+fQ9bbk80OVEoQwRxXYHU7Teqr3/jeZcl1JknMNtOXbdgx627zm9BzlOQ+fykytYHgQ+0FcSHnAZTyZpWPEqiEq3LOm4lrjagoWXLRdy6yxkTKy+cJCL9NKKV4RnF9vTA4gCtEBGGXZZkkacUYASYrrwYfroBweZYNSOMK3Nen2toyPoi3Rhvdw7Z8iYBXu/5dfMd42c/keK8puTv3IksLh9IPFvc8mvayayKRdYckSy0PJGOVRusSdP5v0AyEXnkWXkb5Pv10DHlo0zFQe8hHw4tARHyEg+l+xnBo1ey+Y2PQg5q8KrrNoUL6QZ6RF93S5Htc8IwHZdrwl1cA+KwjzMVf4xwE6CCJBlkvsFuEU96gR8IzBCoV4qxWKbCutiUny9m1w2swyc99zO3L8FH8vCkHMIrAins8swQS7La9GmlaZkwzSLfCYryodZXx+145ni8uUkMSUmYbMPTpekCztEf/l2VQmbMzwGWh52W1vY9VeSXqJf3nzyP/Al7XdGxHzxlQ==;Ut4a69xsUyRGtM3JuaHcLA=="
 ---
