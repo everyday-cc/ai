@@ -64,15 +64,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
-    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2022-10-14T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
   - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
     excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
     publishedDateTime: 2022-10-13T12:19:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-13"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -29,15 +29,61 @@ images:
     isCached: true
 
 related:
-  - title: "Mobile Speech Recognition Software Market Overview 2022 to 2030, Future Trends and Forecast | By -Apple, Nuance Communications, Alphabet"
-    excerpt: "The research on the Mobile Speech Recognition Software market provides a complete picture of future requests and significant entryways that will be beneficial for market participants and people. The industry value and growth rate are assessed in this study taking into account both the primary market constituents and additional driving forces."
-    publishedDateTime: 2022-10-13T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-speech-recognition-software-market-overview-2022-to-2030-future-trends-and-forecast-by--apple-nuance-communications-alphabet-2022-10-13"
+  - title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
+    excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
+    publishedDateTime: 2022-10-14T14:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 16
+    quality: 83
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027"
+    excerpt: "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal."
+    publishedDateTime: 2022-10-13T19:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+  - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
+    excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
+    publishedDateTime: 2022-10-14T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
+    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2022-10-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
+  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
+    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-14T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "IPgiRrrP6FArvU3IrkBNGYeJuWDzqt9Yuibd//HDFngfbuoxCYcABB6oTnJINI2gEVvtiqq//w+LFGRPv5MRtRUwhT0gUDKLX2avfKgaFOEfVKSubQ+15rTw75VZWd3Atqzg0smRWiIf5UvGAFffp5hldcwchtln87C07ndw9IQ0wgX+v3JgSaVkZFX4clEqSINJj+xt+7eZsBB5ttPuWbVE7z7jBSR/rLdI6yDFJPphkuQ5BjG75y2VQ83jM4jaUYF6wZTWxkKnzbOBAkIQHdpKm9SqK87PacPlE91Fwf1DVbrkq0IsDpgtm8c7QUU7BeQfxhd8SXveA/NrLtJlIezpvuT9APnl3SrYkiS5KPo=;4gin/qt0mZe09cutWILFag=="
 ---

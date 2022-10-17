@@ -32,34 +32,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Voice Recognition Software Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 120 Pages Report"
-    excerpt: "Global “ Voice Recognition Software Market \" Report is a detailed and comprehensive analysis for global Door and Voice Recognition Software market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-13T05:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-120-pages-report-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
-    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-14T03:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "6VJ+6rjcaCwgBmSyEm3rKhytUX8dr9bywxsojm+o9R45CoG1bcguEYP5RSNcERjBhi/2jC6kl/1KVa5GAAPGB0yAK0SpMLalXDvH1/GeGmeYRQ/en/fYLbmGj6nL1Jxg2sgHMVStclsoOkgoodrt5HW2ri9SY0CRtPvotuw4fMSXZLmbr/flX+5HDPSp0BliFoLDO9J1v/3kwfK6Prtc//Jmwp57I4l6ckt/A2mQOApG/euTJP0GCYohj4VW+HkftUCSl4VjEsgdDFPQn/Y/rSjBjGIZG7RQ8I2kz32AyzAxrf9Ij0uAXf3lOeJiOfx0JHXylDfo3K9xRtBYb5M7wNklb7DEXqMN4J4FOYtXIrU=;YFoLgDxGdVrjiZm/l3BiZA=="
 ---

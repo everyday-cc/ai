@@ -33,6 +33,15 @@ related:
         width: 1800
         height: 1011
         isCached: true
+  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
+    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
+    publishedDateTime: 2022-10-15T12:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "Guidewire Rises to No. 26 in 2022 IDC FinTech Rankings by IDC Financial Insights"
     excerpt: "Guidewire (NYSE: GWRE) announced it has ranked number 26 out of 100 on the 2022 IDC FinTech Rankings, making an appearance on the list for the second consecutive year and climbing from its previous position."
     publishedDateTime: 2022-10-14T12:48:00Z

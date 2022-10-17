@@ -51,6 +51,20 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 17
+  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
+    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
+    publishedDateTime: 2022-10-13T07:34:00Z
+    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 17
+    images:
+      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "gIbq6npquWbCyV9c8gRz4SBqqojeFQPGm6LA9WAFm+BG0faZPBssnsmDQveib8+aqsoZ26ZhY++F96pcu+WzblkdKt0AhNBO6uZXvYi1q6EX4RTNQiRGMRKqeXVqYWAwQQVg5VWi3g8pgS4qecLZwAhG3gbt6z8iLV64FcRHDUGr8davIPuFPNse54u3IgQXTbGN+ekhq5YTyZScLZ8fJ5FGxxxmc0AqekQ/zA6qTVR9Zh0CJ+PpFSgWK9dqhwT6/8oGoEs+A3G7w3qIC7O5C7BkyyrR7k5m9BZcA5gJX82H5f7+xAoHjnb03PcVX2Xs0PhTmCBXZ+4DUmWFiXvL7tXKmjbrfejEAAY77xj5w3U5cXP7qg+2YX9tbAvmByvgxdJ7IxM/G9ahuUWO77vhSIERMZ+gGojjdL3H2lCRBxcpMiSnaJ48kk3A+rZ3ufNJEvACP8sHabR/cPsyxaQ0wxO+N2hQA6J9W8dAn/JHKsWik+sCq5sk+/AMw5xUV1SBhmCZor1LA4LsudC2Hmg/JQ==;t+IAtqlhyBMJXHYQYuaJng=="
 ---

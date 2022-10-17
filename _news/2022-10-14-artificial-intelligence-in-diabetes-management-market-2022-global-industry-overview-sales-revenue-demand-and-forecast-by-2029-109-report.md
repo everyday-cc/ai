@@ -23,66 +23,66 @@ topics:
   - AI in Sales
 
 related:
-  - title: "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
-    excerpt: "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976."
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
+  - title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
+    excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
+    publishedDateTime: 2022-10-14T14:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotics Market Research Report 2022-2027: Top Companies (ABB Group, KUKA AG, FANUC Corporation)"
-    excerpt: "Robotics Market IMARC Group expects the global robotics market to reach US$ 87.2 Billion by 2027, exhibiting a CAGR of 17.6% during 2022-"
-    publishedDateTime: 2022-10-15T05:23:00Z
-    webUrl: "https://menafn.com/1105024393/Robotics-Market-Research-Report-2022-2027-Top-Companies-ABB-Group-KUKA-AG-FANUC-Corporation"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 41
-    images:
-      - url: "https://menafn.com/updates/pr/2022-10/15/EP_d57b6image_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Image Recognition Technology Market Business overview 2022, and Forecast to 2030 | By -Amazon Web Services, IBM Corporation, Imagga Technologies"
-    excerpt: "Download Sample Image Recognition Technology Market Report 2022 to 2030 here: The Worldwide Image Recognition Technology market size is estimated to be worth USD million in 2022 and is forecast to a readjusted size of USD million by 2030 with a CAGR of % during the review period."
-    publishedDateTime: 2022-10-13T04:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/image-recognition-technology-market-business-overview-2022-and-forecast-to-2030-by--amazon-web-services-ibm-corporation-imagga-technologies-2022-10-13"
+  - title: "Natural Language Processing (NLP) Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
+    excerpt: "One of the industries that is growing the quickest is the \"Natural Language Processing (NLP) Market,\" hence it is essential for market participants to do a thorough study of the industry beforehand. According to the study,"
+    publishedDateTime: 2022-10-13T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 34
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
-    publishedDateTime: 2022-10-14T04:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2029-103-pages-report-2022-10-14"
+  - title: "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027"
+    excerpt: "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal."
+    publishedDateTime: 2022-10-13T19:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 10
-  - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
-    excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
-    publishedDateTime: 2022-10-13T12:19:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
+    quality: 56
+  - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
+    excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
+    publishedDateTime: 2022-10-14T08:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-2022-10-14"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
+    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-14T09:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "3NLIkptVt4BJrFaOrngQ47QJ1eyf9bb1wZlmxMzdNhmNM25u5y7P+K5WBpH2aigJ5B8IagrJYpd01bvSTgtGCdiz4w7ZJSDvAXWd+rJNRQdk0h0CINM1gGw4rGt8hISXQr/9ItEH6jLxong6SA2MNep87G48SoWnxOL1vCZswGzUr0yrmxW02VnToZEXKR7YBeoRDuH/X5C9TTUYaP3z+UBmttp240mCtRH11Ujm7QZ+BkC/IANt6v9wyKi3Lzx7yp9QshoS+nYeCfPCh1yuj3/2PtS1jiW6fseWhWjbwkIBmyTtakooPjBPOxwTRT1QAvs4YlJktnvRWYRz3dtS5vHX+tLhk1aC/cXeijRDNTQ=;K/WlIiByXxA50gw/1k4XUQ=="
 ---

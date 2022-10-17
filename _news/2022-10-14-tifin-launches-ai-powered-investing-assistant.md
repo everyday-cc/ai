@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/94454/tifin-launches-ai-powe
 webUrl: "https://www.finextra.com/pressarticle/94454/tifin-launches-ai-powered-investing-assistant"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+related:
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
+        isCached: true
 
 secured: "ciHAQgs1f5cilhKPxx4247/6dsMa+oHPRRplwZvVvLisVZ353FZ0WGH9Duetkg8AyyXYzxbKxhMXrbudzwNN4FTOfmpLHuah4RIX40wAxUPz+F+yp4aYK9tj8wn1Llv5TrMDR7KE25D5bcx41QOYm2XGge9kTU3s3W4DRMR4StbXiY3QqekWUbFL6vS0GnY4Rq7fJiwMVfGptdR4U/jk+mv98pEbk+1+l+R0AtcKDkODhelhvzASv8dUnHNxuiRlAbLfhM97rUEzun0lcj2ahcg4xmyUqPZERyRmMV+QkbAzPA+URIfwA/tGB+qB/aqsqZtl7WElwnoxJZshffanXDkQ/p11OdJCWGrR+XfPOGE=;jGCjWZLySM9HiHW/9Irhkw=="
 ---

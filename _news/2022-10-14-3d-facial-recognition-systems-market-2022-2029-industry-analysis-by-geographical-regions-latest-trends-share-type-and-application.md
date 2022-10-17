@@ -23,48 +23,43 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
+  - title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
+    excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
+    publishedDateTime: 2022-10-14T14:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
+  - title: "Natural Language Processing (NLP) Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
+    excerpt: "One of the industries that is growing the quickest is the \"Natural Language Processing (NLP) Market,\" hence it is essential for market participants to do a thorough study of the industry beforehand. According to the study,"
+    publishedDateTime: 2022-10-13T16:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 59
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
-    publishedDateTime: 2022-10-13T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-13"
+  - title: "North America Artificial Intelligence (AI) in Healthcare Market Industry Overview and Competitive Landscape till 2027"
+    excerpt: "Business market insights report Global North America Artificial Intelligence (AI) in Healthcare Market Market Research and Forecast Report 2022-2030 furnishes a market examination complete with a quantitative and subjective appraisal."
+    publishedDateTime: 2022-10-13T19:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-ai-in-healthcare-market-industry-overview-and-competitive-landscape-till-2027-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 56
   - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
     excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-10-14T08:17:00Z
@@ -79,6 +74,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
+    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
+    publishedDateTime: 2022-10-14T10:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "AdtuExhxt8rfUUIT9SIkSU+30IVfyaxW3BcZ7w/xKytzP4KErX6YJ7C0jb+DBepWrDLo1cwGiA+qci5tvTv0P1xkDM7/1sxRVuwedZQ9/+BbdgAszdeMuDSnwbNXuGU2FwwoSf19iZDcywUNaEb3myNFftXSuw3QCjXwNRTBptIJ68YUzYWFaU6Qb9RZh2Mu/on/mlI2gFO0+tzHJhuOliLbJNtoEYo/W1fQ4MKP00HaIKkXdLGvIjHck0uw8nOlAI5tY5LOB9VHtUjtf/LMr6/aTPBL22/1mO2QwJ5G0Lo2Vilfs8glSBEZ77iWl/VP2l2afX7kc8nRmwEnQQwuSkluUjvbNCow5QAggPMipDY=;MCn4CzGtNtiMvEjAZebdCg=="
 ---

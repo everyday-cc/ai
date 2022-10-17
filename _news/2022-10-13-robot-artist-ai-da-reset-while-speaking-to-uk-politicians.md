@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-pa
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
 type: article
 quality: 104
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -76,20 +76,6 @@ related:
       - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
         width: 1600
         height: 1067
-        isCached: true
-  - title: "Ai-Da makes history after becoming the first robot to be grilled by UK's House of Lords"
-    excerpt: "The team behind Ai-Da hopes that the robot will provoke discussions about the future of artificial intelligence and robotics. Ai-Da is the first robot ever to appear before the UK's House of Lords ..."
-    publishedDateTime: 2022-10-12T15:51:00Z
-    webUrl: "https://www.euronews.com/next/2022/10/12/ai-da-makes-history-after-becoming-the-first-robot-to-be-grilled-by-uks-house-of-lords"
-    type: article
-    provider:
-      name: Euronews
-      domain: euronews.com
-    quality: 46
-    images:
-      - url: "https://static.euronews.com/articles/stories/07/10/95/54/1000x563_cmsv2_4676b2aa-aee8-5a43-86d7-107906179ae1-7109554.jpg"
-        width: 1000
-        height: 563
         isCached: true
 
 secured: "MQeeSnsB3Xwhi/YW4FxCgJtQ+6SlLfFba08VUwFt+XSTa/dpXy3Arg4Nr/SySYg2R5Hy7KoHT6kMISGT7Fa/+X1zm5oZPniHQdnH5eKx2fnaeAxCC1bVYu5aUf5cncG0WXnWxo9HHprDEXg2MmP5vW2JOiLHE3Y4pL3y16yuZM7mhJJiclNzoopTwG0KTBXeWFenkbfiMxmyg1vd2E2Hzv38NQpxpDMsnd6wOamiT17SDDZ5mQJj5qlukRa8vsuo0Ll0z/YTkuqru98HQLRtqlvCJtcaNWc9TgAGa9d20B81vPKWh/AlTADcxNK77grMDUxL2SIDmceWNOFQzgA0vo16jreo/S5odeq93yUgcAE=;EBvUkL2nRraJ701Aourz8Q=="

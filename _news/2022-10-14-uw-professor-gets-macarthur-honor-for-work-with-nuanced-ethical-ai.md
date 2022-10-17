@@ -7,8 +7,8 @@ originalUrl: "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-wor
 webUrl: "https://kuow.org/stories/uw-professor-gets-macarthur-honor-for-work-with-nuanced-ethical-ai"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: KUOW
@@ -26,17 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UW computer science professor wins MacArthur ‘genius grant’"
-    excerpt: "The professor conducts research in natural language processing and joins 13 other UW professors who have been named MacArthur fellows."
-    publishedDateTime: 2022-10-12T16:42:00Z
-    webUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/"
-    ampWebUrl: "https://www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/seattle-news/uw-computer-science-professor-wins-macarthur-genius-grant/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 24
   - title: "Professor Wins Genius Grant for AI to Learn Implied Meanings"
     excerpt: "University of Washington professor Yejin Choi will use a grant from the MacArthur Foundation to develop artificial intelligence systems that can detect sentiment or deceptive intent in writing."
     publishedDateTime: 2022-10-13T19:56:00Z

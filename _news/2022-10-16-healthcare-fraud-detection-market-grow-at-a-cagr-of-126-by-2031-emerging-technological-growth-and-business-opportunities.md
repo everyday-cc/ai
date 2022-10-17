@@ -47,34 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR Says, AMR"
-    excerpt: "Rise in need for smart homes & smart cities, advent of quantum computing, and surge in investments in AI startups drive the growth of the global artificial intelligence chip market. Allied Market ..."
-    publishedDateTime: 2022-10-12T15:20:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr-says-amr"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 53
-    images:
-      - url: "https://amarketplaceresearch.com/wp-content/uploads/2022/10/Artificial-Intelligence-Chip-Market.jpeg"
-        width: 790
-        height: 466
-        isCached: true
-  - title: "Report predicts 30% CAGR of AI in fintech market through 2028"
-    excerpt: "According to a new report published by UnivDatos Markets Insights, artificial intelligence in the fintech market is expected to grow at a compound annual growth rate (CAGR) of around 30% from 2022 through 2028."
-    publishedDateTime: 2022-10-12T15:36:00Z
-    webUrl: "https://www.autoremarketing.com/autofinjournal/report-predicts-30-percent-cagr-ai-fintech-market-through-2028"
-    type: article
-    provider:
-      name: Auto Remarketing
-      domain: autoremarketing.com
-    quality: 39
-    images:
-      - url: "https://www.autoremarketing.com/sites/default/files/artificial%20intelligence_12.jpg"
-        width: 877
-        height: 495
-        isCached: true
   - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
     excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
     publishedDateTime: 2022-10-14T06:41:00Z

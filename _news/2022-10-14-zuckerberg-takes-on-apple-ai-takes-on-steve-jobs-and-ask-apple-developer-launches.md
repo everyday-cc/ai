@@ -18,36 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Fake Joe Rogan and Steve Jobs AI-Powered Interview Freaks Out the Internet"
-    excerpt: "A recent episode of podcast.ai pairs Jobs with Joe Rogan, whose own podcast The Joe Rogan Experience has been a runaway success. \"Hello, freak b**ches,\" the fake Rogan said in opening. \"Welcome to another episode of The Bro Jogan Experience."
-    publishedDateTime: 2022-10-12T16:27:00Z
-    webUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275"
-    ampWebUrl: "https://www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fake-joe-rogan-steve-jobs-ai-powered-interview-freaks-out-internet-1751275?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 85
-    images:
-      - url: "https://d.newsweek.com/en/full/2132825/steve-jobs-joe-rogan-split-photo.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
-  - title: "I’ve been following a woman around the internet. Turns out she was created by artificial intelligence."
-    excerpt: "Deepfakes created by AI have taken an insidious new form. You've probably fallen for the scam already. But who's behind them?"
-    publishedDateTime: 2022-10-16T11:04:00Z
-    webUrl: "https://www.businessinsider.com/artificial-intelligence-albertina-geller-deepfake-gan-images-online-scams-2022-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 51
-    images:
-      - url: "https://i.insider.com/632b6b89dd40a400194ffc35?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Steve Jobs stars in Joe Rogan podcast thanks to artificial intelligence"
     excerpt: "Artificial Intelligence has created a fake episode of the Joe Rogan Experience with Steve Jobs - and the internet is divided."
     publishedDateTime: 2022-10-12T20:29:00Z

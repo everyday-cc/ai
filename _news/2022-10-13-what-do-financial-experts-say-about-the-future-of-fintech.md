@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
+    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
+    publishedDateTime: 2022-10-15T12:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 19
   - title: "8 Challenges Fintech Startups Should Be Ready to Face"
     excerpt: "Can Fintech change how traditional banks function?” “What effects will it have on the global economy in the long run?” “Can Fintech match the stability and reliability of traditional banking systems?” Most people have these questions when they first hear about fintech."
     publishedDateTime: 2022-10-13T12:17:00Z

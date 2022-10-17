@@ -19,57 +19,38 @@ topics:
   - AI
 
 related:
-  - title: "Buy 21,000 Shares of this Cutting Edge AI Sports Betting and Fintech Co!"
-    excerpt: "Dear Cashmere Holding Business (OTC: DRCR) is on its way to becoming Swifty Global, a high-tech company that delivers groundbreaking solutions for both the Fintech and Sports Betting sectors. My most recent recommendation to Wall Street Rebel readers was to sell short 4,"
-    publishedDateTime: 2022-10-12T16:05:00Z
-    webUrl: "https://wallstreetrebel.com/wsr/articles/buy_21_000_shares_of_this_cutting_edge_ai_sports_betting_and_fintech_co/2022-10-12-23-12-37.html"
+  - title: "What do financial experts say about the future of fintech?"
+    excerpt: "In the current economic climate, fintechs are facing a number of challenges. We asked eight industry experts their views on the future of fintech"
+    publishedDateTime: 2022-10-13T10:16:00Z
+    webUrl: "https://fintechmagazine.com/financial-services-finserv/what-do-financial-experts-say-about-the-future-of-fintech"
     type: article
     provider:
-      name: https//wallstreetrebel.com
-      domain: wallstreetrebel.com
-    quality: 38
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
     images:
-      - url: "https://wallstreetrebel.com/wsr/images/design3/wallstreetrebel.png"
-        width: 300
-        height: 204
+      - url: "https://assets.bizclikmedia.net/1800/e9764074ff5892ad74a968977442ccf9:d3ec1239073418cd8b11cf947fea4ca3/gettyimages-1272712379.jpg.jpg"
+        width: 1800
+        height: 1011
         isCached: true
-  - title: "Posts Tagged \"ethical AI fintech\""
-    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
-    publishedDateTime: 2022-10-13T04:11:00Z
-    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
+  - title: "8 Challenges Fintech Startups Should Be Ready to Face"
+    excerpt: "Can Fintech change how traditional banks function?” “What effects will it have on the global economy in the long run?” “Can Fintech match the stability and reliability of traditional banking systems?” Most people have these questions when they first hear about fintech."
+    publishedDateTime: 2022-10-13T12:17:00Z
+    webUrl: "https://techbullion.com/8-challenges-fintech-startups-should-be-ready-to-face/"
     type: article
     provider:
-      name: SmartCompany
-      domain: smartcompany.com.au
-    quality: 36
-  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
-    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
-    publishedDateTime: 2022-10-14T14:46:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
+      name: Impacts
+      domain: techbullion.com
+    quality: 4
+  - title: "Guidewire Rises to No. 26 in 2022 IDC FinTech Rankings by IDC Financial Insights"
+    excerpt: "Guidewire (NYSE: GWRE) announced it has ranked number 26 out of 100 on the 2022 IDC FinTech Rankings, making an appearance on the list for the second consecutive year and climbing from its previous position."
+    publishedDateTime: 2022-10-14T12:48:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/14/9692818.htm"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 34
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
-        width: 1280
-        height: 1071
-        isCached: true
-  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
-    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
-    publishedDateTime: 2022-10-13T07:34:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
-    images:
-      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "WxG2izke88sa9/wsFHGA635Plln7OlAlS3o0ebmi/XjQVacMXyhOw5lqK7GEBmV8sff3jilXSORle6MfSg3FDDbndNf/9Yb//Crnc5+UGsKFHoCzWJ6pFMJlso2Srg77aJkEOvWGOrw+gP6CxcNdrNA+RWxr5TqyvXi7+ZFvbBvG1EFDhL4ccfrQtQOkO4rw2vGchYEhZwt0UaJ8nkwF8MmD2d9f5MZdRTwR2M8/jb0cWq4wjaeKODOGlxYJuXsK/dR+Cj346Pc84ikjpDvWLCYYMOT+QdsxJb1VJZ5+xdCRpOgBu+PX07BAttGZo+tvThM2Y0rJ7VprFqoPEEbfyIFySR1KuACAC4zavH9t4EL/L/JVOhWvy2NPPq1beSTI5hp+uX3xkrY2/dBsfNXHHP7x29u13zQZgX2hK+Yw713dHouGV2BXc6lj/h+wLLnmIRotdAzUqMJ9ID7/jd4scS/uKavZM5NIQ91YsaEjigeLAyG0gYbdkdkpup7USWqPlxVJFd0Tn7jJ7tDM9GK1Qw==;4QPgG5LdO5VUdJyx3BJWkQ=="
 ---

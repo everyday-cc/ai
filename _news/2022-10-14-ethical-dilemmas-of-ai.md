@@ -7,7 +7,7 @@ originalUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-
 webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Posts Tagged \"ethical AI fintech\""
+    excerpt: "Aussie startup Rich Data Corporation is applying an ethical AI model to improving access to credit and close the financial inclusion gap. You'll also receive messages on behalf of our partners. You can opt-out at any time."
+    publishedDateTime: 2022-10-13T04:11:00Z
+    webUrl: "https://www.smartcompany.com.au/tag/ethical-ai-fintech/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 36
 
 secured: "i8aBHZPBzBXo55Q+02ArOVQLvL2X8pWSL52y0DNsbigEuQoB0veuuTIv4jveqO0r4cUlK189lH2Y18FlvCnYGGdZXYukRFIy8cax8DsVhNh4BdVVkpnZ7iUd89z1g6ZIvmZuzJ/EKwOsWyjr07gcfzpGQyAdS+p2FHn1ZEMYtewEfzv54fIaQHmZxUjxalV3uXzzGx9CaPnbQYzfIJ+rU7pcP5cMkkuCUcFsqB3KtQUuJwNSXDltElZ49F2N9PIMG/KBdilpQhPCHQ9FAGKywIEeF9Y+QnzgVX0IAf+PaB0ud0jAes+rzXOHUes6jPvdEnuuOH/hSNBAoYqEFtdVTdF8S4gHnJFotX/LTRhH9T8s+uzXK+vLUZGzO9rEvk/B14SgRD888o0RGBdL7o3IYdJ1xpq1yNt4UcYtNcCnKTfDo0QKm6zq7qXXD34CB1Mab2kU9w4E3lEvzTBon2Wvn5bX34BfV6kiPFthPuyzZ6JR4EIndHzfIm01+xsiKqOT3ufIkmhArfiMJtQVe1xkIg==;CopkrzGoQ6SF2JltcQatqg=="
 ---
