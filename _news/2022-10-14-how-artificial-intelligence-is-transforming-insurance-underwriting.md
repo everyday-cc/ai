@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "How AI is assisting with the development of future treatments"
+    excerpt: "The use of information technology has long been central to the life sciences, but the promise of augmenting human thinking in the research and development of drugs, therapies and other treatments with artificial intelligence (AI) is nothing less than the promise of speeding breakthroughs in medical discoveries."
+    publishedDateTime: 2022-10-15T21:30:00Z
+    webUrl: "https://www.businesspost.ie/commercial-reports/how-ai-is-assisting-with-the-development-of-future-treatments/"
+    type: article
+    provider:
+      name: The Sunday Business Post
+      domain: businesspost.ie
+    quality: 37
+    images:
+      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=de0aaee4-0b50-51e7-a7ab-ff0ec43eecc9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.94737&width=1200&height=675&x=1.0E-5&y=0.02737"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "SecondSight enters cyber insurance market with AI-driven platform for ‘inside-out’ underwriting"
     excerpt: "SecondSight emerged from stealth with $3M seed funding, offering an AI-driven platform for “inside-out” cyber insurance underwriting."
     publishedDateTime: 2022-10-12T12:00:00Z

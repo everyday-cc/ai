@@ -227,15 +227,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Drive efficiency through automation and AI with the Microsoft Cloud"
-    excerpt: "This year at Microsoft Ignite, we explore how organizations can activate AI and automation directly in their business workflows and empower developers to use those same intelligent building blocks to deliver their own differentiated experiences."
-    publishedDateTime: 2022-10-12T09:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/drive-efficiency-through-automation-and-ai-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "8 new Microsoft Azure AI updates to boost productivity"
     excerpt: "At its Ignite Conference, Microsoft announced new innovations for its AI services, including Azure Applied AI Services, Azure Cognitive Services and Azure Machine Learning."
     publishedDateTime: 2022-10-12T16:00:00Z

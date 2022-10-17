@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-10-12-dall-e-2-coming-to-microsofts-azure-ai-by-invitation.md",
-      "title": "DALL-E 2 coming to Microsoft’s Azure AI, by invitation",
-      "excerpt": "DALL-E 2 is coming to Microsoft’s Azure OpenAI Service by invitation, allowing select Azure AI customers to generate custom images using text or images.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
-      "originalUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 549,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Mattel-DALL∙E-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/dall-e-2-coming-to-microsofts-azure-ai-by-invitation/amp/",
-      "publishedDateTime": "2022-10-12T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-12-how-ai-is-helping-african-communities-and-businesses.md",
       "title": "How  AI is helping African communities and businesses",
       "excerpt": "Editor’s note: Last week Google hosted the annual Google For Africa eventas part of our commitment to make the internet more useful in Africa, and to support the communities and businesses that will power Africa’s economic growth. This commitment includes our investment in research. Since announcing",
@@ -1052,6 +1000,49 @@
       ],
       "topics": [
         "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-robotics-companies-dont-want-robots-weaponized-will-anyone-listen.md",
+      "title": "Robotics companies don’t want robots weaponized — will anyone listen?",
+      "excerpt": "(Airman 1st Class Shannon Moorehead/Air Force) A robotics manufacturer that continues to expand its arsenal of artificial intelligence attempted to ease public concerns over weaponized robots in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.navytimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
+      "originalUrl": "https://www.navytimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.navytimes.com/resizer/zuFhqx_9etMBEfb0kGpPEGe-8vQ=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CN66RWUN2FAAJDKALLUJMXZRDU.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Navy Times",
+        "domain": "navytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },

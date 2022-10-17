@@ -3,16 +3,16 @@ category: news
 title: "Opinion: A driverless vehicle update"
 excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
 publishedDateTime: 2022-10-15T00:18:00Z
-originalUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
-webUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
+originalUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
+webUrl: "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d"
 type: article
 quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Northside Sun
-  domain: northsidesun.com
+  name: Yazoo Herald
+  domain: yazooherald.net
 
 topics:
   - AI in Autos
@@ -48,6 +48,6 @@ related:
         height: 343
         isCached: true
 
-secured: "aanxUP1ehJnzloCfQxS5CIw1B8AU0NKBk8OzI5r2DUQ9MnT4Ro+PYyqtfq59qpiY5CS6hp+X6KzGe9j6lJfp1l5Z2fRw7ZabQRC/KHBx/wTK+6wYloq+02+ncueMMTaLU/PdkbL+kUhc7ZeMyPsWFuJtUn54D5Hu2ALbyi2JTL118/cr0JE4aYVmzhsOvQrukxuHRcTNpG00Cx+pCoJYJFJFb1AI2fmF/FxDhKvTTh9+QViBpdSvfZwbd6kF0gLBQWXNUvujWs7AYwfrmfKX0lg2Ol6E54QYY0bLbNibtgrqt0dOINZew/WErjHE4YImTGLyTjIp06YV11l3r0zK9WX74w8igHFF3558xs5VLoo=;GWTTrie7FWx/hZACiP+MsA=="
+secured: "YCSuhCcDvuS836/cRFKk5VlJVmodMdy2J0s4dSkJrNsc3qr24vkvFvsmDDuok8IBhh6AgdiNUlXTMLbHnEKBuR8QO86wQ+qw26MNw83pVEciUXzm6PANTRqFg9A3CSuQogCmCOQ7wjqd062uDDM3il7VzIxE2qF+rtAz6aRxou8M4sUAzngWubKhcmvVxcWitD8zBIlE7iDJxZKrO5dF4WXn/Cx2S0M2GJcTHbJaeqtY7BWh/PPlFr8ynjUHG2wAF5jB3gmVMUi4qrWggFjQ7FcDWJPsSKbZ0IRKUL1K/85vo2KTYc57CAxa/xzTQcYhZWtGrVkt/bjUP98loDLr7I/VYTCNHCfWB28reolUtzo=;jGcsbsX5/EymotSaxb+FmA=="
 ---
 

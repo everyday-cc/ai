@@ -228,15 +228,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Drive efficiency through automation and AI with the Microsoft Cloud"
-    excerpt: "This year at Microsoft Ignite, we explore how organizations can activate AI and automation directly in their business workflows and empower developers to use those same intelligent building blocks to deliver their own differentiated experiences."
-    publishedDateTime: 2022-10-12T09:00:06Z
-    webUrl: "https://azure.microsoft.com/blog/drive-efficiency-through-automation-and-ai-with-the-microsoft-cloud/"
-    type: article
-    provider:
-      name: Microsoft
-      domain: microsoft.com
-    quality: 84
   - title: "Microsoft’s new AI graphic design app is built on DALL-E"
     excerpt: "New hardware isn’t the only thing Microsoft had to share at its Surface event. On Wednesday, Chief Product Officer Panos Panay announced Microsoft Designer, a new graphic design offering within the company’s 365 productivity suite."
     publishedDateTime: 2022-10-12T14:34:00Z

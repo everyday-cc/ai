@@ -72,20 +72,6 @@ related:
         width: 1550
         height: 773
         isCached: true
-  - title: "Amazon SageMaker Clarify Now Supports Online Explainability for ML Predictions"
-    excerpt: "Amazon is announcing that Amazon SageMaker Clarify now supports online explainability by providing explanations for machine learning model’s individual predictions in near real-time on live endpoints."
-    publishedDateTime: 2022-10-12T08:16:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/aws-sagemaker-clarify/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 67
-    images:
-      - url: "https://res.infoq.com/news/2022/10/aws-sagemaker-clarify/en/headerimage/generatedHeaderImage-1665523399332.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cOU0FesCMxGbrDcIQc78C34lR3RkZsGJG2B4QgUVYxpcMAEVB/8iMZtC6mTbUzYggTbR9I5XNlWGC1csMJgTIQCzITlJruMGTR98s5eXujgA4Nu75LKV7T/DWWHqwBghZ2+35h35B+GeopfLYw8YI23FonRg6vnFRpE7+fvvwGYNWyzG3h168HO3P+O37DBS4OPQM0GV3lAhQFTzKUISTFkrjtpd38LkFYlbHVQDsU6GFcBm8v9QDaZ/gfweaBpNu0SMK7MKX0cYWUBBfR5Zklya6XKN7FXh35F1cZEg15D2+Odk5rO6XOAhPRWdDTRsrg4hlGFBrziP0/v3ea8f+MNNn0IUbO+MRhz554ZUjIo=;ZQ/vgQ8fqdVghUI+cXP/9A=="
 ---

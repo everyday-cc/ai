@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-f
 webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
 type: article
 quality: 106
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -71,20 +71,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
         width: 1550
         height: 773
-        isCached: true
-  - title: "Amazon SageMaker Clarify Now Supports Online Explainability for ML Predictions"
-    excerpt: "Amazon is announcing that Amazon SageMaker Clarify now supports online explainability by providing explanations for machine learning model’s individual predictions in near real-time on live endpoints."
-    publishedDateTime: 2022-10-12T08:16:00Z
-    webUrl: "https://www.infoq.com/news/2022/10/aws-sagemaker-clarify/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 67
-    images:
-      - url: "https://res.infoq.com/news/2022/10/aws-sagemaker-clarify/en/headerimage/generatedHeaderImage-1665523399332.jpg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "6wR/wmf8RRqgLp2j6kU7YJFI8r9fl25blSwB5nsg9t9PX4QV5trwTC1H+upQaE/CYBgG4LOYY5Z/tTvozf1mIjPGEpNVSlKKBuzCeMmoVU1oaYyWeeGb2jpXyRsvfcjUk7BUUaYqK0et18lcDSKGlxBtOHj3s97sOPkN+uZyHb3aitvOmhnfPe3slo+6ALMiGqjKFu78/JCMjHd8+5sQog8uu5rs2OpCpF7n7FDEtxldCDKpVj5RdH3p7145hd9VuTDud5dqXktxKRd8rOYYkwUVXoLBvaal4aaRA2h4emrS/UvVhsS0Tk+hovcSG1oQ9aRdQpn0KcGX8xku/xIeTN05yfOtLNLVmO0DcVkNL+M=;0DgxzwGLgMeVD6dLAn7jTA=="
