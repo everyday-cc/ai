@@ -9,8 +9,8 @@ ampWebUrl: "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1"
 type: article
 quality: 101
-heat: -1
-published: false
+heat: 111
+published: true
 
 provider:
   name: in.mashable
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist Ai-Da reset while speaking to UK politicians"
-    excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
-    publishedDateTime: 2022-10-12T18:09:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ai-Da the robot sums up the flawed logic of Lords debate on AI"
-    excerpt: "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting"
-    publishedDateTime: 2022-10-14T15:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
     excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
     publishedDateTime: 2022-10-13T21:33:00Z

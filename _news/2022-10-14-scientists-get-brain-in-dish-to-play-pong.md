@@ -39,20 +39,6 @@ related:
         width: 691
         height: 700
         isCached: true
-  - title: "Nerve cells in a dish can learn to play Pong"
-    excerpt: "DishBrain is smaller than a human being’s little-finger nail and contains fewer nerve cells than a bee. Those cells are grown from pluripotent stem cells, which are, in turn, derived from ordinary body cells,"
-    publishedDateTime: 2022-10-12T17:17:00Z
-    webUrl: "https://www.economist.com/science-and-technology/2022/10/12/nerve-cells-in-a-dish-can-learn-to-play-pong"
-    type: article
-    provider:
-      name: The Economist
-      domain: economist.com
-    quality: 24
-    images:
-      - url: "https://www.economist.com/img/b/1280/720/90/media-assets/image/20221015_STD001.jpg"
-        width: 1280
-        height: 720
-        isCached: true
 
 secured: "kOFSIiSm4J8CQ8T8uHmksR4A/Uy1K3mFDdWw7v/eBnuwmtcZudsyv6HXpJif3Kwo3CvBPawGlosEtgw8Bq8WqhGOv6J5oqkA5G/yF9cgQYvHLeIqbn49bYZAgQ8AijEomex5lqDWpuwjVSvcSfIxXOQfNqj0uMk+xhZcTgxpQp7brdR5JEp40L88NL7MYmrJN4g8lX7iHSI5YuucEjR941U8xp7EHRXrU57HhlQ14XKl8a//p/OAc/gJzevNvut+QyTbvSUUKQ1J6IG2y76kxkbwARvsmICEtMtgF72LAEvq2bUVAsX6MvZ4YgKq0jO188MouJhZS60YEIk5YF+TiC5bDKRPbS8ecJCyc5woxrY=;8UzihRYUZOp9Oy9edfhsOw=="
 ---

@@ -55,6 +55,22 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Top 16 Microsoft Azure certifications to expedite your IT career"
+    excerpt: "Here are 16 role-based Azure certifications that will give you an in-depth understanding of the skills and knowledge required to elevate your IT career using Microsoft’s cloud."
+    publishedDateTime: 2022-10-17T10:00:00Z
+    webUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html"
+    ampWebUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 74
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/10/shutterstock_2048828078-08.12.21-it-certifications-grow-in-pay-reversing-a-three-year-downward-trend-david-foote-100912983-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
     excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
     publishedDateTime: 2022-10-14T22:31:00Z
@@ -85,15 +101,6 @@ related:
         width: 7360
         height: 4134
         isCached: true
-  - title: "Google chases Amazon and Microsoft in cloud with AI technology"
-    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
-    publishedDateTime: 2022-10-12T18:40:00Z
-    webUrl: "https://techxplore.com/news/2022-10-google-amazon-microsoft-cloud-ai.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 36
 
 secured: "SKvoIPk6brkGT0CsaDaNyE3j0P5KBo386fiT/th1g0kPoJQGidTc7DYP2LU1KWXlC3ahgiCtfbZ+AXFgMEL7R8Yh3KAIGYUQaXloAQqK/dkDyWSKs+Mq8SCH6KEtw66Rb4UUlnSBCkPy7VJfMjYwOlb7uzBauz1Zr63e2QbCR8G7b6DFVgW5rxw7V6fzC/1izn8yg4kcQoOVugkjuq6BIAXb8xZNjz/FTJqlkY4GNISPpC3v2OMpdkefvpZzG07HAU692g7eKYa+A6fJa2CcBIwlz4kBnql7SLj66rOGhRCWKj/kPJlZQfReDAgfl0eVZpP9xBLWMG7xyp1LVeajVc/8onIFPXmXJjuVVMR473oXO3v9/lgrp1ZjnSH+snj6Kqg90gCDcMXmHaiycBEzIUNzrVUzL42tbvM4wgySMGerX4qRsBnjEc9gHwtO8fvnM4CBlsbsKL+27WapFGzKrxA4jwuxdopOM087tqglU+aU2A9aWU9SOxcZg/4WU5pU/TO1zWHFezUMo1vXASr7Sw==;nh0Xx8G8LAnAe7Z895gSVA=="
 ---

@@ -26,17 +26,6 @@ images:
     height: 314
     isCached: true
 
-related:
-  - title: "AI model developed in Finland to help treat skin cancer"
-    excerpt: "A new artificial intelligence (AI) model developed in Finland is expected to help diagnose and treat skin cancer, the University of Helsinki announced on Wednesday."
-    publishedDateTime: 2022-10-12T17:31:00Z
-    webUrl: "https://www.thestar.com.my/news/world/2022/10/13/ai-model-developed-in-finland-to-help-treat-skin-cancer"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 19
-
 secured: "dQZGZpQPdyeSU6Pc3ucr9VACBx+IA8qroNkM7hMWUNx7ZWOX3x1NTKDHP2NK8XGjjKtxxrRirsQjSzmWIHiP6GvOmnnaond7NFKg7q3Wubgy5S/1tD/6V2XAhdUEkMsifhIq9F6dsDRoGd/ZbPsLO88l4b5XK7ITrZQ8vR/FK+pDQB8kv4N6ZhzZbOAByf22dLMlDGgcuZt29M5zRwGTBejR1nz6MNKgxkWIE1bEbGPeB/bVJGMadGqUqlSh6/bEvRk6satDlrL+y5g+PZ38PP+pfqfW/v/TGSPWHRSebgQ7Y0dS6mnuLPYR22j74gQdjtO2PikKifDf4vyX1m6647ujnRLlKsOOmUySoJVzn6d+xzgrziRx2pYyWOXofd4dJ5esslhUVgZkm1TIn2UQBfHGWJ+mcYaOoLP6byIRS1gajVVC4NOSeGzvRkJgQBh5S9xMcWWO5pzps0FQT4sm1xEYr2XHnQwsOFEVtMCH7HVnMpWXOky0u10Kc5rjrtxRZ9Gqqyfi3Nkv3X1bf9kpBg==;fOmTWqYVCByXAHKXSr+TaQ=="
 ---
 

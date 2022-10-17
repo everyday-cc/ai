@@ -31,51 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist Ai-Da reset while speaking to UK politicians"
-    excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
-    publishedDateTime: 2022-10-12T18:09:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
+  - title: "The Snapdragon AI Journey"
+    excerpt: "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade."
+    publishedDateTime: 2022-10-13T17:49:00Z
+    webUrl: "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/"
+    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
+      name: Forbes
+      domain: forbes.com
+    quality: 91
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between"
-    excerpt: "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,"
-    publishedDateTime: 2022-10-14T09:40:00Z
-    webUrl: "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between"
-    ampWebUrl: "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 101
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
-  - title: "Meet Ai-Da, the First Robot to Speak Before U.K. Parliament"
-    excerpt: "With a sleek black bob and bangs, a bright orange shirt, denim overalls, robotic arms and a humanoid face, the robot, named Ai-Da, answered questions on Tuesday from the House of. The purpose of the session was to discuss technology’s role in art."
-    publishedDateTime: 2022-10-13T21:33:00Z
-    webUrl: "https://www.smithsonianmag.com/smart-news/ai-artist-robot-speaks-to-uk-parliament-for-the-first-time-180980933/"
-    type: article
-    provider:
-      name: Smithsonian Magazine
-      domain: smithsonianmag.com
-    quality: 54
-    images:
-      - url: "https://th-thumbnailer.cdn-si-edu.com/_b0A8J4nOn4-GExnaFAkshCJNEM=/fit-in/1600x0/filters:focal(2000x1352:2001x1353)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cc/46/cc467384-576e-4e4c-bc98-2c05441a9ef7/gettyimages-1318597990.jpg"
-        width: 1600
-        height: 1067
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200"
+        width: 628
+        height: 348
         isCached: true
 
 secured: "05PGgicNb0jBdLyx6eQM8QiOTSVLVNuzU8cLCswA3XhHUpiqCY43xfOQ72fgy1b5pn54wrlkKnqsU5EpCbkEhmKSzYe9DBFvfztco3eL33PYmCzwzPXFPvybiYzad7dYTLDOoFwvVU3yt7nCL6XBV7wufUiXhK9pReZHAFZ7PN/onlApJ7I0vGC9o5xZxDOUrRKl7hZanBWAyA7EVYU5Ko45DJmd3ZkZNU307E5MfkMoKGz5EB9i4UhGqYOvTs6sB7nvoTds4v7fPzXGYwEqVQb1miYjHTEKGvhRnyLc3MYSMFkewNIi8/MH+uZinDZhYMxo4KoUHfDng93rpW8FAatrl7lyug4eWu+v+L9CB6qu/kpfZNpO996eEF1pmMShyfYANYhRkbztp0UgS4JniQd0CNcaHIy5iXldKVDmq/nCEiqDtu8sF/ag31r7nLWGQSSNP5CAx8otl2AH3mfBDqdpdY7iWFE7VQndWnRjh9NXsGI9+dgre02E/nmLhpTG/cqwoV3UYXnF9FivPbXZqQ==;vUhtwaJNASetT3MBNI9tXQ=="

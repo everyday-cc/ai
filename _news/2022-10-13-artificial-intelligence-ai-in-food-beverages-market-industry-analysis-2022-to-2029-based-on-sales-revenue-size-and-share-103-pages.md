@@ -32,6 +32,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
+  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
+    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
+    publishedDateTime: 2022-10-17T07:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "6VJ+6rjcaCwgBmSyEm3rKhytUX8dr9bywxsojm+o9R45CoG1bcguEYP5RSNcERjBhi/2jC6kl/1KVa5GAAPGB0yAK0SpMLalXDvH1/GeGmeYRQ/en/fYLbmGj6nL1Jxg2sgHMVStclsoOkgoodrt5HW2ri9SY0CRtPvotuw4fMSXZLmbr/flX+5HDPSp0BliFoLDO9J1v/3kwfK6Prtc//Jmwp57I4l6ckt/A2mQOApG/euTJP0GCYohj4VW+HkftUCSl4VjEsgdDFPQn/Y/rSjBjGIZG7RQ8I2kz32AyzAxrf9Ij0uAXf3lOeJiOfx0JHXylDfo3K9xRtBYb5M7wNklb7DEXqMN4J4FOYtXIrU=;YFoLgDxGdVrjiZm/l3BiZA=="
 ---

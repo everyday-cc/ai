@@ -69,6 +69,22 @@ related:
         width: 609
         height: 457
         isCached: true
+  - title: "Top 16 Microsoft Azure certifications to expedite your IT career"
+    excerpt: "Here are 16 role-based Azure certifications that will give you an in-depth understanding of the skills and knowledge required to elevate your IT career using Microsoft’s cloud."
+    publishedDateTime: 2022-10-17T10:00:00Z
+    webUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html"
+    ampWebUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 74
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/10/shutterstock_2048828078-08.12.21-it-certifications-grow-in-pay-reversing-a-three-year-downward-trend-david-foote-100912983-orig.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
     excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
     publishedDateTime: 2022-10-14T20:42:00Z
@@ -83,15 +99,6 @@ related:
         width: 7360
         height: 4134
         isCached: true
-  - title: "Google chases Amazon and Microsoft in cloud with AI technology"
-    excerpt: "Google on Tuesday announced a broad swath of updates to its cloud offerings, aiming to capitalize on its strength in artificial intelligence to gain market share from rivals."
-    publishedDateTime: 2022-10-12T18:40:00Z
-    webUrl: "https://techxplore.com/news/2022-10-google-amazon-microsoft-cloud-ai.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 36
 
 secured: "FYYNrQCsqsCy9+FsibNhwKtxy02ES9XCMiFScVTyqAvxbHtXmJeP5cCBtd/xv2jNSl//Ga5VfCdG/XtC9puSXbHCbgennohBhiobt4rSJhCBFs2ZliUPsrLpzD8jFtRay7KjTHXtzLGvY9LvLmziO0RR4gvqUHjjEp+shmTW9zi9GBCKM73EUuonHZznAX/j1ZaBOrpWa6AC33JYhe/QKOTrMBAyO2+c1v6l6gex4gVUP4TQSMSCxMOEvoZs3Zg3aNvNoOz4F7xVoHcOD9Z5h72MwL4UANCP2KgOR0JJdxM7LupA6Dyu50nD2sAdKfbOB8PpRitncgd83keDcojL7itHy2a385IbM39aVLcPc+kQ9Z/H9IaXDjgbsmPHE6q0hAxiUS+A/coVed1o96XBI/K/U/9mUbQn9JRJSLwJ0hXHa6nwRRiD/AZbT5XF0nS6Cjoq5V/Aix3qOiKEaqGzuQpayGAKAXmbJ7509IEEx9O438x6clvJWMrOZmnuTYWxDjYDwDPxcJ1ho2X0CXo54A==;kcD3zM+Wjr9netCARBdeTQ=="
 ---

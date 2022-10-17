@@ -25,47 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Reaching the Customers of the Future Using AI and Analytics"
-    excerpt: "Artificial intelligence is constantly evolving. But what is it evolving into and how will this constant evolution affect the relationship between customers and brands? In a lively master class session at The Information’s Women in Tech,"
-    publishedDateTime: 2022-10-13T22:59:00Z
-    webUrl: "https://www.theinformation.com/articles/reaching-the-customers-of-the-future-using-ai-and-analytics"
+  - title: "Fintech Firm TIFIN Launches Magnifi Personal, an AI-enhanced Investing Assistant"
+    excerpt: "TIFIN, the fintech known for Magnifi, an investment marketplace, announced the launch of their new premium subscription Magnifi Personal."
+    publishedDateTime: 2022-10-14T14:46:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197430-fintech-firm-tifin-launches-magnifi-personal-an-ai-enhanced-investing-assistant/"
     type: article
     provider:
-      name: The Information
-      domain: theinformation.com
-    quality: 37
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 34
     images:
-      - url: "https://tii.imgix.net/production/articles/8895/f1d74807-87c8-4f4c-9371-caacc0fd1a8f.jpg?fm=jpg&auto=compress&w=1200&frame=0"
-        width: 1200
-        height: 800
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/04/Magnifying-Glass-Look-See-Review-Trend-Investigate.jpg"
+        width: 1280
+        height: 1071
         isCached: true
-  - title: "Using AI to solve human error in data-driven analytics"
-    excerpt: "AI can also perform high-level arithmetic, logical, and statistical functions at a scale that would otherwise be impossible through human-led, self-service analytics alone. Below are five of the most common human errors that can be eliminated using AI."
-    publishedDateTime: 2022-10-13T03:56:00Z
-    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/using-ai-solve-human-error-data-driven-analytics"
+  - title: "Tifin launches AI-powered investing assistant"
+    excerpt: "Tifin, the fintech platform known for Magnifi, it’s award-winning investment marketplace, today announced the launch of their new premium subscription Magnifi Personal, aimed at helping investors without enough time or knowledge to build and grow their portfolios with intelligence."
+    publishedDateTime: 2022-10-13T18:01:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94454/tifin-launches-ai-powered-investing-assistant"
     type: article
     provider:
-      name: The Edge Singapore
-      domain: theedgesingapore.com
+      name: Finextra
+      domain: finextra.com
     quality: 19
-  - title: "Autocorp.ai is Combatting the Multi-Billion Dollar Auto Theft Wave, by Leveraging Artificial Intelligence"
-    excerpt: "With this added product, Autocorp.ai will be able to provide a safe and secure digital transmission of verified customer identification information between consumers, dealerships and lenders. AVA ID targets identity fraud in vehicle purchases with a simple smartphone application using advanced artificial intelligence and anti-fraud technologies."
-    publishedDateTime: 2022-10-13T13:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
-  - title: "Seagate Launches Lyve Cloud Analytics Platform to Optimize Machine Learning Operations and Accelerate Innovation"
-    excerpt: "Seagate® Technology Holdings plc (NASDAQ: STX), a world leader in mass-data storage infrastructure solutions, announced the launch of Lyve™ Cloud Analytics platform, a complete cloud-based analytics solution that includes storage,"
-    publishedDateTime: 2022-10-12T17:23:00Z
-    webUrl: "https://insidebigdata.com/2022/10/12/seagate-launches-lyve-cloud-analytics-platform-to-optimize-machine-learning-operations-and-accelerate-innovation/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 0
 
 secured: "De+YDCUGrxI47+kN5/UrK93pl1JcFUeP81P3e9Jw4R9mf7uDkP5QBISxD9dyWRGQ0XE2+meF96MoZo3EZ+5e8OkYSshqXpnWBQ1+9eQFq7bEaGYz/JKiIXCSuYDkQQ+tMqvGq4EIiB62JDEdMVtwzHJFyKZmrBoc1Hj2ytxVsX9F7z0VV5bi9w+pqnJNWNrSEJZxIp7yQxGRKctAY9uZrZuR9UUNWpKwy8MQI7LXj3mxQUPEfWGHkBIjWfFci15aVuEU6mCmOl4qTRMmQxnt0gtdu/9/ydBLXUNMIE2E6GeVAK+XDWEfAe0nvdffQ2YPcfL6NIfUBqJ6GSPH+lRSUkB2th5vz1AKxgeoXGzjQKix7BZKxBFKWzuGlq7jUMfBcr4VyWYJ2PYnjjSTmEZWeVbFbFlk8m08h5hImnGSlH3eFpVZmporxQejQ08czYhoH5MynkySqXuNdKHSWzDHbM3pPS1BoDf3V8cuBQ0zVmmYnnX0UEwiehRcrYfBeFzT+Ghc3Q5BytheET/A4ZyYXA==;eJdFfjNxogxwdNS7MgEw7A=="
 ---

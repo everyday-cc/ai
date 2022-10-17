@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-12-deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel.md",
+      "title": "Deep Learning Unit Market Share, Size, Financial Summaries Analysis from 2022-2028 | Fujitsu, NVIDIA, Intel",
+      "excerpt": "The Market report identifies various key manufacturers of the Deep Learning Unit Market. It helps to reader understand",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-unit-market-share-size-financial-summaries-analysis-from-2022-2028-fujitsu-nvidia-intel-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-join-a-viewing-party.md",
+      "title": "Join a Viewing Party",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
+      "originalUrl": "https://www.tensorflow.org/dev-summit/viewing-parties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://tensorflow.org/dev-summit/images/meta.png",
+          "width": 1080,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T20:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-sophos-cto-joe-levy-on-ai-in-cybersecurity.md",
       "title": "Sophos CTO Joe Levy on AI in Cybersecurity",
       "excerpt": "The AI component of cybersecurity is changing fast – and customers often find it confusing. But clearly AI is a needed tool to block cybercriminals.",
@@ -694,49 +798,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-google-aims-for-biglake-data-lake-support-for-all-unstructured-data.md",
       "title": "Google aims for BigLake data lake support for all unstructured data",
       "excerpt": "What you need to know about Google Cloud Next data announcements: BigLake support for Apache Iceberg, Hudi and Delta Lake; BigQuery adds unstructured data, Apache Spark and DataStream support; Looker Studio unifies business intelligence products;",
@@ -987,6 +1048,83 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
+      "originalUrl": "https://www.wsiltv.com/news/illinois/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report---global-forecast-to-2027-/article_fdb44d89-5bc8-50e7-85ae-3fbd7e5870fc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WSIL-TV",
+        "domain": "wsiltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-sight-machine-blueprint-enables-automated-data-labeling-and-comprehensive-analysis-of-all-manufacturing-data.md",
+      "title": "Sight Machine Blueprint Enables Automated Data Labeling and Comprehensive Analysis of All Manufacturing Data",
+      "excerpt": "Developed in collaboration with NVIDIA and Microsoft, Sight Machine Blueprint empowers manufacturers to prepare and leverage 100x more data for actionable analytics insights. SAN",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689965.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T06:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-top-nine-ethical-issues-in-artificial-intelligence.md",
       "title": "Top Nine Ethical Issues In Artificial Intelligence",
       "excerpt": "Some of today’s tech giants believe that artificial intelligence (AI) should be more widely utilized. However, there are many ethical and risk assessment issues to be considered before this can become reality.",
@@ -1028,154 +1166,6 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
-      "title": "Google says it's 'cracked the code' to business intelligence",
-      "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c15d46c470c4537fefd3a1fdc3e4e449e658cfd/2020/01/23/be6d0341-424e-424a-95d8-da906528f235/datacenterpeopleistock-802301504.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "publishedDateTime": "2022-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
-      "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
-      "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634425ffb33ba97e97de06b1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
-      "publishedDateTime": "2022-10-11T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
-      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
-      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
-      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
-      "publishedDateTime": "2022-10-11T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

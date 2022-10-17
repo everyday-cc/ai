@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Robot artist Ai-Da reset while speaking to UK politicians"
-    excerpt: "Ai-Da, the world's first ultra-realistic humanoid robot artist, answered questions from UK lawmakers during a session hosted by the House of Lords Communications and Digital Committee, according to Reuters."
-    publishedDateTime: 2022-10-12T18:09:00Z
-    webUrl: "https://edition.cnn.com/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn/video/playlists/stories-worth-watching/"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/10/12/ai-da-robot-uk-parliament-lon-orig-bg.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 104
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221012154424-robot-ai-da-uk-parliament-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between"
     excerpt: "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,"
     publishedDateTime: 2022-10-14T09:40:00Z
@@ -56,22 +40,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg"
         width: 619
         height: 374
-        isCached: true
-  - title: "Ai-Da the robot sums up the flawed logic of Lords debate on AI"
-    excerpt: "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting"
-    publishedDateTime: 2022-10-14T15:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
-    images:
-      - url: "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790"
-        width: 620
-        height: 372
         isCached: true
 
 secured: "8+e8knoCWDackCD9CCgQ8TCw0PjfzezNw7FDFDKW97Uuue8Ir9e5tyHKJhScF1z1HeCZmjh6j+GBUh8x7cMVqSB80M2VleAoEKawbOwJSmQ3FKZlwQ2t6cfUzSXwgXFPRVm1clN9ZGQxQIFQ/9qI8bRs1bfrSix7mfhAbJ3f70ke3M51/JZ6BIMTYKpVO/iMapivYfSahYf0bKLdprS6wsYdiUj/08N6NlRYTEcE3YwQ9IlaS9tcxfygqaypla41NPQyXnfIfz1J7aO1Ap051iHj0qCZch3xTL8xIFR4JvBJcrGykouWM/N3zAw5F8i1hoBTfSJOhlvFJf5ZKqLPXkWmAL0xEtR5cMMaCsnesr4gJ3ig8+C8/Swn43Kiworic7SoTpfCNY/N9KzEr4uxUBoctYguRXLnUKTanHnjhSGaa7g4ktUPxPOIO84lpd35jGmxPJWS24lwcSzo1lOFZaZY2Em9Sid0cW8h1PfwG8GSV7SiEcUbfA0usEgfusIUUQav9HH3R+yyhXuhXw0UWA==;3ZfBeC/ttv26df1JVWIILw=="

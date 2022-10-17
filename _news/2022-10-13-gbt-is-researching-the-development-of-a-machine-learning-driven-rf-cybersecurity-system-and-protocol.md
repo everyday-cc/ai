@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "N.C. A&T awarded $9M from Department of Defense to study cybersecurity, artificial intelligence"
-    excerpt: "Researchers at North Carolina Agricultural and Technical State University have been awarded a $9 million grant from the U.S. Department of Defense to study cybersecurity and artificial intelligence (AI),"
-    publishedDateTime: 2022-10-12T18:35:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/10/12/ncat-awarded-9m-department-defense-cybersecurity.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 5
   - title: "GBT is Researching the Development of a Machine Learning Driven, RF Cybersecurity System and Protocol"
     excerpt: "SAN DIEGO, Oct. 13, 2022 (GLOBE NEWSWIRE) -- GBT Technologies Inc. (OTC PINK: GTCH) (\"GBT” or the “Company”) is researching the development of a machine learning driven radio frequency (RF) cybersecurity system and protocol. Typical wireless ..."
     publishedDateTime: 2022-10-13T18:44:00Z

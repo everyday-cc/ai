@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will launch an AI graphics app powered by DALL•E"
     excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
     publishedDateTime: 2022-10-13T19:46:00Z
@@ -55,20 +69,71 @@ related:
         width: 2056
         height: 1371
         isCached: true
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+  - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
+    excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
+    publishedDateTime: 2022-10-13T12:43:00Z
+    webUrl: "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 69
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Nutanix (NASDAQ: NTNX ), a leader in hybrid multicloud computing, announced today the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes."
+    publishedDateTime: 2022-10-12T20:30:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/12/9691533.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
         width: 476
         height: 210
         isCached: true
+  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
+    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+    publishedDateTime: 2022-10-14T21:25:00Z
+    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
+        width: 610
+        height: 354
+        isCached: true
+  - title: "Informatica extends Microsoft partnership to help companies operationalise AI"
+    excerpt: "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data."
+    publishedDateTime: 2022-10-13T08:38:00Z
+    webUrl: "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/"
+    type: article
+    provider:
+      name: Cloud Computing
+      domain: cloudcomputing-news.net
+    quality: 51
+    images:
+      - url: "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock_microsoft35757.jpg"
+        width: 1024
+        height: 506
+        isCached: true
+  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
+    publishedDateTime: 2022-10-14T06:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
   - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
     excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
     publishedDateTime: 2022-10-13T16:54:00Z
@@ -97,6 +162,29 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications"
+    excerpt: "Nutanix and Microsoft partner to simplify infrastructure deployment and management to support modern applications - SiliconANGLE"
+    publishedDateTime: 2022-10-12T20:10:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/nutanix-microsoft-partner-simplify-infrastructure-deployment-management-support-modern-applications-nutanixhybridcloud/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 18
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/Thomas-Cornely-Indu-Keri-Eric-Lockard-Nutanix-Accelerate-Hybrid-Cloud-2022.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
+    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
+    publishedDateTime: 2022-10-14T10:10:00Z
+    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "OaCjv99EH0PGP1xf+fQ9bbk80OVEoQwRxXYHU7Teqr3/jeZcl1JknMNtOXbdgx627zm9BzlOQ+fykytYHgQ+0FcSHnAZTyZpWPEqiEq3LOm4lrjagoWXLRdy6yxkTKy+cJCL9NKKV4RnF9vTA4gCtEBGGXZZkkacUYASYrrwYfroBweZYNSOMK3Nen2toyPoi3Rhvdw7Z8iYBXu/5dfMd42c/keK8puTv3IksLh9IPFvc8mvayayKRdYckSy0PJGOVRusSdP5v0AyEXnkWXkb5Pv10DHlo0zFQe8hHw4tARHyEg+l+xnBo1ey+Y2PQg5q8KrrNoUL6QZ6RF93S5Htc8IwHZdrwl1cA+KwjzMVf4xwE6CCJBlkvsFuEU96gR8IzBCoV4qxWKbCutiUny9m1w2swyc99zO3L8FH8vCkHMIrAins8swQS7La9GmlaZkwzSLfCYryodZXx+145ni8uUkMSUmYbMPTpekCztEf/l2VQmbMzwGWh52W1vY9VeSXqJf3nzyP/Al7XdGxHzxlQ==;Ut4a69xsUyRGtM3JuaHcLA=="
 ---

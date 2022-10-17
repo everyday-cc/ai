@@ -2,6 +2,152 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-14-singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement.md",
+      "title": "Singapore identifies AI, IoT as emerging key skillsets, with infrastructure support set for displacement",
+      "excerpt": "G, cloud computing, artificial intelligence, and Internet of Things are amongst industry trends that Singapore believes will drive demand for skillsets over the next three to five years, while roles in infrastructure and operations are at risk of displacement and require reskilling.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/91c7b9b52521ef932bb93424df5087f63cd6a023/2014/09/18/c013a710-3f12-11e4-b6a0-d4ae52e95e57/building-a-people-centric-datacenter.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-identifies-ai-iot-as-emerging-key-skillsets-with-infrastructure-support-set-for-displacement/",
+      "publishedDateTime": "2022-10-14T01:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029.md",
+      "title": "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029",
+      "excerpt": "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T21:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-global-x-robotics-artificial-intelligence-ucits-etf-usd-acc.md",
+      "title": "Global X Robotics & Artificial Intelligence UCITS ETF USD Acc",
+      "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/quotes/BOTZ^-IT",
+      "originalUrl": "https://www.cnbc.com/quotes/BOTZ^-IT",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online.md",
       "title": "Eyeballs and AI power the research into how falsehoods travel online",
       "excerpt": "Getting a sense of falsehoods online might sound straightforward, but it isn't. Researchers use state-of-the-art algorithms but it also comes down to lots of scrolling and reading.",
@@ -149,49 +295,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-14-microsoft-will-launch-an-ai-graphics-app-powered-by-dalle.md",
-      "title": "Microsoft will launch an AI graphics app powered by DALL•E",
-      "excerpt": "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "originalUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "cdnAmpWebUrl": "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "publishedDateTime": "2022-10-13T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "archpaper",
-        "domain": "archpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
       "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
       "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
@@ -252,7 +355,7 @@
       "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -294,6 +397,59 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations.md",
+      "title": "Red Vector and Microsoft to enhance the security capabilities of organizations",
+      "excerpt": "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 202,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -593,49 +749,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-pocket-hrms-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Pocket HRMS Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html",
-      "originalUrl": "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Wire",
-        "domain": "businesswireindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
@@ -945,49 +1058,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-13-informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai.md",
-      "title": "Informatica extends Microsoft partnership to help companies operationalise AI",
-      "excerpt": "Microsoft announced the launch of this ecosystem during its Microsoft Ignite 2022. This initiative represents an investment both companies are making towards helping enterprises truly operationalise AI with trusted and governed data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/",
-      "originalUrl": "https://www.cloudcomputing-news.net/news/2022/oct/13/informatica-extends-microsoft-partnership-to-help-companies-operationalise-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cloudcomputing-news.net/wp-content/uploads/sites/2/2020/03/iStock_microsoft35757.jpg",
-          "width": 1024,
-          "height": 506,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T01:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cloud Computing",
-        "domain": "cloudcomputing-news.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
       "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
@@ -1136,21 +1206,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-13-what-happened-to-teslas-stock-price-since-the-last-ai-day.md",
-      "title": "What Happened To Tesla’s Stock Price Since The Last AI Day?",
-      "excerpt": "What happened with Tesla’s stock price after AI Day? We look at the recent Tesla news that has come out in the 12 days since the event.",
+      "path": "_news/2022-10-13-china-chip-industry-group-troubled-by-us-export-curbs.md",
+      "title": "China chip industry group 'troubled' by U.S. export curbs",
+      "excerpt": "China's top trade group for the chip sector said on Thursday it was \"disappointed\" by recent U.S. export controls and warned they could put more stress on global supply chains.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/",
+      "webUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
+      "originalUrl": "https://www.reuters.com/world/china/top-china-trade-association-chips-opposes-washingtons-export-control-regulations-2022-10-13/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634732031f70464cae6ce3c3/0x0.jpg?format=jpg&width=1200",
+          "url": "https://www.reuters.com/resizer/Oh8HYyRte3RRQ3wwt8W1EaXJGa0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/73ES4CI5ZJOLJDLNY7P24RENTE.jpg",
           "width": 1200,
-          "height": 825,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1158,16 +1228,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/12/what-happened-to-teslas-stock-price-since-the-last-ai-day/amp/",
-      "publishedDateTime": "2022-10-12T14:36:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T20:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1183,59 +1253,7 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-thanks-to-ai-you-can-now-create-automations-in-power-automate-by-simply-describing-them.md",
-      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
-      "excerpt": "Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "originalUrl": "https://techcrunch.com/2022/10/12/2420274/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/12/2420274/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/",
-      "publishedDateTime": "2022-10-12T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI"
       ]
     }
