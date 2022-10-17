@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-resea
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/tech/bengaluru-based-startup-tra
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

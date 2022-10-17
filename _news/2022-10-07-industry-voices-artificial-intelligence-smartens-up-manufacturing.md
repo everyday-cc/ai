@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.designnews.com/sites/designnews.com/files/Feature_70.jpg"

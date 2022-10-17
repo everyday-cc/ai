@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Artificial intelligence and robotics"
-    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
-    publishedDateTime: 2022-10-12T09:09:00Z
-    webUrl: "https://www.nature.com/collections/icbbiigbah"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 71
-    images:
-      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
-        width: 580
-        height: 326
-        isCached: true
 
 secured: "jN5MYfQmNC8qjEP+2wG80G/sHBIkSVhTsjhgANBjqpQ70gPhncDeWeL+77Do0AJ2G/FtEVNm7H5S2weCAzEowet4T7cKKnJzqcMOGC/HY5mwYV3BmuqbgjzgvqC/ZtxUrZWx4IE9aCg5E6EtrAvA3uAwMWEITiQjCAvJSlM+Utib2rhTl3gtmuR4pmU2NLFYWJZS3dXZeyGfZn8AnCAWOP3VtMKbgSOSxddRB2LPsBTDJ0186TlBWKyeKumDZbLiwhMTaWZ8+nM7dnIFLS/3j6RJAMhlLd3V+qpwO862clxARceCTL8DZc+w9SjGwqged9T/1ndrf8WFZ32Nw1rU7Jd2bBxscEid/ToQvxagVh8=;xlkmefZ6/XgzMX/EQkOhXw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
 type: article
 quality: 119
-heat: 139
+heat: 130
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and robotics"
-    excerpt: "The 'data enabling theory and applications' framework is helping to identify the types of data needed for problem solving with artificial intelligence. Clever algorithms are allowing robots to ..."
-    publishedDateTime: 2022-10-12T09:09:00Z
-    webUrl: "https://www.nature.com/collections/icbbiigbah"
-    type: article
-    provider:
-      name: Nature
-      domain: nature.com
-    quality: 71
-    images:
-      - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"
-        width: 580
-        height: 326
-        isCached: true
   - title: "Veritone Introduces New AI-Powered Video Forensics Solution - Veritone Tracker"
     excerpt: "(NASDAQ: VERI), creator of aiWARE, a hyper-expansive Enterprise AI platform, today unveiled Veritone Tracker, a new AI-powered tracking solution that leverages confidence-based similarity detection to track people and objects through video recognition software."
     publishedDateTime: 2022-10-13T11:13:00Z

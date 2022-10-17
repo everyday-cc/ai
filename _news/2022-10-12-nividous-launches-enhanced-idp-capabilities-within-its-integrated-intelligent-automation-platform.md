@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Levity raises seed round, debuts no-code AI workflow automation platform"
-    excerpt: "Using modular AI blocks, the startup aims to help small and mid-sized enterprises to build automated business process workflows."
-    publishedDateTime: 2022-10-12T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/"
-    ampWebUrl: "https://venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/levity-raises-seed-round-debuts-no-code-ai-workflow-automation-platform/amp/"
+  - title: "Customize business rules for intelligent document processing with human review and BI visualization"
+    excerpt: "A massive amount of business documents are processed daily across industries. Many of these documents are paper-based, scanned into your system as images, or in an unstructured format like PDF. Each company may apply unique rules associated with its business background while processing these documents."
+    publishedDateTime: 2022-10-12T19:16:29Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/customize-business-rules-for-intelligent-document-processing-with-human-review-and-bi-visualization/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 86
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-926128842.jpg?fit=800%2C587&strip=all"
-        width: 800
-        height: 587
-        isCached: true
+      name: AWS
+      domain: aws.amazon.com
+    quality: 40
 
 secured: "r1bLZADJSOoamdi8/mIoYr+qwOIH5A1mQJPheDExPJpglXuDe/9oP3GBGyUnccDKro7vM/cKuhMcvAPZiBWh0z7rB/bbSb9aJrNf2G8+GghbKwEMd4KpKPIpxcgL7TTRd1rl60EKny+fRrBKhnO+wOrigfVyL9cABOrxEP5F9mdpJ5EnCWWAW1VZNuBb954AApZybRws5XqeBxladvaF+HE9FbVvDyx/m7YM1rUf4R9hB8kVwjdljId3YCYOkzMUjtPFuGtHfKbb4iajSVMKrAE+TyOsBALieZFznC9+lkrk6Z/wf32wX/7DN7o0PnN38Xl6pUvwrFNhq+waUeTP9sglIxoaA8KYE9jUPEn/zzA=;ZKgw2OhVyAxwBeBFJCqo9w=="
 ---

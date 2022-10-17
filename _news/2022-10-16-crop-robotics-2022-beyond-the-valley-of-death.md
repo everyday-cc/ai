@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

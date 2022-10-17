@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4546210-bigbearai-changes-ceo-as-
 webUrl: "https://seekingalpha.com/article/4546210-bigbearai-changes-ceo-as-government-results-slow"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Former IBM VP Mandy Long Becomes CEO of BigBear.ai"
-    excerpt: "general manager for IBM Watson health provider analytics and chief product and strategy officer, AI for IBM Watson. She previously served as VP of product management at Modernizing Medicine and Experian Health. Amanda “Mandy” Long, most recently vice ..."
-    publishedDateTime: 2022-10-12T09:44:00Z
-    webUrl: "https://www.govconwire.com/2022/10/mandy-long-named-bigbear-ai-ceo-board-member/"
-    type: article
-    provider:
-      name: GovCon Wire
-      domain: govconwire.com
-    quality: 39
-    images:
-      - url: "https://www.govconwire.com/wp-content/uploads/2022/10/unnamed-file-61.png"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Columbia tech company BigBear.ai taps former IBM exec as CEO"
     excerpt: "Columbia's BigBear.ai has tapped a former IBM executive to take over as CEO of the publicly traded tech company. Amanda Long, who most recently served as vice president of IT automation at IBM, took over the top job from Reggie Brothers effective Oct."
     publishedDateTime: 2022-10-14T19:01:00Z

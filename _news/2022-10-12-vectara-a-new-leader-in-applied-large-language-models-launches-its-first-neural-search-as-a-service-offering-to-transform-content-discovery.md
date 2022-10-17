@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
 webUrl: "https://it.tmcnet.com/news/2022/10/12/9690729.htm"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Vectara’s AI-based neural search-as-a-service challenges keyword-based searches"
-    excerpt: "Vectara, formerly ZIR AI, has emerged from stealth with $20M in seed funding, offering AI-based neural search-as-a-service technology."
-    publishedDateTime: 2022-10-12T11:00:00Z
-    webUrl: "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/"
-    ampWebUrl: "https://venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/vectaras-ai-based-neural-search-as-a-service-challenges-keyword-based-searches/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-search_search-engine_connected_network_1400992296-e1665532643283.jpg?w=1200&strip=all"
-        width: 1200
-        height: 750
-        isCached: true
   - title: "Vectara, a New Leader in Applied Large Language Models, Launches its First Neural Search as a Service Offering to Transform Content Discovery"
     excerpt: "Vectara, the operating platform for neural network technology, launched its first product, neural search as a service, that leverages large language models to understand the intent behind user queries and bring meaning to search."
     publishedDateTime: 2022-10-12T21:46:00Z

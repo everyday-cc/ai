@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Regulatory and legacy system contraints hampering machine learning deployment"
-    excerpt: "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England."
-    publishedDateTime: 2022-10-12T10:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/41125/regulatory-and-legacy-system-contraints-hampering-machine-learning-deployment"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 51
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "Regulatory and legacy system constraints hampering machine learning deployment"
     excerpt: "UK financial firms blame a lack of regulatory clarity and legacy systems for constraining deeper deployment of machine learning technology, according to a survey conducted by the Bank of England."
     publishedDateTime: 2022-10-14T05:46:00Z
