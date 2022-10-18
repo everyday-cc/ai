@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
-    excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
-    publishedDateTime: 2022-10-13T12:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-with-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2028-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
     excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-17T04:23:00Z

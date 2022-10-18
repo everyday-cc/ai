@@ -7,7 +7,7 @@ originalUrl: "https://www.androidpolice.com/best-robot-vacuum-cleaners/"
 webUrl: "https://www.androidpolice.com/best-robot-vacuum-cleaners/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here Are The Best Robot Vacuums For Cleaning Your Floors Based On Extensive Testing"
-    excerpt: "The best robot vacuums employ super-smart navigation technology, pick up a significant amount of debris and operate nearly independently. After over a month of testing seven top-rated robot vacuums, I found that the best overall robot vacuum is the iRobot Roomba s9+."
-    publishedDateTime: 2022-10-13T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/best-robot-vacuums/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "The best October Prime Day deals you can still get on robot vacuums: iRobot Roomba, Samsung Jetbot, Roborock and more"
     excerpt: "Have a very specific clean in mind? Mapping can be controlled via your phone. You can even watch your robot vacuum operate no matter where you are, using Samsung's SmartThings App. The Jet Bot AI+ ..."
     publishedDateTime: 2022-10-14T10:33:00Z

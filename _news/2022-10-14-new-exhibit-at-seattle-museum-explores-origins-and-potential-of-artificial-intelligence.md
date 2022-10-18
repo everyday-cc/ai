@@ -39,7 +39,7 @@ related:
     provider:
       name: KING5
       domain: king5.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://media.king5.com/assets/KING/images/b984100c-3229-4518-ac14-53c334bc7963/b984100c-3229-4518-ac14-53c334bc7963_1140x641.jpg"
         width: 1140

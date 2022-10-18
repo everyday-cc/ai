@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-wi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/arthurherman/2022/10/17/the-chip-war-with-china-is-just-getting-started/amp/"
 type: article
 quality: 89
-heat: 89
+heat: 90
 published: true
 
 provider:

@@ -27,35 +27,49 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates"
-    excerpt: "Microsoft on Wednesday kicked off its annual Ignite conference with multiple updates to Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos ..."
-    publishedDateTime: 2022-10-13T12:41:00Z
-    webUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html"
-    ampWebUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
+  - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
+    excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
+    publishedDateTime: 2022-10-16T20:36:00Z
+    webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 103
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 88
     images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
+      - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
+        width: 1000
+        height: 563
         isCached: true
-  - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
-    publishedDateTime: 2022-10-13T12:43:00Z
-    webUrl: "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html"
+  - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
+    excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
+    publishedDateTime: 2022-10-14T22:38:00Z
+    webUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
     type: article
     provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 69
+      name: CRN
+      domain: crn.com
+    quality: 86
     images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.crn.com/resources/026b-12dc0c217709-cef7b9099c99-1000/nadella-intro2.jpg"
+        width: 609
+        height: 457
+        isCached: true
+  - title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
+    excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
+    publishedDateTime: 2022-10-14T22:31:00Z
+    webUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
+    ampWebUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
+    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
+    type: article
+    provider:
+      name: BizTech
+      domain: biztechmagazine.com
+    quality: 59
+    images:
+      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/2022-10/BTQ422_MicrosoftIgnite_Insider_CTA_300x250_1.jpg"
+        width: 300
+        height: 250
         isCached: true
   - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
     excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
@@ -84,43 +98,6 @@ related:
       - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
         width: 610
         height: 354
-        isCached: true
-  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-14T21:25:00Z
-    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-    images:
-      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
-        isCached: true
-  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
-    publishedDateTime: 2022-10-14T06:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 49
-  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
-    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
-    publishedDateTime: 2022-10-13T16:54:00Z
-    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
-        width: 1152
-        height: 768
         isCached: true
 
 secured: "LgGvvu7HaruFapddJMsqLAceiEF6nZkuCMp3Bu+erG1zL50abLSgoVEILZP+tYz4ioDkZvVV12GIDxT8B5bgPY61q8RpbkvKQ/PWUSZexnX3YIUfX1gSWq0F3Jishq+g1KFquFVrFTDMy1OnF4jutqP8bYA35LTwNUIWw8Z4ZOEQvv3+jiTThnAMzdeUpSQ8A5HwSRiElGs+fADOcNqdk+aLFhQV8h6hfmbGXmHczK8tafAzbA9n/gy9sEbqVGLfpSpqiLdqEhlDE3nW4RHqY4ZIdmL6BNM3vp1FO/1BFunWdZ9eFnrNpfKXo+mInyrp2cfh49lRN3/LUdJ3QlLYj3h5QKclbGIpVAk5Jj5lXnAOAiK1TA2afa9LW6JRPJOJc+AWxJXtE0SwshppX9jwfMUeS7P/ueHPhIsD49ywu2EXkCnKv/6sJ0kzQS46+Y9BiBTDUBgSmjGZSZM9UAoN7EHs4hK8JEyIEwzww1pzv8fSdYaAenBSFFkyemUwTUWVv+o7RQhwgOYOq6wxWv3xfA==;IsURHbyEqzWZ/qyJvbj88w=="

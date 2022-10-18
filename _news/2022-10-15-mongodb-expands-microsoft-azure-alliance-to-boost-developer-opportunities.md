@@ -25,79 +25,51 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft debuts PostgreSQL support for Cosmos DB, multiple Azure updates"
-    excerpt: "Microsoft on Wednesday kicked off its annual Ignite conference with multiple updates to Azure cloud services including additions to its Dev Box developer environment, PostgreSQL support for Cosmos ..."
-    publishedDateTime: 2022-10-13T12:41:00Z
-    webUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html"
-    ampWebUrl: "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
-    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.amp.html"
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
     type: article
     provider:
-      name: InfoWorld
-      domain: infoworld.com
-    quality: 103
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
     images:
-      - url: "https://images.techhive.com/images/article/2017/02/p1200405-100708005-large.jpg?auto=webp&quality=85,70"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Top 16 Microsoft Azure certifications to expedite your IT career"
-    excerpt: "Here are 16 role-based Azure certifications that will give you an in-depth understanding of the skills and knowledge required to elevate your IT career using Microsoft’s cloud."
-    publishedDateTime: 2022-10-17T10:00:00Z
-    webUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html"
-    ampWebUrl: "https://www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
-    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/409828/top-16-microsoft-azure-certifications-to-expedite-your-it-career.html/amp/"
-    type: article
-    provider:
-      name: CIO
-      domain: cio.com
-    quality: 74
-    images:
-      - url: "https://www.cio.com/wp-content/uploads/2022/10/shutterstock_2048828078-08.12.21-it-certifications-grow-in-pay-reversing-a-three-year-downward-trend-david-foote-100912983-orig.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Pocket HRMS Now Available in the Microsoft Azure Marketplace"
-    excerpt: "Microsoft Azure customers worldwide now gain access to Pocket HRMS to ... The latest update has incorporated an improved AI-based attendance system and an AI chatbot- smHRty that can interact with employees to apply leaves, answer queries, and more."
-    publishedDateTime: 2022-10-13T12:43:00Z
-    webUrl: "https://www.businesswireindia.com/pocket-hrms-now-available-in-the-microsoft-azure-marketplace-81213.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 69
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81213.jpg"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
-    excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
-    publishedDateTime: 2022-10-14T20:42:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards"
+  - title: "Microsoft will launch an AI graphics app powered by DALL•E"
+    excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
+    publishedDateTime: 2022-10-13T19:46:00Z
+    webUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/"
+    ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
+    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
     type: article
     provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
+      name: archpaper
+      domain: archpaper.com
+    quality: 74
     images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt441ad442689eef67/6349c98656714a6f890cb9f1/azure-tofino-alamy.jpg"
-        width: 7360
-        height: 4134
+      - url: "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "MongoDB expands Microsoft Azure alliance"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-17T22:27:00Z
-    webUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
+  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
+    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
+    publishedDateTime: 2022-10-17T17:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
+    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
     type: article
     provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
     images:
-      - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
+        width: 796
+        height: 438
         isCached: true
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
@@ -122,6 +94,38 @@ related:
         width: 1152
         height: 768
         isCached: true
+  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
+    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
+    publishedDateTime: 2022-10-14T01:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 47
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
+  - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
+  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
+    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
+    publishedDateTime: 2022-10-14T10:10:00Z
+    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "4qaDD2WHJvPsJ1fKzLOtwzSnFbWuSsGrIzUd0npsR+XjYbHb5mXOatIUe7XS1KyRgDaUckSRgQJ/kr7PCTiXmlgPfCGxW9pmrxnZFMAwgZkUJhRDehFwkJgXwsBrgPDmUbaTBaZhXXI7V0+V6dFpO/p+c+xcKqyoD/0PLIdmUqOSyKNuYi0s5djMDaVYfv9MXewJdZ+0RW0Nyj87uhRFV9cs4z6fvi+mdwPnvEcydciJ7y+ZLpkFKTKOtug/w3kZj7N1lj/ck4tKgJQSra1ly5/SGq8tTed935NYq4Un1MeA2q0vsfT6G8WiQxDRjjDxCPs1Q1/7hYx3VB5+5Ca4HVpugagVX67vDpjQXsUUxUe2WPaQGYTOrFJfih+4k2HnZ9bjzFo0K2zUs+hpKiKXOzuwqr/h4bWlDYTfCx8UlYD2PXrQTjZ5wDgc92WMI8NYT5VQLzXVL6m1gpJKVcVzgehGPVCyFH2oBsmwHi5nFx45p0tRtkaw4xq73D7NGoZKV6cVNq4k1ah/rLP8+SDvMQ==;Gm7w1YirYxw562bZU4h+9Q=="
 ---

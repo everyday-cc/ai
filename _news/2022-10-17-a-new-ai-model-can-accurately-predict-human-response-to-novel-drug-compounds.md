@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Phys.org
@@ -39,6 +39,20 @@ related:
       - url: "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Artificial Intelligence Can Accurately Predict Human Response to New Drug Compounds"
+    excerpt: "Between identifying a potential therapeutic compound and U. S. Food and Drug Administration (FDA) approval of a new drug is an arduous journey that can take well over a decade and cost upwards of a billion dollars."
+    publishedDateTime: 2022-10-17T15:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-can-accurately-predict-human-response-to-new-drug-compounds/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 31
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "a9sVGsgRhy4mb/syWIWa3oR/NK5F0XZbxaLHrWt4Qv9E6fgw7t1OIEIBgZEUkUZVHXUvbRdcxY3FLtpHOJUNn/eR+ih5YOXxPwd5txNPPaBDI/j6hLTFt+Rm/6xedFu/xMagPzfP+Q3u9Uo3zuVab9lh9W63NMfhCp7WZbX/YFUU3SSV81fENB7T7R+Cs/7feAc/WRutzVJ81GHYLD+ZHmHyzPLSeCdy1t8v7OjWIgTvLCooOfFmh+rhjBcctrsqkSLU28+FJvYCR2KvN8slIAKVFeB7LwdLaWy21IyCyAxPTY33St1XQgF6OFWQYwmt+oNEth/tWVywrysn2aUuQnSvi9DLIowG7kKVFiZLDVQvXVTCo5AnUlk0V+w5H0OOQ0bv/qL1o7QPIFsfvdNT6FHw3cMTXRs6zVjX1wTareX24TIHiOx3iIbAxBKz7vs6otPGCMS1Uw8wVJibjJ/ySrW8HaT9JLR/ALp9/QH5WNtSilA5l2/2j8JgbHKMS0SurDOyGv6fUuAxMLH4EprGKg==;ls4ApiJV7FFi937mFoTEkw=="

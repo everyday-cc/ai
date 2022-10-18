@@ -40,6 +40,20 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Artificial Intelligence Can Accurately Predict Human Response to New Drug Compounds"
+    excerpt: "Between identifying a potential therapeutic compound and U. S. Food and Drug Administration (FDA) approval of a new drug is an arduous journey that can take well over a decade and cost upwards of a billion dollars."
+    publishedDateTime: 2022-10-17T15:00:00Z
+    webUrl: "https://scitechdaily.com/artificial-intelligence-can-accurately-predict-human-response-to-new-drug-compounds/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 31
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "8BBlxluUNUWBkA/t0vEXyw4dFb/kqLrlUJHvHNV/DyK3PWSDMCTVzS5K9Z2n/RuL0qwUuMdOniFl3c9E5SOxTMXyw/W+V8gH4wm8QOt6Jzy0RRwZZ70Ud56ARc6V1x0CiofaQ8qRWHfRkI5R01F1rFa+1imYFhXgVD2JPTZL64dqNPVszDQPNCRSTGszoRE6iFU5OWPfqHkpGBZIkYvn9ljwbKZ6T+AadXRmtMR5zmLbfuyDUPTrcTjsaq8wVB5Kl/utgbKiwmKoEOPJF4LkR3yR5BRhwXHIp/2M+obbGK3axxWoEukEwmFt3wj3UbWzk8C/S8Sa1qLkW5zUMSXw38rZsra/FByVW6WZjQ/ylp39Xu776OCY2Co5KZ9Z5fTDKeRPEyQUhNSF4VtGDXhn+sKz2uXbiBTHMUH+APtSDsBhNux6PfPySE5yfpakrPIq212/+yHRdijwrTwz+yKBPYSVFFSZZehOoq8egLEhISN9s6lGpkOsaOnEjd6f2qoLlMH+dxQYGk7DyQ3AKaC7Xw==;lerfbgHaGIvQWEvAeq80Qg=="
 ---

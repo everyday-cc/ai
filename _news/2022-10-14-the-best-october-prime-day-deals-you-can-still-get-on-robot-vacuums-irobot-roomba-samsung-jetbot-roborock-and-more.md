@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Here Are The Best Robot Vacuums For Cleaning Your Floors Based On Extensive Testing"
-    excerpt: "The best robot vacuums employ super-smart navigation technology, pick up a significant amount of debris and operate nearly independently. After over a month of testing seven top-rated robot vacuums, I found that the best overall robot vacuum is the iRobot Roomba s9+."
-    publishedDateTime: 2022-10-13T12:34:00Z
-    webUrl: "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/best-robot-vacuums/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
   - title: "The best robot vacuums in 2022"
     excerpt: "Robot vacuums are an excellent way to clean ... making them a worthy addition to your smart home setup. Plus, you can control them using your smart speakers, Google Assistant, or Alexa."
     publishedDateTime: 2022-10-13T15:12:00Z

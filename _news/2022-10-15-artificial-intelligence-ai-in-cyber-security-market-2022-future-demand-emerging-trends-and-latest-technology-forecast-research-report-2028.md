@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
 type: article
 quality: 66
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -90,15 +90,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 10
-  - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
-    excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
-    publishedDateTime: 2022-10-13T12:19:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "tOT8PLfddDNAlG9yxpbwyW+kF4ctYYpddc1G4LBoGjRqYLGj9Un2k6BUFzP8aVap55cpupk2JYC7xK91Ovnja8shZhxz4jFOHt0wwcLz8yCT1EVZoZntlvg7Rq+OImEukjhuZZKCnSfAD1Q8VCtpxrAIRzqnAvPbFmgUHnq3VAvy8HglVLHJJXV2QEe8Vg6wTEwH0icn50HXTexaEuNjmWdN2vYLWB0FM4N1tKbKA2m8/325Q2Jv/yJMNf4tTabyf+5C57bDhQ8ZPp5J4PIednVaO4Q9KXXjhfye1St4Jl04zMX9nYcI5aVmn8LinzDGruuDROQkAb3I3KUw1WzyjhzCGskcU7/kMUFvfzi4WM4=;T/t9E8C8wS1SKzKUMW3jEA=="
 ---

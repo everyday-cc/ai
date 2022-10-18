@@ -1,22 +1,26 @@
 ---
 category: news
 title: "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research"
-excerpt: "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ..."
-publishedDateTime: 2022-10-10T13:16:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
-ampWebUrl: "https://www.benzinga.com/amp/content/29201236"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236"
+excerpt: "\"Supermicro is thrilled to deliver an additional 580 PFLOPS of AI training power to its worldwide AI installations,\" said Charles Liang, president, and CEO, Supermicro. \"Supermicro GPU servers ..."
+publishedDateTime: 2022-10-10T13:05:00Z
+originalUrl: "https://www.prnewswire.co.uk/news-releases/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research-301644247.html"
+webUrl: "https://www.prnewswire.co.uk/news-releases/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research-301644247.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: PR Newswire
+  domain: prnewswire.co.uk
 
 topics:
   - AI Hardware
   - AI
 
-secured: "rM2L4z7Yqv0OshwyadFkLz117dv96rf3Ao4OcdamL7WIgoHswNPVOLuUzak7EluX0T/QcThh1GFWDXymJkcDsx7vseBfoie/Q6/GahxFRdfnzRqUNa1jU7z/dZCPOHmia/gEgVRT/t0JCmqX7QiVv7dGSvLfRdr8fyafvIoExOvjuea1fge8fCffduHTYEqYchuDWEv9FIY1aLjvmSIilMSCSdR2y6FAgJyzu+Pra0btj8x/dMWarrQZR/sMYoNHoiFiFI6AkVUgnN2Yyqqeg+4xf+k3aLIXdzEj/OgnRevqwuzmOOLx4sX2CqNwVNh0lgyd3E7NHmEY9LoasQA9Ur9L7KmNsdzYhoysSaN+Yoc=;vBVE4pCnFqqmgHa/8vafMg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1916393/Super_Micro_GPU_Servers.jpg?p=facebook"
+    width: 1164
+    height: 609
+    isCached: true
+
+secured: "xZ1auIcIzRRJ6AaOtqw65gQODZLE5mor7YS93nLlUXRUxbI5tNLC0YRMlBskcQQxnbKhbEjKljBbLvGDcJBcd1Ywdvwff7WyuViYac72aMCM5kuvZosITT8/c3BNp8sUXrhTLp5Lo01rum5vyztjvLLfyoVYrg5elDbKZ67gigZ9rS/Z6N/QH9Y79U9i9TV8CjXGK+aH8iINO2/8iMHsv/GJ46ryv02MIrQLPImi4A1mn++5y18ukm6JQlLzFtZ71XxHJTA8npEObTOnApHvrzxuPdGFtoHnUhHQD3cnbQLzOwJrSMDgp7zKzvaNA4QjN57HH4vebUXMeGzhei5KoSUkzLQRUiF0rBFvF3xcDWk=;civbCKw3At2yEj4RDFhrzg=="
 ---
 

@@ -8,7 +8,7 @@ webUrl: "https://www.king5.com/article/entertainment/television/programs/evening
 ampWebUrl: "https://www.king5.com/amp/article/entertainment/television/programs/evening/artificial-intelligence-mohai-seattle-museum-exhibit/281-c591702d-71ea-4023-8fa4-a6058158c206"
 cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/entertainment/television/programs/evening/artificial-intelligence-mohai-seattle-museum-exhibit/281-c591702d-71ea-4023-8fa4-a6058158c206"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://media.king5.com/assets/KING/images/b984100c-3229-4518-ac14-53c334bc7963/b984100c-3229-4518-ac14-53c334bc7963_1140x641.jpg"
@@ -41,6 +42,6 @@ related:
         height: 1417
         isCached: true
 
-secured: "fru3DthXfCtuxf9Fy9ODzb95gcLz18SI0xO6o4R0YQz2iOgFStsFonhU+IQbHwl9EZeitb6D7o40mfx5pv8Pxoz2tTYOUsRC3R31npmrgeV9pAExZZis6ruRniHAZgLKTaqnuDQvZ/OctOTDVmgE3iDYtTFpIrNKezEnfsHKKe6cDEn3OEdiOwJP7PutnUD4ZLljJLuZPYboBFmogWqs+yQstzDHAqTLpiTPxrKO7fkxXLrO0ynPjUTn46enrXL3mrl8Wh5NtfdH7KheA33UM751fijodyqvF9EbKGaRwa/Aq1KzsGLSsPvOlvQ8D/LQuRaaaom7pNz5kpnd1/I01zsGERIaIrEBmcsSm4vV/zU=;FP0p6JiowBrEaVAQLqtAaQ=="
+secured: "/zFSm+HtjMJ4IjbZpmPcTeM3c55/+VobraOawmgvVOdn7UDcv2T2tDVCdwM/IfNArmkIcI7PqSO2ZVHB3yIfi801qQ8oIbsS9R7TZAGRIWlhb/8dqz5Xhe8es78j18OsuRnSVLs2tQwGX6RuiLsV2zRu+OjvzzOzndOH2ls7il0qQb3QXSWN1g9evAwGq+VBGKqnJpHNTbw89nqUM6WAnUjFWMD4VjrXRijaErXKN3nPoptAhGHG9m0BUHzi8aidk4TkkjNMD2sbo+bKLstRosMoWqQ+lugrzK4YNbEWQ4rZktQ/xnRAOP/khSTCcN2orm01C1VRA+8zrDQZ3/y4/ynBDizF9TpYxBd3+Rxf92UqVoFBFL4UwEKPRsuWMk21OnScDa6pTJgWZxB8AHNwlFWsQ18Uk8U2W7ZlVZO0hVQWVZFi6QKXSgcibw723RwTp010REIvcPKeCkR1xJOqJm5df4t6KZhsAr3MFcIKcHYyR+qe/IVZVLpxIH1wRJ1mwvEqx29MoXSnUNqhOd0dzQ==;3ZGsr7FysK1cnlszpCFPmw=="
 ---
 

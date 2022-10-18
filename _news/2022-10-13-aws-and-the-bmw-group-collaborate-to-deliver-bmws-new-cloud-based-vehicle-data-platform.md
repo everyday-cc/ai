@@ -34,24 +34,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 19
-  - title: "AWS and the BMW Group Collaborate to Deliver BMW’s New Cloud-Based Vehicle Data Platform (Businesswire)"
-    excerpt: "With the launch of the ‘Neue Klasse,’ BMW’s next generation of vehicles, our offboard cloud platform, powered by AWS, will process roughly triple the volume of vehicle data compared to the current generation of BMW models,"
-    publishedDateTime: 2022-10-13T13:00:00Z
-    webUrl: "https://www.avanza.se/placera/pressmeddelanden/2022/10/13/amazon-com-inc-aws-and-the-bmw-group-collaborate-to-deliver-bmws-new-cloud-based-vehicle-data-platform.html"
-    type: article
-    provider:
-      name: Avanza
-      domain: avanza.se
-    quality: 3
-  - title: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars"
-    excerpt: "AWS partners with BMW on cloud-based vehicle data platform to power a new generation of connected cars - SiliconANGLE"
-    publishedDateTime: 2022-10-13T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/10/13/aws-partners-bmw-cloud-based-vehicle-data-platform-power-new-generation-connected-cars/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 3
 
 secured: "ZbKXokBlaUbhkH0Kpo2AkSAxeMK57vBODMJbUzyy912mu56MTSpuw2iEWpfyylgMGXhWflwqYV7OwMBn4n+0YfCHyklrA5rau3kC5g1jRNbBOgfw8bATN6nP+S5ZzSWCq/fdIQm/wyou8iPxLmlCpwbMri4ReAerq7aLbtRBpiHQtNE3aK5XQ8eUuOJkoz3DPeCCItJqK7oPh5bpqZYoMXd7QdmXSoHvlSnzu4O6LVIa6AHzi0lClIYf0Yv6EQZJJE9Ru4pOHH53xkU52HkvKPBgRItVn0sExPDBubyPXfTSM5aFWFua54vrt6x1e9BGhkVfz99UDScrDfoPcX07K3prYHszFDr679NSwKeWMhA=;bPr8oq3Oh6YPogyu6zJycw=="
 ---

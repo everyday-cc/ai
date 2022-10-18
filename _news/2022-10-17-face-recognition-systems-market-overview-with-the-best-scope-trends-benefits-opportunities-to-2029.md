@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
-    excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
-    publishedDateTime: 2022-10-13T12:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-with-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2028-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
     excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
     publishedDateTime: 2022-10-14T04:21:00Z

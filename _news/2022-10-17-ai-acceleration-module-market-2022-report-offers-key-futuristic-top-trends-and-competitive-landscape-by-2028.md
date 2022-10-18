@@ -87,15 +87,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 10
-  - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
-    excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
-    publishedDateTime: 2022-10-13T12:19:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "ufSilR4Vx/i0unYXcOsZfReOqmQ1p3/QDNoxT8uvqEtGNZkqH4XNzP6pqxwji27mOk7/kCehfwM5GzlB+0m/UroTYeCUBcsUHu8jzHZAU62gPBorDM6OQakJvB3gKBTN/1ph3jUz2+JyVpLmEQ9YW9JBEphACc6xj7+EhIXQqIXtVtlbqeJZlnV16FV18wZ2OVw/7qWR57ESs4CvqMcNSm9E76HFOMpODMWashl2dKBOCzqaZPg9yE/QBvzJnKJRolP4brdyutGEce6cLnFsyxoQ8X+efq40t+mO+G34hXFYRiNUgDjE4Yj7O0EPNKugmWb2RLlPG+OTebPqEJoIEluET9edsKZUVbXpAqwkx0g=;ozPskjmzdDzeQNVVzFl1dQ=="
 ---

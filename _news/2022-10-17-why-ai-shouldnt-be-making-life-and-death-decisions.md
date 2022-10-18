@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/amp/"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 3000
     height: 1687
     isCached: true
-
-related:
-  - title: "The Download: AI’s life-and-death decisions, and plant-based steak"
-    excerpt: "The messy morality of letting AI make life-and-death decisions In a workshop in the Netherlands, Philip Nitschke is overseeing testing on his new assisted suicide machine. Sealed inside the coffin-sized pod,"
-    publishedDateTime: 2022-10-13T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://lh6.googleusercontent.com/3uXn1NrHGpL8rbnt_pUfL1DJcMHscNoC7H6Gt4mP8Mwje0auvPd0unBoM9lsQnVuJ6KDFDAHI2TSFpSkZixoSP-nZfDINZc8juKy_-QDsx_S8oKEYM82qzlormhg03VNtUczjHqHVoFGyIMBJUkvYjMGUB274MRt4aFprKeXWWqLZrb3hEsez5KB"
-        width: 860
-        height: 598
-        isCached: true
 
 secured: "29N/X+Dtmq/HSxOAcRq/PK2XVcni7Xy//TmEQDe+HJ7Gi7eEP/Ar0T5C4qFwCj1oLYLdK1uptAuAgeo3f+kG01AD0LnJaM9VOqVmY/jKOxeHyJ/aaKAv1ZpCKesA98il1nmzIFgjOsiWgHnjrzWMctqEwZoBPlm5iZ4R0pW5rFmD67K19VQDzJrYl7KdD8a8GLjA0fFcYVO3OzWifjAoqklgYOrUcPDMdwrQ6CEC7pXCjEHMNgUM757Bo+0lkN4RROuCIwATuHjcOnwJvwHaWebyN4D6NkUO5i0+MLR04NJpScyISBlXl3pxi4tQC7qPwP2WvNlootpQPbhrIySAR4j0WM/lSCKNN6ZtMTpUeQOnqPFuAzT6O2V7J/dpR/zWiXq0s1YT2Ag6H7BhsrHVeT0jXM0/h2O9SXi+VwqGYQBiKY6Dvc/3eSOeEi1EOZHx/hpkmRNvVcqBEmUr3My4Jri60L1eLmBizN23sCq8wWfNzGdF7fpcErKErY35LxvaGAqR5hH7uMgKQvWexkUC7A==;mfGVgdm8OEVBQpeCjvjirg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://hayspost.com/posts/c4fd2150-6185-484a-942d-abbd3c7f2044"
 webUrl: "https://hayspost.com/posts/c4fd2150-6185-484a-942d-abbd3c7f2044"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -27,13 +27,18 @@ images:
 related:
   - title: "Opinion: A driverless vehicle update"
     excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
-    publishedDateTime: 2022-10-15T00:18:00Z
-    webUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
+    publishedDateTime: 2022-10-15T00:14:00Z
+    webUrl: "https://www.starherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fb4a24b8d"
     type: article
     provider:
-      name: Northside Sun
-      domain: northsidesun.com
-    quality: 19
+      name: Starherald.net
+      domain: starherald.net
+    quality: 39
+    images:
+      - url: "https://www.starherald.net/sites/default/files/styles/facebook_post/public/SH_0.jpg"
+        width: 504
+        height: 315
+        isCached: true
 
 secured: "tLzibgJUR4O74FE7oVYPzRBpnAejECAn8d5AqIoDTYqi9GZ3Yo+tAu/nJDz22LyzZltL2UmL3PR8yVcf5J3AaseZGK1kTaZ7Wd/aBqYCATZZA0TbKtdut0OawoMY8nM3dVC00lg48VSZ92ADqP5HUCfdeRhR0LJr/X0RlYk6fReWmbPn9vgM7dKSWteH2LVIyBW4F5skdRWEhSWBD+8NtqmExC0QdMJTznpi+/DVZMLOA/6AMEtu7Ed2xiprkkkmWrp0QHSrgCNBraDzplNyABJLZi7IwTg4eaFufpckgLAROG/heh4E9/tAbDn2qoGR5AXzwGRskpkiNLPeSHhrgVREKuVLRiS4O8Fu7c/XJYaAV3AjbqLYXYle2Mo/wQczUdYixTkB03UksEa1uKFnnNKuF9FBvxz8Gaq7YBDab7IDsP9Uqg9Ea5es+X7wMRvPI483j9Mc72KfO//jn9wy+ysv4kXqXASF2y8Siltsxy1loT78ySs6HloO8EgSJQ6VN1uXqI8Nrcmy/pOfIJSEKw==;6vT6EiFHOHLYy9F6npS4Ig=="
 ---

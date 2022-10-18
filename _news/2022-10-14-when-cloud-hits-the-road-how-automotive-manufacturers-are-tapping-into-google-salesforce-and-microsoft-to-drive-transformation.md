@@ -65,6 +65,43 @@ related:
         width: 796
         height: 438
         isCached: true
+  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
+    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+    publishedDateTime: 2022-10-14T21:25:00Z
+    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 53
+    images:
+      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
+        width: 610
+        height: 354
+        isCached: true
+  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
+    publishedDateTime: 2022-10-14T06:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
+  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
+    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
+    publishedDateTime: 2022-10-13T16:54:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
+        isCached: true
   - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
     excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
     publishedDateTime: 2022-10-14T01:06:00Z
@@ -79,6 +116,15 @@ related:
         width: 472
         height: 315
         isCached: true
+  - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
 
 secured: "iOAdTTe/Up3ICh4a0zCSehwIGNeelTEOXsbbdXnpwbggV5E3AQPhqjme372vwDb9qAmwnO5Q/5os82bRn4VztjL1f8uDlhU864sPQ+NxgZ7hN7Iy8szTEq7DWe0cWY4vKxEUD9xzWrF0eRgnXS1larIRG4LSUWxE/L7sH+5WlyDINmurAgfeIb0hTwqYGeqwzW7/tPmDFMxXQUnvbIXcKWmo6YjqKAcJhdvMQ29Zbv58wOVCaArCyJ9PrVfbNPyMAe7lK9cGqR0a5X5/kdAjAaW9TbRtOLQX9Kw464PWx8/jxOW0Jhn1Od+s79jTPAATnMtbFlBx3UFcok5kxopNKgmc6vcTJX2PoNFXEA3XdAfMNObh8t6NYDlKdIcNUDk7hxYhK8GhgYQ7X0JKadBYh5tMI4c5AXqzdpL+YZWHS4cHJ63BcPs8jLwLXeR3NeVN+45nrPKUsBj3qeWVJ/JKw5ThPGJXjtOsYZL2xrshtjs5hO3iF+UvHmyYKVCr7ypapA5QnbQ6Dm6ejH8Hb0w2vw==;mdpe4A5FCB0TZfbXYB4VZw=="
 ---
