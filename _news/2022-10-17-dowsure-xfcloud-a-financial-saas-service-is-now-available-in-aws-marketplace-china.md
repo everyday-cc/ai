@@ -1,30 +1,21 @@
 ---
 category: news
 title: "Dowsure XFCloud: A Financial SaaS Service is Now Available in AWS Marketplace (China)"
-excerpt: "Dowsure's product \"XFCloud\" is now available in AWS Marketplace, a digital catalog with thousands of software listings from independent software"
-publishedDateTime: 2022-10-17T14:33:00Z
-originalUrl: "https://www.asiaone.com/business/dowsure-xfcloud-financial-saas-service-now-available-aws-marketplace-china"
-webUrl: "https://www.asiaone.com/business/dowsure-xfcloud-financial-saas-service-now-available-aws-marketplace-china"
+excerpt: "AWS Marketplace includes thousands of software listings from popular categories such as security, networking, storage, machine learning, internet-of-things (IoT), business intelligence, database, and DevOps."
+publishedDateTime: 2022-10-17T14:51:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/17/9693668.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693668.htm"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Finance
   - AI
   - AWS AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_849.jpg?h=7de12b8a&itok=p_b4pCD3"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "IJHtd8Sg6y7+5nQ9/keTrh480RnNqVSX5QZZRMs9RdxaBqeeCX9p5fzNgC2V5+ymLhFaD21bLJczNWQYembAz2lh0D3OjSl1hhJFzXeXvZNolpCvK13tBYM+9apxpXk1MF728lKkASkFkGJXO3GfWtN8rAEeclXTvvTszQFDcPQh6F0/Jdz/I9B2LWzDS+QMpqksTFVU90s47js/OqWhl9NOyuSc2IFNj87D0lhtLpus1YCbngkXrE1f7ZaOXY3uTsPyl+ZYdlCI/MH6z4QsYk1wLiZt5/aIFXaIZh+MzhtwrT46ZBRWxGum511tcI2Bu1aSW9bXFUBKp6Ar/fcGmS1J/+dG1u+sEaksvzeVuBtbSbp4uOidwWV2869TPTJ+IDbUBME1SrD4Cjjbq507/aTs45/Ax9uc3jzu/O5N6OnmT8p4OgxaX9lJTheDn6vsgFLquB/poWSLXRoQZJkhfqiITn1/TjCMLOODwnl+FemOKYIRW7iETWTmn1nmAj9XYMLtB6chZefEjmy0Ev0giQ==;k6+LpsB1mZ7RvQZPabYDhQ=="
+secured: "he8ExW9vkiq+f6eTWGF6oLOy7KZW4D1ktHzvIFev3ROVRbqhqhSco9ZtrhOWtOmja2ujkTx5BBBgwPbLPuNCHwqffv8KTpXX5v8XwHiKEDpHvQ7BR8LLssYCSj712N6+aRGm3TzLVQBhtTRp1Zzli73llXRjtq8hSk38NX1KT2DIVDZzFrG/k/SLk1d8+wvA5Tf44qbLksD/lemAZJnzj99asOkJr5L50gA4ji0F520caPSsFPGzyHNNS9ipoVTncoAhFVM3+NPCHO+SP8Dj+lQaLlS6k3cIYc3KQpv9+cZP/haJ8trn5Y13G5Ey8iBdrgEjKSNCVCMRgaXnvSo3GqDOQ/4fQWMUaMFNAmgB2hA=;6KgPL2JaXI4v04Ms6Uoecw=="
 ---
 

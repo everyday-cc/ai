@@ -5,8 +5,6 @@ excerpt: "\"Supermicro GPU servers have been installed at NEC Corporation and ar
 publishedDateTime: 2022-10-10T13:16:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear"
-ampWebUrl: "https://www.benzinga.com/amp/content/29201236"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "tDlAQxHRhDBZRZabqCvMujYhAcFKO8YOfffssZ6ZWCZslWOfiLkKvJUtl5VzmMODlm3at/fUykWlKDwzFXoDrzK+fVIeNfIpNPQ0BPAI9O1ueXmcaDUUURA6uv7tPPlilvt9LGAmwAmOjgP3Ns66sXN4sxdblM89SIvuYMwF7b92RYDlxfkCU8uI73mCaYyPdg62D/NDRWW7zCdis1hIONt3yFQu0LpLT5WDFpydcwZjedUIxhbbY0QPn5oc6B6iDpazdjBREm1adB6RSEis8a6y6XpmpsU4PmlW7Oyqxl3RFUpdMkfMECN5QTJkxWgbrGFOyIBBzvFL9YCSs7QMJVbt+2aB2qghQtitY0EQ4vI=;VyQ9QbDlQ4GI637n/+0EdQ=="
+secured: "O0WrJlyXdNwz8BfvXKq2brkK+r0u2oL9puQlrHfocyX+coQGFS9Ec28cG2NV0vWwMFgyH19oqffvgElIjSv50iIXPuE7MtPm7FaTql7oaqzu6Nk2F8oIGphW8r9JTPU416BuexwDGKt73Fop0y4w/eSChc+s5wzFbKUhgxz4SGPNXmNf0AiKzRwz7LB7vb93vUlp6hawAncCc0tRiqKM6O8yPjlG4gqzn0AsLTMYo2339yyXXU4EpGfuNXmiPVvXQMi2pvnkskWNs+EqW8VIeePIcoM/wq7Zj/pHtE/hXdLwBwEcYcpFwcwDQYINuBGSbosIDW3yqVFJI1+zxxnNEaVfvIGRmexBUugc02zFFQY=;DGFkY54tIZ4T/ns0rXqY9Q=="
 ---
 

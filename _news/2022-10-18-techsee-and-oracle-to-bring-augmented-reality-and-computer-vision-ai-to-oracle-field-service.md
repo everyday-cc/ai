@@ -1,25 +1,20 @@
 ---
 category: news
 title: "TechSee and Oracle to bring Augmented Reality and Computer Vision AI to Oracle Field Service"
-excerpt: "Oracle and TechSee Partner together to integrate TechSee's Visual Engagement and Intelligence Capabilities into the Oracle Field Service Platform NEW YORK, Oct. /PRNewswire/ -- TechSee, a member of Or"
-publishedDateTime: 2022-10-17T17:25:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29293553/techsee-and-oracle-to-bring-augmented-reality-and-computer-vision-ai-to-oracle-field-service"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29293553/techsee-and-oracle-to-bring-augmented-reality-and-computer-vision-ai-to-oracle-field-service"
-ampWebUrl: "https://www.benzinga.com/amp/content/29293553"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29293553"
+excerpt: "As the assets and equipment field service technicians work on becoming more complex, the work between TechSee and Oracle embraces a growing need for service technicians. By enabli"
+publishedDateTime: 2022-10-17T18:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-techsee-oracle-bring-augmented-reality-computer-vision-ai-/2022/10/17/9693795.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-techsee-oracle-bring-augmented-reality-computer-vision-ai-/2022/10/17/9693795.htm"
 type: article
-quality: 43
-heat: 43
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "eYAcndTp6plgJlFCvJklH96T/+5q2Fd8QhhS3fIg9FjLZDEd40Luo6a0Ju80kjkC7jsg89dbzC5btgzWUTnQk2nVAZl8aLJkNpUz4OiWQ4lVbXa0BC0G17RTTABvmPmsS+BNigVSQ6dxx1hEMLJGv27O9Wl3OHCecJZh1uWA3unqBCZdoAnvHmq3iWq3pjDzhCubgIkTlr5Y3KwgHD+TRGqvx93X3W6XHoZsXixyIIezdpsSM2h1a7MTX3w3Z6D75ao8ImMiOOkW/KPIAUrR2pVACABMiiJI0LsZEdzHTsTFhSMZ15pnbMlJruX0vc0meW8VQYUv4a9MfH26n4ii4bvezKTjK9Z46z2Z2jU9HZc=;sqLosyyzRUz65NMMk/QzDQ=="
+secured: "Wf1xERYVxkOGEm1QPpH4Zr395LN2dH/VC83Pz6YG706DLiMsxYbRAVfkpjx2aBD8m+azTia+nZiplKo4ZBhCbZcrm9LE61xXUejbNKMWZIFi9jgJA5hHdAGLYpdV06kAX94CA/KN9CF25Pq0UDd7v4MNDY8gtL2zXofNH0tktb5W47mN8KyuBtabfu/2kK/4LeQhhTnXg/nByddqJiK6K45/RVzonno1qDMKOD94hcBl761WyL7u6TADvfBGgqukESF49ePfx+IDwwy7uiuFphIv85YGRa35XH4963Ljb1OzFnIbPsSqQcFeC8z20jFU1F15kEXnBI94UBVSv7EdrlWd2FMNb/6McDkoIXQD2cE=;Elm9NBtf87kAmvnth7uf1g=="
 ---
 

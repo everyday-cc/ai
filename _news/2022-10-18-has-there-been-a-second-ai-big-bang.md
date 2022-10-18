@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200"

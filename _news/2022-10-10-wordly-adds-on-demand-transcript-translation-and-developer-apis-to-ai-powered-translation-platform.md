@@ -19,12 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "pAyZFDcBjHIT3iW7uu5aOUjmaE8rLGr2aUEtLPwLlj36djlFdIO4V41309VMukGenPQ+ZCB6Draigcn0CzL1o84JuYAsk76emsnQYN24R54uS4xN4RHogOmuT5NpeaFokkllXt0G33vz3nby5NsEtaayiATK0RLFU3bs7lWjJObYe8uP54NfarYLLnKShGniDJ6ljOvgJEx40mfOGJWgC4hz6RW8X4YgH6ffPNgzkDTaFbpF+95JWA8gMIYQ50smBgRumrclHCftbvQanDuExvfqCuUQqoE03Eg1xmwkDbQ2yldErjKpFVp2dY9MVy1deCjoyxiCjkUK0Kg/ZsreJplPcDlhk4lRBLjfjQ4E/z0=;gwfLvt6nb90rQmJX6uNpXQ=="
+secured: "HHWH8T2gv4aCdj+Q8l7EMrsHMArxgIDOZXlXpzqqBB591DPVU/aDHX5zLq7qr4GXMBr1tzdEHPOqXWZFVfTgMQDjoUbTiftmTjUB8ps+WroIaIKiVpXSKl6WVkJWs0IgXhOVNx1KWuJL0DGmHfw0NI0u0CXgq4ac51RJ5i4c3wf51FSqth/no7VlIeW/5nmzWdu2C4RwRbLc8ymaxOYg3nyFVz4v8aD8vapF4nITiR+Bwct9kLA5qXmbq3rNmD3SQjfywdfvPqfnaWxtPAnyDhn8uBw1EeDeYo4e0VfxsyiLDScTVVR8Y/whb7cJ26iYX9UCKZhlqVaOuyjlM40CQ+oylXoZtL876Utku+UbS6Y=;Lr6S+g9iFjjcUudiYi3yzA=="
 ---
 

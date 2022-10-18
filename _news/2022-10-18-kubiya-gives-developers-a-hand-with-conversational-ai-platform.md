@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 450
     isCached: true
 
-secured: "nRmeRq0jPCq1JGZ/DxzI8CyY1j881zBZU/t2p3CGjcEaxnhdK/gIc7uirvCtnrvYX85ms+mwW8PmfxKayseeGz0rWglQP1/qtOaDjogQYykK3K0BgJ7+hVioUY3N0RmBQTysTPihxBycNXqRO6y4a21zFUjto8aTvhdgovn4hNu46wxFl2N8ebfbGTqwpCl2xRyxvRY8I6q59rG+hSbL9uV2YMGnmvkFIPV87g6gUWi/e61qaVER1GAEnKhkmrPHf4wUZbxbD3//LsVYcGCk02dtlEJF5ngDigwuZD6cEYwDf0xNI0n5dk4Z91HFgPzKXCLVNPSbb0ymjdcMIqxZvx32x7RH/TrqorYrlmSRP88=;zauiVxeY21hyJmq5w5++xg=="
+secured: "xemEBOFAG44rSeZdd8ehh58onidGI4Kd2fGSHZXu8+plt85mV6XQ6jKpLEVVMnxfgyQZVZUdYqMmbE42XbSubjYST9uIwZtKfUnttY3z+JsUZIkhHydpr6SshzYcRK0VjwqKM+sDRiExmrWKOS8DdGAwJv0IwgC92UZAB2rSAaLXDFa7a9wKVdPNF3TMjoH1Yn4xLQBGDFeT9C/NoEvITkMppP3muvG08vYeWwKkDp5qmMkRfke5KiLeZsxL0RA6dFJ/Uz1irZh0jLffCVfB9FfpNEduZO7ak9olCHY1nOln4qDgv6HjZQXvd+AhyYZKRTv5yypsmTeRgRpEvDGX8YxyniuRmvA2b+8rRqH1ttyT1wl2rQApGEN6Pq38UJyo5VRCaBtY3Rnu8c8UKjX5Yd42pxeiDemOSUHyyaLkD38WdXLRDO6yShY8r9UftngUNw5Rfrp6XD0jqkFDfxub2hz2cFyMvTpxt6nCZhLooO4s02TNskytcCKDpRg/GLUZtdswPnXEcIO2bClHPIVEag==;fKI2SYoJryd8gJoLqTlQGQ=="
 ---
 

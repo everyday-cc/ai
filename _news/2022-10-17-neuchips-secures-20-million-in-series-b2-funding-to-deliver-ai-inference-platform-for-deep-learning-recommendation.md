@@ -1,26 +1,20 @@
 ---
 category: news
 title: "NEUCHIPS Secures $20 Million in Series B2 Funding to Deliver AI Inference Platform for Deep Learning Recommendation"
-excerpt: "NEUCHIPS, a leader in AI ASIC platforms for deep learning recommendation, today announced series B2 funding of $20M. The round includes strategic investors Wistron,"
-publishedDateTime: 2022-10-17T16:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29292068/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learnin"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29292068/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learnin"
-ampWebUrl: "https://www.benzinga.com/amp/content/29292068"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292068"
+excerpt: "New funding will accelerate delivery of their 7nm RecAccel™ inference platform to cloud service providers. SAN JOSE, Calif., Oct. 17, 2022 (GLOBE NEWSWIRE) — NEUCHIPS, a leader in AI ASIC platforms for deep learning recommendation,"
+publishedDateTime: 2022-10-17T16:01:00Z
+originalUrl: "https://financialpost.com/globe-newswire/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation"
+webUrl: "https://financialpost.com/globe-newswire/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
-secured: "es6SxaGhokmcYpf/lfy9BXDos1N6fIgcme9Rvs1dp7s5cVqW1ar9JF96WVI0ReKZJQEgBol+JnZnChwfLbTPVFwxw851PrIfi5nvvSsPr175ED6IO55qy43REQa9x1zFVBJDSLHPQNuJ1ohdkkyd5vTzIsq8dk8WikrntfB1ZJbGuPsXXYZ0pFMGYA6c0XNp8UGErKG/xEnlisQUlzDgs52YZIgSOm62sinsyzqIdbzyuHDY1pelv/bb9OKcuRGZmz3lVGoY3olrezhJ+E2wJHSlzbdD7B4C5KuuRAyHGA6unMepJZkYPFy+Ad/W/ieKG8OzeWSMVuzlOwsDx5dBaXHF/p1IWAtxeUG4WBiqeYY=;wvmatqGQBG9OJAwx3pk1Wg=="
+secured: "HFhMqDtKDr0hz33kHT7fbE0jJ93bUcO9qV0ASp8XSq5A8d5e8av8HJDfWX7o5sW6UpaUjzJaakBayCfxGyVPn1w45SQU9KDgUYUWCQ9HCLY+X1hUifLfrDIUNSr7ccEC4BV0Gq6CMH9rdQbq48L8TKiZERsNtcz6vrWc4V5QxBX2z7i4k4LYtOALhA4/P+BhOz4wRCI8tiXPU3AMJF7l5K2SAEcLb7du/6IYsJRx8QH/IQ18GVmdRvRUIXpUsFJhzGIzL/uh11noZu3Z61Rc37dNzbBKa/u/P2vPDFwo4Hhks7+0sFTAjPCRlmNvfUpugTpOSaMpFUhzL7Qlx3AMllNEp9ry6hTeFB6EIohaq3JUppJt+YrZsuIpuv9WTO2S/Vz6zTf5EERLhaamMlU3XXaXPMulv/mcJlsZlgNzvLkq7JVWjqqJu6aQOC8JN4zc3Ms9rFjKkdMuaXw1VVmgeDi3evvR0E+wTBSgRpi+T0YALl1tquX5BEXw0x1Ak3I3XQXkeeU8db2QiclsIh+tUA==;Lv1xJycbF6mKkynJv9pyFQ=="
 ---
 
