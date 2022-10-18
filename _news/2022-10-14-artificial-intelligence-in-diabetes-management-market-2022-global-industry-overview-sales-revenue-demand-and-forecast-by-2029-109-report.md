@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
+    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
+    publishedDateTime: 2022-10-16T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
     excerpt: "One of the industries that is growing the quickest is the \"Natural Language Processing (NLP) Market,\" hence it is essential for market participants to do a thorough study of the industry beforehand. According to the study,"
     publishedDateTime: 2022-10-13T16:02:00Z

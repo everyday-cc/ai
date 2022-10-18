@@ -65,24 +65,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "Artificial Intelligence (AI) in Food & Beverages Market : Industry Analysis 2022 To 2029 based on Sales, Revenue, Size and Share | 103 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Food and Beverages Market"
-    publishedDateTime: 2022-10-13T05:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-food-beverages-market-industry-analysis-2022-to-2029-based-on-sales-revenue-size-and-share-103-pages-report-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-  - title: "India Event-Based Vision Systems Market Analysis By Size, Share, Trends, Future Growth and Forecast To 2030"
-    excerpt: "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the India Event-Based Vision Systems Market are also discussed in detail in the research,"
-    publishedDateTime: 2022-10-13T06:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/india-event-based-vision-systems-market-analysis-by-size-share-trends-future-growth-and-forecast-to-2030-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "2Vci0ia4YCbdv/sW29g39fNiz95uZIAE7My2WSlinDdNz7gE2vmNISJUX8fwBq5IBNp+nbcS8M7jEFICSAKY//6CfxYDSgs3E2jPt9LseTv/VvtdMX2NBr6ShTJQFRpsOCnLEOuQEv4V2x3fCtlx+jIiFCORu7iSfHFKj1/aStuX6KgS5YEX69wdTOBQ3xvvEY9p7pE/fjl7KyczjSQezPrd8E5CYKzN/ioJvMMYGKTDpIQpg0A0YdnM9ivtCa9xOL753PNq3Cfs2cCg9D6UF0oB8m8Q6wpjjpCtcnLtLt0JmDzOjUOVAplr2BCEseB532W0P3DuQFyVk/JY5n1n8ji4XW5dITR6BzfhStQt6vM=;XSS193pzDRhNvd85KTcDWQ=="
 ---

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2029"
+    excerpt: "Face Recognition Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
+    publishedDateTime: 2022-10-17T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
     excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
     publishedDateTime: 2022-10-13T12:41:00Z
@@ -42,6 +56,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hybrid Voice Recognition System Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data"
+    excerpt: "Hybrid Voice Recognition System Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-14T04:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -24,22 +24,6 @@ images:
     height: 250
     isCached: true
 
-related:
-  - title: "EZOPS and ITEC Announce Strategic Partnership to Accelerate Fintech Business Solutions"
-    excerpt: "To address data and process challenges that financial institutions experience when attempting to establish trustworthy and actionable data across databases and business systems, EZOPS has today announced a strategic partnership agreement with Australia based ITEC PLC."
-    publishedDateTime: 2022-10-13T05:22:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/13/9691693.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 16
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
-
 secured: "o9U/ls9UPxZhimMjSqjZCATx+zwuvp2N9ZI6STC6OgdSwqUfS86KvIq59tpIFZbDFiE8NFvhmsjArpuLWU1V1kBLdWOh4NCD57qF+zKASnrP1d1mODy9Q4ODUBYztpRgpEic3V8Unc70WqYuVuDrYt98p0vdjCNHs0ug0BL6LTm41ZfA4BHs1w/iZtRnvI4Jz+l+6HSeRsAW34hELO2ShtjRdsRNLGOX2WOvI3BlAFp60gZC5Bdmnaa9Eylw7D0GDyORVyXesOO1LPdiI1POjJ2ANQEmhcVoIPkkKmAOo3HLc8I6CH00C1ZpcL4l+IZVwY7C2EQ7VHVl2N3odfg+ow8QQQLsb2N3IrxfpjJjzyj3dd/zyEaUuijNIkAFqwS+ZS6IZezL+QceY5oOjv5l/1iOF/VlPOp3QrphHyebXgAJignumleNOefxgYzpESjWQksQdgwcyMUqMJeYJRLs1n67l7J+2enmxB7SIimWKS19N9lhOkyQ6TiK4egKDcfF9IphE+NEMXvpYLP3RyXUwA==;mOjF9mk5tK1yjx/V/s2OIA=="
 ---
 

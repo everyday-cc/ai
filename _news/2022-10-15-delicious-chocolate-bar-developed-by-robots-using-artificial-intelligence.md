@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-develo
 cdnAmpWebUrl: "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926.amp"
 type: article
 quality: 72
-heat: 74
+heat: 72
 published: true
 
 provider:

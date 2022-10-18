@@ -38,15 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
+  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
+    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-14T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 17
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

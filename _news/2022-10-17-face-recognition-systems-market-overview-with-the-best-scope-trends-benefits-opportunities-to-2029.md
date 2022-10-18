@@ -29,71 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market Top Key Players Profile and Forecast to 2028"
-    excerpt: "The recent study on global Face Recognition Systems market added to the database of Xcellent Insights offers a"
-    publishedDateTime: 2022-10-14T14:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-top-key-players-profile-and-forecast-to-2028-2022-10-14"
+  - title: "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029"
+    excerpt: "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-14T04:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
+  - title: "Computer Vision Market with In Depth Industry Analysis on Trends, Growth Opportunities and Forecast till 2028"
+    excerpt: "Pune, India, - According to our latest market study on\" Computer Vision Market Forecast to 2028 – Covid-19 Impact and"
+    publishedDateTime: 2022-10-13T12:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-with-in-depth-industry-analysis-on-trends-growth-opportunities-and-forecast-till-2028-2022-10-13"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Thermometer Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "The \"Face Recognition Thermometer Market\" contains details on market segmentation by region, product, and usage. These categories make up the market segments, according to regions"
-    publishedDateTime: 2022-10-13T13:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-thermometer-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 120 Pages Report"
-    excerpt: "Global “ Voice Recognition Software Market \" Report is a detailed and comprehensive analysis for global Door and Voice Recognition Software market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-13T05:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-120-pages-report-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -113,20 +71,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
-    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-14T03:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
+  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
+    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-17T04:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 16
+  - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
+    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
+    publishedDateTime: 2022-10-14T06:41:00Z
+    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+    type: article
+    provider:
+      name: Medgadget
+      domain: medgadget.com
+    quality: 0
 
 secured: "jIYP5dxnbq5PI4MOMEQUDMyR57gI4cjiPH7/+6LKESOXrBQzidErvadJFvq3Df7CNreTZqFepkwSVDDU24VN5tO2B40gBw4xsNBvc7SbJgFrxEz3TwLp80UGru+a8vaWGMYH78VbfXB7DcD5X3k1DoCB/2s7+yWjwYpaz5IFn4Nyp+cGKmZa8ltt9ntujyyL/SOOxMFZUklveUb61bDDIBLhFGHRBrWwZtfRvxQTYJGUVnoGs6UjDYUKc52MITpM3javZliUB3CAnuMBAkC7GAOBULxjswujImuLoMvTOE02PuBeHtrhot2JMCZx8u/DL8dRV66gNk+462jRXlIRqPLfsmAAx8A9FC72E4/G2RE=;+WN5bO9ntdmvoiwmhW3nDg=="
 ---

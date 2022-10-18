@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
-excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
-publishedDateTime: 2022-10-14T14:52:00Z
-originalUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
-webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
+title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
+excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
+publishedDateTime: 2022-10-16T03:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
 type: article
-quality: 83
-heat: 143
-published: true
+quality: 74
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -19,9 +19,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
-  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -30,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
-    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+  - title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
+    excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
+    publishedDateTime: 2022-10-14T14:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 74
+    quality: 83
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -100,6 +99,6 @@ related:
       domain: marketwatch.com
     quality: 18
 
-secured: "4mtLtgjU9whv6czir/CYIonNKjzwmxOZjmdHlA0JHE1iRoBL3WB0GOlReI25L2G5sz7CAfbXFFSCsWgHVtQ82bPPmJ+P3/6h3mVQa8w5eZq9IYjrUKS5r6jXdbSILe0QNiQZuGLWsGgsmN5/MyH6QzYdWVWAEKsnwSOOTD5yzmuqoMoKWbITOHib/24/PQujrP7xLXUpgFa2bqt5X6EqTMoY8u3z86uTu8fhjucS05wZIQ5n+EzqVdeKMoHVHHFLpqKfbxn88Hk4xb53BXpgOBEqa6TTgJDuQU2AuMDnNseHdXPZcWkavNABlxh43dDlfLb7akkOlJBN+Pybx5GebkfECDl/Rc45vg18Ye/cz+Q=;LnSPZsYAWtC0aYP2t40V9w=="
+secured: "MXZfXuBOBtbdNeN0h+YHBtxQQfK1zgf1PurJZ+i1agJTVCYtB8XEsg5hhKErK8a4Zh99WKpIoV1CRv3IPTo68Eh5loGw248w59LCbWaj1KmLPLpuuHRR/2opK8c770iSYIjzHRg0b+GJtR/L155UVsuGyrjCaKj2dnzk7xCWYgV+qETwQgza/Blq0g17uEJz9CcIkBfH0TqYAPUduhXrMR48Q3pUMJm8pVEXylYyHgXAu6BwPM7yzMgv8WZME3p1jZPTsPwGweVs1HHPQ2F8ztJ91fxnTjEa3zcAXSf1nHx004z9qXbwCq92AV1SAaTOvMRe4Eid0PjI8SMuAxm49KgtphPPoS35DRCSiHbKsEQ=;QkOVJSuF2iiGQXU6qxh3+A=="
 ---
 

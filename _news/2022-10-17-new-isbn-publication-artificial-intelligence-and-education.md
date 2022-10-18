@@ -7,8 +7,8 @@ originalUrl: "https://www.coe.int/en/web/education/-/new-isbn-publication-artifi
 webUrl: "https://www.coe.int/en/web/education/-/new-isbn-publication-artificial-intelligence-and-education"
 type: article
 quality: 54
-heat: 94
-published: true
+heat: -1
+published: false
 
 provider:
   name: Council of Europe
@@ -25,52 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S."
-    excerpt: "PhysicianOne Urgent Care today announced that it will begin using Augnito, the leading medical voice-to-text AI solution for clinical documentation. PhysicianOne Urgent Care seeks to transform its clinical workflows to reduce administrative burden on providers and improve the quality of clinical documentation,"
-    publishedDateTime: 2022-10-17T16:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732"
+  - title: "Why Andhra’s face recognition system for teacher attendance won’t reform education"
+    excerpt: "A teacher’s presence is, of course, necessary but it's more important for he/she to possess curiosity and pass on the spirit of inquiry to students. These issues require a humanist understanding of teachers as professionals,"
+    publishedDateTime: 2022-10-17T22:43:00Z
+    webUrl: "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/"
+    ampWebUrl: "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 48
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 70
     images:
-      - url: "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg"
-        width: 400
-        height: 267
+      - url: "https://images.indianexpress.com/2022/10/Teachers.jpg"
+        width: 1200
+        height: 667
         isCached: true
-  - title: "Merging a rules-based approach with AI in finance"
-    excerpt: "By KK Gupta, CEO. Facctum Of all the technological innovation that has taken place over the last decade, one of the most exciting is the emergence of artificial intelligence (AI), which is revolutionising practices across the banking sector."
-    publishedDateTime: 2022-10-14T18:37:00Z
-    webUrl: "https://www.globalbankingandfinance.com/merging-a-rules-based-approach-with-ai-in-finance/"
+  - title: "Face Recognition Systems Market Top Key Players Profile and Forecast to 2028"
+    excerpt: "The recent study on global Face Recognition Systems market added to the database of Xcellent Insights offers a"
+    publishedDateTime: 2022-10-14T14:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-top-key-players-profile-and-forecast-to-2028-2022-10-14"
     type: article
     provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 34
-  - title: "Survey Reveals AI's Impact on Productivity in the Workplace and Customer Service"
-    excerpt: "Blumberg Capital, a leading early-stage venture capital firm, today announced the results of its 2022 AI survey examining consumer behavior and attitudes on artificial intelligence (AI). The AI study found that consumers have largely moved beyond the adoption phase of AI and have a generally positive perception of how AI can improve their experiences across areas such as healthcare,"
-    publishedDateTime: 2022-10-17T13:15:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693530.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
     images:
-      - url: "https://mma.prnewswire.com/media/1336014/Blumberg_Capital_Logo.jpg"
-        width: 400
-        height: 268
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "New era of property risk management enabled by transformational location intelligence technology"
-    excerpt: "Organizations responding to the challenges of a changing climate – in sectors including insurance, government, financial services, architecture, construction, and engineering – will soon be supported by a range of transformational technologies from leading location intelligence and aerial imagery company,"
-    publishedDateTime: 2022-10-14T13:46:00Z
-    webUrl: "https://gisuser.com/2022/10/new-era-of-property-risk-management-enabled-by-transformational-location-intelligence-technology/"
-    type: article
-    provider:
-      name: gisuser
-      domain: gisuser.com
-    quality: 0
 
 secured: "syT0k/wgutJx93j/rG4p1fCXf9kXnjt/ilKOb3w1HB+srPJqhg2nhLLycVUu7kIqgkb0A8Gb71J5BEvA7YdALJNnn7WI9rGv4N6fKI2EBx1ztK1bjo6msn546UcM0v5yXs6Sp7nt1/WFk7jV7Qf//yNBe0Cmwn2eEtL5hmhlveWblg2JidrqLUazdZOZTlxwS4CtvpoNzXzQrm6gHGJlGj2zPTwotoPT2k8H+NWUCKMpxgKQYrTTKwrYAKr60E/ZcNRaUSx/HHrPD7XIMWH5rVEFyF0vGrqC8N42uFCMM7Ltzmz/lqfKdnrXtKvZ5y0CAgegKw7lUwBKvZF+4yTmcr3oP9CgYHiRUghLaWNVAm0=;7/bfZ0ogDEvLUfLxsx1yeA=="
 ---
