@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-resea
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true"
 type: article
 quality: 57
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 480
     height: 270
     isCached: true
-
-related:
-  - title: "Eyeballs and AI power the research into how falsehoods..."
-    excerpt: "Using the same technologies that in recent years enable AI to write remarkably like humans, the platform generates summaries of trending topics. An analyst reviews the summaries, weeds out irrelevant items like advertising campaigns,"
-    publishedDateTime: 2022-10-13T10:19:00Z
-    webUrl: "https://wfuv.org/content/eyeballs-and-ai-power-research-how-falsehoods-travel-online"
-    type: article
-    provider:
-      name: WFUV
-      domain: wfuv.org
-    quality: 37
-    images:
-      - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"
-        width: 342
-        height: 240
-        isCached: true
 
 secured: "v0F9Q+1Y9UlbjwP95qYsgULEq14QVUnGl/CISVGllcNuiPqunrVSNDUDMlkW5Q9UP+SO899ituszMTTuvgh3SaXFqglRT2PNHDjfk7oYGim5INvBZ/Bawsdm2Vmj16x0opUni2JqRfTXZjwOeiaFFBiaPQp7Lgfhs7rs1xBZzhBRspgJY9XXnFT5vGM2XuClcuWw9A9M0ZvE6FnMvI5x8x4h4L8+XS5fnfFBOQjIt1lzqBLvukA4M8XBfwBI0vf/gaPUWYNCGZkmGRYLhDl56skNZNTFKwL6KiCqICpgYuPiasF+QTsBsOTHYllBc/lXgmqLiXLIeY7X/2273XrsLcyAff+KUjrTQTyDOfX2TlZUxFzHbtFLFM1GMVOPyYaHixeaBdTyQjI4PrO+p5ohZtxPSCiWsH3PSNFRV7L91Bb+CMmDmo9NeglkRSC+PuXiaRlw9cQuty2Pfz18I9gJs4J2GAmFXYm1pl6D+8iQ8dmaT9B2ptpfgoWQKmvfYR+/XvmccNmk8YefoIPZSxV0AQ==;PV7Tdqt/msIGq5ltqaYcWA=="
 ---

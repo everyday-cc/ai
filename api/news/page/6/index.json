@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-11-radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
+      "title": "Radiology AI Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
+      "excerpt": "This “ Radiology AI market ” report offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Radiology AI group. Some of the companies that are profiled in this Radiology AI report are: Arterys,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T19:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-all-symbols-in-tensorflow-probability.md",
       "title": "All symbols in TensorFlow Probability",
       "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
@@ -57,24 +109,33 @@
     {
       "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
       "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
+      "webUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29208199",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29208199",
-      "publishedDateTime": "2022-10-10T14:43:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -386,25 +447,43 @@
     {
       "path": "_news/2022-10-10-wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform.md",
       "title": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform",
-      "excerpt": "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ...",
+      "excerpt": "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform",
+      "webUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29203262",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203262",
-      "publishedDateTime": "2022-10-10T08:06:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1138,59 +1217,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-the-5-biggest-artificial-intelligence-ai-trends-in-2023.md",
-      "title": "The 5 Biggest Artificial Intelligence (AI) Trends In 2023",
-      "excerpt": "The Field of artificial intelligence (AI) is emerging and evolving faster than ever. Here, we look at some of the major trends in the field of artificial intelligence and machine learning in 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6343bdc93a68ef0014de06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/10/the-5-biggest-artificial-intelligence-ai-trends-in-2023/amp/",
-      "publishedDateTime": "2022-10-09T23:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

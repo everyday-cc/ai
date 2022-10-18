@@ -494,6 +494,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence.md",
+      "title": "New exhibit at Seattle museum explores origins and potential of artificial intelligence",
+      "excerpt": "(GeekWire Photo / Charlotte Schubert) Seattle’s Museum of History and Industry opens a new exhibit this Saturday called “Artificial Intelligence: Your Mind & The Machine.” GeekWire got a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
+      "originalUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/Towers-8.jpg",
+          "width": 1901,
+          "height": 1417,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T13:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-google-pixel-7-hands-on-more-camera-ai-premium-design.md",
       "title": "Google Pixel 7 Hands-On: More Camera AI, Premium Design",
       "excerpt": "The new Pixel 7 has improved camera AI and a fresh design. Ahead of our official review, here's a quick hands-on take of what's in store.",
@@ -599,49 +651,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-14-microsoft-will-launch-an-ai-graphics-app-powered-by-dalle.md",
-      "title": "Microsoft will launch an AI graphics app powered by DALL•E",
-      "excerpt": "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE.",
-      "sourceUrl": null,
-      "webUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "originalUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "cdnAmpWebUrl": "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1",
-      "publishedDateTime": "2022-10-13T12:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "archpaper",
-        "domain": "archpaper.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
       "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
       "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
@@ -744,6 +753,59 @@
         "AI Hardware",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations.md",
+      "title": "Red Vector and Microsoft to enhance the security capabilities of organizations",
+      "excerpt": "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T10:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
@@ -1055,7 +1117,7 @@
       "originalUrl": "https://www.infoworld.com/article/3676508/microsoft-adds-azure-services-postgresql-support-for-cosmos-db.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -1199,58 +1261,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-metas-vr-headset-harvests-personal-data-right-off-your-face.md",
-      "title": "Meta’s VR Headset Harvests Personal Data Right Off Your Face",
-      "excerpt": "Cameras inside the Quest Pro that track eye and face movements can make an avatar’s expressions more realistic, but they raise new privacy questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/",
-      "originalUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63460f406f81dc98cfa7d064/master/pass/Meta-Quest-Pro-Headset-Privacy-Business.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/amp",
-      "publishedDateTime": "2022-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphi
 cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
 type: article
 quality: 74
-heat: 104
-published: true
+heat: -1
+published: false
 
 provider:
   name: archpaper
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
     excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
     publishedDateTime: 2022-10-17T17:02:00Z
@@ -57,15 +71,15 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
+    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
+    publishedDateTime: 2022-10-14T10:10:00Z
+    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "Ts/wavh3fzjbGaUjpFLNTFW9owq3pFGWduoI0PeCr2Xs7yq5mbqfpCpMWLKXNj6Ja40MaHqxSfqP8su2PzmlgBKZpE5+yLKV+MGRCc8+zUj8/Ah5Yq4XlMT0zR1oKm5SW8yQYXd0ivqRvMsA0DMabfh5k8XCTNapQb/S5mw9ac9R2tZVAUmI4zaZlMkipdxltm6Patrf/bMjr7eQizsffOeX/kyH/zk5cuBMxtUpWc8JIT8ex2Md8xLjxwY/q1r/qLguW/bkxV1eEoSZLzAG3oFMjJzKPfEMYXV5e0pjMqtSzTxkqDv0CZda7iVvLi+f65Y8V8GUyf5HM3LafF0ou+d0gfPXQAT6CqwBFs7NhhY=;RNthXidKtGFMzUPrYKlXfw=="
 ---

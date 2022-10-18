@@ -27,7 +27,7 @@ related:
     provider:
       name: Biometric Companies
       domain: biometricupdate.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/04142224/voice-biometric-authentication-scaled.jpg"
         width: 2048

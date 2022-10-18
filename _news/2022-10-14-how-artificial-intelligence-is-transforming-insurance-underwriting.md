@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Torch.AI Joins Guidewire's Insurtech Vanguards Program, Brings Data Infrastructure AI to Guidewire's Insurance Network of Nearly 50 Partners"
-    excerpt: "Guidewire's Insurtech Vanguards program is an initiative to help insurers learn about solutions from leading insurtechs and how to best work with them. As part of the program, Torch.AI joins one of the most reputable software providers in the insurance industry today to bring unique enterprise-level data infrastructure technology to a large and growing network of Guidewire customers and partners."
-    publishedDateTime: 2022-10-13T10:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/torch-ai-joins-guidewire-s-insurtech-vanguards-program-brings-data-infrastructure-ai-to-guidewire-s-insurance-network-of-nearly-50-partners-1031802315"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
-    images:
-      - url: "https://mma.prnewswire.com/media/1919832/Torch_AI_Vanguards.jpg"
-        width: 400
-        height: 236
-        isCached: true
   - title: "Artificial Intelligence Is Transforming The Aviation Industry"
     excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
     publishedDateTime: 2022-10-14T15:52:00Z

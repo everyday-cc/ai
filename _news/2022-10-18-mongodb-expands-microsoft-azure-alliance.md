@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
-excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
-publishedDateTime: 2022-10-13T16:54:00Z
-originalUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
-webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
+title: "MongoDB expands Microsoft Azure alliance"
+excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+publishedDateTime: 2022-10-17T22:27:00Z
+originalUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
+webUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
 type: article
-quality: 48
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: SiliconANGLE
-  domain: siliconangle.com
+  name: CRN Australia
+  domain: crn.com.au
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
-    width: 1152
-    height: 768
+  - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
+    width: 610
+    height: 354
     isCached: true
 
 related:
@@ -85,20 +85,6 @@ related:
         width: 7360
         height: 4134
         isCached: true
-  - title: "MongoDB expands Microsoft Azure alliance"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-17T22:27:00Z
-    webUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
-        isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-14T21:25:00Z
@@ -122,7 +108,21 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
+  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
+    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
+    publishedDateTime: 2022-10-13T16:54:00Z
+    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 48
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
+        width: 1152
+        height: 768
+        isCached: true
 
-secured: "5vX8FoetguhCobNTrlYMBnTiPWlnMsoWDcG0e0hfoIaV8coLRhofMJKzwEpfnPaFr73MkgvRgAFVgt/GRM6DMM7z8BCebxDMNPpEVHdIehAe8CKImQR9CAIvg7HOFAa41ZKqLTkbFIW98WQLdQD7NnRIKXMz5CnvUACkFeZBgDv2Y7frrPfuF+6rbQq9vqQsU5A1tHihPslOSv9W/SkeDAq5VETWx7rnKN8mpZhjunyg9fVF1R+6c7IL80TDs6Ponby8kXFSfjITV4Md1hYgNvl9wwYRXONkhk4AdHlT8bya+0d5WOO9nbGoCp0FfSaGbxXzy3CGDoK3PGOtdzqo7Za2MyzB9+QWtGvfhNHwceY=;VcDxmrVXcGCVnjx2zBcgmw=="
+secured: "Kj0wm5gtMAEUl12GQzUZr4djqdtMdMK3U6sH4IFVLcAAU0qtaIIFLi7ZwFDAJpaOXgzWNqy9uRJHifwMzgaTRMAvhqR9Zn5PFpzEkCMqxzuv6CT4lN/FTbhgTvuU8nEVi5NU9ElZBpR50E++ah6ttS2+fWHCxElWeYYL3YweKN+1wRNWWDdXUhR/Qoa9NW5AY5+G+vagZ6bGecu2O4A6ow1MgVMvsi/oi9En/EATaK/ulm1X4C0W8P6eAOVSBdNiRpZkNCgoJxkjez4UiwgD04AFEbhkYsJyrq+LS7+e19vU20nz4pK37DppgKELOvAprQRMcm1wYlXzmYRC+6AScwkGnLOGiHXIufe8t3kIj8E=;SRbToiYiV2Ycy79UDtRkhQ=="
 ---
 

@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T17:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft will launch an AI graphics app powered by DALL•E"
     excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
     publishedDateTime: 2022-10-13T19:46:00Z
@@ -57,15 +71,15 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
+    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
+    publishedDateTime: 2022-10-14T10:10:00Z
+    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 32
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
 
 secured: "ajoLgesXPbWRQg8dMrEKdeXDeMBVJMCZaGOe1UToZC+/8IgRKQ6+73st18Ic7TU+mTmnYY3OcX2hm+f90WelcZ9iadK2WFYZclmv0zfxzYiNmLVXAFLpLFRtqhF0HE7wmhg8mLaGnSgntAfiYeLMuo4WWJRYWMl0/Xi2gtij3M5N2L8x/WBa43rk0cE9Mo/XCHjq04+xE2NxSw2ZPK+ANeMIB025VY6x+dJsL4C8bcG+ZNh5C/gHxX9qNejKWEet89rKtM+qUOhaLzfV0+TBpAD/Sgx0jDSnjQcZEiD0NRHQqELyYTcX0d3hUIi4wBmAFd1xooRixg2cpQvDx/NBQ91ek8djtdKEqLAWnYGI1fIuENt3onfjZf8H06nIsP7Ti7htumHi91tSW8BkDlmokg5lxmS7aq84rQGS4cYETxh/HCuMV+PFNmpv3CAjdYGIDSiTKwBWg0RLak5vHzs8SeAY3mZW5n1tgDQohPh5KomChZaZ2nkAbPOZ5S6+i1UhtE3fXbErXyK0dbajITGUYA==;+dqXYhPGAN4OUyQnYbSYGQ=="
 ---

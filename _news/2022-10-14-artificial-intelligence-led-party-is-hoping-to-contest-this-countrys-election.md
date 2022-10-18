@@ -8,8 +8,8 @@ webUrl: "https://www.moneycontrol.com/news/trends/artificial-intelligence-led-pa
 ampWebUrl: "https://www.moneycontrol.com/news/trends/artificial-intelligence-led-party-is-hoping-to-contest-this-countrys-election-9328721.html/amp"
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/trends/artificial-intelligence-led-party-is-hoping-to-contest-this-countrys-election-9328721.html/amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg"

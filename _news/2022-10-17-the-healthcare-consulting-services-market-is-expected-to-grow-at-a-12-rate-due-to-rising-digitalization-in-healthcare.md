@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29291069"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291069"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,31 @@ topics:
   - AI
 
 related:
-  - title: "Healthcare Fraud Detection Market Grow at a CAGR of 12.6% by 2031 | Emerging Technological Growth and Business Opportunities"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-15T23:47:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
+  - title: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
+    excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. /PRNewswire/ -- The increasing demand for"
+    publishedDateTime: 2022-10-17T15:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291423/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29291423"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291423"
     type: article
     provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
+    excerpt: "The increasing demand for artificial intelligence (AI) in financial services is an emerging trend in the financial services market. AI is used to find efficiency gains, investments, and other financial elements within financial services companies."
+    publishedDateTime: 2022-10-17T17:11:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/17/9693733.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "Ym7RIvO7lqTNnxYlTN8uTOrOsxkw5IkmLCoakJK7WJcaGpa8tsSez95jSqkO6I3LSJJ8DP5za8ElrkfYYxhwSKcdKtopyYIy62wlm5IE4UEwZGXxvJ3hg5xq/rNGLk/siz/qPHd1XvXqs2b0g7TW+UeShly9BiGAwVGPUNQbYlk8MqxAZQBKRc/zSKhC2tJ+F1kRiDEAMYIGgCI6rxw8hsvEe/vP/OrDpdLPWaNggR1rJCdUU3OR/sz5qfljPN7BhsChl6fk17tZhn6S8qeR46+6t7AIzD/TfMeJ4NudTzFEdNxze4k/e9zQg53o6OnJYx+g8Hk5aNa0lTtTOYns2XXTFR4a7mWJQO1CwnmGvXo=;grxlyIfyI8OWavxYXPwiYA=="
 ---

@@ -19,38 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "What do financial experts say about the future of fintech?"
-    excerpt: "In the current economic climate, fintechs are facing a number of challenges. We asked eight industry experts their views on the future of fintech"
-    publishedDateTime: 2022-10-13T10:16:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/what-do-financial-experts-say-about-the-future-of-fintech"
+  - title: "EZOPS partners with Australia based ITEC to accelerate FinTech business"
+    excerpt: "IBS Intelligence (IBSi) is the world’s only pure-play Financial Technology focused research, advisory, and fintech news analysis firm, with a 30-year track record and clients globally. We take pride in covering 400+ technology vendors globally – the largest by any analyst firm in this space."
+    publishedDateTime: 2022-10-14T07:57:00Z
+    webUrl: "https://ibsintelligence.com/ibsi-news/ezops-partners-with-australia-based-itec-to-accelerate-fintech-business/"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
+      name: IBS
+      domain: ibsintelligence.com
     quality: 24
     images:
-      - url: "https://assets.bizclikmedia.net/1800/e9764074ff5892ad74a968977442ccf9:d3ec1239073418cd8b11cf947fea4ca3/gettyimages-1272712379.jpg.jpg"
-        width: 1800
-        height: 1011
+      - url: "https://ibsintelligence.com/wp-content/uploads/2022/09/gif-Clayfin-V2-1.gif"
+        width: 300
+        height: 250
         isCached: true
-  - title: "Of Bits and Banks: A career in fintech is a future-proofed calling"
-    excerpt: "The line between technology and everything else is no longer there. eCommerce, edtech, telemedicine, eGovernance, and of course, the high-table of dreams—Fintech, all are happy and efficient avatars born of the confluence of tech"
-    publishedDateTime: 2022-10-15T12:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/of-bits-and-banks-a-career-in-fintech-is-a-future-proofed-calling/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 19
-  - title: "Guidewire Rises to No. 26 in 2022 IDC FinTech Rankings by IDC Financial Insights"
-    excerpt: "Guidewire (NYSE: GWRE) announced it has ranked number 26 out of 100 on the 2022 IDC FinTech Rankings, making an appearance on the list for the second consecutive year and climbing from its previous position."
-    publishedDateTime: 2022-10-14T12:48:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/14/9692818.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "kQ/CTY5J2IChGi9UuX4jeEURJW9xfaHo9i9vP0zHACNMUBkF2MIwmPkK/Gkekbf0NuZf1vuj1ffCom07lxUtN8QtGanqosdtPbaCUuyG0wOl1Vs/HKU4ZONsmZRMA7BO4eZpIaEUliE2v/lEEBhpwNXWlgjVCRZZcFRf7H9BCPVqQXT4P/3gWXhHZH3TLss5fm+6AnYpWIcj/D0bldDY+qGs6zGPqPDmVY+MILce6b8NCWkXtlaHR7aZtNLCwZnWluck6hMdndbgQSzcljplvEbf4xVXb9Mzg0Q8am/hRikIqzFf6ecNcJnOwxL2frirpA2eX7IasdopwpVEEfFBhUQKyMW/l2rmDvM6ROjF8V1vhYInb0XeZLIKw5p5kS2baBVbqW0/6bJuNAKW5qTzau1Lxoglhg7LxJhjuJaPrvhbZmY8nRBzcI7up5VUoVjPx9X0VQmAVRszyt0mWoctgIRldLKwUT8MapOJXnG+PjN/OuoxoLNT1hLo5N4x/JA2DFWU+6N5iIRcCE+FLChCnw==;JHlP5d0KujR0XuqZCpztqg=="
 ---

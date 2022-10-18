@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-14T21:41:00Z
 originalUrl: "https://www.biometricupdate.com/202210/consumer-privacy-tension-increases-with-voice-and-face-biometrics-cases-across-the-us"
 webUrl: "https://www.biometricupdate.com/202210/consumer-privacy-tension-increases-with-voice-and-face-biometrics-cases-across-the-us"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/02/04142224/voice-biometric-authentication-scaled.jpg"

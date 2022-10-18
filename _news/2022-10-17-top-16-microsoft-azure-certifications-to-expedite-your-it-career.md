@@ -71,6 +71,20 @@ related:
         width: 7360
         height: 4134
         isCached: true
+  - title: "MongoDB expands Microsoft Azure alliance"
+    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+    publishedDateTime: 2022-10-17T22:27:00Z
+    webUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
+    type: article
+    provider:
+      name: CRN Australia
+      domain: crn.com.au
+    quality: 54
+    images:
+      - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
+        width: 610
+        height: 354
+        isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-14T21:25:00Z
