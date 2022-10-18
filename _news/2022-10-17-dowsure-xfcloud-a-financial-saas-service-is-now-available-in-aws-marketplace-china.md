@@ -2,13 +2,10 @@
 category: news
 title: "Dowsure XFCloud: A Financial SaaS Service is Now Available in AWS Marketplace (China)"
 excerpt: "AWS Marketplace includes thousands of software listings from popular categories such as security, networking, storage, machine learning, internet-of-things (IoT), business intelligence, database, and DevOps."
-publishedDateTime: 2022-10-17T16:06:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/17/9693668.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/17/9693668.htm"
+publishedDateTime: 2022-10-17T14:51:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/17/9693668.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693668.htm"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
   name: TMCnet
@@ -19,12 +16,6 @@ topics:
   - AI
   - AWS AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "Zr1N+j5FWevwk1cznxm65aWV+nM3ztbH5oFyH9BHxSoXB7wvh5yP0AZ0J/ZqO/YkG7lfABGZqjrGfCKVf8dj2awcNCUr2bjoOWLzP1ORK3BfZY9+EBd2facpDERaznZLGynPyZ1mzxllK0+7jyGChRIkAZwKC6oHM0UivG+hKA+0Qg3IqOvHCErIgSiq+jBe6yVpnpHh8XH9Wb1HelyW8pHh+9fsVJaMMiP6fD9nT1Sboox93+ouBcc8WoRgw1dksnBy2lMaisz04CGC0HdhnXHk83+ckRHFLi13R9uxnpZLYCyA3RAngcfnNAJdFDnypxyTDwIq3WBmBfGNtOmZG92zH/1qUtbv+f9geVkXvr0=;C3idIWKZTTny2RV1nTUZRA=="
+secured: "7gL3RLiNw9sTe6RvQl5be/n6KKug3ct4cOagQu0vCbpHILz1lYjcTIm0eYaASV7xWwLcbYgGATDpDQaiLgpJ3zQNPI/j0UlGpkap3ZJS4Oq+c3M3XkNicCdXDuV7T79uy35MDwmv2QDwC1qyRm1XUqsnNuk73TTyl1szOKafruqan+OsqCN14hHYhKMRV7Em7ckhbM7SuUw68DFXizzRAgTxkJVNOwykx//+IkNxEjlOu/PYqjKBqsFYwvqkaS6nOTfBs0tTY/f4+LJMW30B96gorehtHmDkAw8tebWGfwGtyPV70kcO/j9NPhReOs6yPSJFER2qytCwWBewPr5T1zFOlYJE6nlBo3bGPopssCo=;T8KALhsLrrcQ/zANuYWldg=="
 ---
 

@@ -1,25 +1,20 @@
 ---
 category: news
-title: "Renesas Completes Acquisition of Steradian"
-excerpt: "Renesas Electronics Corporation (TSE:6723, \"Renesas\"), a premier supplier of advanced semiconductor solutions, today announced that it has completed the acquisition of Steradian Semiconductors Private"
-publishedDateTime: 2022-10-17T08:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
-ampWebUrl: "https://www.benzinga.com/amp/content/29282073"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29282073"
+title: "Renesas completes acquisition of Steradian"
+excerpt: "The acquisition of Steradian will bolster Renesas’ automotive sensing capabilities. Renesas has announced that it has completed the acquisition of Steradian Semiconductors, a fa"
+publishedDateTime: 2022-10-17T10:03:00Z
+originalUrl: "https://www.just-auto.com/news/renesas-completes-acquisition-of-steradian/"
+webUrl: "https://www.just-auto.com/news/renesas-completes-acquisition-of-steradian/"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "TWFwkeFBDifBqBV4gfY5JsM5zyaSSDcZ1N7ZBmdBnJYjrvWsCcD8jNR1L7sDhwhSGeABCmpUAbehyGLVodkWpEhW2j3mOgbhzu+w8J7edNvPMZFeH5j0lXDRrkftN4nonHMWJuvxqnwBkQIFiKlRlUE6YVTGn7j/wRjXPt9Dbn7rrtFm/GoS+oKslzz/H8BEEyS8a7pB9CzYIeW1GkYG5KTCRmNGHdWtU/eV9Wa/W+WbT129I390GtqSSpRQLS2e8wrWJL9g7QoJfibgQ3EHoGfnv+rWSC1Mzky99jct8HA+3eJSzv1du8XK/yUENUYm+EpYFI7hmRqbInRguwV6PJ6CL5hKD3qD3yP22WpAmQQ=;ZfJxL5m0T9O4xpkApIA6/Q=="
+secured: "axfzDegm4BRYz/P23fNAkMhUi9E9L+7CRdWK7PjNOLeeyI4maMRK2D7a5dT5qgHkGDPJSaqEBmaOmu31ma+t7E1jHavjL8MJNz2BDBwDplsjelabK7UtP0aCqO0tlSnKXY/MYPjbpgYOIwtg8UIbsjr0xyqS9BGobHvP1+pZJ72Rcsxi6Kca9twV1ZOylDE+pnKBGC/CUagZciQICR7fS7kM5XDTBT8qYo92snRLIjold0vhJyV23vly+SqfsftP/AR++P7tWQ5wt8/R7w/2zQlUl0tvXqJ1k2r5i8bETG3wMpOFH/xRxPiF6yHPn8o48pol+khRaQX7VWgZRIa5BrtAwbnD351Wr3LqVpdcr39K+6Y0HujmxioebEQ0f43CRD8U77o+o7HivwwjB7TDHh6eO9+aAjLqT/4BeZdYZR+3uZuADQj5vuDxH6bt1KlpzCbdAXCVQcpDybjNpW3UpZaCAYPdnETM/0iQSLbbywjrkzE7xrT0BVBH6qSCyh8gw3Ssa/M76XLtgllU2QYqXQ==;xOxKhRD106B0dVr2wccAtQ=="
 ---
 
