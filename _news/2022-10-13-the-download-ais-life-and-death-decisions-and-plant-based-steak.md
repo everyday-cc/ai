@@ -9,8 +9,8 @@ ampWebUrl: "https://www.technologyreview.com/2022/10/13/1061408/download-ai-life
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1061408/download-ai-life-and-death-decisions-plant-based-steak/amp/"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: MIT Technology Review
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "The messy morality of letting AI make life-and-death decisions"
-    excerpt: "But he is not the only one looking to involve technology, and AI in particular, in life-or-death decisions. Yet where Nitschke sees AI as a way to empower individuals to make the ultimate choice by themselves,"
-    publishedDateTime: 2022-10-13T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/ND22_SarcoTransparent1_crop-1.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
   - title: "Why AI shouldn’t be making life-and-death decisions"
     excerpt: "But as Will writes, AI is already being used to triage and treat patients in a growing number of health-care fields. Algorithms are becoming an increasingly important part of care, and we must try to ensure that their role is limited to medical decisions,"
     publishedDateTime: 2022-10-17T16:00:00Z

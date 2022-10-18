@@ -7,7 +7,7 @@ originalUrl: "https://it.tmcnet.com/news/2022/10/17/9693733.htm"
 webUrl: "https://it.tmcnet.com/news/2022/10/17/9693733.htm"
 type: article
 quality: 35
-heat: 35
+heat: -1
 published: false
 
 provider:
@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 33
+    quality: 35
     images:
       - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
         width: 400

@@ -33,20 +33,6 @@ related:
       name: Big News Network.com
       domain: bignewsnetwork.com
     quality: 17
-  - title: "Data analytics and AI are expected to be the top technologies driving the growth of fintech, finds Mastercard study"
-    excerpt: "White paper further reveals that collaboration with policymakers, regulators and companies is the most effective way for the fintech sector in Middle East and Turkey to thrive"
-    publishedDateTime: 2022-10-13T07:34:00Z
-    webUrl: "https://www.zawya.com/en/press-release/research-and-studies/data-analytics-and-ai-are-expected-to-be-the-top-technologies-driving-the-growth-of-fintech-finds-mastercard-study-wltlgess"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 17
-    images:
-      - url: "https://static.zawya.com/version/c:ZDg2YTk2ZDktMmJlNy00:MGFlNjUx/mastercardfintechwhitepaper-jpg.jpg?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Qlik Recognized as a Customers' Choice in 2022 Gartner® Peer Insights™ 'Voice of the Customer': Analytics and Business Intelligence Platforms"
     excerpt: "Qlik® has been recognized as a Customers' Choice in the 2022 Gartner® Peer Insights™ ‘Voice of the Customer': Analytics and Business Intelligence"
     publishedDateTime: 2022-10-17T12:30:00Z

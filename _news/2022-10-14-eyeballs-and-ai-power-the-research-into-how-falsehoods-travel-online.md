@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-resea
 cdnAmpWebUrl: "https://www-wlrn-org.cdn.ampproject.org/c/s/www.wlrn.org/news/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online?_amp=true"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: WLRN
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Eyeballs and AI power the research into how falsehoods travel online"
-    excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
-    publishedDateTime: 2022-10-13T09:01:00Z
-    webUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
-    type: article
-    provider:
-      name: KUOW
-      domain: kuow.org
-    quality: 39
-    images:
-      - url: "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
-        width: 837
-        height: 628
-        isCached: true
   - title: "Eyeballs and AI power the research into how falsehoods..."
     excerpt: "Using the same technologies that in recent years enable AI to write remarkably like humans, the platform generates summaries of trending topics. An analyst reviews the summaries, weeds out irrelevant items like advertising campaigns,"
     publishedDateTime: 2022-10-13T10:19:00Z

@@ -50,6 +50,34 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
+    excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
+    publishedDateTime: 2022-10-14T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2022-key-factors-and-emerging-opportunities-with-current-trends-analysis-2028-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
+    publishedDateTime: 2022-10-14T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
     publishedDateTime: 2022-10-14T04:00:00Z

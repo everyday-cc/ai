@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-17T15:39:00Z
 originalUrl: "https://technews.tmcnet.com/news/2022/10/17/9693733.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693733.htm"
 type: article
-quality: 33
-heat: -1
+quality: 35
+heat: 35
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"

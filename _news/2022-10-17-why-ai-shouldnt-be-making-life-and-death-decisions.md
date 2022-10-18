@@ -42,22 +42,6 @@ related:
         width: 860
         height: 598
         isCached: true
-  - title: "The messy morality of letting AI make life-and-death decisions"
-    excerpt: "But he is not the only one looking to involve technology, and AI in particular, in life-or-death decisions. Yet where Nitschke sees AI as a way to empower individuals to make the ultimate choice by themselves,"
-    publishedDateTime: 2022-10-13T09:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/13/1060945/artificial-intelligence-life-death-decisions-hard-choices/amp/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 57
-    images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/ND22_SarcoTransparent1_crop-1.jpeg?w=3000"
-        width: 3000
-        height: 1687
-        isCached: true
 
 secured: "29N/X+Dtmq/HSxOAcRq/PK2XVcni7Xy//TmEQDe+HJ7Gi7eEP/Ar0T5C4qFwCj1oLYLdK1uptAuAgeo3f+kG01AD0LnJaM9VOqVmY/jKOxeHyJ/aaKAv1ZpCKesA98il1nmzIFgjOsiWgHnjrzWMctqEwZoBPlm5iZ4R0pW5rFmD67K19VQDzJrYl7KdD8a8GLjA0fFcYVO3OzWifjAoqklgYOrUcPDMdwrQ6CEC7pXCjEHMNgUM757Bo+0lkN4RROuCIwATuHjcOnwJvwHaWebyN4D6NkUO5i0+MLR04NJpScyISBlXl3pxi4tQC7qPwP2WvNlootpQPbhrIySAR4j0WM/lSCKNN6ZtMTpUeQOnqPFuAzT6O2V7J/dpR/zWiXq0s1YT2Ag6H7BhsrHVeT0jXM0/h2O9SXi+VwqGYQBiKY6Dvc/3eSOeEi1EOZHx/hpkmRNvVcqBEmUr3My4Jri60L1eLmBizN23sCq8wWfNzGdF7fpcErKErY35LxvaGAqR5hH7uMgKQvWexkUC7A==;mfGVgdm8OEVBQpeCjvjirg=="
 ---

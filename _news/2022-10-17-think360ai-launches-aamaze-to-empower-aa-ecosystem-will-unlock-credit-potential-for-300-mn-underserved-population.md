@@ -25,6 +25,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Think360.ai launches AAmaze to empower AA Ecosystem; will unlock credit potential for 300 Mn+ underserved population"
+    excerpt: "Amit Das, CEO of Think360.ai said, \"AAmaze is not only modern AI-powered data enrichment and decision engine, it will soon be the backbone of all customer-facing product and marketing decisions. It is a platform and environment-agnostic product,"
+    publishedDateTime: 2022-10-18T01:58:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221017/3994116.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "S6d+nQp47HSdsTKZw694FLP5cSNcDpP00wVjF2/z84atiIq6XmtjR0e3GATv9f/ez6mrYbApBNOPjADEqnkcIEo6551TBmzhGpmgoPWBFmtFnUKD3sdE2F/MMQ3rkGDu0zF4LFKpcr5T2eD2HjVjTvPzLgnVfRqR0zfx4OoZPfLokN0iQ6aYBAtoe9mBFZv4Rp0dRfhzdzX64BtRdK4LIW14xQREWAg0HeeD7jiIIzOlWtfpEZEw6DRRZQ2Ko2anrKHevZug2HrMn24tTkGm0irjs7hwBv3kH4BLaimwIizicID23mc6okmSCNmcsC61E2t05M2RxACfrFncngr/25dm/765ywcb1E2JgyzRDFM=;V1JdjiNl7pwceJU+3RejqA=="
 ---
 

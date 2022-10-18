@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Self-Driving Startups Have Lost $40 Billion In Stock Market Valuation In 2 Years"
-    excerpt: "Self-driving car and truck startups have lost a combined $40 billion in stock market valuation over the last two years, according to an analysis by Crunchbase, which keeps tabs on startup valuations."
-    publishedDateTime: 2022-10-17T19:16:00Z
-    webUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/17/self-driving-startups-have-lost-40-billion-in-stock-market-valuation-in-2-years/"
+  - title: "Self-driving Cars and Trucks Market Analysis, Forecast, Size, New Trends and Insights. Update, COVID-19 Impact"
+    excerpt: "Despite the current recession, the \" Self-driving Cars and Trucks market \" remains very active and many companies are still looking for reputable research firms to help them with their decision-making."
+    publishedDateTime: 2022-10-14T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-analysis-forecast-size-new-trends-and-insights-update-covid-19-impact-2022-10-14"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 29
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "2WHifB381MyvaUHn2D/q6K4rCXAxQXcUujeiKNZQAplwotcgNxUPFpcWmXKLdyAZnsIj6JRz3Usxz3KuSr6+EWrUVEHqzNCI4RFffuEpj/0ee1lungyJSTWof+xYL7sCtAns2rwt1fkF/OEemffa46p0e0RaPWY7CpFT5dGjZIf0FyLAJTawllRIySyXCOn7TAsn3E2xdA6yte6M/YHJKeqzKdtv8qTU/rfmRED9o+UZu3jNl0S3bcBZ9T+/gIwE2zm4ScDy0nn+W+7Ak0dMLQsRBmGAg2/kqV/rd1RgFSkQqILxpE3U/Uz5ldRuW81wJ2Tg1bKPo0S7iSAf4+2r1+/HfSxgYTmK6hmWJY1Tw0l2n+XNnwe/xz+eNjCVzcKHUseHqXcXImAeLrNEnq4dc4sxEOrekZKUiQ7hEoBIOl4bYXNY6DWvo7hsjlgEXHviDL6HPy9kTeT35ecMkGDpiBp82eLkmGIGE4eVn7Qc11eNhhnxUIyzTAauk8B/B9q1SMaNf7p5yvAXvOZJTFfN6A==;cxJUAw3WrG7AmUWliuvMWg=="
 ---

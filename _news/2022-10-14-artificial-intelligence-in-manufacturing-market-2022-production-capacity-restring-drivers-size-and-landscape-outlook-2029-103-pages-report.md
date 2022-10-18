@@ -59,6 +59,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
+    excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
+    publishedDateTime: 2022-10-14T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2022-key-factors-and-emerging-opportunities-with-current-trends-analysis-2028-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
+    publishedDateTime: 2022-10-14T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
     excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
     publishedDateTime: 2022-10-13T12:19:00Z

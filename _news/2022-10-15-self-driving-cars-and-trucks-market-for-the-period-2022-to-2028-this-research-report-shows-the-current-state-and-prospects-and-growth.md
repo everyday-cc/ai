@@ -1,22 +1,32 @@
 ---
 category: news
-title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
-excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
-publishedDateTime: 2022-10-13T12:19:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
+title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
+publishedDateTime: 2022-10-14T19:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
+webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
 type: article
-quality: 0
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
@@ -70,20 +80,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
-    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
-    publishedDateTime: 2022-10-14T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
     publishedDateTime: 2022-10-14T04:00:00Z
@@ -93,7 +89,16 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 10
+  - title: "Robo Taxis Global Market Report 2022: Growing Concerns About Road Safety Driving Sector Expansion - ResearchAndMarkets.com"
+    excerpt: "The \"Robo Taxis Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global robo-taxis market is expected to grow from $1.05 billion in 2021 to $1.71 billion in 2022 at a compound annual growth rate (CAGR) of 63."
+    publishedDateTime: 2022-10-13T12:19:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-13-robo-taxis-global-market-report-2022-growing-concerns-about-road-safety-driving-sector-expansion-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
-secured: "immIg8cdBMHgnj8WO8m40WGeA6tL2gmmlU1krBTPCtZ1+1Zwy34WIeAsBinAe9flP3XPP+GLubut6ry4ofbE1wL5einuxGK2gPC0vo0/QplpCw2dnLh/kXnpThNQX3ZQMtqhWeHe92VO5QRzSYOp3KlVVeIUt8jUeiiIDlO2fOFkJhdmt84GFxoTCDhitLqq2szDQDnlsiHieS4RiBMMUtnNbIHTaqoXGkC3MmGp94MPcGwj+I9X9M2KtgUZG9kwS1H1F+UAZdTOZ4IreK9nOyDlrftrhLO8bm872vOaFSi8c+bsyBatHrvqV8vzXwLmJtvh56TAqQmLPh24ik0KcK/8xtMlTAVqQj4LYqkXNH8=;c17AkWrLOpRQRiLTu1bUFQ=="
+secured: "P2CvVrzEX/W8SiR7XPjH45Xd6tEME/08Hue/W2zOPXG5PgMJxnGC/9O2d5h4LF6moUkGUozxpa0nFnCPkPaZ70Bov/fAoWxb+uODLRY95C09f4zqavC6ONs2ArQsoDdxWnuDTeP1ADrWdkQBsA93CRZGlif/glvpFysmSKa1dxQqrw2Ypxq9Zg+sDtuD8sNKIDYr2t1dhFeCUxI6NSwiE4hglmTOeWOrQ4H5l4Qxfn8nc3UmqVkNU7guoOczj58ohKAv9XpfVxT+51eNw0fREXVeQGs+iWVpYMj9F5Pmbcpmdjn+pEZSMCcFpH4WXVaZCgVF6fhK77e67tQWTh0cVyINIggsEfYqfw2Yx6vIIYI=;SYTmxLGHbWv1NZELYbHODg=="
 ---
 
