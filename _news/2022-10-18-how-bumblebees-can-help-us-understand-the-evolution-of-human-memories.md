@@ -26,6 +26,17 @@ images:
     height: 203
     isCached: true
 
+related:
+  - title: "How bumblebees can help us understand the evolution of human memories"
+    excerpt: "Researching the way other animals minds work can deepen our understanding of the human mind especially when there are differences For example ou"
+    publishedDateTime: 2022-10-18T19:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272946591/how-bumblebees-can-help-us-understand-the-evolution-of-human-memories"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 4
+
 secured: "1SZKuhbNu9UWHxA1CrdjeL7YPAaPOUgwHQRMHrk98wik1+Fc/tB5VSX3JMyu8CPZpzHD4Tb9s9ytXkhrw8Eaq6a5HOpOp+tA5xhtirEyS/5EqqutDzOsvpyrl6CQDWft8yGuDwS6GYS1ZojXUX9bERe8lJJbYc9n77bwHzM4NptYsrw5tLVP2T1YSma7ISMzxmnfW5+7LHFdvnkL9OBiZlSPsdVh+fO6sh0xEP1ni0QkNwSFEjd8ptqS4lJM68AsgFM/2IFAxi8s/G4eBN6e4fD/as+Y28iDooih7r0ZtcuxoaEPCVZ097Kmrn3HGYjRIZ+1N64pvIZzYDHvLDgurvDCOLP0I3pyzrowwaxA21c=;gY5gFbA9qxJVoU05zsBQsw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:52:00Z
 originalUrl: "https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-90th-interpol-general-assembly/"
 webUrl: "https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-90th-interpol-general-assembly/"
 type: article
+quality: 4
+heat: -1
+published: false
 
 provider:
   name: Prime Minister of India
@@ -14,6 +17,19 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "'When threats are global, response can't be local': PM Modi's full speech at 90th Interpol meet"
+    excerpt: "Prime Minister Narendra Modi addressed the 90th Interpol General Assembly at Pragati Maidan in New Delhi on Tuesday. Speaking at the inaugural session, PM Modi said that the world today faces many globalised threats and to combat these threats,"
+    publishedDateTime: 2022-10-18T10:55:00Z
+    webUrl: "https://www.oneindia.com/india/when-threats-are-global-response-can-t-be-local-pm-modis-full-speech-at-90th-interpol-meet-3475992.html"
+    ampWebUrl: "https://www.oneindia.com/amphtml/india/when-threats-are-global-response-can-t-be-local-pm-modis-full-speech-at-90th-interpol-meet-3475992.html"
+    cdnAmpWebUrl: "https://www-oneindia-com.cdn.ampproject.org/c/s/www.oneindia.com/amphtml/india/when-threats-are-global-response-can-t-be-local-pm-modis-full-speech-at-90th-interpol-meet-3475992.html"
+    type: article
+    provider:
+      name: Oneindia
+      domain: oneindia.com
+    quality: 12
 
 secured: "WVxo4S+sGiUWAz4IjM3fhIEm6Nxdk7dmMcOfiKrgOQL42RVp6tiP/NICTmrjzuFPZpe68kAP5wE2PkFuqJdj0cM1t85CvjEG0FvkycI6nFR+3VafaQCravh13UvXrV2dSmS/jQZBGbXlwPobxR7P4znoaC2UncB/wvsoxxSdS9QUP978okH6refKXwBKY1GKZ15Z/x7DLh8xgC2ZYm1sJA7W8Bccy5ZmLTF7xEcoBwZH4H+57nmaHanKj0PI8CUNSaVMZNU43r2KWet0R12fJg20ahq+YD8VgN41jbNbEUs/7sJP2p2fGZht8c7Bq0bI/qknnwaXO2wzScZ0vUrCeIamGwI03LRA34UvmAc6LfTQj2S5YgmELo5XwhJVxpdDhU8UtxOvVad3OQsxI616wW8FLaIFYM4psrpc74lUmZB/D0fAxAH7SoyOz7ZKLy8fQ7eYNZiseern0BXjziQkMJjj1l6xyEUMViZ9DoO8iz6NL7p/k/o7E4v7f4jfqnPtp+pZszgA475yTvO6gS3GyA==;FouJg8lMPQnLjMZCH8wFSQ=="
 ---

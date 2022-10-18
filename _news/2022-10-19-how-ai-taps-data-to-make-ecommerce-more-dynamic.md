@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T19:00:00Z
 originalUrl: "https://venturebeat.com/ai/how-ai-makes-ecommerce-more-dynamic/"
 webUrl: "https://venturebeat.com/ai/how-ai-makes-ecommerce-more-dynamic/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

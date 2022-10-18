@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence for Healthcare Applications Market 2022 Business Share Development Trends Segmentation Opportunities and Forecast To 2030"
-    excerpt: "The Artificial Intelligence for Healthcare Applications market revenue was $$ Million USD in 2016, grew to $$ Million USD in 2020, and will reach $$ Million USD in 2026, with a CAGR of $$ during 2020-2026."
-    publishedDateTime: 2022-10-14T04:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2022-business-share-development-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
     excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
     publishedDateTime: 2022-10-17T07:49:00Z
@@ -104,15 +90,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Manufacturing Market 2022 : Production Capacity, Restring Drivers, Size and Landscape Outlook 2029 | 103 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Manufacturing Market is projected to"
-    publishedDateTime: 2022-10-14T04:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-manufacturing-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2029-103-pages-report-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
 
 secured: "MeuN56RJqq3xbkmMjYqeZIpXOVE1MJb9GPtzL0LJr0/hq9As2B3qRSomnmTudLojZfsYrjIjzPKvqYUV6RuQTTBy6QvBI1Xnj7tAR/Ct+tPIs3xj4ZMldRN5lXqBPinS/1sOucJe0iHO9fmZQumgEYD2JHxwEZen905iHyq2VxgYLhpOAT5fUVXkICP/AkMrs6PsY8n1LBlftCQC7hO1M8Jg4ehwGeEgbyzQAvhd4AFSWAZi7gqGyNKHtNmbmNKmmrCWSqI8rBOy2KzdoTDUDLPWeW0TJFIT5rzwjyfiA2ZJu0gVb2vkcDsGeZSlVRzTmsHn16guR6TZ9hO1XaRmXKY0tfRM4MG23GtDaB/1UKg=;nYaPJJ/otCioBFb7B0WG7w=="
 ---

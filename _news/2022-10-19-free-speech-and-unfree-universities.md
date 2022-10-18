@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:32:00Z
 originalUrl: "https://www.chronicle.com/article/free-speech-and-unfree-universities"
 webUrl: "https://www.chronicle.com/article/free-speech-and-unfree-universities"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Chronicle of Higher Education

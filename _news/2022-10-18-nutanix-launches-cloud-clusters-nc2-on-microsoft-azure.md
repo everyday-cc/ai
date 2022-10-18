@@ -67,20 +67,15 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
-    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
-    publishedDateTime: 2022-10-14T01:06:00Z
-    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
+  - title: "Microsoft mum on Boston-area impact of reported layoffs"
+    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
+    publishedDateTime: 2022-10-18T17:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
     type: article
     provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 47
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "jtnjhkVzJNkzydW6SpDkTQl82C31ei9KyeRznJqj4j8WIMpLH7D4tr7A6ezfQj7DBqcYO2w55uIqftXI38nlj2OLmYJg6DQQIIkvk7EoV5lpEi7NLvndoWANGhpfblPaK4CJoH+UvT+kDyBUukTFDnBa8YfylrWkllMgkPRhW5gLXymhqpfCJC5nE17uToBmqp8oH2INQb7uwPMr8ny4QgG0FSOnHQPnOnRfpOD1kz18QE6SgGBG3TMIN9VwP0T4IYEwmw6/rsQieoP2a7PJU8X3HMJ4mFUYiazHVc1ZhLfepRMFrM3gz3TElBtLoZQ6flmgXDs2OENMUI8jDFINTLLQ+FtOfHxDkM9gcxtrPMvuNI8lB8HRnAyvhDWYpC7LZE1Isbrw8EgjUFIiCGVIOHFgSrmOU5xIGuU3K3LYmV74GJbRWuwWKRVtZyH72WNjRVIuV1UnBX417ICbhMq0+yCbzgLYkPGgswBqIeZwEr6sKessm4qp+2uwnlO+c8VyCZlQS+jSHperxsCBVkqXMQ==;7wjqguurYkT8pcLtH1fVDQ=="
 ---

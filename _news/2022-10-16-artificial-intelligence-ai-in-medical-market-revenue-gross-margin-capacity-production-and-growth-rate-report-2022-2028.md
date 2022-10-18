@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
+    excerpt: "Report Ocean recently added a research report on the Artificial Intelligence (AI) in Healthcare market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth,"
+    publishedDateTime: 2022-10-17T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
   - title: "Deep Learning Software Market Size Insight Report 2022 to 2029 by Top Key Players, Types, End Users and Regions with COVID-19 Impact Analysis"
     excerpt: "Deep Learning Software Market Research Report is spread across 107 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. The Deep Learning Software market has witnessed growth from Million USD to Multi million USD from 2017 to 2022."
     publishedDateTime: 2022-10-18T04:09:00Z
@@ -70,6 +79,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Neural Network Market Share, Trends, Regional Overview, Leading Company Analysis and Forecast 2022 To 2030"
+    excerpt: "The global neural network market was valued at $7,039 million in 2016, and is projected to reach $38,719 million by 2023, growing at a CAGR of 28.0% from 2017 to 2023. The Neural Network Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
+    publishedDateTime: 2022-10-17T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-share-trends-regional-overview-leading-company-analysis-and-forecast-2022-to-2030-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
     excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
     publishedDateTime: 2022-10-14T08:17:00Z

@@ -20,6 +20,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "PM’s Speech at the 90th INTERPOL General Assembly"
+    excerpt: "I extend a warm welcome to everyone for the 90th INTERPOL General Assembly. It is great to have you here at a time that is significant for both India and the INTERPOL. India is celebrating 75 years of independence in 2022."
+    publishedDateTime: 2022-10-18T18:52:00Z
+    webUrl: "https://www.pmindia.gov.in/en/news_updates/pms-speech-at-the-90th-interpol-general-assembly/"
+    type: article
+    provider:
+      name: Prime Minister of India
+      domain: pmindia.gov.in
+    quality: 4
+
 secured: "iugic0WDbJDOYYpEW1cVwWBBgbacLdilS40UYcViiEH7/93DZ3fePQr3C+pzYjsh2+23nDZNQ/wawD6OusJ685TCC+z4oRcLZZNxT38zsTtV4BCAqrYPia1QWCFCaLyCuSImnki6Etg6Q/C/ZCanbEUkyPAedD0q3ZKD0ldvZzgE5loFW2P8SL5nyMzHvGlusQjyEPxpnT/xpGxk76bl75ZucyHgnmKMNJAvcR5ukhoYgMKIMKrVhnshQkyK4iPxsC+d4FMeGOm1ERPQMWFnB2uHIpZfVB9qNHWR5oemijpqWj6kZHQEqKXIWRrAsWp8/YdJMq1/56c1NBAlJyunYD+ShwCFCKxbOfRJiVF/ZA0/IeJuvydHoTJjLH3s0pmsfHXrjFL4ylddMDwUYpfh5mIGnxV4WYF4AVmgl3wa6Gop5Py0r1usUhemHj77xi73nZcQ5Pk4WnDhPpm6WVbbkbnTbJlxUfNNPm+9/MZEc1uoUgoDacSKLjt1mXpq9xdoqIlEm5qyrDiEyGqovhyCCQ==;W9sKary5DkPIzCuv7lkOww=="
 ---
 

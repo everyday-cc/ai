@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T19:07:00Z
 originalUrl: "https://english.ahram.org.eg/NewsContent/50/1209/478090/AlAhram-Weekly/Focus/Technology-and-climate-change.aspx"
 webUrl: "https://english.ahram.org.eg/NewsContent/50/1209/478090/AlAhram-Weekly/Focus/Technology-and-climate-change.aspx"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Hebdo Ahram

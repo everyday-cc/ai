@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-rai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -81,6 +81,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Stability AI uses latent diffusion models to allow users to create art in Stable Diffusion"
+    excerpt: "The digital media firm says that it is the “world’s first community-driven, open-source artificial intelligence company.”"
+    publishedDateTime: 2022-10-18T19:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/stability-ai-uses-latent-diffusion-models-to-allow-users-to-create-art-in-stable-diffusion"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 7
 
 secured: "4sV5WvcLG451OHzW7a4QVdU6VAb9f0oD1J8328mEhxyqmCTUWUko1qAg3CB1iCNijTH7KkCikQmu178yYNO7PNZ+HosnKEhABUUN6+Z+vCBPq4dD2hZfgqT2WpVkusGr8FT1sB+P+9NnKL7HKQj0szvCyLJRTifnDdGVt8VxJcz+n79AdfKosVhmeD3mk4zT6dcyV75YoB46ZQneHKVZmygAJc3U/xyrwhFwT/8RuaE1xuBx/nQ2rQEZshUrOzBAjvwS/dF6srjIeBvz7jNDTtdXoNAgFw+H8mzwi7Rfo9KtBFJM1Dwyvgt29bUbNVgfvKVesK0AuSW3evrFT9HhY8925rj08CmmGsjWcLBWx/Ysd4eE5G3WxujLfKUv9NuMqSIoQgLmhR7szrv1s86V1uUBkEJcXUpvZxrjZY+kEhCOExpZMw+SyU2fGjRkSRUbQslYoypB5X1V8RhuNbkZC0gM0u0/uvOvKejZy3wby+J2Qn8KqM6ceGS+su1G2FLtrjWI9dQCw/5c4yvwSJRNsw==;PFHsTeqIfqRvZ5Afc6bXSw=="
 ---

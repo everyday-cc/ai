@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-16T00:55:00Z
 originalUrl: "https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation"
 webUrl: "https://www.economist.com/briefing/2022/10/13/china-and-the-west-are-in-a-race-to-foster-innovation"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Economist

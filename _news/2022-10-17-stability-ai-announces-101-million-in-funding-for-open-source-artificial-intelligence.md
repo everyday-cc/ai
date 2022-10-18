@@ -81,6 +81,15 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 19
+  - title: "Stability AI uses latent diffusion models to allow users to create art in Stable Diffusion"
+    excerpt: "The digital media firm says that it is the “world’s first community-driven, open-source artificial intelligence company.”"
+    publishedDateTime: 2022-10-18T19:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/stability-ai-uses-latent-diffusion-models-to-allow-users-to-create-art-in-stable-diffusion"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 7
 
 secured: "dN8xhS9ufxtoQ4eYdcq5tGVOidr1SmoY4JFujEBMDChqp210pRQpM3YOUQ5MqUCiQrK+bTwgIa9PnPLurOmLn2IdvnBUpLRt8SRFt6wVGCbfN4bJvEEgfvmH346uUBr3o/hRa5TDtsmIXZ13RD4awMX2Kgzo8PjgvcZgdfnZySzcfSywpM6DB6JGmln7ShnjLg4VRe9Mps1ktrCrew6RgyRNFSBdn462MLjhQDi/1YYAWSQN4cEArxsJs2DOfSP3H8dBksAnfucdx44hvoJfTLb8Qb3C7az9kcnHZAJf04286o9YnFPDN6psd6iCWvnCUgqDR8L8WW+pJ+UUGR3Bth7z7h0PrPeWTbUvp45V1YLe0TWr8i3igDhVIGjiSzvUbwjpgyc3fpTTaU3iTeHQSyobPjCh58TUllXRT1JyF75x6qEYzfeM51jtNkrHPDYANPj42PdpwEbNEjkaiNoR+2HQhyNxupR+FuY6cUOkHWa/WVKM1583WbndqGpWdCIsoVOqATL9N4RdQgfo9GfjBQ==;47jSnADD/0RTIU7x6Kh66w=="
 ---

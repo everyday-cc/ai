@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:25:00Z
 originalUrl: "https://www.natlawreview.com/article/bill-rights-information-age-white-house-outlines-principles-artificial-intelligence"
 webUrl: "https://www.natlawreview.com/article/bill-rights-information-age-white-house-outlines-principles-artificial-intelligence"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The National Law Review

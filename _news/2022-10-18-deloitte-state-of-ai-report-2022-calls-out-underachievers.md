@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "'State of AI in the Enterprise' Fifth Edition Uncovers Four Key Actions to Maximize AI Value"
-    excerpt: "Research reveals the key actions leaders can take to accelerate AI outcomesNEW YORK, Oct. 18, 2022 /PRNewswire/ --Key takeawaysFor Deloitte's"
-    publishedDateTime: 2022-10-18T12:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/state-of-ai-in-the-enterprise-fifth-edition-uncovers-four-key-actions-to-maximize-ai-value-1031813269"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
   - title: "Here Are the Language Highlights from the Popular ‘State of AI Report 2022’"
     excerpt: "Snapshot of the most interesting language technology highlights in the latest edition of the popular State of AI Report compiled by a group of VCs and PhDs."
     publishedDateTime: 2022-10-18T12:50:00Z

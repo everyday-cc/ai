@@ -80,20 +80,47 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
-    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-14T03:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
+  - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
+    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-18T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2022-10-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 17
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
+    publishedDateTime: 2022-10-18T13:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-global-insights-and-trends-forecasts-to-2028-112-pages-report-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 27
+  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
+    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
+    publishedDateTime: 2022-10-17T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
+  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
+    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
+    publishedDateTime: 2022-10-17T09:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "Dkq8GFsc2Y/ka4qX/Mk22Zp1TcYvUc3aMbFBNr7qwMUuACLDUdoqutjIxKctnRqdpXCQdI5JRUFffqt640GwqwR5B7p+s36GSG4I/Au7b9sD5B/qyGYCkLpxWXLqN/CLoTqy2Bdp9BFaDWq6cDZyDjCjudMLKN4wcCLBypMw9xaQpk9pAYzgBCP45arseG2l9HYf5YBtMTIo5/HNkDvt4OCxtBWhLGVWrm8pIqcPNXV+iaKkV8aOfKIX4A/Pm8kcMv51JaggAtQ/q1RjxAVQP915y6NuuI93d0qZVGFLKQSOBfi/X9jhOBQ1kuGCX2R1AvGNYN4RTJ4ZueZ4M178ZqYFqFxUPl0umkQDpueBPts=;BttEeNUFJtp40Q8qBDUc0Q=="
 ---

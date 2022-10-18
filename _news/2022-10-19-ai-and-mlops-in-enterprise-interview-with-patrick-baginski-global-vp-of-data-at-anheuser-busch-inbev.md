@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:21:00Z
 originalUrl: "https://www.geekwire.com/calendar-event/ai-and-mlops-in-enterprise-interview-with-patrick-baginski-global-vp-of-data-at-anheuser-busch-inbev/"
 webUrl: "https://www.geekwire.com/calendar-event/ai-and-mlops-in-enterprise-interview-with-patrick-baginski-global-vp-of-data-at-anheuser-busch-inbev/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: GeekWire

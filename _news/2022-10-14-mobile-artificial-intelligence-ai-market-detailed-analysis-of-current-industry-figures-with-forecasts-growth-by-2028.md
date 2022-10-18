@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market Overview 2022 to 2030, Future Trends and Forecast | By -IBM, Autodesk, Microsoft"
-    excerpt: "The Global Artificial Intelligence (AI) in Fintech Market investigation report contains Types ( Hardware, Software, Services ), Segmentation & all logical and factual briefs about the Market 2022 Overview,"
-    publishedDateTime: 2022-10-14T04:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-overview-2022-to-2030-future-trends-and-forecast-by--ibm-autodesk-microsoft-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) In Social Media Market to"
     excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
     publishedDateTime: 2022-10-17T17:20:00Z

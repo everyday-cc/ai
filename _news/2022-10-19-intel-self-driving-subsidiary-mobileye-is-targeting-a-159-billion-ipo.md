@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T19:40:00Z
 originalUrl: "https://www.shacknews.com/article/132718/intel-mobileye-targets-15-billion-ipo"
 webUrl: "https://www.shacknews.com/article/132718/intel-mobileye-targets-15-billion-ipo"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Shacknews

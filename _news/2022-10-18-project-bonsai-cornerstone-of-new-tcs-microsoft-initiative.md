@@ -59,20 +59,6 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
-  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
-    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
-    publishedDateTime: 2022-10-14T01:06:00Z
-    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
-    type: article
-    provider:
-      name: ARN
-      domain: arnnet.com.au
-    quality: 47
-    images:
-      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
-        width: 472
-        height: 315
-        isCached: true
   - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
     publishedDateTime: 2022-10-18T05:27:00Z
@@ -82,6 +68,15 @@ related:
       name: GDPR fines
       domain: itp.net
     quality: 34
+  - title: "Microsoft mum on Boston-area impact of reported layoffs"
+    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
+    publishedDateTime: 2022-10-18T17:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "ajoLgesXPbWRQg8dMrEKdeXDeMBVJMCZaGOe1UToZC+/8IgRKQ6+73st18Ic7TU+mTmnYY3OcX2hm+f90WelcZ9iadK2WFYZclmv0zfxzYiNmLVXAFLpLFRtqhF0HE7wmhg8mLaGnSgntAfiYeLMuo4WWJRYWMl0/Xi2gtij3M5N2L8x/WBa43rk0cE9Mo/XCHjq04+xE2NxSw2ZPK+ANeMIB025VY6x+dJsL4C8bcG+ZNh5C/gHxX9qNejKWEet89rKtM+qUOhaLzfV0+TBpAD/Sgx0jDSnjQcZEiD0NRHQqELyYTcX0d3hUIi4wBmAFd1xooRixg2cpQvDx/NBQ91ek8djtdKEqLAWnYGI1fIuENt3onfjZf8H06nIsP7Ti7htumHi91tSW8BkDlmokg5lxmS7aq84rQGS4cYETxh/HCuMV+PFNmpv3CAjdYGIDSiTKwBWg0RLak5vHzs8SeAY3mZW5n1tgDQohPh5KomChZaZ2nkAbPOZ5S6+i1UhtE3fXbErXyK0dbajITGUYA==;+dqXYhPGAN4OUyQnYbSYGQ=="
 ---

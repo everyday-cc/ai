@@ -26,22 +26,6 @@ images:
     height: 1080
     isCached: true
 
-related:
-  - title: "7 takeaways from the January 6 hearing"
-    excerpt: "By Jeremy Herb, Zachary Cohen, Marshall Cohen and Devan Cole, CNN (CNN) -- The House select committee's final hearing on the Capitol Hill insurrection before the midterm elections Thursday used new te"
-    publishedDateTime: 2022-10-14T04:40:00Z
-    webUrl: "https://cbs58.com/news/6-takeaways-from-the-january-6-hearing"
-    type: article
-    provider:
-      name: CBS 58 News
-      domain: cbs58.com
-    quality: 24
-    images:
-      - url: "https://newscdn2.weigelbroadcasting.com/Q0rzs-1665691983-239035-blog-hypatia-h_66d848beed3324d8961caa8e3c43b6c5-h_c342f3caa44bab6890b1907dc5a01352-300.JPG"
-        width: 833
-        height: 468
-        isCached: true
-
 secured: "Cc+JXpy88T6Abm7A4xiDxAWEMuJMP6wDHlnjs0jGMuRrEc9MzIh63WqIHef0wweQRe/VlFcoDnspf08/HiECwFA+1kVFWiXfLFVwKumhNFoGmoRxG7OXMQcYTf/bnOjm/p/MAQhMKUKrhhedXiP7bqElxKotJB1nAF9lQhytDCq50odpsdpj8hV/t8ev1z0HjmnwoTtkR6cANElGHvxt/C+J4O/KK/mkxrP33zLSwW3psUUU6PJ3f9mRziKdkPxp4lKSK9F78R5YfFOeHgKFvEwhLK3dL+HySQJedsYmYh57j16/VL04i4Iq7UAlht2aP4B2081FDsDPFd2CHYp+bPo0f5q2Yn2lyKXKDSVFdWY=;d+eOHU7wn3uRxgTIhEMPzg=="
 ---
 

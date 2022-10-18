@@ -77,6 +77,15 @@ related:
         width: 900
         height: 506
         isCached: true
+  - title: "Stability AI uses latent diffusion models to allow users to create art in Stable Diffusion"
+    excerpt: "The digital media firm says that it is the “world’s first community-driven, open-source artificial intelligence company.”"
+    publishedDateTime: 2022-10-18T19:17:00Z
+    webUrl: "https://interestingengineering.com/innovation/stability-ai-uses-latent-diffusion-models-to-allow-users-to-create-art-in-stable-diffusion"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 7
 
 secured: "MW+X2ZnNlY19r6gNM3K+jxQzFEk9KtOoAnJC+jf4Nj6XmgILX6KlfcwjHUVBTIVapx3XO6Ctmeynr4to0Y/af/ugpixaGUy9UpOdgQ4d+pRvQDDozOKdIaGRKxwjnaLOHeCMr3A+CAPyJ4oaZByezJLbk+vCy0O9j6O8/6eySkNMUjzss11TSoZHauJ7UjW7j3Z9wjtLNThnXxhAx6dt2UIBwEaUeQGhMggM7U6NAqW4Ri/9BLYXZ2a062ZoTh7tIrVshY7w8FFqLInrUhiXlDk79BaTVUhnXRXri/+WlSOx/6Gu047rqTP9kl3uIHdaD4WKg4biyJmiRbFdeOvveScklgSw3G2PTCIv1+09JmqGGl02G5o/S5gPZgoiVK/zLIazviEPe6SRxwGmmeO6BpBr1V+2zFBlDIMZvTkqwvA+5586fshK58hbFMU+srHnOYTd9SDheuNTaBnpcGG1yxzGYQ0xxQ6YEVAO9fJ5aDTrALTtMItMMewlNU/VxEjs45XCHvfE6AaZR/0ore9QeQ==;4PiHOFzo6vIDG5qomn2iNg=="
 ---

@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 450
         isCached: true
-  - title: "AI language models could be offensive or prejudiced toward individuals with disabilities"
-    excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications -; such as smart assistants or email autocorrect and spam filters -;"
-    publishedDateTime: 2022-10-14T02:23:00Z
-    webUrl: "https://www.news-medical.net/news/20221013/AI-language-models-could-be-offensive-or-prejudiced-toward-individuals-with-disabilities.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
   - title: "AI language models show bias against people with disabilities: Study"
     excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
     publishedDateTime: 2022-10-14T15:59:00Z

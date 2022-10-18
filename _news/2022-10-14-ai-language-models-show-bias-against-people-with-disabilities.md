@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -70,20 +70,6 @@ related:
       - url: "https://s.yimg.com/uu/api/res/1.2/_ciJ_hxHtkSRnICtYH8BUA--~B/aD01NTA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_the_hill_articles_315/06c01031bf097ded6698406a0264b8a1"
         width: 900
         height: 550
-        isCached: true
-  - title: "AI language models could be offensive or prejudiced toward individuals with disabilities"
-    excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications -; such as smart assistants or email autocorrect and spam filters -;"
-    publishedDateTime: 2022-10-14T02:23:00Z
-    webUrl: "https://www.news-medical.net/news/20221013/AI-language-models-could-be-offensive-or-prejudiced-toward-individuals-with-disabilities.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 30
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
         isCached: true
   - title: "AI language models show bias against people with disabilities: Study"
     excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"

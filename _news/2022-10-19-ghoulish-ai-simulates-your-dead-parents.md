@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:44:00Z
 originalUrl: "https://futurism.com/the-byte/ghoulish-ai-simulates-dead-parents"
 webUrl: "https://futurism.com/the-byte/ghoulish-ai-simulates-dead-parents"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Futurism

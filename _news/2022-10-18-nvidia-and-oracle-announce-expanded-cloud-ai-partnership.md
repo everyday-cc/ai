@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/"
 type: article
 quality: 89
-heat: 149
+heat: 150
 published: true
 
 provider:

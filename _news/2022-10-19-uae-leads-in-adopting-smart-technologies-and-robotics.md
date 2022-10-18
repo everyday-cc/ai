@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T18:01:00Z
 originalUrl: "https://www.gulftoday.ae/business/2022/10/18/uae-leads-in-adopting-smart-technologies-and-robotics"
 webUrl: "https://www.gulftoday.ae/business/2022/10/18/uae-leads-in-adopting-smart-technologies-and-robotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: gulftoday
