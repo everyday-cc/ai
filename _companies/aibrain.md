@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aibraininc"
   url: "https://twitter.com/aibraininc"
-  followers: 204
+  followers: 203
 
 size: 11-50 employees
 yearFounded: 2012
