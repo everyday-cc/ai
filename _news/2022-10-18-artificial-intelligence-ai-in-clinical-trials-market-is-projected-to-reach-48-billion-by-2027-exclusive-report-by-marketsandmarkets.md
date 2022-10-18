@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intel
 ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "China Autonomous Vehicles Market Report 2022: Featuring AutoX, Baidu Apollo, Didi Chuxing, Pony.ai, TuSimple & WeRide - ResearchAndMarkets.com"

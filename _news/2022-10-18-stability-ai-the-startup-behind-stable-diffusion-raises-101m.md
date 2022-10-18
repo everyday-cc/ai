@@ -22,57 +22,45 @@ topics:
   - AI
 
 related:
-  - title: "Stability AI Announces $101 Million in Funding for Open-Source Artificial Intelligence"
-    excerpt: "Top open-source investors Coatue and Lightspeed Venture Partners back the only independent multimodal AI company in oversubscribed roundLONDON"
-    publishedDateTime: 2022-10-17T15:27:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/stability-ai-announces-101-million-in-funding-for-open-source-artificial-intelligence-1031810521"
+  - title: "AI content platform Jasper raises $125M at a $1.5B valuation"
+    excerpt: "Jasper, a platform leveraging AI to generate marketing art and copy, has raised $125 million at a $1.5 billion valuation."
+    publishedDateTime: 2022-10-18T16:14:00Z
+    webUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
+    ampWebUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Here's how generative-AI startup Jasper raised $125 million in Series A funding from Insight Partners and became a unicorn"
+    excerpt: "Jasper, a generative-artificial-intelligence startup, raised $125 million in Series A funding from Insight Partners, hitting a $1.5 billion valuation."
+    publishedDateTime: 2022-10-18T13:00:00Z
+    webUrl: "https://www.businessinsider.com/generative-ai-startup-jasper-raises-seriesa-funding-insight-openai-2022-10"
     type: article
     provider:
       name: Business Insider
       domain: businessinsider.com
-    quality: 74
+    quality: 43
     images:
-      - url: "https://mma.prnewswire.com/media/1921903/Stability_AI_Product_DreamStudio.jpg"
-        width: 400
-        height: 231
+      - url: "https://i.insider.com/634c6d106bd527001914e018?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
-  - title: "AI startup Stability AI raises $101M in new funding"
-    excerpt: "The London-based startup announced the investment today. According to Bloomberg, it’s now valued at $1 billion. Stability AI is the developer of Stable Diffusion, an open-source neural network that can generate images based on text prompts from users."
-    publishedDateTime: 2022-10-17T19:34:00Z
-    webUrl: "https://siliconangle.com/2022/10/17/ai-startup-stability-ai-raises-101m-funding/"
+  - title: "Austin AI startup Jasper raises $125M at $1.5B valuation"
+    excerpt: "This CEO leads the latest member of Austin's unicorn club — the startup achieved that billion-dollar valuation a little more than a year after it was founded."
+    publishedDateTime: 2022-10-18T12:00:00Z
+    webUrl: "https://www.bizjournals.com/austin/inno/stories/fundings/2022/10/18/austin-startup-jasper-raises-125m-at.html"
     type: article
     provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/image-7.png"
-        width: 718
-        height: 404
-        isCached: true
-  - title: "Stability AI Newest Addition To Unicorn Stable"
-    excerpt: "London-based Stability AI became Europe’s newest unicorn after locking up a $101 million raise led by Coatue, Lightspeed Venture Partners and O’Shaughnessy Ventures. The company did not release a valuation,"
-    publishedDateTime: 2022-10-17T16:55:00Z
-    webUrl: "https://news.crunchbase.com/ai-robotics/stability-ai-unicorn/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 37
-    images:
-      - url: "https://news.crunchbase.com/wp-content/uploads/2019/07/Nerdy_Unicorn.png"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "AI startup Stability AI raises $101M in funding"
-    excerpt: "Stability AI announced the investment today. According to Bloomberg, the London-based startup is now valued at $1 billion. Stability AI is the developer of Stable Diffusion, an open-source neural network that can generate images based on text prompts from users."
-    publishedDateTime: 2022-10-17T19:26:00Z
-    webUrl: "https://siliconangle.com/2022/10/17/ai-startup-stability-ai-raises-101m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "kO8g27Cp9BXUW3/vGk83iWdCMsjVJ/0BtZ6jW5O9MDRhpJDgVrw2t3S7uKco0pvaARQNh7RAJ8qTnvF1hMtU+SiYIACkJCrnvm8wvrAftfWoKXr9koOCeXxxfYOAxMhSFKlzy7aVy8tjZ1FldCfUMmt9gTHzm1l4g5vAgE5c4v2mT0MW+3uJuVfzeeutu38kNI2NjDqdDcxPmllq7Ick5qjOLhr/0NDeafIXFVDjZqFeLmqhmN0oSEhDI84n0O7iuLWQwIjJXhefylB0VjiiFkO5wUBb6iDka+n/Tr2xWoylxE2UkmwfgHSn8MbyG8s/miaa5fFCAjbVc9zFQVdRu0trAVAikVGM8Tn6lIvrtFVrjWcbLGDR6HHUKbR50y0OSgCTBX4Rg5s5NmI0CrTx6m2qgjfS/vbq6CmyFoYq+MLKCYCEURy9B31XzBwUXKdKLVmIeut2pg4LgWse98nCWfpRfHFiBunqaFsJS32y/R85zYVnheXpKL3MV4oU92+q5KZbmQB2dqFOhN9SnPjtcw==;7LHfO8hgPMKKPtTl4eXQHg=="
 ---

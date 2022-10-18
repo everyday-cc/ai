@@ -18,6 +18,31 @@ topics:
   - AI
 
 related:
+  - title: "AI content platform Jasper raises $125M at a $1.5B valuation"
+    excerpt: "Jasper, a platform leveraging AI to generate marketing art and copy, has raised $125 million at a $1.5 billion valuation."
+    publishedDateTime: 2022-10-18T16:14:00Z
+    webUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
+    ampWebUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?resize=1200,800"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Stability AI, the startup behind Stable Diffusion, raises $101M"
+    excerpt: "Stability AI, the startup behind the image-generating AI system Stable Diffusion, has raised $101 million at a reported valuation over $1 billion."
+    publishedDateTime: 2022-10-17T18:05:00Z
+    webUrl: "https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "Here's how generative-AI startup Jasper raised $125 million in Series A funding from Insight Partners and became a unicorn"
     excerpt: "Jasper, a generative-artificial-intelligence startup, raised $125 million in Series A funding from Insight Partners, hitting a $1.5 billion valuation."
     publishedDateTime: 2022-10-18T13:00:00Z

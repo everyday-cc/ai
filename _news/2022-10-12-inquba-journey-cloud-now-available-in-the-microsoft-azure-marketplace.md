@@ -1,30 +1,26 @@
 ---
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-publishedDateTime: 2022-10-12T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2022-10-12T15:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-inquba-journey-cloud-now-available-the-microsoft-azure-/2022/10/12/9691176.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
-secured: "tcfwb8+4Azr8fXsxY3jGqrfpiRIeEZfeoq1fYIcY/9TkF0VpmcmKWPUwl4W3M3LVgHJXfeb9aSkEoe50fslWVg6qljla9Xag3Zdfqh0iVdRmTgsgkhG94AP02PRtS5wkJNy7vziudMA1Zau8Mv1yStWP9ml0kNIXl7nDKJ35IOI+84oOMfKPrOsqWlhW007rZPQce294xBMyzN6XTipoLDR02ZJmEuQhoAVzquhMDt+M2bchATmgfxnFzAE3MZ2DdtMW9MToaX9e62z7LruhRUfWV848BVLhIo04iS49/Pnd5fpWoP7weZcbxs+kpoxbgq6p7BwNnqhD/VpTssQqnMEz2r+eCZpyuggbr39+kIw=;Ays0i4EpsNaPCIT2AMk3FQ=="
+secured: "kR7ITOYM+golM/tmKWCkvfXIR5rjrG998eOShMGRZhpNizoGrPAUDxYt8k/SbRuZkPMeOzCRJmGvrAHGYEd3NxHTsUjX5Gzfpzmp1k+ZWJJsLKrVIN8hH0m4yDhy7RW7vblQQP9cKTe+DVW5nDrAcw4x9o5OjmQxZmrlb1MH6symw5aZCmadxeLJrhB/aOMw/SdT9+P5MyRmIcPtmhqEcoWOZ0tf87ar1yOLeLo5hib7h7xQNSDJA6ZCcrB/YLWAcwcGDsSyN0k57pZHdnncklBCLNVjKhyAzl13JwEw3HjETXFbP2e0l5UTeIkVHnj4s5jl8BSnV89kcpZndwqqd0qG6HfvxYIDNSv0+JET3Z4=;Dclo2HA2WlG/WY9qxospdQ=="
 ---
 

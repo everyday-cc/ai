@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 862
         isCached: true
-  - title: "Oracle Cloud Adding Tens of Thousands of Nvidia Chips for AI"
-    excerpt: "Oracle Corp and Nvidia Corp on Tuesday announced they are expanding their partnership and adding tens of thousands of Nvidia’s chips to boost artificial intelligence- related computational work in Oracle’s cloud."
-    publishedDateTime: 2022-10-18T15:03:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-10-18/oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 64
 
 secured: "F9fW1kuMDdd4WD1aLaYRH+mpahZqG8hfQlBl4k1eQY3aExxiElb87LuXAvfq6GFrWXyMbAYuFdtPLhP6fRXh+05+yJeJwN1ky7OC3ZncpslhnOIcb1yicDiOeS3r5dSRGzwnitXKi1uc0uGJ6lkmpoKpY8i3kNCX9rnWk3/5mX0qW7l7Qpf3xItYsVpHh17vxYW1X3hpaNHF/6ZdgB78jBevwgaWDibX7FUUWOKsTeHEkmKjhbCW1nIfeV1BhnjTQ/nvvZlbtl3ka5KFs5WSPyYehg6mEmKR/VMw2yttJ5rCB3HT05KqWgjCSdvZbLSpZSlI3zMOtzL+WPo7LP2idEwbH7isdQo7R8EbhZaLbU4=;+FZLgLTHegv179dP3Eym6w=="
 ---

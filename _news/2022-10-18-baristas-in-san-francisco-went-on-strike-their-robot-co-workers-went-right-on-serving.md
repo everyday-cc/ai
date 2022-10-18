@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/robots-jobs-san-francisco-strike-b
 webUrl: "https://www.businessinsider.com/robots-jobs-san-francisco-strike-baristas-technology-future-of-work-2022-10"
 type: article
 quality: 61
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -32,9 +32,9 @@ related:
   - title: "ODSC West 2022 to Become the Largest Hybrid Data Science and Machine Learning Conference this November in San Francisco 1st-3rd"
     excerpt: "ODSC West 2022 is coming to San Francisco this November 1st to 3rd, as well as virtually. The event will allow data scientists to perform AI better and will feature talks from experts at HP, Microsoft,"
     publishedDateTime: 2022-10-17T16:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/p29292118/odsc-west-2022-to-become-the-largest-hybrid-data-science-and-machine-learning-conference-this-nove"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29292118"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292118"
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29292089/odsc-west-2022-to-become-the-largest-hybrid-data-science-and-machine-learning-conference-this-nove"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29292089"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292089"
     type: article
     provider:
       name: Benzinga.com
