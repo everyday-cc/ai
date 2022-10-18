@@ -25,47 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
+  - title: "UTC researcher wins NAM prize for computational research on aging"
+    excerpt: "A computational biologist at the University of Tennessee at Chattanooga has received a $50,000 cash award in the first phase of a global competition among experts looking for solutions to the coming challenges of an aging global population."
+    publishedDateTime: 2022-10-17T19:48:00Z
+    webUrl: "https://www.timesfreepress.com/news/2022/oct/17/utc-researcher-wins-nam-prize-for-computational/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
+      name: Chattanooga Times Free Press
+      domain: timesfreepress.com
+    quality: 24
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102543754_unnamed--13-_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d"
+        width: 800
+        height: 1200
         isCached: true
 
 secured: "mAnWzuaxHPMo0GrJsiWsfBVZLJubxINM4qpxSznm6l959vTnKuA5fOe/YPsgiB1SNEKqGjr5pY/VPhg5kkbS5SB7a7tJzNRTD8XUjdAf09DHJaRxbiC9hvrhHTRSvuHLYzNgpsyrYdh+OkwwH0Amh0iNDt4GBRevuCULaGaVNdz2ALuupXYI9FoFMy5hMtdbcua015mBcYv/V0yl3X011wPtU47DmypVuyVcfYZhDpNLhd8Cnkny7PaTJCR08gR7mkNCH1kIjdiLrgvQFcD0M6XpPG4Tj43U0SOVJLyQJTwKqq98r+ru4G9gy4UtMAIHapDEuEVyYKkcyepRx+u2e88NN7VLZTHLlEWkkRpB0uE=;5Q5fuSmi1T7YvVppFesy6A=="

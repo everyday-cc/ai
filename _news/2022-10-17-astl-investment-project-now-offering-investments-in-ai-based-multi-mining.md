@@ -19,17 +19,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "Tifin launches AI-powered investing assistant"
-    excerpt: "Tifin, the fintech platform known for Magnifi, it’s award-winning investment marketplace, today announced the launch of their new premium subscription Magnifi Personal, aimed at helping investors without enough time or knowledge to build and grow their portfolios with intelligence."
-    publishedDateTime: 2022-10-13T18:01:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94454/tifin-launches-ai-powered-investing-assistant"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 19
-
 secured: "I41B0PicVoLB6tFz+2wDvLhYrDKIS5HYbnAfGJzBXo6bEI0snKzXnO3e299CsPRj2IW6iWFeQ2HaIbeX8ZEcJAiMai2H0vPIwB9y2imhl4eWcLnj7UEm5lUFUWA+VlMgsyv5YzUsW/QgbXUNDjJpU4WKLQM99Gvw0jTI0s/Zj+sV4cGH9hrs5BcWV2HKBLUbKtAWjk9Rgy0x80yhZUna33XyKhvF5OkB75S2CNC60AjcZeCTIMa6LO0zLPs0tR6Ke72Vw78M5GyeXUXEUpoFsNZU1ptK3DEx0P3xdID3hwbsD7fDh6N9XPwsGXZuGeTz+ddSCsWn19XmfNj91qJmTMK1OgeWXHGQofZNMi8DjKo=;UWuvHeUM5xOaIzjajLeh2Q=="
 ---
 

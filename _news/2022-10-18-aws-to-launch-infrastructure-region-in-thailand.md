@@ -41,7 +41,35 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AWS announces that it will launch an infrastructure Region in Thailand"
+    excerpt: "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions."
+    publishedDateTime: 2022-10-18T10:26:00Z
+    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 54
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "AWS to open cloud region in Thailand"
+    excerpt: "Amazon Web Services (AWS) is to open a new cloud region in Bangkok, Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones and is part of the company’s commitment to invest more than $5 billion in country over 15 years."
+    publishedDateTime: 2022-10-18T10:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-open-cloud-region-in-thailand/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Bangkok.2e16d0ba.fill-1200x630_98NYK0i.jpg"
+        width: 470
+        height: 248
+        isCached: true
 
-secured: "EGI8+PFGc+az8hOy9+L2OmZNn9zGEY3k+IT29Ei42VCEv91muVDFo2rWY9sFgIWJf9EVOXQmmeIAt+gl/zTmBRIZpOfXtxcljh805OA24HmckWZK8rBmZYMXbW78mw26MfyT8tu12Ozww/RutO5nIdoH9oJrbjZRw19yIC4UHWL8ZbgYuDqp6w5nFOyUljvYZY/Ow4T7PxGTDMbONPzoankFEM4Ra5EkeOsY6ZPBRo7a/azFrQbYchMyWJZl2vKDijpxEELAI11pJCtNQEXIjU1Adp3GQEDL7AfbTRE9imOcQYL2yHbfS6jkOBbGE7WEM1m0z3+PXUTZ3H7/zSA+tTVyi2F+rrFBnmD5x+x6M9A=;8x+oO1dpl99FFbN7IZXqFg=="
+secured: "wXD4PZrSSPiWkXBxalaQlbscgVF85gj+HsuKWIqkjWJ6kBSKT6Mo3Nsp36efKyh5MeH8mvacHxRJK08oug0B2kWcQgyhJ0w63oB8fCNs9/gWXGVGAhmzrDSyrFVHP6OQfPt7U36cF5eivC61lyIwLTUcd6onIyZtBSc3zeTilKKlByiFw2cBW16ji0AV97aBArzhR71753sLXGcJhy7loNF3avyvAHXgb5Rn6ehegM3RM4/SGZ3mjKl+4LKoKywBmiLNf0P1EvTDmn8z1GofGFYNXyqunDhOZq+Q53JEvkkwwBos//nj92solCwSGhthXDb4WgoqpBLCBTAi2vk99+CclU84EdM2eGIJq3oPHUi+wmc21c59frtAwyceQH66dIk09UVkMfTPqYTTqusm76D/+K/UnYERUqUrq/ny7xlhXiW7lMjwoCSHeizq8wCIJXeJxUZZTvLcOEVP9IV+xSDnHu9661/l1OGRGvwA6lhPv5WCArAS7MeuU54wRwz1fjJbEWeDlpPoL24o1WV/ag==;WpK3UsFm1FfDIXCwDA5aFg=="
 ---
 

@@ -2,11 +2,11 @@
 category: news
 title: "Drivers shouldn't use driver-assistance tech like autopilot, group warns"
 excerpt: "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ..."
-publishedDateTime: 2022-10-12T06:50:00Z
-originalUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-webUrl: "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+publishedDateTime: 2022-10-12T14:48:00Z
+originalUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+webUrl: "https://www.cbsnews.com/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+ampWebUrl: "https://www.cbsnews.com/amp/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/pittsburgh/news/tesla-gm-nissan-self-driving-vehicles-iihs/"
 type: article
 
 provider:
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "iqo4jXeUNvic+fpT/GqY19q0REaT3G0VLnyFkKh2fRaFdRfY6yRMbjBJ3XOMTk/euQ9GkZfob5cqyvKpPcfhHnx0oLCksueX0fKJFvYtduH6TJ3PkWWbU+LD71DWOY4BPs63Ia3IK2QQZtcvlz+/mXzbAUxNSBrp8SwpmOkhxSJAKKb2/I3I5jK+QvTPHiYg5whsaXWIgu9hj3M2kGvoBCP7SNCqcvDmhcRKTawjGcG38NMnu5x/Xa5XH1ki5KVD1f3Dye8njGWXFWUv5cFZ3jgxy4Xuv+iUNCxWEueBmnplpTEkCE27m06nes+MEeAvyOE0NP40pCFooUIZ3WJ4Nv3oNIv2BHVVM/CXf05cHS0=;TKTQEXKdCBokpcyax/vkSA=="
+secured: "+MMwmZas5zUtZx+cAkXUHy7w56Wi7cY02IlSUyyp8Nk9XmtNfkFgam5sv8bC5wUEByhfgBPj3NUDHUe8rA5Y1nkpWlfOqQNAi61o6bQX50Ynrk3ftTft8YMOVA2sNA6c2JmtCoqja6rPRzYNN21p8E/+xFx7xtHTjeV5APfj6Dx8UIfNF8shxQaUcbYLmLlqs3Pcv01T/da45TJt8wiZ8+J7Xwj2HgZ8aXfiR+DGgL/Ev7n7IVIMGQ02p8rFYcqw7WiwcYnD1HiNMPEF4MY9oytl6sNFAg8JQcUHF5SfZKkT79Eb70fZKF2r8gjXLE0uQYfrYKHbep9Y3jQyfHdzmvzaJnBMZVxLcY0gqBJY2UM=;DjkBV9xRceRsUVz6gDyKyQ=="
 ---
 

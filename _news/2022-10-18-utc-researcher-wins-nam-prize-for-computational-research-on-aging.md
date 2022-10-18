@@ -24,6 +24,22 @@ images:
     height: 1200
     isCached: true
 
+related:
+  - title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of ..."
+    publishedDateTime: 2022-10-14T10:23:00Z
+    webUrl: "https://www.galvnews.com/news_ap/business/article_f586283e-132d-5dab-b014-e4ceeaaeff68.html"
+    type: article
+    provider:
+      name: The Daily News
+      domain: galvnews.com
+    quality: 10
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
+        width: 600
+        height: 338
+        isCached: true
+
 secured: "OusDOsgWX8Q76ZyKbFU0IRWcce8s7BLt/Pxh9TudxqIe6aJvsKU2gR8Iec0mdxfWfoa0X2DjdYvlOnQK0NZ6y35xOtu9Rp/HQYyZGOnFMllqY3Nm+JQFwc4SZuyO6VFYjIEoKSPrq4Hm9aP98pT+BpF6tyhWIYNoEec3CZnqY/r493vJRIexFD99bh1Ky20aVtDYATRswmO4+nPEwJFtN9RUh/9wRx9PUJRyTuu8uSiFWcnREKJRaAWmhG6Wh8efho9D77IFoNqQh0Hi6I85zrRk/CpzdlsqGG80KX+lOEfimL9LdYOHm7HXhAlN2uZF9objeGZTv/hI2FfWC097Y95SJU164oduKCFQ5AyeOs0pDqSgm5A26mYwTVL0dv4UYQR4TyqpMCXxBvevZMV0b8SI46I/IGyzAat0l3Ww4h92h2RvVrQYuqPW3u/un+osssJGhhpU7ncezEaflGVIb65LTI9uLHzGTnHDKV49yIvmVyM/5CGR0CuFVRZF3M9zauQ1Xz8vRYK0lN56MH0abQ==;RyWPu1hTdfY29xOenQweXA=="
 ---
 

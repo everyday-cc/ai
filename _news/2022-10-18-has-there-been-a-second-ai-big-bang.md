@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-sec
 ampWebUrl: "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200"
@@ -29,6 +30,6 @@ images:
     height: 1021
     isCached: true
 
-secured: "kxYr4fLpetPY7Vt+paGVDeZDe3rE2k8bhaYS1CjN5Lr7gztTUxtaPE1MtjnQFarsuRPEjm2qvT67wswW555f+TyJpi4NJ1IRL1QjFqfyRyVW6opdaOU59LrGMr7f7SvOCL+W4krmld2CxYhVJUGMN/VlYa/XhAT79oEqQLUmeSpgf+LPfgKXKRH6BvEWK60lB98b/yqVRV42zhmI3rylTvJyvtz0gPOnE5mlwEs9BgyOWF7syzocKrZlHbi1SHfz3JPhLbFkTwMEtPfCimz4p5u8uoP6NQlR3nXrdh4SugY5+6mKIiDO7FBHtTVqPLKbs1BtxcvTdnbRP9Hu9m20lihpPT0fG0u0PztmDGbPx6o=;LGpeSbXvTAYdL2XmqIQcVA=="
+secured: "UGaNI9Kf9x0rrp5ivA3x+1mg+DDZB5zlYWcloTNO+l+hXtOBAOW9qV7vFsK9Er/cq0jyYhH4uibAnWEEEBKnK3nGrJpOp0R9RixcS9xFDwzf4H0NBbaMpx/YYaCPxj+39FgKPkR8zKRFHRMgByOH7yfLWum02feDAy/QhGbBQQLc3kILo0k8NKmfwhGTfnXu6usB4IT1Mfi7LjQGhUDVv1fmuMvvP2sRRPk2Jh+Zvg6rJUkiIJXVDHIZ9tDnrFwm8rbjKbuIIRIIfrBKo5sfnyhqiEqwYpW6mVauEgKH2Nl1JAVMsxXKqGjpLiyqvPGiv7TN/7hHnXRYExhi/8RbCLKxYtghzKuApIlls0YJa5SFKUMD6LoRe1Pjr4PEhQzFKVYrGkx5VDqqsyX4oVr38kR0zv1EdS78UBk5T5lTv1DxjvWYf6Q2c4Dy/uk/zX9ez7/YKYmo1ZJ5v6UirHkNsLspxl4wUHMjLxx78ncEtU0ozJBBGhkqOJDTdLFtbaEC0uqLBH7W1q6Srn1An5LUbA==;g0Aj5dAzSleb0IEgEEMrPw=="
 ---
 

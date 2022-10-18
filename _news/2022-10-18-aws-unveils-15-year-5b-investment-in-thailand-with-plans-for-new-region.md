@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-inve
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/"
 type: article
 quality: 103
-heat: 113
+heat: 133
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "AWS announces that it will launch an infrastructure Region in Thailand"
+    excerpt: "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions."
+    publishedDateTime: 2022-10-18T10:26:00Z
+    webUrl: "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand"
+    type: article
+    provider:
+      name: continuitycentral.com
+      domain: continuitycentral.com
+    quality: 54
+    images:
+      - url: "https://www.continuitycentral.com/images/fblogo.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AWS to launch infrastructure region in Thailand"
     excerpt: "Amazon Web Services (AWS) plans to open an infrastructure region in Thailand. which it says will consist of three availability ones, adding to the existing 87 availability ones across 27 geographic regions,"
     publishedDateTime: 2022-10-18T07:52:00Z
@@ -45,7 +59,21 @@ related:
         width: 600
         height: 260
         isCached: true
+  - title: "AWS to open cloud region in Thailand"
+    excerpt: "Amazon Web Services (AWS) is to open a new cloud region in Bangkok, Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones and is part of the company’s commitment to invest more than $5 billion in country over 15 years."
+    publishedDateTime: 2022-10-18T10:00:00Z
+    webUrl: "https://www.datacenterdynamics.com/en/news/aws-to-open-cloud-region-in-thailand/"
+    type: article
+    provider:
+      name: Datacenter Dynamics
+      domain: datacenterdynamics.com
+    quality: 54
+    images:
+      - url: "https://media.datacenterdynamics.com/media/images/Bangkok.2e16d0ba.fill-1200x630_98NYK0i.jpg"
+        width: 470
+        height: 248
+        isCached: true
 
-secured: "PPTyfU2ZOlbJzAf5wah4afjhjYwX+YUEry/7lNMZEvSeUSmHjBrSECyk2bHs+XZGtSZ5Aye4pSxVZm/rhvv4rEbSfbsaYenIAislia8CTBz8MS1srhxwAjhMIuuYPIxWjPyACUIVys47xdN0Ptyukj1gcGhgmnTmDfbox0T1EE95B9AH9FQhbhiG1S4dTfEUcorImNOo/V5rMG4rCtUZf0dTw0vnqPRJkZAEigCue9oYPqV1Uy4PgQEVF2hmCdXv9+qtRhNBowfD621P6BmcGmOhWwjjW1ZuhRLSCq2CorqZfldMfMdzDqa1JBDrlfiNRGFpdjzRhUwZgtuYX8M0afXiqQ0RjUAgvsbkKlp8sso=;Icfh1JOascS09tevltRzeg=="
+secured: "NXbStfGKBTnhBYjhL/GqDXAsCqsMM5nBro1nj4UJNdixDtEehTR4dFTW7UrZG/L30V2DsLZZRwU2U1/fV9NV/p/gTYQqAt2/jUGXYPNh9ay8FMq5ff7lWZYqmQvdi4DnDr1XVmVYZO4RjmznwoVH3sTQnGXCz6T8YXLqPlquSrMVNd4KJFtuMpGAeYDL+Hrt4Biy90YGnSurBG1o5jKZfXPCFUuoXMX+wjDw09XgmkDG498XKIekNkN91723F+VW/g2dWR1CGMFqT4mUzjxvxDIMGzMBpplKrpYh+7gkwOjwR98vWDlz1F/0pdIDFAfoQqmxnJhwYBQg7agbxzAp8SezYsAG5ict5VCJJYOqsD90zLNjhfhKYmSWbopQ2hX12RxDQvj3WGz+XSwnMXxGm4ijLawlkawdiFzvQlNNWtxaBJbEgH3CiyjBooZsm6RIOq5YLkg3ThHW/AMhhwReGEQCFS8/oNMB2cMOq4GGZcTGTHK/wYkJ13AYpPCu/C6W1cMsgI7J/RAG0llNE+ZDYg==;8A8T9Zv4MqmqNEjx5H4ovQ=="
 ---
 

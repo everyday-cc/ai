@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-18T08:32:00Z
 originalUrl: "https://menafn.com/1105038060/Artificial-Intelligence-AI-In-Clinical-Trials-Market-Is-Projected-To-Reach-48-Billion-By-2027-Exclusive-Report-By-Marketsandmarkets™"
 webUrl: "https://menafn.com/1105038060/Artificial-Intelligence-AI-In-Clinical-Trials-Market-Is-Projected-To-Reach-48-Billion-By-2027-Exclusive-Report-By-Marketsandmarkets™"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?751311"

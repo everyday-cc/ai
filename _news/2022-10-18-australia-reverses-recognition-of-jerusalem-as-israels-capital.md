@@ -7,7 +7,7 @@ originalUrl: "https://themedialine.org/headlines/australia-reverses-recognition-
 webUrl: "https://themedialine.org/headlines/australia-reverses-recognition-of-jerusalem-as-israels-capital/"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Australia Backtracks on Jerusalem Recognition"
+    excerpt: "Australia’s Labor party government on Tuesday reversed the decision of the previous government to recognize Jerusalem as Israel’s capital. Foreign Minister Penny Wong said the city’s status should be decided through Israeli-Palestinian peace negotiations."
+    publishedDateTime: 2022-10-18T10:38:00Z
+    webUrl: "https://themedialine.org/mideast-daily-news/australia-backtracks-on-jerusalem-recognition/"
+    type: article
+    provider:
+      name: The Media Line
+      domain: themedialine.org
+    quality: 24
+    images:
+      - url: "https://themedialine.org/wp-content/uploads/2022/10/imgonline-com-ua-Piconpic-xqqygWiO1h41ejKY.jpg"
+        width: 2560
+        height: 1440
+        isCached: true
   - title: "Israel blasts Australian about-face on Jerusalem recognition"
     excerpt: "We hope Australia will be more serious on other matters.' PM Lapid slams 'rushed' decision by Australia to walk back Jerusalem recognition."
     publishedDateTime: 2022-10-18T05:04:00Z

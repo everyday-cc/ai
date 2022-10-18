@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/ai-progress-report-exposes-regional-gaps-good-in
 ampWebUrl: "https://diginomica.com/ai-progress-report-exposes-regional-gaps-good-india-not-so-hot-uk?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/ai-progress-report-exposes-regional-gaps-good-india-not-so-hot-uk?amp"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-06/DA1A3C72-1391-4108-85D3-C4622481E847.jpeg"
@@ -25,6 +26,6 @@ images:
     height: 400
     isCached: true
 
-secured: "ZI97WN2EYY8s7RCBZAIS6EGYSIMVVNunE6pSeUgWdhR72ELrni7KN+EH7e0FqCYMcv8QnaROWnOTE7L7H8ZEEjxJwPuuAH6muEZ9IrFSxBW7aI3hQWMLZjIbu6PRcssmIFRBjSO2Ym1D8xQe6340Tp6wTL9IvgwTgvKfVHvwoPo05LaQISMeFc0Itdnp/Fd0L1/jRCq94MI8QufLWSSZhCC/REww8wyUvudnCnnCjIbELueYFWR3VsCqp6uPLTMOjxsvRFtZqIFi6i20lBY3hWhPfpB0ROl+psdvwyauljetQKVcpxOS5uVpbAKGsljTL5KLTeiWVlEOSWkgXMcNe3vYdzcU1p7B9BWf0KSZkbM=;PYioR9/3aueJfA9gWUz19w=="
+secured: "YnwoTVvJdAWDwou52uXLHw/r2yC5RKwAJN2gIepPMDtxY/KMAWqRCIVXUsOydRTbPk2Y3/HYxoQDjaZaCofPaamw6uUYEMSVJMaQUBVkjTlzTmCskGw7CnLtvYdPOlHpGu0vP5igI9trQQ74niHQMx5VArSLQZTjZ5fH9xkxhIajvxKUlP0FJzQ445j4iPpOgmUYTTJAUKfZvxe+IR957x9u5RdLjbX2Oq1Y8wun6euX4U1kRa8hXQbm586zr7YEsW94hw2q5GqeQEJ/R3aVB2+MYQRM4c0Zx9d4Q2A8Ky+0IR1thY6/0+uzesYZWyrl+9TUF9snktKs/DVHRHVVqWahvAvYC5J59KOU9YjkpJe+NvHScZ3iFtKjb9ad5gxU76lTPmmTw1KIkpcNlf3XE8b0H4XLc9VPpVr3x2ZGNzaNnLJl5ppFFzzizncU/6MJERWL7GdsMOjHK72+/OUFcMDWC+34e4QkvPUV2ePvAXPGrMgeJRl2grXBL5YtAhLVY+yl+g3vRBQJlJGlX5IVVw==;dcnMXhmGIddLJ2DUZkcvrw=="
 ---
 

@@ -24,29 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is transforming insurance underwriting"
-    excerpt: "However, with the power of today’s rapidly maturing AI technologies, how can you seamlessly integrate your data with data from big tech platforms to make better, faster underwriting decisions? In this free industry webinar join a panel of experts from Accenture and Amazon Web Services as they tackle this key question and dive into how AI has emerged as the transformative technology in the insurance industry."
-    publishedDateTime: 2022-10-13T21:12:00Z
-    webUrl: "https://www.insurancebusinessmag.com/us/tv/how-artificial-intelligence-is-transforming-insurance-underwriting-423910.aspx"
+  - title: "How Artificial Intelligence is enriching mapping technology"
+    excerpt: "With much of our lives dependent on digital maps and navigation systems, can we even think of going back to physical maps? The good news is that we don’t have to. As we bid"
+    publishedDateTime: 2022-10-18T10:10:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
     type: article
     provider:
-      name: insurancebusinessmag
-      domain: insurancebusinessmag.com
-    quality: 37
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 57
     images:
-      - url: "https://cdn-res.keymedia.com/cms/images/us/003/0270_638012735767253849.png"
-        width: 942
-        height: 528
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Rajat.png"
+        width: 433
+        height: 410
         isCached: true
-  - title: "Artificial Intelligence Is Transforming The Aviation Industry"
-    excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
-    publishedDateTime: 2022-10-14T15:52:00Z
-    webUrl: "https://www.bbntimes.com/environment/artificial-intelligence-is-transforming-the-aviation-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 17
 
 secured: "qdUlaKKcbhpYIVJychwUsRE9vskRf/wOz87cedZFRnFcjGbJKzQ3ofFgkvnIvgkgwOQahW2W9aLqnXqZd3oo95moKOxq3hlVjZqHFKfGgbTR51kjEY4J/niWtCxdtTT7SZ890bTyD/e6FBt7LEwi8e94x09ZnzOzBhkPLxmvMlH5stWqXju18SCHvDdIn6wCYmwQtSFSUVwveuQtNoGq8Zm+SijOQEjLWw0I/peY2lzwpaaV7q5O2B7tFjdzRBfwosTCod28PywPDOfbMA9PNIkbT5sxOO7KuA/8BhpwPNl3OPgwaIUhfBsR+gxd/sKKeBHiQcqCgRISc6vwvF1Jy4MWyejUroW1gdYeXG/S2m8=;ev0PD+EE7uSpiMn/clo6rg=="
 ---

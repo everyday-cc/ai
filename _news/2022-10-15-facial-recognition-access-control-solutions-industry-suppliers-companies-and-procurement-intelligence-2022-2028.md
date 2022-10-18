@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-acces
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
+    publishedDateTime: 2022-10-18T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
     excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
     publishedDateTime: 2022-10-14T07:43:00Z
@@ -57,19 +71,19 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of ..."
-    publishedDateTime: 2022-10-14T10:23:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_f586283e-132d-5dab-b014-e4ceeaaeff68.html"
+  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
+    excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-14T03:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2029-with-top-countries-data-127-pages-report-2022-10-13"
     type: article
     provider:
-      name: The Daily News
-      domain: galvnews.com
-    quality: 10
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Dkq8GFsc2Y/ka4qX/Mk22Zp1TcYvUc3aMbFBNr7qwMUuACLDUdoqutjIxKctnRqdpXCQdI5JRUFffqt640GwqwR5B7p+s36GSG4I/Au7b9sD5B/qyGYCkLpxWXLqN/CLoTqy2Bdp9BFaDWq6cDZyDjCjudMLKN4wcCLBypMw9xaQpk9pAYzgBCP45arseG2l9HYf5YBtMTIo5/HNkDvt4OCxtBWhLGVWrm8pIqcPNXV+iaKkV8aOfKIX4A/Pm8kcMv51JaggAtQ/q1RjxAVQP915y6NuuI93d0qZVGFLKQSOBfi/X9jhOBQ1kuGCX2R1AvGNYN4RTJ4ZueZ4M178ZqYFqFxUPl0umkQDpueBPts=;BttEeNUFJtp40Q8qBDUc0Q=="

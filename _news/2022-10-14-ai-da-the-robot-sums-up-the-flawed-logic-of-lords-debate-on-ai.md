@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 84
+published: true
 
 provider:
   name: The Guardian
@@ -31,22 +31,15 @@ images:
     isCached: true
 
 related:
-  - title: "The Snapdragon AI Journey"
-    excerpt: "Qualcomm Technologies, Inc. (QTI) has been researching, developing, and shipping AI acceleration on their Snapdragon processors for the past decade."
-    publishedDateTime: 2022-10-13T17:49:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/10/13/the-qualcomm-snapdragon-ai-journey/amp/"
+  - title: "Ethical Dilemmas of AI"
+    excerpt: "AI is already visibly and invisibly woven into our world, but can it be trusted? There are inherent ethical dilemmas around bias, trust, and transparency. However, together we can find a way forward as AI continues to impact the world as we know it."
+    publishedDateTime: 2022-10-14T15:49:00Z
+    webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 91
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63484e1cf003b2ae28de06ab/0x0.png?format=png&width=1200"
-        width: 628
-        height: 348
-        isCached: true
+      name: Computerworld
+      domain: computerworld.com
+    quality: 34
 
 secured: "05PGgicNb0jBdLyx6eQM8QiOTSVLVNuzU8cLCswA3XhHUpiqCY43xfOQ72fgy1b5pn54wrlkKnqsU5EpCbkEhmKSzYe9DBFvfztco3eL33PYmCzwzPXFPvybiYzad7dYTLDOoFwvVU3yt7nCL6XBV7wufUiXhK9pReZHAFZ7PN/onlApJ7I0vGC9o5xZxDOUrRKl7hZanBWAyA7EVYU5Ko45DJmd3ZkZNU307E5MfkMoKGz5EB9i4UhGqYOvTs6sB7nvoTds4v7fPzXGYwEqVQb1miYjHTEKGvhRnyLc3MYSMFkewNIi8/MH+uZinDZhYMxo4KoUHfDng93rpW8FAatrl7lyug4eWu+v+L9CB6qu/kpfZNpO996eEF1pmMShyfYANYhRkbztp0UgS4JniQd0CNcaHIy5iXldKVDmq/nCEiqDtu8sF/ag31r7nLWGQSSNP5CAx8otl2AH3mfBDqdpdY7iWFE7VQndWnRjh9NXsGI9+dgre02E/nmLhpTG/cqwoV3UYXnF9FivPbXZqQ==;vUhtwaJNASetT3MBNI9tXQ=="
 ---
