@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of Recognition In Supporting Offline, Remote And Hybrid Employees"
-    excerpt: "Knowing how to properly recognize employees outside of a traditional workplace setting is vital for ensuring their job satisfaction and productivity."
-    publishedDateTime: 2022-10-13T14:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/"
-    ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/13/the-role-of-recognition-in-supporting-offline-remote-and-hybrid-employees/amp/"
+  - title: "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition"
+    excerpt: "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns."
+    publishedDateTime: 2022-10-14T14:30:00Z
+    webUrl: "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
+      name: Entrepreneur
+      domain: entrepreneur.com
     quality: 72
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/1141999796/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "ZVIfZxHuH3RcKKe6wAzCAnmnvBL7YRvaLighJHAGOq9CYrcrxAvdVBxeAGgPaSU2Ow67njNlbl4GHnzLP8pCWYCryq3yHGcnUyGZ4oOhH87NbGxi426t09kEctrLBoMufPu9AOB+sJvaQm2vGXkogCHoELc/tdppRb9watA2FdBhMJO/5uqOtu2PUy2LmqjeHz6LWP+V0XKU6CYvbNzUYX4Z3+bFgiDMDcpQu7vyvcI+W/mERzK4dm4wXQuW73J/IGB/fD8mO8VFLStL7sjiNAECGN9eEA9INckKmrD20nYQ4jIiXWTnGZhiVJs7QoH61hOVFADoIN3EJhuMq2Xluh6PF4gsxJEfrDfmHGKk/X7RNBvahULFfOR+qZYne4bWHdrmZXOJQISSqSZaxSdoxU+winES6sxqxtPPsf7grePM1+Ee3UjsnE3Y3ssRr8DCMHkYBwH1erq1sE0Y2dZcfNh6banq0X4hh+gIS6y1Tb95EMwjuUt18FU6zkQ5JhXPyYnlJUgahGJlHqhWU/v7QQ==;aXf2C0bjZgh/8CCGNBalxw=="

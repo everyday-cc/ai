@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Autocorp.ai is Combatting the Multi-Billion Dollar Auto Theft Wave, by Leveraging Artificial Intelligence"
-    excerpt: "With this added product, Autocorp.ai will be able to provide a safe and secure digital transmission of verified customer identification information between consumers, dealerships and lenders. AVA ID targets identity fraud in vehicle purchases with a simple smartphone application using advanced artificial intelligence and anti-fraud technologies."
-    publishedDateTime: 2022-10-13T13:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
   - title: "Qlik Recognized as a Customers' Choice in 2022 Gartner® Peer Insights™ 'Voice of the Customer': Analytics and Business Intelligence Platforms"
     excerpt: "Qlik® has been recognized as a Customers' Choice in the 2022 Gartner® Peer Insights™ ‘Voice of the Customer': Analytics and Business Intelligence"
     publishedDateTime: 2022-10-17T12:30:00Z

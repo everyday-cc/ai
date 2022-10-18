@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/"
 webUrl: "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -23,19 +23,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Amazon (AMZN) Boosts Cloud Offerings With EC2 Trn1 Instances"
-    excerpt: "These instances offer quick machine learning model training on AWS and feature up to 16 ... strength will continue to drive AWS’s customer momentum. Notably, Microsoft Azure has become the key growth driver for Microsoft. The company is currently riding ..."
-    publishedDateTime: 2022-10-13T14:33:00Z
-    webUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances"
-    ampWebUrl: "https://www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-boosts-cloud-offerings-with-ec2-trn1-instances?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "14AXmZsFfMkLec5uySwk9A+Y7bE580OAqntxVqaarUf9Z9nziD8IL2LJmtCavLjm+y+g0KQMxB01mzSUcOYarXGvmbjiS779TuHg6aPnOXo4FT18TpFhYnemosYjyIUX/kXj7PlMfM4ueDjd2I3T4NcJOj03QcVuhD5UKMgg6RDHEJPCkac84UlAs/mrPltJVR/VvUJ0klPgovxeq1bFPEc1aO7oBbjCN9jbJeHrq9RMJveSfv8H5jNLs9g9LpTH3XLuLP1K5rq9z7aIuqOAHqY7k8kU6ocKlDOZgdgFPo/TX8oPuo53csB/WgMLi+WWKLtju0fUYK5obnqlIVPj8XUkLxcGQv6t5GJ2GrqWpQUGhpndgCjTZq3hU3i9boFf2uHVZuy2t0CwZXF6QpDmAwPyvckicxu7o5STILXveIrWt63iF7o5eTRnPpChSSyFa7QoHbl8qOUMRZuVkVq9w3bjo3yrZrlPjA0MxkT+Dp0LmcjHB5ApIK8BdeCTM1pVJwnB+4bPCr65xrgGJVKN0g==;xC5bTR8w/J8RnNIly0xnHw=="
 ---

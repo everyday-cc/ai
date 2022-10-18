@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/urban-survival/202210/are-
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/urban-survival/202210/are-humans-or-ai-better-detecting-deepfakes-videos?amp"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 1528
     height: 800
     isCached: true
-
-related:
-  - title: "How Brand Protection Can Address the Risk of GAN Deepfakes"
-    excerpt: "Deepfakes are a concept that has taken root in popular culture. Most deepfakes are benign; the good ones go viral and can often make us laugh. But in the"
-    publishedDateTime: 2022-10-13T14:00:00Z
-    webUrl: "https://securityboulevard.com/2022/10/how-brand-protection-can-address-the-risk-of-gan-deepfakes/"
-    ampWebUrl: "https://securityboulevard.com/2022/10/how-brand-protection-can-address-the-risk-of-gan-deepfakes/amp/"
-    cdnAmpWebUrl: "https://securityboulevard-com.cdn.ampproject.org/c/s/securityboulevard.com/2022/10/how-brand-protection-can-address-the-risk-of-gan-deepfakes/amp/"
-    type: article
-    provider:
-      name: Security Boulevard
-      domain: securityboulevard.com
-    quality: 44
-    images:
-      - url: "https://securityboulevard.com/wp-content/uploads/2021/04/identitymanagement.jpg"
-        width: 767
-        height: 330
-        isCached: true
 
 secured: "d47hanGTRJOHF6fWs5s2YwhRXzI+8ILa+XaLJMcSlqtkxdFSN+OE8fC1tty6CxlaalJSLcz62+tGKDt//7DH1g32bTIUYI3rjvm7/cupN321KWUj4klfdjE0QJBvb8t6qWk0A0kZnuncdYi8EBYK+3REbhg/FtEYooPYL9cJvN7ExvNwg3g6oQU6wJcN4nEHD0f7Fhk6aCE/jiWC18O8jIVqWI/ii6W0Hs6As6l0Pqdc6Ox5bR//sy8ZPTGTmgBtTxp0zbz1IAgyBs0wy253o2kPEWC7yADqgaqzS0Io966NRBBQ5fUIxUhfdWOd8MDpJLy+Bz7E/NPvWTIHk3i+waeJ8se/chq+YlNt5u5DouhWhhK5CFMkHyQc8sPWqL0fx642cwDJLmUlFTruh1YeYu5dqo1B2zY5g2VaRVpM2mDZgRhKGYjlSlA/Y2i1yVyx2dK+pCdJv096QLd64bEg+3gDLIJSXr4+G4bklrZSfIn2osB6LOYExc9KuQlJb9mo6dO5Gm16H0l9vLFq/oBuww==;DpAsjv/9KFIX/5nzz9jp6A=="
 ---

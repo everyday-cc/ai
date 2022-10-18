@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence for Healthcare Applications Market 2022 Business Share Development Trends Segmentation Opportunities and Forecast To 2030"
+    excerpt: "The Artificial Intelligence for Healthcare Applications market revenue was $$ Million USD in 2016, grew to $$ Million USD in 2020, and will reach $$ Million USD in 2026, with a CAGR of $$ during 2020-2026."
+    publishedDateTime: 2022-10-14T04:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-healthcare-applications-market-2022-business-share-development-trends-segmentation-opportunities-and-forecast-to-2030-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotics Market Research Report 2022-2027: Top Companies (ABB Group, KUKA AG, FANUC Corporation)"
     excerpt: "Robotics Market IMARC Group expects the global robotics market to reach US$ 87.2 Billion by 2027, exhibiting a CAGR of 17.6% during 2022-"
     publishedDateTime: 2022-10-15T05:23:00Z

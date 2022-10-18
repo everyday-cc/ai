@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/deepmind-br
 webUrl: "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/"
 type: article
 quality: 99
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 760
     height: 380
     isCached: true
-
-related:
-  - title: "Humans beat DeepMind AI in creating algorithm to multiply numbers"
-    excerpt: "One week after DeepMind revealed an algorithm for multiplying numbers more efficiently, researchers have an even better way to carry out the task"
-    publishedDateTime: 2022-10-13T14:37:00Z
-    webUrl: "https://www.newscientist.com/article/2341965-humans-beat-deepmind-ai-in-creating-algorithm-to-multiply-numbers/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 54
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/13145344/SEI_129278585.jpg"
-        width: 1200
-        height: 799
-        isCached: true
 
 secured: "KF+hty6Q/6fOAHMHZ0lCeU+kklApFNQm/qlfbkbHfi2k7q2los891UdFFriV+Di40AT1oL/tp93QagpxGpD0qgjmYi+D/X9moVkK5c1y9SPG30BYvUw3XbM23+tjJ2ZgwZZSqYwKoF6fMTdXVi91n1B5pA73kb8aCmr7eiEuJHQyjVFNX5M+vPlaVb9ejo2NhMCbWoLT94XLtYXbgoeafvhJOiyOCnhUYK540Vn1Igs0cSGvfxL+pjy1MdRm+qvkLWZIXS8wbQ7/2aBzY3VADaq6wt5tUldA1GkIRSQpq7XaDTMXYpCgIdYSQHq8IiixV2vlthqmW6J3mqVGzr9ZgP7GTqqQZAZJr/7BPAQhD1T3l4KxDFb8gVCURS0+pFqTREPQL+BGAQM36zzJot9BbhtsdhoGvpVc+tJze3lElQwrHn+5Kd14wS/l/NvRcMa7dNT5D+7Hv4faQzF+5jwV7JQE8MyhSYodOGBp+pulxbuBhVUu60HPleH910PlQiEqcnnIb+sVCnOAgV7oWHc9ZA==;GP1nqhWfKY51OFAuyfA00g=="
 ---

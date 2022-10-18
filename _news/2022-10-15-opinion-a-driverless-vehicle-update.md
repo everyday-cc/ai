@@ -2,27 +2,21 @@
 category: news
 title: "Opinion: A driverless vehicle update"
 excerpt: "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise."
-publishedDateTime: 2022-10-15T00:14:00Z
-originalUrl: "https://www.starherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fb4a24b8d"
-webUrl: "https://www.starherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fb4a24b8d"
+publishedDateTime: 2022-10-15T00:18:00Z
+originalUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
+webUrl: "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b"
 type: article
-quality: 39
-heat: 39
+quality: 19
+heat: -1
 published: false
 
 provider:
-  name: Starherald.net
-  domain: starherald.net
+  name: Northside Sun
+  domain: northsidesun.com
 
 topics:
   - AI in Autos
   - AI
-
-images:
-  - url: "https://www.starherald.net/sites/default/files/styles/facebook_post/public/SH_0.jpg"
-    width: 504
-    height: 315
-    isCached: true
 
 related:
   - title: "Driverless tractors, machinery finding their way onto fields"
@@ -40,6 +34,6 @@ related:
         height: 343
         isCached: true
 
-secured: "QiC8zOQMooRhtaLMCVUwUc8xjUkO3aUi5tR4VAilFEUVCjHHoUAHwfsJu821AzdAP8FVr5PLbLAhwe38N+SYh1NlS2awDaZv48+fHa/vRugi6iveZyc2jRfx88xLOfsxNu8L3/gRyJ7bIBwkhsH5wYr+IY0SmVbSG0fWGuR8lqlHWwn/3ZS0HJvUKI6CaOXT1h1/xm5fHrWaeRIUqQju91paHxw+9ko1vJzUe6s4MRAr4x0EaOK2DIvogH+h7asEX0ugdplVDARJsP52sifAIU2/1zpCrQ6jp21ZyrvKzswFUHDn40/l/nX0trrUxsmaT8eabpjMgnjBGP92UHdzNmdeAr4P5gwRSyKvmS0z218=;HreWUsek45H7zdYc58StNQ=="
+secured: "HJLR+b0vOrAksqUwZnaKKySd+bSI0v3r9o9RgTFc53MTDEbY8nSK7gJTMsScTTd9SWKh6qydcig91/BFmdJj8e83ZuzU9iOEA+VLdX9E9Vyri9MTQWRdWoMzPtBY/Pr3YJ4WmCIAiGqgtYJ3OoQyb1dd2aunDdWQZDQuzNF4Wnx4hHR9E0n57pXShjpnz4Tjptlc0CtR/n8HB41LTIjijjsegbxYX9AvGpwVYma+zUWaZEHquIh4FAd2ebhSVbtC3JXKGfDfXGlKUO0RcYEisfVQg2+ezZ/qGA+dMVs/tybPnJ628rt+bDMGos+gq6ktT02KUCACBktofsLJsCYGGm9SnQAqcy9UfwmAyfwrwhc=;aaGdTpFng+iAx5h553FeDw=="
 ---
 

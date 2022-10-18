@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-in-comm
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14"
 type: article
 quality: 65
-heat: 105
+heat: 125
 published: true
 
 provider:
@@ -38,6 +38,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Financial Wellness Services Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data"
+    excerpt: "AI in Financial Wellness Services Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-18T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-financial-wellness-services-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
+    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-18T04:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T17:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/red-vector-and-microsoft-to-enhance-the-security-capabilities-of-organizations-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Microsoft will launch an AI graphics app powered by DALL•E"
     excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
     publishedDateTime: 2022-10-13T19:46:00Z
@@ -71,29 +57,20 @@ related:
         width: 796
         height: 438
         isCached: true
-  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-14T21:25:00Z
-    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
+  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
+    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
+    publishedDateTime: 2022-10-13T19:13:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
     type: article
     provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
     images:
-      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
-  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
-    publishedDateTime: 2022-10-14T06:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 49
   - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
     excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
     publishedDateTime: 2022-10-14T01:06:00Z
@@ -108,24 +85,6 @@ related:
         width: 472
         height: 315
         isCached: true
-  - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
-    excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
-    publishedDateTime: 2022-10-18T05:27:00Z
-    webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 34
-  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
-    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
-    publishedDateTime: 2022-10-14T10:10:00Z
-    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
 
 secured: "5vX8FoetguhCobNTrlYMBnTiPWlnMsoWDcG0e0hfoIaV8coLRhofMJKzwEpfnPaFr73MkgvRgAFVgt/GRM6DMM7z8BCebxDMNPpEVHdIehAe8CKImQR9CAIvg7HOFAa41ZKqLTkbFIW98WQLdQD7NnRIKXMz5CnvUACkFeZBgDv2Y7frrPfuF+6rbQq9vqQsU5A1tHihPslOSv9W/SkeDAq5VETWx7rnKN8mpZhjunyg9fVF1R+6c7IL80TDs6Ponby8kXFSfjITV4Md1hYgNvl9wwYRXONkhk4AdHlT8bya+0d5WOO9nbGoCp0FfSaGbxXzy3CGDoK3PGOtdzqo7Za2MyzB9+QWtGvfhNHwceY=;VcDxmrVXcGCVnjx2zBcgmw=="
 ---

@@ -32,15 +32,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Autocorp.ai is Combatting the Multi-Billion Dollar Auto Theft Wave, by Leveraging Artificial Intelligence"
-    excerpt: "With this added product, Autocorp.ai will be able to provide a safe and secure digital transmission of verified customer identification information between consumers, dealerships and lenders. AVA ID targets identity fraud in vehicle purchases with a simple smartphone application using advanced artificial intelligence and anti-fraud technologies."
-    publishedDateTime: 2022-10-13T13:47:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272915817/autocorpai-is-combatting-the-multi-billion-dollar-auto-theft-wave-by-leveraging-artificial-intelligence"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 17
 
 secured: "MX62SZbiKEsjEoTg28KcFBhsE+56aFNV/WvRq/S9RxFe4EOH/olo3vZDtj+q2j8PXSEMTxWN837NN9irbgHKC/keAXfZqGALekbvK/9S1K41o7W3Qs/vVkE3NJ6wiKtcq6jWM+7MHVYxfIqLYZ6i6dajk8Ys1F+1/hlo8LRkgHafLMWW6jiKdtS07TwsCF0ISbogRjlPSpINAFf5uJyYiySurF2sg8XRPCKpRYc/dUJY+NJI7LT0NbizDU0IsRPuH9OWmstnZJDbULrExI1KZH5xmqVHscokyo8G9TuWxFinrkw/ixf1OXtx5Psk/PTtnr7NTcKOOsjkmxkfofkgzJRbDm92jCznOr4+6i2qIJE=;jU4NA55wne7PHETpeG6P+g=="
 ---
