@@ -9,7 +9,7 @@ ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphi
 cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
         width: 476
         height: 210
-        isCached: true
-  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
-    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
-    publishedDateTime: 2022-10-13T16:54:00Z
-    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
-        width: 1152
-        height: 768
         isCached: true
   - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
     excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."

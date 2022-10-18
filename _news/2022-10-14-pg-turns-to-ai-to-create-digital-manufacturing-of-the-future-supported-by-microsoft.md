@@ -71,20 +71,6 @@ related:
         width: 476
         height: 210
         isCached: true
-  - title: "Microsoft boosts Azure’s big-data cred with flurry of database-related enhancements"
-    excerpt: "One of the most important new announcements at Microsoft Ignite 2022 is the creation of a new Partner Ecosystem for the Microsoft Intelligent Data Platform, which is a service that unifies all of the company’s database,"
-    publishedDateTime: 2022-10-13T16:54:00Z
-    webUrl: "https://siliconangle.com/2022/10/12/microsoft-boosts-azures-big-data-credentials-flurry-database-related-enhancements/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 48
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/microsoft.png"
-        width: 1152
-        height: 768
-        isCached: true
 
 secured: "v/XziB80m+rsgxZaPkDUm+UJlP/P3XXEGaxTE09mfmGu4+LtZMBBaaom9atE/Kreg5M/eSY3Y/NCyooLhClVvyIPsyKE6YzBD3DlKBKyS0Nn5+9O4Bop6b4LvYdXZGRyjB/dMULG5lpgOlcUYVdJ1uQPp75ubc82XxQDvSAZDtvsHM+CmWmQS4/BG9B3taCOu0dnV/hp8lxo7z5A+r6M3rDGRMcyd5+F4WRoQwNahyBhZlwDBCGREWgAgDATPlyGOX3SEA5912Zo1f8HF3yFtHPADD6iyKgetN5lT17soWarUFcj8x4fNg2KUrt5yOvp5AHaCL2CP9alALHb1sHdoRaNXDzzt9v/kFqfwZQqCZ3M4NnOBZkxnec0qupGuoqK0eucx5oIEuQLgg9Ay4gDOMsZpCQ1hvX8BmWzbD2HKkPJ0oTffJeK7UIWVapAUWlHRICzuqTroQAL59JudZFsd86IMnGc3w7Vkk6v4nFfDZzJBZaUb5BpLJkT/nYT0sBNXL7YPkkyZL1jWVMjANeWcw==;iwWf5gNJ6yCa5TGc2pOlWg=="
 ---

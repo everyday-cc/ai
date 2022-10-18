@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-18-aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region.md",
+      "title": "AWS unveils 15-year $5B investment in Thailand, with plans for new region",
+      "excerpt": "Cloud vendor says its $5 billion investment in Thailand will go towards a new region in Bangkok, where there already are 10 CloudFront edge points, and driving support for the country's early-stage startups and upskilling efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "originalUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0ca08f7783f39a4d6167ebdf97dd4ad715ce1346/2021/09/20/b29a89e4-b35a-4af8-8f8b-f24910c85801/shutterstock-724512826.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "publishedDateTime": "2022-10-18T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
       "title": "Testing approaches for Amazon SageMaker ML models",
       "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
@@ -208,8 +260,8 @@
       "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -228,7 +280,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T16:35:00-07:00",
+      "publishedDateTime": "2022-10-10T16:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -1451,49 +1503,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-cloud-api-market-is-anticipated-grow-usd-371-billion-at-a-cagr-of-232-by-2030-report-by-market-research-future-mrfr.md",
-      "title": "Cloud API Market Is Anticipated Grow USD 3.71 Billion At A CAGR Of 23.2% By 2030 - Report By Market Research Future (MRFR)",
-      "excerpt": "According to a comprehensive research report by Market Research Future (MRFR),“ by End-Users and Vertical - Forecast to 2030”, the market is anticipated to acquire a valuation of approximately USD 3.71 Billion by the end of 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
-      "originalUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?945943",
-          "width": 349,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market - Global Market Growth, New Trends, COVID-19 Impact, and Forecast (2022 To 2028)"
-    excerpt: "One of the industries that is growing the quickest is the \"Natural Language Processing (NLP) Market,\" hence it is essential for market participants to do a thorough study of the industry beforehand. According to the study,"
-    publishedDateTime: 2022-10-13T16:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market---global-market-growth-new-trends-covid-19-impact-and-forecast-2022-to-2028-2022-10-13"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence AI in Medical Market Revenue, Gross Margin, Capacity, Production and Growth Rate Report 2022-2028"
     excerpt: "A novel report on global Artificial Intelligence AI in Medical market has been recently added to Xcellent Insights'"
     publishedDateTime: 2022-10-16T03:05:00Z

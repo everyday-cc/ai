@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-12-how-ai-is-helping-african-communities-and-businesses.md",
+      "title": "How  AI is helping African communities and businesses",
+      "excerpt": "Editor’s note: Last week Google hosted the annual Google For Africa eventas part of our commitment to make the internet more useful in Africa, and to support the communities and businesses that will power Africa’s economic growth. This commitment includes our investment in research. Since announcing",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/around-the-globe/google-africa/how-ai-is-helping-african-communities-and-businesses/",
+      "originalUrl": "https://blog.google/around-the-globe/google-africa/how-ai-is-helping-african-communities-and-businesses/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/18.05.22-Day3-EngagingTheGhanaianCommunity.max-1300x1300.jpg",
+          "width": 1300,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round.md",
+      "title": "Metalenz ships millions of its tiny cameras and powers up with $30M B round",
+      "excerpt": "Metalenz is changing the way cameras work with a tiny device that captures useful 3D images, and it's selling a whole lot of them too.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/",
+      "originalUrl": "https://techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/PolarEyesPenny.jpg?resize=1200,872",
+          "width": 1200,
+          "height": 872,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/metalenz-ships-millions-of-its-tiny-cameras-and-powers-up-with-30m-b-round/amp/",
+      "publishedDateTime": "2022-10-12T08:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-everyone-wants-responsible-artificial-intelligence-few-have-it-yet.md",
       "title": "Everyone Wants Responsible Artificial Intelligence, Few Have It Yet",
       "excerpt": "Responsible AI should be more than a 'check-the-box exercise,' but rather part of the organization’s top management agenda",
@@ -439,6 +543,58 @@
       ],
       "topics": [
         "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud.md",
+      "title": "CoreWeave Launches Startup Accelerator Program, Democratizing Access to GPU Compute in the Cloud",
+      "excerpt": "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced the launch",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud-2022-10-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1052,135 +1208,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-ai-equal-to-humans-in-text-message-mental-health-trial.md",
-      "title": "AI equal to humans in text-message mental health trial",
-      "excerpt": "UW Medicine researchers have found that algorithms are as good as trained human evaluators at identifying red-flag language in text messages from people with serious mental illness. This opens a promising area of study that could help with psychiatry training and scarcity of care.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/text-message.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-equal-humans-text-message-mental.amp",
-      "publishedDateTime": "2022-10-11T14:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-bigbearai-names-amanda-long-as-ceo.md",
-      "title": "BigBear.ai Names Amanda Long as CEO",
-      "excerpt": "By Stephen Nakrosis BigBear.ai Inc. on Tuesday said Amanda Long has been named chief executive, effective Oct. 12. She succeeds Dr. Reggie Brothers, who",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
-      "originalUrl": "https://www.marketwatch.com/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/bigbear-ai-names-amanda-long-as-ceo-271665521110",
-      "publishedDateTime": "2022-10-11T13:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer.md",
-      "title": "BigBear.ai Names Former IBM Executive Mandy Long as Chief Executive Officer",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20221011006085/bigbearai-names-former-ibm-executive-mandy-long-as-chief-executive-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T13:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-11-dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre.md",
+      "title": "Don't be afraid of Artificial Intelligence, says head of UK's new robotics centre",
+      "excerpt": "The head of the UK's largest and most advanced robotics centre has said that society needs to prepare for the increased integration of robots but shouldn't fear the rise of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
+      "originalUrl": "https://news.sky.com/story/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413?es_id=28c07ac56a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/09/1600x900/skynews-robot-parkinsons_5912547.jpg?20220927154814",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/dont-be-afraid-of-artificial-intelligence-says-head-of-uks-new-robotics-centre-12706413",
+      "publishedDateTime": "2022-10-11T03:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-ironvest-bets-on-biometric-ai-to-stop-identity-theft.md",
+      "title": "IronVest bets on biometric AI to stop identity theft",
+      "excerpt": "IronVest releases a biometric AI solution designed to prevent identity theft with $23 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
+      "originalUrl": "https://venturebeat.com/security/ironvest-biometric-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/06/identity_theft-shutterstock_174324230.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 850,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/ironvest-biometric-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/ironvest-biometric-ai/amp/",
+      "publishedDateTime": "2022-10-11T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
+      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
+      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049",
+      "originalUrl": "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals.md",
       "title": "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals",
       "excerpt": "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products.",
@@ -32,40 +179,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
-      "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research’s Future of Digital Awards – Fintech & Payments",
-      "excerpt": "Company’s AI-Powered Decisioning Platform recognized in the “AI Platform” category PARSIPPANY, N.J.--(BUSINESS WIRE)--#AI--Provenir, a global leader in",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/",
-      "originalUrl": "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -118,6 +231,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
+      "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research's Future of Digital Awards – Fintech & Payments",
+      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the \"AI Platform\" category in Juniper ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29210036",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210036",
+      "publishedDateTime": "2022-10-11T00:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -318,8 +465,8 @@
       "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
       "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
       "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-amazon-ec2-trn1-instances-/2022/10/10/9689231.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -338,7 +485,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T16:35:00-07:00",
+      "publishedDateTime": "2022-10-10T16:13:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",
@@ -503,49 +650,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
-      "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
-      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html",
-      "originalUrl": "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/8/4e/84e9cee1-861a-59bb-8318-3bf492b09d58/63441b33bf51d.image.jpg?crop=859%2C451%2C152%2C0&resize=859%2C451&order=crop%2Cresize",
-          "width": 859,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T09:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -798,6 +902,83 @@
       ]
     },
     {
+      "path": "_news/2022-10-10-ratio-shift-of-protein-in-brain-cells-causes-changes-underlying-early-cognitive-decline.md",
+      "title": "Ratio shift of protein in brain cells causes changes underlying early cognitive decline",
+      "excerpt": "Early cognitive decline may result from a shift in the ratio of a protein sub-type in our brain cells triggering cell-loss. This new study, published in Scientific Reports, shows how this might be ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ratio-shift-of-protein-1.jpg",
+          "width": 1444,
+          "height": 1124,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ratio-shift-protein-brain-cells.amp",
+      "publishedDateTime": "2022-10-10T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
+      "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
+      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29201236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236",
+      "publishedDateTime": "2022-10-10T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc.md",
       "title": "AI in fintech Market to Eyewitness Massive Growth by 2030 | Amazon Web Services, Inc., ComplyAdvantage, Google LLC",
       "excerpt": "The research serves as a manual and road map for doing an exhaustive investigation of the worldwide AI in fintech, target market, rivalry, and other factors. The AI in fintech market offers a quantitative analysis of the relevant industry.",
@@ -997,197 +1178,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
-      "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
-      "excerpt": "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "originalUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WAMC",
-        "domain": "wamc.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
-      "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030.md",
-      "title": "Self-driving Car Market 2022 Research Report Analysis from Perspective of Segmentation and Industry Growth 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Self-driving Car Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-research-report-analysis-from-perspective-of-segmentation-and-industry-growth-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030.md",
-      "title": "IBM Watson Services Market Projections and Regional Outlook, Sales Revenue Focus on Specific Product and Dynamics by 2030",
-      "excerpt": "The global IBM Watson Services market is anticipated to grow at a CAGR of around 32.5% over the period of next 5 years. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

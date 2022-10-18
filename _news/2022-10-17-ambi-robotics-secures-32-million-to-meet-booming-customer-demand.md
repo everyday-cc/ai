@@ -39,6 +39,20 @@ related:
         width: 2560
         height: 950
         isCached: true
+  - title: "Alley Robotics Ventures Launches $30M Fund"
+    excerpt: "Alley Robotics Ventures, a New York and Boston, MA-based firm focused on founding, funding, and building transformative companies in the space of robotics and automation, closed their first early stag"
+    publishedDateTime: 2022-10-18T07:44:00Z
+    webUrl: "https://www.finsmes.com/2022/10/alley-robotics-ventures-launches-30m-fund.html"
+    type: article
+    provider:
+      name: finsmes
+      domain: finsmes.com
+    quality: 54
+    images:
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/venturecapital-3.jpg"
+        width: 1000
+        height: 688
+        isCached: true
 
 secured: "Y3dRgON1g18ZaXLjfJjnAl04iEko7GiXtNBztBzL3ucPfKTK316BG4vv2BoZatBWgxEHsP0YAwYaEffMdHq9Whij+0IwKLPz2Z/ESS0oKBwgiaZk12Ezxn++qMwd8adWq9gdmWXc0yQLD7nh51Adcj94a52amGPID/Kf2MibxwZD2bTpK4Gm87SBEh3rQIgYTbq8QJDiqglJ28uwkN3aIWN9yESvF55+YnLRLyty9YLQbbxoRavRJCG1b1M3z6Z4HBZ0Scns1bqpgmnaZhK2HQmdKtohU9sL+EXu1f9Olp+8EzuyK7NntRfhZKgbHxrZjvCNlcjRG2ue2q1nzW9j9cv7CxD6pUOADWLWYqhR874=;RBpDGM4+FEZT8IhPS17XqA=="
 ---

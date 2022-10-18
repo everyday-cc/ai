@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 848
         isCached: true
-  - title: "Big Tech shows off its AI"
-    excerpt: "Is it the stuff of flashy tech demos or a real technology that is already starting to transform the business world and the working lives of millions? Artificial intelligence has long been recognised as the most important new general-purpose technology for a generation."
-    publishedDateTime: 2022-10-13T16:47:00Z
-    webUrl: "https://www.ft.com/content/42c95389-6fe0-4a69-bab7-6fc96c6896be"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
 
 secured: "Jz5VOl4nmef4dGztW/YehsVzMF5vPK4POCvuVCZpy0vFYKZWfjJJuPK/ihROc3VmbD/GP6GrVR5ZRYUByvIdk6shE+iJYn9e3fxzdV8zpcNf2ePj0huKRAGLrKbxJwWvy2wiReFEvkQHiaE6Y3S968/7+cM2RyslkD26w+lN1pej/v987+2a1XODeTld4DySHeck039lrWEo7xOELMfXlrYt7I8XHjF6WTH7wo/4hl/8ulgpDEkEWegXWNZjXkCi/bdY1EmqKADnEnN2tlFPPgYtEp9g5+7j8lqm6k568+e64xLfNGmlYBp74R7j5lS43QIhVA7lehbLWfbRcScJ2RUGaLUjs7CmERPAI9q/Dj4C/IuNs/ynpGASkkZnU2SVKRfW3g8hz98NrTX4UyE8p8JXzHLzNK9uajHsuNroNY2IkotuG7b6B0BxMlN3qwDKHQVvG9urENoJiMKk9jJzakk7okGXghFyYZYb68LyT1rL4kqLjLuiAvBa/BzN7DxmTtjQ5MSwjsfk48Z6l/LXng==;f2z/qFhbBogxaezDqfUUuw=="
 ---

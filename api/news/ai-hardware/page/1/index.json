@@ -360,21 +360,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
-      "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
-      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
+      "path": "_news/2022-10-12-coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud.md",
+      "title": "CoreWeave Launches Startup Accelerator Program, Democratizing Access to GPU Compute in the Cloud",
+      "excerpt": "CoreWeave, a specialized cloud provider built for large-scale GPU-accelerated workloads, today announced the launch",
       "sourceUrl": null,
-      "webUrl": "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html",
-      "originalUrl": "https://www.victoriaadvocate.com/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research/article_addefd92-78b8-5828-af3e-8f04a7e807dc.html",
+      "webUrl": "https://www.marketwatch.com/press-release/coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud-2022-10-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/coreweave-launches-startup-accelerator-program-democratizing-access-to-gpu-compute-in-the-cloud-2022-10-12",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/8/4e/84e9cee1-861a-59bb-8318-3bf492b09d58/63441b33bf51d.image.jpg?crop=859%2C451%2C152%2C0&resize=859%2C451&order=crop%2Cresize",
-          "width": 859,
-          "height": 451,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -384,11 +384,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T09:08:00-07:00",
+      "publishedDateTime": "2022-10-12T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Victoria Advocate",
-        "domain": "victoriaadvocate.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-research.md",
+      "title": "NEC Selects Supermicro GPU Systems for One of Japan's Largest Supercomputers for Advanced AI Research",
+      "excerpt": "\"Supermicro GPU servers have been installed at NEC Corporation and are used to conduct state-of-the-art AI research. Our servers are designed for the most demanding AI workloads using the highest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29201236/nec-selects-supermicro-gpu-systems-for-one-of-japans-largest-supercomputers-for-advanced-ai-resear",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29201236",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29201236",
+      "publishedDateTime": "2022-10-10T06:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1444,58 +1487,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-ceo-on-high-gpu-prices-you-should-be-frustrated.md",
-      "title": "Intel CEO on high GPU prices: ‘You should be frustrated’",
-      "excerpt": "Intel revealed the pricing and release date for its upcoming Arc Alchemist GPUs, along with a sobering message on high GPU prices: \"ou should be frustrated.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/09/intel-arc-alchemist-launch.jpg?p=1",
-          "width": 1723,
-          "height": 967,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-ceo-arc-alchemist-high-gpu-prices/?amp",
-      "publishedDateTime": "2022-09-27T09:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],
