@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2021-01/10/full/1610289975-7509.jpg"
         width: 620
         height: 464
-        isCached: true
-  - title: "AI language models show bias against people with disabilities, study finds"
-    excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises."
-    publishedDateTime: 2022-10-13T21:01:00Z
-    webUrl: "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-language.jpg"
-        width: 1920
-        height: 1275
         isCached: true
   - title: "AI language tools discriminate against disabled people, study suggests"
     excerpt: "Many artificial intelligence (AI) algorithms commonly used in natural-language processing contain biases against people with disabilities, a study has claimed."

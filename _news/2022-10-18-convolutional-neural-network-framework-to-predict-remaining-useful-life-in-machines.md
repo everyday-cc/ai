@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:57:00Z
 originalUrl: "https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.html"
 webUrl: "https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.html"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: techxplore

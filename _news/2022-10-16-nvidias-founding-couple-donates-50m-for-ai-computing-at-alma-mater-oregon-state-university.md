@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/"
 type: article
 quality: 76
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "Oracle Cloud Adding Tens of Thousands of Nvidia Chips for AI"
+    excerpt: "Oracle Corp and Nvidia Corp on Tuesday announced they are expanding their partnership and adding tens of thousands of Nvidia’s chips to boost artificial intelligence- related computational work in Oracle’s cloud."
+    publishedDateTime: 2022-10-18T15:03:00Z
+    webUrl: "https://money.usnews.com/investing/news/articles/2022-10-18/oracle-cloud-adding-tens-of-thousands-of-nvidia-chips-for-ai"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 64
   - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
     excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
     publishedDateTime: 2022-10-15T01:30:00Z

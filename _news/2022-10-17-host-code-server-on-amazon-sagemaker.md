@@ -43,33 +43,19 @@ related:
         width: 1549
         height: 774
         isCached: true
-  - title: "How Amazon Search runs large-scale, resilient machine learning projects with Amazon SageMaker"
-    excerpt: "If you have searched for an item to buy on amazon.com, you have used Amazon Search services. At Amazon Search, we’re responsible for the search and discovery experience for our customers worldwide. In the background, we index our worldwide catalog of products, deploy highly scalable AWS fleets, and use"
-    publishedDateTime: 2022-10-13T20:39:06Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/how-amazon-search-runs-large-scale-resilient-machine-learning-projects-with-amazon-sagemaker/"
+  - title: "Run ensemble ML models on Amazon SageMaker"
+    excerpt: "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to"
+    publishedDateTime: 2022-10-18T15:50:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 95
+    quality: 106
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/05/architecture-conceptual-1026x630.png"
-        width: 1026
-        height: 630
-        isCached: true
-  - title: "Build a solution for a computer vision skin lesion classifier using Amazon SageMaker Pipelines"
-    excerpt: "Amazon SageMaker Pipelines is a continuous integration and continuous delivery (CI/CD) service designed for machine learning (ML) use cases. You can use it to create, automate, and manage end-to-end ML workflows. It tackles the challenge of orchestrating each step of an ML process, which requires time,"
-    publishedDateTime: 2022-10-13T20:46:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/build-a-solution-for-a-computer-vision-skin-lesion-classifier-using-amazon-sagemaker-pipelines/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 94
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/13/skin-lesion-detector-sagemaker.jpg"
-        width: 1548
-        height: 772
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg"
+        width: 1547
+        height: 770
         isCached: true
   - title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
     excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"

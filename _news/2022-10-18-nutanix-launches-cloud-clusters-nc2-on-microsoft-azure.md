@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
+    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
+    publishedDateTime: 2022-10-17T17:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
+    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
+        width: 796
+        height: 438
+        isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-14T21:25:00Z
@@ -33,6 +49,15 @@ related:
         width: 610
         height: 354
         isCached: true
+  - title: "Microsoft Cloud and AI chief Scott Guthrie on what's new and next for Microsoft Cloud customers"
+    excerpt: "Microsoft Executive Vice President Scott Guthrie shares his take-aways on Microsoft's latest cloud, data platform, AI, Dynamics and Power Platform announcements this week at Ignite."
+    publishedDateTime: 2022-10-14T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-and-ai-chief-scott-guthrie-on-whats-new-and-next-for-microsoft-cloud-customers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
   - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
     excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
     publishedDateTime: 2022-10-14T06:29:00Z
@@ -42,6 +67,20 @@ related:
       name: Webindia 123
       domain: webindia123.com
     quality: 49
+  - title: "P&G turns to AI to create digital manufacturing of the future, supported by Microsoft"
+    excerpt: "Consumer goods giant is adopting the Industrial Internet of Things, digital twin, AI, and machine learning to transform manufacturing at scale."
+    publishedDateTime: 2022-10-14T01:06:00Z
+    webUrl: "https://www.arnnet.com.au/article/701979/p-g-turns-ai-create-digital-manufacturing-future-supported-by-microsoft/"
+    type: article
+    provider:
+      name: ARN
+      domain: arnnet.com.au
+    quality: 47
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/vittoiro_cretella_48569-100932943-orig.jpgautowebp8570"
+        width: 472
+        height: 315
+        isCached: true
 
 secured: "jtnjhkVzJNkzydW6SpDkTQl82C31ei9KyeRznJqj4j8WIMpLH7D4tr7A6ezfQj7DBqcYO2w55uIqftXI38nlj2OLmYJg6DQQIIkvk7EoV5lpEi7NLvndoWANGhpfblPaK4CJoH+UvT+kDyBUukTFDnBa8YfylrWkllMgkPRhW5gLXymhqpfCJC5nE17uToBmqp8oH2INQb7uwPMr8ny4QgG0FSOnHQPnOnRfpOD1kz18QE6SgGBG3TMIN9VwP0T4IYEwmw6/rsQieoP2a7PJU8X3HMJ4mFUYiazHVc1ZhLfepRMFrM3gz3TElBtLoZQ6flmgXDs2OENMUI8jDFINTLLQ+FtOfHxDkM9gcxtrPMvuNI8lB8HRnAyvhDWYpC7LZE1Isbrw8EgjUFIiCGVIOHFgSrmOU5xIGuU3K3LYmV74GJbRWuwWKRVtZyH72WNjRVIuV1UnBX417ICbhMq0+yCbzgLYkPGgswBqIeZwEr6sKessm4qp+2uwnlO+c8VyCZlQS+jSHperxsCBVkqXMQ==;7wjqguurYkT8pcLtH1fVDQ=="
 ---

@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta launches AI software tools to ease switching between Nvidia, AMD chips"

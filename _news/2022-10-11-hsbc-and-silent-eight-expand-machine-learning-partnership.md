@@ -2,30 +2,25 @@
 category: news
 title: "HSBC and Silent Eight Expand Machine Learning Partnership"
 excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,"
-publishedDateTime: 2022-10-11T09:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049"
-webUrl: "https://www.marketwatch.com/press-release/hsbc-and-silent-eight-expand-machine-learning-partnership-2022-10-11-52033049"
+publishedDateTime: 2022-10-11T09:43:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/11/9689370.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/11/9689370.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg"
+    width: 400
+    height: 337
     isCached: true
 
-secured: "vq45kpA2P2uYJ+Z6CitStGKO3KSa3N2oW32NW33iEg91bIF5gfDp8uKFItOB2qBuBj3hydfenGJf51tOmsP320mRjCWo79NYNQCRJvOYc16MG+f0o+WeieeKpR9PaBqf48m5QxWInzyRPRCt2dPJlyVFH2+TmJ6oJi8ZFpn35bqFko/3+xK6TGv6HRIL6cdo0Wct8i65i1tMht7iQtlJ2MC2/dAvNQCdCFqExLOwA0l5iN0Ejc4fIthl+sQ343ilbf6dJvL8EppwU+mPlybCmmaWwgQeK8tPmIg3PSKoAVf7Ebhs8w0rGROhS6/erc+HtZ7Lm+O/NUOeXDHdwHy0I4ORapBpnQJhKAM3bqBlq6I=;0ACfn9UGLzN69oK7mWATzA=="
+secured: "c1zMa4Ff2LIPCg/W2NN5WVC0zTWrEM2NnfT/Qbu9o8KHLChSiF7gKdcbc6FIWTs5qQXf5pnUBCR+7zhaaMJafYbNuSPUCNfhMN35hol9L2wzM+ckg44ejU+9qHWnNzoKU8yQEj2upEgFstNOMlkeBorrkc5gfSfHXuI1o7h8M1idYdfCsHFgl5DRRQYRoaaxgi69x1MW20/piZyO1cQ9NH8hTtSB/qs2K+geyTcPVdVxasab9sBd4IlL6SQRerrVVk0AjLThi9L7THuxdSg5uu4K+XL56uE/U68D+52L8upRC3XmiYa1kh257mB/BrJehb3it8ptz3AoRtQj4lSryqTDud2YXUgwlSMooBHoJJ4=;okcQ5Jy7dUwt8pe0P+S9AQ=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:11:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-global-human-capital-management-market-predicted-grow-a-/2022/10/18/9694185.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-global-human-capital-management-market-predicted-grow-a-/2022/10/18/9694185.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

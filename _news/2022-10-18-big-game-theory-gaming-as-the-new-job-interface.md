@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/18/big-game-theory-gaming-as-the-new-job-interface/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/18/big-game-theory-gaming-as-the-new-job-interface/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

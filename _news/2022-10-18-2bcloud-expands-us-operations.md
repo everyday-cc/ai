@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T13:45:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-2bcloud-expands-us-operations-/2022/10/18/9694452.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-2bcloud-expands-us-operations-/2022/10/18/9694452.htm"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TMCnet

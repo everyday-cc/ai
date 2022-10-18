@@ -79,6 +79,15 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "2Vci0ia4YCbdv/sW29g39fNiz95uZIAE7My2WSlinDdNz7gE2vmNISJUX8fwBq5IBNp+nbcS8M7jEFICSAKY//6CfxYDSgs3E2jPt9LseTv/VvtdMX2NBr6ShTJQFRpsOCnLEOuQEv4V2x3fCtlx+jIiFCORu7iSfHFKj1/aStuX6KgS5YEX69wdTOBQ3xvvEY9p7pE/fjl7KyczjSQezPrd8E5CYKzN/ioJvMMYGKTDpIQpg0A0YdnM9ivtCa9xOL753PNq3Cfs2cCg9D6UF0oB8m8Q6wpjjpCtcnLtLt0JmDzOjUOVAplr2BCEseB532W0P3DuQFyVk/JY5n1n8ji4XW5dITR6BzfhStQt6vM=;XSS193pzDRhNvd85KTcDWQ=="
 ---

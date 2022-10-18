@@ -57,22 +57,6 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "AI language models show bias against people with disabilities, study finds"
-    excerpt: "Natural language processing (NLP) is a type of artificial intelligence that allows machines to use text and spoken words in many different applications—such as smart assistants or email autocorrect and spam filters—helping automate and streamline operations for individual users and enterprises."
-    publishedDateTime: 2022-10-13T21:01:00Z
-    webUrl: "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-language-bias-people-disabilities.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/1-language.jpg"
-        width: 1920
-        height: 1275
-        isCached: true
   - title: "Common AI language models show bias against people with disabilities: study"
     excerpt: "But new research from the Penn State College of Information Sciences and Technology shows algorithms behind natural language processing (NLP), a type of AI, often have tendencies that could be seen as offensive or prejudiced towards individuals with ..."
     publishedDateTime: 2022-10-14T18:36:00Z

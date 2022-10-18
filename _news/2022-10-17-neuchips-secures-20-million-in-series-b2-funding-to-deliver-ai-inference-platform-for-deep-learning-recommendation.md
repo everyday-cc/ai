@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T16:01:00Z
 originalUrl: "https://financialpost.com/globe-newswire/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation"
 webUrl: "https://financialpost.com/globe-newswire/neuchips-secures-20-million-in-series-b2-funding-to-deliver-ai-inference-platform-for-deep-learning-recommendation"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Financial Post

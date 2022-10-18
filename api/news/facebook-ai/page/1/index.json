@@ -354,34 +354,34 @@
     {
       "path": "_news/2022-10-04-meta-launches-ai-software-tools-to-ease-switching-between-nvidia-amd-chips.md",
       "title": "Meta launches AI software tools to ease switching between Nvidia, AMD chips",
-      "excerpt": "Facebook parent Meta Platforms Inc said on Monday it has launched a new set of free software tools for artificial intelligence applications that could make it easier for developers to switch back ...",
+      "excerpt": "REUTERS/Benoit Tessier Oct 3 (Reuters) - Facebook parent Meta Platforms Inc (META.O) said on Monday it has launched a new set of free software tools for artificial intelligence applications that ...",
       "sourceUrl": null,
-      "webUrl": "https://www.channelnewsasia.com/business/meta-launches-ai-software-tools-ease-switching-between-nvidia-amd-chips-2983716",
-      "originalUrl": "https://www.channelnewsasia.com/business/meta-launches-ai-software-tools-ease-switching-between-nvidia-amd-chips-2983716",
+      "webUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
+      "originalUrl": "https://www.reuters.com/technology/meta-launches-ai-software-tools-help-speed-up-work-blog-2022-10-03/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://onecms-res.cloudinary.com/image/upload/s--_b7s9k4G--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-03t160913z_1_lynxmpei920rs_rtroptp_3_france-tech.jpg?itok=iRcHt_u9",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T05:09:00-07:00",
+      "publishedDateTime": "2022-10-04T08:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Channel NewsAsia Singapore",
-        "domain": "channelnewsasia.com",
-        "images": null,
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

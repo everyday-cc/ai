@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:29:00Z
 originalUrl: "https://news.crunchbase.com/health-wellness-biotech/how-a-molecule-becomes-a-drug/"
 webUrl: "https://news.crunchbase.com/health-wellness-biotech/how-a-molecule-becomes-a-drug/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: news.crunchbase

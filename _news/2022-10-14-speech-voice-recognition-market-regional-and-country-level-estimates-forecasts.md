@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market To Shows Huge Growth Over Forecast Period 2022-2028 | 118 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Machine Learning as a Service (MLaaS) Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
+    publishedDateTime: 2022-10-18T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-shows-huge-growth-over-forecast-period-2022-2028-118-pages-report-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
     excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
     publishedDateTime: 2022-10-17T07:35:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:00:00Z
 originalUrl: "https://www.altfi.com/article/10001_neobank-bunq-wins-case-against-dutch-central-bank-over-artificial-intelligence-use"
 webUrl: "https://www.altfi.com/article/10001_neobank-bunq-wins-case-against-dutch-central-bank-over-artificial-intelligence-use"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: altfi

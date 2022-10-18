@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
 type: article
 quality: 75
-heat: 115
+heat: 125
 published: true
 
 provider:
@@ -79,6 +79,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "RlGT3rl3IR4B1Dgn2G7JO/E/EHzY4sHhI2gTx8lLKewqW1QOPj0sAd3AxykI8k2IXoqoGET+Xsx7e2E9t+FQKWR1ciB3XzfXZeTXppvZAqn/L4eWyHJZc1BetRVIFNWnADRlIn+EqcWxKbCzpjjKJ6y1Y5Selox/ZaD9PdGGv2cEhJ1f14JsIbskGlKwBJPFyPgR9QLf8lZAVYShba7Qn80eLyS+ZWsWJTgF/dua9yfMtqWVisyvAtprEfoyUPqjR/Bd0beF6oeGnFwZhYROs7dAMcYMHk41YPhC8PCCpDrTnQntEYVKU/4ElXrOyPAP589hVGp408ASLrVWTUfnpqhQWRI1GIsra0oUueHOY4dubJhkIVAR3vBl9L9bP8HsDK//yTBiEAZB/axYT3Ycn2kDPcqzDP3vcC/wh0fvMyZX3wHiCGBfHnAuTxEURA9meFcj9j07cuXUUK0joCgv2jFpa8fDKzHY1wYlUkEeGqMbcWTegcz3dlFsYBJocdnzQmQ5AXUcyFn6WaG4XLM2dA==;tQjJ37qXiQ3vYbZKgkSJHA=="
 ---

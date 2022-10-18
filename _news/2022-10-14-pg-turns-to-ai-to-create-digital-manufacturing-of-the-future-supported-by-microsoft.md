@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft will launch an AI graphics app powered by DALL•E"
-    excerpt: "Microsoft will launch an a graphic design applications that is powered by the text-to-image generator software DALLE."
-    publishedDateTime: 2022-10-13T19:46:00Z
-    webUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/"
-    ampWebUrl: "https://www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
-    cdnAmpWebUrl: "https://www-archpaper-com.cdn.ampproject.org/c/s/www.archpaper.com/2022/10/microsoft-will-launch-an-ai-graphics-app-powered-by-dalle/?amp=1"
-    type: article
-    provider:
-      name: archpaper
-      domain: archpaper.com
-    quality: 74
-    images:
-      - url: "https://www.archpaper.com/wp-content/uploads/2022/10/WIN22_lifestyle_BizPros_0011_RGB-1024x683-1.jpg"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
     excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
     publishedDateTime: 2022-10-17T17:02:00Z
@@ -57,20 +41,47 @@ related:
         width: 796
         height: 438
         isCached: true
-  - title: "Red Vector and Microsoft to enhance the security capabilities of organizations"
-    excerpt: "Red Vector, a leading provider of Holistic Insider Risk Management solutions, and Microsoft have announced the integration of Fulcrum™ and Azure Active Directory to help organizations mitigate unprecedented security risks."
-    publishedDateTime: 2022-10-13T19:13:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/13/9692463.htm"
+  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
+    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
+    publishedDateTime: 2022-10-14T21:25:00Z
+    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
+      name: CRN
+      domain: crn.com
+    quality: 53
     images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
+      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
+        width: 610
+        height: 354
         isCached: true
+  - title: "Microsoft Cloud and AI chief Scott Guthrie on what's new and next for Microsoft Cloud customers"
+    excerpt: "Microsoft Executive Vice President Scott Guthrie shares his take-aways on Microsoft's latest cloud, data platform, AI, Dynamics and Power Platform announcements this week at Ignite."
+    publishedDateTime: 2022-10-14T12:55:00Z
+    webUrl: "https://www.zdnet.com/article/microsoft-cloud-and-ai-chief-scott-guthrie-on-whats-new-and-next-for-microsoft-cloud-customers/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 52
+  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
+    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
+    publishedDateTime: 2022-10-14T06:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 49
+  - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
 
 secured: "v/XziB80m+rsgxZaPkDUm+UJlP/P3XXEGaxTE09mfmGu4+LtZMBBaaom9atE/Kreg5M/eSY3Y/NCyooLhClVvyIPsyKE6YzBD3DlKBKyS0Nn5+9O4Bop6b4LvYdXZGRyjB/dMULG5lpgOlcUYVdJ1uQPp75ubc82XxQDvSAZDtvsHM+CmWmQS4/BG9B3taCOu0dnV/hp8lxo7z5A+r6M3rDGRMcyd5+F4WRoQwNahyBhZlwDBCGREWgAgDATPlyGOX3SEA5912Zo1f8HF3yFtHPADD6iyKgetN5lT17soWarUFcj8x4fNg2KUrt5yOvp5AHaCL2CP9alALHb1sHdoRaNXDzzt9v/kFqfwZQqCZ3M4NnOBZkxnec0qupGuoqK0eucx5oIEuQLgg9Ay4gDOMsZpCQ1hvX8BmWzbD2HKkPJ0oTffJeK7UIWVapAUWlHRICzuqTroQAL59JudZFsd86IMnGc3w7Vkk6v4nFfDZzJBZaUb5BpLJkT/nYT0sBNXL7YPkkyZL1jWVMjANeWcw==;iwWf5gNJ6yCa5TGc2pOlWg=="
 ---

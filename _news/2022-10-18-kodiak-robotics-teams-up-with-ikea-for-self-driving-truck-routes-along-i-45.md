@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T13:00:00Z
 originalUrl: "https://www.dallasnews.com/business/local-companies/2022/10/18/kodiak-robotics-teams-up-with-ikea-for-self-driving-truck-routes-along-i-45/"
 webUrl: "https://www.dallasnews.com/business/local-companies/2022/10/18/kodiak-robotics-teams-up-with-ikea-for-self-driving-truck-routes-along-i-45/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Dallas Morning News

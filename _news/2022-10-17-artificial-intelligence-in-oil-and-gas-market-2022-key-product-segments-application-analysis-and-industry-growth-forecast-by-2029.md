@@ -92,6 +92,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
+    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
+    publishedDateTime: 2022-10-17T09:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Healthcare Fraud Detection Market Emerging Technological Growth, Future Growth and Business Opportunities | Grow at a CAGR of 12.6% by 2031"
     excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
     publishedDateTime: 2022-10-14T06:41:00Z

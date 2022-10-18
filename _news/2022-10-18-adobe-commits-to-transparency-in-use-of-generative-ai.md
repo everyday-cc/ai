@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
 webUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -39,6 +39,15 @@ related:
         width: 800
         height: 1200
         isCached: true
+  - title: "UTC Scientist Is A Round 1 Winner In Global Research Challenge"
+    excerpt: "The race is the U.S. National Academy of Medicine’s Healthy Longevity Global Grand Challenge, and a research proposal by Hong Qin, a UTC professor of computer science, has been selected to advance to the second of three rounds of review."
+    publishedDateTime: 2022-10-17T15:11:00Z
+    webUrl: "https://www.chattanoogan.com/2022/10/17/457698/UTC-Scientist-Is-A-Round-1-Winner-In.aspx"
+    type: article
+    provider:
+      name: Chattanoogan.com
+      domain: chattanoogan.com
+    quality: 4
 
 secured: "mAnWzuaxHPMo0GrJsiWsfBVZLJubxINM4qpxSznm6l959vTnKuA5fOe/YPsgiB1SNEKqGjr5pY/VPhg5kkbS5SB7a7tJzNRTD8XUjdAf09DHJaRxbiC9hvrhHTRSvuHLYzNgpsyrYdh+OkwwH0Amh0iNDt4GBRevuCULaGaVNdz2ALuupXYI9FoFMy5hMtdbcua015mBcYv/V0yl3X011wPtU47DmypVuyVcfYZhDpNLhd8Cnkny7PaTJCR08gR7mkNCH1kIjdiLrgvQFcD0M6XpPG4Tj43U0SOVJLyQJTwKqq98r+ru4G9gy4UtMAIHapDEuEVyYKkcyepRx+u2e88NN7VLZTHLlEWkkRpB0uE=;5Q5fuSmi1T7YvVppFesy6A=="
 ---

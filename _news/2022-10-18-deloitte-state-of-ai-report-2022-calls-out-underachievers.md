@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T12:30:00Z
 originalUrl: "https://venturebeat.com/ai/deloitte-state-of-ai-report-2022-calls-out-underachievers/"
 webUrl: "https://venturebeat.com/ai/deloitte-state-of-ai-report-2022-calls-out-underachievers/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat
@@ -17,6 +20,26 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "'State of AI in the Enterprise' Fifth Edition Uncovers Four Key Actions to Maximize AI Value"
+    excerpt: "Research reveals the key actions leaders can take to accelerate AI outcomesNEW YORK, Oct. 18, 2022 /PRNewswire/ --Key takeawaysFor Deloitte's"
+    publishedDateTime: 2022-10-18T12:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/state-of-ai-in-the-enterprise-fifth-edition-uncovers-four-key-actions-to-maximize-ai-value-1031813269"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
+  - title: "Here Are the Language Highlights from the Popular ‘State of AI Report 2022’"
+    excerpt: "Snapshot of the most interesting language technology highlights in the latest edition of the popular State of AI Report compiled by a group of VCs and PhDs."
+    publishedDateTime: 2022-10-18T12:50:00Z
+    webUrl: "https://slator.com/language-highlights-from-popular-state-of-ai-report-2022/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 17
 
 secured: "FDKQcrgAHzZ4jOmp/LRox2q71Q7ePxB6Cw930Y3FVVvAz48h9iD+2eIxQRa7Vf8oH+JdBayaYQ1uXyyJzyaD/LkLvR7pLSKSuU6AUvVyfynh/TgROZ8h2kJ57+QZcoDHrNheASbUYfMvVuhd995vEQl45sVKtbvhma731U6aDiooiugOnDe5RiwTF7ZJ84Rhe3sVMZrrDrPBTbLITWMnAxNVmoUjdH3WMmcUcOrHbB7iLuZPd55dddlfAsRzGRcjrKJV8VWS9d8sxxGMa4Nd8tV7sqPtNtoQdowlen10yi8CV5LbWYhgw0MqFK89R1lpXaJDsjuaA0bnPIgGzguB4wfGbcBJUMq2gjFCZeohS6lfOnnURvsxQPsdZuIZ4Tr/iUIzyjCOdxLw9rRWnZGws49leFjjw7wKbx8yAmi+4zqe7R6NfeoDiRXVpo4xKi0gHL0TNr9ea6deDkKVxgMKqLCtBIF8b+/Ubi3h2YOg7tH29yjzd0HSJlNsyeZOz0QNhx851EeO6mfMSYnjkzDbMw==;fPHA+MmKMvWK2epvnoEmOg=="
 ---

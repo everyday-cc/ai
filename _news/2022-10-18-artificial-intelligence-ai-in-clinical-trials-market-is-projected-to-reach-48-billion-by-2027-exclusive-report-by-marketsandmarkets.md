@@ -1,29 +1,35 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) In Clinical Trials Market Is Projected To Reach $4.8 Billion By 2027- Exclusive Report By Marketsandmarkets™"
-excerpt: "Scope of the Artificial Intelligence (AI) in Clinical Trials Market Report: IBM corporation | Exscientia | Saama Technologies | Unlearn.AI | Inc. | BioSymetrics | Euretos | Trials.Ai | Insilico Medicine | Ardigen | Pharmaseal | Koninklijke Philips N."
-publishedDateTime: 2022-10-18T08:32:00Z
-originalUrl: "https://menafn.com/1105038060/Artificial-Intelligence-AI-In-Clinical-Trials-Market-Is-Projected-To-Reach-48-Billion-By-2027-Exclusive-Report-By-Marketsandmarkets™"
-webUrl: "https://menafn.com/1105038060/Artificial-Intelligence-AI-In-Clinical-Trials-Market-Is-Projected-To-Reach-48-Billion-By-2027-Exclusive-Report-By-Marketsandmarkets™"
+title: "Artificial Intelligence (AI) in Clinical Trials Market is Projected to Reach $4.8 billion by 2027- Exclusive Report by MarketsandMarkets™"
+excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Clinical Trials Market by Offering (Software, Services), Technology (Machine Learning, Deep"
+publishedDateTime: 2022-10-18T07:45:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intelligence-ai-in-clinical-trials-market-is-projected-to-reach-4-8-billion-by-2027-exc"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intelligence-ai-in-clinical-trials-market-is-projected-to-reach-4-8-billion-by-2027-exc"
+ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
 type: article
-quality: 21
-heat: 21
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
-  - AI in Healthcare
 
-images:
-  - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?751311"
-    width: 333
-    height: 250
-    isCached: true
+related:
+  - title: "China Autonomous Vehicles Market Report 2022: Featuring AutoX, Baidu Apollo, Didi Chuxing, Pony.ai, TuSimple & WeRide - ResearchAndMarkets.com"
+    excerpt: "China Autonomous Vehicles Market is projected to reach US$ 98.89 Billion by 2030. Self-driving cars could lead China's automotive industry into the passing lane. From automated cargo trucks to driverless taxis (AVs),"
+    publishedDateTime: 2022-10-17T10:20:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-17-china-autonomous-vehicles-market-report-2022-featuring-autox-baidu-apollo-didi-chuxing-ponyai-tusimple-and-weride-researchandmarketscom"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 0
 
-secured: "V3fm4N/APsEXMtY5/KrFTUSVLJG7ybH7QWYkwH+i7Tqa30+YIjzYKg2xLB5/mnkoqalmPM0Bwz1dtO+pUA/NSm01bBO/BbZO58xoHR7hOTu/d1z5ZiQ52hO0pjCDaM+NbmU7QUoXyab/S4fIWZiupITeuUVXOQesojvUFtSSRxql/1l6lDmWJMmQRAZ2uGH1hJf0CzhvGcglremHVs8oA5F7Hxf9oOWDGf6I0H+Rp8YtVrHzbQ/zo7aSn9BCod+92ayEE1EA1RytUo/Vw1UZuHUs8ojrZmwmkSnMtiPSnohHxDD5c+G8EwVY6jNk3zpkQwErdREP8NWS+aUL9TtjCh7fcjzdHWBM3IDwvNRFkls=;Nxh3+4QnQzPKBrSAsseu+w=="
+secured: "X0IsoQX7dwOpK/J2p2X3EejzdmScIOGqTL8AlVgDxKxLV+koNhyajJ4+WZu0iC5jPC7WkGsxuzISBgm6W8Yypj2VqJq1g9t2078dRhHTdxLrSHzly2965s0I0zE4XeIGMSpydkUKfc3tK4R9vwPPQBroUoNCF/O1U99jSFWWduovpjl8YiSaMuvlkIqAhTHv4NR/lsi1gKvWd1rSY5mhIYViiL16dAzGEfNqChUWvizrEL0QhjSF/BRCO80bIr5vWbLjdSYncToDUmNOu+gD906rb6ZqKcc4BHkPEmYRCsn8liiyYyHQl08Pe814IuvS78lITHjF9FhDncqmGdKKka/YNfvmWkpd/DpIyACdND4=;5BpepK0oj9NiTENC7TciNw=="
 ---
 

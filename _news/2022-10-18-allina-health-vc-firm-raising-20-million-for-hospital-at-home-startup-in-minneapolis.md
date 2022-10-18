@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T11:34:00Z
 originalUrl: "https://www.startribune.com/allina-health-hospital-at-home-startup-inbound-health-minneapolis/600216721/"
 webUrl: "https://www.startribune.com/allina-health-hospital-at-home-startup-inbound-health-minneapolis/600216721/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Star Tribune

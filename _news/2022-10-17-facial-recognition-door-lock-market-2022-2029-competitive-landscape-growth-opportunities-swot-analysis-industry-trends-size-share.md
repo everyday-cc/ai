@@ -71,6 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market To Shows Huge Growth Over Forecast Period 2022-2028 | 118 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Machine Learning as a Service (MLaaS) Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
+    publishedDateTime: 2022-10-18T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-shows-huge-growth-over-forecast-period-2022-2028-118-pages-report-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 42
   - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2029 with Top Countries Data | 127 Pages Report"
     excerpt: "Global “ Speech and Voice Recognition Market \" Report is a detailed and comprehensive analysis for global Door and Speech and Voice Recognition market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-14T03:50:00Z
