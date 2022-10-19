@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "rev"
   url: "https://twitter.com/rev"
-  followers: 11492
+  followers: 11491
 
 size: 51-200 employees
 yearFounded: 2010
@@ -31,7 +31,7 @@ topics:
   - AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1516420430659309583/HjmrV7zS_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1582823028710379546/qv6JDdkn_400x400.jpg"
     width: 400
     height: 400
     isCached: true
