@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 862
     isCached: true
-
-related:
-  - title: "Oregon State lands $100M to launch AI and robotics center (Renderings)"
-    excerpt: "The money, for a $200 million research and development facility, comes from OSU alums have so far given the school at least $150 million."
-    publishedDateTime: 2022-10-15T01:30:00Z
-    webUrl: "https://www.bizjournals.com/portland/news/2022/10/14/oregon-state-lands-200m.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 49
 
 secured: "i1+OQCdbSvJTleU5bAhCKVqeq2xS5v0rlHn5s1DxsxoUfMIe2Rrbj1MAcdCtI3i0p6YlbOQ1LnMcXne6Z6W0XrvWw2z+V7nBN/D55EGDQbkaY8nm7OaZK4MXxlcEvyQQysA3vGMGW5Tu6MieKu7ydmrKoKCFmvlSATiA4l8k5sFeS91/vumvPFef+0a1i7uYQ41fa/tuIfBTmkZSxSHefvItceOpijdcjiJFQ6Z8bh/VDnBpZbVa+Y8wt/okaU+KN0zLIeNnM24Z6qCxJ3V5qP7y0PC2or5XEpDBNxST9e+yoqC+P+v3hm+frOwzWGIpDBR4Ah3Dylm0q+yTni8BRnyX5yKYU71GLwmH19f4yiXCVtnva1WSCRMFjkFDiMmYseQzRoKnXCWH61WzFb+3799+ASbmtGjShtIN6i9pXYqcVsNyCu3Z5HkEF4p5tVtpKaeNShxvTxptGGD5ODxAbsxwf7xZs4ZiTrxPp+OrciLmtkBjiGQBcg+gnjKICkP+xCjCHF0iNzw5pJgZWWdBJw==;MyrsxISOs97VwFEWrz68BA=="
 ---

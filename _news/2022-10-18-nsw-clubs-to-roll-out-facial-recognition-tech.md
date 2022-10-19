@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facia
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -106,6 +106,15 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
+    quality: 19
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
     quality: 19
 
 secured: "hE+4fo0s15XTCB2MXJPZW3txwR9wl+Qv4nVpGELHG1yS+RAg29Gt+zixwT+lN6cQrRCz6abBf3jWGgtT34w5rkxf08blDJ0upk5+ytVWWjpH7tedQHzOh/Bi/YJeLNwpuAALkwoBuvIgBvmJWNA9W2rIOsY/7X1QAFV8fnBDr6eDBE5Sfdr4BLrh+DqGxss+2ALxG/emo7VaRgq9WOSxM7l9JoxeG+msZI5C2nAeCC81ljdyF+E+3bZxsM9nE7uANHU3RgqlqnLaZmgpmUiXvuwIw+2Nu50pgj6m2zrSFBRZcK3QIrc67IbpiNBLfRe4UrGzRuVOS4bOo/wvmSK2Q299sRDIbAaCAIQCmVU8RwPRZERXz1fFmtqVg0pcn1mvmuzD+m5kCtNomi3sJBWW2/Uh0ZajWZe+YT6fglhkZtT1/5VnaCBVnMHLpTFTIlBKApF1OgLVmbhwruVJUz9JLviqNzv25P3aqrf3mmkq/0y7582UPYV+074c9gfzU0L6Zu8EkOVGFzalaaeABYOYZA==;7/hEKJqJHmk+A4ijyZN7/g=="

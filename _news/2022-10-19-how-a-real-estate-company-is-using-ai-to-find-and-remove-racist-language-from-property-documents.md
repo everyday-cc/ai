@@ -63,6 +63,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 54
+  - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
+    excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
+    publishedDateTime: 2022-10-19T19:06:00Z
+    webUrl: "https://siliconangle.com/2022/10/19/meta-builds-ai-powered-speech-translation-hokkien-understand-unwritten-languages/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/mobile-phones-ge5a1e216c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "3vGb5SK54LNH5Zd4n2dNGlbJ8nIlg6Cl8KuMzQdhWkZDxGK2qeIaCseLtUe3g+ryMESQwz9XDDKd43yVJwdvlQkbo1ZFvIeJU8Rh9UZSLOgmEEs3ncS11+4yTKvp//uvzTsuv8AAhrNRG85LDQ4rFIIacz5pGyEMiAmqoXQQ2wRE2lyc36pBZwVSdcQYxp3l4UJL1aMx8Pk8rQyBYmTq+QmBFAuTVsfM1edhOJ2In8DSsOPKfSiOGoyenQDQE78pESvIhVqsDMlsg1f5aLGqqtN33QTlgQoGTVCX8TTBvT/1PEz41CXnLGcV0T/luf4lDcBLbsmwtPpnVEWI7jUUsMMRCxo9X3TvE+AIO8axVLRAYSc2IsHS/dWEOmp2ZHZd+3b6slfb2BFOOUUDIEnQ7mp6aEV+Tz5EoEotNVQVuW0SMHvjPpX4nxG7FZ3qTJMGVTAh0cCemRkpzb2DU7mMO2jDT/nrjHKgzpEwlP/xRIDvBtPt7z36KG8CvC2qda5uj/tOcfe1rwz2zOhUd/1Q6w==;jw61Ei3RkyZM/u6m2FcZyQ=="
 ---

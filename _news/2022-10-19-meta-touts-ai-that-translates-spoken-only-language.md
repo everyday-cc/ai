@@ -60,6 +60,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 34
+  - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
+    excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
+    publishedDateTime: 2022-10-19T19:06:00Z
+    webUrl: "https://siliconangle.com/2022/10/19/meta-builds-ai-powered-speech-translation-hokkien-understand-unwritten-languages/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/mobile-phones-ge5a1e216c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "fNLKgMPb977bQPtqgDEkjF872y/SMtzmcOk+505T4aY0OhJ+6l4vrRvKw5njQ/nLsVC5ccpmQ2NnmevgeBgKHe7pvz7xYkHzqIHmNXoM37MZkUGWFrxJcgx1jkS7dm2yNN0r/8m5xxMHq4M28Pk+4gWUBrUCvX59O9nRI2pu3tTnrDJ/q7WsrwbV9Q8ySXBtZ4qvkUF5aQsjPtF6l0t/HTq5Pl+UgQL0dow8LNMLY78+D+obVxYXe+7qONs1wcI+dZlwsEjM1xn8YqtlVky4Hn1zhye4Cuk0UT8/HdBfaI+u7S76RBxM29ngbXeKBYUXNcQpA7525X47qarBcP5gM5k/Cgj/SslBI+wElI9f/bM=;h7k9n/qZEhZbhHN6sPWO8w=="
 ---

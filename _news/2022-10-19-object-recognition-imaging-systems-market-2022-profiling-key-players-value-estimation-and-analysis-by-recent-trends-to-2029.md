@@ -29,52 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Face Recognition Systems Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2029"
-    excerpt: "Face Recognition Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
-    publishedDateTime: 2022-10-17T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17"
+  - title: "Artificial Intelligence Systems in Healthcare Market 2022 Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "The report is a great resource for finding out where the Artificial Intelligence Systems in Healthcare market is currentlyand the future trends that will be driving it from 2022 to 2028. The solutions offered in this study's recommendations will assist market players in formulating their plans to seize any potential opportunities that could arise in the future."
+    publishedDateTime: 2022-10-18T01:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 53
+    quality: 55
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI in Financial Wellness Services Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data"
-    excerpt: "AI in Financial Wellness Services Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-financial-wellness-services-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-2022-10-18"
+  - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
+    excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
+    publishedDateTime: 2022-10-17T15:10:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291069/the-healthcare-consulting-services-market-is-expected-to-grow-at-a-12-rate-due-to-rising-digitaliz"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29291069"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291069"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Opportunities, Development Outlook and Regional Strategies 2029"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-10-18T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-opportunities-development-outlook-and-regional-strategies-2029-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
-    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-17T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 15
 
 secured: "6tn6OYGBzvKG+nmiksRKzWHE8sEhUQKSFZWGxI+cs+dtVn5Hmn27GMC3U+I6hKe+6MXVqxvKu0YnzE1FVn0YWfJ3uQ2rBkFM/MyRhW8+OSnOKbo0h/v383rt4bTfh9Ga6JAGQdYMl9lRTU3Qx9+6kNu4iPBcOzsauFS2jCCRi5VcxOs6prsNs5crys8iUGrMbtGnYa7kF7zwKVZ1IB+IE7/44Oq13dXxGWjJ9NXokP7vQM+W7s5Vph6VOdEd+5aUqWgmhuVF2ty4QBcQjsBIxkqVQQeWP5Lu4JzfpFOjqWb6rv6Sok1Y/ClcGK7HEosuGt/IZuMCzZ4krOuUpch7OFZgviFHs+nP/PX7rPXLSoI=;RwCq9mjra8GuQG1anRJOJQ=="
 ---

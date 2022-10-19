@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T18:31:00Z
 originalUrl: "https://www.chron.com/westport/article/Westport-distracted-driving-17519511.php"
 webUrl: "https://www.chron.com/westport/article/Westport-distracted-driving-17519511.php"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Houston Chronicle

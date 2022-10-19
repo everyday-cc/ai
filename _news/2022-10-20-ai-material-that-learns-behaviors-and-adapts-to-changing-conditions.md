@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T18:00:00Z
 originalUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html"
 webUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

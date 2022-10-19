@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
+      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
+      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T12:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
+      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
+      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
       "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
       "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
@@ -218,7 +321,7 @@
       "originalUrl": "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -312,7 +415,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1030,7 +1133,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 148,
+      "heat": 158,
       "tags": null,
       "images": [
         {
@@ -1072,6 +1175,57 @@
         "AI",
         "AWS AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-which-ai-creates-the-best-and-most-terrifying-art.md",
+      "title": "Which AI Creates the Best (and Most Terrifying) Art?",
+      "excerpt": "The internet is awash in artificial intelligence software like Dall-E and Midjourney that generate professional-looking imagery based on text prompts. We provided some twisted requests to 5 of them to see which one is the best artist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
+      "originalUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.size_1200x630.v1665523315.png",
+          "width": 1021,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -1123,162 +1277,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
-      "title": "Three Ways AI Transforms Security",
-      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "publishedDateTime": "2022-10-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-baristas-in-san-francisco-went-on-strike-their-robot-co-workers-went-right-on-serving.md",
-      "title": "Baristas in San Francisco went on strike. Their robot co-workers went right on serving",
-      "excerpt": "The coming robot apocalypse threatens to pit humans against machines. Here's how to make peace with your future coworkers, before it's too late.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/robots-jobs-san-francisco-strike-baristas-technology-future-of-work-2022-10",
-      "originalUrl": "https://www.businessinsider.com/robots-jobs-san-francisco-strike-baristas-technology-future-of-work-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/634dadf9410f430018149ca1?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T04:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

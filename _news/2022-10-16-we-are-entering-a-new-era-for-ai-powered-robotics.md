@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
 type: article
 quality: 119
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 34
+  - title: "Denver company readies AI-powered recycling robot for 2023 release"
+    excerpt: "Denver-based AMP Robotics, which is trying to make recycling more efficient, is adding another product to its lineup of artificial intelligence-powered infrastructure and robots. The company announced Wednesday its development of AMP Vortex,"
+    publishedDateTime: 2022-10-19T20:34:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/10/19/amp-robotics-readies-ai-powered-recycling-robot.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
     quality: 34
 
 secured: "qpPPlFYDCH11u20mGm9y48NVuNiDkqAmXkJd4DR4B2GNDQhWybp4tJf264OTtZa4h5MrpVlcIAJS88hq89S4LuyYx5JUkxQWizQ48PStNPrDBzsn6iOo/xTEEd3BSJDBZSwmrUt8bGMgBH2EwkVC0YDLxCPm4QXNN5C+DmQp8U33DUF2/j0rg0zbcJVvAIWZvZWakLlPk6Oen1vGbw+ICQskGRBFxUhkikpEQE0+g2P/HJybVoVG+EJBdF6s7XjTn2NqkqR48GlQ6lUd1Qd3mNa2yRoBF6dA2IXIO1WrVsfTABDNkbmj2YfQCbixh5vtG6QkBWja7ni8lmAEIp19aeXxvhC6YmsWkGUbO2cTgtDc5gVsQQ/4j6Ii13bysLjrAFOdCaZfHTSXnhkrXSkUQR5OWZLfMTEVV/E4HggIoqul4zBCGnFiMh/R8FJSpDBGdS2hf8Muf5wsBLnxWl19Mh3HHZFXfqYfUxZAzTfwSj435RiyONHXL8uTEe/qEIyqOxyCkVvBNe0bjvk0Fm9CqQ==;O6vsPUz0wridiqGukGQagg=="

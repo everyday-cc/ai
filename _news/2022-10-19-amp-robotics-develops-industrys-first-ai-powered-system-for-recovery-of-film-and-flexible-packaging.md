@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Denver company readies AI-powered recycling robot for 2023 release"
+    excerpt: "Denver-based AMP Robotics, which is trying to make recycling more efficient, is adding another product to its lineup of artificial intelligence-powered infrastructure and robots. The company announced Wednesday its development of AMP Vortex,"
+    publishedDateTime: 2022-10-19T20:34:00Z
+    webUrl: "https://www.bizjournals.com/denver/news/2022/10/19/amp-robotics-readies-ai-powered-recycling-robot.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 34
 
 secured: "2KEPmUZJw5+CwDFSoULM8Yh3Upbkw0OXHEQk55cTQ3sI8hUOZORQFYBA9l6Vdx6SiVhvSCVjtTntr75Q8+ZCEU9XSVSjf/EFLj5qli0QfeE7UcYocitaiUlQopvxJHLGmywnE1G5EoXOqKVb+vCv1AjhxzYBa6vnpNX3PoOKNWpqVj3ARQHhGYVZOEqwl3PA7vnQrbLdJVF/HsaJkFqb9dVppN+QGXCvyQDEUPstw6ZJkxoZY6Sp3S74siI4c69heakpP0vSXpoPm64bW34bvArXnl/23PReqi2bjEZs/Cl4fdMfi+KFLPMbsOytA0L16l0VXdKjsGtx4mEPr9K7EX3hNaEwSA3dtOSVxeKAUPI=;5Hc77QMWyDdO+D+BrHyFcg=="
 ---

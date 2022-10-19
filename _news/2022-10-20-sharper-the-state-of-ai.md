@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T18:12:00Z
 originalUrl: "https://www.cnas.org/publications/commentary/sharper-the-state-of-ai"
 webUrl: "https://www.cnas.org/publications/commentary/sharper-the-state-of-ai"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CNAS

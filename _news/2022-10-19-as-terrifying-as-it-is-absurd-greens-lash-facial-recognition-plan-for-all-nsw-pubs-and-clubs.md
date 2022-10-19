@@ -111,6 +111,15 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 19
 
 secured: "J/1gU/f6kT0SZf0ZsIkTmFKTP0sYMe5hZ6YyUip5FdkIzQLzEwycEaD2pJ1kQ/yjzPGtalIuiAhdI3cKB2P/nx7aHZdsYDteOsF6VQlETykw3YXMNHgXv6+hMCdBQmNvttlIrrUV7EZ4eMNSvuqZNIeZmVtDGQn97RayUHvMMZeZP+A4kSU3Nfm86H3cSV+6TMz/WepnbIDvt8s1WE5hHWJfYnQdqoqwbpjUfZZM74kzCRemyjHdD+MdrWRema7gx0qrqYZTLieysuGznfxmNvcauqsz3Lq9tpl5BYQK2xssGqte3t+ycOeeOjQmbSD9RNebzytm1JbE3kncQ0O7KblBe+izfWwykRxAiQCxFiTd2o5KLDPGRbJFTRR5TB3WMHoTKYoLToKIs7lNjARaySKqJoksVAMcQyOyoce0Xn5mQRHn3Mciej6p7w21wGJu+aGZLkkkXNk9baM2GU1TCUKuzyGU6njz1uAINDdqOGCOipFfAnOqNDmNzZbqKWFSbs3buspdVu6zVJaaBO4Jwg==;xD9bS+fjCUV5RIzdZOu3IQ=="
 ---

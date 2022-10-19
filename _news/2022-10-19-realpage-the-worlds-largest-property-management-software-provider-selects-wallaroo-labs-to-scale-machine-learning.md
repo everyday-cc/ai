@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T14:27:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

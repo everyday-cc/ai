@@ -2,6 +2,215 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-16-nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university.md",
+      "title": "Nvidia’s founding couple donates $50M for AI computing at alma mater Oregon State University",
+      "excerpt": "Huang, CEO of Nvidia, and Lori Huang donated $50 million to the school to build a new innovation complex on campus. The university has also raised a total of $100 million in gifts to launch what will ultimately be a $200 million research and education center with one of the nation’s most powerful supercomputers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
+      "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/osu-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
+      "publishedDateTime": "2022-10-15T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
+      "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
+      "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T20:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
+      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
+      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
+      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
+      "publishedDateTime": "2022-10-15T19:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever.md",
+      "title": "Pace Of Artificial Intelligence Investments Slows, But AI Is Still Hotter Than Ever",
+      "excerpt": "Private companies using AI are expected to raise 36% less money in 2022 versus the previous year, but are still on track to exceed the 2020 level.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634ae31d6649ea63424d8035/0x0.jpg?format=jpg&width=1200",
+          "width": 1196,
+          "height": 797,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/15/pace-of-artificial-intelligence-investments-slows-but-ai-is-still-hotter-than-ever/amp/",
+      "publishedDateTime": "2022-10-15T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-the-multi-billion-dollar-potential-of-synthetic-data.md",
       "title": "The multi-billion-dollar potential of synthetic data",
       "excerpt": "Synthetic data, already in use by tech giants, is an accelerator for ML/AI-based products to further penetrate every industry and sector.",
@@ -249,6 +458,40 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
+      "title": "Opinion: A driverless vehicle update",
+      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northside Sun",
+        "domain": "northsidesun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -654,6 +897,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
+      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
+      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "publishedDateTime": "2022-10-14T06:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
       "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
       "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
@@ -943,300 +1238,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
-      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
-      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "publishedDateTime": "2022-10-14T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029.md",
-      "title": "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029",
-      "excerpt": "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-global-x-robotics-artificial-intelligence-ucits-etf-usd-acc.md",
-      "title": "Global X Robotics & Artificial Intelligence UCITS ETF USD Acc",
-      "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/quotes/BOTZ^-IT",
-      "originalUrl": "https://www.cnbc.com/quotes/BOTZ^-IT",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents.md",
-      "title": "Beyond Bayes-Optimality: DeepMind & Stanford’s Meta-Learning Approach Builds Risk & Ambiguity Sensitive Agents",
-      "excerpt": "Reasoning about uncertainty is one of the crucial components informing human intelligence and our very survival — it can encourage us to take risks that have a higher expected return but also discourage us from impulsively doing things that may lead to catastrophic consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/",
-      "originalUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
-          "width": 790,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/amp/",
-      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/amp/",
-      "publishedDateTime": "2022-10-13T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "syncedreview",
-        "domain": "syncedreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence.md",
-      "title": "New exhibit at Seattle museum explores origins and potential of artificial intelligence",
-      "excerpt": "(GeekWire Photo / Charlotte Schubert) Seattle’s Museum of History and Industry opens a new exhibit this Saturday called “Artificial Intelligence: Your Mind & The Machine.” GeekWire got a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/Towers-8.jpg",
-          "width": 1901,
-          "height": 1417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-google-pixel-7-hands-on-more-camera-ai-premium-design.md",
-      "title": "Google Pixel 7 Hands-On: More Camera AI, Premium Design",
-      "excerpt": "The new Pixel 7 has improved camera AI and a fresh design. Ahead of our official review, here's a quick hands-on take of what's in store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6346a1551609bfa6c4de06b1/0x0.jpg?format=jpg&crop=1995,1331,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
-      "publishedDateTime": "2022-10-13T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

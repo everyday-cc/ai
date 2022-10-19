@@ -107,12 +107,46 @@
       ]
     },
     {
+      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
+      "title": "Opinion: A driverless vehicle update",
+      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Northside Sun",
+        "domain": "northsidesun.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
       "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
       "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so?amp;amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -131,7 +165,7 @@
       "type": "article",
       "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
       "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "publishedDateTime": "2022-10-14T01:14:00-07:00",
+      "publishedDateTime": "2022-10-14T06:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Guardian",
@@ -809,6 +843,50 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-the-newest-enabler-of-dangerous-driving-partially-automated-systems.md",
       "title": "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems",
       "excerpt": "Partial automation systems available in today’s market aren’t meant to replace the human driver, or to make it safe for drivers to perform other activities that take their focus away from the road.",
@@ -1299,93 +1377,6 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-09-tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks.md",
-      "title": "Tesla robot walks, waves, but doesn’t show off complex tasks",
-      "excerpt": "An early prototype of Tesla Inc.’s proposed Optimus humanoid robot slowly and awkwardly walked onto a stage, turned and waved to a cheering crowd at the company’s artificial intelligence event",
-      "sourceUrl": null,
-      "webUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "originalUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eastbaytimes.com/wp-content/uploads/2022/10/TDP-Z-NPWZX6YZ-01.jpg?w=1024&h=605",
-          "width": 1024,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "cdnAmpWebUrl": "https://www-eastbaytimes-com.cdn.ampproject.org/c/s/www.eastbaytimes.com/2022/10/08/tesla-robot-walks-waves-but-doesnt-show-off-complex-tasks/amp/",
-      "publishedDateTime": "2022-10-08T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "East Bay Times",
-        "domain": "eastbaytimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-chaos-on-launch-day-for-scotlands-first-driverless-bus-system-as-technical-glitches-saw-one-of-the-electric-shuttles-get-lost-forcing-a.md",
-      "title": "Chaos on launch day for Scotland's first driverless bus system as 'technical glitches' saw one of the electric shuttles get LOST - forcing a human operator to drive instead",
-      "excerpt": "Itsy Bitsy Teenie Weenie Driverless Machiney has a capacity of up to 15 passengers and is a first for Scotland. The vehicle uses sensors to guide its way through a pre-taught route but there are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11292833/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/10/07/20/63239185-0-image-a-16_1665172533692.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11292833/amp/Scotlands-driverless-bus-launch-delayed-one-shuttles-got-LOST.html",
-      "publishedDateTime": "2022-10-07T13:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

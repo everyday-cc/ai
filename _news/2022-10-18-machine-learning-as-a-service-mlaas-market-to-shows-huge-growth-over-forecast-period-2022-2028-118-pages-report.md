@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
     excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-18T04:17:00Z
@@ -74,6 +60,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
   - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
     excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
     publishedDateTime: 2022-10-17T05:25:00Z
@@ -83,6 +78,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "MIhQhcvNeeyMzUXRQJ4BFdTaKO+6vy5/Sv1o6LmUP4sYfNoqxgCOBiIOE0zWWC/IHdCl+AGBcs804NJSOMUWK8Xfvr2B6e74SFPzp21BhJDMsdV+06gVlSvUFzijRL+mCEK72vmR3+wdGrvMp1ZOC4rAfHYh4Q7n4UOzOdnpptHFEbqlap077nCyTOWRbmK5CUHM2bztH1SbdVLenALnhgT0ilKbX1vAp9aNHIrsBhm8dR29uaDbr97EQNHQ/jMmt4AEE2FVbprcVD+8AI/AlTJODZTF+T3s4O6TFFZWTTnp69SazIxdTW7tV+k6wk4rO9YaUZe1vZWkT6XxXScgEvGzabpnm8Eo7WFDxv/aMSk=;OcIe6dB9gTmMEs/ZkRQCZg=="
 ---

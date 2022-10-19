@@ -49,17 +49,6 @@ related:
         width: 400
         height: 225
         isCached: true
-  - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
-    excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
-    publishedDateTime: 2022-10-17T15:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291069/the-healthcare-consulting-services-market-is-expected-to-grow-at-a-12-rate-due-to-rising-digitaliz"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29291069"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291069"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
 
 secured: "hPh6OahAbkqCok2YFVWFxsJKjIiAxRXKYlWk2AXrMJ1BKnCadItnYIh15zEBHRQKCTRNt1rP5lp5F8M8ep2ZvkabNeJF02vnAaZzkOL08MunYjIqeKJzaSb4lGfQoS8vlM6iyQDdySSms2KjnBm+2FiXtNpqBtJ5HbtN53GyDn35vLSKtI59LDsBV7xP5VgEVd5sJCrr7/Qol4qJu5H9RBS1FIwNPWznSs6hEjOwp9Aum2E5cYfH7umRUeXUsyWly3TMIGdEFV94Q8f3YUOI7xHWjl2h14oYC/WCVo/ZJHCkYor/sxW/3oVDCdaRqit7xYjepctWOYnAWgNtG20svJthmrZuX6t64m55fQDYg1k=;ivRigCxQvsqPAqlk4BueiA=="
 ---

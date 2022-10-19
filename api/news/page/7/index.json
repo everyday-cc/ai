@@ -2,6 +2,292 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "First-of-its-kind capability allows users to robotically insert and steer instruments using the XACT ACE® Robotic System directly from the control room XACT Robotics®, developer of the world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip.md",
+      "title": "TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP",
+      "excerpt": "IMO, “growth hacking\" is a sloppy way to describe the iterative work required to fine-tune marketing campaigns and systems.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
+      "originalUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1324729821.jpg?resize=1200,859",
+          "width": 1200,
+          "height": 859,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/11/techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip/amp/",
+      "publishedDateTime": "2022-10-11T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-m3gan-trailer-showcases-a-lifelike-robot-turned-evil.md",
+      "title": "M3GAN trailer showcases a lifelike robot turned evil",
+      "excerpt": "A lifelike doll powered by artificial intelligence begins to wreak havoc on its creators in the trailer for M3GAN.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
+      "originalUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/M3GAN-trailer-photo.jpg?p=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/movies/m3gan-trailer/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/movies/m3gan-trailer/?amp",
+      "publishedDateTime": "2022-10-11T09:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
+      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
+      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
+      "originalUrl": "https://www.pharmiweb.com/press-release/2022-10-11/artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
+          "width": 1200,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T09:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmiWeb",
+        "domain": "pharmiweb.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-google-aims-for-biglake-data-lake-support-for-all-unstructured-data.md",
+      "title": "Google aims for BigLake data lake support for all unstructured data",
+      "excerpt": "What you need to know about Google Cloud Next data announcements: BigLake support for Apache Iceberg, Hudi and Delta Lake; BigQuery adds unstructured data, Apache Spark and DataStream support; Looker Studio unifies business intelligence products;",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html",
+      "originalUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.techhive.com/images/article/2017/05/data-lake-100720643-large.jpg?auto=webp&quality=85,70",
+          "width": 700,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676074/google-aims-for-biglake-data-lake-support-for-all-unstructured-data.amp.html",
+      "publishedDateTime": "2022-10-11T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-the-newest-enabler-of-dangerous-driving-partially-automated-systems.md",
+      "title": "The Newest ‘Enabler’ Of Dangerous Driving: Partially Automated Systems",
+      "excerpt": "Partial automation systems available in today’s market aren’t meant to replace the human driver, or to make it safe for drivers to perform other activities that take their focus away from the road.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/",
+      "originalUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6345958eb856c002e26bc1fd/0x0.jpg?format=jpg&width=1200",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tanyamohn/2022/10/11/the-newest-enabler-of-dangerous-driving-partially-automated-systems/amp/",
+      "publishedDateTime": "2022-10-11T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-fitness-tech-startup-insane-ai-launches-ai-powered-training-app.md",
       "title": "Fitness tech startup Insane AI launches AI powered training app",
       "excerpt": "Insane AI, the 2021 started venture was founded by two batchmates from IIT Bombay and backed by $900,000 seed funding from pi Ventures, Anupam Mittal, Sameer Pitalwalla, and other angels in sports, fitness and tech.",
@@ -143,40 +429,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Artificial Intelligence in Healthcare Diagnosis Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Healthcare Diagnosis Market is projected to reach USD 7,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-10-11-artificial-intelligence-in-healthcare-diagnosis-market-intelligence-report-global-forecast-to-2027-researchandmarketscom",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T06:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     },
@@ -734,6 +986,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
+      "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research’s Future of Digital Awards – Fintech & Payments",
+      "excerpt": "Company’s AI-Powered Decisioning Platform recognized in the “AI Platform” category PARSIPPANY, N.J.--(BUSINESS WIRE)--#AI--Provenir, a global leader in",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/",
+      "originalUrl": "https://www.01net.it/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T01:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-the-growing-influence-of-robots-on-the-auto-industry.md",
       "title": "The Growing Influence Of Robots On The Auto Industry",
       "excerpt": "Despite the century-old notion of robots working within the auto industry, society continues to think of robots as limited, human substitutes. But that will likely change in the coming years as they become increasingly capable.",
@@ -782,40 +1068,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
-      "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research's Future of Digital Awards – Fintech & Payments",
-      "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the \"AI Platform\" category in Juniper ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29210036/provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintec",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29210036",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29210036",
-      "publishedDateTime": "2022-10-11T00:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     },
@@ -903,241 +1155,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
-      "title": "Radiology AI Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
-      "excerpt": "This “ Radiology AI market ” report offers an all-inclusive analysis of how strong is service levels, product performance, and brand strength of the Radiology AI group. Some of the companies that are profiled in this Radiology AI report are: Arterys,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/radiology-ai-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 273,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T19:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-all-symbols-in-tensorflow-probability.md",
-      "title": "All symbols in TensorFlow Probability",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/probability/api_docs/python/tfp/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
-      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29208199",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29208199",
-      "publishedDateTime": "2022-10-10T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape.md",
-      "title": "Overcoming cyber security challenges in the evolving fintech landscape",
-      "excerpt": "By Gavin Knapp, Cyber Defence Technical Lead at Bridewell The finance sector is a lucrative target for cyber criminals. Attacking fintech organisations offers numerous avenues for profit through theft,",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "originalUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1326418539.jpg",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/overcoming-cyber-security-challenges-in-the-evolving-fintech-landscape/",
-      "publishedDateTime": "2022-10-10T13:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-the-best-robot-vacuums-based-on-rigorous-testing.md",
-      "title": "The Best Robot Vacuums Based On Rigorous Testing",
-      "excerpt": "After weeks of testing, here are the best robot vacuums with the technology and features to make cleaning your floors a breeze.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/10/best-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/633f5e6fd4326a3ec4de06ab/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T10:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

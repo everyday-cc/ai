@@ -117,7 +117,7 @@
       "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -160,7 +160,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -300,7 +300,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1231,16 +1231,25 @@
     },
     {
       "path": "_news/2022-10-07-in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones.md",
-      "title": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones",
-      "excerpt": "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ...",
+      "title": "In Apple's shadow, Google takes new route to face recognition on Pixel phones",
+      "excerpt": "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
-      "originalUrl": "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones",
+      "webUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
+      "originalUrl": "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hlaKOKrPAL7q3PSr1hNU3uLOZ-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUFE6S6QERLQ3K6NLCVKMMLSRQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1248,11 +1257,11 @@
       "publishedDateTime": "2022-10-06T16:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

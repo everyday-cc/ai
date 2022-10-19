@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Beach cleaning robot BEBOT has successful inaugural summer at Lake Tahoe"
+    excerpt: "AKE TAHOE, Calif./Nev. - BEBOT, the all-electric, remote-controlled beach-cleaning robot, found itself at home on Lake Tahoe beaches this summer. After its first trip along the sand at Kiva in June, BEBOT cleaned ten other beaches to test its effectiveness."
+    publishedDateTime: 2022-10-19T18:34:00Z
+    webUrl: "https://southtahoenow.com/story/10/19/2022/beach-cleaning-robot-bebot-has-successful-inaugural-summer-lake-tahoe"
+    type: article
+    provider:
+      name: South Lake Tahoe
+      domain: southtahoenow.com
+    quality: 18
 
 secured: "S8cHJhLfbyLs0aP8Kvl4WPQwvGTrfeCw5VRjtRrXXDBINl7N6mVqlFhoqQXq2s2Zx1bsNyGNk4wNQ09w9KKtKW/44h8z24KsXvl4F13XVhA1WdqJs1lRh6FW+ahhEaUa28vZGevHN6xhNKpO6PcfLTVc6GPCFrhTWEDr8+MjvUmDyyZpxivE4RZJgMs+BD4RvUbAumz53e/8aP+WTBZL7w2Jk2/+RmW05o8mwK2n4inexynAq0lx2zlxV7bfmP1Cnkhm9OqBNpJG+Cegh8gpFe4CUhWyE1oV4flpRkci2QRYSXdnrQpk00j5cJpBqyzI8qRymv3SXOUZ1yHllhAg5z6ygd3Otex9EbYGxXJBz4Q=;ExWF+16D8OTI50wKiBzo/g=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T18:01:00Z
 originalUrl: "https://www.biometricupdate.com/202210/lg-developing-platform-with-voice-biometrics-to-communicate-with-digital-twins"
 webUrl: "https://www.biometricupdate.com/202210/lg-developing-platform-with-voice-biometrics-to-communicate-with-digital-twins"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Biometric Companies

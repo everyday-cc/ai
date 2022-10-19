@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T19:53:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-global-microprocessor-gpu-market-report-2022-market-reach-/2022/10/19/9696140.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-global-microprocessor-gpu-market-report-2022-market-reach-/2022/10/19/9696140.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

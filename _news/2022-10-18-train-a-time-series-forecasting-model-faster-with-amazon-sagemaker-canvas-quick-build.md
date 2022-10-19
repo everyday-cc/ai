@@ -85,6 +85,15 @@ related:
         width: 1340
         height: 675
         isCached: true
+  - title: "Detect fraudulent transactions using machine learning with Amazon SageMaker"
+    excerpt: "Businesses can lose billions of dollars each year due to malicious users and fraudulent transactions. As more and more business operations move online, fraud and abuses in online systems are also on the rise. To combat online fraud, many businesses have been using rule-based fraud detection systems."
+    publishedDateTime: 2022-10-19T18:57:13Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-fraudulent-transactions-using-machine-learning-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
 
 secured: "FEzjOCtkj0k6msJvCimxl5UdYDF9dJ/ld243+kXUCcTgYjmhkIlubnppf3yiBuOBSMAlx7W2ak2DzIjlpa//zu72YwAOMGBlSzkbp01HOtdAamJC021BYBk86T3AG4X5axvzTqloraLG0guUWcNbLHlZDz4FloAWFmCQbG0R8JIQGe5jLB4G5kUlkKpn8nRY5IkgsfafvM3/bs1JqHB0kY7+zAVP2nDeLvZiEfIEUf8AjprixUTmhN3zdLamMPn2fKANRzHI9SbyOV38vS/pH8Tl/zW+DfcXuxbDeryxPop3QuhP44JNAi8uTmrAn/nE7ZS6ognWvL+ri4vfst7tlPSBkHdSOa/Kj9x2uTHBw6g=;2nmuUKMvpUATaDxCejW6CA=="
 ---

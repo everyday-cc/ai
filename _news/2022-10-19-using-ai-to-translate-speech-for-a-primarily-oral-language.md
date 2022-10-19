@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -61,6 +61,20 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 34
+  - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
+    excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
+    publishedDateTime: 2022-10-19T19:06:00Z
+    webUrl: "https://siliconangle.com/2022/10/19/meta-builds-ai-powered-speech-translation-hokkien-understand-unwritten-languages/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 31
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/mobile-phones-ge5a1e216c_1280.jpg"
+        width: 1280
+        height: 853
+        isCached: true
 
 secured: "rWdIN4syj9QqW95lryHOACxDYcIO/LcaUAWM/VvGvM/PgVp81+kigY35IA5Tt7NaRGoUwcvJj2OV4UIbcaTyU+c480rafb4SFhzGSsx0PbxIGmOJLyLSlwd9cr3ktz6upKtvXX/EpPriYFZIS+7DHwSXo0bNNrkaF84h201d/NgE9havCPOZx6ncQSkyv4vP4Zg5rNfV79oenIbjbg6VQrsffzpsg/ZuI86hPP1KreS9kq4RZbqOTpJt/p6KpKTysg1aXx7n7Sut2IpbTrHGz1ZWYY39TVIGIge/RCC4PfG5EiLZUxx7LnIJtDMZ3g1z/TwmbgpNt65VWxXkeQooy9JctKE9Ip4/a4VvJv+EoQQ=;NGc8un23a/ExQE3pRvpcjQ=="
 ---
