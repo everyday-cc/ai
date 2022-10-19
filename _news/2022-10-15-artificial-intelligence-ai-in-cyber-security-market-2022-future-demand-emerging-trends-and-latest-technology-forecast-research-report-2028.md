@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Neural Network Market Share, Trends, Regional Overview, Leading Company Analysis and Forecast 2022 To 2030"
+    excerpt: "The global neural network market was valued at $7,039 million in 2016, and is projected to reach $38,719 million by 2023, growing at a CAGR of 28.0% from 2017 to 2023. The Neural Network Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
+    publishedDateTime: 2022-10-17T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-share-trends-regional-overview-leading-company-analysis-and-forecast-2022-to-2030-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
     excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
     publishedDateTime: 2022-10-14T15:10:00Z

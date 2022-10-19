@@ -57,6 +57,15 @@ related:
         width: 600
         height: 314
         isCached: true
+  - title: "Neural Network Market Share, Trends, Regional Overview, Leading Company Analysis and Forecast 2022 To 2030"
+    excerpt: "The global neural network market was valued at $7,039 million in 2016, and is projected to reach $38,719 million by 2023, growing at a CAGR of 28.0% from 2017 to 2023. The Neural Network Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
+    publishedDateTime: 2022-10-17T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-share-trends-regional-overview-leading-company-analysis-and-forecast-2022-to-2030-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
   - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
     excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
     publishedDateTime: 2022-10-17T09:09:00Z

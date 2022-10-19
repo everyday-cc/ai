@@ -1,29 +1,25 @@
 ---
 category: news
 title: "Renesas Completes Acquisition of Steradian"
-excerpt: "Headquartered in Bengaluru, India, Steradian is a start-up founded in 2016 and provides radar solutions that enable highly accurate object recognition and power efficiency in a small chip. Radar is a vital technology for ADAS,"
-publishedDateTime: 2022-10-17T08:21:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/17/9693185.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693185.htm"
+excerpt: "Renesas Electronics Corporation (TSE:6723, \"Renesas\"), a premier supplier of advanced semiconductor solutions, today announced that it has completed the acquisition of Steradian Semiconductors Private"
+publishedDateTime: 2022-10-17T08:13:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
+ampWebUrl: "https://www.benzinga.com/amp/content/29282073"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29282073"
 type: article
 quality: 24
 heat: 24
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "+zF1oJ+cE9KBnXO6m40+PHtdwK45aBDNhMKqsVW+vpXC5dWbiJ2bfy2OWAU07ABxby+BOMok2f7PwQvd483a2c4VeSzWIQGdT++RsUzGyobjJc1khIdILW+5NRaYZIpSrq9kZb8Obk4AnvwbMAdkY22fLZeUK6nANJd6L7ipj9+TxkxeQmV6+vhTPYlzPPYUdSuNA7TUF2GQvO1juny0JF3t5Pz3uKm1Op+fLnZX8mZsOykqZqrmpwd0BDlzHKqneSLZ+ytHZuaiDOc9MtHfRcjwjmHj6Hh6UerdjNT41QN35nyZyBeyePfJ2N89CrJrW5Zr4DQ2UwO2qZTa1wcVC3qfYXN7tVFsViqStu7hurA=;Uys7uVK8QR50Df4cht6byw=="
+secured: "fUPwEU/B7NXSqWF0RTxDH/XnI5kpm/qpier+ugt2dSiOP9rNAyLT2QqOWLdRFNh6K7w5lNK5U/WNUUdvhXJDTmByLK6rJeJW/0URvr53cLSIedyXColrSs3uqN1vrtR6V7dYVhPx1+89OsOquRyMPyI1Oc/S6poV9qvHaLmdtbL7mmS72wEuxTwPAGpyv+dG4cRS7XYLlVPSHFm7+B86cBJaydPcWpTgMCzVJxq2uh9UjoyzbbJ3GF5e9lBwIMK9PfvceHx+56g2IteQwA+iAiqX4cCyF5YIMX2X2i/ZeLD4NziGfu1MUl+sofVF+WocHFzSzSS1S5zVNBCZ6ZICJEF5e58zOs41n2QhleMo6Vw=;oxOTVVr7FjHpKvQTfxZBlw=="
 ---
 

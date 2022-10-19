@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Ethical Dilemmas of AI"
-    excerpt: "AI is already visibly and invisibly woven into our world, but can it be trusted? There are inherent ethical dilemmas around bias, trust, and transparency. However, together we can find a way forward as AI continues to impact the world as we know it."
-    publishedDateTime: 2022-10-14T15:49:00Z
-    webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
 
 secured: "05PGgicNb0jBdLyx6eQM8QiOTSVLVNuzU8cLCswA3XhHUpiqCY43xfOQ72fgy1b5pn54wrlkKnqsU5EpCbkEhmKSzYe9DBFvfztco3eL33PYmCzwzPXFPvybiYzad7dYTLDOoFwvVU3yt7nCL6XBV7wufUiXhK9pReZHAFZ7PN/onlApJ7I0vGC9o5xZxDOUrRKl7hZanBWAyA7EVYU5Ko45DJmd3ZkZNU307E5MfkMoKGz5EB9i4UhGqYOvTs6sB7nvoTds4v7fPzXGYwEqVQb1miYjHTEKGvhRnyLc3MYSMFkewNIi8/MH+uZinDZhYMxo4KoUHfDng93rpW8FAatrl7lyug4eWu+v+L9CB6qu/kpfZNpO996eEF1pmMShyfYANYhRkbztp0UgS4JniQd0CNcaHIy5iXldKVDmq/nCEiqDtu8sF/ag31r7nLWGQSSNP5CAx8otl2AH3mfBDqdpdY7iWFE7VQndWnRjh9NXsGI9+dgre02E/nmLhpTG/cqwoV3UYXnF9FivPbXZqQ==;vUhtwaJNASetT3MBNI9tXQ=="
 ---

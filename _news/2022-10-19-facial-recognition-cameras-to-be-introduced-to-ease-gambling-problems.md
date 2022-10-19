@@ -73,6 +73,20 @@ related:
         width: 587
         height: 330
         isCached: true
+  - title: "Navigating responsible facial recognition in the U.S."
+    excerpt: "An ever-changing mosaic of state regulations and public controversy is making it challenging for security professionals to understand how and where to responsibly and legally use facial recognition technology."
+    publishedDateTime: 2022-10-17T15:47:00Z
+    webUrl: "https://www.securityinfowatch.com/security-executives/article/21284055/navigating-responsible-facial-recognition-in-the-us"
+    type: article
+    provider:
+      name: Security
+      domain: securityinfowatch.com
+    quality: 39
+    images:
+      - url: "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/10/Schulenburg_graphic.634d77485bc8f.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
     excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
     publishedDateTime: 2022-10-18T20:50:00Z

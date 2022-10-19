@@ -23,57 +23,57 @@ topics:
   - AI
 
 related:
-  - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
-    publishedDateTime: 2022-10-18T00:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
+  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
+    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
+    publishedDateTime: 2022-10-16T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 76
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
+  - title: "Artificial Intelligence AI in Medical Market Revenue, Gross Margin, Capacity, Production and Growth Rate Report 2022-2028"
+    excerpt: "A novel report on global Artificial Intelligence AI in Medical market has been recently added to Xcellent Insights'"
+    publishedDateTime: 2022-10-16T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-revenue-gross-margin-capacity-production-and-growth-rate-report-2022-2028-2022-10-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 37
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
-    publishedDateTime: 2022-10-17T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-acceleration-module-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-10-17"
+  - title: "Machine Learning Courses Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
+    excerpt: "PESTEL analysis research evaluates the worldwide Machine Learning Courses market's social, economic, environmental, and political factors. The research examines recent market tendencies, development potential,"
+    publishedDateTime: 2022-10-18T04:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2022-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2028-2022-10-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
-  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
-    publishedDateTime: 2022-10-17T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 19
+    quality: 43
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "C+PMLG1XOvEADyQ/z2cOrc86VBIj5osAIgvawsnRkWPO00OB163nmbqU0VnYFQj1WzuWwF7oq7u8eJ+k70hwUuBaXv+Yrfwe+JgFUG/bM4yd0d3YUIZ1veHm8Ilw+kt+XTLB816c3JG4LUmXNbfWGc4sgEa21zinQZfd8rlD+jfCpQGV1xYERlEEmi8oTQanNlVe8K4/CGGit7jTseDPMnOb4RcXEOKwCQuoK8LEJTFKmOaXiC/Hao+7GV0s54I8mkjFkLGK4SVNuN9B6ak/4hmaVbndP0gd1H9hNk43QQJorF5a5Hw4nuGREBkNeffZKDuuneBL+dg+Mx8ZH8mPr4lLHezUx00AO9wmpSl8Brk=;p8VUreZFASnauMgqQaugLw=="
 ---

@@ -43,6 +43,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Healthcare Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
+    excerpt: "Report Ocean recently added a research report on the Artificial Intelligence (AI) in Healthcare market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth,"
+    publishedDateTime: 2022-10-17T05:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+  - title: "Deep Learning Software Market Size Insight Report 2022 to 2029 by Top Key Players, Types, End Users and Regions with COVID-19 Impact Analysis"
+    excerpt: "Deep Learning Software Market Research Report is spread across 107 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. The Deep Learning Software market has witnessed growth from Million USD to Multi million USD from 2017 to 2022."
+    publishedDateTime: 2022-10-18T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-insight-report-2022-to-2029-by-top-key-players-types-end-users-and-regions-with-covid-19-impact-analysis-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
     excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
     publishedDateTime: 2022-10-17T07:49:00Z
@@ -52,15 +75,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
-    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
-    publishedDateTime: 2022-10-17T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
   - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
     excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
     publishedDateTime: 2022-10-17T17:00:00Z

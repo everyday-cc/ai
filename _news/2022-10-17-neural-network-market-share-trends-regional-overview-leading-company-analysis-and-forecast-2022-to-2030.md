@@ -23,71 +23,80 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028"
-    excerpt: "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent"
-    publishedDateTime: 2022-10-14T14:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14"
+  - title: "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
+    excerpt: "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976."
+    publishedDateTime: 2022-10-15T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 83
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
-    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+  - title: "Robotics Market Research Report 2022-2027: Top Companies (ABB Group, KUKA AG, FANUC Corporation)"
+    excerpt: "Robotics Market IMARC Group expects the global robotics market to reach US$ 87.2 Billion by 2027, exhibiting a CAGR of 17.6% during 2022-"
+    publishedDateTime: 2022-10-15T05:23:00Z
+    webUrl: "https://menafn.com/1105024393/Robotics-Market-Research-Report-2022-2027-Top-Companies-ABB-Group-KUKA-AG-FANUC-Corporation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/15/EP_d57b6image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
+    excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
+    publishedDateTime: 2022-10-14T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2022-key-factors-and-emerging-opportunities-with-current-trends-analysis-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence AI in Medical Market Revenue, Gross Margin, Capacity, Production and Growth Rate Report 2022-2028"
-    excerpt: "A novel report on global Artificial Intelligence AI in Medical market has been recently added to Xcellent Insights'"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-revenue-gross-margin-capacity-production-and-growth-rate-report-2022-2028-2022-10-15"
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 26
+  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
+    publishedDateTime: 2022-10-14T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
-    excerpt: "Report Ocean recently added a research report on the Artificial Intelligence (AI) in Healthcare market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth,"
-    publishedDateTime: 2022-10-17T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-17"
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
-  - title: "Deep Learning Software Market Size Insight Report 2022 to 2029 by Top Key Players, Types, End Users and Regions with COVID-19 Impact Analysis"
-    excerpt: "Deep Learning Software Market Research Report is spread across 107 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. The Deep Learning Software market has witnessed growth from Million USD to Multi million USD from 2017 to 2022."
-    publishedDateTime: 2022-10-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-insight-report-2022-to-2029-by-top-key-players-types-end-users-and-regions-with-covid-19-impact-analysis-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 22
 
 secured: "xlsONFtyW03UbrPCpmOVxj8rHyYE7XY0a/6WJtue5CX9Xtug0BsCvjcFEYigkaZJQDqqrRc3j4Y5J3y6+bWq4ZZy/hxVJvgyq6bYjSmY8dI28MCf+AcpMLMLnaZzJw9u6DXl6v1yPgziSrHilulXHugipmy4ZArskwV5ClmX4VHXHTEDKTwH09C0hb9sJpDj6Z+7ms+zOVWda6MRCumnE76gqR1KfRrFWGv5o1NG+PgfGvxq6v0wb5Z3fJjqv2F3tub0zfKarKVnXM8mdS3v8Abpon0a/GVbPUVzgrdEzLgtPWOcxgWxMerT2TXg45/AkeAFrPyUe8BjQA5y4+cDqYt5Nei2FB5nE2U/3hgzIY0=;Ar5jnRhYLyeWq5BKDsDAMQ=="
 ---

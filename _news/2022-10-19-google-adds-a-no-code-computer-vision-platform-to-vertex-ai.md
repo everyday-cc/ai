@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-c
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/"
 type: article
-quality: 108
-heat: 108
+quality: 110
+heat: 111
 published: true
 
 provider:
@@ -25,6 +25,7 @@ topics:
   - Computer Vision
   - Microsoft AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200"

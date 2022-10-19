@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Face Recognition Systems Market Top Key Players Profile and Forecast to 2028"
-    excerpt: "The recent study on global Face Recognition Systems market added to the database of Xcellent Insights offers a"
-    publishedDateTime: 2022-10-14T14:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-top-key-players-profile-and-forecast-to-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "syT0k/wgutJx93j/rG4p1fCXf9kXnjt/ilKOb3w1HB+srPJqhg2nhLLycVUu7kIqgkb0A8Gb71J5BEvA7YdALJNnn7WI9rGv4N6fKI2EBx1ztK1bjo6msn546UcM0v5yXs6Sp7nt1/WFk7jV7Qf//yNBe0Cmwn2eEtL5hmhlveWblg2JidrqLUazdZOZTlxwS4CtvpoNzXzQrm6gHGJlGj2zPTwotoPT2k8H+NWUCKMpxgKQYrTTKwrYAKr60E/ZcNRaUSx/HHrPD7XIMWH5rVEFyF0vGrqC8N42uFCMM7Ltzmz/lqfKdnrXtKvZ5y0CAgegKw7lUwBKvZF+4yTmcr3oP9CgYHiRUghLaWNVAm0=;7/bfZ0ogDEvLUfLxsx1yeA=="
 ---

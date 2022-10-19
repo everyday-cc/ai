@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Ai-Da the robot sums up the flawed logic of Lords debate on AI"
-    excerpt: "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting"
-    publishedDateTime: 2022-10-14T15:54:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai"
+  - title: "The Disruptive Economic Impact Of Artificial Intelligence"
+    excerpt: "Artificial Intelligence is promising to disrupt many businesses and industries. While there is huge potential, we are currently in the \"between times,\" just before the true disruption is going to occur."
+    publishedDateTime: 2022-10-19T07:37:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 74
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790"
-        width: 620
-        height: 372
+      - url: "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 750
         isCached: true
 
 secured: "i8aBHZPBzBXo55Q+02ArOVQLvL2X8pWSL52y0DNsbigEuQoB0veuuTIv4jveqO0r4cUlK189lH2Y18FlvCnYGGdZXYukRFIy8cax8DsVhNh4BdVVkpnZ7iUd89z1g6ZIvmZuzJ/EKwOsWyjr07gcfzpGQyAdS+p2FHn1ZEMYtewEfzv54fIaQHmZxUjxalV3uXzzGx9CaPnbQYzfIJ+rU7pcP5cMkkuCUcFsqB3KtQUuJwNSXDltElZ49F2N9PIMG/KBdilpQhPCHQ9FAGKywIEeF9Y+QnzgVX0IAf+PaB0ud0jAes+rzXOHUes6jPvdEnuuOH/hSNBAoYqEFtdVTdF8S4gHnJFotX/LTRhH9T8s+uzXK+vLUZGzO9rEvk/B14SgRD888o0RGBdL7o3IYdJ1xpq1yNt4UcYtNcCnKTfDo0QKm6zq7qXXD34CB1Mab2kU9w4E3lEvzTBon2Wvn5bX34BfV6kiPFthPuyzZ6JR4EIndHzfIm01+xsiKqOT3ufIkmhArfiMJtQVe1xkIg==;CopkrzGoQ6SF2JltcQatqg=="

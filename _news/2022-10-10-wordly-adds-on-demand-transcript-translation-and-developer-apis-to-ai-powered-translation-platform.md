@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform"
-excerpt: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire"
-publishedDateTime: 2022-10-10T15:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
-webUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
+excerpt: "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ..."
+publishedDateTime: 2022-10-10T15:06:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
+ampWebUrl: "https://www.benzinga.com/amp/content/29203262"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203262"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "V6kZAcsJ1yo2K9wKTv623ArhdjFTSvsL9sBicquJ0DBcNpFReHMjTN4QmjYTy6at0nft9JJ4cyFEklLnzN20Yn+lkUJQjBGMSgEuaXfxuHXuityx5ZTirvuklQ8jqVxNTaNGEVClIaKK738mASZ51JkGwaV8QaH7cUUtA5xb5/jAxsJOVIKM9aowJ6dk6nvEcq2ojDdDo+WI+EVOrRwygXIXQFD44s8tr+7XMk8fzLsfbDF1H6rg/F7kF+1xuN685KCJU5GKfgx9en8DeIZsqwbR79SbENmLwUmR8wvEzmBLDjP17JvrQneoB2t7WBqEj9Io1se/huXUTy9ok4zhmILFuQa+DD5sWd5GAUvnmWg=;bNnJkAvVlm6DoA4d/4HF+A=="
+secured: "rJA2+gyVwtAHfUSpTT3uGa+79sFOVwDqziHLvzIKolm+eZB64/u9a8UA+XoMRrGne1X1ykiZ1QdqRPd71tby1MGhrWPc1dC04Ybfn8UdPgK1e8Voo2SRurvBxp9E/lj9oQVBE98aGVSLrZ7cqlDkM0WWN7BjHMuj9VXqgiJ+NZfsXyDUdwyAwu0XeiNR6b9wZ0ZkuzzMmvGvacSR6cMSMIdKEOhzJpgfKm8qOpi/YUp3kzq70V/RSQhwX2r3y7llDjSVWLdWRkC1vhWcwA6kK0yfv0q0hPvbO6ufnFzQv9Bvm8UTG+5x0GuQ2gpZQioOdaAWVFJ+DwfqZLnI40JEsjtWn2W12hxchNJjeqIaS7Q=;kThA9hX3U5ifPUi/VEXOxA=="
 ---
 

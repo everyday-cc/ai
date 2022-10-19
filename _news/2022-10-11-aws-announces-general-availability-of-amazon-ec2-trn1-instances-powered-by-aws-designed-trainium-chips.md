@@ -1,26 +1,22 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
-publishedDateTime: 2022-10-10T23:35:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+excerpt: "Trn1 instances powered by AWS Trainium chips deliver the highest performance on deep learning training of popular machine learning models on AWS, while offering up to 50% cost-to-train savings over comparable GPU-based instances Amazon Web Services, Inc ..."
+publishedDateTime: 2022-10-10T21:43:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
+ampWebUrl: "https://www.benzinga.com/amp/content/29208199"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29208199"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "x2qK75P5LoT9jvBTO/5d1wbSFEQLoOLdV7UXd6mDAi3B3/cfPbtDIxI5UfE6XrRL8zsYTPEmMSDe0wW+o2qZzC2hUMAwyvedaAo499TH18zG9B9NDLU4EZyteDync/VPmNoX8GE42VcVLTya66AFWLSbE9/iUZPlw1OoUaYITgxvEUH5lCnfQOG+/VbIo3Hlgx/8Qi4LkBu4Cv3xPj/ZPWnK9SWpgIuCKp2rq7YUwAf9KpXV+Oz2MMnAjc7CBFRMyJ5XF9DMtuc3hJcZb5lZ4s6gaLp37z0VAGjsXzfxe9v0MT8LvurfmF+vgXzV1kvMS/2dZL7EX26wW/Ua7vEIFpemKxXExXIyLpZYg2vrUiM=;cVZSgNItB7ZpaQqSE5Gzog=="
+secured: "2wA4iA6rV5EHFnq7CBG26XAfZ69NQK2PBemzn0Xfh6ALdzVSaHO3fv/io21jGWMqQPxwG11GN8VAO/+TLpzuAFC1ZeQO/oraU5cD4thod2OjKXCfAW0xf/VphBD3Pa/owZiP2xhi4/2Q4fBFG79cdMlDKvWew9oVnvWwZg7UbT/dWHuvmftY2eK4IimeDEkLeOrF9uQYX272niONOURQNduOgiqC38VstYZ/wyfgqmhe9DCcMJthn/ZzKy2nt3tFOJ/A0iebx91JUDk1nTopG8vJPMPY5U8XaD6SHgZL6qiVOArUIFADf4IH3gq1GkzeXf1f5tLg9QldJj6dxVNOyIE4K7NGm+9R8CLYJj1ARow=;lE9ozAm2bHkIr3QTONkBZw=="
 ---
 

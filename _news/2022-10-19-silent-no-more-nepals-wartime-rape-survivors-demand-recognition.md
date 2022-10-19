@@ -8,8 +8,8 @@ webUrl: "https://www.rfi.fr/en/international-news/20221019-silent-no-more-nepal-
 ampWebUrl: "https://amp.rfi.fr/en/international-news/20221019-silent-no-more-nepal-s-wartime-rape-survivors-demand-recognition"
 cdnAmpWebUrl: "https://amp-rfi-fr.cdn.ampproject.org/c/s/amp.rfi.fr/en/international-news/20221019-silent-no-more-nepal-s-wartime-rape-survivors-demand-recognition"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://s.rfi.fr/media/display/8b9a2f14-4f62-11ed-9965-005056a90284/w:1280/p:16x9/213d267f46fe07940104b020b6868867cd67c94f.jpg"
@@ -26,6 +27,6 @@ images:
     height: 720
     isCached: true
 
-secured: "Fj40Gajx6UltbYopd2jbbdqk2yv9R1incJo3xPWZjUcHOJzQ5tIHu7wEbNjtKmToYHDFzQATw66o3gLs3izH9lo2W8/Mo2aWlJv87uLbJHg9aMkEQkdebZsvbBk+/3U7OIHkMWgfH3DhnyUSiuBh49Mo2rDmnwyeNbcPyoZSWDBwpww5Z2zU+pjGfrO3t5nzJA2Mv2trRiiRao7n8jXTV7g9ze3KtXOit8afDqVGYki5I/vmff5jo8JENnRsFtkiTpBz1+VklV56Xrm/3TU4RtqCJpimjF4rZOizX6n8DPZ4OA5Idz7DJNNin2gmGwcwphz5Mou5Ku9JN8ZaJ2sUOzulxlUCN564HFmTufM6gLE=;5oHZWEp6hENtCPCyMi2vIQ=="
+secured: "6v1UpnKZOM+lX3if+ooyBnFSeB7QbbvAnNUfX3EzdJkz8kXBXHzIOFWN4npJ93HuuV30tiXaKU+71hbuMkaESWQlKSn7g/DISbW1ctWojy1GR3StcCuCbdH8MMqRSUVhzvdDqbfsjq1FHnfoe8ce3EtL2zbDlWtYdbTb+HR8CHxOGuLW2bqSjsUfFOBUCt/ptlMfmEc/ZfoXgQ21FKKYyVd2LOpDyLDmYZJGYcx20OhxE6g9mAp//ijl86zxfP0C1xwUmUNPoSIbgc8Jdy5Utqb67IGlfy2S+qBd+rOGoR9uu2i1hYvbj6dxLO4qecOWCts4RmETJ8eW+wvHTM7hEp25wk5JU3+2QdWzJ7PGqvacDyKnkCTBcXBSW94o7IpscmxgVQYer6XYhPxqhT5cSglHThw4M36pGuckAJTvoCA6RuuGXfDqGXkLflhg7NE3Rc2RwHpF1JgfbZLl0lwXpp1cIf8rvuLKpnXgslIPzxvx+PyORPaAKmNOaGECXj/gqh25OZTmiRqVBrj0A/RlyQ==;XRN1xkai+dHrO89KlJLrQw=="
 ---
 
