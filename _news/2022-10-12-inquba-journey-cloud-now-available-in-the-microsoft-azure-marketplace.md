@@ -1,26 +1,30 @@
 ---
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
-publishedDateTime: 2022-10-12T15:03:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
+publishedDateTime: 2022-10-12T13:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "+1A24jUv1COHF3ZHKSH8TB/c6dCpP+yNWgxcJcbX+41b0ku6shrrs4LdG70mbVgEzzGCjf6RwPaisULQqsTchMO2RptEwqJN9Gp2lN60BEYixs/Msc3TdyREnRpwxMc5cidK1yYrNDbCC+xdIu7DoJsUtvlG2+GNq9yDGHdrM20jt+Qw8wNvv3FAd8pWZeeGCWh13ZpBTis53ih4AWZsLdYEyheizuD+jUbbtZe7mAy6FJcYz2uABwzPFkzWnAgbaEXafY/YF6WX3mEPoXkVkUefcgb+UN2GZS6jqlWmz5gKGQp7m0DBTDORBMmeZUWWSyguUA0x7jZu218E89W3iBNZxQJ96HEZY422nuLP4Fo=;tyDUo6E4Y9cXcRtlX8Wg4g=="
+secured: "TglhncS6NigES1KkFefL2RTIbaxOXxiFlqhGLSowZLNdWACliRpl5wrIv8E9+tPRzdqs4Mg+hmE5jO8vCqemSOyV8Xkso2aCPnk0myLm6YIZhfwqmhzlCCUq/6Gus6bP2x4CcAV0sj49npBAefwNSPv8bzyiRssWCpNaxy94jg55vru7ZsFllbqab2X5LXEg4PMxbTfHyJYgHnQjSeKXb0GDGhSq6jsopzAQcXd6pfyU351385wxS6UTfgIjVI69sVWdALP/qw6AsJ7lCKKHCjQvOTw0h2KHM2An0ZRTTx9WHZ3edChgUDchIy20TlehBnxfDKK48LllkbuV6dIk+iuoI7Qh4KGi2LkpVmoeH1o=;VT6NUc1oH5zg+1TFqd44Ew=="
 ---
 

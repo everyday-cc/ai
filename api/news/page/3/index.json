@@ -2,6 +2,111 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
+      "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
+      "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
+      "originalUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-can-machine-learning-help-prevent-business-email-compromise.md",
+      "title": "Can Machine Learning Help Prevent Business Email Compromise?",
+      "excerpt": "It's possible to prevent phishing and BEC, but technology can’t do it alone. Trained people and AI/ML working together as a single unified layer—not side by side—is one great way to beat the clock.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620516d86fe879bdc64354fc/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 806,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
+      "publishedDateTime": "2022-10-14T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
       "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
       "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
@@ -294,6 +399,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
+      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
+      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
+      "publishedDateTime": "2022-10-14T01:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029.md",
       "title": "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029",
       "excerpt": "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
@@ -342,6 +499,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "AI language models show bias against people with disabilities: Study",
+      "excerpt": "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1665719039.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1042,214 +1242,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-transforms-linkedin-workplace-conversations.md",
-      "title": "AI Transforms LinkedIn Workplace Conversations",
-      "excerpt": "An in-the-moment diversity coaching tool from Workhuman helps employees use language that makes everyone feel at home",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
-      "originalUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/633b3c50dc2b0a44046db89d/master/pass/Workhuman_HeaderImage.jpeg",
-          "width": 5151,
-          "height": 3488,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/sponsored/story/ai-transforms-linkedin-workplace-conversations/amp",
-      "publishedDateTime": "2022-10-13T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
-      "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
-      "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "originalUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "publishedDateTime": "2022-10-13T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-metas-vr-headset-harvests-personal-data-right-off-your-face.md",
-      "title": "Meta’s VR Headset Harvests Personal Data Right Off Your Face",
-      "excerpt": "Cameras inside the Quest Pro that track eye and face movements can make an avatar’s expressions more realistic, but they raise new privacy questions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/",
-      "originalUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/63460f406f81dc98cfa7d064/master/pass/Meta-Quest-Pro-Headset-Privacy-Business.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/metas-vr-headset-quest-pro-personal-data-face/amp",
-      "publishedDateTime": "2022-10-13T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-natural-language-processing-with-apache-opennlp.md",
-      "title": "Natural language processing with Apache OpenNLP",
-      "excerpt": "Natural language processing (NLP) is one of the most important frontiers in software. The basic idea—how to consume and generate human language effectively—has been an ongoing effort since ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.html",
-      "originalUrl": "https://www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/conceptual_communication_language_listening_abstract_alphabet_letters_by_siphotography_gettyimages-680793824_1200x800-100757284-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3675893/natural-language-processing-with-apache-opennlp.amp.html",
-      "publishedDateTime": "2022-10-13T03:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

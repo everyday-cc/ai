@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
     excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
     publishedDateTime: 2022-10-18T13:31:00Z
@@ -98,15 +84,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
-    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
-    publishedDateTime: 2022-10-17T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "mZ1qEULtLXqe8vY9MEqyTvrRR5y/FpY9fvHbugAxHs0S0z0e4ciE5wujp25acAUU9jOn5zNnzz+QO60dT/yKjPA/LXgFi7t/Pxan4qy/CzyS+wM6quq1IL3Djz7kFC3+rYP7uLYVO/QhvOQs81p9mxHey2hw9Wh/M4J5hwyvLO7Ox9dvryyDOG7cBZKlrlYVxmn75hgI3d16cpoAN5KEUqT5KkblPW2qizPu4ei2j0be4JjYDk94mTTEnfZJPTiZrNC7i+PCuy0LP64TARMdyQlZksjLI4/jlY3FryIoAp4s4HNWoDNdAoxJFVvPRJ+mNgt2FlV5n48BmaPBQAbuUhCYi0nrJGZ84WeayjI3Xn8=;IeNEboxned5W8LOFkoa4RA=="
 ---

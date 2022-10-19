@@ -57,15 +57,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
-    publishedDateTime: 2022-10-17T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-acceleration-module-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
     excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
     publishedDateTime: 2022-10-14T15:10:00Z
@@ -80,20 +71,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
-    publishedDateTime: 2022-10-17T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 26
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
 
 secured: "7X3BkMHWfD33kttmswQwxSIVrMMYXKcKjX15brkLKPHnSe7bMT9BhFa8q0UoCfKgNRLDMy9VrAWdzCeFCozsIb4grfW07+BuYeSK232NXwd2cZ8S/2SVBccp3wSyWlcsCBSPWIi3d70Pr5HiNew6TVVcQ0ipozR1edWAET8Iw+3L95JxLOiRAIyttUgYTMLDSNpzs5s1qNRVEHHjCuELonZPnNxwfMThWylZG3pOg7lOsa2yh68/ZIQVFuUO3L3FXihkUwMZaA15r8QMk4HFVHCV293/D0yAJhr0wqNI01Rino+AGx6XUNJ3XtSwR3bt4I0hr05LPZRVojpxAcmaHTngT86uf9of3sXaRktHOzxCc/Eq57DGz6OGUyQ0EhyiHp+tE38qsWgcZ6e+yvYZqqwG5PS/1WK0WiJuxI8xYYfVDR18SrVP7YKuUToskoGSLzTLDyw4+ojqJyWeIuqLLte5gGUnBzS5eiCwV7Piz1b/ON4UJ9J8l1aAMztirMKihYKH2HM+wfy4mot3xteEGg==;UcfLheSesdeQPUfsk+mlAQ=="
 ---

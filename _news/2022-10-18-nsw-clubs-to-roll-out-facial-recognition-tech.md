@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facia
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
         width: 587
         height: 330
+        isCached: true
+  - title: "Facial recognition cameras to be introduced to ease gambling problems"
+    excerpt: "New legislation will introduce facial recognition cameras to NSW poker machine rooms by 2023 to detect self-excluded problem gamblers."
+    publishedDateTime: 2022-10-19T02:02:00Z
+    webUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/10/461208/tn-pokies2.png"
+        width: 1080
+        height: 607
         isCached: true
   - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
     excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."

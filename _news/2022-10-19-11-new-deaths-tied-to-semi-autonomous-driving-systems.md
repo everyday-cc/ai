@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-sys
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp"
 type: article
 quality: 74
-heat: 84
+heat: 86
 published: true
 
 provider:

@@ -24,52 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
-    publishedDateTime: 2022-10-14T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
+  - title: "Omneky uses AI to generate social media ads"
+    excerpt: "The company wants to make online ads both cheaper and more effective thanks to recent innovations in artificial intelligence and computer vision. Omneky is participating in Startup Battlefield at TechCrunch Disrupt 2022."
+    publishedDateTime: 2022-10-18T20:27:00Z
+    webUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/"
+    ampWebUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/omneky.jpg?resize=1200,675"
         width: 1200
-        height: 630
+        height: 675
         isCached: true
-  - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
-    publishedDateTime: 2022-10-18T00:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
-    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
-    publishedDateTime: 2022-10-17T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
-    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
 
 secured: "kNSnqy+z5E30GGD2wl4UbwVpTTfOdVfHQieqzS6jFLNVIJxR0OpUQ+0Gk3CFWT8PmTjdENk9LXyHUkqMtcXHEFgeLAvOljb7MklaPPyxE1X7zjk2YCWuU4chdbbiL9hbtfulm1if+PHKsVbaf0vLA79ejVXpjoMfJRS7iKhzgCU/hk6f+o8YXvUXoX26ANjucz+WAIogHpjVezg5Ge6YllYuG4+S1ZgHj5IdJcpy6vl1ds7wt5rwkitjokHFHkh4DTHL96L4lkYENlrOmg3oAXw9VwCJDu3OTQXbVMArxB3RbPN68iCZbz+E2e3cEBr89C0w0WdNQcUK12Zgp2FBWV23lZmPLB4TGn4Q4wdA01kOhaMLW54LYIGpNdEAzKqVcC0S9Gu2ONSJWiG86esmoAJQiu6vIkzmm5E834l8WWttMdgRMVgDzaEAvgvz6N7i+s7V0t6OYTOgwW7fvMJuAHCH6mOFKprcUDcbCGA3d7SpIfUuuF31vR0yvd+tRbsEkK3HGI3/7bl3a3zqKWn8/w==;WY5VU8i+xlR9GNPXzKnX9g=="
 ---

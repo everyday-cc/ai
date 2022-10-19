@@ -7,7 +7,7 @@ originalUrl: "https://eandt.theiet.org/content/articles/2022/10/ai-language-tool
 webUrl: "https://eandt.theiet.org/content/articles/2022/10/ai-language-tools-discriminate-against-disabled-people-study-suggests/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI language models show bias against people with disabilities"
-    excerpt: "Natural language processing (NLP) is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of appl.."
-    publishedDateTime: 2022-10-14T09:10:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94855381,imgsize-23140,width-1200,height-628,overlay-etcio/ai-language-models-show-bias-against-people-with-disabilities.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Common AI language models show bias against people with disabilities: study"
     excerpt: "But new research from the Penn State College of Information Sciences and Technology shows algorithms behind natural language processing (NLP), a type of AI, often have tendencies that could be seen as offensive or prejudiced towards individuals with ..."
     publishedDateTime: 2022-10-14T18:36:00Z
@@ -55,15 +39,6 @@ related:
         width: 900
         height: 550
         isCached: true
-  - title: "AI language models show bias against people with disabilities: Study"
-    excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
-    publishedDateTime: 2022-10-14T15:59:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 19
 
 secured: "0uXFRs5VkGJa9q/fGVrO2S1gvtjRlLmtEtzQ3wxdNaqw++D3xCKHTW4RnXZAB8qwCgAwDw/paHXJV4m8joGv+kpMpw/dXO4Wi64Jx45VfSJIDlIFEWcCTJPUJMBudn+vbjBa+qaxuNTioFjjPnwj+WLq46EMDSqIYifYkgkcKjJA0/03V92D4dcs46NUdnzt3aidvrilPrccGQ/fOyRnSSsXo8zFRg6K7ePwfMe0ZLczEXzivMynAREEf7wgGjJZytRUWPRfECE6/mLTirmtilcTVOOoSXqi3N28kQKPtsie5S2zc1lwOY0xG+oqQ17gByJGpZF2YzadgdUximXFn9UO9Vk7vN8ABZlt5G6+E7M=;TKj2JnSvhpkntmtQaaNmow=="
 ---

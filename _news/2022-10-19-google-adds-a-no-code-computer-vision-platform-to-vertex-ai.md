@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-c
 ampWebUrl: "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/"
 type: article
-quality: 104
-heat: 104
+quality: 106
+heat: 106
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Computer Vision
+  - Microsoft AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 640
     isCached: true
 
-secured: "rJbaOg5aEZR2LeGOIcghFJb789s8CtRPi6LNAMilOam4fmisgiEFU9UV5MuBzHcQi2keJ3wsUFon6+AvElq16idSJcOd9nk9vQ2GCfv3X8AD9TJY1RRix8JlOFB0CmDrTCkCJQVmRi25FRCt9ZbLYUNb+oZnmcF49Ydjk+KOdkQ+nweOgSrY8vSmtZBP8hoxzKhJpscePHjwc4eSg4hG5oisdU8Cp9ZFbAY/sE+fSvP4AZOO9F8uYD6o6OV/XOgndyiRR9ngafT8/+hyDCuXsC+66qNz+6uV4Y2HW1NT/E+e+7tieMyQhs1diLGEK8wwacQFaIZ7iq2YcD2KO9VQN3OIgOOfS/bITW44QNlVh90=;YN5bYqmT06pFLvE1NN74nw=="
+secured: "buX8j9uOD9m+GhU255+CpBI/L5vs/7SpU1A6vXLHfEehZk3GU9ArSoTOVPluRGFi3BKPYFAL6XAmLYxB5em3muuDSN3pRBly66Iv7YRhP1x22OR6wHO9lbTYkehJdsJgvZVVYwlfuwVsH421qAtEwn3WYTVbly/UEWtTxj9beG2mnEVWl/Fndgniz1mlKmPeRrAZbRzK8Y4MUvsJH/apbEq/zbNTDsrisvaS+HWtdCjBUjirJsd5+sFYBEgLqEDa1VBnO6vtE4Wd17PrbmUkA9Zreud499CMbAhNpSlQ09qRHApv/BrqbrgtqsbB7Asx22SHT5NHmZzu51X8P0hVUGZPeNV6y6niQyuTwhdc5IoEGD6l0IZvdexKJuC0PdxxOIFymqW6hdDjklPrFbkZN4Gy7WjRxXuxiuKGTHmRKfNfBAVfVxZ+BOlAdJ9rTgqVyAYg2zVFZu9jxU+UeAaO8vBWxgDSnsfteYwW7EyCpQLl00FRujLpko3DutDJsUF6mV65yO74j4/mH21gmrz3wg==;iLyY5T6qG980Io7/xMAFNg=="
 ---
 

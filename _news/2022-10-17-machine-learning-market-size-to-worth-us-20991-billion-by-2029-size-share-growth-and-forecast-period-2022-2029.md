@@ -60,20 +60,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
     excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-18T04:17:00Z
@@ -97,15 +83,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
-    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
-    publishedDateTime: 2022-10-17T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
 
 secured: "9XBLRIIobmT77fgvc0MnsrepqyVPv7dxG8A9LCqkZRtiG7aIEicu9qZcfoV5RIo3facoPe4bQEOTkqJoB1s3lR6hcSQAq4cPhOFu3P55YfO+eTEXudRJhmWmzfR80PMZnmxofldK7Gj6/+QZszjdpTkGoX53heUn1qVHWLl67TmciCjXoH+fjZez3z9EoAqnJbZxUKG2XJ1P5uHHPbIEONESeE8b1FaL8Zw1YCz0GD3vq898diWOjc4MItfO5oeckaUzSIm2AVu0kIOc8JFlxafqG5oWPpHAeGswKoFAbgQvPh46QvHA6A3fgSKddXXAn839pUoSBg3YEfe8C/mYR6yx6LX9AuYtO7iQ4uWgi1w=;SwwDQ7H7edabu84qZb4MlA=="
 ---

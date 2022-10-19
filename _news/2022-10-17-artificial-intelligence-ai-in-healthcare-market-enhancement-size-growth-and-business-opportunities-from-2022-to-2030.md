@@ -89,24 +89,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "Artificial Intelligence in Diabetes Management Market 2022 : Global Industry Overview, Sales Revenue, Demand and Forecast by 2029 | 109 Report Pages"
-    excerpt: "Oct 14, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Artificial Intelligence"
-    publishedDateTime: 2022-10-14T10:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-diabetes-management-market-2022-global-industry-overview-sales-revenue-demand-and-forecast-by-2029-109-report-pages-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
-  - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
-    excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-14T09:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/3d-facial-recognition-systems-market-2022-2029-industry-analysis-by-geographical-regions-latest-trends-share-type-and-application-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
 
 secured: "6SbD4HdM4BrNqF4nfqPcjAP5KU/rhBqsX0UyV7ZaI9otlRUkyxeYoXBKrxVlNucilAJlEAeth5UYqmiFvkoXGvZLw2Ayqk2ZP4Ss2JNNvoyTYALupFGbLnwbJQChUSvhzCX1UdmuffAlYmoQXCoDbk8S8+KAPFgG+eQROu2mwSOP0KW/9Gzty74Ah66RZi46xNPhSTcQWaHQ2bVnTQPFkRuEC8C662xlnjkrP+PaDiv1nSm+awcFzjPDvBfcL7bZNwRRnINqUtsJ+zmXDriMQ8frWLsyOPtqLAvrQNJ8LaQlj9a+E0dVz7pJBMT8E/Apkwu/oK3ozXdWzO38M7k+FnjfqGdwkJfB9TfysAd0YpE=;9FuW95FB6kVrK11G0CFBLQ=="
 ---

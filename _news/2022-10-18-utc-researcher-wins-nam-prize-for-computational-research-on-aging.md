@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of ..."
-    publishedDateTime: 2022-10-14T10:23:00Z
-    webUrl: "https://www.galvnews.com/news_ap/business/article_f586283e-132d-5dab-b014-e4ceeaaeff68.html"
-    type: article
-    provider:
-      name: The Daily News
-      domain: galvnews.com
-    quality: 10
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-        width: 600
-        height: 338
-        isCached: true
   - title: "UTC Scientist Is A Round 1 Winner In Global Research Challenge"
     excerpt: "The race is the U.S. National Academy of Medicine’s Healthy Longevity Global Grand Challenge, and a research proposal by Hong Qin, a UTC professor of computer science, has been selected to advance to the second of three rounds of review."
     publishedDateTime: 2022-10-17T15:11:00Z

@@ -23,47 +23,47 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Agriculture Market Size, Share and Forecast till 2028"
-    excerpt: "The \"Artificial Intelligence (AI) in Agriculture Market\" for the manufacturer's goods consists of the following factors: shipping, pricing, gross profit margin, revenue, company distribution, and interview history."
-    publishedDateTime: 2022-10-14T09:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
+  - title: "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028"
+    excerpt: "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976."
+    publishedDateTime: 2022-10-15T03:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 75
+    quality: 66
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
-    excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
-    publishedDateTime: 2022-10-18T00:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
+  - title: "Robotics Market Research Report 2022-2027: Top Companies (ABB Group, KUKA AG, FANUC Corporation)"
+    excerpt: "Robotics Market IMARC Group expects the global robotics market to reach US$ 87.2 Billion by 2027, exhibiting a CAGR of 17.6% during 2022-"
+    publishedDateTime: 2022-10-15T05:23:00Z
+    webUrl: "https://menafn.com/1105024393/Robotics-Market-Research-Report-2022-2027-Top-Companies-ABB-Group-KUKA-AG-FANUC-Corporation"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 41
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/15/EP_d57b6image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Intelligent Speech and Voice Recognition Market 2022: Key Factors and Emerging Opportunities with Current Trends Analysis 2028"
+    excerpt: "The Intelligent Speech and Voice Recognition market is expected register a robust revenue CAGR of 23.13% during the forecast period and reach USD 33443.25 billion by 2028. The global Intelligent Speech and Voice Recognition market is quiet fragmented and consists of players operating at global and regional levels."
+    publishedDateTime: 2022-10-14T15:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/intelligent-speech-and-voice-recognition-market-2022-key-factors-and-emerging-opportunities-with-current-trends-analysis-2028-2022-10-14"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 68
+    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) In Social Media Market to"
-    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
-    publishedDateTime: 2022-10-17T17:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
-        width: 400
-        height: 225
         isCached: true
   - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
     excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
@@ -74,6 +74,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
+  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
+    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
+    publishedDateTime: 2022-10-14T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 22
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "mDy/vyv48IvrEfODHXpQyffuVwLDBq53P3t71QGc03HxnCFEyeu59gfMlmA9fwOYtGg0OLx2G+jQOuMRbCm6eCP94MA6kry2czbKWbgHGhWVW/KHdbIA/Y190tfyYpIrMmCKi3dNM7MgqYYSI/hmsHU9+sK0dp6ty+Qr0a3OUuBEKGGMYq9chSzUMFJ7AiM4Rr3Eon4l6M2WiJleEoxAZjsBw3XAIDgZt1l5GRHq1vXouoXjFuhadyAafXNiNBSEdrg+pGAzuUpcsZXInf5lurydNUBzxIzZ3qMdOlJPs0ubTBqRsWMZ+i8+5IOiEak26d9Oa3utOXqoYLXxgfQJkBHn7nEE6rgKCAp1cCXyE9o=;R8IqqLYUdp+CvIE8sHmdRA=="
 ---

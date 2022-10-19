@@ -29,75 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
-    publishedDateTime: 2022-10-18T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
+  - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
+    excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
+    publishedDateTime: 2022-10-18T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Access Control Solutions Industry Suppliers Companies And Procurement Intelligence 2022-2028"
-    excerpt: "A novel report on \"Global Facial Recognition Access Control Solutions Market Size, Share, and Trends, Forecast to 2028\""
-    publishedDateTime: 2022-10-15T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-access-control-solutions-industry-suppliers-companies-and-procurement-intelligence-2022-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market To Shows Huge Growth Over Forecast Period 2022-2028 | 118 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Machine Learning as a Service (MLaaS) Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
-    publishedDateTime: 2022-10-18T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-shows-huge-growth-over-forecast-period-2022-2028-118-pages-report-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-  - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
-    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-18T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
-    publishedDateTime: 2022-10-18T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-global-insights-and-trends-forecasts-to-2028-112-pages-report-2022-10-18"
+  - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
+    excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
+    publishedDateTime: 2022-10-17T07:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-acceleration-module-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 27
-  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
-    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
-    publishedDateTime: 2022-10-17T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
     excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
     publishedDateTime: 2022-10-17T09:58:00Z
@@ -107,6 +61,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 25
+  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
+    publishedDateTime: 2022-10-17T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "Ezuk7v4K4NYHlc4FC6WeKcnL1vewc8Pvrm6yX/VNb+XzMfpIV2E4O6wbS5b4jXNRreLv6vrjmah/xZkJ66MfRZDIFguEVPUDVoMe8uEbxckh0oHORKIvZvRi8yiFIKhxAehrwGR6571lw8ygCju8+zso8xMgbAyd22425BgK3CnJPtGN1ybETJbQGpf4IB9tlB+ra1gyoIJ21QtImBat7ByQIr068jP7TJclWWPfmSDagP5JrxSaMuZQQojZ2xuxWmrI20mc0FK6gSTIcqsv8s9zkBQVq5wfbDrSAHdH5/65vdoWdiG9KfQe6d1lgPut+IlrvqGM4D0FVO/c1yF+StLj/2L3/25+/oXlg0MjSYI=;YMIDNQEXyGogTvDoAq/rVg=="
 ---

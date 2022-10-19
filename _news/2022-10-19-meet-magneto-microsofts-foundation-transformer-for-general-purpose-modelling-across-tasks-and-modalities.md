@@ -27,17 +27,6 @@ images:
     height: 320
     isCached: true
 
-related:
-  - title: "When cloud hits the road - how automotive manufacturers are tapping into Google, Salesforce and Microsoft to drive transformation"
-    excerpt: "The Connected Car has been an emerging theme in the automotive industry for some time. This week has seen three major announcements from three separate cloud platform providers about how they’re aligning with the disruption in this space."
-    publishedDateTime: 2022-10-14T10:10:00Z
-    webUrl: "https://diginomica.com/when-cloud-hits-road-how-automotive-manufacturers-are-tapping-google-salesforce-and-microsoft-drive"
-    type: article
-    provider:
-      name: Diginomica
-      domain: diginomica.com
-    quality: 0
-
 secured: "cHsZUBnNdApc8KlJ8GvhtTdsiZqh14AsRH8NPJaJ1rvdoy6Gvvz1XtzksToj2Gi4udP6zRxxwgZQ5M4vhwg2VN4AMXncVDN7fNSF7vmWdyPcLkt3co2IB1QAwlu9lotPXEZFL4ZlvU80bqCBA2jiF390cBGK+Y0wd6DchMhZB2acZCiQsFfeYM/nhgXygRJNdx3Y0giouY5wvUh2eZjLHWT+PC92hb2gvO5QsjwrT4offEbkzHllL298WiBp02mgi8hd7jIQqpOQYUHSjLol4uxX3GbZUN5hzXbQGH1GJgCAjUfWmf7OuivwqUOsxKTWH8i7DiUE5s2pyc7oYZYurELYKcIvvceksPS8LSrlNPI=;FVrRRWuvh7uxNQtcDxm0Cg=="
 ---
 

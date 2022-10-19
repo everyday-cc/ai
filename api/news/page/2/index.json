@@ -2,6 +2,93 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
+      "title": "Deep learning tool identifies bacteria in micrographs",
+      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "publishedDateTime": "2022-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
+      "title": "Ambi Robotics Raises $32M in Funding",
+      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
       "title": "The Chip War With China Is Just Getting Started",
       "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
@@ -166,7 +253,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 83,
       "tags": null,
       "images": [
         {
@@ -1112,7 +1199,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 153,
+      "heat": 133,
       "tags": null,
       "images": [
         {
@@ -1154,111 +1241,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
-      "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
-      "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-can-machine-learning-help-prevent-business-email-compromise.md",
-      "title": "Can Machine Learning Help Prevent Business Email Compromise?",
-      "excerpt": "It's possible to prevent phishing and BEC, but technology can’t do it alone. Trained people and AI/ML working together as a single unified layer—not side by side—is one great way to beat the clock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620516d86fe879bdc64354fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "publishedDateTime": "2022-10-14T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

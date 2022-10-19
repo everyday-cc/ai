@@ -18,6 +18,7 @@ topics:
   - AI in Robotics
   - AI
   - AI in Autos
+  - AWS AI
 
 images:
   - url: "https://media.springernature.com/w580h326/nature-cms/uploads/collections/NI-2022-AI-and-Robotics_hero-86c399ba1a58c256a187a05046075672.jpg"

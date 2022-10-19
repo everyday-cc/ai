@@ -57,15 +57,15 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
-    publishedDateTime: 2022-10-17T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-acceleration-module-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-10-17"
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 26
   - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
     excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
     publishedDateTime: 2022-10-14T19:02:00Z
@@ -80,20 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
-    publishedDateTime: 2022-10-17T17:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
+  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
+    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 19
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 22
 
 secured: "ALftZPqE8cPqs5eyPP7SEngfFroh3NdzrlOt+BX5D2vPc1r7D5uJNmSK1WnOAt6rAI6l+JIqzvXoMzaI6FOW+LDAfztYeWt10jtKWqY415H50tLw/DjPH4Iw7IJi49ruhLIlBNXGnc8lJfR+b+mjoWu2u3tqwsxVmiRBcw7aMiZcOuaYliqeOODnbeJ+hI8PNnubvA1WElMjo4CqZmLtZXO26Go9HZG9Lc/1yQXRI5xY1wOK0IVmIDrS5FAuZSAXBsO1bVDCaDDjvhYwzUbE0VL3exvTTRl6wSrE1LltlXfB0QqC5bTLsheykHsp++VpwBEEYJXv6vPgxGA/fz4k9GWbsOUBpHEGnEekXtEgk0Y=;Yj1IFEsaiiKtDtasiCn3DQ=="
 ---

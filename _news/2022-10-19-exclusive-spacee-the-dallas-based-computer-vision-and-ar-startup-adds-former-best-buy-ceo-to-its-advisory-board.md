@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-18T23:50:00Z
 originalUrl: "https://dallasinnovates.com/exclusive-spacee-the-dallas-based-computer-vision-and-ar-startup-adds-former-best-buy-ceo-to-its-advisory-board/"
 webUrl: "https://dallasinnovates.com/exclusive-spacee-the-dallas-based-computer-vision-and-ar-startup-adds-former-best-buy-ceo-to-its-advisory-board/"
 type: article
-quality: 17
+quality: 19
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Former-Best-Buy-CEO-Brad-Anderson-has-joined-the-Spacee-Advisory-Board.png"
@@ -40,6 +41,6 @@ related:
         height: 464
         isCached: true
 
-secured: "fnUqM1616zD3edR5RtG8D0BbAaX1U4hxOU55vSAimk5yb60eP9o5pgTKDjSfQjR4uqhwmyS1LuSsaFUMje+cr/Ttfu2NUyUkE3fm5z/QzNgbAPNNmgHCqhArkm1R+81mEc+VUbIplRpe2Rkg+guyRba9evTdOHFhCjefA4KoHwNzIC6ojcccPNpocPnehosFdT42QHXyi8vvA8A7KZD9VcmM/Oqb3XvVeF9jaqP2cuEW7chlCkzTw5XvqecE9/Rgn6EHLMDAT806ypnz0CoAM7ouDu0c9kIooAA+tv2wDdC0nfOYXU0gkYnp0xMens5dw6Ue9QgZKKPoZuPq57bX9VPJx3TILw31LQuakn/MB4s=;hjnDiJNaa/qZi+PVu5BwSA=="
+secured: "zJ1TBHfL35A+kI8EzSJLShoh1lXykqB/Hr5DQSI3OD+RpwgrjyzT3ZzJeihQlMTbU3XArteow+6/sKJojodDCZ5uBM+3NO5ccJvDGIijLTCp7ZxiTnI7EIDVkNJR2bWeTKSfvdAX3su2x02x3H+hMs1n7847BsWTW8kwkcyAlfntPi9MBTwII2GfmOzTu/dU2jcyRNgUMDKYgLKUeqEfrJK7qy9m90omUIgtIFfGjDGgLAeDk4UHvbbtOVLAq1bgJu60d187dRRI4r9K9IZzf+znk4aBgUX2wf+PTRCJMXktVkBFyA7Y9brRSO4fF1swVoF8K48OUkVj5OIQKF1GHMAWwgbsMnsSwdS2ZKCn94PEoVOTNiPJfDCvd1arAe5ZQhQ+cT8JDal4k9nxWOki/ZoQiJybblJ1TssIzebpwIKo2eCqXW4Yq4H5+ObqYynnPTiM5yiyk0bu0gZSARs3dxasDJ64IANL3l8JubabeEDwN2aKzo5EfsN6erHLDbwVkYBhIHZFKG0H6RCz9SYYPw==;E9n8WJWPfXuFwn8pMdDhTA=="
 ---
 

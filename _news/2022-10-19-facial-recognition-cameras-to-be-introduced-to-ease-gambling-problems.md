@@ -1,33 +1,27 @@
 ---
 category: news
-title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
-excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
-publishedDateTime: 2022-10-18T22:59:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
-webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
-ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+title: "Facial recognition cameras to be introduced to ease gambling problems"
+excerpt: "New legislation will introduce facial recognition cameras to NSW poker machine rooms by 2023 to detect self-excluded problem gamblers."
+publishedDateTime: 2022-10-19T02:02:00Z
+originalUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
+webUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
 type: article
-quality: 47
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nine News Australia
+  domain: 9news.com.au
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
-    width: 620
-    height: 372
+  - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/10/461208/tn-pokies2.png"
+    width: 1080
+    height: 607
     isCached: true
 
 related:
@@ -47,6 +41,22 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
+    excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
+    publishedDateTime: 2022-10-18T22:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
     excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
     publishedDateTime: 2022-10-18T23:44:00Z
@@ -62,20 +72,6 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
         width: 587
         height: 330
-        isCached: true
-  - title: "Facial recognition cameras to be introduced to ease gambling problems"
-    excerpt: "New legislation will introduce facial recognition cameras to NSW poker machine rooms by 2023 to detect self-excluded problem gamblers."
-    publishedDateTime: 2022-10-19T02:02:00Z
-    webUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 39
-    images:
-      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/10/461208/tn-pokies2.png"
-        width: 1080
-        height: 607
         isCached: true
   - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
     excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
@@ -98,6 +94,6 @@ related:
       domain: news.com.au
     quality: 19
 
-secured: "J/1gU/f6kT0SZf0ZsIkTmFKTP0sYMe5hZ6YyUip5FdkIzQLzEwycEaD2pJ1kQ/yjzPGtalIuiAhdI3cKB2P/nx7aHZdsYDteOsF6VQlETykw3YXMNHgXv6+hMCdBQmNvttlIrrUV7EZ4eMNSvuqZNIeZmVtDGQn97RayUHvMMZeZP+A4kSU3Nfm86H3cSV+6TMz/WepnbIDvt8s1WE5hHWJfYnQdqoqwbpjUfZZM74kzCRemyjHdD+MdrWRema7gx0qrqYZTLieysuGznfxmNvcauqsz3Lq9tpl5BYQK2xssGqte3t+ycOeeOjQmbSD9RNebzytm1JbE3kncQ0O7KblBe+izfWwykRxAiQCxFiTd2o5KLDPGRbJFTRR5TB3WMHoTKYoLToKIs7lNjARaySKqJoksVAMcQyOyoce0Xn5mQRHn3Mciej6p7w21wGJu+aGZLkkkXNk9baM2GU1TCUKuzyGU6njz1uAINDdqOGCOipFfAnOqNDmNzZbqKWFSbs3buspdVu6zVJaaBO4Jwg==;xD9bS+fjCUV5RIzdZOu3IQ=="
+secured: "/tqK8ZzQtanDKrQ1HLvaWxgPkAtGy99RXunsk8jzPp4IAe4xWGIBkDSpOnVzRBNeofp7IhpARWDDhgiMY6PVRbOEysFYnXXHfJypApNzE6Wr9yV/+zosWyET2MWO+QXCSULyvRbpzCxZMUQhFR9H85LX0C7NDZ1g+pHveWwTlLprKVA3W8bRuM6RZXDE098RNN5X0Ek8AG0M/EMh/KZtxd2jR6drIiIlkliFcqa5SP41Or+16jY2LMeAPaZekiU1hguwokHpQCoaMgipluVmuub97I32qp8QCbJFcNefxq+waDURFS+ar36pnsk0oUIcmt90SxcGzMbqdWZPcaQw/089Ut7qgxfyiz3pzz5D8Ks=;Hwse41AobrUvQ67AFKdJQg=="
 ---
 

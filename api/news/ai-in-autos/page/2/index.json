@@ -2,6 +2,104 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-07-recent-advancements-in-artificial-intelligence.md",
+      "title": "Recent Advancements In Artificial Intelligence",
+      "excerpt": "Over the last few years, artificial intelligence (AI) has worked its way into every area of our lives. If you’re a programmer, chances are you’ve started working with GitHubs",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f57db71653ff9e8e4d10083/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 639,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/07/recent-advancements-in-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-10-07T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-industry-voices-artificial-intelligence-smartens-up-manufacturing.md",
+      "title": "Industry Voices: Artificial Intelligence Smartens Up Manufacturing",
+      "excerpt": "Yet, as the digital transformation continues to influence Industry 4.0, we’re beginning to see the convergence of automation and IoT in the form of AIoT: the artificial intelligence of things. We caught up with Jens Beck, partner heading up Data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation/industry-voices-artificial-intelligence-smartens-manufacturing",
+      "originalUrl": "https://www.designnews.com/automation/industry-voices-artificial-intelligence-smartens-manufacturing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_70.jpg",
+          "width": 1540,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-loblaws-driverless-trucks-signal-the-beginning-of-a-new-age.md",
       "title": "Loblaw’s driverless trucks signal the beginning of a new age",
       "excerpt": "Loblaw’s L-T debut of its driverless delivery trucks this week points to two major phenomena affecting the food industry: how the battle for the proverbial “middle mile” in delivery is ...",
@@ -349,24 +447,33 @@
     {
       "path": "_news/2022-10-06-artificial-intelligence-may-improve-suicide-prevention-in-the-future.md",
       "title": "Artificial intelligence may improve suicide prevention in the future",
-      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. “Having AI that could take in a lot more data than a clinician ...",
+      "excerpt": "Efforts to improve risk prediction have led to her research using artificial intelligence (AI) to develop suicide risk algorithms. \"Having AI that could take in a lot more data than a clinician ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/967008",
-      "originalUrl": "https://www.eurekalert.org/news-releases/967008",
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/depressed-2.jpg",
+          "width": 2880,
+          "height": 1866,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T13:57:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-suicide-future.amp",
+      "publishedDateTime": "2022-10-05T13:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1230,6 +1337,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-04-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
+      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
+      "excerpt": "gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
+      "originalUrl": "https://www.esquire.com/lifestyle/cars/a41502540/ferrari-ceo-says-no-self-driving-ferrari/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod/images/lor5763-1625593683.jpg?crop=1.00xw:0.753xh;0,0.181xh&resize=1200:*",
+          "width": 1200,
+          "height": 602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-03T18:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Esquire",
+        "domain": "esquire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-04-self-driving-cars-keep-causing-traffic-jams-in-san-francisco.md",
       "title": "Self-driving cars keep causing traffic jams in San Francisco",
       "excerpt": "San Francisco local Emma Becerra happened to catch the incident, and shared pictures of the emperiled vehicle on Twitter. Becerra also provided additional images, showing a worker",
@@ -1259,49 +1409,6 @@
       "provider": {
         "name": "Popular Science",
         "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-ferrari-ceo-says-there-will-never-be-a-self-driving-ferrari.md",
-      "title": "Ferrari CEO Says There Will Never Be a Self-Driving Ferrari",
-      "excerpt": "Vigna, who has been the CEO for less than a month, gave an interesting response when asked by reporters whether we'd ever see a fully self-driving Ferrari. From Bloomberg: The Italian company recently hosted a couple of artificial intelligence experts who ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/lifestyle/ferrari-ceo-says-never-self-185400640.html",
-      "originalUrl": "https://www.aol.com/lifestyle/ferrari-ceo-says-never-self-185400640.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/KURpWAKKQR4cnmRSFxLPQA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MDM-/https://media.zenfs.com/en/aol_esquire_729/2e614edc7738f11af669c2cfbe5a0d43",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1364,114 +1471,6 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-tesla-unveils-functional-prototypes-of-its-planned-humanoid-robot.md",
-      "title": "Tesla unveils functional prototypes of its planned humanoid robot",
-      "excerpt": "Elon Musk announced that Tesla was working on a bipedal humanoid robot that could perform boring and/or dangerous tasks for humans. His company has now unveiled two prototypes, one of which can already walk on its own.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "originalUrl": "https://newatlas.com/robotics/tesla-prototypes-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/5a22619/2147483647/strip/true/crop/717x376+0+51/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F94%2Fdd%2F7b7d0d4e475cae67c88e9c3fd3e2%2Fscreen-shot-2022-10-03-at-9.10.30%20AM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-three-reasons-why-artificial-intelligence-wins-with-specialization.md",
-      "title": "Three Reasons Why Artificial Intelligence Wins With Specialization",
-      "excerpt": "When I began learning about artificial intelligence (AI) and machine learning (ML), it was from the perspective of trying to help very smart people do challenging tasks. This is opposed to learning about an AI algorithm and trying to see how far I could push it for the sake of science (which has its own merits) and then searching for an application in the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y214,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/03/three-reasons-why-artificial-intelligence-wins-with-specialization/amp/",
-      "publishedDateTime": "2022-10-03T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare",
         "AI in Autos"
       ]
     }

@@ -34,7 +34,7 @@ related:
     provider:
       name: Dallas Innovates
       domain: dallasinnovates.com
-    quality: 17
+    quality: 19
     images:
       - url: "https://s24806.pcdn.co/wp-content/uploads/2022/10/Former-Best-Buy-CEO-Brad-Anderson-has-joined-the-Spacee-Advisory-Board.png"
         width: 970
