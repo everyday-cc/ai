@@ -35,6 +35,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The Business Research Company: The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
+    excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. 17, 2022 /PRNewswire/ -- The"
+    publishedDateTime: 2022-10-17T15:36:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57322136-the-business-research-company-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
     excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
     publishedDateTime: 2022-10-17T15:10:00Z

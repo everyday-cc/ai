@@ -46,6 +46,20 @@ related:
         width: 400
         height: 225
         isCached: true
+  - title: "The Business Research Company: The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
+    excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. 17, 2022 /PRNewswire/ -- The"
+    publishedDateTime: 2022-10-17T15:36:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57322136-the-business-research-company-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 19
+    images:
+      - url: "https://mma.prnewswire.com/media/1751581/tbrc_logo.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "Ym7RIvO7lqTNnxYlTN8uTOrOsxkw5IkmLCoakJK7WJcaGpa8tsSez95jSqkO6I3LSJJ8DP5za8ElrkfYYxhwSKcdKtopyYIy62wlm5IE4UEwZGXxvJ3hg5xq/rNGLk/siz/qPHd1XvXqs2b0g7TW+UeShly9BiGAwVGPUNQbYlk8MqxAZQBKRc/zSKhC2tJ+F1kRiDEAMYIGgCI6rxw8hsvEe/vP/OrDpdLPWaNggR1rJCdUU3OR/sz5qfljPN7BhsChl6fk17tZhn6S8qeR46+6t7AIzD/TfMeJ4NudTzFEdNxze4k/e9zQg53o6OnJYx+g8Hk5aNa0lTtTOYns2XXTFR4a7mWJQO1CwnmGvXo=;grxlyIfyI8OWavxYXPwiYA=="
 ---

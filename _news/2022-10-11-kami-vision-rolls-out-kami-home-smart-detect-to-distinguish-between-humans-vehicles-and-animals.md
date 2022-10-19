@@ -1,20 +1,26 @@
 ---
 category: news
-title: "Kami Vision Rolls Out ‘Kami Home Smart Detect’ to Distinguish Between Humans, Vehicles and Animals"
-excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions and cameras to enterprises, SMBs and consumers, announces the release of Smart Detect now available on nearly all Kami Home security products."
-publishedDateTime: 2022-10-11T09:02:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/kami-vision-rolls-out-kami-home-smart-detect-to-distinguish-between-humans-vehicles-and-animals/article_275ad992-ebb3-5bb8-a67e-66783a0ee6c9.html"
+title: "Kami Vision Rolls Out 'Kami Home Smart Detect' to Distinguish Between Humans, Vehicles and Animals"
+excerpt: "View the full release here:  \"Our new Smart Detect AI models go far beyond the industry standard of motion detection,\" said Yamin Durrani, CEO of Kami Vision. \"Users can now receive only the alerts that really matter - someone visiting their home,"
+publishedDateTime: 2022-10-11T09:12:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/11/9689360.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/11/9689360.htm"
 type: article
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "zMPRYooODJ+/x5SyxEQ6N8n1fll0qSkPmXss4mKVPAHW7M0YE4lOGkzwIsCyeLwdPyTa58x7WgtqLSEnrI+ux9+/sjtSOg9IiLyxk5SKK46et1PppPJweK4DbzmaT+uNklFPMilLzgmlzuK4SKSng2nKbqOu/8ITVP9QFi7DQGBXG8E6mU73odCX8bwh8mxIxH6BSuEo/rMrU6Z7oEsrHAxbMc85XirEOwsYqmc05GKwtlVPcoAnykpKOR4Fw6Dv8t3ZjRY262eYoZ0rWclqW895QwRKr0phgMx88VEenQz4VYeW5J4NoiT1JyO0Mr4y8wLkosipIDRAJ5aE86uFr9T5VCJnkrF8Sw31+rnHq5sQW+W//K+4JtFW17wnvAvqCu5UtDLknl92/65T7dXnPz4MyfA8/kUjC92QyVZYEskS+kts7jVS86v5yf1gtA0SKptayw1mfFxUCha+SmYD05THhHETd8OrTt7D2GPGzbRt9T77Hi5xdLliuIQ2XuAgP4uTmBG/wK3LuXcBrNZVbg==;ESYlZJ+N2rv7Mmbi0E8G2Q=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "Q67Qz/kCySFnETw4/HJTEwxkNXlhsdvNiSayNb43LXRBXGNwxwFoxyEXt1PxX0dSxCMM/PWEhTESObee+/S6XK2M0QWd0uI4DZsK4SY7uuD2aH0IlloW/Xe6FBZEipnmp2MgYdwWsRKg9M8ajlYPbshP2Ge5WN6WabMghtyCN1QEFkDofxs9foBa72hHPIFC3LF7g8Y5XqToNoAcaFPqFuP2I3cdatJU7YidRWsPG42bx4UqwWS2zkWw9+OGejsDk3Y4mgLNo9+vJlR4qww7dUoOgDbpTZSJjNz6KW1TH5JccX6nvxfwZhuWTowBj3VpLbmUalmzc+2U1Kko6PLJURUWY2xSk/FPgJx7rrtkOmU=;Uqlli+IaslRuAomYy16FLA=="
 ---
 

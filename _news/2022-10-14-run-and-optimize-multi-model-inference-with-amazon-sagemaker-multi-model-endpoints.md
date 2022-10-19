@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Testing approaches for Amazon SageMaker ML models"
-    excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
-    publishedDateTime: 2022-10-14T17:51:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
-        width: 1549
-        height: 774
-        isCached: true
   - title: "Run ensemble ML models on Amazon SageMaker"
     excerpt: "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to"
     publishedDateTime: 2022-10-18T15:50:25Z

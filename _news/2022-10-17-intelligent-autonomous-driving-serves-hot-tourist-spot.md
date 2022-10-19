@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "10 deaths linked to Tesla automated driving systems, fed data shows"
+    excerpt: "Eleven people were killed in U.S. crashes involving vehicles that were using automated driving systems during a four-month period earlier this year, according to newly released government data, part of an alarming pattern of incidents linked to the technology."
+    publishedDateTime: 2022-10-19T11:53:00Z
+    webUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/"
+    ampWebUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "024qcXYlyHBu599ikXWI+r9tpdOZvs3kiMpplJCqPYH3sgmmV5LUKESdmolMtZAg2fBrw3paSTNU2rQOrWOv1BlTLgL0jKKKuLxo+NYfkzvG5ttzUCrWpYmdPPhm/8oKtmfD6v3P2T57O1F8TwWLTjuxphw/UBsk8WiXsaf+1ZgtmvuaAU9OHMymJLF/dYlnecMd3YJYbVR9QMbxksyBwGcKjlpBTsU5C8dOYIcg9EamjiuZsqI19WtB+YziNrLD3DrBFAIpEoHbqdQ5geSa1ypfk5K5ummHm2OnMH9EPsLjsSng9T1D0gtGkbP9RMYTqIBDmc5+EU6BhkyzcZfwbfCHoiPFcDq19ihYFsEG7og=;IpsDfOSdZLDtwzTQk1Vjiw=="
 ---

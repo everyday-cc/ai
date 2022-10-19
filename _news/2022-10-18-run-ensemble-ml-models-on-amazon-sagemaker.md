@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/"
 type: article
 quality: 106
-heat: -1
-published: false
+heat: 146
+published: true
 
 provider:
   name: AWS
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Testing approaches for Amazon SageMaker ML models"
-    excerpt: "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an"
-    publishedDateTime: 2022-10-14T17:51:56Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 106
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg"
-        width: 1549
-        height: 774
-        isCached: true
   - title: "Train a time series forecasting model faster with Amazon SageMaker Canvas Quick build"
     excerpt: "Today, Amazon SageMaker Canvas introduces the ability to use the Quick build feature with time series forecasting use cases. This allows you to train models and generate the associated explainability scores in under 20 minutes, at which point you can generate predictions on new, unseen data. Quick build"
     publishedDateTime: 2022-10-18T16:58:18Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/10/221014135712.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221014135712.htm"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -21,24 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Deep learning makes X-ray CT inspection of 3D-printed parts faster, more accurate"
-    excerpt: "A new deep-learning framework developed at the Department of Energy's Oak Ridge National Laboratory is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography,"
-    publishedDateTime: 2022-10-14T17:12:00Z
-    webUrl: "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-deep-x-ray-ct-3d-printed-faster.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-learning-makes-x.jpg"
-        width: 1430
-        height: 806
-        isCached: true
 
 secured: "l2XTwtiuprAO8+8Oo4Z/bIxOp+xCiCVDcI8ifr0JKZQloV56F9Wb02uqv5LT7wBSg9+HBdVc0OW+2UrDdpnYIWkfOkLqNkLMTEHieczhCOO64J1p4h7/IxzcdXrj9rPDcZmxeyRI1L+5Clp31xOUIQC7CMMQ8/ZIPXtB8wl70bhFusHlZzJjkC8pXgKUOEg1gwrToqhfvNWlsD47/Ci6DNzxFh+/HfA5Gi13yRzdi97H0xslrsBPShJS77Xl2htTeRzl9xV7FL5DrKiTFxglgonQdxcJ/+cz7ag8VxOcAE/9Yh+q1ZbM+KmDJNFM44xUoGrv/UqWZKL6ZFnX4y9wTPZJX93APrtdpsOS8mie4Mo=;ksL61ioAQbAZPIgQktmlUQ=="
 ---

@@ -1,29 +1,25 @@
 ---
 category: news
 title: "CITIC Telecom CPC wins Best in Future of Operations at IDC Future Enterprise Awards 2022"
-excerpt: "CITIC Telecom CPC was named Hong Kong Winner of the Best in Future of Operations in IDC's Future Enterprise Awards 2022 for the company's AI Cognitive Object Recognition Systems. CITIC Telecom CPC wins Best in Future of Operations at IDC Future Enterprise Awards 2022 CITIC Telecom CPC's AI Cognitive Object Recognition System,"
-publishedDateTime: 2022-10-19T09:00:00Z
-originalUrl: "https://www.jcnnewswire.com/pressrelease/78663/2/CITIC-Telecom-CPC-wins-Best-in-Future-of-Operations-at-IDC-Future-Enterprise-Awards-2022"
-webUrl: "https://www.jcnnewswire.com/pressrelease/78663/2/CITIC-Telecom-CPC-wins-Best-in-Future-of-Operations-at-IDC-Future-Enterprise-Awards-2022"
+excerpt: "CITIC Telecom CPC used the OutSystems high-performance low-code platform alongside ground-breaking AI cognitive object recognition technology to accelerate the delivery of its award-winning Smart Warehouse solutionHONG KONG,"
+publishedDateTime: 2022-10-19T09:10:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/a29318836/citic-telecom-cpc-wins-best-in-future-of-operations-at-idc-future-enterprise-awards-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/a29318836/citic-telecom-cpc-wins-best-in-future-of-operations-at-idc-future-enterprise-awards-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/29318836"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29318836"
 type: article
 quality: 15
 heat: 15
 published: false
 
 provider:
-  name: JCN Newswire
-  domain: jcnnewswire.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "http://www.jcnnewswire.com/topimg/Low_CITIC20221019.jpg"
-    width: 500
-    height: 500
-    isCached: true
-
-secured: "tqGklz319/9f8Mperq7SAQvBeI4adKL+0zcYnMhO2H24ysOF+UQyvyT6JuyMCjV1+bbJ7DNazlUPiPauQg0voy0S5OQT9YocCPvyZFadfW7yITS7xocoHcuR+q/hLYWZWQVNfNnXb9HmkMr3yTt9R4Vm98MxcUixKsizau8pUmcowakq7dcErsJK4vQafCR396IyOJepUtB244TsuFSyOulv43c2Pc/3HY0Sd5gEgpiAjKDXRl/CzON9iiZzpjUsgZi0+b53vRTGUYvyUBFHjW30Qr5CH/jwfDJ3qDK4sKLRnBJuz5Rj7WJmi1PUE46lkGIArC796MYtqMLblXS18Mb2qQmB7++qjtyygFlmW6c=;KHD4x40mRKnap71Fae1w0g=="
+secured: "5f2tDPtJDPuAK9AW0Ib7WLWbAZ/v/4GkOoEU0P3LjeCY9WAV6zkUns6mqgLiKUGKdOsaC3UnZ1y4YqMe+Yuy4Xry0ho0x3GaSNlvozCe0w/VVa+grWSkIbMOUGlcKGxVD0v0PJzujp/cK0y0ofe6ZppezI8+coXvhKVYssL7w5ZrigP6cFMs2wxXF2liridW3Mt1wQ5Altqyo6gA+6HHhjKyMCh5kBG/pAOUkRbmCySA1W8U22Y3rDx7bIvN6X4Jlafj5bkpPISMAVNIZuzC6gGNAaysJRNgHvYMh4sc9MNDK0uAvWIixrc9w0CUO3iXuv7oyGEsvVupWONGC9p8m17jD3G1qtxRr9bCkRBzEQo=;YQKuBAeC2Eo94HYydMH+Ag=="
 ---
 

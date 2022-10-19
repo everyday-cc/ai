@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221018/Blood-test-uses-artific
 webUrl: "https://www.news-medical.net/news/20221018/Blood-test-uses-artificial-intelligence-and-biomarkers-to-prenatally-detect-fetal-congenital-heart-defects.aspx"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "Beaumont Health says tests using artificial intelligence can identify dangerous fetal heart defects"
-    excerpt: "Researchers at Beaumont Hospital in Royal Oak have discovered a blood test for pregnant people that can detect fetal congenital heart defects before the child is born."
-    publishedDateTime: 2022-10-14T18:41:00Z
-    webUrl: "https://www.clickondetroit.com/news/local/2022/10/14/beaumont-health-says-tests-using-artificial-intelligence-can-identify-dangerous-fetal-heart-defects/"
-    ampWebUrl: "https://www.clickondetroit.com/news/local/2022/10/14/beaumont-health-says-tests-using-artificial-intelligence-can-identify-dangerous-fetal-heart-defects/?outputType=amp"
-    cdnAmpWebUrl: "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/news/local/2022/10/14/beaumont-health-says-tests-using-artificial-intelligence-can-identify-dangerous-fetal-heart-defects/?outputType=amp"
-    type: article
-    provider:
-      name: clickondetroit.com
-      domain: clickondetroit.com
-    quality: 43
-    images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/3V4DLIIXRZA4ZEM4CRIMWMVEB4.jpg?_a=ATO2Bfe0"
-        width: 700
-        height: 394
-        isCached: true
 
 secured: "Tv5MkAPktZZUJxM7Wvq7OJwU4nJyiXRDAsFIEFfP+ww0aZuQ0uXmoucLl9+di3HO3RAyxDJopzB1qsa2uQVHPrBDrlIozKLpjednW7kuvRDAafeNhZOWgXnLgxvvEjY959Kav9G3Erd1HojAl889uXnXiq/aHyXQW+JtF7JvJDu8vRU0fcP60e5U4Z2ZaT2/e0i56uDIpUtbu/QLBqFRDtlksrN9tXdGSxoSNxiXIeqXunJDHFpL0MQC/pvA/8R5szp9oz2kRi9IHlfJ81oa0NEsE48yincZCraAhXerHDn0TteKmQPx4p+qIrs6JgSkQxgaDgC8TTDHDFLLoKZLXqt0cdVglIV8yVWNntFlcYMdVbgMVK0hUn/arpz/MNhbZ3MIHAs+NCqdivu21ljLcV1VaYHRDqFI7VQVoxk2qigtgTICLR6xTNk9hByAh3RSgQqjWR5vvvOyffdnPJH1YhmTq64e9GYzHJ7KlSQlOeeCVkg+OyWRwYI7X06kvvXXKjh7pOPipVS02qc5vxZu5Q==;e8oVeFWXGIFr191tUVgVuA=="
 ---
