@@ -55,6 +55,15 @@ related:
         width: 1200
         height: 450
         isCached: true
+  - title: "AI language models show bias against people with disabilities: Study"
+    excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
+    publishedDateTime: 2022-10-14T15:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "3pVm5vXpBSm77KNZhPDxHjmArvyOJ3rcHwg40DlJzTCajKfgtmaWT7yB3P4hqCSHkJsHvxJwdeBtomHvsgIxKxqufTkVvVT6NHCQr57o9OYOlRoWLkq78Fa0wfCJ+TI9Rd6Xj6LhWUdILihqBBplwiLjplzDivtB9G6ZuyJExKOWd7dtLBavpsjJADrAs8ITqMFfIEi2t70QkVvhxqMkA9eesHV1S+yLdome+qaReetpKKo3QW65MoE0d5l9qDudVF7B0tMSE48Ef33lIVtTsXXcWWBZw13MmPXVcsCmsdQ5dCQXjtlydpU893fW6n9+fIe1WMbt7+2q7JdZuX2hYOueJVOXFew4OamaNeA+28k=;FkXRhk5v37Ggpn1Qk2j7wA=="
 ---

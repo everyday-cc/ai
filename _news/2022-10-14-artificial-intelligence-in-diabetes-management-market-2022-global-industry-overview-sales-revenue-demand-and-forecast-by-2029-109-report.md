@@ -97,20 +97,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-  - title: "Hybrid Voice Recognition System Market Size, Share 2022 Movements by Trend Analysis, Growth Status, Revenue Expectation to 2028"
-    excerpt: "Global Hybrid Voice Recognition System Market (2022-2028) Research report offers in-depth analysis on market size,"
-    publishedDateTime: 2022-10-14T08:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/hybrid-voice-recognition-system-market-size-share-2022-movements-by-trend-analysis-growth-status-revenue-expectation-to-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "3D Facial Recognition Systems Market 2022-2029 Industry Analysis by Geographical Regions, Latest Trends, Share, Type and Application"
     excerpt: "Global “3D Facial Recognition Systems Market” research report 2022 provides a detailed pipeline analysis of the"
     publishedDateTime: 2022-10-14T09:02:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.cbsnews.com/essentials/the-best-october-prime-day-deals-on-
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/the-best-october-prime-day-deals-on-robot-vacuums-irobot-roomba-samsung-jetbot-roborock-10-12/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-october-prime-day-deals-on-robot-vacuums-irobot-roomba-samsung-jetbot-roborock-10-12/"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Computer Vision
 
 images:
   - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/10/11/ee8349e3-a8d5-4e45-bc05-49840ebffd9a/thumbnail/1200x630/3dcfc4efa089641496c13b32132be851/71tj6-j3pal-ac-sl1500.jpg"

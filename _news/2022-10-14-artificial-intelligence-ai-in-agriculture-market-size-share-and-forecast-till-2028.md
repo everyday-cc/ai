@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14"
 type: article
 quality: 75
-heat: 125
+heat: 115
 published: true
 
 provider:
@@ -37,20 +37,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
-    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
-    publishedDateTime: 2022-10-14T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

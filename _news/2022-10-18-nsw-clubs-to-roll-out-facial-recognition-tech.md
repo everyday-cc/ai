@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facia
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
+    excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
+    publishedDateTime: 2022-10-18T22:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
+    excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
+    publishedDateTime: 2022-10-18T23:44:00Z
+    webUrl: "https://www.abc.net.au/news/2022-10-19/pubs-clubs-install-facial-recognition-tech-problem-gambling/101549802"
+    ampWebUrl: "https://amp.abc.net.au/article/101549802"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101549802"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 47
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
+        width: 587
+        height: 330
+        isCached: true
   - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
     excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
     publishedDateTime: 2022-10-18T20:50:00Z

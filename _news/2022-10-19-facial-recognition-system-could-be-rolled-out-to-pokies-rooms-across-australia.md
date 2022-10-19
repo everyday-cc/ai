@@ -37,6 +37,38 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
+    excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
+    publishedDateTime: 2022-10-18T22:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
+    excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
+    publishedDateTime: 2022-10-18T23:44:00Z
+    webUrl: "https://www.abc.net.au/news/2022-10-19/pubs-clubs-install-facial-recognition-tech-problem-gambling/101549802"
+    ampWebUrl: "https://amp.abc.net.au/article/101549802"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101549802"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 47
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
+        width: 587
+        height: 330
+        isCached: true
   - title: "Facial recognition technology to identify problem gamblers"
     excerpt: "Poker machines in pubs and clubs across New South Wales will soon be able to scan the faces of players. The Daily Telegraph reports facial recognition technology will be used to help keep problem gamblers away from the machines."
     publishedDateTime: 2022-10-18T20:18:00Z

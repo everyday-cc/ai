@@ -9,7 +9,7 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technolog
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -55,6 +55,15 @@ related:
         width: 900
         height: 550
         isCached: true
+  - title: "AI language models show bias against people with disabilities: Study"
+    excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
+    publishedDateTime: 2022-10-14T15:59:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 19
 
 secured: "VPWmR8MhAekWIoRkKjN3LVil3ca6dvyMYRPe5vAml+f9c6F9H7R3bigdNlZoGEKMkywOf1rSwzfr9Geqgw2TyXMMtnuhhjznSJtwLtybBoESx+hjnm2osWA9jfFgX71dElz+bW3p9U4D/ecEaYIGocdFMhaGGvpJjaNkwZZ41w0YJVf1E7rWXbVft6dT5iBnxsq7SUus03skZ8lINa84mNZt4CY0J9Vu8+N/TER+LfG65B3VXAA6PuLH38UUQtERJUMZNhG4g8sGJRadg2DfEkFjAXgfaSehZAxrPCCQYALojtaf0J7wOzU/k+8cOhRdedZiHP5cYYPS1KfsnzSlTq+Rv8QvmkLVjpLcaokKg4FrUnvgxh7onFwKqKhkuXDkzUtzm88+qB96wICEQyZswS2VNxh+Hop+qokTW/h/J72WXab1+yO3KeEFjXmmTYA2T7SO4OJ43QBo/gTcAqkJrRLqDkwFdiMeGKGnBSNKZx+xgNJxmDv1K82QX0bzBgtYNLVphv60nNKSzbH1sheZVw==;UlS/yMdO5kK9us/VwtJ3Ow=="
 ---

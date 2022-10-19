@@ -1,24 +1,26 @@
 ---
 category: news
 title: "inQuba Journey Cloud Now Available in the Microsoft Azure Marketplace"
-excerpt: "NEW YORK, (BUSINESS WIRE) -- inQuba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online"
-publishedDateTime: 2022-10-12T13:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
-webUrl: "https://www.marketwatch.com/press-release/inquba-journey-cloud-now-available-in-the-microsoft-azure-marketplace-2022-10-12"
+excerpt: "Quba today announced the availability of the inQuba Journey Cloud in the Microsoft Azure Marketplace, an online store providing applications and services for use on Azure. inQuba customers can now take advantage of the productive and trusted Azure cloud platform,"
+publishedDateTime: 2022-10-12T15:03:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/10/12/9691176.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "UiCHS2AeDWtoJsKQEoJMhCWwh28CpQqiJdXNe2pUBuyTSqsD05LqQIiQxdTu64JkEHt41jlw5uUTKypK0+oihJ2P2h0F4GJ4jFuxMQ4AxM9sr5DeGljOwqDpOp5dR2UzpifpXgesU41JBD3jGjb8n+LV7fO88wHHK1ppa8BOx2y8BW6SFRw1uT5AL9kgBdcoSeQnNwvq7+w2Y0N4/92DO3EFwhdBcX0Uxn97Rd4+UBn2hJeWrNM1qFQ4vo1cVUr5NHYF5Dw8UC4FyhGXTQ6nTtH2gQRbrwuKKnj+o+gujSyP/dr96CcVuLRgiHsDmlYQTCu5NtAVhrJMkAhf1MWT+aJSHM1O6D9poonNwgSSzHo=;8yPd52B3kOoZkMKrvnjpYg=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "+1A24jUv1COHF3ZHKSH8TB/c6dCpP+yNWgxcJcbX+41b0ku6shrrs4LdG70mbVgEzzGCjf6RwPaisULQqsTchMO2RptEwqJN9Gp2lN60BEYixs/Msc3TdyREnRpwxMc5cidK1yYrNDbCC+xdIu7DoJsUtvlG2+GNq9yDGHdrM20jt+Qw8wNvv3FAd8pWZeeGCWh13ZpBTis53ih4AWZsLdYEyheizuD+jUbbtZe7mAy6FJcYz2uABwzPFkzWnAgbaEXafY/YF6WX3mEPoXkVkUefcgb+UN2GZS6jqlWmz5gKGQp7m0DBTDORBMmeZUWWSyguUA0x7jZu218E89W3iBNZxQJ96HEZY422nuLP4Fo=;tyDUo6E4Y9cXcRtlX8Wg4g=="
 ---
 

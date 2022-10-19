@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning as a Service (MLaaS) Market To Shows Huge Growth Over Forecast Period 2022-2028 | 118 Pages Report"
     excerpt: "Oct 18, 2022 (The Expresswire) -- \"Machine Learning as a Service (MLaaS) Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
     publishedDateTime: 2022-10-18T05:01:00Z

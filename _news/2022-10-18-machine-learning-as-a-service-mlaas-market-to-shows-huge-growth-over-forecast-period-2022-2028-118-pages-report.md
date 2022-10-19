@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Market – Regional and Country Level Estimates & Forecasts"
-    excerpt: "The Insight Partners published an In-depth Analysis report on \"Speech & Voice Recognition Market Forecast to 2028\". Speech"
-    publishedDateTime: 2022-10-14T07:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-regional-and-country-level-estimates-forecasts-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
     excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
     publishedDateTime: 2022-10-17T07:35:00Z

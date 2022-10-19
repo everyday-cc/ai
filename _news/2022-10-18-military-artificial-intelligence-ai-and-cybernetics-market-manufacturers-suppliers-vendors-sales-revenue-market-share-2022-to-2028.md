@@ -44,20 +44,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
-    excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
-    publishedDateTime: 2022-10-14T07:20:00Z
-    webUrl: "https://www.marketwatch.com/press-release/mobile-artificial-intelligence-ai-market-detailed-analysis-of-current-industry-figures-with-forecasts-growth-by-2028-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) In Social Media Market to"
     excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
     publishedDateTime: 2022-10-17T17:20:00Z
@@ -91,6 +77,6 @@ related:
       domain: marketwatch.com
     quality: 22
 
-secured: "r3QnRRPh4Q9HKhGeRf66j5mc70nGIiNt958e3FmWzD5o/AqfQyAphdlm79DpP96z9Ed310vCGVSZMGmtHnwDHPphsYQFbihbdQ6QsvOTu4axIYVetqBrnjNmiXW8L+eExX0fMoIa9MVZXctEoC6pr88LNfk9UoXbZ1KuEB8pdm467b10u6IPIqDfZBWLuCCTJF5jpSBHUWxmHEzs9r3LGTbVnJAbMauzzhokuF8nkoQPbXnwYfyDpl4yhwYRI03iz/OxEfiegB9HFnE3y63C2JxnxDAIcSbxxJ5zJX1ogDG4YjsgVHvZNcoDmvUp3P2m+oGtg1hvW6tRe1R61NcQ3HOYeaX1WrozdO14Cej66yo=;X2FvU+Xc9GGqaSGzBy/Z9Q=="
+secured: "FULGN6y+Ci6CIO81zMyY/Xh9d8wBXcLVOlsHBiDTgELXr92Fjl6pnaf1MlbSqLXePDaZmBEAlPoX3NnMdmt5buSA2Mqcq9rN0CcmJ3eXf1umF0K2RRwcF7gvxXvMaAlr11tByX9FdHg2iIHnfcDbfpt+9pUPj76N4VbIiv+cHAQAPXSF7SLyuPtslKy2V2G8axTT9Ju/yigQIzKNzHIDGCflR7qDo3k7QPK0E09pJFrvAh5EnFVv4OMxrtVRDBXe+KUA+JquYTUOZYB++a4srGkB0caXwt0tw+iaFUSCYua49BmaJjaTeWfR2CN3KqjAZPmJsECB3HiaNXItIpYdyfSsFCtrJSK/01ZLkekBByEYEUsQqPYsL97LY+0GW1b3mO1sirQaclsUgJWfAZ4yNYGgpeJpJIQFOYj1wQYkHmGWAtFvH8tWfOZPJFphZtL0jYSwg1gjlyNO5vknyqYZv4VkjHcqdkGfix5PGa7MZrEU0HFkJkl3HCCFQcZaCabGYoys7FJA+Ul87IHkf6+6+w==;i/MXe95BgylN93T1QVt0lw=="
 ---
 
