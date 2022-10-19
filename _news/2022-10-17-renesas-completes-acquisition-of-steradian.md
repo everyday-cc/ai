@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Renesas Completes Acquisition of Steradian"
-excerpt: "Renesas Electronics Corporation (TSE:6723, \"Renesas\"), a premier supplier of advanced semiconductor solutions, today announced that it has completed the acquisition of Steradian Semiconductors Private"
-publishedDateTime: 2022-10-17T08:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
-ampWebUrl: "https://www.benzinga.com/amp/content/29282073"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29282073"
+excerpt: "Headquartered in Bengaluru, India, Steradian is a start-up founded in 2016 and provides radar solutions that enable highly accurate object recognition and power efficiency in a small chip. Radar is a vital technology for ADAS,"
+publishedDateTime: 2022-10-17T08:21:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/17/9693185.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693185.htm"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "XT62/lI4AtXpyKTEl4q1bVfqF6jzCU+7GOOlH/WIMoNJYfAxN3UZsO0v/Sllrpi87O/PfJlrv9WI3ps7S0drf53bRnd+15aJ9uMVaaDdtVGAbnUT+tCDG6LOlOs4geJupTJui9TmLhwygao2T40/oN/Nx3KxCEzpQP95u3Kisok69t10GYYJtAD6zsaolwl+MZTjBW4I2Z+Atg8+L7Z/km6CzJ5hxq5ll443CYo/H2l+w7LPNsAMnCwxm6z99GULxtx4mPrROClAooUha/ALbhEh53MV9uW+zqLG/D1LHJMmSLSNLHYisZhgKM0osPZAwSzNLfWw6v1DIy7CCvzgXIMFm3OJWgrAaPImCnjHj2I=;tLBLWo906/7chCB8orTP2Q=="
+secured: "1X6uDz7Qr50ZzY2N9ub6N4ewYDYrUOfG3yNm0n/4m+2GnNGv4msl8UbLKrxlgmcS+0Wr99kWeHl74IZ7o0MttD9yXkmiypNZrU9L8qg1aV15vJjO20ho4qcRCgaL4DQLOL3YoPv+GFN0ogQ/MPFzU1xlp/PwTRBpGErSXFPIinlwNxjzm/s6OmqD8k8nS/ShUX5bvOZzh5lNbktAwkXbm6Y/rEfo1Sh1GNpFhwkxP1TFBcRTjDqnN7BpnNmO3hyh+drEanXGCSteDST3UqnRFzcEGQAvUQp39vVvyMz8+Oj0rz36GtFCeXR/rlKAnwvplMfNXjB0IC4/wPZigUYpA/P/BZWTYJsvpcbADfZM+xI=;Sxobks6BvH5t8MX/t7xMpA=="
 ---
 
