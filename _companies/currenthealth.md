@@ -19,7 +19,7 @@ crunchbase:
 twitter:
   username: "HeyCurrent"
   url: "https://twitter.com/HeyCurrent"
-  followers: 1777
+  followers: 1778
 
 size: 11-50 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=gPZa-lS56Ak"
 
-secured: "xXodieMDyUJ7IhvKLKR3OTBFuDEwhEFE+xy8Fhdi4xNmgBEGdnwX6PPNKG5CgxvyrprSYTPRn+/+px14VIK+CC+lXyt9+YqrE7n1zEVo95BSW/okHthFhkpPOmrnT0YfFYUMAxHVe0E2916TvhmJvW9hS4wksLLH24ByYgAubG5hpPAdWkStDfIE24ISAcfAXjkKRrIAacqeFMBff/SyihQ2mzolf4LJi+6NPra9ybqwEQwYQGkNZ+eUG9GVbcdB/toBnQbhqwG0jFgpsoUGyWcx8+GOrZytvZAc8DHtCKpF2lRqvm+d6TF1BAI8IduAMOl4IYBFyffYQ+6TQ1iEokJgqd0Ar80ZVN1k7w7WndyIEdWz8E691LJ/xS+Q92JqpfUuDS0tYUZwoGPUrN8zQgxVJnBuxym6lD0YjRaTO5I=;Z00CIyzL964UrruKPXNANg=="
+secured: "COeDD2/K+8BeuJyoebcUEbcVVHJ1x3hXMFRF2pHksFIToJEYdG7NDtD2EHj28T5eml2mXrw2JFL9gM5waIfNnbV7WlqX1s9gDPChbgqVG9LSDcch2cQ6mdd7kJFzz0VqazZOKcRVImtP5OFe1x2TX4BYx9LkaxYL3wTEXEowgWfrEkfTE2JqAFzDzjE4WBSRCyoRGPCkDlCP5Amj+6yaP8D8Uu5Ommbjd3HUtp4w/Y+ajRwfx2OLUTkGmbklnnmMIbURtzmnweTsacdFF91Dt9bu6CMpsRYDaUTAHnI+LbA75fO2dFz6QREfEGusd9wgkG5d9HMdVE9FAsElWjmb8rvMmYVOASInN1jCKCgTDT/nbEMj/r1A9r43mibNxTVLze+COSpOixa+ZICTiUVsqa/WQoRliZ6VL2fFDnjaXQQ=;RVTTm0nFOObLVr3Xt6ImmA=="
 ---
 
