@@ -1,30 +1,26 @@
 ---
 category: news
 title: "AITX's Subsidiary Robotic Assistance Devices Receives Surge of 33 Security Robots Placed on Order"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has received multiple orders, totaling 33 units,"
-publishedDateTime: 2022-10-19T13:25:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/19/9695661.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/19/9695661.htm"
+excerpt: "Orders for 33 Devices Secured Since Last Public Update Detroit, Michigan, Oct. 19, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its w"
+publishedDateTime: 2022-10-19T12:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29322502/aitxs-subsidiary-robotic-assistance-devices-receives-surge-of-33-security-robots-placed-on-order"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29322502/aitxs-subsidiary-robotic-assistance-devices-receives-surge-of-33-security-robots-placed-on-order"
+ampWebUrl: "https://www.benzinga.com/amp/content/29322502"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29322502"
 type: article
 quality: 58
 heat: 58
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Security
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "RgqqejDNOMkU5NNEjUTq9sUPY5YS6hgrwScx1o3Qe4nF7XK08gRvPLkA2P+9vtaM1MUs7R0e51j63ObNfBp1cFETz42sKa/UcZWrG5VHlKTm+849E1O3c4ty4CJh9wHL6NVhYHRoKV+gKN1IYUBhRGNDilhgLJtY9jtunaE1lFGJ8GI/zCsn1qcd7Ks+ds5Ai76hmRwEpNaZgqbrce7dn8hkRJtw/FVQf4sSSCW1GsqYcle+Q2IzPpAbZlP63TT/Z/btCI9MeWrUUYDGo8dU9AQQ55T2ayXL0i5aOrAKITtZsvtnt7NojusBYWoRVqG+O8lGx90InjpW6by2PccVEo0vXkjCXrsWdAZvBpKxiTI=;T1NAdzPz6z8sRIaGN4fqww=="
+secured: "6eIPWVzHzmxVy+5G1UPHO9Tu1tf26NqD/rMxAvxrfYQ7y9NamWykSVi2yWhcWaLii639qHaP4aTxCZyBKqqA0FWdnBihGBKdAFC70cEmuczVDneAoIJp11+bWSaaXtrCk7y5fMpdrnV8AbJ7nTuqpk7vpLbfD7uSGHT6InUgXFhbOQqstBLCeAv+Nayj7sQ/jYAi/MXuK1a/giTW+m/WiGLV4js/sTnQPsC2MW/En65Qwp588is2+oxglMhz4IuazA2bZ97npU+Qf/iB3IQ/fMUKutNUTv+JoaXA9JYlJB7lb7o3Tgi5j4rH/CimVXdDgpoqMBQ+lMV5wvP4uNcvVqmAgBU0dCnshR1iRpk5YYo=;4mj7YkYRQstcC0+7nTZRiw=="
 ---
 

@@ -52,6 +52,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Meta Touts AI That Translates Spoken-only Language"
+    excerpt: "Meta on Wednesday said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-19T15:00:00Z
+    webUrl: "https://www.barrons.com/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    ampWebUrl: "https://www.barrons.com/amp/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
 
 secured: "3vGb5SK54LNH5Zd4n2dNGlbJ8nIlg6Cl8KuMzQdhWkZDxGK2qeIaCseLtUe3g+ryMESQwz9XDDKd43yVJwdvlQkbo1ZFvIeJU8Rh9UZSLOgmEEs3ncS11+4yTKvp//uvzTsuv8AAhrNRG85LDQ4rFIIacz5pGyEMiAmqoXQQ2wRE2lyc36pBZwVSdcQYxp3l4UJL1aMx8Pk8rQyBYmTq+QmBFAuTVsfM1edhOJ2In8DSsOPKfSiOGoyenQDQE78pESvIhVqsDMlsg1f5aLGqqtN33QTlgQoGTVCX8TTBvT/1PEz41CXnLGcV0T/luf4lDcBLbsmwtPpnVEWI7jUUsMMRCxo9X3TvE+AIO8axVLRAYSc2IsHS/dWEOmp2ZHZd+3b6slfb2BFOOUUDIEnQ7mp6aEV+Tz5EoEotNVQVuW0SMHvjPpX4nxG7FZ3qTJMGVTAh0cCemRkpzb2DU7mMO2jDT/nrjHKgzpEwlP/xRIDvBtPt7z36KG8CvC2qda5uj/tOcfe1rwz2zOhUd/1Q6w==;jw61Ei3RkyZM/u6m2FcZyQ=="
 ---

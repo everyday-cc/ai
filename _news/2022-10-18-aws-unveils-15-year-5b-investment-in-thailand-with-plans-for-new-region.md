@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-inve
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/"
 type: article
 quality: 103
-heat: 133
+heat: 143
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 470
         height: 248
         isCached: true
+  - title: "Cloud HM x AWS join hands for leadership summit in anticipation for opening of 1.9 trillion baht AWS region in Thailand"
+    excerpt: "Cloud HM, in collaboration with Amazon Web Services, hosted a Leadership Summit under the theme; “Amazon Web Services Growth Secrets: How to Run a Multi-Billion Dollar Business Like AWS”, and showcased their cloud and AI technology by arranging Thailand’s 1st AWS DeepRacer Autonomous Car Race at The House on Sathorn,"
+    publishedDateTime: 2022-10-19T17:05:00Z
+    webUrl: "https://www.bangkokpost.com/business/2418078/cloud-hm-x-aws-join-hands-for-leadership-summit-in-anticipation-for-opening-of-1-9-trillion-baht-aws-region-in-thailand"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 10
 
 secured: "NXbStfGKBTnhBYjhL/GqDXAsCqsMM5nBro1nj4UJNdixDtEehTR4dFTW7UrZG/L30V2DsLZZRwU2U1/fV9NV/p/gTYQqAt2/jUGXYPNh9ay8FMq5ff7lWZYqmQvdi4DnDr1XVmVYZO4RjmznwoVH3sTQnGXCz6T8YXLqPlquSrMVNd4KJFtuMpGAeYDL+Hrt4Biy90YGnSurBG1o5jKZfXPCFUuoXMX+wjDw09XgmkDG498XKIekNkN91723F+VW/g2dWR1CGMFqT4mUzjxvxDIMGzMBpplKrpYh+7gkwOjwR98vWDlz1F/0pdIDFAfoQqmxnJhwYBQg7agbxzAp8SezYsAG5ict5VCJJYOqsD90zLNjhfhKYmSWbopQ2hX12RxDQvj3WGz+XSwnMXxGm4ijLawlkawdiFzvQlNNWtxaBJbEgH3CiyjBooZsm6RIOq5YLkg3ThHW/AMhhwReGEQCFS8/oNMB2cMOq4GGZcTGTHK/wYkJ13AYpPCu/C6W1cMsgI7J/RAG0llNE+ZDYg==;8A8T9Zv4MqmqNEjx5H4ovQ=="
 ---

@@ -69,6 +69,15 @@ related:
         width: 600
         height: 260
         isCached: true
+  - title: "Cloud HM x AWS join hands for leadership summit in anticipation for opening of 1.9 trillion baht AWS region in Thailand"
+    excerpt: "Cloud HM, in collaboration with Amazon Web Services, hosted a Leadership Summit under the theme; “Amazon Web Services Growth Secrets: How to Run a Multi-Billion Dollar Business Like AWS”, and showcased their cloud and AI technology by arranging Thailand’s 1st AWS DeepRacer Autonomous Car Race at The House on Sathorn,"
+    publishedDateTime: 2022-10-19T17:05:00Z
+    webUrl: "https://www.bangkokpost.com/business/2418078/cloud-hm-x-aws-join-hands-for-leadership-summit-in-anticipation-for-opening-of-1-9-trillion-baht-aws-region-in-thailand"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 10
 
 secured: "1HQQWbZn+3DGCXpUTlz+CFjQc/CTPxucDwXJ06EE/G0n4+gxef2Dfyfcov7hdz3gnNssgBBVYqNl/4u5TqJ9IKPxD9Z31I0WnSIJbWfTwuh/oiOdWrGng03kLHyCxtq3uF4WdtX/SO1Wr9y+qWfktjBGabeFPuANvKn+pbsZafjWzb7e0EyHzag2/u86TRfHLk5rak/7bmuivLPjHHf8jTkBdSOzWsv/kPKIYRVUif+tUgHBSPBcO+MFc9nF3guQiA/hQzH+hUl2+b1LnTGZAuQIM9SCKuycOzo3UOPprDgUAHKQnU9vEjx11/XPfKhShXgzOVUU97EU+ovwqBJVh7cgrhl3wkfUYF0XZl083yzAc974PU35QtZ8Crt1wXeAGjSgmwfCVD5xFDWq/vAoXE8dlweJeiibnwSPjOHDZFAGctcV3vuN55D9H+IrcJxpOC6TVgFA8cF5aO7PvwOITB7NgcQqjUU1CXANi9DWPNcLd9LrDtlKSX1HRrNydtdXXPp0tU6iRvcNnhyr3zQryQ==;HdsRI2Wio6ZfZLiUmzrFyg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/
 cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -41,6 +41,17 @@ related:
         width: 620
         height: 465
         isCached: true
+  - title: "Meta Touts AI That Translates Spoken-only Language"
+    excerpt: "Meta on Wednesday said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-19T15:00:00Z
+    webUrl: "https://www.barrons.com/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    ampWebUrl: "https://www.barrons.com/amp/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/meta-touts-ai-that-translates-spoken-only-language-01666191906"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 54
   - title: "How a real estate company is using AI to find and remove racist language from property documents"
     excerpt: "John L. Scott Real Estate is using Amazon Web Services technology to tackle the tough challenge of scrubbing racist language from property title documents."
     publishedDateTime: 2022-10-19T09:58:00Z

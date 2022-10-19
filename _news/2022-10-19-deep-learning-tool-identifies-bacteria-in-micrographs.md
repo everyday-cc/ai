@@ -1,0 +1,60 @@
+---
+category: news
+title: "Deep learning tool identifies bacteria in micrographs"
+excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied miniscule bacteria in microscopy images. It can also identify several other types of tiny objects in micrographs."
+publishedDateTime: 2022-10-19T14:05:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
+type: article
+quality: 51
+heat: -1
+published: false
+
+provider:
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - Computer Vision
+  - AI
+  - Machine Learning
+
+related:
+  - title: "Deep learning tool identifies bacteria in micrographs"
+    excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs."
+    publishedDateTime: 2022-10-17T15:00:00Z
+    webUrl: "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html"
+    ampWebUrl: "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 61
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg"
+        width: 795
+        height: 530
+        isCached: true
+  - title: "Deep learning software helps to identify miniscule bacteria in microscopy images"
+    excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images."
+    publishedDateTime: 2022-10-17T20:22:00Z
+    webUrl: "https://www.news-medical.net/news/20221017/Deep-learning-software-helps-to-identify-miniscule-bacteria-in-microscopy-images.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 36
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "4dll/yd+lhj9LoV6Id0Bfb1/rJF5SJrZkr6vxp7v85WLUv8XsRYSRir7uDrvdIKoNDlD0I3bRVf3XIi6EYudaTxZub0WToKWqTgLIsSwv8PXSQd60wrU9pdxXpJNeD/dmtyL+3eytcs8l+H2MbbBHK1uRdh24YCCI4trxVDwBZ24tWFRlnt1Ecw7iCzeR44GJVkM+unBObVgx1DbKR3gQyyWz0HOV6B2kD+OWeshPXH1rVdHeKAXKurEcSLllJlDHoNloX05ZJTh3EV2sNJP0beBZAOxJyz3BWz6bqaimrqdMOsy/JEOzON1DBmMoPjTlmCAhOfDoj+E0bFu8r7uoA4tmFCG8XgerEz9ER5PlrA=;EO3plJkiPalJcfVhkGdmWw=="
+---
+
