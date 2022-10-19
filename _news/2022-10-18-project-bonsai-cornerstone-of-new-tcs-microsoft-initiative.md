@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       - url: "https://financialit.net/sites/default/files/nutanix_12.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-14T21:25:00Z
-    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-    images:
-      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
         isCached: true
   - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market 2022 Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "The report is a great resource for finding out where the Artificial Intelligence Systems in Healthcare market is currentlyand the future trends that will be driving it from 2022 to 2028. The solutions offered in this study's recommendations will assist market players in formulating their plans to seize any potential opportunities that could arise in the future."
+    publishedDateTime: 2022-10-18T01:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Market Share, Trends, Regional Overview, Leading Company Analysis and Forecast 2022 To 2030"
     excerpt: "The global neural network market was valued at $7,039 million in 2016, and is projected to reach $38,719 million by 2023, growing at a CAGR of 28.0% from 2017 to 2023. The Neural Network Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
     publishedDateTime: 2022-10-17T06:34:00Z
@@ -57,20 +71,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
-    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
-    publishedDateTime: 2022-10-14T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
     excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
     publishedDateTime: 2022-10-17T22:30:00Z

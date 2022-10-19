@@ -5,7 +5,12 @@ excerpt: "There are a few steps startups can take to maneuver through a constant
 publishedDateTime: 2022-10-19T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/"
 webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/"
+ampWebUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/19/navigating-growth-in-a-modern-day-remote-first-tech-startup/amp/"
 type: article
+quality: 72
+heat: 72
+published: true
 
 provider:
   name: Forbes
@@ -18,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "6HfV3HoJZHOacUAc4NcB4R3g6/v1TSSHj0QuzjSwYDJexHAsPa6LqVnOSISub1+hgRwWBWEqVHrX0z66aSPO7FFTHGXi9Bqgx04lfdm34a30acdhlbBAczvRwGOMQKhtPSNy3L1rHCMllSdXakSareErsdyVkBLA4iJ/ApjV4CZNPxq/3JqdPTzokfdbib2DkTfBKh80ehsCcIlImxb/F5hPMo8RE+7k5qteWEBBMuXb4WMNct9l/tQU4EHt4SP9DQFbn06b7QebZ1fEYvH/fqdiawxlrQ0LIck2uOmoOEzlC10W7vQ0LrI0/4G7wwkaGPZbEbdSRdpNKUtoJ5unuObV+s1otbEGdUfHDGRzDVE=;6LW9do/uoXteQP5foRBd9A=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/626c1a7dee40e3a7961617fb/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "kFb9KThkd2zjl25jfIZc/NOEc1AnOe3ne7a/2CgEOObLBeMkTfE29QJpqCDPvcXT+4+39GwriAl2oGwetu4+RP/YYehnhkAw7MKxYFfw6nhmTeunmO2Z4MH79W6cbk2zjUescDPdCDgpGE74CTDBP18ISX3x6zJL1bjxBKy9oiIcsZqPFYi3PGGXrIfVjxrpm5RjhaEvzLjEUutA3xI2T+hAP/8e5YnwpoSeubpOO9KORXZJ6GKqKFRTbWQA89Zwv8jcZMz38/BwaCpSwRCNdxsw5r19zy8xT46ZFlDmBBogj/lH15R4dSOy9fbqHB/BWci+yQTxHz0xfEj48MNuUwiL7cfv4avkgQ9/CA6zzJU=;BWTMWSgTAktIu/PnkTTdAg=="
 ---
 

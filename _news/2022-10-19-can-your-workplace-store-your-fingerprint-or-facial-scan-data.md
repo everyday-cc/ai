@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T09:42:00Z
 originalUrl: "https://www.marketplace.org/shows/marketplace-tech/can-your-workplace-store-your-fingerprint-or-facial-scan-data/"
 webUrl: "https://www.marketplace.org/shows/marketplace-tech/can-your-workplace-store-your-fingerprint-or-facial-scan-data/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Marketplace

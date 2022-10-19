@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
 type: article
 quality: 21
-heat: 21
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,20 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "China Autonomous Vehicles Market Report 2022: Featuring AutoX, Baidu Apollo, Didi Chuxing, Pony.ai, TuSimple & WeRide - ResearchAndMarkets.com"
-    excerpt: "China Autonomous Vehicles Market is projected to reach US$ 98.89 Billion by 2030. Self-driving cars could lead China's automotive industry into the passing lane. From automated cargo trucks to driverless taxis (AVs),"
-    publishedDateTime: 2022-10-17T10:20:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-17-china-autonomous-vehicles-market-report-2022-featuring-autox-baidu-apollo-didi-chuxing-ponyai-tusimple-and-weride-researchandmarketscom"
+  - title: "Artificial Intelligence (AI) In Social Media Market to"
+    excerpt: "Artificial intelligence (AI) in social media market share growth by the predictive risk management segment will be significant during the forecast period.  What are the major trends in the market? Increasing use of social media for advertising,"
+    publishedDateTime: 2022-10-17T17:20:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
     type: article
     provider:
-      name: The Buffalo News
-      domain: buffalonews.com
-    quality: 0
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 52
+    images:
+      - url: "https://mma.prnewswire.com/media/1921444/Global_AI_In_Social_Media_Market.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "X0IsoQX7dwOpK/J2p2X3EejzdmScIOGqTL8AlVgDxKxLV+koNhyajJ4+WZu0iC5jPC7WkGsxuzISBgm6W8Yypj2VqJq1g9t2078dRhHTdxLrSHzly2965s0I0zE4XeIGMSpydkUKfc3tK4R9vwPPQBroUoNCF/O1U99jSFWWduovpjl8YiSaMuvlkIqAhTHv4NR/lsi1gKvWd1rSY5mhIYViiL16dAzGEfNqChUWvizrEL0QhjSF/BRCO80bIr5vWbLjdSYncToDUmNOu+gD906rb6ZqKcc4BHkPEmYRCsn8liiyYyHQl08Pe814IuvS78lITHjF9FhDncqmGdKKka/YNfvmWkpd/DpIyACdND4=;5BpepK0oj9NiTENC7TciNw=="
 ---

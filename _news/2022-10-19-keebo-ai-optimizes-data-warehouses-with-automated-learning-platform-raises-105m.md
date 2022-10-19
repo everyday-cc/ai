@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/"
 type: article
 quality: 80
-heat: 81
+heat: 82
 published: true
 
 provider:

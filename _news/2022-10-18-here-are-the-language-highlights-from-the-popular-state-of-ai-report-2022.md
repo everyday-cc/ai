@@ -28,6 +28,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "“State of AI in the Enterprise” Report, 5th Edition, Uncovers Four Key Actions to Maximize AI Value"
+    excerpt: "The Deloitte AI Institute’s fifth edition of the “State of AI in the Enterprise” survey, conducted between April and May 2022, provides organizations with a roadmap to navigate lagging AI outcomes. Twenty-nine percent more respondents surveyed classify as underachievers this year,"
+    publishedDateTime: 2022-10-19T13:00:00Z
+    webUrl: "https://insidebigdata.com/2022/10/19/state-of-ai-in-the-enterprise-report-5th-edition-uncovers-four-key-actions-to-maximize-ai-value%EF%BF%BC/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 5
 
 secured: "pdcii8ceVB2tNw1ow7JwHbTv0AH2ZfUGtTDn1qKxwwqM1CNyUrN3W5fK29nXIcVzYc4oS6dQyMeoFnlHLVJpq63DuKd+Xtx3Z9Sdecc+xPJiGFuuJwmdPTt+Xkxr/9SjdMnHF8sc5p/t7dp7/HoPrRn9FR0tEvrItpnnkQrWD7ZKbWEeFF2oplDEcp0YoKebhc8l5sJ69FD6Q+NRZDba97u1tSrRKyvyg07cAwIb/w/VapyJVJW8ggxqxAraYB9Nz0uCRZTEjmwfIeO2pIy3AMyThCEnmA7EiYZdj84V/dCUOC/D1dNJz0gO/jXD8Wp/RbzkyNsRGJzDAWlUaaK6fKqP9wAjOsL630LJOOEeJszynIjlgCcRjvVb5//Q2hoRKinSehnhGA7O529qINQaFq8kMq4Iss48SHvKjmbLsURQFlWOJHDIvxTcyTL1eldaWN4YhCD7UC//lRu8GgBVSBBCJe8Ezc5RjpYxOhVQv31sPWMeptHMUNbz6+x1AeqgAv/Yi+1SSGbp+SmYDtJ57A==;aZmq/FAUroo8uSV2Yzqm2w=="
 ---

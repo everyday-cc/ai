@@ -55,6 +55,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents.md",
+      "title": "Beyond Bayes-Optimality: DeepMind & Stanford’s Meta-Learning Approach Builds Risk & Ambiguity Sensitive Agents",
+      "excerpt": "Reasoning about uncertainty is one of the crucial components informing human intelligence and our very survival — it can encourage us to take risks that have a higher expected return but also discourage us from impulsively doing things that may lead to catastrophic consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/",
+      "originalUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/13/beyond-bayes-optimality-deepmind-stanfords-meta-learning-approach-builds-risk-ambiguity-sensitive-agents/amp/",
+      "publishedDateTime": "2022-10-13T16:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later.md",
       "title": "DeepMind breaks 50-year math record using AI; new record falls a week later",
       "excerpt": "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step.",
@@ -1389,59 +1432,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-14-healthcare-ai-market-outlook-2022-and-forecast-to-2030-by-apple-ge-healthcare-google-deepmind-health.md",
-      "title": "Healthcare AI Market Outlook 2022 and Forecast to 2030 | By -Apple, Ge Healthcare, Google Deepmind Health",
-      "excerpt": "We will analyze the huge rivalry in the Healthcare AI market by association and take a gander at its singular construction, business portrayal, item portfolio, basic financials, and so forth. Alongside market improvement frameworks,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2022-and-forecast-to-2030-by--apple-ge-healthcare-google-deepmind-health-2022-09-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-ai-market-outlook-2022-and-forecast-to-2030-by--apple-ge-healthcare-google-deepmind-health-2022-09-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-13T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

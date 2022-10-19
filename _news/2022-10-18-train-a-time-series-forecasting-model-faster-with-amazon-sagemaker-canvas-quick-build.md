@@ -71,19 +71,19 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
-    excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"
-    publishedDateTime: 2022-10-14T22:12:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
+  - title: "Design patterns for serial inference on Amazon SageMaker"
+    excerpt: "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined"
+    publishedDateTime: 2022-10-19T15:52:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 83
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
-        width: 1550
-        height: 773
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg"
+        width: 1340
+        height: 675
         isCached: true
 
 secured: "FEzjOCtkj0k6msJvCimxl5UdYDF9dJ/ld243+kXUCcTgYjmhkIlubnppf3yiBuOBSMAlx7W2ak2DzIjlpa//zu72YwAOMGBlSzkbp01HOtdAamJC021BYBk86T3AG4X5axvzTqloraLG0guUWcNbLHlZDz4FloAWFmCQbG0R8JIQGe5jLB4G5kUlkKpn8nRY5IkgsfafvM3/bs1JqHB0kY7+zAVP2nDeLvZiEfIEUf8AjprixUTmhN3zdLamMPn2fKANRzHI9SbyOV38vS/pH8Tl/zW+DfcXuxbDeryxPop3QuhP44JNAi8uTmrAn/nE7ZS6ognWvL+ri4vfst7tlPSBkHdSOa/Kj9x2uTHBw6g=;2nmuUKMvpUATaDxCejW6CA=="

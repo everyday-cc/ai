@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/ai/55669-ai-can-t-translate-language
 webUrl: "https://www.fudzilla.com/news/ai/55669-ai-can-t-translate-languages"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,33 @@ images:
     width: 620
     height: 465
     isCached: true
+
+related:
+  - title: "Using AI to Translate Speech For a Primarily Oral Language"
+    excerpt: "We’ve built the first speech-to-speech translation system powered by artificial intelligence (AI) for Hokkien, a primarily oral language spoken within the Chinese diaspora. Our AI research can help break down language barriers in both the physical world and the metaverse to encourage connection and mutual understanding."
+    publishedDateTime: 2022-10-19T15:10:00Z
+    webUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/"
+    ampWebUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 74
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2022/10/AI-Blog-Summary_-Speech-Translation-Hokkien_Social-Share-Image.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "How a real estate company is using AI to find and remove racist language from property documents"
+    excerpt: "John L. Scott Real Estate is using Amazon Web Services technology to tackle the tough challenge of scrubbing racist language from property title documents."
+    publishedDateTime: 2022-10-19T09:58:00Z
+    webUrl: "https://www.zdnet.com/article/how-a-real-estate-company-is-using-ai-to-find-and-remove-racist-language-from-property-documents/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 34
 
 secured: "+Z9k6nGEZ9YgAPd8oC++sVgPSAin72BbRhwj123aYYDVpmmYBK0Bc2p9/hfxRthl0a112EFR3w0t4dwwxr4yJUzh608EBac96N81FUPC2w0ftn1l7xNGRGQbeOpRQGLVbXiXK4XjoPVHaA74+eW9J/kXeMLW33jWyzYN8tiPRgylsMPz2LGmwKg9wvFk7Elv0IFcsL86dybi7uSKc45HLu9Fw7o0Dqq2AHFVfad7tbiw6m2fzQDUHCUuclYYBV6m/YEgnJKcFFzZolQX981N38MnVyDD807DyoyC69pPY84XITBZJQugIaIxG0AruPz0nlNYyK3Ck3YijOdTq1sWshFDkqUcIP525STYR6uJXPrROYUacWsH6gImprLHYebC9ozhONVXH83pygHZczBZWkNwEtxD2vopKCjg/aJm5//wWRFoCUyABH1CMeTVQ9+6VKvBSGHQgxXUWAV96pKMm71WZWdGgNthjV4R0wTi3wE8mn/iouO/ayGtP4VtY9V5+XjPbNSlwUotl6rPDykjGw==;1FFzotf7fY5K1aJqbwp64A=="
 ---

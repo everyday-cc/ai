@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
 type: article
 quality: 76
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine Learning in Medicine Market by top manufacturers, type and application, with sales market share and growth rate Forecasts till 2028"
+    excerpt: "The Global Machine Learning in Medicine Market 2022 report is a thorough assessment of the worldwide industry with"
+    publishedDateTime: 2022-10-18T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medicine-market-by-top-manufacturers-type-and-application-with-sales-market-share-and-growth-rate-forecasts-till-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

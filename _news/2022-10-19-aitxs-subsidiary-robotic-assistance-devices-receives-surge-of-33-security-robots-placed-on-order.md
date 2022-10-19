@@ -1,21 +1,30 @@
 ---
 category: news
 title: "AITX's Subsidiary Robotic Assistance Devices Receives Surge of 33 Security Robots Placed on Order"
-excerpt: "Orders for 33 Devices Secured Since Last Public Update Detroit, Michigan, Oct. 19, 2022 (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its w"
-publishedDateTime: 2022-10-19T12:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29322502/aitxs-subsidiary-robotic-assistance-devices-receives-surge-of-33-security-robots-placed-on-order"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29322502/aitxs-subsidiary-robotic-assistance-devices-receives-surge-of-33-security-robots-placed-on-order"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX), today announced that its wholly owned subsidiary, Robotic Assistance Devices, Inc. (RAD) has received multiple orders, totaling 33 units,"
+publishedDateTime: 2022-10-19T13:25:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/19/9695661.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/19/9695661.htm"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Security
 
-secured: "QBxRazRA5Ena4ZXb2bg2vaM0lUj+4neCFxZ4g/TvU9ee63CSaHMT/UWJbcUnhFgxblkNvZU/1yvgxmvqJY2eQNSbDr60bEPOKc1NASNDKXACwLq+aeVBIPhow+FUoRgYv1i5KqlZwOs6JvMEFQoYfiJ6rx1A/rdZnnRcoUdKDAvnXembQKl3jJ9h1xWILlfPG9mERBf3OTpd5T6sFghQulPPANYw719HjYjR/nKithLy3PBwQXpNfrTHhX58+q6/AtfBQ/7ZuHZg5l/ithm1wDW0bgPnzWbdovJgjXKLJTbK0mN3ifzmT1P5G5bLsh1ImqnOBVOM6TlUzBZTyjcdzkX8osFHjw9nBQsl6Sa0T8o=;jPTk6pT8gSbvayPzO1XaOA=="
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
+
+secured: "RgqqejDNOMkU5NNEjUTq9sUPY5YS6hgrwScx1o3Qe4nF7XK08gRvPLkA2P+9vtaM1MUs7R0e51j63ObNfBp1cFETz42sKa/UcZWrG5VHlKTm+849E1O3c4ty4CJh9wHL6NVhYHRoKV+gKN1IYUBhRGNDilhgLJtY9jtunaE1lFGJ8GI/zCsn1qcd7Ks+ds5Ai76hmRwEpNaZgqbrce7dn8hkRJtw/FVQf4sSSCW1GsqYcle+Q2IzPpAbZlP63TT/Z/btCI9MeWrUUYDGo8dU9AQQ55T2ayXL0i5aOrAKITtZsvtnt7NojusBYWoRVqG+O8lGx90InjpW6by2PccVEo0vXkjCXrsWdAZvBpKxiTI=;T1NAdzPz6z8sRIaGN4fqww=="
 ---
 

@@ -41,50 +41,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "Microsoft CEO Talks AI, Security, Teams, Azure At Ignite 2022"
-    excerpt: "Azure is the only cloud that supports all organizations and all workloads, from enterprises to startups to highly regulated industries,’ Microsoft CEO Satya Nadella says in his Ignite keynote this week."
-    publishedDateTime: 2022-10-14T22:38:00Z
-    webUrl: "https://www.crn.com/news/cloud/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 86
-    images:
-      - url: "https://www.crn.com/resources/026b-12dc0c217709-cef7b9099c99-1000/nadella-intro2.jpg"
-        width: 609
-        height: 457
-        isCached: true
-  - title: "Microsoft Ignite 2022: Microsoft Envisions an Automated Future"
-    excerpt: "Successful AI business outcomes will depend on the careful selection of use cases,” Gartner Senior Research Director Alys Woodward said Thursday at Microsoft Ignite 2022. “Use cases that deliver significant business value,"
-    publishedDateTime: 2022-10-14T22:31:00Z
-    webUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future"
-    ampWebUrl: "https://biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
-    cdnAmpWebUrl: "https://biztechmagazine-com.cdn.ampproject.org/c/s/biztechmagazine.com/article/2022/10/microsoft-ignite-2022-microsoft-envisions-automated-future?amp"
-    type: article
-    provider:
-      name: BizTech
-      domain: biztechmagazine.com
-    quality: 59
-    images:
-      - url: "https://biztechmagazine.com/sites/biztechmagazine.com/files/2022-10/BTQ422_MicrosoftIgnite_Insider_CTA_300x250_1.jpg"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Microsoft Secures Azure Enclaves With Hardware Guards"
-    excerpt: "Microsoft highlighted emerging confidential computing offerings for Azure during its Ignite conference. Microsoft is putting hardware in charge of data protection in Azure to help customers feel confident about sharing data with authorized parties within the cloud environment."
-    publishedDateTime: 2022-10-14T20:42:00Z
-    webUrl: "https://www.darkreading.com/dr-tech/microsoft-secures-azure-enclaves-with-hardware-guards"
-    type: article
-    provider:
-      name: Dark Reading
-      domain: darkreading.com
-    quality: 54
-    images:
-      - url: "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/blt441ad442689eef67/6349c98656714a6f890cb9f1/azure-tofino-alamy.jpg"
-        width: 7360
-        height: 4134
-        isCached: true
   - title: "MongoDB expands Microsoft Azure alliance"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-17T22:27:00Z

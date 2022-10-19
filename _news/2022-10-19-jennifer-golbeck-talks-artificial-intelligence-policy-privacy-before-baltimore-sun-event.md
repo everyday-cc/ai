@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T12:00:00Z
 originalUrl: "https://www.baltimoresun.com/features/women-to-watch/bs-fe-q-a-jennifer-golbeck-20221019-olqq5itjbvhwjh53mu5ywud4i4-story.html"
 webUrl: "https://www.baltimoresun.com/features/women-to-watch/bs-fe-q-a-jennifer-golbeck-20221019-olqq5itjbvhwjh53mu5ywud4i4-story.html"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: The Baltimore Sun

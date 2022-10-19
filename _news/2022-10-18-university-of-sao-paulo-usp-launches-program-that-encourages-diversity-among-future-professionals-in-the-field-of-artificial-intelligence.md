@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T01:56:00Z
 originalUrl: "https://indiaeducationdiary.in/university-of-sao-paulo-usp-launches-program-that-encourages-diversity-among-future-professionals-in-the-field-of-artificial-intelligence/"
 webUrl: "https://indiaeducationdiary.in/university-of-sao-paulo-usp-launches-program-that-encourages-diversity-among-future-professionals-in-the-field-of-artificial-intelligence/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: India Education Diary

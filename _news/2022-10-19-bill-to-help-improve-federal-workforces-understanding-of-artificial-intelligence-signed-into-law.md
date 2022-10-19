@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T12:35:00Z
 originalUrl: "https://www.hstoday.us/industry/emerging-innovation/bill-to-help-improve-federal-workforces-understanding-of-artificial-intelligence-signed-into-law/"
 webUrl: "https://www.hstoday.us/industry/emerging-innovation/bill-to-help-improve-federal-workforces-understanding-of-artificial-intelligence-signed-into-law/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Homeland Security Today

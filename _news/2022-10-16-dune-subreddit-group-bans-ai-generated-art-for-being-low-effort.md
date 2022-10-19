@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-ba
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/film/2022/oct/16/dune-subreddit-group-bans-ai-generated-art-for-being-low-effort"
 type: article
 quality: 57
-heat: -1
+heat: 57
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "Moderators ban AI-generated artwork from ‘Dune’ subreddit"
-    excerpt: "As first spotted by Motherboard, the newest anti-AI art individuals are the moderators behind the biggest subreddit dedicated to all things Dune. First introduced by author Frank Herbert via the 1965 novel of the same name,"
-    publishedDateTime: 2022-10-14T21:00:00Z
-    webUrl: "https://www.popsci.com/technology/dune-reddit-bam-ai/"
-    ampWebUrl: "https://www.popsci.com/technology/dune-reddit-bam-ai/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/dune-reddit-bam-ai/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/10/14/Depositphotos_162878332_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
 
 secured: "Hv2SuaFttihVJg2kvZg3q2X+oOl3fwYxuLdJ/FU6VLFAV7HPDnB2Ovo6WZ51ICmlpThMbSHknDBpWe0mTIhspwdcZlS/tP+pkFVwMZjdyo0zPniIzsaZEgcdqud0tKU1OsO87zKhU8jnObMuh3fj7yqn4Ryn1ATR/uDeIyorBTO3BfmryZFM4JIpTc4DnZaICTqNXaCxRkaDbgiy3Q40CZyLnY3CU++20nk/ftMSARVo9jQXtgXZXRMrfZVw8BEyVOaylXKGuqJf/UEsx84P2d4hf4cHSQrD4+gZopcK6ZDl74iWvUsit2pEhS/at0jM33rAU5U8y3GmfXvxilI1N+iZmbc4+10Er826O/6zzpwwTH5DNXUiCxJZnQuOsU1anvbzv+N/BBfaFAt+z7dmEo112/l1IqMI8vw3mTjSrMV/9xP6nFBDB8KrrkFFX2+OfaxCoOh8sS6WzwJYztc+/bh4YH7k8HE5yRRqwdnU/p2KAc4glkLWR7+a2rNzxCQyj11yT5N0qf8T739i2VEf9w==;5+JJbiNMjh+1m3daITk85g=="
 ---

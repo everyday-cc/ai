@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Systems in Healthcare Market 2022 Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
+    excerpt: "The report is a great resource for finding out where the Artificial Intelligence Systems in Healthcare market is currentlyand the future trends that will be driving it from 2022 to 2028. The solutions offered in this study's recommendations will assist market players in formulating their plans to seize any potential opportunities that could arise in the future."
+    publishedDateTime: 2022-10-18T01:44:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 55
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Robotics Market Research Report 2022-2027: Top Companies (ABB Group, KUKA AG, FANUC Corporation)"
     excerpt: "Robotics Market IMARC Group expects the global robotics market to reach US$ 87.2 Billion by 2027, exhibiting a CAGR of 17.6% during 2022-"
     publishedDateTime: 2022-10-15T05:23:00Z
@@ -69,20 +83,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Self-driving Cars and Trucks Market For the period 2022 To 2028, this research report shows the current state and prospects and Growth."
-    excerpt: "The focus of this \" Self-driving Cars and Trucks Market \" is on crucial elements including current market trends, sales volume, revenue projections, market size, and geographical concentration. The market segmentation study in the Self-driving Cars and Trucks market report is broken down by type,"
-    publishedDateTime: 2022-10-14T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-cars-and-trucks-market-for-the-period-2022-to-2028-this-research-report-shows-the-current-state-and-prospects-and-growth-2022-10-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "mDy/vyv48IvrEfODHXpQyffuVwLDBq53P3t71QGc03HxnCFEyeu59gfMlmA9fwOYtGg0OLx2G+jQOuMRbCm6eCP94MA6kry2czbKWbgHGhWVW/KHdbIA/Y190tfyYpIrMmCKi3dNM7MgqYYSI/hmsHU9+sK0dp6ty+Qr0a3OUuBEKGGMYq9chSzUMFJ7AiM4Rr3Eon4l6M2WiJleEoxAZjsBw3XAIDgZt1l5GRHq1vXouoXjFuhadyAafXNiNBSEdrg+pGAzuUpcsZXInf5lurydNUBzxIzZ3qMdOlJPs0ubTBqRsWMZ+i8+5IOiEak26d9Oa3utOXqoYLXxgfQJkBHn7nEE6rgKCAp1cCXyE9o=;R8IqqLYUdp+CvIE8sHmdRA=="
 ---

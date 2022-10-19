@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Medicine Market by top manufacturers, type and application, with sales market share and growth rate Forecasts till 2028"
+    excerpt: "The Global Machine Learning in Medicine Market 2022 report is a thorough assessment of the worldwide industry with"
+    publishedDateTime: 2022-10-18T04:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medicine-market-by-top-manufacturers-type-and-application-with-sales-market-share-and-growth-rate-forecasts-till-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Courses Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
     excerpt: "PESTEL analysis research evaluates the worldwide Machine Learning Courses market's social, economic, environmental, and political factors. The research examines recent market tendencies, development potential,"
     publishedDateTime: 2022-10-18T04:00:00Z

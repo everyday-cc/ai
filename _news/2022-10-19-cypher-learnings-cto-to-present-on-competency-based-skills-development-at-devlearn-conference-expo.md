@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T12:17:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29321969/cypher-learnings-cto-to-present-on-competency-based-skills-development-at-devlearn-conference-expo"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29321969/cypher-learnings-cto-to-present-on-competency-based-skills-development-at-devlearn-conference-expo"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-social-media-market-grow-usd-/2022/10/17/9693744.htm"
 type: article
 quality: 52
-heat: -1
+heat: 62
 published: false
 
 provider:
@@ -24,22 +24,17 @@ images:
     isCached: true
 
 related:
-  - title: "Omneky uses AI to generate social media ads"
-    excerpt: "The company wants to make online ads both cheaper and more effective thanks to recent innovations in artificial intelligence and computer vision. Omneky is participating in Startup Battlefield at TechCrunch Disrupt 2022."
-    publishedDateTime: 2022-10-18T20:27:00Z
-    webUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/"
-    ampWebUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
+  - title: "Artificial Intelligence (AI) in Clinical Trials Market is Projected to Reach $4.8 billion by 2027- Exclusive Report by MarketsandMarkets™"
+    excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Clinical Trials Market by Offering (Software, Services), Technology (Machine Learning, Deep"
+    publishedDateTime: 2022-10-18T07:45:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intelligence-ai-in-clinical-trials-market-is-projected-to-reach-4-8-billion-by-2027-exc"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/omneky.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "kNSnqy+z5E30GGD2wl4UbwVpTTfOdVfHQieqzS6jFLNVIJxR0OpUQ+0Gk3CFWT8PmTjdENk9LXyHUkqMtcXHEFgeLAvOljb7MklaPPyxE1X7zjk2YCWuU4chdbbiL9hbtfulm1if+PHKsVbaf0vLA79ejVXpjoMfJRS7iKhzgCU/hk6f+o8YXvUXoX26ANjucz+WAIogHpjVezg5Ge6YllYuG4+S1ZgHj5IdJcpy6vl1ds7wt5rwkitjokHFHkh4DTHL96L4lkYENlrOmg3oAXw9VwCJDu3OTQXbVMArxB3RbPN68iCZbz+E2e3cEBr89C0w0WdNQcUK12Zgp2FBWV23lZmPLB4TGn4Q4wdA01kOhaMLW54LYIGpNdEAzKqVcC0S9Gu2ONSJWiG86esmoAJQiu6vIkzmm5E834l8WWttMdgRMVgDzaEAvgvz6N7i+s7V0t6OYTOgwW7fvMJuAHCH6mOFKprcUDcbCGA3d7SpIfUuuF31vR0yvd+tRbsEkK3HGI3/7bl3a3zqKWn8/w==;WY5VU8i+xlR9GNPXzKnX9g=="
 ---

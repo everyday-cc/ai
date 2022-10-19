@@ -24,21 +24,21 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is enriching mapping technology"
-    excerpt: "With much of our lives dependent on digital maps and navigation systems, can we even think of going back to physical maps? The good news is that we don’t have to. As we bid"
-    publishedDateTime: 2022-10-18T10:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
+  - title: "AI Law And AI Ethics Deeply Disturbed By That Recent “History-Making Moment” Of An AI Robot Testifying To The UK Parliament"
+    excerpt: "An AI robot spoke to the UK Parliament in a committee hearing, which has been heralded as historic and meanwhile scoffed at as being nothing more than a cheap stunt. We take a close look at what occurred and examine the true limits of AI and robots."
+    publishedDateTime: 2022-10-19T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: Forbes
+      domain: forbes.com
+    quality: 95
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Rajat.png"
-        width: 433
-        height: 410
+      - url: "https://imageio.forbes.com/specials-images/imageserve/634dd406801f9839f3ad84c7/0x0.jpg?format=jpg&crop=3835,2159,x0,y240,safe&width=1200"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "qdUlaKKcbhpYIVJychwUsRE9vskRf/wOz87cedZFRnFcjGbJKzQ3ofFgkvnIvgkgwOQahW2W9aLqnXqZd3oo95moKOxq3hlVjZqHFKfGgbTR51kjEY4J/niWtCxdtTT7SZ890bTyD/e6FBt7LEwi8e94x09ZnzOzBhkPLxmvMlH5stWqXju18SCHvDdIn6wCYmwQtSFSUVwveuQtNoGq8Zm+SijOQEjLWw0I/peY2lzwpaaV7q5O2B7tFjdzRBfwosTCod28PywPDOfbMA9PNIkbT5sxOO7KuA/8BhpwPNl3OPgwaIUhfBsR+gxd/sKKeBHiQcqCgRISc6vwvF1Jy4MWyejUroW1gdYeXG/S2m8=;ev0PD+EE7uSpiMn/clo6rg=="

@@ -49,20 +49,6 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-14T21:25:00Z
-    webUrl: "https://www.crn.com/news/applications-os/mongodb-expands-microsoft-azure-alliance-to-boost-developer-opportunities"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 53
-    images:
-      - url: "https://www.crn.com/resources/0273-14abdb137e36-d511f78e3d39-1000/chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
-        isCached: true
   - title: "Microsoft mum on Boston-area impact of reported layoffs"
     excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
     publishedDateTime: 2022-10-18T17:57:00Z

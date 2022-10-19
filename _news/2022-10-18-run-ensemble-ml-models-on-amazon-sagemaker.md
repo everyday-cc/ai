@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 146
+heat: 148
 published: true
 
 provider:
@@ -72,19 +72,19 @@ related:
         width: 1260
         height: 630
         isCached: true
-  - title: "Run and optimize multi-model inference with Amazon SageMaker multi-model endpoints"
-    excerpt: "Amazon SageMaker multi-model endpoint (MME) enables you to cost-effectively deploy and host multiple models in a single endpoint and then horizontally scale the endpoint to achieve scale. As illustrated in the following figure, this is an effective technique to implement multi-tenancy of models within"
-    publishedDateTime: 2022-10-14T22:12:35Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-and-optimize-multi-model-inference-with-amazon-sagemaker-multi-model-endpoints/"
+  - title: "Design patterns for serial inference on Amazon SageMaker"
+    excerpt: "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined"
+    publishedDateTime: 2022-10-19T15:52:23Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 83
+    quality: 89
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/multi-modal-inference-sagemaker.jpg"
-        width: 1550
-        height: 773
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg"
+        width: 1340
+        height: 675
         isCached: true
 
 secured: "2hNm5i+GN6ME4PCp8cFf7730m4MO71sWiYtwK7/x55FIr/rhKxbiZUZqKYQEE929N8SOUWI4PAvTPkeG0Ox24qTdi/3jexBYZ7HlmjBHBnWO7SiiuJ+fC+mAXtmj3Mf3DH+X4ZptbPqXP6FUbkcnUU/JOHPypASCM2lQbQtL5h9RGOjVy43b1BUlYd5sfHZV/M+Ch8p3zvoYnU2jff73WyJx6+nkbj/IiDdowdf0rHG8q1g4Y9VCD3XTila52Cxd0ffUhGxo9ufydgKVrkVG0S1RKY0E4HhQixH+8QZG1VDg4+b82EhCdDcegwS5hY7HSRSo42M2MvTxdJ0/tGEw/tp4QSDEt5Gre7Hqk0GJD5Q=;3Vx77bO5o0+g0OXJx9S+kw=="
