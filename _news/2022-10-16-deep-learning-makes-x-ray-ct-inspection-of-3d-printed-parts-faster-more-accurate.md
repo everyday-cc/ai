@@ -53,15 +53,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Deep learning makes X-ray CT inspection of 3D printed parts faster, more accurate"
-    excerpt: "A new deep-learning framework developed at the Department of Energy’s Oak Ridge National Laboratory is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography,"
-    publishedDateTime: 2022-10-14T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/deep-learning-makes-x-ray-ct-inspection-3d-printed-parts-faster-more-accurate"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 14
 
 secured: "l2XTwtiuprAO8+8Oo4Z/bIxOp+xCiCVDcI8ifr0JKZQloV56F9Wb02uqv5LT7wBSg9+HBdVc0OW+2UrDdpnYIWkfOkLqNkLMTEHieczhCOO64J1p4h7/IxzcdXrj9rPDcZmxeyRI1L+5Clp31xOUIQC7CMMQ8/ZIPXtB8wl70bhFusHlZzJjkC8pXgKUOEg1gwrToqhfvNWlsD47/Ci6DNzxFh+/HfA5Gi13yRzdi97H0xslrsBPShJS77Xl2htTeRzl9xV7FL5DrKiTFxglgonQdxcJ/+cz7ag8VxOcAE/9Yh+q1ZbM+KmDJNFM44xUoGrv/UqWZKL6ZFnX4y9wTPZJX93APrtdpsOS8mie4Mo=;ksL61ioAQbAZPIgQktmlUQ=="
 ---

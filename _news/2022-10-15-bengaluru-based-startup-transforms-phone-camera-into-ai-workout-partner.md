@@ -9,8 +9,8 @@ ampWebUrl: "https://www.freepressjournal.in/amp/tech/bengaluru-based-startup-tra
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/tech/bengaluru-based-startup-transforms-phone-camera-into-ai-workout-partner"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: The Free Press Journal
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
-    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
-    publishedDateTime: 2022-10-14T12:25:00Z
-    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 12
   - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
     excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
     publishedDateTime: 2022-10-15T21:28:00Z

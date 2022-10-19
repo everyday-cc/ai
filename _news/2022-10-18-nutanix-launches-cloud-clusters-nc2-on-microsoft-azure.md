@@ -35,6 +35,20 @@ related:
         width: 796
         height: 438
         isCached: true
+  - title: "Nutanix Launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "Nutanix has announced the general availability of Nutanix Cloud Clusters (NC2) on Microsoft Azure, extending its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes. NC2 on Azure offers a seamless hyperconverged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption."
+    publishedDateTime: 2022-10-17T11:18:00Z
+    webUrl: "https://financialit.net/news/cloud/nutanix-launches-cloud-clusters-nc2-microsoft-azure"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 54
+    images:
+      - url: "https://financialit.net/sites/default/files/nutanix_12.png"
+        width: 1366
+        height: 768
+        isCached: true
   - title: "MongoDB Expands Microsoft Azure Alliance To Boost Developer Opportunities"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-14T21:25:00Z
@@ -49,15 +63,6 @@ related:
         width: 610
         height: 354
         isCached: true
-  - title: "Microsoft Cloud and AI chief Scott Guthrie on what's new and next for Microsoft Cloud customers"
-    excerpt: "Microsoft Executive Vice President Scott Guthrie shares his take-aways on Microsoft's latest cloud, data platform, AI, Dynamics and Power Platform announcements this week at Ignite."
-    publishedDateTime: 2022-10-14T12:55:00Z
-    webUrl: "https://www.zdnet.com/article/microsoft-cloud-and-ai-chief-scott-guthrie-on-whats-new-and-next-for-microsoft-cloud-customers/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 52
   - title: "Microsoft mum on Boston-area impact of reported layoffs"
     excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
     publishedDateTime: 2022-10-18T17:57:00Z

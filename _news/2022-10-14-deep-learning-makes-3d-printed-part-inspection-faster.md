@@ -50,15 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 44
-  - title: "Deep learning makes X-ray CT inspection of 3D printed parts faster, more accurate"
-    excerpt: "A new deep-learning framework developed at the Department of Energy’s Oak Ridge National Laboratory is speeding up the process of inspecting additively manufactured metal parts using X-ray computed tomography,"
-    publishedDateTime: 2022-10-14T12:00:00Z
-    webUrl: "https://www.ornl.gov/news/deep-learning-makes-x-ray-ct-inspection-3d-printed-parts-faster-more-accurate"
-    type: article
-    provider:
-      name: Oak Ridge National Lab
-      domain: ornl.gov
-    quality: 14
 
 secured: "Yz++UDkjjSqA/B15sHiRL48COpzMk3GOY05tdpLpVwp78Sd8gDGt0nXKe5shHt3KG7nqjntrgzShzHPA2mQs7RKYoMs+LZihAh4mT2TBeNaS4LchNS5nA6b5lH4h7JRbY0QfrXa+J5BN51fWwDW3XEO4WDA8U1jzw5IWIoc3ZlZpmW4FXfQa+yItAsLmiZQG7b9pj4Jilo0Rk2Kj4/3yzMTb2eh9fBc7zPXHwQIQsNXF5WRiY/NE5xmn/btx4+/PFZP0gdfAeYxpzoogyDIvnv0HctVZkBMh34cxwDIUsAc5m5Tsuum4o5u03GmObmvdIAD/FD0kFkA2eNrEqNduupLzCUyvg8FLdfrM4HcYezyh5IoekvToaqj5nA7f2sPz9gUy1QdhzCXfVee1zyEeGsUZFrhmO2anyQEA+9Oo/qsV1zONVXAkFMv9gAbE8G5eymxfdQoVxwNffrmF2vU2wKFJruyl2u8U2wMcWyztoGp2TKkSzn/y0rtRAq7LmeOuhU2/RetJuJ9ixPUXc9JYzw==;IqCSMqvsDoWWkbOxudVlqw=="
 ---

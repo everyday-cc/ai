@@ -34,15 +34,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Startup Awiros to power AI-based video analytics for Bengaluru Safe City project"
-    excerpt: "Deep tech startup company Awiros on Friday said that it has partnered with Bengaluru City Police to provide advanced video analytics for high-resolution surveillance cameras for Bengaluru Safe City project."
-    publishedDateTime: 2022-10-14T12:25:00Z
-    webUrl: "https://www.livemint.com/news/india/startup-awiros-to-power-ai-based-video-analytics-for-bengaluru-safe-city-project-11665749881541.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 12
 
 secured: "MN8arwNR75NyLJgnVJa04+6tDJe5Y10e8/aAx0qZKeWWbC7+5M7Su/I2MRm+KKq5z0KTpCWywNtNG2BVA6JqNH/CcdmIqaKiCik52vVNEL6GmClXjeyJWX/v+lJBMY8GsDlimwGKB83PrQ9+Y/99OL5BExvLLfUGLEjXWx1pOP7JY9PknaOMZmYTXBS8T1MluMx6baYYVAMbdZUt5iOd257qCN3jfX4Jo9i48RzqPLxCANff6JQXCLhdBS1OVGzW7vsazoH1r/2FCLEab1EzKP/Xf8hu4M376qsNwW58l56MaQCnGprsmWbnDIjYclViFJVMoX9D1AVoUxi+wyBQ5I5j9ak8wLG5qa3+cEDOMGQ=;q5DiGdoTwiwl9pvLRLe47g=="
 ---

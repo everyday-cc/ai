@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Object Recognition Imaging Systems Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2029"
+    excerpt: "Object Recognition Imaging Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-19T04:39:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
     excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-17T04:23:00Z
