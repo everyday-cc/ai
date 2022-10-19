@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-14-ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between.md",
+      "title": "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between",
+      "excerpt": "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
+      "originalUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
+      "publishedDateTime": "2022-10-14T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "in.mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-joe-rogan-says-biden-has-dementia-clear-evidence-of-cognitive-decline.md",
       "title": "Joe Rogan Says Biden Has Dementia: 'Clear Evidence of Cognitive Decline'",
       "excerpt": "\"If you talk to any person who treats people with dementia and you show them what he used to be like versus what he's like now, there is clear evidence of cognitive decline.\" On an episode of \"The ...",
@@ -62,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-agriculture-market-size-share-and-forecast-till-2028-2022-10-14",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 125,
       "tags": null,
       "images": [
         {
@@ -113,7 +156,7 @@
       "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-language-models-show-bias-against-people-with-disabilities/94855381",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -247,6 +290,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "AI language models show bias against people with disabilities: Study",
+      "excerpt": "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1665719039.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T20:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1156,103 +1242,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-3-unexpected-industries-robots-will-improve.md",
-      "title": "3 Unexpected Industries Robots Will Improve",
-      "excerpt": "Robots may be taking over the world, but in the best way possible. Robotic technology is sparking innovation in several industries, including three you might not have considered.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/",
-      "originalUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63472a6e8eddcc8f23de06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/serenitygibbons/2022/10/13/3-unexpected-industries-robots-will-improve/amp/",
-      "publishedDateTime": "2022-10-13T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
-      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

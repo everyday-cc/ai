@@ -58,15 +58,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
-    publishedDateTime: 2022-10-14T06:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 49
   - title: "Microsoft mum on Boston-area impact of reported layoffs"
     excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
     publishedDateTime: 2022-10-18T17:57:00Z

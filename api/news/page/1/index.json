@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
+      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
+      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "publishedDateTime": "2022-10-18T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
       "title": "11 new deaths tied to semi-autonomous driving systems",
       "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
@@ -104,7 +155,7 @@
       "originalUrl": "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -969,7 +1020,7 @@
       "originalUrl": "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -1181,57 +1232,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-september-inflation-figures-and-savers-see-silver-lining-for-rising-rates-forbes-ai-newsletter-october-15th.md",
-      "title": "September Inflation Figures And Savers See Silver Lining For Rising Rates - Forbes AI Newsletter October 15th",
-      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d60c9c3abb40fda8e9c6e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/amp/",
-      "publishedDateTime": "2022-10-17T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

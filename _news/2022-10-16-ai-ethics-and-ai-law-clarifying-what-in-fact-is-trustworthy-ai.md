@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/amp/"
 type: article
 quality: 106
-heat: 108
+heat: 106
 published: true
 
 provider:

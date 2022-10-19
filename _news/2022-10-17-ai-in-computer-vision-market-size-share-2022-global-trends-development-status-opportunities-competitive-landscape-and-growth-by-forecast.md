@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
+    excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
+    publishedDateTime: 2022-10-18T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Mobile Artificial Intelligence (AI) Market Detailed Analysis of Current Industry Figures with Forecasts Growth By 2028"
     excerpt: "Oct 14, 2022 (Heraldkeepers) -- \" Mobile Artificial Intelligence (AI) Market Forecast to 2028 – Covid-19 Impact and Global Analysis – by Technology"
     publishedDateTime: 2022-10-14T07:20:00Z

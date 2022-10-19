@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-17-september-inflation-figures-and-savers-see-silver-lining-for-rising-rates-forbes-ai-newsletter-october-15th.md",
+      "title": "September Inflation Figures And Savers See Silver Lining For Rising Rates - Forbes AI Newsletter October 15th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634d60c9c3abb40fda8e9c6e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/amp/",
+      "publishedDateTime": "2022-10-17T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
       "title": "Four thoughts on AI deep learning in 2022",
       "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
@@ -160,7 +211,7 @@
       "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 122,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -212,7 +263,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/16/ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 106,
       "tags": null,
       "images": [
         {
@@ -308,7 +359,7 @@
       "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1207,49 +1258,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between.md",
-      "title": "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between",
-      "excerpt": "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "originalUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "publishedDateTime": "2022-10-14T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

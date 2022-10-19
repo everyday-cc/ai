@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-fo
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/"
 type: article
 quality: 76
-heat: 89
+heat: 86
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
 type: article
 quality: 119
-heat: 122
+heat: 119
 published: true
 
 provider:

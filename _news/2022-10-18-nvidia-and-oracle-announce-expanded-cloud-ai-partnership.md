@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/nvidia-and-oracle-announce-expanded-cloud-ai-partnership/amp/"
 type: article
 quality: 89
-heat: 150
+heat: 140
 published: true
 
 provider:
@@ -79,20 +79,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "China Chip Export Restriction Analysis - AMD Vs. Nvidia"
-    excerpt: "The U.S. government’s ban of chip technology exports to China has potential implications on AMD and Nvidia. See why we believe AMD makes for a better buy here."
-    publishedDateTime: 2022-10-14T06:12:00Z
-    webUrl: "https://seekingalpha.com/article/4546523-china-chip-export-restriction-analysis-amd-vs-nvidia-stock"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397047877/image_1397047877.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Oracle, Nvidia team up to boost artificial intelligence adoption in enterprise"
     excerpt: "Oracle (ORCL) and Nvidia (NVDA) said on Tuesday they were expanding an existing partnership in an effort to boost artificial intelligence adoption in the enterprise.The new"
     publishedDateTime: 2022-10-18T16:17:00Z

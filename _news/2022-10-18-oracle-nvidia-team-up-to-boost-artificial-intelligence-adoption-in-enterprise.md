@@ -89,20 +89,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "China Chip Export Restriction Analysis - AMD Vs. Nvidia"
-    excerpt: "The U.S. government’s ban of chip technology exports to China has potential implications on AMD and Nvidia. See why we believe AMD makes for a better buy here."
-    publishedDateTime: 2022-10-14T06:12:00Z
-    webUrl: "https://seekingalpha.com/article/4546523-china-chip-export-restriction-analysis-amd-vs-nvidia-stock"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 39
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1397047877/image_1397047877.jpg?io=getty-c-w750"
-        width: 750
-        height: 422
-        isCached: true
 
 secured: "VYbJ5mTavxq4dAfnJNk649Ho7J+edpKSVshme2DuaXwPkUSJgL3rc6/81cmCfGozSiac0p1DkLHkeNmEUElXl4QTVLhAFR61qh7Sax7Z8hSijlakJhmdWpgwkz4XAR+y/J1N8TvO1KD4jDnzd325KbtkvhuSU7B5BFQiovGSneffF5yjxy7o7fktryjbTn4v8U9vlwY5TfKQH+81hiZBthAwzfTWMF4dv5YJbGeOyXhzdS/4nIEe8bvNKS3AgvAq9gLyG/LNLQesRtoibZcFhjWAqcY0T3Qua6lQMSHniezvfrwceuc7tgQW6uxDncgHzZ/NpFPYdqYcKaMlwYlcfRO3Hb16iaQ54a+wMb2SWehCEJ2Qm0nfgxqBYxPxCgR13KSM167//qYzsb57g+40oP/TBu9wBp2cqVEdE8UnqQakWsDfdyCI667fOkh4oUcAhwjZeyPM/wOEZR7NYyilxh5i61CPAuwUOB0vserU/8xTwJgzwJt4sxuR8EJSv3Mn/0Yvdh5FqrVLuLa+cjuQ5w==;VIvkApBRVTkPVzaoQgeizA=="
 ---

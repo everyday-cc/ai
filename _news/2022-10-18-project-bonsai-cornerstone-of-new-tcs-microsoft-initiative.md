@@ -9,7 +9,7 @@ ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-
 cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 52
-  - title: "Pocket HRMS now available in the Microsoft Azure Marketplace"
-    excerpt: "As a Microsoft Partner, the Azure Marketplace would enable Pocket HRMS to make their payroll and HRMS software available to a broader audience of companies looking to digitize and enhance their HR processes."
-    publishedDateTime: 2022-10-14T06:29:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221014/3993073.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 49
   - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
     publishedDateTime: 2022-10-18T05:27:00Z
