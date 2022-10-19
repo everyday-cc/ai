@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
-publishedDateTime: 2022-10-10T10:25:00Z
-originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
+publishedDateTime: 2022-10-10T09:00:00Z
+originalUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+webUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
 type: article
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: WWNO
+  domain: wwno.org
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 542
     isCached: true
 
-secured: "Xan/ptBC7dH8zDdkvVpOum8ihyg/XOffYC1oagji0qr5giqLjkfYO4Bad8700KTGgFAh6a0Q5VZVdAwGh1IL5W1y6POPT/IbK1Nx1h8iUugstNTPUGZSsoi7f+seKD0Lwrdcd4ILNMQ9lqSk3Vic4AVbrTiaHFgFdkQW9GDs2EUbkF6fQ+cRM5QeZ57Mk74hZM1PmkKpHY5M93/jnGGN0tHnl9ifQGj9UicedWPOwtytpGm85tpgEBTMXaz9p59CJU0PQGPKcnrvwN5x4oKv8+EkWP7x21wQ3zarTeFEU2gBViOIDg+XIAM5Njap/JkLvJft7NdN4ipDkh+C36kFrOOyacLZ+546aHOMJklzZAG6i8QWCkSjctFJilhQriV5FxIfUEEkK+cmwVFqB5HZg6eqnG76WiGPgE36WXApyi5d6RXPGkI0wQFuNk9xjMGV9jrIxuT44g+WemhQ5FxfJeCmeFLLoS2iO87dgXUI/cOonlaqVFZBD1OhhIDDaS8Q3y7y8itSzIB2wDSQRjboYw==;bNfDzz/NWCZdRvV9i2uZgg=="
+secured: "CHlfFFAxzJbHvFNZwleofYrMzZ7pOrEMnpO0TAY3WVgq0Zq6Xnyosi3jfXSPVWK2Zpc54vKnu8czmyxGT0mQzu9bODw31QeO1jobDrFk2RO3RydluOdaZh3Zp5cr6PMXA2upYvzP73AyApSRe7o1AnRbaL9DTDj4IhOwuhVYK2iO1bm2xwTJ+bW893x13y2OjOEvItQ/QU+m2KdkYodqPyO2wdZIYKri0QlHyTGxk2ukW9+Xxi7v5OTnTy1rO6PJE3QwyxWM4LnYh+1aOcftr1GypfMMU4V4OELm3i+YeKA9JlT2hvuLOy63LcLqGJur4jEG/GQhf651M99XVgnrXdClgTTl4hqRppnoWt6R6Bk=;i5P5KI8ncpeotoi1UtYaAg=="
 ---
 

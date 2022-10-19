@@ -1,22 +1,26 @@
 ---
 category: news
 title: "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit"
-excerpt: "First-of-its-kind capability allows users to robotically insert and steer instruments using the XACT ACE® Robotic System directly from the control room XACT Robotics®, developer of the world's ..."
-publishedDateTime: 2022-10-11T17:13:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit"
-ampWebUrl: "https://www.benzinga.com/amp/content/29223030"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29223030"
+excerpt: "XACT Robotics ®, developer of the world’s first and only comprehensive robotic system for interventional procedures, announced today that its ACE Xtend™ Remote Control Unit received U.S. Food ..."
+publishedDateTime: 2022-10-11T17:08:00Z
+originalUrl: "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html"
+webUrl: "https://www.eagletribune.com/region/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit/article_0c232374-2bbf-5a80-a421-62fd12eb7329.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "g5lSdnXUi70j9SIdGPLcCmXuZvFG/PK7b2jJP90XeWQKQDXIysOMXS02+OgKDvz3STgHhJ5aTHAbvvRkgkEbMeVc3cHpwpBoFFRUlSCJgqVdodEpg/FiD3a7nJL/T/uBHVOC6Z7PAUE5JLJo3rpFLo07NqLm8R0PNyKIwN14HxihqECaw7Q/xx4FEN7W+DRkYn7ywtMRcW+MAgxKCt5zOx6U5Ij9VpCLl7EFVJ+qpEHswYmO5jXw0N9wZbUhJ8eWSQvKWobyvU2HNtIiuTvQGL5qD/Km6oyPXEIBsqkMkpG8HCaW0hedNjRCoPK+mruX4Qay0mj0zgp6CojALeI3PNj+ClqRGKymBKOZI/P74uo=;JDMNR+suH0/h/ZM2WnXI/w=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/3/8a/38a71a80-e7fe-52db-9cea-b4c69212cb07/6345a26dbcbb3.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "W8uKHHI+u2KASEklrqSEdjQS1XbnBqC9yS1QrHgD1ViStIpOREXAzIceALbpr8eiBS22OJ36BKCMQi1hobg6kIQstm4d54tvKjQ9Tmt6TLmcNl5u17ICfoJLJUNMRm+OwY5iMJSdX9GqDyDBTRzoniuk06uV9wSe0/swBGRpAunPvv8S+2ia1PeYOKgsSdSzs4ssAMHDAyGy8Ez8U0EusX4ltv8yOkflZ93/EmrIb2O4zwUjH+BJSrKdTnpAAkeRguC7Cx2ng2XkAb3kkq9KH33KYCLtgoE89ov5d2LGJqb1WfrP9tGsfwrEQlUovROIzR1GmkO/1FWnKTYr/uM5tX7IEDDtaZGF7qRgx+H7834=;W+Z6juCnIc3RrvfLV9GdWw=="
 ---
 

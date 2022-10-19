@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17"
 type: article
 quality: 68
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -62,6 +62,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Contact Center AI Software Market 2022 : Projections and Regional Outlook, Key Players, Analysis, Size, Share, Growth, Trends and Forecast to 2029"
+    excerpt: "Contact Center AI Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
+    publishedDateTime: 2022-10-19T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2022-projections-and-regional-outlook-key-players-analysis-size-share-growth-trends-and-forecast-to-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

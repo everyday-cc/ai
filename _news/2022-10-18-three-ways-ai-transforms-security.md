@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Artificial Intelligence Is Transforming The Aviation Industry"
-    excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
-    publishedDateTime: 2022-10-14T15:52:00Z
-    webUrl: "https://www.bbntimes.com/environment/artificial-intelligence-is-transforming-the-aviation-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 17
 
 secured: "qwJDVe1NOfvT0T+Ue6t9sNTRhgN5yQJYzeECkvSDKQfT1lnGJvu3/j8bzl4wHGhf2ysqNSh9hJQiSFmpIw6FgE/rQQQ+RABo0hOaJyBNzBPTXexNGyHLLnBsfy1rHAdGVUoN0kAy/y70FVAAjpg+1VATB/Q/xRYJL+ZAQ3D3uMyrB4B+JsZ0m+xpD7UfQwhJxBUAxm6tFOHjWQbxZsioYdgh6VUtCHggO5HtPtYbheQk3ewvrkFZrAqasLaMgDYF/6uvgg0si0HNU78MeSzcSMAo3yy4R/+e63F+0N/VQfI2WXrU3sRDzJHkHzNqXCJ0/S9C1+uqzqBg6PvIAu3Ll74V24p4b6jI847r9eaeD4WI/NS41GnRxZlRjnw8JJEchOEFl4pz9PnObrYk1LbHCyDnfefYeEjRor0MvMBLMYwP3gM5B5Mb9z2ClWAIXBl5WEggrfwgx8rg5Hn4J2emJBcLdat5YN8HdRwmc5gmsHODbynzZKXsGXm80GpCuGqjaPZTwKx2l+Gps1M9aUi07g==;dpie9nIgB/vBOFZONqW/SA=="
 ---

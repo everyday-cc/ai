@@ -66,6 +66,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Contact Center AI Software Market 2022 : Projections and Regional Outlook, Key Players, Analysis, Size, Share, Growth, Trends and Forecast to 2029"
+    excerpt: "Contact Center AI Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
+    publishedDateTime: 2022-10-19T04:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2022-projections-and-regional-outlook-key-players-analysis-size-share-growth-trends-and-forecast-to-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 29
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
     excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
     publishedDateTime: 2022-10-17T07:49:00Z

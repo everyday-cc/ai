@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform"
-excerpt: "Wordly provides next-generation AI-powered translation and interpretation ... and more affordable to collaborate across multiple languages at once and make meetings and events more inclusive ..."
-publishedDateTime: 2022-10-10T15:06:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29203262/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform"
-ampWebUrl: "https://www.benzinga.com/amp/content/29203262"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29203262"
+excerpt: "Wordly Adds On-Demand Transcript Translation and Developer APIs To AI-Powered Translation Platform Oct (PRNewswire via COMTEX) -- PR Newswire"
+publishedDateTime: 2022-10-10T15:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
+webUrl: "https://www.marketwatch.com/press-release/wordly-adds-on-demand-transcript-translation-and-developer-apis-to-ai-powered-translation-platform-2022-10-10"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "rJA2+gyVwtAHfUSpTT3uGa+79sFOVwDqziHLvzIKolm+eZB64/u9a8UA+XoMRrGne1X1ykiZ1QdqRPd71tby1MGhrWPc1dC04Ybfn8UdPgK1e8Voo2SRurvBxp9E/lj9oQVBE98aGVSLrZ7cqlDkM0WWN7BjHMuj9VXqgiJ+NZfsXyDUdwyAwu0XeiNR6b9wZ0ZkuzzMmvGvacSR6cMSMIdKEOhzJpgfKm8qOpi/YUp3kzq70V/RSQhwX2r3y7llDjSVWLdWRkC1vhWcwA6kK0yfv0q0hPvbO6ufnFzQv9Bvm8UTG+5x0GuQ2gpZQioOdaAWVFJ+DwfqZLnI40JEsjtWn2W12hxchNJjeqIaS7Q=;kThA9hX3U5ifPUi/VEXOxA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "KCsBLJkEo+ZBVVVBqyAeauDfYhWk/s6HbDgTOPZe126zs64pGGIq0nVs3pHxHshMpiZQYlSLPJ05NyShkuZRuSCcpP6HgFMYjd5xOR2z5JHyE6xqKgz8mSuTyG9ex2JGK3C/Zdyz97aA11tB2Zd+itjm2tt2fjOMAkP0izP21KgNX7Dcdnru8jf3m92Fh/lVr/CfHNEdyiPZgy+0UN2WTIbZtVWPQxCTnAcp571aRJ0FSm8U1nCAMu64yYQ2oUVLrsx4N0ZdmL1DKnHgoXVw/7lusExE1t9cdk7hoL4QBdUpYS9QTIFkcniIKi0wapdZL5ynZ/dLPtQpaeNvqgbRwSe0PDR5xDkn4s6mD2xjV2c=;4CKA0XJ7Wlwi7YuFt5ztHw=="
 ---
 

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "Artificial Intelligence Is Transforming The Aviation Industry"
-    excerpt: "Artificial intelligence (AI) in aviation has diverse applications, from reducing flight delays to increasing jet fuel efficiency."
-    publishedDateTime: 2022-10-14T15:52:00Z
-    webUrl: "https://www.bbntimes.com/environment/artificial-intelligence-is-transforming-the-aviation-industry"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 17
 
 secured: "tHDltB/Cn6a+UTXB/wONAYdiJVSNM6YoBdkkMHZ6Mn0BJ9FHRJH5o/zEHuCLkYsfcXYIWZ0PkY6Kj1Gv2qBe59o6wXR/ep3BwMzFJIvJzuDiJzPWVFpVHhIcKi6Q5S/dv7nhHKX2RNsvpGkD9N2kaeiiwhQjeoSEoeQ/Y18zUhhtj359Miadmp7+VE45+X7FA0GnKsX3Fxduz/ZJiZKg82KmBfLTxgWiWEWx1DPqv19TWWLj+2EilMvmm5C3eSqgVOcu/1qXLFPsZ8ZLedOVLIHs8rOsbn55Arca+WYS8lJqS9C1X79gPukPaodMp06JOnNce38CHxYkOh8m+irjYKQE8xsgY6gQCF+W+ILoVyeFI/Dp2e0HK6IdDu1P8g/BFgPw9v3T/qU4BGa/rstZYzWIpF5oAvPtguPUcop50cv7yNBgwdq88LwXV2CLDm5u08dTlZxYn/YibEyETzxFAEbfQeJufG5rdQcJNfJUCFnpJFzMAVYWErDYgqKcLLP1ird6efqd6KLF0xCZIN1eZA==;yTwS8N/26cfeKNC4+LF1dQ=="
 ---

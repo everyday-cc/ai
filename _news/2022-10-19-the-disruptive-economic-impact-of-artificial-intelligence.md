@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-econ
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/10/19/the-disruptive-economic-impact-of-artificial-intelligence/amp/"
 type: article
-quality: 87
-heat: 97
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/634fa904bbec04b6b78e9c74/0x0.jpg?format=jpg&width=1200"
@@ -29,17 +30,6 @@ images:
     height: 750
     isCached: true
 
-related:
-  - title: "Ethical Dilemmas of AI"
-    excerpt: "AI is already visibly and invisibly woven into our world, but can it be trusted? There are inherent ethical dilemmas around bias, trust, and transparency. However, together we can find a way forward as AI continues to impact the world as we know it."
-    publishedDateTime: 2022-10-14T15:49:00Z
-    webUrl: "https://www.computerworld.com/article/3676599/ethical-dilemmas-of-ai.html"
-    type: article
-    provider:
-      name: Computerworld
-      domain: computerworld.com
-    quality: 34
-
-secured: "IuhFcC5FUlji+XM+yrMl5jNVpplyLgYQ8AAaVytaFd6WE2PABkxG3DwI8UQ5G/Awt1yVbFyU+CCeDdK0rUR2T62gY5oGeA0OsITs5enraG3PCgOoSnoZ5CItpSBKIAeMzQj7gPzjuJYS0CmKOCPGqBDfzh0rffOWguIhtzeDLur62RYGN1RTTHoHl06BWMdeh9CuQCWN1z15X0oEt867BMrmtkFbSEJoWmqlbRjmOkqqBb6MLRY2SRFnVJBcSVsy55WLfD7QYyTSD0WznRUhablmYDc+ioQP1KV71onz1vJWcKhmRZI/xtZwK6QlFqeUk8kN/rl2djHfohpHMyK0KCre3TpluOA+OIeWZvd6uVk=;kWNRvElebysYobFwMOB5VQ=="
+secured: "dMMYZACFbQQWUGBzKM0oQcGQrhxwORAsvZxMNj08DAQXJIL5jYjyoh1UZCulwGFYBFSIvOBC0Yxr6/+EBbeawjjjrC1jPmSgwuDdTr+CtLSuTh2P1TXch1eDGyk93s65qPAhkIMDRMn1j4cNX2HAXwQekEn9Fqi2eJZ76OMI9q05sloNxFOs5razsX6nWDxs6yv72jD96Hl0OD0jQ1RL1JBTA5rut6en3xGoLzcI6naJCN+4t5D0o/iPbvY8NKDdN8oL0qidlMtx0GNV3LXXAQmzzRfK7MMaM+m3uaEa29g74ijr8PW6ck+Byu/frxTFotEuLadLHCPaKB+/K44sszp+HRrMntdZ2OdlB9UKlecNd74/QbAO7MOSaZpgrAPEPz17v7vJMRQ05scBT607nSEuoYY4mNPhXDT349VjXaahppbxhG3iIW79o2BQdowL0G5ywMYrSZ5J35CwBiYQiuEe5mRf7+Ard7Ne3ua0dA6xi8BHTfVzY9mV8y2LSsqgFyJvHx0Or4O5qXnKvgfnCg==;k9eUSmwFqtoEgj1kY0r27A=="
 ---
 

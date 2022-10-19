@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/17/september-inflation-figu
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/17/september-inflation-figures-and-savers-see-silver-lining-for-rising-ratesforbes-ai-newsletter-october-15th/amp/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Forbes
@@ -28,22 +28,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "Best Amazon deals in October 2022: Today's best sales"
-    excerpt: "Amazon deals are getting hotter by the day. Sure, the October Prime Day event is over, but Black Friday deals are right around the corner. If you can't wait till then, there are plenty of Amazon ..."
-    publishedDateTime: 2022-10-14T16:56:00Z
-    webUrl: "https://www.tomsguide.com/news/best-amazon-deals"
-    type: article
-    provider:
-      name: Tom's Guide
-      domain: tomsguide.com
-    quality: 41
-    images:
-      - url: "https://cdn.mos.cms.futurecdn.net/HHXzc9LDV6bEXvHVEVqbFY-1200-80.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "xB6DQ4o9ptNVbBrKQLsh3JWn2Uo01FcQ8PUDxe3eHStUspKoYIaq7G0E6sH8WJzow0gpB/yl3+be+MWD6e05O5aQMve/nY2a0Lgznd8Y/pFFIav9cDFtm3er4RI8bwkQY1/Y9n3eY6EX/bux7qcEQxyYnHu9zuCzF5qxY51ljtT7pyyDn47wXe1xR1p0n3Ri60ie1E4Kh3T4CeNRAbUwb4CN0noJH1G/jeAqx6idvzw8VN8lXh0io0qDcFGJS9p5lZm6jq9ZJ06CaGzIrN90XFvkY31YItWsu9WTeDHNwOy6LWjdPcVDaJqYQ8IWRM2yKvuBIU1eRWL3zTgoGZ/fJjXJUMJh87cbTlldtoVsQrvCSB0dKiH5YB3zVBlkjCQNVeWo0YgX22/qv6cWELSrcqwPN144aKuLSG1hILPGoY3l/oJFTA86F6c5lF+BRgfg/CHmaSldRd3cKgnL6vs/SZeIr3k/HuPCypWJwfm1yUmhgVoC5cmHkUQPFQhkrsH9QbYg9/ZzKGz4JIuWeToYHA==;EEB9uHiEPVR3fv2dKgTK2A=="
 ---

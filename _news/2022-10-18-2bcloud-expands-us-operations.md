@@ -2,9 +2,9 @@
 category: news
 title: "2bcloud Expands U.S. Operations"
 excerpt: "U.S. operations with new teams in California and New York. Founded in 2018, 2bcloud is an award-winning Amazon Web Services (AWS) Advanced Consulting Partner and a Microsoft Azure MSP Expert Cloud Partner that helps startups achieve their cloud vision and business value."
-publishedDateTime: 2022-10-18T12:37:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/18/9694452.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/18/9694452.htm"
+publishedDateTime: 2022-10-18T13:45:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/10/18/9694452.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/10/18/9694452.htm"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 210
     isCached: true
 
-secured: "ILF7hbSy+0BP0q7i0DVSWasi0Z70/g1IluWZg7CJx/gwahtNgV+0NYWNZUMkQNuX0dF3Sb0pabCu1qhZbAj6G5IWR9wky0bmpi3vLDyBAw29tZmkd6pJl15cN93DbX2RecLw1T/PsIPcn9bV5ze7HKq4ASc8Kx3iOJSfJoezfa04Evs4sWiD4hpyeUo+CSDjxOLUndldZ0EsetFLMwNxJrxuIZMNau7x0E9hvFkG4FgIQQk482wxpubXsKrlxU24t0KHGCjG0HpgXlJP/xJNbXRltXnLhhKvS29do8pRVhgrBlarAJdzv0TSuGZcqmpJyYgYEnjKr9dD18X6ACXRzOt1G9J6ip4wSI2VqBavzIo=;x4w+SOsE5yIVADwXsmrFxA=="
+secured: "3c930CU/GlI0J5G/xr+UkQXiD4lPQ8XvAxe59En/47HT8KdJ2i7cCcP6Ko7y6ellaYhOgWJp8kvcPOLW7bt+fLkXXUbqhRwmOr+4q1AxPhlWsIIwu5EBoX/7css0Q2C34XxitbNv4Hd0zVg/iLXXuvokCOm1vbpqildecRfiKPHkETatr+ryQMkvnvnGROd++XmCBvp5L0s0YrfO+fRrFLVx4+YNjZNgfgACPA0n+m3mjvbtQ7i6nIov9ppAI8aZ9CwPWr0s47gYhwEReg5hPp6HfAT2aMzMz3pVtLXTMl0ZGp2lVenvLObYW7JlXgt+LrQoGB196ZimhXo18pQ6QfZ61UIN0IcvFFztCAeKpAE=;qv11Rv+ywuLml2K+6elUQw=="
 ---
 

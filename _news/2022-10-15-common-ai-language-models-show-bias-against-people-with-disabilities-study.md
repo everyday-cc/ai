@@ -7,7 +7,7 @@ originalUrl: "https://www.aol.com/news/common-ai-language-models-show-175827225.
 webUrl: "https://www.aol.com/news/common-ai-language-models-show-175827225.html"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 900
     height: 550
     isCached: true
-
-related:
-  - title: "AI language tools discriminate against disabled people, study suggests"
-    excerpt: "Many artificial intelligence (AI) algorithms commonly used in natural-language processing contain biases against people with disabilities, a study has claimed."
-    publishedDateTime: 2022-10-14T16:06:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/10/ai-language-tools-discriminate-against-disabled-people-study-suggests/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 39
-    images:
-      - url: "https://eandt.theiet.org/media/16892/ai.jpg?crop=0,0.25666666666666671,0,0.25114583333333329&cropmode=percentage&width=1200&height=450&rnd=132803997140000000"
-        width: 1200
-        height: 450
-        isCached: true
 
 secured: "3pVm5vXpBSm77KNZhPDxHjmArvyOJ3rcHwg40DlJzTCajKfgtmaWT7yB3P4hqCSHkJsHvxJwdeBtomHvsgIxKxqufTkVvVT6NHCQr57o9OYOlRoWLkq78Fa0wfCJ+TI9Rd6Xj6LhWUdILihqBBplwiLjplzDivtB9G6ZuyJExKOWd7dtLBavpsjJADrAs8ITqMFfIEi2t70QkVvhxqMkA9eesHV1S+yLdome+qaReetpKKo3QW65MoE0d5l9qDudVF7B0tMSE48Ef33lIVtTsXXcWWBZw13MmPXVcsCmsdQ5dCQXjtlydpU893fW6n9+fIe1WMbt7+2q7JdZuX2hYOueJVOXFew4OamaNeA+28k=;FkXRhk5v37Ggpn1Qk2j7wA=="
 ---
