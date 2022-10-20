@@ -1,25 +1,20 @@
 ---
 category: news
 title: "Horizon3.ai's NodeZero Takes Top Honors in the TMC 2022 Cloud Security Excellence Awards"
-excerpt: "NodeZero, an Autonomous Pentesting Platform, Enables Organizations to Continuously Verify Their Security Posture. Horizon3.ai, a leading cybersecurity firm focused on autonomous penetration testing, a"
-publishedDateTime: 2022-10-20T10:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29336991/horizon3-ais-nodezero-takes-top-honors-in-the-tmc-2022-cloud-security-excellence-awards"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29336991/horizon3-ais-nodezero-takes-top-honors-in-the-tmc-2022-cloud-security-excellence-awards"
-ampWebUrl: "https://www.benzinga.com/amp/content/29336991"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336991"
+excerpt: "Horizon3.ai, a leading cybersecurity firm focused on autonomous penetration testing, announced that its NodeZero autonomous pentesting platform has won the 2022 Cloud Computing Excellence Award in the highly competitive Cloud-Delivered Security category."
+publishedDateTime: 2022-10-20T12:03:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/20/9696401.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/20/9696401.htm"
 type: article
-quality: 45
-heat: 45
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "A7nYMvdyd1sLzw7PlLr5J34yx5hC1U3wIbwQItQHZBNIyk8noEtkLb6J+ZIB6OK/38rzq5+n2hjPn77NK6BXTBaB7ikSHnqCMA8jXZAAxxcECTjB2fs+0k+7U4v4kHDGfXLSdbuPfJoW2xxr+DmpHHMRVNV8bo1dUghEtYCBJ86N22F18IqzK1wtZXAAmCncoQWlE03dG+iPRNb+bUiZDpT0oGHFv7hYd/68x5O6HsATwniBaX9uPMLhd9U5Niqfl8BmFcx4cpCoO4lOre69/y8NA6KnpSK/u5ca4Mb2yJrIJR3gYiZtobO+EcD/Da4i0jipShQ89x/H0BVpp+qHi5e1qzOxfBUezldYoh0+FsA=;x+D05m6Dc/h9V6E6naxADw=="
+secured: "hQMdbfi53252Gl+aQnfnDvwoBg/8TOyxQ+oeJcYvxxyKzPzP/EhI42B8TuRb9ODgbsmKrxR5kUC23BGV9qvC1rK53agKQnx8+7UaliIlq54/1eB4jrzWGyowJNEC/t0DIoAjwLshDqlP3g8bjWG1iNl91odBT/dJ/0wyAQgOgscvL5o9qZYU1m7Ze5J/SPczokSrTyBWFcxIsGKmSID8WCmqRHMsXfTF8AYvh15WAzRf8hy3zZ7WWQ9zMC9q2gMKjaHTUu2wXyIqUNJjYCbpB1WX+fJ9XRcDK66NdbehKiFp+uxK99iMsVjZmSqPRLxlKGTDUgYd22uu7Q1N+Km4Qtyz9D4Nk9Whcr24fdjA47w=;IMbZiyWFQjtCQ1g4nuaMHA=="
 ---
 

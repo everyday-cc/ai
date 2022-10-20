@@ -1,26 +1,20 @@
 ---
 category: news
 title: "RealPage, The World's Largest Property Management Software Provider, Selects Wallaroo Labs To Scale Machine Learning"
-excerpt: "RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo Labs as their applied AI platform. Using Wallaroo, RealPage will scale their AI an"
-publishedDateTime: 2022-10-19T14:27:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29325713/realpage-the-worlds-largest-property-management-software-provider-selects-wallaroo-labs-to-scale-m"
-ampWebUrl: "https://www.benzinga.com/amp/content/29325713"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29325713"
+excerpt: "RealPage, the industry leader in SaaS-based Property Management Solutions, announced that they have selected Wallaroo Labs as their applied AI platform. Using Wallaroo, RealPage will scale their AI and machine learning initiatives to over 1,"
+publishedDateTime: 2022-10-19T15:01:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/19/9695921.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/19/9695921.htm"
 type: article
-quality: 18
-heat: 18
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
-  - AWS AI
 
-secured: "A4Xnj6ApaPjYyB8//pU+aLer80hD9xsjej3W7IxA/6EpzgUsgB6M5mGvZ6pXGD6U2wgICvghfHI5RuzU4IoqAGVk5eQv/OKK/pwYNE2GGgkWZAac4hmfVeofaKoaKL3R53WWaqqz1JWWvsEm2eD2mzJoeIvEU1YV04P1EEPjzRGU6xlIV8KjpAoaag93WAfd8pGhV0CRS+VPwjpKhnHxZrSk8WL9VTYv3/49fdCl1+oxhtAvhh1uUrn+moBYv2YIeGgobq2Mc+jdKopyVEuLDIkg3XWwCX3EHAOWNsU8y0a6XBhtWjWfNUeCYuSdLhntsJeI8G3jCddf7VWuCsG5/WDvfjJb23bJj5T6W0u4LWY=;kKLCq/I57ge7Y7ezbipkNg=="
+secured: "fzqHOwgA9ctL14sZ21gNAA+FCPl+9XH93eWg27qFj9Mg7sBFnnphDf+ez81vP5RDOcAU4VdCf2dFqMv8RSe4QZvJxP0dTqDIgsG/6qRIHosva8/aV/uCjh+DPo1dqTxGRXmgsHEtRAPxJoVTud6itjaN2xzeVHLfjq3l0GFnu5Az+XdM+V/ZYVNpgUWKh5V6ZTCBSsFLS4ahhRYL9sdOOo60UB7JWuC3oo7zaPkdFyPmVwwEeY/peCyCYoCkxfemLPV1qTTK9BDCYbeMLO9L3Ahyyle8eBxFg7jdcpvSO9cu4fa16uKd+qhVjvda0IXWWnCG92u94CuDv3DsCCeqcE7hGpnBiy+3DKOdnG6AS90=;/ToVQlT7OdRpNspCoamGMA=="
 ---
 
