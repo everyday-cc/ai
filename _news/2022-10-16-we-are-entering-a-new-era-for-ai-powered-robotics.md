@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/"
 type: article
 quality: 119
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
         width: 1156
         height: 601
+        isCached: true
+  - title: "AMP Robotics Develops Industry’s First AI-Powered System for Recovery of Film and Flexible Packaging"
+    excerpt: "AI is laying the groundwork to reduce the contamination burden on MRFs and scale the recycling of film and flexible packaging."
+    publishedDateTime: 2022-10-20T06:38:00Z
+    webUrl: "https://www.waste360.com/recycling/amp-robotics-develops-industrys-first-ai-powered-system-recovery-film-and-flexible"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 54
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/uploads/2015/02/plastic-film-recycling.jpg"
+        width: 595
+        height: 335
         isCached: true
   - title: "AMP Robotics Develops Industry's First AI-Powered System for Recovery of Film and Flexible Packaging"
     excerpt: "AMP Robotics Corp. (\"AMP\"), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, is developing an AI-powered automation solution to improve recovery of film and flexible packaging."

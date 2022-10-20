@@ -71,6 +71,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla cars not ready to be approved as fully self-driving"
+    excerpt: "Some analysts say that Tesla's primary problem is not regulators but the software itself, given the complexity of autonomous driving"
+    publishedDateTime: 2022-10-20T05:43:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/7ejbdz/article66034489.ece/alternates/FREE_1200/2022-10-20T040509Z_2056974666_RC2R4X9R8OGT_RTRMADP_3_TESLA-AUTONOMOUS.JPG"
+        width: 1200
+        height: 756
+        isCached: true
 
 secured: "H51uezAvCdv1O+HlCYPXkvyhcgIyONZxCYzm7RP7rZYvvmkT2I9ld6vcS9+ssQqAeCmFKyIIi9hK2hJDhMxMU8AkLzIyLFsfkSPrBENrMMdAXMV6nsR8C/05Soj4bxfBpyzlybDiAK+8X+zcHcFHUdV97LCz2vdiDwFsKR6SHvxj8A6hRoMqcoghu5OeU40On6m1v4xJwuyf6sYARqlQGq6v4gg62lud8qdxUY1MIioDJqn5mj3dJdgBiiywOLVZFHAbK9tNep+IwmUGADmQvKUy1c7Xr4DVKNOEhOSErvQ386i0KCs+SZTP7Wzf4g0eOKBp4rqSYW71T8HZRs+/rpmenhGbo24BXqz6ku6Uk5EefYAIetLNny7g9XvThsoavE1w+yqIMg7ViNOwHZcr11hj8yaLkL4Sr/RJfJPaMpIwTv+cpG8agB7URoyd0lN7IgMwARf+s9Zcn/hJ507PHwdXltGOkloeUc3mcrC0VzBSndHVpiGAKKWGJR2sn1044Oc9helF83QO+Hmp8mefDA==;R/DrCQHh9VBEeQlHphms4w=="
 ---

@@ -2,6 +2,58 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-11-the-growing-influence-of-robots-on-the-auto-industry.md",
+      "title": "The Growing Influence Of Robots On The Auto Industry",
+      "excerpt": "Despite the century-old notion of robots working within the auto industry, society continues to think of robots as limited, human substitutes. But that will likely change in the coming years as they become increasingly capable.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
+      "originalUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632cdbcca57003a0d144b11e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stevetengler/2022/10/11/the-growing-influence-of-robots-on-the-auto-industry/amp/",
+      "publishedDateTime": "2022-10-11T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-provenir-named-a-gold-winner-for-ai-platforms-in-juniper-researchs-future-of-digital-awards-fintech-payments.md",
       "title": "Provenir Named a Gold Winner for AI Platforms in Juniper Research's Future of Digital Awards – Fintech & Payments",
       "excerpt": "Provenir, a global leader in AI-powered risk decisioning software, today announced that its AI-Powered Decisioning Platform has been named a gold winner in the \"AI Platform\" category in Juniper ...",
@@ -501,6 +553,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-we-have-always-been-here-nh-recognition-of-native-american-tribes-unlikely.md",
+      "title": "‘We have always been here’ – NH recognition of Native American tribes unlikely",
+      "excerpt": "While other states have processes for tribes that want recognition, such as pursuing legislative avenues and executive orders, New Hampshire lacks even a path for recognizing Native groups.",
+      "sourceUrl": null,
+      "webUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "originalUrl": "https://www.concordmonitor.com/State-Recognition-Seems-Unlikely-For-New-Hampshire-Native-Americans-48337671",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.concordmonitor.com/getattachment/e744fdae-a17e-4242-91dd-a184d1de7e3f/attachment.aspx",
+          "width": 499,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Concord Monitor",
+        "domain": "concordmonitor.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1074,103 +1169,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030.md",
-      "title": "IBM Watson Services Market Projections and Regional Outlook, Sales Revenue Focus on Specific Product and Dynamics by 2030",
-      "excerpt": "The global IBM Watson Services market is anticipated to grow at a CAGR of around 32.5% over the period of next 5 years. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ibm-watson-services-market-projections-and-regional-outlook-sales-revenue-focus-on-specific-product-and-dynamics-by-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T02:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-machine-learning-market-rising-trends-growing-demand-and-business-opportunities-2022-to-2030.md",
-      "title": "Machine learning Market Rising Trends, Growing Demand And Business Opportunities 2022 to 2030",
-      "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Machine learning Market are also discussed in detail in the research,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-growing-demand-and-business-opportunities-2022-to-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-rising-trends-growing-demand-and-business-opportunities-2022-to-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T02:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -42,6 +42,22 @@ related:
         width: 1021
         height: 574
         isCached: true
+  - title: "Artificial Intelligence Creates Human Evolution Artwork And Results Are Terrifying"
+    excerpt: "\"I think, Be human is so hard,\" one user said on Instagram. Another content creator used artificial intelligence technology to gender-swap celebrities, and the compilations have become an instant hit online."
+    publishedDateTime: 2022-10-20T06:17:00Z
+    webUrl: "https://www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969"
+    ampWebUrl: "https://www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 53
+    images:
+      - url: "https://c.ndtvimg.com/2022-10/b1446v1o_artificial-intelligence-human-evolution-650_625x300_20_October_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "6ePxo2heHV0rSBCaCykRuDW6sI7ZgR/xxl9sHMS3HQBnd8wiPBIVj4soNGoru7EsOCV46Us2CsbhXJGuuFqQJVn3OjFZSbOwUIu54BdQkcIOh+iSmV7DggU+bS/Dt1bgimeaAkrsF/dc/mRF4mmmjkt7Ik79/70PeA0aB/xpPkIf1ftLyX3xFR6I9Ub7UCN9uPClvJ44DevLKVwQJ3pmhnDn2VxuelQwnPBwvMCtIqjgsy2dg1ybsF5cs1RdgvKPysa8qzGwA1Q9xMZQnSKK3F2QUE7bfxTAafQOvQdQZQGy0tyYE8UpeMP7O9DHId0jT2aGjHliXK9TbU71LCpTvh4Z5HcZvUHAHyIPlY32Yw89A6iS2GZhvrbzTESsMcGo7FOsUK67tk4I3B34WNEi/dYAQwMq3wp8xMeiG2mu4h0+wDAvWMzI87bbywzdgbwksURm4Y8iKSXxfTL39RmyT5tKELOw4PhezHADxg55j8Uau5r6FzXwO43kwMiZt0yy0wrOxo/S8avB2QS4Heu07A==;Y68Iia7NqyVPimu/GerEJA=="
 ---

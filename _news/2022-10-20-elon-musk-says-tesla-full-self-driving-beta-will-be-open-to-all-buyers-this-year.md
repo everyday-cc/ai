@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-drivi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
 type: article
 quality: 84
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -60,6 +60,22 @@ related:
       - url: "https://images.hindustantimes.com/auto/img/2022/10/20/1600x900/Tesla_1666240567399_1666240567594_1666240567594.jpg"
         width: 1600
         height: 900
+        isCached: true
+  - title: "Tesla cars not ready to be approved as fully self-driving"
+    excerpt: "Some analysts say that Tesla's primary problem is not regulators but the software itself, given the complexity of autonomous driving"
+    publishedDateTime: 2022-10-20T05:43:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/elon-musk-ceo-tesla-cars-not-ready-to-be-approved-full-self-driving-nhtsa-autopilot-fsd/article66034486.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/7ejbdz/article66034489.ece/alternates/FREE_1200/2022-10-20T040509Z_2056974666_RC2R4X9R8OGT_RTRMADP_3_TESLA-AUTONOMOUS.JPG"
+        width: 1200
+        height: 756
         isCached: true
   - title: "How Large Might The Tesla Full Self Driving Liability Be?"
     excerpt: "It's clear Tesla has a large liability for having sold FSD without ever delivering the product. Read why I think the “lost profits” angle is incredibly juicy."

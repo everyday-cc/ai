@@ -127,6 +127,34 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Meta Announces First AI-Speech Translator For Unwritten Language"
+    excerpt: "Meta announced its first AI-speech translator for an unwritten language, Hokkien. Check out more details about it here."
+    publishedDateTime: 2022-10-20T06:04:00Z
+    webUrl: "https://www.phoneworld.com.pk/meta-announces-first-ai-speech-translator-for-unwritten-language/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 39
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/10/Meta-AI-Speech-translator.jpg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Meta develops real-time Hokkien speech translation AI"
+    excerpt: "Meta has generated the first artificial intelligence to translate Hokkien, which is a language primarily spoken and not written. The company, formerly known as Facebook, is training an artificial intelligence to translate hundreds of languages in real time,"
+    publishedDateTime: 2022-10-20T06:44:00Z
+    webUrl: "https://mothership.sg/2022/10/meta-hokkien-translation/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 39
+    images:
+      - url: "https://static.mothership.sg/1/2022/10/meta-hokkien-translation.jpg"
+        width: 1201
+        height: 630
+        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z
@@ -142,6 +170,6 @@ related:
         height: 853
         isCached: true
 
-secured: "QhThq1RMIbXsnD0PibqCOZhTQXF7xFxCEwjL+bpRgFi0m8wqZIds6LJL917SzaCa15hdunl/cW28R3MGvDNiP5KRUrJzsL8CVyqwiYgygkAOS+ai54jlQU2dSGYZDCJZCSNlzY06fWvx0mIKBKsL+v4BuixjSMsTRa6CBmnbheCmVD99o4vf4i5AJoEoK/zPC7pubAgaLAZMaQDNjqbVodl8GWpRr49evtLydVZLi2ppLZYX9aOQ1ievKTdw9HlU4b9ULXS8Kf+7umCMqanT9LL/izKXvdAYhGtRwTgaBJTx79pcOzWE7a27z77WQgqZZ2YryQxlMMVSIYZt8NJ8Rejf+1DiBwAKe+HUSWtLKRQ=;LmYSwvrDsmY2AruRzIQ1AQ=="
+secured: "Eu0vM1blD8kNC/RKteiECJx5xLuoQPD6+Lsq2WOBHH+43bxMNk3/uNuacjFinY0/fWNxZ7+0koFSoOeLbbuwKv40f8JEB4OUegG5bXSdblw25qMzYYhYRPkK3u85XUjVLTVZAZz7kKD7UMqIpzf9+9jG5mvY2qGmI6rvg96pP/35UaQCaJUIoYGNo3+KiXKJZsWI3tCnSfFleczHIuamYaQ2ZM9KFvnSkVgRFy6Us0xOwka/35IM7vWf2OVxsDOoaA2bwSkm96COmFz4Pl91KnXC0aFhQW4vec9l/65aF9a02WUYmg/wW360gVVILmGSaGApRCm7iz2s511dkuEcsMn4S+XTZTfV4UE+aQ/2QtWQK4mA/v0Y11gI5+rpOiZg7MvEP5WdlnajCIvXIiHz5HuXLgbukmOZZMCC+GYgMX99xKea92NNkrkLcG2MZPSJ8M8xvfzOJ9O/yT+ut0dbb7/dShAxftdzcZdl0pbXWxNm1BbBSryt2G9RiQgsG3fwjozgSQJUlXS+OBZHt1W9Pg==;SP9KEMW1vOOyliipbWuHPg=="
 ---
 

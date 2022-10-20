@@ -137,6 +137,34 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Meta Announces First AI-Speech Translator For Unwritten Language"
+    excerpt: "Meta announced its first AI-speech translator for an unwritten language, Hokkien. Check out more details about it here."
+    publishedDateTime: 2022-10-20T06:04:00Z
+    webUrl: "https://www.phoneworld.com.pk/meta-announces-first-ai-speech-translator-for-unwritten-language/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 39
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/10/Meta-AI-Speech-translator.jpg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Meta develops real-time Hokkien speech translation AI"
+    excerpt: "Meta has generated the first artificial intelligence to translate Hokkien, which is a language primarily spoken and not written. The company, formerly known as Facebook, is training an artificial intelligence to translate hundreds of languages in real time,"
+    publishedDateTime: 2022-10-20T06:44:00Z
+    webUrl: "https://mothership.sg/2022/10/meta-hokkien-translation/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 39
+    images:
+      - url: "https://static.mothership.sg/1/2022/10/meta-hokkien-translation.jpg"
+        width: 1201
+        height: 630
+        isCached: true
 
 secured: "0lanZmGYRoo3zI/0Qhh5a5SLuxQg/2DGkg3RbrnaiSyNj0uBVB9VbVETBaC/zwlZTi9LCzIDPyyELIyi2KOVlzPpHhWDYGj5oXhLCMW81XGLRd0UZFvmWMpqWmFm/fBDVEKNVVsE66wtGVRb7iIg5XLgzoL5L6qjH5mSRRZWsoI7JPTKlBUOxt1+509U9S46GZwOR/bGNF7tDC+ASxjj2KDWcPO7yZ4O+J2x7kN6md61jkF0dwqNQtXympO7XiM+rYd3cSZv2KFplbB7p/2y+rt/TtsvSN8w7oc6pmWzb/vz3p98W9reZkme7B2+7xCBnenbxW+O+kHyEwrPieGOqxSoJ5PEWotXBCZEAnHteHXRNOHGcw4tCF630jm74ZRbuME6R+LbJpApQ2XlzBg4GfS7mqbrulFk7iiak9oiRCm+AP/+G49WmYTz28dM2RLAbL3H06a1xCeWo/VmhdICwR9P6kjy1d9kNuZ6yV4KNgMsoAmqveOnW04ZAyIM0ImX3uLxC/6TpU7zJf0v3SHhEA==;b76bof3+ZfV0tCgrD4qxLA=="
 ---

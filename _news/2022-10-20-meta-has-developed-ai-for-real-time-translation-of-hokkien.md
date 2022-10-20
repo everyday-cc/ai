@@ -126,6 +126,34 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Meta Announces First AI-Speech Translator For Unwritten Language"
+    excerpt: "Meta announced its first AI-speech translator for an unwritten language, Hokkien. Check out more details about it here."
+    publishedDateTime: 2022-10-20T06:04:00Z
+    webUrl: "https://www.phoneworld.com.pk/meta-announces-first-ai-speech-translator-for-unwritten-language/"
+    type: article
+    provider:
+      name: phoneworld.com.pk
+      domain: phoneworld.com.pk
+    quality: 39
+    images:
+      - url: "https://www.phoneworld.com.pk/wp-content/uploads/2022/10/Meta-AI-Speech-translator.jpg"
+        width: 1200
+        height: 678
+        isCached: true
+  - title: "Meta develops real-time Hokkien speech translation AI"
+    excerpt: "Meta has generated the first artificial intelligence to translate Hokkien, which is a language primarily spoken and not written. The company, formerly known as Facebook, is training an artificial intelligence to translate hundreds of languages in real time,"
+    publishedDateTime: 2022-10-20T06:44:00Z
+    webUrl: "https://mothership.sg/2022/10/meta-hokkien-translation/"
+    type: article
+    provider:
+      name: Mothership.sg
+      domain: mothership.sg
+    quality: 39
+    images:
+      - url: "https://static.mothership.sg/1/2022/10/meta-hokkien-translation.jpg"
+        width: 1201
+        height: 630
+        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z

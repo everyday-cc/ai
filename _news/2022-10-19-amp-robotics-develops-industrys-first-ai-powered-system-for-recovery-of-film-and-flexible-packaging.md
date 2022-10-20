@@ -49,6 +49,20 @@ related:
         width: 1156
         height: 601
         isCached: true
+  - title: "AMP Robotics Develops Industry’s First AI-Powered System for Recovery of Film and Flexible Packaging"
+    excerpt: "AI is laying the groundwork to reduce the contamination burden on MRFs and scale the recycling of film and flexible packaging."
+    publishedDateTime: 2022-10-20T06:38:00Z
+    webUrl: "https://www.waste360.com/recycling/amp-robotics-develops-industrys-first-ai-powered-system-recovery-film-and-flexible"
+    type: article
+    provider:
+      name: Waste360
+      domain: waste360.com
+    quality: 54
+    images:
+      - url: "https://www.waste360.com/sites/waste360.com/files/uploads/2015/02/plastic-film-recycling.jpg"
+        width: 595
+        height: 335
+        isCached: true
   - title: "Denver company readies AI-powered recycling robot for 2023 release"
     excerpt: "Denver-based AMP Robotics, which is trying to make recycling more efficient, is adding another product to its lineup of artificial intelligence-powered infrastructure and robots. The company announced Wednesday its development of AMP Vortex,"
     publishedDateTime: 2022-10-19T20:34:00Z
