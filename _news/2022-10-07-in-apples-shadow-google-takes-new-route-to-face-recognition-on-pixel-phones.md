@@ -1,17 +1,17 @@
 ---
 category: news
-title: "In Apple's shadow, Google takes new route to face recognition on Pixel phones"
-excerpt: "Oct 6 (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short hiatus due to challenges on cost and performance, according to three former employees at ..."
+title: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones"
+excerpt: "In Apple's Shadow, Google Takes New Route to Face Recognition on Pixel Phones By Paresh Dave (Reuters) - Facial recognition returned to the latest Google Pixel phones on Thursday after a short ..."
 publishedDateTime: 2022-10-06T23:58:00Z
-originalUrl: "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/"
-webUrl: "https://www.reuters.com/technology/apples-shadow-google-takes-new-route-face-recognition-pixel-phones-2022-10-06/"
+originalUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
+webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-06/in-apples-shadow-google-takes-new-route-to-face-recognition-on-pixel-phones"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.reuters.com/resizer/hlaKOKrPAL7q3PSr1hNU3uLOZ-Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/KUFE6S6QERLQ3K6NLCVKMMLSRQ.jpg"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "Q4aB16UM5DPGtnpD33sbZV/sG66DqlFKtGzTTEHUYiqVN5bN0OsMjpjgbsqrVaKzNyWb6xIK7dRvTDOT7JU6hy2/mmLsrLssdhCzn6whfdJ9YeR8345QRPCSf4QYqf5KP18sQljztKquPG/0rV0oYxS8rTmlEMdlcbl/8E/UwOaT+4Q8rmDayYN2Uya3ElyaLMynmxmiUitlrOvAmciRkE+rhcEuarfMP+Tsmjv+Ogr1e1HEauTrpz6v0S+rgBOe0fxMAm2XXDa7n2CAtH1b7Y4c2d+avzc14yvyEGJlYjUtHrEnMBt+C/l9SHw9g+W+WlwLx9mvzD0F3pogsLFWzbjBS9u7iiEj088RIzc9djo=;ts86lAaIVPlD1EJ/o/jBEQ=="
+secured: "bqwHqsjcG85gEdV58kSCdwkUWs6Dqs+BiIBnJQCx9ydm4NBBtPpEYzklaD3bmMNar9QIGfQNmX7s4yeAVkdEpwCz3ZNW8HTU/l6WLxXqRESEzd8GYmyfoBq5D9O/PMWf/mYvIVUNJWNrv+Gp0ZGRPNtLKknP4YBlZXqPyJzxaXJty/h5p5r8rqUoHhjFD9szImMEip6wY3lP4NzGk3+IPmoR6Q8DNHXu3A9H4LCAMDf6xsRhRi41mzBhpPyulBctFYC8wJNQ5iU3ztqzzeubczX2iboEyfhVHbwGsFBdGCWMfWZxMKz+0PpVWu9iUjni+IGEicv3ezYVoOhw2skNEMi03+TakvW6ev3NCu1RX8g=;R4x49pcQFFhGhNSCitX6jg=="
 ---
 

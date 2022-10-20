@@ -93,6 +93,20 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 54
+  - title: "Meta touts AI that translates spoken-only language"
+    excerpt: "Meta on Oct 19 said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-20T03:31:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/20/meta-touts-ai-that-translates-spoken-only-language"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 54
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
+        width: 1240
+        height: 826
+        isCached: true
 
 secured: "lrYkUYjUx+r/x72YGMXCT164DTyX4HzxKcsJT3ULj0EUX6n74R47YbLIpG8zY/dFC1uqWwn41ntny786Dejye7FtOnL7/3ixr0G7hMmcItQZjfn4T+nUx6ALNj/3kj7ZpWAZziUR8cQtT9tcPbyD1Wuu5Ny844nSgIzXbH90MfFuhztpmQdAU65Ur4JihCDLbZOt3ta5qaFBvfYG8L8J03YJgPHOnq5C/6ew0ixVOcbQdUlychtTU6FlzUHzBE3NzFCZNVcoSSvXNZuxWyr3cF6d0bxb6RnlOzIl4hzPPWa40o3K2Z98CeejMQktAJ0ntVrUw915piYqLRVcXvn3oi/eOP9QU3t1bwLLhLIaExM=;M+XE2Izivqowy6T5IhyT+Q=="
 ---

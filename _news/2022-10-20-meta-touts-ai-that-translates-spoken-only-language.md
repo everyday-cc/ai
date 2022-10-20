@@ -1,29 +1,27 @@
 ---
 category: news
-title: "Using AI to Translate Speech For a Primarily Oral Language"
-excerpt: "We’ve built the first speech-to-speech translation system powered by artificial intelligence (AI) for Hokkien, a primarily oral language spoken within the Chinese diaspora. Our AI research can help break down language barriers in both the physical world and the metaverse to encourage connection and mutual understanding."
-publishedDateTime: 2022-10-19T15:10:00Z
-originalUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/"
-webUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/"
-ampWebUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
-cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
+title: "Meta touts AI that translates spoken-only language"
+excerpt: "Meta on Oct 19 said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
+publishedDateTime: 2022-10-20T03:31:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/20/meta-touts-ai-that-translates-spoken-only-language"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/20/meta-touts-ai-that-translates-spoken-only-language"
 type: article
-quality: 74
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: about.fb
-  domain: fb.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://about.fb.com/wp-content/uploads/2022/10/AI-Blog-Summary_-Speech-Translation-Hokkien_Social-Share-Image.jpg?w=1200"
-    width: 1200
-    height: 675
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -42,6 +40,22 @@ related:
       - url: "https://www.cnet.com/a/img/resize/7382493dce2d59cbbaf93757c5d4fda70ff56773/hub/2022/05/18/cb1d6bd0-d2ba-4f1b-a36a-d3a50a5ffeff/meta-logo-europe-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Using AI to Translate Speech For a Primarily Oral Language"
+    excerpt: "We’ve built the first speech-to-speech translation system powered by artificial intelligence (AI) for Hokkien, a primarily oral language spoken within the Chinese diaspora. Our AI research can help break down language barriers in both the physical world and the metaverse to encourage connection and mutual understanding."
+    publishedDateTime: 2022-10-19T15:10:00Z
+    webUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/"
+    ampWebUrl: "https://about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
+    cdnAmpWebUrl: "https://about-fb-com.cdn.ampproject.org/c/s/about.fb.com/news/2022/10/hokkien-ai-speech-translation/amp/"
+    type: article
+    provider:
+      name: about.fb
+      domain: fb.com
+    quality: 74
+    images:
+      - url: "https://about.fb.com/wp-content/uploads/2022/10/AI-Blog-Summary_-Speech-Translation-Hokkien_Social-Share-Image.jpg?w=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta Has Developed AI for Real-Time Translation of Hokkien"
     excerpt: "Meta's artificial intelligence was designed to translate languages that are primarily spoken as opposed to written."
@@ -79,20 +93,6 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 54
-  - title: "Meta touts AI that translates spoken-only language"
-    excerpt: "Meta on Oct 19 said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
-    publishedDateTime: 2022-10-20T03:31:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/10/20/meta-touts-ai-that-translates-spoken-only-language"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z
@@ -108,6 +108,6 @@ related:
         height: 853
         isCached: true
 
-secured: "rWdIN4syj9QqW95lryHOACxDYcIO/LcaUAWM/VvGvM/PgVp81+kigY35IA5Tt7NaRGoUwcvJj2OV4UIbcaTyU+c480rafb4SFhzGSsx0PbxIGmOJLyLSlwd9cr3ktz6upKtvXX/EpPriYFZIS+7DHwSXo0bNNrkaF84h201d/NgE9havCPOZx6ncQSkyv4vP4Zg5rNfV79oenIbjbg6VQrsffzpsg/ZuI86hPP1KreS9kq4RZbqOTpJt/p6KpKTysg1aXx7n7Sut2IpbTrHGz1ZWYY39TVIGIge/RCC4PfG5EiLZUxx7LnIJtDMZ3g1z/TwmbgpNt65VWxXkeQooy9JctKE9Ip4/a4VvJv+EoQQ=;NGc8un23a/ExQE3pRvpcjQ=="
+secured: "kQJpTFTuXpqTJxzmWGKwBlp8vqWYBgfBB7NCxacvS8q/VleAXybc+I78u0MfV1XFOrEL2zcGYoP4SD9/wWj1YVzIRh/UMDkvG1KnUgsHK+eUCPu5u6zem9wGSZnXIAcz8zU/F1iJ1Mm4Tww6zdC6exuCVWVdkAW8SxNKVzCKmvCFJm0WSW3cyNgSVDcpVZap1F46LbDYu7w5E2ahKIyphQDk6F/aHQatE7kpMqPHL1M6YHnnP+kzgh68HpL2gxSvriljvFD+J0pnqUbHuQeNYz7rhmln+Ykat71vXmKiE85kiQUluAmZdCyknjWwXsyJvA3ns8jWHNboy4X7ynMM9s0Uy8Brls7TONbP3v71jnE=;lIYIMY9OLZvLU4j5EmCQWQ=="
 ---
 
