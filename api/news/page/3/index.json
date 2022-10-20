@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
-      "title": "We are entering a new era for AI-powered robotics",
-      "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "publishedDateTime": "2022-10-16T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
       "path": "_news/2022-10-16-ai-ethics-and-ai-law-clarifying-what-in-fact-is-trustworthy-ai.md",
       "title": "AI Ethics And AI Law Clarifying What In Fact Is Trustworthy AI",
       "excerpt": "There is a lot of talk about trustworthy AI, which needs clarification and also more so additional walk-the-talk attainment by AI builders and fielders, including the case of autonomous self-driving cars.",
@@ -209,7 +157,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -506,6 +454,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
+      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
+      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
       "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
       "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
@@ -614,8 +605,8 @@
       "title": "Opinion: A driverless vehicle update",
       "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
       "sourceUrl": null,
-      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
-      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -628,8 +619,8 @@
       "publishedDateTime": "2022-10-14T17:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Northside Sun",
-        "domain": "northsidesun.com",
+        "name": "Yazoo Herald",
+        "domain": "yazooherald.net",
         "images": null,
         "publishers": null,
         "authors": null

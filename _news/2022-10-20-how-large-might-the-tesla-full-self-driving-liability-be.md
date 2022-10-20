@@ -55,6 +55,22 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Wait for Tesla self-driving cars gets longer, safety prime concern"
+    excerpt: "A world where cars drive entirely on their own is almost upon us but pending regulatory approvals stand in the way of companies working towards this end. Tesla has been spearheading the technological advancements and while the US electric vehicle (EV) maker does offer a software package called ‘Full Self-Driving’ or FSD,"
+    publishedDateTime: 2022-10-20T04:44:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern-41666240017160.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern/amp-41666240017160.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern/amp-41666240017160.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/20/1600x900/Tesla_1666240567399_1666240567594_1666240567594.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "H51uezAvCdv1O+HlCYPXkvyhcgIyONZxCYzm7RP7rZYvvmkT2I9ld6vcS9+ssQqAeCmFKyIIi9hK2hJDhMxMU8AkLzIyLFsfkSPrBENrMMdAXMV6nsR8C/05Soj4bxfBpyzlybDiAK+8X+zcHcFHUdV97LCz2vdiDwFsKR6SHvxj8A6hRoMqcoghu5OeU40On6m1v4xJwuyf6sYARqlQGq6v4gg62lud8qdxUY1MIioDJqn5mj3dJdgBiiywOLVZFHAbK9tNep+IwmUGADmQvKUy1c7Xr4DVKNOEhOSErvQ386i0KCs+SZTP7Wzf4g0eOKBp4rqSYW71T8HZRs+/rpmenhGbo24BXqz6ku6Uk5EefYAIetLNny7g9XvThsoavE1w+yqIMg7ViNOwHZcr11hj8yaLkL4Sr/RJfJPaMpIwTv+cpG8agB7URoyd0lN7IgMwARf+s9Zcn/hJ507PHwdXltGOkloeUc3mcrC0VzBSndHVpiGAKKWGJR2sn1044Oc9helF83QO+Hmp8mefDA==;R/DrCQHh9VBEeQlHphms4w=="
 ---

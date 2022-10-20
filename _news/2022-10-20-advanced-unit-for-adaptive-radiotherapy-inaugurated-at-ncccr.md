@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "NCCCR using artificial intelligence to personalize treatments for cancer patients"
+    excerpt: "Doha: A new state of the art radiotherapy unit that used Artificial Intelligence (AI) to create specialized treatment plans for cancer patients was"
+    publishedDateTime: 2022-10-19T12:45:00Z
+    webUrl: "https://thepeninsulaqatar.com/article/19/10/2022/ncccr-using-artificial-intelligence-to-personalize-treatments-for-cancer-patients"
+    type: article
+    provider:
+      name: The Peninsula
+      domain: thepeninsulaqatar.com
+    quality: 34
+    images:
+      - url: "https://thepeninsulaqatar.com/get/maximage/20221019_1666183710-496.jpeg?1666183710"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "National Center for Cancer Care and Research inaugurates AI radiotherapy unit for treatments"
     excerpt: "The first of its kind in the region, the ETHOSTM system uses artificial intelligence to create completely new treatment plans for patients."
     publishedDateTime: 2022-10-19T19:33:00Z

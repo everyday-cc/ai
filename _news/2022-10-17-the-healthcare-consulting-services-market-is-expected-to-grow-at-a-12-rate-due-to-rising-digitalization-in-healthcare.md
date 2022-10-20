@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2029"
-    excerpt: "Object Recognition Imaging Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-19T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2029-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ym7RIvO7lqTNnxYlTN8uTOrOsxkw5IkmLCoakJK7WJcaGpa8tsSez95jSqkO6I3LSJJ8DP5za8ElrkfYYxhwSKcdKtopyYIy62wlm5IE4UEwZGXxvJ3hg5xq/rNGLk/siz/qPHd1XvXqs2b0g7TW+UeShly9BiGAwVGPUNQbYlk8MqxAZQBKRc/zSKhC2tJ+F1kRiDEAMYIGgCI6rxw8hsvEe/vP/OrDpdLPWaNggR1rJCdUU3OR/sz5qfljPN7BhsChl6fk17tZhn6S8qeR46+6t7AIzD/TfMeJ4NudTzFEdNxze4k/e9zQg53o6OnJYx+g8Hk5aNa0lTtTOYns2XXTFR4a7mWJQO1CwnmGvXo=;grxlyIfyI8OWavxYXPwiYA=="
 ---

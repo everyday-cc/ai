@@ -41,6 +41,22 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
     excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
     publishedDateTime: 2022-10-18T22:59:00Z
@@ -106,15 +122,6 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 19
-  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
-    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
-    publishedDateTime: 2022-10-19T19:56:00Z
-    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
     quality: 19
 
 secured: "/tqK8ZzQtanDKrQ1HLvaWxgPkAtGy99RXunsk8jzPp4IAe4xWGIBkDSpOnVzRBNeofp7IhpARWDDhgiMY6PVRbOEysFYnXXHfJypApNzE6Wr9yV/+zosWyET2MWO+QXCSULyvRbpzCxZMUQhFR9H85LX0C7NDZ1g+pHveWwTlLprKVA3W8bRuM6RZXDE098RNN5X0Ek8AG0M/EMh/KZtxd2jR6drIiIlkliFcqa5SP41Or+16jY2LMeAPaZekiU1hguwokHpQCoaMgipluVmuub97I32qp8QCbJFcNefxq+waDURFS+ar36pnsk0oUIcmt90SxcGzMbqdWZPcaQw/089Ut7qgxfyiz3pzz5D8Ks=;Hwse41AobrUvQ67AFKdJQg=="

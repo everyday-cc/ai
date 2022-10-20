@@ -5,8 +5,10 @@ excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling m
 publishedDateTime: 2022-10-19T19:56:00Z
 originalUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
 webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
+cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg"
+    width: 600
+    height: 315
+    isCached: true
 
 related:
   - title: "NSW clubs to roll out facial recognition tech"
@@ -116,6 +124,6 @@ related:
       domain: news.com.au
     quality: 19
 
-secured: "yu2fFNpL/fE0cAxKdDiKp4DvIZSu+2tluN6GtrHCJPRYMTUfwmdflG9lr4rI4g4rDPLzF8mOxmAQv4gBAsbHsrvyia0vFqXjMMUTXXxLoTE7qTbR7ZEfDfpyu6vVVg1xKjTMonf4eFt7fV3xzdfdqQtEenJF3Mr2Seld85jTakexeH+bbK+/Dg0hsSdRHGui+i+jSwIjM9ginzjCktmuFuPFQn1WbY15eEO87tFWPfcU3lDLx/gMuQKCVd9SRH6PTJGjuJaLja4W+vRjdAPWOAErPDytwVHMyZZklU+AMAwDNofDTCgWO+rFvhrEVmPr5nOUWKhbnsV0xuKwrQHo27MmvoXmlCkTcgtjmRbJLnA=;quvXBt2J8Z4akRe8MbNJGg=="
+secured: "5GbP5De3j8ic6bKIxQh4qB1FoMWv+iXj+3PODRfDDS/FKZ1pscTExDL1VqfY4IDTL8I2+Z2CBeMJw3V+I0gQuSMlQQEX0wUN6iayJAM0b6TrqvRFERucXTl2syohZZtQXOPLUhlPR5xzr6ZXNnxCUcQ+xqeoUDIcQfsKPTHPbhin8pxz0T4wXxSFkGETM6hyz5DhDeUC12sQrh6dQPMuHXHuU85zSbu8u5ggxhtUetuEBAUH/wA9MVQ1AQeXm3sht3lm6jGCnMGjPRS0I6tr7f8Qqk1tud8tY4xSq/gXNYq1QymZ3O7p+FQa7MzYD5PcSkhX/4shtzReP1U3ha7B2y48+siEYPPlLH75eu/9wb4=;FFEWTLnv65xMaCw1N75CPg=="
 ---
 

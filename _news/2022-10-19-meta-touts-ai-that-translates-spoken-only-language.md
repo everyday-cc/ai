@@ -37,6 +37,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Meta Says Its AI Translator Can Figure Out Unwritten Languages"
+    excerpt: "Meta CEO Mark Zuckerberg says the tool will be open-sourced so more people can access it. Meta announced on Wednesday what it's calling the \"first AI-powered speech translation system for an unwritten language,"
+    publishedDateTime: 2022-10-19T23:15:00Z
+    webUrl: "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/7382493dce2d59cbbaf93757c5d4fda70ff56773/hub/2022/05/18/cb1d6bd0-d2ba-4f1b-a36a-d3a50a5ffeff/meta-logo-europe-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Using AI to Translate Speech For a Primarily Oral Language"
     excerpt: "We’ve built the first speech-to-speech translation system powered by artificial intelligence (AI) for Hokkien, a primarily oral language spoken within the Chinese diaspora. Our AI research can help break down language barriers in both the physical world and the metaverse to encourage connection and mutual understanding."
     publishedDateTime: 2022-10-19T15:10:00Z
@@ -50,6 +66,20 @@ related:
     quality: 74
     images:
       - url: "https://about.fb.com/wp-content/uploads/2022/10/AI-Blog-Summary_-Speech-Translation-Hokkien_Social-Share-Image.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "Meta has developed an AI translator for a primarily-spoken language"
+    excerpt: "It only translates between Hokkien and English for now, but offers potential for thousands of languages without official written systems."
+    publishedDateTime: 2022-10-20T05:41:00Z
+    webUrl: "https://mashable.com/article/meta-ai-oral-language-translation-hokkien-english"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 71
+    images:
+      - url: "https://helios-i.mashable.com/imagery/articles/00Jj3DsVjcUkSqHaxHfkPrX/hero-image.fill.size_1200x675.v1666236740.jpg"
         width: 1200
         height: 675
         isCached: true

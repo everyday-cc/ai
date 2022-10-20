@@ -5,9 +5,11 @@ excerpt: "Just like a pianist who learns to play their instrument without lookin
 publishedDateTime: 2022-10-19T18:00:00Z
 originalUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html"
 webUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html"
+ampWebUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp"
 type: article
-quality: 19
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -17,6 +19,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ucla-engineers-design.jpg"
+    width: 2880
+    height: 2160
+    isCached: true
 
 related:
   - title: "UCLA engineers design AI material that learns behaviors and adapts to changing conditions"
@@ -34,6 +42,6 @@ related:
         height: 1054
         isCached: true
 
-secured: "cuizFdfdOLY+EtE0HhWPKYwrJGhxy2engorxAFlrLiBNXNn0x6bDZPVPBzCtLZ+5c5VGqGj7SS57j8KrlCJPbVYgErex/3KH3huAmIjlHVA/QbultapbSG2pLhO3CNPzo2sG32com8Fdmll1X8oENXN81ro53rq33YdKjnEPgDSkVPXZIHw1jNClTfpF+jvgWhSoTIbZcbnyPZpNhxkdV9aw+y3a8o6O2RfiPgPAPt/aYFkYj1NPVSKi6lkIXHBM22hA+7/RJy1tnVOB7ccDOmuM0G+cjymgRlvXPB5ADJs/zis7ZVchrCtbPZxw1I9HNdZjhGz5Sh20FwfW3Xl5Mno4zzIrA5h5CJL90lURTlw=;u6Gl3n6SJGpyaQpkLfSkFw=="
+secured: "wRC5jnclZuKGix/4H/OMklFPKZ8tjo3RO2iGa4DJGtmtzrs2I5ZIUGgdEWQhvzk1U4g8+v8/W7/NGFZtoR0srlMc0tVmejFkv/9kK0LDNS6qSaEbSibB6/+TXenSVWo/a229nSjHVFyCtN+bfc4S4OfWr3d2vvtS9haXiEXhdbhRaIVULWfsutpwYuxFL6DWj2NOHOJMo4iN5fLTlLwmKipSuW0lFMhudEXJdbQnnioISZgBEFobqAqXpmP2n/SB9Nd4aTh/ecTTUzNOYIHIJXnqQR7l0k2K3U5cOYJ9hNEgEvy9KuOTUeSySw2W/ECheRnu8A1dzC6VBf3s1PFXukPOf3TBof+6qj1zn/gIotE=;bjPVhFNuZ5gl4YkomcX8pw=="
 ---
 

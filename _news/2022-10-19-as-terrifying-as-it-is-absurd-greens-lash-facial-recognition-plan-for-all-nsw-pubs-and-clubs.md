@@ -47,6 +47,22 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
     excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
     publishedDateTime: 2022-10-18T23:44:00Z
@@ -110,15 +126,6 @@ related:
     provider:
       name: Couriermail
       domain: news.com.au
-    quality: 19
-  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
-    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
-    publishedDateTime: 2022-10-19T19:56:00Z
-    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
     quality: 19
 
 secured: "vDrg5YS+mzPLXKBJnpBfJW3TONwdqJ0yTBRk5g4YOWkHJbI3SIRmMqL4xV10maJPJCFI/lSXHb184Eh0Rb6OxlvRWr8TaRSlZ6MmyNioWno39ShPJ++FOAix43J8L5tZ7ieOEzdLX+FKTbRzeisCdtUQ7DvfpnDwqw4dIrXOwmCNrk48Kc4pg4vLZbVumkZedhZLmYbn/4uF0HU4J+ggxC2NuRUSJKX+i3PJGYKcrC2p8Dwva0EZbdniAEkBoDJMkHuvzqH9c81KoH71mgZ6Az1Pw/VxBerQcktiNeF2ftAZWAWdxxk1V4Bt7z0vYNyWRTSiWudtcopX0pY8zbC6Lbua1kEKC4aWBjdsdIQlTMEORFnW5k2BaicN1Ogonj1roLRIXAP9njEY0/KefeSPY8EOH040MQpNhYs0Ie2qHZTqVIDVn+lKZkn3fH4wbrYRHSjJ4ma0xakOq9Ifw1Q0op0vT3joBz7z7/yWfX8IzGPMvpmnkEzg2LK+mWx75PhT6Pu5Z+XisfRZisPGJ/Nggg==;wQqfofbm1iDuAi/LWdvRDw=="

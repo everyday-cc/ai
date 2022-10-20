@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How a new AI algorithm may help streamline lung cancer radiation therapy"
+    excerpt: "Researchers say a new artificial intelligence algorithm can help radiation therapists work more quickly while treating lung cancer"
+    publishedDateTime: 2022-10-19T07:04:00Z
+    webUrl: "https://www.medicalnewstoday.com/articles/deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment"
+    type: article
+    provider:
+      name: Medical News Today
+      domain: medicalnewstoday.com
+    quality: 53
+    images:
+      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/deep-learning-lung-cancer-thumb.jpg"
+        width: 732
+        height: 549
+        isCached: true
 
 secured: "Qr/BVHX/S3jPDibC3laGX6SpkP2gPfY1B8rDvP1kIA8NqXGkiGkL8TtabgXFRqDGNhYxvOVLEhbwOzyq+3Ci6w6U4U+amUaUEpK+lgtqtTuskFd3mqkTmHH+G5ZPXPZ7FnJDhAPa7d2maIhlsWp5oCTYkcbV2+Ifgk5xGXZ8YkjgyWSDGzG/G5Crm6+/AGbuZtVA/JMjlc4Hk6Vm12bd6yzAp0jhgIc5/BEYVm3fvPP3mJOrVmsyIRVXN3wCHFpsEopr/9jhuA0Cm+1Ns0Wcs33Pn3szRBKn30EY9BSCNYWHiNMeI80ZsRY4wy/9Hwwk3hvxmod+FdpDmKMkU7YUeqfKoInawGEigmIhPIwwLyFKDlorV0Q/+HtX+DN+892BdFL9ibgFLrPX3C2xhnJqwBE2dYI89QJ26c5r/QDodOAq44PjFnqHkEd7FOIwLeAS0a7/VMw5WkMqxg1fhnTqsZfU8SYcTDL+NgONG2RzsFBiomOKu9mAFuXRBifkbBPV/7xjQBJwWXsYfZg35GY6FA==;rGAXI0DJt1GhGI/Ijg9vrA=="
 ---

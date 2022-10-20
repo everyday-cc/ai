@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-drivi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
 type: article
 quality: 84
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/04DGGaBkbbPrJyhJkQHGDNV-1.fit_lim.size_1200x630.v1666223296.jpg"
         width: 765
         height: 430
+        isCached: true
+  - title: "Wait for Tesla self-driving cars gets longer, safety prime concern"
+    excerpt: "A world where cars drive entirely on their own is almost upon us but pending regulatory approvals stand in the way of companies working towards this end. Tesla has been spearheading the technological advancements and while the US electric vehicle (EV) maker does offer a software package called ‘Full Self-Driving’ or FSD,"
+    publishedDateTime: 2022-10-20T04:44:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern-41666240017160.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern/amp-41666240017160.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/wait-for-tesla-self-driving-cars-gets-longer-safety-prime-concern/amp-41666240017160.html"
+    type: article
+    provider:
+      name: Auto News India
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/10/20/1600x900/Tesla_1666240567399_1666240567594_1666240567594.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "How Large Might The Tesla Full Self Driving Liability Be?"
     excerpt: "It's clear Tesla has a large liability for having sold FSD without ever delivering the product. Read why I think the “lost profits” angle is incredibly juicy."

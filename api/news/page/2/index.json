@@ -2,6 +2,109 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-18-ai-driven-automation-and-human-driven-management-of-the-business-of-data.md",
+      "title": "AI-Driven Automation And Human-Driven Management Of The Business Of Data",
+      "excerpt": "In an interview with Authority Magazine, Seek AI co-founder and CEO Sarah Nagy highlighted the challenge of managing the tradeoff between data accuracy and accessibility: “On one hand, accessibility allows less technical folks to start interacting with the knowledge wellspring that is a company’s data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634ec5fcfe1d2ae7738e9c70/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/18/ai-driven-automation-and-human-driven-management-of-the-business-of-data/amp/",
+      "publishedDateTime": "2022-10-18T09:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai.md",
+      "title": "Stable Diffusion creator Stability AI raises $101M funding to accelerate open-source AI",
+      "excerpt": "Stability AI has raised $101M for its open-source Stable Diffusion model, an AI art generator that enables people to instantly create art.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
+      "originalUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/02/AI-e1666107023652.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 836,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/",
+      "publishedDateTime": "2022-10-18T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
       "title": "Run ensemble ML models on Amazon SageMaker",
       "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
@@ -374,7 +477,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -614,111 +717,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028.md",
-      "title": "Artificial Intelligence Systems in Healthcare Market 2022 Production Capacity, Restring Drivers, Size and Landscape Outlook 2028",
-      "excerpt": "The report is a great resource for finding out where the Artificial Intelligence Systems in Healthcare market is currentlyand the future trends that will be driving it from 2022 to 2028. The solutions offered in this study's recommendations will assist market players in formulating their plans to seize any potential opportunities that could arise in the future.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-and-cybernetics-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Sales",
-        "AI in Healthcare"
       ]
     },
     {
@@ -1146,58 +1144,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-17-face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029.md",
-      "title": "Face Recognition Systems Market : Overview With the Best Scope, Trends, Benefits, Opportunities to 2029",
-      "excerpt": "Face Recognition Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-systems-market-overview-with-the-best-scope-trends-benefits-opportunities-to-2029-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
       "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
       "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
@@ -1206,7 +1152,7 @@
       "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 118,
       "tags": null,
       "images": [
         {
@@ -1240,6 +1186,58 @@
         "AI in Security",
         "Microsoft AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
+      "title": "We are entering a new era for AI-powered robotics",
+      "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
+      "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
+      "publishedDateTime": "2022-10-16T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

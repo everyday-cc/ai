@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
-    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-18T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
     excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
     publishedDateTime: 2022-10-18T13:31:00Z
@@ -78,15 +64,34 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
-    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
+  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
+    publishedDateTime: 2022-10-17T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 22
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-10-20T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-size-share-growth-price-trends-and-forecast-2022-2028-with-fastest-growing-countries-data-112-report-pages-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "MIhQhcvNeeyMzUXRQJ4BFdTaKO+6vy5/Sv1o6LmUP4sYfNoqxgCOBiIOE0zWWC/IHdCl+AGBcs804NJSOMUWK8Xfvr2B6e74SFPzp21BhJDMsdV+06gVlSvUFzijRL+mCEK72vmR3+wdGrvMp1ZOC4rAfHYh4Q7n4UOzOdnpptHFEbqlap077nCyTOWRbmK5CUHM2bztH1SbdVLenALnhgT0ilKbX1vAp9aNHIrsBhm8dR29uaDbr97EQNHQ/jMmt4AEE2FVbprcVD+8AI/AlTJODZTF+T3s4O6TFFZWTTnp69SazIxdTW7tV+k6wk4rO9YaUZe1vZWkT6XxXScgEvGzabpnm8Eo7WFDxv/aMSk=;OcIe6dB9gTmMEs/ZkRQCZg=="
 ---

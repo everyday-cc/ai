@@ -41,6 +41,17 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
+    excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
+    publishedDateTime: 2022-10-20T04:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 60
   - title: "MongoDB expands Microsoft Azure alliance"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-17T22:27:00Z

@@ -55,6 +55,17 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
+    excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
+    publishedDateTime: 2022-10-20T04:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 60
 
 secured: "YXB7eAfHIKByqEkLQPE8gT9PyQvuZVoDQ9hOxgT3GqtDxVavq28BWT5jnnojD4+MdnhPf9LU6mJHM1FTR5oQI5WEBv39VOuoTq27gKS56fy7oA4KnY9uA07yfPOcy3v5fgxswOrTPy7VRY3gJGb1i6lstT08Z0+p3ClPet7TJLQrqf1N1AtzmRD3uSiqcZDmiIG0pPyG7DEvk0Same20kn7BI4YVyrS10rNRFhyB2EzNIrr0YhIo1m3PxUDzekJ83I9Zktl2A8UP0bTtRSLvMZu/QiFq4qomJPBdnvvJYliYj+UYcoFxYJCx11ifbqd5xOmcES23bRNNxWJwBYyWRHA7abiTVtp1YfGmiXCX97lFZmYL0oB6Vd3uhA9nbymuktFTB9peodXaKkWAB7JYpTzU2zOnIF/mLjUlJEq1tGa/K+jqN8WBSwgJNEZlAeTtnaOIpuvssTUwL8NJbZTi8nuOJiR6XchL2WWYTtn0s03HvG8aKnNjUzXxLXDnvFXbhxQ1ksOuM22rBSwiN3xBgg==;9PEmbR/9h3mP5KZKfvF4tw=="
 ---
