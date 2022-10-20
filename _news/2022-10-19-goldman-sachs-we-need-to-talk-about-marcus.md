@@ -3,8 +3,8 @@ category: news
 title: "Goldman Sachs: we need to talk about Marcus"
 excerpt: "The precedent is ominous for Goldman Sachs, the most famous securities firm in the history of Wall Street. It has its own mononymic offshoot. This is a nascent online consumer banking service called Marcus."
 publishedDateTime: 2022-10-18T17:24:00Z
-originalUrl: "https://www.ft.com/content/17ec5444-c551-4b27-afe2-122a11b30828"
-webUrl: "https://www.ft.com/content/17ec5444-c551-4b27-afe2-122a11b30828"
+originalUrl: "https://www.ft.com/content/17ec5444-c551-4b27-afe2-122a11b30828?shareType=nongift"
+webUrl: "https://www.ft.com/content/17ec5444-c551-4b27-afe2-122a11b30828?shareType=nongift"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 377
     isCached: true
 
-secured: "O8QY23CyPCpF2ygLpb+jYWMW/sYVWsTxew9Tdhz0/vfCbNTM5/Jcwtd3dxLUWO13vsR+j5j801UEo/DXd3ZH72NbZHtQB0u6cJgRGpCK/KrZmfhdvBYwP9/pTCSUZdU85ejZpMjfL+jBuOlcJIBOzWJeIM3M/KkXa0/xz+rk42kGrOt8uKYjpECzYg7sBhULQao3TJm3/+APYW4mi5lLfFhVzs60ffyxIfGk+SzT8oPjnv8EOmSnRa0w2HyaKUNo+lS9LMM+FQ5hC4AucoE9dqc1Av+aBGfjjeB9aiyYaalRRH65G/uxMF18S6ENg11yzjAbSMzrw045SyhfxCU7DfTLWZnzFCG+bwGhzymX1nLjnPpeDmD54INnAiIuTLuOv+GxrcRmvyvjUKYAO9NhLwSA1N6vw3P8gkn5kgOP9Nz3wOq+AIGak9tkqX9/t0dXpMNd8PJZj/PtPRCg+lEfcZEIup6TmUf27opKn6a/xmkLmYag0jjdX4P8tZRnbSo6psvRN2hpO8mN/Mxclmvq/g==;nf+nXm1wkWqjTf4SIkSrYQ=="
+secured: "4rWWDXKQeTsaONpvMRit2hgh6Rq4iJQ5/LH/yxJmPhhsTnTQ7Pg2ds81ev71QbWDy/bxBC5RaLPnzVoMhUY1JfAC5CBIum27cGaKN21jRKD/ZORVQM72Hlb1TYT4M8XAUd8vGTAVCUMCEsvBBn1yaO4Bkk3DNnohfH/+SG9/VrylhP+3C0L8xw2QsOlOY/TFQgbXAePtz3e5sXfeds9RI/MfebTZVT0LKGDRV4ueiF2UZWfFh+gVsfxummXUTl6zkly2iVpUnZXDKJ8J0H/TMl5HCiou3q3m+YzwlbZ2iHjZRc7m39C6xAnbR2+lFEUCk/LmXASlGJURcY89qXk694eR282+N4Hqotx8EutQjhw=;f7CcP0LRnCqdjxD4Qf7I4A=="
 ---
 

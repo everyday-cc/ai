@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/pressarticle/94531/forwardai-and-fintech-
 webUrl: "https://www.finextra.com/pressarticle/94531/forwardai-and-fintech-automation-team-accounting-data-access"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GIFT City, Fintech Association of Japan sign MoU"
+    excerpt: "On Thursday they announced a memorandum of understanding (MoU) for conducting programmes related to international financial services, promoting GIFT City as a fintech hub in India, and exposing young innovators in the fintech domain to opportunities in India and Japan."
+    publishedDateTime: 2022-10-20T09:54:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/54phyx/article66035286.ece/alternates/FREE_1200/IMG_10507_25-7-2019_20-4_2_1_6G9HE162.jpg"
+        width: 1200
+        height: 889
+        isCached: true
   - title: "GIFT City signs MoU with Fintech Association of Japan to strengthen fintech ecosystem"
     excerpt: "India’s first operational smart city and International Financial Services Centre (IFSC)— on Thursday announced that it has signed a memorandum of understanding (MoU) with the Fintech Association of Ja"
     publishedDateTime: 2022-10-20T02:55:00Z
@@ -55,6 +71,15 @@ related:
         width: 2094
         height: 1177
         isCached: true
+  - title: "Tenet Fintech Group takes over control of subsidiary Asia Synergy Transportation Hub"
+    excerpt: "In exchange for publishing services rendered by the Company on behalf of Tenet Fintech Group named herein, including the promotion by the Company of Tenet Fintech Group in any Content on the Site, the"
+    publishedDateTime: 2022-10-17T11:58:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/995558/tenet-fintech-group-takes-over-control-of-subsidiary-asia-synergy-transportation-hub-995558.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 0
 
 secured: "BT8bOrfDZFrN9D2jwwImFs5xzIkNtXwKwkFSFEfwD+Ps7B22yqdJevDHPsfNSWUqbDGwpLsclHQlwCbZAZl2ydwVyZ5Le+6LHrESRUxG42DoGWXE7rBjGh/JHH5Y7+lqm0DFoFFBMdA6GHIdiV1Gzx7dwjev39pBWKAhUxZ79BF9O0+YU9di5jbdKhtw/6kvR8cNCGCM5XYpx6jQbERHJUlL50JalSrrIOCSNS6e7QZLeUqNAu9eGdKCBJF0HsfWhkp/ryV15jCcR3yAKtaIPLc8IN30FzaFuNVv09KZjVPM+lpQ2FOhxSVUWFDLTS4qUB3fPd0XNmetNY/v6uWgIBVMCroAmgNKbF/GGT/lYYs=;b/hSB6PJXE/e40BRfOlrQw=="
 ---

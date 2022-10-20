@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conve
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Insights on the Global Conversational AI Market to"
+    excerpt: "One of the major factors propelling the growth of the global conversational AI market is the advancement of natural language processing (NLP), machine learning (ML), and AI techno"
+    publishedDateTime: 2022-10-20T10:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-global-conversational-ai-market-grow-usd-/2022/10/20/9696361.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1924902/Technavio_Global_Conversational_AI_Market_2022_2026.jpg"
+        width: 400
+        height: 225
+        isCached: true
   - title: "Exclusive video: Conversational intelligence startup Kubiya wants to become the Siri for DevOps teams"
     excerpt: "The money will help the company expand its go-to-market strategy as it bids to position itself as an essential tool for DevOps teams. Kubiya seems to think it can become one, because it knows that DevOps practitioners simply don’t have enough hours in the day to cope with all of the demands being placed upon them."
     publishedDateTime: 2022-10-19T00:19:00Z

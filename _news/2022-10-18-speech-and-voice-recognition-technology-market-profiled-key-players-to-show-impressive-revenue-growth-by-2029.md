@@ -164,6 +164,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029"
+    excerpt: "Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-20T04:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2029-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Software Market Size Insight Report 2022 to 2029 by Top Key Players, Types, End Users and Regions with COVID-19 Impact Analysis"
     excerpt: "Deep Learning Software Market Research Report is spread across 107 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. The Deep Learning Software market has witnessed growth from Million USD to Multi million USD from 2017 to 2022."
     publishedDateTime: 2022-10-18T04:09:00Z

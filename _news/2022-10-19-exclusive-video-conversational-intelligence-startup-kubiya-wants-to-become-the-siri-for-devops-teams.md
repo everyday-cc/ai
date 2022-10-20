@@ -40,6 +40,20 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Insights on the Global Conversational AI Market to"
+    excerpt: "One of the major factors propelling the growth of the global conversational AI market is the advancement of natural language processing (NLP), machine learning (ML), and AI techno"
+    publishedDateTime: 2022-10-20T10:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-global-conversational-ai-market-grow-usd-/2022/10/20/9696361.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
+    images:
+      - url: "https://mma.prnewswire.com/media/1924902/Technavio_Global_Conversational_AI_Market_2022_2026.jpg"
+        width: 400
+        height: 225
+        isCached: true
 
 secured: "5nvyy+yBiESagimKJNthNmMYhGg/Fm/bqwhKSq04eVM/dKWMDY02eqokocuW3ag15SrwkckxJz/tvGpvzpUy5+u14NbpBG2oOCjh/Vzc8EOlXuH4YLlse5VN7OTR2xRHVEXUBZVMcm+Tz/Lc3PLT5vQF7+aLeuCTod7ixX6OgISZSmWn0XGxjURz5qHnokiPrfB/EH4jPX35NXP9gmRCOevmyoM4+dm5BLIdvpRAmY/nUf4G3+8jg473CHq8BI5uVWcXKSYz7g/u7bedsA0VfLGXZNpvBheNYIBtckVueIwQZHQ1sXUbrpjsP277T1sJ8j9maQSABh0AHIJKhQHw7DJySD7YlA3/GKQx+XpBgs1GO110kpJZHsEKaOnqv5iN6z5JSMBuBkmQ52aCavqte5Rspim2f/1brtaFWFAgm8pugSF0GQDWPfHDubzUevjyRC+YxayWYTruuQr5UDplwdEtWzdltK88o1OlPnT6KSB1wSHfhRhHskUXNDw9m//xz0syhQgpNANMWc0YDbqdMQ==;/kWrT3SdczPEwB+QN/D8Uw=="
 ---

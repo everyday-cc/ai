@@ -159,6 +159,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning in Manufacturing Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029"
+    excerpt: "Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
+    publishedDateTime: 2022-10-20T04:04:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2029-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
     excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-18T04:17:00Z

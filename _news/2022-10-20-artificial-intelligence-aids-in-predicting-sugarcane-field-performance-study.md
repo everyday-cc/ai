@@ -1,27 +1,21 @@
 ---
 category: news
 title: "Artificial intelligence aids in predicting sugarcane field performance: Study"
-excerpt: "According to a Brazilian study published in Scientific Reports artificial intelligence AI can be used to develop efficient models for the genomic selection o"
-publishedDateTime: 2022-10-19T23:39:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272953973/artificial-intelligence-aids-in-predicting-sugarcane-field-performance-study"
-webUrl: "https://www.bignewsnetwork.com/news/272953973/artificial-intelligence-aids-in-predicting-sugarcane-field-performance-study"
+excerpt: "According to a Brazilian study published in Scientific Reports, artificial intelligence (AI) can be used to develop efficient models for the genomic selection of sugarcane and forage grass varieties and predict their field performance based on their DNA."
+publishedDateTime: 2022-10-20T11:29:00Z
+originalUrl: "https://news.webindia123.com/news/articles/Science/20221020/3995083.html"
+webUrl: "https://news.webindia123.com/news/articles/Science/20221020/3995083.html"
 type: article
-quality: 49
+quality: 29
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1666221738.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Artificial intelligence helps predict performance of sugarcane in the field"
@@ -41,6 +35,6 @@ related:
         height: 556
         isCached: true
 
-secured: "mgyNpuHyfJLWA9zoMb/AU1Qn5NWP7cmu0DhhYkjZwWKaKpXM6uEARsYh3yPH2BC2/zvp7bW0VaohSNY2oiYNHmD4abxuezOa88id3OCQE1WR0h9oN3A2E9btmMr5I2dU+RVshH517bp2y+VX88VxQvOyB3rKtB4NP1M8N4JbZB1P5tnhNpgTlW70l1eWCxHwgVYDhp7+7gDsNsYbKMMkPYuToINMCxdLLY4WGNjNsMOcJYQke3iHrx59dF3u16G1dH9CwjhnUbzOn3TL4ylzkJJBizLkAFk9wh2Bjzz76zUmtoGo7AQDOsYHfCCfmScKORnSaMKNlnDmcZYDauuJ3o18os3PGvpE/woQlN7BCTA=;PT89o5BdHEm3h6rTfkLHtw=="
+secured: "x1TmxjNAYiD23Q9WFaRjJyEDWI0hxyFJxoGOEj/KA8Zxm+exa4HpckYZ2fgF30rCsppPByDbnFEcx3DKBskANBHXXTEl5bdQ3eCnCaYmjLZrZyOpFYOGMrwAjH0ZiCRNoih1N60oHESMAwkXCm8ToVu4G3MaH/tEo1ZyU9cVydj5qhzKhQaxEzZcL/OZtaJDY7odeuYq3WIij4GO+sYm04O62XgkPY1FR6I39yGShAXrkhuXP+hspCTygjZ47YFmFvMx8Rz+FDS0xe/WUBiMHY+6dKzzJvPmMgGyP3Hm0j8eg0IODYFE0tIxj+Edsz31kk+B/42TyagT2tanc91cIR4p0IxhBDIr2dELKru8Vwc=;LXlPNGGkAbTaoCzY+cPZXA=="
 ---
 

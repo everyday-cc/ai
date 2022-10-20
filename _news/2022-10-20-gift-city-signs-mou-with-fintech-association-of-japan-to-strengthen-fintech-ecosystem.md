@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "GIFT City, Fintech Association of Japan sign MoU"
+    excerpt: "On Thursday they announced a memorandum of understanding (MoU) for conducting programmes related to international financial services, promoting GIFT City as a fintech hub in India, and exposing young innovators in the fintech domain to opportunities in India and Japan."
+    publishedDateTime: 2022-10-20T09:54:00Z
+    webUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/54phyx/article66035286.ece/alternates/FREE_1200/IMG_10507_25-7-2019_20-4_2_1_6G9HE162.jpg"
+        width: 1200
+        height: 889
+        isCached: true
   - title: "ForwardAI and FinTech Automation team accounting data access"
     excerpt: "ForwardAI, a fintech providing aggregated access to accounting & business data and analysis, announced today its partnership with FinTech Automation, a financial technology company that allows fintechs and traditional financial institutions (FIs) to offer various embedded finance and banking-as-a-service products."
     publishedDateTime: 2022-10-19T17:34:00Z
@@ -55,6 +71,15 @@ related:
         width: 2094
         height: 1177
         isCached: true
+  - title: "Tenet Fintech Group takes over control of subsidiary Asia Synergy Transportation Hub"
+    excerpt: "In exchange for publishing services rendered by the Company on behalf of Tenet Fintech Group named herein, including the promotion by the Company of Tenet Fintech Group in any Content on the Site, the"
+    publishedDateTime: 2022-10-17T11:58:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/995558/tenet-fintech-group-takes-over-control-of-subsidiary-asia-synergy-transportation-hub-995558.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 0
 
 secured: "xPkYIJECuD5FW0lOOeN+fOTo3k70EgK5+bMWpmAuNx5pf3eLAtgwjlaat9KvNEFgunN0lpsaXYM6ufIRmmGj8Q1WfjtJAXdwq5+5RyEUsZLktvnJXqoKxw6rWcds+NOX15Qy/q9uXbWnWyS3LYyNB1GYMLsGsx4iPYstiiUDXK4o0LRbCljcSlPzFygO1qnR+nGivStBMxyH6B70pqfXHSDb+Soxq5OC9zsXe3wbcOvClsid9ebMFm5saP47O+oE6KA+hsw41jrIzrGUNhPS779CA/Uaj3+olxZZno3vE9PUHH9+jVwiQdV1/oYeGXyKIfs1W6bhBtJkE5NUTLepEfaLZAiJWfLjYnw/1R/g5Q8=;t5S2SHZzXO0v6ShA22kShg=="
 ---
