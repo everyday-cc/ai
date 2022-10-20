@@ -10,7 +10,7 @@ website: https://me.berkeley.edu/people/alice-m-agogino/
 twitter:
   username: agogino
   url: https://twitter.com/agogino
-  followers: 1504
+  followers: 1503
 
 topics:
   - AI
