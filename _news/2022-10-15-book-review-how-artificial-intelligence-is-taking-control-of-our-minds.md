@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.moneycontrol.com/static-mcnews/2022/10/The-Loop-How-Technology-is-Creating-a-World-Without-Choices-and-How-to-Fight-Back-john-ward-book-cover-288x435.jpg"

@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://www.gannett-cdn.com/-mm-/b2b05a4ab25f4fca0316459e1c7404c537a89702/c=0-0-1365-768/local/-/media/2021/07/23/USATODAY/usatsports/247WallSt.com-247WS-920365-snapchat.jpg?auto=webp&format=pjpg&width=1200"

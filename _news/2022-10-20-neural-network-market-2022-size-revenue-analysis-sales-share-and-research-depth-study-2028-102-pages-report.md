@@ -81,6 +81,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 56
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
+    publishedDateTime: 2022-10-20T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-111-pages-report-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Governance Market Share From 2022 To 2029 And Unlimited Opportunities for New Companies and Latest Developments"
     excerpt: "AI Governance Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected CAGR"
     publishedDateTime: 2022-10-20T04:04:00Z

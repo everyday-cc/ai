@@ -39,7 +39,23 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "GIFT City signs MoU with Fintech Association of Japan to strengthen fintech ecosystem"
+    excerpt: "India’s first operational smart city and International Financial Services Centre (IFSC)— on Thursday announced that it has signed a memorandum of understanding (MoU) with the Fintech Association of Ja"
+    publishedDateTime: 2022-10-20T02:55:00Z
+    webUrl: "https://indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/"
+    ampWebUrl: "https://indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
+        isCached: true
 
-secured: "o1pI7/h0s/duR3FEj4UpRnUlczBvdYCIXx8JU86t9x2JrK6q+v319yeUdG4teXXgd65BXGhlDmIsl/lJU1cmsNsEJcSiJ6uoSSgtLyhxf3jBOPHmEzUB2ueGBtVutNxRQe1PmCRzS4qQcsAE18sObtgLXOCPxowP2or4g7ikgdGC5YnX4Oiyq2Awq/ttJPKfwLm10CvLGyWjVkgD2vzljG65NMpRVG19OHkllTRNq+bXfJ8YVD4RIJaUzf/kS0aJfLt7Ww5e55+6Ynv+MzfacHIk1q/7actO/Z+AO2pKQk9W2RCx0aGDGMiyauh2Ofs5jPr4KNuBVdxJL9uoOeREzmsokSysr7Hp3B86e49PAw8=;QG2uY2xntuIvI7PFHCkUCQ=="
+secured: "xArQXphDyKqMhJgWaIRAF+CyEMYf9Kw3d5ZVRE+bOJ4e/kdSklKy5yQ3EScIL76clowyra4M0ccL256vXxpbmRvixU8bn4vrN4a8SPWpwvKqZhk+OjElrqtwDILzt5qPuIziCydJ7K0TeAeIhJpjeMD/lw1HTHnMT1BvudEuHsnb6UcBWiVGkiIbrhT2INNkn7tjvkVHNgduIEUdkgc/hhp2mRjj12MogeI/ukB561nd+XELOxK2SLUtyZDHvxeUMclAza0rRw9q9ErbCe3rjuSdEo3iCVXjiEJ3xc+wKEr5S7SV4T03zQVbJJXsIV+jwN3x1JlFkHUyIgcnR30EETZoSiUkBJQ/L240JWb0xuCnK5Aowjw+eZEndnwQ3j8zfTGe8MqAWs5nz/T/o/YeFhbGtzqZgvpDZML0TPTk5cltIC4DolPwLvm0aGg2aqe7DxDfZqbWqze5Co+KZCDv8yLK3g7Ii0c1HeA1qH4gH3X1M6pHlYaBpwdTRRXh2N70za3v7Dbz4CmnhFjiyEIrAA==;JDfTQKdSAZuLUtWnyiZONQ=="
 ---
 

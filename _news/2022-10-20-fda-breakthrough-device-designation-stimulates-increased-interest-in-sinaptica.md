@@ -24,6 +24,22 @@ images:
     height: 635
     isCached: true
 
+related:
+  - title: "Sinaptica Therapeutics Announces FDA Breakthrough Device Designation for its Novel Noninvasive Neurostimulation Treatment for Alzheimer's Disease"
+    excerpt: "Sinaptica Therapeutics, Inc., a clinical-stage company leading the development of a new class of personalized electromagnetic therapeutics to treat neurodegenerative diseases, today announced the U.S."
+    publishedDateTime: 2022-10-19T13:03:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-sinaptica-therapeutics-announces-fda-breakthrough-device-designation-its-/2022/10/19/9695462.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
+
 secured: "Zdb+Q1yDIEg/ZSJZ0st7N9rHx1V7WtTxpYf/1Ox4f2q3l9QWatEeF3YVa4rATrlHz6qdYY4bJhXvPOIYboq8PghVBq4eSco7KYOEAlBWwA2Bjcb1JJmBN1q1//p7Re5BcKuvLVJgq2orMj4bl4TfNrMqe0VBqtQRIOlKdllBo/no7/HhS8J5IMAqam5RObskrOCwtqlvqs5QX2xgIZnvGTWLypSKL6u9qB5SN1R59hLmtSFdLRfaLJZoQGtRwnrqtJLKtHNyfywrn/mI/PhKGeWcxudmaIoKiKLk6nzryvGcHsDIGKu4f7nL92dTjehiisKEEJO+iQGp54OjVXmDfHF0J05CJ1TVwOjWT9LGmAY=;GjYjT8LxGYn8rd4orw5kAg=="
 ---
 

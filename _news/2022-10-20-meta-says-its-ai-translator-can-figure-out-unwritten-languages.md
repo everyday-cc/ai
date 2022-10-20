@@ -169,6 +169,20 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
+    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
+    publishedDateTime: 2022-10-20T09:33:00Z
+    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
+        width: 1435
+        height: 869
+        isCached: true
 
 secured: "Eu0vM1blD8kNC/RKteiECJx5xLuoQPD6+Lsq2WOBHH+43bxMNk3/uNuacjFinY0/fWNxZ7+0koFSoOeLbbuwKv40f8JEB4OUegG5bXSdblw25qMzYYhYRPkK3u85XUjVLTVZAZz7kKD7UMqIpzf9+9jG5mvY2qGmI6rvg96pP/35UaQCaJUIoYGNo3+KiXKJZsWI3tCnSfFleczHIuamYaQ2ZM9KFvnSkVgRFy6Us0xOwka/35IM7vWf2OVxsDOoaA2bwSkm96COmFz4Pl91KnXC0aFhQW4vec9l/65aF9a02WUYmg/wW360gVVILmGSaGApRCm7iz2s511dkuEcsMn4S+XTZTfV4UE+aQ/2QtWQK4mA/v0Y11gI5+rpOiZg7MvEP5WdlnajCIvXIiHz5HuXLgbukmOZZMCC+GYgMX99xKea92NNkrkLcG2MZPSJ8M8xvfzOJ9O/yT+ut0dbb7/dShAxftdzcZdl0pbXWxNm1BbBSryt2G9RiQgsG3fwjozgSQJUlXS+OBZHt1W9Pg==;SP9KEMW1vOOyliipbWuHPg=="
 ---

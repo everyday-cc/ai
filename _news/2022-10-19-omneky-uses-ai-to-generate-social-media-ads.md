@@ -46,6 +46,22 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "This Artificial Intelligence Generates Gender-Swapped Images Of Famous Celebrities; Take A Look"
+    excerpt: "Famous celebrities' genders were switched by an internet video developer using artificial intelligence technology, and the resulting collections quickly went viral online. Even more astounding than the impact of artificial intelligence technologies in the internet world is the fact that some of these superstars resemble the opposite gender."
+    publishedDateTime: 2022-10-20T08:11:00Z
+    webUrl: "https://in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look"
+    ampWebUrl: "https://in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 75
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/f39b61f7-06dd-4813-ac8a-ebae1536c244_6wdv.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "Adobe commits to transparency in use of generative AI"
     excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
     publishedDateTime: 2022-10-18T12:00:00Z

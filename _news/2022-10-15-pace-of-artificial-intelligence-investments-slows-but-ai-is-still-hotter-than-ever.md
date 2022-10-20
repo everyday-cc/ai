@@ -24,6 +24,7 @@ topics:
   - AI
   - AI in Robotics
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/634ae31d6649ea63424d8035/0x0.jpg?format=jpg&width=1200"

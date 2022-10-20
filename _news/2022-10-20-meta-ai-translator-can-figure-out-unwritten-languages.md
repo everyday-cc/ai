@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -168,6 +168,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/mobile-phones-ge5a1e216c_1280.jpg"
         width: 1280
         height: 853
+        isCached: true
+  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
+    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
+    publishedDateTime: 2022-10-20T09:33:00Z
+    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
+        width: 1435
+        height: 869
         isCached: true
 
 secured: "OZyf68Z9YDDSw54b2ovqmhyYOs7fdGB+jkZhwkfE3wIil/PF4CRH7s8XqsJFR5hv0zftS+hNBjFpcTqc9mKViCOEEF2mqo8QYp8gtqDZabRlJrOukX41ES7TJOIck/Q1tfRQcuL6pcJPPibkaaiSYqLy8hpWVSphDImoU/WT3mGI6yGFpC1OCf7UJjimNp7sVrTrBFcfsTPNJt4zKWwPTJuJOsa2oF4wXyAj5iX1I/DgsidMsdUZYZ7A1HlAiHMoGdbvX9q9ttn6FpsoHrnkx4BEyPi7ZNbaJgFrKPgGTAfisCSHmmSnaFNN62P5RikHheJtUlT1BlEOKxgpSSOQVe1gbS0/bdnCpCGjxn08c5Q=;nH4AIYbdFSFcUSi9pihK8A=="

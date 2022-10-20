@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-09-stuck-on-the-streets-of-san-francisco-in-a-driverless-car.md",
+      "title": "Stuck on the streets of San Francisco in a driverless car",
+      "excerpt": "“Who’s driving?” he yelled. “No one,” I yelled back. I was riding in a driverless car operated by Cruise, a company backed by General Motors that is now offering low-cost rides to a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
+      "originalUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/stuck-on-the-streets-of-san-francisco-in-a-driverless-car/?amp=1",
+      "publishedDateTime": "2022-10-09T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-09-see-dubais-driverless-cruise-car-for-the-first-time-at-gitex-2022-show.md",
       "title": "See Dubai’s driverless Cruise car for the first time at GITEX 2022 show",
       "excerpt": "Dubai: Dubai’s Roads and Transport Authority (RTA) has revealed an extensive collection of smart initiatives, applications, and stations it will showcase at the 42nd edition of GITEX 2022, which starts tomorrow,",
@@ -1410,51 +1444,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-04-tesla-ai-day-robots-and-full-self-driving-equals-more-upside.md",
-      "title": "Tesla: AI Day, Robots And Full Self-Driving Equals More Upside",
-      "excerpt": "Tesla recently announced AI Day with robots and supercomputers. See how TSLA stock's announcements have only heightened the upside potential for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "originalUrl": "https://seekingalpha.com/article/4544510-tesla-stock-ai-day-robots-and-full-self-driving-equals-upside",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1140204814/image_1140204814.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T00:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

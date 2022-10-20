@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "GIFT City signs MoU with Fintech Association of Japan to strengthen fintech ecosystem"
+    excerpt: "India’s first operational smart city and International Financial Services Centre (IFSC)— on Thursday announced that it has signed a memorandum of understanding (MoU) with the Fintech Association of Ja"
+    publishedDateTime: 2022-10-20T02:55:00Z
+    webUrl: "https://indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/"
+    ampWebUrl: "https://indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/amp/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/gift-city-signs-mou-with-fintech-association-of-japan-to-strengthen-fintech-ecosystem/amp/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 37
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1"
+        width: 534
+        height: 462
+        isCached: true
   - title: "Can Fintech Be a Force for Good?"
     excerpt: "The meeting of finance and technology could unleash a transformative force towards more inclusive financial services."
     publishedDateTime: 2022-10-20T01:51:00Z

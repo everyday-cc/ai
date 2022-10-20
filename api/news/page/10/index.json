@@ -1137,26 +1137,35 @@
       ]
     },
     {
-      "path": "_news/2022-10-07-loblaws-driverless-trucks-signal-the-beginning-of-a-new-age.md",
-      "title": "Loblaw’s driverless trucks signal the beginning of a new age",
-      "excerpt": "Loblaw’s L-T debut of its driverless delivery trucks this week points to two major phenomena affecting the food industry: how the battle for the proverbial “middle mile” in delivery is ...",
+      "path": "_news/2022-10-07-hanson-an-epidemic-of-cognitive-impairment.md",
+      "title": "HANSON: An epidemic of cognitive impairment?",
+      "excerpt": "Partisan charges grew so intense that Trump voluntarily took — and aced — the Montreal Cognitive Assessment. Strangely, the same Left arm-chair psychiatrists offer no such worries about Biden ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
+      "webUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment",
+      "originalUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://smartcdn.gprod.postmedia.digital/torontosun/wp-content/uploads/2022/10/biden-harris-pelosi-scaled-e1665091450547.jpg?quality=100&strip=all",
+          "width": 2278,
+          "height": 1708,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:52:00-07:00",
+      "ampWebUrl": "https://torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment/wcm/a541a4f9-7a6d-4a5d-9d48-d7aa51c7f076/amp/",
+      "cdnAmpWebUrl": "https://torontosun-com.cdn.ampproject.org/c/s/torontosun.com/opinion/columnists/hanson-an-epidemic-of-cognitive-impairment/wcm/a541a4f9-7a6d-4a5d-9d48-d7aa51c7f076/amp/",
+      "publishedDateTime": "2022-10-06T14:57:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
+        "name": "Toronto Sun",
+        "domain": "torontosun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1166,7 +1175,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     }

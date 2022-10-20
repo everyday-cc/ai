@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta's AI translator can translate unwritten languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+        width: 251
+        height: 201
+        isCached: true
 
 secured: "DhsDeGh+BNe7TwgGy3OMmO4algVMxocRoTT42REvCbZRYmzmCQHKuVYvW8pNg8eIKa237wvJb6tU2nC0W371kRVVwW+BJ/0u8iceYAvudmr61oldcCrm30P3XOtvo/rOWgop9YnctXRzzrCgVt0qg/kXgwwxsT6oytw5r4BDTV0YcbxALTnlwWLQk2m7EGA+In6ZVaudAc1vUajoTgKXyTb5N4ptlNRaki1gDkU+riFrAICSM+eaj3kYGMH5Ax66UEF23jXcgJEHknVXOv5w2DGWfydHiLiFBjHaTyObGsNTlBrQeez6h9W8DHDck06NZPHe4VGEd3Gi/SDMWHwP2NYANgiegOVNhjUieCQOUo30I5ZrHxtBw3mplhzkd+4hdY40j/3/gvY7MBkuvoZOfpouse0XpGeA5iJnQuor1f53ncsG89oeAS0MsJRj6kqLZe1ZNnDV8Aek89+zzaKBC68W/2bVAW8Tnpup1XVe7RNXZG/W5Ny8qc6U699K8VzBjSoGR72UnloJ/bgIngHR1Q==;CkxYm4mAS0MUiuuX/01hBg=="
 ---

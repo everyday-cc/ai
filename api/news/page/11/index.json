@@ -2,6 +2,40 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-07-loblaws-driverless-trucks-signal-the-beginning-of-a-new-age.md",
+      "title": "Loblaw’s driverless trucks signal the beginning of a new age",
+      "excerpt": "Loblaw’s L-T debut of its driverless delivery trucks this week points to two major phenomena affecting the food industry: how the battle for the proverbial “middle mile” in delivery is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
+      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-the-ai-powered-intelligent-edge-is-flourishing-and-its-powered-by-snapdragon.md",
       "title": "The AI-Powered Intelligent Edge Is Flourishing And It’s Powered By Snapdragon",
       "excerpt": "Qualcomm AI engines and silicon solutions are powering more and more devices out on the connected, intelligent edge.",
@@ -1149,50 +1183,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-polly-the-ai-robot-gets-busy-replacing-bumblebees.md",
-      "title": "Polly The AI Robot Gets Busy Replacing Bumblebees",
-      "excerpt": "Arugga, a company based in Kfar Monash, central Israel, has developed an autonomous robot that will pollinate crops instead of bumblebees.",
-      "sourceUrl": null,
-      "webUrl": "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacing-bumblebees/",
-      "originalUrl": "https://nocamels.com/2022/10/polly-the-ai-robot-gets-busy-replacing-bumblebees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/10/aaaaa.jpg",
-          "width": 1200,
-          "height": 491,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T04:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NoCamels - Israeli Innovation News",
-        "domain": "nocamels.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

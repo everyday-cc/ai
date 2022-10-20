@@ -45,6 +45,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
+  - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
+    excerpt: "The \"Artificial Intelligence in Oncology Market: Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts, 2022-2035\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2022-10-20T09:52:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
     excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
     publishedDateTime: 2022-10-17T09:09:00Z

@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
+    excerpt: "The \"Artificial Intelligence in Oncology Market: Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts, 2022-2035\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2022-10-20T09:52:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 38
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
     excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
     publishedDateTime: 2022-10-18T13:31:00Z
