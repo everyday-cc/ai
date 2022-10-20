@@ -26,16 +26,19 @@ images:
 
 related:
   - title: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
-    excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. /PRNewswire/ -- The increasing demand for"
+    excerpt: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence Oct 17, 2022 (PRNewswire via COMTEX) -- PR Newswire LONDON, Oct. 17, 2022"
     publishedDateTime: 2022-10-17T15:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291423/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29291423"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291423"
+    webUrl: "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "The Business Research Company: The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
     excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. 17, 2022 /PRNewswire/ -- The"
     publishedDateTime: 2022-10-17T15:36:00Z

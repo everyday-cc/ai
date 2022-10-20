@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T18:36:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294"
 webUrl: "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294"
 type: article
+quality: 79
+heat: 79
+published: true
 
 provider:
   name: Business Insider

@@ -2,6 +2,155 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
+      "title": "SAS launches first cloud analytics service on Azure",
+      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
+      "publishedDateTime": "2022-09-27T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners.md",
+      "title": "Machine Learning Market Size worth US$ 39,986.7 million by 2025 – Exclusive Research by The Insight Partners",
+      "excerpt": "Machine Learning Market Comprehensive Outlook To 2025 Sep 27, 2022 (Heraldkeepers) -- Pune, India -The Machine Learning Market report outlines the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-26T23:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-how-artificial-intelligence-can-transform-finance-departments-seeking-agility.md",
+      "title": "How Artificial Intelligence Can Transform Finance Departments Seeking Agility",
+      "excerpt": "By Dan Drees, Chief Growth Officer of AvidXchange It’s no secret that agile companies, those that can quickly respond and pivot when necessary, fare better than those that falter when faced with uncertainty or change.",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/193.jpg",
+          "width": 360,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
+      "publishedDateTime": "2022-09-26T14:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-machine-learning-in-banking-market-to-garner-2127-billion-globally-by-2031-at-322-cagr-allied-market-research.md",
       "title": "Machine Learning in Banking Market to Garner $21.27 Billion, Globally, By 2031 at 32.2% CAGR: Allied Market Research",
       "excerpt": "Allied Market Research recently published a report, titled, \"Machine Learning in Banking Market By Component (Solution and Service), Enterprise Size (Large Enterprises, Small and Medium-Sized Enterprises [SMEs]),",
@@ -1219,135 +1368,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-london-has-raised-more-fintech-investment-than-any-other-global-hub.md",
-      "title": "London Has Raised More Fintech Investment Than Any Other Global Hub",
-      "excerpt": "MoneyTransfers.com reports that London has successfully attracted the most fintech investment, reaching $3.1 billion in 2022. Jonathan Merry, CEO of MoneyTransfers.com, commented on the report: \"The U.",
-      "sourceUrl": null,
-      "webUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "originalUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techround.co.uk/wp-content/uploads/2021/04/investment-2021.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "cdnAmpWebUrl": "https://techround-co-uk.cdn.ampproject.org/c/s/techround.co.uk/finance/london-raises-more-fintech-investment/amp/",
-      "publishedDateTime": "2022-09-12T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRound",
-        "domain": "techround.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-12-ai-fights-money-laundering-at-japanese-regional-bank.md",
-      "title": "AI fights money laundering at Japanese regional bank",
-      "excerpt": "A regional bank in Japan is turning to artificial intelligence in its fight against money laundering. The Bank of Yokohama rolled out its AI system in June. It was developed in cooperation with a computer-system development company.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20220912_14_1159287_L.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20220912_14/amp.html",
-      "publishedDateTime": "2022-09-11T19:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NHK",
-        "domain": "nhk.or.jp",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-09-indika-ai-bets-on-synthetic-data-to-overcome-challenges-of-real-world-data.md",
-      "title": "Indika AI bets on synthetic data to overcome challenges of real-world data",
-      "excerpt": "It is also improving fraud detection in the fintech industry and training language systems. High-quality datasets are required to train artificial intelligence (AI) solutions, so that the ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "originalUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/2/d99b1110116911ed9e63f54395117598/shutterstock1279483576-1662557345744.jpeg ",
-          "width": 5500,
-          "height": 4125,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/09/indika-ai-synthetic-data-platform-artificial-intelligence/amp",
-      "publishedDateTime": "2022-09-09T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
       ]
     }
   ],

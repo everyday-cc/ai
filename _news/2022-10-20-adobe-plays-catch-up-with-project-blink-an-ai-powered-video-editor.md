@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T16:55:00Z
 originalUrl: "https://arstechnica.com/information-technology/2022/10/adobe-plays-catch-up-with-project-blink-an-ai-powered-video-editor/"
 webUrl: "https://arstechnica.com/information-technology/2022/10/adobe-plays-catch-up-with-project-blink-an-ai-powered-video-editor/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Ars Technica

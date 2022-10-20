@@ -22,15 +22,15 @@ topics:
   - AI
 
 related:
-  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
-    publishedDateTime: 2022-10-18T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
+  - title: "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM"
+    excerpt: "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower"
+    publishedDateTime: 2022-10-18T06:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -45,38 +45,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 42
-  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
-    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
-    publishedDateTime: 2022-10-17T09:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
-    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
-    publishedDateTime: 2022-10-17T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
-  - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
-    excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
-    publishedDateTime: 2022-10-20T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-size-share-growth-price-trends-and-forecast-2022-2028-with-fastest-growing-countries-data-112-report-pages-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KEBnXqpx7lrYkBY7kpVVUp26kV2KMys4fREyjlSfDD0slZ4rMZI0knJY242NoCnPdwD+jLD2ESm+L+VA+Hg97az4YAo1MKjTmoyGDd1P093Mt+GL7Kts5xL9f1/kPyBVExoaosaO7ZYxu+M38auqEJXdBw9Fl/W0sxQVvMVUavv6y7DfJcNTR7EQ+kvzN8MBxzOstLArGML4oTE+Qoj8vR0jgTAH8eY6PCxpQHdmwuQrfPAinkUQQ4/sJ3oX9da4NJQMAhsULd6JtVOGnzDJkowdi4JWVBDXDJrhK9Wun1bp9r59MZAv2CvssX691XOWlzF1eeIXgO8xVDeAxOzXWQvjV4b7UYbjSRwPXtpDW20=;lR/YdKRo8+hofvTNIdetpw=="
 ---

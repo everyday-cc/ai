@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T19:05:00Z
 originalUrl: "https://theconversation.com/why-a-first-nations-voice-should-come-before-treaty-192388"
 webUrl: "https://theconversation.com/why-a-first-nations-voice-should-come-before-treaty-192388"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Conversation

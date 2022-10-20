@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "a1H9d3wHW4ieArnwrA3XvD91v+hCo62dJv+bXy1+KpFb/lc0Z8RB0lt6rpi0Zvru9RFL4OfcVpUMhybeJSW84pfXh04rcqzpEHpHJi6STEijkPAiFUFvtWtppPm8kdqzCOSb809iG7QJ4WM+jPNhOvjWgqnkdRbcAq571rRwJN90X9V3svEmOI+j0mHpmC9Ylt4WnLlXRBz1JL1VsCZSMYRkp9nAFBKmbUxw9xloVJGgUSN6z1znxN4KO/Doz96Z0W9kbbx9+rV6zOj6Xy4svEuBBCF8Ck4SF0egIg4Oc9hPEwO0oSj1wOPJrPVWLQGid2o1JDbHtc3V85SDXgFsQEyXbpmVAWr419hssGdyoJM=;GL+WrKl/uvoHxyMDs6DqpQ=="
 ---

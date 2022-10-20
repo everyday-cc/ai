@@ -1,24 +1,32 @@
 ---
 category: news
 title: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
-excerpt: "The Business Research Company's financial services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, Oct. /PRNewswire/ -- The increasing demand for"
+excerpt: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence Oct 17, 2022 (PRNewswire via COMTEX) -- PR Newswire LONDON, Oct. 17, 2022"
 publishedDateTime: 2022-10-17T15:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29291423/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291423/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence"
-ampWebUrl: "https://www.benzinga.com/amp/content/29291423"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291423"
+originalUrl: "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17"
+webUrl: "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17"
 type: article
-quality: 35
-heat: 35
-published: false
+quality: 65
+heat: 85
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
+  - AI in Finance
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence"
@@ -50,6 +58,6 @@ related:
         height: 225
         isCached: true
 
-secured: "hPh6OahAbkqCok2YFVWFxsJKjIiAxRXKYlWk2AXrMJ1BKnCadItnYIh15zEBHRQKCTRNt1rP5lp5F8M8ep2ZvkabNeJF02vnAaZzkOL08MunYjIqeKJzaSb4lGfQoS8vlM6iyQDdySSms2KjnBm+2FiXtNpqBtJ5HbtN53GyDn35vLSKtI59LDsBV7xP5VgEVd5sJCrr7/Qol4qJu5H9RBS1FIwNPWznSs6hEjOwp9Aum2E5cYfH7umRUeXUsyWly3TMIGdEFV94Q8f3YUOI7xHWjl2h14oYC/WCVo/ZJHCkYor/sxW/3oVDCdaRqit7xYjepctWOYnAWgNtG20svJthmrZuX6t64m55fQDYg1k=;ivRigCxQvsqPAqlk4BueiA=="
+secured: "OkwI85yX985onE8j+9PmzPgmWb+YfQXVMxWGvE/8UORMBJRV3Sn761/wWa5KAlP1z1apXUmHQKycSaQgsO1DLFIwQu0uh8v0iaLh7h32UFOg9IzqUZywlbRw7budg3qwJl9mPR0zmJDh3q6Wh1S4c2BBJnYKKN3mi1kLXCUboSDOPG56QF5OEMNS8Ro6JZr/Nb1bCw3HPD80EMWa8zbS/iZXVYsdLTJZ/oTQM5V0N/H7w42XBmCwJYC8eBDqzJ8sQKyejxHbNyvN6wRQG3t5ypE4KaZN+L204fJW/mKxqIDMq41tU2rKtbMqChNfZegF0JjSaoQFfrfT4YgczRovt01o9lhahmuTwhRzbi6LQSM=;WeWJY1Pzl/U2yLoOztqL1w=="
 ---
 

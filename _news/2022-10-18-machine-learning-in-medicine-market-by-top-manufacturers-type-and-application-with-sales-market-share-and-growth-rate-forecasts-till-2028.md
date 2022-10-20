@@ -30,71 +30,52 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
-    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
+    publishedDateTime: 2022-10-18T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence AI in Medical Market Revenue, Gross Margin, Capacity, Production and Growth Rate Report 2022-2028"
-    excerpt: "A novel report on global Artificial Intelligence AI in Medical market has been recently added to Xcellent Insights'"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-revenue-gross-margin-capacity-production-and-growth-rate-report-2022-2028-2022-10-15"
+  - title: "AI in Computer Vision Market Size, Share, 2022 Global Trends, Development Status, Opportunities, Competitive Landscape and Growth by Forecast 2026"
+    excerpt: "Global \" AI in Computer Vision Market \" report offers a detailed overview of the AI in Computer Vision Industry pages covering different AI in Computer Vision size, share, growth, definitions, classifications,"
+    publishedDateTime: 2022-10-17T09:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-size-share-2022-global-trends-development-status-opportunities-competitive-landscape-and-growth-by-forecast-2026-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Courses Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
-    excerpt: "PESTEL analysis research evaluates the worldwide Machine Learning Courses market's social, economic, environmental, and political factors. The research examines recent market tendencies, development potential,"
-    publishedDateTime: 2022-10-18T04:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2022-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2028-2022-10-18"
+    quality: 26
+  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
+    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
+    publishedDateTime: 2022-10-17T05:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Insurance Market : The Machine Learning Segment to maintain its Lead Position during the Forecast Period"
-    excerpt: "PORTLAND, OREGON, UNITED STATES, October 20, 2022/ EINPresswire.com/-- Allied Market Research published a report, titled,“ AI in Insurance Market by Offering, by Deployment Model, by Technology, by Enterprise Size,"
-    publishedDateTime: 2022-10-20T17:44:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ai-in-insurance-market-the-machine-learning-segment-to-maintain-its-lead-position-during-the-forecast-period"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 34
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
+    quality: 26
+  - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-10-20T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-size-share-growth-price-trends-and-forecast-2022-2028-with-fastest-growing-countries-data-112-report-pages-2022-10-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "0uDB7v/+xvbeR62PCXlDtwEhUqA7TNE3VqU4XkQTSgrrXSfE5u5BLLsUCcg1R3PxZvAk0jewE9upEho/vwnRnnam7PyPQcHcoIY9s5Xf85sNtnR31XxYwdLouBI9gi1FFJw03vQ0HWoMOCslgVnQuaLGh8sKi16S3fEk36Jm8HUPHp3BzFDMyr2UlHOeDfSKeHZYiPK7OTWTrzpofzSo0MDWh63WxlI7HeouW4SA7Fn0XsFpL1RTNQZ67pBw43GInGVw6sDxyvv/VFbqJtOfufi14O7lKfSjPq0q9kHKrK8V55VV780zdOMR/+NbONVI+GTeYKEX3DUdxHKkOrwgI4dKmncMI4osIlsNH2GRL/w=;EcRmycxL+OLE6F8iVPr+aA=="
 ---

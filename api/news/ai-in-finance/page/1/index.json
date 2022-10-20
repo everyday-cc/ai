@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-17-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence.md",
+      "title": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence",
+      "excerpt": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence Oct 17, 2022 (PRNewswire via COMTEX) -- PR Newswire LONDON, Oct. 17, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
       "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
       "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
@@ -107,6 +159,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-enova-announces-date-of-third-quarter-2022-financial-results-conference-call.md",
+      "title": "Enova Announces Date of Third Quarter 2022 Financial Results Conference Call",
+      "excerpt": "Enova will host a conference call to discuss its results at 4 p.m. Central Time / 5 p.m. Eastern Time the same day. The live webcast of the call can be accessed at the Enova International Investor Relations website at  along with the company's earnings press release and supplemental financial information.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/13/9692559.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/13/9692559.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-13T13:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-machine-learning-operations-mlops-market-2022-prophesied-to-grow-at-a-faster-pace-by-2028.md",
       "title": "Machine Learning Operations (MLOps) Market 2022 Prophesied To Grow At A Faster Pace By 2028",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Machine Learning Operations (MLOps) Market\"",
@@ -157,6 +243,40 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-13-resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering.md",
+      "title": "Resistant AI and ComplyAdvantage Launch AI Transaction Monitoring Solution To Combat Fraud and Money Laundering",
+      "excerpt": "Founded in 2019, Resistant AI uses AI and machine learning to provide identity forensic solutions that protect automated financial services from fraud and manipulation, including customer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+      "originalUrl": "https://www.darkreading.com/application-security/resistant-ai-and-complyadvantage-launch-ai-transaction-monitoring-solution-to-combat-fraud-and-money-laundering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1267,155 +1387,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-sas-launches-first-cloud-analytics-service-on-azure.md",
-      "title": "SAS launches first cloud analytics service on Azure",
-      "excerpt": "SAS is one of the old guards in the data analytics space. Its first tools were developed at North Carolina State University in the late 1960s and commercially launched in 1976. Throughout the last fifty years,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "originalUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2015/12/Analytics.shutterstock_160050128.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/enterprise-analytics/sas-launches-first-cloud-analytics-service-on-azure/amp/",
-      "publishedDateTime": "2022-09-27T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners.md",
-      "title": "Machine Learning Market Size worth US$ 39,986.7 million by 2025 – Exclusive Research by The Insight Partners",
-      "excerpt": "Machine Learning Market Comprehensive Outlook To 2025 Sep 27, 2022 (Heraldkeepers) -- Pune, India -The Machine Learning Market report outlines the",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-size-worth-us-399867-million-by-2025-exclusive-research-by-the-insight-partners-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-how-artificial-intelligence-can-transform-finance-departments-seeking-agility.md",
-      "title": "How Artificial Intelligence Can Transform Finance Departments Seeking Agility",
-      "excerpt": "By Dan Drees, Chief Growth Officer of AvidXchange It’s no secret that agile companies, those that can quickly respond and pivot when necessary, fare better than those that falter when faced with uncertainty or change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "originalUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/09/193.jpg",
-          "width": 360,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-artificial-intelligence-can-transform-finance-departments-seeking-agility/",
-      "publishedDateTime": "2022-09-26T14:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "List of Banks in Belarus",
-        "domain": "globalbankingandfinance.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AI in Finance"
       ]
     }

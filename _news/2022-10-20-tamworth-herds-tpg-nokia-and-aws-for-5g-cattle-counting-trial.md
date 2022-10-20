@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T00:55:00Z
 originalUrl: "https://www.arnnet.com.au/article/702553/tamworth-herds-tpg-nokia-aws-5g-cattle-counting-trial/"
 webUrl: "https://www.arnnet.com.au/article/702553/tamworth-herds-tpg-nokia-aws-5g-cattle-counting-trial/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: ARN

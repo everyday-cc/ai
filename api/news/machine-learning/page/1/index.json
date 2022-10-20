@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
+      "title": "Improving the mapping of human skin using models and deep learning",
+      "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg",
+          "width": 600,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-human-skin-deep.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp",
+      "publishedDateTime": "2022-10-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-ai-is-changing-scientists-understanding-of-language-learning.md",
       "title": "AI is changing scientists’ understanding of language learning",
       "excerpt": "For this reason, many language scientists—including Noam Chomsky, a founder of modern linguistics—believe that language learners require a kind of glue to rein in the unruly nature of everyday language.",
@@ -117,7 +160,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -264,6 +307,58 @@
         "AI",
         "Machine Learning",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
+      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
+      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1402,112 +1497,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-what-makes-a-champagne-vintage-great-ask-a-deep-learning-model.md",
-      "title": "What Makes a Champagne Vintage Great? Ask a Deep Learning Model",
-      "excerpt": "Bollinger is data mining its meticulous records to predict vintage years and weather the challenges of climate change.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "originalUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6340b2bf6f81dc98cfa7cfa4/master/pass/Bollinger-Champagne-Featured-Gear.jpg",
-          "width": 2400,
-          "height": 1800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/what-makes-a-champagne-vintage-great-ask-a-deep-learning-model/amp",
-      "publishedDateTime": "2022-10-08T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028.md",
-      "title": "GPU for Deep Learning Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028",
-      "excerpt": "The \" GPU for Deep Learning Market \" study helps to Interact with valuable trends, gain insight into consumer behavior, and use visualizations to perform effective competitor analysis. Rather than adding streams of shaky data to a static spreadsheet,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-for-deep-learning-market-manufacturers-suppliers-vendors-sales-revenue-market-share-2022-to-2028-2022-10-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 146,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T19:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware",
-        "AI in Sales"
       ]
     }
   ],

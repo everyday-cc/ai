@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-20-create-synthetic-data-for-computer-vision-pipelines-on-aws.md",
+      "title": "Create synthetic data for computer vision pipelines on AWS",
+      "excerpt": "Collecting and annotating image data is one of the most resource-intensive tasks on any computer vision project. It can take months at a time to fully collect, analyze, and experiment with image streams at the level you need in order to compete in the current marketplace. Even after you’ve successfully",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/image043.png",
+          "width": 866,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T13:38:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions.md",
       "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
       "excerpt": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready",
@@ -117,7 +170,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 158,
+      "heat": 168,
       "tags": null,
       "images": [
         {
@@ -1507,49 +1560,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
-      "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
-      "excerpt": "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, September 30–October 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/39/539faa5b-05ba-50f3-b256-ad1e59a0d41d/63366bd136b5c.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],

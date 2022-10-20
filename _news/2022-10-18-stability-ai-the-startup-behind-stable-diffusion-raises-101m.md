@@ -52,6 +52,20 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "This AI firm just raised $101m at a reported $1bn valuation – and music is one of its areas of focus"
+    excerpt: "AI firm Stability AI, described as the “world’s first community-driven, open-source artificial intelligence company” just raised USD $101 million in funding. According to Bloomberg, the oversubscribed funding round values the London-based tech startup at $1 billion."
+    publishedDateTime: 2022-10-20T15:28:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/this-ai-firm-just-raised-101m-at-a-reported-1bn-valuation-and-music-is-one-of-its-areas-of-focus/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 22
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/10/Stability_AI_Product_DreamStudio-e1666278215779.jpeg"
+        width: 2700
+        height: 1518
+        isCached: true
   - title: "Austin AI startup Jasper raises $125M at $1.5B valuation"
     excerpt: "This CEO leads the latest member of Austin's unicorn club — the startup achieved that billion-dollar valuation a little more than a year after it was founded."
     publishedDateTime: 2022-10-18T12:00:00Z

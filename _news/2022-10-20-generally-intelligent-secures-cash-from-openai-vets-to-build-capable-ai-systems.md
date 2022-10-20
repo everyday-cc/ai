@@ -8,8 +8,8 @@ webUrl: "https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-fr
 ampWebUrl: "https://techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/20/generally-intelligent-secures-cash-from-openai-vets-to-build-capable-ai-systems/amp/"
 type: article
-quality: 83
-heat: 83
+quality: 85
+heat: 85
 published: true
 
 provider:

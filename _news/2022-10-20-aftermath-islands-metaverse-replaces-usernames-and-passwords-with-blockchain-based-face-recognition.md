@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/aftermath-islands-metaverse-replaces
 webUrl: "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/"
 type: article
 quality: 70
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,24 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
+    publishedDateTime: 2022-10-20T20:59:00Z
+    webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
+        width: 1152
+        height: 1920
+        isCached: true
 
 secured: "1kCnNOCp5uZz7lDc8F/CkLq9lxkIO+AqO5HlkojGOQ0fZ1Px6SX0kKbzTeoXyAJQetFhssxykOCPu1Rv8pT+ZSmLRG0jGZtuEiQfK8b77iv0w7mq4PgfmzfmM/QIOYuzOncopNw9ADgYvSXl+s50QxAf86YsDiNcDwGyVGyVAR/4Qxx5Wcb2DdIg/qKKODmu7VrAM+yrAtK10b6Pk/NIe1re2mQMNorcZ0gaSsbCeWhFPmWCPPBSbiimmq099vSIMBYP7GbaUjQQWbp9VX1sjASkIHXoir3aRHVBrSTZEqLyx2Wpy9mrHRVaD4rrBTJ4sjK0Pa8oMwtST0Nhkm/zlrjjMrPbp6IJ6VaogCcJ/KeJbCC1ndnSnzliOYumXKKoRjLANRQVGvSiJcXTMoga0D7AfVDTWRPUyRXkzfly97VDjEDdlOdtI0Z+mnPE3iDm7eexWYqbdDexPwY0ALzXxx0qXUuH/9Djr4h/QDvP58fWSfMUANlDHF7AqWf4UxjkoA6MMfNqPHh3VKzuWH5CJg==;8+Ih0dRmP6kV12dVV0hbOw=="
 ---

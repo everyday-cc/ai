@@ -42,6 +42,20 @@ related:
         width: 600
         height: 422
         isCached: true
+  - title: "Can Retailers Trust Their Machine Learning Models?"
+    excerpt: "As we inch closer to Black Friday and the start of the holiday buying extravaganza, retailers are putting the final touches on the demand forecasts"
+    publishedDateTime: 2022-10-20T21:39:00Z
+    webUrl: "https://www.datanami.com/2022/10/20/can-retailers-trust-their-machine-learning-models/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 54
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/forecast_shutterstock_Vintage-Tone.jpg"
+        width: 800
+        height: 534
+        isCached: true
 
 secured: "CRRatP6Knm1ix8m9mM662LDH87XU51d7DHHNmUvc+s+h0gbuP/ObUULeOeFoxm9QmfLT/zJ5yfaAOKVUKhrHoIP9wk/tj2GOym/sghsqxrJXzkkO/OoTKG5l9Bdtz6tUPFAnMNbGYHpV5b4gQPU0/ut91LDUTVtCcsIHZLjcH8nDs3sKX1yseM65RlxkWd9avMZ5h1q8gGr/LfRP9mULPTCeGQrl4MYuIqWDpmSHKKJiVUEhxORkr/FGQLGvFjxBl+omPXx2fLyP5BdrN8i+tmlkoT3zRrIkUidmI58KHsD+mAG2D6hnNTsPsSCCVCXFaj6ONJuGC6LkOkg+V4DVfAKlzT1LvH59QRczeJlMfq0=;G8GX4iG5MWsXOsy8l5qZMg=="
 ---

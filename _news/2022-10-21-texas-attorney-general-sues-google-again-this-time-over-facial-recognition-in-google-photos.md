@@ -42,6 +42,47 @@ related:
         width: 3500
         height: 2334
         isCached: true
+  - title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
+    excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
+    publishedDateTime: 2022-10-20T20:13:00Z
+    webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
+    ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 46
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
+    excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
+    publishedDateTime: 2022-10-20T21:37:00Z
+    webUrl: "https://www.cbsnews.com/news/google-texas-biometric-data-privacy/"
+    ampWebUrl: "https://www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 38
+    images:
+      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/25/c08797e6-92d5-42ab-86bd-37e36a6182d6/thumbnail/1200x630/d1f04b58460b09aadaa48e2621bf3cb4/ap22230562450138.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AG Sues Google For Allegedly Capturing Face And Voice Data Without Consent"
+    excerpt: "The lawsuit alleges Google Photos, Google Assistant and its Nest camera record users’ facial features and voices without their consent."
+    publishedDateTime: 2022-10-20T17:10:00Z
+    webUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 34
 
 secured: "qrLv1he2MPuvrzPngloS5g4hLrO6+kN0V3HZ6iyewQKuqCwRNWdmF16m1m6L9NOaaQNC6zcPLED4v8vxw6t8YnoHlH4c1QkukGHBdxDgCBF1HfSdtOJBDaIff0EUdChM8hN2hPDGROKRC+WXrJtMjhqiK7tNYuuHGOe6KzxnARJndSDvptFlYtHqwpa4dT85VJefiAhi8Y9eOc1EtpS2xD/CzrZhMY5e5+M1EvobAVSy6kT1F4qs9j98pGoFlK6Z0S8+2TxTfk7I8l/ijS+lNL974NU092BGOxpr5AK9ZhRbKIiivBcgua53YME54wTjGppu1Z7ZHxocSTmoZmx3xro0n6CGOPGXiEJYFxtZzZU=;rXsbOPob1+E0nRypee1Uyw=="
 ---

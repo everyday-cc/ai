@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medic
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
 type: article
 quality: 55
-heat: 55
+heat: 65
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 2880
     height: 1338
     isCached: true
+
+related:
+  - title: "Artificial intelligence can determine racial identity from medical images"
+    excerpt: "A study shows that artificial intelligence (AI) has the capability to accurately predict someone’s race in radiographic images."
+    publishedDateTime: 2022-10-20T20:36:00Z
+    webUrl: "https://interestingengineering.com/health/artificial-intelligence-can-determine-racial-identity-from-medical-images"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 38
+    images:
+      - url: "https://images.interestingengineering.com/1200x675/2022/10/20/image/jpeg/Aqoq0sQESgkiaNuhyGkjLS9odjWGqo3wR47gjmfl.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "Fw4V4DpPoZt6cNC7eaRUUwFKb/mYm1LbLURzKqEf7CQpGxi2EkoI0e5M4jPM9/+wZCYnqhKF1dCQdWS91Y4ugN9H44yHqGpPDThqfMR0oVDkts0R6UNzdsEBAxcKLa2xcZy/ZyfDAUCSxcgAnxQuAT0GIrSLq0+KIqise2YbY05E3UDKKspjpyx4u15nKwMDJUQgJreRgQRzsBqvAf99WosKLDe0io7EwYztr/aaLDZ6yk6Lg0mq4ikJBG6ZxaXwG91ejwijc2YskQ1YpJ1Qat+vutJ2VhWO2OpWujopRYqCGjVPaZRRBDRK05wc1d+45M1NugeEitLxdRXSnvLXFTM5TpK/DsqFeGRsdqlc00XoOmnuqYC06GCrrgO5mvkrvsXGb86TIwaBf94t64q1LTbna3tRkTW0WLE9c81PGCxof8Kjd6oKhXsEYbwJMAGErySgr6owEeRbMUP6gLr/snETTNk67838NRaT7gDL9iSoFwToct+wptO5YFb55UPpMf1GZmyobiiHvGZanTrSOQ==;A6YdJVfsFV7qPjUszU5JiQ=="
 ---

@@ -71,6 +71,15 @@ related:
         width: 2094
         height: 1177
         isCached: true
+  - title: "Swiss fintech Yokpy opens Spain office"
+    excerpt: "The Swiss company Yokoy continues its growth plan and announces its expansion to Spain, with a local team and office in Madrid to support regional operations."
+    publishedDateTime: 2022-10-20T19:30:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94543/swiss-fintech-yokpy-opens-spain-office"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 19
   - title: "Tenet Fintech Group takes over control of subsidiary Asia Synergy Transportation Hub"
     excerpt: "In exchange for publishing services rendered by the Company on behalf of Tenet Fintech Group named herein, including the promotion by the Company of Tenet Fintech Group in any Content on the Site, the"
     publishedDateTime: 2022-10-17T11:58:00Z

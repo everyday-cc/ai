@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
+    publishedDateTime: 2022-10-17T22:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
 
 secured: "e+kChYIA8Rob7kXbSqTEK0qn4nUs5XqkX/QfSTHbVCGewoiFbczCeOdyc+fHGw3+N9I4N2MJh+GAQi+2KTtxvPJK+lHtxIHVQxH/BtmLXAol2S2gTjVTprJ7/cuNC8f7GOAWJWCtxHKFeiI1u5/NTHXJSThzXzHNqYQYPpVckoI589iLpuUyzAcMLHK2loZ2PGiXVXlTqp5jA9+4+CMS7VjjubXJpQ7SYokjPuHxgv7MXoRcZ176pqkjg7X0OlcC++Z4k5W3JNFVuvF5iwf6M/6/PFzdRpXES8gvodHS+6WCn6Pg52gmfqmRct3fWW4iaEZ/YsdR4vU5il5A7wYUlNUAhIGRnxuopKC94bvffq0=;pyV8vfNIpi+1BKG3jIJ6fg=="
 ---

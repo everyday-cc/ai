@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T17:54:00Z
 originalUrl: "https://menafn.com/1105054746/AI-In-Insurance-Market-The-Machine-Learning-Segment-To-Maintain-Its-Lead-Position-During-The-Forecast-Period"
 webUrl: "https://menafn.com/1105054746/AI-In-Insurance-Market-The-Machine-Learning-Segment-To-Maintain-Its-Lead-Position-During-The-Forecast-Period"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Mena FN

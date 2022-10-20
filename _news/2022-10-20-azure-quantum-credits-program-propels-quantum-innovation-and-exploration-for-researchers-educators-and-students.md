@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T16:00:00Z
 originalUrl: "https://cloudblogs.microsoft.com/quantum/2022/10/20/azure-quantum-credits-program-propels-quantum-innovation-and-exploration-for-researchers-educators-and-students/"
 webUrl: "https://cloudblogs.microsoft.com/quantum/2022/10/20/azure-quantum-credits-program-propels-quantum-innovation-and-exploration-for-researchers-educators-and-students/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Microsoft

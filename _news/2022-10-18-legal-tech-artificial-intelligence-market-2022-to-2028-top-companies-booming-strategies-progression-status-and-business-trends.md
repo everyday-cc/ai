@@ -22,38 +22,24 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028"
-    excerpt: "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15"
+  - title: "Artificial Intelligence In Regtech Market 2022 to Eyewitness Massive Growth by 2028"
+    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence In Regtech Market\""
+    publishedDateTime: 2022-10-20T07:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 76
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence AI in Medical Market Revenue, Gross Margin, Capacity, Production and Growth Rate Report 2022-2028"
-    excerpt: "A novel report on global Artificial Intelligence AI in Medical market has been recently added to Xcellent Insights'"
-    publishedDateTime: 2022-10-16T03:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-medical-market-revenue-gross-margin-capacity-production-and-growth-rate-report-2022-2028-2022-10-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Medicine Market by top manufacturers, type and application, with sales market share and growth rate Forecasts till 2028"
-    excerpt: "The Global Machine Learning in Medicine Market 2022 report is a thorough assessment of the worldwide industry with"
-    publishedDateTime: 2022-10-18T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medicine-market-by-top-manufacturers-type-and-application-with-sales-market-share-and-growth-rate-forecasts-till-2028-2022-10-18"
+  - title: "Artificial Intelligence In Fintech Market is Expected to be on Course to Achieve Considerable Growth to 2030"
+    excerpt: "Oct 18, 2022 (Alliance News via COMTEX) -- Quadintel's recent global Artificial Intelligence In Fintech market research report gives detailed facts with..."
+    publishedDateTime: 2022-10-18T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-is-expected-to-be-on-course-to-achieve-considerable-growth-to-2030-2022-10-18"
     type: article
     provider:
       name: MarketWatch
@@ -64,31 +50,17 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Courses Market 2022 Regional Trade, Company Profile Analysis, Business Strategies and PESTEL Analysis by 2028"
-    excerpt: "PESTEL analysis research evaluates the worldwide Machine Learning Courses market's social, economic, environmental, and political factors. The research examines recent market tendencies, development potential,"
-    publishedDateTime: 2022-10-18T04:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-courses-market-2022-regional-trade-company-profile-analysis-business-strategies-and-pestel-analysis-by-2028-2022-10-18"
+  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
+    publishedDateTime: 2022-10-17T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 19
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Insurance Market : The Machine Learning Segment to maintain its Lead Position during the Forecast Period"
-    excerpt: "PORTLAND, OREGON, UNITED STATES, October 20, 2022/ EINPresswire.com/-- Allied Market Research published a report, titled,“ AI in Insurance Market by Offering, by Deployment Model, by Technology, by Enterprise Size,"
-    publishedDateTime: 2022-10-20T17:44:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/ai-in-insurance-market-the-machine-learning-segment-to-maintain-its-lead-position-during-the-forecast-period"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 34
-    images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
         width: 1200
         height: 630
         isCached: true

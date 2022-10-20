@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Sinaptica’s SinaptiStim – AD Systems Receives Breakthrough Device Status"
+    excerpt: "The FDA has granted Sinaptica Therapeutics a Breakthrough Device designation for its SinaptiStim – AD System, an electromagnetic therapy for cognitive and functional decline in Alzheimer’s disease patients."
+    publishedDateTime: 2022-10-20T21:36:00Z
+    webUrl: "https://www.fdanews.com/articles/209882-sinapticas-sinaptistim-ad-systems-receives-breakthrough-device-status"
+    type: article
+    provider:
+      name: FDAnews
+      domain: fdanews.com
+    quality: 3
   - title: "Sinaptica Therapeutics Announces FDA Breakthrough Device Designation for its Novel Noninvasive Neurostimulation Treatment for Alzheimer's Disease"
     excerpt: "Sinaptica Therapeutics, Inc., a clinical-stage company leading the development of a new class of personalized electromagnetic therapeutics to treat neurodegenerative diseases, today announced the U.S."
     publishedDateTime: 2022-10-19T13:03:00Z

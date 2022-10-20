@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T13:14:00Z
 originalUrl: "https://www.marketwatch.com/press-release/lantheus-presentations-at-the-european-association-of-nuclear-medicine-annual-meeting-showcased-artificial-intelligence-data-2022-10-17"
 webUrl: "https://www.marketwatch.com/press-release/lantheus-presentations-at-the-european-association-of-nuclear-medicine-annual-meeting-showcased-artificial-intelligence-data-2022-10-17"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
   name: MarketWatch

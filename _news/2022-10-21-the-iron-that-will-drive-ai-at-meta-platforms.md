@@ -5,7 +5,12 @@ excerpt: "If there is one thing that is consistently true about HPC clusters for
 publishedDateTime: 2022-10-20T18:38:00Z
 originalUrl: "https://www.nextplatform.com/2022/10/20/the-iron-that-will-drive-ai-at-meta-platforms/"
 webUrl: "https://www.nextplatform.com/2022/10/20/the-iron-that-will-drive-ai-at-meta-platforms/"
+ampWebUrl: "https://www.nextplatform.com/2022/10/20/the-iron-that-will-drive-ai-at-meta-platforms/amp/"
+cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/10/20/the-iron-that-will-drive-ai-at-meta-platforms/amp/"
 type: article
+quality: 63
+heat: 63
+published: false
 
 provider:
   name: The Next Platform
@@ -15,7 +20,14 @@ topics:
   - AI Hardware
   - AI
   - Facebook AI
+  - Microsoft AI
 
-secured: "OFcJQDqoINsbJHbucI7ciXuJmg+Z+HkFNx/nQ75+bsvmhkqGGgLCDkpa9Vn/7B5N0HXeyDuInTCx3R3dQU8x75ibiMww/RIbp6ZylqJIAOOSMg4gGhcBWcyv+BtoDlk8yMC8gQM1FX8oPVDC4nEQTmf/NwsbLP7+4GmO3jDeW0oUb13LH1i9lEDLjJveTqMDITJ+z6jbjTFsINz+WSdmUk2NYs/3xEcct4/uQCzXHx9jb503G9N2XNJNotWvqFBNbOFXX2ZnGXVIwwM6mz8K9kfcPgwMQPRqsmKi+mdd9Fk5zSAqs5cP/7gRKSeiwkFx8lKFlsI83k67//D/UzAXK3McY/qoV2/cQD/7q77hb04jodgTMCTLSRU4KpW3MdfEFWF4bLOtCG5ig9MZUNWIgl4kNgib9gPNbI/BEwmkMjF9RaMZGw6PqdnWNHiY0kvDLW3Ea1MqaRP6d0TCWoOksimLx8Ks3tjQL6N7UY/hf5wHajcfpXPngdqnhjAGfTRvuBc+m+hEY+UCFlyrAj2qYQ==;AMwrz/+liM5GdWYa5N/e/Q=="
+images:
+  - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/meta-grand-teton-gpu-server.jpg"
+    width: 919
+    height: 671
+    isCached: true
+
+secured: "Otldfx+JlNIHnvot78cNLwBy3Vvz8fhuMutbzAd6y5gH38sJLiiLxHhfaA9r0naWQR/6iHmplprn2JGOPIP95OnOnLHMRB231N66D6pQO4HwNMADuldTqGagZgT+ubh9hgDLLz8/pLCvmddAC75a3oerVnLM1qOdF05Jr++jM229w555gZ1JxHO/HDzhknWn4wFzMOC51Z89keWgYpfqdMr8q74LegvfVu2mB/v6bpP5ej4PmX+qQQvnQQqOw4/lAETKeSuHTEFTz3jK9uWIaBcSuVPD6gMZP1uVlwYROwI2FMej/+r7BoDIlQ4iVFcw0cx+y7//H/PZlUsZNkuhozaB/trgRWCzdCm1wGEYUis=;p53ZGeTLkkvxsh4ew86jQw=="
 ---
 

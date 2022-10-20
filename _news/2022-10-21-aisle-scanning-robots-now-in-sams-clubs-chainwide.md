@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T18:18:00Z
 originalUrl: "https://www.supermarketnews.com/retail-financial/aisle-scanning-robots-now-sam-s-clubs-chainwide"
 webUrl: "https://www.supermarketnews.com/retail-financial/aisle-scanning-robots-now-sam-s-clubs-chainwide"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Supermarket News

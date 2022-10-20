@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T19:52:00Z
 originalUrl: "https://www.wtvm.com/2022/10/20/military-matters-fort-benning-leaders-talk-robotics-with-east-alabama-leaders/"
 webUrl: "https://www.wtvm.com/2022/10/20/military-matters-fort-benning-leaders-talk-robotics-with-east-alabama-leaders/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: WTVM

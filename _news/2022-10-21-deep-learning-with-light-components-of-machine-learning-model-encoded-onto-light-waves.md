@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T18:00:00Z
 originalUrl: "https://techxplore.com/news/2022-10-deep-components-machine-encoded.html"
 webUrl: "https://techxplore.com/news/2022-10-deep-components-machine-encoded.html"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: techxplore

@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-20-create-synthetic-data-for-computer-vision-pipelines-on-aws.md",
+      "title": "Create synthetic data for computer vision pipelines on AWS",
+      "excerpt": "Collecting and annotating image data is one of the most resource-intensive tasks on any computer vision project. It can take months at a time to fully collect, analyze, and experiment with image streams at the level you need in order to compete in the current marketplace. Even after you’ve successfully",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/03/image043.png",
+          "width": 866,
+          "height": 558,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T13:38:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
       "title": "Texas AG sues Google for over facial and voice data collection",
       "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
@@ -10,7 +63,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -63,7 +116,7 @@
       "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 80,
       "tags": null,
       "images": [
         {
@@ -317,7 +370,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 106,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1428,40 +1481,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-06-how-to-setup-facial-recognition-and-fingerprint-recognition-on-the-genesis-gv60.md",
-      "title": "How to setup Facial Recognition and Fingerprint Recognition on the Genesis GV60",
-      "excerpt": "At Autoblog’s Tech of the Year, Senior Editor John Snyder demonstrates the steps needed to set up Facial Recognition and Fingerprint on the 2023 fully electric Genesis GV60. Transcript JOHN ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
-      "originalUrl": "https://www.autoblog.com/setup-facial-recognition-fingerprint-recognition-144507761.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

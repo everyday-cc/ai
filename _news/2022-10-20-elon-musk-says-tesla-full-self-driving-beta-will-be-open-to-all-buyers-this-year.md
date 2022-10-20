@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-drivi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -90,6 +90,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388502852/image_1388502852.jpg?io=getty-c-w750"
         width: 750
         height: 422
+        isCached: true
+  - title: "Musk: Teslas won't be approved as fully self driving this year"
+    excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
+    publishedDateTime: 2022-10-20T20:04:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/musk-teslas-wont-be-approved-fully-self-driving-year"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/TTESLAS-MAIN_i.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "rBuchXgjJs1wqena+LksdZVWEyL64WnpecCpSytSaiO6ymKEhT8VqInfHCx76KkXHDSvA0FPy2S44Z+2OBcoz/q1kq3u9JUC+C5zUmXtZEldap7LIC3sBc+sWamoHqFFU7hoDbIrGtDRNvudE19YjfSfoc9hDLQQILyJUsRvceY/nv7A598Vnuaz6cklLY7Kpk7ZmaTG5ggPMGqpZCPrhg2m/m6/kmPCjAXelLy2OFZNKVTu5Pnm/jVx0c9kjr3l55a20p/IapKVBWlON26dlVw+nFPt6iyffOwgvRIBgQU91ZGMdNvwvs7Dqlg2mqDwE1ixKAGRFv/sjoC2PpshHaWqi8b6joiLAjZWybdW5cQ=;IFvI46rstNjtsiMDmC6ihw=="
