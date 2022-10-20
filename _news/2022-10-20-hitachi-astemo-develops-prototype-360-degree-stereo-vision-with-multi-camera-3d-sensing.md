@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T13:10:00Z
 originalUrl: "https://www.sourcesecurity.com/news/hitachi-astemo-develops-prototype-360-degree-stereo-vision-multi-camera-3d-sensing-co-1666252493-ga-npr.1666252651.html"
 webUrl: "https://www.sourcesecurity.com/news/hitachi-astemo-develops-prototype-360-degree-stereo-vision-multi-camera-3d-sensing-co-1666252493-ga-npr.1666252651.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SourceSecurity

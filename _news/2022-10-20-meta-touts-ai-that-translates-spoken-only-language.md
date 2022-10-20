@@ -137,6 +137,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Meta develops a new way for people to connect through language using AI"
+    excerpt: "The artificial intelligence speech translation system can decipher Hokkien, a spoken language, and hopes to one day translate other spoken languages."
+    publishedDateTime: 2022-10-20T15:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-develops-a-new-way-for-people-to-connect-through-language-using-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://images.interestingengineering.com/1200x675/2022/10/20/image/jpeg/DL7VxlzFE9xfFxJU2i2rec3Hi48RfJUzmeMInxHe.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta develops real-time Hokkien speech translation AI"
     excerpt: "Meta has generated the first artificial intelligence to translate Hokkien, which is a language primarily spoken and not written. The company, formerly known as Facebook, is training an artificial intelligence to translate hundreds of languages in real time,"
     publishedDateTime: 2022-10-20T06:44:00Z
@@ -180,6 +194,6 @@ related:
         height: 869
         isCached: true
 
-secured: "kQJpTFTuXpqTJxzmWGKwBlp8vqWYBgfBB7NCxacvS8q/VleAXybc+I78u0MfV1XFOrEL2zcGYoP4SD9/wWj1YVzIRh/UMDkvG1KnUgsHK+eUCPu5u6zem9wGSZnXIAcz8zU/F1iJ1Mm4Tww6zdC6exuCVWVdkAW8SxNKVzCKmvCFJm0WSW3cyNgSVDcpVZap1F46LbDYu7w5E2ahKIyphQDk6F/aHQatE7kpMqPHL1M6YHnnP+kzgh68HpL2gxSvriljvFD+J0pnqUbHuQeNYz7rhmln+Ykat71vXmKiE85kiQUluAmZdCyknjWwXsyJvA3ns8jWHNboy4X7ynMM9s0Uy8Brls7TONbP3v71jnE=;lIYIMY9OLZvLU4j5EmCQWQ=="
+secured: "yfeSJL1LFLqqAsgUfeiACx/Xs+Ge5NuT6RORwGuZSEXK8BqDtsofUksD7z2eqYxiMLmV1m9fx3/DfFfuGHG5winIs6YLrfkPQa0KPQlXw2//D+BPbwfpJIQ4JkE7LcDJXIaB18tHu+Ne+AFln5ijUEF8CXGU48rpVrXu6vD7HV7ejnHehX6sP+XEDUYhBsAdfBwNNoDyWDmN/yN/4kj5Crb4NpP29/o3EPKCP5t7Q8yDtn0X8upCW4fvMRW1/5/IaZp/AuUIy4nMu3RMmE8AHmINwyBdRWyGscO7yOx6+giF0IoHH580azVu/XvE/ozVUIca4F5gvp1ZXdtTGhicEww+EQHzeuyF9JKR+EOuuovK6Z8BY+x95SIDMnPjzu/xFA1Hx2EKuw63mCqpjk2AMM/gOFm44+/srsC5dDJ5HMq0tpN9epos9UH7XI4BF0NrxxMRd+xu1EMBDIdiF6Fl891ljlVm62BHGUXjm85vgm3D34jbU+rAnw19DE/Ne1wro5jBitzFICarpWldIcVeIQ==;Ad0N+Wq5mRecYr59rAgx2g=="
 ---
 

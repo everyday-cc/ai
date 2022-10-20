@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Mind Reading Artificial Intelligence Now Has The Ability To Decode Human Thoughts"
+    excerpt: "Mind reading artificial intelligence now has the ability to decode the words and sentences that people are thinking by utilizing brain scans. This new"
+    publishedDateTime: 2022-10-20T13:42:00Z
+    webUrl: "https://brobible.com/culture/article/mind-reading-artificial-intelligence-decode-human-thoughts/"
+    type: article
+    provider:
+      name: BroBible
+      domain: brobible.com
+    quality: 32
+    images:
+      - url: "https://brobible.com/wp-content/uploads/2022/10/Mind-Reading-Artificial-Intelligence-Has-Ability-To-Decode-Human-Thoughts.png"
+        width: 1222
+        height: 652
+        isCached: true
 
 secured: "vHw6iPL2bMYMQp09/CUNdNrFZCiRfCYmXhQsvxhI+y0gFElDZUCw1VbIXeu51Ho6Y0Te/LvSycEWJw6Tlx3S/vLJ5qxuO5vIAsxmb7AA+Cp5tiG8pTEPqs8Mwyy4QJQcGmsafaXSs9/j/lFH+JaGstmXtiDHszlKtZMmJJwyuA/FEU00hqpaJRyMPnWOxwOl8ZN707E2+1aDKn6NCN0TAj+HAcOEb38I8BtARIh0XRBz5YxLVU8fQwPkskZFCGFUnnYqGimh9aB4byuEf8C7v1l+C1wlsTiSNPvq21jQ/2AAdAKGCNpIYmfvDbGIvn8Kr1AsqLw3aOwC0dWWBKDVC/m9faqCJRJj5UnbGikenk4=;SQ1ytQFgdCXdwe+GzqQvpQ=="
 ---

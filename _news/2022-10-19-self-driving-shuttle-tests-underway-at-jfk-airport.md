@@ -9,8 +9,8 @@ ampWebUrl: "https://www.silive.com/news/2022/10/self-driving-shuttle-tests-under
 cdnAmpWebUrl: "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2022/10/self-driving-shuttle-tests-underway-at-jfk-airport.html?outputType=amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Staten Island Advance
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Waymo Plans To Bring Self-Driving Vehicle Service To Los Angeles"
-    excerpt: "Autonomous vehicle company Waymo announced on Wednesday that it plans to operate its next fleet of self-driving vehicles in Los Angeles. The announcement comes after the company was able to successfully operate its self-driving vehicle services in both Phoenix and San Francisco."
-    publishedDateTime: 2022-10-19T23:16:00Z
-    webUrl: "https://www.ibtimes.com/waymo-plans-bring-self-driving-vehicle-service-los-angeles-3625932"
-    ampWebUrl: "https://www.ibtimes.com/waymo-plans-bring-self-driving-vehicle-service-los-angeles-3625932?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/waymo-plans-bring-self-driving-vehicle-service-los-angeles-3625932?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 59
-    images:
-      - url: "https://d.ibtimes.com/en/full/3059166/waymo-self-driving-car-pulls-parking-lot-google-owned-companys-headquarters-mountain-view.jpg"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "JFK tests out self driving vehicles"
     excerpt: "NEW YORK - JFK Airport is testing out self-driving shuttle vehicles. The Port Authority is working with autonomous vehicle (AV) manufacturer Navya for the test.  They are looking at the possibility that the shuttle could be used as shuttles for airport passengers."
     publishedDateTime: 2022-10-20T11:25:00Z

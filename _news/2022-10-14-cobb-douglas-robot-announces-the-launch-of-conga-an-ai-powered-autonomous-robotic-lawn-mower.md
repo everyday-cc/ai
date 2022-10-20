@@ -6,9 +6,6 @@ publishedDateTime: 2022-10-13T18:02:00Z
 originalUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
 webUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
 type: article
-quality: 72
-heat: 82
-published: true
 
 provider:
   name: MarketWatch
@@ -28,22 +25,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Cobb Douglas robot launches Conga: an AI-powered, autonomous robotic lawn mower"
-    excerpt: "Robotics innovator Cobb Douglas robot has just announced the launch of Conga – an autonomous hands-free lawn care robot with enhanced visual AI. This intelligent lawn care robot takes the hassle out of lawn care by intelligently creating a virtual map."
-    publishedDateTime: 2022-10-17T20:04:00Z
-    webUrl: "https://knowtechie.com/cobb-douglas-robot-launches-conga-an-ai-powered-autonomous-robotic-lawn-mower/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 50
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/10/razer-edge-5g-kt-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
-
-secured: "S+kerBpslGVYAPK/VDdnUqbvDZBnOtCJ3MSXPeZZffp2Z5ihiJqCVIs7qNFQeG6qG8klBEV/vQfLUiGeiYkbCaQdphupV1HGcGq1vU65J4GZyuBVHEHX1BgOTbOS3bQC+SPHGrVG7/UyeXpVW6TBsrHZIdk9SoaVvTKQ/r3M3RwRRp2rZE3XZxaA/HmnTvrC3UD/3plGbNOZhfmVfR7UvpkRHSoi8KKMAXbTR6fVSEhVhIGoyCRdrcRZWTOpd4+7NjZkkuAMSfDY7UbxbCrzXvCoO38Eh0qn6b8wtLOJhwt0WuBw8XR39vernuNMk8akNwD//1o/JuH8WYw2VoSlNolXn9cUVvmS+viEVwHI0fA=;kBglMY3XGc7xL51J1ytZ2A=="
+secured: "wDZHD5PpXqrftW+NlfGqytVRY13JBFmvymVat5reY4euOeI1YWLqBo3+iN/RqAY6DJex0n2LmEvJ9FW47EPtyF0cRF2VCBMkpoQ9rWn3yW2xZ5vaiXbPy68VCKT0jKqCpjZALIbUjVSVDmCK9IW3qFxTmsQEktUOurDtDj8iqXUgIL9D+N6SJ/6/cfE1V5Ids6FUGAre20ldKg8EXZbR/t0nTkdivBxspEWO7cNOOgU7u3k2OjmZ/3NjF3s73RHP6yeIyvLsL34Z9rwohJ8BsV/HzpKj6nZ9/ExkJubpCg45Mxj+ZOY3JnXwTGm8jdWA5pb98l7by+9JAh6Z7DhWpnUz++KSklpXlRrJQJ6Sdx4=;mjZWWR79J+54gaimAc+tSA=="
 ---
 

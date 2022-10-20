@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T12:34:00Z
 originalUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/10/20/how-artificial-intelligence-is-branching-out-into-politics/"
 webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/10/20/how-artificial-intelligence-is-branching-out-into-politics/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Free Malaysia Today

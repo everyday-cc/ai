@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-16T11:04:00Z
 originalUrl: "https://www.businessinsider.com/artificial-intelligence-albertina-geller-deepfake-gan-images-online-scams-2022-10"
 webUrl: "https://www.businessinsider.com/artificial-intelligence-albertina-geller-deepfake-gan-images-online-scams-2022-10"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:

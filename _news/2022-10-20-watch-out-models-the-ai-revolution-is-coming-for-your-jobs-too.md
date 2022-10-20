@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/ai-revolution-will-even-take
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/?amp"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -44,15 +44,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
-    excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
-    publishedDateTime: 2022-10-15T21:28:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221015/3993450.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 1
 
 secured: "43qndN5jkwaUOFTqhPiJw/ODMFohyG2IknPihcbpc2vt7QmgGhCCcWkhlKg2Kr7Qvs8U5F9djlfsM4JLbkp1bzNuSu5U+JaFn8YvSe7/ghJhyX0cctqmxXGZDD4WPS++U0syWdEhb/VIezT12D/PzG/u218NvhCkWrLUzIKG9GwpMQHYdBZLK4JgYdNzuRcXaIL6HnbJmnrwOvQi7rji9Q3A5KHBglELbvjUWtquvEzLabbGmkfQiO3PvhF5vdCK7GLnxdwZKLLyTkKfyKa3ShqkXXJ4chWipO+sBu6fw4kwQ/wuCXslhfRaggZi8N+wFf/dhEFgflwDWScTXpbuzDw7TpJjCAVRguj4Swab8hPnxBn2lRLbO8q7745vgD9KfktgIcA6GI3/yE4zG1k2EoKHh0eh3V6QpLkwmrRppIeGDflqd+8lsavldKQc4F5ieNOHPU4fYhE+KitfwpstU9odxTLNUXVaR2ZvFRpGViY+mZLECtKwm9kygcqgOTKZJYQe7+nkbP3G0ef2MOMTTQ==;RkvGES9JkXdp90It/3TDjw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T00:00:00Z
 originalUrl: "https://cacm.acm.org/news/265733-deep-learning-is-human-through-and-through/fulltext"
 webUrl: "https://cacm.acm.org/news/265733-deep-learning-is-human-through-and-through/fulltext"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: acm.org

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-eth
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/amp/"
 type: article
 quality: 95
-heat: 105
+heat: 95
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "How AI is assisting with the development of future treatments"
-    excerpt: "The use of information technology has long been central to the life sciences, but the promise of augmenting human thinking in the research and development of drugs, therapies and other treatments with artificial intelligence (AI) is nothing less than the promise of speeding breakthroughs in medical discoveries."
-    publishedDateTime: 2022-10-15T21:30:00Z
-    webUrl: "https://www.businesspost.ie/commercial-reports/how-ai-is-assisting-with-the-development-of-future-treatments/"
-    type: article
-    provider:
-      name: The Sunday Business Post
-      domain: businesspost.ie
-    quality: 37
-    images:
-      - url: "https://imengine.public.prod.sbp.infomaker.io?uuid=de0aaee4-0b50-51e7-a7ab-ff0ec43eecc9&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.94737&width=1200&height=675&x=1.0E-5&y=0.02737"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "wTeeihsAK5BtecG7BN8yur1H3XuQxuHAg2cR6EmGc7cyAvXv18+MAUHS8L+wWhxRJvqgqGJcvRSKEi8mQC21kYKElZ5mnBN34ZczsA0i0MyzgUpozR80IxM7dTuZrm6OKWpDzXwLoUd3rzkolTLYiZTG2N53p4qbYnLtwNwAvp7QqFw8px7OCjHVI5wNNBmPCHt56tTsTlpxIG59dLqf/AyMYPm3sZlkl2uT9M5FaYctiZmKI7HcNswGGLRB+sFvfHww3IA35Kuvl+opOWsZ3COjwlj9lRkzSLiNwNaoF5MzvXpr6LxtxWjUZ4yQ9jQe3zkiCMVqSIVZ/OL3S5zKOBhWVIed6sOlxZQVcwC9BB0bRw5sp+/v0qioH5xynWbEGJM7GvHvReHuVZe3PlqzSsl2LWc7fTq7goiI6B1ubPLf6sbVL5HIeyuam9Dew4WpWtQ6pKF8ooU8GNQDSQxIzpu4vVoGmgKzfgoOnhlcGD1Oc8SNYCZ1ybwd2iTUoCsTHMI6G4XLkaAkC6NKehjg3A==;X6PLxDdP4ks9Ib7Dqg4Qfw=="
 ---

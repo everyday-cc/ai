@@ -151,6 +151,20 @@ related:
         width: 1200
         height: 678
         isCached: true
+  - title: "Meta develops a new way for people to connect through language using AI"
+    excerpt: "The artificial intelligence speech translation system can decipher Hokkien, a spoken language, and hopes to one day translate other spoken languages."
+    publishedDateTime: 2022-10-20T15:36:00Z
+    webUrl: "https://interestingengineering.com/innovation/meta-develops-a-new-way-for-people-to-connect-through-language-using-ai"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 39
+    images:
+      - url: "https://images.interestingengineering.com/1200x675/2022/10/20/image/jpeg/DL7VxlzFE9xfFxJU2i2rec3Hi48RfJUzmeMInxHe.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z

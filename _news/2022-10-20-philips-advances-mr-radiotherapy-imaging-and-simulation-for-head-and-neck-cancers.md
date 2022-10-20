@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T13:00:00Z
 originalUrl: "https://www.asiaone.com/business/philips-advances-mr-radiotherapy-imaging-and-simulation-head-and-neck-cancers"
 webUrl: "https://www.asiaone.com/business/philips-advances-mr-radiotherapy-imaging-and-simulation-head-and-neck-cancers"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Asia One

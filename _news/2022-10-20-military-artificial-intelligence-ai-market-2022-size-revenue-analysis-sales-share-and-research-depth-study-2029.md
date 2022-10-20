@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20"
 type: article
 quality: 78
-heat: 288
+heat: 298
 published: true
 
 provider:
@@ -67,6 +67,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 59
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Statistical Natural Language Processing Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data"
+    excerpt: "Statistical Natural Language Processing Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-18T04:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

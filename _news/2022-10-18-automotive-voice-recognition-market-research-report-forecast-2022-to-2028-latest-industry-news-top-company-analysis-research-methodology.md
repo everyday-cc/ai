@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence In Fintech Market is Expected to be on Course to Achieve Considerable Growth to 2030"
+    excerpt: "Oct 18, 2022 (Alliance News via COMTEX) -- Quadintel's recent global Artificial Intelligence In Fintech market research report gives detailed facts with..."
+    publishedDateTime: 2022-10-18T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-is-expected-to-be-on-course-to-achieve-considerable-growth-to-2030-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "a1H9d3wHW4ieArnwrA3XvD91v+hCo62dJv+bXy1+KpFb/lc0Z8RB0lt6rpi0Zvru9RFL4OfcVpUMhybeJSW84pfXh04rcqzpEHpHJi6STEijkPAiFUFvtWtppPm8kdqzCOSb809iG7QJ4WM+jPNhOvjWgqnkdRbcAq571rRwJN90X9V3svEmOI+j0mHpmC9Ylt4WnLlXRBz1JL1VsCZSMYRkp9nAFBKmbUxw9xloVJGgUSN6z1znxN4KO/Doz96Z0W9kbbx9+rV6zOj6Xy4svEuBBCF8Ck4SF0egIg4Oc9hPEwO0oSj1wOPJrPVWLQGid2o1JDbHtc3V85SDXgFsQEyXbpmVAWr419hssGdyoJM=;GL+WrKl/uvoHxyMDs6DqpQ=="
 ---

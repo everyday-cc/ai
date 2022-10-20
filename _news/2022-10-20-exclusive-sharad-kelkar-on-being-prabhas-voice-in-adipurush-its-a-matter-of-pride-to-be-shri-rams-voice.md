@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T13:04:00Z
 originalUrl: "https://www.pinkvilla.com/entertainment/exclusives/exclusive-sharad-kelkar-on-being-prabhas-voice-in-adipurush-its-a-matter-of-pride-to-be-shri-rams-voice-1195744"
 webUrl: "https://www.pinkvilla.com/entertainment/exclusives/exclusive-sharad-kelkar-on-being-prabhas-voice-in-adipurush-its-a-matter-of-pride-to-be-shri-rams-voice-1195744"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: pinkvilla

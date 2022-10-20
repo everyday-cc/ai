@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T09:23:00Z
 originalUrl: "https://www.theguardian.com/lifeandstyle/2022/oct/20/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-78"
 webUrl: "https://www.theguardian.com/lifeandstyle/2022/oct/20/the-guardian-thursday-quiz-general-knowledge-topical-news-trivia-78"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: The Guardian

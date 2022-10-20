@@ -2,6 +2,109 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
+      "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
+      "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/",
+      "publishedDateTime": "2022-10-20T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion.md",
+      "title": "Laws Of Motion Created AI Sizing Technology Accelerating Personalized, Sustainable Inclusivity In Fashion",
+      "excerpt": "Carly Bigi, founder and CEO of Laws of Motion, created an AI technology company that is accelerating the advent of personalized and sustainable inclusivity in the apparel industry. Launched in 2019, Laws of Motion generated its first $40 million in revenue after raising only $2 million in pre-seed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/",
+      "originalUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634f4c63292f1847e4b5c039/0x0.jpg?format=jpg&crop=3754,2815,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/amp/",
+      "publishedDateTime": "2022-10-20T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028.md",
       "title": "Artificial Intelligence In Regtech Market 2022 to Eyewitness Massive Growth by 2028",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence In Regtech Market\"",
@@ -10,7 +113,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -61,7 +164,7 @@
       "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -113,7 +216,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 288,
+      "heat": 298,
       "tags": null,
       "images": [
         {
@@ -158,6 +261,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-20-digital-transformation-with-google-cloud.md",
+      "title": "Digital transformation with Google Cloud",
+      "excerpt": "We’ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
+      "originalUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg",
+          "width": 3578,
+          "height": 1980,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-meta-ai-translator-can-figure-out-unwritten-languages.md",
       "title": "Meta AI Translator Can Figure Out Unwritten Languages",
       "excerpt": "Meta announced what it's calling the \"first AI-powered speech translation system for an unwritten language\" Wednesday, according to a blog post from the tech company. The system successfully translated the Taiwanese language Hokkien,",
@@ -166,7 +321,7 @@
       "originalUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -426,7 +581,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -477,7 +632,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -728,49 +883,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-19-self-driving-shuttle-tests-underway-at-jfk-airport.md",
-      "title": "Self-driving shuttle tests underway at JFK airport",
-      "excerpt": "One of the region’s busiest airports has hopes of using self-driving shuttles to help passengers quickly and conveniently navigate its facilities. On Monday, the Port Authority of New York and New Jersey announced that it has begun a three-day demonstration period to test the use of electric autonomous vehicle shuttles at John F.",
-      "sourceUrl": null,
-      "webUrl": "https://www.silive.com/news/2022/10/self-driving-shuttle-tests-underway-at-jfk-airport.html",
-      "originalUrl": "https://www.silive.com/news/2022/10/self-driving-shuttle-tests-underway-at-jfk-airport.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RJV4NDCRSJBP5DCSLFNON3C5IA.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.silive.com/news/2022/10/self-driving-shuttle-tests-underway-at-jfk-airport.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-silive-com.cdn.ampproject.org/c/s/www.silive.com/news/2022/10/self-driving-shuttle-tests-underway-at-jfk-airport.html?outputType=amp",
-      "publishedDateTime": "2022-10-19T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Staten Island Advance",
-        "domain": "silive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-19-how-to-use-dall-e-2-to-generate-ai-images.md",
       "title": "How to use DALL-E 2 to generate AI images",
       "excerpt": "DALL-E 2 is now open for public use, which means you can try your hand at generating AI images yourself until you find something perfect. Here's how to use it!",
@@ -984,7 +1096,7 @@
       "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/19/ai-law-and-ai-ethics-deeply-disturbed-by-that-recent-history-making-moment-of-an-ai-robot-testifying-to-the-uk-parliament/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -1168,100 +1280,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
-      "title": "11 new deaths tied to semi-autonomous driving systems",
-      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
-      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
-      "publishedDateTime": "2022-10-18T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-artificial-intelligence-answers-the-call-for-quail-information.md",
-      "title": "Artificial intelligence answers the call for quail information",
-      "excerpt": "When states want to gauge quail populations, the process can be grueling, time-consuming and expensive. It means spending hours in the field listening for calls. Or leaving a recording device in the field to catch what sounds are made -- only to spend hours later listening to that audio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

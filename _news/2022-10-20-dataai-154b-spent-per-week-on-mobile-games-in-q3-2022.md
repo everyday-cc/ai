@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T20:00:00Z
 originalUrl: "https://venturebeat.com/games/data-ai-1-54b-spent-per-week-on-mobile-games-in-q3-2022/"
 webUrl: "https://venturebeat.com/games/data-ai-1-54b-spent-per-week-on-mobile-games-in-q3-2022/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

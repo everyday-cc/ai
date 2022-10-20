@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T12:29:00Z
 originalUrl: "https://menafn.com/1105053438/Jasper-AI-Artificial-Intelligence-Content-Writer-Launch-New-Spectacular-Features"
 webUrl: "https://menafn.com/1105053438/Jasper-AI-Artificial-Intelligence-Content-Writer-Launch-New-Spectacular-Features"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Mena FN

@@ -41,15 +41,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Insane AI revolutionises home workouts with a first-of-its-kind AI-powered Workout Tracking Technology"
-    excerpt: "Insane AI, launches first-of-its-kind artificial intelligence (AI) powered fitness training app. The Bengaluru-based startup has developed a cutting-edge mobile app that transforms the phone's front camera into an intelligent workout companion."
-    publishedDateTime: 2022-10-15T21:28:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20221015/3993450.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 1
 
 secured: "sL0Jrw3fvmWUG38o8vu8N9N0Itl0udhuT3yN44CXzMJc8UdvcCw92X9iRl9DoO42jvp6cAmTYyBKpD/fIkY53w8jfFSOGl5HDdurQR1BbUwl659XREUvpLWlzfKQ6R2X/uMpZncR55QRZpCEG4JA4pId/rMcwPKLBPptaog4gOHAQ6+vQ0U8hPYj9xPM/zNcoihHk6S1wNw/ycBUKEovfbymSVcAWIb2hi0grd90roZSxeU4kAC/+qcs6IHTNROK5Hq7Quit7hAGLiQIOpTmZghKWjy/6NYG6J8yW9s53hujBRrklXO+tS6+AIYchCwuhrMMGMxHdhgpdzKVg9T8TxDBDu1ULM1IivLre681A3s=;yaWNBCDfn8asOoj8gAN43g=="
 ---

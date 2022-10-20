@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T12:10:00Z
 originalUrl: "https://english.etnews.com/20221020200006"
 webUrl: "https://english.etnews.com/20221020200006"
 type: article
+quality: 21
+heat: 21
+published: false
 
 provider:
   name: 전자신문

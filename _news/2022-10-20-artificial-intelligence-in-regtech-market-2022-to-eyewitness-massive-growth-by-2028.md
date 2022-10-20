@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence In Fintech Market is Expected to be on Course to Achieve Considerable Growth to 2030"
+    excerpt: "Oct 18, 2022 (Alliance News via COMTEX) -- Quadintel's recent global Artificial Intelligence In Fintech market research report gives detailed facts with..."
+    publishedDateTime: 2022-10-18T02:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-is-expected-to-be-on-course-to-achieve-considerable-growth-to-2030-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
     excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
     publishedDateTime: 2022-10-17T17:00:00Z
