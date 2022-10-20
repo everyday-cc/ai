@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/ai-is-chang
 webUrl: "https://arstechnica.com/information-technology/2022/10/ai-is-changing-scientists-understanding-of-language-learning/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: Madison.com
       domain: madison.com
+    quality: 0
+  - title: "AI is changing scientists' understanding of language learning – and raising questions about an innate grammar"
+    excerpt: "Unlike the carefully scripted dialogue found in most books and movies, the language of everyday interaction tends to be messy and incomplete, full of false star"
+    publishedDateTime: 2022-10-19T17:03:00Z
+    webUrl: "https://www.thehour.com/news/article/AI-is-changing-scientists-understanding-of-17519147.php"
+    type: article
+    provider:
+      name: The Hour
+      domain: thehour.com
     quality: 0
 
 secured: "J0AXn8Azm8iVRjFkcWOu+Rre8Z0wMUEkiXZV0JOQOHL+4j52lZd8/OS6H+gpgO4fMRpEQARO/F6+AxwwYqHF6LUyr1NFTiU7NfZRTQHiv4g9VnQCj7TDA3jDZYETlTvy4eBvq4BJcOhH7sPVF5DBWVt8ZGYIPagbBMNo5C4K8uDFRbYW4m6/fu05cPGWK+S3WtexbN0OEM5A5vD1XsMIUiJ9GPyrCMJwF/qtvvinge1Exa9nmxbLjmYUndc3S0EpTJXAOoCa58/AccEAKfdiyGuZGAFAMps7o7wvs6qxGIaNUmmGt/qWzNqoIvbTMZk86y7C/XMFk2oUj9tXBa3gAxw+fKOHLKRN+fb0TI40EbcVmR27yTCewPEyZsUttkHQEUjinXt8yl2E7QH5mEJoRMjVhgO7D4kGQjdMXIt1QGyH+xyiNQWN9RGUQJXzgaz+ct2jz9lDhfkzP5MXfQ+Xzo1Te3BRwgZ6Kw9oVc781F8JpiSQrqPdUd8kAbLXucrLYlzZtTNnssW4HP0HSExKig==;PbQdnYP7AOLm35QZFY1A4A=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-inte
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI technology is not dark magic, it’s just misunderstood"
-    excerpt: "AI technology has a vital role to play in the future of business and academia, but we need a better understanding of it"
-    publishedDateTime: 2022-10-20T10:43:00Z
-    webUrl: "https://www.openaccessgovernment.org/ai-artificial-intelligence-business-academia/146229/"
+  - title: "Improving the mapping of human skin using models and deep learning"
+    excerpt: "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques."
+    publishedDateTime: 2022-10-20T16:45:00Z
+    webUrl: "https://techxplore.com/news/2022-10-human-skin-deep.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-human-skin-deep.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp"
     type: article
     provider:
-      name: openaccessgovernment
-      domain: openaccessgovernment.org
-    quality: 39
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/10/dreamstime_m_137795256-scaled.jpg"
-        width: 2000
-        height: 1333
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg"
+        width: 600
+        height: 422
         isCached: true
 
 secured: "CRRatP6Knm1ix8m9mM662LDH87XU51d7DHHNmUvc+s+h0gbuP/ObUULeOeFoxm9QmfLT/zJ5yfaAOKVUKhrHoIP9wk/tj2GOym/sghsqxrJXzkkO/OoTKG5l9Bdtz6tUPFAnMNbGYHpV5b4gQPU0/ut91LDUTVtCcsIHZLjcH8nDs3sKX1yseM65RlxkWd9avMZ5h1q8gGr/LfRP9mULPTCeGQrl4MYuIqWDpmSHKKJiVUEhxORkr/FGQLGvFjxBl+omPXx2fLyP5BdrN8i+tmlkoT3zRrIkUidmI58KHsD+mAG2D6hnNTsPsSCCVCXFaj6ONJuGC6LkOkg+V4DVfAKlzT1LvH59QRczeJlMfq0=;G8GX4iG5MWsXOsy8l5qZMg=="

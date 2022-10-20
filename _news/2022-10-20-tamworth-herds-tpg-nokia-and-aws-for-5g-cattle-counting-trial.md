@@ -2,9 +2,9 @@
 category: news
 title: "Tamworth herds TPG, Nokia and AWS for 5G cattle counting trial"
 excerpt: "TPG Telecom has completed a 5G-enabled 12-month cattle counting trial alongside other partners for Tamworth Regional Livestock Exchange."
-publishedDateTime: 2022-10-20T00:54:00Z
-originalUrl: "https://www.arnnet.com.au/article/702553/tamworth-herds-tpg-nokia-aws-5g-cattle-counting-trial/"
-webUrl: "https://www.arnnet.com.au/article/702553/tamworth-herds-tpg-nokia-aws-5g-cattle-counting-trial/"
+publishedDateTime: 2022-10-20T00:55:00Z
+originalUrl: "https://www.arnnet.com.au/article/702553/tamworth-calls-on-tpg-telecom-for-5g-cattle-counting-trial/"
+webUrl: "https://www.arnnet.com.au/article/702553/tamworth-calls-on-tpg-telecom-for-5g-cattle-counting-trial/"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 315
     isCached: true
 
-secured: "VZGK2EfTNSYfTOLv7+K54+71pXkBpIw2ltdygnAO/i0JnvTkd1ykFQrMFio+uhNOQe93271IP9i4DDDmclsgIvCcXBtlL7uH9IuP/z3kGeOjpoRWvc8zeDTCaAmXU2sQ9LV8QtrbCtrn1elHWNjMdsTxbVdkJrg9RUCBexMRIagurUX1F2x1W3KRlYQliR02xO9wbuaQ29ujfRtxXrkHCS9Pzx7UfCVPrQdvGcxBsOzoOhFZC+FxQzZmeREVQTnWesILYDZmGO9rLMi1BG3d0eb8/XkKCMWU66zC+nCvuRVGTpwdUQwB3xMZcdghMrBITp3qAgRrftq7O87YjTYoTBATeDiuXYhwJz8wAlBmXHU=;AQV7VYNr/baNvXi1sc95oQ=="
+secured: "N5IPusCeUrgxovBM1OmWIm8OwY3zh9JNJW+8oqwa9lOlsQu4PpddUMY7z5UCAISmX+s35tYZH+9wtNC0KFtdE46uB+5iQNT6AwS5E69Wv++SLvYvMXbGNZh0+1kF7QIxPMNgbVJ+XZxKDSP7CF3xjNI0G0p0ORmfynnNiziqj4glQroi9W/ibPziP+7M6JfJfZXgPGapzAOfQnwjC4+wQ3kBXaHbLwp5aTtg5NW776mj6q4tTwsPpdX607DfKoXLj/1S/1VQOowS32txdeLeKtNF5l4vUcNyY7wZLhlXPLD9X1/Y3AddQIYibglP7N1P6Ua3trE5eUmmiNhkZn41K68S23rBi7m1dpQJbnw7xCo=;0zJy0L+cO6fQt6+UX91BYA=="
 ---
 

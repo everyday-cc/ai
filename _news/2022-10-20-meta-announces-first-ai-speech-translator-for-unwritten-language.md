@@ -98,6 +98,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
+  - title: "How Meta is using this new AI tool for translating unwritten languages"
+    excerpt: "Facebook-parent Meta CEO Mark Zuckerberg shared a video in which an engineer who helped develop this tech spoke Hokkien and it was translated to Engli"
+    publishedDateTime: 2022-10-20T17:31:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/articleshow/94995873.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "AI can’t translate languages"
     excerpt: "This is not an area companies should want to experiment For a while now companies have been thinking that they can off-load their translation work onto AI-based systems to save a buck – but a top boffin has warned that the software is not up to the task."
     publishedDateTime: 2022-10-17T10:51:00Z
@@ -136,6 +152,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Facebook To Translate The World’s Unwritten Languages"
+    excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
+    publishedDateTime: 2022-10-20T11:49:00Z
+    webUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/face.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Meta develops a new way for people to connect through language using AI"
     excerpt: "The artificial intelligence speech translation system can decipher Hokkien, a spoken language, and hopes to one day translate other spoken languages."

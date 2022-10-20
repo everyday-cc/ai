@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Microsoft’s new AI art generator will spark your imagination"
+    excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
+    publishedDateTime: 2022-10-20T17:44:00Z
+    webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/10/Microsoft-Image-Creator-dog-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
     excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
     publishedDateTime: 2022-10-20T04:00:00Z

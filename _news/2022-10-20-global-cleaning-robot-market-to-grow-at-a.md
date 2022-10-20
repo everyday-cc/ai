@@ -34,15 +34,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 4
-  - title: "Healthcare Fraud Detection Market Grow at a CAGR of 12.6% by 2031 | Emerging Technological Growth and Business Opportunities"
-    excerpt: "According to a report published by Allied Market Research, the global healthcare fraud detection market generated $1.1 billion in 2021 and is projected to grow at a CAGR of 12.6% from 2022 to 2031 to reach $3."
-    publishedDateTime: 2022-10-15T23:47:00Z
-    webUrl: "https://www.medgadget.com/2022/10/healthcare-fraud-detection-market-emerging-technological-growth-future-growth-and-business-opportunities-grow-at-a-cagr-of-12-6-by-2031.html"
-    type: article
-    provider:
-      name: Medgadget
-      domain: medgadget.com
-    quality: 0
 
 secured: "d5HYsYrOV/Thq94BaNHkjlAePkYEYkMVO3C3YFlJ30t6yhb6u5t008J4cW/gZ+54nnDUAkXZX+J79ANWaK7TCg62hyG+WR7bBRvYtPvWVdA2dUfharjs0WfUJY6ySmH2eXRoPNYukA3G4qJ+VGos4/JYxBUs2l2QgkH9mQVF3rNwDE1z6INcF0XX3EQetbYGjXYJcMVQLGWTVG+Z90b7OQnhVeWqLi0vL01iSbWhVOLY5WjtiG9UuNEp5/3+BWIXgRNxMgxAdJAMd3OcqhdzHIZ1TNx4SBeQawZ1e9jzlSsc29ER8MT8b75Lr/C96+QO+v0AQXuR1yY0yspVf5iz/o6oG5yVB1dEgcHycdgg3DI=;PCw6+Wqtm232Mz0of+9zEQ=="
 ---

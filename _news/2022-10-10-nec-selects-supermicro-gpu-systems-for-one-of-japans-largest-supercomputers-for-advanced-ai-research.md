@@ -17,6 +17,12 @@ topics:
   - AI Hardware
   - AI
 
-secured: "cHea8lO006BTmgX1L3kajiXskZ0jbfDg5gZep76fPFqFfP89JEMhrhJYzl/Etpfk2aG+syTU/sUnp271n1Hn0Wj7o8UB3F+Vs93gghHvoJtivvPhLxUYbSGFmQ43JIguFURRqGRoVRFWBTKGLUffQ3AXF1hXT3sZjBiD3na+VYIU+AF5T3DLjnS9fykLbeVbmkjY+9rdnqObQKvxy/TX7PJVmMwBEzxafxeJPdYPobklePFrC0CNayTHAxCFm8yHJlLNycJvMy31OrrwX88bvvg9k7ABkCyTDBBVwM/6tlj19+acIWrW0HQPetfucPsBSiRK0MiwYaL98765OgKDsEjypGcYRfvifEVCaV350LU=;0O/aJ2taNCTj+E7TSUOIKw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg"
+    width: 400
+    height: 206
+    isCached: true
+
+secured: "8h3dIxXqIzRnG5vXFP06NHpndHUgAG1wBBaQsATBzTi8RhcpTGMwb5W3r4JAs42gUwDyPco/Uzl9fH/rm/gqwvkOvcd0bTP9WXAVomBVgBxHxLwEan5imcO5eFntqZxuTwbvpya4/0aCHO3R5kI52oKH5C8nPYL1TPy/nvvNBMIg1AoxB9wb/A985siG8FMsJ9Eb2tKiENo9SqUNOJC/u6MAg1nPcWaHZ3GHZLTEAMSHGPOStkQm7NFeIainn9zSBLZSGsc0tcLReOlZZJesRA29JRKJZ95axFFZxe+xTPa+aMuJAtukZgM9m6jiSwhLM4i+GQmITFGYIVlY/feXIChY/B88nGmhQMymwiq2kkI=;s75TfMwO7BJKf5LWivx+IA=="
 ---
 

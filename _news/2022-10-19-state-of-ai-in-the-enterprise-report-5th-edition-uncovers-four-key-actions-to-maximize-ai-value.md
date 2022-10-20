@@ -28,6 +28,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "“State of AI in the Enterprise” Report, 5th Edition, Uncovers Four Key Actions to Maximize AI Value"
+    excerpt: "The Deloitte AI Institute’s fifth edition of the “State of AI in the Enterprise” survey, conducted between April and May 2022, provides organizations with a roadmap to navigate lagging AI outcomes. Twenty-nine percent more respondents surveyed classify as underachievers this year,"
+    publishedDateTime: 2022-10-20T16:18:00Z
+    webUrl: "https://insidebigdata.com/2022/10/19/state-of-ai-in-the-enterprise-report-5th-edition-uncovers-four-key-actions-to-maximize-ai-value/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
+    quality: 25
+    images:
+      - url: "https://insidebigdata.com/wp-content/uploads/2021/06/Reduce-Compliance-Cover-image.jpg"
+        width: 386
+        height: 500
+        isCached: true
   - title: "Here Are the Language Highlights from the Popular ‘State of AI Report 2022’"
     excerpt: "Snapshot of the most interesting language technology highlights in the latest edition of the popular State of AI Report compiled by a group of VCs and PhDs."
     publishedDateTime: 2022-10-18T12:50:00Z

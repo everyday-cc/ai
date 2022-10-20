@@ -7,7 +7,7 @@ originalUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-
 webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
 type: article
 quality: 88
-heat: 118
+heat: 128
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s new AI art generator will spark your imagination"
+    excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
+    publishedDateTime: 2022-10-20T17:44:00Z
+    webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
+    type: article
+    provider:
+      name: PC World
+      domain: pcworld.com
+    quality: 86
+    images:
+      - url: "https://www.pcworld.com/wp-content/uploads/2022/10/Microsoft-Image-Creator-dog-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 684
+        isCached: true
   - title: "Top 16 Microsoft Azure certifications to expedite your IT career"
     excerpt: "Here are 16 role-based Azure certifications that will give you an in-depth understanding of the skills and knowledge required to elevate your IT career using Microsoft’s cloud."
     publishedDateTime: 2022-10-17T10:00:00Z

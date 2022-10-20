@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg"

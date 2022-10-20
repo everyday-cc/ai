@@ -78,6 +78,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Insurance Market : The Machine Learning Segment to maintain its Lead Position during the Forecast Period"
+    excerpt: "PORTLAND, OREGON, UNITED STATES, October 20, 2022/ EINPresswire.com/-- Allied Market Research published a report, titled,“ AI in Insurance Market by Offering, by Deployment Model, by Technology, by Enterprise Size,"
+    publishedDateTime: 2022-10-20T17:44:00Z
+    webUrl: "https://insurancenewsnet.com/oarticle/ai-in-insurance-market-the-machine-learning-segment-to-maintain-its-lead-position-during-the-forecast-period"
+    type: article
+    provider:
+      name: Insurancenewsnet.com
+      domain: insurancenewsnet.com
+    quality: 34
+    images:
+      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "M5nR/WQl/9rXn6935apyurRHRTaNhb9D9rC7OlmgZQg/qVYrNOjgTYDPIrpWM8PIUtddo8zFUfNblDQbW0OjccJrFTed9KGnsVOxyFjs8BYyvjrMOvtpwoSDm8muDadwN7+KNATCXA02k9MT/hK5l7PJZbw2d6anlTTpKlFO/V+NLo8lO3D2IW1vo9nSpyDfJ/PUefczB4dGfx+im2KWWPAl9w0KSz9WVy1vJaKyJICY9LHy+aM8TZ0IQ/ftiBtcxmqp0A5HloORSlgkDSfnhRoDsVSpnVLNYfQQ1VjEbEwnNt12AOmLO65LQzEm2w7pgsxckMRuI3s/90avJgMYJ+e6GzsyrjZ2HSoY6+6XavA=;exMbrt+xu8MmD14/Rs0b0g=="
 ---
