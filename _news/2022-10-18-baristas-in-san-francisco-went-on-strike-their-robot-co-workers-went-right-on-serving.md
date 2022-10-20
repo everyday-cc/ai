@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/robots-jobs-san-francisco-strike-b
 webUrl: "https://www.businessinsider.com/robots-jobs-san-francisco-strike-baristas-technology-future-of-work-2022-10"
 type: article
 quality: 61
-heat: 72
+heat: 71
 published: true
 
 provider:

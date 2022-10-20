@@ -47,6 +47,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Beach-cleaning robot purges hidden litter from Lake Tahoe"
+    excerpt: "Amidst the coolers, umbrellas and towels, there was an unfamiliar sight on Lake Tahoe’s beaches this summer — a blue, picnic table-sized machine outfitted with tank treads and solar panels, quietly sifting tiny pieces of trash out of the sand."
+    publishedDateTime: 2022-10-19T22:51:00Z
+    webUrl: "https://carsonnow.org/story/10/19/2022/beach-cleaning-robot-purges-hidden-litter-lake-tahoe?page=1"
+    type: article
+    provider:
+      name: Carson Now
+      domain: carsonnow.org
+    quality: 39
+    images:
+      - url: "http://carsonnow.org/sites/www.carsonnow.org/files/123364-beachcleaner.jpg"
+        width: 950
+        height: 629
+        isCached: true
 
 secured: "jeXJ6rTRC9O4B1EDzbtMFsFFaAhKR+jPrVSczhT3jYoxeothrYLYPk+ccCIM8KGY4QKb/ZDsQkF6+3vEI6jO+nqvqt+SBLN240twhgZ9YtmSej2hOA/VMaPo6BBcGrU4lFAhfdy02yJp9npFu/R0TFBbxW5n5ZKZcrFtsUNdlvcihYwyXvx0K20zOphRl0AzHRmpbjgpi1dSOeMPNjSfm4jd0rPdU1yEGYRhlfebvbEQ67+kfhr84AagH9HJr6svdhQ7hFHfxb4g7h5CCZ7od/Jz/ILy6pfxewHHNum4nWAkshIFAQu9cqqlcnOIrlsDCkAdADhbwH5spsQ9Xk2GcsH2MROPfAWnw47jiyuUrD0=;/y9BDLKMQHHX63jqHkhpiA=="
 ---

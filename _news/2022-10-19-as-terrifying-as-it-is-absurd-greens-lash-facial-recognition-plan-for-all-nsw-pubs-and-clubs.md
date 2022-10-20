@@ -3,8 +3,8 @@ category: news
 title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
 excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
 publishedDateTime: 2022-10-18T22:59:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
-webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+originalUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs?amp;amp;amp"
+webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
 type: article
@@ -121,6 +121,6 @@ related:
       domain: futurism.com
     quality: 19
 
-secured: "J/1gU/f6kT0SZf0ZsIkTmFKTP0sYMe5hZ6YyUip5FdkIzQLzEwycEaD2pJ1kQ/yjzPGtalIuiAhdI3cKB2P/nx7aHZdsYDteOsF6VQlETykw3YXMNHgXv6+hMCdBQmNvttlIrrUV7EZ4eMNSvuqZNIeZmVtDGQn97RayUHvMMZeZP+A4kSU3Nfm86H3cSV+6TMz/WepnbIDvt8s1WE5hHWJfYnQdqoqwbpjUfZZM74kzCRemyjHdD+MdrWRema7gx0qrqYZTLieysuGznfxmNvcauqsz3Lq9tpl5BYQK2xssGqte3t+ycOeeOjQmbSD9RNebzytm1JbE3kncQ0O7KblBe+izfWwykRxAiQCxFiTd2o5KLDPGRbJFTRR5TB3WMHoTKYoLToKIs7lNjARaySKqJoksVAMcQyOyoce0Xn5mQRHn3Mciej6p7w21wGJu+aGZLkkkXNk9baM2GU1TCUKuzyGU6njz1uAINDdqOGCOipFfAnOqNDmNzZbqKWFSbs3buspdVu6zVJaaBO4Jwg==;xD9bS+fjCUV5RIzdZOu3IQ=="
+secured: "/MBvCC9pyLllwiasxvRfP9ND7iiHjkAPQ/+tHAmUWR7+mVvXAmvO/K0BHyP5i20gZqL4F5EtDgZV1BNFTjdzRH5t44FfJJF8dOqTtYRTsI7YmAwn7HZPQexdmUweoG4QckzC+vZ0JUZsS9I6IQOoSPjkWA5oRnZFPGjm8iI32N91hiMKDPt947uEAtFFqGWP5+VcJFt+8U8+KqOmYfK7nlC++GG1dXsGPccXUCZEbhwDTPJYFkezu6CP7AIJAB4YVCXjt9DarCDcM4cCtfbrZLh/S+c1khLpDBYsXh9kNNmo3KRyfwdkJEye2JU4D0oI6scLqIWQqGgNZUuiMNXEyc3cymGq7J/e4F5L1J6wzGQ=;Y3VCPXGlTe+kdbdwFGSV8A=="
 ---
 

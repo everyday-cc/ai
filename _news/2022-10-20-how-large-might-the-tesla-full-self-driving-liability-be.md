@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4547582-how-large-might-the-tesla
 webUrl: "https://seekingalpha.com/article/4547582-how-large-might-the-tesla-full-self-driving-liability-be"
 type: article
 quality: 54
-heat: 54
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     height: 422
     isCached: true
 
-secured: "j4+pudFHEpooYCsUXPc9Q/6xrzIC+HRPGFCLeoYkTlauwIpXTmugZzIbpEy2tYSD7zQ25yI3azrsOx/ZUhJxZn+xTK0yIuAYD8ZnPjRdT1IWTjdSkM+k7OQdrlinTXW5eU0KzzVYeB7kFJI00sLaKDgJ7iZTCXMQbuVlTxKCNa8+8nXojgJ5mwillm0GuxGfVxjoJW7OHpEl1dGa+xDw6PhliddPVemFG9urh5ZQo/c5WbxCKgQelpVh/9JOclR9E8BwyeFqR/HGvO8xpY3rc3NFRd9ko3eA9/ZoE+YtU9E1IPtaRfVPHmHMwLeBoW7DBHoKsPtZOr1rTaE3WOPEf0WvVnB/qSfEtvko4StwH4Q=;wDyM6uiPtZg6y5XKsO0AEg=="
+related:
+  - title: "Elon Musk Says Tesla Full Self-Driving Beta Will Be Open to All Buyers This Year"
+    excerpt: "Right now, if you purchase Tesla's Full Self-Driving beta software, you might not be able to use it. The automaker has rolled this tech out to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing every driver to gain access to its capabilities."
+    publishedDateTime: 2022-10-19T22:53:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 84
+    images:
+      - url: "https://www.cnet.com/a/img/resize/972a7074a99efdcfa9914fb0f4fc088eadf72620/hub/2022/10/19/3bf92bd0-88dd-4ada-ac57-4f911fc42622/gettyimages-1395371342-ogi.jpg?auto=webp"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "H51uezAvCdv1O+HlCYPXkvyhcgIyONZxCYzm7RP7rZYvvmkT2I9ld6vcS9+ssQqAeCmFKyIIi9hK2hJDhMxMU8AkLzIyLFsfkSPrBENrMMdAXMV6nsR8C/05Soj4bxfBpyzlybDiAK+8X+zcHcFHUdV97LCz2vdiDwFsKR6SHvxj8A6hRoMqcoghu5OeU40On6m1v4xJwuyf6sYARqlQGq6v4gg62lud8qdxUY1MIioDJqn5mj3dJdgBiiywOLVZFHAbK9tNep+IwmUGADmQvKUy1c7Xr4DVKNOEhOSErvQ386i0KCs+SZTP7Wzf4g0eOKBp4rqSYW71T8HZRs+/rpmenhGbo24BXqz6ku6Uk5EefYAIetLNny7g9XvThsoavE1w+yqIMg7ViNOwHZcr11hj8yaLkL4Sr/RJfJPaMpIwTv+cpG8agB7URoyd0lN7IgMwARf+s9Zcn/hJ507PHwdXltGOkloeUc3mcrC0VzBSndHVpiGAKKWGJR2sn1044Oc9helF83QO+Hmp8mefDA==;R/DrCQHh9VBEeQlHphms4w=="
 ---
 

@@ -39,6 +39,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Beach-cleaning robot purges hidden litter from Lake Tahoe"
+    excerpt: "Amidst the coolers, umbrellas and towels, there was an unfamiliar sight on Lake Tahoe’s beaches this summer — a blue, picnic table-sized machine outfitted with tank treads and solar panels, quietly sifting tiny pieces of trash out of the sand."
+    publishedDateTime: 2022-10-19T22:51:00Z
+    webUrl: "https://carsonnow.org/story/10/19/2022/beach-cleaning-robot-purges-hidden-litter-lake-tahoe?page=1"
+    type: article
+    provider:
+      name: Carson Now
+      domain: carsonnow.org
+    quality: 39
+    images:
+      - url: "http://carsonnow.org/sites/www.carsonnow.org/files/123364-beachcleaner.jpg"
+        width: 950
+        height: 629
+        isCached: true
   - title: "Beach cleaning robot BEBOT has successful inaugural summer at Lake Tahoe"
     excerpt: "AKE TAHOE, Calif./Nev. - BEBOT, the all-electric, remote-controlled beach-cleaning robot, found itself at home on Lake Tahoe beaches this summer. After its first trip along the sand at Kiva in June, BEBOT cleaned ten other beaches to test its effectiveness."
     publishedDateTime: 2022-10-19T18:34:00Z
