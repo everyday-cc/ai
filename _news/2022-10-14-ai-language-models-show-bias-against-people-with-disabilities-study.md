@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AI language models show bias against people with disabilities: Study"
-excerpt: "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,"
-publishedDateTime: 2022-10-14T15:59:00Z
-originalUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
-webUrl: "https://news.webindia123.com/news/articles/Science/20221014/3993055.html"
+excerpt: "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications"
+publishedDateTime: 2022-10-14T03:51:00Z
+originalUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
+webUrl: "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: Big News Network.com
+  domain: bignewsnetwork.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "P+JI0t7tw83C1YU6anxq1COcDriWWspMYnRHGw0LT7QyZzrr2WAQgHX8NtCjA9QsSc0KjGykM5N8/WXkD/k9zf/NsnvyD8C9xNGJncwcXg3JnVlNIU2lpreF5yEUtjKq1nfYGEUX3r+wJPYJU61JDOnPmb+zek65dvUqKELhoJiRrnc5LDwJpgyv1s57NkdlQZRMiClhjUT2n46ABFj0g1b1ukfRmX99U7KR2K9xb/OZX4xJEkWGWdZ7CsehcPU2K4yZZDQtzDppZB/3c9Ma/ETMAk3Drvg4svcNTleO4pifGkHagTekmti0fdTYzW79540Xg5ArOFczqTFin/O6lyUfpRYaRlSJLvN57oFj1RA=;Dm0REfiKLqtnkNxEuevTGQ=="
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1665719039.jpg"
+    width: 630
+    height: 420
+    isCached: true
+
+secured: "4YoQ1BWSXsi2dAESdgM9uzElZca91aHrqjAzgaI6xfqZ2NIWsxkxhg7abwlFb/lyhDi0GinEfpdHMvyhnSIyYRW9R+CmWtn6FYUBbkrvis7yTuckhwgMXAlid94wFYuafoEf0Lb1QfI21mVJRerxhmccL/EC1nmG5g2uCM3gPshAq8hbF/N/Va1BI+dhiRqPRVb847EZQnFsFNJ1uTkuwt91onKT7X1gICU89drDCCKF4Fu8epfHqM0ch5b4IUfkzIUcUp4oDI19vpGLSPS5TU0i34GFL4PcD/Xgfo1z8LEMeb9CLWTQaUENcRJHjx5hCS4Q9t8pU9uhHsyNjO0AsuOnAmj2ONRlPzyl+1wuadQ=;5QgXxkTHRWVhCJhS9ktvwA=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-19T22:00:00Z
 originalUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
 webUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
 type: article
-quality: 61
+quality: 63
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
@@ -64,6 +65,6 @@ related:
       domain: bizjournals.com
     quality: 34
 
-secured: "6L3P6/EFovi9TI6D+TNZzSdWUmBJKwri7qQojDUAeeT0am/G7Q14knkL7CIIinozBwK/ZBAqHzi5uxTqWvItfa2OETbzp8RuwOFlwmMHutvoKLNcg7x/5cBExOr+AK/wAIysW0T/85mmHj8aF715U/o2U0lQXWxS9drWiLqgYnWoiA41i0W0cUHL76j1uWKmIQUxn9B0o0sVsCezHiRvvis08IQTE3owUX2ik9rziTqjFIAg28AIv4IGS63M9FnO4lqLnHSb0GO+IchI23UYrHx3zo7+cfPXWB3WdH4QC16hq/dulj/WlOQgYEHh/V9pAMlBxR89tdV7rSegbg4WkkXzQcnT503C3l/3eig2/Hk=;E6+XQDLkm7yBPxNFio9ItA=="
+secured: "/iDCMu53vIhVUvycXj/G22IlKkVWS+5zBue3+Bi/LYYtLQWQj2mHDLaH7Ixd9Iqwgqg7eButFxsVpwRPBRswmXGB9JPdyKbGxG6YoIJxpLE9zdsr64d9GFJt32t5GWpChJboqGM2L47mHbPmBNyofijkgfuDYUg7BKwj2HlItx70dM8QKcp9MNFHC5UjdXNW54WAkNW+jekbID8ICqGxb6zNA9gdj0y4YwjgIalfhOOLm2ZAab7B6Ex7faWXpwNxQJU2p7IijKE3eHrgGH1dc+IjqGkiibPbV1ERiOvvzBknkcdbCkhDZmdtp4J4SYixyGEs9ozJmihh25E3xGhTx87a409puyJUYWdSmZZkDKTm4T3CBfZQayZqePDITisYL6nxTfwK8PxEGJD4A9EcgXb8V+PlPIyUrMh8tzIrUhBHhhtqmQN4ZKUqMnI5BMkHWtQOB8Qr8MuulItV4qzQnvyS5y1peU2U9kHclWxD38ysz4ygsiy8W0g51HVRP8SSVv0GvUqDP9H8IdulBBpzbA==;G+rJdXlkpz89bw4N8K7ftA=="
 ---
 

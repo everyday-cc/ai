@@ -3,8 +3,8 @@ category: news
 title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
 excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
 publishedDateTime: 2022-10-18T22:59:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs?amp;amp;amp"
-webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
 type: article
@@ -121,6 +121,6 @@ related:
       domain: futurism.com
     quality: 19
 
-secured: "/MBvCC9pyLllwiasxvRfP9ND7iiHjkAPQ/+tHAmUWR7+mVvXAmvO/K0BHyP5i20gZqL4F5EtDgZV1BNFTjdzRH5t44FfJJF8dOqTtYRTsI7YmAwn7HZPQexdmUweoG4QckzC+vZ0JUZsS9I6IQOoSPjkWA5oRnZFPGjm8iI32N91hiMKDPt947uEAtFFqGWP5+VcJFt+8U8+KqOmYfK7nlC++GG1dXsGPccXUCZEbhwDTPJYFkezu6CP7AIJAB4YVCXjt9DarCDcM4cCtfbrZLh/S+c1khLpDBYsXh9kNNmo3KRyfwdkJEye2JU4D0oI6scLqIWQqGgNZUuiMNXEyc3cymGq7J/e4F5L1J6wzGQ=;Y3VCPXGlTe+kdbdwFGSV8A=="
+secured: "Q3DPgbjtah9nUOG9zYRO37VkYd9T3RyAmfHHtcBHUfBC3zBG8X1QtuxwaGTfwrXdjzEWaAz3buM5wd4qse2CwkVpHWkWUnJM7jm7LXHJ3tIji7B+YPeeJaB/P9sSn4PcbPRR2YscntMr0Y/cA7KkU79K3pB97fSBQ18fT02+/cyrtmNXt8ZxlsBXVYM9glhk8TM+wc22x1We4DoN+RHUJ0hZJ4CXPEDJ6fVtftnm4z0k7A8h1ntCwihJY1A86t/N2BHVIKwnXDH5Njh0lc3yY1W5QMHnbZCetgcx1Vm6LrCGP6WItWSL/wKMSSBgoNsj3d3wUVom9Vea1bJnsPamxKPMP6xAxEgMxCFXpe2BsUk=;Dm5X9x0NUSRtufWcVGYNmg=="
 ---
 

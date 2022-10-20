@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-drivi
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/"
 type: article
 quality: 84
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk Teases 'Wide Release' for Tesla Full Self Driving by Year's End"
+    excerpt: "Don't expect to hand complete control over to FSD any time soon, though. During a Q3 earnings call, Musk also gave updates on the Cybertruck and Tesla's next vehicle."
+    publishedDateTime: 2022-10-19T23:56:00Z
+    webUrl: "https://www.pcmag.com/news/elon-musk-teases-wide-release-for-tesla-full-self-driving-by-years-end"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 83
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/04DGGaBkbbPrJyhJkQHGDNV-1.fit_lim.size_1200x630.v1666223296.jpg"
+        width: 765
+        height: 430
+        isCached: true
   - title: "How Large Might The Tesla Full Self Driving Liability Be?"
     excerpt: "It's clear Tesla has a large liability for having sold FSD without ever delivering the product. Read why I think the “lost profits” angle is incredibly juicy."
     publishedDateTime: 2022-10-19T20:23:00Z

@@ -49,6 +49,20 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Microsoft taps NZ firm to improve Māori translation"
+    excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
+    publishedDateTime: 2022-10-20T01:11:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
+        width: 999
+        height: 562
+        isCached: true
   - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
     excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
     publishedDateTime: 2022-10-18T05:27:00Z

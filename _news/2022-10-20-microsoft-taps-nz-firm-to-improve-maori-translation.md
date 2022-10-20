@@ -1,22 +1,29 @@
 ---
 category: news
-title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
-excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
-publishedDateTime: 2022-10-18T05:27:00Z
-originalUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
-webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
+title: "Microsoft taps NZ firm to improve Māori translation"
+excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
+publishedDateTime: 2022-10-20T01:11:00Z
+originalUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
+webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
 type: article
-quality: 34
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: GDPR fines
-  domain: itp.net
+  name: ia.acs
+  domain: acs.org.au
 
 topics:
-  - Microsoft AI
+  - Natural Language Processing
   - AI
+  - Microsoft AI
+
+images:
+  - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
+    width: 999
+    height: 562
+    isCached: true
 
 related:
   - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
@@ -49,20 +56,15 @@ related:
         width: 1366
         height: 768
         isCached: true
-  - title: "Microsoft taps NZ firm to improve Māori translation"
-    excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
-    publishedDateTime: 2022-10-20T01:11:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
+  - title: "Nutanix launches Cloud Clusters (NC2) on Microsoft Azure"
+    excerpt: "NC2 on Azure offers a seamless hyper-converged infrastructure and unified management spanning private and public cloud environments to accelerate hybrid cloud adoption.. Nutanix launches Cloud Clusters (NC2) on Microsoft Azure."
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.itp.net/infrastructure/cloud/nutanix-launches-cloud-clusters-nc2-on-microsoft-azure"
     type: article
     provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
-        width: 999
-        height: 562
-        isCached: true
+      name: GDPR fines
+      domain: itp.net
+    quality: 34
   - title: "Microsoft mum on Boston-area impact of reported layoffs"
     excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
     publishedDateTime: 2022-10-18T17:57:00Z
@@ -73,6 +75,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "jtnjhkVzJNkzydW6SpDkTQl82C31ei9KyeRznJqj4j8WIMpLH7D4tr7A6ezfQj7DBqcYO2w55uIqftXI38nlj2OLmYJg6DQQIIkvk7EoV5lpEi7NLvndoWANGhpfblPaK4CJoH+UvT+kDyBUukTFDnBa8YfylrWkllMgkPRhW5gLXymhqpfCJC5nE17uToBmqp8oH2INQb7uwPMr8ny4QgG0FSOnHQPnOnRfpOD1kz18QE6SgGBG3TMIN9VwP0T4IYEwmw6/rsQieoP2a7PJU8X3HMJ4mFUYiazHVc1ZhLfepRMFrM3gz3TElBtLoZQ6flmgXDs2OENMUI8jDFINTLLQ+FtOfHxDkM9gcxtrPMvuNI8lB8HRnAyvhDWYpC7LZE1Isbrw8EgjUFIiCGVIOHFgSrmOU5xIGuU3K3LYmV74GJbRWuwWKRVtZyH72WNjRVIuV1UnBX417ICbhMq0+yCbzgLYkPGgswBqIeZwEr6sKessm4qp+2uwnlO+c8VyCZlQS+jSHperxsCBVkqXMQ==;7wjqguurYkT8pcLtH1fVDQ=="
+secured: "Soq5YozRRRJLmwQuBusoWnLAmdP7mqT8J31GE7U0g4EZXmcmujV0IkIxe5VJZSgmJbi3cUVr0QRu4EqUNXTVgKFuuB6pr37zs4a4Mo7bemMb9S3V63EmnqK/7HZ7i/fWSMWlZ1bPBNkHUtqkPLau8YZF+cs484ajApXfJhD9geuvCaNA4YIs3rMsNsPBecIA9DIklmnlS1ghnC8SDk1j0OD5o5J+eHpOJrdP6BtirBrZDhJtEYUhLSyq9l9MMYfVNApd1l1YwWH2vzYemXWmjtUdiWOIKyCr6UYZtZQbrsK/mJCx83ogldzWeDxGlm3XROucLTUr38usw8BOeXNddF28Qy3VoGJzXtLafS23D/U=;WiKKLy/+0zlv7tULXZntTg=="
 ---
 
