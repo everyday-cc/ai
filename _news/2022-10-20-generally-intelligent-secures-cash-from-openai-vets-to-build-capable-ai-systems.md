@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?resize=1200,675"
@@ -29,6 +30,6 @@ images:
     height: 675
     isCached: true
 
-secured: "EoMMpf2evu2UMcP6mJTmCTIM/xn/DchzII81VO3CiwgUae0REDlVNaC0dNCloO2+yHwPmOFw/lEh0mCF5/P0dLIU11HNaKT4jt95pSNmZKKAxFHfx+mVGHkorwlKb67CFyIPp8Vi8TKLFLW7tyYx88+sw1AVKXogGWWGScYy8CWB9IDRdN8HPMggLRBaz7el3a8pzqSE4YWRpIDLJXenm4FEK2saFmltNuwZSyHmidODNHN/k8mUP2dnSl2SUdaZ3UkDcbPbwVnCQovpGkWpI8gNZSjA+kpC1ylFoQh9VJMOBsTo2AaxwrTWmfbhcd2F8EtHOQf6z15pUrI15uif5k0BhCHRfq+XbYhMswkgrx0=;fXllcb+SJ4Qsu2pLGzPpGg=="
+secured: "FD54THDeqVUkDGcP1X5iQT/rZFa+joe73JddSKP75IRfUIfIoFGrpPAjwzCrWgQNkjfifDYDiUflpefYeWMEnEFVhsMqfjHbX/cGKGNxkij/BwMGirp94sWc7QbVS186QpaRBhUSLoTmawIhYdAfGDUlbV9Vy8OmapIwNatoKDJYguPbxSdhWMh8D2TE/NGO4i2jSVBG9KStAiRWOJqc1SyQZltB8P1a+rQlM08CjuvN+h6DxHYLWLhnhVWnJ09tYZR+K/DgFHhfuXy9VLdMCtkIzPYzPObZeX1iBNBkSdkdnLQVZ7TsUXjIj43JZ3VjreVQvTIkv0H8949MJuTdqHtyI5zC0TC1J4Rd8/QKxGLlBad88xBunScmMV/yp+xWtiPfL1zNWqGWqlgIIr3Bm2JbYGXAl6Pc8yWKwgvEg1NChu7Kd/moPSsSsAxrCY6eVRtHlsCgoZUWb7USgdISWdwuQrGDLJNGOK91+QLPnEj5UnMFGgWynIzP+333TcCaEgVVbgojBWwGr599ySp18Q==;/tyTW0vfsDbNk+IyjSx9qg=="
 ---
 

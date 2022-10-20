@@ -1,25 +1,24 @@
 ---
 category: news
 title: "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers"
-excerpt: "Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution."
+excerpt: "Hexagon’s Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence"
 publishedDateTime: 2022-10-17T13:33:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers"
-ampWebUrl: "https://www.benzinga.com/amp/content/29288352"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29288352"
+originalUrl: "https://www.marketwatch.com/press-release/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers-2022-10-17"
+webUrl: "https://www.marketwatch.com/press-release/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers-2022-10-17"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "oObB2jP++ILVPb6rVXyS1fYXrB4LwGcqPtflmNK1sj2bmJVJ/e5RoECrxtP/4Jqh3h1lm8YUUPY+9ZUbIlouwM+bJSDRa02+ScftFrNDyOXq55h7/ZcsP1xP8x3uzbfIbEzRZxBoPH/3npxMMVAI0uyi/7CgkaspFJ0DNISXleoMeHYyqTCXRFPG6h7ZkKD03kRdba42VzBNWOqyFpOAwHAlO+rWPr6UyvYsOIN01I8fPZs1Pw84GRCiqgPNr6GaU0G+p3fUHQyMzjguZJEJabi2jpWtIK/gLfqIls4/0LqgVHJCxDJhJDDOX3U7GtabgUvnou17ES3XgY/9Xvy6XTCFBxmwhhAiT86AnhOXnfs=;Djs8zY6kWmxlQ+5hMVjzDQ=="
+secured: "Ml9AlcclhH3q29wXoNSsGmNRIu05KVDmRuDyhizLhuR11jI+PdASfR/mAYQH6adxUwABb44e4RWy+lxwKQdkufiIIMagkuc7JH7h93fvq85iRL5xmW63afDlprmV2nsbDdoBiWsUQIyMJ4r00buFYmdfipzkvAJhcLVXIb3Z3YmAZ9kjbeOakkItnWvgjO8xbhMqEz1e5krnYAQu6Ewp43uFqgj3vJXtuvVJQpG+BY+YDc9gXsvz9b+fCJRhq3/k3FXAvs+FEitwwljke4rXOU6TtjBL58O4w2JcgOOWGbplRxa6yXYTyqIoX2ktcFtQHQ4kgWM7IaJXRSapCC8snuwb2r93Z1JBG4K6kavcGg4=;nQIq7cVA5YYKRqkBhKdHbg=="
 ---
 

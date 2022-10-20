@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Global Automotive E-Horizon Market Report 2022: Growing Need to Curb Vehicle Emissions Driving Sector"
