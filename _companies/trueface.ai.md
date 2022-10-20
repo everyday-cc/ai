@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "trueface_ai"
   url: "https://twitter.com/trueface_ai"
-  followers: 1584
+  followers: 1583
 
 size: 11-50 employees
 yearFounded: 2013
