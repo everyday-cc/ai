@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://wfuv.org/sites/all/themes/wfuv_beep/logo.png"

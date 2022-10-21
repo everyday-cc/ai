@@ -27,6 +27,7 @@ topics:
   - AI in Robotics
   - Machine Learning
   - AWS AI
+  - Facebook AI
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/633e204571c3bea087209bbc/0x0.jpg?format=jpg&crop=1766,993,x0,y137,safe&width=1200"

@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-824294832.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 863
     isCached: true
 
-secured: "OprxZH5p4JB8TSw2kddJBaZASdpr654rPmLwwWXRnL5oNd0Fe22WoRv9Pm5y7ZyHwyLgkPUzTuuzAUlasPSH6ziGlFKYFIicSqpcLULL18DDAa6sHrxpa+SKjHH93MFBW+BhUNjl3cy6NXkr2R7HaXYaX/hXljQRLS5yhXNBjOWWpm9LieuhX5gonGwUkudWKu73nFB2dugmhNsQlhFqmVx07ocDvYyp0LUKgV4nYLx8p4LJWaX4cnV4bmjN9Gdx/FFFIyqYxY1+YSuSTGn1W3sr9HUsCwcqiumbU9h0e9L7v1aXsWG2mfQFfUWkQ04VVn30YL0HQph067x6Tc8CuVlPCN8n0AsQ3AhyXsWSHZs=;s/8yVRhpqrvhaBeN9m27yQ=="
+secured: "NDfjUJ0384tKhsrTbV3x4oKxBSRQstfav0g5MA1C5prcrk03KyhRGZyI7XiJseaToZ9xYcYuuYhgsShSSQPDZIZJBriMaoYRP5nCC2Y7UuwE1sHj95DVjNFFrVAiJHxojmX9kNvgiD0nlgrN+4HeBHRft/rLbCxDVrWBKHQGGwyrzCSdbvyv+FeLDvXw3rBIAGqbYkPmdL59fRZLP+h8K+/6rqZanad0SU1JGzbOa/c14TFuwslsvQjiWZuVQR3B5JxOdaHwvNTvlqXlwDITefrltKfeOkfSktjz6N1uDqIF8kmC1e0OoJRayqjEnriZ/berUmWqO9UKGHBFWLM/Zsse+Q3zdwvUt5NAZKsOy8VnVc8o4D0Pt8N1EVxRIbKj3q+mXHM2TPCr2NqLjPO5n19oSBxSk/+APbOT6YAhYdaJKlNDfL+ZrnrpaylYJvuy8nOqxbI4WCx5rhSAymInkauBuY4/hz+RRprdEavIr+0F+P1kPBXUvle8z6W7/oQ3fcuu4NV0mXLYwNkbLOKovg==;UTPKZhW17UnTUvKs+zcdZQ=="
 ---
 
