@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Meta's AI Translator Can Translate Unwritten Languages"
-excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
-publishedDateTime: 2022-10-20T11:59:00Z
-originalUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
-webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+title: "Meta's AI translator can translate unwritten languages"
+excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+publishedDateTime: 2022-10-20T09:30:00Z
+originalUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+    width: 251
+    height: 201
     isCached: true
 
 related:
@@ -87,7 +87,23 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Chipotle’s recipe for digital transformation: Cloud plus AI"
+    excerpt: "CTO Curt Garner fortified the fast-casual chain’s digital aspirations with an all-in push for the cloud, providing a foundation for innovations aimed at improving customer experience and restaurant operations."
+    publishedDateTime: 2022-10-21T10:00:00Z
+    webUrl: "https://www.cio.com/article/410314/chipotles-recipe-for-digital-transformation-cloud-plus-ai.html"
+    ampWebUrl: "https://www.cio.com/article/410314/chipotles-recipe-for-digital-transformation-cloud-plus-ai.html/amp/"
+    cdnAmpWebUrl: "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/410314/chipotles-recipe-for-digital-transformation-cloud-plus-ai.html/amp/"
+    type: article
+    provider:
+      name: CIO
+      domain: cio.com
+    quality: 59
+    images:
+      - url: "https://www.cio.com/wp-content/uploads/2022/10/Curt_Garner-1.jpg?quality=50&strip=all&w=1024"
+        width: 1024
+        height: 681
+        isCached: true
 
-secured: "jOVkPpsYkEE7WjBXSzjCTqIrlcVMi++fquf4YEvWv0ePF8AMqENS1iNpN7l3IKHMezxBk2Dyl+mZ/wsjCYSGSWI82dJi7VXE1M34Vgp89gVAAmcGveSnuVD8kA4PIS5CSU0/2ZbDesCg1KEUGl5NcSZzV2/QFFS0pODCay5dnoQHiEERrwJB7iQ3GHqPso/ySe2ebN0bcSnTWdgQKeKVtMtcgyR7V+apAsOS4rBC/IqFH4cAFs/OgBd5KPs4BR5JCqHQxUFTs9J6Nfeuh5HTdeZ0A0TuWq/c/kjISB8Lbew5ufXYgRgy+cw8xqBDhqVPgnrS6B3NSDimxhaeS9hiuzk9YGcuLzwqHR7TgXrUJDM=;ib5GtceOkNlNqQ3TPrVodA=="
+secured: "Eb4q/FJ79Cfa1M5k45h9KGdbwjF2eoRN1Mklid2Gor8WgDw33j6CCgv5BLmtALQb+fRRv3apZsYjEG1gzkCnH9XrwtXAv60gYZzp8Xid/nPpfLYoTPGwAP1t7vseYJ0S3nDUY6agv+AtyVsSDf54bNIRWd86kWsm46oHLzy7+Zs3W8E+ijXRCNAjZd2iykRlGnNEUMCC/tKnAsT0DXSM3eqIISPepOK5bFBTv4lxVxF4OUMs0NCpPuRAX+DheZ+J70s7IVLt4i991UgwCZ9724kLMUXwG2lRONCHM00VzhJojWYRz1uiNJAUSzuo79M8pIGKw4TGyyKlH6ewd90/kRyTL6EgyXlqvGQ0j/KcVoU=;GLRq82CoXHNC+hLQRDf+4w=="
 ---
 

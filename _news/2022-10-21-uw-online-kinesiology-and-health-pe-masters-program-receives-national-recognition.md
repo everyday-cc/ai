@@ -24,17 +24,6 @@ images:
     height: 333
     isCached: true
 
-related:
-  - title: "PDP Youth Leader receives international recognition"
-    excerpt: "Africans John Alechenu, Abuja The National Youth Leader of the Peoples Democratic Party (PDP), Muhammed Kadade Suleiman, has been listed among"
-    publishedDateTime: 2022-10-16T17:33:00Z
-    webUrl: "https://www.vanguardngr.com/2022/10/pdp-youth-leader-receives-international-recognition/"
-    type: article
-    provider:
-      name: Vanguard
-      domain: vanguardngr.com
-    quality: 4
-
 secured: "mKo2qxL66bFvxwuhY8LsbKM5QiBA10rOsKruFxe6zdoJaUXdFT1eC3gJj6BhRSYcGuMw+HMleZlxYijd7fCJRDEklJQy9kcI4eZQEZ1BwjyNViQhsjdpzBZGa6x6RIobxTEI2uNVMSILWKTSXHs/CJpJmpKdobTsCQwmLv+NY84XQg/M/iXxs8gFHE82yzWmarr10srbVSi5V0AiFVRz7+263d//HyLfmDO51CduZi/BdYVcq0a9Vp12qPcA8IBHmAdgRvT7TSGMS9BXx+dBZBdJxB5JpYKuiVcXtmDLczvAoDsU7ZKL8tKgWmTEEsGUp5/dsTU92sioOvu7B49epG7OBKocAMsIvSthhj6JTcYOOVKZPn4tmri7EiAP+4VYo0Aoh08al2+3xVjznfJvv6DILVrnyn1YVsPCWqcilfqtdTQMPYx3kY3FIr5uG4yorp6jGZdS0PC9rfN325sV/cyvfT7fpC6sCgvSDRc2bAIvW4JZcp7aCXwUcSN7az5Vd3LoyQplf4s57CMQytyjsw==;L5ER+8nwbfAIzpL1GX2jCA=="
 ---
 

@@ -32,7 +32,7 @@ related:
     provider:
       name: Forbes India
       domain: forbesindia.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg"
         width: 900

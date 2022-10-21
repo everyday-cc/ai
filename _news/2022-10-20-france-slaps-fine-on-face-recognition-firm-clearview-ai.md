@@ -7,7 +7,7 @@ originalUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recogni
 webUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: 74
+heat: 76
 published: true
 
 provider:

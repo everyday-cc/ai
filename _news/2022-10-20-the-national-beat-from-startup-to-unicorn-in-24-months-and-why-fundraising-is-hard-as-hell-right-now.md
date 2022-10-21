@@ -3,8 +3,8 @@ category: news
 title: "The National Beat: From startup to unicorn in 24 months and why fundraising is 'hard as hell' right now"
 excerpt: "A look at a fast-growing AI unicorn, why even 'A-' startups are struggling to raise, and a list of startups to watch"
 publishedDateTime: 2022-10-19T21:52:00Z
-originalUrl: "https://www.bizjournals.com/memphis/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
-webUrl: "https://www.bizjournals.com/memphis/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
+originalUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
+webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
 type: article
 quality: 1
 heat: 1
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "e9o7+i1K5jNDcDWFy7THNNmn6SGwoZV8p9D6b8pVIDyII4mpHPYemOluIaQ3FT55jEDcZ/LUeUoJ5sZN7eA/1qpgGLbuMap59SxzYWFwBNXIXmIxwI4c9rlAddOMmVNOhduXaKdQkupVvpF7QdLh5hFgJxOLMgfMVFi+sAJ2JUuF+kCVV5wUAduOgLvcyfDlK+j6K1ZZf23BPJomB+nqPwG1L7l3gfmNGZ5iagH0CJGCq1I0B+jqCUjnLZlQEoOPSrKZBzTvSBDQhSl0BqAhQicD3WVkPymbPhJ4DHf/I+t2n4Gh7xYiAfg0ML3g+fmog8c2/lSRCLRtm8PR0CNKLaZqCTsbIKq/jdZl/p37kieVl+/wxA74NMWooUvCfmEVWAHKe/tEjtxA2YDyplQTPYvrrAToLaoQmHWzVCe4EymaKgP6nI/cQU2ZuEHMmX4Y/j2GcQBxP6yAwb82miR1ryIqajVjmPgeAOgWKGClw1JBZQ5Ce6RWeS/Ws1G8OzyfAJMWepdsR1uQlEp61xQ5YA==;GLfGXwyqXQ6atqibU84PXw=="
+secured: "MRa1RT8RNRBQaP38vf2q+gKeyeSv6erScKSG39AZVHscLhzqaWXxtIIf5LZ82FxewwX/vY/L9sIgmW92nU1Kp5+tyf8+h0W28QlhSGvPo/avfp+llUFM++UlaOfrz1pvl2m092xRS5IkFmktpTBMS3MmWfkCXwOkYsNZjmPedjUQETVlxF7lGpW8/UI3axZ0jbceFLh747Y34tkuoSe9vq9SmQYN4eI6cmxinChChvqExq/UL8oZAndQJM4pWeaGxbOKIdLkhFo54oaG/bA3ci7CUuttgKr2SxnvrktDZek2yYZYnlisll3okiyNCvf4XSDWxloz0+SOlsuBrsKjDNnphMUhSIAZRpFscos4lZYp3JWafDJDzgMns1PrLjh862FJGZLzMH3Oz2x8oHc0S1TPvU4JYHBotQXzwCFnFOIrl6omVKRJ/4xs9wPTHvFK0B/n34ahhSguQSVUlu1Vsn/wH5LJfzBN5MisgQb/6OIAbCVOVFQv/zCE//EZayBYqlRTNAU9+TUSL//T5PUPfw==;ObXGNalhCs1zEsxhNuZDTA=="
 ---
 

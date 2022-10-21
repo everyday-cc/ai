@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 269
+heat: 279
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Meta develops AI for speech-to-speech translation of oral languages"
+    excerpt: "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language."
+    publishedDateTime: 2022-10-21T11:18:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta develops AI translation system for a primarily spoken language"
     excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"

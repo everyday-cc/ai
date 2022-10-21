@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
-excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
-publishedDateTime: 2022-10-20T09:33:00Z
-originalUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
-webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+title: "Meta develops AI for speech-to-speech translation of oral languages"
+excerpt: "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language."
+publishedDateTime: 2022-10-21T11:18:00Z
+originalUrl: "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+webUrl: "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
 type: article
-quality: 27
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: India Today
+  domain: indiatoday.in
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
-    width: 1435
-    height: 869
+  - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -145,22 +147,6 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
-        isCached: true
-  - title: "Meta develops AI for speech-to-speech translation of oral languages"
-    excerpt: "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language."
-    publishedDateTime: 2022-10-21T11:18:00Z
-    webUrl: "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
-    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 59
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Meta develops AI translation system for a primarily spoken language"
     excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
@@ -301,7 +287,21 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
+    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
+    publishedDateTime: 2022-10-20T09:33:00Z
+    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
+        width: 1435
+        height: 869
+        isCached: true
 
-secured: "qOjEzDsS1oEH47xTI+yGyKXEqWhdCDG8iXm0bx2Our9re/Ryap8e6/cj5tFD9YylGbG7ovNXnlmjJ8el81XIIm5NgXDvPhj55s90H7ntfdniz1nskpoq3OsNm7Ssh+OvgpqeClVAZ8CNhfV88T8sjUfi6YaQGdLhd2xYucVCwjqp1UJ+4EzSupK8dUSFhiHm8HNbxIffPEcBdlPC2PHVcADsXrNWBhV+n1a5ghoqY1aaGN54CSKsBDQL5iOVuXiOFQQt9VLGQDH3X3scWUMUis7vIfd7o4mOIXwsDq5YzqOKG2HaEqMCtSI36h0iixKAA+xiuL7txucBa46YGgoq2UvoppVAjbqTECbj2oj4i9Lcv4zy9kta+UZRQKdboljWOUtLVQHJXWdKyJNopmU7zmPX1VlBCkmBIUPRpA1bbIK5HKnE82Qz4HDqSerIidSDj17fUxGuku/Y3+v5A0TE1RmWyih8F54to1uoJmXzxglVwkPdlY8tC6BEXU+tzOkbBjUIzDYMtRSXFjSzx/L9FQ==;8Rx1YTiKYno881bbaeif7w=="
+secured: "QhIEar3mFKPYO3LvzWMlLcc/w17Q4Ny+11R0w07lVXx8Q12FtxY65lLlZDhjtpnS5PjJx1fxQ+4oysITmWwewbCfsvlMXhd37zvlTJ0rqNz2qE/WhzVuic3w88LBbpFZ7Ps8T9lmNOCh2sA+W2W4GHc8EPxblJsKSxT/yyPPiHLgKx2Azce82IKfh8hIfJptE4WXkJ7EH7Gmta8lWXtCycmaVdZpfb9FwvwicqQmFEGpdM5wqGdA6QUzpPTs3p/HBMWfbM0mtdDq2/qDeItTHW1FdH6QGMwxfeN9GymJkaGqaVT38aYhd/nqL1YMdkSWrxqkeomHgvx1gnqD598heUVFKIf3k3M02WWtURWc4Ec=;Ej7NPvmAaRX/Fz5tRtstwg=="
 ---
 
