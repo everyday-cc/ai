@@ -74,19 +74,21 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Adobe Gets Into the Generative AI Image Game"
-    excerpt: "With DALL-E and others making splashes in text-to-image generation, Adobe shows that the company is finally is putting some of its own resources into the new tech."
-    publishedDateTime: 2022-10-21T16:07:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-gets-into-the-generative-ai-image-game"
+  - title: "How to use Midjourney to generate AI images"
+    excerpt: "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it."
+    publishedDateTime: 2022-10-21T21:00:00Z
+    webUrl: "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/"
+    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp"
+    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Digital Trends
+      domain: digitaltrends.com
+    quality: 87
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03B9diyWWZxnrCdrG1hm1Kw-2.fit_lim.size_1200x630.v1666365622.png"
-        width: 1120
-        height: 630
+      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/10/Midjourney-River.jpg?p=1"
+        width: 1664
+        height: 1109
         isCached: true
   - title: "Adobe commits to transparency in use of generative AI"
     excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."

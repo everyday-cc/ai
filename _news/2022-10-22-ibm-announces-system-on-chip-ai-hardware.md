@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T18:01:00Z
 originalUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
 webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: VentureBeat

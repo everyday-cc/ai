@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "France slaps fine on face recognition firm Clearview AI"
+    excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws. France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws,"
+    publishedDateTime: 2022-10-21T19:01:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-71666340104075.html"
+    type: article
+    provider:
+      name: Hindustan Times Tech
+      domain: hindustantimes.com
+    quality: 34
   - title: "French regulator fines US face recognition firm Clearview AI €20 million"
     excerpt: "France's privacy watchdog slapped a €20 million fine on US firm Clearview AI on Thursday, October 20, for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The firm collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database – reportedly around 20 billion pictures – to clients including law enforcement agencies."
     publishedDateTime: 2022-10-20T11:18:00Z

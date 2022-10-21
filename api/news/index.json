@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-22-with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet.md",
+      "title": "With Its Latest AI Innovations, Adobe Doesn’t Want To Cut Out Humans Out Of The Picture Just Yet",
+      "excerpt": "Adobe wants to outfit professional users with AI as a capable assistant, while enabling non-designers to create without having to purchase a copy of “Creative Cloud for Dummies.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/",
+      "originalUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352fa38806a8a5478e382e9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/amp/",
+      "publishedDateTime": "2022-10-21T14:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-colorize-black-and-white-photos-with-palettefm-an-ai-powered-online-tool.md",
+      "title": "Colorize black-and-white photos with Palette.fm, an AI-powered online tool",
+      "excerpt": "Then we uploaded the black-and-white version and experimented with selecting the pre-made filters that Palette.fm provides. Once we found a good filter, we edited the caption to refine the colors by describing the objects in the scene.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/palette_working_example-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-elon-musks-language-about-teslas-self-driving-is-changing.md",
       "title": "Elon Musk’s language about Tesla’s self-driving is changing",
       "excerpt": "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update.",
@@ -104,7 +206,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -143,7 +245,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -249,7 +352,7 @@
       "originalUrl": "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -288,7 +391,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -439,7 +543,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 115,
+      "heat": 114,
       "tags": null,
       "images": [
         {
@@ -690,7 +794,7 @@
       "originalUrl": "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -743,7 +847,7 @@
       "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -838,7 +942,7 @@
       "originalUrl": "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -881,7 +985,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1088,7 +1192,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1127,101 +1231,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
-      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
-      "excerpt": "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/20/9696307.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/20/9696307.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T23:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-deepminds-demis-hassabis-is-ais-grandmaster.md",
-      "title": "DeepMind’s Demis Hassabis is AI’s grandmaster",
-      "excerpt": "From mastering games to decoding proteins, Hassabis is shepherding the next generation of artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/MMmycD6S66PtO4TkoYm8vdyfkVw=/0x0:1920x1080/1400x1050/filters:focal(832x304:1138x610):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71519428/DemisHassabis.0.jpg",
-          "width": 1400,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
-      "publishedDateTime": "2022-10-19T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

@@ -10,7 +10,7 @@
       "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -27,6 +27,49 @@
       "ampWebUrl": "https://techxplore.com/news/2022-10-human-skin-deep.amp",
       "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp",
       "publishedDateTime": "2022-10-20T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-ai-material-that-learns-behaviors-and-adapts-to-changing-conditions.md",
+      "title": "AI material that learns behaviors and adapts to changing conditions",
+      "excerpt": "Just like a pianist who learns to play their instrument without looking at the keys or a basketball player who puts in countless hours to throw a seemingly effortless jump shot, UCLA mechanical engineers have designed a new class of material that can learn behaviors over time and develop a \"muscle memory\" of its own,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ucla-engineers-design.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp",
+      "publishedDateTime": "2022-10-19T11:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "techxplore",
@@ -1445,58 +1488,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028.md",
-      "title": "Deep Learning Chipset Market Highly Favourable To The Growth Rate By 2028",
-      "excerpt": "Deep Learning Chipset market trends from 2022 to 2028 The Global Deep Learning Chipset research report 2022-2028 provides",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-highly-favourable-to-the-growth-rate-by-2028-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T23:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

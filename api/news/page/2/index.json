@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
+      "excerpt": "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/20/9696307.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/20/9696307.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
+          "width": 476,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T23:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-deepminds-demis-hassabis-is-ais-grandmaster.md",
+      "title": "DeepMind’s Demis Hassabis is AI’s grandmaster",
+      "excerpt": "From mastering games to decoding proteins, Hassabis is shepherding the next generation of artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
+      "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/MMmycD6S66PtO4TkoYm8vdyfkVw=/0x0:1920x1080/1400x1050/filters:focal(832x304:1138x610):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/71519428/DemisHassabis.0.jpg",
+          "width": 1400,
+          "height": 1050,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
+      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
+      "publishedDateTime": "2022-10-19T22:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vox",
+        "domain": "vox.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
       "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
       "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 318,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -405,6 +500,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-ai-material-that-learns-behaviors-and-adapts-to-changing-conditions.md",
+      "title": "AI material that learns behaviors and adapts to changing conditions",
+      "excerpt": "Just like a pianist who learns to play their instrument without looking at the keys or a basketball player who puts in countless hours to throw a seemingly effortless jump shot, UCLA mechanical engineers have designed a new class of material that can learn behaviors over time and develop a \"muscle memory\" of its own,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html",
+      "originalUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ucla-engineers-design.jpg",
+          "width": 2880,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp",
+      "publishedDateTime": "2022-10-19T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1134,151 +1272,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
-      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
-      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
-      "publishedDateTime": "2022-10-18T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
-      "title": "11 new deaths tied to semi-autonomous driving systems",
-      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
-      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
-      "publishedDateTime": "2022-10-18T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-artificial-intelligence-answers-the-call-for-quail-information.md",
-      "title": "Artificial intelligence answers the call for quail information",
-      "excerpt": "When states want to gauge quail populations, the process can be grueling, time-consuming and expensive. It means spending hours in the field listening for calls. Or leaving a recording device in the field to catch what sounds are made -- only to spend hours later listening to that audio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T14:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

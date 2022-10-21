@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T13:51:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29342764/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29342764/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -14,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "Convolutional neural network framework to predict remaining useful life in machines"
+    excerpt: "Modern industries require efficient and reliable machinery. To ensure the stability of industrial equipment and avoid unnecessary downtime, it is important to gauge a machine's remaining useful life (RUL) accurately."
+    publishedDateTime: 2022-10-18T12:57:00Z
+    webUrl: "https://techxplore.com/news/2022-10-convolutional-neural-network-framework-life.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 28
 
 secured: "RDHn5L3cPelXQ0Lq7m1pcFKt5HNtLc/i5/PWURob7qBVmMNIcCQmLwy/EIOgocDiownYaQmAtX+pWUbRXR9IMMiE8ujqKocg4jIYye4WEc8mFK/Unxsf2Arv9MD02NP5IKh0icxX/+vwD/xFV8faH4sPwQ8zK5yT6xobjlrK15JRMGMXFtlNG9tdqibtSr40mw7Iuk7f5HSLxyN+yANprChFShDh/WFxoWoEpwmvAxZjZirA25mNtrfTZoTqy+XavKDEoJGlJYVdn46ToeadozCruiHi6qrhCsZyOo68WFOjCZVuSn84ZzEx+R3GjupYlG251XbmKqW6js6nLgGNmKQOQds+yL3ppHKoXN9vNJw=;/ka39vu1oMlQ5uYsZut5dg=="
 ---

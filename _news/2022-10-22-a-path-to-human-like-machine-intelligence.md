@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T18:41:00Z
 originalUrl: "https://techxplore.com/news/2022-10-path-human-like-machine-intelligence.html"
 webUrl: "https://techxplore.com/news/2022-10-path-human-like-machine-intelligence.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: techxplore

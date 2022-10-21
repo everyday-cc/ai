@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model
 ampWebUrl: "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1179783124.jpg?w=1200&strip=all"

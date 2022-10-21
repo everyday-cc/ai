@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20"
 type: article
 quality: 78
-heat: 318
+heat: 308
 published: true
 
 provider:
@@ -314,15 +314,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
-    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-17T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "5XpEhNUOnZLv6sqg910svLXFtzUl3sJHlm3lV+xEQIU98W0d2IVcY2QpkTlysTcp9FPh2sg3Uql2nUvmMgrTGh+x74VxS23bLjqmKwKwNHIXSaAd+TJi8OSxdMIhjz0lB5DYyJkygaTzT0omqMtB2PgKFpcPZCL5c5lIBFnYel3tzGfVia1AJJ71oRpA2JN3jUpkk5agSIH0ymiEzHjKcLvR2UefLljUYLImgoYZ2nvdSjAHNm4VW1NQ5eDB8HRvnybVBZpZOPe240/uD048GjSA6zUJopzIGYNbqjpUxLXJAlU07lrzC4ERvp/ofidBkqhZ0AuD7crGZgawepc2B1NWCJ9WzOhcJjBMTdEbn9Q=;679vXGyLRpYPLHPzFVJjLg=="
 ---

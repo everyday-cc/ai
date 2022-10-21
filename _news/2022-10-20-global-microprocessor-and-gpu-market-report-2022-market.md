@@ -308,15 +308,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 21
-  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
-    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-17T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "T9NN2gMQfIgAhZ8KP+ww3HGPpEYpgu58uOV62pljO4MT1fkgzCKDd8aA8TMXyLxBLQAk0BzfDKoqg0wHGsVhzJpfI4kMnsJfaPrET1oooM61AK2wxdKbAOpmLkxESvVYizyQ3m1zMPEM0E3pCKgl38Vxt0DvnSAlVnNuy9SDNJ8xRfrgziSR+W1L1/0l8AImiKqEufmc1+/K8mU4T3VBaR56Riy1yexL5phPcranRlkXtMFXbwGQ8li3gGrT/0jdte2Xa6IpPM12wvBSf+ZehaFxevuub3HD/2iwt47S1+0b/Q7s7VmVD1bLYdxyodWxSCjqnYvFugCUz426lP+a3YF2ApTaRe3LXyTB4Fp2VkQ=;Z6OhfADpeDJ+nwRlaE+cBg=="
 ---

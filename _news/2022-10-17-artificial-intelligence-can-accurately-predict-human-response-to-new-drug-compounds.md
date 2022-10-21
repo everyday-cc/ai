@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-17T15:00:00Z
 originalUrl: "https://scitechdaily.com/artificial-intelligence-can-accurately-predict-human-response-to-new-drug-compounds/"
 webUrl: "https://scitechdaily.com/artificial-intelligence-can-accurately-predict-human-response-to-new-drug-compounds/"
 type: article
-quality: 31
+quality: 33
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg"

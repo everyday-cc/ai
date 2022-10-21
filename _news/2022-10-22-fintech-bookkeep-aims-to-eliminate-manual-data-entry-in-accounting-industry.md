@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T19:44:00Z
 originalUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
 webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Crowdfund Insider

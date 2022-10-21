@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/scientists-use-artificial-intelligence-
 ampWebUrl: "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp"
 type: article
-quality: 62
-heat: 62
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - Facebook AI
+  - AI in Healthcare
 
 images:
   - url: "https://i.insider.com/6351bad5ffcac3001876a295?width=1200&format=jpeg"

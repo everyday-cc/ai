@@ -125,6 +125,15 @@ related:
         width: 2550
         height: 1414
         isCached: true
+  - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
+    excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
+    publishedDateTime: 2022-10-21T19:13:00Z
+    webUrl: "https://siliconangle.com/2022/10/21/openai-reportedly-advanced-talks-raise-funding-microsoft/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 36
   - title: "Microsoft mum on Boston-area impact of reported layoffs"
     excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
     publishedDateTime: 2022-10-18T17:57:00Z

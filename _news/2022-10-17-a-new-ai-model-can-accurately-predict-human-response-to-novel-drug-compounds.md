@@ -48,7 +48,7 @@ related:
     provider:
       name: SciTech Daily
       domain: scitechdaily.com
-    quality: 31
+    quality: 33
     images:
       - url: "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg"
         width: 2000

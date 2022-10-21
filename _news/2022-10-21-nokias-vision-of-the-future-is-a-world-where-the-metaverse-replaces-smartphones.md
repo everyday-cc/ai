@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
-excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
-publishedDateTime: 2022-10-20T20:59:00Z
-originalUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
-webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
-ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
+excerpt: "The metaverse could involve everything from expanding how the internet is used to developing new ways to learn skills."
+publishedDateTime: 2022-10-21T09:00:00Z
+originalUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html"
+webUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html"
+ampWebUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
+cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Philadelphia Inquirer
+  domain: inquirer.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
-    width: 1152
-    height: 1920
+  - url: "https://www.inquirer.com/resizer/Wcvm79CGANaIES0uCthIRHfUTos=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/BYUQPRZXPRBHJN4XABLBAGM6YY.jpg"
+    width: 760
+    height: 507
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "c7W+sfnYBNsidk9uU1tU+fRn8B3J9c9pz7orcC2XIvYa8QAaWa0XIRBcaErYavXQxi9yPoiQplPL4X6Ng6A4QsuwNelX1w1iLoLKPMIpZYghJ/4O2PsOcfIEJXB89gNe1BZ8Rcvn0mWXef1RN41ik2Xif/XIazaZ94gUZm/ke7vOpHLtOev0OnPmAzLT+7yuIcQzagXm71z/NebXUyXLq0wJpVd3QPK9wd7To/psajgOKUn3Jln3rUW/yINB5Np17Z+cM2DbASBWEXk79gXBuakB9wTVZzmYRd6COqR4JKVL+2xeHQbzD7Wi3hASu0u20Maeo19sB/eRP2T/vktiOT+QfcteUXUZnFYp7zHELTxfGVwtm7k7PzacZ1UHh3OryleuKfBCp2lIVnK71+Ov2jU42oGX8usMP936sJLPJlKR5CAPapeyeoB7rI7dSCtTqae4XbotZJm+eyYZhjYQXmfC6QBgSwVuovxDIovES3pX5H/3Uj9XlvG0IFpHt4XUdQMGl8PZY0aYPmzlDRkLvw==;PVo1J9cbfLy79Ocr1L+VZg=="
+secured: "ATiVmRmmYN/58O4CPvBECKBLvbHzObmNot4DvZnFw2GHlsy1jhecHd6xqs1dDs3PPikmEgZyqCr8jXf932eScesaLa7UwNvGCCvFsMhQPtCS/mGAR+yxIMTvBzibIitbOQ087AtElnlY9GwNO4OIovMefby5NzlbxoCkzovxWENzIDeDVr/b+a3hHbCuxGE4/YpQ/G1Lv1SboJAuVYL5t3Xb5+YRguzJPtaQmSSO+iXLyDRIrDr4kFJ3x78HhDxbKmPrbexkm7ypo8Co54mSEkCh/C8vvPCTD21gHZpuqOricYOnyrE7SIczhsZ+MAfo2tMigvOhOxcmJ9uvHdXJYuspC1Dcy/PSqHjPo7BErf8=;9xBzXmiBE2ML4Ym09YP59w=="
 ---
 

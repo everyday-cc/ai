@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T18:00:00Z
 originalUrl: "https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/"
 webUrl: "https://thegatewayonline.ca/2022/10/study-has-found-ways-to-reduce-gender-bias-in-natural-language-processing/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Gateway

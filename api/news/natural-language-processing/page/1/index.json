@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-21-adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld.md",
+      "title": "Adept AI Labs discusses new foundation model at Oracle CloudWorld",
+      "excerpt": "Foundation models are at the vanguard of innovation in artificial intelligence (AI) today, providing new opportunities that were simply not possible even a few years ago. At Oracle CloudWorld 2022, Adept AI Labs,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/",
+      "originalUrl": "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1179783124.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 753,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/adept-ai-labs-discusses-new-foundation-model-at-oracle-cloudworld/amp/",
+      "publishedDateTime": "2022-10-21T07:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-meta-launches-ai-tool-to-translate-hokkien-to-english-in-real-time.md",
       "title": "Meta launches AI tool to translate Hokkien to English in real time",
       "excerpt": "The artificial intelligence model is currently able to translate only one full sentence at a time, with the eventual goal of simultaneous translation.",
@@ -53,7 +105,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 196,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1373,49 +1425,6 @@
       "provider": {
         "name": "research",
         "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-netbase-quid-adds-visualizations-language-support.md",
-      "title": "NetBase Quid Adds Visualizations, Language Support",
-      "excerpt": "NetBase Quid's latest quarterly update includes now visualization and presentation modes, now user interface, support for more languages, and product integrations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/NetBase-Quid-Adds-Visualizations-Language-Support-155257.aspx",
-      "originalUrl": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/NetBase-Quid-Adds-Visualizations-Language-Support-155257.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/148232-1022_WFO_NICE_480x610-ORG.png",
-          "width": 480,
-          "height": 610,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-04T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
         "images": null,
         "publishers": null,
         "authors": null

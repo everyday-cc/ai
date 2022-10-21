@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T18:39:00Z
 originalUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180"
 webUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Wall Street Journal

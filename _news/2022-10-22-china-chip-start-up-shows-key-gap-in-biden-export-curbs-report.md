@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T19:02:00Z
 originalUrl: "https://www.business-standard.com/article/international/china-chip-start-up-shows-key-gap-in-biden-export-curbs-report-122102200015_1.html"
 webUrl: "https://www.business-standard.com/article/international/china-chip-start-up-shows-key-gap-in-biden-export-curbs-report-122102200015_1.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Business Standard

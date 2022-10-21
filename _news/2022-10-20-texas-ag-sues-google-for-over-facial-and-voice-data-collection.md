@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-fa
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html"
 type: article
 quality: 76
-heat: 196
+heat: 197
 published: true
 
 provider:

@@ -33,6 +33,15 @@ related:
         width: 1366
         height: 768
         isCached: true
+  - title: "Nutanix Partners Rejoice: Bare Metal On Azure ‘Strategically, A Great Thing’"
+    excerpt: "Partners are praising Nutanix move to extend its Nutanix Cloud Clusters in its hybrid cloud environment to Microsoft Azure dedicated bare metal nodes, giving them opportunities to win deals on the second largest public cloud."
+    publishedDateTime: 2022-10-21T18:14:00Z
+    webUrl: "https://www.crn.com/news/channel-news/nutanix-partners-rejoice-bare-metal-on-azure-strategically-a-great-thing-"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 16
 
 secured: "jtnjhkVzJNkzydW6SpDkTQl82C31ei9KyeRznJqj4j8WIMpLH7D4tr7A6ezfQj7DBqcYO2w55uIqftXI38nlj2OLmYJg6DQQIIkvk7EoV5lpEi7NLvndoWANGhpfblPaK4CJoH+UvT+kDyBUukTFDnBa8YfylrWkllMgkPRhW5gLXymhqpfCJC5nE17uToBmqp8oH2INQb7uwPMr8ny4QgG0FSOnHQPnOnRfpOD1kz18QE6SgGBG3TMIN9VwP0T4IYEwmw6/rsQieoP2a7PJU8X3HMJ4mFUYiazHVc1ZhLfepRMFrM3gz3TElBtLoZQ6flmgXDs2OENMUI8jDFINTLLQ+FtOfHxDkM9gcxtrPMvuNI8lB8HRnAyvhDWYpC7LZE1Isbrw8EgjUFIiCGVIOHFgSrmOU5xIGuU3K3LYmV74GJbRWuwWKRVtZyH72WNjRVIuV1UnBX417ICbhMq0+yCbzgLYkPGgswBqIeZwEr6sKessm4qp+2uwnlO+c8VyCZlQS+jSHperxsCBVkqXMQ==;7wjqguurYkT8pcLtH1fVDQ=="
 ---

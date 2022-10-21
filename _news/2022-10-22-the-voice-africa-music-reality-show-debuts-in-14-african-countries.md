@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T19:54:00Z
 originalUrl: "https://www.premiumtimesng.com/entertainment/music/560974-the-voice-africa-music-reality-show-debuts-in-14-african-countries.html"
 webUrl: "https://www.premiumtimesng.com/entertainment/music/560974-the-voice-africa-music-reality-show-debuts-in-14-african-countries.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Premium Times

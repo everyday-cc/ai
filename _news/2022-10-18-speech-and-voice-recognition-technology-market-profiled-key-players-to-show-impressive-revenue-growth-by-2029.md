@@ -313,15 +313,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Artificial Intelligence in Oil and Gas Market 2022 : Key Product Segments, Application Analysis, and Industry Growth Forecast by 2029"
-    excerpt: "Artificial Intelligence in Oil and Gas Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-17T04:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-oil-and-gas-market-2022-key-product-segments-application-analysis-and-industry-growth-forecast-by-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
 
 secured: "mZ1qEULtLXqe8vY9MEqyTvrRR5y/FpY9fvHbugAxHs0S0z0e4ciE5wujp25acAUU9jOn5zNnzz+QO60dT/yKjPA/LXgFi7t/Pxan4qy/CzyS+wM6quq1IL3Djz7kFC3+rYP7uLYVO/QhvOQs81p9mxHey2hw9Wh/M4J5hwyvLO7Ox9dvryyDOG7cBZKlrlYVxmn75hgI3d16cpoAN5KEUqT5KkblPW2qizPu4ei2j0be4JjYDk94mTTEnfZJPTiZrNC7i+PCuy0LP64TARMdyQlZksjLI4/jlY3FryIoAp4s4HNWoDNdAoxJFVvPRJ+mNgt2FlV5n48BmaPBQAbuUhCYi0nrJGZ84WeayjI3Xn8=;IeNEboxned5W8LOFkoa4RA=="
 ---

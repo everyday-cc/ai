@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20"
 type: article
 quality: 61
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Robotic Machine Arm Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028."
+    excerpt: "The “ Robotic Machine Arm Market ” study presents a market overview, key facts, major products and services, and SWOT analysis, in short, it provides a 360�? view of the company for the period 2022 - 2028."
+    publishedDateTime: 2022-10-18T15:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotic-machine-arm-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence In Fintech Market is Expected to be on Course to Achieve Considerable Growth to 2030"
     excerpt: "Oct 18, 2022 (Alliance News via COMTEX) -- Quadintel's recent global Artificial Intelligence In Fintech market research report gives detailed facts with..."
     publishedDateTime: 2022-10-18T02:34:00Z

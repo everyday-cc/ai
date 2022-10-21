@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-human-skin-deep.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 800
         height: 534
         isCached: true
+  - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
+    excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."
+    publishedDateTime: 2022-10-21T17:30:00Z
+    webUrl: "https://omaha.com/business/investment/personal-finance/self-driving-trucks-ai-and-the-difficulty-of-forecasting-the-future-of-trucking/collection_fd16df08-0265-55c7-980f-420e24f50739.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 14
 
 secured: "QGhjvlcKgn9gDi9S/WcgiSI/cXsEMQ04CwOmdzCKtozeaocPuQkgKkFXAMASmimszNvOdAG+niDIGwbuZYE+KLwLNtFbPEdBfGAmFiSTJSUCjj7I60ZeQ3JJZcj/UA9XAB6Q2N7jNyZB7yToFw5218L95idcMRDj+6MK6v3rkI48opLU/Nro0kN+S1qkQjjeLFzpBSJ1mrnoxEipyJwAameQhwRkHWNzJ8G572VcpJDUaCI/T+7sZhxLZ2By6kBhO2kaKEhxnufS7jhiRujMvqSC5ui0fJTlu55gBQPgnIwAGenbvW9IZIto3L2T+eSmzpWOZC4TmDVjmx8cxoW3is08Ga4C9VMDFZWppGbXzB0Wu9oyjwQc2n0tAIWrcHWEq3+2B2bBDYfrNHj3ILKwtdV+bpQQ+85uIh0ZBstVhVKn4DlmIF/XrQdWoZ9FjMpdtfwe4M4ZDQKxShEMJUib/hxhaieqJFmgRIdu/p9y2XbLAJz0+dv6jBLe/MLvv2JI6IiywOxc1bD6B4q6kxbd1w==;IUwbphJ6r4Q1EnJoE34m0A=="
 ---

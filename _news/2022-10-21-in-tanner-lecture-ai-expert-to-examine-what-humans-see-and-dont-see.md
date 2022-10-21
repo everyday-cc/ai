@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T14:14:00Z
 originalUrl: "https://news.yale.edu/2022/10/21/tanner-lecture-ai-expert-examine-what-humans-see-and-dont-see"
 webUrl: "https://news.yale.edu/2022/10/21/tanner-lecture-ai-expert-examine-what-humans-see-and-dont-see"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Yale Environment 360

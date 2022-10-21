@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-17T08:13:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/b29282073/renesas-completes-acquisition-of-steradian"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

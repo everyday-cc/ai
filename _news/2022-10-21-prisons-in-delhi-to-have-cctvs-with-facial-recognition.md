@@ -9,7 +9,7 @@ ampWebUrl: "https://m.timesofindia.com/city/delhi/prisons-to-have-cctvs-with-fac
 cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/city/delhi/prisons-to-have-cctvs-with-facial-recognition/amp_articleshow/94997035.cms"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1069
     height: 580
     isCached: true
+
+related:
+  - title: "India opens bids on $4M contract for facial recognition and security cameras in prisons"
+    excerpt: "The Public Works Department of Delhi launches a tender for 1,248 CCTV cameras, some with facial recognition, to be installed across 3 prisons."
+    publishedDateTime: 2022-10-21T19:03:00Z
+    webUrl: "https://www.biometricupdate.com/202210/india-opens-bids-on-4m-contract-for-facial-recognition-and-security-cameras-in-prisons"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
 
 secured: "bvnb9QouNcJPRXM8oF3NvIPQFGM4oWZlSkNTzlrksc4/Eu2MiEfqdU4pcpGAhwJut1Gknzn8a6RK5YnpnSoxyCh9eq/gvIr+3SQJjscGcGsYF5YQ70UM8iNIvxrHoO817xT1yeoxipNsrc/lwkyaaqRRc5v9TTyYxvsAAHFd3mGZcectg0aeoCGmKXHbfjMu7mqI+Y5A9mOzsAsFQ4UQ6Va6WXoarUXHoV5z8RxEaff8PnDG7xvHbfjXyf9BtCS6oxQ3ADfB6Bj6bhPutd19H++t1bB2aswNFZOnLEMkCl9CoEGjejfvWEZQfxG6pQlvWvqv8Qm7Ps8ZjswIIs7dS/kYqh3qIbbn9ZExa3b1pyJIssessUWXBtB4rdi5YohY3RbhKGBUsjDG3wSGVybdKrMwIimNT3fMyd8ZtChjGpuXT7uzcVNh0AjmYTHiDytXn8UlWbswRixJJXvaG0eh1x75v76r9u5OgLaUhQCylkhcIvt+032w6sqDcEPT0gheF8knKsWH7gf1zSr7+3JExA==;Kv5C/oUrfAoUon8SsAVzNg=="
 ---

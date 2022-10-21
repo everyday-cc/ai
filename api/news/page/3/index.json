@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-19-keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-105m.md",
+      "title": "Keebo AI optimizes data warehouses with automated ‘learning’ platform, raises $10.5M",
+      "excerpt": "Keebo AI, which helps enterprises optimize their data warehouses, today announced it has raised $10.5 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1176050900-e1666115841626.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/keebo-ai-optimizes-data-warehouses-with-automated-learning-platform-raises-10-5m/amp/",
+      "publishedDateTime": "2022-10-18T15:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
+      "title": "11 new deaths tied to semi-autonomous driving systems",
+      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "publishedDateTime": "2022-10-18T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-artificial-intelligence-answers-the-call-for-quail-information.md",
+      "title": "Artificial intelligence answers the call for quail information",
+      "excerpt": "When states want to gauge quail populations, the process can be grueling, time-consuming and expensive. It means spending hours in the field listening for calls. Or leaving a recording device in the field to catch what sounds are made -- only to spend hours later listening to that audio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221018131139.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage.md",
       "title": "Announcing the TechCrunch Startup Battlefield 20 companies on the Disrupt Stage",
       "excerpt": "Disrupt runs Tuesday through Thursday, October 18-20 in San Francisco.. The agenda is packed full of the heavyweights of the industry hashing it out on stage stage with TechCrunch Editors. Newsmakers,",
@@ -1066,15 +1211,15 @@
       ]
     },
     {
-      "path": "_news/2022-10-17-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence.md",
-      "title": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence",
-      "excerpt": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence Oct 17, 2022 (PRNewswire via COMTEX) -- PR Newswire LONDON, Oct. 17, 2022",
+      "path": "_news/2022-10-18-ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners.md",
+      "title": "AI in Computer Vision Market worth US$ 95,080.5 million by 2027 at a CAGR of 46.9% – Exclusive Report by The Insight Partners",
+      "excerpt": "According to our latest market study on \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -1090,7 +1235,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T08:30:00-07:00",
+      "publishedDateTime": "2022-10-17T11:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -1113,136 +1258,7 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-a-new-ai-model-can-accurately-predict-human-response-to-novel-drug-compounds.md",
-      "title": "A new AI model can accurately predict human response to novel drug compounds",
-      "excerpt": "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "originalUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
-      "title": "Deep learning tool identifies bacteria in micrographs",
-      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
-          "width": 795,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
-      "title": "Ambi Robotics Raises $32M in Funding",
-      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
-      "sourceUrl": null,
-      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
-      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
-          "width": 2560,
-          "height": 950,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "finsmes",
-        "domain": "finsmes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     }
