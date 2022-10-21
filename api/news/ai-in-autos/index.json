@@ -62,7 +62,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -269,8 +269,8 @@
       "title": "Opinion: A driverless vehicle update",
       "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
       "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -283,8 +283,8 @@
       "publishedDateTime": "2022-10-14T17:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
+        "name": "Northside Sun",
+        "domain": "northsidesun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1238,6 +1238,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
+      "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
+      "excerpt": "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "originalUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg",
+          "width": 880,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "cdnAmpWebUrl": "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
+      "publishedDateTime": "2022-10-10T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WAMC",
+        "domain": "wamc.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-10-asia-pacific-self-driving-car-market-2022-key-applications-new-technology-and-forecast-till-2030.md",
       "title": "Asia-Pacific Self-driving Car Market 2022 Key Applications, New Technology and Forecast till 2030",
       "excerpt": "The comprehensive analyses of the most recent trends, growth prospects, and market growth drivers are offered to readers of the global market research reports. The COVID-19 effects on the Asia-Pacific Self-driving Car Market are also discussed in detail in the research,",
@@ -1329,49 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice.md",
-      "title": "Artificial intelligence could soon diagnose illness based on the sound of your voice",
-      "excerpt": "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "originalUrl": "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "cdnAmpWebUrl": "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true",
-      "publishedDateTime": "2022-10-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },

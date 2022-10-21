@@ -1,27 +1,29 @@
 ---
 category: news
-title: "How Large Might The Tesla Full Self Driving Liability Be?"
-excerpt: "It's clear Tesla has a large liability for having sold FSD without ever delivering the product. Read why I think the “lost profits” angle is incredibly juicy."
-publishedDateTime: 2022-10-19T20:23:00Z
-originalUrl: "https://seekingalpha.com/article/4547582-how-large-might-the-tesla-full-self-driving-liability-be"
-webUrl: "https://seekingalpha.com/article/4547582-how-large-might-the-tesla-full-self-driving-liability-be"
+title: "Tesla cars will not be approved as fully self driving this year, Elon Musk says"
+excerpt: "The Silicon Valley automaker sells a $15,000 software add-on called \"Full Self-Driving\" (FSD) which enables its vehicles to change lanes and park autonomously. That complements its standard \"Autopilot\" feature,"
+publishedDateTime: 2022-10-21T01:53:00Z
+originalUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html"
+webUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html"
+ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
 type: article
-quality: 54
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: Seeking Alpha
-  domain: seekingalpha.com
+  name: moneycontrol.com
+  domain: moneycontrol.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388502852/image_1388502852.jpg?io=getty-c-w750"
-    width: 750
-    height: 422
+  - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
@@ -71,22 +73,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla cars will not be approved as fully self driving this year, Elon Musk says"
-    excerpt: "The Silicon Valley automaker sells a $15,000 software add-on called \"Full Self-Driving\" (FSD) which enables its vehicles to change lanes and park autonomously. That complements its standard \"Autopilot\" feature,"
-    publishedDateTime: 2022-10-21T01:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
-    type: article
-    provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
-    images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Tesla cars not ready to be approved as fully self-driving"
     excerpt: "Some analysts say that Tesla's primary problem is not regulators but the software itself, given the complexity of autonomous driving"
     publishedDateTime: 2022-10-20T05:43:00Z
@@ -103,6 +89,20 @@ related:
         width: 1200
         height: 756
         isCached: true
+  - title: "How Large Might The Tesla Full Self Driving Liability Be?"
+    excerpt: "It's clear Tesla has a large liability for having sold FSD without ever delivering the product. Read why I think the “lost profits” angle is incredibly juicy."
+    publishedDateTime: 2022-10-19T20:23:00Z
+    webUrl: "https://seekingalpha.com/article/4547582-how-large-might-the-tesla-full-self-driving-liability-be"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1388502852/image_1388502852.jpg?io=getty-c-w750"
+        width: 750
+        height: 422
+        isCached: true
   - title: "Musk: Teslas won't be approved as fully self driving this year"
     excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
     publishedDateTime: 2022-10-20T20:04:00Z
@@ -118,6 +118,6 @@ related:
         height: 630
         isCached: true
 
-secured: "H51uezAvCdv1O+HlCYPXkvyhcgIyONZxCYzm7RP7rZYvvmkT2I9ld6vcS9+ssQqAeCmFKyIIi9hK2hJDhMxMU8AkLzIyLFsfkSPrBENrMMdAXMV6nsR8C/05Soj4bxfBpyzlybDiAK+8X+zcHcFHUdV97LCz2vdiDwFsKR6SHvxj8A6hRoMqcoghu5OeU40On6m1v4xJwuyf6sYARqlQGq6v4gg62lud8qdxUY1MIioDJqn5mj3dJdgBiiywOLVZFHAbK9tNep+IwmUGADmQvKUy1c7Xr4DVKNOEhOSErvQ386i0KCs+SZTP7Wzf4g0eOKBp4rqSYW71T8HZRs+/rpmenhGbo24BXqz6ku6Uk5EefYAIetLNny7g9XvThsoavE1w+yqIMg7ViNOwHZcr11hj8yaLkL4Sr/RJfJPaMpIwTv+cpG8agB7URoyd0lN7IgMwARf+s9Zcn/hJ507PHwdXltGOkloeUc3mcrC0VzBSndHVpiGAKKWGJR2sn1044Oc9helF83QO+Hmp8mefDA==;R/DrCQHh9VBEeQlHphms4w=="
+secured: "mGnXJxeiBGLtpAZ51m20vndZR/ODHorx7ViuL9+zqTq00l7q2Nj+cJpIWYn7dLGCRZaO6w6Bu4TplJWnmQBcy0TrCCRY09mYb/2DX9cu567NnvoSjkgrsHYVPYnYGJx2o5fNwxuZV2pOj47EmKDrNd8yqb1jfBlzYeYbpKAiBgCXJew9lMVsHHkdOoSAeQCIe9/1OztXfOS+7F5dZo1y5cTFSBZOglo74X2NrSvkgHjT6n53uwaBPby6P6pzS7FX0/6uPzpWBXnfE9FEtweNHil2lssIo8mxEobj/0C8uEz+VcpwGxCOwKOEICMrHaC3Js2D5SSa6umNj0LW6A0tNWh7foRsquMpnDKDkX60fjM=;9pYkzlx64w8fvD4A68fqvg=="
 ---
 

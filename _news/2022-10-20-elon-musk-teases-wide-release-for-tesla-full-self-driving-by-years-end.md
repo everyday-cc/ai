@@ -61,6 +61,22 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year, Elon Musk says"
+    excerpt: "The Silicon Valley automaker sells a $15,000 software add-on called \"Full Self-Driving\" (FSD) which enables its vehicles to change lanes and park autonomously. That complements its standard \"Autopilot\" feature,"
+    publishedDateTime: 2022-10-21T01:53:00Z
+    webUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 70
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Tesla cars not ready to be approved as fully self-driving"
     excerpt: "Some analysts say that Tesla's primary problem is not regulators but the software itself, given the complexity of autonomous driving"
     publishedDateTime: 2022-10-20T05:43:00Z
