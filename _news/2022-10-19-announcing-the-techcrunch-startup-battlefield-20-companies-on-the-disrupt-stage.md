@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/"
 type: article
 quality: 70
-heat: 81
+heat: 80
 published: true
 
 provider:

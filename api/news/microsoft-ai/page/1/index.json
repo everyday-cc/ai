@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 112,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -970,6 +970,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-08-new-alzheimers-drug-that-slows-cognitive-decline-could-be-available-next-year.md",
+      "title": "New Alzheimer's drug that slows cognitive decline could be available next year",
+      "excerpt": "So is the benefit worth the risk and cost? Lecanemab slowed the rate of cognitive decline in people with mild cognitive impairment and early-stage Alzheimer’s disease by 27% over 18 months.",
+      "sourceUrl": null,
+      "webUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
+      "originalUrl": "https://www.plymouthherald.co.uk/news/uk-world-news/new-alzheimers-drug-slows-cognitive-7680021",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.stokesentinel.co.uk/incoming/article6760879.ece/ALTERNATES/s1200/1_GettyImages-951637976.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-07T23:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Plymouth Herald",
+        "domain": "plymouthherald.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-07-kyndryl-and-microsoft-expand-partnership-to-drive-mainframe-connectivity.md",
       "title": "Kyndryl and Microsoft expand partnership to drive mainframe connectivity",
       "excerpt": "IT infrastructure services provider Kyndryl has expanded its strategic partnership with Microsoft as it looks to help customers expand and increase access to mainframe data. The collaboration will see Kyndryl create data pipes that enable connections between the mainframe - including its zCloud platform - and the Microsoft Cloud.",
@@ -1373,58 +1416,6 @@
         "name": "Cure Today",
         "domain": "curetoday.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business.md",
-      "title": "Microsoft cloud storage: is OneDrive or Azure right for your business?",
-      "excerpt": "We compare Microsoft cloud storage services OneDrive and Azure, so you can decide which service is right for your business",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
-      "originalUrl": "https://www.itpro.co.uk/cloud/cloud-storage/368019/microsoft-cloud-storage-is-onedrive-or-azure-right-for-your-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk//image/upload/f_auto,t_primary-image-mobile@1/v1658499657/ITPP%20to%20ITP%20migration/Cloud%20storage/OneDrive_vs_Azure.jpg",
-          "width": 375,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-05T03:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

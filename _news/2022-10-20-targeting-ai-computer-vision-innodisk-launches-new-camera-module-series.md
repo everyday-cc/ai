@@ -7,8 +7,8 @@ originalUrl: "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-
 webUrl: "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html"
 type: article
 quality: 52
-heat: 62
-published: false
+heat: 72
+published: true
 
 provider:
   name: PR Newswire
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Targeting AI & Computer Vision, Innodisk launches new camera module series"
+    excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50 per cent of Innodisk's AI development is related to image recognition,"
+    publishedDateTime: 2022-10-20T23:29:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20221020/3995219.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 32
   - title: "Innodisk Corporation: Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
     excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50% of Innodisk's"
     publishedDateTime: 2022-10-20T09:46:00Z

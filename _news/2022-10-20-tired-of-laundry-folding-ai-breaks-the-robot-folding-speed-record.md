@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/information-technology/2022/10/tired-of-la
 webUrl: "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:

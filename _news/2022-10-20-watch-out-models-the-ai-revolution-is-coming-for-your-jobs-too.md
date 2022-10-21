@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/ai-revolution-will-even-take
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/?amp"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

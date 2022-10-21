@@ -358,7 +358,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 110,
       "tags": null,
       "images": [
         {
@@ -504,6 +504,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
+      "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
+      "excerpt": "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50%",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1454282/Innodisk_Logo.jpg?p=facebook",
+          "width": 599,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T02:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028.md",
       "title": "Artificial Intelligence In Regtech Market 2022 to Eyewitness Massive Growth by 2028",
       "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence In Regtech Market\"",
@@ -563,7 +606,7 @@
       "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -928,7 +971,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -980,7 +1023,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -1019,6 +1062,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-delta-air-lines-wows-with-parallel-reality.md",
+      "title": "Delta Air Lines Wows With Parallel Reality",
+      "excerpt": "The parallel reality display allows up to 100 customers to each see their personalized flight information on that one digital screen — simultaneously, mind you. And yes, each customer who opts in can see only his or her own flight information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "originalUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63503a73e55581d8544d80ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "publishedDateTime": "2022-10-19T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1175,110 +1270,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-watch-googles-ping-pong-robot-pull-off-a-340-hit-rally.md",
-      "title": "Watch Google’s Ping-Pong robot pull off a 340-hit rally",
-      "excerpt": "Google researchers have used an interesting method to create a powerful (but friendly) Ping-Pong bot capable of returning hundreds of times.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/google-ping-pong.jpg?resize=1200,784",
-          "width": 1200,
-          "height": 784,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/watch-googles-ping-pong-robot-pull-off-a-340-hit-rally/amp/",
-      "publishedDateTime": "2022-10-19T08:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-the-app-stores-top-scanning-app-is-79-percent-off.md",
-      "title": "The App Store’s top scanning app is 79 percent off",
-      "excerpt": "Some documents, such as passports and book pages, may require scanning technology to pull and share information quickly. But instead of holding onto antiquated tech or making a trip to the post office every time you need a quick scan,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
-      "originalUrl": "https://www.engadget.com/iscanner-deal-sale-145540600.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/0c3bfbc0-4e19-11ed-8b4f-c66912ba8fd2",
-          "width": 1200,
-          "height": 627,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/iscanner-deal-sale-145540600.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/iscanner-deal-sale-145540600.html",
-      "publishedDateTime": "2022-10-19T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-mode
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/"
 type: article
 quality: 106
-heat: 168
+heat: 166
 published: true
 
 provider:

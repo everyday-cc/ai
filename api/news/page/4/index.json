@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-15-delicious-chocolate-bar-developed-by-robots-using-artificial-intelligence.md",
+      "title": "'Delicious' chocolate bar developed by robots using artificial intelligence",
+      "excerpt": "Its makers predict their treat, containing milk chocolate, cookie crumbs and nuts, will please just about everybody in the galaxy. Their prototype contains 30% less sugar than conventional chocolate",
+      "sourceUrl": null,
+      "webUrl": "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926",
+      "originalUrl": "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.mirror.co.uk/incoming/article28247922.ece/ALTERNATES/s1200/0_choc.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926.amp",
+      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/news/uk-news/delicious-chocolate-bar-developed-robots-28247926.amp",
+      "publishedDateTime": "2022-10-15T08:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mirror",
+        "domain": "mirror.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-put-latino-heritage-and-history-where-it-belongs.md",
+      "title": "Put Latino Heritage and History Where It Belongs",
+      "excerpt": "Most of the classes I took focused on Europeans, but there was little to no mention of Latino or African American history in the United States. I learned about Latinx art, culture and history on my own,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html",
+      "originalUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/10/15/opinion/15davila/15davila-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/10/15/opinion/hispanic-heritage-latinx-studies.amp.html",
+      "publishedDateTime": "2022-10-15T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
       "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
       "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
@@ -153,8 +248,8 @@
       "title": "Opinion: A driverless vehicle update",
       "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
       "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -167,8 +262,8 @@
       "publishedDateTime": "2022-10-14T17:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
+        "name": "Northside Sun",
+        "domain": "northsidesun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1124,111 +1219,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-google-pixel-7-hands-on-more-camera-ai-premium-design.md",
-      "title": "Google Pixel 7 Hands-On: More Camera AI, Premium Design",
-      "excerpt": "The new Pixel 7 has improved camera AI and a fresh design. Ahead of our official review, here's a quick hands-on take of what's in store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6346a1551609bfa6c4de06b1/0x0.jpg?format=jpg&crop=1995,1331,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-personal-shopper/2022/10/13/google-pixel-7-preview/amp/",
-      "publishedDateTime": "2022-10-13T13:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later.md",
-      "title": "DeepMind breaks 50-year math record using AI; new record falls a week later",
-      "excerpt": "Last week, DeepMind announced it diiscovered a more efficient way to perform matrix multiplication, conquering a 50-year-old record. This week, two Austrian researchers at Johannes Kepler University Linz claim they have bested that new record by one step.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/deepmind-breaks-50-year-math-record-using-ai-new-record-falls-a-week-later/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ai-matrix-math-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Math for AI"
       ]
     }
   ],

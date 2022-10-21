@@ -2,17 +2,17 @@
 category: news
 title: "AI is changing scientists' understanding of language learning – and raising questions about an innate grammar"
 excerpt: "Unlike the carefully scripted dialogue found in most books and movies, the language of everyday interaction tends to be messy and incomplete, full of false star"
-publishedDateTime: 2022-10-19T17:03:00Z
-originalUrl: "https://www.thehour.com/news/article/AI-is-changing-scientists-understanding-of-17519147.php"
-webUrl: "https://www.thehour.com/news/article/AI-is-changing-scientists-understanding-of-17519147.php"
+publishedDateTime: 2022-10-19T18:03:00Z
+originalUrl: "https://www.mrt.com/news/article/AI-is-changing-scientists-understanding-of-17519147.php"
+webUrl: "https://www.mrt.com/news/article/AI-is-changing-scientists-understanding-of-17519147.php"
 type: article
 quality: 0
 heat: -1
 published: false
 
 provider:
-  name: The Hour
-  domain: thehour.com
+  name: Midland Reporter-Telegram
+  domain: mrt.com
 
 topics:
   - Machine Learning
@@ -59,6 +59,6 @@ related:
       domain: madison.com
     quality: 0
 
-secured: "JBFw0nKJiT93nhVbZKGv1rNv07YWOxzW+8qJB+xBFQLv8YzQu47CmPPbcwM1CVwn2nUOrURG7qFiyaCZgSUJWRHnlt24s+SRYd0VHymdYyX8gk8SMMXAurw4bDMsOk2Dap/0uJmSHA+gFBOhMq5/ENXn6fPB4YEJTw3NOWqgQFbZlCzjP+C7TgQh0y1kDi0sYlTEfzyUoKiT3V1HmKgn4kH4n9xEvI41/x1E7HRpZHqhhFAda8RE7anDV2h5K7aubYmcH6N1ThM+DHYUj4VB72fmHHw/Liabn81WLjonNQ20phRhtXTsrucaNZ5tY22bMNUGZVfsIi6U5huM5lOCkmX05spQNEZjBhlW/QwY1ds=;IAa2olqFqXQxdNiRY4RyqA=="
+secured: "WlKy+Hvlx/kwdC3xRTAcPUW2GColmpr08dcyzwpv/66u6U6M292nWxWaZa+Bgk5zYp2VdHZA1cMTwdWuk3xRVhOLPR+S2h+LX+iDJGQ9E3VxBhn34bji07A36wgQ74m91y4IHIypYOlr2l72Pd1u3vDh0YxbyEYTYrFDupQmCDnEpwGfmWhKNc5kD2U9/9d7Gdp6tXXPgWsZ0Io5pwbHk1WvVfTILqMAwoIIn1FqCo3o3IRDFw3k95PO+4hc4JpW/d2BXjrKL0bgCeh9FV9CMFanZ+A0euysipXNA2V3dGDv8MnrFPuRqSq8wAgO/pxuQVTicDkTZX82FAxc4SVldUWIzBhz01bqNNt42ZMddgw=;46KqbJOpDSMzDfJLZDnaZg=="
 ---
 
