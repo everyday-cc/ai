@@ -146,6 +146,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Meta develops AI translation system for a primarily spoken language"
+    excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
+    publishedDateTime: 2022-10-21T09:05:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "AI can’t translate languages"
     excerpt: "This is not an area companies should want to experiment For a while now companies have been thinking that they can off-load their translation work onto AI-based systems to save a buck – but a top boffin has warned that the software is not up to the task."
     publishedDateTime: 2022-10-17T10:51:00Z
@@ -270,6 +286,6 @@ related:
         height: 853
         isCached: true
 
-secured: "2iNSBrQIvh9o7OPv1ZmrAI8Cduolr1BM09SJHWdhdRfC08S6T7DXOfudgMl9+f1Pr6kidOtlrTZuparpfsBxZPZMYyZjev1YkJhMjaFwfa4pv/7S3k3Vuw7V8F2CZVACFuHxV8fvPJfCaJnIrEN0oH3sF3uZB/o337L6OFEP4cnHVVPMxA2msxP1P8Eopf1AVdo07m2UamFiGkIMSC/2SxUGJMWuLWjBuxQqzgs/FfwG1jwnkxn+lN5H5FCqiwFTKH26jeh1pVtp4xwttQE3nFW80WzEgEwjerWS0Z4HlXMAhDcg11vJqSuNuC4u1KI4ey48QRl1hneZNe9eYQmM5lXc2Sk23NXxF3iZdqkzpsk=;+rxkx/rfhkMb3tFmfd87ig=="
+secured: "qOjEzDsS1oEH47xTI+yGyKXEqWhdCDG8iXm0bx2Our9re/Ryap8e6/cj5tFD9YylGbG7ovNXnlmjJ8el81XIIm5NgXDvPhj55s90H7ntfdniz1nskpoq3OsNm7Ssh+OvgpqeClVAZ8CNhfV88T8sjUfi6YaQGdLhd2xYucVCwjqp1UJ+4EzSupK8dUSFhiHm8HNbxIffPEcBdlPC2PHVcADsXrNWBhV+n1a5ghoqY1aaGN54CSKsBDQL5iOVuXiOFQQt9VLGQDH3X3scWUMUis7vIfd7o4mOIXwsDq5YzqOKG2HaEqMCtSI36h0iixKAA+xiuL7txucBa46YGgoq2UvoppVAjbqTECbj2oj4i9Lcv4zy9kta+UZRQKdboljWOUtLVQHJXWdKyJNopmU7zmPX1VlBCkmBIUPRpA1bbIK5HKnE82Qz4HDqSerIidSDj17fUxGuku/Y3+v5A0TE1RmWyih8F54to1uoJmXzxglVwkPdlY8tC6BEXU+tzOkbBjUIzDYMtRSXFjSzx/L9FQ==;8Rx1YTiKYno881bbaeif7w=="
 ---
 

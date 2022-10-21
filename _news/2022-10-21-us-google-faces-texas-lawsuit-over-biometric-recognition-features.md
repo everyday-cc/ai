@@ -112,7 +112,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 44
+    quality: 46
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
         width: 2880

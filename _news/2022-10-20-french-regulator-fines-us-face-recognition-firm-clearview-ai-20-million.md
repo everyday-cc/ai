@@ -20,22 +20,6 @@ topics:
 
 related:
   - title: "France slaps fine on face recognition firm Clearview AI"
-    excerpt: "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported.."
-    publishedDateTime: 2022-10-21T02:40:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-    type: article
-    provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94999658,imgsize-68916,width-1200,height-628,overlay-ettelecom/france-slaps-fine-on-face-recognition-firm-clearview-ai.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a €20-million fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform."
     publishedDateTime: 2022-10-20T14:16:00Z
     webUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/"
@@ -48,6 +32,20 @@ related:
       - url: "https://apiwp.thelocal.com/wp-content/uploads/2022/10/000_329X8HP.jpg"
         width: 1024
         height: 682
+        isCached: true
+  - title: "France Slaps Fine on Face Recognition Firm Clearview AI"
+    excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reportedly around 20 billion pictures -- to clients including law enforcement agencies."
+    publishedDateTime: 2022-10-21T09:16:00Z
+    webUrl: "https://www.securityweek.com/france-slaps-fine-face-recognition-firm-clearview-ai"
+    type: article
+    provider:
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 54
+    images:
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
 
 secured: "WtVBh55bI1kVo2snT4vxB8xhmUuMWKwKtbn4rtZFPO8KZ/BgMWYMmpHGVFSsCpmsKuMw2qkGKdnC84CYH6G6wVc5xVAPtU3AkILPWl6YfNXYt/B0wSvDDH1aBP8hIPPxszAo1g10x7O5crhtxVKS8ZNNj2XsGcJLeUeNhSET+kX2iMOAM9/tGxJj3wLKBueFUA3gELgfTGAikqGA9hfeEhRmBIujrxTZyR7V6bpIhpbepRHO3AHJGxggCj+oIWV6NKDHZf8vAjuoZD/5ptrEcmlRL/GxeqhkzUUrpCMkOAjCjXGPWcWLJ2aou8qry67j2HIk8z7a2ker7YxZD0HWwAOoxMJzTHYuSrdYWmWMRwk=;PvTQvUq+7BrLg5hbujmVbA=="

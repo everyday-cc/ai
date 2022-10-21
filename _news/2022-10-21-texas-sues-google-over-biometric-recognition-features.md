@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-10-texas-sues-google-biometric-recogni
 ampWebUrl: "https://techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.amp"
 type: article
-quality: 44
+quality: 46
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
@@ -169,6 +170,6 @@ related:
         height: 800
         isCached: true
 
-secured: "XfP8wO5u19dIe+ynwR+V139HcZcZv14fc6LK4pkW84wvOFddBGbXv18NbTWGbps+WuoLtSUs5O1T/SZBNzB3zEGTJoz4tESYm0U2AMhdLOyEz2LMTf2IEy+hbepFGamSvykjLvB1qPX8hkgVo/oM3PI4qCqv1NYYI/DUcqxsG3Ei37h5s5g7MWnG0PEo1DGA6RRjIZWWeuxXcEzPw+UlBPQoKkINlBKZSpB4rAP3Pbd7DBJ2R7NNXKbGmEu31ktu9kLXlDiY2LfDvum49t6b/VsISR8MUMBguo26nnmqTJ+bcd0xfMOU2FSKvBH59ZtfIuczkE3dO9fhMsbrv3i7xQaeihv86lANuLPmZcmcfO0=;ZFSslYk7C9ky0SCryi29Zw=="
+secured: "Lsx+hnYEFLi4+WbhCRkMuEyV/3/SA/XLHXnc20/3Cbmo+5EvMyy9anxYWG/BJVtbxhljKGY2qB4RGlV6q5tYUCAf+8rCEQKrjzYEICpoqkAIr//oSBV44spwc0oibOh13OW+gpTQwT71crdMqIEOvKssCY83cIvYP19JefwPibzmYrYME123KYIX9i8QCoXrzpYJ0Q2NlajtIe7IVdaN7js5BWwL9/ljCfIpdtJ+6Po5DoEvbiGRRdgbeHu3KJs0DomTvSt1SPZ+lvlr/iyN/+KYdU2lw7EhWqXKpihJPkoOazn5kqsh54MnfU7P+CMooY/mHDYarrJ/XW/xAg52pcsp9TQum2qbbjR5IUK/KCimwm/BTGrBxNQGSV5/dnch7oh1XX8lN1/Lzc0EJbEGlsdjZXNJJpqZCyxA8o8dhc95E5cJ5+FvVKFPfU4w0koDbQRCnyxG6ma9Kx8Srzk97rKmSZiN8Wj76JIkiCqHsDxlQWQSxQysF6ces7VGSnFa7koATWhUcfzU46mBaBWZug==;hHfVPKctkoFrdWmw+OFiQA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 129
 published: true
 
 provider:

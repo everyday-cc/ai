@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 259
+heat: 269
 published: true
 
 provider:
@@ -135,6 +135,22 @@ related:
       - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
         width: 1069
         height: 580
+        isCached: true
+  - title: "Meta develops AI translation system for a primarily spoken language"
+    excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
+    publishedDateTime: 2022-10-21T09:05:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
+        width: 1200
+        height: 667
         isCached: true
   - title: "AI can’t translate languages"
     excerpt: "This is not an area companies should want to experiment For a while now companies have been thinking that they can off-load their translation work onto AI-based systems to save a buck – but a top boffin has warned that the software is not up to the task."

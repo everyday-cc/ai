@@ -7,8 +7,8 @@ originalUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recogni
 webUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: The Local
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "France slaps fine on face recognition firm Clearview AI"
-    excerpt: "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported.."
-    publishedDateTime: 2022-10-21T02:40:00Z
-    webUrl: "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
+  - title: "France Slaps Fine on Face Recognition Firm Clearview AI"
+    excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reportedly around 20 billion pictures -- to clients including law enforcement agencies."
+    publishedDateTime: 2022-10-21T09:16:00Z
+    webUrl: "https://www.securityweek.com/france-slaps-fine-face-recognition-firm-clearview-ai"
     type: article
     provider:
-      name: telecom.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 74
+      name: SecurityWeek
+      domain: securityweek.com
+    quality: 54
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-94999658,imgsize-68916,width-1200,height-628,overlay-ettelecom/france-slaps-fine-on-face-recognition-firm-clearview-ai.jpg"
-        width: 1200
-        height: 628
+      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+        width: 256
+        height: 256
         isCached: true
   - title: "French regulator fines US face recognition firm Clearview AI €20 million"
     excerpt: "France's privacy watchdog slapped a €20 million fine on US firm Clearview AI on Thursday, October 20, for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The firm collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database – reportedly around 20 billion pictures – to clients including law enforcement agencies."

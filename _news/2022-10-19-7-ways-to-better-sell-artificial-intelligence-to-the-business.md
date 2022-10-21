@@ -47,6 +47,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Meta AI announces first AI-powered speech translation system for an unwritten language"
+    excerpt: "Meta AI pioneers speech-to-speech translation for languages that are spoken but not typically written, for real life and the metaverse."
+    publishedDateTime: 2022-10-19T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
+        width: 1156
+        height: 601
+        isCached: true
   - title: "How artificial intelligence will transform the Middle East"
     excerpt: "A more comprehensive and evolving regulatory framework will be critical as AI will reportedly become the UAE’s top sector over the next decade"
     publishedDateTime: 2022-10-17T16:03:00Z
@@ -63,15 +77,20 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta's AI translator can translate unwritten languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+  - title: "Meta's AI Translator Can Translate Unwritten Languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
+    publishedDateTime: 2022-10-20T11:59:00Z
+    webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 34
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
+        width: 400
+        height: 267
+        isCached: true
 
 secured: "DhsDeGh+BNe7TwgGy3OMmO4algVMxocRoTT42REvCbZRYmzmCQHKuVYvW8pNg8eIKa237wvJb6tU2nC0W371kRVVwW+BJ/0u8iceYAvudmr61oldcCrm30P3XOtvo/rOWgop9YnctXRzzrCgVt0qg/kXgwwxsT6oytw5r4BDTV0YcbxALTnlwWLQk2m7EGA+In6ZVaudAc1vUajoTgKXyTb5N4ptlNRaki1gDkU+riFrAICSM+eaj3kYGMH5Ax66UEF23jXcgJEHknVXOv5w2DGWfydHiLiFBjHaTyObGsNTlBrQeez6h9W8DHDck06NZPHe4VGEd3Gi/SDMWHwP2NYANgiegOVNhjUieCQOUo30I5ZrHxtBw3mplhzkd+4hdY40j/3/gvY7MBkuvoZOfpouse0XpGeA5iJnQuor1f53ncsG89oeAS0MsJRj6kqLZe1ZNnDV8Aek89+zzaKBC68W/2bVAW8Tnpup1XVe7RNXZG/W5Ny8qc6U699K8VzBjSoGR72UnloJ/bgIngHR1Q==;CkxYm4mAS0MUiuuX/01hBg=="
 ---

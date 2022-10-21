@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Meta's AI translator can translate unwritten languages"
-excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-publishedDateTime: 2022-10-20T09:30:00Z
-originalUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
-webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+title: "Meta's AI Translator Can Translate Unwritten Languages"
+excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
+publishedDateTime: 2022-10-20T11:59:00Z
+originalUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Pioneer
-  domain: dailypioneer.com
+  name: Mena FN
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
+
+images:
+  - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
+    width: 400
+    height: 267
+    isCached: true
 
 related:
   - title: "Three Ways AI Transforms Security"
@@ -51,6 +57,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta AI announces first AI-powered speech translation system for an unwritten language"
+    excerpt: "Meta AI pioneers speech-to-speech translation for languages that are spoken but not typically written, for real life and the metaverse."
+    publishedDateTime: 2022-10-19T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
+        width: 1156
+        height: 601
+        isCached: true
   - title: "How artificial intelligence will transform the Middle East"
     excerpt: "A more comprehensive and evolving regulatory framework will be critical as AI will reportedly become the UAE’s top sector over the next decade"
     publishedDateTime: 2022-10-17T16:03:00Z
@@ -68,6 +88,6 @@ related:
         height: 675
         isCached: true
 
-secured: "bRxI7bpF7l97lrZ72pGIw/vfLp1P9sU/l/9XiWWBelU3KBQI1uM1JjA3EWi6sQA90Id3+8rwYApd0W/gKUoLL4r0w+TGPXBfzaM/nfkURuAOk6cdcdFNpZyMMgbt9EGJQ+3wrGxoLBndJC5PXzKPNYQ0uJRYEAeYKMgAJBHBW9N2vTmik8do0bwxNX5yFqboN6l7/OqAwxwiBcQ6oKTTCLlEX9mOeDH9Zs2HjUP00rrGjeWyQ+XiDn9qh0pKDgq1b4vzN/nQ7Z68LJcHUOkIs8e86mfL3HGMHJPB07PPiXSzaVeZlxxEO0VDVo8RAlxKkCJKkVjetcgi+mPqlq6nsVOPzoBo1dWmgl0J+M5NcTDP/imzFb41uojklOw1YKJAwGZ/Q+cd9MkkhzioM807srhsfbBIPgFu6UX7WmykHUC8cFw843hb4337rlLAzhNlNtBzk3a1+5KXDEwLfIuhr5A46vqXGse755LcfJLzzP0LAbrtJ3mGJ5xBzXX1+9NYQ+cbEJi7PV7dbJugAi7+Vg==;tbWGcgZpq/zGpd49jTk7PA=="
+secured: "jOVkPpsYkEE7WjBXSzjCTqIrlcVMi++fquf4YEvWv0ePF8AMqENS1iNpN7l3IKHMezxBk2Dyl+mZ/wsjCYSGSWI82dJi7VXE1M34Vgp89gVAAmcGveSnuVD8kA4PIS5CSU0/2ZbDesCg1KEUGl5NcSZzV2/QFFS0pODCay5dnoQHiEERrwJB7iQ3GHqPso/ySe2ebN0bcSnTWdgQKeKVtMtcgyR7V+apAsOS4rBC/IqFH4cAFs/OgBd5KPs4BR5JCqHQxUFTs9J6Nfeuh5HTdeZ0A0TuWq/c/kjISB8Lbew5ufXYgRgy+cw8xqBDhqVPgnrS6B3NSDimxhaeS9hiuzk9YGcuLzwqHR7TgXrUJDM=;ib5GtceOkNlNqQ3TPrVodA=="
 ---
 

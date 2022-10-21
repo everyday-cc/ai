@@ -1,29 +1,27 @@
 ---
 category: news
-title: "France slaps fine on face recognition firm Clearview AI"
-excerpt: "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported.."
-publishedDateTime: 2022-10-21T02:40:00Z
-originalUrl: "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-webUrl: "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
-cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
+title: "France Slaps Fine on Face Recognition Firm Clearview AI"
+excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reportedly around 20 billion pictures -- to clients including law enforcement agencies."
+publishedDateTime: 2022-10-21T09:16:00Z
+originalUrl: "https://www.securityweek.com/france-slaps-fine-face-recognition-firm-clearview-ai"
+webUrl: "https://www.securityweek.com/france-slaps-fine-face-recognition-firm-clearview-ai"
 type: article
-quality: 74
-heat: 94
-published: true
+quality: 54
+heat: -1
+published: false
 
 provider:
-  name: telecom.economictimes.indiatimes
-  domain: indiatimes.com
+  name: SecurityWeek
+  domain: securityweek.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-94999658,imgsize-68916,width-1200,height-628,overlay-ettelecom/france-slaps-fine-on-face-recognition-firm-clearview-ai.jpg"
-    width: 1200
-    height: 628
+  - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
+    width: 256
+    height: 256
     isCached: true
 
 related:
@@ -51,6 +49,6 @@ related:
       domain: lemonde.fr
     quality: 33
 
-secured: "vBMU4QPXj2ZhYGOf5L9/dUaygnsltC809nWHJxULeSLS6q9le209QQPn8+ueFsKYBynPKXKjKaOLU1eUIamm8ZnMMMRaYKy0OHA+fHPVg6PqL8Dt+Sudykhm6K4OIWUeEh+c+WdL+ieDGj6QEjiRJEFrFbfZJmnkXa5tKRBajydO4QluH08teljH2GXOlbO8aijmEPWQ7G7jIBr2hZRrueJqlU5l50XYlnnpyaJj2e7zNRCqU1TVR5MTVa94I952+AfeaV/jDKU8AmBm5oFOFWpYsFXlcU6SH6yI0XdvkS8Mbvea+bFzv6nBqwdThlDWkvhDwJPRRrcUU/4/k7LoAp2+kSknMtIhiWHhiMrkysogTgyDOOihnp1AvQJ0uBuLx/1Lvasp0W+rW0nTHLznHmDWFh6DK94G0pJ6XqjZDY/YlBEoHm5jDHvIidfBI0T0N4MvCWVCyst6Q0lN+B6Pj5dhdOXC25OA8pfy07ITTBD7OM/1QxxZ0LXsPeNWt0YPAuUs1rdMi+SMZlEYPIwsMw==;I/HtwuhAPFILHp1AHcEVeQ=="
+secured: "j2SMW/vttnPg6UAdAPbTSf1+d322rQ34MuAqWxedWbwpsL1lR4mdMWGF96UsNTfAx520lbyoNYiq4VqiCsX/iApVl1TCby503xqBNrXL/gJe/nhf4LBF7Ps0+j1+ZRNRGlhmMTrdmILMsmjLnBq1ECB5UQcKIu9VfC9M5Wdid6qcu/GdlUoJE6UqaDteb+44szckCR33u/v9ojNix9DP7Ku+rk/dPBQ5v964ofo5C56Kyrq+bC7YXNsOAf5foJNpiuAtpwU5Ug89OUOThTjxJnLDvPHEqyAFtTeu7hN21U6/zRJH0ENIXW3SIkj87p/zKAuDG413U9lkOcAYCR8OEK8qR+3ewWZgSUt/EBZm7Ew=;eg++2a5olwULJpxPUhg5LA=="
 ---
 

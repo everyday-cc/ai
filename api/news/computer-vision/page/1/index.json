@@ -2,49 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-21-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
-      "title": "France slaps fine on face recognition firm Clearview AI",
-      "excerpt": "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported..",
-      "sourceUrl": null,
-      "webUrl": "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658",
-      "originalUrl": "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-94999658,imgsize-68916,width-1200,height-628,overlay-ettelecom/france-slaps-fine-on-face-recognition-firm-clearview-ai.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658",
-      "cdnAmpWebUrl": "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658",
-      "publishedDateTime": "2022-10-20T19:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telecom.economictimes.indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-20-create-synthetic-data-for-computer-vision-pipelines-on-aws.md",
       "title": "Create synthetic data for computer vision pipelines on AWS",
       "excerpt": "Collecting and annotating image data is one of the most resource-intensive tasks on any computer vision project. It can take months at a time to fully collect, analyze, and experiment with image streams at the level you need in order to compete in the current marketplace. Even after you’ve successfully",
@@ -95,6 +52,49 @@
         "AI",
         "AWS AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
+      "title": "France slaps fine on face recognition firm Clearview AI",
+      "excerpt": "France on Thursday slapped a €20-million fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/",
+      "originalUrl": "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apiwp.thelocal.com/wp-content/uploads/2022/10/000_329X8HP.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T07:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Local",
+        "domain": "thelocal.fr",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {

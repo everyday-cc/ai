@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
-excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
-publishedDateTime: 2022-10-21T02:39:00Z
-originalUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
-webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
+title: "Meta develops AI translation system for a primarily spoken language"
+excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
+publishedDateTime: 2022-10-21T09:05:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
 type: article
-quality: 37
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Marketing Interactive
-  domain: marketing-interactive.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
-    width: 800
-    height: 450
+  - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
+    width: 1200
+    height: 667
     isCached: true
 
 related:
@@ -146,22 +148,6 @@ related:
         width: 1069
         height: 580
         isCached: true
-  - title: "Meta develops AI translation system for a primarily spoken language"
-    excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
-    publishedDateTime: 2022-10-21T09:05:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "AI can’t translate languages"
     excerpt: "This is not an area companies should want to experiment For a while now companies have been thinking that they can off-load their translation work onto AI-based systems to save a buck – but a top boffin has warned that the software is not up to the task."
     publishedDateTime: 2022-10-17T10:51:00Z
@@ -257,6 +243,20 @@ related:
         width: 1201
         height: 630
         isCached: true
+  - title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
+    excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
+    publishedDateTime: 2022-10-21T02:39:00Z
+    webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 37
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z
@@ -286,6 +286,6 @@ related:
         height: 869
         isCached: true
 
-secured: "KnWiccc249JsMss5/3GPzwn/sg1Wpq3tzTQVW2OI/NPWt1ZVAOF1WOsqxAjPh7c0VT587t9pXJwWuXycLd9xfxvB5sFHGQJagml1HEMqrqMKyyPCzaO1hgOkrvY4KVSNmyTFP22+tzCCLR7GVH56woF95Ccb0rj8JeCBfYKbnEdWOr4ls43ut5obc4dREgi2Ibg77paodXLHhPdzVFAnesPQEQw7woLunSjX5rdXX96yLCG+auIugIW1HZAaPxzeodqzMCCOuM8SdIu+ZP2ew/8J/+BLPac+MWbiroyuhvwLg+K6XXzjR0uF9AaMo5CNwZRG5K7vuYXLcpKmOiAz8GLBVTJ0eabsJbEZIb4oaX0=;Hq0QUmAl166mVa3OGj2UUg=="
+secured: "9KlTBMpNG/qDgzhN2GfcUQFM4YuM3i1yl+nfXWT4DJgZ0z4XtZOaG1kH5BtZSASNHOUnmgdz8KGPRUXiBaaWzNw4Gtx79t0jFykfdB1K3azV1SRrZ0PpL9w23LuuhHWfS9CofnPWjjh4yZfWu9g9Xz2vP50wQEtwdWplnLYrUK9PS1YOp0MRhjAwq5dwN50YnkhsnPPWn9E7298VustSM2RILErDKiL6QVkfSDsPT3TscgnpXO0u0GWhuTkfDqLjTFVT+0aWsl6sj2XEYyehMT1Wk5EGhUXi8scpNUYKOSRhtcMr5Ts+W71TZRGtToaWDo4V5iHChXGSKrhzk5mYzlZWciHSSLktU8P/+jfDR7k=;PT+0bruDB5Ox1Yc8CLpIEQ=="
 ---
 
