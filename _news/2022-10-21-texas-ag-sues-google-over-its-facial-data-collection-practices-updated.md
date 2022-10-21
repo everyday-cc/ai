@@ -158,6 +158,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
+    excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
+    publishedDateTime: 2022-10-21T14:16:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 30
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/07/26/alphabet_results_53861_c0-83-4602-2767_s1200x700.jpg?0bd0a03674786f7871575d8d2bb34e26c153d45b"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Texas AG sues Google over collection of facial and vocal recognition data"
     excerpt: "Texas Attorney General Ken Paxton Thursday sued Google for allegedly collecting biometric data on millions of Texans without their informed consent. Paxton cited Texas' Capture or Use of Biometric"
     publishedDateTime: 2022-10-20T19:45:00Z
@@ -172,6 +188,15 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Texas sues Google over ‘indiscriminate’ collection of facial recognition data"
+    excerpt: "The search engine has also recently received a $160m (£140m) fine from India's anti-trust watchdog for abusing its position in the local smartphone market."
+    publishedDateTime: 2022-10-21T12:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/10/texas-sues-google-over-indiscriminate-collection-of-facial-recognition-data/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 18
 
 secured: "MCY/APgXF+B9v7x6wnwZVhM2l+ogwxhOM1SzkiPKjigf3MlUp7B4lwKNLrGQGoaeO4TszJahoGd/014WxyNqB2gw0+Yz8eYoveC1PZBVFbIFkdnIW64hURZAU/GSkiC6lzpKmRwZe2w6uSEeWeAWmz4IVC7S0S0Q5ObGnjaqbqG1ZmcN9br1Hf88x/199gUfzfjC+BK4Wlikr29193xRvrE8oWKSHdT6Ypa56eWrhwSp0IxAUyjke0ZO3IoyhhfhlZWRdNeFTjNjkxCCge3vEjm06mkUkyAJ/pWispRVf40F9DzAykXRimCD3owHt+MriNM4RZn7sfye6mJgphSb6jr1JDViPUlHxYi0CFqgdzY=;MxQx0eoSszWnBEHLKJnflA=="
 ---

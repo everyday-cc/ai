@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/21/simple-science-why-the-retail-industry-needs-to-update-its-interpretation-of-ai-complexity/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/21/simple-science-why-the-retail-industry-needs-to-update-its-interpretation-of-ai-complexity/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: Forbes

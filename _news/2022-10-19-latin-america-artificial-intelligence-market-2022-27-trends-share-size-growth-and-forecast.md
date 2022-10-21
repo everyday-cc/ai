@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latin-america-artificial
 webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
 type: article
 quality: 57
-heat: 97
+heat: 117
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
+    excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-110-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -75,6 +89,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market Report 2022 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2029"
+    excerpt: "The \" Clinical Natural Language Processing Market \" Research report covers major key players with geographical segmentation, revenue, market size, share and growth of Clinical Natural Language Processing industry in upcoming years."
+    publishedDateTime: 2022-10-20T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-report-2022-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
 
 secured: "eVwa1fbPTvu5JoEpKbttPxC2WMacNUmZMN7wd1eyT4U3CrzW6nQvn726TjdWZukq0BHunGVjEvKNsJS16LcAf4RZgNItz+F+0hdgGiweXctmrLjzBBaNT1BiXFw6JmMx/H2WmLyaqtCUtm2bkvKaeyrPInZ+oetcZg+qc/wyRdK3ppEndre2wU0YgpQG1G+m6AYJZm/q4eBb6LYvuSdynRneOOiMtctZtjPuYIpXN6AdqZsyataWnCWZLot/zV4TyUjkcwBcy5Cmz5cf2ojm5MfEQlER1bmj4AyQUofKP6OUeXAiJgOyrreZc/OVxQ+Th4QsqyhUV5//5nz2ZIRMtWGJlckJ7VxBr0KtrqyEkhs=;eJ78HAlkT+RI13Y/eMgavQ=="
 ---

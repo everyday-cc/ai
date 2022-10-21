@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Forbes

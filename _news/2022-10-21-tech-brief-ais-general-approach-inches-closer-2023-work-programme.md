@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:20:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ais-general-approach-inches-closer-2023-work-programme/"
 webUrl: "https://www.euractiv.com/section/digital/news/tech-brief-ais-general-approach-inches-closer-2023-work-programme/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: EURACTIV

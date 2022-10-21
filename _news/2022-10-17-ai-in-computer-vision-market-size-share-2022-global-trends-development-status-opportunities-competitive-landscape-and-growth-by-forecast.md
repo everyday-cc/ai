@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
+    excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-110-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
     excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
     publishedDateTime: 2022-10-17T05:25:00Z
@@ -74,6 +88,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Clinical Natural Language Processing Market Report 2022 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2029"
+    excerpt: "The \" Clinical Natural Language Processing Market \" Research report covers major key players with geographical segmentation, revenue, market size, share and growth of Clinical Natural Language Processing industry in upcoming years."
+    publishedDateTime: 2022-10-20T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-report-2022-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
 
 secured: "2Vci0ia4YCbdv/sW29g39fNiz95uZIAE7My2WSlinDdNz7gE2vmNISJUX8fwBq5IBNp+nbcS8M7jEFICSAKY//6CfxYDSgs3E2jPt9LseTv/VvtdMX2NBr6ShTJQFRpsOCnLEOuQEv4V2x3fCtlx+jIiFCORu7iSfHFKj1/aStuX6KgS5YEX69wdTOBQ3xvvEY9p7pE/fjl7KyczjSQezPrd8E5CYKzN/ioJvMMYGKTDpIQpg0A0YdnM9ivtCa9xOL753PNq3Cfs2cCg9D6UF0oB8m8Q6wpjjpCtcnLtLt0JmDzOjUOVAplr2BCEseB532W0P3DuQFyVk/JY5n1n8ji4XW5dITR6BzfhStQt6vM=;XSS193pzDRhNvd85KTcDWQ=="
 ---

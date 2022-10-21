@@ -55,6 +55,20 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year, Musk says"
+    excerpt: "A logo of Tesla Motors on an electric car model is seen outside a showroom in New York June 28, 2010. REUTERS/Shannon Stapleton/File Photo"
+    publishedDateTime: 2022-10-20T17:58:00Z
+    webUrl: "https://www.reuters.com/news/picture/tesla-cars-will-not-be-approved-as-fully-idUSKBN2RF078"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20221020&t=2&i=1611977621&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI9J02M"
+        width: 810
+        height: 510
+        isCached: true
   - title: "Wait for Tesla self-driving cars gets longer, safety prime concern"
     excerpt: "A world where cars drive entirely on their own is almost upon us but pending regulatory approvals stand in the way of companies working towards this end. Tesla has been spearheading the technological advancements and while the US electric vehicle (EV) maker does offer a software package called ‘Full Self-Driving’ or FSD,"
     publishedDateTime: 2022-10-20T04:44:00Z
@@ -145,6 +159,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk: Teslas won't be approved as fully self driving this year"
+    excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
+    publishedDateTime: 2022-10-21T12:36:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/tesla-wont-be-approved-full-self-driving-year"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "s3Vv1vrtimQfMF+XBOWyhzuOFdYsqzhF159xEa2kZZRzFLeNuis3gVL0yEt1NAmp7gsOLqqr7nWC8oGGrs9p/RSWegsTt1QN3DBERMXfIIpD/ehbXGBtxOtmLSaO+wwmbMLMJV1TjWl+X5WOVOme6ykFs7rrgQYklOdtcEpIZGuCj7zeSDrJNvtQuS9j4Rw32k2+iPHvZfU9NW9EtcX6T6PY3o2dLVk7XoEbHBxf63uCvhAb8NIbmgL8tUYgHm0jieRFDiN+m0LAgeCYgSQWwN3UFMaNzQD1B/JdKWEYn+i/7tQ866Ow26USJem079t3r4aPg1tZr6CBKWI/ZQ/YGCqqShqxNODylPudjUqx4z8=;mA0eVKscf4ye8xOf5YGR/A=="
 ---

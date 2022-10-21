@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The analysis begins by scrutinizing the Artificial Intelligence (AI) in Fintech market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
     excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
     publishedDateTime: 2022-10-17T17:00:00Z

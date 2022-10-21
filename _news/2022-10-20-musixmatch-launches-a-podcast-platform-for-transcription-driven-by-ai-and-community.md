@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T15:41:00Z
 originalUrl: "https://techcrunch.com/2022/10/20/musixmatch-launches-a-podcast-platform-for-transcription-driven-by-ai-and-community/"
 webUrl: "https://techcrunch.com/2022/10/20/musixmatch-launches-a-podcast-platform-for-transcription-driven-by-ai-and-community/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: TechCrunch

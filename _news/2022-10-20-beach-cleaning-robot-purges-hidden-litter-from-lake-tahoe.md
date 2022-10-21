@@ -53,6 +53,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "Beach-cleaning robot’s 1st summer at Tahoe shows promise"
+    excerpt: "Amidst the coolers, umbrellas and towels, there was an unfamiliar sight on Lake Tahoe’s beaches this summer – a blue, picnic table-sized machine outfitted with tank treads and solar panels, quietly"
+    publishedDateTime: 2022-10-21T14:28:00Z
+    webUrl: "https://www.theunion.com/news/beach-cleaning-robots-1st-summer-at-tahoe-shows-promise/"
+    type: article
+    provider:
+      name: The Union
+      domain: theunion.com
+    quality: 39
+    images:
+      - url: "https://imengine.public.prod.sci.navigacloud.com/?uuid=d66b3598-3ccc-53a8-a17a-4afa7653e489&type=preview&function=cover&width=1024&q=80"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Beach cleaning robot BEBOT has successful inaugural summer at Lake Tahoe"
     excerpt: "AKE TAHOE, Calif./Nev. - BEBOT, the all-electric, remote-controlled beach-cleaning robot, found itself at home on Lake Tahoe beaches this summer. After its first trip along the sand at Kiva in June, BEBOT cleaned ten other beaches to test its effectiveness."
     publishedDateTime: 2022-10-19T18:34:00Z

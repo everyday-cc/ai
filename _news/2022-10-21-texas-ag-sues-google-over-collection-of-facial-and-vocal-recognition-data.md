@@ -169,6 +169,31 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
+    excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
+    publishedDateTime: 2022-10-21T14:16:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 30
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/07/26/alphabet_results_53861_c0-83-4602-2767_s1200x700.jpg?0bd0a03674786f7871575d8d2bb34e26c153d45b"
+        width: 1200
+        height: 700
+        isCached: true
+  - title: "Texas sues Google over ‘indiscriminate’ collection of facial recognition data"
+    excerpt: "The search engine has also recently received a $160m (£140m) fine from India's anti-trust watchdog for abusing its position in the local smartphone market."
+    publishedDateTime: 2022-10-21T12:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/10/texas-sues-google-over-indiscriminate-collection-of-facial-recognition-data/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 18
 
 secured: "iPUWwA406SlKx7K9Ebu21xTjkxB7XCVrHypTOHdxYfgLJWtiL3VrHgJU2rAjQCXkwoGSlkC9jxJKak9WZw4nxZzFOcxUXbx21fUzF1ZEf81y8ShiVta8r7pK1nAhXq4tVtIKykOfRZxnWlNwSMLZRWCSRvlEiZgFaeu/YeQRgyGLCs3m7UqrkM4TKZkcumQJSGqV6AJPm877YJ4jdZFEBKNtGa0VAxVbFruekk9jAZkLqNDkiIpn2NRL6TPRzx8FiX7pMAizDNxMcgs8Kta1gyr+uUdvFlN/O3NTZqOSk53zsZnrPIdQZFsr+tbImoYvxP28H8421+fPJVo/PgTRKrsjheXsg88UKZPJI30aRDOkGuzfpxs3pr5OBbQ9S6usKamHDTt2I59631kZJ/PLDIsW+hmIhDSgefuj/vMHN9IupoOVny/ZlEPku8zpyPsezh6mp797PVAoVrOjFR4gJy+jzdsC8qNhabzzqycaWfnxsNJMSv9hqBtkKVBOIj1cuaC8rybMRzuZCTnuF8HklQ==;EsCM645uv0ON7bSiX0bZIg=="
 ---

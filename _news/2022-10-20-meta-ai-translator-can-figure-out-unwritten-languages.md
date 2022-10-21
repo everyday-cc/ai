@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 279
+heat: 289
 published: true
 
 provider:
@@ -277,6 +277,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How AI could help translate extreme weather alerts"
+    excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
+    publishedDateTime: 2022-10-21T12:30:00Z
+    webUrl: "https://www.axios.com/2022/10/21/ai-translation-extreme-weather-alerts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z

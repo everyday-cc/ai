@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
-    excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
-    publishedDateTime: 2022-10-16T20:36:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 88
-    images:
-      - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft’s new AI art generator will spark your imagination"
     excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
     publishedDateTime: 2022-10-20T17:44:00Z
@@ -54,6 +40,22 @@ related:
       - url: "https://www.pcworld.com/wp-content/uploads/2022/10/Microsoft-Image-Creator-dog-1.jpg?quality=50&strip=all&w=1024"
         width: 1024
         height: 684
+        isCached: true
+  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
+    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
+    publishedDateTime: 2022-10-17T17:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
+    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
+        width: 796
+        height: 438
         isCached: true
   - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
     excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
@@ -80,6 +82,59 @@ related:
         width: 610
         height: 354
         isCached: true
+  - title: "Meet Magneto: Microsoft’s Foundation Transformer for General-Purpose Modelling Across Tasks and Modalities"
+    excerpt: "The machine learning community has seen a trend in recent years, with researchers working to converge their model architectures across language, vision, speech, and multimodal classes. While transformer architectures have become the de facto standard for building such highly desirable general-purpose foundation models,"
+    publishedDateTime: 2022-10-18T21:17:00Z
+    webUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/"
+    ampWebUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 43
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+  - title: "Microsoft taps NZ firm to improve Māori translation"
+    excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
+    publishedDateTime: 2022-10-20T01:11:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
+        width: 999
+        height: 562
+        isCached: true
+  - title: "As Microsoft’s $68.7bn Activision buyout awaits approval, games giant files patent for AI music tech"
+    excerpt: "Microsoft issued jaw-dropping news that it was buying Activision Blizzard in an all-cash transaction valued at $68.7 billion. Activision – one of world'"
+    publishedDateTime: 2022-10-18T19:27:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/as-microsofts-68-7bn-activision-buyout-awaits-approval-games-giant-files-patent-for-ai-music-tech/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 39
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/10/Screenshot-2022-10-18-at-17.27.58.jpg"
+        width: 2550
+        height: 1414
+        isCached: true
+  - title: "Microsoft mum on Boston-area impact of reported layoffs"
+    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
+    publishedDateTime: 2022-10-18T17:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "LgGvvu7HaruFapddJMsqLAceiEF6nZkuCMp3Bu+erG1zL50abLSgoVEILZP+tYz4ioDkZvVV12GIDxT8B5bgPY61q8RpbkvKQ/PWUSZexnX3YIUfX1gSWq0F3Jishq+g1KFquFVrFTDMy1OnF4jutqP8bYA35LTwNUIWw8Z4ZOEQvv3+jiTThnAMzdeUpSQ8A5HwSRiElGs+fADOcNqdk+aLFhQV8h6hfmbGXmHczK8tafAzbA9n/gy9sEbqVGLfpSpqiLdqEhlDE3nW4RHqY4ZIdmL6BNM3vp1FO/1BFunWdZ9eFnrNpfKXo+mInyrp2cfh49lRN3/LUdJ3QlLYj3h5QKclbGIpVAk5Jj5lXnAOAiK1TA2afa9LW6JRPJOJc+AWxJXtE0SwshppX9jwfMUeS7P/ueHPhIsD49ywu2EXkCnKv/6sJ0kzQS46+Y9BiBTDUBgSmjGZSZM9UAoN7EHs4hK8JEyIEwzww1pzv8fSdYaAenBSFFkyemUwTUWVv+o7RQhwgOYOq6wxWv3xfA==;IsURHbyEqzWZ/qyJvbj88w=="
 ---

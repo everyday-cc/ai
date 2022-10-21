@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:51:00Z
 originalUrl: "https://hothardware.com/news/ibm-32-core-ai-accelerator-23b-transistors-installs-like-gpu"
 webUrl: "https://hothardware.com/news/ibm-32-core-ai-accelerator-23b-transistors-installs-like-gpu"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: HotHardware

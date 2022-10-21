@@ -57,6 +57,20 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year, Musk says"
+    excerpt: "A logo of Tesla Motors on an electric car model is seen outside a showroom in New York June 28, 2010. REUTERS/Shannon Stapleton/File Photo"
+    publishedDateTime: 2022-10-20T17:58:00Z
+    webUrl: "https://www.reuters.com/news/picture/tesla-cars-will-not-be-approved-as-fully-idUSKBN2RF078"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20221020&t=2&i=1611977621&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI9J02M"
+        width: 810
+        height: 510
+        isCached: true
   - title: "Tesla cars will not be approved as fully self driving this year, Elon Musk says"
     excerpt: "The Silicon Valley automaker sells a $15,000 software add-on called \"Full Self-Driving\" (FSD) which enables its vehicles to change lanes and park autonomously. That complements its standard \"Autopilot\" feature,"
     publishedDateTime: 2022-10-21T01:53:00Z
@@ -145,6 +159,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elon Musk: Teslas won't be approved as fully self driving this year"
+    excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
+    publishedDateTime: 2022-10-21T12:36:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/tesla-wont-be-approved-full-self-driving-year"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "kYrM9eFOG66+ydl620S7cYs/8V2MHSegdWQKUHT8OJfBN9eqVRLqEJ42+pAzAduBlTHRnLI8nzBM2LBrJd0Rm+NL08Y8hUdLN1LeIWql4uqLgwI3hJbI0zv4GyolOHth8/w00pux3r3yqy/F6ZZ4x0ntt8j7eWEm6JrCMfwcFP6ADazhIRz/pIMWLOPUruLXkDPRKegF2PoULh6hfYDFRGclmBP5VFF/CMpQu4jaCvBD2Bvt4i9tyPi1Y2r+Xptu8pBlp9vxx3iJYMvqConHWMEyJLTwGWmxMEz6WsUkhJZEOUJU8tCqH7Gg8nv/MoMCi9me5NJjgNoGWwR/y4SCC8jAmRPvB9EIuS/Eh8rVmig=;o5Vas5KluwcN80YZxkQFyQ=="
 ---

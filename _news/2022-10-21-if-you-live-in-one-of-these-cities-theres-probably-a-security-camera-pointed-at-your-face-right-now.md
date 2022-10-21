@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:00:00Z
 originalUrl: "https://gizmodo.com/cities-security-camera-always-watching-nyc-atl-la-dc-sf-1849680118"
 webUrl: "https://gizmodo.com/cities-security-camera-always-watching-nyc-atl-la-dc-sf-1849680118"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Gizmodo

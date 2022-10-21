@@ -21,20 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022"
-    excerpt: "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,"
-    publishedDateTime: 2022-10-16T20:36:00Z
-    webUrl: "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 88
-    images:
-      - url: "https://i.nextmedia.com.au/News/satya-nadella_web.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Microsoft’s new AI art generator will spark your imagination"
     excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
     publishedDateTime: 2022-10-20T17:44:00Z
@@ -65,6 +51,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
+    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
+    publishedDateTime: 2022-10-17T17:02:00Z
+    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
+    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
+    type: article
+    provider:
+      name: IT World Canada
+      domain: itworldcanada.com
+    quality: 74
+    images:
+      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
+        width: 796
+        height: 438
+        isCached: true
   - title: "MongoDB expands Microsoft Azure alliance"
     excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
     publishedDateTime: 2022-10-17T22:27:00Z
@@ -79,6 +81,59 @@ related:
         width: 610
         height: 354
         isCached: true
+  - title: "Meet Magneto: Microsoft’s Foundation Transformer for General-Purpose Modelling Across Tasks and Modalities"
+    excerpt: "The machine learning community has seen a trend in recent years, with researchers working to converge their model architectures across language, vision, speech, and multimodal classes. While transformer architectures have become the de facto standard for building such highly desirable general-purpose foundation models,"
+    publishedDateTime: 2022-10-18T21:17:00Z
+    webUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/"
+    ampWebUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
+    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
+    type: article
+    provider:
+      name: syncedreview
+      domain: syncedreview.com
+    quality: 43
+    images:
+      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
+        width: 790
+        height: 320
+        isCached: true
+  - title: "Microsoft taps NZ firm to improve Māori translation"
+    excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
+    publishedDateTime: 2022-10-20T01:11:00Z
+    webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
+    type: article
+    provider:
+      name: ia.acs
+      domain: acs.org.au
+    quality: 41
+    images:
+      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
+        width: 999
+        height: 562
+        isCached: true
+  - title: "As Microsoft’s $68.7bn Activision buyout awaits approval, games giant files patent for AI music tech"
+    excerpt: "Microsoft issued jaw-dropping news that it was buying Activision Blizzard in an all-cash transaction valued at $68.7 billion. Activision – one of world'"
+    publishedDateTime: 2022-10-18T19:27:00Z
+    webUrl: "https://www.musicbusinessworldwide.com/as-microsofts-68-7bn-activision-buyout-awaits-approval-games-giant-files-patent-for-ai-music-tech/"
+    type: article
+    provider:
+      name: Spotify
+      domain: musicbusinessworldwide.com
+    quality: 39
+    images:
+      - url: "https://www.musicbusinessworldwide.com/files/2022/10/Screenshot-2022-10-18-at-17.27.58.jpg"
+        width: 2550
+        height: 1414
+        isCached: true
+  - title: "Microsoft mum on Boston-area impact of reported layoffs"
+    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
+    publishedDateTime: 2022-10-18T17:57:00Z
+    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "4yVuK5nLmnzslh7PokbR3ies/vfQf5bcQ3TOytVmhFuDNEnqcTxdxkJoH15G81iVhi/5+GFfCZbFG7BlfA+AWwRm0V4Mj6oZiBX8xEb8vvF+n4BhJDjI4JylgeZTUWo745hwje2rYP2BOZlakjPnBYpTAXBGJqBnKhuOKXG76Mmrb6A5kjTOJxRZWB/a5WHANd1dbJ2QO7z8SEBoBoV0F/IPQBiEDtvWMqfHaPnUUgi21PjaFZNPSyTSuJIfrakaQvOZj2s+/rCkjkLmjjU/ayOclBeQ7xHzUjDzPXptxlf1sKCof3H4jam1B0/zZ4eji4kcytZYSprGm2CEmREepQnVIV453KqrZmKnBIdlb5Q=;B5NuEzTxtSvdUrQ1F3M8+g=="
 ---

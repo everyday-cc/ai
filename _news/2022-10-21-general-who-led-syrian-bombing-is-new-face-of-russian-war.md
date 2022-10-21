@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:35:00Z
 originalUrl: "https://www.military.com/daily-news/2022/10/21/general-who-led-syrian-bombing-new-face-of-russian-war.html"
 webUrl: "https://www.military.com/daily-news/2022/10/21/general-who-led-syrian-bombing-new-face-of-russian-war.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Military.com

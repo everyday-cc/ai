@@ -50,6 +50,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The analysis begins by scrutinizing the Artificial Intelligence (AI) in Fintech market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "AI in Telecommunication Market Size and Share Estimation 2022-2029 | Regional Overview, Growth Opportunity, Business Prospect and New Challenges"
     excerpt: "The \" AI in Telecommunication Market \" 2022-2029 Research Report provides qualitative and quantitative insights into the primary drivers, constraints, opportunities, and challenges influencing global markets growth."
     publishedDateTime: 2022-10-21T04:46:00Z

@@ -55,6 +55,20 @@ related:
         width: 765
         height: 430
         isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year, Musk says"
+    excerpt: "A logo of Tesla Motors on an electric car model is seen outside a showroom in New York June 28, 2010. REUTERS/Shannon Stapleton/File Photo"
+    publishedDateTime: 2022-10-20T17:58:00Z
+    webUrl: "https://www.reuters.com/news/picture/tesla-cars-will-not-be-approved-as-fully-idUSKBN2RF078"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 82
+    images:
+      - url: "https://s3.reutersmedia.net/resources/r/?m=02&d=20221020&t=2&i=1611977621&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI9J02M"
+        width: 810
+        height: 510
+        isCached: true
   - title: "Wait for Tesla self-driving cars gets longer, safety prime concern"
     excerpt: "A world where cars drive entirely on their own is almost upon us but pending regulatory approvals stand in the way of companies working towards this end. Tesla has been spearheading the technological advancements and while the US electric vehicle (EV) maker does offer a software package called ‘Full Self-Driving’ or FSD,"
     publishedDateTime: 2022-10-20T04:44:00Z
@@ -145,6 +159,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Elon Musk: Teslas won't be approved as fully self driving this year"
+    excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
+    publishedDateTime: 2022-10-21T12:36:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/tesla-wont-be-approved-full-self-driving-year"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 34
 
 secured: "x4QbYH4lLyEqVXJFiMMdv+yF5DGnM80VgHu0KRmJtQHzrhrYtMUswiA8aMd7RKv5vSja43pxyEKy7KBXlTHQ8Mnf20eRZj6FBOzKl5A1nsYL1iVRJOAmU4pQp2CtNMVSwUgo/YYWW3E49Ir6eUXFBumfrn9aAQsrnCn7JlAD8C72pCacw5VH3+qeh5mg/RMGSS174oE319GjIPUFEsyLgkrTzRWkkwXC9o4Mq+ug8jE7NMKv90csp7T9xiyTtHDv2kdIBFf3Y1BZWmlp+mAfY+rZYDGrOVSHkERCSIZcVj8mbctPUvMANNqv7i1WMdNGfRYDeeABQE1sjtz9zadoN/TyNXVMzKQhpyNqu7iKuZU4eW9XmsdSu0gD+ZKan4WpjORYDRSQCXOZi+xZLK7XNEr8WCM1Bo0qJIubg9albWQO7P5WawNKjfa0WHmmozxXuysb6+PsjmgUq694gA5CdV7ZxxneK+D27BKFP7LR+bFoJlEH16ctCsUOP0/a0YUQ6efrdhQ5aG6zvbLApXYS1w==;x3JLKkp6pDTgSt881oqDGw=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medic
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Medical Xpress
@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "AI Predicts Autism in Children from Medical Data"
+    excerpt: "Approximately one in 100 children are diagnosed with autism spectrum disorder worldwide according to the “Global Prevalence of Autism: A Systematic Review Update” 2022 research funded by the Canadian Institutes of Health Research and Fonds de Recherche du Québec Santé."
+    publishedDateTime: 2022-10-21T11:57:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202210/ai-predicts-autism-in-children-medical-data"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
 secured: "Fw4V4DpPoZt6cNC7eaRUUwFKb/mYm1LbLURzKqEf7CQpGxi2EkoI0e5M4jPM9/+wZCYnqhKF1dCQdWS91Y4ugN9H44yHqGpPDThqfMR0oVDkts0R6UNzdsEBAxcKLa2xcZy/ZyfDAUCSxcgAnxQuAT0GIrSLq0+KIqise2YbY05E3UDKKspjpyx4u15nKwMDJUQgJreRgQRzsBqvAf99WosKLDe0io7EwYztr/aaLDZ6yk6Lg0mq4ikJBG6ZxaXwG91ejwijc2YskQ1YpJ1Qat+vutJ2VhWO2OpWujopRYqCGjVPaZRRBDRK05wc1d+45M1NugeEitLxdRXSnvLXFTM5TpK/DsqFeGRsdqlc00XoOmnuqYC06GCrrgO5mvkrvsXGb86TIwaBf94t64q1LTbna3tRkTW0WLE9c81PGCxof8Kjd6oKhXsEYbwJMAGErySgr6owEeRbMUP6gLr/snETTNk67838NRaT7gDL9iSoFwToct+wptO5YFb55UPpMf1GZmyobiiHvGZanTrSOQ==;A6YdJVfsFV7qPjUszU5JiQ=="
 ---

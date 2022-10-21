@@ -287,6 +287,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How AI could help translate extreme weather alerts"
+    excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
+    publishedDateTime: 2022-10-21T12:30:00Z
+    webUrl: "https://www.axios.com/2022/10/21/ai-translation-extreme-weather-alerts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
   - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
     excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
     publishedDateTime: 2022-10-20T09:33:00Z

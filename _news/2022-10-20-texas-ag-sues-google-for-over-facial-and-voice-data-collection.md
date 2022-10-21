@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-fa
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html"
 type: article
 quality: 76
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -159,6 +159,22 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
+    excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
+    publishedDateTime: 2022-10-21T14:16:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/oct/21/texas-sues-google-surreptitiously-collecting-users/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 30
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/07/26/alphabet_results_53861_c0-83-4602-2767_s1200x700.jpg?0bd0a03674786f7871575d8d2bb34e26c153d45b"
+        width: 1200
+        height: 700
+        isCached: true
   - title: "Texas AG sues Google over collection of facial and vocal recognition data"
     excerpt: "Texas Attorney General Ken Paxton Thursday sued Google for allegedly collecting biometric data on millions of Texans without their informed consent. Paxton cited Texas' Capture or Use of Biometric"
     publishedDateTime: 2022-10-20T19:45:00Z
@@ -173,6 +189,15 @@ related:
         width: 1280
         height: 800
         isCached: true
+  - title: "Texas sues Google over ‘indiscriminate’ collection of facial recognition data"
+    excerpt: "The search engine has also recently received a $160m (£140m) fine from India's anti-trust watchdog for abusing its position in the local smartphone market."
+    publishedDateTime: 2022-10-21T12:01:00Z
+    webUrl: "https://eandt.theiet.org/content/articles/2022/10/texas-sues-google-over-indiscriminate-collection-of-facial-recognition-data/"
+    type: article
+    provider:
+      name: IET
+      domain: theiet.org
+    quality: 18
 
 secured: "hRJFVz9zUP8DLwk8PlOqi77SUGKebkyRzOIEz76AD0pDLDSyAIevIbPkr+5DGVJcAvtkOlwGmm3RzljC21nVMXXAMnWtHgVrbGQxNiCMSY5iMz5jqzGa/7sY/NKQdcJ8Qk9fLRZuwjUfekQj8xPaioEoUkINccBVGMjncWo3XvOQHkSZtgxt9iMiP89lSdDWmV0yBVOkYL8wkoKka88mG1RPS/UIZ1XfHmlf5MAMABQwP5I3DHx3XyJLKfGJg6U6nDgrptjvge7xWac8sfKtWMt6JgGWQNYJRmsPmkztYMh1rEt1sQr2T/b1fZ9KSxSSqsn6oh8doUfWwuVgo4Dna10w7RFoA6huyXNXvZIvIR9YZsSz0DYHkUf7zOXVA18e2ShQKuKGfMFN4+Jytcyx1d+0SGJgP97tqqsK08XTeD8zFFssyjf8EEmenuxnJyLLzrlkJqm62QuE2s7kozVHPhgt5/qrzkoy7lHtK2hZ4oYrp+4gtX/AXEYd9akrGGqM6dK6vrzEi64yeZnFzegBZA==;+4msxGG7/n+y0xZ80p+Vaw=="
 ---

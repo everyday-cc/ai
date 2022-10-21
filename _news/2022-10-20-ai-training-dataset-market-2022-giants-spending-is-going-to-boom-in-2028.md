@@ -44,6 +44,17 @@ related:
         width: 1200
         height: 900
         isCached: true
+  - title: "Global Music Streaming Market Analysis Report 2022: Artificial Intelligence and Machine Learning Gaining Momentum"
+    excerpt: "The \"Music Streaming Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global music streaming market is expected to grow from"
+    publishedDateTime: 2022-10-21T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29360845/global-music-streaming-market-analysis-report-2022-artificial-intelligence-and-machine-learning-ga"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29360845"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29360845"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 48
   - title: "Mind Reading Artificial Intelligence Now Has The Ability To Decode Human Thoughts"
     excerpt: "Mind reading artificial intelligence now has the ability to decode the words and sentences that people are thinking by utilizing brain scans. This new"
     publishedDateTime: 2022-10-20T13:42:00Z
@@ -52,7 +63,7 @@ related:
     provider:
       name: BroBible
       domain: brobible.com
-    quality: 32
+    quality: 34
     images:
       - url: "https://brobible.com/wp-content/uploads/2022/10/Mind-Reading-Artificial-Intelligence-Has-Ability-To-Decode-Human-Thoughts.png"
         width: 1222

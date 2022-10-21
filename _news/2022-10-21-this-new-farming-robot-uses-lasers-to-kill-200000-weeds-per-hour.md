@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-21T13:49:00Z
 originalUrl: "https://interestingengineering.com/innovation/farming-robot-lasers-200000-weeds-per-hour"
 webUrl: "https://interestingengineering.com/innovation/farming-robot-lasers-200000-weeds-per-hour"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Interesting Engineering
