@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-15-the-multi-billion-dollar-potential-of-synthetic-data.md",
+      "title": "The multi-billion-dollar potential of synthetic data",
+      "excerpt": "Synthetic data, already in use by tech giants, is an accelerator for ML/AI-based products to further penetrate every industry and sector.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "originalUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
+      "publishedDateTime": "2022-10-15T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-15-delicious-chocolate-bar-developed-by-robots-using-artificial-intelligence.md",
       "title": "'Delicious' chocolate bar developed by robots using artificial intelligence",
       "excerpt": "Its makers predict their treat, containing milk chocolate, cookie crumbs and nuts, will please just about everybody in the galaxy. Their prototype contains 30% less sugar than conventional chocolate",
@@ -248,8 +300,8 @@
       "title": "Opinion: A driverless vehicle update",
       "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
       "sourceUrl": null,
-      "webUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
-      "originalUrl": "https://www.northsidesun.com/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fad8e233b",
+      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
+      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -262,8 +314,8 @@
       "publishedDateTime": "2022-10-14T17:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Northside Sun",
-        "domain": "northsidesun.com",
+        "name": "Yazoo Herald",
+        "domain": "yazooherald.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -431,6 +483,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "AI language models show bias against people with disabilities: Study",
+      "excerpt": "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20221014/3993055.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Science/20221014/3993055.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -1041,49 +1127,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
-      "title": "AI language models show bias against people with disabilities: Study",
-      "excerpt": "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1665719039.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-14-global-x-robotics-artificial-intelligence-ucits-etf-usd-acc.md",
       "title": "Global X Robotics & Artificial Intelligence UCITS ETF USD Acc",
       "excerpt": "There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC delivered to your inbox Get this delivered to your ...",
@@ -1166,58 +1209,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence.md",
-      "title": "New exhibit at Seattle museum explores origins and potential of artificial intelligence",
-      "excerpt": "(GeekWire Photo / Charlotte Schubert) Seattle’s Museum of History and Industry opens a new exhibit this Saturday called “Artificial Intelligence: Your Mind & The Machine.” GeekWire got a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
-      "originalUrl": "https://www.geekwire.com/2022/new-exhibit-at-seattle-museum-explores-origins-and-potential-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.geekwire.com/wp-content/uploads/2022/10/Towers-8.jpg",
-          "width": 1901,
-          "height": 1417,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GeekWire",
-        "domain": "geekwire.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

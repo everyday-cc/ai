@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-19-implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions.md",
+      "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
+      "excerpt": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/implement-rstudio-data-lake.jpg",
+          "width": 1339,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:32:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-watch-googles-ping-pong-robot-pull-off-a-340-hit-rally.md",
       "title": "Watch Google’s Ping-Pong robot pull off a 340-hit rally",
       "excerpt": "Google researchers have used an interesting method to create a powerful (but friendly) Ping-Pong bot capable of returning hundreds of times.",
@@ -875,7 +927,7 @@
       "originalUrl": "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1227,58 +1279,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
-      "title": "Kubiya gives developers a hand with conversational AI platform",
-      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "publishedDateTime": "2022-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

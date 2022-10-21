@@ -10,7 +10,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -63,7 +63,7 @@
       "originalUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 229,
+      "heat": 239,
       "tags": null,
       "images": [
         {
@@ -204,6 +204,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "AI language models show bias against people with disabilities: Study",
+      "excerpt": "The researchers found that all the algorithms and models they tested contained significant implicit bias against people with disabilities. Previous research on pretrained language models -- which are trained on large amounts of data that may contain implicit biases -- has found sociodemographic biases against genders and races,",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Science/20221014/3993055.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Science/20221014/3993055.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028.md",
       "title": "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028",
       "excerpt": "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent",
@@ -286,49 +320,6 @@
       "provider": {
         "name": "cio.economictimes.indiatimes",
         "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-language-models-show-bias-against-people-with-disabilities-study.md",
-      "title": "AI language models show bias against people with disabilities: Study",
-      "excerpt": "Natural language processing NLP is a sort of artificial intelligence that allows machines to utilise written and spoken phrases in a variety of applications",
-      "sourceUrl": null,
-      "webUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
-      "originalUrl": "https://www.bignewsnetwork.com/news/272916995/ai-language-models-show-bias-against-people-with-disabilities-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.bignewsnetwork.com/ani1665719039.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Big News Network.com",
-        "domain": "bignewsnetwork.com",
         "images": null,
         "publishers": null,
         "authors": null

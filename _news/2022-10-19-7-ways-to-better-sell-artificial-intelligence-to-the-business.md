@@ -8,7 +8,7 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/"
 type: article
-quality: 87
+quality: 89
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200"

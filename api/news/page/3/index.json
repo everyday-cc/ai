@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
+      "title": "Kubiya gives developers a hand with conversational AI platform",
+      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
+      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
+      "publishedDateTime": "2022-10-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-how-ai-can-help-farmers-feed-the-world.md",
       "title": "How AI Can Help Farmers Feed The World",
       "excerpt": "Climate change, unpredictable weather patterns, record heat waves, droughts and more have made producing enough food for the planet a challenge. As many as 800 million people go hungry each night—roughly 10% of the global population.",
@@ -1181,58 +1233,6 @@
         "AI in Robotics",
         "Machine Learning",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-the-multi-billion-dollar-potential-of-synthetic-data.md",
-      "title": "The multi-billion-dollar potential of synthetic data",
-      "excerpt": "Synthetic data, already in use by tech giants, is an accelerator for ML/AI-based products to further penetrate every industry and sector.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
-      "originalUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1361681620-Outflow-Designs.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-multi-billion-dollar-potential-of-synthetic-data/amp/",
-      "publishedDateTime": "2022-10-15T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

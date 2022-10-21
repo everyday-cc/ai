@@ -55,6 +55,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 75
+  - title: "Texas AG sues Google over its facial data collection practices (Updated)"
+    excerpt: "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents.."
+    publishedDateTime: 2022-10-21T01:29:00Z
+    webUrl: "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
+    ampWebUrl: "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 73
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d"
+        width: 5000
+        height: 2964
+        isCached: true
   - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
     excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
     publishedDateTime: 2022-10-20T21:37:00Z
@@ -80,6 +96,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 34
+  - title: "Texas AG sues Google over collection of facial and vocal recognition data"
+    excerpt: "Texas Attorney General Ken Paxton Thursday sued Google for allegedly collecting biometric data on millions of Texans without their informed consent. Paxton cited Texas' Capture or Use of Biometric"
+    publishedDateTime: 2022-10-20T19:45:00Z
+    webUrl: "https://www.jurist.org/news/2022/10/texas-ag-sues-google-over-collection-of-facial-and-vocal-recognition-data/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 25
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/google_1641490235.png"
+        width: 1280
+        height: 800
+        isCached: true
 
 secured: "/M4yueAjOJ5N6mr54+zY3zMOUxYKNAnvwK7Qng1bVcZGcC2QlS9aIl6C4wFZol6D5u0cXnvAD+1fUI+tQPkPrveF5APwgfTpUM5J/my6tlc2Yq/48v8ZQHHpRZBYCR85ps3onXT1aiKAdKvTUfpZ1Td/9nbQwd4lvy/V7WMPu4UHAF7ICA/NbprBfB08XYeYfALGox0+/gMvHZQw7TAZricvOfDHkUbngwKe5ubL8wy3SYbsP/C4Lr8q4Nafl4kELNzUXnkknKm028rOb0h6d9l6errXmzXHy5JjdS7py/ewu3aFSediaDTLDFugoO7n2BYIPN1h4JWcL+JAvP6oSOqJfdksbNQIaHccR7DAND2aIHnnZaxRfax3phUo0L6P2Pk0s2vyUfshIR9lrW+pln43wHXDsN41yBjQLwFkHjdu5up2UdQaLsB7UEMc88Z9R5JiLvRyFhB8QouLZpfyICFMy6zchAMnBw2ol4AyNHRBfKL+Te46D+qCWl71FqyWEdl+0vdzIiht6DwmIaMObQ==;avQpsBD9tpWMrxDFW/LI1A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 229
+heat: 239
 published: true
 
 provider:
@@ -62,6 +62,22 @@ related:
       - url: "https://about.fb.com/wp-content/uploads/2022/10/AI-Blog-Summary_-Speech-Translation-Hokkien_Social-Share-Image.jpg?w=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meta Has Built An AI System That Can Translate Hokkien To English"
+    excerpt: "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-21T01:30:00Z
+    webUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/"
+    ampWebUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    cdnAmpWebUrl: "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    type: article
+    provider:
+      name: augustman
+      domain: augustman.com
+    quality: 74
+    images:
+      - url: "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg"
+        width: 800
+        height: 800
         isCached: true
   - title: "Meta has developed an AI translator for a primarily-spoken language"
     excerpt: "It only translates between Hokkien and English for now, but offers potential for thousands of languages without official written systems."

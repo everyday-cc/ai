@@ -74,6 +74,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Has Built An AI System That Can Translate Hokkien To English"
+    excerpt: "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-21T01:30:00Z
+    webUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/"
+    ampWebUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    cdnAmpWebUrl: "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    type: article
+    provider:
+      name: augustman
+      domain: augustman.com
+    quality: 74
+    images:
+      - url: "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Meta Has Developed AI for Real-Time Translation of Hokkien"
     excerpt: "Meta's artificial intelligence was designed to translate languages that are primarily spoken as opposed to written."
     publishedDateTime: 2022-10-19T19:30:00Z

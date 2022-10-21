@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 889
         isCached: true
+  - title: "Fintech Automation Selects ForwardAI to Provide Access to Accounting Data for Financial Institutions"
+    excerpt: "ForwardAI, a fintech providing aggregated access to accounting & business data and analysis, announced its partnership with FinTech Automation."
+    publishedDateTime: 2022-10-20T23:59:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "GIFT City signs MoU with Fintech Association of Japan to strengthen fintech ecosystem"
     excerpt: "India’s first operational smart city and International Financial Services Centre (IFSC)— on Thursday announced that it has signed a memorandum of understanding (MoU) with the Fintech Association of Ja"
     publishedDateTime: 2022-10-20T02:55:00Z

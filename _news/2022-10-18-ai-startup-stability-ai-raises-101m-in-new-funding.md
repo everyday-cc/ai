@@ -56,6 +56,22 @@ related:
         width: 400
         height: 231
         isCached: true
+  - title: "This Week In XR: Stability AI Raises $101 Million, VITURE Raises $10 Million For Wearable Hi Def Video"
+    excerpt: "Stability AI Raises $101M Stable Diffusion, a state of the art open source text-to-image AI program that generates images from text, announced a $101M seed round at Techcrunch Disrupt in San Francisco."
+    publishedDateTime: 2022-10-21T00:43:00Z
+    webUrl: "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/"
+    ampWebUrl: "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 71
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6351e8216ab4d7c1914360b0/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 604
+        isCached: true
   - title: "Stability AI Newest Addition To Unicorn Stable"
     excerpt: "London-based Stability AI became Europe’s newest unicorn after locking up a $101 million raise led by Coatue, Lightspeed Venture Partners and O’Shaughnessy Ventures. The company did not release a valuation,"
     publishedDateTime: 2022-10-17T16:55:00Z

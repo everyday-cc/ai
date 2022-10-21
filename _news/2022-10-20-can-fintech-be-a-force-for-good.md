@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 889
         isCached: true
+  - title: "Fintech Automation Selects ForwardAI to Provide Access to Accounting Data for Financial Institutions"
+    excerpt: "ForwardAI, a fintech providing aggregated access to accounting & business data and analysis, announced its partnership with FinTech Automation."
+    publishedDateTime: 2022-10-20T23:59:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 44
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
+        width: 1024
+        height: 1024
+        isCached: true
   - title: "ForwardAI and FinTech Automation team accounting data access"
     excerpt: "ForwardAI, a fintech providing aggregated access to accounting & business data and analysis, announced today its partnership with FinTech Automation, a financial technology company that allows fintechs and traditional financial institutions (FIs) to offer various embedded finance and banking-as-a-service products."
     publishedDateTime: 2022-10-19T17:34:00Z

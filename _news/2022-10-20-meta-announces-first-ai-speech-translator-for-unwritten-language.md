@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta Has Built An AI System That Can Translate Hokkien To English"
+    excerpt: "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form."
+    publishedDateTime: 2022-10-21T01:30:00Z
+    webUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/"
+    ampWebUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    cdnAmpWebUrl: "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+    type: article
+    provider:
+      name: augustman
+      domain: augustman.com
+    quality: 74
+    images:
+      - url: "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg"
+        width: 800
+        height: 800
+        isCached: true
   - title: "Meta has developed an AI translator for a primarily-spoken language"
     excerpt: "It only translates between Hokkien and English for now, but offers potential for thousands of languages without official written systems."
     publishedDateTime: 2022-10-20T05:41:00Z
@@ -224,6 +240,6 @@ related:
         height: 869
         isCached: true
 
-secured: "w9WCMnETVnqKtenRGQHB+w0j5+XiXRJA47aft7SdxhdOJZwtugY9yTZylkiepyHoacbvn2pAO3qyVmIe5HFY3IH0wWhPij+NKRrVZdJ/kC0SoI/E+EW7QQym376qB1kqAEAGW4ukbh7MqSf1U2RmBSo1rr0H7PzC27PK8Q0gdpGjODkBcghmuVwQAz/INmkRXp7oEOWDwtBD8d4//McOweuYVzJjt9yZSOgwaPr0XIZl+mY4TMc9HcNlIF6TZMpr7y++yseYpVJpMjJi75l/MYf78OJ59IRgPK1triO/rv7KH2LXiZix5tJcKQwW9M1HtqN2faWSpLjv2qR6eSAop05l39CSEaMTx1KaZrpX7Eo=;MWVyxTuKaa8+YmqF57Us0w=="
+secured: "aAh3FgXrZ4QDBzJ/fD1FZlWmRkc89fzrtZv5LEyaQjDvq6H6P2eUAH+a/4NeLanWdOwQPUVrdEy0UqplhbX0PS47eboKEOC7G+AhU/OChOWUlYnZruifsdE/X3ATneXJ+soF/Rt0gPV3kN4fpoPH40c01v0jssBRM3X0gnSN8mBMTcocmDXzod3cBHDwW67PRus7LpUz002JxnzYGB9u4tNDFoRkGqhzgZElIJNVDH5Mo3fPlmo3EH3olOTwA1WeY26drx3qj5wWi1VHzc79XciBGNHPaK8Ao2mOSoEc4pcDR8y4eEd4YaSR4IUWehE+Qxncs32EbPglULQaiSpbCpt3LEzFcZPMOMQGLcfBD5bznkrly/aOv7j+EL01pZSIeLzG+/dbG67s/yq8W60Ays3hIwQYc8uRiNVvuOlN0mJBqk8lLOxIBAdxOrPY/ZKYA3FbuMVVv34sSag4e5EJagGp8PtXfBeaN85B5Bq4lcpD7vLx+S2uC1ZDzbID/0DIc8IcgMnE7HJWkivL/yWSsw==;/WHe5GasYCj4jTYx3lx0HQ=="
 ---
 
