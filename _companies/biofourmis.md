@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 50
+heat: 71
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "YxbePPrYbpfh0TM1lkHsPLkWjYNPtvvtsfSs5rSQ7CNyN1QC1WgqGE/ak7BFdN/+182ym6HYpcC+ZywQaAaO0TMZeg+AUj7tDdv1x6hj4JXssF+HXNtvU7x8Rkd+EgLRS5fvE5cwPUq0JUe0DPfd+fAUoI1Oy7dmMiGdOOpH84ooNfktvJhXbTPWNo8IhhaADnWgfk8bPHFOqRiWtAbNyz/4vNA3rhBR4vcyNnJ4SmLCDutDolTce5pkUqO4OIl+dYEnKNUpxy+UTCOfd0L3PpM5+ZAmiG9CvigV0yWhF9onccqXAc9regMI5yDWWZS7ckY8/UfDe9U6em+gZxau56GTaXH1IRvXvKk4LZdNlr1FlFxOO+suQ8j7Ne8icOWE8znImnQR0ctOu3fr4M8uesDnawV4Grx5I+qYkCSV180=;+pq90g8y9/nJ+q0+j4KKPQ=="
+secured: "lPjPTTPzkzA2YRqZRl1/MLFfJH3WHOMOmRUGo4Xe5QBVsqqnHkgKp/ct2roeDF0N+VZjGgJX3Ta6QGK8VCy9h42qbwMdlzOTiv4cJJ49acvD0FHD0uCz2ISlUUF5IM9M3j2qWv9+HYfbC0sLs+jEm64OUVLF563BzdeRdaeaDemzRytkHsTo8yH94X137ERFxoIJEEjOhf7DAumHIVGoQSZSmXReKtcrBDwnUL2jTTVoUeaL0aY9p8xL55DY3ar6fqqBhHpRZYDi9LF4lJLEC3u6s9qi2HV8uMj2U4t8aSaQQS4jDIXwhta3npMZHLxlQD/Wspnmb9EVC4QJkupfIuiZmbx/M5Yk72mVXtPqt1sbpad0xY0oksQCza85fzs4jOa6cjOvJp66LnHmaLnIJ0FNhVdhKwFfr02YXyBeefU=;VbgE74ukeawWr3DNre7tEQ=="
 ---
 
