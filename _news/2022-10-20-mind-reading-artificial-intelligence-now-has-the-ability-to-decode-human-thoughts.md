@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://brobible.com/wp-content/uploads/2022/10/Mind-Reading-Artificial-Intelligence-Has-Ability-To-Decode-Human-Thoughts.png"
