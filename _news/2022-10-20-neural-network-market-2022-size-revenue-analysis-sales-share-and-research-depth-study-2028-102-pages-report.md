@@ -72,6 +72,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected"
+    publishedDateTime: 2022-10-21T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029"
     excerpt: "Deep Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected CAGR"
     publishedDateTime: 2022-10-20T04:04:00Z

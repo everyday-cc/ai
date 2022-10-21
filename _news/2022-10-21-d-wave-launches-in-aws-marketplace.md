@@ -7,7 +7,7 @@ originalUrl: "https://technews.tmcnet.com/news/2022/10/21/9697448.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/10/21/9697448.htm"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "BillionDollarBreaks – D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace"
+    excerpt: "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace."
+    publishedDateTime: 2022-10-21T16:10:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/nnwire-2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace"
+    type: article
+    provider:
+      name: The Buffalo News
+      domain: buffalonews.com
+    quality: 26
 
 secured: "UcoNbVJpb5438jyqXd7YkK8JJWAQxujGy5sQn8ZMB9RnL9KGZ2PpUSt+DaSCOqeaPwcZ6ZDbw0CpDRSw6NZEjQl7lngSn2GzuIlfSAaDBPP9MkbttxBW0J0pyXCN+DU/J4BUJGcfseZmJf8z+kogyt289vwHwVjY8VrMgfoY6SBYCwEiVfGc7zAbF3t+byr8+tMYH16CTH+EKMYvL+Y+Cxym/xB+gPOXYUnpnT5gilLJLf/qwYAb7ZjKFfrfArQfZBzzUoQPtfJOQnRefFACHo6xX3kwYJoqcf9cMu0N+g+VW+8yUbAwgctpKKcvPspduNmi97TXdojrh/sj0LbmsYUkbbsQq6SYu9LdNW92mWg=;FtBCiSi4Kx8SXWnzJq6p/Q=="
 ---

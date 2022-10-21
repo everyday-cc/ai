@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "How English Dominates Cognitive Science"
+    excerpt: "Is the English language skewing our knowledge of cognitive science? According to researchers from Harvard University, Max Planck Institute for Evolutionary Anthropology, the National Center for Scientific Research,"
+    publishedDateTime: 2022-10-20T10:45:00Z
+    webUrl: "https://slator.com/how-english-dominates-cognitive-science/"
+    type: article
+    provider:
+      name: Slator
+      domain: slator.com
+    quality: 24
+    images:
+      - url: "https://slator.com/assets/2022/10/English-in-Science.png"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "GFjak1thlKYBQQZHKPmcLCK67SdvLXL8m7hJ5/DFJTBBxk/VJ6i5rlYFM4QPIg0+JEs/J0iA8ZULjK3UiNQMxar+z5NXYOwZRjQwbVS6R4QcZ0sKz9OFCvaIeg/Knyuj9BZLoByN/z+H4c+6byuz7lIu92/2ugxDH6b1bUS/TDet64rHZPfIe6cUThMKFJON4w6iV2WYt1TC/49cuI9MrCtuVHh1CNFKR7s8PHd//tB2dDF/l61YOHtQ1X+C7PY6521ZZw9JKGmPWyUVDXiGFloxZA1EIuY/vI/+FrCSHoONeyMYFhjxr8TAXqEKUZHVkrdGDtoKRJxzXWKcN+RA/RJanHWzBOiPGgzknKOWvKB/V7eZJtfyOJqo6AlCkDoFkAeVent6WU4hteaf4Zc0WHHjWt7P1+H6QIDWOyJZoI/s1bmMxDwqC9TOiYSHDYHy/ns+O+3dlF+dz5yQXYsSC4czTYFe2MNmC2Igh+0+rn45ibUTmR2StLBu84D3CNPOTHDodlJ0kkW8ad/FVLf1rQ==;Qe4uXS4B0S3tlWw1OoQwyA=="
 ---

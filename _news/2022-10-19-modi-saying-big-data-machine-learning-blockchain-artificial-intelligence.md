@@ -7,8 +7,8 @@ originalUrl: "https://knowyourmeme.com/memes/modi-saying-big-data-machine-learni
 webUrl: "https://knowyourmeme.com/memes/modi-saying-big-data-machine-learning-blockchain-artificial-intelligence"
 type: article
 quality: 66
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: knowyourmeme
@@ -23,24 +23,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Over 30 lakh govt officials will be trained in emerging technologies like AI, machine learning and blockchain, says Dr. Jitendra Singh"
-    excerpt: "Over 30 lakh government officials of the country will be trained in emerging technologies like artificial intelligence, machine learning, and blockchain for effective governance and service delivery at the grassroot level."
-    publishedDateTime: 2022-10-21T09:40:00Z
-    webUrl: "https://indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    ampWebUrl: "https://indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 42
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/10/NPIC-20221021191058.jpg?fit=750%2C472&ssl=1"
-        width: 750
-        height: 472
-        isCached: true
 
 secured: "KuHPCk6EOIJDmDAxW6T6vhr+LdmpF96WCHcnF5CA1KElOgptzyr0/7+oa+pRc/HX+WYl+HVrwM7OEoe/cL1xEdd3HtReFZmvlUB+obxUIdl9IP/x1k9x4v/P83GJAgzwWT+W2/9OCf5GK5atZANaiTGMjji+G/wqiiZwz5ZBUqnDrzYHq4HdAc//kIRAwzBbGZ13al3iqkz1RKaYXWFEqLQ0+niUcDSoRcbQjK+w1PZydjhz5tZ4FtjCoaaV4g3olmO7JlkMMxNldexwMvJTBlaglZMaRZIp2MMtWRKC0RunS11aNwJL3nOLQRX9lKny9b8smhGroTggI56fxyJbSFtW7k6SzBSoZ4A6mhGCHxulqd+BXkToY8u7Vkj9AvZai9KNDdg/0hPTP8K3rggJ5U1xOjXqcFz028RB9VJRFcOQjPOfWtj+UJnJKMBWILd/RT1T7UgxAapa3nV9R5jU+A/tCd5wcNbDuM0cNpXm+xvstqCp7oQI+Wp+NJIbDdZe9oFym6q8J57oDT/sa7/OhQ==;/Dka1tqpVOHpgclaIsqIIA=="
 ---

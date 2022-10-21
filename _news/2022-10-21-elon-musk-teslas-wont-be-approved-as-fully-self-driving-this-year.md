@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Elon Musk’s language about Tesla’s self-driving is changing"
+    excerpt: "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update."
+    publishedDateTime: 2022-10-21T17:30:00Z
+    webUrl: "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/"
+    ampWebUrl: "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 89
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk Says Tesla Full Self-Driving Beta Will Be Open to All Buyers This Year"
     excerpt: "Right now, if you purchase Tesla's Full Self-Driving beta software, you might not be able to use it. The automaker has rolled this tech out to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing every driver to gain access to its capabilities."
     publishedDateTime: 2022-10-19T22:53:00Z
@@ -95,6 +111,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "10 deaths linked to Tesla automated driving systems, fed data shows"
+    excerpt: "Eleven people were killed in U.S. crashes involving vehicles that were using automated driving systems during a four-month period earlier this year, according to newly released government data, part of an alarming pattern of incidents linked to the technology."
+    publishedDateTime: 2022-10-19T11:53:00Z
+    webUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/"
+    ampWebUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 59
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla cars not ready to be approved as fully self-driving"
     excerpt: "Some analysts say that Tesla's primary problem is not regulators but the software itself, given the complexity of autonomous driving"
     publishedDateTime: 2022-10-20T05:43:00Z
@@ -153,6 +185,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk: Tesla Full-Self Driving \"won't have regulatory approval\" in 2022"
+    excerpt: "Comment Now! Tesla \"won't have regulatory approval\" to release an autonomous driving system in 2022, according to recent statements by CEO Elon"
+    publishedDateTime: 2022-10-21T15:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1137560_tesla-full-self-driving-regulatory-approval-2022"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 52
+    images:
+      - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100850003_h.jpg"
+        width: 1920
+        height: 1440
+        isCached: true
   - title: "Tesla cars will not be approved as fully self driving this year: Elon Musk"
     excerpt: "Tesla says the cars still need to be driven with human oversight. A highly autonomous vehicle would require regulatory approval in California, for example. Elon Musk also said Tesla hopes to provide an update to FSD in 2023 to show regulators that the technology is much safer than the average human driver."
     publishedDateTime: 2022-10-21T07:49:00Z
@@ -167,6 +213,17 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "JFK tests out self driving vehicles"
+    excerpt: "NEW YORK - JFK Airport is testing out self-driving shuttle vehicles. The Port Authority is working with autonomous vehicle (AV) manufacturer Navya for the test.  They are looking at the possibility that the shuttle could be used as shuttles for airport passengers."
+    publishedDateTime: 2022-10-20T11:25:00Z
+    webUrl: "https://www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles"
+    ampWebUrl: "https://www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles.amp"
+    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles.amp"
+    type: article
+    provider:
+      name: Fox 5 NY
+      domain: fox5ny.com
+    quality: 39
 
 secured: "IIfs1Gf6DDRQl4xgc4l0KzS4ZXx3BzxCYyZUcbwjCSMYi/FxtxQmWtrGTQHSdDpfMmTOV/hocV3VYOtDxlf7JQ92aOVvjEqp5P2tZQf+i0aMRPfjqxMkpVy5WhfQhi03SGFKbaB46X4Pz19decuHJZpti0GK1uL7IPVJy9vodfAnntzhqL/1doB1RDbx4XKJiRuKR59H+T4CGN3FjFCh/31221CWr6RL6rTW4QbojsYz1cdyG54O4CNohEyomVZvxqOo5EyJlhBqRzYImEe8DfWv0q3I+ea9Zg4pS1fR4W2UD3GHq9ZH6sljq6aRjFG7KoPaK1wb9qEHo5kluqgvE2EQ+4HUAxDltcsLPgEcrCApQQERxO2MU7tOb8LHl9wHEqVnCL8mVzix0d6XrDXDu3An9ue7mjMSf1QUupZ57vMx80Nz3HLkIfJ3mkIR02dYXB6nZfcTiw8TXWfm9e6D1743W2yK/EvoLyu21vnvtaonvWgHr5CDHiomPtWl1xeBIApjk3i3Ni1rG7vvY5V1YA==;bn/D71fC6B0NTHtgHslcsQ=="
 ---

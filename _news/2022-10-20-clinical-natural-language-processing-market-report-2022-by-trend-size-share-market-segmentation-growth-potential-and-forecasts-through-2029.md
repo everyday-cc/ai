@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
     excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-21T13:37:00Z

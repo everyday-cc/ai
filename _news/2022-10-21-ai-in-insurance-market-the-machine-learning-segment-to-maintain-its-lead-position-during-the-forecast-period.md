@@ -33,7 +33,7 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
         width: 476

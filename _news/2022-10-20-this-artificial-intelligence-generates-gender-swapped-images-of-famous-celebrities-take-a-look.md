@@ -58,6 +58,36 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
+    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
+    publishedDateTime: 2022-10-21T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Adobe Gets Into the Generative AI Image Game"
+    excerpt: "With DALL-E and others making splashes in text-to-image generation, Adobe shows that the company is finally is putting some of its own resources into the new tech."
+    publishedDateTime: 2022-10-21T16:07:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-gets-into-the-generative-ai-image-game"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03B9diyWWZxnrCdrG1hm1Kw-2.fit_lim.size_1200x630.v1666365622.png"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Adobe commits to transparency in use of generative AI"
     excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
     publishedDateTime: 2022-10-18T12:00:00Z

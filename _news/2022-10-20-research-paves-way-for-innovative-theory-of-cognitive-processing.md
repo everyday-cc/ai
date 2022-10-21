@@ -26,14 +26,21 @@ images:
 
 related:
   - title: "New research paves way for innovative theory of cognitive processing"
-    excerpt: "A team of scientists has developed the first computer model predicting the role of cortical glial cells in cognition."
-    publishedDateTime: 2022-10-19T21:46:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/10/221019111400.htm"
+    excerpt: "A team of scientists from the Krembil Brain Institute, part of the University Health Network in Toronto, and Duke University in Durham, North Carolina, has developed the first computer model predicting the role of cortical glial cells in cognition."
+    publishedDateTime: 2022-10-19T18:40:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 34
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg"
+        width: 1920
+        height: 1357
+        isCached: true
 
 secured: "1s4+dCIkp7QmtCYHTLVrujVrNmohw90ZA765Q+Emi/FpY5RdifAsrUVUxwPUho279t8lfC1kgIvBe6+zrj6byPdXdHB6dz3KeHyHn8frKBhx6e8amvTEeUwB+CQT3aN/hJRzjU15bWAsfEa2C+dsl1CWgeDC+cAbzUHDJ1tj9Q87GQMIcu1Dg2XCUwSDOxpZRvn/GnEP1FqlsRHOyPo9bCbeqZAGUR2ksCHF7mlaz9p0kXdzti+32vKju1z9dzOh5FLw/5FBZojDMpDU2x7u+Vh+JAKCiaJZgfNaVZZJ2V+eoZsQmElgKEnGS32YZjxZDsU0XKm+AeA387Yu9ihsmSHKlsDVrNSGhvSFZrVOj7w=;8tfHHfihY2Bn4mDszD5xVQ=="
 ---

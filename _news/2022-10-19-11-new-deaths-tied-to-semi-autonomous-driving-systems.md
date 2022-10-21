@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-sys
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "10 deaths linked to Tesla automated driving systems, fed data shows"
-    excerpt: "Eleven people were killed in U.S. crashes involving vehicles that were using automated driving systems during a four-month period earlier this year, according to newly released government data, part of an alarming pattern of incidents linked to the technology."
-    publishedDateTime: 2022-10-19T11:53:00Z
-    webUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/"
-    ampWebUrl: "https://wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/10/19/10-deaths-linked-to-tesla-automated-driving-systems-fed-data-shows/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 59
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2021/11/tesla-autodrive-cnn.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Intelligent autonomous driving serves hot tourist spot"
     excerpt: "Recently, the pilot project of an autonomous driving pilot application in Binhu National Forest Park was officially put into operation. This is also one of the first pilot projects for the pilot application of intelligent transportation in the country. The project mainly covers the pilot application of self-driving sightseeing vehicles, unmanned sales vehicles, unmanned sweepers and other vehicles in Hefei Binhu National Forest Park, which aims to offer better services to visitors in the scenic area. [Photo/Xinhua]"
     publishedDateTime: 2022-10-17T12:19:00Z

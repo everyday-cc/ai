@@ -63,6 +63,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected"
+    publishedDateTime: 2022-10-21T13:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 68
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028 | 102 Pages Report"
     excerpt: "Oct 19, 2022 (The Expresswire) -- \"Neural Network Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalNeural Network"
     publishedDateTime: 2022-10-20T02:09:00Z

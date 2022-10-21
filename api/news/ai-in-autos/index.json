@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-22-elon-musks-language-about-teslas-self-driving-is-changing.md",
+      "title": "Elon Musk’s language about Tesla’s self-driving is changing",
+      "excerpt": "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
+      "originalUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 229,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/",
+      "publishedDateTime": "2022-10-21T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
       "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
       "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
@@ -54,58 +106,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-20-elon-musk-says-tesla-full-self-driving-beta-will-be-open-to-all-buyers-this-year.md",
-      "title": "Elon Musk Says Tesla Full Self-Driving Beta Will Be Open to All Buyers This Year",
-      "excerpt": "Right now, if you purchase Tesla's Full Self-Driving beta software, you might not be able to use it. The automaker has rolled this tech out to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing every driver to gain access to its capabilities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 184,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/972a7074a99efdcfa9914fb0f4fc088eadf72620/hub/2022/10/19/3bf92bd0-88dd-4ada-ac57-4f911fc42622/gettyimages-1395371342-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
-      "publishedDateTime": "2022-10-19T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-19-latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast.md",
       "title": "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast",
       "excerpt": "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027).",
@@ -114,7 +114,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -166,7 +166,7 @@
       "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {

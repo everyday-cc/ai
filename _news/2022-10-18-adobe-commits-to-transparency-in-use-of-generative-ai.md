@@ -54,6 +54,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
+    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
+    publishedDateTime: 2022-10-21T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "This Artificial Intelligence Generates Gender-Swapped Images Of Famous Celebrities; Take A Look"
     excerpt: "Famous celebrities' genders were switched by an internet video developer using artificial intelligence technology, and the resulting collections quickly went viral online. Even more astounding than the impact of artificial intelligence technologies in the internet world is the fact that some of these superstars resemble the opposite gender."
     publishedDateTime: 2022-10-20T08:11:00Z
@@ -69,6 +85,20 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/f39b61f7-06dd-4813-ac8a-ebae1536c244_6wdv.620.jpg"
         width: 619
         height: 374
+        isCached: true
+  - title: "Adobe Gets Into the Generative AI Image Game"
+    excerpt: "With DALL-E and others making splashes in text-to-image generation, Adobe shows that the company is finally is putting some of its own resources into the new tech."
+    publishedDateTime: 2022-10-21T16:07:00Z
+    webUrl: "https://www.pcmag.com/news/adobe-gets-into-the-generative-ai-image-game"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03B9diyWWZxnrCdrG1hm1Kw-2.fit_lim.size_1200x630.v1666365622.png"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "wz38/YVnTRU1gywyRU/cKgrKOOFo740Eb9okMJcFI/EB91xUazsF5xf3biZZ1LTd1Rz1N37er4ea4mCRKarHQTOGUmBB22UH3VbdtN8cyChzpD8/6RRiTsS5bTDYYKFEDNXun7lL0SV06nT+LFI1K/LTdJFhsYg4HC3S777UlZ7gywCieUdsWuT+3BqEfysvO9xrFwnI/mEICiTgxIrAn5iFFrYcreROj5Xqv4hkp+NZ1I+ifgMVGYiKUXMMgY6prtmKdFtLe06hptRPlPo4CSZfDb3Cu9RvohndjPX1bjAAQ9nIHuHQh2jbfzxBIJppwsDzm9ABr/ajpW8mMORhCMwnXwu/EEAIDT5gO+OSJ+Y8PRuEAW9rLjqoDAwgzKOhqfeLUdXzd/LrqDPQCEbvO+rCDxgMtxMTl/oRp9UVzTLwsxxMqmxv99Cl6D99kJqqHr8NYtRaa9df8C4u8E3HfDoQQtUOhOxuypbTfxfqaC7jPenr+SNH2zgEqCCMGFgRr4Pe9xtBh/X5Rdzr89bIHA==;TvY65QZMFFHui7D2VGM88Q=="

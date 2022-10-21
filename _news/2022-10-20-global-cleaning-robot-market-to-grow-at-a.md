@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-20T10:00:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-global-cleaning-robot-market-grow-a-cagr-25-/2022/10/20/9696356.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-global-cleaning-robot-market-grow-a-cagr-25-/2022/10/20/9696356.htm"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"

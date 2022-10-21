@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/"
 type: article
 quality: 104
-heat: 105
+heat: 115
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 864
     isCached: true
+
+related:
+  - title: "How AI can help in the fight against breast cancer"
+    excerpt: "In 2020, there were 2.3 million people diagnosed with breast cancer and 685,000 deaths globally. Early cancer detection is key to better health outcomes. But screenings are work intensive, and patients often find getting mammogramsand waiting for results stressful.In response to these challenges, Google"
+    publishedDateTime: 2022-10-21T17:00:00Z
+    webUrl: "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/"
+    type: article
+    provider:
+      name: Google
+      domain: blog.google
+    quality: 89
+    images:
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg"
+        width: 1300
+        height: 633
+        isCached: true
 
 secured: "ioKZR3q/pk3sSqib334Ch0wAtTeO1zgXnDNAcUc+iQt03C8SR3Wo1R2cPSGYM2ZT5iFQjFqUfn/vyNYINA+cAhE86NyXvAvpn3Q/gl6VazHfNy1J+Ukf3aEczYW0o8CsHrhHh77bFFI88e9Y+AthdggJvx4+lvG8IR7nMm9d0TE5QsTbm3ZydxEjmu2TE6xFEGz5DUCetCJzqwGAAn8wSNiDu+U5eYxPTQXVyvIs/QcEjPM0xMO1Iy6BI39yu9wrVvctaq1CjuQkwREkEBU1Ci34LpKdAekleNN8MYgRPLjTrWr/q+PG1vbiKIGJeZsBNsVN8QHGj9MoKNbYRy/e0DnqpU+EGj+FYgn0qUNq41IIEtEIL70+ccxxREKadnPQ1eYO33sL0f5R1CBEdn1uRkv0bxmO5+lEriU78aiHX89sCVz4gMbcBv7HIR4aln5FcB53gklaXEwpani2eSZxNaquOLixdh4NDTVOsm8VV1emwAwB03NPOPRVm5z3NkXZfgbwNQgHnpDCZ2MlE+Obiw==;OKWNbPnpRs3ZpehecRsjSw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latin-america-artificial
 webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
 type: article
 quality: 57
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
