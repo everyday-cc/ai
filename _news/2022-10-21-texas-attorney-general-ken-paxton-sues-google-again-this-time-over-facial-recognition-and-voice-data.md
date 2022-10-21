@@ -1,31 +1,25 @@
 ---
 category: news
-title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
-excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
-publishedDateTime: 2022-10-20T20:13:00Z
-originalUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
-webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
-ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+title: "Texas Attorney General Ken Paxton sues Google again, this time over facial recognition and voice data"
+excerpt: "Texas Attorney General Ken Paxton filed a lawsuit against Google claiming the search giant violated Texans' privacy without getting their consent to do so."
+publishedDateTime: 2022-10-20T18:23:00Z
+originalUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data"
+webUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data"
+ampWebUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
+cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
 type: article
-quality: 46
+quality: 41
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: KDFW
+  domain: fox4news.com
 
 topics:
   - Computer Vision
   - AI
   - Natural Language Processing
-
-images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
-    width: 1024
-    height: 682
-    isCached: true
 
 related:
   - title: "Texas AG sues Google for over facial and voice data collection"
@@ -87,17 +81,22 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Texas Attorney General Ken Paxton sues Google again, this time over facial recognition and voice data"
-    excerpt: "Texas Attorney General Ken Paxton filed a lawsuit against Google claiming the search giant violated Texans' privacy without getting their consent to do so."
-    publishedDateTime: 2022-10-20T18:23:00Z
-    webUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data"
-    ampWebUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
+  - title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
+    excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
+    publishedDateTime: 2022-10-20T20:13:00Z
+    webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
+    ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
     type: article
     provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 41
+      name: New York Post
+      domain: nypost.com
+    quality: 46
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
     excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
     publishedDateTime: 2022-10-20T21:37:00Z
@@ -138,6 +137,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/M4yueAjOJ5N6mr54+zY3zMOUxYKNAnvwK7Qng1bVcZGcC2QlS9aIl6C4wFZol6D5u0cXnvAD+1fUI+tQPkPrveF5APwgfTpUM5J/my6tlc2Yq/48v8ZQHHpRZBYCR85ps3onXT1aiKAdKvTUfpZ1Td/9nbQwd4lvy/V7WMPu4UHAF7ICA/NbprBfB08XYeYfALGox0+/gMvHZQw7TAZricvOfDHkUbngwKe5ubL8wy3SYbsP/C4Lr8q4Nafl4kELNzUXnkknKm028rOb0h6d9l6errXmzXHy5JjdS7py/ewu3aFSediaDTLDFugoO7n2BYIPN1h4JWcL+JAvP6oSOqJfdksbNQIaHccR7DAND2aIHnnZaxRfax3phUo0L6P2Pk0s2vyUfshIR9lrW+pln43wHXDsN41yBjQLwFkHjdu5up2UdQaLsB7UEMc88Z9R5JiLvRyFhB8QouLZpfyICFMy6zchAMnBw2ol4AyNHRBfKL+Te46D+qCWl71FqyWEdl+0vdzIiht6DwmIaMObQ==;avQpsBD9tpWMrxDFW/LI1A=="
+secured: "BY/dzueVr/LaSBYiyObg0JKNGGn3E/Qx05Z/oTnDvqENZFnLhq9BecXPzaZAxx/795mmYz5AzCY4EzgxJYrlZJhoRXyu8AZX9EqimAwUQVH0omoMWAF8SnpvVDgbqDfXlYeWDiR1yG6sOD9CANQNl7bF2AVPUhOlJa25z/mvS5/PS9iFVMDbwZrCQwfsleLVFNjp8vKtG/ICyHYFp1Zx/6sjE9tTlBq/5QQU7bH8Cakq1g9kws9smZKjxM8mRkZcwPD7sQ5HTQGW29NCzZ+pfNb0lqLIM+v3QdP7kEm29GvkQBg6ELI5SEc552kVp15dKzyYFkEiOyrviY5VTPPytxJrslosNhZSVI/qlVde1oImKZBwSEClJeeOn45oLwjFMxjbnU/pCj1hVcrsT4Hbnsk908NDSDZjbAUnHhG7G6zReaObNYATF0Jbl7eSwlBgf0V+kc84LzEIlUUUoiYcYKHMasXoik5a45EYHrRV+Lm/ruUoCSaZoWiuB1HTaKp8+pAbzIms8F2blXLtiN5lnw==;8mg5+2rjLt7kn9pYTPZakA=="
 ---
 

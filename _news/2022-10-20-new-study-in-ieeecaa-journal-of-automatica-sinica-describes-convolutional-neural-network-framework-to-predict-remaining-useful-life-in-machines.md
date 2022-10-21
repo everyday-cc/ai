@@ -1,24 +1,28 @@
 ---
 category: news
 title: "New Study in IEEE/CAA Journal of Automatica Sinica Describes Convolutional Neural Network Framework to Predict Remaining Useful Life in Machines"
-excerpt: "Modern industries require efficient and reliable machinery. To ensure the stability of industrial equipment and avoid unnecessary downtime, it is important to gauge a machine's"
-publishedDateTime: 2022-10-20T13:51:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29342764/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29342764/new-study-in-ieeecaa-journal-of-automatica-sinica-describes-convolutional-neural-network-framework"
-ampWebUrl: "https://www.benzinga.com/amp/content/29342764"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29342764"
+excerpt: "To ensure the stability of industrial equipment and avoid unnecessary downtime, it is important to gauge a machine's remaining useful life (RUL) accurately. This has been done using deep learning-based approaches."
+publishedDateTime: 2022-10-20T15:47:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/20/9696938.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/20/9696938.htm"
 type: article
 quality: 17
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "Convolutional neural network framework to predict remaining useful life in machines"
@@ -31,6 +35,6 @@ related:
       domain: techxplore.com
     quality: 28
 
-secured: "OpOM7Sys53x7SXQWM8apA7cENomL8bG1/JvvxDMyDx8lHfA15wQPUpQJQ57k6RwKMeACizoik9EzhcbGxSPLHc15hM+Y8Keppsgfxb3uDeSvav5/zpGyaN4InmUdw7/4MTAl+45XrMnFdbAghJbwWqz53JlP4QtPbYcaVfHndvbPXMTG9xDsITlOhz7FIoIcNQ+j2SV9gwVyO5tpQNWxSFHI1+evpK0QIgnDcFKZ5U53hLjcD8M8u6X5KbhGKErBNA8vJInHpESyghsCGH9I+EZaR9kiTTy8XuKytoaQ6+3tgecshVf5IjqVu486zOiA78I2OqzCJeQjo8vKAB9f3gGSmm07v02V3BVdBkxKJKU=;96orA31SpeCKfKvpYygkzw=="
+secured: "pRJYHCtp/5W5ZVioGeh7gMNfEN3Z/9Tq1CaFewGXzbACt3Wo2VN8yGd5vN7U5WsA2SmD/Fs379+/q7LyicCrZojpnKbcE6nR2GFUkt2jvbJETvRpSBPDUanKPYeWHB97YCAjkX7YRMdgDKRusNSxGe8rRRIM06LuyUwFGatPTSLQHqS/Zj9xpWk6HMNauNm0WobslhQrpm0dYQFKKSOwnUWNcrLhgWN4STyI++9irEk1IpLbD55biNo2jFa8mY+IDbvaU5rCMsLB52L5Afyx7bQZ20TqKTCRFUv341isJ7vYTrzICrSyg7XNiCrf2ufiVKle6L7ulfURcX4htYXhRAEntEGrbhee6MbOjfvDqtc=;hljz+xSyn8eyPaVbwtgjiA=="
 ---
 

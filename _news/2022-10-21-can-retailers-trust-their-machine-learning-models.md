@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-20T21:39:00Z
 originalUrl: "https://www.datanami.com/2022/10/20/can-retailers-trust-their-machine-learning-models/"
 webUrl: "https://www.datanami.com/2022/10/20/can-retailers-trust-their-machine-learning-models/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/forecast_shutterstock_Vintage-Tone.jpg"

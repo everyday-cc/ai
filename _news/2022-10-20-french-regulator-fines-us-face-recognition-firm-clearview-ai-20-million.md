@@ -20,6 +20,22 @@ topics:
 
 related:
   - title: "France slaps fine on face recognition firm Clearview AI"
+    excerpt: "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported.."
+    publishedDateTime: 2022-10-21T02:40:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai/94999658"
+    type: article
+    provider:
+      name: telecom.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 74
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-94999658,imgsize-68916,width-1200,height-628,overlay-ettelecom/france-slaps-fine-on-face-recognition-firm-clearview-ai.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a €20-million fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform."
     publishedDateTime: 2022-10-20T14:16:00Z
     webUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/"

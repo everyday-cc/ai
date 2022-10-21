@@ -1,30 +1,33 @@
 ---
 category: news
-title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
-excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
-publishedDateTime: 2022-10-20T20:13:00Z
-originalUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
-webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
-ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
-cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+title: "Texas AG Sues Google For Allegedly Capturing Face And Voice Data Without Consent"
+excerpt: "The lawsuit alleges Google Photos, Google Assistant and its Nest camera record users’ facial features and voices without their consent."
+publishedDateTime: 2022-10-20T17:10:00Z
+originalUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
+webUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
+ampWebUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
 type: article
-quality: 46
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: New York Post
-  domain: nypost.com
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Computer Vision
-  - AI
   - Natural Language Processing
+  - AI
 
 images:
-  - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
-    width: 1024
-    height: 682
+  - url: "https://imageio.forbes.com/specials-images/imageserve/63517ebecde363a31243604e/0x0.jpg?format=jpg&crop=2138,1203,x0,y176,safe&width=1200"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -71,21 +74,21 @@ related:
         width: 5000
         height: 2964
         isCached: true
-  - title: "Texas AG Sues Google For Allegedly Capturing Face And Voice Data Without Consent"
-    excerpt: "The lawsuit alleges Google Photos, Google Assistant and its Nest camera record users’ facial features and voices without their consent."
-    publishedDateTime: 2022-10-20T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
-    ampWebUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
+  - title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
+    excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
+    publishedDateTime: 2022-10-20T20:13:00Z
+    webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
+    ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
+      name: New York Post
+      domain: nypost.com
+    quality: 46
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63517ebecde363a31243604e/0x0.jpg?format=jpg&crop=2138,1203,x0,y176,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Texas Attorney General Ken Paxton sues Google again, this time over facial recognition and voice data"
     excerpt: "Texas Attorney General Ken Paxton filed a lawsuit against Google claiming the search giant violated Texans' privacy without getting their consent to do so."
@@ -138,6 +141,6 @@ related:
         height: 800
         isCached: true
 
-secured: "/M4yueAjOJ5N6mr54+zY3zMOUxYKNAnvwK7Qng1bVcZGcC2QlS9aIl6C4wFZol6D5u0cXnvAD+1fUI+tQPkPrveF5APwgfTpUM5J/my6tlc2Yq/48v8ZQHHpRZBYCR85ps3onXT1aiKAdKvTUfpZ1Td/9nbQwd4lvy/V7WMPu4UHAF7ICA/NbprBfB08XYeYfALGox0+/gMvHZQw7TAZricvOfDHkUbngwKe5ubL8wy3SYbsP/C4Lr8q4Nafl4kELNzUXnkknKm028rOb0h6d9l6errXmzXHy5JjdS7py/ewu3aFSediaDTLDFugoO7n2BYIPN1h4JWcL+JAvP6oSOqJfdksbNQIaHccR7DAND2aIHnnZaxRfax3phUo0L6P2Pk0s2vyUfshIR9lrW+pln43wHXDsN41yBjQLwFkHjdu5up2UdQaLsB7UEMc88Z9R5JiLvRyFhB8QouLZpfyICFMy6zchAMnBw2ol4AyNHRBfKL+Te46D+qCWl71FqyWEdl+0vdzIiht6DwmIaMObQ==;avQpsBD9tpWMrxDFW/LI1A=="
+secured: "ABA4oLMsoB4TDYmIhBAcYbi29hOPAUjwCYQWAFrrzZcEnd09GBKtwa9DCIUU1fPK7j/nKh0/PSyw2ZhMPH3251vFmTJOC+AjzkgUCloSKC0lJ/UeVbcRNplXb/NHAWP5FxG27oNg9fwFubTPZuE/vQH62J7YFmWfY8/5m5QgMh+EOEuKFVAsk4jMfo+pz6SqceBM7TYSCXxFnQPpDKC1dur/Fy5dpn6hVhp4kRPWZ2YoBSWukNxnyewLo3pNzqGUTLFxHkAfs/dWXvpRNKii8GsqZWhAXjqM5xvK9ZgkTien7UZZ/K9JPeS6l9UNuSqFmJiP41ztp3hib5NuiJsNe90Ixvzi4xjRvJRtyrvhzu0=;YCb6tN63tBCB0x2AdW984Q=="
 ---
 

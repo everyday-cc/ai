@@ -5,9 +5,11 @@ excerpt: "New research shows how an artificial intelligence model can function a
 publishedDateTime: 2022-10-20T17:30:00Z
 originalUrl: "https://healthitanalytics.com/news/artificial-intelligence-model-can-support-rare-disease-diagnoses-treatment"
 webUrl: "https://healthitanalytics.com/news/artificial-intelligence-model-can-support-rare-disease-diagnoses-treatment"
+ampWebUrl: "https://healthitanalytics.com/news/amp/artificial-intelligence-model-can-support-rare-disease-diagnoses-treatment"
+cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/artificial-intelligence-model-can-support-rare-disease-diagnoses-treatment"
 type: article
-quality: 15
-heat: 15
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -16,7 +18,14 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
-secured: "g1I86s8q50o0o2RPtJ7+iipJ7/575+ROAjphM5bEgR4w0U0uepLDRerV+qRd5JwF2+paFCjWzYfcX0Dq4wA2EwkLDAWxbPhep18cjsQJWx4jc3OVKHNfjtudjxgITaIHMwH35UcF5MhDN7ZguNcXkt3oHNP8NO0sfi/88QxeU2LWGuSJMnD7Obo5+1QGYOPE6xnYMdHyRPcKIOiJa4lC0bz7NidxuSjekkW6UDRDNQJxEbIlmT/V0tB9mveGqry+zZzqNL2AcnLyo2f710b5JF/k+mN6My8A8SOOn60xDOWshxMB2q1lU4+e/VKv4U3mbEk/DgyEDxvyVTiHGEWIoRje2anuDvrxfQlRzvPxz5JHKpcBbMS5WER54gtEyYMa6edZZo69frEIqZ7BQ6maaXlm7PC0cvDhw+p5dG+3B8s2XJHItQ+HLxbJeMjEpWsmqqCzIXjLBUViZu76USIuiQyOHO6NWvYtIRvhhA/yPO9bkIYT8rxt4oQu3W7uqnH4AiqIfWsY4fNt7gLAYlQAgA==;DAlKuPj6x3+x422/tIpoyw=="
+images:
+  - url: "https://healthitanalytics.com/images/sized/GettyImages-912319336-e4b00c1efb9503a805928b101c78b499.jpg"
+    width: 480
+    height: 278
+    isCached: true
+
+secured: "8+67MYiaMypKBODwmfeD+i6KfYdOUJ5SND+I/JXlQI4vZXkSyJKmPwFr2CyXyjL846/vQpzeavMWRb4YlOTll2lDGnct0332QJblMe5GXqJnQ3PA6ltFWZ7AE/VvtqFCWnjnzffzcr6mqQT080D0jKikBtRz5IUq9cUmny1gy8UihU05lOPpP6o7f8lgF2uoVo5pOoE0Aip4YEClt2Vy13bkJd+9oxarH6cOgQbKLO6erdnzZeoQUNg5/PVxKkExWZyc/F98jGUVUtzSVeFKpEmSgGyi946cqmQuaIDqHDdMsIl/4PcpqcadLVtiOlkBOuDAKGjaHE2P4fmtFqxvH/hLvDoUgoRbxY52AyDiq9Y=;Uc53k+kH/QcNu3vfyx9HHQ=="
 ---
 

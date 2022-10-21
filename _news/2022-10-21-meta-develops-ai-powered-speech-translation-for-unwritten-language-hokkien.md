@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Facebook To Translate The World’s Unwritten Languages"
-excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
-publishedDateTime: 2022-10-20T11:49:00Z
-originalUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
-webUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
+title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
+excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
+publishedDateTime: 2022-10-21T02:39:00Z
+originalUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
+webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: NoCamels - Israeli Innovation News
-  domain: nocamels.com
+  name: Marketing Interactive
+  domain: marketing-interactive.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/face.jpg"
-    width: 1200
-    height: 900
+  - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
+    width: 800
+    height: 450
     isCached: true
 
 related:
@@ -185,6 +185,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Facebook To Translate The World’s Unwritten Languages"
+    excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
+    publishedDateTime: 2022-10-20T11:49:00Z
+    webUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/face.jpg"
+        width: 1200
+        height: 900
+        isCached: true
   - title: "Meta Announces First AI-Speech Translator For Unwritten Language"
     excerpt: "Meta announced its first AI-speech translator for an unwritten language, Hokkien. Check out more details about it here."
     publishedDateTime: 2022-10-20T06:04:00Z
@@ -227,20 +241,6 @@ related:
         width: 1201
         height: 630
         isCached: true
-  - title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
-    excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
-    publishedDateTime: 2022-10-21T02:39:00Z
-    webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z
@@ -270,6 +270,6 @@ related:
         height: 869
         isCached: true
 
-secured: "6rVcIVBSbLGgLInIkY5mgkA910Sf8celw/SP6bHBnynDh6BCWssYna6JSXBpxLOUB+4hwNbvpG2P6VLiGOKL6tpa8d4JCFOnIy4OnD+8rK3rlGCnVtN+KseEzvJM6sR7US4wVBN8AqNEle7dz1tFVZg40FIofpH6j0tTGH0Px7YtmYWdfj/AjfBUnNwP9ELF1Xf24QZ6Y6HrAnZSuyMe3X5Tl+v9V8iV50sVokoTNWv+UHPsGnNEPW71+S/TosGCINMSuIojVYr/n+ReaGaBibg1O4/vJPqYBhCG0QIYAUpnWVeRjyw8QKS4KHwhs+0sHsaUlhtEgUgfGwqF72oerfpA5UtfFcisICbgPIoRMhA=;2I83ql9AyI8AXawJaQoHpQ=="
+secured: "KnWiccc249JsMss5/3GPzwn/sg1Wpq3tzTQVW2OI/NPWt1ZVAOF1WOsqxAjPh7c0VT587t9pXJwWuXycLd9xfxvB5sFHGQJagml1HEMqrqMKyyPCzaO1hgOkrvY4KVSNmyTFP22+tzCCLR7GVH56woF95Ccb0rj8JeCBfYKbnEdWOr4ls43ut5obc4dREgi2Ibg77paodXLHhPdzVFAnesPQEQw7woLunSjX5rdXX96yLCG+auIugIW1HZAaPxzeodqzMCCOuM8SdIu+ZP2ew/8J/+BLPac+MWbiroyuhvwLg+K6XXzjR0uF9AaMo5CNwZRG5K7vuYXLcpKmOiAz8GLBVTJ0eabsJbEZIb4oaX0=;Hq0QUmAl166mVa3OGj2UUg=="
 ---
 

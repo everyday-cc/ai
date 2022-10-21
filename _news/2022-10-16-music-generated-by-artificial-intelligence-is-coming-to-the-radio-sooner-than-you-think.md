@@ -8,8 +8,8 @@ webUrl: "https://globalnews.ca/news/9193451/ai-generated-music/"
 ampWebUrl: "https://globalnews.ca/news/9193451/ai-generated-music/amp/"
 cdnAmpWebUrl: "https://globalnews-ca.cdn.ampproject.org/c/s/globalnews.ca/news/9193451/ai-generated-music/amp/"
 type: article
-quality: 49
-heat: 49
+quality: 51
+heat: 51
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://globalnews.ca/wp-content/uploads/2022/09/oakville-teacher2.png?w=276"

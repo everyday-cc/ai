@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
-excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50%"
-publishedDateTime: 2022-10-20T09:40:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html"
+excerpt: "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,"
+publishedDateTime: 2022-10-20T06:38:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/20/9696307.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696307.htm"
 type: article
 quality: 52
 heat: 72
 published: true
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1454282/Innodisk_Logo.jpg?p=facebook"
-    width: 599
-    height: 315
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
     isCached: true
 
 related:
@@ -44,6 +44,6 @@ related:
       domain: finanznachrichten.de
     quality: 21
 
-secured: "CLfkNw5tN1MB5/7yqrTGnh39jvYX8Nhl/+HhCZsyYmLlBagDmYJFR80uHzZ97bNttNSyRop9Jj54MVjloOVRb1IRzL11DoUv2sxQmEz8MCNS1AQlrwWMwCcVhS9Eswdp6kDHlkLDxI2icuNNA6Zt/RWaN3gSImv6IHd4PeOCRtLPw7kLMFn/7LAPBzQHYKgxmTmbTOKaYkKqyqlTi2jIA9a7Jl3tARFV5f8fhddXarJVz0RqkMyHazbcNZA6XpBgmm2BEJa2oZ2FEKynThgHzcAJbY+jK1DQZy/B4tUao6xcrcSNfkP5CqBYgWZTDpLkwT3cZ/nkOmtWjkW/4fKAyBUNbuElEYqsrronkfXGPeE=;yNasuUWgdwx8Hm3WxZF9wg=="
+secured: "ADVU+cSwOPFm5mU503Q5C79Kl79VBARqz7pWmkukLmiPA+Svgb4438m7fNNEuaMfNftf6yR8Fa6UWunuCpmDfecBoUwKaw6yUez/hiIp8GCVLCRBpT69+nIGGVujZmLpGc7XwMu7n7ipOXLlVnFp8e2yQRSqbW6Qw7M6lCBr0HwDgf9duR2Sv6b/DQwaRyckuVZeWMBitDoLs5KP5OLJ6rCqf8IbV3/AvrzJ4igcIu5F91c957cPlKzbJzZEuEPy+mAzWoAmKbzhwdTkbeeC+bVPIBcEKG6KmWaHYD6Jvn8jTY2yHVDpfL9d+XYN8UAhnBgclGzXofE2q6G41EDvz3OH9M6NCaBjJgTuWgRZ3nU=;VJH2A+u5SyLwV827bFiq7Q=="
 ---
 

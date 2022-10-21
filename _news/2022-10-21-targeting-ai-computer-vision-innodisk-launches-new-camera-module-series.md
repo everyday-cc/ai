@@ -20,18 +20,18 @@ topics:
 
 related:
   - title: "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
-    excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50%"
-    publishedDateTime: 2022-10-20T09:40:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/targeting-ai--computer-vision-innodisk-launches-new-camera-module-series-301654680.html"
+    excerpt: "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,"
+    publishedDateTime: 2022-10-20T06:38:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696307.htm"
     type: article
     provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
+      name: TMCnet
+      domain: tmcnet.com
     quality: 52
     images:
-      - url: "https://mma.prnewswire.com/media/1454282/Innodisk_Logo.jpg?p=facebook"
-        width: 599
-        height: 315
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
   - title: "Innodisk Corporation: Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
     excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50% of Innodisk's"

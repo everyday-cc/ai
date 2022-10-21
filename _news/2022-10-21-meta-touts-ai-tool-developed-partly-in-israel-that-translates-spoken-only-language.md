@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Facebook To Translate The World’s Unwritten Languages"
-excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
-publishedDateTime: 2022-10-20T11:49:00Z
-originalUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
-webUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
+title: "Meta touts AI tool, developed partly in Israel, that translates spoken-only language"
+excerpt: "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project"
+publishedDateTime: 2022-10-20T18:49:00Z
+originalUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
+webUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
+ampWebUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
+cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
 type: article
-quality: 39
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: NoCamels - Israeli Innovation News
-  domain: nocamels.com
+  name: The Times of Israel
+  domain: timesofisrael.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/face.jpg"
-    width: 1200
-    height: 900
+  - url: "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg"
+    width: 640
+    height: 400
     isCached: true
 
 related:
@@ -114,22 +116,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
-  - title: "Meta touts AI tool, developed partly in Israel, that translates spoken-only language"
-    excerpt: "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project"
-    publishedDateTime: 2022-10-20T18:49:00Z
-    webUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
-    ampWebUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 67
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "How Meta is using this new AI tool for translating unwritten languages"
     excerpt: "Facebook-parent Meta CEO Mark Zuckerberg shared a video in which an engineer who helped develop this tech spoke Hokkien and it was translated to Engli"
     publishedDateTime: 2022-10-20T17:31:00Z
@@ -184,6 +170,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Facebook To Translate The World’s Unwritten Languages"
+    excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
+    publishedDateTime: 2022-10-20T11:49:00Z
+    webUrl: "https://nocamels.com/2022/10/facebook-to-translate-the-worlds-unwritten-languages/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2021/10/face.jpg"
+        width: 1200
+        height: 900
         isCached: true
   - title: "Meta Announces First AI-Speech Translator For Unwritten Language"
     excerpt: "Meta announced its first AI-speech translator for an unwritten language, Hokkien. Check out more details about it here."
@@ -270,6 +270,6 @@ related:
         height: 869
         isCached: true
 
-secured: "6rVcIVBSbLGgLInIkY5mgkA910Sf8celw/SP6bHBnynDh6BCWssYna6JSXBpxLOUB+4hwNbvpG2P6VLiGOKL6tpa8d4JCFOnIy4OnD+8rK3rlGCnVtN+KseEzvJM6sR7US4wVBN8AqNEle7dz1tFVZg40FIofpH6j0tTGH0Px7YtmYWdfj/AjfBUnNwP9ELF1Xf24QZ6Y6HrAnZSuyMe3X5Tl+v9V8iV50sVokoTNWv+UHPsGnNEPW71+S/TosGCINMSuIojVYr/n+ReaGaBibg1O4/vJPqYBhCG0QIYAUpnWVeRjyw8QKS4KHwhs+0sHsaUlhtEgUgfGwqF72oerfpA5UtfFcisICbgPIoRMhA=;2I83ql9AyI8AXawJaQoHpQ=="
+secured: "p3vqGAAJOM4qE+KxB0rurKXfYwCcEuMHOJcb9xvEz+0CoqlJ4k4BhqOQLiPxHGrmR8lTBODPFa5RsOXS3xOxAwqVhYqmq/F5nEty3XsqaEWJKjjyQK2qMlwArpd5v/XUIeMG2k+chiBXMLfnhud+GZANDGDzOVMy2YSTkeh4Zl4xQ0H8AoJDNlJdH50szV4kimTRJhYpR+o3ztsQjckN2IQjdzMfRnJDw/0S2uPe7THn/wg3SyW50e4hN57nOEF/M5RVCSCR/YOCCu47A7m8HMYNdFlslbiogr5NSwvGhfZADSpkxDQpQx7UxPJqbC0FJT1sOMFLOX9KoNCMStSpIF5CbEdbaSTQ7FnRAz9SjEQ=;2lXDjjLdGMXb8+jB0sGJug=="
 ---
 

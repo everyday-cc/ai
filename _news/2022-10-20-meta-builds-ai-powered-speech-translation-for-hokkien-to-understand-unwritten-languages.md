@@ -114,6 +114,22 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 69
+  - title: "Meta touts AI tool, developed partly in Israel, that translates spoken-only language"
+    excerpt: "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project"
+    publishedDateTime: 2022-10-20T18:49:00Z
+    webUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
+    ampWebUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 67
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
   - title: "How Meta is using this new AI tool for translating unwritten languages"
     excerpt: "Facebook-parent Meta CEO Mark Zuckerberg shared a video in which an engineer who helped develop this tech spoke Hokkien and it was translated to Engli"
     publishedDateTime: 2022-10-20T17:31:00Z
@@ -224,6 +240,20 @@ related:
       - url: "https://static.mothership.sg/1/2022/10/meta-hokkien-translation.jpg"
         width: 1201
         height: 630
+        isCached: true
+  - title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
+    excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
+    publishedDateTime: 2022-10-21T02:39:00Z
+    webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
+    type: article
+    provider:
+      name: Marketing Interactive
+      domain: marketing-interactive.com
+    quality: 37
+    images:
+      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
     excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
