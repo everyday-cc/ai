@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-21-how-artificial-intelligence-is-branching-out-into-politics.md",
+      "title": "How artificial intelligence is branching out into politics",
+      "excerpt": "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "publishedDateTime": "2022-10-21T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
       "title": "France slaps fine on face recognition firm Clearview AI",
       "excerpt": "The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reported..",
@@ -399,7 +442,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -752,7 +795,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -961,7 +1004,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/elon-musk-tesla-full-self-driving-beta-expansion-this-year/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 164,
       "tags": null,
       "images": [
         {
@@ -1208,57 +1251,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
-      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
-      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
-      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
-      "publishedDateTime": "2022-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -103,6 +103,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Elon Musk Said Tesla Full-Self-Driving Beta Will Be Open This Year"
+    excerpt: "Tesla has rolled the FSD to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing"
+    publishedDateTime: 2022-10-21T07:52:00Z
+    webUrl: "https://menafn.com/1105058107/Elon-Musk-Said-Tesla-Full-Self-Driving-Beta-Will-Be-Open-This-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/21/KP_0f77fimage_story.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Musk: Teslas won't be approved as fully self driving this year"
     excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
     publishedDateTime: 2022-10-20T20:04:00Z
@@ -116,6 +130,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/TTESLAS-MAIN_i.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year: Elon Musk"
+    excerpt: "Tesla says the cars still need to be driven with human oversight. A highly autonomous vehicle would require regulatory approval in California, for example. Elon Musk also said Tesla hopes to provide an update to FSD in 2023 to show regulators that the technology is much safer than the average human driver."
+    publishedDateTime: 2022-10-21T07:49:00Z
+    webUrl: "https://www.timesnownews.com/auto/car-news/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-article-95004524"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 52
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95004524,imgsize-100,width-1280,height-720,resizemode-75/95004524.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "Oxd7OgsdgT7xKNXoghYkuiXxdl8SzMCGB2s2TpsNn3UGOcH+6vRP8DO+iHx6VNr2ql1lzB+Jvomlk2aZFcBhBC8bu7QVi6sKVW9oOlwTK/nyt5Qd8tyB6rO1v3U6SrMakWHNxp/7PpSSS2N/KVuyUw0iUtGrNbVAcKomS56j29NWJHlBw3XQ2dWfbq0jC1YPNnfnTXxOEFJPNUQvG1WegyUaCv9GcWvKGjV1OQLBh40hHdq9fp66Ljwlv3BnrZaxUrEuHeLpkuWwRaUXNbJJCgnSIGgGFVyJC7azM05Gu9Ytf4hqDtCoApfVtCH0H0qgLDn0GGKxm+M2P1zqrRn4nxDpkz+EbIBqFFaGlpxNedo=;254J7fAPvtJHNPwlyyRHoA=="

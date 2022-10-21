@@ -87,6 +87,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Texas sues Google over biometric recognition features"
+    excerpt: "The US state of Texas filed a lawsuit against Google on Thursday, accusing the internet giant of harvesting large amounts of biometric data from people without their explicit consent, a claim rejected by the California-based company."
+    publishedDateTime: 2022-10-21T07:26:00Z
+    webUrl: "https://techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 44
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/google-1.jpg"
+        width: 2880
+        height: 2160
+        isCached: true
+  - title: "US: Google faces Texas lawsuit over biometric recognition features"
+    excerpt: "Without clear federal guidelines addressing how user data can be collected and used, several American states have passed their own rules"
+    publishedDateTime: 2022-10-21T06:12:00Z
+    webUrl: "https://www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features"
+    ampWebUrl: "https://www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features?amp=1"
+    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features?amp=1"
+    type: article
+    provider:
+      name: Khaleej Times
+      domain: khaleejtimes.com
+    quality: 44
+    images:
+      - url: "https://image.khaleejtimes.com?uuid=690a6a28-99a4-5132-bb0e-01a6b0013f64&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82569&width=1200&height=675&x=1.0E-5&y=0.17431"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Texas Attorney General Ken Paxton sues Google again, this time over facial recognition and voice data"
     excerpt: "Texas Attorney General Ken Paxton filed a lawsuit against Google claiming the search giant violated Texans' privacy without getting their consent to do so."
     publishedDateTime: 2022-10-20T18:23:00Z

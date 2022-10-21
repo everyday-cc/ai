@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
-    publishedDateTime: 2022-10-18T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
+  - title: "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027)."
+    publishedDateTime: 2022-10-19T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -950,19 +950,19 @@
     {
       "path": "_news/2022-10-14-cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower.md",
       "title": "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower",
-      "excerpt": "With a single click to start, Conga sets users free from ... a 0.1s response time for avoiding obstacles. Conga – AI Powered Lawn Care Robot by Cobb Douglas Robot makes grass maintenance a ...",
+      "excerpt": "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut.",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower",
-      "originalUrl": "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower",
+      "webUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/e6d6c12ed5821955e10c1800b968caa4b2f206b3-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -972,12 +972,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T11:05:00-07:00",
+      "publishedDateTime": "2022-10-13T11:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

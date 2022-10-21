@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/aidoc-expands-card
 webUrl: "https://markets.businessinsider.com/news/stocks/aidoc-expands-cardiology-solutions-by-bringing-us2-ai-s-echo-ai-into-proprietary-operating-system-1031822850"
 type: article
 quality: 34
-heat: 34
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ topics:
   - AI
 
 related:
+  - title: "How artificial intelligence is branching out into politics"
+    excerpt: "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on"
+    publishedDateTime: 2022-10-21T07:02:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "How artificial intelligence is branching out into politics"
     excerpt: "In Denmark, a political party led by an artificial intelligence has now been founded. Its name? The Synthetic Party."
     publishedDateTime: 2022-10-20T12:34:00Z

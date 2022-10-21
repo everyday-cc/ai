@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-21-how-artificial-intelligence-is-branching-out-into-politics.md",
+      "title": "How artificial intelligence is branching out into politics",
+      "excerpt": "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
+      "publishedDateTime": "2022-10-21T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes India",
+        "domain": "forbesindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
       "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
       "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 298,
+      "heat": 308,
       "tags": null,
       "images": [
         {
@@ -1343,40 +1386,6 @@
         "Machine Learning",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-how-artificial-intelligence-is-helping-toronto-hospitals-predict-patient-outcomes-and-save-lives.md",
-      "title": "How artificial intelligence is helping Toronto hospitals predict patient outcomes and save lives",
-      "excerpt": "“It is perfectly clear in my mind that by harnessing data and using advanced analytics and artificial intelligence, we’re going to be able to transform health care globally,” says Rutledge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "originalUrl": "https://www.thestar.com/news/gta/2022/09/26/is-artificial-intelligence-the-pill-that-health-care-needs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Toronto Star",
-        "domain": "thestar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

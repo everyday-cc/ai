@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 756
         isCached: true
+  - title: "Elon Musk Said Tesla Full-Self-Driving Beta Will Be Open This Year"
+    excerpt: "Tesla has rolled the FSD to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing"
+    publishedDateTime: 2022-10-21T07:52:00Z
+    webUrl: "https://menafn.com/1105058107/Elon-Musk-Said-Tesla-Full-Self-Driving-Beta-Will-Be-Open-This-Year"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/updates/pr/2022-10/21/KP_0f77fimage_story.jpg"
+        width: 720
+        height: 405
+        isCached: true
   - title: "Musk: Teslas won't be approved as fully self driving this year"
     excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
     publishedDateTime: 2022-10-20T20:04:00Z
@@ -116,6 +130,20 @@ related:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/TTESLAS-MAIN_i.jpg"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Tesla cars will not be approved as fully self driving this year: Elon Musk"
+    excerpt: "Tesla says the cars still need to be driven with human oversight. A highly autonomous vehicle would require regulatory approval in California, for example. Elon Musk also said Tesla hopes to provide an update to FSD in 2023 to show regulators that the technology is much safer than the average human driver."
+    publishedDateTime: 2022-10-21T07:49:00Z
+    webUrl: "https://www.timesnownews.com/auto/car-news/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-article-95004524"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 52
+    images:
+      - url: "https://static.tnn.in/thumb/msid-95004524,imgsize-100,width-1280,height-720,resizemode-75/95004524.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "H51uezAvCdv1O+HlCYPXkvyhcgIyONZxCYzm7RP7rZYvvmkT2I9ld6vcS9+ssQqAeCmFKyIIi9hK2hJDhMxMU8AkLzIyLFsfkSPrBENrMMdAXMV6nsR8C/05Soj4bxfBpyzlybDiAK+8X+zcHcFHUdV97LCz2vdiDwFsKR6SHvxj8A6hRoMqcoghu5OeU40On6m1v4xJwuyf6sYARqlQGq6v4gg62lud8qdxUY1MIioDJqn5mj3dJdgBiiywOLVZFHAbK9tNep+IwmUGADmQvKUy1c7Xr4DVKNOEhOSErvQ386i0KCs+SZTP7Wzf4g0eOKBp4rqSYW71T8HZRs+/rpmenhGbo24BXqz6ku6Uk5EefYAIetLNny7g9XvThsoavE1w+yqIMg7ViNOwHZcr11hj8yaLkL4Sr/RJfJPaMpIwTv+cpG8agB7URoyd0lN7IgMwARf+s9Zcn/hJ507PHwdXltGOkloeUc3mcrC0VzBSndHVpiGAKKWGJR2sn1044Oc9helF83QO+Hmp8mefDA==;R/DrCQHh9VBEeQlHphms4w=="

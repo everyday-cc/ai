@@ -49,6 +49,15 @@ related:
         width: 2880
         height: 2304
         isCached: true
+  - title: "AI is making scientists rethink language learning"
+    excerpt: "For years, linguists believed that learning language is impossible without a built-in grammar template. New AI models prove otherwise."
+    publishedDateTime: 2022-10-21T04:05:00Z
+    webUrl: "https://www.fastcompany.com/90798475/ai-is-making-scientists-rethink-language-learning-and-raising-questions-about-grammar"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 19
   - title: "AI is changing scientists' understanding of language learning – and raising questions about an innate grammar"
     excerpt: "Unlike the carefully scripted dialogue found in most books and movies, the language of everyday interaction tends to be messy and incomplete, full of false starts, interruptions and people talking over each other."
     publishedDateTime: 2022-10-19T08:02:39Z

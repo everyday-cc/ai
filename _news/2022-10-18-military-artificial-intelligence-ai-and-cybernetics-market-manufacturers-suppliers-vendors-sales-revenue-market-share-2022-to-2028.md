@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ Machine Learning as a Service (MLaaS) market ”. It should help to clarify the research issues so that management can use the findings to make decisions."
+    publishedDateTime: 2022-10-20T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Neural Network Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028 | 102 Pages Report"
     excerpt: "Oct 19, 2022 (The Expresswire) -- \"Neural Network Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalNeural Network"
     publishedDateTime: 2022-10-20T02:09:00Z

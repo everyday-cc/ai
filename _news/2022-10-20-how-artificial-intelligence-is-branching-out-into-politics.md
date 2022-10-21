@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "How artificial intelligence is branching out into politics"
+    excerpt: "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on"
+    publishedDateTime: 2022-10-21T07:02:00Z
+    webUrl: "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
+    type: article
+    provider:
+      name: Forbes India
+      domain: forbesindia.com
+    quality: 59
+    images:
+      - url: "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Aidoc expands cardiology solutions by bringing Us2.ai's echo AI into proprietary operating system"
     excerpt: "Aidoc's aiOS™ offers clinicians access to real-time data and insights, helping to provide streamlined end-to-end patient care management. NEW"
     publishedDateTime: 2022-10-21T01:19:00Z

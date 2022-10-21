@@ -1,28 +1,28 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
-publishedDateTime: 2022-10-10T10:25:00Z
-originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
+publishedDateTime: 2022-10-10T09:00:00Z
+originalUrl: "https://www.wvxu.org/news-from-npr/news-from-npr/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+webUrl: "https://www.wvxu.org/news-from-npr/news-from-npr/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+ampWebUrl: "https://www.wvxu.org/news-from-npr/news-from-npr/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+cdnAmpWebUrl: "https://www-wvxu-org.cdn.ampproject.org/c/s/www.wvxu.org/news-from-npr/news-from-npr/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
 type: article
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: WVXU
+  domain: wvxu.org
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/456da3a/2147483647/strip/true/crop/3556x2190+0+238/resize/880x542!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F06%2F20211112-usfh-yael-bensoussan-ent-029-9c323b673818099ec763e1348ec00dde48b95595.jpg"
-    width: 880
-    height: 542
+  - url: "https://npr.brightspotcdn.com/dims4/default/d0cd1b4/2147483647/strip/true/crop/4032x2268+0+378/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F1e%2Fc5%2Fb5f21793441d84f2f870f6cc1c98%2Fnorthside-ped-safety.jpg"
+    width: 480
+    height: 270
     isCached: true
 
-secured: "cQoeCMBKivbAHKfEt56FlvWfBjx9R2mBAXrKDKvedyecAuAKq6W+hEDuswL4+aJUxB+N8hCWYLUnRRWiSUIQVEUm+I0xc1b9PZy3eV6RpzHNUq+HTkRuiElTW7Nd7wohjs4hztZw/b83aC1tyjhBZWLN5wjw/JuFuvMYJUyVWQ2KRldAdrWi5Eh4T//1qMiRiQqtPuiMgJpN6SO2C+LJs4v9s+Jt0YjgkMRcVH+LDjQhr1sDsd2+HZkYpwkY36uQwpCnMSATbqhnAdW1M6FnWhDEe+5jXzYo373AWGy0s2P7KvgxelDPe38iUDUJSXVgpJfjlDQpeuUTYTkZEet5dRxNAEuGOM/1yggpXPoVtnM=;e5blzBlgGrS938+nA42/Xg=="
+secured: "ukE6zJ8JZRBCtN5QwPTBMU3ePSu1FFJTFhM/BcWfzIQZEyE7x0UySGlLckxypWWvswLFanFkXFcVRplce+yupT0pQD00ZQoLOw7A8EeoJ2upIrjGBG3dmhH1fk3uKg+mDOyZusxKzJty/+eMwdAsIe1Dd7ysCd9tEc4+1wRH9s2onfO/Eew4tOJppzbo/YWf35XDAcxMq4hws3hAlUE6p4nnv79ofzLTBfSBAharPF7vCwJOkeswqDLx4QvvMXkOEMOU0WsBikloFneY8R7KxRM9sJEf5MX4EN/OHwP+j+wLgOHOYKWMF8Q/fFLX/LwTpkD3eoVic3gYujq6hWdWc97Un86fPzyiXhrcDninrVA=;JEOzmQvSa//aUs7QaQGR1g=="
 ---
 

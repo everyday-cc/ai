@@ -106,7 +106,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 156,
+      "heat": 176,
       "tags": null,
       "images": [
         {
@@ -487,58 +487,6 @@
         "name": "thenewdaily",
         "domain": "thenewdaily.com.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report.md",
-      "title": "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report",
-      "excerpt": "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -1469,6 +1417,49 @@
       "provider": {
         "name": "GizChina",
         "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-07-the-pixel-7s-face-unlock-is-only-for-the-lock-screen-and-cant-be-used-to-replace-a-fingerprint.md",
+      "title": "The Pixel 7's Face Unlock is only for the lock screen and can't be used to replace a fingerprint",
+      "excerpt": "But as Google puts it, this authentication mode really relies on the company's \"advanced machine learning models\" for facial recognition. That said, camera systems have been fooled before and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/face-unlock-on-pixel-7-pro/",
+      "originalUrl": "https://www.androidpolice.com/face-unlock-on-pixel-7-pro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/10/msedge_102310_as.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-06T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
         "images": null,
         "publishers": null,
         "authors": null

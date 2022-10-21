@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
+      "title": "Three Ways AI Transforms Security",
+      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "publishedDateTime": "2022-10-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
+      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
+      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
+      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
+      "publishedDateTime": "2022-10-18T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-baristas-in-san-francisco-went-on-strike-their-robot-co-workers-went-right-on-serving.md",
       "title": "Baristas in San Francisco went on strike. Their robot co-workers went right on serving",
       "excerpt": "The coming robot apocalypse threatens to pit humans against machines. Here's how to make peace with your future coworkers, before it's too late.",
@@ -353,58 +457,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report.md",
-      "title": "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report",
-      "excerpt": "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -1179,58 +1231,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
-      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
-      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-10-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning as a Service (MLaaS) Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ Machine Learning as a Service (MLaaS) market ”. It should help to clarify the research issues so that management can use the findings to make decisions."
+    publishedDateTime: 2022-10-20T04:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 73
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Military Artificial Intelligence (AI) And Cybernetics Market Manufacturers, Suppliers, Vendors Sales, Revenue, Market Share 2022 to 2028"
     excerpt: "And Cybernetics Market \" research report provides significant and thorough information about the global market. This report provides a comprehensive analysis and trustworthy data. Included are a description of the company,"
     publishedDateTime: 2022-10-18T00:30:00Z
