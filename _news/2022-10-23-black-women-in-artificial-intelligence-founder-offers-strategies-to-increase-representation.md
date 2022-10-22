@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI Ethics
 
 images:
   - url: "https://news.miami.edu/_assets/images-stories/2022/10/angie-bush-hero-940x529.jpg"
@@ -23,6 +25,6 @@ images:
     height: 529
     isCached: true
 
-secured: "ftxZ8L1/9IootcxmrelWNo8Nuv7iVjcgTKCSHxJk2/QDDqUeI+YXjbRCk1x+f8H6bkyh2vWfd8pQX/26VsnE3zGOUAMqqpM2nODVJCJOIFAQ0DyuezPjZQosclki33GuXpKnHsAZoj9p6FrqitOzE5iEqMauGiqtZbDViYBoYXbSXI/fqCvxQ3k8A9rhTA+mTAn/9jGOk17BjWgUBezRtgJDPR1fGaMQe4i2WtmgDKXs0ad/MJUx1U1/WWI5dQpZeyDFitEcxaP6mYsgM6J3qC5o/GqXphFKPyg1Iw1POeWpbPCzl2yy6bwQvMM8RVtR2TfxRR/MGtevrL3nne2tk/28RcWYXjekpbe485QIn7c=;wRg0IxVqYbClTPGBQVitnQ=="
+secured: "TGp/Deo3wDbLdPniQ4kqi9mJysIELbSLNXZ9Gsu0/TJ/5KZerxVZx3WBvionsyxH48R5Egh/Gz6RdD9FZaBPum01D5basIgnCVG0OGPTI/Sc84s0DLKu0BEu3u2OzrszydAinUzlvpaq+10ZluU8j9X4iCh5V6zN8y5ZvXVLSPA0Fsc4l0ovMENOi5HlIxEvC109HH6Yc6vFycdrgqA7t6ykZsGhpNWc06FH6MHDByRE9NVPWEHT9o3Sx5CY2wmh07vmKwGbpki5zP++CfxL0QWvGz08yahQkVASqlII9md/n9NSoEPQZ/a4hxolc9paZkYOJX9I+L0hmtttiZG2Ynt4Al9Tqy4jGE1ZHPl/PpMv9EZI6l7CgISFZzVrRfa7AqkOJ5+j6Vm1QKy9vf3qGmin/UnTuNZwTTjv9vB3KUf2xKcnJBB5CC+01THLEt4JSf2QJh2laJRUHruRDh2wIwOoiiLcZQUCEWFtvp1KaPgvcJD0aGSC5e54IM1vBDVkr/EvHjC0z8kOec7nZc0g0A==;fs17EN6jIhObGU9qSM1q3w=="
 ---
 
