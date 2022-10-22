@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
 type: article
 quality: 51
-heat: 61
+heat: 51
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - Computer Vision
   - AI
   - Machine Learning
-
-related:
-  - title: "Deep learning software helps to identify miniscule bacteria in microscopy images"
-    excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images."
-    publishedDateTime: 2022-10-17T20:22:00Z
-    webUrl: "https://www.news-medical.net/news/20221017/Deep-learning-software-helps-to-identify-miniscule-bacteria-in-microscopy-images.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 36
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/bacteria_-_Sebastian_Kaulitzki_46826fb7971649bfaca04a9b4cef3309-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
 
 secured: "4dll/yd+lhj9LoV6Id0Bfb1/rJF5SJrZkr6vxp7v85WLUv8XsRYSRir7uDrvdIKoNDlD0I3bRVf3XIi6EYudaTxZub0WToKWqTgLIsSwv8PXSQd60wrU9pdxXpJNeD/dmtyL+3eytcs8l+H2MbbBHK1uRdh24YCCI4trxVDwBZ24tWFRlnt1Ecw7iCzeR44GJVkM+unBObVgx1DbKR3gQyyWz0HOV6B2kD+OWeshPXH1rVdHeKAXKurEcSLllJlDHoNloX05ZJTh3EV2sNJP0beBZAOxJyz3BWz6bqaimrqdMOsy/JEOzON1DBmMoPjTlmCAhOfDoj+E0bFu8r7uoA4tmFCG8XgerEz9ER5PlrA=;EO3plJkiPalJcfVhkGdmWw=="
 ---

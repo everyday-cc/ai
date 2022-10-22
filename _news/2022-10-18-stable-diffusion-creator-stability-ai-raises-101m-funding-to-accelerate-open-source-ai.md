@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/stable-diffusion-creator-stability-ai-rai
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/stable-diffusion-creator-stability-ai-raises-101m-funding-to-accelerate-open-source-ai/amp/"
 type: article
 quality: 79
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -46,29 +46,6 @@ related:
         width: 1200
         height: 604
         isCached: true
-  - title: "AI startup Stability AI raises $101M in new funding"
-    excerpt: "The London-based startup announced the investment today. According to Bloomberg, it’s now valued at $1 billion. Stability AI is the developer of Stable Diffusion, an open-source neural network that can generate images based on text prompts from users."
-    publishedDateTime: 2022-10-17T19:34:00Z
-    webUrl: "https://siliconangle.com/2022/10/17/ai-startup-stability-ai-raises-101m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 41
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/image-7.png"
-        width: 718
-        height: 404
-        isCached: true
-  - title: "AI startup Stability AI raises $101M in funding"
-    excerpt: "Stability AI announced the investment today. According to Bloomberg, the London-based startup is now valued at $1 billion. Stability AI is the developer of Stable Diffusion, an open-source neural network that can generate images based on text prompts from users."
-    publishedDateTime: 2022-10-17T19:26:00Z
-    webUrl: "https://siliconangle.com/2022/10/17/ai-startup-stability-ai-raises-101m-funding/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 19
   - title: "Stability AI uses latent diffusion models to allow users to create art in Stable Diffusion"
     excerpt: "The digital media firm says that it is the “world’s first community-driven, open-source artificial intelligence company.”"
     publishedDateTime: 2022-10-18T19:17:00Z

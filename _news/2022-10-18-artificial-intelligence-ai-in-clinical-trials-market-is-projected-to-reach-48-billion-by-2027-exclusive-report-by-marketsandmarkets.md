@@ -254,15 +254,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
-    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
   - title: "Global Microprocessor and GPU Market Report 2022: Market"
     excerpt: "Global Microprocessor and GPU Market to Reach $97.4 Billion by 2026. The global market for Microprocessor and GPU estimated at US$87.7 Billion in the year 2022, is projected to re"
     publishedDateTime: 2022-10-19T19:53:00Z

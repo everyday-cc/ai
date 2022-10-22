@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-22T13:00:00Z
 originalUrl: "https://www.nwitimes.com/news/local/lake/munster/eads-elementary-principal-earns-national-recognition/article_c041259d-f1e2-56c6-8ce9-a9202316670a.html"
 webUrl: "https://www.nwitimes.com/news/local/lake/munster/eads-elementary-principal-earns-national-recognition/article_c041259d-f1e2-56c6-8ce9-a9202316670a.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Times of Northwest Indiana

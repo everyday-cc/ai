@@ -51,20 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 60
-  - title: "MongoDB expands Microsoft Azure alliance"
-    excerpt: "Continuing to build on its relationships with the leading cloud hyperscalers, MongoDB this week unveiled an expanded alliance with Microsoft through which developers using the MongoDB Atlas cloud database can build data-intensive applications within the Azure Marketplace and Azure Portal."
-    publishedDateTime: 2022-10-17T22:27:00Z
-    webUrl: "https://www.crn.com.au/news/mongodb-expands-microsoft-azure-alliance-586605"
-    type: article
-    provider:
-      name: CRN Australia
-      domain: crn.com.au
-    quality: 54
-    images:
-      - url: "https://i.nextmedia.com.au/News/20221018015710_chhabra_alan_mongodb.jpg"
-        width: 610
-        height: 354
-        isCached: true
   - title: "Meet Magneto: Microsoft’s Foundation Transformer for General-Purpose Modelling Across Tasks and Modalities"
     excerpt: "The machine learning community has seen a trend in recent years, with researchers working to converge their model architectures across language, vision, speech, and multimodal classes. While transformer architectures have become the de facto standard for building such highly desirable general-purpose foundation models,"
     publishedDateTime: 2022-10-18T21:17:00Z

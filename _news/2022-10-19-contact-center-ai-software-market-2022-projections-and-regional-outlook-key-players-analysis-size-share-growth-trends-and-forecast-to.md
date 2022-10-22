@@ -247,15 +247,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
-    excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market---global-industry-analysis-size-share-growth-trends-and-forecast-2022-to-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 22
   - title: "Artificial Intelligence (AI) in Clinical Trials Market is Projected to Reach $4.8 billion by 2027- Exclusive Report by MarketsandMarkets™"
     excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Clinical Trials Market by Offering (Software, Services), Technology (Machine Learning, Deep"
     publishedDateTime: 2022-10-18T07:45:00Z

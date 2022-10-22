@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-18T10:13:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-is-anticipated-to-grow-at-a-near-185-cagr-2022-10-18"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-is-anticipated-to-grow-at-a-near-185-cagr-2022-10-18"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: MarketWatch

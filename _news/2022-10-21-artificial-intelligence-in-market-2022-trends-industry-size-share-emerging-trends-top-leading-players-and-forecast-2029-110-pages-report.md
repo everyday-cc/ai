@@ -57,16 +57,19 @@ related:
         height: 630
         isCached: true
   - title: "Global Music Streaming Market Analysis Report 2022: Artificial Intelligence and Machine Learning Gaining Momentum"
-    excerpt: "The \"Music Streaming Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global music streaming market is expected to grow from"
-    publishedDateTime: 2022-10-21T15:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29360845/global-music-streaming-market-analysis-report-2022-artificial-intelligence-and-machine-learning-ga"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29360845"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29360845"
+    excerpt: "The global music streaming market is expected to grow from $24.09 billion in 2021 to $27.24 billion in 2022 at a compound annual growth rate (CAGR) of 13.08%. The music streaming market is expected to grow to $45."
+    publishedDateTime: 2022-10-21T16:25:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-music-streaming-market-analysis-report-2022-artificial-/2022/10/21/9697594.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 48
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
     excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
     publishedDateTime: 2022-10-20T09:30:00Z
@@ -78,15 +81,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 38
-  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "y/1YIWVvShKKHNqR3VHIrTpe6CmAZ8r4x1ZFFBaOXEKjFPe+bXSQCQRBWi5vRpWb3ErZ7KSvFVY9FR5C5zFnjYau6OQE+ggIKQp18UB/FkSAk2v5Lo4PpCugr4O2I8uf6lnnqW4tIPnP96dNvia22JM0c22exGVA6Sk+KOVHIoa5g3rORT/WxiUZxS7RyDk9+FlC0MLgPdWwzyOc5czFJycApsBqU2ducXQs8sDEHZFihOhwMC80M70QV+AudscC70P3q1Rd6ID9l6uc+glzJ3aRjK6oxlnO5075Zq8RWM2XuQoBYn6Qa0lIcsisjeiGBEe6Z6c8SSAmugYKQ8xRbgXJr2yI7Z1pj+0C4bXjtk0=;gFdY8nSc26RWTkDo3g+6CA=="
 ---
