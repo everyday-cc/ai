@@ -16,12 +16,6 @@ topics:
   - AI
   - AI in Healthcare
 
-images:
-  - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
-    width: 1200
-    height: 448
-    isCached: true
-
-secured: "Hj0lYeNBx56WJQlsl2Oj7V2Av+R/gPyn3pJDOOPCjfjO0mDoLEr+HZ6gD9BbTuByEnKpAg4v++eQiRzE/h4TYlRpEgPExgxeXT1YqLN4StJCSD4YxL8KrSF52ELpg/sbV4M3oCrG0R9gCnES9hABWsD1m/224gPpxkYLJeItBWQMUJcW0STUclLyUZp3CA9peBvB5kX7yHGei09wR4wyH6zDE1Ypu83hg0/qVWaJME/MFIRISAR7yUXzfzdO7XZWvzLxDObq+I45vN0hw80Dqsagas+zeGe60JYLL0pQ9HMUS4Gfb641mVn133BDDOzapb9L4KB4cs72Sswz/ASNkyXWD+OJKgIV+MSJGfuS380=;R/fcQ+uoGr1tygpzyee1sQ=="
+secured: "lyF8MY5cVkrC7fKfMs80fH/phFMx2x9Sg7b0ZiIvbekODgb4v5rwdoe+wkiaDQBCQQuLSNRnCYqKUzoWecZCSdAXsUFGQn+Za86+b9FGgrDQoJYDVXk2/Lbtq6WVBkOiHFRuixCA8ZB58ih9GhGc1e+mx0SO3ru5RkggYJ3oQfPsNwN7ey6tSgtDEktL6N/O6EyfTOfIvcxF/qML65k6F73RPT72GS8ZClvUkyXMv5QZjSOzkskChQpQJkQKKhLJJzqECCka1Hpel6lz2pc9/BuphY9rxqq2p66hqr2VaUCp50HLMrNBZOpJ95lhgQz4thzOy3MOCO/XxBJnQR5tyv6nClaYSMv6w5oW11s0UZY=;w8LzAxhNSRkV085vXqfqdQ=="
 ---
 
