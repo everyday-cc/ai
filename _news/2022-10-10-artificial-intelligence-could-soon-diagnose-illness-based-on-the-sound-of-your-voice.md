@@ -1,17 +1,17 @@
 ---
 category: news
 title: "Artificial intelligence could soon diagnose illness based on the sound of your voice"
-excerpt: "Voices offer lots of information. Turns out, they can even help diagnose an illness — and researchers are working on an app for that. The National Institutes of Health is funding a massive research project to collect voice data and develop an AI that ..."
-publishedDateTime: 2022-10-10T10:25:00Z
-originalUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-webUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
-ampWebUrl: "https://www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
-cdnAmpWebUrl: "https://www-wamc-org.cdn.ampproject.org/c/s/www.wamc.org/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+excerpt: "Everything from your vocal cord vibrations to breathing patterns when you speak offers potential information about your health. Researchers are collecting voice data to one day use in an app."
+publishedDateTime: 2022-10-10T09:00:00Z
+originalUrl: "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+webUrl: "https://www.wwno.org/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice"
+ampWebUrl: "https://www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
+cdnAmpWebUrl: "https://www-wwno-org.cdn.ampproject.org/c/s/www.wwno.org/npr-news/npr-news/2022-10-10/artificial-intelligence-could-soon-diagnose-illness-based-on-the-sound-of-your-voice?_amp=true"
 type: article
 
 provider:
-  name: WAMC
-  domain: wamc.org
+  name: WWNO
+  domain: wwno.org
 
 topics:
   - AI in Autos
@@ -23,6 +23,6 @@ images:
     height: 542
     isCached: true
 
-secured: "6/8TPXwk/0ZCT5QYjo86YzkIBoO/09TXgEnZXAqCwW4aSLqfx2MgxmQ4KSQ1QLZDZ5qHrfdd9QVtFvly979X4Qftl8aCd7OHJgFeUa6VVF46Gwhsy54aFjw8hb5/082ABD6VirRwWju4wLnrCVMaLSYMDIkObQdupU3ZPvhW4ENRlIAdfpSQ+RUjoxuw4WvOpx1P4TzLxJMO77T3AWdGssR1mrmu/wkWbNq6b5XarilvS8O7JwMsjeCEthY6zNb8tjjyZoQDaGsgz31fXB9Yj90C0sU3nDWanlPoOC4p0oKKilILpHp9SLSzKiIa25uUdLbD+eNfkvls1gw5R3HCNwhhfvwDv+2825di9oOno+A=;HSjlmxaljXwjPtwhxj9tGw=="
+secured: "mIYiDiMseOkSDRuS82mT1qJi1r2u81UOo5cuskJlTE2mDu2HQDDuLuKSmlDE0ZOWNLvV7jP5529BpyNlDHPYbm2U2nK70ml850h/9rea14VxAXRTfezxR/q4VyXrUGnCzMw7CjDCrXDAr0L30F5BuQiDkwe+2tuoXpmOxJ2JLObCmJi/ln6M8zM8eLfoiu5diPjqToWdWvXFBtMdQ++F39JfWAjKrAG+Bat2d6+w2xrffyTn9EjqCINv4sidYNpiSAb6ku2Zl6d9NPZESi4MgOKbFs2WL+6bIHlBrxuLj77lOYNd00hWtqb28OdM+7lRsRGrSToFv3fV21LMyUH3vJX8GQ1RfrJD/CQ2P45eqa4=;gEtySZtTj5v367Lddy24nQ=="
 ---
 

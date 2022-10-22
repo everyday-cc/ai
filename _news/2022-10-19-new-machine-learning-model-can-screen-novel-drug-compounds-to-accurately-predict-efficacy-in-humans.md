@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221018/New-machine-learning-mo
 webUrl: "https://www.news-medical.net/news/20221018/New-machine-learning-model-can-screen-novel-drug-compounds-to-accurately-predict-efficacy-in-humans.aspx"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -23,38 +23,6 @@ images:
     width: 620
     height: 480
     isCached: true
-
-related:
-  - title: "A new AI model can accurately predict human response to novel drug compounds"
-    excerpt: "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process."
-    publishedDateTime: 2022-10-17T15:00:00Z
-    webUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html"
-    ampWebUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 54
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg"
-        width: 1024
-        height: 1024
-        isCached: true
-  - title: "Artificial Intelligence Can Accurately Predict Human Response to New Drug Compounds"
-    excerpt: "Between identifying a potential therapeutic compound and U. S. Food and Drug Administration (FDA) approval of a new drug is an arduous journey that can take well over a decade and cost upwards of a billion dollars."
-    publishedDateTime: 2022-10-17T15:00:00Z
-    webUrl: "https://scitechdaily.com/artificial-intelligence-can-accurately-predict-human-response-to-new-drug-compounds/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 33
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-AI-Technology-Drug-Discovery.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "X2dP9Z4ZDVvPvFcS2XeaJOIDxIAoJFJe6MHo4j9z02aJgsmBiSTM9+LBeWK/dDQHSmquLPQzqycm5ki+V7Me1MFEfFKRMnG+SDTG+HHXja7XsthuCrZz52wfe8G+5h40AqAWneRFwMdLfCH4LJyQ1qg6YZTjSCqOwyYdEOkoZL962an52E/t+Rc/yccth1WOrxCggXhyMxPEZCpHiWhgjtkxppsvPq9LMX6h6lW1EzmojeSTqe1HFesUqT+HV/8+W0aulbXBNurhcQZbi03GMnFaB7ebg64qTfhJ5QxpdAMuQcj9c5vdvTrkTnxdjxg6QiNA4ZMFJBsMZiEXAT7SCSaDD7Z2hQHRNCe4ilXc1V/nZvykBQiKC2PqdMtIhwOzUPR2wBAaaC/1xXbY5081rr5pd5ZlAV1Yp0BTjWmPuHLn03DeS4X+zMxktaMf4oFBvbiCsOJ0lpsseVge8077CtMFI3N53jn7nV0D7TtIAANvBNOEsQe9k56MbOoBxBm6lgjN+zbaF5ZUdtQtQEm2sA==;tYfl5+qIvNRURlQTn9d5Sg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/10/alley-robotics-ventures-launches-3
 webUrl: "https://www.finsmes.com/2022/10/alley-robotics-ventures-launches-30m-fund.html"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1000
     height: 688
     isCached: true
-
-related:
-  - title: "Ambi Robotics Raises $32M in Funding"
-    excerpt: "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,"
-    publishedDateTime: 2022-10-17T14:53:00Z
-    webUrl: "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html"
-    type: article
-    provider:
-      name: finsmes
-      domain: finsmes.com
-    quality: 69
-    images:
-      - url: "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg"
-        width: 2560
-        height: 950
-        isCached: true
 
 secured: "8M5TtS9HWRKWF4v9+gRHzLUDA8XQiXErBxJibw61IZgDQhw4gBIQlWu5Ti1+U2Nt5E53kXq5NVZ7JD8751aNOqyn5Zm9KmIMYf+bZ0KXh0bWwlxvXhGOJuULq/I2vd3sHe0lrlwgL9CVfTQzfe4EC/6ZVIJCnrifhFqvfYeDct0EVzbFUxroSHWfbN+xgz8PGcQg2dZxxOQ+cQc5USeYcgl5xcwkSGNN1LE9UxLVUsb8koqgM0nXDahJg+xWXELElqbNlskoXa7DuwCG3mx3+sfRna896AF5W6D0VqfhjyK2BV7E6tvUL2yULqdYeJnhuLLm9f49cnHH17BRBD4WCzab8H7XqzhsP9LjhUbWVo4=;54vTRkrHGrxKkDRc8tEvJw=="
 ---

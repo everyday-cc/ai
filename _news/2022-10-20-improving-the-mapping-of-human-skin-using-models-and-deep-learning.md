@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-human-skin-deep.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp"
 type: article
 quality: 59
-heat: 90
+heat: 89
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221017142446.htm"
 type: article
 quality: 51
-heat: -1
+heat: 61
 published: false
 
 provider:
@@ -24,22 +24,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Deep learning tool identifies bacteria in micrographs"
-    excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs."
-    publishedDateTime: 2022-10-17T15:00:00Z
-    webUrl: "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html"
-    ampWebUrl: "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 61
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg"
-        width: 795
-        height: 530
-        isCached: true
   - title: "Deep learning software helps to identify miniscule bacteria in microscopy images"
     excerpt: "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images."
     publishedDateTime: 2022-10-17T20:22:00Z
