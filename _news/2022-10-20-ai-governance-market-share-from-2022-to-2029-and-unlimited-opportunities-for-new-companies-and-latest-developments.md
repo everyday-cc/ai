@@ -112,20 +112,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Statistical Natural Language Processing Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data"
-    excerpt: "Statistical Natural Language Processing Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/statistical-natural-language-processing-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
     publishedDateTime: 2022-10-20T02:43:00Z
@@ -135,20 +121,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Financial Wellness Services Market Evolution Segmentation and Insight of Trends 2022 to 2029 with Top Countries Data"
-    excerpt: "AI in Financial Wellness Services Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-financial-wellness-services-market-evolution-segmentation-and-insight-of-trends-2022-to-2029-with-top-countries-data-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -182,43 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech and Voice Recognition Technology Market Profiled Key Players to Show Impressive Revenue Growth by 2029"
-    excerpt: "Speech and Voice Recognition Technology Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-18T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-profiled-key-players-to-show-impressive-revenue-growth-by-2029-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Software Market Size Insight Report 2022 to 2029 by Top Key Players, Types, End Users and Regions with COVID-19 Impact Analysis"
-    excerpt: "Deep Learning Software Market Research Report is spread across 107 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. The Deep Learning Software market has witnessed growth from Million USD to Multi million USD from 2017 to 2022."
-    publishedDateTime: 2022-10-18T04:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-software-market-size-insight-report-2022-to-2029-by-top-key-players-types-end-users-and-regions-with-covid-19-impact-analysis-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market Growth Opportunities, Development Outlook and Regional Strategies 2029"
-    excerpt: "Natural Language Processing For Healthcare And Life Sciences Market Size is projected to Reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-10-18T04:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-growth-opportunities-development-outlook-and-regional-strategies-2029-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Contact Center AI Software Market 2022 : Projections and Regional Outlook, Key Players, Analysis, Size, Share, Growth, Trends and Forecast to 2029"
     excerpt: "Contact Center AI Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
     publishedDateTime: 2022-10-19T04:33:00Z

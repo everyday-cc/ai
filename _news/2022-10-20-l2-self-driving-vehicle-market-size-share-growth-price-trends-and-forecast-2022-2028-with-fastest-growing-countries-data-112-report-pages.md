@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Medicine Market by top manufacturers, type and application, with sales market share and growth rate Forecasts till 2028"
-    excerpt: "The Global Machine Learning in Medicine Market 2022 report is a thorough assessment of the worldwide industry with"
-    publishedDateTime: 2022-10-18T04:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-medicine-market-by-top-manufacturers-type-and-application-with-sales-market-share-and-growth-rate-forecasts-till-2028-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
     publishedDateTime: 2022-10-21T13:37:00Z

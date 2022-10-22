@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Processor Market Projections and Regional Outlook, New Business Opportunities, Development Trend and Feasibility Studies 2030 - MarketWatch"
-    excerpt: "The Global Edge AI Processor Market size is expected to reach $5.5 billion by 2028, rising at a market growth of 15.3% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market."
-    publishedDateTime: 2022-10-18T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-projections-and-regional-outlook-new-business-opportunities-development-trend-and-feasibility-studies-2030-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "C9Q5FcYwoUGxbycIbi3jReqtvThN3R8o1UWTDiaPlP3edRfTbdWQkjkPe98o3MPXgvOf+j3QTv/gJbPSbd1GEseA6QfBPERS/saNYi/5F0ORo7j4M2GzlqgYpZewiQFtrS/tyx/fcQDno6kqYo8Y2jV8ZMrwVbAvErZnQ5q2k7mr/loCal62aF9tQUkCCX0C1TOAiMrlfxOd1iwxkYd5QaTU5zZvi7hEXnw3wA+erVg0XmUSYkVPb0Dec2dPAfVcMUx3y1CsAtTgZTrbIJUPm5ise+cjaI479lJomlagAJXC9ZUwZQSpiJpfhavN0eahE0G3R2iE0lEZFTtuJ/A++xjNaUyhz2B+O2DB3BYCw28=;yjbUf60weaeD8awovOOMMA=="
 ---

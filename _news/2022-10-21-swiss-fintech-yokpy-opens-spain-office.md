@@ -81,6 +81,20 @@ related:
         width: 534
         height: 462
         isCached: true
+  - title: "Can Fintech Be a Force for Good?"
+    excerpt: "The meeting of finance and technology could unleash a transformative force towards more inclusive financial services."
+    publishedDateTime: 2022-10-20T01:51:00Z
+    webUrl: "https://knowledge.insead.edu/economics-finance/can-fintech-be-force-good"
+    type: article
+    provider:
+      name: knowledge.insead.edu
+      domain: insead.edu
+    quality: 24
+    images:
+      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2022-10/gettyimages-1343193247_sm.jpg?h=add360a5&itok=8Z-itF9V"
+        width: 2094
+        height: 1177
+        isCached: true
 
 secured: "QWBiE/rg4ZH7qijRbXhaqLcaYa9JRxmvsENzHy/6RXClfbHA8LyNKmareV3FuZMOikKxuLqwYp/EgflKH+GwRWlE9sRCektGuyUtg+qg2t1C0KfmKxqAWSYiMeP5544E0JPyJEchEyjE1q6IZ7hvR2R0EIqM/BjmCtQHd75FxzbP3WZqPLImUj/MjQ6gVk0VpvJfVeGrMDWJuJfN/zu09r1G/lDCsf+AdaixJzT0FBQcOY6FuEEsy0+3wYHBaiG2/qHbrTHDn5TijH95r44SC615XhP1Dko+ImZB+JQxYQ7H3j8pYygyWv/xstkd6Y9Fj7Unn/kbkNhokgc5MeRVXZqzTxtKUIaUAhxM839sbeM=;ZdoCNq3kOJ5QxHt91YqpMA=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-22T17:10:00Z
 originalUrl: "https://news.miami.edu/stories/2022/10/black-women-in-artificial-intelligence-founder-offers-strategies-to-increase-representation.html"
 webUrl: "https://news.miami.edu/stories/2022/10/black-women-in-artificial-intelligence-founder-offers-strategies-to-increase-representation.html"
 type: article
-quality: 27
-heat: 27
+quality: 31
+heat: 31
 published: false
 
 provider:

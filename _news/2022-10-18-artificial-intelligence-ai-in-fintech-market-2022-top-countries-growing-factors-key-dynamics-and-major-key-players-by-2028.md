@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
 type: article
 quality: 36
-heat: -1
+heat: 36
 published: false
 
 provider:
@@ -21,22 +21,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Artificial Intelligence Systems in Healthcare Market 2022 Production Capacity, Restring Drivers, Size and Landscape Outlook 2028"
-    excerpt: "The report is a great resource for finding out where the Artificial Intelligence Systems in Healthcare market is currentlyand the future trends that will be driving it from 2022 to 2028. The solutions offered in this study's recommendations will assist market players in formulating their plans to seize any potential opportunities that could arise in the future."
-    publishedDateTime: 2022-10-18T01:44:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "I/Rk2mhEYw9PnXVF/2i1TRVcuUVuT2zYI6EDzOW1yeA9/TyzW5urjW8dy+4nz0YkN47YriarKlQjR7bSmneQ0cZitfIh3EIDa6zXgBmuS4snDDv7V22D1JjP7pVNas9xi12BsOrQnk4hZFyRJXiBlYdcm4NifuQ6mxqYuDzR0h00rpIzPQOK45UoPlnREsPdw2x58ExGUXnF5MeLhqm3wOlVD2jUSo/i8A8Mm292XfP22i6OPHFmdtcuP+U97kYPttDb8Ia2j65VJ8jlIy4PbfXRdJThEZcTQlSHOvWPEQWJX9mFE4lzq5Zq+kd0/AQzNIKlkCb1s213TPsWJQkO74w9Qv5tkXyErR2Xf1YyZHo=;A9WDNODO8JknrZQ5x3QNyQ=="
 ---

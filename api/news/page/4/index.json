@@ -2,15 +2,15 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-10-18-facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report.md",
-      "title": "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report",
-      "excerpt": "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global",
+      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
+      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
+      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18",
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -26,7 +26,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T22:01:00-07:00",
+      "publishedDateTime": "2022-10-17T23:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -49,7 +49,7 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
+        "Machine Learning",
         "AI"
       ]
     },

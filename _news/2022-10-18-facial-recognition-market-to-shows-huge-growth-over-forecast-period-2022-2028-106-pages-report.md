@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-marke
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: MarketWatch
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Processor Market Projections and Regional Outlook, New Business Opportunities, Development Trend and Feasibility Studies 2030 - MarketWatch"
-    excerpt: "The Global Edge AI Processor Market size is expected to reach $5.5 billion by 2028, rising at a market growth of 15.3% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market."
-    publishedDateTime: 2022-10-18T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-projections-and-regional-outlook-new-business-opportunities-development-trend-and-feasibility-studies-2030-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

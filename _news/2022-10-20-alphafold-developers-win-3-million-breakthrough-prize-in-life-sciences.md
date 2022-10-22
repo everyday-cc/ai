@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-20T15:36:00Z
 originalUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
 webUrl: "https://www.scientificamerican.com/article/alphafold-developers-win-3-million-breakthrough-prize-in-life-sciences/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Scientific American

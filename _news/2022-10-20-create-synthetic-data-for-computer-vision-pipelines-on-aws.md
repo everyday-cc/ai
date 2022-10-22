@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-synthetic-dat
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-synthetic-data-for-computer-vision-pipelines-on-aws/"
 type: article
 quality: 106
-heat: 106
+heat: 107
 published: true
 
 provider:
