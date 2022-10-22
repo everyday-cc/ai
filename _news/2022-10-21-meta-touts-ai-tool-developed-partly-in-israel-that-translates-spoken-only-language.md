@@ -164,20 +164,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "AI can’t translate languages"
-    excerpt: "This is not an area companies should want to experiment For a while now companies have been thinking that they can off-load their translation work onto AI-based systems to save a buck – but a top boffin has warned that the software is not up to the task."
-    publishedDateTime: 2022-10-17T10:51:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55669-ai-can-t-translate-languages"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 54
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/f7f8ec726bb703be13b52706fac5775b_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
   - title: "Meta Touts AI That Translates Spoken-only Language"
     excerpt: "Meta on Wednesday said that it built an artificial intelligence system that translates Hokkien into English even though the Taiwanese language lacks a standard written form."
     publishedDateTime: 2022-10-19T15:00:00Z

@@ -29,24 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Regtech Market 2022 to Eyewitness Massive Growth by 2028"
-    excerpt: "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence In Regtech Market\""
-    publishedDateTime: 2022-10-20T07:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robotic Machine Arm Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028."
-    excerpt: "The “ Robotic Machine Arm Market ” study presents a market overview, key facts, major products and services, and SWOT analysis, in short, it provides a 360�? view of the company for the period 2022 - 2028."
-    publishedDateTime: 2022-10-18T15:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-machine-arm-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-10-18"
+  - title: "Facial Recognition Market To Shows Huge Growth Over Forecast Period 2022-2028 | 106 Pages Report"
+    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Facial Recognition Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The global"
+    publishedDateTime: 2022-10-18T05:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-market-to-shows-huge-growth-over-forecast-period-2022-2028-106-pages-report-2022-10-18"
     type: article
     provider:
       name: MarketWatch
@@ -57,52 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Fintech Market is Expected to be on Course to Achieve Considerable Growth to 2030"
-    excerpt: "Oct 18, 2022 (Alliance News via COMTEX) -- Quadintel's recent global Artificial Intelligence In Fintech market research report gives detailed facts with..."
-    publishedDateTime: 2022-10-18T02:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-is-expected-to-be-on-course-to-achieve-considerable-growth-to-2030-2022-10-18"
+  - title: "Object Recognition Imaging Systems Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 115 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Object Recognition Imaging Systems Market is projected to"
+    publishedDateTime: 2022-10-21T14:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-115-pages-report-2022-10-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Fintech Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
-    excerpt: "The analysis begins by scrutinizing the Artificial Intelligence (AI) in Fintech market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
-    publishedDateTime: 2022-10-18T05:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-  - title: "AI in Telecommunication Market Size and Share Estimation 2022-2029 | Regional Overview, Growth Opportunity, Business Prospect and New Challenges"
-    excerpt: "The \" AI in Telecommunication Market \" 2022-2029 Research Report provides qualitative and quantitative insights into the primary drivers, constraints, opportunities, and challenges influencing global markets growth."
-    publishedDateTime: 2022-10-21T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-size-and-share-estimation-2022-2029-regional-overview-growth-opportunity-business-prospect-and-new-challenges-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Legal Tech Artificial Intelligence Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. The market size and projections are provided"
-    publishedDateTime: 2022-10-17T22:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/legal-tech-artificial-intelligence-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
 
 secured: "a1H9d3wHW4ieArnwrA3XvD91v+hCo62dJv+bXy1+KpFb/lc0Z8RB0lt6rpi0Zvru9RFL4OfcVpUMhybeJSW84pfXh04rcqzpEHpHJi6STEijkPAiFUFvtWtppPm8kdqzCOSb809iG7QJ4WM+jPNhOvjWgqnkdRbcAq571rRwJN90X9V3svEmOI+j0mHpmC9Ylt4WnLlXRBz1JL1VsCZSMYRkp9nAFBKmbUxw9xloVJGgUSN6z1znxN4KO/Doz96Z0W9kbbx9+rV6zOj6Xy4svEuBBCF8Ck4SF0egIg4Oc9hPEwO0oSj1wOPJrPVWLQGid2o1JDbHtc3V85SDXgFsQEyXbpmVAWr419hssGdyoJM=;GL+WrKl/uvoHxyMDs6DqpQ=="
 ---

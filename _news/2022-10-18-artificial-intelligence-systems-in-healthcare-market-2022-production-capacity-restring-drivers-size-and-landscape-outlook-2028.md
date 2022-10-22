@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
 type: article
 quality: 55
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: MarketWatch
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) in Fintech Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The analysis begins by scrutinizing the Artificial Intelligence (AI) in Fintech market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
     excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
     publishedDateTime: 2022-10-17T15:10:00Z

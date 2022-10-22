@@ -1,29 +1,29 @@
 ---
 category: news
-title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
-excerpt: "The metaverse could involve everything from expanding how the internet is used to developing new ways to learn skills."
-publishedDateTime: 2022-10-21T09:00:00Z
-originalUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html"
-webUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html"
-ampWebUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
-cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
+title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
+excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
+publishedDateTime: 2022-10-20T20:59:00Z
+originalUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
+webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
+ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Philadelphia Inquirer
-  domain: inquirer.com
+  name: techxplore
+  domain: techxplore.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.inquirer.com/resizer/Wcvm79CGANaIES0uCthIRHfUTos=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/BYUQPRZXPRBHJN4XABLBAGM6YY.jpg"
-    width: 760
-    height: 507
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
+    width: 1152
+    height: 1920
     isCached: true
 
 related:
@@ -42,6 +42,6 @@ related:
         height: 675
         isCached: true
 
-secured: "pm8K7gnFp8yCVVoy/3pAXBSLMwzPT3+nx0eZjqwqro2q3g2htHhK0ShVOOZKDwiwEgqWW/Lg9vZYZ/E5DXD+hZMYE0tuCIxPKuAbNw+bcnl83PjJZO4ElSQaCoy+c/pF+ysKG2MUC8NuBqYKIEB65LouZOUY+Qu61G7y8Gct+/KTgTPzEx4H5Ox3rt9zPu+KMc6Ooq2oDXV9kptl9dpwlP2Q64GJCuI/Nwah5aKgcUfcAIvmTLXaEIatSTdHH1dLKEnicMsMWUpxkkh2nW7YUSpnEIdDrHSCF2RMmUm9ekB+8OhT2xZf93OD3RcmwqHso9IDxlLBK/RnKKZ5VTevwqwH+AEdjjr8KqFG030nMeYId8q+hkShwmJ/hpFOSt80gqYClsYCxaKCcUa2a0Y9AY7Nsqs1fXa5m8HLZnDZxwayPX9DfvGGt8uWYD47OVpVHHG8liHIfDGMG3S9FpRWXTlLLuPhf0YlhSFb6TAHWTDSdUc85n06jROtBuo/3OmZdK1+8e2lSb38aTpyBu/ohQ==;bP1URqoHlK3zQwPGTtnt+w=="
+secured: "b2qCZchsMJYJcFYAHKShMpxvE9DU9c5SbA/6qinQ4jvvTiXzIjqEiavJVL3hpyjSz7TPo1NmZaymP36kvQ16i7cLpqXj0voeetiE++FLpVYcqyh5dVdpd47wHYu8AB7LfjTXRvz0GWxQKmff3HUR1zwuC5tde7P1H9zPRprl9p1DFDyzmER0TQsIZVoL8mF8Ik+Uu7hySULpDnDIceZp6gktbDbppFfp6dMA4ohfW5T7EwAx0vSsT6Azg1kKVIg2dpU+aF7RZ2IA3L/KAqFNE46rvnVLEg0aUFm8JLtZUlOgHTsVMi89o5UcasCl96oGz2XqJWCZeeMPPAWV9UvnNJBKrARJ3sIPbKPf2XxPsUs=;FIT3gtGQ3DsBbl15+YSVyA=="
 ---
 

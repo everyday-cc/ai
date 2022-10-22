@@ -7,7 +7,7 @@ originalUrl: "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-fundin
 webUrl: "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ambi Robotics Secures $32 Million To Meet Booming Customer Demand"
-    excerpt: "Ambi Robotics, the first robotics company to deploy Sim2Real artificial intelligence (AI) in commercial production for parcel sortation, today announced $32 million in additional funding. Existing investors Tiger Global and Bow Capital are joined by Ahren and the company's strategic partner,"
-    publishedDateTime: 2022-10-17T11:17:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/17/9693288.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 54
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Alley Robotics Ventures Launches $30M Fund"
     excerpt: "Alley Robotics Ventures, a New York and Boston, MA-based firm focused on founding, funding, and building transformative companies in the space of robotics and automation, closed their first early stag"
     publishedDateTime: 2022-10-18T07:44:00Z

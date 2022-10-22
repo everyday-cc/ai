@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20"
 type: article
 quality: 78
-heat: 268
+heat: 258
 published: true
 
 provider:
@@ -235,15 +235,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
-    excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
-    publishedDateTime: 2022-10-17T09:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-2022-industry-demand-share-top-players-industry-size-future-growth-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
   - title: "Legal Tech Artificial Intelligence market - Global Industry analysis, size, share, Growth, Trends, and Forecast 2022 To 2028."
     excerpt: "The \"Legal Tech Artificial Intelligence Market\" and Industry Analysis examine the Legal Tech Artificial Intelligence industry across the globe for the period 2022 to 2028. Important metrics are identified and measured to examine market strategies,"
     publishedDateTime: 2022-10-17T22:30:00Z

@@ -81,20 +81,6 @@ related:
         width: 534
         height: 462
         isCached: true
-  - title: "Can Fintech Be a Force for Good?"
-    excerpt: "The meeting of finance and technology could unleash a transformative force towards more inclusive financial services."
-    publishedDateTime: 2022-10-20T01:51:00Z
-    webUrl: "https://knowledge.insead.edu/economics-finance/can-fintech-be-force-good"
-    type: article
-    provider:
-      name: knowledge.insead.edu
-      domain: insead.edu
-    quality: 24
-    images:
-      - url: "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/2022-10/gettyimages-1343193247_sm.jpg?h=add360a5&itok=8Z-itF9V"
-        width: 2094
-        height: 1177
-        isCached: true
   - title: "Tenet Fintech Group takes over control of subsidiary Asia Synergy Transportation Hub"
     excerpt: "In exchange for publishing services rendered by the Company on behalf of Tenet Fintech Group named herein, including the promotion by the Company of Tenet Fintech Group in any Content on the Site, the"
     publishedDateTime: 2022-10-17T11:58:00Z

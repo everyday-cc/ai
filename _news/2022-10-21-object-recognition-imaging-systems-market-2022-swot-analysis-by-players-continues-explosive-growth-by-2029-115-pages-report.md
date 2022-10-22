@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Voice Recognition Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology."
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. During the forecasted period 2022 to 2028,"
+    publishedDateTime: 2022-10-17T17:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-10-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "C9Q5FcYwoUGxbycIbi3jReqtvThN3R8o1UWTDiaPlP3edRfTbdWQkjkPe98o3MPXgvOf+j3QTv/gJbPSbd1GEseA6QfBPERS/saNYi/5F0ORo7j4M2GzlqgYpZewiQFtrS/tyx/fcQDno6kqYo8Y2jV8ZMrwVbAvErZnQ5q2k7mr/loCal62aF9tQUkCCX0C1TOAiMrlfxOd1iwxkYd5QaTU5zZvi7hEXnw3wA+erVg0XmUSYkVPb0Dec2dPAfVcMUx3y1CsAtTgZTrbIJUPm5ise+cjaI479lJomlagAJXC9ZUwZQSpiJpfhavN0eahE0G3R2iE0lEZFTtuJ/A++xjNaUyhz2B+O2DB3BYCw28=;yjbUf60weaeD8awovOOMMA=="
 ---

@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) in Fintech Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The analysis begins by scrutinizing the Artificial Intelligence (AI) in Fintech market, including descriptions, categories, and a market summary. The report thoroughly examines market dynamics, share and revenue forecasts,"
+    publishedDateTime: 2022-10-18T05:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-fintech-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
 
 secured: "Ym7RIvO7lqTNnxYlTN8uTOrOsxkw5IkmLCoakJK7WJcaGpa8tsSez95jSqkO6I3LSJJ8DP5za8ElrkfYYxhwSKcdKtopyYIy62wlm5IE4UEwZGXxvJ3hg5xq/rNGLk/siz/qPHd1XvXqs2b0g7TW+UeShly9BiGAwVGPUNQbYlk8MqxAZQBKRc/zSKhC2tJ+F1kRiDEAMYIGgCI6rxw8hsvEe/vP/OrDpdLPWaNggR1rJCdUU3OR/sz5qfljPN7BhsChl6fk17tZhn6S8qeR46+6t7AIzD/TfMeJ4NudTzFEdNxze4k/e9zQg53o6OnJYx+g8Hk5aNa0lTtTOYns2XXTFR4a7mWJQO1CwnmGvXo=;grxlyIfyI8OWavxYXPwiYA=="
 ---
