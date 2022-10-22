@@ -24,17 +24,6 @@ images:
     height: 627
     isCached: true
 
-related:
-  - title: "Qlik Recognized as a Customers' Choice in 2022 Gartner® Peer Insights™ 'Voice of the Customer': Analytics and Business Intelligence Platforms"
-    excerpt: "Qlik® has been recognized as a Customers' Choice in the 2022 Gartner® Peer Insights™ ‘Voice of the Customer': Analytics and Business Intelligence"
-    publishedDateTime: 2022-10-17T12:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29286578/qlik-recognized-as-a-customers-choice-in-2022-gartner-peer-insights-voice-of-the-customer-analytic"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
-
 secured: "wxvQR+ZAWPWPm7SOpiNUKSdVErrVNYr1zqE4ElbW4CbJzDZtkREULd7I1pbO6Ur2gLhnA03R0lTGCZTa3dLpHjCAeDe1HPZdZuKf2QxBe9D3NTJgZZYnZ2Kr9mxIZzIV5YJX6dJ9pa0c9dY6kAodN2f5BeUuo8y64EEKA6iNVH2AX+Czm4tEto1b+JokN1xqSwc2k7jZIjgtqnyPlkfyoo33Ks/C0vBT2D0y/UST9kxDG6Cbf3WE2bo/pYw7mwL+85pohGu4v9q1pGSnhDk72M79xLHqsjtMaBQIwew+hvAkWcfeza5dCpdS6H1QrjwkK+5Dv+ZQ+2nQJ9C93VK6Iz76RViBDS2oZmk9ZpDMyV8VhG6t+jYOG2oXvA/MEDyM268fcYfdb6Nm2zRknsU9Fu9ywFAwKeE4Q7JkvWICCKA9H5wfY/lo2nj8XOS95DX7oXVy8pupNfSugJm17Su4v0gHuu711Dci3B257kYikXPijfTLwvJB2sJMJhsomHhEDGqADJrfceEtUcHUcU2wWA==;SDgBXqiMPrvgkLdAXUtPWg=="
 ---
 

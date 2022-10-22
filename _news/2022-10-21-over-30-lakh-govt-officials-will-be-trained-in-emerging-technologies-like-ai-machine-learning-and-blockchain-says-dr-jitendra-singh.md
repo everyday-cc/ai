@@ -43,6 +43,22 @@ related:
         width: 650
         height: 400
         isCached: true
+  - title: "Over 30 lakh govt officials to be trained in artificial intelligence by 2023: Jitendra Singh"
+    excerpt: "He said one must remain open to new developments in the science and technology sector and be always on a lookout for new science that can improve the work and outcomes."
+    publishedDateTime: 2022-10-22T04:51:00Z
+    webUrl: "https://indianexpress.com/article/education/over-30-lakh-govt-officials-to-be-trained-in-artificial-intelligence-by-2023-jitendra-singh-8224365/"
+    ampWebUrl: "https://indianexpress.com/article/education/over-30-lakh-govt-officials-to-be-trained-in-artificial-intelligence-by-2023-jitendra-singh-8224365/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/education/over-30-lakh-govt-officials-to-be-trained-in-artificial-intelligence-by-2023-jitendra-singh-8224365/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 61
+    images:
+      - url: "https://images.indianexpress.com/2022/10/ch1414226-1.jpg"
+        width: 1200
+        height: 667
+        isCached: true
   - title: "Over 30 lakh govt. officials will be trained in artificial intelligence by 2023: Union Minister Jitendra Singh"
     excerpt: "Union Minister Jitendra Singh said civil servants will soon use these techniques in day-to-day work and administration"
     publishedDateTime: 2022-10-21T14:49:00Z

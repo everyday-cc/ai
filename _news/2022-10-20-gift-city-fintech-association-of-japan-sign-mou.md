@@ -82,15 +82,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 19
-  - title: "Tenet Fintech Group takes over control of subsidiary Asia Synergy Transportation Hub"
-    excerpt: "In exchange for publishing services rendered by the Company on behalf of Tenet Fintech Group named herein, including the promotion by the Company of Tenet Fintech Group in any Content on the Site, the"
-    publishedDateTime: 2022-10-17T11:58:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/995558/tenet-fintech-group-takes-over-control-of-subsidiary-asia-synergy-transportation-hub-995558.html"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 0
 
 secured: "388f/C0mWRMiu6xOG7s3xZShKnTAJW9TZnT7nvT14fQ3xDX08fPSFKu3ccJWOik98KqF2WuEVgFOfvMn2QM9YrNoAzYqzVssGcK5ZzkU4lI0J5tBl99vYS3o61VeUAihNuK0AdxLZnTTSaJjmN15n80pmycBzNTJ89Pl/Q7EOyZBA5qrF2NpYloLdQt4HDIkVXr8ZeD9foWa8BNK3rlcc9CVR1vZ8BT5LfvNpOusQUKwKBjEHchoGrs5PfLeQNZZAUOWHer7xU5s6J0fBnjYjsfEELCU+vj9yCg7m2EEsRR5+WyVygM0Py8/XWeU7AOYBobtmmYoREsADRIr0P4tQOSVOJVMLwMF1U7VSNCBrHU=;OoTsAmMEpRliuYz6CGFwIA=="
 ---

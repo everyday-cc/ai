@@ -2,6 +2,57 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-18-netapp-ceo-the-promise-of-ai-is-much-more-real-today.md",
+      "title": "NetApp CEO: The Promise of AI is \"Much More Real Today\"",
+      "excerpt": "George Kurian says companies that hold out on AI are missing the opportunity for business success",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
+      "originalUrl": "https://fortune.com/videos/watch/NetApp-CEO-The-Promise-of-AI-is-Much-More-Real-Today/da1118b1-548e-4f1a-b481-99b2086fc502",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/da1118b1-548e-4f1a-b481-99b2086fc502/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/netapp-ceo%3A-the-promise-of-ai-is-%22much-more-real-today%22/da1118b1-548e-4f1a-b481-99b2086fc502/amp",
+      "publishedDateTime": "2022-10-17T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education.md",
       "title": "Why Andhra’s face recognition system for teacher attendance won’t reform education",
       "excerpt": "A teacher’s presence is, of course, necessary but it's more important for he/she to possess curiosity and pass on the spirit of inquiry to students. These issues require a humanist understanding of teachers as professionals,",
@@ -210,7 +261,7 @@
       "originalUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1172,40 +1223,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
-      "title": "Opinion: A driverless vehicle update",
-      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

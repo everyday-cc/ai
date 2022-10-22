@@ -2,6 +2,58 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-13-thanks-to-ai-you-can-now-create-automations-in-power-automate-by-simply-describing-them.md",
+      "title": "Thanks to AI, you can now create automations in Power Automate by simply describing them",
+      "excerpt": "Microsoft debuted a new feature that leverages OpenAI's Codex AI system to streamline workflow creation in Power Automate.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/12/2420274/",
+      "originalUrl": "https://techcrunch.com/2022/10/12/2420274/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/12/2420274/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/12/2420274/amp/",
+      "publishedDateTime": "2022-10-12T14:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-google-focuses-on-data-innovations-for-enterprise-users-at-cloud-next.md",
       "title": "Google focuses on data innovations for enterprise users at Cloud Next",
       "excerpt": "At this year’s Google Cloud Next conference, Google has treated enterprises with some notable product developments, starting with the launch of new AI agents and software delivery shield to new cloud regions.",
@@ -1196,49 +1248,6 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-neural-circuit-that-control-alcohol-abuse-in-mice-identified.md",
-      "title": "Neural Circuit That Control Alcohol Abuse in Mice Identified",
-      "excerpt": "Would you like to receive further email communication from Technology Networks? - Select - Yes No “Alcohol dependence ... Reference: Belmer A, Depoortere R, Beecher K, Newman-Tancredi A, Bartlett SE. Neural serotonergic circuits for controlling long ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/366489/neural-circuit-that-control-alcohol-abuse-in-mice-identified-366489-640x360.jpg?cb=20221012",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-12T01:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

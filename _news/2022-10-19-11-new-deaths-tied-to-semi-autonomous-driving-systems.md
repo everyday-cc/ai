@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-sys
 cdnAmpWebUrl: "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Intelligent autonomous driving serves hot tourist spot"
-    excerpt: "Recently, the pilot project of an autonomous driving pilot application in Binhu National Forest Park was officially put into operation. This is also one of the first pilot projects for the pilot application of intelligent transportation in the country. The project mainly covers the pilot application of self-driving sightseeing vehicles, unmanned sales vehicles, unmanned sweepers and other vehicles in Hefei Binhu National Forest Park, which aims to offer better services to visitors in the scenic area. [Photo/Xinhua]"
-    publishedDateTime: 2022-10-17T12:19:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202210/17/WS634d0f1aa310fd2b29e7cf8a_3.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "http://img2.chinadaily.com.cn/images/202210/17/634d0f69a310fd2beca723db.jpeg"
-        width: 718
-        height: 478
-        isCached: true
 
 secured: "x5TkNM3a2pHLNVIk38KvGpJhrXZKNg2K9sZVELAiCFPPEk/ieAP+K4ivVDF0AUkYlOe1GZSlaNkG2z1Meew6/lVg2Y5QCn3cA2eFfkzkU29qolBJ8v1SbbHLV1Wr0LZzpq2YvGoThjrWP1FFXqGvFPnnsgVooM1NqtN86ClEixv4SaN7V92xNnJ7Zjf0LHvoAHRahpcmHcVeHR/30edg9FF/e1zeW1FTjZzi1VtQEHMRVsT/62iRy9Pcyi3eNaFfR/NaDKt7Ikif8YY73imh6dwfLXDnwnl4LJ/MR1GXKod0aDi3J0oqK8urSqXepFJkt5RKlVjPyurosHH2KhrhjEdficRasgizBWCZvMkNM/lsDJxWPoYJcMSg5TxrDKxUYiJtqav9oWF4oh07tBHJhv4sJgIL8MS9OMk9SFbMvzxGRIWweEgHkicMBlyAwj7gVTsP0LXD4H3EjtBAHIBzPFbvx6Azc+0q7iUiQYpdvlI0DQE3T+73tUgFHQ7DRJrlYhB0YaGy6Q3WPGu6PeoGmQ==;tWro8X+g01gMWTNho99PGw=="
 ---

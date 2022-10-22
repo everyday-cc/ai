@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is being asked to predict the future of AI"
-    excerpt: "Artificial intelligence model predictions from historical data on how AI research would develop over five years matched reality with more than 99 per cent accuracy – soon they will be asked what comes"
-    publishedDateTime: 2022-10-17T11:36:00Z
-    webUrl: "https://www.newscientist.com/article/2342632-artificial-intelligence-is-being-asked-to-predict-the-future-of-ai/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 52
-    images:
-      - url: "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Artificial Intelligence Can Accurately Predict Human Response to New Drug Compounds"
     excerpt: "Between identifying a potential therapeutic compound and U. S. Food and Drug Administration (FDA) approval of a new drug is an arduous journey that can take well over a decade and cost upwards of a billion dollars."
     publishedDateTime: 2022-10-17T15:00:00Z
