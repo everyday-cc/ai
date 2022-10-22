@@ -197,6 +197,22 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
+    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
+    publishedDateTime: 2022-10-22T09:31:00Z
+    webUrl: "https://koreatimes.co.kr/www/nation/2022/10/672_338368.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 48
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202210/162359a676a54ab9b28848350075271f.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 696
+        isCached: true
   - title: "Facebook To Translate The World’s Unwritten Languages"
     excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
     publishedDateTime: 2022-10-20T11:49:00Z

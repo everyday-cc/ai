@@ -73,22 +73,6 @@ related:
         width: 1156
         height: 601
         isCached: true
-  - title: "How artificial intelligence will transform the Middle East"
-    excerpt: "A more comprehensive and evolving regulatory framework will be critical as AI will reportedly become the UAE’s top sector over the next decade"
-    publishedDateTime: 2022-10-17T16:03:00Z
-    webUrl: "https://www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east"
-    ampWebUrl: "https://www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=7f65b56a-4ead-5afc-bb18-ae41fca2deda&function=cropresize&type=preview&source=false&q=75&crop_w=0.785&crop_h=0.99999&width=1200&height=675&x=0.1075&y=1.0E-5"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Meta's AI translator can translate unwritten languages"
     excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
     publishedDateTime: 2022-10-20T09:30:00Z

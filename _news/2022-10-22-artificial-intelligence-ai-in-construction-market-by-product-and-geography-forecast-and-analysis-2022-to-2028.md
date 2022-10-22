@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
-excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
-publishedDateTime: 2022-10-20T02:43:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-111-pages-report-2022-10-19"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-111-pages-report-2022-10-19"
+title: "Artificial Intelligence (AI) in Construction Market by Product and Geography - Forecast and Analysis 2022 to 2028."
+excerpt: "The \"Artificial Intelligence (AI) in Construction market\" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
+publishedDateTime: 2022-10-21T19:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
 type: article
-quality: 49
+quality: 60
 heat: -1
 published: false
 
@@ -98,20 +98,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market by Product and Geography - Forecast and Analysis 2022 to 2028."
-    excerpt: "The \"Artificial Intelligence (AI) in Construction market\" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
-    publishedDateTime: 2022-10-21T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029"
     excerpt: "Deep Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected CAGR"
     publishedDateTime: 2022-10-20T04:04:00Z
@@ -135,6 +121,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
+    publishedDateTime: 2022-10-20T02:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-111-pages-report-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -277,6 +277,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "ffu/hDyNrAeuiuvKSmCONu/yEy8zUaSzaI4oMXyCc6/601R7CozufdLZgS++44ILCYz0OjgxLPi67dLzgFmFHk1VsnMmzmi65gFgpzZFryKAm6SBS1CYzAkB4xLxoWZzL5g0QO5MNlNQnhEWlIcAOKjNt2B6H9BbncGwovvVRMffVD4Q1O+OzUPu/BZaX+Wdyh17yiS/kR6Tk7geE45WmRtnl2oVZa7qLG10id1JjBY1bLYA6V/Z1h0fRhWyca4piKnBqc2BBY6MUqFeazcDHtZnUSpsUwTPWQ+1cAFA/ObxV83vfjUIq1LQc/NoMI/clzjFcgonMnEUdkIVObl7gxfOu/pT4DDaSbm3paRfz3w=;BIqg2L3u+d0g3L4fUQKpWg=="
+secured: "LWsC++EkZFDD2ZdnXivp5nS9OkoVZprorYU2Tx/PA63Xe6g9+8AyQOGFKS5MaMvoWv6cRyTiu/jrpF9MJ723MM4/vR67wIQYZn1CN6iDUXfgqahDB16uO+Vc6wvGhyfv9VW85J1hO5CTb24ConeSoY5psnS/+uZiTMfI6K+l5B9MJ1iEw1rU51UnIg2X/65/kHk6BurVVNSB8l84bFijTvAp0NqIKYt6TmPb6md0m0vDHJj262Elp4AagS0YlAxDsOpopZ5JAyaCcRap0UiHWAO8yzxQq/wbuifHuMPT21pJHYvzBZsIZXYpzYKBQ/CrBe3WRTe8CGAgO3ow5xOsB3NZxH7NsBQGRCwWzpxt0zc=;yU2Ize+upZLkkJKlDZjocQ=="
 ---
 

@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-in-healthcare-market-2022-production-capacity-restring-drivers-size-and-landscape-outlook-2028-2022-10-17"
 type: article
 quality: 55
-heat: 75
-published: true
+heat: 65
+published: false
 
 provider:
   name: MarketWatch
@@ -38,17 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
-  - title: "The Healthcare Consulting Services Market Is Expected To Grow At A 12% Rate, Due To Rising Digitalization In Healthcare"
-    excerpt: "The Business Research Company's healthcare consulting services market research report expands on key drivers, trends, and growth opportunities in the market. LONDON, /PRNewswire/ -- The rapid adoption"
-    publishedDateTime: 2022-10-17T15:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29291069/the-healthcare-consulting-services-market-is-expected-to-grow-at-a-12-rate-due-to-rising-digitaliz"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29291069"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29291069"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 15
 
 secured: "0/+NXIl5mOLOBbvmmp+zc00JXfkSHphERt7Jx8jgyngtAQVGaYNwDQ3Z+YfALszfRmxAeBnbI9KKbz+ml0YCEjE9ThI+WG2/GDTUtnOV0BHWlHO4mon7iWWYXeEemj4NAX8j6jFWxMvU1s8CsiPGfT2cC+XiZEEOAADt/3X89saYP21igeulif4FtBRcAMubQSCvryZtCJMzQOOdtjX7OeJNBOHT2qymVAG+U/Fd25hjDjMKOSMCc4Ich5vZRPrcxNf7bMspPV+q1Eqvw5ytYHfXQh1pVPIj16kklapkUXe9SMTZrYt5eelJvtdwoFrJwNYnqSKP1ivtIc7L2qn7eQz2I7+3YcTh4VGnAHefyIE=;ZaKpfNKNONjEBODVMbGJng=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/real-time-translation-hok
 webUrl: "https://www.channelnewsasia.com/business/real-time-translation-hokkien-english-meta-ai-speech-translation-3018756"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       - url: "https://www.taipeitimes.com/images/2022/10/21/P01-221021-004.jpg"
         width: 647
         height: 800
+        isCached: true
+  - title: "Chinese netizens curious about Meta's AI Hokkien dialect translation tool"
+    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
+    publishedDateTime: 2022-10-22T08:00:00Z
+    webUrl: "https://www.asiaone.com/china/chinese-netizens-curious-about-metas-ai-hokkien-dialect-translation-tool"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/221022_meta_reuters.jpg?h=0429cc9e&itok=pCyaxgq5"
+        width: 600
+        height: 316
         isCached: true
   - title: "How English Dominates Cognitive Science"
     excerpt: "Is the English language skewing our knowledge of cognitive science? According to researchers from Harvard University, Max Planck Institute for Evolutionary Anthropology, the National Center for Scientific Research,"

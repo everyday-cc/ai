@@ -19,21 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Why AI shouldn’t be making life-and-death decisions"
-    excerpt: "But as Will writes, AI is already being used to triage and treat patients in a growing number of health-care fields. Algorithms are becoming an increasingly important part of care, and we must try to ensure that their role is limited to medical decisions,"
-    publishedDateTime: 2022-10-17T16:00:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/"
-    ampWebUrl: "https://www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/17/1061738/why-ai-shouldnt-be-making-life-and-death-decisions/amp/"
+  - title: "The Download: Bill Gates’s new climate plans, and an AI bug bounty"
+    excerpt: "Bill Gates’s climate-oriented venture capital fund is expanding its mission, adding adaptation to its investment categories and establishing a later-stage fund to help clean-tech startups begin building plants and scaling up their technologies."
+    publishedDateTime: 2022-10-20T12:10:00Z
+    webUrl: "https://www.technologyreview.com/2022/10/20/1061987/download-bill-gates-new-climate-plans-ai-bug-bounty/"
+    ampWebUrl: "https://www.technologyreview.com/2022/10/20/1061987/download-bill-gates-new-climate-plans-ai-bug-bounty/amp/"
+    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/20/1061987/download-bill-gates-new-climate-plans-ai-bug-bounty/amp/"
     type: article
     provider:
       name: MIT Technology Review
       domain: technologyreview.com
     quality: 57
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/ND22_SarcoTransparent1_crop-1.jpeg?w=3000"
-        width: 3000
-        height: 1687
+      - url: "https://lh6.googleusercontent.com/fGDL-0CHxfDNJGUfdltlxRK6dcpVtbe8IqM9hDZyIm_LF7vOL_PRhv1oIJ7MthZhNF8pZ7CPf2l8ZEQ575NPHZQLkZHM-X9dq_VMNyjrdnC4ldIYiZrGtFdENar0MZUDt4j5oKiZEdBHhU_m41WILCcsq73EwtlDDPe1WcyeCCukdmY48Dh4n481bg"
+        width: 1063
+        height: 598
         isCached: true
 
 secured: "G6VEDyhgAswr5m3y5j9y1fGFcC8+BvTzXtLfZeA50Rp2PHSw4DrDMXpwLQaQnfKcDiKmS0djz+dukrTPRAglp2inBxyequwlkqcr6hCmOiFZwnsi4TtZqqtrJWslfYZVHg0KLH60z4npT1xts8D3upPHIRFPFhhJ/wN5EquvwWyg8rhA/577bOHyBpRZQhy2BtTTkTCIv8LW6a98OIznRoChG0WYdCTD4XF21FCvVI5GnEemn6R3dytuM+U2/MZSD/BFRsrdJMR6Sxy1JpGNqLN0Z1P0RdyL76PTQlMOzq7R2LEoLfRfY3URG1XhQzi4Do1J4pDEvwetjGjvmA1UeTWFbGlVVr9NVP+PLpv/SBh6m2vf0JSugez4tot1A82zhHzrNHUowIpkaR3zbKolsvWmpFwL5w11fSpdU2K1nSH5uADXMt+F68bpDw3nKmjwNmcTXlwdxC80oOyfwyLaiElif15ylbTNxDCTW12rkpaLv7weY04IgUyq8/7kfxwAazkkha6lopE8Ko8h63vZPQ==;9HjUZcmk1C1HxUvDcGy0Kg=="

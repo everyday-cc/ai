@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
-excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
-publishedDateTime: 2022-10-20T09:33:00Z
-originalUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
-webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
+excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
+publishedDateTime: 2022-10-22T09:31:00Z
+originalUrl: "https://koreatimes.co.kr/www/nation/2022/10/672_338368.html"
+webUrl: "https://koreatimes.co.kr/www/nation/2022/10/672_338368.html"
+ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
+cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
 type: article
-quality: 27
+quality: 48
 heat: -1
 published: false
 
 provider:
-  name: Analytics India Magazine
-  domain: analyticsindiamag.com
+  name: The Korea Times
+  domain: koreatimes.co.kr
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
-    width: 1435
-    height: 869
+  - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202210/162359a676a54ab9b28848350075271f.jpg/dims/resize/740/optimize"
+    width: 740
+    height: 696
     isCached: true
 
 related:
@@ -203,22 +205,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
-    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
-    publishedDateTime: 2022-10-22T09:31:00Z
-    webUrl: "https://koreatimes.co.kr/www/nation/2022/10/672_338368.html"
-    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
-    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
-    type: article
-    provider:
-      name: The Korea Times
-      domain: koreatimes.co.kr
-    quality: 48
-    images:
-      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202210/162359a676a54ab9b28848350075271f.jpg/dims/resize/740/optimize"
-        width: 740
-        height: 696
-        isCached: true
   - title: "Facebook To Translate The World’s Unwritten Languages"
     excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
     publishedDateTime: 2022-10-20T11:49:00Z
@@ -312,7 +298,21 @@ related:
         width: 1280
         height: 853
         isCached: true
+  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
+    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
+    publishedDateTime: 2022-10-20T09:33:00Z
+    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 27
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
+        width: 1435
+        height: 869
+        isCached: true
 
-secured: "qOjEzDsS1oEH47xTI+yGyKXEqWhdCDG8iXm0bx2Our9re/Ryap8e6/cj5tFD9YylGbG7ovNXnlmjJ8el81XIIm5NgXDvPhj55s90H7ntfdniz1nskpoq3OsNm7Ssh+OvgpqeClVAZ8CNhfV88T8sjUfi6YaQGdLhd2xYucVCwjqp1UJ+4EzSupK8dUSFhiHm8HNbxIffPEcBdlPC2PHVcADsXrNWBhV+n1a5ghoqY1aaGN54CSKsBDQL5iOVuXiOFQQt9VLGQDH3X3scWUMUis7vIfd7o4mOIXwsDq5YzqOKG2HaEqMCtSI36h0iixKAA+xiuL7txucBa46YGgoq2UvoppVAjbqTECbj2oj4i9Lcv4zy9kta+UZRQKdboljWOUtLVQHJXWdKyJNopmU7zmPX1VlBCkmBIUPRpA1bbIK5HKnE82Qz4HDqSerIidSDj17fUxGuku/Y3+v5A0TE1RmWyih8F54to1uoJmXzxglVwkPdlY8tC6BEXU+tzOkbBjUIzDYMtRSXFjSzx/L9FQ==;8Rx1YTiKYno881bbaeif7w=="
+secured: "Tshs8YO7HWZm/rFjFk0HWgCLtEdVmJavK7EolhFSPlcnHgPtieAcW5oGsRFSA4K+vS/aKtoPe9i3vi87MjmrGEH850MkeHTPESk3U0EgXfmQIg2la1avnFKDJaWzPf6y342FTHKpAQce3ekCfSJwiNXCcN021DWfE8LqVgl7HsM2/svh7xX+KiZo1UN4yFrXnBArpy7fjFmttfyD3/3VnjczDPV4GBjOEvtaNEs4tqyG67EYkojCpZGgmyQMeh9yhEE8Z7lZrtysmm3Qj+X5W176VJOJ1G8DB2z/iMV0fEnGIpEf2HtKr3kzKmARcWla6aTevh9/euc/IbPtBdvskKgSzCFPenzSi8uvagNx/mk=;O6wO5yt0KFhBjQ3ktPYixA=="
 ---
 

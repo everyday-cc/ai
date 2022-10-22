@@ -62,22 +62,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How artificial intelligence will transform the Middle East"
-    excerpt: "A more comprehensive and evolving regulatory framework will be critical as AI will reportedly become the UAE’s top sector over the next decade"
-    publishedDateTime: 2022-10-17T16:03:00Z
-    webUrl: "https://www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east"
-    ampWebUrl: "https://www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/opinion/how-artificial-intelligence-will-transform-the-middle-east?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 59
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=7f65b56a-4ead-5afc-bb18-ae41fca2deda&function=cropresize&type=preview&source=false&q=75&crop_w=0.785&crop_h=0.99999&width=1200&height=675&x=0.1075&y=1.0E-5"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Chipotle’s recipe for digital transformation: Cloud plus AI"
     excerpt: "CTO Curt Garner fortified the fast-casual chain’s digital aspirations with an all-in push for the cloud, providing a foundation for innovations aimed at improving customer experience and restaurant operations."
     publishedDateTime: 2022-10-21T10:00:00Z

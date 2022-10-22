@@ -53,6 +53,20 @@ related:
         width: 647
         height: 800
         isCached: true
+  - title: "Chinese netizens curious about Meta's AI Hokkien dialect translation tool"
+    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
+    publishedDateTime: 2022-10-22T08:00:00Z
+    webUrl: "https://www.asiaone.com/china/chinese-netizens-curious-about-metas-ai-hokkien-dialect-translation-tool"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/221022_meta_reuters.jpg?h=0429cc9e&itok=pCyaxgq5"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "rhKWWnuw4DP0FUNWGPFPvD7BbjlFtf0S2f7CFPpZ9ek4Jdu1k/rZCUG1IQBAvZ2LgX+Pv1ls9LkvY5utVjEndTeh9SbI3p3SrZ5G52u89HsvZJVNzlkfrCTt5+FoQqPFk86wPfLWm27R1S/HBpjjeKImnPtORm5RQmweP3gZuBJOB7OUVhPruLv28IkqH59HJo5cjWXbHvclG0clfzfGAWUCoQsJdiwOxb9jDOWLscFfykiLAcWmW5R7GbnlDwy473twcLQXzFdetgDJ4GOGQGsSLsravpAB9YovywBMW2pV4uKuCP4WLKnyPAEzSnffQY3iBQ3U6t1XycVMAHP5spAttHmikv1Jd3jpR/d1dYel/8u0HPESPM+cm2HGW/PgRJFBZjBX4xDHRp15eTSStnBKzeXVC83lU7z0QZ1GiqoNJBUAq8K1MCLkApIBGsXU+wERASY2Qq3JWDKNEOSKC/oYt4pojWCcR/qvgFXqWNdHjs8MX0ZORnNVIjBqAwu4rj+dCrbe4BckV4gkiecsWA==;0s98bnD0mFkZIhn5m/uKAw=="
 ---
