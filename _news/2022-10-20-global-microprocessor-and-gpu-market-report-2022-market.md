@@ -173,20 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Door Lock Market 2022-2029 Competitive Landscape, Growth Opportunities, SWOT Analysis, Industry Trends, Size, Share"
-    excerpt: "Global “Facial Recognition Door Lock Market” research report 2022 provides a detailed pipeline analysis of the"
-    publishedDateTime: 2022-10-17T07:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-lock-market-2022-2029-competitive-landscape-growth-opportunities-swot-analysis-industry-trends-size-share-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning in Manufacturing Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029"
     excerpt: "Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
     publishedDateTime: 2022-10-20T04:04:00Z
@@ -252,15 +238,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Acceleration Module Market 2022 : Report Offers Key Futuristic Top Trends And Competitive Landscape By 2028"
-    excerpt: "Number of Tables and Figures :141 | The global \"AI Acceleration Module Market\"size is projected to reach Multimillion"
-    publishedDateTime: 2022-10-17T07:49:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-acceleration-module-market-2022-report-offers-key-futuristic-top-trends-and-competitive-landscape-by-2028-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
   - title: "Machine Learning in Communication Market 2022 Industry Demand, Share, Top Players, Industry Size, Future Growth by 2028"
     excerpt: "The research report on the Global Machine Learning in Communication Market 2022 provides consumption market share"
     publishedDateTime: 2022-10-17T09:58:00Z

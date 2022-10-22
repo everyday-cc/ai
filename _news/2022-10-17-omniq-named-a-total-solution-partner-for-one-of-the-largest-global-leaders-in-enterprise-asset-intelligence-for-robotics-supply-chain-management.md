@@ -27,8 +27,8 @@ images:
 related:
   - title: "Kami Vision's Fall Management Solution Wins Silver McKnight's Tech Partner of the Year Award"
     excerpt: "Kami Vision, the computer vision company that provides artificial intelligence (AI) solutions to enterprise, SMB and consumers, was recognized with the Silver McKnight's Tech Partner of the Year award,"
-    publishedDateTime: 2022-10-21T14:39:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/21/9697502.htm"
+    publishedDateTime: 2022-10-21T14:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-kami-visions-fall-management-solution-wins-silver-mcknights-/2022/10/21/9697502.htm"
     type: article
     provider:
       name: TMCnet
