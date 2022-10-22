@@ -19,34 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "AI in Computer Vision Market worth US$ 95,080.5 million by 2027 at a CAGR of 46.9% – Exclusive Report by The Insight Partners"
-    excerpt: "According to our latest market study on \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global"
-    publishedDateTime: 2022-10-17T18:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17"
+  - title: "Natural Language Processing Market Size [2021-2028] Exhibits 29.4% CAGR to Reach USD 127.26 Billion by 2028"
+    excerpt: "The global natural language processing market size was USD 16.53 billion in 2020. Fortune Business Insights has published a detailed report covering latest market size"
+    publishedDateTime: 2022-10-18T09:33:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300760/natural-language-processing-market-size-2021-2028-exhibits-29-4-cagr-to-reach-usd-127-26-billion-b"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29300760"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300760"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Marketing Market To Reach $ 107.53Bn, Globally, By 2028 At 31.6% CAGR: The Insight Partners"
-    excerpt: "The Insight Partner The rising adoption of customer-centric marketing strategies, increasing use of social media for advertising are among"
-    publishedDateTime: 2022-10-20T10:41:00Z
-    webUrl: "https://menafn.com/1105052787/Artificial-Intelligence-In-Marketing-Market-To-Reach-10753Bn-Globally-By-2028-At-316-CAGR-The-Insight-Partners"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 32
-    images:
-      - url: "https://menafn.com/updates/pr/2022-10/20/EP_64095image_story.jpeg"
-        width: 573
-        height: 300
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 21
 
 secured: "5RcLZGAvopaNEEsLkB1jdcD7V43SU1/0o1ndWSLu/GCQHSKIF7jNazGGhRJpNeNh9JGc4km5wrPi2pjENsAxYvDdaVthsNzLruzEwYKt5ViW0WMSyhTS3ALqvu46fV36crIjvo3Xtqb1aQ4v6lzaSp4bSY+RRLF5RSapk/eYP42PLmqfBLjv97sRVcQYMXJ/hV2XrMJJTRfECXpEUuEfsfBdxYkVg7aoijEOkYTfhfoEDon3jKWTw7wK/anRy0rILFhH5ITrbjIhOw/BECyCa9O76m3AXDI6zHou+ZFz8q6345B68snY0WJdQC34hZ/7xkVPIlYdmLyLVq5T9OPGPfSa4CPD9bhSV59wnVPqp34=;88MOntCGNgmuW99QywvgVQ=="
 ---

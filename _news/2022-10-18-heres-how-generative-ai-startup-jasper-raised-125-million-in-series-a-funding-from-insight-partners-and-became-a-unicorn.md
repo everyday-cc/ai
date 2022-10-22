@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Stability AI, the startup behind Stable Diffusion, raises $101M"
-    excerpt: "Stability AI, the startup behind the image-generating AI system Stable Diffusion, has raised $101 million at a reported valuation over $1 billion."
-    publishedDateTime: 2022-10-17T18:05:00Z
-    webUrl: "https://techcrunch.com/2022/10/17/stability-ai-the-startup-behind-stable-diffusion-raises-101m/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
   - title: "This AI firm just raised $101m at a reported $1bn valuation – and music is one of its areas of focus"
     excerpt: "AI firm Stability AI, described as the “world’s first community-driven, open-source artificial intelligence company” just raised USD $101 million in funding. According to Bloomberg, the oversubscribed funding round values the London-based tech startup at $1 billion."
     publishedDateTime: 2022-10-20T15:28:00Z

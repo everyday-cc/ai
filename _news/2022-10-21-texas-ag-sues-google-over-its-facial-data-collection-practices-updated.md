@@ -135,15 +135,15 @@ related:
     quality: 41
   - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
     excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
-    publishedDateTime: 2022-10-20T21:37:00Z
-    webUrl: "https://www.cbsnews.com/news/google-texas-biometric-data-privacy/"
-    ampWebUrl: "https://www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
+    publishedDateTime: 2022-10-20T20:37:00Z
+    webUrl: "https://www.cbsnews.com/dfw/news/google-texas-biometric-data-privacy/"
+    ampWebUrl: "https://www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
     type: article
     provider:
       name: CBS News
       domain: cbsnews.com
-    quality: 38
+    quality: 36
     images:
       - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/25/c08797e6-92d5-42ab-86bd-37e36a6182d6/thumbnail/1200x630/d1f04b58460b09aadaa48e2621bf3cb4/ap22230562450138.jpg"
         width: 1200

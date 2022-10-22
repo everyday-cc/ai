@@ -57,20 +57,6 @@ related:
         width: 1256
         height: 630
         isCached: true
-  - title: "Host code-server on Amazon SageMaker"
-    excerpt: "Machine learning (ML) teams need the flexibility to choose their integrated development environment (IDE) when working on a project. It allows you to have a productive developer experience and innovate at speed. You may even use multiple IDEs within a project. Amazon SageMaker lets ML teams choose to"
-    publishedDateTime: 2022-10-17T17:32:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/host-code-server-on-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/17/host-code-server-sagemaker.jpg"
-        width: 1550
-        height: 772
-        isCached: true
   - title: "Use Amazon SageMaker Canvas for exploratory data analysis"
     excerpt: "Exploratory data analysis (EDA) is a common task performed by business analysts to discover patterns, understand relationships, validate assumptions, and identify anomalies in their data. In machine learning (ML), it’s important to first understand the data and its relationships before getting into model"
     publishedDateTime: 2022-10-18T16:05:17Z

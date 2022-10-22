@@ -1,20 +1,21 @@
 ---
 category: news
-title: "AI Predicts Autism in Children from Medical Data"
-excerpt: "Approximately one in 100 children are diagnosed with autism spectrum disorder worldwide according to the “Global Prevalence of Autism: A Systematic Review Update” 2022 research funded by the Canadian Institutes of Health Research and Fonds de Recherche du Québec Santé."
-publishedDateTime: 2022-10-21T11:57:00Z
-originalUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202210/ai-predicts-autism-in-children-medical-data"
-webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202210/ai-predicts-autism-in-children-medical-data"
+title: "What physical materials can learn from AI neural networks"
+excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
+publishedDateTime: 2022-10-22T06:00:00Z
+originalUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
+webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
 type: article
-quality: 17
+quality: 34
 heat: -1
 published: false
 
 provider:
-  name: Psychology Today
-  domain: psychologytoday.com
+  name: Fast Company
+  domain: fastcompany.com
 
 topics:
+  - Machine Learning
   - AI
 
 related:
@@ -48,16 +49,16 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What physical materials can learn from AI neural networks"
-    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
-    publishedDateTime: 2022-10-22T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
+  - title: "AI Predicts Autism in Children from Medical Data"
+    excerpt: "Approximately one in 100 children are diagnosed with autism spectrum disorder worldwide according to the “Global Prevalence of Autism: A Systematic Review Update” 2022 research funded by the Canadian Institutes of Health Research and Fonds de Recherche du Québec Santé."
+    publishedDateTime: 2022-10-21T11:57:00Z
+    webUrl: "https://www.psychologytoday.com/za/blog/the-future-brain/202210/ai-predicts-autism-in-children-medical-data"
     type: article
     provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 17
 
-secured: "031uMXjM+SbK6lIf81suOENlJjmaEQU7wUuquqx93Tjr3lFn223eXlKZJeK61I8eYfS4/4xp7y0kWFzWjyiZfmT8LBqGwOaCw7sf3uv5BpSnZ+IFFwKsdvXf3kMumNVIn794kYOY9lqQygacBABPQk0wGQZrMcxykXGyx71dtVDXs80A4gIDj+tovKUtobqeJ57NPYrSaLt8mSrxfIIhtQqdViA7Ecp1RoyurON/gUF4TG00QtUdouJAA8A6JhqftIdBz5Y+bHnUV2d6N3k3Exv2dcpbojHzwTgg8/rhKu/oRq8nem9dRS2+LGcZNFynE8GrwI5cTlW1RYp2PLw9Dd6yjLCWXj3W8DTRRMcXTsKUBy1PieRm2NUmMJKd+UADJc6FM+oJZ6ye6R7hZzBvdtEAEB4VR2FuMXLUFo+Npm+ycafg7eE1RtCn+wCt04cle1glvKBnEWEMbpwDodyV+W00bacjWPQYtfNMEMJydsvsS3OKznr2yn5Xi5vtaWxjbKIBBrThgTPf1gskhhChxg==;KaJhy1G4tjj1+yQfsUoXCg=="
+secured: "G3EDfBYXY/0bGDypPYkVy+i8QGekZkOyYeQp6W0gtcZntD5NJmWDSwvS89nE8NlhYd6xEXECtQG8jaJLkvEVjJxyIedlOBtD6oA1I+Nn2+rbz2SgY/i4XpTPn+bz52ktcRvZg1FDC3nCfH7GAjnrJzavOUiCv6o/Zb8xZTC51udhFLH3IiUSorELNaKnb7mChLFv1YAcZ0sDWXlSp9bDH1MT3niqkVbhVPj1RclGZ4nzVJu82C8Ra6uy8MX9MP+4iZZ4D9wLaQBKpTW6147IcWQcwjdZATDWLbEV6KvIsI7mlYJ7orG4HYu0JNnuyPXG/GjsgdeG6X6f9fHecq2ydRNsmtrnZMzgno+aLJWfWqzGTv+kUzsh6p8/7IBtMcSWWFUMk1rrj+pIo5dzSx5ra4DU0HKFJ/1UJidiHoQluoAqm3kD6Qq3xmbYhZTPNKnalAvHPmo4AHxQbdQJu1aDQw0Qru2fMrRBd1lsvX3/FEJGqAfbYj2UUo3akNVnkWuZvPb1DQXqmsPl49+ls5Xn9Q==;6cwGSUOVoyHWWYQjDITkdQ=="
 ---
 

@@ -2,13 +2,13 @@
 category: news
 title: "Texas accuses Google of collecting people's facial and voice data without their consent"
 excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
-publishedDateTime: 2022-10-20T21:37:00Z
-originalUrl: "https://www.cbsnews.com/news/google-texas-biometric-data-privacy/"
-webUrl: "https://www.cbsnews.com/news/google-texas-biometric-data-privacy/"
-ampWebUrl: "https://www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
-cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/news/google-texas-biometric-data-privacy/"
+publishedDateTime: 2022-10-20T20:37:00Z
+originalUrl: "https://www.cbsnews.com/dfw/news/google-texas-biometric-data-privacy/"
+webUrl: "https://www.cbsnews.com/dfw/news/google-texas-biometric-data-privacy/"
+ampWebUrl: "https://www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
+cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
 type: article
-quality: 38
+quality: 36
 heat: -1
 published: false
 
@@ -19,7 +19,6 @@ provider:
 topics:
   - Natural Language Processing
   - AI
-  - Computer Vision
 
 images:
   - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/25/c08797e6-92d5-42ab-86bd-37e36a6182d6/thumbnail/1200x630/d1f04b58460b09aadaa48e2621bf3cb4/ap22230562450138.jpg"
@@ -195,6 +194,6 @@ related:
       domain: theiet.org
     quality: 18
 
-secured: "O9H/Sv07VHxXV0EhRzbRbvD/iY0rvIfNuw+DjEHGLgR57LchBjtMMtkDedQy+Cx7dKXeMKEdp76oyh094ScwlKk7eCy8WCEsyjg6n6jHdzD36aRzTrcBRNpVMD47B1Ugjuv9w7s862M5beLdlXof194ypfTXPRF/O1eZt3EBrGLiczMI8x8eLoNu5feItXYa2mtDZxa+v/ZoyVkNybCkPqK7Trd10HuwssWUWAit3RcyjNh/G83Prczcg0Oxh68yQ5jPjaDolhOMjDHQ01W/eiwVa+HlT0UcDbazNnpr4lmVHfYO1Wk2ClGhwHCNZRsVOyWc6/n0bIRcloiigttlcymVI9ISknOD/r2JyjaT/q0=;O00B8j6VL5qXo0hSeDQ/eA=="
+secured: "HzVOtsqGiwgUPdOPxVvxNirfUPfRe6aQvBwe63dK2pmrJ8XMlDLgvKh9hzTBLw++C6+9bf1PUDXYRAwPKX9imBINeo6rZ2H8loOGt2fjPCFeh6Vre9uduKiHWBByby0KFnEdApGq2/OOv4fLIjzhINOISTOzyrU0Iki4H6kT+lyJ1Qcsxgl2kshdoZVD0nG4sIwd3b4yKOozV6lV7bSVgkFmrvIRlL0SRbQcnAyqviq+5ueEFnOSFYyGQncHJ7GL0pyrbDYXME9r5pfZRLdRvaCI3uflhxGbVDc2lnTR0nhPre4V7jB0340qHuVlKKjzv7OzOoPWednze27F7fvdADIF696Sc+iVORL5CETvuKo=;AEZaqRdAorFm1nnE9nb7kw=="
 ---
 

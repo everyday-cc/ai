@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medic
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "What physical materials can learn from AI neural networks"
+    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
+    publishedDateTime: 2022-10-22T06:00:00Z
+    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
+    type: article
+    provider:
+      name: Fast Company
+      domain: fastcompany.com
+    quality: 34
   - title: "AI Predicts Autism in Children from Medical Data"
     excerpt: "Approximately one in 100 children are diagnosed with autism spectrum disorder worldwide according to the “Global Prevalence of Autism: A Systematic Review Update” 2022 research funded by the Canadian Institutes of Health Research and Fonds de Recherche du Québec Santé."
     publishedDateTime: 2022-10-21T11:57:00Z

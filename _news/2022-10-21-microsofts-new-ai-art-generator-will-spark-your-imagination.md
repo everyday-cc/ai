@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-ne
 webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
 type: article
 quality: 86
-heat: 166
+heat: 156
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Project Bonsai cornerstone of new TCS, Microsoft initiative"
-    excerpt: "Tata Consultancy Services (TCS) has launched a collaboration with Microsoft Corp. that will see it develop AI-powered solutions for industrial controls on Project Bonsai, a low-code AI platform available on Microsoft Azure Cloud."
-    publishedDateTime: 2022-10-17T17:02:00Z
-    webUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043"
-    ampWebUrl: "https://www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
-    cdnAmpWebUrl: "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/project-bonsai-cornerstone-of-new-tcs-microsoft-initiative/508043?amp=1"
-    type: article
-    provider:
-      name: IT World Canada
-      domain: itworldcanada.com
-    quality: 74
-    images:
-      - url: "https://i.itworldcanada.com/wp-content/uploads/2022/10/GettyImages-1275786974.jpg"
-        width: 796
-        height: 438
-        isCached: true
   - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
     excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
     publishedDateTime: 2022-10-20T04:00:00Z
