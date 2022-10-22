@@ -1,12 +1,14 @@
 ---
 category: news
-title: "Adobe commits to transparency in use of generative AI"
-excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
-publishedDateTime: 2022-10-18T12:00:00Z
-originalUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
-webUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
+title: "How small and midsize businesses can take advantage of text-to-image AI"
+excerpt: "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes."
+publishedDateTime: 2022-10-22T16:10:00Z
+originalUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/"
+webUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/"
+ampWebUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
 type: article
-quality: 47
+quality: 87
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
+    width: 1200
+    height: 613
+    isCached: true
 
 related:
   - title: "How to use DALL-E 2 to generate AI images"
@@ -70,22 +78,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How small and midsize businesses can take advantage of text-to-image AI"
-    excerpt: "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes."
-    publishedDateTime: 2022-10-22T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
-        isCached: true
   - title: "How to use Midjourney to generate AI images"
     excerpt: "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it."
     publishedDateTime: 2022-10-21T21:00:00Z
@@ -118,7 +110,16 @@ related:
         width: 619
         height: 374
         isCached: true
+  - title: "Adobe commits to transparency in use of generative AI"
+    excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
+    publishedDateTime: 2022-10-18T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
 
-secured: "wz38/YVnTRU1gywyRU/cKgrKOOFo740Eb9okMJcFI/EB91xUazsF5xf3biZZ1LTd1Rz1N37er4ea4mCRKarHQTOGUmBB22UH3VbdtN8cyChzpD8/6RRiTsS5bTDYYKFEDNXun7lL0SV06nT+LFI1K/LTdJFhsYg4HC3S777UlZ7gywCieUdsWuT+3BqEfysvO9xrFwnI/mEICiTgxIrAn5iFFrYcreROj5Xqv4hkp+NZ1I+ifgMVGYiKUXMMgY6prtmKdFtLe06hptRPlPo4CSZfDb3Cu9RvohndjPX1bjAAQ9nIHuHQh2jbfzxBIJppwsDzm9ABr/ajpW8mMORhCMwnXwu/EEAIDT5gO+OSJ+Y8PRuEAW9rLjqoDAwgzKOhqfeLUdXzd/LrqDPQCEbvO+rCDxgMtxMTl/oRp9UVzTLwsxxMqmxv99Cl6D99kJqqHr8NYtRaa9df8C4u8E3HfDoQQtUOhOxuypbTfxfqaC7jPenr+SNH2zgEqCCMGFgRr4Pe9xtBh/X5Rdzr89bIHA==;TvY65QZMFFHui7D2VGM88Q=="
+secured: "YC6eWlwBdvaDI78WNRInaZJvp7KZzk7ph9xv0ldpP4gbSdm36jYXVEFmqhkD6w3eyqxoTxWbpwK3E6ord5rjEDTOJqmWAkslwkF07lsTUa5+dVuA5K9ZsT3oesDBaXkR43B3J3PCJhhDjgSSma7CKxZI6PcLKMYEa/Bseq4NEj1Vlhf0TTifOABn0mw25qE2UAHf6OqnYeFDKZywUocCKvZR4OtgHj8EDnv9LL/q21rENyhcYohLTkhbeDzhED6s8Wwxki2/vcRjrzqc+RtE+jHVCwZt7XJmNST4S6nUbPPlD7bba+2O9Mqt7o8zIyB19U3qG/dORvISCA58D4jub1QwZlzv5KHY8mTfuPZcp74=;V52tL7d46jp8yBnnoYZxgQ=="
 ---
 
