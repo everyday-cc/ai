@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hai
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/"
 type: article
 quality: 89
-heat: 110
+heat: 109
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/"
 type: article
 quality: 106
-heat: 136
+heat: 137
 published: true
 
 provider:
@@ -47,19 +47,16 @@ related:
         height: 630
         isCached: true
   - title: "Global Music Streaming Market Analysis Report 2022: Artificial Intelligence and Machine Learning Gaining Momentum"
-    excerpt: "The global music streaming market is expected to grow from $24.09 billion in 2021 to $27.24 billion in 2022 at a compound annual growth rate (CAGR) of 13.08%. The music streaming market is expected to grow to $45."
-    publishedDateTime: 2022-10-21T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-music-streaming-market-analysis-report-2022-artificial-/2022/10/21/9697594.htm"
+    excerpt: "The \"Music Streaming Global Market Report 2022\" report has been added to ResearchAndMarkets.com's offering. The global music streaming market is expected to grow from"
+    publishedDateTime: 2022-10-21T15:00:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29360845/global-music-streaming-market-analysis-report-2022-artificial-intelligence-and-machine-learning-ga"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29360845"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29360845"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Benzinga.com
+      domain: benzinga.com
     quality: 48
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Mind Reading Artificial Intelligence Now Has The Ability To Decode Human Thoughts"
     excerpt: "Mind reading artificial intelligence now has the ability to decode the words and sentences that people are thinking by utilizing brain scans. This new"
     publishedDateTime: 2022-10-20T13:42:00Z

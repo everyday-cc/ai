@@ -113,15 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Healthcare Market Enhancement, Size, Growth, and Business Opportunities from 2022 to 2030"
-    excerpt: "Report Ocean recently added a research report on the Artificial Intelligence (AI) in Healthcare market. The report includes an extensive analysis of the market's characteristics, COVID-19 impact, size and growth,"
-    publishedDateTime: 2022-10-17T05:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-healthcare-market-enhancement-size-growth-and-business-opportunities-from-2022-to-2030-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
   - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
     publishedDateTime: 2022-10-20T02:43:00Z
@@ -243,15 +234,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-  - title: "Neural Network Market Share, Trends, Regional Overview, Leading Company Analysis and Forecast 2022 To 2030"
-    excerpt: "The global neural network market was valued at $7,039 million in 2016, and is projected to reach $38,719 million by 2023, growing at a CAGR of 28.0% from 2017 to 2023. The Neural Network Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
-    publishedDateTime: 2022-10-17T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-share-trends-regional-overview-leading-company-analysis-and-forecast-2022-to-2030-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
   - title: "Contact Center AI Software Market 2022 : Projections and Regional Outlook, Key Players, Analysis, Size, Share, Growth, Trends and Forecast to 2029"
     excerpt: "Contact Center AI Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
     publishedDateTime: 2022-10-19T04:33:00Z

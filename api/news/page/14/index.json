@@ -2,6 +2,58 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-10-06-even-after-100-billion-self-driving-cars-are-going-nowhere.md",
+      "title": "Even After $100 Billion, Self-Driving Cars Are Going Nowhere",
+      "excerpt": "They were supposed to be the future. But prominent detractors—including Anthony Levandowski, who pioneered the industry—are getting louder as the losses get bigger.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
+      "originalUrl": "https://www.bloomberg.com/news/features/2022-10-06/even-after-100-billion-self-driving-cars-are-going-nowhere",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iYEO5rwXdifA/v0/1200x630.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg L.P.",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-how-to-invest-in-artificial-intelligence.md",
       "title": "How To Invest In Artificial Intelligence",
       "excerpt": "We all see the power of artificial intelligence. As investors, we must consider the best way to get into AI so that we don’t get left behind. Here are 10 AI investments to consider right now.",
@@ -1146,49 +1198,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-05-research-launched-to-make-voice-recognition-tech-more-accessible.md",
-      "title": "Research launched to make voice recognition tech more accessible",
-      "excerpt": "The Speech Accessibility Project aims to make voice recognition technology more useful for people with a range of diverse speech patterns and disabilities. Artificial intelligence-based voice recognition technology, used in voice assistants such as Amazon ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
-      "originalUrl": "https://www.research-live.com/article/news/research_launched_to_make_voice_recognition_tech_more_accessible/id/5103852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.research-live.com/img/MRS_EM_RGB.jpg",
-          "width": 1000,
-          "height": 581,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
-      "cdnAmpWebUrl": "https://www-research--live-com.cdn.ampproject.org/c/s/www.research-live.com/amp-page.html?id=5103852&name=research-launched-to-make-voice-recognition-tech-more-accessible",
-      "publishedDateTime": "2022-10-05T03:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "research",
-        "domain": "research-live.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

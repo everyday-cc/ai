@@ -94,15 +94,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 26
-  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
-    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
-    publishedDateTime: 2022-10-17T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "Clinical Natural Language Processing Market Report 2022 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2029"
     excerpt: "The \" Clinical Natural Language Processing Market \" Research report covers major key players with geographical segmentation, revenue, market size, share and growth of Clinical Natural Language Processing industry in upcoming years."
     publishedDateTime: 2022-10-20T03:15:00Z

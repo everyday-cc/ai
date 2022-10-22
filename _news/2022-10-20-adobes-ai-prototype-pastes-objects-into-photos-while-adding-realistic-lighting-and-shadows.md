@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/"
 type: article
 quality: 77
-heat: 89
+heat: 87
 published: true
 
 provider:

@@ -7,7 +7,7 @@ originalUrl: "https://www.lockportjournal.com/news/study-of-biometric-tech-in-sc
 webUrl: "https://www.lockportjournal.com/news/study-of-biometric-tech-in-schools-winding-down/article_783e49de-50d2-11ed-8313-83ea4917c290.html"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "LG developing platform with voice biometrics to communicate with digital twins"
-    excerpt: "The platform would enable people to build metaverse homes and digital humans that communicate with their creators using voice biometrics."
-    publishedDateTime: 2022-10-19T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202210/lg-developing-platform-with-voice-biometrics-to-communicate-with-digital-twins"
+  - title: "New York Study of Biometric Tech in Schools Nears Completion"
+    excerpt: "Two years after Lockport City School District's use of facial recognition-capable cameras triggered controversy, a recent hearing gave critics and proponents a chance to speak up while the state prepares a report."
+    publishedDateTime: 2022-10-21T23:05:00Z
+    webUrl: "https://www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion"
+    ampWebUrl: "https://www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion?_amp=true"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 20
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/23162352/voice-recognition-scaled.jpg"
-        width: 2048
-        height: 1152
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b5aca1c/2147483647/strip/true/crop/1057x551+0+39/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F20%2Fc8c9ecc117d83943478f4f43b22f%2Fshutterstock-617755883.jpg"
+        width: 840
+        height: 438
         isCached: true
 
 secured: "0+p+/x3a10yMtdLVAr7Nq4dyxa3EGKKS3FFrPiNWvxwa6cdPW7BtmXxTdrm2zeqTB10OwqxwFhNUNi/ChaE7V02mYGme51xXe4gKe2/7rCfohN9cVwXuKFT0+p9jxKkwciRdYAiw1vFOAxk8Zv06tAO3AtIlNsty5aE2fzD6mdhE0o/KkC/NmUuFV+Ad+L6xZfhhZwCG6EO+0axcQiHiGGt7ZQbZPOYBONe49WfzUNtzMSpPngRXtygVrOTdW9E6RWJLQy8PeKF/1JcIa/b/TDqj9q8j3WW7mIMCsYeciKYSCRSXq8Inw/m1suCN4gLeeM9M821wJC1daz5y/cjmlQDo4GP8dcGvqiX9xECo0Kg=;sYgqybnICoNRO8EMG5tirg=="

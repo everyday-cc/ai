@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-
 ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
 type: article
-quality: 55
-heat: 75
+quality: 57
+heat: 77
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg"

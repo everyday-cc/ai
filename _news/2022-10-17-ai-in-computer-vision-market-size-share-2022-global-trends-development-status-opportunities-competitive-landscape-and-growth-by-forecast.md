@@ -79,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market Size to Worth US $ 209.91 billion by 2029 | Size, Share, Growth and Forecast Period 2022-2029"
-    excerpt: "The global machine learning (ML) market size was valued at USD 15.44 billion in 2021. The market is expected to grow from USD 21.17 billion in 2022 to USD 209.91 billion by 2029, exhibiting a CAGR of 38."
-    publishedDateTime: 2022-10-17T05:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-to-worth-us-20991-billion-by-2029-size-share-growth-and-forecast-period-2022-2029-2022-10-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
     excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
     publishedDateTime: 2022-10-20T03:41:00Z

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-20T16:10:00Z
 originalUrl: "https://www.ajmc.com/view/at-last-artificial-intelligence-is-transforming-cancer-drug-discovery-and-development"
 webUrl: "https://www.ajmc.com/view/at-last-artificial-intelligence-is-transforming-cancer-drug-discovery-and-development"
 type: article
-quality: 29
-heat: 29
+quality: 31
+heat: 31
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://cdn.sanity.io/images/0vv8moc6/ajmc/8450971870312f5991ae73c55023518077213310-440x440.jpg?fit=crop&auto=format"

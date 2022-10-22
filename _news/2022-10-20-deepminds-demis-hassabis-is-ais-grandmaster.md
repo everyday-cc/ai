@@ -9,7 +9,7 @@ ampWebUrl: "https://www.vox.com/platform/amp/future-perfect/23375219/future-perf
 cdnAmpWebUrl: "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind"
 type: article
 quality: 104
-heat: 105
+heat: 104
 published: true
 
 provider:

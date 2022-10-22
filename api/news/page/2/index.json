@@ -2,6 +2,57 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-20-artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028.md",
+      "title": "Artificial Intelligence In Regtech Market 2022 to Eyewitness Massive Growth by 2028",
+      "excerpt": "Pre and Post Covid is Covered and Report Customization is Available. \"Artificial Intelligence In Regtech Market\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-regtech-market-2022-to-eyewitness-massive-growth-by-2028-2022-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T00:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series.md",
       "title": "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series",
       "excerpt": "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,",
@@ -53,7 +104,7 @@
       "originalUrl": "https://www.vox.com/future-perfect/23375219/future-perfect-50-demis-hassabis-deepmind",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": 104,
       "tags": null,
       "images": [
         {
@@ -105,7 +156,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 308,
+      "heat": 288,
       "tags": null,
       "images": [
         {
@@ -366,7 +417,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -397,7 +448,8 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -409,7 +461,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -607,7 +659,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1176,7 +1228,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1217,61 +1269,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
-      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
-      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1067,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "publishedDateTime": "2022-10-18T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
       ]
     }
   ],
