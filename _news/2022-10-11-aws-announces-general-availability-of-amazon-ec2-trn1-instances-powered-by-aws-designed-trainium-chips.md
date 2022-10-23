@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips."
-publishedDateTime: 2022-10-10T23:35:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/10/9689231.htm"
+excerpt: "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ..."
+publishedDateTime: 2022-10-10T21:43:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
-
-secured: "jUHHeVsY0ymLc68hKLPafMlUdLcj8ngfbx6v3qA/GyLJAU975PgcOX9UTm+lr9gc84FOz4c8U1KUCzewnWdd9ialYBdIQPfnsIz4zDHAvcelp2bTaqv+shyhbXwirrUY7TZ5Sxh7omnORFKvJ4i3UqYajgkx6SPwFx8I9vzX4wyHofBI399WTEkdEwTeInHx5/qqQfSTOyT+raYYPc+ql4JTebcddII//aJi9NGjfYkiyVOAbj5Vco7F4/+IpcEOba9W7nEYeLONveN2vGBNqpXERh716h304nip0S1/aNIn7J+l2q1ZE3Dz/eCWdoyZjXPKgW/OslG7UfO2DydlVyyUiS4Zd1CtYsCTIGyLnPU=;/XHXpfKqRqM4wBX97TunIA=="
+secured: "aPG7RrnZbAZSQwCxCeexkgqmxq2OBtTo8R2j+k9dMQ2lR3bVEuuNX2Pa1J2syOE6H7616J64rmvCdFerRpMAz7z6mWAddYKSr/bw1jqbNYckbna3PSpCPEtW6AeFuMQ1jTIs4ZJpsdpUgvjdfxCjO4IbgBZDWAvf3dpMvcl+iom6yCJW3qmEIAy6bOciolUfPA8vGe4O1IjLmk34a8AaBqkNoxWEck7TE7JEmjlGLHU77xDkYPEJ8HwfN+xqrhNleQ6VgCZETB+0hlJZM2bmNUGhoFWbiS7NH3gwe3rpCCq5NPmQVRXAJwOkCYSQo54ksYoll818gBO93CpHWgO3nyLT0PTKZegUjE50/6Eq2JI=;WesZ9SCRof/hFLgV9N91ew=="
 ---
 
