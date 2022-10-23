@@ -51,36 +51,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 60
-  - title: "Meet Magneto: Microsoft’s Foundation Transformer for General-Purpose Modelling Across Tasks and Modalities"
-    excerpt: "The machine learning community has seen a trend in recent years, with researchers working to converge their model architectures across language, vision, speech, and multimodal classes. While transformer architectures have become the de facto standard for building such highly desirable general-purpose foundation models,"
-    publishedDateTime: 2022-10-18T21:17:00Z
-    webUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/"
-    ampWebUrl: "https://syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/18/meet-magneto-microsofts-foundation-transformer-for-general-purpose-modelling-across-tasks-and-modalities/amp/"
-    type: article
-    provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 43
-    images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1"
-        width: 790
-        height: 320
-        isCached: true
-  - title: "As Microsoft’s $68.7bn Activision buyout awaits approval, games giant files patent for AI music tech"
-    excerpt: "Microsoft issued jaw-dropping news that it was buying Activision Blizzard in an all-cash transaction valued at $68.7 billion. Activision – one of world'"
-    publishedDateTime: 2022-10-18T19:27:00Z
-    webUrl: "https://www.musicbusinessworldwide.com/as-microsofts-68-7bn-activision-buyout-awaits-approval-games-giant-files-patent-for-ai-music-tech/"
-    type: article
-    provider:
-      name: Spotify
-      domain: musicbusinessworldwide.com
-    quality: 39
-    images:
-      - url: "https://www.musicbusinessworldwide.com/files/2022/10/Screenshot-2022-10-18-at-17.27.58.jpg"
-        width: 2550
-        height: 1414
-        isCached: true
   - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
     excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
     publishedDateTime: 2022-10-21T19:13:00Z

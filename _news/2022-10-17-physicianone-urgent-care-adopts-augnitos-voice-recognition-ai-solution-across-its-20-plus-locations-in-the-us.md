@@ -5,6 +5,8 @@ excerpt: "Augnito's medical voice recognition solution will be used by providers
 publishedDateTime: 2022-10-17T16:25:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location"
+ampWebUrl: "https://www.benzinga.com/amp/content/29292537"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292537"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "7ojHxEq7kUYpQsunZvFai921c8GvBQXZ5RvCiJIgRF/34/4IT4/taij4rQBZrHlxPX9mzN+bSrRIO8FuNrjGJdLNWa8MrMuPK6RYvoUCX9Y+fG29Dcacl4PnhqnG2EdP9nTzPogN/sTmQ0sW2H74kviGh74jMCn2GsUV9Lw0afcO4h83wq9ZVeFKibI/kwX5LRQK1vLyaVM11+oEL+JsYb+84bnp1Ff7vZ5SI1Prp7DC671m83YmqgD45j7Ss89L6hyi9K0SQnvkw7NuBlbzo0AvwVdmr9QdnUwDI3vnEhWvY0pXuwowKw5cl8RbAqHFQLpDRUYa+DJCKsee74WP4RUx7aLsJg+ec0Vo+6lNZ54=;lfYbw2zd/ak8bORKwHEvJw=="
+images:
+  - url: "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "zBIYEY3oU+MWmsWf1YsJyJX9aMrgrSMO1P2F8UubFBYzF8uYpiABMI8pZV1+r7AeP7oeARUrMOLKb/QGmB5ATM9ceYX7fqB8ifXCN4lLEaTgl1Edxk9D1PzmB7lCZ801KavR1En8Iux+L32BVr4y3ce971ROcUBBdB77lU7GtGqXie/xnwC+mFomwQnqpIlh1fQ7DHoKjtvUVzOWRSBggKZqSQHBiQzWa8dX4x3INoxuEbxa3dhSPVGBK+yCUYKcaNMymjqWy+BrZKeVkxq9twIcDTPbyWYqG2m58y9zezlAlOpHinisLGo1M+6ueceB2KqaPVoo6eA0ueNsTvBFQa0Q2MvqcE6B08BKovqtF8Y=;oBNFUTfHav+SvW1wBumZCA=="
 ---
 

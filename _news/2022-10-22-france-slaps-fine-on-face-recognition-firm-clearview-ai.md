@@ -47,6 +47,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "France fines Clearview AI maximum possible for GDPR breaches"
+    excerpt: "Clearview AI, the controversial facial recognition firm, has been hit with another fine in Europe after ghosting France's privacy regulator."
+    publishedDateTime: 2022-10-20T19:54:00Z
+    webUrl: "https://techcrunch.com/2022/10/20/clearview-ai-fined-in-france/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "French regulator fines US face recognition firm Clearview AI €20 million"
     excerpt: "France's privacy watchdog slapped a €20 million fine on US firm Clearview AI on Thursday, October 20, for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The firm collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database – reportedly around 20 billion pictures – to clients including law enforcement agencies."
     publishedDateTime: 2022-10-20T11:18:00Z

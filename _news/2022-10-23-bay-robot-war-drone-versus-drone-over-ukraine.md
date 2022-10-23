@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-23T12:30:00Z
 originalUrl: "https://magicvalley.com/opinion/columnists/bay-robot-war-drone-versus-drone-over-ukraine/article_be08d232-5180-11ed-a245-ffb27299f3da.html"
 webUrl: "https://magicvalley.com/opinion/columnists/bay-robot-war-drone-versus-drone-over-ukraine/article_be08d232-5180-11ed-a245-ffb27299f3da.html"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Times-News

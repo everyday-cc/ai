@@ -2,6 +2,102 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-11-how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems.md",
+      "title": "How Advanced Databases Can Enable Deep Learning To Address Some Of The World's Great Problems",
+      "excerpt": "In order to reach their fullest potential, databases must evolve to meet the needs of more advanced AI algorithms.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634425ffb33ba97e97de06b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/11/how-advanced-databases-can-enable-deep-learning-to-address-some-of-the-worlds-great-problems/amp/",
+      "publishedDateTime": "2022-10-11T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-hsbc-and-silent-eight-expand-machine-learning-partnership.md",
+      "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
+      "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689370.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689370.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg",
+          "width": 400,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-gds-harnesses-machine-learning-to-control-feedback-spam.md",
       "title": "GDS harnesses machine learning to control feedback spam",
       "excerpt": "Felix Reilly, a data scientist at GDS, said in a blogpost that GOV.UK received around 540,000 feedback responses in 2021, and that in early 2022 there was a surge in spam to a peak of 12% of the total.",
@@ -1385,104 +1481,6 @@
         "AWS AI",
         "Machine Learning",
         "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-mlgt-professor-earns-nsf-career-award-for-computer-vision-and-ai-research.md",
-      "title": "ML@GT Professor Earns NSF CAREER Award for Computer Vision and AI Research",
-      "excerpt": "In a self-driving vehicle, cameras are stationed on all sides of the body, while an embedded AI system scans and processes the incoming data stream to continuously inform itself of appropriate actions to take.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "originalUrl": "https://www.cc.gatech.edu/news/mlgt-professor-earns-nsf-career-award-computer-vision-and-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cc.gatech.edu/sites/default/files/images/main/2022/Judy%20Hoffman1.jpg",
-          "width": 850,
-          "height": 478,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cc.gatech.edu",
-        "domain": "gatech.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-02-self-taught-ai-may-have-a-lot-in-common-with-the-human-brain.md",
-      "title": "Self-Taught AI May Have a Lot in Common With the Human Brain",
-      "excerpt": "Neural networks can use self-supervised learning to figure out what matters. This process might be what helps humans do the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "originalUrl": "https://www.wired.com/story/self-taught-ai-may-have-a-lot-in-common-with-the-human-brain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/6337428ca546819a4885f46c/191:100/w_1280,c_limit/Quanta_Self_learning_AI_2880x1620_Lede-scaled.jpg",
-          "width": 1280,
-          "height": 670,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-02T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision",
         "Facebook AI"
       ]
     }

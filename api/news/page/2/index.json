@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-21-soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022.md",
+      "title": "Soft Robotics Demonstrates mGripAI™ at Pack Expo International 2022",
+      "excerpt": "Today Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the Pack Expo International Exposition, October 23-26, 2022, at the McCormick Center in Chicago, Illinois.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T11:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry.md",
+      "title": "Katakem’s ‘robot chef’ speeds up drug development with reliable chemistry",
+      "excerpt": "Katakem, which is developing a robot to automate lab tasks, is among the many startups presenting at the TechCrunch Disrupt Battlefield 200.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
+      "originalUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/104944205-fd7cda9c-a08e-48ad-a340-bf872e278e80.jpg",
+          "width": 1140,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
+      "publishedDateTime": "2022-10-20T11:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-microsofts-new-ai-art-generator-will-spark-your-imagination.md",
       "title": "Microsoft’s new AI art generator will spark your imagination",
       "excerpt": "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview",
@@ -10,7 +105,7 @@
       "originalUrl": "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 116,
       "tags": null,
       "images": [
         {
@@ -158,7 +253,7 @@
       "originalUrl": "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -408,7 +503,7 @@
       "originalUrl": "https://www.usnews.com/news/top-news/articles/2022-10-18/amazon-to-boost-thailand-cloud-infrastructure-with-5-billion-investment",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -902,7 +997,7 @@
       "originalUrl": "https://futurism.com/the-byte/casinos-facial-recognition-gambling",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -997,7 +1092,7 @@
       "originalUrl": "https://www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -1131,109 +1226,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
-      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
-      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
-      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
-      "publishedDateTime": "2022-10-19T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
-      "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
-      "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
-      "originalUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d772ecd/2147483647/strip/true/crop/841x442+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F05%2Fae%2Fa13f44134fbab219dc17749f4e99%2F309672506-100477289525088-4358260222318445285-n-1.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

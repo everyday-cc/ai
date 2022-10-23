@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
+      "title": "Google in Talks to Invest $200 million Into AI Startup",
+      "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
+      "originalUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-649470/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-new-flexible-steerable-device-placed-in-live-brains-by-minimally-invasive-robot.md",
       "title": "New flexible, steerable device placed in live brains by minimally invasive robot",
       "excerpt": "Imperial College London scientists have successfully placed a bioinspired steerable catheter into the brain of an animal for the first time.",
@@ -696,6 +748,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-17-remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution.md",
+      "title": "Remote-controlled robots coming to Lake Erie will help remove, study plastic pollution",
+      "excerpt": "The BeBot and the PixieDrone are electric, remote-controlled robots that will be deployed in Lake Erie for testing in the fall and will begin the plastic cleanup in the spring. Lake Erie will soon have two electric, remote-controlled robots on its shores ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "originalUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/482cc9a/2147483647/strip/true/crop/2048x1152+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F40%2Fa718fcdd4aabbcae7f6d96a3685e%2Fmichael-regan-and-crowd.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "publishedDateTime": "2022-10-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wksu",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
       "title": "We are entering a new era for AI-powered robotics",
       "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
@@ -1360,92 +1455,6 @@
       "provider": {
         "name": "The Robot Report",
         "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers.md",
-      "title": "'Although not alive, I can still create art,' robot Ai-Da tells UK lawmakers",
-      "excerpt": "LONDON, Oct 11 (Reuters) - A \"robot artist\" called Ai-Da told British lawmakers on ... Disrupted Flying car by California startup Alef attracts early Tesla investor, article with image October ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "originalUrl": "https://www.reuters.com/technology/although-not-alive-i-can-still-create-art-robot-ai-da-tells-uk-lawmakers-2022-10-11/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-robotics-companies-dont-want-robots-weaponized-will-anyone-listen.md",
-      "title": "Robotics companies don’t want robots weaponized — will anyone listen?",
-      "excerpt": "(Airman 1st Class Shannon Moorehead/Air Force) A robotics manufacturer that continues to expand its arsenal of artificial intelligence attempted to ease public concerns over weaponized robots in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.airforcetimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
-      "originalUrl": "https://www.airforcetimes.com/off-duty/military-culture/2022/10/11/robotics-companies-dont-want-robots-weaponized-will-anyone-listen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.airforcetimes.com/resizer/zuFhqx_9etMBEfb0kGpPEGe-8vQ=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/CN66RWUN2FAAJDKALLUJMXZRDU.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Air Force Times",
-        "domain": "airforcetimes.com",
         "images": null,
         "publishers": null,
         "authors": null

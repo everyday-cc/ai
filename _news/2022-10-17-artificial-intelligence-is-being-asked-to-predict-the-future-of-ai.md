@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/10/17121630/SEI_129843131.jpg"

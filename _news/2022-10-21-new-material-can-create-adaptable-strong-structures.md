@@ -7,7 +7,7 @@ originalUrl: "https://www.manufacturing.net/operations/news/22499435/new-materia
 webUrl: "https://www.manufacturing.net/operations/news/22499435/new-material-can-create-adaptable-strong-structures"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Materials Made of Mechanical Neural Networks Can Learn to Adapt Their Physical Properties"
+    excerpt: "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a design inspired by artificial intelligence."
+    publishedDateTime: 2022-10-23T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/"
+    ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 50
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/10/a-new-type-of-material-mechanical-neural-network.jpeg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "A New Type Of Material Called A Mechanical Neural Network Can Learn And Change Its Physical Properties To Create Adaptable, Strong Structures"
     excerpt: "The is a short take about interesting academic work. The big idea A new type of material can learn and improve its ability to deal with u"
     publishedDateTime: 2022-10-20T03:11:00Z

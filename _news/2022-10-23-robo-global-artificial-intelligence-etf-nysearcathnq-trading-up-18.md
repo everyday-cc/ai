@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-23T09:30:00Z
 originalUrl: "https://www.defenseworld.net/2022/10/23/robo-global-artificial-intelligence-etf-nysearcathnq-trading-up-1-8.html"
 webUrl: "https://www.defenseworld.net/2022/10/23/robo-global-artificial-intelligence-etf-nysearcathnq-trading-up-1-8.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Defense World

@@ -7,7 +7,7 @@ originalUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recogni
 webUrl: "https://www.thelocal.fr/20221020/france-slaps-fine-on-face-recognition-firm-clearview-ai/"
 type: article
 quality: 54
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,15 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "France fines Clearview AI maximum possible for GDPR breaches"
+    excerpt: "Clearview AI, the controversial facial recognition firm, has been hit with another fine in Europe after ghosting France's privacy regulator."
+    publishedDateTime: 2022-10-20T19:54:00Z
+    webUrl: "https://techcrunch.com/2022/10/20/clearview-ai-fined-in-france/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
   - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws. France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws,"
     publishedDateTime: 2022-10-21T19:01:00Z

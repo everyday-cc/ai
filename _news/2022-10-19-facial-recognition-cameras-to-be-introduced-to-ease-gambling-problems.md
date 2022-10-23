@@ -71,15 +71,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Facial recognition technology to identify problem gamblers"
-    excerpt: "Poker machines in pubs and clubs across New South Wales will soon be able to scan the faces of players. The Daily Telegraph reports facial recognition technology will be used to help keep problem gamblers away from the machines."
-    publishedDateTime: 2022-10-18T20:18:00Z
-    webUrl: "https://www.news.com.au/finance/facial-recognition-technology-to-identify-problem-gamblers/video/d362444cef1003dba25e7292c3b2d7f8"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
 
 secured: "/tqK8ZzQtanDKrQ1HLvaWxgPkAtGy99RXunsk8jzPp4IAe4xWGIBkDSpOnVzRBNeofp7IhpARWDDhgiMY6PVRbOEysFYnXXHfJypApNzE6Wr9yV/+zosWyET2MWO+QXCSULyvRbpzCxZMUQhFR9H85LX0C7NDZ1g+pHveWwTlLprKVA3W8bRuM6RZXDE098RNN5X0Ek8AG0M/EMh/KZtxd2jR6drIiIlkliFcqa5SP41Or+16jY2LMeAPaZekiU1hguwokHpQCoaMgipluVmuub97I32qp8QCbJFcNefxq+waDURFS+ar36pnsk0oUIcmt90SxcGzMbqdWZPcaQw/089Ut7qgxfyiz3pzz5D8Ks=;Hwse41AobrUvQ67AFKdJQg=="
 ---

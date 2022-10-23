@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.livemint.com/img/2022/10/18/600x338/Artificialintelligence_1666112509532_1666112509660_1666112509660.jpg"

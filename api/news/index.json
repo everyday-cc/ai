@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-23-materials-made-of-mechanical-neural-networks-can-learn-to-adapt-their-physical-properties.md",
+      "title": "Materials Made of Mechanical Neural Networks Can Learn to Adapt Their Physical Properties",
+      "excerpt": "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a design inspired by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
+      "originalUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/10/a-new-type-of-material-mechanical-neural-network.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
+      "publishedDateTime": "2022-10-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
       "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
       "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
@@ -300,6 +343,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
+      "title": "Google in Talks to Invest $200 million Into AI Startup",
+      "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
+      "originalUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-649470/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T11:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1138,101 +1233,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022.md",
-      "title": "Soft Robotics Demonstrates mGripAI™ at Pack Expo International 2022",
-      "excerpt": "Today Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the Pack Expo International Exposition, October 23-26, 2022, at the McCormick Center in Chicago, Illinois.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry.md",
-      "title": "Katakem’s ‘robot chef’ speeds up drug development with reliable chemistry",
-      "excerpt": "Katakem, which is developing a robot to automate lab tasks, is among the many startups presenting at the TechCrunch Disrupt Battlefield 200.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
-      "originalUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/104944205-fd7cda9c-a08e-48ad-a340-bf872e278e80.jpg",
-          "width": 1140,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/20/katakems-robot-chef-speeds-up-drug-development-with-reliable-chemistry/amp/",
-      "publishedDateTime": "2022-10-20T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

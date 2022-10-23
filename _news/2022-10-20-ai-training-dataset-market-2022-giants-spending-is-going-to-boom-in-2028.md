@@ -67,20 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
-    excerpt: "The \"Artificial Intelligence in Oncology Market: Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts, 2022-2035\" report has been added to  ResearchAndMarkets."
-    publishedDateTime: 2022-10-20T09:52:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 38
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
     excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-21T13:37:00Z
@@ -95,6 +81,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
+    excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 18
 
 secured: "vHw6iPL2bMYMQp09/CUNdNrFZCiRfCYmXhQsvxhI+y0gFElDZUCw1VbIXeu51Ho6Y0Te/LvSycEWJw6Tlx3S/vLJ5qxuO5vIAsxmb7AA+Cp5tiG8pTEPqs8Mwyy4QJQcGmsafaXSs9/j/lFH+JaGstmXtiDHszlKtZMmJJwyuA/FEU00hqpaJRyMPnWOxwOl8ZN707E2+1aDKn6NCN0TAj+HAcOEb38I8BtARIh0XRBz5YxLVU8fQwPkskZFCGFUnnYqGimh9aB4byuEf8C7v1l+C1wlsTiSNPvq21jQ/2AAdAKGCNpIYmfvDbGIvn8Kr1AsqLw3aOwC0dWWBKDVC/m9faqCJRJj5UnbGikenk4=;SQ1ytQFgdCXdwe+GzqQvpQ=="
 ---

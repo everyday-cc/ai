@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/ai-revolution-will-even-take
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/ai-revolution-will-even-take-modeling-jobs/?amp"
 type: article
 quality: 87
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 2000
     height: 1333
     isCached: true
-
-related:
-  - title: "4 Ways Artificial Intelligence Has Revolutionized the Retail Sector"
-    excerpt: "The deployment of AI in retail has completely changed the operations of the retail sector and made the shopping experience convenient and flawless for customers."
-    publishedDateTime: 2022-10-18T20:06:00Z
-    webUrl: "https://www.bbntimes.com/technology/4-ways-artificial-intelligence-has-revolutionized-the-retail-sector"
-    type: article
-    provider:
-      name: bbntimes
-      domain: bbntimes.com
-    quality: 54
-    images:
-      - url: "https://www.bbntimes.com/images/articles/companies/4_Ways_Artificial_Intelligence_Has_Revolutionized_the_Retail_Sector.jpeg"
-        width: 1068
-        height: 601
-        isCached: true
 
 secured: "43qndN5jkwaUOFTqhPiJw/ODMFohyG2IknPihcbpc2vt7QmgGhCCcWkhlKg2Kr7Qvs8U5F9djlfsM4JLbkp1bzNuSu5U+JaFn8YvSe7/ghJhyX0cctqmxXGZDD4WPS++U0syWdEhb/VIezT12D/PzG/u218NvhCkWrLUzIKG9GwpMQHYdBZLK4JgYdNzuRcXaIL6HnbJmnrwOvQi7rji9Q3A5KHBglELbvjUWtquvEzLabbGmkfQiO3PvhF5vdCK7GLnxdwZKLLyTkKfyKa3ShqkXXJ4chWipO+sBu6fw4kwQ/wuCXslhfRaggZi8N+wFf/dhEFgflwDWScTXpbuzDw7TpJjCAVRguj4Swab8hPnxBn2lRLbO8q7745vgD9KfktgIcA6GI3/yE4zG1k2EoKHh0eh3V6QpLkwmrRppIeGDflqd+8lsavldKQc4F5ieNOHPU4fYhE+KitfwpstU9odxTLNUXVaR2ZvFRpGViY+mZLECtKwm9kygcqgOTKZJYQe7+nkbP3G0ef2MOMTTQ==;RkvGES9JkXdp90It/3TDjw=="
 ---

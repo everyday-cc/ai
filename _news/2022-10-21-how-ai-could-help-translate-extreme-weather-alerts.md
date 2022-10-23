@@ -197,20 +197,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Meta's AI translator can translate unwritten languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
-        width: 251
-        height: 201
-        isCached: true
   - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
     excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
     publishedDateTime: 2022-10-22T09:31:00Z
@@ -297,6 +283,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Meta's AI Translator Can Translate Unwritten Languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
+    publishedDateTime: 2022-10-20T11:59:00Z
+    webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 34
   - title: "Meta builds AI-powered speech translation for Hokkien to understand unwritten languages"
     excerpt: "Most artificial intelligence translation to date has been focused on written languages because that is the easiest way to train machine learning systems to understand and translate them. However, more than 40% of the world’s 7,"
     publishedDateTime: 2022-10-19T19:06:00Z

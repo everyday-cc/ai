@@ -46,22 +46,6 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "Omneky uses AI to generate social media ads"
-    excerpt: "The company wants to make online ads both cheaper and more effective thanks to recent innovations in artificial intelligence and computer vision. Omneky is participating in Startup Battlefield at TechCrunch Disrupt 2022."
-    publishedDateTime: 2022-10-18T20:27:00Z
-    webUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/"
-    ampWebUrl: "https://techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/omneky-uses-ai-to-generate-social-media-ads/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/omneky.jpg?resize=1200,675"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
     excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
     publishedDateTime: 2022-10-21T17:03:00Z

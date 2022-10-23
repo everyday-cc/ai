@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million
 webUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Wall Street Journal
@@ -27,6 +27,17 @@ images:
     width: 1280
     height: 640
     isCached: true
+
+related:
+  - title: "Google in talks to invest $200 million into AI startup"
+    excerpt: "Cohere, which creates natural language processing software, also had talks with Nvidia about potential strategic investment"
+    publishedDateTime: 2022-10-23T13:10:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/google-in-talks-to-invest-200-million-into-ai-startup-11666529096130.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 19
 
 secured: "+NnC21/rbgb2XB/yyeNSf0kEUB6pKDBnCYDkksk6lmoKuO1CDK82hk4OjCW/Lq61cInDdNkjsnbZHRQdaIle6A6gSOSHtb3NFurmqcU0L3m1IOoc9LCOBc/uNaw3B2611ZyLDisskZRHtQigrZHPvAHMH72pWycpVgtuGFMj2n3JTmoNcqkAt0eGR3OKSYiwjbljFy2jaWZoGembPG+nXxnsAPtF1hMIRMKlZDO1A+9OtoMTYUtMYxanGveFs5N7PthFuwaChAVWTs/jMHMqf1YDNYJB5YQcajg/ZqELxiGLRVgNx+IoFB3S/q7riJOloEZIxSL3XMCOjciQJYuOWQnwZ4GuVcRUQ4AW8zhw8g5DflOXb49UMvrDFeheCIA64eRdTgyZcf+MI2Wvm9Nw4rNknet2Dyx2TC3KHNhAsw/HsGpNJtFkDPHsYvzyrPCuzCrE43GxLRSuuVBZhFf1lwWVLy8cLz9Vca/s7GbC+Dn3h2N1aq2N2fEuIR55QdkeTmzvbnqLH7rw5DDFJUSNIA==;EOY3D06/57mp3tku1eSl7w=="
 ---

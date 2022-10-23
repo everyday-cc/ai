@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-23T13:22:00Z
 originalUrl: "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs"
 webUrl: "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: scmp.com

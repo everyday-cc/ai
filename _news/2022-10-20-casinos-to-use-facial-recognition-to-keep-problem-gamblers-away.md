@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -71,15 +71,6 @@ related:
         width: 1080
         height: 607
         isCached: true
-  - title: "Facial recognition technology to identify problem gamblers"
-    excerpt: "Poker machines in pubs and clubs across New South Wales will soon be able to scan the faces of players. The Daily Telegraph reports facial recognition technology will be used to help keep problem gamblers away from the machines."
-    publishedDateTime: 2022-10-18T20:18:00Z
-    webUrl: "https://www.news.com.au/finance/facial-recognition-technology-to-identify-problem-gamblers/video/d362444cef1003dba25e7292c3b2d7f8"
-    type: article
-    provider:
-      name: Couriermail
-      domain: news.com.au
-    quality: 19
 
 secured: "JxDQTTVWRO4CWvErDAJbCRZXD/V2hoe+mABuC1Ft9GHS5QSp8QEuB6HSlJq+vpkbDX0s0cnNKXtipE78KycdLphTtdbGUXA9cgxQzorF5mJIXQcEOguKUkE42zUC7wIyugOeOftSm0bKpZAJ1DkynVTlujN89NWsCZ3Rf/Z5O1gCQNgtiQh/zPNv7SBAknwGdfd8ojfVBGgd1BbLEabBPq/9ep8ECQV5gP86UwDjMobmHp4zy9DNGgHOKfVFYMJmncBZ7ncCXy4VdVTOxQpxNdxFKfR8Td8bX9Zva9+evV3Oo3SrFakDlVmc0wrfqLkh++n5ai+AE8xIX/5p5RjKJHDpd4V+djTF+jpAvQj+i0nhHnH50DN3dLMnE9cKeax0FnfnYJuH53SS9dWiMmN2OzvNHpmZthXTx6nxJihhL1KuuBahZoT6KEjuVMxc8o8RCRDLAjVClvhpxesNBNZ++nCqR5MTSWm84iImbWRoldnxfH4uHDOdcMhNeZPPBlxeGl7h5lRK3Iv3jhAcB0HxgQ==;vfQBnLEt5SraKOsBOJ1mAg=="
 ---

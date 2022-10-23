@@ -23,22 +23,6 @@ images:
     height: 903
     isCached: true
 
-related:
-  - title: "Red Hat and IBM Research Advance IT Automation with AI-Powered Capabilities for Ansible"
-    excerpt: "It then parses the sentence and builds the requested automation workflow, delivered as an Ansible Playbook, which can be used to automate any number of IT tasks. Unlike other AI-driven coding tools, Project Wisdom does not focus on application development;"
-    publishedDateTime: 2022-10-18T22:38:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/18/9695220.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 31
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
-
 secured: "GNYAE4w+fUtE9Fc82cP/mvkTApDDv7BYJHk8vUEmTV/3gg3XPDV3j1+etxWWxPQ2ZRWmM529l0ORbIgJWoB48bFvqVz0hleqiFPXnPx/+A1tnVIYzKpvD5kzVMifQWALiPX9HrSA5/QEx7Rl10/1GhEs6j90EFaAYNb9056E1g0Vv5YziBsBTea18Xx6vTWv0hozgYLf4USttqMFH+vK461FyymwvPhlLeqkJh0HNOmp8vKmIl36+2MyH+JUWw1jX4SLsFpGtLHDPUD+g1NkWLHe4+VhBrVS+eJFLHpEQsUfnmiz5RYIninNMaJW1tSIhz4Da/ICbxJhviahMFjnbZnX9Nhd4Gv2HfBEtGTTHTCpxVmiK7XAspNx+vEBgreSYAzZVzdxp0xxy66tb1cCvVWzutDHdaV3nRkWkKjs5dAuh+wY0E9xCy73gjuaJ3HqZgitlYCgPXpVmfhbLwk53hmYqQDvFa5TcNoTfKTTgivbursL4qPNv0rwAJnVVD3eECfpY/Lmw69k/uE3MYjuig==;25to4q3rRU8thhV00BFgbw=="
 ---
 
