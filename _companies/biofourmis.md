@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 71
+heat: 42
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "lPjPTTPzkzA2YRqZRl1/MLFfJH3WHOMOmRUGo4Xe5QBVsqqnHkgKp/ct2roeDF0N+VZjGgJX3Ta6QGK8VCy9h42qbwMdlzOTiv4cJJ49acvD0FHD0uCz2ISlUUF5IM9M3j2qWv9+HYfbC0sLs+jEm64OUVLF563BzdeRdaeaDemzRytkHsTo8yH94X137ERFxoIJEEjOhf7DAumHIVGoQSZSmXReKtcrBDwnUL2jTTVoUeaL0aY9p8xL55DY3ar6fqqBhHpRZYDi9LF4lJLEC3u6s9qi2HV8uMj2U4t8aSaQQS4jDIXwhta3npMZHLxlQD/Wspnmb9EVC4QJkupfIuiZmbx/M5Yk72mVXtPqt1sbpad0xY0oksQCza85fzs4jOa6cjOvJp66LnHmaLnIJ0FNhVdhKwFfr02YXyBeefU=;VbgE74ukeawWr3DNre7tEQ=="
+secured: "VX8NtHANY0vdowMMgXCfC9rR189YCuaHdJ2d73gfhPnUAW+jbHS3XFbX474p0nuQoJl3PRZU15KsepWR/qylkDN10bd7gHmrRnhga9iUnI6JDyNpQrLr0PLev8xa9lYv4tzSETgwlUkTfWuYchnnyh0dJeA9Xv7zNmSRAiFKjkW5x9mu48xCz6CzjOrceYWI7a/hA8Qns8yDCp1XJTN9LAUvFfYKwlpVxOfKi66mjPHvmPgoG/rQCKkaHee+qVrKF21xbkHTkmCRSyaR1aIdDXOU0VtbmT+9ht7ILYZQvv/FQcnYmdsG6VJ3FT2VKwdzXxDzUuwuCUHupt3PrwsCTOjwBmQCRegYCMxVH4YFZqUrJS6bEaRGue83Rxo4KhmWzUw0S7GaujLWj+vz/E7SiqXsXh7JEyW3J40DT/NGcvE=;wgSLkGCC3r1f+B20VSUPDQ=="
 ---
 

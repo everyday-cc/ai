@@ -2,7 +2,7 @@
 name: "Trueface.ai"
 overview: "Trueface is a face recognition company that applies advanced computer vision\u2028technology to camera footage and images to enable businesses to make immediate decisions based on identified patterns."
 type: "profile"
-heat: 42
+heat: 50
 
 website: https://trueface.ai/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=j3cvmYhrgKU"
 
-secured: "mB9yMeEU55wQYUiBKKtUZLLnaiPo/Qa8NUd85cz5AOimVG+CFilgCeNrdHBym6tLydC+pvtEU105IaWuCl+49x1qw0Ps0U6lmhgwwMOo+Womm3BxcZnMZIcJh8bSz6mvPJ4EIcevraoXxL1PYPh+s2gPugOo0wWCSiKgOoV5Bo3mc3EyWZtz6qOYMm2WD+OzJiniy9o+sP6zxiYMpmYShsOab4twLUmQ+mTuyUe3+6HfywzWD9CG3Nj5zTIMiG7zPJKLb6Ku5YM2Q3LgQsrv7COENpd7Yds0P7HtpKXgRGcPY3LpHblyVPKv0qM3z0pZhm/sESqiNyA7u85iE6n/jqyxZqN3hGCCcmT63jFD7RXmCplh3xmVla0CLxjsJr+hmMNnteefAF8zI+v9OajYn2yZGgA0nuXdgbk7BrxLE6A=;g72QntAUpFpFQ8U3gcNA7A=="
+secured: "fWqa/Motfx5YpkNkWuaaa5Jl7KtjACTbVVnhe1B0BvN8jkZqPvAld0Z3a+76ABr7obd6i5YaXiluf0qElV0wYqP8bq0BbTzO6typohwhFYCx8LDLcxV7P1gRa6u28oDSJTVETOap7f+eoCd9DlwXNuMZKvAbOoOARnwjsPOrWhPGDka69p0Gyyti67yAeS8wliLj0BsaIo4n2fYJOOWUQs158ubGKpXtjEdCejufIPu1fnQjAsisdSggeCRt0NCtKUW93U4M1Vh0xjOlXZQLsGe2XheD6JBg9IYTMwsqwxrImgNVCeY0WWSjk1O61mV99B/IHeL9dNT7SpiE4lqx4s4m4NKpG35bxKQTKfqKXPhquMTKupUDFDvvdcz1ahYkFASQiI/VVe+Ulak1ZzCn5r6iF0oTrL0t5lWG585BAyI=;Qqe3Zd7VB2xZt/R4dKfDZA=="
 ---
 
