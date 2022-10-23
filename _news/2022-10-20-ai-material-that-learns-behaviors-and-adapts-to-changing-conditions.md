@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-10-ai-material-behaviors-conditions
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-ai-material-behaviors-conditions.amp"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: techxplore
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "UCLA engineers design AI material that learns behaviors and adapts to changing conditions"
-    excerpt: "UCLA mechanical engineers have designed a new class of material that can learn behaviors over time and develop a “muscle memory” of its own, allowing for real-time adaptation to changing external forces."
-    publishedDateTime: 2022-10-19T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/968328"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/29ec6bd2-d4fe-40a6-a112-941b6b79c797/Rendition/thumbnail/Content/Public"
-        width: 1917
-        height: 1054
-        isCached: true
   - title: "AI-Powered Material Can Learn Behaviors, Adapt"
     excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
     publishedDateTime: 2022-10-21T20:46:00Z

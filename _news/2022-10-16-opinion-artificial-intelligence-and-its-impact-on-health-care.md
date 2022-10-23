@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://s.hdnux.com/photos/01/27/72/40/23046197/3/rawImage.jpg"

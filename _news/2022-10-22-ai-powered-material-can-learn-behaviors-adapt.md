@@ -35,20 +35,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "UCLA engineers design AI material that learns behaviors and adapts to changing conditions"
-    excerpt: "UCLA mechanical engineers have designed a new class of material that can learn behaviors over time and develop a “muscle memory” of its own, allowing for real-time adaptation to changing external forces."
-    publishedDateTime: 2022-10-19T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/968328"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 30
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/29ec6bd2-d4fe-40a6-a112-941b6b79c797/Rendition/thumbnail/Content/Public"
-        width: 1917
-        height: 1054
-        isCached: true
 
 secured: "QR7yHQ+f6nfc1mMUiut3SgoJa/VehFIOHTd9+eKCYusoyTHVWNfdVANm486+mnEdQ/8H1HbL5TeJtp0d17eti7cd4/L/M2k0iJvCrv2WadFF5/wR7Nn9OrBxw9T3VLKQ23cn39m6CHYDd4cPneRfgLEi63CUb/6bEOzI2OMVdIJAHRdogGJyMXD5fpTWZnM9S/ZK7Bbr44N4B9PIBZFjYLtn6i9TYsqFjsjG+zZnqXSeCVwbwe3OBvsxxAcNbeZHxmkXuT0uo144YKRq7m0Sl3GT62xVuvKJkzKayatqryfC5R9rzVAb7VdAbJwso9IXuUt7WjhrYgxqcfmTNDDsvopkh8+5B1lbgWGslOVFBfB9Bx06B0mf4v+Z6uMcX+dgCXXLFzBElek13nHqGxcYqHyxd5rpKEDcn8gZWCK0itzbSI6mihZ/0peRzfB+LmyYnrlzYoMDpPej/QNWLoMNTlnqJg07+DgT8zDJxHDDBGsCCA2XvIE80D8ytGQ5BbQaW4+cr5zO8/fmr27IStlf+Q==;l0BXZER7RK6Jup9ZfwuDng=="
 ---

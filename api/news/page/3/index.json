@@ -1094,6 +1094,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-19-revolutionizing-the-food-industry-and-beyond-through-robots-with-a-human-touch.md",
+      "title": "Revolutionizing the food industry and beyond – through robots with a human touch",
+      "excerpt": "Enter thtRobotics – a Finnish-Norwegian startup revolutionizing the food packaging ... “We see true potential in this company. Not only is the robot gripper one-of-a-kind, but combined with their AI-software, it delivers a complete package that has ...",
+      "sourceUrl": null,
+      "webUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
+      "originalUrl": "https://arcticstartup.com/voima-ventures-invests-in-thtrobotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arcticstartup.com/wp-content/uploads/2022/10/voima-ventures-invests-in-thtrobotics-1024x577.png",
+          "width": 1024,
+          "height": 577,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T10:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ArcticStartup",
+        "domain": "arcticstartup.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
       "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
       "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
@@ -1230,49 +1273,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows.md",
-      "title": "Speak Up: How to Use Speech Recognition and Dictate Text in Windows",
-      "excerpt": "This can be done through Cortana, or you can use the speech recognition built directly into Windows 10 and 11 in order to speak to any supported version of Windows. Once you teach the operating ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
-      "originalUrl": "https://uk.pcmag.com/migrated-3765-windows-10/143275/speak-up-how-to-use-speech-recognition-and-dictate-text-in-windows",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

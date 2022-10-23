@@ -9,7 +9,7 @@ ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
-    excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
-    publishedDateTime: 2022-10-18T23:44:00Z
-    webUrl: "https://www.abc.net.au/news/2022-10-19/pubs-clubs-install-facial-recognition-tech-problem-gambling/101549802"
-    ampWebUrl: "https://amp.abc.net.au/article/101549802"
-    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101549802"
-    type: article
-    provider:
-      name: Australian Broadcasting Corporation
-      domain: abc.net.au
-    quality: 47
-    images:
-      - url: "https://live-production.wcms.abc-cdn.net.au/fb369f7e109175142e930c5c6200fb72?impolicy=wcms_crop_resize&cropH=330&cropW=587&xPos=103&yPos=38&width=862&height=485"
-        width: 587
-        height: 330
-        isCached: true
   - title: "Aussie pols pushing against facial recognition in gambling rooms; industry favors it"
     excerpt: "An effort in Australia promoted as a new way to help gamblers who cannot stop themselves from wagering is not going over well with some privacy advocates."
     publishedDateTime: 2022-10-19T20:27:00Z
