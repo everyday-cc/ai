@@ -9,8 +9,8 @@ ampWebUrl: "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facia
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: thenewdaily
@@ -27,19 +27,51 @@ images:
     isCached: true
 
 related:
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
   - title: "Business racing to use facial recognition technology, raising concerns the law is too slow to catch up"
     excerpt: "Clubs NSW says the scheme will be used to combat problem gambling, but experts warn of a lack of safeguards and regulation"
     publishedDateTime: 2022-10-22T18:02:00Z
-    webUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up?amp;amp;amp"
+    webUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
     ampWebUrl: "https://amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 60
+    quality: 58
     images:
       - url: "https://i.guim.co.uk/img/media/de067445f782042c396ce43018d612ecb7bc1057/0_0_3500_2102/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=234d0e0372088d3ece357eb212bb7ba2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
+    excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
+    publishedDateTime: 2022-10-18T22:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
         width: 620
         height: 372
         isCached: true
@@ -59,6 +91,31 @@ related:
         width: 587
         height: 330
         isCached: true
+  - title: "Facial recognition cameras to be introduced to ease gambling problems"
+    excerpt: "New legislation will introduce facial recognition cameras to NSW poker machine rooms by 2023 to detect self-excluded problem gamblers."
+    publishedDateTime: 2022-10-19T02:02:00Z
+    webUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/10/461208/tn-pokies2.png"
+        width: 1080
+        height: 607
+        isCached: true
+  - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
+    excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
+    publishedDateTime: 2022-10-18T20:50:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 35
   - title: "Facial recognition technology to identify problem gamblers"
     excerpt: "Poker machines in pubs and clubs across New South Wales will soon be able to scan the faces of players. The Daily Telegraph reports facial recognition technology will be used to help keep problem gamblers away from the machines."
     publishedDateTime: 2022-10-18T20:18:00Z
@@ -68,20 +125,6 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
-  - title: "With moratorium on facial recognition about to end, the Baltimore City Council may consider regulating the technology"
-    excerpt: "Baltimore City Council is taking a second look at the city’s use of facial recognition technology ahead of the expiration of a moratorium later this year that barred its use."
-    publishedDateTime: 2022-10-19T22:17:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20221019-pyjtnfzhwvf6bosfoeeewcbmxi-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 16
-    images:
-      - url: "https://www.baltimoresun.com/resizer//1m11wEuNkaFPhit8fBTpKEkPQLE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/32GRWTZZLZHC7OHFBNPIKFX35Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "hE+4fo0s15XTCB2MXJPZW3txwR9wl+Qv4nVpGELHG1yS+RAg29Gt+zixwT+lN6cQrRCz6abBf3jWGgtT34w5rkxf08blDJ0upk5+ytVWWjpH7tedQHzOh/Bi/YJeLNwpuAALkwoBuvIgBvmJWNA9W2rIOsY/7X1QAFV8fnBDr6eDBE5Sfdr4BLrh+DqGxss+2ALxG/emo7VaRgq9WOSxM7l9JoxeG+msZI5C2nAeCC81ljdyF+E+3bZxsM9nE7uANHU3RgqlqnLaZmgpmUiXvuwIw+2Nu50pgj6m2zrSFBRZcK3QIrc67IbpiNBLfRe4UrGzRuVOS4bOo/wvmSK2Q299sRDIbAaCAIQCmVU8RwPRZERXz1fFmtqVg0pcn1mvmuzD+m5kCtNomi3sJBWW2/Uh0ZajWZe+YT6fglhkZtT1/5VnaCBVnMHLpTFTIlBKApF1OgLVmbhwruVJUz9JLviqNzv25P3aqrf3mmkq/0y7582UPYV+074c9gfzU0L6Zu8EkOVGFzalaaeABYOYZA==;7/hEKJqJHmk+A4ijyZN7/g=="
 ---

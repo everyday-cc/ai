@@ -29,10 +29,10 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM"
-    excerpt: "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower"
-    publishedDateTime: 2022-10-18T06:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18"
+  - title: "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027)."
+    publishedDateTime: 2022-10-19T05:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
     type: article
     provider:
       name: MarketWatch
@@ -43,24 +43,57 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market To Shows Huge Growth Over Forecast Period 2022-2028 | 118 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Machine Learning as a Service (MLaaS) Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
-    publishedDateTime: 2022-10-18T05:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-to-shows-huge-growth-over-forecast-period-2022-2028-118-pages-report-2022-10-18"
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-  - title: "Artificial Intelligence Chipsets Market Size, Global Insights and Trends, Forecasts to 2028 | 112 Pages Report"
-    excerpt: "Oct 18, 2022 (The Expresswire) -- \"Artificial Intelligence Chipsets Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028."
-    publishedDateTime: 2022-10-18T13:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chipsets-market-size-global-insights-and-trends-forecasts-to-2028-112-pages-report-2022-10-18"
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI in Telecommunication Market Size and Share Estimation 2022-2029 | Regional Overview, Growth Opportunity, Business Prospect and New Challenges"
+    excerpt: "The \" AI in Telecommunication Market \" 2022-2029 Research Report provides qualitative and quantitative insights into the primary drivers, constraints, opportunities, and challenges influencing global markets growth."
+    publishedDateTime: 2022-10-21T04:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-size-and-share-estimation-2022-2029-regional-overview-growth-opportunity-business-prospect-and-new-challenges-2022-10-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 27
+    quality: 30
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
+    excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
+    publishedDateTime: 2022-10-20T03:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-size-share-growth-price-trends-and-forecast-2022-2028-with-fastest-growing-countries-data-112-report-pages-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 17
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Clinical Natural Language Processing Market Report 2022 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2029"
+    excerpt: "The \" Clinical Natural Language Processing Market \" Research report covers major key players with geographical segmentation, revenue, market size, share and growth of Clinical Natural Language Processing industry in upcoming years."
+    publishedDateTime: 2022-10-20T03:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-report-2022-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2029-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
 
 secured: "Ln+RYTpnkFkFaqS3aHSwrIJc+nUS63Sn0KvDpM0cRbyk3KRbDCVc7JDu9LC1d0RnPgodphk3IYtikS9vwlS0VmOnuUaEZFnBdPE36/0HdvJ3MZvmZnORe1ALK6SPSlJtAc/bc1p+9M1GiTiLBxiTbWo8sJ7lEtpe0oltd78a0oNHY3ogpn+IPUhQzsWDsirslUQRxqO3Rx4BcO1lP//VxRWPgGDN/yRji4SbErqmC0DiESPHfQIEMEOX7znasWAgr9gZfOU+zVBb6SqaHtHqHAdwaMgAYq1WnNdASqzIJdKXhdbJxarUeGbTMv5mYQlWZaaPR2go4RH+G9R5n3M4Ie6PRxgK+/zPSTLJeaRAlOM=;bL4SoClsjRATdviXNq7jIw=="
 ---

@@ -3,14 +3,14 @@ category: news
 title: "Business racing to use facial recognition technology, raising concerns the law is too slow to catch up"
 excerpt: "Clubs NSW says the scheme will be used to combat problem gambling, but experts warn of a lack of safeguards and regulation"
 publishedDateTime: 2022-10-22T18:02:00Z
-originalUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up?amp;amp;amp"
-webUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up?amp;amp;amp"
+originalUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
+webUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 ampWebUrl: "https://amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 type: article
-quality: 60
-heat: 100
-published: true
+quality: 58
+heat: -1
+published: false
 
 provider:
   name: The Guardian
@@ -21,9 +21,8 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
-  - AI
   - Computer Vision
+  - AI
 
 images:
   - url: "https://i.guim.co.uk/img/media/de067445f782042c396ce43018d612ecb7bc1057/0_0_3500_2102/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=234d0e0372088d3ece357eb212bb7ba2"
@@ -48,6 +47,38 @@ related:
         width: 960
         height: 600
         isCached: true
+  - title: "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away"
+    excerpt: "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\""
+    publishedDateTime: 2022-10-19T19:56:00Z
+    webUrl: "https://futurism.com/the-byte/casinos-facial-recognition-gambling"
+    ampWebUrl: "https://futurism.com/casinos-facial-recognition-gambling?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp"
+    type: article
+    provider:
+      name: Futurism
+      domain: futurism.com
+    quality: 59
+    images:
+      - url: "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "‘As terrifying as it is absurd’: Greens lash facial recognition plan for all NSW pubs and clubs"
+    excerpt: "Close to 100 clubs already using the technology to prevent people with self-imposed bans from playing poker machines"
+    publishedDateTime: 2022-10-18T22:59:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/19/as-terrifying-as-it-is-absurd-greens-lash-facial-recognition-plan-for-all-nsw-pubs-and-clubs"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 47
+    images:
+      - url: "https://i.guim.co.uk/img/media/58b58ae9775230a179163006a4ed76545880df6c/0_154_3075_1846/master/3075.jpg?width=620&quality=85&auto=format&fit=max&s=9280e10b5fbfb775aed328f6ff95c96d"
+        width: 620
+        height: 372
+        isCached: true
   - title: "NSW pubs and clubs to install facial recognition technology to help stop self-excluded gamblers"
     excerpt: "Problem gamblers will have their faces scanned using facial recognition technology to help them stay away from gaming venues in New South Wales."
     publishedDateTime: 2022-10-18T23:44:00Z
@@ -64,6 +95,31 @@ related:
         width: 587
         height: 330
         isCached: true
+  - title: "Facial recognition cameras to be introduced to ease gambling problems"
+    excerpt: "New legislation will introduce facial recognition cameras to NSW poker machine rooms by 2023 to detect self-excluded problem gamblers."
+    publishedDateTime: 2022-10-19T02:02:00Z
+    webUrl: "https://www.9news.com.au/videos/national/facial-recognition-cameras-to-be-introduced-to-ease-gambling-problems/cl9ey8su300290jmk2m8viqil"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/10/461208/tn-pokies2.png"
+        width: 1080
+        height: 607
+        isCached: true
+  - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
+    excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
+    publishedDateTime: 2022-10-18T20:50:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
+    type: article
+    provider:
+      name: Couriermail
+      domain: news.com.au
+    quality: 35
   - title: "Facial recognition technology to identify problem gamblers"
     excerpt: "Poker machines in pubs and clubs across New South Wales will soon be able to scan the faces of players. The Daily Telegraph reports facial recognition technology will be used to help keep problem gamblers away from the machines."
     publishedDateTime: 2022-10-18T20:18:00Z
@@ -73,21 +129,7 @@ related:
       name: Couriermail
       domain: news.com.au
     quality: 19
-  - title: "With moratorium on facial recognition about to end, the Baltimore City Council may consider regulating the technology"
-    excerpt: "Baltimore City Council is taking a second look at the city’s use of facial recognition technology ahead of the expiration of a moratorium later this year that barred its use."
-    publishedDateTime: 2022-10-19T22:17:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20221019-pyjtnfzhwvf6bosfoeeewcbmxi-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 16
-    images:
-      - url: "https://www.baltimoresun.com/resizer//1m11wEuNkaFPhit8fBTpKEkPQLE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/32GRWTZZLZHC7OHFBNPIKFX35Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
-secured: "0SRXc58OIaxD/W/svir2JTO9+xCsjbGco4BVWmuvZJ9Gc12Le+CLQD3QEpA21e7lLyKPMwSqA4pNMMK76jeQ39v333KHL816k7WkOlDsWcKaqWmuGsJyTqdeTBL2vVz5GK1xsW1KvO2ReKfGrXXcVlVUqOdDfPXCPPUkYJMgTi2XYrjF2pa/D4ZyrWbxtpbb7yjmT2cjI/LosAwsp8mcYNFH44NWgnXrga7z113SgfNQKOVzpkvluWThH9QKWBsi6xvYSvTNbBkCN/8QLOyFkboIgjEl9fs6QgBGRxYmVesUQure2eb9+YPOAbfOVcHl+4QfjLChFfXlae02HlRDDK+V/VwFehg8VLbK4vQC74s=;hR5ewzkcYUVh+/soyVymjg=="
+secured: "/tBgjLkU63rY2bfrWwDA3JtF3L93v6LdoiAKJx58Y2LfH7TV8lqAOY57ooYq58kMAYn3JKtsLMgJhno1CXf00ZaWv+5HQKN0C+td2YzHz1Xa8+dRKy5ltXqXLNt9O3qca0tyyuF6A8wnrtWEnMNzfItzYbnHALdWPaJe93aOVkwaZgvegnx4acsCb3wimyP4m2Wzdu2/4n7Djw8/mBkVazaKQtF3nOJYpJs9htubGszhTSYAMKBQVn443CwtHeB4QGiBu6eqaaxb3lQK2paYIOWytlXxcLCWkyWPPsVs31aA287HsUhdw3y4MMQD5Oz7cQN7215RLbYCvfM5Ui+BMtmYszjt5+1o0Bn0dmBm9jw=;cvFHG04CaN3JLRdJz6Ihgw=="
 ---
 

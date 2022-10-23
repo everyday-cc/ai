@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
 type: article
 quality: 84
-heat: 84
+heat: 85
 published: true
 
 provider:
