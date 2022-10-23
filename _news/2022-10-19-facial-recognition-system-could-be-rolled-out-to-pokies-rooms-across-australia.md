@@ -35,15 +35,6 @@ related:
         width: 650
         height: 446
         isCached: true
-  - title: "Lapid slams Australia for reversing recognition of W. Jerusalem as Israel's capital"
-    excerpt: "Prime Minister Yair Lapid has condemned Australia’s decision on Tuesday to reverse a previous government’s recognition of west Jerusalem as Israel’s capital, calling it “hasty and incorrect.\" Lapid said of the move: “In light of the way in which the decision was made in Australia,"
-    publishedDateTime: 2022-10-18T15:48:00Z
-    webUrl: "https://www.thejc.com/news/news/lapid-slams-australia-for-reversing-recognition-of-w-jerusalem-as-israels-capital-2CEUjf0dpRxbIXTevFQw0F"
-    type: article
-    provider:
-      name: The Jewish Chronicle
-      domain: thejc.com
-    quality: 0
 
 secured: "jnui1VJWZv6RGKW4o6ymqSB+G97WEZEn+4KIBW67rKwG8jb0CLmTFxao8SRigfFM2zEe5qYryGGjsNjxW3b+THfImGsszfi6pCDF5gWkvmf/NRAlFhN4J7N/yKqXex/zcsbMed7wFPQMPqUsmunMIf8wIUt6zE+qtgcXIrlazX/rSyXbT12RUUuUXPBGvr9rzAdlxfFNJDTDSepADm9wcjwsfYM+rhRXPnipy6ku9B9rzpaGrGxay6Z+TvaUAZC6Sz0qPyPLi7TTuwWWLBBh9Wtx+jjf7Y+fVOQKP4tnsvJ3VbE6Xen4O6lHinxLDHlo1a/gUl2Oc0CIUi5JE6Km+dZjA6ET8pU3eVRUTwibzuOdL8svzpCTWsbpuWHqnIE1FmF830//1L46KPCapOQN+mtZ31r6L3JoGStPV9bNXIiY/53MZmYPRdH3GLgl0IPDcb6s9MJIpYhggUB+gE3ctpV4igHGQS1OzsZ3sRwmzd5T053YVwbgh+NZA6FYsh1V8sQTS0iiVq/w9QnJxUsfOg==;bS0X30DbWHBrLqLPERe4+g=="
 ---

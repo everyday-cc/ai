@@ -41,6 +41,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Commentary: Keep facial recognition out of New York schools"
+    excerpt: "New York became a national civil rights leader, the first state in the country to ban facial recognition in schools. But more than two years later, state officials are examining whether to reverse course and give a passing grade to this failing technology."
+    publishedDateTime: 2022-10-23T09:00:00Z
+    webUrl: "https://www.timesunion.com/opinion/article/Commentary-Keep-facial-recognition-out-of-New-17523857.php"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 21
 
 secured: "m+gDl7AJ2PyOEpfs6wmvo/bU0YrjoI0Bf+GMxJSwb/kcZifchDFdr6fxswgA++bNKKvuAxvsKzRJ9OzPrx43vCvZgBf/y/+G/2iNoSZg3Q1HN5K86sd6g5SfiJaioubcUdf/dw1oDYMSYmENMI8iuEUoUD1qxXAgygaoRM5qdGA6l5dvEfu62+tZ0Z34fs7S4k3AmFdKMScE4bhyzxA8j/5UXnD090yeSKqrOXfjFmuXMN1uz3vc09tCEej0NJ27WEIi3nhFCNlrNolCKJIQew+VBrIVgglv7INf3xojSb4MRoNXDsfUmjOGH9Ngm0A4FlAxx8uWZLh3X+vK7IexV03nd6LUECDbtoWXg7NK+m8uXEY3i1YjqhRdi8JYj/AfXmIhnrLNbYa2/6U3xRAvP5s+c9/mZeZv9as4skWHVI3qcTrPMdtPlTvl/tyXORxcx1n4zobgQCrjM4d2WmMbwDA/DnEX8scuQlk2owUZgIfDzodNOuXpMe4D5ld02sPQu6gW7tKFurQLE/jU/5tVBA==;HTCIS/9oS0M4feGM97fpgA=="
 ---

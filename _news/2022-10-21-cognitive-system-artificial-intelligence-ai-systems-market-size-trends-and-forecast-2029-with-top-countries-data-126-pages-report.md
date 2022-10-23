@@ -42,15 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Robotic Machine Arm Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028."
-    excerpt: "The “ Robotic Machine Arm Market ” study presents a market overview, key facts, major products and services, and SWOT analysis, in short, it provides a 360�? view of the company for the period 2022 - 2028."
-    publishedDateTime: 2022-10-18T15:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotic-machine-arm-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-10-18"
+  - title: "How and Where the Artificial Intelligence for Automotive Applications Market is Set to Grow in forecast period 2028"
+    excerpt: "As per Market Growth Report, The Global Artificial Intelligence for Automotive Applications market size is estimated to"
+    publishedDateTime: 2022-10-22T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-for-automotive-applications-market-is-set-to-grow-in-forecast-period-2028-2022-10-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 56
+    quality: 45
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

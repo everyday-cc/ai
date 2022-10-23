@@ -7,7 +7,7 @@ originalUrl: "https://www.musicbusinessworldwide.com/this-ai-firm-just-raised-10
 webUrl: "https://www.musicbusinessworldwide.com/this-ai-firm-just-raised-101m-at-a-reported-1bn-valuation-and-music-is-one-of-its-areas-of-focus/"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 2700
     height: 1518
     isCached: true
-
-related:
-  - title: "AI content platform Jasper raises $125M at a $1.5B valuation"
-    excerpt: "Jasper, a platform leveraging AI to generate marketing art and copy, has raised $125 million at a $1.5 billion valuation."
-    publishedDateTime: 2022-10-18T16:14:00Z
-    webUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/"
-    ampWebUrl: "https://techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/ai-content-platform-jasper-raises-125m-at-a-1-7b-valuation/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2020/06/GettyImages-675469672.jpg?resize=1200,800"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "35NYPZVIxvNNlXbZUhSyq4Uk5e+grTFdGLe5AgddEkn382K9v4dfEYNNhj0UHt//4HiKV92gWAKjHKjAOml2K1jyepEw+7bdNI8rlakGfTPbZbJzxQC1XXKcliATEO1yS0lIEZVgSp5I7j5dDzry1hMvlsVP1g7b5GxEzkthKsoDILZyX8Y29Dul/jaBIOTSjP8Hy96fKtdJE+OVdl9O23Nw70UK3H+xmZ4j99LGWGIGsj2I3ZY/6TAeBd5a8Rgn708bmMtjcEMz8dAAmCnjVROMhrhgk2T2yFZEOVI+ocSx3BhtTU3R3AEgaWwzwtS3DRR6J7SCQv+MUQPWFy0Fct/FX1jhPUwZAvQg3j7gysXGonuUJoXOp9gYS5ajPj+6vJ96g41So7T0r46pS258WRa3I5Xll6wemfIaCfIN3M6Nm70JmJ5ZGJgo+4LQZwYteCRpanIPXNOQdvT3I9VNoXVhZt5LgvgO0X55LWyXYYWM3SlWlm5LFT5y/MGbPjC1KVc7Iug+HgNNry+OOo673A==;IeikaWcYUyqcF0GbaUCvfQ=="
 ---
