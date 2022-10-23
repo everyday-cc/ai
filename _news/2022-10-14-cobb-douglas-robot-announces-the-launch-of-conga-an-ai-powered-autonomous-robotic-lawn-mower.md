@@ -19,6 +19,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "IZYhoR1s0e9PC4TYp8pU+N0ncR2sMrtS1JcKNw8YUSgkeaVexmktswcerQovVzRRUhK282cZefVH3m9Oh0wSt5xPpR5lxf4UFumGv1roj+FaUaVgRMCoBkfmTIXhIzvjfRX503I8Tlg2VelhXbMkRILNY7M0rypseQZ3XLxEdvW3tl47mqukABcFxhRk7whlkinSxuMKT9M1XQUKRm068G+bZgYL3Jp2vFP4T++PRCkFdPGOsjZL4zIXe/1Ggcp0UrFMVZN4OoEPHOzsqaqj+WgMESdxMcbbvYZ6eH7YlQIJe0mB//cDRVI2sizIg2vEt+O63fbQXESKY1OXU81Dy8XcmHt+BvW6risNQPH5miw=;F/8xYtPnhzrP034HdWPzFg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "sEL+XBEwOBrKpmjQhGEsIAsl1W3BEUf+1DJxP2VZl1+A1vzFxCHQVqI4nq+I/sCRTRD8mRDHzp1z3tZimBaOJ3r0oOkqNZBuEAP4zc5ryAloAnmfx4ujA4/JcBxL+Ut1WN5UsEPKu+TTy0PEIniez4j6ZokGGWSG+ETbrFYGj2PTVwZlmKAmtM677aCdV1pGxbmM07W/2GPbMun27o5TSzDs9aSQicoKfSF5oE0GccdYeQzkbb+rBqPSU+wo4R7ETGSDC7dR8b4aFb8FgTz4sRu9jkxJHXcwRWDt1gq0jlH0HP2DH67Zlo5E8RcZxkstBiwH94tyQ2O9VJFQ1o4YkwJYB1sbXazEalUKO6Msdgk=;PxMILsPG5l2Av9XrmcQaLg=="
 ---
 

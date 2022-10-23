@@ -1,24 +1,32 @@
 ---
 category: news
 title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
+excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
 publishedDateTime: 2022-10-20T04:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
+originalUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
+webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
 type: article
-quality: 60
-heat: -1
-published: false
+quality: 90
+heat: 120
+published: true
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Microsoft’s new AI art generator will spark your imagination"
@@ -59,6 +67,6 @@ related:
       domain: siliconangle.com
     quality: 36
 
-secured: "4yVuK5nLmnzslh7PokbR3ies/vfQf5bcQ3TOytVmhFuDNEnqcTxdxkJoH15G81iVhi/5+GFfCZbFG7BlfA+AWwRm0V4Mj6oZiBX8xEb8vvF+n4BhJDjI4JylgeZTUWo745hwje2rYP2BOZlakjPnBYpTAXBGJqBnKhuOKXG76Mmrb6A5kjTOJxRZWB/a5WHANd1dbJ2QO7z8SEBoBoV0F/IPQBiEDtvWMqfHaPnUUgi21PjaFZNPSyTSuJIfrakaQvOZj2s+/rCkjkLmjjU/ayOclBeQ7xHzUjDzPXptxlf1sKCof3H4jam1B0/zZ4eji4kcytZYSprGm2CEmREepQnVIV453KqrZmKnBIdlb5Q=;B5NuEzTxtSvdUrQ1F3M8+g=="
+secured: "yOJA40lQpGpu4bp1D/Fy/OsmnBQtVquFHDdZRqbDDo8VIAJuOLF0OsDNpcV11B+wtXcKpYEpg86TbFrYpBXMybr1mWSJEa1wwoRCHW50punwfyI6bFOlTmbZ5BCKDNt4FeMjgjC/flbHK9kuIpCCshmIf48L/X6SX5NtOOVWjlE34uj2OPjnwe3pjw9DQTYh6mGkNY+8FXBoN/59dJ4YmOpCcXhkqSZjBl5UV4SzkbRI0ku9ZkZhErnfytGVNk5Jr6QWk3WRO6llR2LHF++7LWssRxTyo5JyGYZJ2aND7TgYFoQ0CrEoAYaCJ+bj8/udgVlWHXmsmpz5D8wlaGT6FaiG9B4nr2fa5HxucuAkhwQ=;wu1SNAAc7jiWS3WC95nqEA=="
 ---
 

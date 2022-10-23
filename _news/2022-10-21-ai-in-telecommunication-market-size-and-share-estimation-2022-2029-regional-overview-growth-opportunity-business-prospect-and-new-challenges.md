@@ -70,6 +70,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Ai For Speech Recognition Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 By MRI"
+    excerpt: "The Global Ai For Speech Recognition Market Research Report 2022-2028 is a valuable source of insightful data for"
+    publishedDateTime: 2022-10-20T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-size-share-trends-growth-scope-outlook-opportunities-forecast-2022-by-mri-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
     excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
     publishedDateTime: 2022-10-20T03:41:00Z

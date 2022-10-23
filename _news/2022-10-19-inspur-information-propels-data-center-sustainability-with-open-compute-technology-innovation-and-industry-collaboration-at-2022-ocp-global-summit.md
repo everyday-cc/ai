@@ -35,19 +35,19 @@ related:
         width: 1200
         height: 900
         isCached: true
-  - title: "Wonders.ai creates interactive virtual AI companion with 'personality engine'"
-    excerpt: "Startup team Wonders.ai is making an attempt to bring animated characters on the other side of the screen to life using AI technology. By giving them personality and social capabilities, they can become AI companions in people's daily lives."
-    publishedDateTime: 2022-10-19T03:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20221018PD207/ai-companion-ai-ar_vr-smart-applications-startup-virtual-reality.html"
+  - title: "AI in computer vision Market Demand Analysis 2022 Growth Statistics, Emerging Trends, Top Leading Players with Strategies and Forecast 2030"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-10-20T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-demand-analysis-2022-growth-statistics-emerging-trends-top-leading-players-with-strategies-and-forecast-2030-2022-10-20"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://img.digitimes.com/newsshow/20221018pd207_files/3_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "Db8+Z0M/yNvCDD8F/dB/WwXi8GB6lLTzM8O+qieXHOml/0N2PfWfR/iK9g6jqgOoRB2ZWWiSmm7dBrsJOYnRyk+2cr5xT20RQmnudddBKD0OOAVyOWodc9fYTfXbe39uZaNOS59h/U1j6HxxCV757MlSEUCeeENjyZSsydSLqPVX7DONgQZiQ1jERFuv4WOc5ygCzRZdHnlbWnha0tgmDlVLxRV2rOAbzDx0jG5o3pKtKWyBG3WgdCme95UMrzsdb5KyZKDN3XlfvGifpn+OAVTDJSrG4jAf8wLsU+B99lPRmGYeutMNmoYDoD++DK2ydfEgh8/9tSGM/OD0uQQ8zLb3TolPvYjWvakSXf8SurU=;9HIW+BS4yZibvmXtA70LCg=="

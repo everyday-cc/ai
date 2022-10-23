@@ -7,8 +7,8 @@ originalUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-ne
 webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
 type: article
 quality: 86
-heat: 116
-published: true
+heat: -1
+published: false
 
 provider:
   name: PC World
@@ -31,16 +31,19 @@ images:
 
 related:
   - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-    excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
+    excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
     publishedDateTime: 2022-10-20T04:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
+    webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft taps NZ firm to improve Māori translation"
     excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
     publishedDateTime: 2022-10-20T01:11:00Z

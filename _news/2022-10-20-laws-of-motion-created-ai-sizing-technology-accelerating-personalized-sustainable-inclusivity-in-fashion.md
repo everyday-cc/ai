@@ -30,19 +30,19 @@ images:
     isCached: true
 
 related:
-  - title: "Wonders.ai creates interactive virtual AI companion with 'personality engine'"
-    excerpt: "Startup team Wonders.ai is making an attempt to bring animated characters on the other side of the screen to life using AI technology. By giving them personality and social capabilities, they can become AI companions in people's daily lives."
-    publishedDateTime: 2022-10-19T03:49:00Z
-    webUrl: "https://www.digitimes.com/news/a20221018PD207/ai-companion-ai-ar_vr-smart-applications-startup-virtual-reality.html"
+  - title: "AI in computer vision Market Demand Analysis 2022 Growth Statistics, Emerging Trends, Top Leading Players with Strategies and Forecast 2030"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-10-20T09:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-demand-analysis-2022-growth-statistics-emerging-trends-top-leading-players-with-strategies-and-forecast-2030-2022-10-20"
     type: article
     provider:
-      name: Digi Times
-      domain: digitimes.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://img.digitimes.com/newsshow/20221018pd207_files/3_2b.jpg"
-        width: 1280
-        height: 853
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Inspur Information Propels Data Center Sustainability with Open Compute Technology Innovation and Industry Collaboration at 2022 OCP Global Summit"
     excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today it is showcasing four recently Open Compute Project (OCP) certified systems at the 2022 OCP Global Summit being held October 18-20,"

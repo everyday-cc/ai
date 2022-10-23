@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
+    excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
+    publishedDateTime: 2022-10-20T04:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Microsoft’s new AI art generator will spark your imagination"
     excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
     publishedDateTime: 2022-10-20T17:44:00Z
@@ -40,17 +54,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-    excerpt: "Contracts 365, Inc., the leading provider of contract management software for organizations that run Microsoft 365, announced that it has leveraged Microsoft Azure"
-    publishedDateTime: 2022-10-20T04:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 60
   - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
     excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
     publishedDateTime: 2022-10-21T19:13:00Z

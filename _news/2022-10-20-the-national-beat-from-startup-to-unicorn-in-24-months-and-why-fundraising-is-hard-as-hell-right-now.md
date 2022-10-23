@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-19T21:52:00Z
 originalUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
 webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/19/jasper-solestial-voltagrid-startups-to-watch.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: The Business Journals

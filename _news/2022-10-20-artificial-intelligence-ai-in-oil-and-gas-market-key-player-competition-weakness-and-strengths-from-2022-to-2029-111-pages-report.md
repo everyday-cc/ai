@@ -112,6 +112,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market 2022 Revenue Analysis, Growth, Trends, Segmentation and Regional Forecast 2030"
+    excerpt: "Important data on the current and anticipated revenues of key international industry participants, as well as the goods they provide as part of the Artificial Intelligence in Healthcare Market landscape,"
+    publishedDateTime: 2022-10-20T06:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-revenue-analysis-growth-trends-segmentation-and-regional-forecast-2030-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Computer Vision Market 2022 To 2028: Latest Research Report to Share Market Insights and Dynamics of Profiled Key Players"
     excerpt: "The Global AI in Computer Vision Market size was valued at USD 8.4 Billion in 2021 and is projected to reach USD 150.6 Billion by 2030, growing at a CAGR of 46.4% from 2022 to 2030. Analysis on COVID-19 Outbreak Impact Include: In light of COVID-19 ..."
     publishedDateTime: 2022-10-20T00:26:00Z
@@ -140,20 +154,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market 2022 : Profiling Key Players, Value Estimation and Analysis by Recent Trends to 2029"
-    excerpt: "Object Recognition Imaging Systems Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-19T04:39:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-profiling-key-players-value-estimation-and-analysis-by-recent-trends-to-2029-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning in Manufacturing Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029"
     excerpt: "Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
     publishedDateTime: 2022-10-20T04:04:00Z
@@ -163,20 +163,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Contact Center AI Software Market 2022 : Projections and Regional Outlook, Key Players, Analysis, Size, Share, Growth, Trends and Forecast to 2029"
-    excerpt: "Contact Center AI Software Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at"
-    publishedDateTime: 2022-10-19T04:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-ai-software-market-2022-projections-and-regional-outlook-key-players-analysis-size-share-growth-trends-and-forecast-to-2029-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

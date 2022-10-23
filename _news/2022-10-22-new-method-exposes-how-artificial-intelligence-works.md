@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-22T14:14:00Z
 originalUrl: "https://scitechdaily.com/new-method-exposes-how-artificial-intelligence-works/"
 webUrl: "https://scitechdaily.com/new-method-exposes-how-artificial-intelligence-works/"
 type: article
+quality: 43
+heat: 43
+published: false
 
 provider:
   name: SciTech Daily
@@ -13,7 +16,16 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+  - Machine Learning
+  - AI in Healthcare
 
-secured: "TXrO3muOM0A/2DEdGOO/12FrEzDI3h6dUv/xKe34EHRwJnR1RmEzJG+W9etm8dl+3gokOWSWmlomXBwtH83zOMXh8Jo8UObGemXvNIA70y38WTCpnA6dAfNZc4/Terck/RuuUZVDqhyf9n+VtWN28IxmjYG61o431FNI09+gU6eDM2UpY13dp+9M/v6tRhzvIFQqQOtjDE2f+xUnXobdhJXW75C878YbnXE4L9V0TFqxwNr/HyrcfxKx3FTdebxmm7tVwcvNd/9iN+5bBPwADVKMCkm04GmfZ0BuN6JTwH/4N3+T+dLtyT7kEuQEh8N3isErmrAHlTa4hRK2PxX2juKgiDiNMMuUArlKKF2gSsL6hP1GoBfT61sGaAwul9fNJxgoBgFVaPYlsmaXAFXQUUtHlK1QNFdyeCNoo+z9mgaN3twadV7u3VoPh6849A+SMYi1NMcblh0yz5TURSzX/nMtXiTpTPbHpcpVPSrEBXDkbp/Vr1i1QOg+EyT9TNe8YuUd5XX8PVBOUoaLkF1a/Q==;uclgHSwNHa0Coq6NHJuVYQ=="
+images:
+  - url: "https://scitechdaily.com/images/Artificial-Intelligence-Data-AI-Problem-Solving.jpg"
+    width: 2000
+    height: 1333
+    isCached: true
+
+secured: "o7duqKm8DqKrR419QaOP58viPKq6DOidUxjdytm9pttokFWJ7pTgVhKgM9YICtNMKU5T8+2Ongec3sEq04ZbUX+H4pqj6bZyHmZxo5+7S/bj3YHs1dHHFuW2ZGWkMvSJdwCGvBY/MIOkT/3zyeF2NbCbdYHdBDQ5KWzrzk4DuFSEPbatRVYZOd/Tjk7f0VZ7FDZCQvCKcceVSwWIVPU0eBQuE0u1JcHHdrJl6otCqtr2EQSuvBBv3fe7EcM/akszuFjADiIY7nEcZgr2Uoa3sVIg2dOfvBxkQcF5SRJ2sLTt4jqmZfuMDxhNFufhvnOI4lSTtduL8ChiZ0+37+x/IQYy7ZxS3JTMmcjdcmPvzRo=;iJ55OwPvKMSAQgIpc5eIfA=="
 ---
 

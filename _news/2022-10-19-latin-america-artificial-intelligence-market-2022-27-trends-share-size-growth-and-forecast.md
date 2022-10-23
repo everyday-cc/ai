@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/latin-america-artificial
 webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
 type: article
 quality: 57
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -57,6 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Ai For Speech Recognition Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 By MRI"
+    excerpt: "The Global Ai For Speech Recognition Market Research Report 2022-2028 is a valuable source of insightful data for"
+    publishedDateTime: 2022-10-20T04:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-size-share-trends-growth-scope-outlook-opportunities-forecast-2022-by-mri-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
   - title: "AI in Telecommunication Market Size and Share Estimation 2022-2029 | Regional Overview, Growth Opportunity, Business Prospect and New Challenges"
     excerpt: "The \" AI in Telecommunication Market \" 2022-2029 Research Report provides qualitative and quantitative insights into the primary drivers, constraints, opportunities, and challenges influencing global markets growth."
     publishedDateTime: 2022-10-21T04:46:00Z
