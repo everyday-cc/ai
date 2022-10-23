@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/aftermath-islands-metaverse-replaces
 webUrl: "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -44,6 +44,22 @@ related:
       - url: "https://www.inquirer.com/resizer/Wcvm79CGANaIES0uCthIRHfUTos=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/BYUQPRZXPRBHJN4XABLBAGM6YY.jpg"
         width: 760
         height: 507
+        isCached: true
+  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
+    publishedDateTime: 2022-10-23T07:35:00Z
+    webUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/"
+    ampWebUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/CPMnzKib6xrffR4cF26pLfhmOPo=/480x0/media.spokesman.com/photos/2022/10/21/63504a7ea093f.hires.jpg"
+        width: 480
+        height: 293
         isCached: true
 
 secured: "1kCnNOCp5uZz7lDc8F/CkLq9lxkIO+AqO5HlkojGOQ0fZ1Px6SX0kKbzTeoXyAJQetFhssxykOCPu1Rv8pT+ZSmLRG0jGZtuEiQfK8b77iv0w7mq4PgfmzfmM/QIOYuzOncopNw9ADgYvSXl+s50QxAf86YsDiNcDwGyVGyVAR/4Qxx5Wcb2DdIg/qKKODmu7VrAM+yrAtK10b6Pk/NIe1re2mQMNorcZ0gaSsbCeWhFPmWCPPBSbiimmq099vSIMBYP7GbaUjQQWbp9VX1sjASkIHXoir3aRHVBrSTZEqLyx2Wpy9mrHRVaD4rrBTJ4sjK0Pa8oMwtST0Nhkm/zlrjjMrPbp6IJ6VaogCcJ/KeJbCC1ndnSnzliOYumXKKoRjLANRQVGvSiJcXTMoga0D7AfVDTWRPUyRXkzfly97VDjEDdlOdtI0Z+mnPE3iDm7eexWYqbdDexPwY0ALzXxx0qXUuH/9Djr4h/QDvP58fWSfMUANlDHF7AqWf4UxjkoA6MMfNqPHh3VKzuWH5CJg==;8+Ih0dRmP6kV12dVV0hbOw=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Chip Challenges In The Metaverse"
+    excerpt: "Thermal and performance needs will require complex architectures and technology changes, not all of which are available today."
+    publishedDateTime: 2022-10-23T07:04:00Z
+    webUrl: "https://semiengineering.com/chip-challenges-in-the-metaverse/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/eye-AdobeStock_16055589-scaled.jpeg?fit=2560%2C1792&ssl=1"
+        width: 2560
+        height: 1792
+        isCached: true
 
 secured: "7QbYJ6/+8TF3Zzk8RIMKWKBtV1GZz0GOvRyqGnfMLwIWmmQEk/W+G5tJ/48w+Rz8/Dj/uBDw9TDxDnm0iBzTXnJ2Pkb0ZpRuaEnXfSKkVYkLUEfmpHSqK1vRPstbsRv2jTcZJe3XzgLU7GSjxmKATDZz/wWTY5vVEvu99TRy8y5E+G2NBCcT6BM5LSt20wmgVaNmQV+nm5xuPJSStIyQQIohDOum/MDdEg/mSJE2IFa1+xJwnKiXuhZbQpINCKVjbIlLMwgUfaNyW99IfBncw75vg0Gj4odmqvpJ1rzJQtG8bcVzHF0eeddQN0OMQZEQtOXgjKra4ufBPx8FKxj7NZDLeBe/ls59+0Ea1HuFcGPQJbOJFDP5sDAQkcEsJSD+wTm7R7xKcMlqzHK5QEwfM6AR13gIdIxgJ8DcGa7VsqotB02V6f19rDgWgHOm0gUSUic9Kw5TiRpzKRCrhfSpYX8MRXlLO0XuTRn8tCpeTfsju03tFDfGU+5jlFPNmwgTpCFNMLNfGI9R3vG1HzeQhw==;UY1U2xpHU9EEKbJ5i2ar1g=="
 ---

@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
+    publishedDateTime: 2022-10-23T07:35:00Z
+    webUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/"
+    ampWebUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/CPMnzKib6xrffR4cF26pLfhmOPo=/480x0/media.spokesman.com/photos/2022/10/21/63504a7ea093f.hires.jpg"
+        width: 480
+        height: 293
+        isCached: true
 
 secured: "ByDfDIvdL7TftGj5sdhC7lFCIXpP6/XYARB9XTQ6mt+3w8S2q8omwJNa0wSilrpw0K7AQV9lI1ZRv+yPXXVPiwNtJS5l+WVJdRg0xmHclD1xBvbYrCUj3cfaM/zTDbnMaId3Mq28oZaV4jqOYlS7DVtLYN/P2ulIaoSBwCULBOAbyKZnjB0+knjkksrbQjK1k8D0bYeIe//6MrBPxBJOiadcmo4scCh6wQtkCbKZ1vp7CGHqwUrGQVWNUCvKfsRoyRa2s+RwUhGrFzjuLcDsm17XI1AnrmZYXvW6PhGcmrv27rZw95/otCSFOQPTmnbTqA7all98NQ0gK3gOKWzNH2OMibpgjmtAZ0t2xpOCk/BenIY0ZTYtEcJ9TSkZnhmvr45cE/nT62uswwQiPBha9XDL3w+faXqxA5ufi9dH9g03DgVrFXlnrrm12CJcgcxNILix9JUAqO6QuBhfVVQxo2ANbZWXSucaPYzs4/mO5hu5R0r2cY0tch6sh0oy4XNWc90hXE8kf+QVBJB7tHC9hQ==;rJPrm1xfZPii14/62lEceQ=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg"
         width: 1300
         height: 633
+        isCached: true
+  - title: "Meta AI announces first AI-powered speech translation system for an unwritten language"
+    excerpt: "Meta AI pioneers speech-to-speech translation for languages that are spoken but not typically written, for real life and the metaverse."
+    publishedDateTime: 2022-10-19T22:00:00Z
+    webUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 63
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
+        width: 1156
+        height: 601
         isCached: true
 
 secured: "ioKZR3q/pk3sSqib334Ch0wAtTeO1zgXnDNAcUc+iQt03C8SR3Wo1R2cPSGYM2ZT5iFQjFqUfn/vyNYINA+cAhE86NyXvAvpn3Q/gl6VazHfNy1J+Ukf3aEczYW0o8CsHrhHh77bFFI88e9Y+AthdggJvx4+lvG8IR7nMm9d0TE5QsTbm3ZydxEjmu2TE6xFEGz5DUCetCJzqwGAAn8wSNiDu+U5eYxPTQXVyvIs/QcEjPM0xMO1Iy6BI39yu9wrVvctaq1CjuQkwREkEBU1Ci34LpKdAekleNN8MYgRPLjTrWr/q+PG1vbiKIGJeZsBNsVN8QHGj9MoKNbYRy/e0DnqpU+EGj+FYgn0qUNq41IIEtEIL70+ccxxREKadnPQ1eYO33sL0f5R1CBEdn1uRkv0bxmO5+lEriU78aiHX89sCVz4gMbcBv7HIR4aln5FcB53gklaXEwpani2eSZxNaquOLixdh4NDTVOsm8VV1emwAwB03NPOPRVm5z3NkXZfgbwNQgHnpDCZ2MlE+Obiw==;OKWNbPnpRs3ZpehecRsjSw=="

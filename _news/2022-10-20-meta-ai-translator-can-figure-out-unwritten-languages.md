@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-o
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/"
 type: article
 quality: 89
-heat: 289
+heat: 299
 published: true
 
 provider:
@@ -192,6 +192,20 @@ related:
       - url: "https://apicms.thestar.com.my/uploads/images/2022/10/20/1783941.jpg"
         width: 1240
         height: 826
+        isCached: true
+  - title: "Meta's AI translator can translate unwritten languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+        width: 251
+        height: 201
         isCached: true
   - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
     excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"

@@ -27,65 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Three Ways AI Transforms Security"
-    excerpt: "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support"
-    publishedDateTime: 2022-10-18T14:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/"
+  - title: "Digital transformation with Google Cloud"
+    excerpt: "We’ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use"
+    publishedDateTime: 2022-10-20T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/digital-transformation-with-google-cloud"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: DeepMind
+      domain: deepmind.com
+    quality: 74
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
-  - title: "7 Ways To Better Sell Artificial Intelligence To The Business"
-    excerpt: "AI transforms the systems and processes that have defined the way business is done. Selling AI as a new way requires some degree of finesse and business sense."
-    publishedDateTime: 2022-10-19T11:00:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/19/7-ways-to-better-sell-artificial-intelligence-to-the-business/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/634f37c78835ec41abc9a291/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Meta AI announces first AI-powered speech translation system for an unwritten language"
-    excerpt: "Meta AI pioneers speech-to-speech translation for languages that are spoken but not typically written, for real life and the metaverse."
-    publishedDateTime: 2022-10-19T22:00:00Z
-    webUrl: "https://venturebeat.com/ai/meta-ai-announces-first-ai-powered-speech-translation-system-for-an-unwritten-language/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 63
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2018/10/3dadbcae-4130-40d1-ba13-35a874b8ab40-e1602808234308.png?w=1200&strip=all"
-        width: 1156
-        height: 601
-        isCached: true
-  - title: "Meta's AI translator can translate unwritten languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
-        width: 251
-        height: 201
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg"
+        width: 3578
+        height: 1980
         isCached: true
 
 secured: "cAuSsjr6BmT+UYThRdMZTmOQ8pKq6/bcolYnv4D4Jd8liT+ygr7/lEEnEI8JbgDAia5/PiZQXyNlk0DUWgpcftHJJvwZMNLo6ga3XHOpS2IrbaUp9k0jneyoeV5wLx31gQWNiUGNP5TghRs9oSMEnoZNa8aBUJaOKm1+GQhnWMGEAH5zTHSGI39iqVeBpyzVw1J6D1MUMOrqshCQvwPky6wYR2tDPb4XEz43HcU1/NthUffvC1G6kslT2v01msfVQCcQULKk72rH5qHx9+evs0UbUdrIRraIk7rNXuH9uSfoyImFalnI5X6icKd9BMPXaPFM5NH4lkE40jRTEwRII540zEio9/4am4VbH/PMKkS30LUwM+/hiSsXrGSvCPcc2c3IdImBS/T6rL1jc2NmJmglfp50kHk4IsQnK8qiPHQHYPJtvl4mj1cpFYbj6hN2cVJt36aDlmnl5IkLzitpiUVMQu0DlbAYcr9pngTmttf5/9kxy5rh5kow3e+CYqyVsEYaQybHq/X5e+Gy5dE0xw==;B4Rnfh9gWa6dUE6VH1Tekw=="

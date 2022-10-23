@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-gener
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp"
 type: article
 quality: 87
-heat: 137
+heat: 127
 published: true
 
 provider:
@@ -61,22 +61,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 800
-        isCached: true
-  - title: "How small and midsize businesses can take advantage of text-to-image AI"
-    excerpt: "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes."
-    publishedDateTime: 2022-10-22T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
         isCached: true
   - title: "How to use Midjourney to generate AI images"
     excerpt: "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it."

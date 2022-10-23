@@ -1,24 +1,32 @@
 ---
 category: news
-title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
-excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
-publishedDateTime: 2022-10-20T09:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
-ampWebUrl: "https://www.benzinga.com/amp/content/29336763"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336763"
+title: "Artificial Intelligence Systems Spending Market Developments, Outlook, business Analysis by Size, Trends, Share Forecast until 2028"
+excerpt: "In 2022, “Artificial Intelligence Systems Spending Market“Size, Status and Market Insights, Forecast to 2028 |(Number"
+publishedDateTime: 2022-10-20T05:12:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-developments-outlook-business-analysis-by-size-trends-share-forecast-until-2028-2022-10-20"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-developments-outlook-business-analysis-by-size-trends-share-forecast-until-2028-2022-10-20"
 type: article
-quality: 38
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI
   - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "AI Training Dataset Market 2022 Giants Spending Is Going To Boom In 2028"
@@ -60,20 +68,17 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 48
-  - title: "Artificial Intelligence Systems Spending Market Developments, Outlook, business Analysis by Size, Trends, Share Forecast until 2028"
-    excerpt: "In 2022, “Artificial Intelligence Systems Spending Market“Size, Status and Market Insights, Forecast to 2028 |(Number"
-    publishedDateTime: 2022-10-20T05:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-developments-outlook-business-analysis-by-size-trends-share-forecast-until-2028-2022-10-20"
+  - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
+    excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29336763"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336763"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 38
   - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
     excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-21T13:37:00Z
@@ -89,6 +94,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+udzibmpgCm/rjtUd8LMEVjmgC4CR+fMepH72ZLkuuOuc0Q5NiSIZcfbouZa0lxyHTP3zIY3lQVYx4lKLHqGIClzFDzlhYMuNFqX0WMHkwmg/7A3ML9rHQ2exc626njM1mMVGz9hGciDLmz2gNTYAGHr0DcKcjZasb+yEnnhTW7D/rA0A0zMZNAETJssF2cpQKqCYoIdukT3AJrFTD0KeHbfOFlurlQW3hZCwx+fDU6soRiMZkmkMp75i0xy+usVm+YbJ2QHNLgs2L8dJ0pS8OVr4V0ynQhcRme/qgQDycrBaqmAYi/jigUvMcaRNDfr1pvJPt0VvZIqJfySz3esrG+T7v0FHZSd7dt5iXjPS/Y=;bQ/TX+cy0zp5LtC/Yx7zZQ=="
+secured: "LYoC5IhgFN7iFzE9hN2TVGllX8TOBo5UTMvYjMWtLf02C+u/uMgG3Px92ZYyU7EuhH0u4LADXVinT+S3aW6Td3WLxjAknU2Hqn/AhKj2HExQGmrTAhHHbJQawcWgf0ws3voZMd21asvjrf9Do12650dzTS/Fk9pyJEQ+2b3S0Z7VTx5Ns+LP/4iRBZTEuTi9h3O1GYp2U0euXAgK4FtvsQn4wZcbyWwXGh5czK71PfY/9nO1xM5EGcDSXBA/w+kZlqW4emhCMr1VqJGGJOUxxZ9FRy/flH3Z612GkRDjwBnmorZSv1raobyWZaqLNMkH7rwgViBGoYKz8dio63v2/wEpze6Ao3oacq+7By+IiPU=;8Y3NGjl9Ehxd9dejA9HhLg=="
 ---
 

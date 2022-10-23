@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-21-conservationists-are-using-artificial-intelligence-to-map-out-the-best-ways-for-saving-threatened-wildlife-and-resources.md",
+      "title": "Conservationists are using artificial intelligence to map out the best ways for saving threatened wildlife and resources",
+      "excerpt": "Conservationists are using artificial intelligence to help set strategies for protecting endangered animals and resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10",
+      "originalUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6351bad5ffcac3001876a295?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp",
+      "publishedDateTime": "2022-10-21T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-how-artificial-intelligence-is-branching-out-into-politics.md",
       "title": "How artificial intelligence is branching out into politics",
       "excerpt": "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on",
@@ -1345,49 +1398,6 @@
         "Natural Language Processing",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-how-artificial-intelligence-could-save-healthcare.md",
-      "title": "How Artificial Intelligence Could Save Healthcare",
-      "excerpt": "The problem of high healthcare spending, in other words, is a problem of high labor cost. To solve it, we’ll need to bring in the machines. “Machine learning and artificial intelligence drive a lot more productivity with a smaller number of people and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/business/how-artificial-intelligence-could-save-healthcare",
-      "originalUrl": "https://www.mddionline.com/business/how-artificial-intelligence-could-save-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/artificial-intelligence_GDJ-PIXABAY.png",
-          "width": 640,
-          "height": 544,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

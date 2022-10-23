@@ -28,35 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Which AI Creates the Best (and Most Terrifying) Art?"
-    excerpt: "The internet is awash in artificial intelligence software like Dall-E and Midjourney that generate professional-looking imagery based on text prompts. We provided some twisted requests to 5 of them to see which one is the best artist."
-    publishedDateTime: 2022-10-18T14:40:00Z
-    webUrl: "https://www.pcmag.com/news/which-ai-creates-the-best-art"
+  - title: "Conservationists are using artificial intelligence to map out the best ways for saving threatened wildlife and resources"
+    excerpt: "Conservationists are using artificial intelligence to help set strategies for protecting endangered animals and resources."
+    publishedDateTime: 2022-10-21T16:20:00Z
+    webUrl: "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10"
+    ampWebUrl: "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 66
     images:
-      - url: "https://i.pcmag.com/imagery/articles/03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.size_1200x630.v1665523315.png"
-        width: 1021
-        height: 574
-        isCached: true
-  - title: "Artificial Intelligence Creates Human Evolution Artwork And Results Are Terrifying"
-    excerpt: "\"I think, Be human is so hard,\" one user said on Instagram. Another content creator used artificial intelligence technology to gender-swap celebrities, and the compilations have become an instant hit online."
-    publishedDateTime: 2022-10-20T06:17:00Z
-    webUrl: "https://www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969"
-    ampWebUrl: "https://www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/artificial-intelligence-creates-human-evolution-artwork-and-results-are-terrifying-3447969/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 53
-    images:
-      - url: "https://c.ndtvimg.com/2022-10/b1446v1o_artificial-intelligence-human-evolution-650_625x300_20_October_22.jpg"
-        width: 650
-        height: 400
+      - url: "https://i.insider.com/6351bad5ffcac3001876a295?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "6ePxo2heHV0rSBCaCykRuDW6sI7ZgR/xxl9sHMS3HQBnd8wiPBIVj4soNGoru7EsOCV46Us2CsbhXJGuuFqQJVn3OjFZSbOwUIu54BdQkcIOh+iSmV7DggU+bS/Dt1bgimeaAkrsF/dc/mRF4mmmjkt7Ik79/70PeA0aB/xpPkIf1ftLyX3xFR6I9Ub7UCN9uPClvJ44DevLKVwQJ3pmhnDn2VxuelQwnPBwvMCtIqjgsy2dg1ybsF5cs1RdgvKPysa8qzGwA1Q9xMZQnSKK3F2QUE7bfxTAafQOvQdQZQGy0tyYE8UpeMP7O9DHId0jT2aGjHliXK9TbU71LCpTvh4Z5HcZvUHAHyIPlY32Yw89A6iS2GZhvrbzTESsMcGo7FOsUK67tk4I3B34WNEi/dYAQwMq3wp8xMeiG2mu4h0+wDAvWMzI87bbywzdgbwksURm4Y8iKSXxfTL39RmyT5tKELOw4PhezHADxg55j8Uau5r6FzXwO43kwMiZt0yy0wrOxo/S8avB2QS4Heu07A==;Y68Iia7NqyVPimu/GerEJA=="

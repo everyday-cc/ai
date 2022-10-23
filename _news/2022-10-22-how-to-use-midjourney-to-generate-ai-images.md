@@ -78,22 +78,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How small and midsize businesses can take advantage of text-to-image AI"
-    excerpt: "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes."
-    publishedDateTime: 2022-10-22T16:10:00Z
-    webUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/"
-    ampWebUrl: "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all"
-        width: 1200
-        height: 613
-        isCached: true
   - title: "This Artificial Intelligence Generates Gender-Swapped Images Of Famous Celebrities; Take A Look"
     excerpt: "Famous celebrities' genders were switched by an internet video developer using artificial intelligence technology, and the resulting collections quickly went viral online. Even more astounding than the impact of artificial intelligence technologies in the internet world is the fact that some of these superstars resemble the opposite gender."
     publishedDateTime: 2022-10-20T08:11:00Z

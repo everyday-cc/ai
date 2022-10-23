@@ -67,6 +67,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 48
+  - title: "Artificial Intelligence Systems Spending Market Developments, Outlook, business Analysis by Size, Trends, Share Forecast until 2028"
+    excerpt: "In 2022, “Artificial Intelligence Systems Spending Market“Size, Status and Market Insights, Forecast to 2028 |(Number"
+    publishedDateTime: 2022-10-20T05:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-systems-spending-market-developments-outlook-business-analysis-by-size-trends-share-forecast-until-2028-2022-10-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
     excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
     publishedDateTime: 2022-10-20T09:30:00Z

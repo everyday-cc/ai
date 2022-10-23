@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-21-conservationists-are-using-artificial-intelligence-to-map-out-the-best-ways-for-saving-threatened-wildlife-and-resources.md",
+      "title": "Conservationists are using artificial intelligence to map out the best ways for saving threatened wildlife and resources",
+      "excerpt": "Conservationists are using artificial intelligence to help set strategies for protecting endangered animals and resources.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10",
+      "originalUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6351bad5ffcac3001876a295?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/scientists-use-artificial-intelligence-tools-to-help-save-wildlife-2022-10?amp",
+      "publishedDateTime": "2022-10-21T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-how-retail-ai-is-helping-sellers-keep-up-this-holiday-shopping-season-and-beyond.md",
       "title": "How retail AI is helping sellers keep up this holiday shopping season (and beyond)",
       "excerpt": "From predictive analytics to demand forecasting, retail AI is helping move inventories, predict trends and adequately price products.",
@@ -1399,58 +1452,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-unlocking-ai-at-the-edge-with-new-tools-from-deci.md",
-      "title": "Unlocking AI at the edge with new tools from Deci",
-      "excerpt": "Key to edge AI and computer vision, Deci AI this week has released a set of semantic segmentation models, DeciSeg.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
-      "originalUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/06/computer-vision-e1663772711547.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/unlocking-ai-at-the-edge-with-new-tools-from-deci/amp/",
-      "publishedDateTime": "2022-09-23T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

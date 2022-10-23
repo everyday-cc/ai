@@ -205,6 +205,20 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Meta's AI translator can translate unwritten languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 54
+    images:
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+        width: 251
+        height: 201
+        isCached: true
   - title: "Facebook To Translate The World’s Unwritten Languages"
     excerpt: "Translation technologies cannot decipher spoken languages that do not have a standard writing system. Meta is going to change that."
     publishedDateTime: 2022-10-20T11:49:00Z
