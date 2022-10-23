@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/business/2417326/aws-bets-big-on-thail
 webUrl: "https://www.bangkokpost.com/business/2417326/aws-bets-big-on-thailand"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Amazon to Boost Thailand Cloud Infrastructure With $5 Billion Investment"
+    excerpt: "AWS' cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup a ..."
+    publishedDateTime: 2022-10-20T09:15:00Z
+    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-18/amazon-to-boost-thailand-cloud-infrastructure-with-5-billion-investment"
+    ampWebUrl: "https://www.usnews.com/news/top-news/articles/2022-10-18/amazon-to-boost-thailand-cloud-infrastructure-with-5-billion-investment?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/top-news/articles/2022-10-18/amazon-to-boost-thailand-cloud-infrastructure-with-5-billion-investment?context=amp"
+    type: article
+    provider:
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 68
   - title: "Cloud HM x AWS join hands for leadership summit in anticipation for opening of 1.9 trillion baht AWS region in Thailand"
     excerpt: "Cloud HM, in collaboration with Amazon Web Services, hosted a Leadership Summit under the theme; “Amazon Web Services Growth Secrets: How to Run a Multi-Billion Dollar Business Like AWS”, and showcased their cloud and AI technology by arranging Thailand’s 1st AWS DeepRacer Autonomous Car Race at The House on Sathorn,"
     publishedDateTime: 2022-10-19T17:05:00Z

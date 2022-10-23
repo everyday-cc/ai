@@ -64,16 +64,19 @@ related:
         height: 630
         isCached: true
   - title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
-    excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29336763"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336763"
+    excerpt: "The \"Artificial Intelligence in Oncology Market: Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts, 2022-2035\" report has been added to  ResearchAndMarkets."
+    publishedDateTime: 2022-10-20T09:52:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
+      name: TMCnet
+      domain: tmcnet.com
     quality: 38
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
   - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
     excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-21T13:37:00Z

@@ -8,8 +8,8 @@ webUrl: "https://phys.org/news/2022-10-artificial-intelligence-sugarcane-field.h
 ampWebUrl: "https://phys.org/news/2022-10-artificial-intelligence-sugarcane-field.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-artificial-intelligence-sugarcane-field.amp"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-75.jpg"

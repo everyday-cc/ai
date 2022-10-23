@@ -41,21 +41,21 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
-    excerpt: "The metaverse could involve everything from expanding how the internet is used to developing new ways to learn skills."
-    publishedDateTime: 2022-10-21T09:00:00Z
-    webUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html"
-    ampWebUrl: "https://www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-inquirer-com.cdn.ampproject.org/c/s/www.inquirer.com/business/technology/metaverse-nokia-workplace-consumer-skills-20221021.html?outputType=amp"
+  - title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
+    publishedDateTime: 2022-10-20T20:59:00Z
+    webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
     type: article
     provider:
-      name: Philadelphia Inquirer
-      domain: inquirer.com
+      name: techxplore
+      domain: techxplore.com
     quality: 39
     images:
-      - url: "https://www.inquirer.com/resizer/Wcvm79CGANaIES0uCthIRHfUTos=/760x507/smart/filters:format(webp)/cloudfront-us-east-1.images.arcpublishing.com/pmn/BYUQPRZXPRBHJN4XABLBAGM6YY.jpg"
-        width: 760
-        height: 507
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
+        width: 1152
+        height: 1920
         isCached: true
 
 secured: "iWLM0PXbsRI5d3wlP12ckGxubN7LcLYLzWEipoCbn5Em+vcS7MircBiumkjs+VPaLkVr4PLrEHsSjsf8wxtLAYmeOhJMC9Zhl8RPSjhPx7+0U+09YSpZotpjbWRiJcI5S1POs4eZyXVCeOe50X95BDe7hs/P+M+Ak5uEkJ+7e81GtofQnfvfz7fIq0+NFpZix4LpI2McHfUmfStmd01kRpW5uh77j7cEVYJkDAgKyMY9+4wxLat3M+ub0zuq8GPc9J1KJShCAAtRWImm1YaxnP+Z+xIiuH++hO4YS4OTlRijPHf/cwWJCsuzJE12fTErg2lKZO2J7xsuyoe7lXWCstv+Yqrmd2a/YX/goYSXgl8J5HshEOWJwS+gz7NCaoUUGp506rrIvl9Midl+jIMuloJKPiE1JHJedk8mB/nyuJQzQVMatshPmh9I2vLQ4Cv2ms5G0cFRwdKRPB95fs+mvwVGHENmmF7HsXMCwsAEYKyQrit5CL1h1Qs3RfY1BULFnscWv5HlFEX8LWe+UxioSA==;EeQA9M3FHV2qO/KBedZ0ZQ=="

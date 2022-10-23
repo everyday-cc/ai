@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp"
 type: article
 quality: 84
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -23,24 +23,6 @@ provider:
 topics:
   - AI
   - Math for AI
-
-related:
-  - title: "AI answers the call for quail information"
-    excerpt: "A new model gives wildlife managers the ability to gather the necessary data in a matter of minutes When states want to gauge quail populations, the process can be grueling, time-consuming and expensive."
-    publishedDateTime: 2022-10-18T17:38:00Z
-    webUrl: "https://phys.org/news/2022-10-ai-quail.html"
-    ampWebUrl: "https://phys.org/news/2022-10-ai-quail.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-quail.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-answers-the-call-fo.jpg"
-        width: 2100
-        height: 1178
-        isCached: true
 
 secured: "RW1poZouhUuC8vaeTsFYJ9v6nIdABBFtlw/OO2MvKFFL+amm9/bM4DnBbhpTuhHTl0aky9qFRPs2fbkLn7neneof13N6OfJC5NKfqCpnm5/JMW9ID0ebfDHT+cwm5KvU3S4ye0U4iox4BTJ0NT9OUpmNOWrTafVkII/JknZ1Gwy+9aPsvhqqKrB55gGdbnI1eZ5uzBOhtNX5yJkBDeEl1TCPluclbvLQad42DnAOyQbnFd9iPljWgRjeT+iia1CCLDvf7urE0t00TDlFD0KC7R/pox19D4ak37TzH0G14T2QJWW5e32vhXXPezLvqsjw7lEFD/vM6sX7kTJ48+TTP/z/ICbavYPsviSSbeBBP7hSiNrPVu13PdSJYhKUJk58uPxGvkp70bVrAiUiudrsgVugr/LR2XJhnxq34vjPVEsUS2HQPGmVNI081PKEDOOuDvisoPI2kJvEZetm/vqeaEHm+x3/MNhvri0C+bloGBxzG8xy6655JEpQy2viGvYJy1NRASsMFiPUYv8Ou1TNMQ==;HCkp96nEnKRR0Xqbl0Z7pg=="
 ---

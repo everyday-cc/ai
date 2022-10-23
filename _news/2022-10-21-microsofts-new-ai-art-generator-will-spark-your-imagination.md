@@ -7,7 +7,7 @@ originalUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-ne
 webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
 type: article
 quality: 86
-heat: 146
+heat: 136
 published: true
 
 provider:
@@ -94,15 +94,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
-  - title: "Microsoft mum on Boston-area impact of reported layoffs"
-    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
-    publishedDateTime: 2022-10-18T17:57:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "rGvrL6fBqtzYJox+KdB24OQtDFQgpAxib13irxEFT/hGCwIyRdxAMq45DhFDnUpnL3+XyPR7VRfk3RtWESeT/WhrAG0fwBDBy40N/hDXqUjEnN8BsQbAEyQ4qDkjXjwW4ZbegL+hEmzIaNmMCTGnYq5eEIxpN4AeV+uJZwlVlukjqKGQqjSdNx6KDRQeGg2yPfsvXCREtyjUbBGGDJ+gHTxRqrS0/WePkluMLgI9Ti/ddjXYr0ZE6Zxbd06r23nSzIW2FPZSXkQ0eK8wIrnvKZSIf/zDfMy6dGjaSMEAEzpj7bqhJ6BqZbflOWtzYtrnvMMqt3rmwlXESE/+QIRW4A/7f2lGo56Y+avBm4+3pB8=;l4ZbcpWfMSxTmAtw9eJrNg=="
 ---

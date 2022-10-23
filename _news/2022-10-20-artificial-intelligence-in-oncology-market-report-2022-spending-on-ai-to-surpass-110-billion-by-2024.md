@@ -1,24 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence in Oncology Market Report 2022: Spending on AI to Surpass $110 Billion by 2024"
-excerpt: "Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts,"
-publishedDateTime: 2022-10-20T09:30:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29336763/artificial-intelligence-in-oncology-market-report-2022-spending-on-ai-to-surpass-110-billion-by-20"
-ampWebUrl: "https://www.benzinga.com/amp/content/29336763"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29336763"
+excerpt: "The \"Artificial Intelligence in Oncology Market: Distribution by Type of Cancer, Type of End-Users and Key Geographical Regions: Industry Trends and Global Forecasts, 2022-2035\" report has been added to  ResearchAndMarkets."
+publishedDateTime: 2022-10-20T09:52:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696378.htm"
 type: article
 quality: 38
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
+  - AI in Autos
   - AI
-  - AI in Healthcare
+
+images:
+  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+    width: 476
+    height: 210
+    isCached: true
 
 related:
   - title: "AI Training Dataset Market 2022 Giants Spending Is Going To Boom In 2028"
@@ -89,6 +93,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+udzibmpgCm/rjtUd8LMEVjmgC4CR+fMepH72ZLkuuOuc0Q5NiSIZcfbouZa0lxyHTP3zIY3lQVYx4lKLHqGIClzFDzlhYMuNFqX0WMHkwmg/7A3ML9rHQ2exc626njM1mMVGz9hGciDLmz2gNTYAGHr0DcKcjZasb+yEnnhTW7D/rA0A0zMZNAETJssF2cpQKqCYoIdukT3AJrFTD0KeHbfOFlurlQW3hZCwx+fDU6soRiMZkmkMp75i0xy+usVm+YbJ2QHNLgs2L8dJ0pS8OVr4V0ynQhcRme/qgQDycrBaqmAYi/jigUvMcaRNDfr1pvJPt0VvZIqJfySz3esrG+T7v0FHZSd7dt5iXjPS/Y=;bQ/TX+cy0zp5LtC/Yx7zZQ=="
+secured: "rliFAjuUsCvZyB6xKkq8nBRhcuXzN9VqWHisr9BrkQcUdUin95ahQSUXl+p5LENtQ9oBhfvTxos0GXl4FI5CsYL1MA8TcVBE+pipCpVr1x1QhLq1jCgYZYIaaLf1kfCmO/qh2TvxZMBWbHYC3RRKXzLo4/5jt/jJ7LNBVeNEDu2eGf06kAsBYsLvVYc/5mp2Ci6D/lFta/K4zj4KZS4j1KwFjTubfKmr1WjrefCDM7q+H1IC6rSBgkMWmkrIdR8juZ7batx6u2+mA7uufsvfh8nqLSCYJnlf28gLOeDCKKJ7u8lNBwQOZPqu+Qy50UWWznpC+L+k/q1RI2+iPoyUlD07NRt5ILusX9gaaPbU2Gs=;1wlJPhhdRlunu4pyURaKOg=="
 ---
 

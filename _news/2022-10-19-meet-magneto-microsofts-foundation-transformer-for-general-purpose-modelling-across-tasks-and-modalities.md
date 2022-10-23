@@ -90,15 +90,6 @@ related:
       name: SiliconANGLE
       domain: siliconangle.com
     quality: 36
-  - title: "Microsoft mum on Boston-area impact of reported layoffs"
-    excerpt: "Several tech companies have paused expansion plans, implemented hiring freezes or made layoffs after a slowdown in growth tied to a lackluster economic outlook. The latest: Microsoft ($MSFT), which has offices in Cambridge,"
-    publishedDateTime: 2022-10-18T17:57:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2022/10/18/microsoft-reported-layoffs-boston-cambridge.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "cHsZUBnNdApc8KlJ8GvhtTdsiZqh14AsRH8NPJaJ1rvdoy6Gvvz1XtzksToj2Gi4udP6zRxxwgZQ5M4vhwg2VN4AMXncVDN7fNSF7vmWdyPcLkt3co2IB1QAwlu9lotPXEZFL4ZlvU80bqCBA2jiF390cBGK+Y0wd6DchMhZB2acZCiQsFfeYM/nhgXygRJNdx3Y0giouY5wvUh2eZjLHWT+PC92hb2gvO5QsjwrT4offEbkzHllL298WiBp02mgi8hd7jIQqpOQYUHSjLol4uxX3GbZUN5hzXbQGH1GJgCAjUfWmf7OuivwqUOsxKTWH8i7DiUE5s2pyc7oYZYurELYKcIvvceksPS8LSrlNPI=;FVrRRWuvh7uxNQtcDxm0Cg=="
 ---

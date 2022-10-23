@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Computer Vision Market 2022 To 2028: Latest Research Report to Share Market Insights and Dynamics of Profiled Key Players"
+    excerpt: "The Global AI in Computer Vision Market size was valued at USD 8.4 Billion in 2021 and is projected to reach USD 150.6 Billion by 2030, growing at a CAGR of 46.4% from 2022 to 2030. Analysis on COVID-19 Outbreak Impact Include: In light of COVID-19 ..."
+    publishedDateTime: 2022-10-20T00:26:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-to-2028-latest-research-report-to-share-market-insights-and-dynamics-of-profiled-key-players-2022-10-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
     publishedDateTime: 2022-10-20T02:43:00Z

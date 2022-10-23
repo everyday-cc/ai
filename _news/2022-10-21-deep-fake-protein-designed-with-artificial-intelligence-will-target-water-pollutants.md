@@ -8,8 +8,8 @@ webUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intell
 ampWebUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
 type: article
-quality: 51
-heat: 51
+quality: 53
+heat: 53
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-fake-protein-desi.jpg"

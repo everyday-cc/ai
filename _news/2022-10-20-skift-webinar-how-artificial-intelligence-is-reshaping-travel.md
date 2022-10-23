@@ -8,8 +8,8 @@ webUrl: "https://skift.com/2022/10/19/skift-webinar-how-artificial-intelligence-
 ampWebUrl: "https://skift.com/2022/10/19/skift-webinar-how-artificial-intelligence-is-reshaping-travel/amp/"
 cdnAmpWebUrl: "https://skift-com.cdn.ampproject.org/c/s/skift.com/2022/10/19/skift-webinar-how-artificial-intelligence-is-reshaping-travel/amp/"
 type: article
-quality: 61
-heat: 61
+quality: 63
+heat: 63
 published: false
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AWS AI
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://skift.com/wp-content/uploads/2022/10/briana-tozour-rUXh5USKfUQ-unsplash-1-scaled.jpg"
