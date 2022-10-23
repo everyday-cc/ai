@@ -42,22 +42,6 @@ related:
         width: 600
         height: 422
         isCached: true
-  - title: "How Artificial Intelligence is enriching mapping technology"
-    excerpt: "With much of our lives dependent on digital maps and navigation systems, can we even think of going back to physical maps? The good news is that we don’t have to. As we bid"
-    publishedDateTime: 2022-10-18T10:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Rajat.png"
-        width: 433
-        height: 410
-        isCached: true
   - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
     excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."
     publishedDateTime: 2022-10-21T17:30:00Z

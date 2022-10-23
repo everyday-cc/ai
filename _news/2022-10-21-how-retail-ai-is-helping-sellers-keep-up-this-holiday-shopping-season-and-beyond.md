@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/how-retail-ai-is-helping-sellers-keep-up-thi
 ampWebUrl: "https://venturebeat.com/ai/how-retail-ai-is-helping-sellers-keep-up-this-holiday-shopping-season-and-beyond/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-retail-ai-is-helping-sellers-keep-up-this-holiday-shopping-season-and-beyond/amp/"
 type: article
-quality: 81
-heat: 81
+quality: 83
+heat: 83
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/09/untitled-design17.jpg?w=1200&strip=all"

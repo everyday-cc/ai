@@ -7,7 +7,7 @@ originalUrl: "https://wnyt.com/top-stories/wnyt-health-report/artificial-intelli
 webUrl: "https://wnyt.com/top-stories/wnyt-health-report/artificial-intelligence-may-streamline-radiation-therapy-for-lung-cancer/"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "National Center for Cancer Care and Research inaugurates AI radiotherapy unit for treatments"
-    excerpt: "The first of its kind in the region, the ETHOSTM system uses artificial intelligence to create completely new treatment plans for patients."
-    publishedDateTime: 2022-10-19T19:33:00Z
-    webUrl: "https://www.iloveqatar.net/news/healthWellness/national-center-for-cancer-care-and-research-ai-radiotherapy-unit-treatments"
+  - title: "How a new AI algorithm may help streamline lung cancer radiation therapy"
+    excerpt: "Researchers say a new artificial intelligence algorithm can help radiation therapists work more quickly while treating lung cancer"
+    publishedDateTime: 2022-10-19T07:04:00Z
+    webUrl: "https://www.medicalnewstoday.com/articles/deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment"
     type: article
     provider:
-      name: I Love Qatar
-      domain: iloveqatar.net
-    quality: 23
+      name: Medical News Today
+      domain: medicalnewstoday.com
+    quality: 53
+    images:
+      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/deep-learning-lung-cancer-thumb.jpg"
+        width: 732
+        height: 549
+        isCached: true
 
 secured: "ulV3LXhpMqeHIOBL0aOPddHnZHA1HUXf6LzXQl/5Z2M2Aabv/R9bra0zUOcGlb+jYUHFDBEBbGBNnHL4AHAgxflwOD9ZRA3LWcGEMvXnLmpdpw7vnp3j//9OBW3DfePXenyxWtPGR+IwZup96G1cq41QLBJuYWyDZbQoCU7cTuIHm3hCEZpqIA9SmEZ+sHMXw7bz6YsxR+XaMrEyeJQvX7uV++cqaCInMXbgim42MB6PEA6P+BunNmxbcBnK2NNlLHUTZou+/vJW7uZ3yd7oA7BqEU1APSKk6V7SHOoRvUXoUFfjLGLlynfTX3UtJzYjOBMW34Gqv5fYd5aHqlut+oBHbfxxKIbQznSSWRveuQMm6DQdh519Bg+Cc4KSG+OOce2zZfWuHTZY9CKct9xHX7gItOahVkQktPjUxJziqa3feux6EkXpshXovimjUpOyd6aRDrs+1+zJvgZcHXs5IJe5s8JZxApCqsLy00PkuIeNk6hUorz2CN3V02PS/cqKj32BDzqscZVxdWE1vMtX/Q==;HJTCIQ3UhbRx3E9PVxrdpw=="
 ---

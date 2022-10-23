@@ -25,22 +25,26 @@ images:
     isCached: true
 
 related:
-  - title: "Australian republicans must support the Indigenous voice referendum or risk losing theirs when the time comes"
-    excerpt: "A republic is not a given, and its supporters have some hard truths to grapple with about the 1999 failure and what has changed since then"
-    publishedDateTime: 2022-10-20T03:46:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/oct/20/australian-republicans-must-support-the-indigenous-voice-referendum-or-risk-losing-theirs-when-the-time-comes?amp;amp;amp"
-    ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/oct/20/australian-republicans-must-support-the-indigenous-voice-referendum-or-risk-losing-theirs-when-the-time-comes"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/oct/20/australian-republicans-must-support-the-indigenous-voice-referendum-or-risk-losing-theirs-when-the-time-comes"
+  - title: "Facial recognition system could be rolled out to pokies rooms across Australia"
+    excerpt: "Facial recognition technology could soon be implemented across all venues with pokies rooms in Australia, in a bid to help people with gambling problems."
+    publishedDateTime: 2022-10-18T20:50:00Z
+    webUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7"
+    ampWebUrl: "https://www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
+    cdnAmpWebUrl: "https://www-news-com-au.cdn.ampproject.org/c/s/www.news.com.au/technology/innovation/facial-recognition-system-could-be-rolled-out-to-pokies-rooms-across-australia/news-story/99d3f36ee66ca5fb36d63daa132f79e7?amp"
     type: article
     provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 25
-    images:
-      - url: "https://i.guim.co.uk/img/media/3cd3bf1039fb709e2da61631f3c26332996b6b14/0_0_4668_3112/master/4668.jpg?width=620&quality=85&auto=format&fit=max&s=1cd104928af28d4c0f02e6beadaf058e"
-        width: 620
-        height: 413
-        isCached: true
+      name: Couriermail
+      domain: news.com.au
+    quality: 35
+  - title: "Lapid slams Australia for reversing recognition of W. Jerusalem as Israel's capital"
+    excerpt: "Prime Minister Yair Lapid has condemned Australia’s decision on Tuesday to reverse a previous government’s recognition of west Jerusalem as Israel’s capital, calling it “hasty and incorrect.\" Lapid said of the move: “In light of the way in which the decision was made in Australia,"
+    publishedDateTime: 2022-10-18T15:48:00Z
+    webUrl: "https://www.thejc.com/news/news/lapid-slams-australia-for-reversing-recognition-of-w-jerusalem-as-israels-capital-2CEUjf0dpRxbIXTevFQw0F"
+    type: article
+    provider:
+      name: The Jewish Chronicle
+      domain: thejc.com
+    quality: 0
 
 secured: "XyrHBnOpMVvxEk4Q/SMZFVq3NRUIOufYAF/GfjcxXoworYkMioDe5udWo7m38aGid1Wli9BwXJW2sGj2Qy/TSDoL3+ZEGzCPvq/S35OzNJCk084mC9E5I+oWFddv9wdROfHStq3TJXhuTUObL97RgIqjGf2tUqYt5MJC/FH8Pj/lgEkrwa/H4y78JjqEukydEj1T1UhaFpIskWdU94h09vj/BP5FVkWOhNdLBXb13zUcAlXBMdVcakgm6ZiO4WluFjHWkFePqbdQiBtGiCBmYqltbyfqbalaMqttwH5Lj09amYeYKO/EjhXCAKtfW38Ke0QapWVz2Y1C3A1H1jcJS9eZ2wJgjWXxZwcP7/XI8cg=;iHEhIuaNdi+MPOjQz+dNlg=="
 ---

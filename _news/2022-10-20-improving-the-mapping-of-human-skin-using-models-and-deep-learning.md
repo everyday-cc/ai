@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-human-skin-deep.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Artificial Intelligence is enriching mapping technology"
-    excerpt: "With much of our lives dependent on digital maps and navigation systems, can we even think of going back to physical maps? The good news is that we don’t have to. As we bid"
-    publishedDateTime: 2022-10-18T10:10:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-artificial-intelligence-is-enriching-mapping-technology/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Rajat.png"
-        width: 433
-        height: 410
-        isCached: true
   - title: "Can Retailers Trust Their Machine Learning Models?"
     excerpt: "As we inch closer to Black Friday and the start of the holiday buying extravaganza, retailers are putting the final touches on the demand forecasts"
     publishedDateTime: 2022-10-20T21:39:00Z

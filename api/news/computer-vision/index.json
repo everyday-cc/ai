@@ -350,6 +350,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-20-casinos-to-use-facial-recognition-to-keep-problem-gamblers-away.md",
+      "title": "Casinos to Use Facial Recognition to Keep \"Problem Gamblers\" Away",
+      "excerpt": "Pubs, clubs, and hotels in New South Wales, Australia, with gambling machines are testing a facial recognition system used to deter \"problem gamblers.\"",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/casinos-facial-recognition-gambling",
+      "originalUrl": "https://futurism.com/the-byte/casinos-facial-recognition-gambling",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/10/casinos-facial-recognition-gamblers-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/casinos-facial-recognition-gambling?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/casinos-facial-recognition-gambling?amp",
+      "publishedDateTime": "2022-10-19T12:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-delta-air-lines-wows-with-parallel-reality.md",
       "title": "Delta Air Lines Wows With Parallel Reality",
       "excerpt": "The parallel reality display allows up to 100 customers to each see their personalized flight information on that one digital screen — simultaneously, mind you. And yes, each customer who opts in can see only his or her own flight information.",
@@ -1446,49 +1489,6 @@
         "AI",
         "Computer Vision",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-does-the-google-pixel-7-have-face-unlock-yes-but-theres-a-catch.md",
-      "title": "Does the Google Pixel 7 have face unlock? Yes, but there’s a catch",
-      "excerpt": "It’s an open question whether that lower-end camera was enough to drive Google’s facial recognition algorithms. Still, Google probably didn’t want to risk a face unlock feature performing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/mobile/does-the-google-pixel-7-have-face-unlock/",
-      "originalUrl": "https://www.digitaltrends.com/mobile/does-the-google-pixel-7-have-face-unlock/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-09T21:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

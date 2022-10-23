@@ -39,6 +39,15 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "National Center for Cancer Care and Research inaugurates AI radiotherapy unit for treatments"
+    excerpt: "The first of its kind in the region, the ETHOSTM system uses artificial intelligence to create completely new treatment plans for patients."
+    publishedDateTime: 2022-10-19T19:33:00Z
+    webUrl: "https://www.iloveqatar.net/news/healthWellness/national-center-for-cancer-care-and-research-ai-radiotherapy-unit-treatments"
+    type: article
+    provider:
+      name: I Love Qatar
+      domain: iloveqatar.net
+    quality: 23
 
 secured: "Ln0WcOPyqMF1baqwgJ3ZxFghTFDXiqCqVA0nVEXeZgbE/zOqLpQ+d6RT3dV/cvZAWEg/djWaERa8Wix+oT6E2WAz6sxzLNUZknsjn4CC1qN+7Du8tuqjQE7tagpppJyuT74MYpDEaYdbyu9umDtrtMiWGb93KlJHgRxSBOmZ6+wmqIU5SNA/XbmqDaG/0kV/huMORB07U6DGFBXdF3eXHvJL/21OltF0T1PqbzOehVnxQCCPiTVY70FRgdB11ymPZTu+0qn2J/brGUreeynW2lQc15BhnGWUtTj9qSyGKpiET8y5bOQO/kqlmATulI1IOKP5Ga6YWHy2aWU3z05aJkWA6RNxRUNFOfrxiROk9KY=;sbP03/DBJP9r7LkAtMUN1A=="
 ---

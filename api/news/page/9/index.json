@@ -2,6 +2,40 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-12-xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit.md",
+      "title": "XACT Robotics® Receives FDA Clearance for its ACE Xtend™ Remote Control Unit",
+      "excerpt": "First-of-its-kind capability allows users to robotically insert and steer instruments using the XACT ACE® Robotic System directly from the control room XACT Robotics®, developer of the world's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29223030/xact-robotics-receives-fda-clearance-for-its-ace-xtend-remote-control-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-12-techcrunch-roundup-growth-hacking-real-talk-rpa-market-slowdown-ai-and-ip.md",
       "title": "TechCrunch+ roundup: Growth hacking real talk, RPA market slowdown, AI and IP",
       "excerpt": "IMO, “growth hacking\" is a sloppy way to describe the iterative work required to fine-tune marketing campaigns and systems.",
@@ -1123,40 +1157,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-if-youre-a-facebook-user-youre-also-a-research-subject.md",
-      "title": "If you're a Facebook user, you're also a research subject",
-      "excerpt": "According to its public database of published research, Facebook's written more than 180 public papers about artificial intelligence but just one study about elections, based on an experiment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.grandforksherald.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "originalUrl": "https://www.grandforksherald.com/business/if-youre-a-facebook-user-youre-also-a-research-subject",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Grand Forks Herald",
-        "domain": "grandforksherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],
