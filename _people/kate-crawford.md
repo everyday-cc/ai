@@ -3,14 +3,14 @@ name: "Kate Crawford"
 bio: "Co-founder @AINowInstitute, NYU | Principal Researcher MSR | Distinguished Research Professor NYU | Chair of AI and Justice, École Normale Supérieure"
 location: New York City
 type: "profile"
-heat: 135
+heat: 50
 
 website: https://www.katecrawford.net/
 
 twitter:
   username: katecrawford
   url: https://twitter.com/katecrawford
-  followers: 78396
+  followers: 78397
 
 topics:
   - AI
@@ -22,6 +22,6 @@ images:
     isCached: true
     title: "Kate Crawford"
 
-secured: "qnLwl9A1z/C1X5wXftiwNRnH9K8T3Oglz5PhVHr15sfMql1wZCFXTIn4GafhYOd2q/SP5gQskItgrVH6ehVlyx9LPfCAddQzPyAxigH5RP1oIIaX//dbo4dfmgu/BW62ym4oYQZ77LdhSpS+LqfbeN1gSVALphhgmy2sp+H2ot8fqeeYv6h/inZ5mpSn+CUDT37LSDU0Pf06xrlhyXH3slpgSSy1f+THH/I7ua47xvKpubz/2w/OENDTD6tKsCAbilRUNgOhintJjs29S1B854CCCEo5NrEoPcmc6jTUkzAb+GUNEgs/odJjWN43hAqp+doHpzFOP+yu3L9latThcaou0q78XbsEQQNwwgFOHXaL1EYngv38ONfWlMqaLcZCAw1u/WxJ9jTRNzDFTOVJeRzNfsAIlafuXtghKWnIn24=;2K1H6XirsjbWhpHv8hgGcQ=="
+secured: "6Kj7TxLuA7rLiHv++xRRbLCVDTZYRHYjfK5pr3UWU+17ZsqLJVnlt+NNFp1Mx7Ug5SCMVCoT4ol4RcLpCfm24qKUeaiGIlMLoDJcb3EgCVeK3jh4wORurKTAcQ9612030adsd8+R2wwzkaGJxMGQ1Kx85uG2E4vn55tZ04HMYWW2t1oXk3F0n/AIpaInzBter3CS21F9YOYSaDE8hhWm2ZFMtOUUPQJDyHlK1f4jYF82EBIjPTCk8DZSjx2l4LFamwZ6pL1MiMamtyH8jLfk44rIQCsB/rQUFcvq+x0xL8Jw+2+vwX+Fk3dgwZy89QsBV88w7noFw3EQZz1yCg9/MS/QFk0ZeRI6XFnRk7f/fhOrNGFa8Hg4dDCtyNFo0OwvN+xF1p17xZ54lMwI6dxZyF64PVosZdDV2OjWVV0jTLE=;RDXh4fi8dO6DnLDhuN1Dwg=="
 ---
 
