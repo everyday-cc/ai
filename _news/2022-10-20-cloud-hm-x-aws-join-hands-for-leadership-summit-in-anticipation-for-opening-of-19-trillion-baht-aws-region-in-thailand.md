@@ -7,7 +7,7 @@ originalUrl: "https://www.bangkokpost.com/business/2418078/cloud-hm-x-aws-join-h
 webUrl: "https://www.bangkokpost.com/business/2418078/cloud-hm-x-aws-join-hands-for-leadership-summit-in-anticipation-for-opening-of-1-9-trillion-baht-aws-region-in-thailand"
 type: article
 quality: 10
-heat: 10
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - AWS AI
   - AI
+
+related:
+  - title: "AWS bets big on Thailand"
+    excerpt: "A plan by Amazon Web Services (AWS) to invest US$5 billion (around 190 billion baht) in Thailand over the next 15 years underscores the country's significance as a regional hub for digital data, says Deputy Prime Minister Supattanapong Punmeechaow."
+    publishedDateTime: 2022-10-18T21:00:00Z
+    webUrl: "https://www.bangkokpost.com/business/2417326/aws-bets-big-on-thailand"
+    type: article
+    provider:
+      name: Bangkok Post
+      domain: bangkokpost.com
+    quality: 54
+    images:
+      - url: "https://static.bangkokpost.com/media/content/20221019/c1_2417326_221019053431_700.jpg"
+        width: 700
+        height: 467
+        isCached: true
 
 secured: "rj5BP2JN2YZ/wRYk+rtkD8BGgKcBKtfepizjZrFCoun2PUoX03dCg8svUIKVRS1VchXAk85VgoR+eLOVMAFs9hx5jhJcVdflCozB7boC3SrIw4yCNUpg8Fjx5WOGgpjQZu+7UrQK7ax9xW1SBM0DB7HPZBOMBZUPeo8W+kn/Gx+5SLx8w8lvMiNsVQ7oLGk9QLD0lTjLmuNBzhJkTIAI6B25Kg1x6TKcHKSwG4PM/W+l0+Xnv3j8mXeGeR4HsE8ZFi2v7XT4PB3v4WMo6R4hvI+gEtIDCFxlvzGyTiK6YnYPYRwsftqiWg7UQogU2AD/Uxp8QpdaqFgE+HerxWWCaVQcmST+bCJtKo37azlMiSFVHidp1waqJDltzuKqLPR1DnUOr0LMpOf0/BPvmF9VdOjHuI5Bo5gA8DE7eXEDOI13+aLRrGjMPh06+tlumNgkSPSHKRbiSzTTl5BfJAOTfBUXbGrmYH0novpN8YmTihugFyd//FhqgrPZlk6CHGN2xGABdbHL+e3r8h8lP176Hw==;S8oi0Y9RfoKZZKYlENgFpw=="
 ---

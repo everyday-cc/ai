@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Meta's AI Translator Can Translate Unwritten Languages"
-excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
-publishedDateTime: 2022-10-20T11:59:00Z
-originalUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
-webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+title: "Meta's AI translator can translate unwritten languages"
+excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+publishedDateTime: 2022-10-20T09:30:00Z
+originalUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
+webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Mena FN
-  domain: menafn.com
+  name: The Pioneer
+  domain: dailypioneer.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
-    width: 400
-    height: 267
+  - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+    width: 251
+    height: 201
     isCached: true
 
 related:
@@ -88,6 +88,6 @@ related:
         height: 681
         isCached: true
 
-secured: "Ojbg1osfIF/rQ4/tJuVTwvkxtpz9krsAI84FGD7i06Bp1Ajxz+jCj3+gzX8FPQuh4/AD7hUDJyerN3hMGpoHhkW7jcragBni2aF6EremUsuh+AcmDNtsyMRtCIrsRwrQwjWj1qVihv4rhRuphkyM2jyrp4SdXmS53F2d0LGMgPf4MvqdTQCLCdZ2BdbWK7t+9rj6ciQp0/ClRzhzEDpn0JWouxgPlQV351eFGai+LHr2mdLdZByjeb+KQ7Gzzhwn57GMkV7Q4HISvKinb6m/ib14Z/G59m6WlzGgVZE7pvj/z1UhbumXSbML5G17H1YMNw5pumd9RODn0M2kdHppSpMfjSrQ5mz7QHseKCa7VUk=;KdIyMdTaC2HGkNHMzvDPzA=="
+secured: "gaxWf7RADw6NsjQWwWY7DVDG/YpPtJKbezDM3Cr3UVMiTE3vGOu+HGL3kTJrs4u3ZsLUxeF60KGc/b2unJ14iRkL1SDnGyg0lwh7KgHGKelJUFB6HmkOLJ/KkhgdzYhTswAHdQ4s4H0WoKKSliOrIi7SZRqjFVrV2Gszy4MqARa69rsbgViubLlfRPHAaLQy+gw15CP3l/mhF4BdJlv3aV6qTZAQw077PVTyBlbwmLyOvJIYyI41Q0wyFrgiW/n4xJNl2melTTLxoXDwZbPxgmuw8HGr9ZZF4dIxvhkAbAvcTeW+id/ns77eIs9zWLa3BzUATND+rID0mORGHPpM7/aah4QuaiLnCxPLqPoUNe4=;e9UTqeHxUTSCZlALXulr9A=="
 ---
 

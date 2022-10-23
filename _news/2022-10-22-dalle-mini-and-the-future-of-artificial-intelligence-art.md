@@ -110,15 +110,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "Adobe commits to transparency in use of generative AI"
-    excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
-    publishedDateTime: 2022-10-18T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "u0a8DAvaanlFpP26qrHdel3nVYizEwi1Jq4eo356fN3f4Z4LfA4rSTQbFho5bwgfudDnsTMs0nmE0ww/qQipKqM9Kxxgu+1bc/D6SW8i0gW1Hw6j15Kc1UTPDw8799EeWqUpioHmtdUluikbxxt9uqhSVwye6L0nmlxintlgPV7Yp9gyJw7c3Z2wvMs9rqn9wlUWpPSBuIQ0Hm8YOaLgrj8boEXisIHpULOsuFJYkZvv6fqn06wv4qpRGrCGY9+wIj/B82iWU70+q90Vi0n6ybIFtjuAqIqQl7lKY8s94hWeqcHAPgytfgPquOZo9Ik1rzGRxVvX+YzABCCdW+bfKMRgwuZmBshp94h0RAylc7CTYaoaFQgl/t68b9IRpUgEQ5GiBCfpfBA1ZujS50AL7N3aJVpGIHOMpcSEMZ5s6iMPkNuXj1j36mujlbyBmDF9znpzFvS3Ulb2njkjMzY9KmEsUikWUbTfsVdLfAMZyJ3VWdm3cy3equdY+nUHh/ma13EUD0PBKNjzBdlUqU3VoQ==;WDbgJgiVydoj+I3SeEDWRg=="
 ---

@@ -39,15 +39,6 @@ related:
         width: 476
         height: 210
         isCached: true
-  - title: "Global Human Capital Management Market is Predicted to"
-    excerpt: "Kenneth Research has published a detailed market report on ‘Global Human Capital Management Market’ for the forecast period, i.e. 2"
-    publishedDateTime: 2022-10-18T12:11:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-human-capital-management-market-predicted-grow-a-/2022/10/18/9694185.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 4
 
 secured: "z7QeZhWB+ljr1LwB96p3pSukaaRAbpcGS2GIoRQAo4A975iF1sbrJB5jU/zdGJ6oQU6RWTIPa8PWVSyiAmVgFAYEPU6SzJbtvmYHvvZf9GuOCN+T1xFE1JwUz3D9APNB869QLac79Rs0cSprNx7YBP4JLwsI6g8GdpNoJ5gxUAAOt8a2D7oYRv4wIUdJzEH5TmkHhMpPUVLqZN7Q2MIglW83EumMkYErb8OdlCMqnPrFcrn9IBkWn5MUvdDpypueB3HnMCY3iWTOZIl1DTNkS+7yb+PgwtbYAWUk5bwjQgQgm4gB3/ykUhv3Qt+glw7jXy3E41rgeU2crt7Be/CRkr1Y6xVnWZb50aMxf6HVjH0=;NQvsfOnwHqqP6OLOV30AZQ=="
 ---

@@ -1,30 +1,26 @@
 ---
 category: news
 title: "New research paves way for innovative theory of cognitive processing"
-excerpt: "A team of scientists from the Krembil Brain Institute, part of the University Health Network in Toronto, and Duke University in Durham, North Carolina, has developed the first computer model predicting the role of cortical glial cells in cognition."
-publishedDateTime: 2022-10-19T18:40:00Z
-originalUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html"
-webUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
+excerpt: "A team of scientists has developed the first computer model predicting the role of cortical glial cells in cognition."
+publishedDateTime: 2022-10-19T21:46:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221019111400.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221019111400.htm"
 type: article
-quality: 44
-heat: 44
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg"
-    width: 1920
-    height: 1357
-    isCached: true
 
 related:
   - title: "Research Paves Way for Innovative Theory of Cognitive Processing"
@@ -42,6 +38,6 @@ related:
         height: 513
         isCached: true
 
-secured: "4Gyso7KQHmaHCbC3elmWGniZ7YlyFGPaRRxdH2UDF0Ge+3lmPbAQh0YuDiA/4cJ+4i+3ne/hSTlF3tG55Uxjy66gwzLH47jHaBIVxwcEBbw9shwMH2u3Nj+jobNykHWXSVqetPyGUkhZodlrF4KYZgmgDYiCT0hn0tqIJQUZo/dJZK1DTaUumfpA/BLXMc+k7SwMIC93MuN7e6IQ5HkfQ5GLd2SDkHW2aprWrOCnlVkWFUE7NhQWDO1qLKETViCF38J+sLXasdLz7jecGlsyK5wDRw2kpRrP7+u6cGq1wf/i7wgfurfNYNpgpUF83wgtzA23Zn+gub714kitNd6XcwuqYupmop44iwMwPo8UHKnKIeUuhP26Sv+RonmDtM+K2heYNpugCp4bHygcyB2eaYNqII6jGykklZzQxO36WEUIPLv9g4UyVttTGzYpYu6yVfVRMwCJdRwEy6iT4mJL5xSu5m3yCgjtUIZJZag+dKNTMdCUs1RNSzXmj5rNNq/NhW1qeFU6iWhJnzDFR6o6yQ==;7Rg5bXONDFGKQkBGF2Y5sQ=="
+secured: "Sw3tx4OVehPde7/qiaN+pXBdwZ3fAM5KWaaMyjCCdMqCbNpuKno7e0w8rT48KjpahmD9KCrzXZ/xeeZDN+U9l6LUgaNXMemX3vlwtqksvpocrpmywU4Ugxqoa8/ngllGG9luHOBFmm/5Mhqfvr5etbIgXh5c9WzltNogFNhvecwIRIBbas3qabb2heMrobp8Nx8jdpMZuKyfGcT+f3M+kEsnSU7CKLqGZOmYiAYavSNHQvve5IeZ4VH/X/M7cDOF710Q+6bGXni2bHKKWE/MjdMjD+TUeoZ3Ss3bwC3khkvpJNJQvzfvShF2uIL2bU3oTu69Iw4xZPDhgjFxGqFpL/1bVHMfk9kDv+lp+dffmv4=;Vk4hXFRVnDZOyN12pgSIeg=="
 ---
 

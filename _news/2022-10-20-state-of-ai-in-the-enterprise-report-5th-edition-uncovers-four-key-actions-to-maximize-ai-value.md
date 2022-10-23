@@ -7,7 +7,7 @@ originalUrl: "https://insidebigdata.com/2022/10/19/state-of-ai-in-the-enterprise
 webUrl: "https://insidebigdata.com/2022/10/19/state-of-ai-in-the-enterprise-report-5th-edition-uncovers-four-key-actions-to-maximize-ai-value/"
 type: article
 quality: 25
-heat: -1
+heat: 25
 published: false
 
 provider:
@@ -25,24 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deloitte State of AI Report 2022 calls out underachievers"
-    excerpt: "Deloitte released the 5th edition of its State of AI in the Enterprise report today, which found outcomes lagging for some organizations."
-    publishedDateTime: 2022-10-18T12:30:00Z
-    webUrl: "https://venturebeat.com/ai/deloitte-state-of-ai-report-2022-calls-out-underachievers/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
-  - title: "Here Are the Language Highlights from the Popular ‘State of AI Report 2022’"
-    excerpt: "Snapshot of the most interesting language technology highlights in the latest edition of the popular State of AI Report compiled by a group of VCs and PhDs."
-    publishedDateTime: 2022-10-18T12:50:00Z
-    webUrl: "https://slator.com/language-highlights-from-popular-state-of-ai-report-2022/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 17
   - title: "“State of AI in the Enterprise” Report, 5th Edition, Uncovers Four Key Actions to Maximize AI Value"
     excerpt: "The Deloitte AI Institute’s fifth edition of the “State of AI in the Enterprise” survey, conducted between April and May 2022, provides organizations with a roadmap to navigate lagging AI outcomes. Twenty-nine percent more respondents surveyed classify as underachievers this year,"
     publishedDateTime: 2022-10-19T13:00:00Z

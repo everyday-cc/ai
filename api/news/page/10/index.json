@@ -184,49 +184,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
-      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
-      "sourceUrl": null,
-      "webUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
-      "originalUrl": "https://it.tmcnet.com/news/2022/10/10/9689231.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg",
-          "width": 476,
-          "height": 210,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T16:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-11-save-140-on-the-roborock-e5-an-affordable-robot-vacuum-and-mop-combo.md",
       "title": "Save $140 On The Roborock E5, An Affordable Robot Vacuum And Mop Combo",
       "excerpt": "The Roborock E5 Robot Vacuum and Mop vacuums, mops and charges itself. Right now the E5 is on sale for 45% off during Amazon’s second Prime Day event.",
@@ -275,6 +232,40 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
+      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
+      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29208199/aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-c",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29208199",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29208199",
+      "publishedDateTime": "2022-10-10T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },

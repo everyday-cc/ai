@@ -73,19 +73,19 @@ related:
         width: 1156
         height: 601
         isCached: true
-  - title: "Meta's AI Translator Can Translate Unwritten Languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages.As part of Meta's"
-    publishedDateTime: 2022-10-20T11:59:00Z
-    webUrl: "https://menafn.com/1105052131/Metas-AI-Translator-Can-Translate-Unwritten-Languages"
+  - title: "Meta's AI translator can translate unwritten languages"
+    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
+    publishedDateTime: 2022-10-20T09:30:00Z
+    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
     type: article
     provider:
-      name: Mena FN
-      domain: menafn.com
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 54
     images:
-      - url: "https://menafn.com/updates/pr/2022-10/20/I_ccc7cimage_story.jpg"
-        width: 400
-        height: 267
+      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
+        width: 251
+        height: 201
         isCached: true
 
 secured: "cAuSsjr6BmT+UYThRdMZTmOQ8pKq6/bcolYnv4D4Jd8liT+ygr7/lEEnEI8JbgDAia5/PiZQXyNlk0DUWgpcftHJJvwZMNLo6ga3XHOpS2IrbaUp9k0jneyoeV5wLx31gQWNiUGNP5TghRs9oSMEnoZNa8aBUJaOKm1+GQhnWMGEAH5zTHSGI39iqVeBpyzVw1J6D1MUMOrqshCQvwPky6wYR2tDPb4XEz43HcU1/NthUffvC1G6kslT2v01msfVQCcQULKk72rH5qHx9+evs0UbUdrIRraIk7rNXuH9uSfoyImFalnI5X6icKd9BMPXaPFM5NH4lkE40jRTEwRII540zEio9/4am4VbH/PMKkS30LUwM+/hiSsXrGSvCPcc2c3IdImBS/T6rL1jc2NmJmglfp50kHk4IsQnK8qiPHQHYPJtvl4mj1cpFYbj6hN2cVJt36aDlmnl5IkLzitpiUVMQu0DlbAYcr9pngTmttf5/9kxy5rh5kow3e+CYqyVsEYaQybHq/X5e+Gy5dE0xw==;B4Rnfh9gWa6dUE6VH1Tekw=="

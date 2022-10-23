@@ -9,7 +9,7 @@ ampWebUrl: "https://www.technologyreview.com/2022/10/20/1061987/download-bill-ga
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/20/1061987/download-bill-gates-new-climate-plans-ai-bug-bounty/amp/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1063
     height: 598
     isCached: true
-
-related:
-  - title: "The Download: bots for the brokenhearted, and AI for life and death decisions"
-    excerpt: "But now it’s becoming a reality—and an increasingly accessible one, thanks to advances in AI and voice technology. While Charlotte’s real, flesh-and-blood parents are still alive and well, their avatars offer a glimpse at a world where it’s possible to converse with loved ones—or simulacra of them—long after they’re gone."
-    publishedDateTime: 2022-10-18T12:10:00Z
-    webUrl: "https://www.technologyreview.com/2022/10/18/1061863/download-bots-brokenhearted-ai-life-death-decisions/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 16
 
 secured: "a168+uU8PkSr26FuSg6ySzuuusaJTVk2JEobHNQOF4N78ywjxwxOqfHihHoLOb3Ia/7b6ryjqrwyBX2FELB4m0GxcFuIssIgLSZ3TFrTjkXPcgDh5+qDa7rfOL40VRR4MZGlf97QIIdLFAOcz9rUX4lzxqlEhrPoQUR2pMT/dOkju3GfyMgqOLzFOo8+HRojpgOwZPFJoQ7mG+codhgQTbAKlM4oPbPM8EhWYNeYSJa1f+53N19tE90vu0O9RxnAv9PwLFfjZdT7w+u8ZFkPbKSbha91kk3JMIwHVWtNYmsCLmYXwrgeGgW6puCwWGxY189ov0bAHnEPnGNF1BQa3rlm3EGOl77s1EgniFs8Stf4zNy7c2MN7c3CntFpL2O1NSiYMUYV2FZ067f5z6MeWQ3zRhDbsmGqiBJvFOz+xesl6m3Jef1atiNeTYrwqp9QITCy1qd5pPeqImT2tWfjzMEHrnjVsBU5cR2A1s8B/sF+xOhqJHAj627dscS4fPDGIcO8haTkqVLyDcwayKHC4Q==;xFsc7CVzEKqRIoYCi+95Dg=="
 ---

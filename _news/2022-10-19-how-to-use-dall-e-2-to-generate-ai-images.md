@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-gener
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -110,15 +110,6 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "Adobe commits to transparency in use of generative AI"
-    excerpt: "Today, at Adobe MAX, Adobe announced its commitment to support creatives by ensuring transparency in the use of generative AI tools."
-    publishedDateTime: 2022-10-18T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/adobe-commits-to-transparency-in-use-of-generative-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 47
 
 secured: "5rZOEDKIFmy2G7gjmj/qu9OEJZwkvIrV10V8au/IM3WVlGco2jCxSXvVPHOF9gEG4opn4tOYKaSPVacepcoTX6pO6jTu6XmXoDfNJTKALAXSq+tnDZuFNSOBRveplv9g/Bzd9q17YwSgBWJ3QCuNK7KwT9mwo8yOmzEK88O+0xv7Y3GMooW9sqoLSSeyrtgfwQP2Uiit77V1FGMURKQZGkn+OQU5Uo/trwsXpHrVhBQs0FKDcFMG373pJLULILHt7C6thofiuQ69pX3T2nRtYgMVaiOG1ntmlk85I6rt/8Nnz+82kIAWZ3RNeWP5KzG5snW2atEzyU4aNk+pA/aX3cAvqZKtGWF2O6TXQCFJsTQDGOTZ7hjnhJuLd8emvemxOuwMxZcXYXKtHNtLsNb0DM7SNrOMGMcgVgGLBzzulcKDKm4+IhbNKbtxx9CiDssYhSpO385cfz+B812ESWSkveAek9qfd1ZcFSkuP1Z8LajLj43htcnf6WUrTHaoVd3yNRbWxWI7rmvbwbOocESLXg==;i1H0iqjETX1sVPWUuK1lwg=="
 ---

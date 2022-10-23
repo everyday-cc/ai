@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gusta
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8"
 type: article
 quality: 76
-heat: 77
+heat: 79
 published: true
 
 provider:

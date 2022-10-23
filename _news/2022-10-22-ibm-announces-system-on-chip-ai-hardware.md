@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardwar
 webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
 type: article
 quality: 64
-heat: 75
+heat: 76
 published: true
 
 provider:
