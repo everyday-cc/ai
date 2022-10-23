@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Australia Reverses Recognition of Jerusalem as Israel’s Capital"
-    excerpt: "Australia’s Labor party government on Tuesday reversed the decision of the previous government to recognize Jerusalem as Israel’s capital. Foreign Minister Penny Wong said the city’s status should be decided through Israeli-Palestinian peace negotiations."
-    publishedDateTime: 2022-10-18T07:45:00Z
-    webUrl: "https://themedialine.org/headlines/australia-reverses-recognition-of-jerusalem-as-israels-capital/"
-    type: article
-    provider:
-      name: The Media Line
-      domain: themedialine.org
-    quality: 24
-    images:
-      - url: "https://themedialine.org/wp-content/uploads/2022/10/background-3d-render-designers-illustrators-national-independence-day-flags-israel-australia.jpg"
-        width: 2560
-        height: 1440
-        isCached: true
   - title: "Lapid slams Australia for reversing recognition of W. Jerusalem as Israel's capital"
     excerpt: "Prime Minister Yair Lapid has condemned Australia’s decision on Tuesday to reverse a previous government’s recognition of west Jerusalem as Israel’s capital, calling it “hasty and incorrect.\" Lapid said of the move: “In light of the way in which the decision was made in Australia,"
     publishedDateTime: 2022-10-18T15:48:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/military-artificial-inte
 webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20"
 type: article
 quality: 78
-heat: 198
+heat: 188
 published: true
 
 provider:
@@ -170,17 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Clinical Trials Market is Projected to Reach $4.8 billion by 2027- Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Clinical Trials Market by Offering (Software, Services), Technology (Machine Learning, Deep"
-    publishedDateTime: 2022-10-18T07:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intelligence-ai-in-clinical-trials-market-is-projected-to-reach-4-8-billion-by-2027-exc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
   - title: "Global Microprocessor and GPU Market Report 2022: Market"
     excerpt: "Global Microprocessor and GPU Market to Reach $97.4 Billion by 2026. The global market for Microprocessor and GPU estimated at US$87.7 Billion in the year 2022, is projected to re"
     publishedDateTime: 2022-10-19T19:53:00Z

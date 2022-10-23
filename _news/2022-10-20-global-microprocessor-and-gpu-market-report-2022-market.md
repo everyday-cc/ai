@@ -173,17 +173,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Clinical Trials Market is Projected to Reach $4.8 billion by 2027- Exclusive Report by MarketsandMarkets™"
-    excerpt: "According to the new market research report \"Artificial Intelligence (AI) in Clinical Trials Market by Offering (Software, Services), Technology (Machine Learning, Deep"
-    publishedDateTime: 2022-10-18T07:45:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29300118/artificial-intelligence-ai-in-clinical-trials-market-is-projected-to-reach-4-8-billion-by-2027-exc"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29300118"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29300118"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 21
 
 secured: "T9NN2gMQfIgAhZ8KP+ww3HGPpEYpgu58uOV62pljO4MT1fkgzCKDd8aA8TMXyLxBLQAk0BzfDKoqg0wHGsVhzJpfI4kMnsJfaPrET1oooM61AK2wxdKbAOpmLkxESvVYizyQ3m1zMPEM0E3pCKgl38Vxt0DvnSAlVnNuy9SDNJ8xRfrgziSR+W1L1/0l8AImiKqEufmc1+/K8mU4T3VBaR56Riy1yexL5phPcranRlkXtMFXbwGQ8li3gGrT/0jdte2Xa6IpPM12wvBSf+ZehaFxevuub3HD/2iwt47S1+0b/Q7s7VmVD1bLYdxyodWxSCjqnYvFugCUz426lP+a3YF2ApTaRe3LXyTB4Fp2VkQ=;Z6OhfADpeDJ+nwRlaE+cBg=="
 ---
