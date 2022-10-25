@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://live-production.wcms.abc-cdn.net.au/ef8cfc2b4930eeff18a2336fe3c00e6b?impolicy=wcms_crop_resize&cropH=388&cropW=581&xPos=106&yPos=0&width=862&height=575"

@@ -28,108 +28,24 @@ images:
     isCached: true
 
 related:
-  - title: "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029"
-    excerpt: "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-20T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20"
+  - title: "Artificial Intelligence (AI) Robots Market Survey Report 2022 Along with Statistics, Forecasts till 2028"
+    excerpt: "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ..."
+    publishedDateTime: 2022-10-20T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 78
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning as a Service (MLaaS) Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
-    excerpt: "The purpose of the research report is to provide a clear, accurate, and comprehensive report on the “ Machine Learning as a Service (MLaaS) market ”. It should help to clarify the research issues so that management can use the findings to make decisions."
-    publishedDateTime: 2022-10-20T04:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 73
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected"
-    publishedDateTime: 2022-10-21T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Neural Network Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2028 | 102 Pages Report"
-    excerpt: "Oct 19, 2022 (The Expresswire) -- \"Neural Network Market\" Insights 2022 By Types, Applications, Regions and Forecast to 2028. The globalNeural Network"
-    publishedDateTime: 2022-10-20T02:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/neural-network-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2028-102-pages-report-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029"
-    excerpt: "Deep Learning Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected CAGR"
-    publishedDateTime: 2022-10-20T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 59
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market 2022 Revenue Analysis, Growth, Trends, Segmentation and Regional Forecast 2030"
-    excerpt: "Important data on the current and anticipated revenues of key international industry participants, as well as the goods they provide as part of the Artificial Intelligence in Healthcare Market landscape,"
-    publishedDateTime: 2022-10-20T06:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-2022-revenue-analysis-growth-trends-segmentation-and-regional-forecast-2030-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in Computer Vision Market 2022 To 2028: Latest Research Report to Share Market Insights and Dynamics of Profiled Key Players"
-    excerpt: "The Global AI in Computer Vision Market size was valued at USD 8.4 Billion in 2021 and is projected to reach USD 150.6 Billion by 2030, growing at a CAGR of 46.4% from 2022 to 2030. Analysis on COVID-19 Outbreak Impact Include: In light of COVID-19 ..."
-    publishedDateTime: 2022-10-20T00:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-2022-to-2028-latest-research-report-to-share-market-insights-and-dynamics-of-profiled-key-players-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) in Oil and Gas Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 111 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) in Oil and Gas Market is projected"
-    publishedDateTime: 2022-10-20T02:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-oil-and-gas-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-111-pages-report-2022-10-19"
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
     type: article
     provider:
       name: MarketWatch
@@ -140,43 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Governance Market Share From 2022 To 2029 And Unlimited Opportunities for New Companies and Latest Developments"
-    excerpt: "AI Governance Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected CAGR"
-    publishedDateTime: 2022-10-20T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-governance-market-share-from-2022-to-2029-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning in Manufacturing Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029"
-    excerpt: "Machine Learning in Manufacturing Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,"
-    publishedDateTime: 2022-10-20T04:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-in-manufacturing-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2029-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Global Microprocessor and GPU Market Report 2022: Market"
-    excerpt: "Global Microprocessor and GPU Market to Reach $97.4 Billion by 2026. The global market for Microprocessor and GPU estimated at US$87.7 Billion in the year 2022, is projected to re"
-    publishedDateTime: 2022-10-19T19:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-microprocessor-gpu-market-report-2022-market-reach-/2022/10/19/9696140.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
 
 secured: "DlCHSQ+gwMpnIoQrUuFwTMXasz8y8gqGmO+hhB6DBA2MD4g+s7r7UDe0cLMwfyVsGS7L+40TvehGj8pt0mtC24wAutrZaE39M/M4WkEcDWJ/YVeuSxhelu1ZCRlmep7fPBKiPs7YhXosXxKC47E0F1+0a/b34zQ7Ax6InAVMNq2EoSgQKt04NltngXAv+HRSQgVxgABBKtrG7JnMA6uo9uEjChBzRBzWFGhWt1P6a+RdDb+ApDHHsSPq7/wGKdoE04Xs3chnSJ9TlVdjUab0C24/o3NeTyQlQgEmvryJk8pzgNmz3LdsOMuLrO1Lui2tNGVTKM6e6ZINVgUR5ygj7bdY/SKKEyosXXFY0fgTzx8NbzoaVKr7ztnPNYrIjuKfKCj8xAJLDeXg+UUwO1tv9/SDiv8bcuXD4TNLflbA5QduHRw9ypulfn73sgXX9GMHvRthThsdpJP7jbPP+ELL/T8ly6sTmNfEGIB1fuxz5NgYwZyyOEqPZw4M8Z3sydcN/k1PnJH0rX2f5hA5Ju4CFA==;Wfm9VRk32MBt4P7ZCMFZwA=="
 ---

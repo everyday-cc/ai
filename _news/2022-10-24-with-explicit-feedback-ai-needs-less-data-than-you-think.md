@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 91
 published: true
 
 provider:

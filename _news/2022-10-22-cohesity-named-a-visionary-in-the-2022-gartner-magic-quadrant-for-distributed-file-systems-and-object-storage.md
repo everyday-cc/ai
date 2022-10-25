@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29363575"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29363575"
 type: article
 quality: 4
-heat: 4
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Cohesity, VAST arrive in Gartner’s object MQ"
+    excerpt: "Gartner’s latest Distributed Files and Object Storage Magic Quadrant lists two newcomers, \"visionary\" Cohesity and \"challenger\" VAST Data."
+    publishedDateTime: 2022-10-24T05:33:00Z
+    webUrl: "https://blocksandfiles.com/2022/10/24/cohesity-vast-gartner/"
+    type: article
+    provider:
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 24
+    images:
+      - url: "https://blocksandfiles.com/wp-content/uploads/2022/10/GArtner-Oct-2022-MQ-Distributed-filesystems-and-object-storage.jpg"
+        width: 834
+        height: 950
+        isCached: true
 
 secured: "zJT5O++F+ZQekdOMqVeXJxFYXH0ZB8P4dRKvMk/EEPE9t+JoWQWXbAndWUEelxrFeuiZVOFQf6CMO4NoZG6Ez1WMzqGIYsXNpYrSNgBB5leuqI5B4TWuUd+uvQ2NI8rWf0ihDNP/hXweZd29ErTL4FwZTPEjOstPFSdUiUhaMEF93+OFUSWVeIz8Os4Pm+xv8yabngvbBXuY+nZahpuLpl/qyfez2MqIh7BC0HVhqcKiPQE7IuqKHT2L3lT15Lbb/W7hPLUEZusbS9U+oEyLxbmoLfdkcSBAyVXdWjPNWJ7a+3k1oEmWyQV80kFIIHPdMJXMk32FdWLyqBgLXR8UK5xHHQlEwuuxcfsFYhbclL0=;OGSIh1jh0Z+OJehg6+xG1A=="
 ---

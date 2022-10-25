@@ -27,19 +27,35 @@ images:
     isCached: true
 
 related:
-  - title: "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition"
-    excerpt: "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login."
-    publishedDateTime: 2022-10-19T23:00:00Z
-    webUrl: "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/"
+  - title: "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)"
+    excerpt: "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business."
+    publishedDateTime: 2022-10-24T10:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29375003"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 70
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
+      - url: "https://www.abnewswire.com/uploads/1666363200.png"
+        width: 1222
+        height: 1091
+        isCached: true
+  - title: "Chip Challenges In The Metaverse"
+    excerpt: "Thermal and performance needs will require complex architectures and technology changes, not all of which are available today."
+    publishedDateTime: 2022-10-23T07:04:00Z
+    webUrl: "https://semiengineering.com/chip-challenges-in-the-metaverse/"
+    type: article
+    provider:
+      name: Semiconductor Engineering
+      domain: semiengineering.com
+    quality: 39
+    images:
+      - url: "https://semiengineering.com/wp-content/uploads/eye-AdobeStock_16055589-scaled.jpeg?fit=2560%2C1792&ssl=1"
+        width: 2560
+        height: 1792
         isCached: true
   - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
     excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"

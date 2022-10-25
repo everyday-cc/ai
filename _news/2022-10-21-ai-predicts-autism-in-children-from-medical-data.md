@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Study finds that artificial intelligence can determine race from medical images"
-    excerpt: "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,"
-    publishedDateTime: 2022-10-19T21:10:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg"
-        width: 2880
-        height: 1338
-        isCached: true
   - title: "Artificial intelligence can determine racial identity from medical images"
     excerpt: "A study shows that artificial intelligence (AI) has the capability to accurately predict someone’s race in radiographic images."
     publishedDateTime: 2022-10-20T20:36:00Z
@@ -48,15 +32,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What physical materials can learn from AI neural networks"
-    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
-    publishedDateTime: 2022-10-22T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "031uMXjM+SbK6lIf81suOENlJjmaEQU7wUuquqx93Tjr3lFn223eXlKZJeK61I8eYfS4/4xp7y0kWFzWjyiZfmT8LBqGwOaCw7sf3uv5BpSnZ+IFFwKsdvXf3kMumNVIn794kYOY9lqQygacBABPQk0wGQZrMcxykXGyx71dtVDXs80A4gIDj+tovKUtobqeJ57NPYrSaLt8mSrxfIIhtQqdViA7Ecp1RoyurON/gUF4TG00QtUdouJAA8A6JhqftIdBz5Y+bHnUV2d6N3k3Exv2dcpbojHzwTgg8/rhKu/oRq8nem9dRS2+LGcZNFynE8GrwI5cTlW1RYp2PLw9Dd6yjLCWXj3W8DTRRMcXTsKUBy1PieRm2NUmMJKd+UADJc6FM+oJZ6ye6R7hZzBvdtEAEB4VR2FuMXLUFo+Npm+ycafg7eE1RtCn+wCt04cle1glvKBnEWEMbpwDodyV+W00bacjWPQYtfNMEMJydsvsS3OKznr2yn5Xi5vtaWxjbKIBBrThgTPf1gskhhChxg==;KaJhy1G4tjj1+yQfsUoXCg=="
 ---

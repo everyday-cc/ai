@@ -7,7 +7,7 @@ originalUrl: "https://news.webindia123.com/news/articles/Business/20221020/39952
 webUrl: "https://news.webindia123.com/news/articles/Business/20221020/3995219.html"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
-    excerpt: "Compared with existing products on the market, Innodisk's new camera modules have three major advantages: customized development, platform compatibility, and ISP adaptation. At the same time, quality and longevity are guaranteed to the same high standards as all Innodisk products,"
-    publishedDateTime: 2022-10-20T06:38:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/20/9696307.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 52
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Innodisk Corporation: Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
     excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50% of Innodisk's"
     publishedDateTime: 2022-10-20T09:46:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29371115/media-alert-bra
 ampWebUrl: "https://www.benzinga.com/amp/content/29371115"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371115"
 type: article
-quality: 36
-heat: 36
+quality: 38
+heat: 38
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Machine Learning
 
 secured: "fRQK1Kt0owsawUQSgpXtwQksfYlXloZ6meqOLtIkZXFtC45L6XitWydCoDjcK91EPKqFcv1xI27y+RlkkQlB3g7C2WTPYCC4TdLHNitW8w6x/l1a3csazmvofESpOJ5vQX92c1NxsTwMhhV+Ufg+9sKcz3Z6X1FPZevNKBIUvGYSx1gVavcdPFlPaOeaHIXZyR7lqLKA/qohWcpWxkEnYbEo4gZAaX7WhytAFQk/uVDF0T4/ap0TpJUTUIsBnPDvzhWCCa3oAfwJT9aoUG3Hl/hkTKXao2X5pRqyxeYt30THUETaUZNCmK3n+gDETR+OLqIaTEP/vPOUqs794ot/0Ar/B0eTpkoRTsrO68Q/Bd8=;p4Hpsh7AmjIq7u9StZamUA=="
 ---

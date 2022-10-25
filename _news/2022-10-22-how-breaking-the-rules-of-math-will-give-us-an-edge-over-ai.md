@@ -9,7 +9,7 @@ ampWebUrl: "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp"
 type: article
 quality: 84
-heat: 87
+heat: 84
 published: true
 
 provider:

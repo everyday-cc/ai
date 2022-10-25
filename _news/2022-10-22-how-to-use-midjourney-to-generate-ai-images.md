@@ -9,8 +9,8 @@ ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-gen
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 87
+published: true
 
 provider:
   name: Digital Trends
@@ -28,56 +28,6 @@ images:
     width: 1664
     height: 1109
     isCached: true
-
-related:
-  - title: "How to use DALL-E 2 to generate AI images"
-    excerpt: "DALL-E 2 is now open for public use, which means you can try your hand at generating AI images yourself until you find something perfect. Here's how to use it!"
-    publishedDateTime: 2022-10-19T14:00:00Z
-    webUrl: "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/"
-    ampWebUrl: "https://www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp"
-    cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-dall-e-2-to-generate-ai-images/?amp"
-    type: article
-    provider:
-      name: Digital Trends
-      domain: digitaltrends.com
-    quality: 87
-    images:
-      - url: "https://www.digitaltrends.com/wp-content/uploads/2022/10/DALL-E-2-Image-on-OpenAI.jpg?p=1"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
-    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
-    publishedDateTime: 2022-10-21T17:03:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "This Artificial Intelligence Generates Gender-Swapped Images Of Famous Celebrities; Take A Look"
-    excerpt: "Famous celebrities' genders were switched by an internet video developer using artificial intelligence technology, and the resulting collections quickly went viral online. Even more astounding than the impact of artificial intelligence technologies in the internet world is the fact that some of these superstars resemble the opposite gender."
-    publishedDateTime: 2022-10-20T08:11:00Z
-    webUrl: "https://in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look"
-    ampWebUrl: "https://in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40443/this-artificial-intelligence-generates-gender-swapped-images-of-famous-celebrities-take-a-look?amp=1"
-    type: article
-    provider:
-      name: in.mashable
-      domain: mashable.com
-    quality: 75
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/f39b61f7-06dd-4813-ac8a-ebae1536c244_6wdv.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
 
 secured: "SIG0q529y/xMcvb4HHJVpr39foTf9QWqf2yNZqOZ5fPuz+wnH6zd0l0eMeWEFMxEGnUM/7VZqWyvJkwn2L0/6cI97BqqyXrvofYwiTqOlwTVgF2k2z8vSX3o9yrmNUJ28oDjR3DpmyDlY7Pepry36KjHD2NAIZHM8v7AEYHHJJ4qm2IzbtBJLrz2vxUPNV1h3KPO95fuU/84++F56P+Kn7StpZb2N/iFo/GkfYrhXRFFZrTsfWB+yMsneeGtc/N3noVXRiliX+yCRzni9mJl9hYAUO5q6dX9cnnXN5QK4iFX3KuLG9rUYa79JcYgUZLfSJPIaHWaxBT1TbZms/DeC8SJPKfu1Q99h+SQBUobwMU=;2vnV8wmbAh7GOzuJt4l7JQ=="
 ---

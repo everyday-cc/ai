@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
 type: article
 quality: 84
-heat: 85
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -28,6 +28,33 @@ images:
     width: 1100
     height: 619
     isCached: true
+
+related:
+  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
+    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
+    publishedDateTime: 2022-10-21T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
+    excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."
+    publishedDateTime: 2022-10-21T17:30:00Z
+    webUrl: "https://omaha.com/business/investment/personal-finance/self-driving-trucks-ai-and-the-difficulty-of-forecasting-the-future-of-trucking/collection_fd16df08-0265-55c7-980f-420e24f50739.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 14
 
 secured: "EcRcTn5XE+f7Mseb7jYlu2FP+C98WoG5LKSoY3KoREWEjKTrQjAi9oclLt835LIAg7eQjA8mZm97GIUwt3nyDWyDKIb7pOiIeU1c1MU/T7Pto+6/EjgkQBCL9GG0lEcYvSFv3kIYZm4RHRXiHTTIP9Ai+DIVyWjqU6B+3x/ZqJV1gwGSWT+SaRxvEY2ugVVRUs4KzkOu+cbiXpIaBGm/liTCI+elejdSXGdVbb8HoAAfiWgoL+4QJ2yZIMXK9ITyLP86wbCkv/tdHZ2ZM0CiMGKq9s9A47G1bipvODSyR+GZG4GWXn5kvC0uTw3/BzWBiW0qowTwmaal71oupJmf/dHPDPCXqZZYOGf3MVfEZ7z2e2+OIzuDA4JNfma7yKcYlF+99OOS3+5afl7lLJWTmd5Dnhdgbk5MExHGO3/mXUhsAyqyPAakX071jWoPufIUZGrR5+yjUnHarc7V1V7JR+qalHpPIS3DrBXrJF60MaTgF6fdZvhWUaObQMPFWn0Ah7c344XpPUxGwlIlB4ddGQ==;7xIM7ZOwgnDX0VSGRFw/sw=="
 ---

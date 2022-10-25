@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://c.ndtvimg.com/2022-10/b1446v1o_artificial-intelligence-human-evolution-650_625x300_20_October_22.jpg"

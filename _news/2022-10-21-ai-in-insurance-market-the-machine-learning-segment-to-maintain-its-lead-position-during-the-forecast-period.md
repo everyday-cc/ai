@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Global Cleaning Robot Market to Grow at a"
-    excerpt: "Kenneth Research has published a detailed market report on ‘ Global Cleaning Robot Market ’ for the forecast period, i.e. 2022 – 2031, which includes the following factors: The global cleaning robot market generated the of revenue of nearly USD 9."
-    publishedDateTime: 2022-10-20T10:00:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-cleaning-robot-market-grow-a-cagr-25-/2022/10/20/9696356.htm"
+  - title: "How and Where the Artificial Intelligence for Automotive Applications Market is Set to Grow in forecast period 2028"
+    excerpt: "As per Market Growth Report, The Global Artificial Intelligence for Automotive Applications market size is estimated to"
+    publishedDateTime: 2022-10-22T09:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-for-automotive-applications-market-is-set-to-grow-in-forecast-period-2028-2022-10-22"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 41
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 45
     images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "z7QeZhWB+ljr1LwB96p3pSukaaRAbpcGS2GIoRQAo4A975iF1sbrJB5jU/zdGJ6oQU6RWTIPa8PWVSyiAmVgFAYEPU6SzJbtvmYHvvZf9GuOCN+T1xFE1JwUz3D9APNB869QLac79Rs0cSprNx7YBP4JLwsI6g8GdpNoJ5gxUAAOt8a2D7oYRv4wIUdJzEH5TmkHhMpPUVLqZN7Q2MIglW83EumMkYErb8OdlCMqnPrFcrn9IBkWn5MUvdDpypueB3HnMCY3iWTOZIl1DTNkS+7yb+PgwtbYAWUk5bwjQgQgm4gB3/ykUhv3Qt+glw7jXy3E41rgeU2crt7Be/CRkr1Y6xVnWZb50aMxf6HVjH0=;NQvsfOnwHqqP6OLOV30AZQ=="

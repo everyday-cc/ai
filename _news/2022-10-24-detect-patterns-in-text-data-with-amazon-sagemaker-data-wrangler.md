@@ -1,0 +1,49 @@
+---
+category: news
+title: "Detect patterns in text data with Amazon SageMaker Data Wrangler"
+excerpt: "In this post, we introduce a new analysis in the Data Quality and Insights Report of Amazon SageMaker Data Wrangler. This analysis assists you in validating textual features for correctness and uncovering invalid rows for repair or omission. Data Wrangler reduces the time it takes to aggregate and prepare"
+publishedDateTime: 2022-10-24T19:45:55Z
+originalUrl: "https://aws.amazon.com/blogs/machine-learning/detect-patterns-in-text-data-with-amazon-sagemaker-data-wrangler/"
+webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-patterns-in-text-data-with-amazon-sagemaker-data-wrangler/"
+type: article
+quality: 89
+heat: -1
+published: false
+
+provider:
+  name: AWS
+  domain: aws.amazon.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+  - AWS AI
+
+images:
+  - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/detect-patterns-text-data-data-wrangler.jpg"
+    width: 1343
+    height: 674
+    isCached: true
+
+related:
+  - title: "Enable CI/CD of multi-Region Amazon SageMaker endpoints"
+    excerpt: "Amazon SageMaker and SageMaker inference endpoints provide a capability of training and deploying your AI and machine learning (ML) workloads. With inference endpoints, you can deploy your models for real-time or batch inference. The endpoints support various types of ML models hosted using AWS Deep"
+    publishedDateTime: 2022-10-20T20:19:27Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-ci-cd-of-multi-region-amazon-sagemaker-endpoints/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/07/Figure_1_Blog_latest-BLOG-Latest.jpg"
+        width: 1831
+        height: 861
+        isCached: true
+
+secured: "ilGSspFBwgo/PoH8ksYlt5zG8XDGjCT3CRgQGrU1d3wWd2DOefVj0pUVC8V9gm4NIzq0TDYRIODuEqR2qnj22M0EfWXJ0f5DRMd/H2ndym9Unz3mU0BQ/ynmfkK2TDILlJ9sSk/C3SBAi3uezHx/nXzsflvrUzvPOsqUH3tZ7EHs3nX9k6oVAFQGti7+UIpRSmH4IM3gzgUoCN6wbZ1+SBPeqRyC7WcPEJ5bEhp6PVyLcIOeZ7Qx9QMxhvRmGK7pPXlh5GK+IjZ86eS6jxxEggc/LaF+ArOBKRhjdB193Q/ijEKY6MFKbXs1aRGAQPgjSX79c6vRaIQmsjWMDXAE5qVR/tv2y3JqD7joRxCP6zY=;5q7YKXG4lFVvOirN3rnI1Q=="
+---
+

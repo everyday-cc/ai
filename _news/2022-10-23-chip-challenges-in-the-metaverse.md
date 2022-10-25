@@ -25,21 +25,53 @@ images:
     isCached: true
 
 related:
-  - title: "Metaverse, AI and 'super apps': Watch out for these top tech trends in 2023"
-    excerpt: "Gartner lays out the tech trends that could change how companies operate in 2023 and beyond. As many companies prepare for economic turmoil, IT leaders need to figure out how to save costs while also moving digital projects forward."
-    publishedDateTime: 2022-10-19T12:05:00Z
-    webUrl: "https://www.zdnet.com/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/metaverse-ai-and-super-apps-watch-out-for-these-top-tech-trends-in-2023/"
+  - title: "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)"
+    excerpt: "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business."
+    publishedDateTime: 2022-10-24T10:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29375003"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 85
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 55
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4346b3576e7cda4bb8e38c359fa8dde659b1dee6/2022/10/19/7cc04e5c-5618-48c8-a7f7-f2c40dc3d977/innovation-metaverse-future-tech.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.abnewswire.com/uploads/1666363200.png"
+        width: 1222
+        height: 1091
+        isCached: true
+  - title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
+    publishedDateTime: 2022-10-20T20:59:00Z
+    webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 39
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
+        width: 1152
+        height: 1920
+        isCached: true
+  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
+    excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
+    publishedDateTime: 2022-10-23T07:35:00Z
+    webUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/"
+    ampWebUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
+    type: article
+    provider:
+      name: The Spokesman-Review
+      domain: spokesman.com
+    quality: 39
+    images:
+      - url: "https://thumb.spokesman.com/CPMnzKib6xrffR4cF26pLfhmOPo=/480x0/media.spokesman.com/photos/2022/10/21/63504a7ea093f.hires.jpg"
+        width: 480
+        height: 293
         isCached: true
 
 secured: "T0qwXqOkNB4YFSuC4WsmazOppT9mt0zhgNg9TPiRS9MjfOMdC073WzHFoz8LMtsed1Cnq7/OOmTayjq9kdegbSnEjoGjiR4mPZS/jmZv4E5ACpQaYJskANHuswiakG0WetvF4+i62s3yunJ5xgy9ZcDdNC7OtfImJJ3ndNei4CjnjDcrGU4AqHKlPH6zP7I2vFuBeOWvUjcOQUtCgRxL2UGQJxW/kUbwWcuCob8yf8Y71GlzdY4puc602vKz7jRHQfOUS9lBADj2DMOBvVFoAuK6aNOs7QaTGrIzOikvgCbMmkaGbb2k4cFlifJaiak+5710zScbJ5FQoifzj8y68TIZc1yONO95rTnktfAJbtWq+RxcvrxX/+4UenMd8sLwHMgM2r+30J3ZygA0gW5z/wnPI00fubvDIlCDuaitifab5QR+wTM+72JZTG9v2xAypDDzolL9CoazKH1LlPOrU1vZ+OZO/aB3CqFywdKZ47GuSJFoH/F3SZYFAj4C7QX3tw7+yKIiNd98OjqvJ1UoDQ==;RLFwCflh+zkqUKiem/8CuQ=="

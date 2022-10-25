@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million
 webUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Institutional Investors: It’s time to Adopt AI in Investment Decisions"
+    excerpt: "Will AI be The Secret Weapon of Modern Investment Managers? At the beginning of 2004, LEGO’s revenues were down by 40%. Market research suggested that it was due to the rising popularity of video games amongst younger generations."
+    publishedDateTime: 2022-10-24T11:22:00Z
+    webUrl: "https://www.finextra.com/blogposting/23118/institutional-investors-its-time-to-adopt-ai-in-investment-decisions"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 39
+    images:
+      - url: "https://www.finextra.com/finextra-images/visible_pictures/4bcca3ec-1b28-4b00-a3c2-36fed1e08580.jpg"
+        width: 500
+        height: 285
+        isCached: true
   - title: "Google in talks to invest $200 million into AI startup"
     excerpt: "Cohere, which creates natural language processing software, also had talks with Nvidia about potential strategic investment"
     publishedDateTime: 2022-10-23T13:10:00Z

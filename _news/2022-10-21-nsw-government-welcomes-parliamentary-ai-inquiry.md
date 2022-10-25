@@ -39,6 +39,20 @@ related:
         width: 504
         height: 315
         isCached: true
+  - title: "Biometrics for digital ID among AI-related issues to be reviewed by NSW parliamentary inquiry"
+    excerpt: "The move is part of the state’s efforts to expand and simplify the use of these technologies to facilitate access to public services."
+    publishedDateTime: 2022-10-24T12:44:00Z
+    webUrl: "https://www.biometricupdate.com/202210/biometrics-for-digital-id-among-ai-related-issues-to-be-reviewed-by-nsw-parliamentary-inquiry"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/13181712/digital-identity-infrastructure.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "9SXZIwE8KsB8kUIi4dgcNTyY9hX3pEFuL+QsX/fmwVUN5HI2bDGwGt0hriFy2PAVtHj8kjIT27AIKGXo6FsAtAns5qkea+4zkMN4cQANkMrbmFI3O0esCeOtaPzDcVfjXah22qNFPW72IQB6fyHhL3Il1lDau1KWyzeBkqC/J7mHG+xwISyQWLk9mT3frkR0iFnVC0Or9BKKOgku1N4ugbaVDrChif2+0WUaeWb9LvOL2zv9GhdnHE7Vx7cjVPj8mjBB2DKCYqcriI0ToRTfQGTXh1NjJXMninI8WZvp06jIHjWCrnfn2XAvwVj5poZjJqWLukkawrOp4ZQPpKtAL3cqgWwbYGqZkiLoLEVAXds=;tCgg9w96eXxK91/h8wYK6w=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/world/2022/oct/23/business-racing-to-use
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 type: article
 quality: 58
-heat: 68
+heat: 58
 published: false
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "With moratorium on facial recognition about to end, the Baltimore City Council may consider regulating the technology"
-    excerpt: "Baltimore City Council is taking a second look at the city’s use of facial recognition technology ahead of the expiration of a moratorium later this year that barred its use."
-    publishedDateTime: 2022-10-19T22:17:00Z
-    webUrl: "https://www.baltimoresun.com/politics/bs-md-ci-baltimore-council-facial-recognition-20221019-pyjtnfzhwvf6bosfoeeewcbmxi-story.html"
-    type: article
-    provider:
-      name: The Baltimore Sun
-      domain: baltimoresun.com
-    quality: 16
-    images:
-      - url: "https://www.baltimoresun.com/resizer//1m11wEuNkaFPhit8fBTpKEkPQLE=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/32GRWTZZLZHC7OHFBNPIKFX35Y.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "fngRYW74588JENpn2S+dunGL2+6uo7/5fNYYW/KZ3vdURKxBvaJnPJooYq1f6qMwGdpsPCkVDxnGOoQIMu3sykviGM/N1V9kkUNNYTmls62DOdh++RSe2yVz9DTAVxG2snb2GnoUY7l5Zu0v0RDP0zrr1BDCXWvRFjIRKu9CCBNaU+n2GTNWFVLNzggCU29hLi4q2hZJvBQXBVzv4b0Dyrvv2wtJcs00bIuaKy2amrjvqgOXABXhPz2Il8BlChrsacN4J355BH6Kgj75CWrYNIHoC0FsT21d0O2TQF+GPccplQqAHZZj2qYXzq6PcSJU9RN8577YopDJ3iaaiDivlZLTsI0dq+hMStouWTV2Qy1ufDsGy4Ew44slLVnPNw9aowtXQ/Ju5eJWZciOGjl6eJDFttVDdvdFfgY9awkolxrER0fZZgXOureOA4pd8amoycvMYujUrbOmZBAMLfMim+BoJUYZk6uah94G1I/43m4buHQqcA5A8rdiYMG1TY2CeanalDXz/WUNFL4VpG1Xpw==;7S0XYLE7/l2jzeDknYsUZA=="
 ---

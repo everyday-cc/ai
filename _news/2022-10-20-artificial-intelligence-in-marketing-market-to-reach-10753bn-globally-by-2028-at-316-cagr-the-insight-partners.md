@@ -26,29 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Defense Market Size Worth $13.15Bn, Globally, by 2028 at 10.8% CAGR"
-    excerpt: "The latest research study on \"Artificial Intelligence in Defense Market Forecast to 2028 – COVID-19 Impact and"
-    publishedDateTime: 2022-10-19T08:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-defense-market-size-worth-1315bn-globally-by-2028-at-108-cagr-2022-10-19"
+  - title: "Insights on the Global Conversational AI Market to"
+    excerpt: "One of the major factors propelling the growth of the global conversational AI market is the advancement of natural language processing (NLP), machine learning (ML), and AI techno"
+    publishedDateTime: 2022-10-20T10:00:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-insights-the-global-conversational-ai-market-grow-usd-/2022/10/20/9696361.htm"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://mma.prnewswire.com/media/1924902/Technavio_Global_Conversational_AI_Market_2022_2026.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Global Microprocessor and GPU Market to Reach $111.98 Billion by 2027 at a CAGR of 4.8%"
-    excerpt: "The \"Global Microprocessor and GPU Market Report 2022, by Architecture, by Gpu Type, by Application\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2022-10-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29364309/global-microprocessor-and-gpu-market-to-reach-111-98-billion-by-2027-at-a-cagr-of-4-8"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "ofH5TRnYRVbFwEaHGfdG371eoJnUukxtUq2Y54/P7q0SUtye/T8+Uk0/4p+myy+IlNkuFlkzIHTOJjhxc55Im+pZzPr3sTVNlEWdfqpacIWNuHrZjoTFeeQXyiDK48SdYx1ECAtj5lIfAk2V6zN3rD+7kv0k6ZiwJ8aS6FJ72D7EZdrrfJKRpY4PVUli3TXQ9R6tgz6Zynv8C92lHkIGmwFVWOBPm5zgTe0klA+fCj5n6hQPX+lkDM0sqaeNay2Sq0Ay2v19arG+26tteRnX8oLTNcYMAOL3YPauA3pHw9yO7JCrOvW0m07W85w3wQ9x1TTBRtVBj3A92OS9EfVU+sHe39wDFgsEG10zKJduBwM=;SJWiWLwIbN1ab7m88JXk1Q=="
 ---

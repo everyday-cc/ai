@@ -28,80 +28,34 @@ images:
     isCached: true
 
 related:
-  - title: "Latin America Artificial Intelligence Market 2022-27: Trends, Share, Size, Growth and Forecast"
-    excerpt: "According to the latest report by IMARC Group, titled \"Latin America Artificial Intelligence Market: Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the latin america artificial intelligence market is expected to continue its moderate growth during the forecast period (2022-2027)."
-    publishedDateTime: 2022-10-19T05:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/latin-america-artificial-intelligence-market-2022-27-trends-share-size-growth-and-forecast-2022-10-19"
+  - title: "Artificial Intelligence (AI) Robots Market Survey Report 2022 Along with Statistics, Forecasts till 2028"
+    excerpt: "The Global Artificial Intelligence (AI ... An efficient strategy offers the companies with a head start in planning and an edge over the competitors. Market Growth Reports is the credible source ..."
+    publishedDateTime: 2022-10-20T10:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-survey-report-2022-along-with-statistics-forecasts-till-2028-2022-10-20"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 57
+    quality: 82
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "How and Where the Artificial Intelligence for Automotive Applications Market is Set to Grow in forecast period 2028"
-    excerpt: "As per Market Growth Report, The Global Artificial Intelligence for Automotive Applications market size is estimated to"
-    publishedDateTime: 2022-10-22T09:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/how-and-where-the-artificial-intelligence-for-automotive-applications-market-is-set-to-grow-in-forecast-period-2028-2022-10-22"
+  - title: "Artificial Intelligence (AI) in Construction Market by Product and Geography - Forecast and Analysis 2022 to 2028."
+    excerpt: "The \"Artificial Intelligence (AI) in Construction market\" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
+    publishedDateTime: 2022-10-21T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 45
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Ai For Speech Recognition Market Size | Share | Trends | Growth | Scope | Outlook | Opportunities | Forecast 2022 By MRI"
-    excerpt: "The Global Ai For Speech Recognition Market Research Report 2022-2028 is a valuable source of insightful data for"
-    publishedDateTime: 2022-10-20T04:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-ai-for-speech-recognition-market-size-share-trends-growth-scope-outlook-opportunities-forecast-2022-by-mri-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-  - title: "AI in Telecommunication Market Size and Share Estimation 2022-2029 | Regional Overview, Growth Opportunity, Business Prospect and New Challenges"
-    excerpt: "The \" AI in Telecommunication Market \" 2022-2029 Research Report provides qualitative and quantitative insights into the primary drivers, constraints, opportunities, and challenges influencing global markets growth."
-    publishedDateTime: 2022-10-21T04:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-telecommunication-market-size-and-share-estimation-2022-2029-regional-overview-growth-opportunity-business-prospect-and-new-challenges-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "L2 Self-driving Vehicle Market : Size, Share, Growth, Price Trends and Forecast 2022-2028 with Fastest Growing Countries Data | 112 Report Pages"
-    excerpt: "According to this latest study, the 2021 growth of L2 Self-driving Vehicle will have significant change from previous"
-    publishedDateTime: 2022-10-20T03:41:00Z
-    webUrl: "https://www.marketwatch.com/press-release/l2-self-driving-vehicle-market-size-share-growth-price-trends-and-forecast-2022-2028-with-fastest-growing-countries-data-112-report-pages-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 17
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Clinical Natural Language Processing Market Report 2022 by Trend, Size, Share, Market Segmentation, Growth Potential and Forecasts Through 2029"
-    excerpt: "The \" Clinical Natural Language Processing Market \" Research report covers major key players with geographical segmentation, revenue, market size, share and growth of Clinical Natural Language Processing industry in upcoming years."
-    publishedDateTime: 2022-10-20T03:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/clinical-natural-language-processing-market-report-2022-by-trend-size-share-market-segmentation-growth-potential-and-forecasts-through-2029-2022-10-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "/E75o2sTZ0iViaPVbuHzQb/s5j5tzDybBS7NTYHwt42HdeJ0GCVU7gVFJatAmC10VjE87NgIxlXmYQJGxfSCyiQsEyKXrhco9a4TdYqkQ/w6sCWyWAm72kuCQY/y9HTc1G8sHwohRuW1TQKFKS7NyB49S73Y28F64/3fbXjmleP/gDThUIp5aQbHlfwvfKKK1jA7/EWyPo3TwJ8DJLcTQYfgDODRnbE0Y4+5BoHsWyNU71DzJ/HzxQepiclxeYjl1vpM9T5pA5TO2/wyQNQtPBhFES9awkzOc2kiw4Iww9avzFpqmJB7qT44vOt8NDrWI1hoW++szhvgJtAQIaxdqa6MZZheLh1kjTErkRONs6Q=;4h/ARJTxr/sp6zBiIXro+Q=="
 ---

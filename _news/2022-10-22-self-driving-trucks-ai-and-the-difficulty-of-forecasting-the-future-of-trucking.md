@@ -19,35 +19,37 @@ topics:
   - AI
 
 related:
-  - title: "Improving the mapping of human skin using models and deep learning"
-    excerpt: "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques."
-    publishedDateTime: 2022-10-20T16:45:00Z
-    webUrl: "https://techxplore.com/news/2022-10-human-skin-deep.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-human-skin-deep.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp"
+  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
+    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
+    publishedDateTime: 2022-10-21T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg"
-        width: 600
-        height: 422
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Can Retailers Trust Their Machine Learning Models?"
-    excerpt: "As we inch closer to Black Friday and the start of the holiday buying extravaganza, retailers are putting the final touches on the demand forecasts"
-    publishedDateTime: 2022-10-20T21:39:00Z
-    webUrl: "https://www.datanami.com/2022/10/20/can-retailers-trust-their-machine-learning-models/"
+  - title: "These artists found out their work was used to train AI. Now they’re furious"
+    excerpt: "In just months, millions of people have flocked to text-to-image AI systems and they are already being used to create experimental films, magazine covers and images to illustrate news stories. An image generated with an AI system called Midjourney recently won an art competition at the Colorado State Fair,"
+    publishedDateTime: 2022-10-21T13:06:00Z
+    webUrl: "https://edition.cnn.com/2022/10/21/tech/artists-ai-images/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 56
+      name: CNN
+      domain: cnn.com
+    quality: 84
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/forecast_shutterstock_Vintage-Tone.jpg"
-        width: 800
-        height: 534
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220923162646-erin-hanson-artwork-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
 
 secured: "OSMEziiEqgcchDmZyNFhKByPLScDwE5N+rmZpAOg1EHsSgRdZ8cHebLVCg/VRpZxHfXML7o/J4YhuqNfvH/jdf/6k+oeaH3mE/iQHEw6L3XcSMg7TdMpXJPX1KqAYgDrj0RpVexE3xQXZUQQJgbWjW3ca78sgOeopQfDcGAgzO00LqUmXwyD95fVXV9UuZGpnVkwm+6IR1K0eyc9mirQf7kMA+X4jKBAuglZw9dWcfv2N2d1JCTm31oHRHuJBY3vACAoSw2t4SutRh3spuwB1pbljfcvOp1JZxxrcNEAY9j/uFFQK2snagMObSrIU6IJa5VK2QS6dx3/8nVal6cEDt0HFLomiou2ZxKxcR22Wj9/asP1UXiP2DZwWZppMZYWteEdVabHmA7uD2EaUBMbpXgGPMlnDGxk/pCkmAwzCl8s67JcxONIpxtrwiurPhjQdYB/jf2HD0X5YfHSgp8RSzXpdaAJBS0hOBAPwjzV/ljVq0kbZQgo/B1Z8GCjLVqrsjoX/OEO2p/m1TNKulIpzg==;8W9s7KSwmQYm70Ssk01lBQ=="

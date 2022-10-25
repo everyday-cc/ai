@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "How a new AI algorithm may help streamline lung cancer radiation therapy"
-    excerpt: "Researchers say a new artificial intelligence algorithm can help radiation therapists work more quickly while treating lung cancer"
-    publishedDateTime: 2022-10-19T07:04:00Z
-    webUrl: "https://www.medicalnewstoday.com/articles/deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment"
+  - title: "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy"
+    excerpt: "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,"
+    publishedDateTime: 2022-10-24T17:57:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp"
     type: article
     provider:
-      name: Medical News Today
-      domain: medicalnewstoday.com
-    quality: 53
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 64
     images:
-      - url: "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/10/deep-learning-lung-cancer-thumb.jpg"
-        width: 732
-        height: 549
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "AI model predicts the likelihood of unplanned hospitalization during radiation treatments for cancer"
+    excerpt: "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer."
+    publishedDateTime: 2022-10-24T17:11:00Z
+    webUrl: "https://www.news-medical.net/news/20221024/AI-model-predicts-the-likelihood-of-unplanned-hospitalization-during-radiation-treatments-for-cancer.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 24
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/174318220-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
 
 secured: "ulV3LXhpMqeHIOBL0aOPddHnZHA1HUXf6LzXQl/5Z2M2Aabv/R9bra0zUOcGlb+jYUHFDBEBbGBNnHL4AHAgxflwOD9ZRA3LWcGEMvXnLmpdpw7vnp3j//9OBW3DfePXenyxWtPGR+IwZup96G1cq41QLBJuYWyDZbQoCU7cTuIHm3hCEZpqIA9SmEZ+sHMXw7bz6YsxR+XaMrEyeJQvX7uV++cqaCInMXbgim42MB6PEA6P+BunNmxbcBnK2NNlLHUTZou+/vJW7uZ3yd7oA7BqEU1APSKk6V7SHOoRvUXoUFfjLGLlynfTX3UtJzYjOBMW34Gqv5fYd5aHqlut+oBHbfxxKIbQznSSWRveuQMm6DQdh519Bg+Cc4KSG+OOce2zZfWuHTZY9CKct9xHX7gItOahVkQktPjUxJziqa3feux6EkXpshXovimjUpOyd6aRDrs+1+zJvgZcHXs5IJe5s8JZxApCqsLy00PkuIeNk6hUorz2CN3V02PS/cqKj32BDzqscZVxdWE1vMtX/Q==;HJTCIQ3UhbRx3E9PVxrdpw=="

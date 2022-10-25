@@ -34,6 +34,20 @@ related:
       name: scmp.com
       domain: scmp.com
     quality: 61
+  - title: "Chinese chip startup shows key gap in Biden export curbs"
+    excerpt: "SHANGHAI: One of China’s most promising chip designers has already navigated through the Biden administration’s export restrictions and concluded it will be able to continue tapping Taiwan Semiconductor Manufacturing Co (TSMC) to produce its advanced silicon."
+    publishedDateTime: 2022-10-25T01:39:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/10/25/chinese-chip-startup-shows-key-gap-in-biden-export-curbs"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/25/1789636.jpg"
+        width: 1240
+        height: 858
+        isCached: true
 
 secured: "P0x6JUMQC+03dIMG1HF3UTLbH9EXOJHJ2SZYQXBoMwfe62vuEDQnAQOrlw2IfW3o5ZStmofqgZjP/7Atdf5B8mVIp84+1/+w/+PzMzzqvI5K661JNUSjZ7bMgKQPFU1iWsVC517LyFuFeCHS/HCHQMcsY6DgeyNR2BKKYQofKsR3nEtUOgKURqE6cL9VXVSToRGsQlpbMNTPZBIRZNyRgZtSSJafLPwyG36zlhIA8NGiiKnlMrJfyZoJWNoBejA2yzQ1GcCH1esdGB3MH0SqaisVRC4jM1fC0Ga027D77P4W+i6VdL/SqQ+sWuVEjlhhruWUo45gBdhPrBDrV2VgfY/Ek3tAQKJhl84Z13wgNBE=;z2FYpjccLsTdwcmjraUjWg=="
 ---

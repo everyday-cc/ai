@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motio
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cherylrobinson/2022/10/20/laws-of-motion-created-ai-sizing-technology-accelerating-personalized-sustainable-inclusivity-in-fashion/amp/"
 type: article
 quality: 70
-heat: 90
+heat: 70
 published: true
 
 provider:
@@ -28,31 +28,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "AI in computer vision Market Demand Analysis 2022 Growth Statistics, Emerging Trends, Top Leading Players with Strategies and Forecast 2030"
-    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
-    publishedDateTime: 2022-10-20T09:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-demand-analysis-2022-growth-statistics-emerging-trends-top-leading-players-with-strategies-and-forecast-2030-2022-10-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Inspur Information Propels Data Center Sustainability with Open Compute Technology Innovation and Industry Collaboration at 2022 OCP Global Summit"
-    excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced today it is showcasing four recently Open Compute Project (OCP) certified systems at the 2022 OCP Global Summit being held October 18-20,"
-    publishedDateTime: 2022-10-19T13:35:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/19/9695828.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "dLtR95nQHwVenEGpQN0F8Hp9P1v6AeOjH+0YYcJCYO9jyQbHMXMNCuo23I1qSvzxnru/765IGUo/gJBiQfCqiS93wvT3u61Atg3XlcJdfAcjEWIkjvaWsu0NMBOY0Wq3uSElwq8KovQB2CCAeEEiBiSfJky/NmetkQyMfG2o6MmtFXVjq6kZelpVQcaZNeYX9SOG2eJSmSV1CDke2p3YoeHlztodsumNNT4QQExScliQzSblUGATt6YXw77FHTTzRf5CjAQ5ZPZUW5LovoQgD3uKnPOQ3TX3f7tf8TXo7nELm9dgwGxGhFFAReTvtluWjbSnkuECiOXZnYQpErl+f5+OhwCxd3iBFUkXZVzFstK53b0uyL6pqGzMI8dd2bHlOk/zwwGUznASS/q/Z/gZT9j1oPyOG1O/OUglJy0tWS57+gtC4+YlrssDgHG/V31D48kN5e8gcR4D35ppZLQpGHhq+ksP+jPjkL8IPGuPjsUhJLvq+CTAOpMa8vRGD4s0OfjmOvue3BTdH/IVn6oJig==;O4XkjMQbW3az+PM7mwf1gw=="
 ---

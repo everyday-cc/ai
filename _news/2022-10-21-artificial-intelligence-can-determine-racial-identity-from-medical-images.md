@@ -7,7 +7,7 @@ originalUrl: "https://interestingengineering.com/health/artificial-intelligence-
 webUrl: "https://interestingengineering.com/health/artificial-intelligence-can-determine-racial-identity-from-medical-images"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,31 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study finds that artificial intelligence can determine race from medical images"
-    excerpt: "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,"
-    publishedDateTime: 2022-10-19T21:10:00Z
-    webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 57
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg"
-        width: 2880
-        height: 1338
-        isCached: true
-  - title: "What physical materials can learn from AI neural networks"
-    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
-    publishedDateTime: 2022-10-22T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
   - title: "AI Predicts Autism in Children from Medical Data"
     excerpt: "Approximately one in 100 children are diagnosed with autism spectrum disorder worldwide according to the “Global Prevalence of Autism: A Systematic Review Update” 2022 research funded by the Canadian Institutes of Health Research and Fonds de Recherche du Québec Santé."
     publishedDateTime: 2022-10-21T11:57:00Z
