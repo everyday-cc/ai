@@ -87,20 +87,6 @@ related:
         width: 740
         height: 696
         isCached: true
-  - title: "New AI converts Hoklo into English: Meta"
-    excerpt: "Meta Platforms on Wednesday said it has built an artificial intelligence (AI) system that translates Hoklo into English even though the Taiwanese language lacks a standard written form. The Silicon Valley tech titan that owns Facebook and Instagram billed the work at its Universal Speech Translator project as an effort to enable users from around the world to socialize regardless of the languages they speak."
-    publishedDateTime: 2022-10-20T16:00:00Z
-    webUrl: "https://www.taipeitimes.com/News/front/archives/2022/10/21/2003787449"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 39
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/10/21/P01-221021-004.jpg"
-        width: 647
-        height: 800
-        isCached: true
   - title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
     excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
     publishedDateTime: 2022-10-21T02:39:00Z

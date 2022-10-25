@@ -73,20 +73,6 @@ related:
         width: 1024
         height: 681
         isCached: true
-  - title: "Meta develops a new way for people to connect through language using AI"
-    excerpt: "The artificial intelligence speech translation system can decipher Hokkien, a spoken language, and hopes to one day translate other spoken languages."
-    publishedDateTime: 2022-10-20T15:36:00Z
-    webUrl: "https://interestingengineering.com/innovation/meta-develops-a-new-way-for-people-to-connect-through-language-using-ai"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 39
-    images:
-      - url: "https://images.interestingengineering.com/1200x675/2022/10/20/image/jpeg/DL7VxlzFE9xfFxJU2i2rec3Hi48RfJUzmeMInxHe.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "SewydZ9XZmszsNJbid7wFhqRP+sSUYv4pL8CP5xTv0ZbPaE7HrjjEbzVO40FdTKXUSjGs9hxH4OgQQYKFTPXd7PPTSgyyIbZ9EHPOil6lwfc/AWds4JgaDctmeUzqWGzZ/l/3X5PhrzC+XY2DTsRu2SDE2Hz9dpkSAxUj42DMLP0W3F3TcZrtB3BB5zg83LSw8Ju+97ZtDFiiUQt6H4Rv2tfsZ4Gn90PLHZcBN0XKTvIQvUugTeiqgAx6j9rBT1Pk/yhH/k2+RC+jG/IQNdy61de5gQaWQr2U07fAwsGkag3Rnz2zMhNpYlj/gzvCPXUVoTsECedrFudORO22krCr4GvtKWm7p20t2auLc20TxOC9GVgPe1yzdOv20jZu3Wvy3AJsE0epY5r2dOWLT6IP52Ccfw2q59yrZXRmhplt6hhd8sCcKyXo2Iq9G6NTtuAELA3JkWZBk5hVno52KgyTiiqcf7CpxPjbGVImExvg5qE+Hf05G9JHlH3dZwcDncA/Dc3Bn2aShBl2QExlvhqbQ==;6Z+04Gf6JggxTIS2q3sTfQ=="
 ---
