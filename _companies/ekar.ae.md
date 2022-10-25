@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "MyEKar"
   url: "https://twitter.com/MyEKar"
-  followers: 1036
+  followers: 1037
 
 size: 11-50 employees
 yearFounded: 2015
@@ -40,6 +40,6 @@ images:
     isCached: true
     title: "Ekar"
 
-secured: "NN/SBY3PDwduXzmzImKzlSz42hKhokzW2wjdsvU1lrU5BXz80v42kKcVld5V73FtQJ80eOdvnt4kRl/zLSYlQRdfZHSWEsXCLpgUZPb02oZ2cVBSJT8MoRqentbG0/17szudzX2AgeHv/MEJpklbpURZ+09IkKPVSE3ltaRBjC9nW6KCvw5qfjUziBD5LeZf9HWLNxCkcCOmzp99EnA3ysSxdB9Y8lucFAttjT1SD4pWQTVwXAsSOqCcMaSGsVMJ6622KmsKxsPSeMSLkYX+0GuMaNkd7Y3laZbIJyiUre46GsA2jQ6NDyaotpFUPSAUBH1NfsUlYzq/co1Tayv/kBU8dgMpNXyPVDSm6cmhFFQx6Re1V19/KIvplNHeF9x6WBy7/0HZgB5IF79ihnhjIOO1prkapHjsT+Lt2qP14EM=;UE1OZXWJSv5lNcLYyOFUeQ=="
+secured: "Rvxq0wZPPAa9wHdzRlObX1yq6m5PqWmFr42qWueyZKjIiQbo95BwO5p5/ECLJf+AEk9QEMNmePngOCm2N/CJHLHCGSE6n8ySDS85KzKaLtPvOKetIffQtUYAG4tv2Fckv8PCFbGTKkLVA0usTCyoqHSjM14BCtBPMWFrhq8m/ctlE7W2lYoO2WdszGHKKUHK9T+0G4P2afgtufPOoGkveZvixh2UkdzVJvsxrhsu942/uqZtSIiwY5OfJ9YcHFZZ4DKb1eRgxUb48tKgd8Aie3MGJk7Z7q6Q1EEFb7szFPIEThnVRy0zj757akYeudzlzClV0t4ekptO4JFCf4zz+JRq3g9YFlzoLVRxiEWIStfE0mraqlqaWzDXq4vJtYNJh0gmA+uxwiswY5eiDngSUJUXQi6ht0k9LHVJ+FMz6b0=;0l2gXlOqfBC9UARjmRxPhQ=="
 ---
 
