@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/25/ai-ethics-and-ai-law-wrestling-with-ai-longtermism-versus-the-here-and-now/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/25/ai-ethics-and-ai-law-wrestling-with-ai-longtermism-versus-the-here-and-now/"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: Forbes

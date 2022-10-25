@@ -2,6 +2,213 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-21-texas-ag-sues-google-over-its-facial-data-collection-practices-updated.md",
+      "title": "Texas AG sues Google over its facial data collection practices (Updated)",
+      "excerpt": "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents..",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "originalUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d",
+          "width": 5000,
+          "height": 2964,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
+      "publishedDateTime": "2022-10-20T18:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video.md",
+      "title": "This Week In XR: Stability AI Raises $101 Million, VITURE Raises $10 Million For Wearable Hi Def Video",
+      "excerpt": "Stability AI Raises $101M Stable Diffusion, a state of the art open source text-to-image AI program that generates images from text, announced a $101M seed round at Techcrunch Disrupt in San Francisco.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
+      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6351e8216ab4d7c1914360b0/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
+      "publishedDateTime": "2022-10-20T17:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
+      "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
+      "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot.md",
+      "title": "History Of AI In 33 Breakthroughs: The First AI-Driven Robot",
+      "excerpt": "This robot record was reached half a century after the development of SHAKEY, the world’s first “mobile intelligent robot.” According to the 2017 IEEE Milestone citation, it “could perceive its surroundings,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6351bc0c740210a739dbbaa4/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 864,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/",
+      "publishedDateTime": "2022-10-20T14:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-us-court-rules-once-again-that-ai-software-cant-hold-a-patent.md",
       "title": "US court rules, once again, that AI software can’t hold a patent",
       "excerpt": "The legal challenge came from Dr. Stephen Thaler, who filed two patent applications naming an AI program called \"DABUS\" as the inventor in 2019. The US Patent and Trademark Office (USPTO) denied the patents,",
@@ -926,6 +1133,40 @@
       ]
     },
     {
+      "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
+      "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
+      "excerpt": "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29335363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363",
+      "publishedDateTime": "2022-10-19T21:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
       "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
       "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
@@ -976,266 +1217,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
-      "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
-      "excerpt": "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-digital-transformation-with-google-cloud.md",
-      "title": "Digital transformation with Google Cloud",
-      "excerpt": "We’ve partnered with Google Cloud over the last few years to apply our AI research for making a positive impact on core solutions used by their customers. Here, we introduce a few of these projects, including optimising document understanding, enhancing the value of wind energy, and offering easier use",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "originalUrl": "https://www.deepmind.com/blog/digital-transformation-with-google-cloud",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/634fe232f87e0b7020f1c153_DM_GC_Hero.jpg",
-          "width": 3578,
-          "height": 1980,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-meta-ai-translator-can-figure-out-unwritten-languages.md",
-      "title": "Meta AI Translator Can Figure Out Unwritten Languages",
-      "excerpt": "Meta announced what it's calling the \"first AI-powered speech translation system for an unwritten language\" Wednesday, according to a blog post from the tech company. The system successfully translated the Taiwanese language Hokkien,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "originalUrl": "https://www.cnet.com/tech/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 299,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/7382493dce2d59cbbaf93757c5d4fda70ff56773/hub/2022/05/18/cb1d6bd0-d2ba-4f1b-a36a-d3a50a5ffeff/meta-logo-europe-2022-002.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-ai-translator-can-figure-out-unwritten-languages/",
-      "publishedDateTime": "2022-10-19T16:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition.md",
-      "title": "Aftermath Islands Metaverse replaces usernames and passwords with blockchain-based face recognition",
-      "excerpt": "Aftermath Islands Metaverse launched its Liquid Avatar app to replace usernames and passwords with proof of humanity. That means that you will be able to sign into its metaverse apps by using verified face recognition on your smartphone instead of using a normal login.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "originalUrl": "https://venturebeat.com/games/aftermath-islands-metaverse-replaces-usernames-and-passwords-with-blockchain-based-face-recognition/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Aftermath-Islands-Image-3.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028.md",
-      "title": "Self driving Bus Market Likely to Enjoy Promising Growth by 2028",
-      "excerpt": "India, Maharashtra, Pune The Latest research study released by HTF MI \"Self-driving Bus Market\" with 100+ pages of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

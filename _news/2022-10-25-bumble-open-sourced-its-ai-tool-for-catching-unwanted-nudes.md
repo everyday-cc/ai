@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 669
         isCached: true
+  - title: "Bumble Open-Sources AI That Flags Unsolicited Nudes"
+    excerpt: "Dating app Bumble has made an open-source version of its Private Detector AI feature, which flags unsolicited nude photos. When lewd images are shared in personal chats, the system blurs it and marks it as inappropriate;"
+    publishedDateTime: 2022-10-25T14:41:00Z
+    webUrl: "https://www.pcmag.com/news/bumble-open-sources-ai-that-flags-unsolicited-nudes"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00hJ1WA03s9WstWbcLxC3o7-1.fit_lim.size_1200x630.v1666702020.jpg"
+        width: 1120
+        height: 630
+        isCached: true
 
 secured: "an+fm5nWS0P9T3yWHGKCvYMBlmPKYtSjUO2YiJisJqsxDrZO8Hl3xfpAss4EGmb9BqBnZF48kFkw38tHYif4vDDhVrxpBnfbRz5snGVp4jRKyUcGqejBzxBIKF/9kNg7EZTX9kueEIFW2IRZ1WlleSnx2X8fGZkxyGMQr35TGlYvRhzuE8S8H0VhkPtJNpLT7bgDZ9IGm58zRVN3D7fwbKaCNRT2KRfHJ+rtTdbX2hwfwGUHl3aAVNu/i+YWdh23xwtw7CBDXXlL6Xbm8xU7CzAMRnWP8eVfl50TZrUnNc5SYZYwYRKxSiuRZDLzECniWfGB4Tm55JxzehylcEm/XDvkVyjl5Bd7s/PegpHHF8WKriof5DA+u8mQoSaBGee7zNewV4AcXdZRGSFz3N+TEqe0+kouENygufKAjhioarWASxhYe+Sh+EamgU8Gm9UkTKdZU4R4zBiFzqs7j5JcWO5VkJJIJHDzG9Cfd70L0CjJ61S21gkzwr/ttvtbvGaVha32BEYkJ66hIx0hzU46aQ==;rczT1c24ZaTxaQykYOiUpw=="
 ---

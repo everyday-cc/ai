@@ -29,19 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Enable CI/CD of multi-Region Amazon SageMaker endpoints"
-    excerpt: "Amazon SageMaker and SageMaker inference endpoints provide a capability of training and deploying your AI and machine learning (ML) workloads. With inference endpoints, you can deploy your models for real-time or batch inference. The endpoints support various types of ML models hosted using AWS Deep"
-    publishedDateTime: 2022-10-20T20:19:27Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/enable-ci-cd-of-multi-region-amazon-sagemaker-endpoints/"
+  - title: "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints"
+    excerpt: "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing"
+    publishedDateTime: 2022-10-25T15:45:28Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/"
     type: article
     provider:
       name: AWS
       domain: aws.amazon.com
-    quality: 89
+    quality: 116
     images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/07/Figure_1_Blog_latest-BLOG-Latest.jpg"
-        width: 1831
-        height: 861
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg"
+        width: 1540
+        height: 724
         isCached: true
 
 secured: "ilGSspFBwgo/PoH8ksYlt5zG8XDGjCT3CRgQGrU1d3wWd2DOefVj0pUVC8V9gm4NIzq0TDYRIODuEqR2qnj22M0EfWXJ0f5DRMd/H2ndym9Unz3mU0BQ/ynmfkK2TDILlJ9sSk/C3SBAi3uezHx/nXzsflvrUzvPOsqUH3tZ7EHs3nX9k6oVAFQGti7+UIpRSmH4IM3gzgUoCN6wbZ1+SBPeqRyC7WcPEJ5bEhp6PVyLcIOeZ7Qx9QMxhvRmGK7pPXlh5GK+IjZ86eS6jxxEggc/LaF+ArOBKRhjdB193Q/ijEKY6MFKbXs1aRGAQPgjSX79c6vRaIQmsjWMDXAE5qVR/tv2y3JqD7joRxCP6zY=;5q7YKXG4lFVvOirN3rnI1Q=="

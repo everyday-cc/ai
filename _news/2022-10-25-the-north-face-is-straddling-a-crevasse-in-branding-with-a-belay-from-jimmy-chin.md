@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T07:00:00Z
 originalUrl: "https://www.fastcompany.com/90796065/the-north-face-is-straddling-a-crevasse-in-branding-with-a-belay-from-jimmy-chin"
 webUrl: "https://www.fastcompany.com/90796065/the-north-face-is-straddling-a-crevasse-in-branding-with-a-belay-from-jimmy-chin"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Fast Company

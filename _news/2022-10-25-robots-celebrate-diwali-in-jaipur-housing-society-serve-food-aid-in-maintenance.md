@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:52:00Z
 originalUrl: "https://www.moneycontrol.com/news/business/robots-celebrate-diwali-in-jaipur-housing-society-serve-food-aid-in-maintenance-9391111.html"
 webUrl: "https://www.moneycontrol.com/news/business/robots-celebrate-diwali-in-jaipur-housing-society-serve-food-aid-in-maintenance-9391111.html"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: moneycontrol.com

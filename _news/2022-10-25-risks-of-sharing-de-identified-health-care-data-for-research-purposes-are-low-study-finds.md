@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T13:49:00Z
 originalUrl: "https://www.bidmc.org/about-bidmc/news/2022/10/low-risks-sharing-de-identified-health-care-data-research"
 webUrl: "https://www.bidmc.org/about-bidmc/news/2022/10/low-risks-sharing-de-identified-health-care-data-research"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Beth Israel Deaconess Medical Center

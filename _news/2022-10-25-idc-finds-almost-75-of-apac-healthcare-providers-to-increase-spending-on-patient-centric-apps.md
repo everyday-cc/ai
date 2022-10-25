@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T13:43:00Z
 originalUrl: "https://www.intelligentcio.com/apac/2022/10/25/idc-finds-almost-75-of-apac-healthcare-providers-to-increase-spending-on-patient-centric-apps/"
 webUrl: "https://www.intelligentcio.com/apac/2022/10/25/idc-finds-almost-75-of-apac-healthcare-providers-to-increase-spending-on-patient-centric-apps/"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: intelligentcio

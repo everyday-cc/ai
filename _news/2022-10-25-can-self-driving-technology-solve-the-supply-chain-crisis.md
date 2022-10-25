@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T13:20:00Z
 originalUrl: "https://venturebeat.com/ai/can-self-driving-technology-solve-the-supply-chain-crisis/"
 webUrl: "https://venturebeat.com/ai/can-self-driving-technology-solve-the-supply-chain-crisis/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

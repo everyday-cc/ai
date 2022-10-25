@@ -24,17 +24,6 @@ images:
     height: 1365
     isCached: true
 
-related:
-  - title: "FaceCheck launches API to bring face biometrics web searches to developers"
-    excerpt: "Developers will be able to integrate FaceCheck's search-by-face capabilities into their applications, portals, and websites."
-    publishedDateTime: 2022-10-20T19:11:00Z
-    webUrl: "https://www.biometricupdate.com/202210/facecheck-launches-api-to-bring-face-biometrics-web-searches-to-developers"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 2
-
 secured: "e1By2aQ9KVbBrrCCl4NYJMNuJkK1x/b/cefe17o18vxJI9wRPy2ZNPg1S7lmtO9SSGtSxjK869Onge9wFMFl/vMlFbB0pAL7g9zGKoYyspsDw/E/pg3XkkcbaNgT281r3Pb4D/TflkDut83MXn20b9UHS0t2YtUOnUY6plA9raGKc8TmkU8ndp5GRWcqIuOy0M+IeqFpSUazznFL04aCDSZK1OIRxsBols9Onn+DGF2J1zNuZpwIb+vN65Ax8OLzuTqPdHgxVLnG5YUrk09hxeYTwdnz07ZzUnEdckqbFsP/JLed01ZF1swq/w3UodIiJh0BE3sv++s0ixW6zCRrmpSLRZeKT1ly9rY/dZr+VMDO7EqhqpeoQCmRc78rnn3cg7vwoKAx6G/VG8Q3czOjryv5zYWHrAWwriHFbXCw2jXTRIl9lmbcTQR17d+sFmsrQOREi85sK0Dwa+BcD1dNEuYX9F64YCTIWcdDaPlVfrFFo1kNgBiN+KnUd6S8QI46+onpI+I2s/KQLDfwsEV9iQ==;hNfGktWAjckyMeNTzKOFaw=="
 ---
 

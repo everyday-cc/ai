@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/"
 type: article
 quality: 87
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/76136940-53d0-11ed-bfff-460d3959f00f"
         width: 1600
         height: 1000
+        isCached: true
+  - title: "Bumble Open-Sources AI That Flags Unsolicited Nudes"
+    excerpt: "Dating app Bumble has made an open-source version of its Private Detector AI feature, which flags unsolicited nude photos. When lewd images are shared in personal chats, the system blurs it and marks it as inappropriate;"
+    publishedDateTime: 2022-10-25T14:41:00Z
+    webUrl: "https://www.pcmag.com/news/bumble-open-sources-ai-that-flags-unsolicited-nudes"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/00hJ1WA03s9WstWbcLxC3o7-1.fit_lim.size_1200x630.v1666702020.jpg"
+        width: 1120
+        height: 630
         isCached: true
 
 secured: "nwP4OcxGkIM9uSg7XbVgB6+UpklZ79n+Mia17M1WngY1i5pchtx0qYLvFyoWLE9uQPc5D0SHHeg61lmpTl2+a9t64FfNj5HahW+gfOLDwQd9lyN37jNHmgzf+HTnf+qCxJYi69DLZJYe9zK1wgIdgEFdiQh//2/EBpNDEqkYODq9Fz3cmYodZLw1hFcRMateinL5gBrYfVF3lMKsKt/XDKN4oc9/QGqz7mC0t15IVLwuyuJjRGswBUlVnHQpceILoCCUqFWuE1Q7+aajnDQTfoK9oRvgdWR8BLd/Zlz3a/AYVI0id2qi7eJCn4VcEr1hP0tQ5fYtfcPYuivXS6KUXRDNGrStXzgmx5cjucPqq/YD2Sz9xJK3tHlbY5ZyM+XrTrjnW8XxfYVtuFZQlZu/8pi1tMBol9Hlf1ySttp5+CJB2w6N24p9K4V8mLf5tltAS6k4D7lBZi92kYEMcncbVB7vCiSwyGtPhC4M+YC4gwXSJ4TViAex9iyg2Zdwsr0Fahkc5efchD1qV64iazEX7Q==;xE5x6GyKDvr5oiY75uZE1Q=="

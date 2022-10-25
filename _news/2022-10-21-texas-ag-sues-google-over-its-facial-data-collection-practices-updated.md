@@ -9,7 +9,7 @@ ampWebUrl: "https://www.engadget.com/amp/texas-attorney-general-sues-google-over
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
 type: article
 quality: 73
-heat: 143
+heat: 113
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
-    excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
-    publishedDateTime: 2022-10-20T20:13:00Z
-    webUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/"
-    ampWebUrl: "https://nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/10/20/google-sued-by-texas-over-invasive-collection-of-voice-and-face-data/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 46
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/10/ken-paxton-texas-google-comp.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Texas sues Google over biometric recognition features"
     excerpt: "The US state of Texas filed a lawsuit against Google on Thursday, accusing the internet giant of harvesting large amounts of biometric data from people without their explicit consent, a claim rejected by the California-based company."
     publishedDateTime: 2022-10-21T07:26:00Z
@@ -79,22 +63,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
-    excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
-    publishedDateTime: 2022-10-20T20:37:00Z
-    webUrl: "https://www.cbsnews.com/dfw/news/google-texas-biometric-data-privacy/"
-    ampWebUrl: "https://www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/dfw/news/google-texas-biometric-data-privacy/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 36
-    images:
-      - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/08/25/c08797e6-92d5-42ab-86bd-37e36a6182d6/thumbnail/1200x630/d1f04b58460b09aadaa48e2621bf3cb4/ap22230562450138.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
     excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
     publishedDateTime: 2022-10-21T14:16:00Z
@@ -110,20 +78,6 @@ related:
       - url: "https://twt-thumbs.washtimes.com/media/image/2022/07/26/alphabet_results_53861_c0-83-4602-2767_s1200x700.jpg?0bd0a03674786f7871575d8d2bb34e26c153d45b"
         width: 1200
         height: 700
-        isCached: true
-  - title: "Texas AG sues Google over collection of facial and vocal recognition data"
-    excerpt: "Texas Attorney General Ken Paxton Thursday sued Google for allegedly collecting biometric data on millions of Texans without their informed consent. Paxton cited Texas' Capture or Use of Biometric"
-    publishedDateTime: 2022-10-20T19:45:00Z
-    webUrl: "https://www.jurist.org/news/2022/10/texas-ag-sues-google-over-collection-of-facial-and-vocal-recognition-data/"
-    type: article
-    provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 25
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/01/google_1641490235.png"
-        width: 1280
-        height: 800
         isCached: true
   - title: "Texas sues Google over ‘indiscriminate’ collection of facial recognition data"
     excerpt: "The search engine has also recently received a $160m (£140m) fine from India's anti-trust watchdog for abusing its position in the local smartphone market."

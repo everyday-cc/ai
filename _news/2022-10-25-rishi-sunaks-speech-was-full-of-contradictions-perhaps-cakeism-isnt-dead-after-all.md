@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:44:00Z
 originalUrl: "https://inews.co.uk/opinion/rishi-sunak-speech-contradictions-cakeism-isnt-dead-1932514"
 webUrl: "https://inews.co.uk/opinion/rishi-sunak-speech-contradictions-cakeism-isnt-dead-1932514"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: i

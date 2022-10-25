@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-24T13:00:00Z
 originalUrl: "https://www.nextplatform.com/2022/10/24/how-do-you-meet-the-bandwidth-demands-of-hpc-and-ai-system-architectures/"
 webUrl: "https://www.nextplatform.com/2022/10/24/how-do-you-meet-the-bandwidth-demands-of-hpc-and-ai-system-architectures/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: The Next Platform

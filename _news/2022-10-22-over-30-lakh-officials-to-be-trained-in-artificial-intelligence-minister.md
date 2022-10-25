@@ -8,8 +8,8 @@ webUrl: "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in
 ampWebUrl: "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1"
 type: article
-quality: 71
-heat: 101
+quality: 73
+heat: 103
 published: true
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://c.ndtvimg.com/2022-08/6uvni4e_jitendra-singh-650-_625x300_21_August_22.jpg"

@@ -1,72 +1,22 @@
 ---
 category: news
 title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
-publishedDateTime: 2022-10-20T04:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
-webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
+excerpt: "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ..."
+publishedDateTime: 2022-10-20T04:12:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
 type: article
-quality: 90
-heat: 120
-published: true
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-related:
-  - title: "Microsoft’s new AI art generator will spark your imagination"
-    excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
-    publishedDateTime: 2022-10-20T17:44:00Z
-    webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/10/Microsoft-Image-Creator-dog-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 684
-        isCached: true
-  - title: "Microsoft taps NZ firm to improve Māori translation"
-    excerpt: "Efforts to improve the reach of Māori language communications will benefit from a new partnership between Microsoft and Auckland-based AI translation pioneer Straker Translations, which will facilitate large-scale publication of Māori news and other content."
-    publishedDateTime: 2022-10-20T01:11:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/microsoft-taps-nz-firm-to-improve-mori-translation.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 41
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/maori%20language%20translation.jpg"
-        width: 999
-        height: 562
-        isCached: true
-  - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
-    excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
-    publishedDateTime: 2022-10-21T19:13:00Z
-    webUrl: "https://siliconangle.com/2022/10/21/openai-reportedly-advanced-talks-raise-funding-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
-
-secured: "yOJA40lQpGpu4bp1D/Fy/OsmnBQtVquFHDdZRqbDDo8VIAJuOLF0OsDNpcV11B+wtXcKpYEpg86TbFrYpBXMybr1mWSJEa1wwoRCHW50punwfyI6bFOlTmbZ5BCKDNt4FeMjgjC/flbHK9kuIpCCshmIf48L/X6SX5NtOOVWjlE34uj2OPjnwe3pjw9DQTYh6mGkNY+8FXBoN/59dJ4YmOpCcXhkqSZjBl5UV4SzkbRI0ku9ZkZhErnfytGVNk5Jr6QWk3WRO6llR2LHF++7LWssRxTyo5JyGYZJ2aND7TgYFoQ0CrEoAYaCJ+bj8/udgVlWHXmsmpz5D8wlaGT6FaiG9B4nr2fa5HxucuAkhwQ=;wu1SNAAc7jiWS3WC95nqEA=="
+secured: "/F53L/RDq+S2iMTd+FR5AdCUSagsSkV5fDLehmwUDesKMRe3YFERPjRMXyMf8gEJftEY/4LqI0CoSTsubc+ATxG0GJ4kK8SabnInfP0x4wpJBMwOZ5W4IKXhVxM7Q33mnCFOltO1gsqt1ZZ9WFFf2kBKger4W2gUICKvQ+kfdkam9ul5d/c5kdtHpowiZKPYPh4Onzz5NHtbWJGhOD4MXm3eiq3kEHehV9wyxxKbBPZYc8cvWysIQ9ld1n8s4DrTqDKtYmjv1Lzt+mEn3rTGopPaNr37dolrqdNd/RT3u5qW0eho/hLv5YkwCJOPugjFZGNxJLy7Va1wT9ibSbI6YXvkc/gQwOhuZjeInhG2qkA=;d71PXZcnXC/tzaFl4i7XCg=="
 ---
 

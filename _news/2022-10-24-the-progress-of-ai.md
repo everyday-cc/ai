@@ -25,66 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "History Of AI In 33 Breakthroughs: The First AI-Driven Robot"
-    excerpt: "This robot record was reached half a century after the development of SHAKEY, the world’s first “mobile intelligent robot.” According to the 2017 IEEE Milestone citation, it “could perceive its surroundings,"
-    publishedDateTime: 2022-10-20T21:37:00Z
-    webUrl: "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/"
-    ampWebUrl: "https://www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/20/history-of-ai-in-33-breakthroughs-the-first-ai-driven-robot/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6351bc0c740210a739dbbaa4/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "How AI can help in the fight against breast cancer"
-    excerpt: "In 2020, there were 2.3 million people diagnosed with breast cancer and 685,000 deaths globally. Early cancer detection is key to better health outcomes. But screenings are work intensive, and patients often find getting mammogramsand waiting for results stressful.In response to these challenges, Google"
-    publishedDateTime: 2022-10-21T17:00:00Z
-    webUrl: "https://blog.google/technology/health/how-ai-can-help-in-the-fight-against-breast-cancer/"
-    type: article
-    provider:
-      name: Google
-      domain: blog.google
-    quality: 89
-    images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mammo_Image_2.max-1300x1300.jpg"
-        width: 1300
-        height: 633
-        isCached: true
-  - title: "The Value Of Artificial Intelligence Isn’t Just Insights"
-    excerpt: "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,"
-    publishedDateTime: 2022-10-25T04:13:00Z
-    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/"
-    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
+  - title: "Dall·E Mini And The Future Of Artificial Intelligence Art"
+    excerpt: "With many companies investing in artificial intelligence, it’s no surprise that there are AI-powered graphic generators that can create original works of art. Dall-E 2 is particularly good at making photorealistic images from text prompts."
+    publishedDateTime: 2022-10-21T17:03:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/"
+    ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
     quality: 87
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200"
-        width: 933
-        height: 622
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6352ceae4b01a4d84be382e7/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Workshop on the Ethics of Artificial Intelligence"
-    excerpt: "A select group of philosophers recently gathered to discuss the ethics of artificial intelligence. The PRIO project \"Warring with Machines\" co-organized (with the Technology Ethics Center at the University of Notre Dame) this workshop in Rome,"
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://www.prio.org/news/2979"
+  - title: "These artists found out their work was used to train AI. Now they’re furious"
+    excerpt: "In just months, millions of people have flocked to text-to-image AI systems and they are already being used to create experimental films, magazine covers and images to illustrate news stories. An image generated with an AI system called Midjourney recently won an art competition at the Colorado State Fair,"
+    publishedDateTime: 2022-10-21T13:06:00Z
+    webUrl: "https://edition.cnn.com/2022/10/21/tech/artists-ai-images/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
     type: article
     provider:
-      name: prio.org
-      domain: prio.org
-    quality: 54
+      name: CNN
+      domain: cnn.com
+    quality: 84
     images:
-      - url: "https://cdn.cloud.prio.org/images/3bfc6ba0afcd49e0bf5e710b5b7d0090.jpg"
-        width: 2016
-        height: 1512
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220923162646-erin-hanson-artwork-super-tease.jpeg"
+        width: 1100
+        height: 619
         isCached: true
+  - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
+    excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."
+    publishedDateTime: 2022-10-21T17:30:00Z
+    webUrl: "https://omaha.com/business/investment/personal-finance/self-driving-trucks-ai-and-the-difficulty-of-forecasting-the-future-of-trucking/collection_fd16df08-0265-55c7-980f-420e24f50739.html"
+    type: article
+    provider:
+      name: Omaha.com
+      domain: omaha.com
+    quality: 14
 
 secured: "J/QxbRdPyJokpwRT5Sm/f+pxX2QaZIwbhezPXQwTCEaEIQBa9rqT3Buu/wVBuO8/IsvRhAzHyT0oqRlczqWrd0Ym1Ty1UofiOT9cFD8BX3q8ciZ3tVIuduLQtuIBJ5bHLxOsP6PORoGIGzflCfuAZh3qQjBWT35DpwgObZ87mcwtq4B2dedER3IFThNZqQITABlQsIoCty2Zh7efofhWV2k/vFu2XSNkYTQJEqHCG+VmEXzcBVm+byttNqFwUDqgRgYFN/qgfIlea5qw6kgSRR+xPyHjyqpU1ieiQx7JAysVmyE9dgTFZAuoVGOecIgHH029TVW5Kg0B+meBAuerV5L34uO58Ph4s4wLY0B+dws=;QrzfMiwUAV2DtV4m82vcxw=="
 ---

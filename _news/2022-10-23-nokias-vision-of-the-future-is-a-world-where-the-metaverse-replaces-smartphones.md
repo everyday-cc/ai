@@ -43,22 +43,6 @@ related:
         width: 1222
         height: 1091
         isCached: true
-  - title: "Nokia's vision of the future is a world where the metaverse replaces smartphones"
-    excerpt: "The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade, replacing smartphones as the primary form of communication. \"Our be"
-    publishedDateTime: 2022-10-20T20:59:00Z
-    webUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-nokia-vision-future-world-metaverse.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 39
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/nokia.jpg"
-        width: 1152
-        height: 1920
-        isCached: true
   - title: "Chip Challenges In The Metaverse"
     excerpt: "Thermal and performance needs will require complex architectures and technology changes, not all of which are available today."
     publishedDateTime: 2022-10-23T07:04:00Z

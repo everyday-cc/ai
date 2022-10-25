@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T13:00:00Z
 originalUrl: "https://siliconangle.com/2022/10/25/new-hiddenlayer-platform-provides-protection-machine-learning-models/"
 webUrl: "https://siliconangle.com/2022/10/25/new-hiddenlayer-platform-provides-protection-machine-learning-models/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: SiliconANGLE

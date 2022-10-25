@@ -36,7 +36,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 71
+    quality: 73
     images:
       - url: "https://c.ndtvimg.com/2022-08/6uvni4e_jitendra-singh-650-_625x300_21_August_22.jpg"
         width: 650

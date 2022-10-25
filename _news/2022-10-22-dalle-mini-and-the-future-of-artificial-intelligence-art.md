@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-futur
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220923162646-erin-hanson-artwork-super-tease.jpeg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "The progress of AI"
+    excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."
+    publishedDateTime: 2022-10-24T16:09:00Z
+    webUrl: "https://businessmirror.com.ph/2022/10/25/the-progress-of-ai/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/Column-box-Integrity-Initiative2.jpg"
+        width: 1400
+        height: 735
         isCached: true
   - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
     excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."

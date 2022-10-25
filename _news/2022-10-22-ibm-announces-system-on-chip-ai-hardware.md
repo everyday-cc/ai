@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardwar
 webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -36,6 +36,20 @@ related:
       - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/IBM-announces-system-on-chip-AI-hardware.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "IBM Gives Partners Access To Three New AI Libraries"
+    excerpt: "The libraries, meanwhile, give partners access to the same AI libraries that power IBM Watson products, according to IBM. Developers and IT teams can embed the new libraries into their applications and make custom products without data science expertise ..."
+    publishedDateTime: 2022-10-25T15:32:00Z
+    webUrl: "https://www.crn.com/news/software/ibm-gives-partners-access-to-three-new-ai-libraries"
+    type: article
+    provider:
+      name: CRN
+      domain: crn.com
+    quality: 39
+    images:
+      - url: "https://www.crn.com/resources/027a-16459e5cacd1-673ab6a81427-1000/ibm-campus-1.jpg"
+        width: 1496
+        height: 1124
         isCached: true
 
 secured: "kIiCqZrsU7aNXBeyQGQxm/jsUkE71AtQ5lFmd+esdKbZ1Impq2OQQuGsJtAFUmCD7gohlwu3MtZw1eBEfqJLTv+RqzB9XYYk3IkNFhBKs25zqL5GwcV7O2LMK/QwtEc9xd7iDIGvLpauhjrGAnG5sPK32gqHuCTzTr8FIMN1Uc666HDX983NfOqah3kfwhLClv+4xW5EvBmxmXxiYemdfDeCTWxYMgkH+NErPItntmdon5Jqo725hlBzX6xgFA1FB4Grs7eIyXkMXHvDB6mQGPxO5+bKjnnaqeXZDVpb4DbvMcQ7B1hqakyUDr50uVA/S4anpq1ycLEWmWH/AoAYexq/1N85gKTi7JHflvb9MJtB1YtaP4uWwEEC0T3EJCZW+vTtJBl20k6C3GGBQeu3/6ueAWavfmFRSnnjN1/CTtZ8ByKnPNrXYdqnWBlzP3Y8WVIfJbvmJXLpHj9Rnaqr/+wVTpNN0btbrmGt5MIGRiTfX5E4T90xFY9LenTv2zItM8KF0dNpdwh7fR5qHKWJXQ==;DEftduC1ba+g2E2wlKEvfQ=="

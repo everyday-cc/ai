@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
 webUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
 type: article
+quality: 58
+heat: 68
+published: false
 
 provider:
   name: VentureBeat
@@ -18,6 +21,17 @@ provider:
 topics:
   - IBM AI
   - AI
+
+related:
+  - title: "IBM Expands Its Embeddable AI Software Portfolio"
+    excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
+    publishedDateTime: 2022-10-25T14:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-its-embeddable-ai-software-portfolio/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
 secured: "chrIOg9wCxT6hXzQbhhd6G5CTuyqYKmGI7QMQBgU0mbRg1Eb3d6bhRC3hzWGzNmvxmouYmriZOA/XzFqMRT650VkOLZ0qT/QZ5wNn1I+Fx8qBK8o9fmG7nyGa6hj0J/UKhfTgE+s/iZ8rwv+11SzJXrsVwfvGzJ+NJtWDsYZ4dHy20VKtFNBF9ALVSRL30rbKlP3KgcapSEPzAEBQWfUbR27kyHgMZ4n80vzbwR4mzkW2RgroKrF5SFyWXDwJcfy1PDXudvvK1gPBbmBetpXo1xGgEDhSx5cWhocSsHP1N63LTaHLD4NtM8a5HJt4Y2MUIG85X2mLnrL+AdHmwY4MCXV9/XeA+ApsRBF3Z1Xa/gF0Q2vy++RP5IxU13AdZ3Sxl26r+J4p6SyrcAGUwgYTqQEjZ0Ma6MMzy6C4jaU+Yv0Bz8nYsTYcYGwX+m/49mtdpjUx8N0bs16Tz2Xzd6kqPkfxiWh7whqcS2EpYp2iopNZ5MVX+kST/ahNWAZJxY9KOmIsmCRnoEV0sIVVIZGSQ==;QvClRwiscNAWVOfAMwYMyA=="
 ---
