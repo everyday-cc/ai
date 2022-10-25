@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T16:16:30Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/configure-dtmf-slots-and-ordered-retry-prompts-with-amazon-lex/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/configure-dtmf-slots-and-ordered-retry-prompts-with-amazon-lex/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: AWS

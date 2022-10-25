@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T18:26:00Z
 originalUrl: "https://www.israelnationalnews.com/news/361690"
 webUrl: "https://www.israelnationalnews.com/news/361690"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Arutz Sheva

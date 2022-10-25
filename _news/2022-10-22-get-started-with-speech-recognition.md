@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-22T00:00:00Z
 originalUrl: "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/"
 webUrl: "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/"
 type: article
+quality: 19
+heat: -1
+published: false
 
 provider:
   name: Hackaday
@@ -14,6 +17,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Word and face recognition can be adequately supported with half a brain, study finds"
+    excerpt: "Astoundingly, the single remaining hemisphere supported both of those functions. The capacity for word and face recognition between control subjects and people with hemispherectomies differed, but the differences were less than 10%, and the average ..."
+    publishedDateTime: 2022-10-25T20:03:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-brain.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 67
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/word-and-face-recognit.jpg"
+        width: 1000
+        height: 1000
+        isCached: true
 
 secured: "q/awel3GGP5kdqwatNpGI+iD7neytmvAeDTa4qobnKqBUfk0Qk1YS2mogYouRZHSNa4L44Yi7ceekDu/zPYGlHF7dQLoG9J5HwNqOGNULKgp+5KyX4kB4Gdji/wKUmhQTXtuJBhI8BXMZk+FdzIYuJtjm941rKdjIi75HIQRVRR8U0xRWRE4kbGFizfhKkj/hunbFYHqYj/atLwU6KPunhbfumE5+ZiTubeuy+l77L0VqAR/kBGkkcoyjY+K93oXs4PAM5fZLiwxYJODKjhXZYjx0ZlibXwLPgQBi6i8JAPTFL1dgYCGMyV80Tye3+6svUd8Hw4f+4cuZIxc+Err1DSZUrX18fl5YFbfjDKe4so=;HIp1sw/pyIiS5SfbrRUXbw=="
 ---

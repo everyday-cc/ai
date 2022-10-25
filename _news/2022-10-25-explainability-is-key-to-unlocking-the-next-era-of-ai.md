@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/25/explainability-is-key-to-unlocking-the-next-era-of-ai/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/25/explainability-is-key-to-unlocking-the-next-era-of-ai/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

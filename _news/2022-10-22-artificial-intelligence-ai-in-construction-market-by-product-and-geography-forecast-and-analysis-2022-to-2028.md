@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
 type: article
 quality: 60
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -26,6 +26,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Voice Recognition Software Market Size from 2022 to 2028"
+    excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
+    publishedDateTime: 2022-10-25T01:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-from-2022-to-2028-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "DlCHSQ+gwMpnIoQrUuFwTMXasz8y8gqGmO+hhB6DBA2MD4g+s7r7UDe0cLMwfyVsGS7L+40TvehGj8pt0mtC24wAutrZaE39M/M4WkEcDWJ/YVeuSxhelu1ZCRlmep7fPBKiPs7YhXosXxKC47E0F1+0a/b34zQ7Ax6InAVMNq2EoSgQKt04NltngXAv+HRSQgVxgABBKtrG7JnMA6uo9uEjChBzRBzWFGhWt1P6a+RdDb+ApDHHsSPq7/wGKdoE04Xs3chnSJ9TlVdjUab0C24/o3NeTyQlQgEmvryJk8pzgNmz3LdsOMuLrO1Lui2tNGVTKM6e6ZINVgUR5ygj7bdY/SKKEyosXXFY0fgTzx8NbzoaVKr7ztnPNYrIjuKfKCj8xAJLDeXg+UUwO1tv9/SDiv8bcuXD4TNLflbA5QduHRw9ypulfn73sgXX9GMHvRthThsdpJP7jbPP+ELL/T8ly6sTmNfEGIB1fuxz5NgYwZyyOEqPZw4M8Z3sydcN/k1PnJH0rX2f5hA5Ju4CFA==;Wfm9VRk32MBt4P7ZCMFZwA=="
 ---

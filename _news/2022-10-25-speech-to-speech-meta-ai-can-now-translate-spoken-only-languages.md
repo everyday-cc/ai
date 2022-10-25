@@ -41,6 +41,38 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Meta develops AI translation system for a primarily spoken language"
+    excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
+    publishedDateTime: 2022-10-21T09:05:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 59
+    images:
+      - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
+        width: 1200
+        height: 667
+        isCached: true
+  - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
+    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
+    publishedDateTime: 2022-10-22T09:31:00Z
+    webUrl: "https://koreatimes.co.kr/www/nation/2022/10/672_338368.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=338368"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 48
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202210/162359a676a54ab9b28848350075271f.jpg/dims/resize/740/optimize"
+        width: 740
+        height: 696
+        isCached: true
   - title: "How AI could help translate extreme weather alerts"
     excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
     publishedDateTime: 2022-10-21T12:30:00Z

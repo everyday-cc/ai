@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T19:50:13Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: AWS

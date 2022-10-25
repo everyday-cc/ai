@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
+    excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."
+    publishedDateTime: 2022-10-25T19:58:00Z
+    webUrl: "https://interestingengineering.com/innovation/shutterstock-collaborates-with-openai-to-start-selling-ai-generated-art"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 17
 
 secured: "HC+g8P9sHvjjezPFjkw+jNb8H/4oYusrB/vAl6W/m/VzFz8/25oaBu67COvCLXiHD178gawZL8zsvcUcfV4RNYvVABtzCjSoDs6cXZ7l+57Oafwb6Rrqn2bv49xz5O1/H0Tn9ZlfNTGOzWLEW4LGh9VZFuOc34xltN4QqbFYRnAu4L1KcGITAEvph5etF4jHe76rBusdxFriHa2M5Y/EwWrh10ihLsQPHZb4NqxDwy9PLjZ/iXz3z9iPWtHISculjFEYYNGi5zXg5Bsj5Ei5E3n7jnmwqd771SzCtjGLcIAm5IRf5YEYlFjKNpKaSHfi25nfx0oZ8yLnkeJ7wDKs7B1YMUrRQA5jqbhc/SBMfEqL/ITGmV387TYtu8cCkGS/HLop9g7YHOED9VeB1ieY5NsB9plOvfRUK/Efzj5NUSGjK9oC47xN8FX9y3MOVpbveSpEuJIlpm6qzjWulHZMJrZxexQXEvqxD1OXvy8PTcuTlRFU5eG9IfP3vQl7vb34OXuFhGAdS7CZL8OyoK8nfw==;f3fVGcalRk1Uu/eUincseQ=="
 ---

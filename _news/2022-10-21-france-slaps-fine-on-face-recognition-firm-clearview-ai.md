@@ -69,22 +69,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "New European Political Party Is Led by an Artificial Intelligence"
-    excerpt: "Introducing: The Synthetic Party, a new political party in Denmark that hopes to soon have a parliament seat. Oh, and by the way, its head honcho, Leader Lars, is actually an AI chatbot, and all ..."
-    publishedDateTime: 2022-10-21T02:11:00Z
-    webUrl: "https://futurism.com/political-party-led-by-artificial-intelligence"
-    ampWebUrl: "https://futurism.com/political-party-led-by-artificial-intelligence?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/political-party-led-by-artificial-intelligence?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 59
-    images:
-      - url: "https://wp-assets.futurism.com/2022/10/political-party-led-by-artificial-intelligence-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws. France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws,"
     publishedDateTime: 2022-10-21T19:01:00Z

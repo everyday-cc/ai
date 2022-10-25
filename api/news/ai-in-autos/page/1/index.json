@@ -97,51 +97,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-21-how-artificial-intelligence-is-branching-out-into-politics.md",
-      "title": "How artificial intelligence is branching out into politics",
-      "excerpt": "Leader Lars of the Synthetic Party in Denmark, robot artist Ai-Da, and chatbot Alisa are some of the recent examples of new technologies making their mark on",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
-      "originalUrl": "https://www.forbesindia.com/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.forbesindia.com/media/images/2022/Oct/img_196439_robotsinpolitics.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
-      "cdnAmpWebUrl": "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1",
-      "publishedDateTime": "2022-10-21T00:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes India",
-        "domain": "forbesindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
-      ]
-    },
-    {
       "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
       "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
       "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
@@ -1407,6 +1362,58 @@
         "AI in Autos",
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-animated-googly-eyes-could-make-autonomous-cars-safer-for-pedestrians.md",
+      "title": "Animated Googly Eyes Could Make Autonomous Cars Safer For Pedestrians",
+      "excerpt": "No matter how many cameras or sensors they use, autonomous cars will never be perfect, but research coming out of Japan suggests that a simple upgrade could help reduce the risk of self-driving ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126",
+      "originalUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/d452f96448e325303ffdbfc29fcfa863.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/self-driving-cars-autonomous-vehicles-googly-eyes-study-1849643126/amp",
+      "publishedDateTime": "2022-10-12T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     }
   ],

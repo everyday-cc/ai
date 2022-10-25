@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T19:04:00Z
 originalUrl: "https://thedailyrecord.com/2022/10/25/lawyers-had-no-duty-to-object-before-csi-effect-ruling-md-high-court-says/"
 webUrl: "https://thedailyrecord.com/2022/10/25/lawyers-had-no-duty-to-object-before-csi-effect-ruling-md-high-court-says/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Daily Record (Maryland)

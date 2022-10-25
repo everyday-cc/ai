@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T18:30:00Z
 originalUrl: "https://www.tctmd.com/news/novel-machine-learning-score-can-predict-ffr-defined-ischemia-better-visual-stenosis"
 webUrl: "https://www.tctmd.com/news/novel-machine-learning-score-can-predict-ffr-defined-ischemia-better-visual-stenosis"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TCTMD

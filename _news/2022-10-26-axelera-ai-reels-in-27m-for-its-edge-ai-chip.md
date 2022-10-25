@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T17:55:00Z
 originalUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
 webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
 type: article
+quality: 56
+heat: 76
+published: true
 
 provider:
   name: SiliconANGLE
@@ -14,7 +17,39 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - AI in Robotics
 
-secured: "NY7MlbmiDLYAVc2IhW2plWzEZg1jAPGRZiXfXZdsZSdYtJNVc8d9K+TZhaLalAVG6ZZ+h23prJ5e79rhCVW9da9RgNRXa/tZN7vfhZApz5Rr8yec4vOPpYEVAQvOmihthSAKQhq7xfRuVByKTDAjif3mTafva46ZyGVK+/sY4GpKQA6lv9mMafKMmLLkWanax441jdsooXem8QvxBmFZ+W6FC4b4uInR4iiqMKMQmVAKuxM6PhlckSQyRSI9/LZhs66wkZWTBNy7cnaW+0emKkypnzTShG0DGRABwM1HVx7BoSLjnUINBM4TI3Fle9ITRo9oTxMqKMdzlmivL/ahLmOodfQ1D1StJ9gbB7ainaYFuU+2ZofFLXSWmk04TadeQrcX9VupT/hzsrnbF5I6RG4JZ5EXb36cMRMxX87LlKemmt6/3iyEZubdqg571AaEFXfHU28LO3UZDDy/wbqojal2mBA7U496AEaJV/r+gsbc9xvnngQtceZhESFe44AMek0JoGZC2Wp1Pt2KoKyIJA==;C85QuCTNueueIR3QYZR4Dg=="
+images:
+  - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
+    width: 800
+    height: 498
+    isCached: true
+
+related:
+  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
+    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
+    publishedDateTime: 2022-10-25T15:26:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
+  - title: "European Startup Axelera AI Closes $27M Series A"
+    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
+    publishedDateTime: 2022-10-25T21:39:00Z
+    webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
+
+secured: "kVAWa+KfYxU9FFoqGMV3Aphgi+fqxQS4pHJSaG9ckvfx8ZuUuC87CT0tlyNmQkX7/BTiJmxxj9WabBWym42a79FChNmFfzlovEx8F6do0rCiqB9vSad7cPEg1dw5GioDQ3vDslsN3YEOeC0Uu3RSJdpAHrgbPdYoL1Lap7bL0DL4O85adMnvyNzbTTsAwc0nk3X+7Kn72HZtzvZntqAlt++m3MVtoFG9E/8Oq3FdmM+4JEqdiYZa2NpnHVXOlkOQMQBUJjRUQFowQuXjT6K1k62Lx/n/ds7Ax1LFjUZORuqMc+xAOOxWmMkiDP65htbbUynNHuxHusdudoLaj3zKUt0xD4DaQ01Enmur8b9XpDE=;KuzOtZwyNOTwcGJ8V4Y5GA=="
 ---
 

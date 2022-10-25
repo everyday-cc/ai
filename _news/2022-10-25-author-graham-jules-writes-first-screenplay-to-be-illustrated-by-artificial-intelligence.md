@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T10:56:00Z
 originalUrl: "https://www.mankatofreepress.com/news/state_national_news/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_bdda0b95-b070-508d-9dc4-c65b27c0312d.html"
 webUrl: "https://www.mankatofreepress.com/news/state_national_news/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_bdda0b95-b070-508d-9dc4-c65b27c0312d.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Mankato Free Press

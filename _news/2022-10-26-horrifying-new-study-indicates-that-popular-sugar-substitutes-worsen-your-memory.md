@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T19:02:00Z
 originalUrl: "https://scitechdaily.com/horrifying-new-study-indicates-that-popular-sugar-substitutes-worsen-your-memory/"
 webUrl: "https://scitechdaily.com/horrifying-new-study-indicates-that-popular-sugar-substitutes-worsen-your-memory/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: SciTech Daily

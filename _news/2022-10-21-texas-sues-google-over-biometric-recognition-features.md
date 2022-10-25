@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-texas-sues-google-biometric-reco
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-texas-sues-google-biometric-recognition.amp"
 type: article
 quality: 46
-heat: -1
+heat: 46
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas AG sues Google over its facial data collection practices (Updated)"
-    excerpt: "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents.."
-    publishedDateTime: 2022-10-21T01:29:00Z
-    webUrl: "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
-    ampWebUrl: "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
-    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 73
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d"
-        width: 5000
-        height: 2964
-        isCached: true
   - title: "US: Google faces Texas lawsuit over biometric recognition features"
     excerpt: "Without clear federal guidelines addressing how user data can be collected and used, several American states have passed their own rules"
     publishedDateTime: 2022-10-21T06:12:00Z
@@ -59,6 +43,22 @@ related:
       - url: "https://image.khaleejtimes.com?uuid=690a6a28-99a4-5132-bb0e-01a6b0013f64&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82569&width=1200&height=675&x=1.0E-5&y=0.17431"
         width: 1200
         height: 675
+        isCached: true
+  - title: "New York Study of Biometric Tech in Schools Nears Completion"
+    excerpt: "Two years after Lockport City School District's use of facial recognition-capable cameras triggered controversy, a recent hearing gave critics and proponents a chance to speak up while the state prepares a report."
+    publishedDateTime: 2022-10-21T23:05:00Z
+    webUrl: "https://www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion"
+    ampWebUrl: "https://www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/new-york-study-of-biometric-tech-in-schools-nears-completion?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 44
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b5aca1c/2147483647/strip/true/crop/1057x551+0+39/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F20%2Fc8c9ecc117d83943478f4f43b22f%2Fshutterstock-617755883.jpg"
+        width: 840
+        height: 438
         isCached: true
   - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
     excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
@@ -85,6 +85,20 @@ related:
       name: IET
       domain: theiet.org
     quality: 18
+  - title: "India’s IT Ministry mulls face biometrics age verification for games to protect children"
+    excerpt: "MeitY recommends that online gaming companies use facial recognition technologies to reduce harms to children playing online."
+    publishedDateTime: 2022-10-24T19:01:00Z
+    webUrl: "https://www.biometricupdate.com/202210/indias-it-ministry-mulls-face-biometrics-age-verification-for-games-to-protect-children"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 15
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/25135626/online-age-verification-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
 
 secured: "Lsx+hnYEFLi4+WbhCRkMuEyV/3/SA/XLHXnc20/3Cbmo+5EvMyy9anxYWG/BJVtbxhljKGY2qB4RGlV6q5tYUCAf+8rCEQKrjzYEICpoqkAIr//oSBV44spwc0oibOh13OW+gpTQwT71crdMqIEOvKssCY83cIvYP19JefwPibzmYrYME123KYIX9i8QCoXrzpYJ0Q2NlajtIe7IVdaN7js5BWwL9/ljCfIpdtJ+6Po5DoEvbiGRRdgbeHu3KJs0DomTvSt1SPZ+lvlr/iyN/+KYdU2lw7EhWqXKpihJPkoOazn5kqsh54MnfU7P+CMooY/mHDYarrJ/XW/xAg52pcsp9TQum2qbbjR5IUK/KCimwm/BTGrBxNQGSV5/dnch7oh1XX8lN1/Lzc0EJbEGlsdjZXNJJpqZCyxA8o8dhc95E5cJ5+FvVKFPfU4w0koDbQRCnyxG6ma9Kx8Srzk97rKmSZiN8Wj76JIkiCqHsDxlQWQSxQysF6ces7VGSnFa7koATWhUcfzU46mBaBWZug==;hHfVPKctkoFrdWmw+OFiQA=="
 ---

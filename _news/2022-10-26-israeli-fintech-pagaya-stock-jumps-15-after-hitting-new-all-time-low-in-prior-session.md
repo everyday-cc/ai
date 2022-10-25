@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T19:27:00Z
 originalUrl: "https://seekingalpha.com/news/3895025-israeli-fintech-pagaya-stock-jumps-after-hitting-new-all-time-low-in-prior-session"
 webUrl: "https://seekingalpha.com/news/3895025-israeli-fintech-pagaya-stock-jumps-after-hitting-new-all-time-low-in-prior-session"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Seeking Alpha

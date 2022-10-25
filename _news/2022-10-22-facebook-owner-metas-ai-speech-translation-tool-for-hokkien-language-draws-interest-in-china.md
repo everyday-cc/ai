@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Meta Has Built An AI System That Can Translate Hokkien To English"
-    excerpt: "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form."
-    publishedDateTime: 2022-10-21T01:30:00Z
-    webUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/"
-    ampWebUrl: "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
-    cdnAmpWebUrl: "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/"
+  - title: "Meta develops AI for speech-to-speech translation of oral languages"
+    excerpt: "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language."
+    publishedDateTime: 2022-10-21T11:18:00Z
+    webUrl: "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+    ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
     type: article
     provider:
-      name: augustman
-      domain: augustman.com
-    quality: 74
+      name: India Today
+      domain: indiatoday.in
+    quality: 59
     images:
-      - url: "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg"
-        width: 800
-        height: 800
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Meta develops AI translation system for a primarily spoken language"
     excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
@@ -59,48 +59,29 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Meta launches AI tool to translate Hokkien to English in real time"
-    excerpt: "The artificial intelligence model is currently able to translate only one full sentence at a time, with the eventual goal of simultaneous translation."
-    publishedDateTime: 2022-10-21T04:50:00Z
-    webUrl: "https://www.channelnewsasia.com/business/real-time-translation-hokkien-english-meta-ai-speech-translation-3018756"
+  - title: "Speech-to-speech? Meta AI can now translate spoken-only languages"
+    excerpt: "Have you heard an AI translation of Hokkien before - a largely unwritten dialect that Meta's Universal Language Translator can decipher?"
+    publishedDateTime: 2022-10-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/10/speech-to-speech-meta-ai-translation-can-now-translate-hokkien-spoken-only-languages/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
+      name: techwireasia.com
+      domain: techwireasia.com
     quality: 54
     images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--j7VEjR_u--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/10/21/meta_ai_translation_hokkien_to_english.png?itok=H-3Yyc_a"
-        width: 1200
-        height: 676
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/000_9WL7LP.jpg"
+        width: 1024
+        height: 681
         isCached: true
-  - title: "Chinese netizens curious about Meta's AI Hokkien dialect translation tool"
-    excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
-    publishedDateTime: 2022-10-22T08:00:00Z
-    webUrl: "https://www.asiaone.com/china/chinese-netizens-curious-about-metas-ai-hokkien-dialect-translation-tool"
+  - title: "How AI could help translate extreme weather alerts"
+    excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
+    publishedDateTime: 2022-10-21T12:30:00Z
+    webUrl: "https://www.axios.com/2022/10/21/ai-translation-extreme-weather-alerts"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/221022_meta_reuters.jpg?h=0429cc9e&itok=pCyaxgq5"
-        width: 600
-        height: 316
-        isCached: true
-  - title: "Meta develops AI-powered speech translation for unwritten language Hokkien"
-    excerpt: "While it only translates between Hokkien and English for now, Meta hopes to expand the system to include more unwritten languages."
-    publishedDateTime: 2022-10-21T02:39:00Z
-    webUrl: "https://www.marketing-interactive.com/meta-ai-powered-speech-translation-hokkien"
-    type: article
-    provider:
-      name: Marketing Interactive
-      domain: marketing-interactive.com
-    quality: 37
-    images:
-      - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
-        width: 800
-        height: 450
-        isCached: true
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "Tshs8YO7HWZm/rFjFk0HWgCLtEdVmJavK7EolhFSPlcnHgPtieAcW5oGsRFSA4K+vS/aKtoPe9i3vi87MjmrGEH850MkeHTPESk3U0EgXfmQIg2la1avnFKDJaWzPf6y342FTHKpAQce3ekCfSJwiNXCcN021DWfE8LqVgl7HsM2/svh7xX+KiZo1UN4yFrXnBArpy7fjFmttfyD3/3VnjczDPV4GBjOEvtaNEs4tqyG67EYkojCpZGgmyQMeh9yhEE8Z7lZrtysmm3Qj+X5W176VJOJ1G8DB2z/iMV0fEnGIpEf2HtKr3kzKmARcWla6aTevh9/euc/IbPtBdvskKgSzCFPenzSi8uvagNx/mk=;O6wO5yt0KFhBjQ3ktPYixA=="
 ---

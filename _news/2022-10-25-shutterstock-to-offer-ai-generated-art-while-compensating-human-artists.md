@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-
 webUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
+    excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."
+    publishedDateTime: 2022-10-25T19:58:00Z
+    webUrl: "https://interestingengineering.com/innovation/shutterstock-collaborates-with-openai-to-start-selling-ai-generated-art"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 17
 
 secured: "DhF6YzojxhIR4xodZx9v4ID9w5FXwZaNnyJrM7XudRbIXXI95FHkvn36kombDQ3KSxLW8BK0NXxKWENNABkYnGHmoPZIsstor9D3VIDHOxFGS8dSlvN08ExCfBnuoMySBmy4zY855fhpUL7fhPvpUXJTYwmf1Z0jdGkuMZmsn+nX1k46R19i2KIHySYpCpN5j9u0dj05hCjLjxUCVV+ddhlSDdNbhJSGa4prJcBo5xfd3zg8UT/yDuA3c2RSFgZkloiDgO5h9EqJZnj7sGp8iIWTIT5PdUdnIl5dNWdZL+315/gwI9DeFuw0nRFKo7H01gPM9p4th8c1ygjWq0YMab1cB7Zc9ABje6oRFucnuCDct0EHOq6D3/mebDK9mp44QlCLg7J18LKk3T5fLMWs9ZXjT/5yHJ1oAak5NhkDsQqsWq8NcuIRH9YMEG0PxKhaAsUDbhMkjMbI1HPg8It6HrQKalZS93FXZcVJZli6he9LhVkxGIQYDeBck1a9l4T6FFGuT92p0ImrnVJ1qin6jQ==;o1EjV5tQDEH3uDs2vmXjvQ=="
 ---

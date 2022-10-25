@@ -22,6 +22,17 @@ topics:
   - Machine Learning
   - AI
 
+related:
+  - title: "During Sleep, One Brain Region Teaches Another, Converting Novel Data Into Enduring Memories"
+    excerpt: "As the body moves between REM sleep and slow-wave sleep cycles, the hippocampus and neocortex interact to facilitate memory formation."
+    publishedDateTime: 2022-10-24T22:05:00Z
+    webUrl: "https://neurosciencenews.com/memory-sleep-hippocampus-neocortex-21719/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 8
+
 secured: "vnJoQgDiBAKVphaeA5yZze2ydAIxX5gsBpqQ/RUtf3oslIsVFiMytqwLDnm7ydExfrXxnGPmUYEYfyzmOtGa1V51aUGtCf1igAlnzVBy/CckpvhBVVeFM8UA6+r+18SmnwCNtnc7mwvgjAEXFWaUcWjIajmAR5Zxse/cxwDxeTEv49SSwiwYGtzSFMR1k8XG77U585PSzPfIFWeZ/NxftVIPLv33u6vFrRQAjd0OjRhK7Eolt8cLjJH5Nk1TvwYyTmg8kVaCpblGL5pywESnn8Dc29S19+SjLb/w2kZ0EhWEqcej/3VLBPeM7uh/86pypxMbreIt8EoSMzH9tt63dXT8wudUDCk7L82GFPUviN0=;UF+YqetDyCcAny1xxGMs2Q=="
 ---
 

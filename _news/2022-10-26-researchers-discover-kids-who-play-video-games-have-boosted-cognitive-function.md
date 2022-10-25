@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T17:30:00Z
 originalUrl: "https://www.stltoday.com/video_4954122f-1007-52e9-8805-bac48c8f770b.html"
 webUrl: "https://www.stltoday.com/video_4954122f-1007-52e9-8805-bac48c8f770b.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: St. Louis Post-Dispatch

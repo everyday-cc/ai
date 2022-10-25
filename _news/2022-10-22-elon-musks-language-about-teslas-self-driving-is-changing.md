@@ -31,21 +31,19 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla cars will not be approved as fully self driving this year, Elon Musk says"
-    excerpt: "The Silicon Valley automaker sells a $15,000 software add-on called \"Full Self-Driving\" (FSD) which enables its vehicles to change lanes and park autonomously. That complements its standard \"Autopilot\" feature,"
-    publishedDateTime: 2022-10-21T01:53:00Z
-    webUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html"
-    ampWebUrl: "https://www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
-    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-says-9367831.html/amp"
+  - title: "Tesla: Elon Musk Is Right (Optimus Robot)"
+    excerpt: "The Tesla Optimus robot shown at the AI Day received mixed reviews. Find out why, over time, this will change the economy in ways unimaginable."
+    publishedDateTime: 2022-10-25T20:27:00Z
+    webUrl: "https://seekingalpha.com/article/4549020-tesla-elon-musk-is-right-optimus-robot"
     type: article
     provider:
-      name: moneycontrol.com
-      domain: moneycontrol.com
-    quality: 70
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 56
     images:
-      - url: "https://images.moneycontrol.com/static-mcnews/2022/07/Tesla.jpg"
-        width: 1280
-        height: 720
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1343072603/image_1343072603.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
         isCached: true
   - title: "Elon Musk Said Tesla Full-Self-Driving Beta Will Be Open This Year"
     excerpt: "Tesla has rolled the FSD to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing"

@@ -23,6 +23,17 @@ images:
     height: 210
     isCached: true
 
+related:
+  - title: "BrightDrop Collaborates With AI Safety Solutions Provider Nauto"
+    excerpt: "BrightDrop just announced a new collaborative effort with Nauto, a California-based provider of advanced driver assistance technology and driver monitoring systems. The collaboration will provide commercial fleet customers with access to Nauto’s predictive AI safety systems in an effort to improve driver safety performance,"
+    publishedDateTime: 2022-10-25T18:57:00Z
+    webUrl: "https://gmauthority.com/blog/2022/10/brightdrop-collaborates-with-ai-safety-solutions-provider-nauto/"
+    type: article
+    provider:
+      name: GM Authority
+      domain: gmauthority.com
+    quality: 17
+
 secured: "rxS4RLymsztETDiNhkXZvGIjl8u9bT1B9EWVbpbfQNggkG0n/dRyeIMeEV6VIftln3cGBvvTfchVG84YViyPR4RuUr4in0D29IRt5EkYyL46Di3R0WF7cMD9lXBaO20RlkzeEWyiKOQhzTjNzfO3zq02qsR89uwUj00FZruKRUQ75DIj49rr8KEj3FkjfjU7fDTBNnfnWDIOr3MYI1++5iTrCTsw8t5K9WX5s1zoTkdMVDTdfkICT9wgiVR4P1y0PMiLGuECqNPdjgwOl1R83b3JaTSWRtJgfUr+1xGg70agvUfY76OXIZU5YDksjYeQlju9nU6PQOMUnsclbzAY7vB2siFFk3/nhP3RRk3q02c=;u6rrMOCeYZSiUp6y6BkMSA=="
 ---
 

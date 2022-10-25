@@ -1,0 +1,53 @@
+---
+category: news
+title: "European Startup Axelera AI Closes $27M Series A"
+excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
+publishedDateTime: 2022-10-25T21:39:00Z
+originalUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
+webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: datanami.com
+  domain: datanami.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Axelera AI reels in $27M for its edge AI chip"
+    excerpt: "Axelera AI detailed today that it has also secured a $6.7 million loan from the Netherlands Enterprise Agency. Founded in 2021, Axelera AI is developing a chip optimized to run artificial intelligence software at the edge of the network,"
+    publishedDateTime: 2022-10-25T17:55:00Z
+    webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 56
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
+        width: 800
+        height: 498
+        isCached: true
+  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
+    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
+    publishedDateTime: 2022-10-25T15:26:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 39
+    images:
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
+        isCached: true
+
+secured: "A4Etjmj2lVZNUBIxdVh8or0sx+BxdTd3PIJ+HE/T9lykGffhYZd/kW7wfG/mQtMFmmGFr1Fi4Kn0FZKwUyz/kkFhJ0Gba9Sunj4wdHyZVURmnEMUHJZwG6xrY7hQTqSusZ0GQSkgjMs3iicUBd7O6YqBU0GsYEGtArTiznI8Nf4yDwLRKzyHmD7smINW2CN2E2jA7RThfArKCV2PMN/mTjar9qa4ev9XRPdVrFeBlRDqAX0lOm4iThCfCKlvVFSh8TiRLbukF/u1Z9UcyJW0pD5ut8h5QJzE6vHiFJRNRoRDDSS3rdXreqlD8N00ZYinX4j4WvRirDRgIT4+lYjHnDQACC94rQRKIpCy2m5FKag=;ZEHhlcLamJPpXtIJJVMUBQ=="
+---
+

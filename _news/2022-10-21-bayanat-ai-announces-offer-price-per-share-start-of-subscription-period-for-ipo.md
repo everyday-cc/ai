@@ -23,22 +23,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "Bayanat AI PLC, a G42 company, announces offer price per share and start of subscription period for IPO"
-    excerpt: "Bayanat AI PLC confirms its intention to offer 571,428,572 shares representing 22.22% of its issued share capital as at the listing date"
-    publishedDateTime: 2022-10-21T03:34:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/bayanat-ai-plc-a-g42-company-announces-offer-price-per-share-and-start-of-subscription-period-for-ipo-v10sxnyr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 21
-    images:
-      - url: "https://static.zawya.com/version/c:ZjVjZjg2YTMtMDNlYS00:YjliNDE0/hasanalhosani-ceoofbayanat-png.png?f=3%3A2"
-        width: 900
-        height: 599
-        isCached: true
-
 secured: "kvhGEY+K5W7ARTh/g+n5oRBQh7d6vR7cOZIIFfyiPi6Q4GyVOdZ4PpJXTub7bBgcU/rcf+cLx5myPxHbgZ9use3UedhcXEjy6Sr77tXDDdnyK3Zvzh0w24dmqXWybqHEDO0s/T0/4yFtrTt2UehSo91xWMJIwDfWo69oTga3Tf4vMpWNn7qOy59rbcKH/ZiX4IiROT/pAh6meRVnEOb0pz3KysVFUBY2XbOWPAscIg6ineQxWj7CSt3wTPHa+Q2lJEnb5d7sS2uDgb8U8tNpPXnzLAjZwRil4S66xwFwsQkGjpinjo3+gnWbJXMd5545wY0P9cdZuR6QEqzn9vQuM0pfkmMh+CS42UV+oG5o8XFQZsPZVlbE4qYbYJy7dErrHb1um8PLC+WwOa2EwCaSIDcsVozbIchVHrDcnZDXBN77vESj2hFB9xaopg8HO+pnnOCdtL76e4ggt5wlPtech39TPL9GNeWtaH+ARDTgIJxEmks5ZPFIiztZCGRpmEYl0g8gYlcTv0jIlXfePyPUGg==;3sMDQ5rn6AzWC0FXfbibxA=="
 ---
 
