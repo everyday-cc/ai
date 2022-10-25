@@ -57,15 +57,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Self-driving trucks, AI, and the difficulty of forecasting the future of trucking"
-    excerpt: "Truckinfo.net gathered information from the Future of Autonomous Vehicles report and other sources to explore the future of automated technology in the trucking industry."
-    publishedDateTime: 2022-10-21T17:30:00Z
-    webUrl: "https://omaha.com/business/investment/personal-finance/self-driving-trucks-ai-and-the-difficulty-of-forecasting-the-future-of-trucking/collection_fd16df08-0265-55c7-980f-420e24f50739.html"
-    type: article
-    provider:
-      name: Omaha.com
-      domain: omaha.com
-    quality: 14
 
 secured: "J/QxbRdPyJokpwRT5Sm/f+pxX2QaZIwbhezPXQwTCEaEIQBa9rqT3Buu/wVBuO8/IsvRhAzHyT0oqRlczqWrd0Ym1Ty1UofiOT9cFD8BX3q8ciZ3tVIuduLQtuIBJ5bHLxOsP6PORoGIGzflCfuAZh3qQjBWT35DpwgObZ87mcwtq4B2dedER3IFThNZqQITABlQsIoCty2Zh7efofhWV2k/vFu2XSNkYTQJEqHCG+VmEXzcBVm+byttNqFwUDqgRgYFN/qgfIlea5qw6kgSRR+xPyHjyqpU1ieiQx7JAysVmyE9dgTFZAuoVGOecIgHH029TVW5Kg0B+meBAuerV5L34uO58Ph4s4wLY0B+dws=;QrzfMiwUAV2DtV4m82vcxw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202210/indias-it-ministry-mulls-fa
 webUrl: "https://www.biometricupdate.com/202210/indias-it-ministry-mulls-face-biometrics-age-verification-for-games-to-protect-children"
 type: article
 quality: 15
-heat: 15
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1365
     isCached: true
+
+related:
+  - title: "Biometrics for digital ID among AI-related issues to be reviewed by NSW parliamentary inquiry"
+    excerpt: "The move is part of the state’s efforts to expand and simplify the use of these technologies to facilitate access to public services."
+    publishedDateTime: 2022-10-24T12:44:00Z
+    webUrl: "https://www.biometricupdate.com/202210/biometrics-for-digital-id-among-ai-related-issues-to-be-reviewed-by-nsw-parliamentary-inquiry"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 28
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/10/13181712/digital-identity-infrastructure.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "e1By2aQ9KVbBrrCCl4NYJMNuJkK1x/b/cefe17o18vxJI9wRPy2ZNPg1S7lmtO9SSGtSxjK869Onge9wFMFl/vMlFbB0pAL7g9zGKoYyspsDw/E/pg3XkkcbaNgT281r3Pb4D/TflkDut83MXn20b9UHS0t2YtUOnUY6plA9raGKc8TmkU8ndp5GRWcqIuOy0M+IeqFpSUazznFL04aCDSZK1OIRxsBols9Onn+DGF2J1zNuZpwIb+vN65Ax8OLzuTqPdHgxVLnG5YUrk09hxeYTwdnz07ZzUnEdckqbFsP/JLed01ZF1swq/w3UodIiJh0BE3sv++s0ixW6zCRrmpSLRZeKT1ly9rY/dZr+VMDO7EqhqpeoQCmRc78rnn3cg7vwoKAx6G/VG8Q3czOjryv5zYWHrAWwriHFbXCw2jXTRIl9lmbcTQR17d+sFmsrQOREi85sK0Dwa+BcD1dNEuYX9F64YCTIWcdDaPlVfrFFo1kNgBiN+KnUd6S8QI46+onpI+I2s/KQLDfwsEV9iQ==;hNfGktWAjckyMeNTzKOFaw=="
 ---

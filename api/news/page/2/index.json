@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-23-materials-made-of-mechanical-neural-networks-can-learn-to-adapt-their-physical-properties.md",
+      "title": "Materials Made of Mechanical Neural Networks Can Learn to Adapt Their Physical Properties",
+      "excerpt": "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a design inspired by artificial intelligence.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
+      "originalUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/10/a-new-type-of-material-mechanical-neural-network.jpeg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
+      "publishedDateTime": "2022-10-23T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-tsmc-said-to-suspend-production-for-chinese-chip-start-up-biren-amid-us-curbs.md",
+      "title": "TSMC said to suspend production for Chinese chip start-up Biren amid US curbs",
+      "excerpt": "TSMC has suspended production of advanced silicon for Chinese start-up Biren Technology to ensure compliance with US regulations, according to a person familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai.md",
+      "title": "How small and midsize businesses can take advantage of text-to-image AI",
+      "excerpt": "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
+      "originalUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
+      "publishedDateTime": "2022-10-22T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
       "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
       "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
@@ -355,49 +492,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-22-ibm-announces-system-on-chip-ai-hardware.md",
-      "title": "IBM announces system-on-chip AI hardware",
-      "excerpt": "IBM enters the AI hardware acceleration field with a full system-on-chip board that integrates approximate computing.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/",
-      "originalUrl": "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T11:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-22-elon-musks-language-about-teslas-self-driving-is-changing.md",
       "title": "Elon Musk’s language about Tesla’s self-driving is changing",
       "excerpt": "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update.",
@@ -553,7 +647,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/10/21/dalle-mini-and-the-future-of-artificial-intelligence-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1140,101 +1234,6 @@
         "AI",
         "AI in Robotics",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030.md",
-      "title": "Natural Language Processing (NLP) Market Projected to Hit US$ 63.0 billion By 2030",
-      "excerpt": "The global natural language processing (NLP) market was estimated at US$ 10 billion in 2020 and anticipates growing at a significant compound annual growth rate (CAGR) of 20.2% during the forecast period from 2021-2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T23:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-has-built-an-ai-system-that-can-translate-hokkien-to-english.md",
-      "title": "Meta Has Built An AI System That Can Translate Hokkien To English",
-      "excerpt": "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form.",
-      "sourceUrl": null,
-      "webUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
-      "originalUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/",
-      "cdnAmpWebUrl": "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/",
-      "publishedDateTime": "2022-10-20T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "augustman",
-        "domain": "augustman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

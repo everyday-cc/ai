@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Study of biometric tech in schools winding down"
-    excerpt: "The New York State Office of Information Technology Services (ITS) held a virtual public hearing Thursday on the use of biometric technology in schools. The hearing is part of a"
-    publishedDateTime: 2022-10-21T01:00:00Z
-    webUrl: "https://www.lockportjournal.com/news/study-of-biometric-tech-in-schools-winding-down/article_783e49de-50d2-11ed-8313-83ea4917c290.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/custom/image/1607916a-a04b-11e5-8da0-23a879e9bf1f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Commentary: Keep facial recognition out of New York schools"
     excerpt: "New York became a national civil rights leader, the first state in the country to ban facial recognition in schools. But more than two years later, state officials are examining whether to reverse course and give a passing grade to this failing technology."
     publishedDateTime: 2022-10-23T09:00:00Z

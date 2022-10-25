@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "IBM announces three new AI libraries for natural language processing"
+    excerpt: "IBM unveiled three new embeddable AI libraries to reduce the barriers for AI adoption and to address the AI skills shortage."
+    publishedDateTime: 2022-10-25T17:13:00Z
+    webUrl: "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/"
+    type: article
+    provider:
+      name: SD Times
+      domain: sdtimes.com
+    quality: 86
+    images:
+      - url: "https://sdtimes.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-25-at-1.12.13-PM.png"
+        width: 1202
+        height: 672
+        isCached: true
   - title: "IBM announces system-on-chip AI hardware"
     excerpt: "IBM enters the AI hardware acceleration field with a full system-on-chip board that integrates approximate computing."
     publishedDateTime: 2022-10-21T18:01:00Z
@@ -34,21 +48,25 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 64
-  - title: "IBM releases its AI system-on-chip hardware"
-    excerpt: "Hardware designed to speed up AI has become increasingly popular in recent years. Technology giant IBM has listened. Commercial central processing unit and graphics processing unit technologies were sufficient for AI’s data volumes and computational parameters in the field’s early days."
-    publishedDateTime: 2022-10-22T04:54:00Z
-    webUrl: "https://bestgamingpro.com/ibm-releases-its-ai-system-on-chip-hardware/"
+  - title: "IBM Watson opens up AI opportunities for software vendors with embeddable libraries"
+    excerpt: "IBM Watson announced 3 new AI software libraries that can be directly embedded into apps, including NLP, text to speech and speech to text."
+    publishedDateTime: 2022-10-25T12:00:00Z
+    webUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 54
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/IBM-announces-system-on-chip-AI-hardware.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 58
+  - title: "IBM Expands Its Embeddable AI Software Portfolio"
+    excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
+    publishedDateTime: 2022-10-25T14:50:00Z
+    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-its-embeddable-ai-software-portfolio/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 19
 
-secured: "G2GWyhoIlo/A9zZASkSpVWX50TFCBJucLkjTbJvsMYcp48RtJYvy6KMYC+mBymIbqJzxawR4b1kwpzSvqyUQ63LZYntz3VBi9hP3UqKd+VLCnkWMu9Ci1bCzRqieKTJZOkVbzh63D7INvZ45Y/B9q5QszQEtgAQhYXBaySG5LGoD6EwVJBc/yX4Zq7l9LqRqhJP0KkycZayoCIFH7FG/Rxh1ffdgJwgshS9IqwzRBRGatsrDyhDbsuN76Ju6pZkUjjQEtXErzkMMYgH7XN0d+Grj82+GEf3g6BsRTOUUAGyRV+Xw9OtKZwpy9sX+bEg0gh7mugZ400ktSoBaOc6tN/UhqXb87JmCJqzfcrPjWus=;c0+T9G8H+k3vvQ3Xjq3I9A=="
+secured: "G2rTe9mdLINDmS9JMecBwW1SbXYrBgqarTnPb/cE/lnbNHREAzoNL5I514whHLTxempQJBFUCs65ovrm72gyHg4tb6BMXxJ4WofBWNvwvIPF1BTmmO3hOJjt45zBgvjQhL3judNevXd0wYQ8r5Vr/V+2SXbrLoCaxGIn3gkRuF0ze/PE1SN4F/8PX5quyu4Ao7YuyTcopXJIKVyK1XC9MQK2uhn+gdWJ9ub/eHqcW42QwB0Jwr8y8iTRfJyFuFXVbRGLba1Xxb7wX4EfCRzEpUM3wWBoRo/kHs6ZloBaso+cQFjY5ndALk+HEnbw+jJiWrlgmdF7Rfv1I7OWnmnx9E0w5tGgEytxTG18XQDfgw3jZon5Q5wOONGG8lk+DQJfMaFHZgMDNYEReyx1Mk+qc89q3tjVIReaMkupHUZupdDVr7Yvr5mtJoV7G5p/FqqSshRGknyGRat69S8RNcGeL2JLKOaTKGpAL77VgjptL3jRMGgIbeBVyHxkZQrePnC81Bak/Yju8z+aPXYs9wplvA==;TS8Z6e0TdYDJluom4eXTyw=="
 ---
 

@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-the
 ampWebUrl: "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 418
     isCached: true
 
-secured: "Cox1GoGFjxHBYXBRT9qzZKO0UtK2OQGgNHFMWB8mltPH6n7+9h9L1ne3/2rpsqe66khbcGz43y/kuaUEQfR03Iz37EUxQrTn11T1sYV2mX4L/kn7I00k9N+dBJu9oNLWWKEoQmOSHr6DYbsKZXXJMXIq4hEOu3VLi1FDWOp08s62zq/7aKSExJNZOjqm0R93zbYBhLIU6r8CbKtjCQkT6DqUCIkf2qV2HU7hKmEhlwigIkQP8OccZQIaxFbHhyj1lyEQIQSvHJf13zq55giOmqO/Pu7Ex0VrIGZA3Cg993vfO0cvfEla9bufW0+eHSVTL6HO02Zuf831Ah+jUuZWr5RbynQIDa2aRI5mhdYlXxg=;jbjEBInmUXQl2JScjjtSqA=="
+secured: "u2NpYz6FvO2XHcCopd56iRjZD1HLNBgJBZ3Kv8yedvSc/d6R7sOuelwYtRh3yhIvwyBokf3N4SgnLru/Sic37Ub/BHjzD4rymqWnTxyy7qalbiVQfaMpoV0Qmuq2JhCLx0CYjQF2EAcapH1LYnpbjg9Ht45XviOxGgBFZkTF9w1kNpyezALTfcEgs7jAxZiYWf9CIxG6YJQqnNrPcSWf7yzInzGT6bao0sFVYp+ZRBSS3UJ/YJNedUwkQLQwGlhLZEQSLOuRj1Nd5tNKoYvMYdMixwrf3pSJmpPLZXT9hUb9Cnz0DPea7oaHjgBOLFXWfEvPqnnUB3YnFJWiO+zxJYAvx1PAGEYgrD3SxayyKkPvRiplmExF4woSMzBdLH8l5j+5hlgw7IyyDLiQN02dVwrCIkQlX79j3QcP2VoWyZqtEzmaCZdUwcvOZuHC/v0IYETQJF3KfvIl4/buG7RZnj6PMYB68vkK+PYhoYdZK4V+wap4Cd4sMlnSPam7mKywbePw53r+nPkxKd11o2QOZA==;W6PrkGTM+5Ce8VlL5Va4Ow=="
 ---
 

@@ -21,31 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Fintech Automation Selects ForwardAI to Provide Access to Accounting Data for Financial Institutions"
-    excerpt: "ForwardAI, a fintech providing aggregated access to accounting & business data and analysis, announced its partnership with FinTech Automation."
-    publishedDateTime: 2022-10-20T23:59:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/10/197658-fintech-automation-selects-forwardai-to-provide-access-to-accounting-data-for-financial-institutions/amp/"
+  - title: "Founders of Canadian fintech company Wagepoint set sights on bookkeeping with newly-launched fintech platform huumans"
+    excerpt: "CNW/ - Fintech company huumans .com today announced the launch of its bookkeeping-as-a-service platform. huumans easily integrates with self-service bookkeeping platforms Xero and Quickbooks, and connects small business owners with bookkeepers who provide weekly reconciliation,"
+    publishedDateTime: 2022-10-25T12:16:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/25/9698910.htm"
     type: article
     provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
     images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/05/Fintech-London-England-UK-scaled-1024x1024.jpg"
-        width: 1024
-        height: 1024
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
-  - title: "Fintech Bookkeep Aims to Eliminate Manual Data Entry in Accounting Industry"
-    excerpt: "Bookkeep, the \"smarter\" accounting automation platform, announced a $6.6 million seed+ round of funding led by Fin Capital."
-    publishedDateTime: 2022-10-21T19:44:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
 
 secured: "7SpgFVuSbT72uoquRtnQgXaeyeth4RTJxY8aJdXyLCz4EUrNDjwc7gojcWX3Bh68x37ymBMzmEkbkVtDpmY8R04TNe8+KJbRu8Q0AyDjvpxaljkwgz20r7QeSR23SRolE6fwY6IbzWOX5w5uAxtHEKOB+bQ7vABdagnHXiqloXJtBQEy/vNWNajbFC6sbgMJL5UcgtlOXoikI0eWnIPoEgryQNrV1WI6QsUkBipDOXdxwf3aoGUi4/V0Y2qd8JEtnhe9vyy6sNm4CQSWkYj+jz6bpPhBrXvoSMzPBW7e6k5670g6k7wV2oX0a5HLyYFobI87cNieUthFpYE9m2vXQBnvEglHN8mEBiGRjPSNVVQ=;3AkQlG82FH/IqRrUEybuBQ=="
 ---

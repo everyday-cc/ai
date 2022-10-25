@@ -36,20 +36,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "Study of biometric tech in schools winding down"
-    excerpt: "The New York State Office of Information Technology Services (ITS) held a virtual public hearing Thursday on the use of biometric technology in schools. The hearing is part of a"
-    publishedDateTime: 2022-10-21T01:00:00Z
-    webUrl: "https://www.lockportjournal.com/news/study-of-biometric-tech-in-schools-winding-down/article_783e49de-50d2-11ed-8313-83ea4917c290.html"
-    type: article
-    provider:
-      name: Lockport Union-Sun & Journal
-      domain: lockportjournal.com
-    quality: 24
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/lockportjournal.com/content/tncms/custom/image/1607916a-a04b-11e5-8da0-23a879e9bf1f.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "NZh6Fv8Iku2m0d1PKtiKvTKBRYEg9qgd4BoopA6QVhd7HXImNznxh7RgLTzdu9SPiglX/cXIrA33g0rF650lBDGwyDJVMIxqzh9F2016+crUkQquxbGqRD/IiQXVPcVUtKZs1ShyfM7q8DlGPtZx1RTI6xcXQrq/OR0gjxYx1N/oEuRTw7da2Oi6VYoAf65IsgfS3UOlyFbKTi4BTGKAj109RYLV+W2vZgldk7hAy4feGI05HqfC7zCWC36k2Fs1c4wlbIREhRka9I3z4IXnoCEFb2MbJma4Bmb1HoVr1umRGBxSA6Xi47cw5jh7CtoUpnE2a+nDynxSIt6JlStIhEAjBSOxn7Ku+6orIXBQZis=;amHprEQBDrqQzZwN+bSqYw=="
 ---

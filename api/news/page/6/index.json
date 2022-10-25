@@ -2,6 +2,111 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-18-run-ensemble-ml-models-on-amazon-sagemaker.md",
+      "title": "Run ensemble ML models on Amazon SageMaker",
+      "excerpt": "Model deployment in machine learning (ML) is becoming increasingly complex. You want to deploy not just one ML model but large groups of ML models represented as ensemble workflows. These workflows are comprised of multiple ML models. Productionizing these ML models is challenging because you need to",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-ensemble-ml-models-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/18/run-ensemble-models-sagemaker.jpg",
+          "width": 1547,
+          "height": 770,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T08:50:25-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report.md",
+      "title": "Medical Robotic Systems Market 2022 : Industry Scenario, Strategies, Growth Factors and Forecast to 2028 | 118 Pages Report",
+      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Oct 18, 2022 (The Expresswire) -- \"Medical Robotic Systems Market\" Insights 2022 By Types, Applications, Regions ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/medical-robotic-systems-market-2022-industry-scenario-strategies-growth-factors-and-forecast-to-2028-118-pages-report-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-restraining-nvidia-for-china-chips-is-good-for-amazon.md",
       "title": "Restraining Nvidia For China Chips Is Good For Amazon",
       "excerpt": "Restrictions on NVIDIA for exporting its latest AI chips to Chinese big tech Alibaba could be a boon to hyperscaler Amazon with its AWS cloud and eCommerce platforms. The Chinese tech giant ...",
@@ -188,6 +293,49 @@
       "topics": [
         "AI",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
+      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
+      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1025,135 +1173,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
-      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
-      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-a-new-ai-model-can-accurately-predict-human-response-to-novel-drug-compounds.md",
-      "title": "A new AI model can accurately predict human response to novel drug compounds",
-      "excerpt": "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "originalUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
-      "title": "Deep learning tool identifies bacteria in micrographs",
-      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
-          "width": 795,
-          "height": 530,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

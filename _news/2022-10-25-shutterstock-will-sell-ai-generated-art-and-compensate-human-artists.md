@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2343953-shutterstock-will-sel
 webUrl: "https://www.newscientist.com/article/2343953-shutterstock-will-sell-ai-generated-art-and-compensate-human-artists/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,36 @@ images:
     width: 1200
     height: 801
     isCached: true
+
+related:
+  - title: "Shutterstock to Offer AI-Generated Art While Compensating Human Artists"
+    excerpt: "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation."
+    publishedDateTime: 2022-10-25T16:53:00Z
+    webUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "Shutterstock partners with OpenAI to sell AI-generated artwork, compensate artists"
+    excerpt: "Shutterstock announced that it has partnered with OpenAI to provide AI image synthesis services using the DALL-E API. Once the service is available, the firm says it will allow customers to generate images based on text prompts."
+    publishedDateTime: 2022-10-25T17:24:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/10/shutterstock-partners-with-openai-to-sell-ai-generated-artwork-compensate-artists/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 61
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/shutterstock_dalle_hero_2-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
 
 secured: "+PBgLvTWgte13SxBkVk2aPBqpFhU+dbQ3rAjV9kdVAMPDZlH6m5qmGcYJmPOg5GZ9YF35/03y4Ep2z1AH3dwvLBnG9SipmGlbaNN4oja6AP+0tHMb+MkltpXK8N/OT/f5r+fvVk/bTmFz5qPGXsxPXaPP3zDyfmXcUL/VrU0P8KTQoj1atkWY1hC/I5g6jpR0945E1Rm+rO2oMhcikHbqO1MB/n7vhBIpCVeDC7o9dYK2vOnuvyDigXnk1ZW5jPr7kiJNfwNkCDEbsxRXHDAklNhQ+DEvJaXtvo6zgNs+x/aa8YEh8cyOjxZP08RxDoITXC/Rj055Bgt0P0SafkCDl4/Tq7hIyk9xdhXTk8Qgr8=;gRTNtSIbZCGSaOmZC7ZuUA=="
 ---

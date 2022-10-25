@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-05-renderedai-joins-aws-marketplace.md",
+      "title": "Rendered.ai Joins AWS Marketplace",
+      "excerpt": "First synthetic data platform for computer vision to be offered to Amazon Web Services customers worldwideBELLEVUE, Wash., Oct. 5, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/rendered-ai-joins-aws-marketplace-1031784925",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1914395/2022_9_collage_ID_ffd96ec7f5c2.jpg",
+          "width": 400,
+          "height": 236,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-05T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-05-activeinsightstm-voice-of-customer-solution-from-wavicle-data-solutions-available-in-aws-marketplace.md",
       "title": "ActiveInsights(TM) Voice of Customer Solution from Wavicle Data Solutions Available in AWS Marketplace",
       "excerpt": "Voice of Customer Solution from Wavicle Data Solutions Available in AWS Marketplace Oct 05, 2022 (PRNewswire via COMTEX) -- PR",
@@ -1324,49 +1376,6 @@
       "provider": {
         "name": "Benzinga.com",
         "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-22-salesforce-deepens-partnership-with-aws.md",
-      "title": "Salesforce deepens partnership with AWS",
-      "excerpt": "Salesforce has expanded its partnership with Amazon Web Services (AWS) to enable customers to build custom artificial intelligence (AI) models using Amazon SageMaker, AWS’s machine learning (ML) modeling service,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "originalUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/09/GettyImages-1040557296-scaled.jpg",
-          "width": 2560,
-          "height": 1161,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/article/salesforce-deepens-partnership-with-aws/504110?amp=1",
-      "publishedDateTime": "2022-09-21T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
         "images": null,
         "publishers": null,
         "authors": null

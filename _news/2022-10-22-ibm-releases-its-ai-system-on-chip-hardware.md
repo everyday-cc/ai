@@ -7,7 +7,7 @@ originalUrl: "https://bestgamingpro.com/ibm-releases-its-ai-system-on-chip-hardw
 webUrl: "https://bestgamingpro.com/ibm-releases-its-ai-system-on-chip-hardware/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,31 +23,6 @@ images:
     width: 700
     height: 450
     isCached: true
-
-related:
-  - title: "IBM announces system-on-chip AI hardware"
-    excerpt: "IBM enters the AI hardware acceleration field with a full system-on-chip board that integrates approximate computing."
-    publishedDateTime: 2022-10-21T18:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
-  - title: "IBM Gives Partners Access To Three New AI Libraries"
-    excerpt: "The libraries, meanwhile, give partners access to the same AI libraries that power IBM Watson products, according to IBM. Developers and IT teams can embed the new libraries into their applications and make custom products without data science expertise ..."
-    publishedDateTime: 2022-10-25T15:32:00Z
-    webUrl: "https://www.crn.com/news/software/ibm-gives-partners-access-to-three-new-ai-libraries"
-    type: article
-    provider:
-      name: CRN
-      domain: crn.com
-    quality: 39
-    images:
-      - url: "https://www.crn.com/resources/027a-16459e5cacd1-673ab6a81427-1000/ibm-campus-1.jpg"
-        width: 1496
-        height: 1124
-        isCached: true
 
 secured: "aluGAvhgn5P24/kjMJfDvVbDxBEDt8b6TKLx8H82D9c9FAhe/kRC++njtkKsV5HNRK5xFJd1/nxM+Jr4jXZcxkXdDnQrGnRg97uakAP6bcolvCNpBRWeA/S2UvAKb+boltG0hGYAwzSdvpzrFA8Zu0CnD+PkIFpHNNY0tKhE6PtZ6oz5mAhxdEPGowMKocjWJNyWpDh7BpDOrtBAAgwjfv3N+5Vj/Gxf9pNhfzi2icMR7rIyUw+k1gCBDz9md1KoOoI9I7HgKquFB9FbrKuNoPVAAmn3rM88v0UspIM8mZyG3CUFb3bq3+kb0Xk63kDv6aElXCA33c4TuRVP9DReBnO67WLoBoRj49+MQG/iSmFLpYEiMRbMHzG986nGau1FQUmsZ1bwQ9NEdqgSqTV+kShFGIpi/Xi1hL3sxqS1lrwecJ4xRMkIypycHVU5nf+czt5O0l5kxmqO0n2nVppMsoxklNkZutoRGF8qr0preULk4R8bN02qARVjaTgaJtGSY9v/GrwcigX2iefDHokYrg==;1GHjVvQbMKkGyff8pFUe+g=="
 ---
