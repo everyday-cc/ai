@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas AG sues Google for over facial and voice data collection"
-    excerpt: "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law."
-    publishedDateTime: 2022-10-20T14:12:00Z
-    webUrl: "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html"
-    type: article
-    provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 76
-    images:
-      - url: "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902"
-        width: 3500
-        height: 2334
-        isCached: true
   - title: "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos"
     excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”"
     publishedDateTime: 2022-10-20T17:10:00Z
@@ -145,15 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AG Sues Google For Allegedly Capturing Face And Voice Data Without Consent"
-    excerpt: "The lawsuit alleges Google Photos, Google Assistant and its Nest camera record users’ facial features and voices without their consent."
-    publishedDateTime: 2022-10-20T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
   - title: "Texas sues Google for surreptitiously collecting users’ biometric data in photos, voice recordings"
     excerpt: "Texas has filed a lawsuit against Google claiming the tech behemoth took users’ biometric data without permission."
     publishedDateTime: 2022-10-21T14:16:00Z

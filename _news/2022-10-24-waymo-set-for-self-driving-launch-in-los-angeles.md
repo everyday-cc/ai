@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/techland-when-great-power-compet
 webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/waymo-set-self-driving-launch-los"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 1222
     height: 819
     isCached: true
-
-related:
-  - title: "Waymo One Brings Self-Driving Ride Service to Los Angeles"
-    excerpt: "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US."
-    publishedDateTime: 2022-10-20T14:09:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/waymo-one-self-driving-ride-hailing-los-angeles/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/waymo-one-self-driving-ride-hailing-los-angeles/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/3017a8e81aefb1d88583a0952d389f56c3f3beec/hub/2022/10/20/5dd1c780-0c5e-4b64-aa75-a7db9f282339/waymo-one-ogi.jpg?auto=webp"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "TvZ+tdlxcVieIwIXwNRwxF41/KwtTwm1QCfz4hXsn64A1+mT9jBqcewajZo08GDcdF69u+21ZUEedmlSEYxNzY4xiGJKSrJUXu9sIX5/Gn8Z9zrtTptDFvRUM3eo366N7P+IJyBxjddK7nctoHd/5Fz9UJhAmslqNOL/vK+6NM//HKRrQrwf5NHJJh6cobPPnyb8mnXFt28zL6k6WudujoGR38tItCWJvW6Ro2NzEF1OGeup4n4AFJhLbXyVZwggfhlhFhk3LGhn4ybxWrY5W4y7J2gWwjbI6ZRMMhBe/n3SfB4winDQCS2hb45ArJaYl6ZcDXlFIzVsnf18AK1UOcG+XwDhip1fl1w6lJQzhGt5n/Zj3MSDnmf9xh+7trAGRr6P1wEVCDSqb+AuI1II4Q0vQ6O0591PkQHa/tP4nuBYPdAxkZAOes0yZUyrB3whPYfGmyQRtagA2T5GnpWPaUYdF8RXa9jQ1U4S7+B4bwxA7Wj6Rmn0RI+GPl5A/QF5iGV0XfVPwsE4Gkq3Xv6bsg==;VP+Ta80en9AsRhzXSFNZ7Q=="
 ---

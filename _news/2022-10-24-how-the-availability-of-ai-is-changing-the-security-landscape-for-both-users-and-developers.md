@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-av
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 96
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Mind Reading Artificial Intelligence Now Has The Ability To Decode Human Thoughts"
-    excerpt: "Mind reading artificial intelligence now has the ability to decode the words and sentences that people are thinking by utilizing brain scans. This new"
-    publishedDateTime: 2022-10-20T13:42:00Z
-    webUrl: "https://brobible.com/culture/article/mind-reading-artificial-intelligence-decode-human-thoughts/"
-    type: article
-    provider:
-      name: BroBible
-      domain: brobible.com
-    quality: 34
-    images:
-      - url: "https://brobible.com/wp-content/uploads/2022/10/Mind-Reading-Artificial-Intelligence-Has-Ability-To-Decode-Human-Thoughts.png"
-        width: 1222
-        height: 652
-        isCached: true
 
 secured: "t9hpRA7zHXbq3dk37kcg9T4CmGGCS8SZoSz6K0NOFzXKJxRM1yis1FslsFyB+teZ1q/E6r27tvGVPxy7l2iKp6CZISA/VcHV1OPo3we0l/y1dNbA2+DVqEo540VJ33/RptiJgUl1/w4bZXnlmpNKuKztLasa1gJKdFgpaLW/NRG8CsrsPNw+0KfyfhiDrINEq3GYCxpsU2anmVyPj+96REIclfecUUUj4v9H/EF9sWMg9fBbPQdyLCkHo/vfbLpdQP8AF5iVvjHt1RYOyjXMelH0OWc4IJDKEELEishUrIX+hqIlSzgytVfZx9PCGGpAiP7MeTBgdHEa0pUUTrK2x7O+mVZaX61z1mU3IaUmy0nNGGJXzxoEZxUsy7DIdRmKhSmzxhci5U2u/InWaQPfk+oWFQ/p4zPWYYniiJiYCuSCe435uX8tMrUSWaL+Y9K8XJeyzLOyKPUPI81e+jZsf+KvzWs5pZHFfOWtaQuk9i2mjLBcgp0DtJ7sosIiwGokDfPV8WIRi3aM34O2/xWmRQ==;nPEhee9RjXFIOEvlwU2xTg=="
 ---

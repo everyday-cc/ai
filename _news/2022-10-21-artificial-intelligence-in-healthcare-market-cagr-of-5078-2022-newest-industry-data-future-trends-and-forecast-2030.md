@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
-excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
-publishedDateTime: 2022-10-25T02:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
-webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
+title: "Artificial Intelligence in Healthcare Market CAGR of 50.78% 2022 Newest Industry Data, Future Trends and Forecast 2030"
+excerpt: "G lobal market is projected to display a robust growth represented by a CAGR of 50.78% during 2019 2024. The Artificial Intelligence in Healthcare Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
+publishedDateTime: 2022-10-21T07:27:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-cagr-of-5078-2022-newest-industry-data-future-trends-and-forecast-2030-2022-10-21"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-cagr-of-5078-2022-newest-industry-data-future-trends-and-forecast-2030-2022-10-21"
 type: article
-quality: 38
+quality: 60
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - AI in Healthcare
   - AI
 
 images:
@@ -66,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 65
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market CAGR of 50.78% 2022 Newest Industry Data, Future Trends and Forecast 2030"
-    excerpt: "G lobal market is projected to display a robust growth represented by a CAGR of 50.78% during 2019 2024. The Artificial Intelligence in Healthcare Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
-    publishedDateTime: 2022-10-21T07:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-cagr-of-5078-2022-newest-industry-data-future-trends-and-forecast-2030-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-10-25T02:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029 | 99 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-10-25T03:24:00Z
@@ -240,6 +240,6 @@ related:
         height: 630
         isCached: true
 
-secured: "P5W5Il1d3giIFqLGz6w/IdsmcSbir8ndG8JrnCbHhMdh1Z7e4lIhNVuDThLLF6jqV/IWCPeMVmrwbHrm9GX1SyMW2sokNU5mGm3fWI1YFbvmnnEWw/pEg9SZYwJuyzuStSJ6t43StIcg4XDl1No9/ggkHU9BF1HaPSYV4rwwM+cRJ5oOTPrAFbPYu5eNuryMbdsPmHKtjJNEvv06oGGqBhIXG6wBEaJC9BbQ2X7xEm7Xiht+motIb3IVQtFsaQ7Nhvgr06E0rMO7Skq4AQKpuYXsMLKex8nVX3XcW9VVZZxbGN/7MGzen1tMHULM1Ob/BGS8jh+gaw8bl7jpqqUX97+ezLEV/O7ipmQL7IX3GuM=;0QHkcqemd9+WQdJ4gWbSTQ=="
+secured: "H32fBHV3sl+RDp2R3MJti0zbr0d5SyEScjEkP6l7hIiJRJ3Qpe1PA0CKZiFx5f0Hys4vjiw8u9nB+Qsv6sQfuV1vGhQebtQHfvn+BpyJqbPJdhtaCkPXlySIZNIhH3DbKXA0Z8jKukJ8f5+6Sc4QcY+sjwSjHqFJcs+cMg0dzh6U39CXpG6kUSIiRNPDFD5fRpsPA7VOba0usY25Gw9iEOtXBzOti4aItC4pqeBQA0r91WeagnzA1XdjnRgjK32/StskizszpVGSVGSgGr3XKBfcMWZCbmB3H/6Kpqbok8iY4nNc9xcC224ylG7MuKx8I2jOeEKA3Iy1NcKYQbtcSoZAcc5/5e2UWVYHVuV83WU=;ytD4HgVZcQ0YJqBxBYE8Mw=="
 ---
 

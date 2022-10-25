@@ -56,6 +56,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028."
+    excerpt: "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand."
+    publishedDateTime: 2022-10-24T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 65
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Healthcare Market CAGR of 50.78% 2022 Newest Industry Data, Future Trends and Forecast 2030"
+    excerpt: "G lobal market is projected to display a robust growth represented by a CAGR of 50.78% during 2019 2024. The Artificial Intelligence in Healthcare Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
+    publishedDateTime: 2022-10-21T07:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-cagr-of-5078-2022-newest-industry-data-future-trends-and-forecast-2030-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
     publishedDateTime: 2022-10-25T03:01:00Z

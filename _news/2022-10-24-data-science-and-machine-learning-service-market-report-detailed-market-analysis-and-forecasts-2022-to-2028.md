@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
-excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
-publishedDateTime: 2022-10-25T02:22:00Z
-originalUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
-webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
+title: "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028."
+excerpt: "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand."
+publishedDateTime: 2022-10-24T08:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
+webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
 type: article
-quality: 38
+quality: 65
 heat: -1
 published: false
 
@@ -19,7 +19,7 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
+  - Machine Learning
   - AI
 
 images:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028."
-    excerpt: "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand."
-    publishedDateTime: 2022-10-24T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 65
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -169,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-10-25T02:22:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029 | 99 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-10-25T03:24:00Z
@@ -240,6 +240,6 @@ related:
         height: 630
         isCached: true
 
-secured: "P5W5Il1d3giIFqLGz6w/IdsmcSbir8ndG8JrnCbHhMdh1Z7e4lIhNVuDThLLF6jqV/IWCPeMVmrwbHrm9GX1SyMW2sokNU5mGm3fWI1YFbvmnnEWw/pEg9SZYwJuyzuStSJ6t43StIcg4XDl1No9/ggkHU9BF1HaPSYV4rwwM+cRJ5oOTPrAFbPYu5eNuryMbdsPmHKtjJNEvv06oGGqBhIXG6wBEaJC9BbQ2X7xEm7Xiht+motIb3IVQtFsaQ7Nhvgr06E0rMO7Skq4AQKpuYXsMLKex8nVX3XcW9VVZZxbGN/7MGzen1tMHULM1Ob/BGS8jh+gaw8bl7jpqqUX97+ezLEV/O7ipmQL7IX3GuM=;0QHkcqemd9+WQdJ4gWbSTQ=="
+secured: "8PdHIOe6daU+um7ywShN0di+ouvjj6DmA4cE+uw35jPYw04zkZ7NhCHnwvYxB4j/I1lkXXaIlGe2+y/lvwbkJG0jDi3gTIbO4UikDAJd2Ni8L2PwQ9VJSQdzU2BfYI3A8zQCuD3xq57pC/nI1f+V2bd/di84LTRFZIzLk9CQnNH0NANQ0s+J027T0gv+GChpdAaI8IecrGQEtfZUe7xs6bJ/LfORBZHVRvX+ADChPvl0BWm83NJSvYT1e9sTl+KBNjd3ndb5GKGtqyBl5SwOrPn60nkUaol7Hjh+J3CXUOoko/gatvQqkwtVn+/xRx9JzpCvWlngyfGZlGLtl0b0pm5rVx3Di5gx3t8jNACtf/Y=;xxXtLQ4oFV+y7USNDRmnOQ=="
 ---
 

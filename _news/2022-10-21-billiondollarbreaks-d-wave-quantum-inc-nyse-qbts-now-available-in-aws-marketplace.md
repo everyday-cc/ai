@@ -1,22 +1,32 @@
 ---
 category: news
-title: "BillionDollarBreaks – D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace"
+title: "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace"
 excerpt: "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace."
 publishedDateTime: 2022-10-21T16:10:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/nnwire-2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace"
-webUrl: "https://markets.buffalonews.com/buffnews/article/nnwire-2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace"
+originalUrl: "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21"
+webUrl: "https://www.marketwatch.com/press-release/billiondollarbreaks---d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace-2022-10-21"
 type: article
-quality: 26
-heat: 26
-published: false
+quality: 76
+heat: 86
+published: true
 
 provider:
-  name: The Buffalo News
-  domain: buffalonews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "D-Wave Launches in AWS Marketplace"
@@ -29,6 +39,6 @@ related:
       domain: tmcnet.com
     quality: 19
 
-secured: "STxVg8BCYJUoqaIZ5dNB7REuGnOFTPACUFbi7jUhnoylkpwwnH2CR7u2MUQWJB2vqiFJuIAuU+qccI//UiyPBDclFI41RorQh+A8xGccDP0QuK6C2yJr0DCgrB3ErSsaoQE0rt5nb52C+pJPGvcNayW/R4ARNhArZFQqKbYV8ubVlxuXg8wwASxpEpSmt1vf5dpmH7gT96/0bexvlubdTMhSrrf7PUuIP+euQ8kOKDD5eotH9odgaRfw9glvU+UOD50aMxgQ++4qlwq9mE3AWnEsAl5HebssjHBvkyJKJQjpnAJj683q+3pUQsNtipzZRRYNMG7jh4YmZlfNn4+IAmCNgQUvTvYb/8biOceZzIY=;+8Lo+k4EpyD4UI60utDUmQ=="
+secured: "qv9oSq+qon5qXQlvc9XjznBL1AvgYBbYMBYBZf0DyvnYjURQxBZvrHLJhNKSH2YNtCta8+Le2CNnrZ2HRgkpkw2iPWsy5PCptGu+49DsoMdIFVXsFn1wwZpicoEOYlABc9LkldQDe+xMPN3WC2hIb6pyy+Fa5LeV+QiNeOVwTMb9Vo6dK89FkiPvECSoRpALvJy7B0uQJn/8df5JPhKRNXTZ164cEQJds5fA7PMBGjixIr2gaIOmH+9MqDIASOG0R/Ea42MHVY8al+/jMQO7buRXzpZ7FF0zFS31ef9i7+h4ATDUusEchnxX93bsApSJYqBZz31CKtpK9JEoxhrqCc3sHERl2dK4i81n44yJi/A=;u6mSttH2+eMtd/KrJGWQPg=="
 ---
 
