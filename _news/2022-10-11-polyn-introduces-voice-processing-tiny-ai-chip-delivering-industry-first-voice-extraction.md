@@ -1,34 +1,20 @@
 ---
 category: news
 title: "POLYN Introduces Voice Processing Tiny AI Chip Delivering Industry-First Voice Extraction"
-excerpt: "POLYN Technology, the innovative provider of unique NASP technology and a producer of Tiny AI chips and their associated IP, today announced the availability of NeuroVoice, a solution for on-chip ..."
-publishedDateTime: 2022-10-11T13:10:00Z
-originalUrl: "https://www.morningstar.com/news/business-wire/20221011005357/polyn-introduces-voice-processing-tiny-ai-chip-delivering-industry-first-voice-extraction"
-webUrl: "https://www.morningstar.com/news/business-wire/20221011005357/polyn-introduces-voice-processing-tiny-ai-chip-delivering-industry-first-voice-extraction"
+excerpt: "POLYN is the first to implement the combination of voice detection (VD), and voice extraction (VE) within the ultra-low-power analog neuromorphic silicon. Integrating NeuroVoice allows customers to create miniature products that improve their end users' hearing experience."
+publishedDateTime: 2022-10-11T14:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-polyn-introduces-voice-processing-tiny-ai-chip-delivering-/2022/10/11/9690059.htm"
 type: article
-quality: 25
-heat: 25
-published: false
 
 provider:
-  name: Morningstar%2c Inc.
-  domain: morningstar.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "POLYN Introduces Voice Processing Tiny AI Chip Delivering Industry-First Voice Extraction"
-    excerpt: "POLYN Technology, the innovative provider of unique NASP technology and a producer of Tiny AI chips and their associated IP, today announced the availability of NeuroVoice, a solution for on-chip voice extraction from any noisy background."
-    publishedDateTime: 2022-10-13T12:45:00Z
-    webUrl: "https://www.design-reuse.com/news/52821/polyn-voice-processing-tiny-ai-chip-voice-extraction.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 25
-
-secured: "hUN8SqIaI4AAP0vMOOxKFhqojdGZ8gmfLAoHIM3D9YhkTInoYpF+ZuFL0FyurAOAFt8k5G1tiDvBgizXqPhTfYv/smnmSK7zPL3+i4qTQJTmQ35BkRn38VR8aOWhMSIE3EBvjFtpHgdLAy+deQCO6A3aeQ3OQQT2lCfJZbxbF/+JJ4ZHObS3p9uUo1cQPJR0fm+GDAsYxeFw/MVqob/mVBtqlfqJh2td1YGj2HxGqZayVoOx8/zD280lHWMUYeCTwvbHRAvG4hC2i5iUKON9BTLE5HUHHhkR4EzMdiE6L7O75RV1D1eZ23ykyO+BQSNZ99IVNDyRyoEcupnP3HKHd5e+x4SUPtyQ2jQKYx2IMDY=;MjEY1uKAdrpUETc+I1OGtg=="
+secured: "DnMobKPwT/cSszFR9omz+QNNd4sI55YxEObkgZtyrWOx3jdae+mXDs/S5h8KKvIEL8+X8s+dSWJJEyjdkejtWu+KofBBKNBfs4wrnXSgKsS5Je4CFon4e+InBIjPqwQRjnOGRHMa8AUwcAIehsXNNNb38M/KftbFhSr4cRBoZCQzgOwWZ6m+jPzZeIc6t6RKQgMFvvr5BlGL9S3dFypvzCxUyh3Su4gHSnryw220RkDlQBeRTc4EpTuDyUlw07Fojz6bZ0u2zINMgCpI3zdqVIpRItPAW3BZnRKnwU6SZoU8U7LlUjRVa4QZxzw1tr3MAz8+0Q3nFDrAEEHldZpe5RjsjlRunG87L3Z/2u/XYos=;eW6NcmF+A/21kINgQAhbDg=="
 ---
 

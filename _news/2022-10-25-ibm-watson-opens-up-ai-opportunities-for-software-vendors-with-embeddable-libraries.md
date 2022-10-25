@@ -1,0 +1,24 @@
+---
+category: news
+title: "IBM Watson opens up AI opportunities for software vendors with embeddable libraries"
+excerpt: "IBM Watson announced 3 new AI software libraries that can be directly embedded into apps, including NLP, text to speech and speech to text."
+publishedDateTime: 2022-10-25T12:00:00Z
+originalUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
+webUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
+type: article
+
+provider:
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - IBM AI
+  - AI
+
+secured: "chrIOg9wCxT6hXzQbhhd6G5CTuyqYKmGI7QMQBgU0mbRg1Eb3d6bhRC3hzWGzNmvxmouYmriZOA/XzFqMRT650VkOLZ0qT/QZ5wNn1I+Fx8qBK8o9fmG7nyGa6hj0J/UKhfTgE+s/iZ8rwv+11SzJXrsVwfvGzJ+NJtWDsYZ4dHy20VKtFNBF9ALVSRL30rbKlP3KgcapSEPzAEBQWfUbR27kyHgMZ4n80vzbwR4mzkW2RgroKrF5SFyWXDwJcfy1PDXudvvK1gPBbmBetpXo1xGgEDhSx5cWhocSsHP1N63LTaHLD4NtM8a5HJt4Y2MUIG85X2mLnrL+AdHmwY4MCXV9/XeA+ApsRBF3Z1Xa/gF0Q2vy++RP5IxU13AdZ3Sxl26r+J4p6SyrcAGUwgYTqQEjZ0Ma6MMzy6C4jaU+Yv0Bz8nYsTYcYGwX+m/49mtdpjUx8N0bs16Tz2Xzd6kqPkfxiWh7whqcS2EpYp2iopNZ5MVX+kST/ahNWAZJxY9KOmIsmCRnoEV0sIVVIZGSQ==;QvClRwiscNAWVOfAMwYMyA=="
+---
+

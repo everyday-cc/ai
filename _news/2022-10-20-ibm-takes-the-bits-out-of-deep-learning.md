@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://www.computerweekly.com/rms/onlineimages/storage_g1197646065.jpg"
