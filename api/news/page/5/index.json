@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-19-11-new-deaths-tied-to-semi-autonomous-driving-systems.md",
+      "title": "11 new deaths tied to semi-autonomous driving systems",
+      "excerpt": "NHTSA has added 11 new deaths to a growing list of fatalities tied to the use of semi-automated driving systems that have occurred this year.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "originalUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/10/1200/675/traffic.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/auto/deaths-tied-semi-autonomous-driving-systems.amp",
+      "publishedDateTime": "2022-10-18T14:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage.md",
       "title": "Announcing the TechCrunch Startup Battlefield 20 companies on the Disrupt Stage",
       "excerpt": "Disrupt runs Tuesday through Thursday, October 18-20 in San Francisco.. The agenda is packed full of the heavyweights of the industry hashing it out on stage stage with TechCrunch Editors. Newsmakers,",
@@ -1148,58 +1200,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
-      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
-      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T23:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Meta's AI translator can translate unwritten languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
-        width: 251
-        height: 201
-        isCached: true
   - title: "Facebook owner Meta's AI speech translation tool for Hokkien language draws interest in China"
     excerpt: "Facebook owner Meta Platforms' new real-time speech translation system for Hokkien, a dialect widely spoken in the southeastern Chinese province of Fujian, the self-ruled island of Taiwan and Chinese diaspora communities across Southeast Asia,"
     publishedDateTime: 2022-10-22T09:31:00Z
@@ -128,34 +114,6 @@ related:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
-    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
-    publishedDateTime: 2022-10-20T09:33:00Z
-    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
-        width: 1435
-        height: 869
-        isCached: true
-  - title: "How English Dominates Cognitive Science"
-    excerpt: "Is the English language skewing our knowledge of cognitive science? According to researchers from Harvard University, Max Planck Institute for Evolutionary Anthropology, the National Center for Scientific Research,"
-    publishedDateTime: 2022-10-20T10:45:00Z
-    webUrl: "https://slator.com/how-english-dominates-cognitive-science/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/10/English-in-Science.png"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "r7S2LU5TTR2dpoIj9AmvfL1IMLRvarrPbtdNblr1tU97Gq/MdujkKug4bug6tZvyF6K27a9BLps6VOwe1xKDdy4xvVMCxM072krw5+eKsYbwa8e4wuJUhONtlmJNWC/TrivscT9xPa0kJ/CxTvHqzYNp2mGvEJR0XT+jIWXoJc+JWM/I9vfvneQXJBEf3UibAz9m7Jh3Ewo4BuKhXlVaWrBAmgdfMCC1E3p5d/g1OnY/o1lRw3kkRP9gw9PvcD7GZo7Mpwl8/SXlV16TYewTgCT3h4lRlNupMo74X7F9vs4lErDGJKU4jjAx1mUtGfFuEvwPD6/xbGBtl935oj06eQFFL9bUORTuxhKwzes1iDaUFAp9F68oQLm36rIBizQzMfo9uRVSWz7H1bjRv+2ikMg/9ALrQrknIYgVGgj1AwZ7ez0FdLUlO+2oNsmC+lOJU6ev7mxMaFb/iIDRRg7fMX0X0aww56diEUm7ipRtPgJusfq+kRdMRONYxIAmja/oc1pUjf88Idb7Oy/4vx2rxA==;raXziRWjedQQE1/f3P2SCg=="

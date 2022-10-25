@@ -115,7 +115,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -160,6 +160,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-21-natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030.md",
+      "title": "Natural Language Processing (NLP) Market Projected to Hit US$ 63.0 billion By 2030",
+      "excerpt": "The global natural language processing (NLP) market was estimated at US$ 10 billion in 2020 and anticipates growing at a significant compound annual growth rate (CAGR) of 20.2% during the forecast period from 2021-2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-meta-has-built-an-ai-system-that-can-translate-hokkien-to-english.md",
       "title": "Meta Has Built An AI System That Can Translate Hokkien To English",
       "excerpt": "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form.",
@@ -168,7 +220,7 @@
       "originalUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1383,59 +1435,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ai-generated-art-a-tool-for-enhancing-creativity.md",
-      "title": "AI-generated art: A tool for enhancing creativity",
-      "excerpt": "Artists should embrace #AI as the next advance in artistic progress, not summarily reject it as a creative tool.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "originalUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/openai-dall-e-2.webp?w=1200&strip=all",
-          "width": 1200,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-generated-art-a-tool-for-enhancing-creativity/amp/",
-      "publishedDateTime": "2022-10-07T10:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
       ]
     }
   ],

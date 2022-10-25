@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-16-noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home.md",
+      "title": "Noida man detained in Abu Dhabi after facial recognition software glitch, returns home",
+      "excerpt": "Noida Businessman- wrongly detained by the Abu Dhabi government over mistaken identity- landed in India in the early hours of October 16. The Noida-based Businessman namely, Praveen Kumar was detained by the Abu Dhabi Police over mistaking him for a criminal they were searching for.",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/videos/news/noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home/videoshow/94896099.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/videos/news/noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home/videoshow/94896099.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-94896099/videos/news/noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/videos/news/noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home/amp_videoshow/94896099.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/noida-man-detained-in-abu-dhabi-after-facial-recognition-software-glitch-returns-home/amp_videoshow/94896099.cms",
+      "publishedDateTime": "2022-10-16T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university.md",
       "title": "Nvidia’s founding couple donates $50M for AI computing at alma mater Oregon State University",
       "excerpt": "Huang, CEO of Nvidia, and Lori Huang donated $50 million to the school to build a new innovation complex on campus. The university has also raised a total of $100 million in gifts to launch what will ultimately be a $200 million research and education center with one of the nation’s most powerful supercomputers.",
@@ -1195,58 +1238,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so.md",
-      "title": "Could self-driving trucks solve the supply chain crisis? Meet the AI trailblazer who thinks so",
-      "excerpt": "Prof Raquel Urtasun is the founder of a startup at the cutting edge of driverless technology – and the University of Toronto has been the perfect incubator for her research",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/8d63b3b2dd2fc44b35b12a1d55829a36d4350e92/72_0_2199_1320/master/2199.jpg?width=620&quality=85&auto=format&fit=max&s=201c69131168171b858cbc90e46daa0f",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/14/could-self-driving-trucks-solve-the-supply-chain-crisis-meet-the-ai-trailblazer-who-thinks-so",
-      "publishedDateTime": "2022-10-14T01:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

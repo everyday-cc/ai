@@ -18,17 +18,6 @@ topics:
   - Computer Vision
   - AI
 
-related:
-  - title: "Innodisk Corporation: Targeting AI & Computer Vision, Innodisk Launches New Camera Module Series"
-    excerpt: "Innodisk, a global leader in industrial-grade storage and embedded peripherals recently announced its shift towards the AI industry. As 50% of Innodisk's"
-    publishedDateTime: 2022-10-20T09:46:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57352870-innodisk-corporation-targeting-ai-computer-vision-innodisk-launches-new-camera-module-series-008.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 21
-
 secured: "AeoCQrXwvZxK06svlS66dKytyTXh2Fne7TfNqf3lwoD7TOivPDArS+uCKTKTW6YTpG202YhReHmVj4GzRMgvU3yrlGQeneGdkhhqBbie2S+I+fgjlZnenDvdcV8nJAcg1FzHNcthRoZckMexwYasJ0A/uMAQ6IGFPKq9FFslMgqXJB+uCs3+/qIg7Ent5TJf6lHGbC7+rg15+5Ziel0hn3kQFL8uYbBkzlOrBe54OP4uPHj79awlQ1/TYpsXMIO1chlZtjV5r8skMPtlqxlS5hpcrDKzOUdBrMt3MqEZOpxzKMLSWxd6r3MImue1R9k+zBtAO7fEjq8dY227tFn069WLX+/PSvDPRMmAQqqNxE4=;7dioX/8TmOSueinG7qovlw=="
 ---
 

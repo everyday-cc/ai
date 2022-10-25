@@ -602,7 +602,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -796,6 +796,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-21-natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030.md",
+      "title": "Natural Language Processing (NLP) Market Projected to Hit US$ 63.0 billion By 2030",
+      "excerpt": "The global natural language processing (NLP) market was estimated at US$ 10 billion in 2020 and anticipates growing at a significant compound annual growth rate (CAGR) of 20.2% during the forecast period from 2021-2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-meta-has-built-an-ai-system-that-can-translate-hokkien-to-english.md",
       "title": "Meta Has Built An AI System That Can Translate Hokkien To English",
       "excerpt": "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form.",
@@ -804,7 +856,7 @@
       "originalUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -898,7 +950,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-current-scenario-and-future-prospects-2022-10-20",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -1189,49 +1241,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022.md",
-      "title": "Soft Robotics Demonstrates mGripAI™ at Pack Expo International 2022",
-      "excerpt": "Today Soft Robotics Inc. announced that they will be showcasing m GripAI in multiple booths at the Pack Expo International Exposition, October 23-26, 2022, at the McCormick Center in Chicago, Illinois.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/soft-robotics-demonstrates-mgripai-at-pack-expo-international-2022-1031822294",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

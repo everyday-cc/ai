@@ -52,7 +52,7 @@ related:
     provider:
       name: Machine Design
       domain: machinedesign.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/10/ArtificialIntelligence_PhonlamaiPhoto_istock_917581126.6356df11414bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200

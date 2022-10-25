@@ -1,29 +1,29 @@
 ---
 category: news
-title: "New European Political Party Is Led by an Artificial Intelligence"
-excerpt: "Introducing: The Synthetic Party, a new political party in Denmark that hopes to soon have a parliament seat. Oh, and by the way, its head honcho, Leader Lars, is actually an AI chatbot, and all ..."
-publishedDateTime: 2022-10-21T02:11:00Z
-originalUrl: "https://futurism.com/political-party-led-by-artificial-intelligence"
-webUrl: "https://futurism.com/political-party-led-by-artificial-intelligence"
-ampWebUrl: "https://futurism.com/political-party-led-by-artificial-intelligence?amp"
-cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/political-party-led-by-artificial-intelligence?amp"
+title: "CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology"
+excerpt: "On October 17, 2022, the French Data Protection Authority (the “CNIL”) imposed a €20 million fine on Clearview AI for unlawful use of facial recognition technology. The fine"
+publishedDateTime: 2022-10-24T00:00:00Z
+originalUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
+webUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
+ampWebUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
 type: article
-quality: 59
+quality: 64
 heat: -1
 published: false
 
 provider:
-  name: Futurism
-  domain: futurism.com
+  name: The National Law Review
+  domain: natlawreview.com
 
 topics:
-  - AI in Autos
+  - Computer Vision
   - AI
 
 images:
-  - url: "https://wp-assets.futurism.com/2022/10/political-party-led-by-artificial-intelligence-600x315.jpg"
-    width: 600
-    height: 315
+  - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+    width: 1426
+    height: 808
     isCached: true
 
 related:
@@ -55,21 +55,21 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology"
-    excerpt: "On October 17, 2022, the French Data Protection Authority (the “CNIL”) imposed a €20 million fine on Clearview AI for unlawful use of facial recognition technology. The fine"
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+  - title: "New European Political Party Is Led by an Artificial Intelligence"
+    excerpt: "Introducing: The Synthetic Party, a new political party in Denmark that hopes to soon have a parliament seat. Oh, and by the way, its head honcho, Leader Lars, is actually an AI chatbot, and all ..."
+    publishedDateTime: 2022-10-21T02:11:00Z
+    webUrl: "https://futurism.com/political-party-led-by-artificial-intelligence"
+    ampWebUrl: "https://futurism.com/political-party-led-by-artificial-intelligence?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/political-party-led-by-artificial-intelligence?amp"
     type: article
     provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 64
+      name: Futurism
+      domain: futurism.com
+    quality: 59
     images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
+      - url: "https://wp-assets.futurism.com/2022/10/political-party-led-by-artificial-intelligence-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
   - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a €20-million fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform."
@@ -127,6 +127,6 @@ related:
       domain: lemonde.fr
     quality: 33
 
-secured: "3NRgEbqq7u38rJwvl020kObF+eJPDS1jh09GMcX9R54JvrpM4S4dTofUFDcgX8mfD01rkpOD0EOXfZPsbFTyPOw9iS+ajT5c8ZNeU02PvQ60wFhMXxzo3eAeJ6+rAIIe41LRgRifyGxCF0NiJSfVGsFDqPvD4ir7Fogx6h0iQ8iNlykUdZEpNecATT3+kKFv/hbUbBDEEyPIiFGldlIZaHN019kaL1niMcTzyz+sZJufPzTn/luSZKVvICxvb+Jj/+6UYxtlv4O5B00pwJ4R65s9pZJrwQYCq7zrCA/B6MAw42XdRoGdUK0TDapnQpGw/rJWwY6IVujHF26tFd0Hw1rLFh4rlabBMlllYJFSmqY=;WHaNFFPYNs/a0NeWZRZfSQ=="
+secured: "1oY8qxpdmMLc8dJ9aT1j2I68q73R98BEAXu8+158nJflvRVeVbxUVudCeQGtEM1LjYGyzbIBmIA4WcZsqVTSqCKa89co+SURZAUKYadjzlx7gHV9iR+lfLhPv25e8Kx7zsxbz8jRiLeaRzjtnLMRWx4f8+ASeL8qrc22kHQNH9kSyfGLlE7mbryYWNuUgPJQHj5hoxUnLRSkM7F7tBTVQ7F69uAszlzXBTrz0OD42lwvIhsCdtJeiw3cKK3966h7LZYqd/A7Ylbuegzi75IdnUNHAMkZAHwvZYh1Bk5MnrnKQEuBGH0w2L5rSMU3qcby9htG4dmWnRXo5iWKs4/SYPV2z8cKKRzZdmQANMIkXdE=;9bXHqICwQIuab5yybuPE+A=="
 ---
 

@@ -50,6 +50,22 @@ related:
         width: 728
         height: 381
         isCached: true
+  - title: "CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology"
+    excerpt: "On October 17, 2022, the French Data Protection Authority (the “CNIL”) imposed a €20 million fine on Clearview AI for unlawful use of facial recognition technology. The fine"
+    publishedDateTime: 2022-10-24T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 64
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "New European Political Party Is Led by an Artificial Intelligence"
     excerpt: "Introducing: The Synthetic Party, a new political party in Denmark that hopes to soon have a parliament seat. Oh, and by the way, its head honcho, Leader Lars, is actually an AI chatbot, and all ..."
     publishedDateTime: 2022-10-21T02:11:00Z

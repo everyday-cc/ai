@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
+    publishedDateTime: 2022-10-21T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Music Streaming Market Analysis Report 2022: Artificial Intelligence and Machine Learning Gaining Momentum"
     excerpt: "The global music streaming market is expected to grow from $24.09 billion in 2021 to $27.24 billion in 2022 at a compound annual growth rate (CAGR) of 13.08%. The music streaming market is expected to grow to $45."
     publishedDateTime: 2022-10-21T16:25:00Z

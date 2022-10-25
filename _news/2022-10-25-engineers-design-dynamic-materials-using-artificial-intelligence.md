@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-24T19:05:00Z
 originalUrl: "https://www.machinedesign.com/materials/article/21253325/engineers-design-dynamic-materials-using-artificial-intelligence"
 webUrl: "https://www.machinedesign.com/materials/article/21253325/engineers-design-dynamic-materials-using-artificial-intelligence"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/10/ArtificialIntelligence_PhonlamaiPhoto_istock_917581126.6356df11414bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
@@ -58,6 +59,6 @@ related:
         height: 785
         isCached: true
 
-secured: "jv6oQlWfQrb59o1jx4KyBTkFMnvwQOSTW4OshtJ25ZwbC2CNgWN/7/CKu/lzmTQlqNsKcaI6d/P0Klos8qj+VLSvwp2ctEM4XU0C3zihhRBQo+DQp47VB5rBRvEKL5vgaBtS+XbIY8Ow+90CY43X166IalNmtx8NefU/fZWb8LWLExP4vilxsEhd4vy5qlkZywfqn/Uk0jevvWQNxrqN6c7x6P9/6MjKMK/GkjyfNlsH08+32S/44EPoDGtO8V/f8ZBICQXAfEsCjzWiy3HJsuhi/Kz2XIzcBzKu9536AO//6HQzRMKtwjnLzU9Ql9c7gd9y/RIYuIrF+l0ABI+nE4SvMa93FYLg9mJbjuDZmEU=;bREN4mIZmYm39u8yIvBLWQ=="
+secured: "lVCxglpVGrRCi780J/idSnMJUitXZqB7brXaBBlF3xz9tyLTz9Q6oi3pm8f8y79goS6bnnT/obYf0i/wanuCH8wGbaF/6bcZR4c1j/JwWE5I0gYuHyMEpvOSgALucZ+YOmcc9YgEhCM3B9BYnJoUTJqTlq2gLfWPcIGf060FODBuHtt6xU3sL8JGUodcxR+adAdzGtWKdmsZBn8IZNbYU13TDgu5FcZz4OmtE/3wEQuA6AIf6a1FlqbGugmCAMQuSkO9gp2MLoSDM0ihD8dQgA4hxu62DcJU/UbWugeQ7OvwUMo7qx0gDn/iNK3OKpzUed4qWw4uytb7i2MTqQ6GEPsScRZ2kp90pFkNJV2mvwhf02WEQ+ceebdgwAX94bGenqJckKpiC8xD2oXFXkxUS/kH5FEQL69tFgAt8SOdcSjflU24YWNSgD/W8Y5k0+6Eqr2g5cJHBOgxa9lcmPVGmwD34ACds/A0F5natMXwIxevSz3jUJiDJmFQ5rVd4Aoo44E2fEUeQzQ//AetXUMZoQ==;XubXZyAUrjotaIUuZyxwGw=="
 ---
 

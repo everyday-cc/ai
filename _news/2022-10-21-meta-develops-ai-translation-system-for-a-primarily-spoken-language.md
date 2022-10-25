@@ -43,20 +43,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Meta's AI translator can translate unwritten languages"
-    excerpt: "Meta has announced an AI-powered speech-to-speech translation system for unwritten languages. As part of Meta's Universal Speech Translator (UST) project, the company has built a translation system for Hokkien,"
-    publishedDateTime: 2022-10-20T09:30:00Z
-    webUrl: "https://www.dailypioneer.com/2022/technology/meta-s-ai-translator-can-translate-unwritten-languages.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 54
-    images:
-      - url: "https://www.dailypioneer.com/uploads/2022/story/images/big/meta-s-ai-translator-can-translate-unwritten-languages-2022-10-20.jpg"
-        width: 251
-        height: 201
-        isCached: true
   - title: "Meta launches AI tool to translate Hokkien to English in real time"
     excerpt: "The artificial intelligence model is currently able to translate only one full sentence at a time, with the eventual goal of simultaneous translation."
     publishedDateTime: 2022-10-21T04:50:00Z
@@ -128,34 +114,6 @@ related:
       - url: "https://micdn-13a1c.kxcdn.com/images/sg/content-images/by_year_month/2022-october/meta-hokkien-translation.jpg"
         width: 800
         height: 450
-        isCached: true
-  - title: "Meta’s New AI-Powered Speech Translation System Pioneers a New Approach For Unwritten Languages"
-    excerpt: "To address this challenge, Meta has built the first AI-powered translation system for a primarily oral language – Hokkien – which is widely spoken within the Chinese diaspora. Meta’s technology allows Hokkien speakers to hold conversations with English speakers as the language lacks a standard written form."
-    publishedDateTime: 2022-10-20T09:33:00Z
-    webUrl: "https://analyticsindiamag.com/metas-new-ai-powered-speech-translation-system-pioneers-a-new-approach-for-unwritten-languages/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 27
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/Screen-Shot-2022-10-20-at-11.20.31-AM-1.png"
-        width: 1435
-        height: 869
-        isCached: true
-  - title: "How English Dominates Cognitive Science"
-    excerpt: "Is the English language skewing our knowledge of cognitive science? According to researchers from Harvard University, Max Planck Institute for Evolutionary Anthropology, the National Center for Scientific Research,"
-    publishedDateTime: 2022-10-20T10:45:00Z
-    webUrl: "https://slator.com/how-english-dominates-cognitive-science/"
-    type: article
-    provider:
-      name: Slator
-      domain: slator.com
-    quality: 24
-    images:
-      - url: "https://slator.com/assets/2022/10/English-in-Science.png"
-        width: 600
-        height: 400
         isCached: true
 
 secured: "9KlTBMpNG/qDgzhN2GfcUQFM4YuM3i1yl+nfXWT4DJgZ0z4XtZOaG1kH5BtZSASNHOUnmgdz8KGPRUXiBaaWzNw4Gtx79t0jFykfdB1K3azV1SRrZ0PpL9w23LuuhHWfS9CofnPWjjh4yZfWu9g9Xz2vP50wQEtwdWplnLYrUK9PS1YOp0MRhjAwq5dwN50YnkhsnPPWn9E7298VustSM2RILErDKiL6QVkfSDsPT3TscgnpXO0u0GWhuTkfDqLjTFVT+0aWsl6sj2XEYyehMT1Wk5EGhUXi8scpNUYKOSRhtcMr5Ts+W71TZRGtToaWDo4V5iHChXGSKrhzk5mYzlZWciHSSLktU8P/+jfDR7k=;PT+0bruDB5Ox1Yc8CLpIEQ=="

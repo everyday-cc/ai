@@ -42,6 +42,22 @@ related:
         width: 3092
         height: 2767
         isCached: true
+  - title: "CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology"
+    excerpt: "On October 17, 2022, the French Data Protection Authority (the “CNIL”) imposed a €20 million fine on Clearview AI for unlawful use of facial recognition technology. The fine"
+    publishedDateTime: 2022-10-24T00:00:00Z
+    webUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
+    ampWebUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 64
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "New European Political Party Is Led by an Artificial Intelligence"
     excerpt: "Introducing: The Synthetic Party, a new political party in Denmark that hopes to soon have a parliament seat. Oh, and by the way, its head honcho, Leader Lars, is actually an AI chatbot, and all ..."
     publishedDateTime: 2022-10-21T02:11:00Z
@@ -114,6 +130,6 @@ related:
       domain: lemonde.fr
     quality: 33
 
-secured: "mtDXD4U0pG8R4Jpovgcdz8JkwCpw2bfToB6A6yrXXUwb3Lm9S60rjAf5H+NVFxsdUoBuybdQikPWO97YtAXjokWMr3bfawBlbCeuSp35ooHFAP04xDnWwYiuLf0dQGQ5Urq35T1SwXHs8+ZMZqrjqoVwamR5SigRvJE+Hvw0kSi03ckxQzXiP1jRJd6IxfYdnItEYVkO7RvisMmDvbRqbKBUqbVlMsFIVTtQDEpnuEizoOSe6G/BXDSQk69544mCGYwIwpWdKwEocY1ZjQbNbnGC0ootgtaQ/cKubdSQ8pOiWBE7tYH05MXYq+mHBuyxvi8DGHT0dTcszESMNsymeecWS8RZP5SkMinfVdCWcZU=;ODjSTfkpOU0p+ufcZwZ2HQ=="
+secured: "qq9h7bbpBPyFQFj9MaZzR1D/cBD7y/Be6wyPylDPxA1LUHupalYA/jJ/iiJvWorJ9SI4G3hTlbZmrTN8lym8rqoaG/7R1tot/rTfXFnxydSzmf7PD3t3HXmBlJyFMOxuqumotiqwZw66gipaprNNPxraJXZ+d61nz1vQy29g7qH864HZEBZRodJC0cmxM6cfYM22L9OfwVWjTaqZ4/STz3v24RXCHb8DAVTZMihJl06KnFvmvQzu39kh0sOyYWj47u8e5SDZBm87ggArDSAMmZ6CMC9WN5QBy6s8XHhscv0i4LjDt+8I6UgqX4Da67lBkzghxHDAvlzDuntlozuS9MrsUIHICYMAcCwxjddF9eteKCdBI1FMS4JuiRXVe7ePG5S+TT4C6hRYnU4sPHuFYvc8C5hE2ytT/KHVAYoIXszvSBb/4STaQCElTioqTfpb+IPqc7sVL3KAtZK7lhpKl9VMeNjVvYNQJ11x+Mapj2mfll/9xydceum8KUKiihW5sKtOm18owcczPGJQ3zkI+w==;DKN2UbcUhT5gPPNWey/3SQ=="
 ---
 

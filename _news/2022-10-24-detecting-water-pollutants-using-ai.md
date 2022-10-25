@@ -50,13 +50,13 @@ related:
     provider:
       name: Machine Design
       domain: machinedesign.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/10/ArtificialIntelligence_PhonlamaiPhoto_istock_917581126.6356df11414bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
         height: 630
         isCached: true
 
-secured: "t4yD6bI//DWTIuLKO//awgtl96PuypQtVcW+QSKCrY4J6kpOy+eFgZ8Cd2LERHgBt7p/AJ6tzRRrDZ9U6CQbE/998CHXzvH8H3JPkRdD9DlYmOi6OfLbsaR7tlAgyIiodKFazs0lsDltJASR+CgjY5YNqxRMCj/lBFC40Bh8A9XWx/L6roTkgX+1onbPgcyKxDTrGsodqfpE5EqixUx1nFqFjIY3MXTaMZJl9wuWW1Mis5CU4xhv4DqkIvjYLjhj9qlM3luEi9sJTRK4LXAObFXDPWmnJgP+tNK/AV5Y8iZmZ39tH1WF51y8Naz5k49z0ZJlz8DkRPgjTMD+wyZxiZ4U4+JhUy/dHsQbA1Xd98c=;5u3+/ZehzzD0h3NA2tNSpQ=="
+secured: "h4IPnWw+/cJNEaLjIFK44tOimXp5OvBhDe8NHRgXlCmNjxIwiDUQOSg6tqsTrvXCvAjgtu5OsB00clbhTVrpK0uqlEdv4AxvQ8tZH3NfIXtLOKSIekvD/e5pVzXAI5ZFY0OcRLPto2zQsLh0nvn/eDejs1pe8QNSTIWEe7XBTxfM1KGHSZNY7nFoYqTjmx5KG82JhzpgFqQKKB46BPUaJ87XIN6wkl9Mea3NQcRd48HcTnqb/xQcsi+Fd2MyNrWxFXdLqFoCDKvanXcc2hF0ewaoqmUeWsAjvcyjpRrLgsGjoO+4E329LmneIlpubf2289XAzXJNIRTupDGDuO89H6x8ORBWq0zKlfpD92OL3rcEQZbxs0EZWB6V9Y5PTe1A4AtMDNFfKbpOeDLMs3xAE0nE24WctfHNG0mj6DOfLAj/UVQnClsusGudGZ1U6e4zl19bSbHr94rEgbSx0EjdWmq7+Zi+/vJ3GsSd2SzI3DIsRqzAOsi3e2XohCCkitC/pd3eFEBd9h2UmvWTlq6cUw==;tuVXG3xUHbuSULLNihxjjA=="
 ---
 

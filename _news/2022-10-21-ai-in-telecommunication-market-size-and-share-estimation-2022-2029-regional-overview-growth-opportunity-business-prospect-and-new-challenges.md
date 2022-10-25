@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "GIFT City, Fintech Association of Japan sign MoU"
-    excerpt: "On Thursday they announced a memorandum of understanding (MoU) for conducting programmes related to international financial services, promoting GIFT City as a fintech hub in India, and exposing young innovators in the fintech domain to opportunities in India and Japan."
-    publishedDateTime: 2022-10-20T09:54:00Z
-    webUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/gift-city-fintech-association-of-japan-sign-mou/article66035198.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 44
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/54phyx/article66035286.ece/alternates/FREE_1200/IMG_10507_25-7-2019_20-4_2_1_6G9HE162.jpg"
-        width: 1200
-        height: 889
-        isCached: true
 
 secured: "7cADgCiGeEzvfXYwIXpB8/AvlnE8rVa/ygLfBw+Zj1hayxv2+cwxDE/C43h1t7WJPLfjWx162yyhMyCuohq9P46QWhvL7iXmUyl3P04ysTfbFWUR+AT992fa6Wp2Z3LrclnYrx81IaKRgHseSAOBIZZLVyHg+kf5U5BNvB4bsPD9p+mGgP+EaUxoPr2wqwA2hP40u2qnQqPL1F01kwDupOFDwAmyTP0u44Ma4Bc7Bpdtd3WGgh/SbaR2S5P9zkpKHGDx0pz/A0MN8MmgNWBCqsXSvakgbe+Jy2HiV5uLyFXO3GtIr2iEwU2lv6ms5fm4nXCx39/D45qOsNZJdkevF0O/7ytcoBcOIpKkcN9NPBk=;YqpcflpiarKkEFS8c8oNaQ=="
 ---
