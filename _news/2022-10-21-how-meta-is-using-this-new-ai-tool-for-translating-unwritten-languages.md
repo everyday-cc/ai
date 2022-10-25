@@ -59,6 +59,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Speech-to-speech? Meta AI can now translate spoken-only languages"
+    excerpt: "Have you heard an AI translation of Hokkien before - a largely unwritten dialect that Meta's Universal Language Translator can decipher?"
+    publishedDateTime: 2022-10-25T04:00:00Z
+    webUrl: "https://techwireasia.com/2022/10/speech-to-speech-meta-ai-translation-can-now-translate-hokkien-spoken-only-languages/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 54
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/000_9WL7LP.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "Meta develops a new way for people to connect through language using AI"
     excerpt: "The artificial intelligence speech translation system can decipher Hokkien, a spoken language, and hopes to one day translate other spoken languages."
     publishedDateTime: 2022-10-20T15:36:00Z

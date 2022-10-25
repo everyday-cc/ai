@@ -55,6 +55,22 @@ related:
         width: 1300
         height: 633
         isCached: true
+  - title: "The Value Of Artificial Intelligence Isn’t Just Insights"
+    excerpt: "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,"
+    publishedDateTime: 2022-10-25T04:13:00Z
+    webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/"
+    ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200"
+        width: 933
+        height: 622
+        isCached: true
   - title: "Workshop on the Ethics of Artificial Intelligence"
     excerpt: "A select group of philosophers recently gathered to discuss the ethics of artificial intelligence. The PRIO project \"Warring with Machines\" co-organized (with the Technology Ethics Center at the University of Notre Dame) this workshop in Rome,"
     publishedDateTime: 2022-10-24T00:00:00Z

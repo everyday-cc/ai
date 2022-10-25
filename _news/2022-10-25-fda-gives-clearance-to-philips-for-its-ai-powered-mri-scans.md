@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Philips advances MR radiotherapy imaging and simulation for head and neck cancers"
-    excerpt: "Philips advances MR radiotherapy imaging and simulation for head and neck cancers GlobeNewswire October 20, 2022 October 20, 2022 FDA 510(k) clearance for AI-enabled Philips"
-    publishedDateTime: 2022-10-20T13:00:00Z
-    webUrl: "https://www.asiaone.com/business/philips-advances-mr-radiotherapy-imaging-and-simulation-head-and-neck-cancers"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 14
-
 secured: "mf3/0GIiQmGPCw4x6rUnQiOLYTKJM4Y0vD1RmBopp0ECihtDvF91zFbXOQNYKgXpOcFEwXVMGLXACFTnKhkCNglp51HpqMhP02CHZF5U9WKFsaC4qt3sp+Bmf6lWnyWH5QSpUBCHYLrDVs+opy/41GFv6bGv+GM9mBbFUdFeygj4pHt/Tpw0Y2PklNR3YzijZgZMl609Ozr9X8yQBxRYlo26dyZcaoke4nxIv/pXYrA5k9cb3Wbs6B1OPYMO5RvVa9Io6t1wZpxtcuyVO+bS9+YgbSu32osG4tDTtO+QOpMahg4/1XwOXhVAcy5D6nf0zlCkSrxY/uwe1QpjgGEgW2aDsSmWmU2020OGp31o3VNIsk8MsEViUIQ8syEHU1Gvg7yqG0JIW6TRl7zhV7Qycx1S/32TkyhaEwfAXpa/TH0YyfI8AQaAzhQnGw4kteK3U8VNA0W00NdYUghmoew2zbJ0k47qgziTAUlYacSVP9v1cT+6OtTIOEHi0Ax1KPGPEt7Lj6P2H1hWP5UmgnNvyw==;l8hiOC6NU5twzfijGCO4hg=="
 ---
 

@@ -116,17 +116,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "JFK tests out self driving vehicles"
-    excerpt: "NEW YORK - JFK Airport is testing out self-driving shuttle vehicles. The Port Authority is working with autonomous vehicle (AV) manufacturer Navya for the test.  They are looking at the possibility that the shuttle could be used as shuttles for airport passengers."
-    publishedDateTime: 2022-10-20T11:25:00Z
-    webUrl: "https://www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles"
-    ampWebUrl: "https://www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles.amp"
-    cdnAmpWebUrl: "https://www-fox5ny-com.cdn.ampproject.org/c/s/www.fox5ny.com/news/jfk-tests-out-self-driving-vehicles.amp"
-    type: article
-    provider:
-      name: Fox 5 NY
-      domain: fox5ny.com
-    quality: 39
 
 secured: "IIfs1Gf6DDRQl4xgc4l0KzS4ZXx3BzxCYyZUcbwjCSMYi/FxtxQmWtrGTQHSdDpfMmTOV/hocV3VYOtDxlf7JQ92aOVvjEqp5P2tZQf+i0aMRPfjqxMkpVy5WhfQhi03SGFKbaB46X4Pz19decuHJZpti0GK1uL7IPVJy9vodfAnntzhqL/1doB1RDbx4XKJiRuKR59H+T4CGN3FjFCh/31221CWr6RL6rTW4QbojsYz1cdyG54O4CNohEyomVZvxqOo5EyJlhBqRzYImEe8DfWv0q3I+ea9Zg4pS1fR4W2UD3GHq9ZH6sljq6aRjFG7KoPaK1wb9qEHo5kluqgvE2EQ+4HUAxDltcsLPgEcrCApQQERxO2MU7tOb8LHl9wHEqVnCL8mVzix0d6XrDXDu3An9ue7mjMSf1QUupZ57vMx80Nz3HLkIfJ3mkIR02dYXB6nZfcTiw8TXWfm9e6D1743W2yK/EvoLyu21vnvtaonvWgHr5CDHiomPtWl1xeBIApjk3i3Ni1rG7vvY5V1YA==;bn/D71fC6B0NTHtgHslcsQ=="
 ---

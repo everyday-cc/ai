@@ -21,6 +21,17 @@ topics:
   - AI
   - Machine Learning
 
+related:
+  - title: "Brainchip Holdings Limited/ADR: Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / October 23, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announce"
+    publishedDateTime: 2022-10-23T21:34:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57373803-brainchip-holdings-limited-adr-media-alert-brainchip-exhibits-its-essential-ai-capabilities-at-the-linley-fall-processor-conference-2022-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
+
 secured: "fRQK1Kt0owsawUQSgpXtwQksfYlXloZ6meqOLtIkZXFtC45L6XitWydCoDjcK91EPKqFcv1xI27y+RlkkQlB3g7C2WTPYCC4TdLHNitW8w6x/l1a3csazmvofESpOJ5vQX92c1NxsTwMhhV+Ufg+9sKcz3Z6X1FPZevNKBIUvGYSx1gVavcdPFlPaOeaHIXZyR7lqLKA/qohWcpWxkEnYbEo4gZAaX7WhytAFQk/uVDF0T4/ap0TpJUTUIsBnPDvzhWCCa3oAfwJT9aoUG3Hl/hkTKXao2X5pRqyxeYt30THUETaUZNCmK3n+gDETR+OLqIaTEP/vPOUqs794ot/0Ar/B0eTpkoRTsrO68Q/Bd8=;p4Hpsh7AmjIq7u9StZamUA=="
 ---
 

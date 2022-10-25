@@ -120,15 +120,6 @@ related:
       name: Hindustan Times Tech
       domain: hindustantimes.com
     quality: 34
-  - title: "French regulator fines US face recognition firm Clearview AI €20 million"
-    excerpt: "France's privacy watchdog slapped a €20 million fine on US firm Clearview AI on Thursday, October 20, for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The firm collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database – reportedly around 20 billion pictures – to clients including law enforcement agencies."
-    publishedDateTime: 2022-10-20T11:18:00Z
-    webUrl: "https://www.lemonde.fr/en/pixels/article/2022/10/20/french-regulator-fines-us-face-recognition-firm-clearview-ai-20-million_6001116_13.html"
-    type: article
-    provider:
-      name: Le Monde.fr
-      domain: lemonde.fr
-    quality: 33
 
 secured: "qq9h7bbpBPyFQFj9MaZzR1D/cBD7y/Be6wyPylDPxA1LUHupalYA/jJ/iiJvWorJ9SI4G3hTlbZmrTN8lym8rqoaG/7R1tot/rTfXFnxydSzmf7PD3t3HXmBlJyFMOxuqumotiqwZw66gipaprNNPxraJXZ+d61nz1vQy29g7qH864HZEBZRodJC0cmxM6cfYM22L9OfwVWjTaqZ4/STz3v24RXCHb8DAVTZMihJl06KnFvmvQzu39kh0sOyYWj47u8e5SDZBm87ggArDSAMmZ6CMC9WN5QBy6s8XHhscv0i4LjDt+8I6UgqX4Da67lBkzghxHDAvlzDuntlozuS9MrsUIHICYMAcCwxjddF9eteKCdBI1FMS4JuiRXVe7ePG5S+TT4C6hRYnU4sPHuFYvc8C5hE2ytT/KHVAYoIXszvSBb/4STaQCElTioqTfpb+IPqc7sVL3KAtZK7lhpKl9VMeNjVvYNQJ11x+Mapj2mfll/9xydceum8KUKiihW5sKtOm18owcczPGJQ3zkI+w==;DKN2UbcUhT5gPPNWey/3SQ=="
 ---

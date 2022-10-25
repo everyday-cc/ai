@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbesindia.com/amp/article/lifes/how-artificial-intelli
 cdnAmpWebUrl: "https://www-forbesindia-com.cdn.ampproject.org/c/s/www.forbesindia.com/amp/article/lifes/how-artificial-intelligence-is-branching-out-into-politics/80717/1"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -38,15 +38,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 34
-  - title: "How artificial intelligence is branching out into politics"
-    excerpt: "In Denmark, a political party led by an artificial intelligence has now been founded. Its name? The Synthetic Party."
-    publishedDateTime: 2022-10-20T12:34:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/10/20/how-artificial-intelligence-is-branching-out-into-politics/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
 
 secured: "gFYH3PpnpLVODF9HJWse1ntzBwG3ca6KktkctFmlEfXudAIP/W3Sw/oSstXkAPVSE0QE4kcNXxT76tgt+OBGZH2ocmS/phWsP1ygJIcczdBWC/Bt+xASoTQ1sypDgzX4EmX75S/tEMf1KwhgnhV/6UIZNhmoCGAwf7d4K+085WU/s7Z4VekumvvCWMNq18/fGxEJWHMW3e8L7BA7BXl2euUmFrwYYIFlVfCcX84hKDdb+GaOxcMNJ2KwU/c+V4ocwIxVPU+K68T9xToavXoEsk2V4znbwi7MtzbZUKwddnMwnIQrheEVoGULAKp1MPNxnKkmole4sfmPVKaNbnQT/F67BU0UIfRxx1ruqMZgvdQoztyVE37cWh3IHVNHQ0DR3Oyr2iBzhdJfRQ6/GdKOIuZ6gtgkGwbJeHsM0NCJx5twzfobWtzu5k5VdmqV/BtDEJ0Wp2DaW1wFEallKmK+dQPhJPZR+iwgU9UhCCPjVEkgNJnTbpacIECgga9rERW9Bz+BnmKsmpggVnozMRgLlw==;bZM/gLQwYu81IVp5ptXGzQ=="
 ---

@@ -38,15 +38,6 @@ related:
         width: 900
         height: 600
         isCached: true
-  - title: "How artificial intelligence is branching out into politics"
-    excerpt: "In Denmark, a political party led by an artificial intelligence has now been founded. Its name? The Synthetic Party."
-    publishedDateTime: 2022-10-20T12:34:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/leisure/2022/10/20/how-artificial-intelligence-is-branching-out-into-politics/"
-    type: article
-    provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
-    quality: 17
 
 secured: "i4V3FvuhqWZ9/MDqQKpJGfKFJPYMzUTEPcvnnfcSy0pMAfOrS7BUW0thG1psBbTVv3unXcMxq5JrJL4Sl/8MyiaQrypX4UqrsJ4dtvwk0gvWd9642OfdktO+xkz/R93OnM3YFDKBDe3TtDTWrxa7wBdlzHHiwQ/Ovw31Etrc3fMPRCQGSEAC1wamDLZGV8ldRvupj9A/1azRwSW2tqT0VbGlFAFgOzOLf8vLVMRUr2rhbMS1YsW0zCLN3IKYdXrsgpz3B5y5XV5RDPdRLcG2PHMmUsU6InptmmaBRuOHac9rokTbFRiBrklzsILKFXNWkp/bbnDVdzV0fGEoXYX90+34hQn0i3bZbVKYaNr30X0=;SQUm89rDemOPrCneN3jeUg=="
 ---
