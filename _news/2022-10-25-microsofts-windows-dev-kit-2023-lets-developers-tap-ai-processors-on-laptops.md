@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-le
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 113
 published: true
 
 provider:
@@ -32,20 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s new AI art generator will spark your imagination"
-    excerpt: "Microsoft shows off what Image Creator, its new AI art generator tool, will look like within Microsoft Edge and Bing. It's live now in preview"
-    publishedDateTime: 2022-10-20T17:44:00Z
-    webUrl: "https://www.pcworld.com/article/1358985/this-is-what-microsofts-new-ai-art-generator-will-look-like.html"
-    type: article
-    provider:
-      name: PC World
-      domain: pcworld.com
-    quality: 86
-    images:
-      - url: "https://www.pcworld.com/wp-content/uploads/2022/10/Microsoft-Image-Creator-dog-1.jpg?quality=50&strip=all&w=1024"
-        width: 1024
-        height: 684
-        isCached: true
   - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
     excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
     publishedDateTime: 2022-10-21T19:13:00Z

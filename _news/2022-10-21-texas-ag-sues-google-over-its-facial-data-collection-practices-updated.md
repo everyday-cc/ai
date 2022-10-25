@@ -9,8 +9,8 @@ ampWebUrl: "https://www.engadget.com/amp/texas-attorney-general-sues-google-over
 cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html"
 type: article
 quality: 73
-heat: -1
-published: false
+heat: 143
+published: true
 
 provider:
   name: Engadget
@@ -31,33 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos"
-    excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”"
-    publishedDateTime: 2022-10-20T17:10:00Z
-    webUrl: "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912"
-    ampWebUrl: "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 75
-  - title: "Texas AG Sues Google For Allegedly Capturing Face And Voice Data Without Consent"
-    excerpt: "The lawsuit alleges Google Photos, Google Assistant and its Nest camera record users’ facial features and voices without their consent."
-    publishedDateTime: 2022-10-20T17:10:00Z
-    webUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/"
-    ampWebUrl: "https://www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianbushard/2022/10/20/amazon-faces-1-billion-uk-suit-latest-alleged-antitrust-violation-against-the-company-1/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/63517ebecde363a31243604e/0x0.jpg?format=jpg&crop=2138,1203,x0,y176,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Google sued by Texas over ‘invasive’ collection of voice and face data"
     excerpt: "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,” the complaint reads."
     publishedDateTime: 2022-10-20T20:13:00Z
@@ -106,17 +79,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Texas Attorney General Ken Paxton sues Google again, this time over facial recognition and voice data"
-    excerpt: "Texas Attorney General Ken Paxton filed a lawsuit against Google claiming the search giant violated Texans' privacy without getting their consent to do so."
-    publishedDateTime: 2022-10-20T18:23:00Z
-    webUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data"
-    ampWebUrl: "https://www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
-    cdnAmpWebUrl: "https://www-fox4news-com.cdn.ampproject.org/c/s/www.fox4news.com/news/texas-attorney-general-ken-paxton-sues-google-over-use-of-biometric-data.amp"
-    type: article
-    provider:
-      name: KDFW
-      domain: fox4news.com
-    quality: 41
   - title: "Texas accuses Google of collecting people's facial and voice data without their consent"
     excerpt: "State's attorney general alleges the search giant is illegally capturing and commercializing individual biometric data"
     publishedDateTime: 2022-10-20T20:37:00Z

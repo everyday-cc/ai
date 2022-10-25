@@ -9,8 +9,8 @@ ampWebUrl: "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai
 cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 79
+published: true
 
 provider:
   name: India Today
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta touts AI tool, developed partly in Israel, that translates spoken-only language"
-    excerpt: "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project"
-    publishedDateTime: 2022-10-20T18:49:00Z
-    webUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
-    ampWebUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 67
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "How Meta is using this new AI tool for translating unwritten languages"
-    excerpt: "Facebook-parent Meta CEO Mark Zuckerberg shared a video in which an engineer who helped develop this tech spoke Hokkien and it was translated to Engli"
-    publishedDateTime: 2022-10-20T17:31:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/articleshow/94995873.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Speech-to-speech? Meta AI can now translate spoken-only languages"
     excerpt: "Have you heard an AI translation of Hokkien before - a largely unwritten dialect that Meta's Universal Language Translator can decipher?"
     publishedDateTime: 2022-10-25T04:00:00Z
@@ -73,6 +41,15 @@ related:
         width: 1024
         height: 681
         isCached: true
+  - title: "How AI could help translate extreme weather alerts"
+    excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
+    publishedDateTime: 2022-10-21T12:30:00Z
+    webUrl: "https://www.axios.com/2022/10/21/ai-translation-extreme-weather-alerts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "6krqZsGQm1MkhX5U4X0d+p2Dz5YnfSbchZ3Yo6Bga/a8427GYCEGBnau8tHgeHB2bU6wzT5ufjSTUoHYStT2vhyOdbyW2mEKoB1J8+Zdvj+RWTmQnKdmcLFRbOnd+XTWrsljeej+mZJSgUWbp18G5fw/iyMilXiFbnQOrrwmLHnSbuEBZdvjFlLWja/Ro97f1PlkqvjB4xnkXX7ZzD8Z00LgDsOZ3U7Mb13kTGLq5oBG1+waiSMXT+vD9OTbHoxrVF0/nU/06DFyV+JbMzv4U2mLUi0T37H0pJt+oIzOaU9/Bfp+2SEeC3OJ5vx4SZ++iz/BYVYfpINf+Ks5zmPDmM0ISa6m31YqCUnjdlB3V8dDI8bNJIFMBiR1KGnDFjs2zjp84SthZAyV+PRzYnabS4PGG998FuBjn1HJWCZN6QZS1sCDnlHfCib6kEvkn2WHzUC3gtcku1Tudfm3pzCEihTPG2fm+A0YJov8eqB9tCVhaOEC87l7ApH/o8Al2I1p8+2J/e0qvWIjls8G3sUW8g==;mo/M+Vol/wc6dI/8OuYnHw=="
 ---

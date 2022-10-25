@@ -17,6 +17,13 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
+
+images:
+  - url: "https://www.finextra.com/finextra-images/top_pics/xl/robo-ai.jpg"
+    width: 480
+    height: 270
+    isCached: true
 
 related:
   - title: "Regulatory and legacy system constraints hampering machine learning deployment"
@@ -34,6 +41,6 @@ related:
         height: 270
         isCached: true
 
-secured: "yky4b8Ou+JSiTg/Eo3WhJ3BFPwPe3b0v8522PzEgQZWJHE5K0ZRkuCbgmV+g7Zx2WIbeh9nVnfM843jWveYWW5Yt7RE8ptKMogyWCX43kVeLJX20IG9aR91hOum70o8fjHoXqJAgs+F1ez5lwu0c4lnvEVwVvKVjm1MeZnc7MwKqmeOG9Y+1xN2LF2+i2PnAISDyrqF/6wFMWsPjy3P5K4/BxcGNgfIfzIx47ptSb2UjWP4KHYqSJn4OX1V9dpZvX6sAH36WIF5UoGs7Se2/iSsunSWfzz5vBhPqOVjgTdFkfOZ2pHPyJSiXna/FMa8+u43pc8zh/8Ye87+bMBflHzXN8PY6mWmPcsxTMT62So2mI5/WaMdPKu94OnxK7jWopFYdOVwsnyc9/Y1dX0PnHjbzIwRW7xsYerI15u2Pg9Va+rHTDda5r/QkHe0W+E+AOyZJlc0J7u8fNyUVDWIjJ4D94IAQ+55axnZYiWomvBLIF49gzvhO+IO32sc2PgC4YTzv3hKPbQHi28PefKy2Qw==;yhOemvukQEaxFQhhqclc2w=="
+secured: "sua272NrXW3SXXbtumEv4o6g4ZP3UXcHt70bJ9aJTXSlcKKVti4pFziCfVpWE9yabP7RtwvPiNJY2jXBy1ExHhDdjajq91xgwcC1dZ0iLqOCYxsEM9FqJLudox8LA/Wex7UfBF096sDVq99AqhhzO4jEDbu+e3lA5xrqOcJ7QbUYoAMy3av/XdpBnDRR/6y+SVzdXlipYgMx08cSL9as52gpXFqpfAh/Uy1kH/hQ8p4yMve6sZdprUgOl4XUkbmQ4zbsGlCMQb/+1Wn5qeIfCyxZc4WShsKHHeV9ThNwk5RoAanPsCV0svmtpB9pWgCapGct3qZ8VEMWHnoGbSw6jVdu+OWpYhpaT8NnJI2KKso=;mNie5L0SLxB2wyDmIZgEZA=="
 ---
 

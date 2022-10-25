@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Meta touts AI tool, developed partly in Israel, that translates spoken-only language"
-    excerpt: "Tech titan bills work as a 'step toward a future where simultaneous translation between languages is possible'; Tel Aviv R&D center developers among global Meta AI teams in project"
-    publishedDateTime: 2022-10-20T18:49:00Z
-    webUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/"
-    ampWebUrl: "https://www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/meta-touts-ai-tool-developed-partly-in-israel-that-translates-spoken-only-language/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 67
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/10/000_32L723X-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
-  - title: "How Meta is using this new AI tool for translating unwritten languages"
-    excerpt: "Facebook-parent Meta CEO Mark Zuckerberg shared a video in which an engineer who helped develop this tech spoke Hokkien and it was translated to Engli"
-    publishedDateTime: 2022-10-20T17:31:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/articleshow/94995873.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/how-meta-is-using-this-new-ai-tool-for-translating-unwritten-languages/amp_articleshow/94995873.cms"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/thumb/msid-94995858,width-1070,height-580,imgsize-42926,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
-        isCached: true
   - title: "Meta develops AI for speech-to-speech translation of oral languages"
     excerpt: "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language."
     publishedDateTime: 2022-10-21T11:18:00Z
@@ -73,6 +41,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AI could help translate extreme weather alerts"
+    excerpt: "A startup that provides AI-powered translation is working with the National Weather Service to improve language translations of extreme weather alerts across the U.S. The big picture: Gaps in language access to emergency alerts during extreme weather events have led to missed evacuations,"
+    publishedDateTime: 2022-10-21T12:30:00Z
+    webUrl: "https://www.axios.com/2022/10/21/ai-translation-extreme-weather-alerts"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 34
 
 secured: "s7RHuawXbqEied03Q4afneFP1R7rHcKUbKbmg3nuwtQWgvkbOrctl3H5jJ9iZArotSWvMUBUnCdxFJOQyonjcRz+Q9VvTz7WhZ01vIfKfWqKy9Rs251erolDjtU/8egjRpBGGt4omZDXkEyAfnOjWTGATvNk4f5AGVvbxEu36fJoj0NDB05TTesy0TrWcSl7A1YBxgzCom243nxqyi/GV88F42m7HzQhrEjaWEUJtxOFSoRKQMeFpD+jGfRDbzp3bqtbVi3O49GJqxUR5TbswwdJ65PLoYS30AkdesPPmfFAbmz7yeIuGmyoWOxUqW2dgtbmZibh/gtiRTLdlpxDvTxlNQKxuwOUKBIcmAjiUYhTb7vfZPxGrYo780ERpMnHb8Bgu1pK6WIZRFyb9yBREGUc2XFYWkIJ+dCLQNSWTcnzsIyTwDap/ZyD+b2kACWG4XURfMRiN43IEpXCl+UXUL+gSEPsELHUoCG+ScEyzdbX/Z67TsxT3ORAaIl0f68axKDPyvKKzepzM6JRPoUQOw==;oGuF2ymGlKu4Ct/uQeVPqQ=="
 ---

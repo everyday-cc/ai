@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Tesla cars will not be approved as fully self driving this year, Musk says"
-    excerpt: "Tesla Inc's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling that the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
-    publishedDateTime: 2022-10-20T17:58:00Z
-    webUrl: "https://www.reuters.com/article/tesla-autonomous/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-musk-says-idUSKBN2RF078"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 62
   - title: "Elon Musk Said Tesla Full-Self-Driving Beta Will Be Open This Year"
     excerpt: "Tesla has rolled the FSD to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing"
     publishedDateTime: 2022-10-21T07:52:00Z
