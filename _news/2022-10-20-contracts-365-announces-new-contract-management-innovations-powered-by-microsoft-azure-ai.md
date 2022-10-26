@@ -5,8 +5,6 @@ excerpt: "The integration between Contracts 365 and Azure AI services like Azure
 publishedDateTime: 2022-10-20T04:12:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
 type: article
 
 provider:
@@ -17,6 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "623qxzg6hRxXBpIrkilhoCVMb+GRg9zPE8rDn/jSdfC6AZ5LCgkRAW+TbtVOlfuB03WyAcMliGylEfyhxI1wOPyVfbq4zx0AlEuDXuj3xGdZadlMHT/w9aXeCqIs8GUnw/vVuyTcEX3n3ClmL/Y+HFRWzDrRC/kRvIevSa8VrPWvXknnX2a9eCiUo1c8/nNjIi7SQKjwMCIBdFcgRYId3lBpZwAJjradhpBF7Uz3J4DHyWOuW69K6sWTUtVB/SxJy4HEHozk+axFxuMSddtHgXANptFXvx+VIH+Dq6+yCigtec0RueCQmyIs/rwd3NNAl5vTQmJK2oPJWV+yIsq7E5oPFETxBfAtv8IxjpA7NKA=;V0S5ZdFF3sDQShF6EIIU6A=="
+secured: "UrAHyomEx+jGckah97ug6r3o7Mfx/OoaQwTvuEuoFbSfM2nzmd+D6/BGMKT4jVyyki5qJbg68IWR6hiPgG0GulTiTBN99XRQHx/lwTl0LX7BvI/xVpLwYASTJDbMN75cINWIUFcIDRSnZT6m8gQkmVKcwT6kEWx18G8055I05c4vDcYn65abKM0gkL4imtQEw3Tkk29sJkLLnRhKvg//A8A8FhzV+PCtdqaCbeTE6TdLsSbjqXWwOLvO50pg1RzQ5ubNiYsshrFj71R6QxYD3yA1MNgWhxmA44GH5aSlo7NKR+VwLgBN+XGufMc0wWEIaIptHK0htxdJVcZt2XEQvWh8pEm3bCm7T7RF/70RJtA=;aT5qZfpYl+6yicYw1nMmzg=="
 ---
 
