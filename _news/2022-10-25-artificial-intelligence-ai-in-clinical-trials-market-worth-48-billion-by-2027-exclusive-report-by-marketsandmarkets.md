@@ -2,12 +2,12 @@
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T15:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+publishedDateTime: 2022-10-25T16:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
 type: article
-quality: 28
-heat: 28
+quality: 6
+heat: -1
 published: false
 
 provider:
@@ -15,14 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
 
 related:
   - title: "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™"
@@ -37,6 +30,6 @@ related:
       domain: benzinga.com
     quality: 25
 
-secured: "6bnw79EyM0Mu24QTHv2G6cQE6Klb1ckJIRedkSVcmeYrf6fyBZ+OX4e21+cFaZ/X/VHOerrBjL0kN4kg8CEig7tKhGQX0jsuGlJ8w4eKllvpg+Cg8LM6NXpxkJzfx12nHbmz2mQOw5iCoVCLq+zPW1VYBLokIrC8BETugY1yKWGnnwd1/qdMm5Ppoh51tMsh0gZAO3whwoDmBuRClvVqJjR1OX3aSurIEv+DdSqOxQZHgbiluzmdhq94GJd0TbRaCEj74P8vllcJWqf602qIqmKTTKeSdfC4gVeanwzE4S+eYh5IQrOytH+lFjs7i187M61RFndA6EY/ni105wJFFUQbCejj+L30Vk9JKDXc+3ndoNfZeU72PzEBnl1bjy4zsyXAdgGrgkEazK2ds2td3rMvI9U9cB0tKEBeN8/23sillKUxl5BKrqmDqiR8Lr4rnbt6PaXlIHbAXI3Bs3cpXauJq1nCnnuFmXKBmt64Y2yxbebu8N8mdqJxdpVtzCtrrSKTQxlkg0Umz/9papZHxw==;YbQXmTuHtlXMLQDoRTL8rg=="
+secured: "mevJ+pczo/zwhEN2ibo2NuQ8fDGQXm3U4frnZF5WVNI1Tq2ulMglvsEegyv2AyOySln/iP3hqMK2vLM9IwLXcHbUUpONT8buc+UDz4HZTnaXxUSYO4JZaJe5MUYlx2p0fFphVlNba5SEC6AwkGtQ6TQC8jZ12BHbEqnQB2xZA8HsdoRtfYrQ34pqjiLuvd1sH+479/qXQayPIGWQn1wTw8Tb02A+eoCSIXow+pBW7Bl+7/fukDl4DcUWIt/kn3iYS/M6B8cF63GiYG8Hlxwcoi/SKUaF/FK78O+14alY/5mFYxONoG4JvHFgSCq5BD5gWzaREIURSS1BG6QDblJbLbHokJ4h8paeYmTFz4cS75eWV/0CwaQ4EMrBn3gAfXNhs7m0M6KvQmrt+3yVWn5NgpRGCUZYCE1+c99y1Htlx9ky+PiDpcupbMyMuacgArZibcgjX9MH6qRqA1K7LAyWdK27PNiSM8J62jjvz6HrCxhget7vafLcr0Dqi7G0bN/ejo6UJ//tpTSmE1H3oT0OEw==;ysxLJf+IDxkYGnHGmyOpvw=="
 ---
 

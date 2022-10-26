@@ -63,15 +63,6 @@ related:
         width: 892
         height: 594
         isCached: true
-  - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
-    excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
-    publishedDateTime: 2022-10-21T19:13:00Z
-    webUrl: "https://siliconangle.com/2022/10/21/openai-reportedly-advanced-talks-raise-funding-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
 
 secured: "TsZUDZchZWgxASJb6edC/00dw235APusoSrEVsYQYZwL8nULEjO8frSu8z4HGg6kHu2jOHTXypoHD7gm6w05eZnlmu09NA06DvPR006wOB4zc5qQ3rvRWhupKnwvWhHG/kgk4BROUsNkpuzxu9ZslY1+24yCKCG5+0CJvMqUGRTb1CNyVKs3FPL4xzAkB4R0xD3v6+s5r2a6IqYKGu6fBn2PhNqy8PNKg5L0kIH4ifMp9sOr0xsdvheXIGwV+v0CrrO+0+gdu3c4sMJX4ipjAI0uTzIJA7i7oPa/priLPZbfatXCf5VuVFt0vaGpz9YhhEXlzdxrOWEKXmmLjR35v8Os1+ylGcQEtd+gfEgSoUQ=;OoGjc0fVBXYulo+sGcDqqw=="
 ---

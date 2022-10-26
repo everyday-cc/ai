@@ -49,15 +49,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "AI-Powered Material Can Learn Behaviors, Adapt"
-    excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
-    publishedDateTime: 2022-10-21T20:46:00Z
-    webUrl: "https://cacm.acm.org/news/265867-ai-powered-material-can-learn-behaviors-adapt"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "G3EDfBYXY/0bGDypPYkVy+i8QGekZkOyYeQp6W0gtcZntD5NJmWDSwvS89nE8NlhYd6xEXECtQG8jaJLkvEVjJxyIedlOBtD6oA1I+Nn2+rbz2SgY/i4XpTPn+bz52ktcRvZg1FDC3nCfH7GAjnrJzavOUiCv6o/Zb8xZTC51udhFLH3IiUSorELNaKnb7mChLFv1YAcZ0sDWXlSp9bDH1MT3niqkVbhVPj1RclGZ4nzVJu82C8Ra6uy8MX9MP+4iZZ4D9wLaQBKpTW6147IcWQcwjdZATDWLbEV6KvIsI7mlYJ7orG4HYu0JNnuyPXG/GjsgdeG6X6f9fHecq2ydRNsmtrnZMzgno+aLJWfWqzGTv+kUzsh6p8/7IBtMcSWWFUMk1rrj+pIo5dzSx5ra4DU0HKFJ/1UJidiHoQluoAqm3kD6Qq3xmbYhZTPNKnalAvHPmo4AHxQbdQJu1aDQw0Qru2fMrRBd1lsvX3/FEJGqAfbYj2UUo3akNVnkWuZvPb1DQXqmsPl49+ls5Xn9Q==;6cwGSUOVoyHWWYQjDITkdQ=="
 ---

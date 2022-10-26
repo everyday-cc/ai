@@ -75,15 +75,6 @@ related:
         width: 650
         height: 412
         isCached: true
-  - title: "Fintech Bookkeep Aims to Eliminate Manual Data Entry in Accounting Industry"
-    excerpt: "Bookkeep, the \"smarter\" accounting automation platform, announced a $6.6 million seed+ round of funding led by Fin Capital."
-    publishedDateTime: 2022-10-21T19:44:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
 
 secured: "iMI19xlLKnqgePkgYKODN0hd+UC4MfpdG36zXNW7CUlOV+kFNoyrs9g+ziJxO0K43B83jfCS9j08DCfmcLw8cx10CCV4yZlheRkLiaTyLlbNw2KD/Jap6b073u9mQr8/xZDeabETES9FR6jcWpGZyeLSReNs4T6LwAtB1S2p418iPpbX/yScVm6a6Zak9qoFEfS9v0YA7jmOUq8+H8ogVY4WBKuSnuskpIPYBfoGB+yGJc/SYiG3gRxvmoQXCXidCIeOOeL/ORcpA2OyjqDHvaXyIcepczTVydMXyuwpg04Uf6jrWSwatihaa8oz28Pi7dhHLgt3mbf1gQJzMiWnlpaylUR6AKnoqIBytZPar+8=;ZNu2RUYvWu8NsSohvx0kEA=="
 ---

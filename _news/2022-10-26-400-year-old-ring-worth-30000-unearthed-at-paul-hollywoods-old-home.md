@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:12:00Z
 originalUrl: "https://metro.co.uk/2022/10/26/400-year-old-ring-worth-30000-unearthed-at-paul-hollywoods-old-home-17640278/"
 webUrl: "https://metro.co.uk/2022/10/26/400-year-old-ring-worth-30000-unearthed-at-paul-hollywoods-old-home-17640278/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Metro

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:42:00Z
 originalUrl: "https://www.fleetowner.com/technology/article/21253382/brightdrop-offers-nauto-ai-tech-to-all-customers"
 webUrl: "https://www.fleetowner.com/technology/article/21253382/brightdrop-offers-nauto-ai-tech-to-all-customers"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Fleet Owner

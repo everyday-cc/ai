@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T08:00:00Z
 originalUrl: "https://www.theglobeandmail.com/business/rob-magazine/article-cohere-ai-software-launch/"
 webUrl: "https://www.theglobeandmail.com/business/rob-magazine/article-cohere-ai-software-launch/"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: The Globe and Mail

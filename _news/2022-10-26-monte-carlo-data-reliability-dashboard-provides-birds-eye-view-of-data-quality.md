@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:24:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/monte-carlo-debuts-data-reliability-dashboard-for-enterprises/"
 webUrl: "https://venturebeat.com/data-infrastructure/monte-carlo-debuts-data-reliability-dashboard-for-enterprises/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: VentureBeat

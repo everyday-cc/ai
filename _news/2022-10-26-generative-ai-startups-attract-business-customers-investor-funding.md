@@ -8,8 +8,8 @@ webUrl: "https://www.wsj.com/articles/generative-ai-startups-attract-business-cu
 ampWebUrl: "https://www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
 type: article
-quality: 87
-heat: 88
+quality: 89
+heat: 90
 published: true
 
 provider:

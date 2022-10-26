@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T05:01:00Z
 originalUrl: "https://www.houstonpublicmedia.org/articles/shows/engines-of-our-ingenuity/engines-podcast/2022/10/26/435322/engines-of-our-ingenuity-2544-face-recognition-2/"
 webUrl: "https://www.houstonpublicmedia.org/articles/shows/engines-of-our-ingenuity/engines-podcast/2022/10/26/435322/engines-of-our-ingenuity-2544-face-recognition-2/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Houston Public Media

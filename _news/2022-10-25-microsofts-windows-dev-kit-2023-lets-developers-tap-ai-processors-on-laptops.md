@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-le
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/"
 type: article
 quality: 103
-heat: 133
+heat: 123
 published: true
 
 provider:
@@ -64,15 +64,6 @@ related:
         width: 892
         height: 594
         isCached: true
-  - title: "OpenAI reportedly in advanced talks to raise funding from Microsoft"
-    excerpt: "OpenAI is said to be in “advanced talks” with Microsoft about the funding round. It’s currently unclear how much financing the research group is seeking to raise or at what valuation. According to The Information,"
-    publishedDateTime: 2022-10-21T19:13:00Z
-    webUrl: "https://siliconangle.com/2022/10/21/openai-reportedly-advanced-talks-raise-funding-microsoft/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 36
 
 secured: "oMQU0wounjUB9kaFbgbYp51L96xhXU1CYPuZLFosFDl1DDvI1pySuNy5xdKVJ7lvd0SJgm3pJKefJQpN8N655S23oRzcMfmU0C0Ba+Qis+e2KqlG5Y8K30MoxU+bjR4A3yIYGGn1S1CTetbM4q3gMHC9wprAJly/Ni01J3oUcId428opUtXRQdZppGC37Zr/8n/5CiiPMd2fMgfRRNfqiDeGcpADVgo4SLsfVugaP5mh9HhAlWUW/uepGF/OuTDYurkYw80k4+EaFM8g+8xfiyC95NV13sYvyPGCXmq0oDoeDUsl0EikGMM+I8oxHcEg7Fk9JYN1GYKbojuMSVI9Kl6/eoiSw6sFQpp9Hi8GDEDRxfsoJ5Qw3TZJj3VjUZPMv2rWRWI4yhb3wSZNAQyIQxiCwn2YHNQoNIaDMWldjlVR2WymeasFou7vA2+wpyFZAc+gFL0FfujbxhMkoUQZr/JZCr/cZyG0rPwhlV3zop6PVcjr/uHMOiRTgFnqGxSn6ifrjt5QyxuNSH4cqeszbA==;XES475LhEqC8cAjiyxHQ+A=="
 ---

@@ -64,6 +64,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy"
+    excerpt: "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy."
+    publishedDateTime: 2022-10-26T12:51:00Z
+    webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 24
 
 secured: "ulV3LXhpMqeHIOBL0aOPddHnZHA1HUXf6LzXQl/5Z2M2Aabv/R9bra0zUOcGlb+jYUHFDBEBbGBNnHL4AHAgxflwOD9ZRA3LWcGEMvXnLmpdpw7vnp3j//9OBW3DfePXenyxWtPGR+IwZup96G1cq41QLBJuYWyDZbQoCU7cTuIHm3hCEZpqIA9SmEZ+sHMXw7bz6YsxR+XaMrEyeJQvX7uV++cqaCInMXbgim42MB6PEA6P+BunNmxbcBnK2NNlLHUTZou+/vJW7uZ3yd7oA7BqEU1APSKk6V7SHOoRvUXoUFfjLGLlynfTX3UtJzYjOBMW34Gqv5fYd5aHqlut+oBHbfxxKIbQznSSWRveuQMm6DQdh519Bg+Cc4KSG+OOce2zZfWuHTZY9CKct9xHX7gItOahVkQktPjUxJziqa3feux6EkXpshXovimjUpOyd6aRDrs+1+zJvgZcHXs5IJe5s8JZxApCqsLy00PkuIeNk6hUorz2CN3V02PS/cqKj32BDzqscZVxdWE1vMtX/Q==;HJTCIQ3UhbRx3E9PVxrdpw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T13:51:00Z
 originalUrl: "https://healthitanalytics.com/news/deep-learning-tool-may-facilitate-monkeypox-skin-disease-identification"
 webUrl: "https://healthitanalytics.com/news/deep-learning-tool-may-facilitate-monkeypox-skin-disease-identification"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Analytics

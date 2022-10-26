@@ -64,6 +64,20 @@ related:
         height: 630
         isCached: true
   - title: "European AI Startup Axelera AI Closes $27 Million Series A"
+    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The Axelera AI Team is proud to announce its latest funding round."
+    publishedDateTime: 2022-10-26T14:20:00Z
+    webUrl: "https://www.businesswireindia.com/european-ai-startup-axelera-ai-closes-27-million-series-a-81425.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 37
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81425.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
     publishedDateTime: 2022-10-25T15:26:00Z
     webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"

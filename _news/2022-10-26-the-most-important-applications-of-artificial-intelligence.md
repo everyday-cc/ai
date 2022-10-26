@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:47:00Z
 originalUrl: "https://www.emirates247.com/business/technology/the-most-important-applications-of-artificial-intelligence-2022-10-26-1.695832"
 webUrl: "https://www.emirates247.com/business/technology/the-most-important-applications-of-artificial-intelligence-2022-10-26-1.695832"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Emirates247

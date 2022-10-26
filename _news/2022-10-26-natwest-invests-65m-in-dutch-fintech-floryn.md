@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:36:00Z
 originalUrl: "https://www.altfi.com/article/10035_natwest-invests-eur65m-in-dutch-fintech-floryn"
 webUrl: "https://www.altfi.com/article/10035_natwest-invests-eur65m-in-dutch-fintech-floryn"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: altfi

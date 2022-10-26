@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-n
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -50,15 +50,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "AI-Powered Material Can Learn Behaviors, Adapt"
-    excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
-    publishedDateTime: 2022-10-21T20:46:00Z
-    webUrl: "https://cacm.acm.org/news/265867-ai-powered-material-can-learn-behaviors-adapt"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "9CBd/XnGNy9cbq3yNyyiZNtLklCSZ4iavaVHAp3dQLT9tn7QqW7yjMMhPlIp7nxtqK3is3cvsGfRkLzCFrnwp2uVcmYepOXTAA50j6HQsIUGbEM8l8wQXt5t+zqtGToc+DoFArdugYq0EK1WELaNknBISdRtAzh58NGqUOiNyHL0oIBk7sT8c9snnffDbMbABzsMGkfn76yYh1qBReYwDWe6FSeQNWcaQCQBRP/w4SEUp8JyVoQUgg29FiMT3R9wphHLA//yC1YwWjbaCSEBNRJqhaD0WLy51S5mKuZzM5bX8DxHYvQSNvy8DRoyVySgKN5Ng88adtO/v99Hxnam6dm3V/pfnoB027eg6YACpUzEEnpYm4AHltu5Npze/uVGqHdJlhMrd3TLBaV2xDNR4BZrAzXLdxpW4gY3bNT8Ag4M6d3X9vlHQcW9W2IwbOucOX/ybPiSLzcBd6bbq10RFC+jxkuchZ3OaxAZ89JP/WggJRnlqfZLpEYSigU7KO9wfGnnW1Dw/6LKF0v1Xpb87g==;TqYW3EmEZOn35LCCB2QC/Q=="
 ---

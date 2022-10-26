@@ -76,15 +76,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "Fintech Bookkeep Aims to Eliminate Manual Data Entry in Accounting Industry"
-    excerpt: "Bookkeep, the \"smarter\" accounting automation platform, announced a $6.6 million seed+ round of funding led by Fin Capital."
-    publishedDateTime: 2022-10-21T19:44:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 17
 
 secured: "yjsQEZqP9LziwBEOHoIlt2c2ym3dn2XwOwDqrvR5RVdwVOomOqG+EP3SxDlwXDwF/T0a6DmB9z/ynz6NddUGf5Uw3T6CgirFNDjo9CSe9U3xmlU9fG0/JWsDQ9rVVvTj9owbZZpNz2nddO8hhU5rX5VGjMdag7N11/xqFL/SeZorFK+FX1OAFMZr0//wqYd0DLdAJEMHZRCtPyNTp9CYWebDx8iYxrmaP4bHUwymcZaBWwEB6jj9LYZVmYDdYlRxEvvTaTuzD5vu+NhHlaLY6QIU5L44kyGL4Int+M+O7XcuHnkqG2/W/xsMA2MJFF00mSC3PeM9tp3lLBuEwVmj4d8hvL0YGaRpFlre5bbP4i4OowNLkwpobU+BBA91AOfz2ppD6DC/A79aQ8cD/o9Jk0rpSTSDs1MacOTbVibRF2e0rmAMWvz3kYZ/0k/9A0ZZ6XZcWqkX9246sfvik4KP+dJu1yHXfw9KOJX0b6jO3jkpHgtOkMunmpR8G9P98pZmeLqNzQ+hRrragDRHRbSUew==;+wDN5QHRDkDG8dcHQUCjvg=="
 ---

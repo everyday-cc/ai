@@ -48,6 +48,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 58
+  - title: "IBM introduces with plug-and-play Watson libraries for AI"
+    excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
+    publishedDateTime: 2022-10-26T12:13:00Z
+    webUrl: "https://www.techzine.eu/news/devops/92515/ibm-introduces-with-plug-and-play-watson-libraries-for-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 34
   - title: "IBM Expands Its Embeddable AI Software Portfolio"
     excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
     publishedDateTime: 2022-10-25T14:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-le
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/"
 type: article
 quality: 116
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1343
         height: 674
         isCached: true
+  - title: "AWS Celebrates 5 Years of Innovation with Amazon SageMaker"
+    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of parameters, and generate hundreds of billions of monthly predictions. The seeds of a machine learning (ML) paradigm shift were there for decades, but with the ready"
+    publishedDateTime: 2022-10-26T13:00:07Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-celebrates-5-years-of-innovation-with-amazon-sagemaker/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 84
 
 secured: "rx3ersNkYOEkv+2fBUZx5pawe6Mloo9EN5zr1myIq9Ze0FORyqd1Tv6i+aLoU/nGGsev4NCdjmgAk9lAmZt7HjBCB2+iYLyhO5awDvdkX35aBAj/pOpuYyNJVD2GyOL98wIIgKKbr4Ob6U5o3IbgDmmSMhyWjxqVfOLveknP1V7tl7y0Vr4MSd/6knDZL3I9hZ3qcsm5jER7KMSfDU38hbwpPT2kkk17jZHWhYoBJ3NX+dva1CEQZoaohNvlaL3XyLVEToR4XmNnYe3a660t7Rh2Q10/5LcJIiRFI17KGdjvhTSLBKx8uCS78KUXm8HS92pRnKlGQoZ9wJY/okwB8IMM2NsZXNnRkfvd5dSSJ5g=;4C2ZfPC72wEaWXn9eIzd9w=="
 ---

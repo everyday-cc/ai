@@ -91,6 +91,15 @@ related:
       name: Interesting Engineering
       domain: interestingengineering.com
     quality: 17
+  - title: "Shutterstock partners with OpenAI to sell AI-generated stock images using DALL-E"
+    excerpt: "Shutterstock said it licensed its images and metadata to OpenAI to train DALL-E in 2021, but the software was trained on other sources too. \"The data we licensed from Shutterstock"
+    publishedDateTime: 2022-10-26T13:32:00Z
+    webUrl: "https://www.theregister.com/2022/10/26/shutterstock_getty_openai_dall_e/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 14
 
 secured: "+PBgLvTWgte13SxBkVk2aPBqpFhU+dbQ3rAjV9kdVAMPDZlH6m5qmGcYJmPOg5GZ9YF35/03y4Ep2z1AH3dwvLBnG9SipmGlbaNN4oja6AP+0tHMb+MkltpXK8N/OT/f5r+fvVk/bTmFz5qPGXsxPXaPP3zDyfmXcUL/VrU0P8KTQoj1atkWY1hC/I5g6jpR0945E1Rm+rO2oMhcikHbqO1MB/n7vhBIpCVeDC7o9dYK2vOnuvyDigXnk1ZW5jPr7kiJNfwNkCDEbsxRXHDAklNhQ+DEvJaXtvo6zgNs+x/aa8YEh8cyOjxZP08RxDoITXC/Rj055Bgt0P0SafkCDl4/Tq7hIyk9xdhXTk8Qgr8=;gRTNtSIbZCGSaOmZC7ZuUA=="
 ---

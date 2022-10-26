@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T13:10:00Z
 originalUrl: "https://gizmodo.com/best-ai-tools-to-help-you-work-and-create-1849697989"
 webUrl: "https://gizmodo.com/best-ai-tools-to-help-you-work-and-create-1849697989"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Gizmodo

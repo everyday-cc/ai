@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T13:03:00Z
 originalUrl: "https://business-review.eu/tech/techcelerator-and-google-launch-advancing-ai-3-an-accelerator-program-dedicated-to-south-east-european-start-ups-237021"
 webUrl: "https://business-review.eu/tech/techcelerator-and-google-launch-advancing-ai-3-an-accelerator-program-dedicated-to-south-east-european-start-ups-237021"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: business-review.eu

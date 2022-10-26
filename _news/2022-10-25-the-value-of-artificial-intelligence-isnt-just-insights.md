@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-a
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
 type: article
 quality: 87
-heat: 107
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -30,21 +30,21 @@ images:
     isCached: true
 
 related:
-  - title: "With Its Latest AI Innovations, Adobe Doesn’t Want To Cut Out Humans Out Of The Picture Just Yet"
-    excerpt: "Adobe wants to outfit professional users with AI as a capable assistant, while enabling non-designers to create without having to purchase a copy of “Creative Cloud for Dummies.”"
-    publishedDateTime: 2022-10-21T21:28:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/21/with-its-latest-ai-innovations-adobe-doesnt-want-to-cut-out-humans-out-of-the-picture-just-yet/amp/"
+  - title: "The AI Bill Of Rights - A Technology Perspective"
+    excerpt: "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses."
+    publishedDateTime: 2022-10-26T15:12:00Z
+    webUrl: "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/"
     type: article
     provider:
       name: Forbes
       domain: forbes.com
-    quality: 74
+    quality: 89
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6352fa38806a8a5478e382e9/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 724
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63594c110c272daef33671f1/0x0.jpg?format=jpg&width=1200"
+        width: 1088
+        height: 662
         isCached: true
   - title: "The progress of AI"
     excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."

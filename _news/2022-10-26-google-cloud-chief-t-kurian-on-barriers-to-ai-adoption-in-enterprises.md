@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T12:41:00Z
 originalUrl: "https://analyticsindiamag.com/google-cloud-chief-t-kurian-on-barriers-to-ai-adoption-in-enterprises/"
 webUrl: "https://analyticsindiamag.com/google-cloud-chief-t-kurian-on-barriers-to-ai-adoption-in-enterprises/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Analytics India Magazine

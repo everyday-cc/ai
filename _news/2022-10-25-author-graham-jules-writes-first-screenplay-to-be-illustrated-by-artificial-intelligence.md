@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T10:56:00Z
 originalUrl: "https://santamariatimes.com/news/national/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_6abac3aa-6e19-52b3-b239-d010be78a560.html"
 webUrl: "https://santamariatimes.com/news/national/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_6abac3aa-6e19-52b3-b239-d010be78a560.html"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Santa Maria Times

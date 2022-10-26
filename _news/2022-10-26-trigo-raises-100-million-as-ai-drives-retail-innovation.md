@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/gilpress/2022/10/26/trigo-raises-100-million-as-ai-drives-retail-innovation/"
 webUrl: "https://www.forbes.com/sites/gilpress/2022/10/26/trigo-raises-100-million-as-ai-drives-retail-innovation/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

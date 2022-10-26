@@ -50,15 +50,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "AI-Powered Material Can Learn Behaviors, Adapt"
-    excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
-    publishedDateTime: 2022-10-21T20:46:00Z
-    webUrl: "https://cacm.acm.org/news/265867-ai-powered-material-can-learn-behaviors-adapt"
-    type: article
-    provider:
-      name: acm.org
-      domain: acm.org
-    quality: 19
 
 secured: "h22hGK+RLWT9w31dGqLHUrQr6HHgOwqQohGlhcdlw+B+50T+JQx6aALzGSj/5BG5Ps1xKwNyYOgzLr8PrXm3rUBkkXiulBNSO5xCLB3avuqpZ6KAtwduustlISLaInWjIDus+1nk8rJOl5h17l+0/hUFRlR0IgQeO3zGnUlDjiLcNDy3kllDYDlShXyUu79f0ietOVCLo+yfyJsNDOjQTSaELLhhFRaaJQxET6WWv/8phBzliqAgGdH5b25R+p6kwvnYaoG1SIKVIF/zwvmzmBM0NSQz3muZoBwO/5pbjjbgthkdyXWjm+59pcYwBEz23JUzGAEjj7aPvU0Opo+2S++Qimn0vwHBwTfuRYDlSEcDjSdxNM2fm0zmW1zcSz/tcGLWN9XbfxmKX6hEnsm4VoJNIPfi9k/QRrTBYj3jW5fgbAHtCJOVZaRhHEn8e3pgxoplFRh7HTSJyNAOR/QFLDr32cGr7QWteBaaYeJGrZbGo5NvrNqMvxz5CDl+7jyfIekSfTqlj1JnYWTSjkRcXA==;QCvWkjfBnYWDHin88muxyQ=="
 ---
