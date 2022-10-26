@@ -2,7 +2,7 @@
 name: "Darktrace"
 overview: "Darktrace is the world’s leading cyber AI company and the creator of Autonomous Response technology."
 type: "profile"
-heat: 51
+heat: 50
 
 website: https://www.darktrace.com
 

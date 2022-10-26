@@ -194,7 +194,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 81459
+        "followers": 81465
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -251,7 +251,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 34855
+        "followers": 34859
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 17834
+        "followers": 17835
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -393,7 +393,7 @@
         "AI in Healthcare",
         "Machine Learning"
       ],
-      "heat": 80,
+      "heat": 81,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
@@ -445,7 +445,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 63,
+      "heat": 64,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -726,7 +726,7 @@
           "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 57,
+      "heat": 58,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
@@ -937,7 +937,7 @@
       "twitter": {
         "username": "DataRobot",
         "url": "https://twitter.com/DataRobot",
-        "followers": 19716
+        "followers": 19717
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -1607,7 +1607,7 @@
       "twitter": {
         "username": "Alegion",
         "url": "https://twitter.com/Alegion",
-        "followers": 1744
+        "followers": 1745
       },
       "size": "51-200 employees",
       "yearFounded": 2012,

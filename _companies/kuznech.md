@@ -4,7 +4,7 @@ otherNames:
   - "Kuznech Inc"
 overview: "Kuznech is the image search technology for m-commerce, e-commerce, social media and advertising industries."
 type: "profile"
-heat: 50
+heat: 51
 
 website: http://kuznech.com/
 
