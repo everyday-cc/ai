@@ -2,7 +2,7 @@
 name: "AiCure"
 overview: "AiCure is an AI and advanced data analytics company targeting the healthcare industry. Our proprietary intelligent software captures and understands video, audio, and behavioral data to establish the link between patients, disease and treatment."
 type: "profile"
-heat: 51
+heat: 50
 
 website: https://aicure.com
 

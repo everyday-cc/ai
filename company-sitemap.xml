@@ -307,6 +307,12 @@
     <priority>1</priority>
   </url>
   <url>
+    <loc>https://everyday.cc/ai/company/lexmachina/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
     <loc>https://everyday.cc/ai/company/casetext/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -314,12 +320,6 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/flatiron/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/lexmachina/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -763,19 +763,7 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/aicure/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/kuznech/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/signifyd/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -806,6 +794,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/aibrain/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/aicure/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1364,6 +1358,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/signal-ai/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/signifyd/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
