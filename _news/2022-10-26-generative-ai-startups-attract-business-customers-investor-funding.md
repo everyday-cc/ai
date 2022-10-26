@@ -32,8 +32,8 @@ images:
 related:
   - title: "European AI Startup Axelera AI Closes $27 Million Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-european-ai-startup-axelera-ai-closes-27-million-/2022/10/25/9699253.htm"
+    publishedDateTime: 2022-10-25T15:26:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
     type: article
     provider:
       name: TMCnet

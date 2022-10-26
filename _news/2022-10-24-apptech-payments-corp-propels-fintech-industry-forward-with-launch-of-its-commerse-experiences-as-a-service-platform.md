@@ -21,6 +21,20 @@ topics:
   - AI
 
 related:
+  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
+    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
+    publishedDateTime: 2022-10-26T03:17:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 20
+    images:
+      - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
+        width: 650
+        height: 412
+        isCached: true
   - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
     excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
     publishedDateTime: 2022-10-25T08:10:00Z

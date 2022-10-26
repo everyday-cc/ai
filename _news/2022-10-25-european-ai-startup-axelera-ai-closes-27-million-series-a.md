@@ -2,9 +2,9 @@
 category: news
 title: "European AI Startup Axelera AI Closes $27 Million Series A"
 excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-publishedDateTime: 2022-10-25T14:50:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-european-ai-startup-axelera-ai-closes-27-million-/2022/10/25/9699253.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-european-ai-startup-axelera-ai-closes-27-million-/2022/10/25/9699253.htm"
+publishedDateTime: 2022-10-25T15:26:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
 type: article
 quality: 17
 heat: -1
@@ -35,6 +35,6 @@ related:
         height: 640
         isCached: true
 
-secured: "xlmQ1vo9NlX9ZsOr3DR8hCRAFUrH6VmmHOk8PHIOF/UhDdxw/aM/7qje+/yJ1udbJrWMLgJtJ0rRSGib8j2mwFp1pJlYLD/K65wCNTxU0b8M44HXrC9NhK3vSJ7bBNyTMNKF4kDArKhJuBEjOhBt5NNB2pXZh7sucjFBnG01tW+WS0u7cXZM4zf8IjjL/NvJsasNhWFoF+96r5INDRYpScFFeUGAlumeBRvqD5kbvKmhfB2j3yeycId06OZ2BqmSyTAwBOjCakwHBKd4WML6+nUMxSWImnPHzMe2WyFrWRbLfIeRh+RCjgQbPdxqyXpgeGK802mx0rDZ98Cx29WpQBu7ytit9nfvf7GVEsyQk3iSsnjlT+b/gc6UqN86nTsxVtC10G0uD96XiCm4B/BVhZ0yp4hiPrgn343JCZmxhL0KRHBLPE9Rm4TOhMWRj4i6UWJJ+r4q65LD0/2kFHpt2F3Dr1TpwFCND1crddYmqFw/Wd4A2U1kN+Da8M7j2siqAThkcAQ85x2jebUTsyspFg==;vAt65ng+SmigIYjohnDQNw=="
+secured: "CM34kHwdIDlbMvSlp5T5xDEXQAuJUpntg4IdQ9SvyFP/J/NlPNnKFrXOH8OSfwDkpp/uQ7GY8Z4og9fKysTYKcO/V4J41ERft/spq+hozgVBAlwS7MLkZSqeyryuxA0D2FMoDhr8o4l3nw9PaS4ajYkW2PJjkB0YPAvCR3Mv4Izp6SG+B8HWnh+HGDA6raew5EnxwDC813xo0+CK6lB+WJRd4uywHnThB2aRN+/UYqgfeCgerCr2woJ4MvP8VOVhhTc/wf186n0xK8SgJEPLYyhH+VYqRaGbulc4CqNI7A+h2v+msk52pdnF7gdJdnuM5Tk04YKaUhVGATWZjenIEjm/yThGrTndxVU8ah11k+97nDoAA7+plw9NSALUtSY9iij8F928x+NKInSDxzsCdKr+c+Nk8/4g1wqak21rMI2iOJCWfw0lqiuXvoEE0+lgDvlHcv/lUV6fpQWx4PMYYLk/whY+iR2C8P/vyPxULxutE0hL9UyM9UVuhdguWTI3wRwmGNdagIJ79jQjP0I28w==;sDlb5iFmCUxEIf5qquGmKg=="
 ---
 

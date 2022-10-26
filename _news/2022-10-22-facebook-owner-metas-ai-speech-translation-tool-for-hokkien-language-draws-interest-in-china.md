@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Meta develops AI translation system for a primarily spoken language"
-    excerpt: "The new AI translator can convert spoken languages like Hokkien into spoken English, helping break down language barriers"
-    publishedDateTime: 2022-10-21T09:05:00Z
-    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/"
-    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/meta-develops-ai-translation-system-for-a-primarily-spoken-language/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 59
-    images:
-      - url: "https://images.indianexpress.com/2022/10/meta-ai-translation-system-hokkien.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "Speech-to-speech? Meta AI can now translate spoken-only languages"
     excerpt: "Have you heard an AI translation of Hokkien before - a largely unwritten dialect that Meta's Universal Language Translator can decipher?"
     publishedDateTime: 2022-10-25T04:00:00Z

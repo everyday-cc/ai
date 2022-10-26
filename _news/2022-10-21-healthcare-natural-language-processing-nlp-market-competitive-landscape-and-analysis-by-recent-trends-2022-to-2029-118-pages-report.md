@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
 type: article
 quality: 68
-heat: 218
+heat: 208
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice and Speech Recognition Market Report 2022-2030, Size, Share, Growth, Trends and Forecast"
-    excerpt: "The global speech and voice recognition market size is expected to grow to USD 31.49 billion by 2026 according"
-    publishedDateTime: 2022-10-21T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-report-2022-2030-size-share-growth-trends-and-forecast-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

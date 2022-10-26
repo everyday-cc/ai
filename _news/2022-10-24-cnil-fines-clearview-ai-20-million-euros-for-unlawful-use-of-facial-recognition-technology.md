@@ -55,20 +55,6 @@ related:
         width: 728
         height: 381
         isCached: true
-  - title: "France Slaps Fine on Face Recognition Firm Clearview AI"
-    excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform. The company collects images of faces from websites and social media feeds without seeking permission and sells access to its vast database -- reportedly around 20 billion pictures -- to clients including law enforcement agencies."
-    publishedDateTime: 2022-10-21T09:16:00Z
-    webUrl: "https://www.securityweek.com/france-slaps-fine-face-recognition-firm-clearview-ai"
-    type: article
-    provider:
-      name: SecurityWeek
-      domain: securityweek.com
-    quality: 54
-    images:
-      - url: "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png"
-        width: 256
-        height: 256
-        isCached: true
   - title: "France slaps fine on face recognition firm Clearview AI"
     excerpt: "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws. France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws,"
     publishedDateTime: 2022-10-21T19:01:00Z

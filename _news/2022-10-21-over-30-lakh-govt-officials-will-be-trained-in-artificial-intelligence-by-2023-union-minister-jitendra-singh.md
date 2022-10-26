@@ -58,22 +58,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Over 30 lakh govt officials will be trained in emerging technologies like AI, machine learning and blockchain, says Dr. Jitendra Singh"
-    excerpt: "Over 30 lakh government officials of the country will be trained in emerging technologies like artificial intelligence, machine learning, and blockchain for effective governance and service delivery at the grassroot level."
-    publishedDateTime: 2022-10-21T09:40:00Z
-    webUrl: "https://indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    ampWebUrl: "https://indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/over-30-lakh-govt-officials-will-be-trained-in-emerging-technologies-like-ai-machine-learning-and-blockchain-says-dr-jitendra-singh/"
-    type: article
-    provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 42
-    images:
-      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/10/NPIC-20221021191058.jpg?fit=750%2C472&ssl=1"
-        width: 750
-        height: 472
-        isCached: true
 
 secured: "mhaAGS5uYHM4Jve+GEDNijde03AI4npIpzAVHjpw+vvYBNdP9b79BG/Df4A+1OquUkEOOW/hCd6l8+pD2VEYk7pqZ2rIX+CSZxgAHUnEem3QgFJGDlQnjEw1lJwg/eCixMQrJjUwDjsx+NSZDbfhKb2fBKIiforGojX6pTLNf7ekTQsEIwbvY8jNjPdnUQVcz7du0oAUAQI5Mwygp4wCH/LHHtJaJJIHiTAuiloSP7C0jacdjYlNoLS2reOAocSMo0JwY9bGCPNpnZgl6Ln52m8ae1c9+lFZrxTVbvdugXsnjXd+p/4FmWhkws6A9EOm5rCTfmjlsO8V4fIXhfZ5aqg54m3JyawMQi8WTcoPl1I=;6ub1OO8pKNnq4XOpZSu3hg=="
 ---

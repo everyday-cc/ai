@@ -71,20 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice and Speech Recognition Market Report 2022-2030, Size, Share, Growth, Trends and Forecast"
-    excerpt: "The global speech and voice recognition market size is expected to grow to USD 31.49 billion by 2026 according"
-    publishedDateTime: 2022-10-21T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-and-speech-recognition-market-report-2022-2030-size-share-growth-trends-and-forecast-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
     publishedDateTime: 2022-10-21T13:37:00Z
