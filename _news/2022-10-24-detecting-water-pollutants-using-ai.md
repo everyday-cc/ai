@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-10-pollutants-ai.amp"
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-pollutants-ai.amp"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 69
+published: false
 
 provider:
   name: Phys.org
@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "'Deep fake' protein designed with artificial intelligence will target water pollutants"
-    excerpt: "If you've ever used a text-based artificial-intelligence image generator like Craiyon or DALL-E, you know with a few word prompts that the AI tools create images that are both realistic and completely synthesized."
-    publishedDateTime: 2022-10-21T05:45:00Z
-    webUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-fake-protein-desi.jpg"
-        width: 700
-        height: 785
-        isCached: true
   - title: "Engineers Design Dynamic Materials Using Artificial Intelligence"
     excerpt: "The architected materials, known as mechanical neural networks, are capable of responding to conditions by tuning the stiffness of their beams."
     publishedDateTime: 2022-10-24T19:05:00Z

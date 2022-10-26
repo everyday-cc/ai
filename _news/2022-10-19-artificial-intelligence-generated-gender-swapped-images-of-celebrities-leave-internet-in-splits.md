@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://c.ndtvimg.com/2022-10/f5ka8tro_ai-technology_625x300_19_October_22.jpg"

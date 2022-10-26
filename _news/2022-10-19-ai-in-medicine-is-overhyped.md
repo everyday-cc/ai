@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/1B052E70-458D-4084-A9CA4CE2E9B65C07.jpg"

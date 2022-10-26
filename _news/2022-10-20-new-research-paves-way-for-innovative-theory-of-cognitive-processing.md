@@ -1,24 +1,28 @@
 ---
 category: news
 title: "New research paves way for innovative theory of cognitive processing"
-excerpt: "A team of scientists has developed the first computer model predicting the role of cortical glial cells in cognition."
-publishedDateTime: 2022-10-19T21:46:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/10/221019111400.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/10/221019111400.htm"
+excerpt: "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ..."
+publishedDateTime: 2022-10-19T18:41:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html"
+webUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "Gs/mnuvUQ8kvnfotB9jlp1x+apRYVG5q+cXOUbhT1Qdzhh7ttp9JUe31CeWjOA8AVeeJ1zbDSx65f6ddIdFcRyJ3cJ3awundyuK8oAtU0CMOm4A9eHqWkT/UGPCT/7D0zOuzP0UM5XYGNkMgvuFxgcKA1+fQwOd2xZ1h5vSR50W9q3IhynQUbSoZt/lXinQ+0tTGMmA6zclQbsvZABmUwvJTZ++gKlt8J9vsrhAbwb6QVqqhnohRuptMfMRNWqXXeZMp1mnZwRRttl7GtP1+nCUccjoACT3JG0bBOqnK4h+Xdv48N/VHA6i7uoqM5ln329HKYnzxjG5ZnBuC5DR6yPRDQVPqnoNVPJub+/NvBrI=;QCMZcC1YcrFkqh7Da9CiGQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg"
+    width: 1920
+    height: 1357
+    isCached: true
+
+secured: "7q93T4T+v+3jL4+4MrSLPNQU8YQeP70rizHx0xByTjBpN1hH23nhcXT0Bs7/mFbUI40BjU8HZkqMtJtk43vq7b2t4/Jik/XkC3+UJaFvZ00sfaP9w3qQIJRWfVMsssf8s4QWB9wXfkVTk8fsTkWUSO3SGJUD13Ozaiy7sbLXWFDibZCkiPl8BzXw4fhNufwG82yXB6qPC30253uSinRl9a9oI2/qMXTMurH9sKhykaxbNzRU6BpRa4CaivDxBB2zsobMm5dGhvKVWs6cAXUCtM4RN1Gpxdk9TXLGyOR6z49HWN+cSarMzS1y3yDYVOMZQxvtSIA9L7EXw6qCKOYZA/d2jZrgmAlRxmxEVdXrzk0=;TYOMyBYFmyrAfNQq/uqUnA=="
 ---
 

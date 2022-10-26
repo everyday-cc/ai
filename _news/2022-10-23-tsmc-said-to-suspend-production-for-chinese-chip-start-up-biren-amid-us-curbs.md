@@ -7,7 +7,7 @@ originalUrl: "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspe
 webUrl: "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs"
 type: article
 quality: 61
-heat: 83
+heat: 81
 published: true
 
 provider:

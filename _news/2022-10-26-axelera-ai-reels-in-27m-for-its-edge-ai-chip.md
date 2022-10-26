@@ -7,8 +7,8 @@ originalUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-c
 webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: SiliconANGLE
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-    publishedDateTime: 2022-10-25T15:26:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 39
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "European Startup Axelera AI Closes $27M Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
     publishedDateTime: 2022-10-25T21:39:00Z
@@ -50,6 +36,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "kVAWa+KfYxU9FFoqGMV3Aphgi+fqxQS4pHJSaG9ckvfx8ZuUuC87CT0tlyNmQkX7/BTiJmxxj9WabBWym42a79FChNmFfzlovEx8F6do0rCiqB9vSad7cPEg1dw5GioDQ3vDslsN3YEOeC0Uu3RSJdpAHrgbPdYoL1Lap7bL0DL4O85adMnvyNzbTTsAwc0nk3X+7Kn72HZtzvZntqAlt++m3MVtoFG9E/8Oq3FdmM+4JEqdiYZa2NpnHVXOlkOQMQBUJjRUQFowQuXjT6K1k62Lx/n/ds7Ax1LFjUZORuqMc+xAOOxWmMkiDP65htbbUynNHuxHusdudoLaj3zKUt0xD4DaQ01Enmur8b9XpDE=;KuzOtZwyNOTwcGJ8V4Y5GA=="
+secured: "w2OGDnZc/VaBv7lrCCZsqY6QiiM1BVSvdRltG5lE38BY+eRXjNThUU2WE1RTaIraPjNOhvRUlz4xvP3DiLZ1YpGyNeJ68pyJh7T39SPXfD1uS/3EeJMo25aicAErzOqOUIH7Nxjb1BceSCSI6q1QAIMvc8IKlb1BaABK+T1PqkO+EqGYbfJQtNk6GPtVRh9qke9TXNPDyM+8vmliOU8VljLlYk2plVGATuWk3OqluX1ZUn2e39FgVJtt2Io5jryQoMkDSvsv8TS/4BBtIVULUsrmVacBQS5GRsbGgiiVKI94DIPKqNBgrPfOo38LdXuJxqOglUoKov1p1BFco5xpd0miY4/skj1pzJknjd2Cykgagf/SCs23ZpPkL0DGzhaG7rpuwvPg7h3fUeYSxZ1rzRW7xuPwOMq0jcpAT4sck8AORn0hTWJhGVjAvUVkUJCHzGQ3aD9JCTZunWU3TO7xPdV/A9UEJPbiRalQmZDL6q35JzXwt15WKga04VcAvxbqlswjZLtlCN/z28t9vuOokA==;JjuIUwNWYW3HFsM893jjow=="
 ---
 

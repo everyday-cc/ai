@@ -7,7 +7,7 @@ originalUrl: "https://nationalinterest.org/blog/techland-when-great-power-compet
 webUrl: "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/waymo-set-self-driving-launch-los"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1222
     height: 819
     isCached: true
+
+related:
+  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
+    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
+    publishedDateTime: 2022-10-24T00:00:00Z
+    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
+    type: article
+    provider:
+      name: The Diplomat
+      domain: thediplomat.com
+    quality: 54
+    images:
+      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
+        width: 600
+        height: 400
+        isCached: true
 
 secured: "TvZ+tdlxcVieIwIXwNRwxF41/KwtTwm1QCfz4hXsn64A1+mT9jBqcewajZo08GDcdF69u+21ZUEedmlSEYxNzY4xiGJKSrJUXu9sIX5/Gn8Z9zrtTptDFvRUM3eo366N7P+IJyBxjddK7nctoHd/5Fz9UJhAmslqNOL/vK+6NM//HKRrQrwf5NHJJh6cobPPnyb8mnXFt28zL6k6WudujoGR38tItCWJvW6Ro2NzEF1OGeup4n4AFJhLbXyVZwggfhlhFhk3LGhn4ybxWrY5W4y7J2gWwjbI6ZRMMhBe/n3SfB4winDQCS2hb45ArJaYl6ZcDXlFIzVsnf18AK1UOcG+XwDhip1fl1w6lJQzhGt5n/Zj3MSDnmf9xh+7trAGRr6P1wEVCDSqb+AuI1II4Q0vQ6O0591PkQHa/tP4nuBYPdAxkZAOes0yZUyrB3whPYfGmyQRtagA2T5GnpWPaUYdF8RXa9jQ1U4S7+B4bwxA7Wj6Rmn0RI+GPl5A/QF5iGV0XfVPwsE4Gkq3Xv6bsg==;VP+Ta80en9AsRhzXSFNZ7Q=="
 ---

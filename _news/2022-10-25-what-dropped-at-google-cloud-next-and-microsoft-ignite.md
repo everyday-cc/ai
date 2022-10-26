@@ -9,8 +9,8 @@ ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-googl
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: TelecomTV
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft Corporation (MSFT) Q1 2023 Earnings Call Transcript"
+    excerpt: "Q1 2023 Earnings Conference Call October 25, 2022 05:30 PM ET Company Participants Brett Iversen - Vice President, Investor Relations"
+    publishedDateTime: 2022-10-25T23:05:00Z
+    webUrl: "https://seekingalpha.com/article/4549108-microsoft-corporation-msft-q1-2023-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "Zindi Gives Thousands Of Jobs To Data Scientists By Partnering With Microsoft In Africa"
     excerpt: "Zindi and Microsoft partnered to host a virtual career fair for Azure Cloud practitioners in Africa, aiming to connect talent with the companies that need it.The event brought together employers like Deloitte,"
     publishedDateTime: 2022-10-25T16:21:00Z

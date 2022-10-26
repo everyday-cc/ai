@@ -43,22 +43,6 @@ related:
         width: 2880
         height: 2160
         isCached: true
-  - title: "US: Google faces Texas lawsuit over biometric recognition features"
-    excerpt: "Without clear federal guidelines addressing how user data can be collected and used, several American states have passed their own rules"
-    publishedDateTime: 2022-10-21T06:12:00Z
-    webUrl: "https://www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features"
-    ampWebUrl: "https://www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features?amp=1"
-    cdnAmpWebUrl: "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/us-google-faces-texas-lawsuit-over-biometric-recognition-features?amp=1"
-    type: article
-    provider:
-      name: Khaleej Times
-      domain: khaleejtimes.com
-    quality: 44
-    images:
-      - url: "https://image.khaleejtimes.com?uuid=690a6a28-99a4-5132-bb0e-01a6b0013f64&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.82569&width=1200&height=675&x=1.0E-5&y=0.17431"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "New York Study of Biometric Tech in Schools Nears Completion"
     excerpt: "Two years after Lockport City School District's use of facial recognition-capable cameras triggered controversy, a recent hearing gave critics and proponents a chance to speak up while the state prepares a report."
     publishedDateTime: 2022-10-21T23:05:00Z
@@ -74,6 +58,20 @@ related:
       - url: "https://erepublic.brightspotcdn.com/dims4/default/b5aca1c/2147483647/strip/true/crop/1057x551+0+39/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Fcf%2F20%2Fc8c9ecc117d83943478f4f43b22f%2Fshutterstock-617755883.jpg"
         width: 840
         height: 438
+        isCached: true
+  - title: "Oosto updates biometric platform, deploys it in gambling casino"
+    excerpt: "Oosto has updated its Vision Artificial Intelligence software with several new features. The company has also introduced a proprietary edge device."
+    publishedDateTime: 2022-10-25T22:18:00Z
+    webUrl: "https://www.biometricupdate.com/202210/oosto-updates-biometric-platform-deploys-it-in-gambling-casino"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 24
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
   - title: "Texas sues Google over ‘indiscriminate’ collection of facial recognition data"
     excerpt: "The search engine has also recently received a $160m (£140m) fine from India's anti-trust watchdog for abusing its position in the local smartphone market."

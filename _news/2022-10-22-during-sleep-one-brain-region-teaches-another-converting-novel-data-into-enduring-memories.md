@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "During sleep, the hippocampus and neocortex interact in ways that are key to memory formation"
+    excerpt: "Using a neural network model, Penn neuroscientist Anna Schapiro and colleagues found that as the body moves between REM and slow-wave sleep cycles, the hippocampus and neocortex interact in ways that are key to memory formation."
+    publishedDateTime: 2022-10-25T22:51:00Z
+    webUrl: "https://www.news-medical.net/news/20221025/During-sleep-the-hippocampus-and-neocortex-interact-in-ways-that-are-key-to-memory-formation.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 13
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
   - title: "During Sleep, One Brain Region Teaches Another, Converting Novel Data Into Enduring Memories"
     excerpt: "As the body moves between REM sleep and slow-wave sleep cycles, the hippocampus and neocortex interact to facilitate memory formation."
     publishedDateTime: 2022-10-24T22:05:00Z

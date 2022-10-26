@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Microsoft Corporation (MSFT) Q1 2023 Earnings Call Transcript"
+    excerpt: "Q1 2023 Earnings Conference Call October 25, 2022 05:30 PM ET Company Participants Brett Iversen - Vice President, Investor Relations"
+    publishedDateTime: 2022-10-25T23:05:00Z
+    webUrl: "https://seekingalpha.com/article/4549108-microsoft-corporation-msft-q1-2023-earnings-call-transcript"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "K2/sHIet8UbV4AYAY4ECIpSTIXBn+GdMQ6YXqbEoyZQKH++/VupxtqweYllxEe1Q7u5PP6R2Ka4aNlgV+vJgSWu3NFfUM+vPAEtU9fXJvafQGg67sumBTODwjwectqD8ClirOPUyVLcRydT1eKJCZBba4oipe1nD+SVPnGWVdI08z06PR26vHaom1mYgeQgNbTGpSdbZWj9cQNwLNqeDhOSGS+7wDfuOQe4AZOsp6CmfxUFaShDCtmzuY3Ru6WDwuPMzeGb7UHV2fGF2mqsopVh8A2DDjIHPabdUMuw5f7EhC1Wt0qkyOS2pzKf/r8aoZheylxMZjvq1TaUQMkYIZTd1iJoOAfUWKsmnxjkwBXU=;jNipNFUBbLxIiDI9f3Ojsg=="
 ---

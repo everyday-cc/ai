@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/"
 type: article
 quality: 87
-heat: 108
+heat: 109
 published: true
 
 provider:

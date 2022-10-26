@@ -42,22 +42,6 @@ related:
         width: 500
         height: 239
         isCached: true
-  - title: "'Deep fake' protein designed with artificial intelligence will target water pollutants"
-    excerpt: "If you've ever used a text-based artificial-intelligence image generator like Craiyon or DALL-E, you know with a few word prompts that the AI tools create images that are both realistic and completely synthesized."
-    publishedDateTime: 2022-10-21T05:45:00Z
-    webUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-deep-fake-protein-artificial-intelligence.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 53
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-fake-protein-desi.jpg"
-        width: 700
-        height: 785
-        isCached: true
 
 secured: "lVCxglpVGrRCi780J/idSnMJUitXZqB7brXaBBlF3xz9tyLTz9Q6oi3pm8f8y79goS6bnnT/obYf0i/wanuCH8wGbaF/6bcZR4c1j/JwWE5I0gYuHyMEpvOSgALucZ+YOmcc9YgEhCM3B9BYnJoUTJqTlq2gLfWPcIGf060FODBuHtt6xU3sL8JGUodcxR+adAdzGtWKdmsZBn8IZNbYU13TDgu5FcZz4OmtE/3wEQuA6AIf6a1FlqbGugmCAMQuSkO9gp2MLoSDM0ihD8dQgA4hxu62DcJU/UbWugeQ7OvwUMo7qx0gDn/iNK3OKpzUed4qWw4uytb7i2MTqQ6GEPsScRZ2kp90pFkNJV2mvwhf02WEQ+ceebdgwAX94bGenqJckKpiC8xD2oXFXkxUS/kH5FEQL69tFgAt8SOdcSjflU24YWNSgD/W8Y5k0+6Eqr2g5cJHBOgxa9lcmPVGmwD34ACds/A0F5natMXwIxevSz3jUJiDJmFQ5rVd4Aoo44E2fEUeQzQ//AetXUMZoQ==;XubXZyAUrjotaIUuZyxwGw=="
 ---
