@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Music Streaming Market Analysis Report 2022: Artificial Intelligence and Machine Learning Gaining Momentum"
-    excerpt: "The global music streaming market is expected to grow from $24.09 billion in 2021 to $27.24 billion in 2022 at a compound annual growth rate (CAGR) of 13.08%. The music streaming market is expected to grow to $45."
-    publishedDateTime: 2022-10-21T16:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-music-streaming-market-analysis-report-2022-artificial-/2022/10/21/9697594.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 48
-    images:
-      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-        width: 476
-        height: 210
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data | 102 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence In Healthcare Market is projected to"
     publishedDateTime: 2022-10-25T02:18:00Z

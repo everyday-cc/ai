@@ -7,7 +7,7 @@ originalUrl: "https://www.prio.org/news/2979"
 webUrl: "https://www.prio.org/news/2979"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 2016
     height: 1512
     isCached: true
-
-related:
-  - title: "The ethics of AI writing and the need for a ‘human in the loop’"
-    excerpt: "With AI-generated writing, imagery and even video becoming available in increasingly high quality, how can marketers ensure responsible use of these tools?"
-    publishedDateTime: 2022-10-21T16:51:00Z
-    webUrl: "https://econsultancy.com/contentbot-nick-duncan-ethical-ai-copywriting/"
-    type: article
-    provider:
-      name: Econsultancy
-      domain: econsultancy.com
-    quality: 54
-    images:
-      - url: "https://econsultancy.imgix.net/content/uploads/2019/04/11075130/iStock-1036656330-1.jpg"
-        width: 1257
-        height: 834
-        isCached: true
 
 secured: "jy8SN2v7JHd51rd0+nUWNS7urJLsS/4375C7+tCYUdnCaDaVmOfJaY5BmWBpN+dmG9tGlOUgVs1UZsJj4bzfZoty9Sdu06uUahB/TRvwqOmFHhVMMbPRb4BUcbKJ79KX9pMAtDcrtHGoZeey4MVqGfz6PV6iw5fHN1aRHzAXKGv3V2kgqP0YLbRHc+i+X5rewW7gHvLidFAfXNvq2wN7Qdg0ReR0pQNUR87e/OnB4mHmvP8+2s7xIlRBkw3PNdvMYgFyzIjLbC5+gaIl5s+zvUmbXulLcZsfBSUHFHLqdiiCfLtbBCfhNCBkC8n+GO6HCWAHsjYhhugI0IQ6I1NPOE55K6DvJKhMR+w1HqsrBSLOHYJY++N2cwCJ3KY/8MM5PJGvEG39sX8JI3LwrDIqUhasePXwo/AH3IZe0qkbIgrNYyXMzXuhTbTANAL+mF3yeqH2iKll8ukAtpGrV5w3tBgzSc29sjeVhIuwK1gcYUHxLzzXCBR3xzycVE8XKe43Ku/0P4z+KWNOo9QujXfG9g==;Zji6DQi9sKpABZaGK3b+Hw=="
 ---

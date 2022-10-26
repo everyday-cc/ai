@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitaliz
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp"
 type: article
 quality: 64
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New AI Model Can Predict Unplanned Hospitalization During Cancer Therapy"
+    excerpt: "New research shows that an AI model, which analyzes wearables data, could be used to predict the odds of an unplanned hospitalization among those undergoing cancer therapy."
+    publishedDateTime: 2022-10-25T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/new-ai-model-can-predict-unplanned-hospitalization-during-cancer-therapy"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 33
   - title: "AI model predicts the likelihood of unplanned hospitalization during radiation treatments for cancer"
     excerpt: "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer."
     publishedDateTime: 2022-10-24T17:11:00Z

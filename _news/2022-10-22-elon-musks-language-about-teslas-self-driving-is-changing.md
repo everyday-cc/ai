@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1343072603/image_1343072603.jpg?io=getty-c-w750"
         width: 750
         height: 500
-        isCached: true
-  - title: "Elon Musk: Tesla Full-Self Driving \"won't have regulatory approval\" in 2022"
-    excerpt: "Comment Now! Tesla \"won't have regulatory approval\" to release an autonomous driving system in 2022, according to recent statements by CEO Elon"
-    publishedDateTime: 2022-10-21T15:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1137560_tesla-full-self-driving-regulatory-approval-2022"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 52
-    images:
-      - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100850003_h.jpg"
-        width: 1920
-        height: 1440
         isCached: true
 
 secured: "DtEa02t7k/LppAU/AqdrFpK4avemyjPtaiid7MFfDMh65ZTTzlLCD/s8SdAt0g/w933iZ4bmt7QwrnxGGg5fDnfye8kc87nnDNRr0tw4KlIJMbZd9JSjTX3CieMcxv2fKAIoy8n1bYWyy8SJIrkg3FMZM1rEDi5mE2VG2x3vJrSWReg+qCFpWAhHlHjdBLWbCWnqV1LFjvKQIn15vG4UCrqY5CLiH1heMJla97CQacWFUPSGVuCZli9ek2wNKKuI5gshj7fY+vhkRdvS48o6BznA1ZwlMd0paqGLr98nqFw5xhP3IjxIro1+1qMGg9BkHL7DFfqfqIXFLI1EguMq8zlF2G67YEUAcsPlFHWJGIb8bpBfZJkluXNzpu/s/RDlLSm7sTtJcIyskDFYFbsXsO/Xel8cO09XJCB5v6dZfUYwaEfRA8cbgN25mFX24vBD3oKB4IAwNzydHHmk+2jElr6Kp0cJSklkzUBt7wrWdNbmCohFmFWPDhDGkKh7WN4gZ4CluTF/MQct3L7Ig5UoIQ==;HapJx05zUW6XZv83feQMrQ=="

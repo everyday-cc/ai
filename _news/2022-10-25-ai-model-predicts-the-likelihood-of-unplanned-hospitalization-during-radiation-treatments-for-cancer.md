@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "New AI Model Can Predict Unplanned Hospitalization During Cancer Therapy"
+    excerpt: "New research shows that an AI model, which analyzes wearables data, could be used to predict the odds of an unplanned hospitalization among those undergoing cancer therapy."
+    publishedDateTime: 2022-10-25T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/new-ai-model-can-predict-unplanned-hospitalization-during-cancer-therapy"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 33
 
 secured: "Od033uDAsQuK7EVz1yKAt4BMmoyXyKm2tvq0dIrRIpJMM2hAGcGQCZyWq8Bxv0dsol4wFNbaCkOyKuVqYSjr7w+tFhc2QnNvXxy6YLYbskwwc99oLJ3cHCfpS9FI9VfQRvvjjF8c9zOKQ9UV3GzmQMUiHVj6MRjFXSajFDn7/aKRbcsOhA2MaYxInJewjPaSmqOOALuCf6mVy/k6kM1BlDZQDjUF9OG3TfsNkK37odjgsM6qweAS1m+plUfZRCztEJhqnFG2nGGZTC+FJ69/RTwy0JTvr3hDX07VtbBM7F3GxeXIKF6IDRIZiZwEFlYq5sgxguXp1qrCpZd0nk6Y65TSXumVVLqwwsWNmUqm4hIAmJIalxU8SwqUhGQdZ7pBfRE+MbUPpaTtaiLzecbN2haDEjyArrvyjF2NoA07GcYCOyY23QMKU/REWoYgOuFcjLD829HIMWhQPJNymLVRXOahSonEMGbRF6yJY2JMitHL4zLaQa8VFCYzUtJDrRoex9b/MqZYIhJbggBxdSdwcw==;8gqoGl+6l55RY9lgfanqXg=="
 ---

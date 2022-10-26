@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-generative-ai-legal-battles-are-brewi
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-generative-ai-legal-battles-are-brewing-the-ai-beat/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 863
     isCached: true
-
-related:
-  - title: "Adobe Gets Into the Generative AI Image Game"
-    excerpt: "With DALL-E and others making splashes in text-to-image generation, Adobe shows that the company is finally is putting some of its own resources into the new tech."
-    publishedDateTime: 2022-10-21T16:07:00Z
-    webUrl: "https://www.pcmag.com/news/adobe-gets-into-the-generative-ai-image-game"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03B9diyWWZxnrCdrG1hm1Kw-2.fit_lim.size_1200x630.v1666365622.png"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "NDfjUJ0384tKhsrTbV3x4oKxBSRQstfav0g5MA1C5prcrk03KyhRGZyI7XiJseaToZ9xYcYuuYhgsShSSQPDZIZJBriMaoYRP5nCC2Y7UuwE1sHj95DVjNFFrVAiJHxojmX9kNvgiD0nlgrN+4HeBHRft/rLbCxDVrWBKHQGGwyrzCSdbvyv+FeLDvXw3rBIAGqbYkPmdL59fRZLP+h8K+/6rqZanad0SU1JGzbOa/c14TFuwslsvQjiWZuVQR3B5JxOdaHwvNTvlqXlwDITefrltKfeOkfSktjz6N1uDqIF8kmC1e0OoJRayqjEnriZ/berUmWqO9UKGHBFWLM/Zsse+Q3zdwvUt5NAZKsOy8VnVc8o4D0Pt8N1EVxRIbKj3q+mXHM2TPCr2NqLjPO5n19oSBxSk/+APbOT6YAhYdaJKlNDfL+ZrnrpaylYJvuy8nOqxbI4WCx5rhSAymInkauBuY4/hz+RRprdEavIr+0F+P1kPBXUvle8z6W7/oQ3fcuu4NV0mXLYwNkbLOKovg==;UTPKZhW17UnTUvKs+zcdZQ=="
 ---

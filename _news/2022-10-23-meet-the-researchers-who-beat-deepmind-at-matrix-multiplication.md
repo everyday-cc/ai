@@ -41,15 +41,6 @@ related:
         width: 768
         height: 512
         isCached: true
-  - title: "AI is Changing Scientists’ Understanding of Language Learning – And Raising Questions About an Innate Grammar"
-    excerpt: "For this reason, many language scientists – including Noam Chomsky, a founder of modern linguistics – believe that language learners require a kind of glue to rein in the unruly nature of everyday language."
-    publishedDateTime: 2022-10-25T13:00:00Z
-    webUrl: "https://www.nextgov.com/ideas/2022/10/ai-changing-scientists-understanding-language-learning-and-raising-questions-about-innate-grammar/378811/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 0
 
 secured: "SdbPcCW5By88QHB5YheHWAUqSPAQXBuWDcHNwCSrcK3lHIDVj8BXubZo/WrP76lum/BJuZmUsL8Ri4/9Gw6YGU8GYGBivOM8fUHARP1pinzspLd9D+sXiMZf/T1VsqUKhjgOozg57E3KwARB0++GlwZmNDO7bQxm1qK+kEqSuOVNAAaBAPxfPdr5tyec3zPfOAeyXO3AHzEq8K9YFoZNVn0iDIVcuVLanOU/VO/hCsfWUkvCUKxGwE4C/qMY5Ar90+0z18yW7FfHlsyqIVvd1stiAEiTwSLWDJqf1EjI0lTiE+2TqA48GJxALdILVrnfqkiVP7hu9mhUPFrtU6btJGzG6B+MA4cXWsBi2YfeByI=;9kGOqIt8j7FxoH6Q5EDrqQ=="
 ---

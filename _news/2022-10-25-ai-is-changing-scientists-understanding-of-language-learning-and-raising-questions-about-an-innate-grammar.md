@@ -19,35 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "DeepMind Study Shows That Language Models Can Learn From Explanations in Context Even Without Tuning"
-    excerpt: "If you have ever considered the answer to a question and asked \"...but why?\" you are not alone. Humans have an innate ability to improve their learning and broaden their understanding via explanations that relate examples to principles."
-    publishedDateTime: 2022-10-25T23:52:00Z
-    webUrl: "https://syncedreview.com/2022/10/25/deepmind-study-shows-that-language-models-can-learn-from-explanations-in-context-even-without-tuning/"
-    ampWebUrl: "https://syncedreview.com/2022/10/25/deepmind-study-shows-that-language-models-can-learn-from-explanations-in-context-even-without-tuning/amp/"
-    cdnAmpWebUrl: "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/10/25/deepmind-study-shows-that-language-models-can-learn-from-explanations-in-context-even-without-tuning/amp/"
+  - title: "19 top venture capitalists to know that invest in AI and machine-learning startups like Hugging Face and Databricks"
+    excerpt: "These top VCs are investing in major AI startups, and looking for founders with technical expertise and scalable solutions for data management."
+    publishedDateTime: 2022-10-24T10:05:00Z
+    webUrl: "https://www.businessinsider.com/top-venture-capitalists-investing-ai-machine-learning-startups-2022-10"
     type: article
     provider:
-      name: syncedreview
-      domain: syncedreview.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
     images:
-      - url: "https://i0.wp.com/syncedreview.com/wp-content/uploads/2022/10/image-92.png?fit=768%2C512&ssl=1"
-        width: 768
-        height: 512
-        isCached: true
-  - title: "Meet the Researchers who beat DeepMind at Matrix Multiplication"
-    excerpt: "DeepMind researchers did what they do best—making AIs champions at games. The team tackled the fundamental matrix multiplication problem by turning it into a single-player 3D board game called ‘TensorGame’."
-    publishedDateTime: 2022-10-23T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-researchers-who-beat-deepmind-at-matrix-multiplication/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/unnamed-10.png"
-        width: 1600
-        height: 900
+      - url: "https://i.insider.com/6347323539a9f1001232e891?width=1200&format=jpeg"
+        width: 1200
+        height: 600
         isCached: true
 
 secured: "Fq/019n/+EZ5MK0zPipxyCATAV646BG68nDShrBpab8ir0pvSSucjr8BHImNP8gvkp1QRKJfdS+DHk+DPAvBwu67H2ZP9lRSRBBSL/Q1F8RmE2eZs69b3x4wYBd6ooLOeqnmXS0aTJe/nB03ZYCjZ4UE3LyIeU1+7xJ/fEy0UjDF9xwjQANHn5ww6mvV2DlfZk9wT3eEv/YDsVC93RhMXZMET0B4RbwXQrSZ/L9OFUFbl3pnfHCsVda6nFfI6Xkrcib+pxDqwXIuaTy3Re/Bmos16XiEcg/cjb+OfQBm+iCz7imcdIJdEk0ieSYoIHZqq0bRCUbELAN28LmzOJL1oIEO3LduiSk3jhVicGNyil87qFtaIx1xhmUWtTH2kYGXMgJ/Vj3w8lCzUevGG0h1kEYquSnZD+ZOaNgmCkbRPeWNdimTqHqq0/4B8B2MNl3HDZXk2qOFX/ZvS1EAOsOqbsgrBGcjBVKfIaU5gwUrvPU8QC3jXPGjLS62ukIToHmPa1IxVVoAJEGPzC2QssbGGg==;9JUtGLIj/40LGGqg0KbvBQ=="

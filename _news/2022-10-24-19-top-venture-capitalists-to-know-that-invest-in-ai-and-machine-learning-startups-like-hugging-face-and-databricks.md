@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/top-venture-capitalists-investing-
 webUrl: "https://www.businessinsider.com/top-venture-capitalists-investing-ai-machine-learning-startups-2022-10"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Databricks’s Chris D’Agostino on AI and Data Management"
-    excerpt: "A new survey details major market trends in the data and AI sectors, and reveals how these two technologies closely interoperate."
-    publishedDateTime: 2022-10-21T16:30:00Z
-    webUrl: "https://www.eweek.com/database/databricks-ai-and-data-management/"
+  - title: "AI is Changing Scientists’ Understanding of Language Learning – And Raising Questions About an Innate Grammar"
+    excerpt: "For this reason, many language scientists – including Noam Chomsky, a founder of modern linguistics – believe that language learners require a kind of glue to rein in the unruly nature of everyday language."
+    publishedDateTime: 2022-10-25T13:00:00Z
+    webUrl: "https://www.nextgov.com/ideas/2022/10/ai-changing-scientists-understanding-language-learning-and-raising-questions-about-innate-grammar/378811/"
     type: article
     provider:
-      name: eWeek
-      domain: eweek.com
-    quality: 67
-    images:
-      - url: "https://www.eweek.com/wp-content/uploads/2022/10/eSPEAKS-thumbnail-5.png"
-        width: 1920
-        height: 1080
-        isCached: true
+      name: Nextgov
+      domain: nextgov.com
+    quality: 0
 
 secured: "m1N3YInTTW+dVfkDEYgBT8+0AXdnTZvuxS38bOjXBVcrH869JFkZ3LjKqQ/+W0zTN7g6YEdzX2S/0X1K3E4dKE17uVKLDlL1MQBPFjzhCSZUDyqBr7uwEcuzj5qrpmUWdO2/JZlxWD8l/Ds6qtk6Rn9iyO9qbhoSwZX3K8CGQG/42+XaCB1EYdmh8YPZ6QSjjYS3PcGM+W7SPQLUkQvhKGkVx1oyG5e9z3osAK5TDyuvBz2Nor5wmXCr0q/F4S/5tCRZRW4/4VY2PvHsLcMCdaINdZKr/Kii7+ToglG+BBIDAgvvME3XIzyFvhnyq7ZjXhp8rIF8f7EEcg6kOo+2RKCyI77WIsFXjAaR4GkqeLMglCyx6F6fU33hrspRSafZrdhitXOyqyEoWNCtNa6S5fXD7JcIgWGpXfeSfHL5k6YgUAgcSIZv1yOL9C9jQQttrFe0zbi3QTTU4bqfE47VXBQl727UfFbS91C1g2wvPrbNsgWEddcKR6tV5Ksaee/4c+h2yh8m94052SF9a1SyXg==;c8383wQgfThZsHoEtcx65w=="
 ---
