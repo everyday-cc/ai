@@ -37,7 +37,7 @@ related:
     provider:
       name: Gizmodo
       domain: gizmodo.com
-    quality: 66
+    quality: 68
 
 secured: "UFyWcUzW5pscHuSUxOiLfWSIXUF2Sbn6w8Pa3cqR/NJ1ZI5qqqfYspoAs+CpdcRor4rPCPGAQEKOvLAtaQcpDEvPgVqj0YXdtjvbHOzdz9Fna5/gVvq5Kvxuv5l3hg99sdQQBz0PAYQeb4y7/6xwEOy3P75obIX/ybw4AXQ+VdQi/098fWeX+qwjuPkI920HBXF+qO1S/HX+MvW9tbqan8duRovknwZ8sKGMjEEAdE6LUx/W8SDG+fN6kkXT0Rm3oxyWEvFy06RftWPYieiF1D3r55kKYFgqrx0hT0DAEEywGjkdqpsb8+Et0s6TUNKKgmYmufBReScucQnCeb4u6zuCAeNHPQikgd/UFaxZc4c=;roNO5WSNk1mLLzSfBqFlqw=="
 ---

@@ -45,6 +45,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
+    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T18:19:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
   - title: "Intel’s self-driving unit Mobileye prices IPO above target range"
     excerpt: "Intel’s Mobileye priced its initial public offering on Tuesday above its target range, valuing the autonomous driving company at almost $17bn in a rare positive development for the US listings market."
     publishedDateTime: 2022-10-25T23:20:00Z
@@ -73,6 +82,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
+    excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
+    publishedDateTime: 2022-10-26T18:36:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2022/10/intels-self-driving-car-business-mobileye-climbs-following-ipo.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 4
 
 secured: "5w2n1V7cLvI76gCBVqze/NJWqwlP9mK4KnhnB0uyP5slA9Qc6eQVxHVuN+ASbAf/g/2GOP6CcAWD77FVkCClA3P6qic7kiFq4znvJZ8QRzxfdcawKU7sUUGOkdzWLwiZQegRlPhZR2fdWgLbpQONHeNVDaZLnavJNvV1Ko+sVyEQ5MNjFQb/0Q4Mhz2hune3mdMEiY2LyNKvnRTweCIN+aNJ1q8HJ+LuafV0wOoE/txIUnRLPZgwyEqSwS2JvgBWv1WIHKsxDlFWMix+Ka0ha8/GR01obI6sZvf0VmYJOFcBuLmdvaqTu13ebe4bPn4/wowYwlt5GFgDyXgdFAVaF+GDOzB1nhoH+e0ZZRN2magJMzfK7J31/rpOZHU2uzlZtW+aXgLRxdcsbdtdzqk8GVk1RwAGKLiIS/m7Yuhwk0x8mKmOxzhLWJ1tfeYyDim+2yZGRVVnW8ptLokVxavQEEtfz6fR/S6Ng8uIrbCWQ02PuKFe0BiW+0sxHHD9Lg9k0ndYW1kpAdUtVS1z0Rt8GA==;0QkGZicBm3EQfg4LkBF/uQ=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://www.theguardian.com/world/2022/oct/23/business-racing-to-use-fa
 ampWebUrl: "https://amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/oct/23/business-racing-to-use-facial-recognition-technology-raising-concerns-the-law-is-too-slow-to-catch-up"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:

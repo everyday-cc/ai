@@ -74,6 +74,15 @@ related:
         width: 1600
         height: 1000
         isCached: true
+  - title: "The Dick-Pic-Fighting AI That Dating Apps Deserve"
+    excerpt: "Bumble will use AI to protect you from unwanted dick pics Private Detector achieved greater than 98% accuracy during both offline and online tests, the company said, and the latest iteration has been geared for efficiency and flexibility so a wider range of developers can use it."
+    publishedDateTime: 2022-10-26T19:15:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/dick-pic-fighting-ai-dating-apps-deserve/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
 
 secured: "r1ztSv3PYMq0DyS2TR/Ek8ZeLNMK7aBKPgv6g4Wyk8bVzWtCytGUJp+O7lVGOo3DciORW8WUP3mwmo9g4AKi1u//FLwz06hFrg1f00JyZxS3P8jR6YJwKl0XwmO7propHLf8Wxjd25DMfX0Kl6w+2A2jBsgi+1SZDfVnZLm9bAJ3pRZtcHfOWAv2xJWzyjnJwauM/GyUKtsX73FLm+h1Tup5doRVAOOcCZejLNtyPJQVy4UaT6ai5wG7xCpAEQgp2tszV/P5rkrIyFI0jbNvWD2LdFoSLDHbu27eVjL4BPN/iqB8aTyadzMtBQoFJ2TDrxy5KOFUlEICvtRU17aV6n2slNP282luD+MmG/Oarmg=;CLhvau+VNA386G4OC1/2Zw=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-
 ampWebUrl: "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp"
 cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp"
 type: article
-quality: 66
-heat: 76
+quality: 68
+heat: 78
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 related:
   - title: "Sony A7R V adds super-fast whole-body tracking, and 8K video to the Alpha range"

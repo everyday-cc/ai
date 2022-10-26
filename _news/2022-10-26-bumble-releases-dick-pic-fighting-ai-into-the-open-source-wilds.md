@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighti
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -75,6 +75,15 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "The Dick-Pic-Fighting AI That Dating Apps Deserve"
+    excerpt: "Bumble will use AI to protect you from unwanted dick pics Private Detector achieved greater than 98% accuracy during both offline and online tests, the company said, and the latest iteration has been geared for efficiency and flexibility so a wider range of developers can use it."
+    publishedDateTime: 2022-10-26T19:15:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/dick-pic-fighting-ai-dating-apps-deserve/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 49
 
 secured: "q5hnyiysAEHhARtpa/QiSALjAIxs2DAMbnKJX8q6DSWLXgZL2uoPLAqlpOpkQQi1OCHIwdJFsdla9xKjfGDMfdWVS4zsnaZ0q5H9Ix9I0aRSX1Nj12tp9xO8PJY4l9pSsiNnhKPf1mIXpyX5+zYOAwWe+/PveujEFGoTgy5ITds3ymoQv9sPz6xMNBh6fIR6M/8UKGhX6j2llrpTX5CF4HNtsGuapMNIns52fYepVy1WM36hLRQAoMTJjZDRPyr8jMb7WC98y9N3PcrI3vL820FXMX5u/Cgx9j/QztYj5N9IAC8ZaelgUftLOuJ+G5e5t2J6MtF95H1sL8Iw4dViKulxZKkv8gl1LOX2iBhMgkex9xmj3RMG9IeuVEQ+6v7877mbf8cgedlopBSTCmKHuu0Xm7M/UY2pWmuP4wsvGKmclBMwGy4MkgHLnviwzSe5q/Gwvh+ePUSwiMloZdRTgBzIQFFHi0dd3HcaUL15ToS5wcfvDrdHjuXF5ulREJytGLiR+SjNFb6Vw/KgDcLx6Q==;qkyQhsngqRV4P/vw6rC0Ew=="
 ---

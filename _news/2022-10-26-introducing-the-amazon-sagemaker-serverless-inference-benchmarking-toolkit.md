@@ -66,6 +66,24 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Amazon SageMaker Automatic Model Tuning now supports grid search"
+    excerpt: "Today Amazon SageMaker announced the support of Grid search for automatic model tuning, providing users with an additional strategy to find the best hyperparameter configuration for your model. Amazon SageMaker automatic model tuning finds the best version of a model by running many training jobs on"
+    publishedDateTime: 2022-10-26T18:51:17Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-grid-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 69
+  - title: "AWS Celebrates 5 Years of Amazon SageMaker"
+    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of"
+    publishedDateTime: 2022-10-26T18:29:00Z
+    webUrl: "https://www.datanami.com/this-just-in/aws-celebrates-5-years-of-amazon-sagemaker/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "n3v7yEPllzHf+Uo7SVSycvuqYQFUP3S6Xt4kAebJuLy7NmlMz8IRvs4Zz6cmXLR32DLkd5vFnu6veNLjysCJlpOTc9viB5LJD+BA9JfEwGJJIRdgZV4UQjUssf8DceSAFx4V9/DRlAamuA4AuSUwDIkCQqt8pfnO0JXZA4fBD1I8AuuKgp+zma/yDYfa4E5Zmh6dHZ5/pliU+i/0ZmoVzH6RPGJglcNcYtJcp4Ftvq/kgXclqRuKO6uy7c58rT7TG+/GbSyT25eizgfA9gF1dDsKD1/ltjoYQNyJxMVVjEn0EM88qB6S1RVDYPv4iB9cbE7cqvEeA8lBNQdw3rSG+O9ARGoiVVdXeHm0bsAktkQ=;plESL4m5jTIIu7bttoHiuw=="
 ---

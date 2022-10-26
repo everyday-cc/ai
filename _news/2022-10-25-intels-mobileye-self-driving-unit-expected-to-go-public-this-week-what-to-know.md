@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
+    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T18:19:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
   - title: "Intel’s self-driving unit Mobileye prices IPO above target range"
     excerpt: "Intel’s Mobileye priced its initial public offering on Tuesday above its target range, valuing the autonomous driving company at almost $17bn in a rare positive development for the US listings market."
     publishedDateTime: 2022-10-25T23:20:00Z
@@ -69,6 +78,15 @@ related:
         width: 619
         height: 376
         isCached: true
+  - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
+    excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
+    publishedDateTime: 2022-10-26T18:36:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2022/10/intels-self-driving-car-business-mobileye-climbs-following-ipo.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 4
 
 secured: "PS1o+dLXQxFbxpTUS5aMTgSSXf1Gb+86eG4FVPxIWupBvrbFaf5+8VnomZp0sCOV2QM/W8DXyT9kyK2AEt2qcuoIQgU4+EyjeeukOlHgKpjsh2Ca688cUBiGvdG4kAoYUgI1FsNZa4wyUsyhtR8PbbOV9w18A88s18Yh62Z+wWtUKWLq7AvXmzZkRpB/ZfjX/gp7Z8/Vmvzb4vP1bETA/LZXVGQAy49zpUmvzWTJZEpWcws1jVx7ivYFc0++t7KW+z1CDNm1eo61oJi7BzN44rVe8076G/YHc+OrsigrprIerGQNHH2tgP/TTCUr4wCIhBcvEXXHhtIZXdq8bZ8VO+MBIugtgp4Zu37zmsM9Kc4=;BhTXNEXTGskWFbQKJBrBLg=="
 ---

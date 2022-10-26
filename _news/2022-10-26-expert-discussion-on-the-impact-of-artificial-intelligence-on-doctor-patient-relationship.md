@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T08:28:00Z
 originalUrl: "https://www.coe.int/en/web/yerevan/-/expert-discussion-on-the-impact-of-artificial-intelligence-on-doctor-patient-relationship-"
 webUrl: "https://www.coe.int/en/web/yerevan/-/expert-discussion-on-the-impact-of-artificial-intelligence-on-doctor-patient-relationship-"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Council of Europe

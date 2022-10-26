@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T19:18:00Z
 originalUrl: "https://www.nextgov.com/analytics-data/2022/10/senators-applaud-intelligence-leaders-commitment-declassification-reform/378951/"
 webUrl: "https://www.nextgov.com/analytics-data/2022/10/senators-applaud-intelligence-leaders-commitment-declassification-reform/378951/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Nextgov

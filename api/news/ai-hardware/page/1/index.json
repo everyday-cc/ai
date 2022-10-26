@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-26-sonys-alpha-7r-v-takes-autofocus-to-another-level-with-ai-body-tracking.md",
+      "title": "Sony’s Alpha 7R V Takes Autofocus to Another Level With AI Body Tracking",
+      "excerpt": "With cameras like the Sony Alpha 7R IV, eye-tracking even works when a subject is turned away from the camera, and only a small part of their eyes are left visible. But in many instances, if a subject’s eyes are completely occluded,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585",
+      "originalUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585/amp",
+      "publishedDateTime": "2022-10-26T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-ai-chip-startup-simaai-raises-37-million-in-b1-round.md",
       "title": "AI chip startup SiMa.ai raises $37 million in B1 round",
       "excerpt": "The latest round, an extension of $30-million Series B round SiMa.ai closed in May, takes the total capital raised by the California-headquartered firm to $187 million",
@@ -54,7 +97,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -94,7 +137,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -106,7 +150,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -1345,49 +1389,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-google-announces-tensor-g2-chip-at-pixel-7-event.md",
-      "title": "Google announces Tensor G2 chip at Pixel 7 event",
-      "excerpt": "This made a number of the Pixel 6's flagship new features possible due to the phone's machine learning and AI features enabled by the powerful Tensor chip. Magic Eraser is a perfect example of one ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement",
-      "originalUrl": "https://mashable.com/article/google-event-tensor-2-chip-ai-announcement",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/027l7uxerp61532fIjB7nUH/hero-image.fill.size_1200x675.v1665065449.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-07T01:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

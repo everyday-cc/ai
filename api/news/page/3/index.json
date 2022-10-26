@@ -2,6 +2,144 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-22-ai-text-generation-in-marketing-must-be-managed-carefully.md",
+      "title": "AI text generation in marketing must be managed carefully",
+      "excerpt": "AI text generation will become mainstream in marketing in the coming years, but human subject matter experts will remain crucial.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
+      "originalUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/10/office-computer.GettyImages-1084171424.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
+      "publishedDateTime": "2022-10-21T17:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
+      "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
+      "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "originalUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "publishedDateTime": "2022-10-21T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
       "title": "AI tool colorizes black-and-white photos automatically",
       "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
@@ -404,6 +542,40 @@
       "topics": [
         "AI",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study.md",
+      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived': Canadian-led study",
+      "excerpt": "A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments following infection, which can be ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
+      "originalUrl": "https://www.ctvnews.ca/health/coronavirus/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-canadian-led-study-1.6117002",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T09:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1025,195 +1197,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-has-built-an-ai-system-that-can-translate-hokkien-to-english.md",
-      "title": "Meta Has Built An AI System That Can Translate Hokkien To English",
-      "excerpt": "Meta has created an AI system that can translate Hokkien into English even though the Taiwanese language lacks a standard written form.",
-      "sourceUrl": null,
-      "webUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
-      "originalUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.augustman.com/wp-content/uploads/sites/3/2022/10/20142428/featured_meta-translate-hokkien_muhammad-asyfaul-unsplash.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/",
-      "cdnAmpWebUrl": "https://www-augustman-com.cdn.ampproject.org/c/s/www.augustman.com/my/gear/tech/meta-ai-system-can-translate-hokkien-to-english/amp/",
-      "publishedDateTime": "2022-10-20T18:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "augustman",
-        "domain": "augustman.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-texas-ag-sues-google-over-its-facial-data-collection-practices-updated.md",
-      "title": "Texas AG sues Google over its facial data collection practices (Updated)",
-      "excerpt": "Texas AG, Ken Paxton, is once again suing Google -- this time over the company's use of facial and voice biometric data gathered from the state's residents..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "originalUrl": "https://www.engadget.com/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 113,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-09/98e07ce0-2aa6-11ed-bfef-4161b140f90d",
-          "width": 5000,
-          "height": 2964,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/texas-attorney-general-sues-google-over-its-facial-recognition-practices-161942788.html",
-      "publishedDateTime": "2022-10-20T18:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-weight-loss-in-early-parkinson-linked-to-cognitive-decline.md",
-      "title": "Weight Loss in Early Parkinson Linked to Cognitive Decline",
-      "excerpt": "THURSDAY, Oct. 20, 2022 (HealthDay News) -- Weight loss in early Parkinson disease (PD) is associated with a decline in cognitive function, according to a study published online Oct. 19 in Neurology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "originalUrl": "https://www.kpvi.com/interests/weight-loss-in-early-parkinson-linked-to-cognitive-decline/article_e58ebdf7-b049-5c83-8435-6b68275bde2b.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kpvi.com/content/tncms/assets/v3/editorial/c/80/c802b23b-58c1-50e8-8c20-79c45aff8b67/6351f2b4671d4.image.jpg?crop=600%2C315%2C0%2C42&resize=600%2C315&order=crop%2Cresize",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "kpvi",
-        "domain": "kpvi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video.md",
-      "title": "This Week In XR: Stability AI Raises $101 Million, VITURE Raises $10 Million For Wearable Hi Def Video",
-      "excerpt": "Stability AI Raises $101M Stable Diffusion, a state of the art open source text-to-image AI program that generates images from text, announced a $101M seed round at Techcrunch Disrupt in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
-      "originalUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6351e8216ab4d7c1914360b0/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/charliefink/2022/10/20/this-week-in-xr-stability-ai-raises-101-million-viture-raises-10-million-for-wearable-hi-def-video/amp/",
-      "publishedDateTime": "2022-10-20T17:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

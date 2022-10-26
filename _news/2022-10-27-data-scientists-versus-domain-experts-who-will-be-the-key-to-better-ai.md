@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/data-scientists-versus-domain-experts-who-will-b
 ampWebUrl: "https://diginomica.com/data-scientists-versus-domain-experts-who-will-be-key-better-ai?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/data-scientists-versus-domain-experts-who-will-be-key-better-ai?amp"
 type: article
-quality: 58
-heat: 58
+quality: 60
+heat: 60
 published: false
 
 provider:

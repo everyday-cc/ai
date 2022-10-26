@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
+      "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
+      "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "publishedDateTime": "2022-10-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit.md",
+      "title": "Ford posts loss on decision to wind down Argo AI self-driving unit",
+      "excerpt": "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
+      "originalUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-intels-mobileye-self-driving-car-unit-prices-ipo-above-range.md",
       "title": "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range",
       "excerpt": "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected.",
@@ -10,7 +114,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -1316,94 +1420,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
-      "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/10/Loblaws-truck.jpeg",
-          "width": 770,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-artificial-intelligence-shows-how-kim-kardashian-and-sisters-look-with-no-cosmetic-work.md",
-      "title": "Artificial Intelligence shows how Kim Kardashian and sisters look with no cosmetic work",
-      "excerpt": "A digitally altered TikTok video has predicted what the Kardashian sisters would look like without their cosmetic enhancements – showing side by side comparisons of the family with and without surgery",
-      "sourceUrl": null,
-      "webUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "originalUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.mirror.co.uk/incoming/article27997829.ece/ALTERNATES/s1200/3_Khloe-Kardashian.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "cdnAmpWebUrl": "https://www-mirror-co-uk.cdn.ampproject.org/c/s/www.mirror.co.uk/3am/us-celebrity-news/kardashians-without-cosmetic-work--28226387.amp",
-      "publishedDateTime": "2022-10-13T01:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Mirror",
-        "domain": "mirror.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

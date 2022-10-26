@@ -34,7 +34,7 @@ related:
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 102
+    quality: 104
     images:
       - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742"
         width: 1200
@@ -62,7 +62,7 @@ related:
     provider:
       name: Business Wire
       domain: businesswireindia.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81425.jpg"
         width: 1200

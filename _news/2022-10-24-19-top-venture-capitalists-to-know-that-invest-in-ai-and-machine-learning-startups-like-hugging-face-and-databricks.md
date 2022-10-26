@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-24T10:05:00Z
 originalUrl: "https://www.businessinsider.com/top-venture-capitalists-investing-ai-machine-learning-startups-2022-10"
 webUrl: "https://www.businessinsider.com/top-venture-capitalists-investing-ai-machine-learning-startups-2022-10"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

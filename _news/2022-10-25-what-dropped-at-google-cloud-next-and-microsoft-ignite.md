@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-googl
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -69,6 +69,15 @@ related:
         width: 664
         height: 664
         isCached: true
+  - title: "The Triangle's silver lining in Google, Microsoft earnings"
+    excerpt: "Google and Microsoft – reported earnings Tuesday, and both fell short of expectations. But it's not all bad news."
+    publishedDateTime: 2022-10-26T19:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/10/26/google-microsoft-earnings-raleigh-durham-economy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "GZuICIOmu/ttPBK7TBu9DnNgfRI3FwSUOLpt1R4BgrmVwkZNzyx+ikB+FYrM+kuGZWd8dUNT3B3F1nb5BoVdUPcxDz/Gac0OpdJJ+0j1UyTh/wAeuosGqyLpwND15ZKnyEa/hMX6j4K5dYQXx60iH5b+o9UF26NpqudtuTBCeXcT2yNiStkBteaKqWm+DPA+VyV8FTaACdLUD7urxJusSyUYTIM/yAzsrKjmOyYSoO9HqZlTmdk5quxE2/ZsMRFg3bH21tjIyUNvAFj1OyZX8YnmNBEpS1awNBz+BM8NYbls7N8vy9o+EJQ3VFmDQ4agpP3gqjtsNUQvZK2hlt984RAvoKtcN2YD2kv3M4xoFuk=;PHP5N9VZ3cO4qBTGATvAew=="
 ---

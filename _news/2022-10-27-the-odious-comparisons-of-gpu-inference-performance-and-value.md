@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T19:31:00Z
 originalUrl: "https://www.nextplatform.com/2022/10/26/the-odious-comparisons-of-gpu-inference-performance-and-value/"
 webUrl: "https://www.nextplatform.com/2022/10/26/the-odious-comparisons-of-gpu-inference-performance-and-value/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Next Platform

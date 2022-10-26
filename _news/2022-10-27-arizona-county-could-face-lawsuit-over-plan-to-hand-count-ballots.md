@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T18:17:00Z
 originalUrl: "https://www.washingtonexaminer.com/news/arizona-county-lawsuit-over-hand-count-ballots"
 webUrl: "https://www.washingtonexaminer.com/news/arizona-county-lawsuit-over-hand-count-ballots"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Washington Examiner

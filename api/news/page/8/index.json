@@ -2,6 +2,283 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-18-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand.md",
+      "title": "AWS announces that it will launch an infrastructure Region in Thailand",
+      "excerpt": "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
+      "originalUrl": "https://www.continuitycentral.com/index.php/news/new-products-and-services/7806-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.continuitycentral.com/images/fblogo.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "continuitycentral.com",
+        "domain": "continuitycentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-nsw-clubs-to-roll-out-facial-recognition-tech.md",
+      "title": "NSW clubs to roll out facial recognition tech",
+      "excerpt": "Facial recognition cameras will be used to identify problem gamblers in clubs and pubs across NSW. The Australian Hotels Association NSW and ClubsNSW are developing a state-of-the-art system to be rolled out across all clubs and hotels next year.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "originalUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/10/1666127796-GettyImages-162316362.jpg?resize=960,600",
+          "width": 960,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/state/nsw/2022/10/19/nsw-clubs-facial-recognition/amp/",
+      "publishedDateTime": "2022-10-18T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thenewdaily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-has-there-been-a-second-ai-big-bang.md",
+      "title": "Has There Been A Second AI Big Bang?",
+      "excerpt": "Aleksa Gordic explains how the latest AI models work, and explores whether the arrival of Transformers amounts to a second Big Bang in AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63495cb7caf4d92519b5c039/0x0.jpg?format=jpg&width=1200",
+          "width": 935,
+          "height": 1021,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/18/has-there-been-a-second-ai-big-bang/amp/",
+      "publishedDateTime": "2022-10-18T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast.md",
+      "title": "Facial Recognition Market Share and Growth Insights 2022 Global Size Analysis, Demand Scope, Future Trends, Growing Opportunities and Forecast to 2027",
+      "excerpt": "The global Facial Recognition market size was valued at USD 3975.52 million in 2021 and is expected to expand at a CAGR of 14.47% during the forecast period, reaching USD 8946.11 million by 2027.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast-to-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/facial-recognition-market-share-and-growth-insights-2022-global-size-analysis-demand-scope-future-trends-growing-opportunities-and-forecast-to-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region.md",
+      "title": "AWS unveils 15-year $5B investment in Thailand, with plans for new region",
+      "excerpt": "Cloud vendor says its $5 billion investment in Thailand will go towards a new region in Bangkok, where there already are 10 CloudFront edge points, and driving support for the country's early-stage startups and upskilling efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "originalUrl": "https://www.zdnet.com/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 143,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0ca08f7783f39a4d6167ebdf97dd4ad715ce1346/2021/09/20/b29a89e4-b35a-4af8-8f8b-f24910c85801/shutterstock-724512826.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-unveils-15-year-5b-investment-in-thailand-with-plans-for-new-region/",
+      "publishedDateTime": "2022-10-18T01:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm.md",
+      "title": "Deep Learning Chipset Market Business Overview 2022, and Forecast to 2028 | NVIDIA, Intel, IBM",
+      "excerpt": "The Deep Learning Chipset Market research report offers various benefits, such as on-time product delivery, lower",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-business-overview-2022-and-forecast-to-2028-nvidia-intel-ibm-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T23:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-amazon-to-boost-thailand-cloud-infrastructure-with-5-bln-investment.md",
       "title": "Amazon to boost Thailand cloud infrastructure with $5 bln investment",
       "excerpt": "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ...",
@@ -863,248 +1140,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
-      "title": "The Google Self-Driving Car: All you need to know about Waymo",
-      "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
-      "originalUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T00:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CAR Magazine",
-        "domain": "carmagazine.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-complex-tradeoffs-in-inferencing-chips.md",
-      "title": "Complex Tradeoffs In Inferencing Chips",
-      "excerpt": "Designing AI/ML inferencing chips is emerging as a huge challenge due to the variety of applications and the highly specific power and performance needs for each of them. Put simply, one size does not fit all, and not all applications can afford a custom ...",
-      "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
-      "originalUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution.md",
-      "title": "Remote-controlled robots coming to Lake Erie will help remove, study plastic pollution",
-      "excerpt": "The BeBot and the PixieDrone are electric, remote-controlled robots that will be deployed in Lake Erie for testing in the fall and will begin the plastic cleanup in the spring. Lake Erie will soon have two electric, remote-controlled robots on its shores ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
-      "originalUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/482cc9a/2147483647/strip/true/crop/2048x1152+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F40%2Fa718fcdd4aabbcae7f6d96a3685e%2Fmichael-regan-and-crowd.jpg",
-          "width": 480,
-          "height": 270,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
-      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
-      "publishedDateTime": "2022-10-16T23:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "wksu",
-        "domain": "wksu.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
-      "title": "Tech companies, UI researchers partner for speech accessibility project",
-      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Illini",
-        "domain": "dailyillini.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
-      "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
-      "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
-      "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.nextmedia.com.au/News/satya-nadella_web.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CRN Australia",
-        "domain": "crn.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
-      "title": "We are entering a new era for AI-powered robotics",
-      "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "publishedDateTime": "2022-10-16T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

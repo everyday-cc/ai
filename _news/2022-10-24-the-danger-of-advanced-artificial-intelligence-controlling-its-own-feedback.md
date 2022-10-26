@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-24T16:32:00Z
 originalUrl: "https://techxplore.com/news/2022-10-danger-advanced-artificial-intelligence-feedback.html"
 webUrl: "https://techxplore.com/news/2022-10-danger-advanced-artificial-intelligence-feedback.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: techxplore

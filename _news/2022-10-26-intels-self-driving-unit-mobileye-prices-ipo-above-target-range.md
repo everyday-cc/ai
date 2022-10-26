@@ -55,6 +55,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
+    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T18:19:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
   - title: "Intel's Mobileye self-driving unit expected to go public this week: what to know"
     excerpt: "Intel (INTC) is slated to spin-off part of its self-driving Mobileye unit this week in an initial public offering that could value the company at roughly $16B.And while"
     publishedDateTime: 2022-10-25T11:00:00Z
@@ -69,6 +78,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
+    excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
+    publishedDateTime: 2022-10-26T18:36:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2022/10/intels-self-driving-car-business-mobileye-climbs-following-ipo.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 4
 
 secured: "eQDsc/pnGuRjh7t7xrv0m7t+xGfat4g9YrDbR9FZNRdtRHu9XUGyk3B0kXLDeYjwAPXzXj6d4gJRokYCSXrpGyR+N3fggrnR9gQT2QdIgByqelcXoozwpCht6nmCBV+jnidQ7yU5IkGIMth0iAAAe6kgkExJ8LC7ZZPfVD8UNVYwv0+6n2jPzAtKusIep4kV/Lo79DTZtieYtF56p8igBYPr9vK5ZMvu4nAb3+ybi9Yb4aE/xKPFnCn6ZchK1gaOEtsz0eepegeDBYRPCBNDg+EVG63QECuja8XWp/rdhCqkc2DRcH1iLWz41n0TEkDfy3/+n8HHBQFsvDhfkTr4Vnn1bZlYPuow/AV71ojrsSAPflbO8URTkuSV9eMdTydum6WtEGWAigG4CmGSLSqOfpl23XS2w2BOwRAQZih/A+GjJBqKEMAoNnSNtjDItUz3ubV7mFx+vh8OcskPirWDvY4ULLLMUHFfAKuwHfVI0ZrYm8DHsYueMouR2ZMXTWVUBBWfsz2MxGzruc20dITXnQ==;PprKi4Ea9Y5czL9xSO+Wvw=="
 ---

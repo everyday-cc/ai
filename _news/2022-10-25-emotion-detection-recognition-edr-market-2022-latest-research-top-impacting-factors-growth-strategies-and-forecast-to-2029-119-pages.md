@@ -141,6 +141,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Learning Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 123 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Machine Learning Market is projected to reach Multimillion USD"
+    publishedDateTime: 2022-10-26T08:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2029-123-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 23
+  - title: "Artificial Intelligence Platform Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2029 | 112 Pages Report"
+    excerpt: "Global “ Artificial Intelligence Platform Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence Platform market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-26T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2029-112-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "wS+p8E2pR5bGAiIQd7EhsLcqPLI501nX3ge9RKSKOLVosCbyyYShOPNVohQUyJXTClqDG2DQp08gZSwOKAncCJ1X3yK5i7h9paLrvZLuFPgIeLtFL2hAe9exBRAu9tswoT2Wjd2YDtQIDLESEjJEhTd5ognmSvpuRNdP7Kvevwv3Ut5GaUh1tPFry/twcCLRJgdXHqKDR73IQVFYdk8hGBMONsDkMin9tp7p8D+MY3TJjWpRwikxYJaxutk//B8NLT2U80a47NjeZ2crm3FZCPoThHCGDMMDbM6heTLzJFa49sQzhVPVH7xgXKkO+4Tc5C3nxJTxgjuryQZgZSN+TTuKn9PsVmveytrCbl/D1KU=;cFjyAjH+rvZ3X94z2zznYw=="
 ---

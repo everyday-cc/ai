@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T18:05:00Z
 originalUrl: "https://www.unite.ai/liran-hason-founder-ceo-of-aporia-interview-series/"
 webUrl: "https://www.unite.ai/liran-hason-founder-ceo-of-aporia-interview-series/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: unite

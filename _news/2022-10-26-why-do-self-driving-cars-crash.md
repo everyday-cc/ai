@@ -35,20 +35,6 @@ related:
         width: 801
         height: 449
         isCached: true
-  - title: "Exclusive emails show Austin officials bragging about its lack of oversight of a new self-driving delivery service from Ford and Argo AI"
-    excerpt: "Austin launched a self-driving car delivery service for Walmart orders with Ford vehicles using Argo AI's self-driving car technology. An Austin city official said the city's lack of regulatory oversight helped them get the deal."
-    publishedDateTime: 2022-10-24T16:12:00Z
-    webUrl: "https://www.businessinsider.com/austin-texas-oversight-walmart-ford-argo-ai-self-driving-car-vehicle-delivery-service-2022-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/6351b8acffcac3001876a1b1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
 
 secured: "M5P28Z0AMPriN/JLepXXvjtvk/8IhQZD1zHqR2mFcLbq48Ms9UaOQrCbB2mVQMDdH0461jc3YgNNU/gOppHp6NL9uTvVIIpUEvVbaqKvjd9ClKWbvHvLltVTEpunk/HCtDWwYD0xrNmnRDS6dQR2R9l+AjR4sEp4x96i8uaaV7tZLA6gVsfruzd9kB4K/I4dtDeNAVOGbubZplp1rOa7wgfS8YvttVv+Yd2rs0wfCjMB/3Rbq37QV1LW+MjnqOMgDTRAniEDA2VJPB5KPMXNJlc9Dyr6Xbp/j+VFGpJQqvWK9TLa6p4enSosGbZt5rfG2mqn0MwEsqnBS4GRH4Vw4b/zmHc4xf5FpHZ/ibNYyNQ=;hqqmxeVCVOsfBH/h3eJXOA=="
 ---

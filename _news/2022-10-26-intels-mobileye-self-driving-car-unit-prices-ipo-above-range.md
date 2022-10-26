@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
 type: article
 quality: 74
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
+    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T18:19:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 34
   - title: "Intel’s self-driving unit Mobileye prices IPO above target range"
     excerpt: "Intel’s Mobileye priced its initial public offering on Tuesday above its target range, valuing the autonomous driving company at almost $17bn in a rare positive development for the US listings market."
     publishedDateTime: 2022-10-25T23:20:00Z
@@ -73,6 +82,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
+    excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
+    publishedDateTime: 2022-10-26T18:36:00Z
+    webUrl: "https://www.oregonlive.com/silicon-forest/2022/10/intels-self-driving-car-business-mobileye-climbs-following-ipo.html"
+    type: article
+    provider:
+      name: Oregonian
+      domain: oregonlive.com
+    quality: 4
 
 secured: "o8y3ZCn9kt9vmthwdem9KADaonlebbgOJ5tRbuwu+siXhOVVF8AH7LsaAdqKhGhfDnF13J9RYBZMXd/I0DOiB94rqa9q36sFnxrvL3P5M+dTZkgx8ZICV4lHsPrMTyyNt0Yzc0qZS7x/em/bMFbPfelj+pLXW376qmHPL+A1OswcLAKZf472K10ESbMRVqfWx9X7xO8fJyAh6Wtv4rY8H0XDHoRrvKmYkV3/KQjDPrupd8havJToM67+KOaa4vUH4ZR8UWAlfT9m64+kmM+Jd7l5qIz6uNSgsKCAnyOP5l9jy542Se/+vojUDI6JKLTRQlTlKCbHwNgJ4Zf+PFcHpwifxTLN+ihwR4pIcLl4rYtsJTYKQ40PVuMjNI153MpLLa3c5kzMLs2r/5WSx0LySemrKNhgEbv4o48qKq6quWyDDkWTYpCcj6cHBj0WWA1nFV8XM5K/mKm+UwlBSslrcEAuTY0s33/yYoTuPkMyu68Etb6Tg69pAAj3gugQSkQmF5j7UjXA7fx48v7eaa55BQ==;H5w0MgyQfHJdxnawdF6tLQ=="
 ---

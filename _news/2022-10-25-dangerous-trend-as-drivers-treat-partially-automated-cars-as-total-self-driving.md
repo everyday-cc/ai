@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Exclusive emails show Austin officials bragging about its lack of oversight of a new self-driving delivery service from Ford and Argo AI"
-    excerpt: "Austin launched a self-driving car delivery service for Walmart orders with Ford vehicles using Argo AI's self-driving car technology. An Austin city official said the city's lack of regulatory oversight helped them get the deal."
-    publishedDateTime: 2022-10-24T16:12:00Z
-    webUrl: "https://www.businessinsider.com/austin-texas-oversight-walmart-ford-argo-ai-self-driving-car-vehicle-delivery-service-2022-10"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
-    images:
-      - url: "https://i.insider.com/6351b8acffcac3001876a1b1?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
   - title: "Why Do Self-Driving Cars Crash?"
     excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
     publishedDateTime: 2022-10-26T05:00:00Z

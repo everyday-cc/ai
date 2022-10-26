@@ -69,6 +69,15 @@ related:
         width: 664
         height: 664
         isCached: true
+  - title: "The Triangle's silver lining in Google, Microsoft earnings"
+    excerpt: "Google and Microsoft – reported earnings Tuesday, and both fell short of expectations. But it's not all bad news."
+    publishedDateTime: 2022-10-26T19:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/10/26/google-microsoft-earnings-raleigh-durham-economy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "n/GYMBZd23cZ9wedi1qJmiRcfFK/RgDTZV2W6KyDb8Jsi3nm7bCu6BOnFDV35YDSH02uC/yV+VdME+iP66FRpptZhs7/1BGKisdFybso1lz69Qnr+isWTRDMAQmBN3+h5Gm2YziU9IF87whMjwqO+kh4omeomLwE8oAmN8oUsbesCx98Gg81ZcyWigk6xAlN3cJPhtn5G2mJ5JOsdtDYu28by30VC51nk27ZzxvkYZQBPflh2lZP+PdlTqYEQNBY1sRIvMBfqtReiZc9DrPgNKIJ5DVGOLTKhzFu2gPAzamNZW/4p2B0b05RNAVrslKwT5nQqcZWlwQflDM1h5o0VNSsdzDycmTu61f8BAN7Er8=;zGy9IuYRquEGvNyEWQJIAQ=="
 ---

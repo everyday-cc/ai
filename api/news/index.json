@@ -2,6 +2,152 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
+      "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
+      "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/04/Tesla-Full-Self-Driving-ad-e1650418988158.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/",
+      "publishedDateTime": "2022-10-26T13:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-uaes-minister-for-artificial-intelligences-praise-for-jaishankar.md",
+      "title": "UAE’s Minister for Artificial Intelligence’s praise for Jaishankar",
+      "excerpt": "Omar Sultan Al Olama, Minister of State for Artificial Intelligence, United Arab Emirates virtually joined in CyFY2022 organised by Observer Research Foundation (ORF) on October 26. While commenting on managing UAE’s geo-political headwinds,",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
+      "originalUrl": "https://timesofindia.indiatimes.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/videoshow/95107771.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/photo/msid-95107771/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
+      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/uaes-minister-for-artificial-intelligences-praise-for-jaishankar/amp_videoshow/95107771.cms",
+      "publishedDateTime": "2022-10-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit.md",
+      "title": "Ford posts loss on decision to wind down Argo AI self-driving unit",
+      "excerpt": "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
+      "originalUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-a-new-genome-sequencing-tool-powered-with-our-technology.md",
       "title": "A new genome sequencing tool powered with our technology",
       "excerpt": "Genome sequencing provides a more complete description of cells and organisms, allowing scientists to uncover serious genetic conditions such as the elevated risk for breast cancer or pulmonary arterial hypertension. While researching genomics has the potential to save lives and preserve people’s quality",
@@ -62,7 +208,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -219,7 +365,7 @@
       "originalUrl": "https://gizmodo.com/sony-s-alpha-7r-v-takes-autofocus-to-another-level-with-1849695585",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 78,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -249,7 +395,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -460,7 +607,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -563,7 +710,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -756,7 +903,7 @@
       "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 137,
       "tags": null,
       "images": [
         {
@@ -807,7 +954,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 154,
       "tags": null,
       "images": [
         {
@@ -847,7 +994,8 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -911,7 +1059,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 146,
+      "heat": 166,
       "tags": null,
       "images": [
         {
@@ -965,7 +1113,7 @@
       "originalUrl": "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1100,154 +1248,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
-      "title": "MLSec could be the answer to adversarial AI and machine learning attacks",
-      "excerpt": "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "originalUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women.md",
-      "title": "Vara Raises $4.4 Million In Funding To Bring Its Groundbreaking AI Breast Cancer Screening Platform To Millions More Women",
-      "excerpt": "There are more lost disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer. Vara, a startup building an intelligent platform that infuses state-of-the-art AI into routine breast screenings,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "originalUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357aa205c30294b7fa133ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/",
-      "publishedDateTime": "2022-10-25T02:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-natural-language-processing-nlp-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-102-pages-report.md",
-      "title": "Natural Language Processing (NLP) Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data | 102 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Market is projected to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-102-pages-report-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-102-pages-report-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T19:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

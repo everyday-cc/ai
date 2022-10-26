@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T19:20:00Z
 originalUrl: "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/"
 webUrl: "https://venturebeat.com/ai/how-sams-club-uses-ai-to-get-pumpkin-pie-to-holiday-tables/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat
