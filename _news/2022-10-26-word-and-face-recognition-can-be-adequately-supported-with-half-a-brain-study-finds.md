@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
 type: article
 quality: 67
-heat: 77
+heat: 88
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Study finds how words, face recognition can be supported with a single brain hemisphere"
+    excerpt: "In a research of brain plasticity and visual perception it was shown that individuals who had had surgery as children to remove half of their brains correctly"
+    publishedDateTime: 2022-10-26T04:33:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272986363/study-finds-how-words-face-recognition-can-be-supported-with-a-single-brain-hemisphere"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1666756845.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Get Started With Speech Recognition"
     excerpt: "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ..."
     publishedDateTime: 2022-10-22T00:00:00Z

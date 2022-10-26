@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-c
 webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,31 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip startup Axelera lands $27M in capital to commercialize its hardware"
+    excerpt: "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital."
+    publishedDateTime: 2022-10-25T16:36:00Z
+    webUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/"
+    ampWebUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 102
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742"
+        width: 1200
+        height: 742
+        isCached: true
+  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
+    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
+    publishedDateTime: 2022-10-25T15:26:00Z
+    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 19
   - title: "European Startup Axelera AI Closes $27M Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
     publishedDateTime: 2022-10-25T21:39:00Z

@@ -1,44 +1,30 @@
 ---
 category: news
-title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
-excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
-publishedDateTime: 2022-10-25T08:54:00Z
-originalUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
-webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
+title: "AI and fintech to boost financial inclusion in Thailand"
+excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
+publishedDateTime: 2022-10-26T00:00:00Z
+originalUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
+webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
 type: article
-quality: 38
-heat: -1
+quality: 39
+heat: 39
 published: false
 
 provider:
-  name: Finextra
-  domain: finextra.com
+  name: techwireasia.com
+  domain: techwireasia.com
 
 topics:
   - AI in Finance
   - AI
 
 images:
-  - url: "https://www.finextra.com/about/finextra-logo.png"
-    width: 512
-    height: 512
+  - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
+    width: 1024
+    height: 683
     isCached: true
 
 related:
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
     publishedDateTime: 2022-10-26T04:16:00Z
@@ -52,6 +38,20 @@ related:
       - url: "https://financialit.net/sites/default/files/provenir_12.png"
         width: 1366
         height: 768
+        isCached: true
+  - title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
+    excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
+    publishedDateTime: 2022-10-25T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
         isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
     excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
@@ -86,6 +86,6 @@ related:
       domain: crowdfundinsider.com
     quality: 17
 
-secured: "11r+rfhqwqFklSyVAPGCQp8d3cIjlbpRymfl9vVPwSU7t7JUUYu8wCWijvvPDNdRhJPbAwuj890a0dbQ4MpH4U2TnZZ8t9Q2eP/n8M8+o4F5+SWGrrgLGCiC68zzkfuVzu2u5PBYlRJcjzCz2eSR/2qXR6vdThgHMNAgJJxb2r+FFyk6jI8nsCeBLkhoIs2XOBwtqJzgNJ/U+Q6piBkT0p2KwYZzjtHPTZC53UOBfMrywZV3yylnxIgILoe7wmZ/ubJ6OjBshXRZduJVqGZFYBTOwIBmMDyrwj/y1XZIQq28e5MTWzVPcLlM8ar1pidqEnDpwz+OT6P2jmrDyF6XaPfMOwcEaVIcvfnRdzCG84U=;F/EgUvE1LFM2U8iZtHQNNQ=="
+secured: "5GpcebYnYryh9mhN4l2yAGwnvCVQjqybMtSlC4cjNXHCr1emR8lcEzPR8GmYCHTE+izEMje4MeE64iUZEibah6ayEYguWAPk5RSC7gZM+frTmUIuWEW07CWASzglVDNhAydCVYvdk/28+9aUh7mB1QJARtfh4qZtY0qzB77MY/HSPYxgWxRR0+uK+hi93Bdz4t6oXC7djeRIc2MqVKoADLj1AQkssemERkOX/zcRccBWmyWPqIm1CSXvNKtB1xH6wVmWPbiesQzxMaxL9QPOVc50zOsZz67z6zb8qqiOgyGirmocex9K7Wn4zp+1jVmFYJmueDgBz1/V0hn3+UwI+0hNKxpiDEGVQS6Ig8qKnVw=;BOx0NJpNMq8toMJEhb7fqg=="
 ---
 

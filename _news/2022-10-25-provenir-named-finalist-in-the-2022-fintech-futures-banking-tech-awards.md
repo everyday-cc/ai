@@ -19,6 +19,48 @@ topics:
   - AI
 
 related:
+  - title: "AI and fintech to boost financial inclusion in Thailand"
+    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
+    publishedDateTime: 2022-10-26T00:00:00Z
+    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
+    publishedDateTime: 2022-10-26T04:16:00Z
+    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_12.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
+    excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
+    publishedDateTime: 2022-10-25T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
     excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
     publishedDateTime: 2022-10-26T03:17:00Z
@@ -33,17 +75,15 @@ related:
         width: 650
         height: 412
         isCached: true
-  - title: "AppTech Payments Corp. Propels Fintech Industry Forward with Launch of Its Commerse™ Experiences-as-a-Service Platform"
-    excerpt: "AppTech Payments Corp. (AppTech) (NASDAQ:APCX), an innovative Fintech company powering seamless, omni-channel commerce between businesses and consumers, today"
-    publishedDateTime: 2022-10-24T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29374701/apptech-payments-corp-propels-fintech-industry-forward-with-launch-of-its-commerse-experiences-as-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29374701"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29374701"
+  - title: "Fintech Bookkeep Aims to Eliminate Manual Data Entry in Accounting Industry"
+    excerpt: "Bookkeep, the \"smarter\" accounting automation platform, announced a $6.6 million seed+ round of funding led by Fin Capital."
+    publishedDateTime: 2022-10-21T19:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 17
 
 secured: "iMI19xlLKnqgePkgYKODN0hd+UC4MfpdG36zXNW7CUlOV+kFNoyrs9g+ziJxO0K43B83jfCS9j08DCfmcLw8cx10CCV4yZlheRkLiaTyLlbNw2KD/Jap6b073u9mQr8/xZDeabETES9FR6jcWpGZyeLSReNs4T6LwAtB1S2p418iPpbX/yScVm6a6Zak9qoFEfS9v0YA7jmOUq8+H8ogVY4WBKuSnuskpIPYBfoGB+yGJc/SYiG3gRxvmoQXCXidCIeOOeL/ORcpA2OyjqDHvaXyIcepczTVydMXyuwpg04Uf6jrWSwatihaa8oz28Pi7dhHLgt3mbf1gQJzMiWnlpaylUR6AKnoqIBytZPar+8=;ZNu2RUYvWu8NsSohvx0kEA=="
 ---

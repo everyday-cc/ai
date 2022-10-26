@@ -7,7 +7,7 @@ originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-
 webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,48 @@ images:
     isCached: true
 
 related:
+  - title: "AI and fintech to boost financial inclusion in Thailand"
+    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
+    publishedDateTime: 2022-10-26T00:00:00Z
+    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
+        width: 1024
+        height: 683
+        isCached: true
+  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
+    publishedDateTime: 2022-10-26T04:16:00Z
+    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
+    images:
+      - url: "https://financialit.net/sites/default/files/provenir_12.png"
+        width: 1366
+        height: 768
+        isCached: true
+  - title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
+    excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
+    publishedDateTime: 2022-10-25T08:54:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 38
+    images:
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
     excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
     publishedDateTime: 2022-10-25T08:10:00Z
@@ -34,17 +76,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
-  - title: "AppTech Payments Corp. Propels Fintech Industry Forward with Launch of Its Commerse™ Experiences-as-a-Service Platform"
-    excerpt: "AppTech Payments Corp. (AppTech) (NASDAQ:APCX), an innovative Fintech company powering seamless, omni-channel commerce between businesses and consumers, today"
-    publishedDateTime: 2022-10-24T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29374701/apptech-payments-corp-propels-fintech-industry-forward-with-launch-of-its-commerse-experiences-as-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29374701"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29374701"
+  - title: "Fintech Bookkeep Aims to Eliminate Manual Data Entry in Accounting Industry"
+    excerpt: "Bookkeep, the \"smarter\" accounting automation platform, announced a $6.6 million seed+ round of funding led by Fin Capital."
+    publishedDateTime: 2022-10-21T19:44:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/10/197704-fintech-bookkeep-aims-to-eliminate-manual-data-entry-in-accounting-industry/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 17
 
 secured: "/8Y2aauVRlS7MuQbBOO7LKcviXhV7GeGNhXUBJY7ibz3hSkO33+mF2TfVF2jpSyUqusm09QLbhwS6RaPfCc2BnhD3iMXqQYCliRdvGr0jZIzBVQr5Z9M0xahBgaLhlgGJ5VG3VUboGBdUkTsu+8a/l3vlPdY0wr7eEIDVNpMlW2b8+u8ZJta71TwGfWijX4XjA4y6+p8NDOjWpqmAKSOkDm/oMJfXbvU9EGErF2eoK1NtLnrBEz6D64Z/Sw73BKbi+Z5292UrOGSeQmNvDgs4UD22vrlvh5ru1Y0DjdpAqHF0hgXT3erGxY6bNUOYctInOuPo3Zxc3gAI8W0VISSR+7scLeVWlEF7DEwX5gsrDA=;x4Yr7NhmacQTZo54mtQFew=="
 ---

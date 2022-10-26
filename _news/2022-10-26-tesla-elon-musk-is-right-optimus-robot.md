@@ -56,15 +56,6 @@ related:
         width: 1920
         height: 1440
         isCached: true
-  - title: "Elon Musk: Teslas won't be approved as fully self driving this year"
-    excerpt: "Tesla's advanced driver assistant software will not gain regulatory approval in 2022, Chief Executive Elon Musk said, signaling the company is not yet able to satisfy authorities that its cars can be driven without someone behind the wheel."
-    publishedDateTime: 2022-10-21T12:36:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/tesla-wont-be-approved-full-self-driving-year"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 34
 
 secured: "spq3J8awRTcQFm1p4U0p0dA5+7YWsqFDWrtfZRm6hl0w36Gt9+SYxqPqpjqYKBqJBKH2xPeJUm+AlnMiS/+RVPQeYmgIuqHyDeDqjXOoAIrqP4leq0TRavHArFv+cj35UpzPGeqQCkf6l6/JO2rmUy8pfRL+oFV7GqLBa4ecGB1Jv5KOXwxIDHyYZyE6qAaoYY77ju5METg9Tguw3qsw5qQV3JzYYzXqROrnNtRlSpg5Ngk4G56l8vERISKIXrvpjb66rR/YpDYh3gn7yEfQGRvf7fuqximUzKvxhOP/YuTskfOatAE+xR6TavmoBQiMFCojtg9frg+wpUvTU1dIyX30UOmZdiaeavVh1RBBwGNfzIzkCn4i/VaO1h/ZTZSdMbui4LWLJZ0OioxH/VPdudHRRLwCVijMbGpYwlzKBrB/Fj8hoHnWqOg6OKow+udBol0pRsaxJP1a+uKAJtq/nlF+qR74RyfRgsaQL9LMKYzaR/LgXO0AfUFmpOCvO6q4BmGzbdh/3tATgnbgKBqUUQ==;+pogKn4wRGWPbZqUDIDDXA=="
 ---
