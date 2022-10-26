@@ -21,6 +21,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/6347323539a9f1001232e891?width=1200&format=jpeg"

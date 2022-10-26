@@ -19,6 +19,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI Ethics
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2018-04/man-with-plan.jpg"
@@ -26,6 +27,6 @@ images:
     height: 852
     isCached: true
 
-secured: "SI7SMtkKyGcstYAwDz02OKO6R/1KdZcN9cYwftkBbvuAydMbf00XRtBz4X1PVihCeZ0CLu00cWLMSs2dEil2DJJ3vvSmo+xHcdjN+QnRLzeiO89R++NrXJ0Pmsg2tdOt4Ph49gzD0KLlsy1hm/ShZw7yQQyfbHM/1Z7lXwYYwOJnTzlDtZSZi/yUDr/rnl1XyDLqx7g9Cjhg+ojapcMppmDUGFk3dNGZfKnHtuIDf6tkBqeneIt1TpoY5151fSlicB3kX+sApP7WL52w67P2DTfAzLmxm4crcvbAHs7a9d6BwXbXm8YDcvOTd1U8hQXpWdGJYS/o1Zx8SEdc0iN7h4DMx9O+bXrXshi9FnytsWQ=;irGWxoEJXi9sDsLFhzK+gQ=="
+secured: "YK5RMN8/nE5MwqKpng3AAz/WHkbi/uAOfGsZzbpORDUVKPCA1HBegzK6muv3euz8tGtcVPf/grGBAaSSCNmzqWyCZLQABF00mE+a5C6hbnBxjWd1Augybr0yir4pGhHTRytICEMhpovxTvLSsguqIR4HudnTocnFt5SsM+leDizdaeGyO+7OcP+UPL9IPArOHPqA1vFw7lD6OMaMAahS+oq5mtJQIi2Lu51prKW0AqPvsZtSi1JD1I0sYBFkfwgmJ7YMhEzUezqDU6ZUqj7iB+zeLy1XRHufaqjkNWJUeyHhrQZtlM0ISrZN1A57xSan5E37ERbqGQR3Uc87oXLdB/Yke8jrCpMp6D8I0MafC+NGyiAHDk7pIfFHtFJfQlpWooSYtbNUEkVHDmpXPtewWo5V7dhtB/GwLfZ936Zb54GJxh4hktEVnVQunuiiXYL9cmhpgfsd0ZNIJ/yWqKeRXq7YJWlfBcebOirH6qPVUmQeV2aLYqtjuomAXTHCWoJg5HNAs7ub3jZWyWN6tWeDig==;RSWGW515qVgWAg+1PICcNg=="
 ---
 
