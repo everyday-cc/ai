@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overvie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/amp/"
 type: article
 quality: 104
-heat: -1
-published: false
+heat: 114
+published: true
 
 provider:
   name: Forbes
@@ -31,23 +31,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI text generation in marketing must be managed carefully"
-    excerpt: "AI text generation will become mainstream in marketing in the coming years, but human subject matter experts will remain crucial."
-    publishedDateTime: 2022-10-22T00:07:00Z
-    webUrl: "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/"
-    ampWebUrl: "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/"
+  - title: "AMP Robotics develops AI-powered system for recovery of film and flexible packaging"
+    excerpt: "AMP Robotics Corp (AMP), a pioneer in Artificial Intelligence (AI), robotics and infrastructure for the waste and recycling industry, is developing an AI-powered automation solution to improve recovery of film and flexible packaging."
+    publishedDateTime: 2022-10-25T07:55:00Z
+    webUrl: "https://www.intelligentcio.com/north-america/2022/10/25/amp-robotics-develops-ai-powered-system-for-recovery-of-film-and-flexible-packaging/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 63
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2019/10/office-computer.GettyImages-1084171424.jpg?w=1200&strip=all"
-        width: 1200
-        height: 604
+      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/10/AdobeStock_450522870-Web.jpg"
+        width: 1000
+        height: 450
         isCached: true
 
-secured: "jBIZJ/G2nET9ItYiYpUdyZcqKWVIrvLhMC17t9Wlu6IVH4YCGZZktUP92a6aULxYQZdZT7sOqs1O/N07Zhk8cmy3t+SLE+AoofUpqvmwcVD/WqZDpa6QECkt0ob7zYOtVeleXCrXUA0pI1RfkVUgYEtVQsf+zKanUftEXqVg2g9jpSEUUy/FdloZ23YlsIRNhNLaNsUJXSJuvJhdgsm6k1Hljpot86iy6f6wy4DTYmpngA280WJ0vvUBuelIezKPPOhF8at3fca/5U/1NermTK8QDHTsecHMkp2PPQJsdq8Zhy7yIcLqQDy361gwIfDctRJh5oQxP+LtVjqYaKE2G8/T7lzRhX/N2XtABp1QmSk=;gdl+7mkuj9XFE49B9p0mRg=="
+secured: "w49vZshL8crrpt2R/H1o0DuhaC7qCTa1ThXqKhfaRYy4Y4UlyxBkBpZ7zyfpf1SvYiKqFqjNOzcIt8pHFO/c95Yc0PCbrJOpUvEQxP5i8ZnnpR/xPIJVPnpoaoMdBB96iwEIpl6XDIYKIV8YEykErdvb6siPIOk2BBLSg800rgV7ulAOepb2lU4Zihzg4jt80lFn0hWyJGHjBjn3QqPruPQ02IbwQEk/XTN3IWDV41Fy1h+tjPigdEKfpDPV4icrDSCVO6lXFL3V4xq6pq8ehkarYRVdiJvpBtRtQPCmDgbJYcX1hfdSEF4j6a/lGiaQ/oPhqGJK3s8GanlsG2lhHQpouNU4A1JlzqwI1fzy14XK7qNjgm8Ac8B0W7TRjgn7/hSMRd+WivSKeHjTlwVpK3sB50TdKRYC/CbLR9bwJHG31ft9/CW1YUCBny5a4LkZ9DhIDtce7b724HIAWZ3pwNKNLjYM0D3fmCR7ev/0cvlGBSMOaULyjV9yyWptdaxHahwy7npHnxErqcEXJiiobg==;xO0ZX7lzc1mqiEmANIpt8w=="
 ---
 

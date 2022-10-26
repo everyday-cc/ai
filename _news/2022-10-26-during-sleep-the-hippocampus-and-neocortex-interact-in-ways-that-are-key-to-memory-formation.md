@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20221025/During-sleep-the-hippoc
 webUrl: "https://www.news-medical.net/news/20221025/During-sleep-the-hippocampus-and-neocortex-interact-in-ways-that-are-key-to-memory-formation.aspx"
 type: article
 quality: 13
-heat: -1
+heat: 13
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "During sleep, one brain region teaches another, converting novel data into enduring memories"
-    excerpt: "Using a neural network model, neuroscientists have found that, as the brain moves between REM and slow-wave sleep cycles, the hippocampus teaches the neocortex what it learned. This process seems to convert novel,"
-    publishedDateTime: 2022-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/10/221024153602.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 38
   - title: "During Sleep, One Brain Region Teaches Another, Converting Novel Data Into Enduring Memories"
     excerpt: "As the body moves between REM sleep and slow-wave sleep cycles, the hippocampus and neocortex interact to facilitate memory formation."
     publishedDateTime: 2022-10-24T22:05:00Z

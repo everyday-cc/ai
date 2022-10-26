@@ -55,58 +55,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
-      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
-      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-651809/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "publishedDateTime": "2022-10-25T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-25-run-inference-at-scale-for-openfold-a-pytorch-based-protein-folding-ml-model-using-amazon-eks.md",
       "title": "Run inference at scale for OpenFold, a PyTorch-based protein folding ML model, using Amazon EKS",
       "excerpt": "This post was co-written with Sachin Kadyan, a leading developer of OpenFold. In drug discovery, understanding the 3D structure of proteins is key to assessing the ability of a drug to bind to it, directly impacting its efficacy. Predicting the 3D protein form, however, is very complex, challenging,",
@@ -160,7 +108,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -448,6 +396,49 @@
         "Machine Learning",
         "AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {

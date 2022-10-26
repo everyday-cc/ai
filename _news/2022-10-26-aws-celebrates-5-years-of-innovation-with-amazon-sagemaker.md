@@ -51,6 +51,20 @@ related:
         width: 1343
         height: 674
         isCached: true
+  - title: "Introducing the Amazon SageMaker Serverless Inference Benchmarking Toolkit"
+    excerpt: "Amazon SageMaker Serverless Inference is a purpose-built inference option that makes it easy for you to deploy and scale machine learning (ML) models. It provides a pay-per-use model, which is ideal for services where endpoint invocations are infrequent and unpredictable. Unlike a real-time hosting endpoint,"
+    publishedDateTime: 2022-10-26T16:42:53Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-sagemaker-serverless-inference-benchmarking-toolkit/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/26/sagemaker-serverless-inference-benchmarking.jpg"
+        width: 1344
+        height: 672
+        isCached: true
 
 secured: "1pzlldnEYEe0/r3Iym1GqWOLzl6RIr/fl8Xi85PolIeDwgysEPAHsUgZyrG4dEbuYbuZzrpsNqyvpbcpUojWOq1aOE7aAggU1UlbOFMjbqUQ4USmnu7ZKrdMLtj4HQNzPEgL2pqetyJmE6vr4mKmUWCQPeLaNY+srLxI13CoumbddHRai0xZv/uzSIjIQS5nMhuhkvx+mlScdhpIcmmRLxxMXLY+t61uzoF0tkIfQU99BIkrs3T4Z57f5OQTHBg4WtsjFtfLD760T9YSmL9JyyVoIkk1gpJMZnaeVNp+7Uxw2x/7nF1IjIwIGuayhj5IFsVntQHJi0H8LTD+XUJyxy2E7+FX+8lUp09o0i+XShg=;ovDKXv3dFG62UyfqOqV7sg=="
 ---

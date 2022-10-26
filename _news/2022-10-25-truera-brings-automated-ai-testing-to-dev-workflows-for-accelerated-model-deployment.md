@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial intelligence is critical to accelerated decision making"
+    excerpt: "Considering the massive amount of information the U.S. Department of Defense must sift through every day and increasingly sophisticated UAVs and UASs collecting even more data, it’s no surprise the Pentagon has turned to artificial intelligence for help."
+    publishedDateTime: 2022-10-26T16:18:00Z
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/26/artificial-intelligence-is-critical-to-accelerated-decision-making/"
+    type: article
+    provider:
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
+    images:
+      - url: "https://www.c4isrnet.com/resizer/86kRgU6PtnvM94e0du71jPkcctE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
+        width: 1024
+        height: 681
+        isCached: true
   - title: "New Artificial Intelligence Research Findings Show Acceleration in Data Center Deployments"
     excerpt: "According to Heavy Reading, the data suggests that investments in deploying AI in data centers and networks can deliver a valuable return on investment and can have significant impact on key technologies that are being deployed today,"
     publishedDateTime: 2022-10-25T11:14:00Z

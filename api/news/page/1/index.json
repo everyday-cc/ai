@@ -2,6 +2,110 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-26-a-new-genome-sequencing-tool-powered-with-our-technology.md",
+      "title": "A new genome sequencing tool powered with our technology",
+      "excerpt": "Genome sequencing provides a more complete description of cells and organisms, allowing scientists to uncover serious genetic conditions such as the elevated risk for breast cancer or pulmonary arterial hypertension. While researching genomics has the potential to save lives and preserve people’s quality",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
+      "originalUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/social_share_card.max-1300x1300.png",
+          "width": 1300,
+          "height": 728,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds.md",
+      "title": "Bumble Releases Dick-Pic-Fighting AI Into the Open-Source Wilds",
+      "excerpt": "No dating app can stop cyberflashers all by itself. So Bumble is sharing its software to help stop sexual harassment across the internet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2213c38769a7ec9c5f6ceee918340cd920557932/hub/2022/10/25/d6c6b6d0-fd12-4047-bc3d-0e6e171be888/dall-e-2022-10-25-16-44-48-contented-female-commander-with-closed-eyes-deploys-her-army-of-robot-bees-to-attack-digital-art.png?auto=webp&fit=bounds&height=630&precrop=1024,538,x0,y0&width=1200",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/",
+      "publishedDateTime": "2022-10-26T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-deploy-a-machine-learning-inference-data-capture-solution-on-aws-lambda.md",
       "title": "Deploy a machine learning inference data capture solution on AWS Lambda",
       "excerpt": "Monitoring machine learning (ML) predictions can help improve the quality of deployed models. Capturing the data from inferences made in production can enable you to monitor your deployed models and detect deviations in model quality. Early and proactive detection of these deviations enables you to take",
@@ -146,6 +250,58 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-an-overview-of-ai-powered-marketing-automation.md",
+      "title": "An Overview Of AI-Powered Marketing Automation",
+      "excerpt": "Artificial intelligence has reimagined everything from content optimization, lead generation and conversions to customer engagement and experience.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2813d8a797d0e53f3c63b1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/amp/",
+      "publishedDateTime": "2022-10-26T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
       ]
     },
     {
@@ -296,6 +452,57 @@
       ]
     },
     {
+      "path": "_news/2022-10-26-ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs.md",
+      "title": "AI Risk Management: A Prerequisite For Sustainable Growth Of AI Programs",
+      "excerpt": "The comprehensive implementation of AI risk management will be essential for the long-term success of AI initiatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f738e134c7d1497b6a92fd7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 856,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/amp/",
+      "publishedDateTime": "2022-10-26T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-introducing-vision-studio-a-ui-based-demo-interface-for-computer-vision.md",
       "title": "Introducing Vision Studio, a UI-based demo interface for Computer Vision",
       "excerpt": "Are you looking to improve the analysis and management of images and videos? The Computer Vision API provides access to advanced algorithms for processing media and returning information.",
@@ -400,58 +607,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
-      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
-      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-651809/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176",
-      "publishedDateTime": "2022-10-25T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
       "path": "_news/2022-10-26-word-and-face-recognition-can-be-adequately-supported-with-half-a-brain-study-finds.md",
       "title": "Word and face recognition can be adequately supported with half a brain, study finds",
       "excerpt": "Astoundingly, the single remaining hemisphere supported both of those functions. The capacity for word and face recognition between control subjects and people with hemispherectomies differed, but the differences were less than 10%, and the average ...",
@@ -460,7 +615,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-word-recognition-adequately-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -756,7 +911,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 146,
       "tags": null,
       "images": [
         {
@@ -1093,161 +1248,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-bumble-open-sourced-its-ai-that-detects-unsolicited-nudes.md",
-      "title": "Bumble open sourced its AI that detects unsolicited nudes",
-      "excerpt": "As part of its larger commitment to combat “cyberflashing,” the dating app Bumble is open sourcing its AI tool that detects unsolicited lewd images. First debuted in 2019, Private Detector (let’s take a moment to let that name sink in) blurs out nudes that are sent through the Bumble app,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/",
-      "originalUrl": "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/bumble-ai-cyberflashing.jpg?resize=1200,669",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/",
-      "publishedDateTime": "2022-10-24T14:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-clearview-ai-fined-for-violating-the-european-gdpr-privacy-law.md",
-      "title": "Clearview AI fined for violating the European GDPR privacy law",
-      "excerpt": "Clearview AI received yet another fine for its biometric profiling activities in Europe, this time for illegally collecting and using data belonging to French citizens without",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/96422-clearview-ai-fined-again-violating-gdpr-facial-recognition.html",
-      "originalUrl": "https://www.techspot.com/news/96422-clearview-ai-fined-again-violating-gdpr-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-24-image-7.jpg",
-          "width": 3092,
-          "height": 2767,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
-      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
-      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
-          "width": 1343,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:31:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

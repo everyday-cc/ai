@@ -2,11 +2,11 @@
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T16:24:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
+publishedDateTime: 2022-10-25T15:58:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 
@@ -15,6 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
+  - AI in Healthcare
   - AI
 
 related:
@@ -30,6 +31,6 @@ related:
       domain: benzinga.com
     quality: 25
 
-secured: "mevJ+pczo/zwhEN2ibo2NuQ8fDGQXm3U4frnZF5WVNI1Tq2ulMglvsEegyv2AyOySln/iP3hqMK2vLM9IwLXcHbUUpONT8buc+UDz4HZTnaXxUSYO4JZaJe5MUYlx2p0fFphVlNba5SEC6AwkGtQ6TQC8jZ12BHbEqnQB2xZA8HsdoRtfYrQ34pqjiLuvd1sH+479/qXQayPIGWQn1wTw8Tb02A+eoCSIXow+pBW7Bl+7/fukDl4DcUWIt/kn3iYS/M6B8cF63GiYG8Hlxwcoi/SKUaF/FK78O+14alY/5mFYxONoG4JvHFgSCq5BD5gWzaREIURSS1BG6QDblJbLbHokJ4h8paeYmTFz4cS75eWV/0CwaQ4EMrBn3gAfXNhs7m0M6KvQmrt+3yVWn5NgpRGCUZYCE1+c99y1Htlx9ky+PiDpcupbMyMuacgArZibcgjX9MH6qRqA1K7LAyWdK27PNiSM8J62jjvz6HrCxhget7vafLcr0Dqi7G0bN/ejo6UJ//tpTSmE1H3oT0OEw==;ysxLJf+IDxkYGnHGmyOpvw=="
+secured: "nFyn8PFyXARZrsGn47j+Otd7Iuht0t60MwVII0RjPx5wSdw9TnDGtqNhIgbA3IpitAS5tv8jOZyFgT42ECa2pGTY91FMeCSwq+Mk7cFz+h44RRZbZ+r1L6oNVaefNF+F/0q8ufP3k2mZUU/WzUmn8O0fJH9u08h/0c6RifXF21ebDIZKtB2ooHQmaVboWv1HFlrWDjvYZ07ZWNQdo2li9DzFZa8btDwNwMR0Ef5Mu4vPnhngN+AX3P+g9xXOA3XypsMq7gG1d12gQ4oA6E3YuQwPOAQQgw6dgedrvioD1H9fHACpNzfA46dorg/BA0JRKUP6On0UNwxS11o6jJp6w48h/BsiHilL5uKyI5s4tYX+WC+sYCRDdj+fIZ4OCIN00530Wjfu4kXuRu4i5fmQyojQhdN47RGQeiQWzdx15AaC92FYeF3sQMZeYgJdCm4DqXdzHs53LcOHiMVBrm3K+bWv6Nqfcn5XCUnmhuZE74WIyszDUTdjLoOHYV1irkmRaDHW8OrcLCUFSSvGsbcjAg==;+7sZm3L65MDTDheIATsIqg=="
 ---
 

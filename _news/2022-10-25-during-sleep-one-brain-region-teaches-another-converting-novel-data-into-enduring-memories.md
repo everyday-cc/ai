@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "During sleep, one brain region teaches another, converting novel data into enduring memories"
-    excerpt: "Using a neural network model, neuroscientists have found that, as the brain moves between REM and slow-wave sleep cycles, the hippocampus teaches the neocortex what it learned. This process seems to convert novel,"
-    publishedDateTime: 2022-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/10/221024153602.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 38
   - title: "During sleep, the hippocampus and neocortex interact in ways that are key to memory formation"
     excerpt: "Using a neural network model, Penn neuroscientist Anna Schapiro and colleagues found that as the body moves between REM and slow-wave sleep cycles, the hippocampus and neocortex interact in ways that are key to memory formation."
     publishedDateTime: 2022-10-25T22:51:00Z

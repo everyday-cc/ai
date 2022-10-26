@@ -25,17 +25,6 @@ images:
     height: 343
     isCached: true
 
-related:
-  - title: "One of the crowd or one of a kind? New artificial intelligence research indicates we're a bit of both"
-    excerpt: "A computer scientist has used artificial intelligence (AI) to show that we are not as individual as we may like to think."
-    publishedDateTime: 2022-10-22T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/10/221024102913.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 32
-
 secured: "PfW9Jmlhxw5GvAkmKVlRbKkFnVbcYAWzfnt+DnWNIN58oeeGSPeeUt/nWNJS70iMywqNXtUHtMJOnZL1ru4DRBX/HipdOa+jerColpYIKUAHtudxdS4GqjqpqcQQvy5j1d1Fdw4F94dQiHsxZnA0pvZhXM4oNQInYQhSZxLXG0jJzhO6qKqgiOgMcY37JM8lQ6RVuyQjQS92wuQzxu4465kaSF2F2Z2f/mjMEOK8f3AlL1Lyyc4AQWKjxtKmHZ4qmMW/BmZj6HOWNoz15yladRQsixwsm9O6HRlbyl8xHJgZoPiIRpeLQBBh20NqN9+dcojJqV4PjLzCLL/Aem3QQn0+ShhHiOEnbgdljmb2uSY=;B9W5jmUFH3xBJ1Pepzucuw=="
 ---
 

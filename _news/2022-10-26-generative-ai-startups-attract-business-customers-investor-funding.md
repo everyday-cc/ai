@@ -3,14 +3,12 @@ category: news
 title: "Generative AI Startups Attract Business Customers, Investor Funding"
 excerpt: "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round."
 publishedDateTime: 2022-10-25T21:16:00Z
-originalUrl: "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
-webUrl: "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
-ampWebUrl: "https://www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
-cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176"
+originalUrl: "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc"
+webUrl: "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc"
 type: article
-quality: 89
-heat: 90
-published: true
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Wall Street Journal
@@ -30,6 +28,6 @@ images:
     height: 640
     isCached: true
 
-secured: "SKfnyejXRPt1jOahGlAeGh788DfyrV6mg3eky5VjIAv9S8GKZ0DNbNPH5J0VrdytNpi4aypTDFF9qSZPODNOidng8liecsZ8jZIu60F6TDDCB1HFGf28mlwn6B92IlS8cRsDJD7RM152O/mFqIKyMOJgyCRsgTJaP9CRSEb/59HaadGkLZ41CdSnu9yka2NyloItsafdXtbl5WihGR1ADTMBKgi7lndvW/4h9ZCWFcnHOupyfV0sC8P64XuG63aBe1Ejtkd6n0g/nlWorq3s78BPu1UWVqQXMpiILfVPw7ucqfx1yLV9Ik2dkCleVZ/emY5hmTk7BQllDPs91fbUzGTTeVuNi+caZ00AvOUAagRmzRueGTigcghCtOHChU1saFnGKiQX4odxMa1ILEo7RjJ5tpkydC7aklyoEaEJQB0fHir4fh++o1jOkV/eRlyV89xpmXO0TGZDJwHvldztpSjUYEp4Ug8FoDT4+lMWuRVDySJO3u6A3nap6P2sw5e3XRPGY479j/6RLqWKXeiUhw==;qSt3x0FU0QGGlcvQeoFdMw=="
+secured: "Nniw9lEBlQaSIZ3u9zEv6e9ajs8vtQZaXjiQ/FSI63iRIjHqZzuk2Bly4oNYlaisMat+gdSvxEU8BP9GTVVtee57sWPU3xWNCZGRv8Y3jW6QpoeY+7gpmo9k9AVwBaMPfZ4FznsasETPuKwM56kAV0PovvYLBu5xQGEx+R6/F44jSXhuzHeB6uzZhYlMlh3JAOVZGOF7cmvIHCNVuRWXC5huGMP1lulXO+6rSPrh2kMfvoFz0tbOZj1vsTpombyU+KzpicSrc9gSUU2kj7ESVF5iSfq6TlrisRv0RLAujADticLknFU9/uPOtINDTEi85uKpFZWuRAnYX3f8W8UR+H9S59GTJgmPdFSdimPq4rU=;9IAZYEo/uIqfZsUzzXRx7w=="
 ---
 

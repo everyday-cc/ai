@@ -24,6 +24,7 @@ topics:
   - AI
   - Facebook AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://i.insider.com/6351bad5ffcac3001876a295?width=1200&format=jpeg"

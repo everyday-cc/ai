@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-25-clearview-ai-fined-for-violating-the-european-gdpr-privacy-law.md",
+      "title": "Clearview AI fined for violating the European GDPR privacy law",
+      "excerpt": "Clearview AI received yet another fine for its biometric profiling activities in Europe, this time for illegally collecting and using data belonging to French citizens without",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/96422-clearview-ai-fined-again-violating-gdpr-facial-recognition.html",
+      "originalUrl": "https://www.techspot.com/news/96422-clearview-ai-fined-again-violating-gdpr-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-24-image-7.jpg",
+          "width": 3092,
+          "height": 2767,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
+      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
+      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
+          "width": 1343,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T12:31:17-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
       "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
       "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
@@ -62,7 +166,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1048,6 +1152,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
       "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
       "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
@@ -1088,160 +1235,6 @@
       "topics": [
         "AI",
         "Math for AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
-      "title": "AI tool colorizes black-and-white photos automatically",
-      "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/palette_working_example-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T14:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-to-use-midjourney-to-generate-ai-images.md",
-      "title": "How to use Midjourney to generate AI images",
-      "excerpt": "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "originalUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/10/Midjourney-River.jpg?p=1",
-          "width": 1664,
-          "height": 1109,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/how-to-use-midjourney-to-generate-ai-images/?amp",
-      "publishedDateTime": "2022-10-21T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-google-in-talks-to-invest-200-million-into-ai-startup.md",
-      "title": "Google in Talks to Invest $200 million Into AI Startup",
-      "excerpt": "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "originalUrl": "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-649470/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T11:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

@@ -9,8 +9,8 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-de
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/"
 type: article
 quality: 87
-heat: 109
-published: true
+heat: -1
+published: false
 
 provider:
   name: TechCrunch
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Bumble Releases Dick-Pic-Fighting AI Into the Open-Source Wilds"
+    excerpt: "No dating app can stop cyberflashers all by itself. So Bumble is sharing its software to help stop sexual harassment across the internet."
+    publishedDateTime: 2022-10-26T16:02:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/2213c38769a7ec9c5f6ceee918340cd920557932/hub/2022/10/25/d6c6b6d0-fd12-4047-bc3d-0e6e171be888/dall-e-2022-10-25-16-44-48-contented-female-commander-with-closed-eyes-deploys-her-army-of-robot-bees-to-attack-digital-art.png?auto=webp&fit=bounds&height=630&precrop=1024,538,x0,y0&width=1200"
+        width: 1199
+        height: 630
+        isCached: true
   - title: "Bumble open-sourced its AI tool for catching unwanted nudes"
     excerpt: "In a recent blog post, Bumble announced it was open-sourcing Private Detector, making the framework available on Github.."
     publishedDateTime: 2022-10-24T20:03:00Z

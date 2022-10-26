@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 1000
         isCached: true
-  - title: "Get Started With Speech Recognition"
-    excerpt: "Speech recognition makes it easier for us to be lazy with our devices – or perhaps set up the coolest voice-controlled project around. After the voice controlled home automation post ..."
-    publishedDateTime: 2022-10-22T00:00:00Z
-    webUrl: "https://hackaday.com/2010/07/09/get-started-with-speech-recognition/"
-    type: article
-    provider:
-      name: Hackaday
-      domain: hackaday.com
-    quality: 19
 
 secured: "brxcZitL1koD9r53YLNPbhcegpdBB5CezXzKEN/QcTfhT00YwMG0UDTtxwfpFByh4zBzno4ieBxe9DvGP2NvZzxoaGIQHp5z7qzYqDPb+Edw2F4gmQRZg623X+i0gnSypC/uspHnEFhnla68qalVZJN6DEI0L0a6OLnJbMc29reJvvFmG4/tG3L3fTRlbbEi019YYpJd4RIlV1wREIUZdU+FmrbmwCF3jV9VnZqjwNU9PJ0moJ6HkNGz6B2huSSlrlkc8cveT0H7mUW/LjYB/d9t860DlRWLsOogcnat2cJNfcrGDOBZni9AAHD3JZKl8kipXYhaTXjhXyad4DtN6oWI6IP22sfStiJGxXUFDas=;3K9ivORxq2bcrUN1xNhn3Q=="
 ---

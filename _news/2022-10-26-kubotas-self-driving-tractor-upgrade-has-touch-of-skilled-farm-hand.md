@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Kubota’s self-driving tractor could emulate skilled farm hand"
+    excerpt: "The system is capable of driving a tractor on a straight line with a deviation of just a few centimeters without the human operator touching the wheel. A skilled farmer tills fields in lines that are as straight as possible to maximise crop yield."
+    publishedDateTime: 2022-10-26T16:25:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/27/kubotas-self-driving-tractor-could-emulate-skilled-farm-hand/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 4
+
 secured: "tsXXbX9k3UnlsvdZ6Pkcxjvtxgmamo/J/0bRYbzqz5sxdXpU/+bX+df6hNeyiuNkiFHzU7z+ACu/86VtTij32y17tXx7sAic+aIbeq+Ga3RB+yz6etSLLrWxWGeJ8niewM+ROGiEGOm8B9hDgNt4zXygFmYQh0GpvjRaXsywgWHBOC7mMGJbNQa4RuV11JdtnbjGtDnSR9eNv3Lqu2dzV/Cs9gcTQEVucjx/NQfzVVNtTL5/57uM4VJ9idW/3NgwdfWbvIC95oUdVutEDr7WRz5oARzgXWNxCb1Q2FhDUImDxSwYVJ5C3j6gy9hb4xC/3InjGEzix/y5u6E+miD6/zg+CJQedhCa2/sI045KVDo=;K/pIy/jchpPJJ+ezHHtv0w=="
 ---
 

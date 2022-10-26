@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://chorus.stimg.co/24127433/merlin_68887987.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces"

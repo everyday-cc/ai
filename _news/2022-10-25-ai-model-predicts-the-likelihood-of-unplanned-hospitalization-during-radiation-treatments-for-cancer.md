@@ -41,20 +41,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Artificial intelligence may streamline radiation therapy for lung cancer"
-    excerpt: "Researchers from Brigham & Women's Hospital in Massachusetts say they have developed an AI formula able to detect lung cancer tumors within seconds."
-    publishedDateTime: 2022-10-21T23:46:00Z
-    webUrl: "https://wnyt.com/top-stories/wnyt-health-report/artificial-intelligence-may-streamline-radiation-therapy-for-lung-cancer/"
-    type: article
-    provider:
-      name: WNYT NewsChannel 13
-      domain: wnyt.com
-    quality: 53
-    images:
-      - url: "https://wnyt.com/wp-content/uploads/akta/FE2EE81B3532B9D28CE8D367EA688C13.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "New AI Model Can Predict Unplanned Hospitalization During Cancer Therapy"
     excerpt: "New research shows that an AI model, which analyzes wearables data, could be used to predict the odds of an unplanned hospitalization among those undergoing cancer therapy."
     publishedDateTime: 2022-10-25T13:30:00Z
