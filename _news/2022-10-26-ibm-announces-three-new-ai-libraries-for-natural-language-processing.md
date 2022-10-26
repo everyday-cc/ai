@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-na
 webUrl: "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/"
 type: article
 quality: 86
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM announces system-on-chip AI hardware"
-    excerpt: "IBM enters the AI hardware acceleration field with a full system-on-chip board that integrates approximate computing."
-    publishedDateTime: 2022-10-21T18:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "IBM Watson opens up AI opportunities for software vendors with embeddable libraries"
     excerpt: "IBM Watson announced 3 new AI software libraries that can be directly embedded into apps, including NLP, text to speech and speech to text."
     publishedDateTime: 2022-10-25T12:00:00Z

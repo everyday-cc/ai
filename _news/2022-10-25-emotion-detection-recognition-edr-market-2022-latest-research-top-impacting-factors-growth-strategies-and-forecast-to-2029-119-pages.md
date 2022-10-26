@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Construction Market by Product and Geography - Forecast and Analysis 2022 to 2028."
-    excerpt: "The \"Artificial Intelligence (AI) in Construction market\" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
-    publishedDateTime: 2022-10-21T19:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
     publishedDateTime: 2022-10-25T03:01:00Z
@@ -108,6 +94,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
+    excerpt: "The Report Mines forecast \"Speech and Voice Recognition market\" to grow to reach Millions USD in 2022 with a CAGR of(number)% during the period 2022 - 2028 due to coronavirus situation. With regards to revenue,"
+    publishedDateTime: 2022-10-25T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

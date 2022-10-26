@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4549020-tesla-elon-musk-is-right-
 webUrl: "https://seekingalpha.com/article/4549020-tesla-elon-musk-is-right-optimus-robot"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,24 +24,6 @@ images:
     width: 750
     height: 500
     isCached: true
-
-related:
-  - title: "Elon Musk’s language about Tesla’s self-driving is changing"
-    excerpt: "The language used by Elon Musk about Tesla’s self-driving effort is changing, and it is muddying the timeline for the automaker to deliver on its promise. Musk use to make statements that made him sound supremely confident that Tesla could soon deliver a self-driving system and virtually all vehicles the automaker produced since 2016 through a software update."
-    publishedDateTime: 2022-10-21T17:30:00Z
-    webUrl: "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/"
-    ampWebUrl: "https://electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/21/elon-musk-language-tesla-self-driving-changing/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 89
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-Full-Self-Driving-Beta-Hero.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
 
 secured: "spq3J8awRTcQFm1p4U0p0dA5+7YWsqFDWrtfZRm6hl0w36Gt9+SYxqPqpjqYKBqJBKH2xPeJUm+AlnMiS/+RVPQeYmgIuqHyDeDqjXOoAIrqP4leq0TRavHArFv+cj35UpzPGeqQCkf6l6/JO2rmUy8pfRL+oFV7GqLBa4ecGB1Jv5KOXwxIDHyYZyE6qAaoYY77ju5METg9Tguw3qsw5qQV3JzYYzXqROrnNtRlSpg5Ngk4G56l8vERISKIXrvpjb66rR/YpDYh3gn7yEfQGRvf7fuqximUzKvxhOP/YuTskfOatAE+xR6TavmoBQiMFCojtg9frg+wpUvTU1dIyX30UOmZdiaeavVh1RBBwGNfzIzkCn4i/VaO1h/ZTZSdMbui4LWLJZ0OioxH/VPdudHRRLwCVijMbGpYwlzKBrB/Fj8hoHnWqOg6OKow+udBol0pRsaxJP1a+uKAJtq/nlF+qR74RyfRgsaQL9LMKYzaR/LgXO0AfUFmpOCvO6q4BmGzbdh/3tATgnbgKBqUUQ==;+pogKn4wRGWPbZqUDIDDXA=="
 ---

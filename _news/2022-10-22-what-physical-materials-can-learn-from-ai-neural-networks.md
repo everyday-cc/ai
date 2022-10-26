@@ -35,6 +35,20 @@ related:
         width: 1068
         height: 601
         isCached: true
+  - title: "Mechanical neural networks develop muscle memory"
+    excerpt: "Researchers have developed neural networks that can accurately predict the evolution of microstructures in materials under certain environments. “This research introduces and demonstrates an artificial intelligent material that can learn to exhibit the desired behaviors and properties upon increased exposure to ambient conditions,"
+    publishedDateTime: 2022-10-26T10:17:00Z
+    webUrl: "https://www.materialstoday.com/mechanical-properties/news/mechanical-neural-networks-muscle-memory/"
+    type: article
+    provider:
+      name: Materials Today
+      domain: materialstoday.com
+    quality: 39
+    images:
+      - url: "https://assets.materialstoday.com/wpimg/float/a0eab688-3cd4-400a-8c25-a550ffeff2e0.jpg"
+        width: 280
+        height: 210
+        isCached: true
   - title: "AI-Powered Material Can Learn Behaviors, Adapt"
     excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
     publishedDateTime: 2022-10-21T20:46:00Z

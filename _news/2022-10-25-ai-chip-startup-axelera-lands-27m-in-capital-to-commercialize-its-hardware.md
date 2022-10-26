@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
 type: article
 quality: 102
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
         width: 800
         height: 498
+        isCached: true
+  - title: "AI start-up Axelera AI closes $27m Series A funding round"
+    excerpt: "The European AI start-up Axelera AI has announced the close of its $27 million Series A investment round. The funding will support the company’s launch and mass production of its first-generation AI acceleration platform, powered by its disruptive in ..."
+    publishedDateTime: 2022-10-26T10:17:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-axelera-ai-closes-27m-series-a-funding-round"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 37
+    images:
+      - url: "https://www.newelectronics.co.uk/media/nuckng5c/axelera-ai-series-a-funding.png?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
         isCached: true
   - title: "European AI Startup Axelera AI Closes $27 Million Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"

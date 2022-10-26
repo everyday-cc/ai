@@ -35,15 +35,6 @@ related:
         width: 476
         height: 210
         isCached: true
-  - title: "Global Microprocessor and GPU Market to Reach $111.98 Billion by 2027 at a CAGR of 4.8%"
-    excerpt: "The \"Global Microprocessor and GPU Market Report 2022, by Architecture, by Gpu Type, by Application\" report has been added to ResearchAndMarkets.com's offering. The"
-    publishedDateTime: 2022-10-21T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29364309/global-microprocessor-and-gpu-market-to-reach-111-98-billion-by-2027-at-a-cagr-of-4-8"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 11
 
 secured: "xzoMkS7RuGehBF39NCvxDOtuG9txqBpvxDxSds4QewkVgJxulxfzmpGeBspQ8XhHGOcBm4nZ7hRpPaRCXGvJiHBuLodWaC8o6rKyhxKOyewThJ/jj2gz+8InuZoo9BJQBij7RBqC20mRsLyOBqBKFO2GIUuLODxfE0cf6xzV6HuXm3KgM4MnNO/BjzYrltLiGHLJIIlzPckXD5tiBmL/lMJZ/RB73ax1PrM/IMEojTrXZs7PCcw6Fhc0wL4pb+JuR/WLJhhy5x0JLowRkyz6EMoPFpmyazyJ8HntC6tdj86RP6CTmcMMJjsve6psXPIy7YLfnCPzAPohPYcD001BxMLbYv3PZ0bl595Q5B5iOQw=;F4vZe1YN4uUdkN37JNZtgA=="
 ---

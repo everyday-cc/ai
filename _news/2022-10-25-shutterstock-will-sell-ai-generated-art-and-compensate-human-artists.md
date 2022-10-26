@@ -68,6 +68,20 @@ related:
         width: 760
         height: 380
         isCached: true
+  - title: "Shutterstock to sell AI-generated images using OpenAI’s DALL-E"
+    excerpt: "Shutterstock plans to integrate OpenAI's DALL-E AI model onto its website, to give customers direct access to its text-to-image capabilities."
+    publishedDateTime: 2022-10-26T09:13:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/shutterstock-ai-generated-images-openai"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 39
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_399118655_Editorial_Use_Only.jpeg"
+        width: 800
+        height: 600
+        isCached: true
   - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
     excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."
     publishedDateTime: 2022-10-25T19:58:00Z

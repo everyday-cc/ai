@@ -46,6 +46,20 @@ related:
         width: 933
         height: 622
         isCached: true
+  - title: "The progress of AI"
+    excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."
+    publishedDateTime: 2022-10-24T16:09:00Z
+    webUrl: "https://businessmirror.com.ph/2022/10/25/the-progress-of-ai/"
+    type: article
+    provider:
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
+    images:
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/Column-box-Integrity-Initiative2.jpg"
+        width: 1400
+        height: 735
+        isCached: true
 
 secured: "j9qFPFZSaCVqHdV25l08odvYv6ZMqRYARIhUJ/1wRdlwf+eePacV3iPJA9ye03Aae4cbTFBtr5wvazNHYw5ovO5H7yUak7VOQ9wHu+wIwDzOoxa6U240Pe8hxuCnfJEKdmL63ixBX3Hn42OY82tAwK5IaX97Bw0EFnp5B/Q+zTGa1fadKEchD3BrmuPo/4q+5KfQ5HVUTustweKCXaaQbuFVAYOcqn9Wfw7d98NjZbNeugMwRWaKNldehIdb2tdMYiMdYWwzz8NQdRpdBdVP+TP78SVvZUkcLXcfuhSn9Vouxw4Vkmtv6fytK1wE/NSGNyHlr8j4fqVk5SWWG5LmBRl0QEx2LSi0xPOp8T1kvqIm/2bxeljZ82sCUl0Jp6LTvzcZwU3vlHI6tLUIHhP9lgVJFp799Sx+7LIC+u1+6x3DPHIoNceRlLygGKkxSHMvuEjHL5duoAE1uCbetnQaP/xPJl0JwvwwGHKcdomgmBEkQmZdSE3E5ZdpE1dSVhnZclAAfKzU8CV5LNmmUa8NkQ==;JFwQvT6xcMMfZ7/lFEX4TA=="
 ---

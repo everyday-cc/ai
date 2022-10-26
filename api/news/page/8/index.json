@@ -2,6 +2,93 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
+      "title": "Deep learning tool identifies bacteria in micrographs",
+      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "publishedDateTime": "2022-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
+      "title": "Ambi Robotics Raises $32M in Funding",
+      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
       "title": "The Chip War With China Is Just Getting Started",
       "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
@@ -1085,93 +1172,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
-      "title": "Opinion: A driverless vehicle update",
-      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
-      "title": "Testing approaches for Amazon SageMaker ML models",
-      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:51:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

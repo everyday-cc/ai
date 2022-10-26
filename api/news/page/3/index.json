@@ -201,6 +201,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-21-2022-senator-paul-simon-award-goes-to-center-for-hearing-speech.md",
+      "title": "2022 Senator Paul Simon Award goes to CENTER FOR HEARING & SPEECH",
+      "excerpt": "Signature Healthcare Foundation is pleased to announce the presentation of the 2022 Senator Paul Simon Award to the Center for Hearing & Speech. Frank DA",
+      "sourceUrl": null,
+      "webUrl": "https://www.stltoday.com/pr/business/2022-senator-paul-simon-award-goes-to-center-for-hearing-speech/article_8a394dd8-5149-11ed-8a6d-433b44c69410.html",
+      "originalUrl": "https://www.stltoday.com/pr/business/2022-senator-paul-simon-award-goes-to-center-for-hearing-speech/article_8a394dd8-5149-11ed-8a6d-433b44c69410.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/8/54/8543842e-5149-11ed-8a6b-1f84cd7c4da2/6352a754d37b8.image.png?crop=1258%2C660%2C0%2C90&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "St. Louis Post-Dispatch",
+        "domain": "stltoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report.md",
       "title": "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report",
       "excerpt": "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected",
@@ -1167,49 +1210,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
-      "title": "Improving the mapping of human skin using models and deep learning",
-      "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-human-skin-deep.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/researcher-improves-th.jpg",
-          "width": 600,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-human-skin-deep.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-human-skin-deep.amp",
-      "publishedDateTime": "2022-10-20T09:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

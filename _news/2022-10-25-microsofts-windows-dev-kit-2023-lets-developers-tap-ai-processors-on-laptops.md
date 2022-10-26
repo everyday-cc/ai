@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-le
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/"
 type: article
 quality: 103
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s end-to-end Arm development environment is here at last"
+    excerpt: "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows."
+    publishedDateTime: 2022-10-26T10:22:00Z
+    webUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html"
+    ampWebUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
+    type: article
+    provider:
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
+    images:
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022"
     excerpt: "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most."
     publishedDateTime: 2022-10-25T14:56:00Z

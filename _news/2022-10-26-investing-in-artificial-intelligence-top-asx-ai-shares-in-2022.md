@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-26T06:55:00Z
 originalUrl: "https://www.fool.com.au/investing-education/ai-shares-asx/"
 webUrl: "https://www.fool.com.au/investing-education/ai-shares-asx/"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.fool.com.au/wp-content/uploads/2022/01/AI-woman-learning-16_9.jpg"
@@ -23,6 +24,6 @@ images:
     height: 720
     isCached: true
 
-secured: "58O+r8QYDUWFYwBwvspY7Evb08EjwnluTYU4fGQ2KYGoRcSNFQJTEjSqLwUNGGVyaixohB7AEXqAHzZnpDgGC9leyLfash6nFMkEid25tMtoxZO54r2diQmgZBtckSgNj2HIndgSFilyiWvL28rZJNcNKaoXPKRifPNRRAgQaUppJEtQbJtjp7H2lWXcseCrDzvveMZe6pq2h+8co2FeDwDrEg1nnvCvQbyMOa44IKsPwgbNmqxtMTuW++LVPtMjSTSgZl1mQmx86DyRnsFktXnLjRJn6yOA3LkWsd2y+KHQrqLaup7D1ZyOOp5J9fmstXRdh7oVXEIDfa6AqetbvhG9bPisxoxkMG0pAkR+2sU=;XRwJHjAI7P292aLzx+jirw=="
+secured: "rnR29dXriTUV4oUa90Y7qx5XoChqAuhg2X4qwynsRtqBXFYXwiJ3VQFd/TVbJJvIENQ8U44ewu0yn5mVbQBWqaPDRtqKgdeaHeg+daqdDxwlsikpc6I/chRNZSH8CWP4nminru8rzxzaSAqVNqTjMGyGTxWdPmzRtznUpbqDeU2nAa2YhncYcO/f7HAW7Lr21Gb/aKajh7D/iINkBYvG+ZC+SIlOdhTJgC6D/KMUHYUDqp7zDmV9OOcFmLTLM6Jxq/KBurymgYGVT8Zlam+HnqFu6wzCK6ogCq36iApWKje8LCUBY2ewVF66fpKbTrOW+wNR5Z5OemvbJmILF7mrG/S/Lz6Yp1bv3ErtqQOkfhzL1f360KN8ylYPW5kdv5DJVidQaqVI9jjB221IYAiVo2BaVPsjFUrhsptIF4CSmZjQ7FlkshX2dAJXW3vD0xenqsS3Ns2SSGQSsv9fmedd1lqT2aVPHAW+9See0dbe330w4GYtdYPAqCgGnXMCPRfUdXQOtePyWIjS0U3wCs3PkA==;70ksE592JbrBW23/DrV9OA=="
 ---
 

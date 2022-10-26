@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://news.usni.org/wp-content/uploads/2022/10/1000w_q75-1.jpeg"

@@ -20,6 +20,7 @@ topics:
   - AI Hardware
   - AI
   - Microsoft AI
+  - IBM AI
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/ibm-aiu-accelerator-card.jpg"

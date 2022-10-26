@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-n
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
 type: article
 quality: 50
-heat: 70
+heat: 80
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Mechanical neural networks develop muscle memory"
+    excerpt: "Researchers have developed neural networks that can accurately predict the evolution of microstructures in materials under certain environments. “This research introduces and demonstrates an artificial intelligent material that can learn to exhibit the desired behaviors and properties upon increased exposure to ambient conditions,"
+    publishedDateTime: 2022-10-26T10:17:00Z
+    webUrl: "https://www.materialstoday.com/mechanical-properties/news/mechanical-neural-networks-muscle-memory/"
+    type: article
+    provider:
+      name: Materials Today
+      domain: materialstoday.com
+    quality: 39
+    images:
+      - url: "https://assets.materialstoday.com/wpimg/float/a0eab688-3cd4-400a-8c25-a550ffeff2e0.jpg"
+        width: 280
+        height: 210
+        isCached: true
   - title: "What physical materials can learn from AI neural networks"
     excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
     publishedDateTime: 2022-10-22T06:00:00Z

@@ -49,6 +49,20 @@ related:
         width: 800
         height: 498
         isCached: true
+  - title: "AI start-up Axelera AI closes $27m Series A funding round"
+    excerpt: "The European AI start-up Axelera AI has announced the close of its $27 million Series A investment round. The funding will support the company’s launch and mass production of its first-generation AI acceleration platform, powered by its disruptive in ..."
+    publishedDateTime: 2022-10-26T10:17:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-axelera-ai-closes-27m-series-a-funding-round"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 37
+    images:
+      - url: "https://www.newelectronics.co.uk/media/nuckng5c/axelera-ai-series-a-funding.png?width=1200&height=630&mode=crop"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "European Startup Axelera AI Closes $27M Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
     publishedDateTime: 2022-10-25T21:39:00Z

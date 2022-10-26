@@ -7,7 +7,7 @@ originalUrl: "https://www.finextra.com/blogposting/23118/institutional-investors
 webUrl: "https://www.finextra.com/blogposting/23118/institutional-investors-its-time-to-adopt-ai-in-investment-decisions"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google in Talks to Invest $200 million Into AI Startup"
-    excerpt: "Alphabet’s Google is in talks to invest at least $200 million into artificial intelligence startup Cohere, in another sign of the escalating arms race among large technology companies in the sector."
-    publishedDateTime: 2022-10-21T18:39:00Z
-    webUrl: "https://www.wsj.com/articles/google-in-talks-to-invest-200-million-into-ai-startup-11666381180"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-649470/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Google in talks to invest $200 million into AI startup"
     excerpt: "Cohere, which creates natural language processing software, also had talks with Nvidia about potential strategic investment"
     publishedDateTime: 2022-10-23T13:10:00Z

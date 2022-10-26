@@ -37,15 +37,6 @@ related:
         width: 1202
         height: 672
         isCached: true
-  - title: "IBM announces system-on-chip AI hardware"
-    excerpt: "IBM enters the AI hardware acceleration field with a full system-on-chip board that integrates approximate computing."
-    publishedDateTime: 2022-10-21T18:01:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-announces-system-on-chip-ai-hardware/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 64
   - title: "IBM Gives Partners Access To Three New AI Libraries"
     excerpt: "The libraries, meanwhile, give partners access to the same AI libraries that power IBM Watson products, according to IBM. Developers and IT teams can embed the new libraries into their applications and make custom products without data science expertise ..."
     publishedDateTime: 2022-10-25T15:32:00Z
