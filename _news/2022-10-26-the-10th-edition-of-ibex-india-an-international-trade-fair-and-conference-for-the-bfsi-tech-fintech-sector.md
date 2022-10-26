@@ -1,18 +1,18 @@
 ---
 category: news
 title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-publishedDateTime: 2022-10-26T03:17:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
+excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
+publishedDateTime: 2022-10-26T02:20:00Z
+originalUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
+webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - AI in Finance
@@ -86,6 +86,6 @@ related:
       domain: crowdfundinsider.com
     quality: 17
 
-secured: "/8Y2aauVRlS7MuQbBOO7LKcviXhV7GeGNhXUBJY7ibz3hSkO33+mF2TfVF2jpSyUqusm09QLbhwS6RaPfCc2BnhD3iMXqQYCliRdvGr0jZIzBVQr5Z9M0xahBgaLhlgGJ5VG3VUboGBdUkTsu+8a/l3vlPdY0wr7eEIDVNpMlW2b8+u8ZJta71TwGfWijX4XjA4y6+p8NDOjWpqmAKSOkDm/oMJfXbvU9EGErF2eoK1NtLnrBEz6D64Z/Sw73BKbi+Z5292UrOGSeQmNvDgs4UD22vrlvh5ru1Y0DjdpAqHF0hgXT3erGxY6bNUOYctInOuPo3Zxc3gAI8W0VISSR+7scLeVWlEF7DEwX5gsrDA=;x4Yr7NhmacQTZo54mtQFew=="
+secured: "d0znwRsDzJjdKlnwSh4fWTHKYFmVS2TDkh+oCz5wzpRsweK1Y4qXSAqboE9igJwxBqVh58b7dgfyw94p2AdjaE+vlmN8PLiXnoRKMOHyEXaY0Aa2kB78HLJEs/fqjXVlC0abG7/ygpAYdXA4y0BTqbUjv8ofa7+zdp8PQWkQLpGuk+WT8nghB8bNUgpN9HOFEyJk40L9a4t78BggNdigCO4RLUjuNeBqVsDt/AIaQ+xyVWMuKJ2sTnxXcaLdUnfiq4mFEweSl+t+wqa4+vyEv/Q6DpHvV7D6c2KpZBYoTAPkLXhWteRB76SX43d5UIMwbnzwHIk2Vb+mDE2TisoNYt+G8dl1uPkN29/C7BDEn/8=;FIsv/ldWJhaCaGt+HHuwVQ=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/over-30-lakh-officials-to-be-trained-in-artificial-intelligence-minister-jitendra-singh-3453748/amp/1"
 type: article
 quality: 73
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://images.indianexpress.com/2022/10/ch1414226-1.jpg"
         width: 1200
         height: 667
-        isCached: true
-  - title: "Over 30 lakh govt. officials will be trained in artificial intelligence by 2023: Union Minister Jitendra Singh"
-    excerpt: "Union Minister Jitendra Singh said civil servants will soon use these techniques in day-to-day work and administration"
-    publishedDateTime: 2022-10-21T14:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 52
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/5l5hj7/article66041264.ece/alternates/FREE_1200/PTI10_10_2022_000088A.jpg"
-        width: 1200
-        height: 957
         isCached: true
 
 secured: "GYoLvTTd9I4dKgxyTNCFuUWMRnZLXNKoPSYTqTqLRuxA4ogtX6u2g6eWFsAWXQphscXwL8fswdiZcrF6DynMzlfyETIIJzrDXB21Vp2tT2qmyKcgLZjxLkyVl7aDEJ97Qcq7Yhoc1tm9vqcExwd+7XT/NhgBFKyOAVnIUNKiXYkAwGFvlbkOZQXrnQ3To0vjzvVJVWMFgCrpaXyFSY6VvXlfi1GFzvl6u9rizSi/TQrHyKWVX8DEgIqBRc5J17YvPIw+ID5TSYXKqu4ZM9qk51qjjTBRQxjwGxcJs406v79nMY0qdG3WesMuE4R/xoYqkEwpqxBrRC/NwB/oV8ZyRGMDk7HKrzRGin8ltNwdEQU=;LEomeiohPeAF7NoP6xXEeA=="

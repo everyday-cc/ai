@@ -38,6 +38,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like"
+    excerpt: "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors."
+    publishedDateTime: 2022-10-26T05:58:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 67
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6358cacc53a52234563671f1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Shutterstock partners with OpenAI to sell AI-generated artwork, compensate artists"
     excerpt: "Shutterstock announced that it has partnered with OpenAI to provide AI image synthesis services using the DALL-E API. Once the service is available, the firm says it will allow customers to generate images based on text prompts."
     publishedDateTime: 2022-10-25T17:24:00Z

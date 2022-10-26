@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-n
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -36,20 +36,6 @@ related:
       name: Fast Company
       domain: fastcompany.com
     quality: 34
-  - title: "New Material Can Create Adaptable, Strong Structures"
-    excerpt: "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a unique lattice structure with connections of variable stiffness, as described in a new paper by my colleagues and me."
-    publishedDateTime: 2022-10-21T14:47:00Z
-    webUrl: "https://www.manufacturing.net/operations/news/22499435/new-material-can-create-adaptable-strong-structures"
-    type: article
-    provider:
-      name: Manufacturing
-      domain: manufacturing.net
-    quality: 24
-    images:
-      - url: "https://img.manufacturing.net/files/base/indm/multi/image/2022/10/Untitled.6352b0ebbb13a.png?auto=format%2Ccompress&fit=max&q=70&rect=0%2C94%2C1000%2C561&w=1200"
-        width: 1000
-        height: 561
-        isCached: true
   - title: "AI-Powered Material Can Learn Behaviors, Adapt"
     excerpt: "Mechanical engineers have developed an artificial intelligence-powered material that learns behaviors over time, and can adjust to changing circumstances."
     publishedDateTime: 2022-10-21T20:46:00Z

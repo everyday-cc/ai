@@ -62,13 +62,13 @@ related:
         height: 512
         isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-26T03:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
+    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
+    publishedDateTime: 2022-10-26T02:20:00Z
+    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Asia One
+      domain: asiaone.com
     quality: 20
     images:
       - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"

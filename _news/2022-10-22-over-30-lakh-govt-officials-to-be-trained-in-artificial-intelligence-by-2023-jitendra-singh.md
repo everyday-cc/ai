@@ -42,22 +42,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "Over 30 lakh govt. officials will be trained in artificial intelligence by 2023: Union Minister Jitendra Singh"
-    excerpt: "Union Minister Jitendra Singh said civil servants will soon use these techniques in day-to-day work and administration"
-    publishedDateTime: 2022-10-21T14:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/over-30-lakh-govt-officials-will-be-trained-in-artificial-intelligence-by-2023-union-minister-jitendra-singh/article66041167.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 52
-    images:
-      - url: "https://th-i.thgim.com/public/incoming/5l5hj7/article66041264.ece/alternates/FREE_1200/PTI10_10_2022_000088A.jpg"
-        width: 1200
-        height: 957
-        isCached: true
 
 secured: "e6C2ytsMY2HusAec39kXnQYsqttsByb8IdPquFNjulonTCrKGjV2VkqA16lzDI3xLg5fY1uT4VehfMLQFvWvD3KUz/G3ZFxvH98HMvfsADynFYtMiRy8XSKE3zsC1ubSYpwvzA0VRPhWbQgHDMqbgHxwvBJSLBM+ifoULzFnFkKkB2xiW56LNepxuMzvg3haddAzPHEYbW05oCw83TL2cWcrYoDt+tpTFVneQrmP92tSvbgOSnqhZAdV7i3qhAoSocOIwA+oq/WDr9ZRCJvNKtlVG9wt/EAWiReCGxRTi/2JxeH1kojXO3M8ij/qkQ2hKEQjkJWyr4vhcQJaXc8oBXbpBjdCxSoosrP05P08EYU=;LnjLJ9qFm2BRJpyW3tOSEg=="
 ---

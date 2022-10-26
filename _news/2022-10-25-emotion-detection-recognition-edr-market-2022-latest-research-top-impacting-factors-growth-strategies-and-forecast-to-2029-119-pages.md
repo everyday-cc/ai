@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected"
-    publishedDateTime: 2022-10-21T13:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 68
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028."
     excerpt: "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand."
     publishedDateTime: 2022-10-24T08:30:00Z
@@ -57,15 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data | 102 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Market is projected to"
-    publishedDateTime: 2022-10-25T02:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-102-pages-report-2022-10-24"
+  - title: "Artificial Intelligence (AI) in Construction Market by Product and Geography - Forecast and Analysis 2022 to 2028."
+    excerpt: "The \"Artificial Intelligence (AI) in Construction market\" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
+    publishedDateTime: 2022-10-21T19:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-construction-market-by-product-and-geography---forecast-and-analysis-2022-to-2028-2022-10-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 66
+    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -85,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive System & Artificial Intelligence (AI) Systems Market Size, Trends and Forecast 2029 with Top Countries Data | 126 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Cognitive System and Artificial Intelligence (AI) Systems Market"
-    publishedDateTime: 2022-10-21T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cognitive-system-artificial-intelligence-ai-systems-market-size-trends-and-forecast-2029-with-top-countries-data-126-pages-report-2022-10-21"
+  - title: "Voice Recognition Software Market Size from 2022 to 2028"
+    excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
+    publishedDateTime: 2022-10-25T01:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-from-2022-to-2028-2022-10-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -141,20 +127,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Object Recognition Imaging Systems Market 2022 : SWOT Analysis by Players Continues Explosive Growth by 2029 | 115 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Object Recognition Imaging Systems Market is projected to"
-    publishedDateTime: 2022-10-21T14:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-swot-analysis-by-players-continues-explosive-growth-by-2029-115-pages-report-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-10-25T02:22:00Z
@@ -178,48 +150,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029 | 110 Pages Report"
-    excerpt: "Global “ Artificial Intelligence in Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence in market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-21T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-110-pages-report-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market 2022 Statistics, Share Price, Growth Prospects, Industry Trends till 2029 | 127 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence and Cognitive Computing Market is"
-    publishedDateTime: 2022-10-25T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2022-statistics-share-price-growth-prospects-industry-trends-till-2029-127-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Market : Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022 To 2029 | 103 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Voice Recognition Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-25T03:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-to-2029-103-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "These artists found out their work was used to train AI. Now they’re furious"
-    excerpt: "In just months, millions of people have flocked to text-to-image AI systems and they are already being used to create experimental films, magazine covers and images to illustrate news stories. An image generated with an AI system called Midjourney recently won an art competition at the Colorado State Fair,"
-    publishedDateTime: 2022-10-21T13:06:00Z
-    webUrl: "https://edition.cnn.com/2022/10/21/tech/artists-ai-images/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/21/tech/artists-ai-images/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 84
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220923162646-erin-hanson-artwork-super-tease.jpeg"
-        width: 1100
-        height: 619
-        isCached: true
 
 secured: "J/QxbRdPyJokpwRT5Sm/f+pxX2QaZIwbhezPXQwTCEaEIQBa9rqT3Buu/wVBuO8/IsvRhAzHyT0oqRlczqWrd0Ym1Ty1UofiOT9cFD8BX3q8ciZ3tVIuduLQtuIBJ5bHLxOsP6PORoGIGzflCfuAZh3qQjBWT35DpwgObZ87mcwtq4B2dedER3IFThNZqQITABlQsIoCty2Zh7efofhWV2k/vFu2XSNkYTQJEqHCG+VmEXzcBVm+byttNqFwUDqgRgYFN/qgfIlea5qw6kgSRR+xPyHjyqpU1ieiQx7JAysVmyE9dgTFZAuoVGOecIgHH029TVW5Kg0B+meBAuerV5L34uO58Ph4s4wLY0B+dws=;QrzfMiwUAV2DtV4m82vcxw=="
 ---

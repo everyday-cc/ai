@@ -54,13 +54,13 @@ related:
         height: 512
         isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-26T03:17:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57398453-the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintech-sector-011.htm"
+    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
+    publishedDateTime: 2022-10-26T02:20:00Z
+    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
+      name: Asia One
+      domain: asiaone.com
     quality: 20
     images:
       - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
@@ -86,6 +86,6 @@ related:
       domain: crowdfundinsider.com
     quality: 17
 
-secured: "BzxhdD4AAfFmhBk7CyfgIcfrMzpAOv5VOgA+eg5/1FRY5plo0WyzPGfgKZJmyVMyM/fi+9RxJ9gnJcfj3qD+PbC4S0N6S/T6BqQHHcKBPYCtxAwCKGoS5PceSqi9MTYu6bLgyL+/rrCCjG9wz8IPKPpcHjugAU/LUYRFLqYlqLxt7vSCk7DyyQpf4sj9SqDVJxTLuwv+TuCcb96mpOGyBWgB2MLpnJv0YZC+/kZo1aF87uLmnM3zcYhYSodi7JpdwlnvPTOcgGlrDlwKgFRewwU0G7C4icFGmPbELJHcint3SPKntFaWJxTppP8ZmR+9+2R6fRXdykBAGaW8M2K5Hp2g2gwhWE6DrHbCL1b/lCA=;mYdepT9lgaHITUijGikfaA=="
+secured: "yjsQEZqP9LziwBEOHoIlt2c2ym3dn2XwOwDqrvR5RVdwVOomOqG+EP3SxDlwXDwF/T0a6DmB9z/ynz6NddUGf5Uw3T6CgirFNDjo9CSe9U3xmlU9fG0/JWsDQ9rVVvTj9owbZZpNz2nddO8hhU5rX5VGjMdag7N11/xqFL/SeZorFK+FX1OAFMZr0//wqYd0DLdAJEMHZRCtPyNTp9CYWebDx8iYxrmaP4bHUwymcZaBWwEB6jj9LYZVmYDdYlRxEvvTaTuzD5vu+NhHlaLY6QIU5L44kyGL4Int+M+O7XcuHnkqG2/W/xsMA2MJFF00mSC3PeM9tp3lLBuEwVmj4d8hvL0YGaRpFlre5bbP4i4OowNLkwpobU+BBA91AOfz2ppD6DC/A79aQ8cD/o9Jk0rpSTSDs1MacOTbVibRF2e0rmAMWvz3kYZ/0k/9A0ZZ6XZcWqkX9246sfvik4KP+dJu1yHXfw9KOJX0b6jO3jkpHgtOkMunmpR8G9P98pZmeLqNzQ+hRrragDRHRbSUew==;+wDN5QHRDkDG8dcHQUCjvg=="
 ---
 
