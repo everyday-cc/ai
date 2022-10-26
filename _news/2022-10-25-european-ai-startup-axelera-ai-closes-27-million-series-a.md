@@ -2,11 +2,11 @@
 category: news
 title: "European AI Startup Axelera AI Closes $27 Million Series A"
 excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-publishedDateTime: 2022-10-25T15:26:00Z
-originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
-webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
+publishedDateTime: 2022-10-25T14:50:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-european-ai-startup-axelera-ai-closes-27-million-/2022/10/25/9699253.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-european-ai-startup-axelera-ai-closes-27-million-/2022/10/25/9699253.htm"
 type: article
-quality: 39
+quality: 17
 heat: -1
 published: false
 
@@ -15,14 +15,7 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI Hardware
   - AI
-
-images:
-  - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
-    width: 476
-    height: 210
-    isCached: true
 
 related:
   - title: "Generative AI Startups Attract Business Customers, Investor Funding"
@@ -42,6 +35,6 @@ related:
         height: 640
         isCached: true
 
-secured: "c0rn9CsGDgh/60Nl34bOOme80i7+hZtJPckfofmxpdPIMHQC1W6UcKthxR8yAFWnTcAcghJQN8RmKe+h4KaXP7UvnWudfeNDi40kdhjshw7bLuTtL4cRCoZ5oChD6HzdJ02Na2LD8PGj2h2e0p4HnHZn0FP8wFB00E9/TWpKEjuC6XtMh7+m97OEuij05/2866Gm/69R/i77npl/ldVBCxSfEbKvKhKSzZJkLB3ZkItaPnZAWBirZfi0qzr2QU3IsS9F+QbpUj6VE4y0DONsW+BHAm3921FaLVsWX8sTEWQ8ezidqxrcwBb796YNLMdoq8mqYm/yjHE7h14vMteGrRcCTjK5tMP+akapptHysciXQrmtspHbNb8JkprBQTw8+4wi2+sCktSPI96a81jDr8Vb+wuWLa34hCl8KxTRDWlUqAY2LChIpDkZwYaUlOsdIpMUojKILAlSZcbLL54d2h6H+I84moe4qfBJAc5Zfnc/yB0nrLS8cfjfmaaQkKzAnY13TmoR4bI5OCP88Q/xvg==;EFCeQQ1rP12jyK1ZqrkmUw=="
+secured: "xlmQ1vo9NlX9ZsOr3DR8hCRAFUrH6VmmHOk8PHIOF/UhDdxw/aM/7qje+/yJ1udbJrWMLgJtJ0rRSGib8j2mwFp1pJlYLD/K65wCNTxU0b8M44HXrC9NhK3vSJ7bBNyTMNKF4kDArKhJuBEjOhBt5NNB2pXZh7sucjFBnG01tW+WS0u7cXZM4zf8IjjL/NvJsasNhWFoF+96r5INDRYpScFFeUGAlumeBRvqD5kbvKmhfB2j3yeycId06OZ2BqmSyTAwBOjCakwHBKd4WML6+nUMxSWImnPHzMe2WyFrWRbLfIeRh+RCjgQbPdxqyXpgeGK802mx0rDZ98Cx29WpQBu7ytit9nfvf7GVEsyQk3iSsnjlT+b/gc6UqN86nTsxVtC10G0uD96XiCm4B/BVhZ0yp4hiPrgn343JCZmxhL0KRHBLPE9Rm4TOhMWRj4i6UWJJ+r4q65LD0/2kFHpt2F3Dr1TpwFCND1crddYmqFw/Wd4A2U1kN+Da8M7j2siqAThkcAQ85x2jebUTsyspFg==;vAt65ng+SmigIYjohnDQNw=="
 ---
 

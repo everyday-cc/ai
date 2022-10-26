@@ -49,20 +49,6 @@ related:
         width: 750
         height: 500
         isCached: true
-  - title: "Elon Musk Said Tesla Full-Self-Driving Beta Will Be Open This Year"
-    excerpt: "Tesla has rolled the FSD to an ever-growing number of Tesla drivers, but it appears the OEM is nearing the point where it's comfortable allowing"
-    publishedDateTime: 2022-10-21T07:52:00Z
-    webUrl: "https://menafn.com/1105058107/Elon-Musk-Said-Tesla-Full-Self-Driving-Beta-Will-Be-Open-This-Year"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/updates/pr/2022-10/21/KP_0f77fimage_story.jpg"
-        width: 720
-        height: 405
-        isCached: true
   - title: "Elon Musk: Tesla Full-Self Driving \"won't have regulatory approval\" in 2022"
     excerpt: "Comment Now! Tesla \"won't have regulatory approval\" to release an autonomous driving system in 2022, according to recent statements by CEO Elon"
     publishedDateTime: 2022-10-21T15:45:00Z
@@ -76,20 +62,6 @@ related:
       - url: "https://images.hgmsites.net/hug/2022-tesla-model-s_100850003_h.jpg"
         width: 1920
         height: 1440
-        isCached: true
-  - title: "Tesla cars will not be approved as fully self driving this year: Elon Musk"
-    excerpt: "Tesla says the cars still need to be driven with human oversight. A highly autonomous vehicle would require regulatory approval in California, for example. Elon Musk also said Tesla hopes to provide an update to FSD in 2023 to show regulators that the technology is much safer than the average human driver."
-    publishedDateTime: 2022-10-21T07:49:00Z
-    webUrl: "https://www.timesnownews.com/auto/car-news/tesla-cars-will-not-be-approved-as-fully-self-driving-this-year-elon-musk-article-95004524"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 52
-    images:
-      - url: "https://static.tnn.in/thumb/msid-95004524,imgsize-100,width-1280,height-720,resizemode-75/95004524.jpg"
-        width: 1280
-        height: 720
         isCached: true
 
 secured: "IIfs1Gf6DDRQl4xgc4l0KzS4ZXx3BzxCYyZUcbwjCSMYi/FxtxQmWtrGTQHSdDpfMmTOV/hocV3VYOtDxlf7JQ92aOVvjEqp5P2tZQf+i0aMRPfjqxMkpVy5WhfQhi03SGFKbaB46X4Pz19decuHJZpti0GK1uL7IPVJy9vodfAnntzhqL/1doB1RDbx4XKJiRuKR59H+T4CGN3FjFCh/31221CWr6RL6rTW4QbojsYz1cdyG54O4CNohEyomVZvxqOo5EyJlhBqRzYImEe8DfWv0q3I+ea9Zg4pS1fR4W2UD3GHq9ZH6sljq6aRjFG7KoPaK1wb9qEHo5kluqgvE2EQ+4HUAxDltcsLPgEcrCApQQERxO2MU7tOb8LHl9wHEqVnCL8mVzix0d6XrDXDu3An9ue7mjMSf1QUupZ57vMx80Nz3HLkIfJ3mkIR02dYXB6nZfcTiw8TXWfm9e6D1743W2yK/EvoLyu21vnvtaonvWgHr5CDHiomPtWl1xeBIApjk3i3Ni1rG7vvY5V1YA==;bn/D71fC6B0NTHtgHslcsQ=="

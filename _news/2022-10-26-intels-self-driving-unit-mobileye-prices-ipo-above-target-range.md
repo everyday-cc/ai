@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range"
+    excerpt: "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T00:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel Prices Widely Anticipated IPO for Self-Driving Car Unit Mobileye"
     excerpt: "The unit raised $861 million by selling 41 million shares, valuing it at roughly $17 billion"
     publishedDateTime: 2022-10-25T21:29:00Z
@@ -54,6 +70,6 @@ related:
         height: 500
         isCached: true
 
-secured: "7bBBWKt0IeoSnM9orTxp9IJqkAGx2z8X6+6oEqJ02USix5a/DZ+ucHP9JH+wOW/JIxBbbeBZyIPKP3NwMl5NMIkwzzkNer8T06Jf7j1fUDqoKpvuBERYJBBkIFfwAtkcdHSclscoK5bzwVUjnOMy2nMXJhAZcMIju98XQQUxjaZujijNmndgq3Cdu98WIHWfiE7YDwcY3bsDMwIUaw3OIULZEPkRZu06HeKTOvgu3KbvwTxhpvIDbFwht61ZzIs9G5FKPlYLIVOFeq2UMKBCRwixzkN4dfppFn3DpIRT9yJ2G9RG4V6mSa5iFIBO0FhBBQvFalUcN+TuF9QWcGPrLfSyB8+sP5ZTrdcogrfhrpg=;gxPk1eH1ju+WOX48i5NEqQ=="
+secured: "eQDsc/pnGuRjh7t7xrv0m7t+xGfat4g9YrDbR9FZNRdtRHu9XUGyk3B0kXLDeYjwAPXzXj6d4gJRokYCSXrpGyR+N3fggrnR9gQT2QdIgByqelcXoozwpCht6nmCBV+jnidQ7yU5IkGIMth0iAAAe6kgkExJ8LC7ZZPfVD8UNVYwv0+6n2jPzAtKusIep4kV/Lo79DTZtieYtF56p8igBYPr9vK5ZMvu4nAb3+ybi9Yb4aE/xKPFnCn6ZchK1gaOEtsz0eepegeDBYRPCBNDg+EVG63QECuja8XWp/rdhCqkc2DRcH1iLWz41n0TEkDfy3/+n8HHBQFsvDhfkTr4Vnn1bZlYPuow/AV71ojrsSAPflbO8URTkuSV9eMdTydum6WtEGWAigG4CmGSLSqOfpl23XS2w2BOwRAQZih/A+GjJBqKEMAoNnSNtjDItUz3ubV7mFx+vh8OcskPirWDvY4ULLLMUHFfAKuwHfVI0ZrYm8DHsYueMouR2ZMXTWVUBBWfsz2MxGzruc20dITXnQ==;PprKi4Ea9Y5czL9xSO+Wvw=="
 ---
 

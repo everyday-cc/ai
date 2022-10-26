@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/healthcare-natural-langu
 webUrl: "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21"
 type: article
 quality: 68
-heat: 228
+heat: 218
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Healthcare Market CAGR of 50.78% 2022 Newest Industry Data, Future Trends and Forecast 2030"
-    excerpt: "G lobal market is projected to display a robust growth represented by a CAGR of 50.78% during 2019 2024. The Artificial Intelligence in Healthcare Market report’s main goal is to impart industry knowledge and assist our clients in achieving organic growth in their specialized industries."
-    publishedDateTime: 2022-10-21T07:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-cagr-of-5078-2022-newest-industry-data-future-trends-and-forecast-2030-2022-10-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -7,7 +7,7 @@ originalUrl: "https://www.androidauthority.com/newsletters/daily-authority-octob
 webUrl: "https://www.androidauthority.com/newsletters/daily-authority-october-21-2022-3222595/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1920
     height: 1080
     isCached: true
-
-related:
-  - title: "Daily Authority: 📱 Our Pixel 7 review is here"
-    excerpt: "Today's edition of the Daily Authority covers our Pixel 7 review, Liz Truss and lettuce, and much more. Hit the link for all the details."
-    publishedDateTime: 2022-10-21T09:00:00Z
-    webUrl: "https://www.androidauthority.com/daily-authority-october-21-2022-3222595/"
-    type: article
-    provider:
-      name: Android Authority
-      domain: androidauthority.com
-    quality: 69
-    images:
-      - url: "https://www.androidauthority.com/wp-content/uploads/2022/10/Google-Pixel-7-white-back-angled.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
 
 secured: "Bb5A3c5RYdO2YbkkcW7NbMNukogT7sHj+30Ll45G8l7h7zYC7ohoMHyD5z7pAu13gGVA4tKeG/Ah8LprQlj0tpvBnSbmLJTdW94OkiK1R0o/tUetjQMOBpseRKsOZCip5o+/SJKNFEwJxJfS+bB8Q0bdTnr9xM3r+Ui/fvyI7Ac5tEE0lvHj5IAvqcz6mq/H7JN8bzkgOebHaZLNNLv/iOScfrNh/dP4CIgSIaA+B6g/c6tnG9CzqwRVAkkJmT/IqKlTZxRgPWdCyHC32HlpJMLHVOxn7J1Tcoa8+lRnL2dNmvbONDDw3HxfxYd6U8pLZcgZY16piDPaoiHKZzxshVUkf3JlUTcpbxhygmfclJAlxwt/pD+cJPxYvRsckrTjIk32/Rkhq1dfAF/RGaKQ08tUDUpgYTz7Jh3UJ6eqkofTEmqKs007QDETCbpo2X9GD25zp0TgvqwcC9QsjqXIhRBicnd4rXJiRAcWGT6MQFRb2+QtSz/vjMN3BGC6WMQD+seEZb4yuSo5W9B73Z4tdA==;wXC4vTrhUwKeMa/O6zSIUQ=="
 ---

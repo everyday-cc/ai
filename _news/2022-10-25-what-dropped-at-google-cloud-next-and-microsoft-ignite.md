@@ -9,7 +9,7 @@ ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-googl
 cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Microsoft’s stock slides as Azure cloud growth engine stalls"
+    excerpt: "Azure’s revenue growth rate was the slowest Microsoft has ... security measures, cloud deployment, AI-based tools and more,” McKenna said. “As we navigate the tricky waters of the economy right now, I anticipate Microsoft will continue to grow ..."
+    publishedDateTime: 2022-10-26T00:20:00Z
+    webUrl: "https://siliconangle.com/2022/10/25/microsofts-stock-slides-azure-cloud-growth-engine-stalls/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/nadella.png"
+        width: 800
+        height: 459
+        isCached: true
   - title: "Microsoft Corporation (MSFT) Q1 2023 Earnings Call Transcript"
     excerpt: "Q1 2023 Earnings Conference Call October 25, 2022 05:30 PM ET Company Participants Brett Iversen - Vice President, Investor Relations"
     publishedDateTime: 2022-10-25T23:05:00Z

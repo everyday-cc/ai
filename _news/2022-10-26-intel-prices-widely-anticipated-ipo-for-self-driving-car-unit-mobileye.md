@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/intel-prices-widely-anticipated-ipo-f
 webUrl: "https://www.wsj.com/articles/intel-prices-widely-anticipated-ipo-for-self-driving-car-unit-mobileye-11666736996"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: -1
+published: false
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range"
+    excerpt: "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T00:25:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel’s self-driving unit Mobileye prices IPO above target range"
     excerpt: "Intel’s Mobileye priced its initial public offering on Tuesday above its target range, valuing the autonomous driving company at almost $17bn in a rare positive development for the US listings market."
     publishedDateTime: 2022-10-25T23:20:00Z
@@ -58,6 +74,6 @@ related:
         height: 500
         isCached: true
 
-secured: "PoqFHkTFuU7W4Mc8MOm+lfswSQePsFM2iV03a6yPN3NtScaN7FvJdUtzqSXFNmSrpifgDWZcK0qZOOulqW8ugjUnqXfjWeSxQiTXo4cD2pa/mu4EBTeAdGLYQoEY8iRbvt7L6PcUPQqh4UYLtbXZ4ECWpm7jZO48K0aOPUEvDINbLfUD9hK5VsfjyOnhodIqoxfXGn8IJIqRUgj3fyz5ckjRJZtTY+3Q6OGmC4TaJ/qoIlfixbH6B0XYtrFJb4TTxm4OV7nCXRKZmErDr8idAS3w9UWr5KItiEAGK7FwJlzihaiED4UKqAnb29z3BbZ21szhPkAjJnp/xh9EbRYxWrHjyJ4zKGMcMrSxLOwPI4Q=;sHmaFJI5UfcccDY7UEe01g=="
+secured: "5w2n1V7cLvI76gCBVqze/NJWqwlP9mK4KnhnB0uyP5slA9Qc6eQVxHVuN+ASbAf/g/2GOP6CcAWD77FVkCClA3P6qic7kiFq4znvJZ8QRzxfdcawKU7sUUGOkdzWLwiZQegRlPhZR2fdWgLbpQONHeNVDaZLnavJNvV1Ko+sVyEQ5MNjFQb/0Q4Mhz2hune3mdMEiY2LyNKvnRTweCIN+aNJ1q8HJ+LuafV0wOoE/txIUnRLPZgwyEqSwS2JvgBWv1WIHKsxDlFWMix+Ka0ha8/GR01obI6sZvf0VmYJOFcBuLmdvaqTu13ebe4bPn4/wowYwlt5GFgDyXgdFAVaF+GDOzB1nhoH+e0ZZRN2magJMzfK7J31/rpOZHU2uzlZtW+aXgLRxdcsbdtdzqk8GVk1RwAGKLiIS/m7Yuhwk0x8mKmOxzhLWJ1tfeYyDim+2yZGRVVnW8ptLokVxavQEEtfz6fR/S6Ng8uIrbCWQ02PuKFe0BiW+0sxHHD9Lg9k0ndYW1kpAdUtVS1z0Rt8GA==;0QkGZicBm3EQfg4LkBF/uQ=="
 ---
 
