@@ -5,8 +5,10 @@ excerpt: "Newly developed artificial intelligence (AI) model that uses daily ste
 publishedDateTime: 2022-10-26T12:51:00Z
 originalUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
 webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+ampWebUrl: "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
 type: article
-quality: 24
+quality: 64
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+images:
+  - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
+    width: 300
+    height: 250
+    isCached: true
 
 related:
   - title: "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy"
@@ -59,6 +67,6 @@ related:
         height: 480
         isCached: true
 
-secured: "RIjccbTAMi4azWHAdirH3YwZKH0Yyp2s3JDj53qZTvWoO+XIrOg709YAQ4QK5v9rw8t4YaGrrxk4RaI5m8A0eY4Z4eETxVHu5R/yzDvU48dnD5FXKCdW+pYqHEkRAP4e+kufn8AptuWEpsx80C2eqFlM3haVNa2xgigmeVeeJizkdJCIJcZyzJ9UebDYMoxn5v7evLFbJtSW4U3/rT2XEcN888OXfgEA+7OP0tUocQnNs5fU0XDrD53AnHcnCRyjzWmXqrQDjwl/DPeWloMuYyWBFLWiVM6gAMcEprrJnAMGU1uRujpwSrkcAOo65P1JV9gtnVso91y3XJAa+70gQEzVrRsxJtyvgRgyW072Whw=;dBULw+ooF1AdBDMFTl+LyQ=="
+secured: "Z3VotYuvEZg+VeZGka+K69IwKDac4qk397Tr2zQ7AT57qruiRS7iDV4c8lCcNLxu2c482zkPr/Ow/6jUpJBFf26kwRzBJgkKvbsFNwOerhZ4CAMyKDPr0Y14Rl8FjAKaTAMzvz39u9SB2VnhQT8HkM82gkTX5Zn9c8EOrxieQvESgVydE8NV9T6y9YqCEOkcTJM82CHGbkrzXF0bV02LT2p787L5V4rrUiYndyHhcvMwF9iBiL1ZxaaICynu3gavV0zgQLTErT5D8faTEnwAMu58tl/Lj4TeWFXVP0gWsiG2HIbada/IypDMl6t2ZBOT42nIPwIQw4Kj2UADtA/AqemrNjnEOgvZYeV9we8wEVY=;eXGV+DpnaeIh9ok4CzKpdQ=="
 ---
 

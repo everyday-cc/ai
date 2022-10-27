@@ -1,26 +1,31 @@
 ---
 category: news
-title: "Volkswagen No Longer Investing in Self-Driving Startup Argo AI"
-excerpt: "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China. Volkswagen commercial vehicles will pursue a partnership with a new,"
-publishedDateTime: 2022-10-26T20:15:00Z
-originalUrl: "https://money.usnews.com/investing/news/articles/2022-10-26/volkswagen-no-longer-investing-in-self-driving-startup-argo-ai"
-webUrl: "https://money.usnews.com/investing/news/articles/2022-10-26/volkswagen-no-longer-investing-in-self-driving-startup-argo-ai"
+title: "Volkswagen no longer investing in self-driving startup Argo AI"
+excerpt: "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China."
+publishedDateTime: 2022-10-26T19:15:00Z
+originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
+webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 67
+heat: 97
+published: true
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "A once hot startup, Pittsburgh-based Argo AI will soon be no more"
@@ -66,6 +71,6 @@ related:
         height: 246
         isCached: true
 
-secured: "WhIviKGxVhtLzXkV1o2lgLj0i+J/UMHbfS/6tiALk2lD3re9R2bPloXnpJ5bYUWWkUVljARusoZd+PFO2RFPzVfHFgx/JJUvytdqCH2ln85msrMYAJIy8OXvYV2sIMtoiqo57Skn0/yLIIohl0/lEKpDdJ3beoKRBPq9n3H2BQl+yav9HQiBmfoFS7w78cYLY2Q0dG2jyDGtHrIBdWqTTVvv34hQyVEoTa2xOsMqBXvEob9mYzGJCnfC9O1xFE+UTLCFSwfkCA/C/Ob5uSeR3evf3qQJAcEbByul1tYWmKxEztyr/BGQ6LxVrI5rMVPTyEN1qhJG8Nk/RZ0iVEao1Rk9eZa0W38Bed7S5izvWLnU1lLzzJWZ+ZiHGO5iCiZSTSWyEgxU4flKqVLDF0Hxj+ba1O1zDbCUq1aatVxdUm2pSUYP1tsiR+I5ufMz7XFAR8GxrJ3VV8JZ3NIWAzU5Ek0E836fHdO5jPg2f/Vbpe61L1wpJes5uJFqxq8mWs921eAmZ74JDduFZ0YcP0JayA==;Zqx3BB/dlKZb5N5CK/ormQ=="
+secured: "lg5ixLuYglV63krTatpLx70LjIPNbCUeoCsC3ae233FYDhJgpGp6qsANw3GpZuY5Wpjtp6vE2dRZFSHoPDz6Tt9w27z3zRVdukwVagbnSJlAYrp6g34peDw2VYC6ZvZrkmGke2sOPgMmZ/krX6jgIRQJ94UPx/VNv/37GWhnfouY6sDavhFNoIMvIfGu77EZ6B4WARobfV7lDuqCNPisbAuXrqtD337ckzAauNl4Cy7OtDhmj8QwHvpx1bppfjOly+lYNEcQdn4ja+NiUtkU5QBDTyNER18WJZKUa0XhV2YsmUCJxbpo3JUysYjAeBvHE7PT3qdLbZyA7ibv5jU3sMtjJYTwpIhcZxsBXelNJh4=;jRW02sFE190h+kIYIA6rNA=="
 ---
 

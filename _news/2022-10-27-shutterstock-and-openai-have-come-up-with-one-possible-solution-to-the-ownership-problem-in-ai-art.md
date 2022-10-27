@@ -121,6 +121,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The golden age of AI-generated art is here. It’s going to get weird"
+    excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
+    publishedDateTime: 2022-10-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
     excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."
     publishedDateTime: 2022-10-25T19:58:00Z
@@ -140,6 +154,6 @@ related:
       domain: theregister.com
     quality: 14
 
-secured: "pcaJv6Uv8iNH6drFWTMtPdn7jIjTGkvWlo+LZ1KNUH5JInb1LuH4lFvQtJ/eqd3oXys9zoYh7scQjYfSNkHWWJPN8DiG7kBgDXK1YUJFp/hyhn3OT50JRX8aTd3OApPm6Qd8vb+R+DalzucOoLljVyhe50s2gY3G2IustMZyYnNaemLlo7QxGwHYilIQADTALJzk84UBZGyea/4IAJKHmgqatDIjN9jIDKIBCz04K+liYKEqtlZJ1r8jBp/adP/gSzU+qsSm8FAsGXuHl9p9yd+Zg1m29OUtUKptFLBNQNjkcb1e7n6DgaleLT3Mq62pUQs/gda2pHC3g3FnJh4v4bCcY6ugfFxw8vXm0LMb/7o=;am5yUsmzIP4V1FokY1GKkQ=="
+secured: "v5u6xgmYfH5wTtM9ct2jE6z2agWUX7Hpg/yeO+VC19qk0kmToZqKeKz0auwKuh6/SWIha5idkU977ViHDhutxCTfZoI1kqt1Bs0oUQuTC/KIOeZRaLi6kUO/xWebf1Rxsty6uFOpcdnRypL4WqxjxztYArC/CxGYgdacbOtX6+UJKRoNx2u408ClkmM+K7go+Sc7A8R7IXi6+tnpqT3ePwYxdIcrvVJ87KqP2fjW/f2UB3lAtLOPgl2KUE0h7NRrt6o5yUCC7WiIJxSAfruThicDuPBgINmooUKqCh0ThB07i/m8YBnboVwMrTwB5ExgJiSkZ9byQ0W9DOSTwMBraJ6YQcm3t9IfP4yzb9viZUNFJL0dtqGp92ODg/LSUMi3+ZbuKcwBGBMepu7TzHXgVVvOJLntqG0KFWR4GvczIK3rmg0+okQ6Wz/WLK66pNS2W4ALCMFiZ75RODFcu1MLMfuryGepCJ/I5r1l5ON/3od/Kfs5x+0sN1A0A16K79LOwCr0YsAd5dhyiOnujNaO7w==;WE6ql/9e/WBjTS3O9lArmg=="
 ---
 

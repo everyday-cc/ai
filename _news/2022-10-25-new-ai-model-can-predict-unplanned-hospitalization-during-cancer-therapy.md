@@ -35,6 +35,22 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy"
+    excerpt: "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy."
+    publishedDateTime: 2022-10-26T12:51:00Z
+    webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 64
+    images:
+      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "AI model predicts the likelihood of unplanned hospitalization during radiation treatments for cancer"
     excerpt: "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer."
     publishedDateTime: 2022-10-24T17:11:00Z
@@ -49,15 +65,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy"
-    excerpt: "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy."
-    publishedDateTime: 2022-10-26T12:51:00Z
-    webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 24
 
 secured: "QVrcaXE/XcMCA0ikhxDDUQZSUZiCP+O4LLYfYImVf4JfNyBntnBgRKUBFF5WGvKSRD3QJ1oXWaJo/YntASyfobuUqA2H19gv50KGtSPUhD5451R4l3BJmWSs+RspYZKgFsE5jmjAiago1Cwail6kbE4L07AJlAF/8iYvm2BHj2Pehcl7LVsZnoI1UY1t3bkvS0XzyxoAUY/cBM1DODwIAHjQw60HSEG7TQoAsb7jABJlZNyMzkAGCduZP37Va7XlPIBTjPQAyDBxMzfbjLmaEatTTMQbrFgyCkNaEwKt737G1M8537eXujW/AJ9jDXw981YZB53p+SB4OTjFeBZe7XRsEejGndsx+d3rgcYQ6JFdUFdTKq8EK7HjMglhe2rNnGhZMmX4PcleMrxGMGn6H4+1Vb8pbjoEqS+gRMY/tHscM7Jd29ucAwyVS440SCbCA9VdZz0QWQnrkHqN8H/LWRCKloDfgGLpMbMy6ORgodaaxitU1hrwQdbuHt+iCb1nrt0e7pn+5esBV8h6OC/72A==;35xFYbO6bm3A4F3XdtJKsw=="
 ---

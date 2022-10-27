@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy"
+    excerpt: "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy."
+    publishedDateTime: 2022-10-26T12:51:00Z
+    webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 64
+    images:
+      - url: "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg"
+        width: 300
+        height: 250
+        isCached: true
   - title: "New AI Model Can Predict Unplanned Hospitalization During Cancer Therapy"
     excerpt: "New research shows that an AI model, which analyzes wearables data, could be used to predict the odds of an unplanned hospitalization among those undergoing cancer therapy."
     publishedDateTime: 2022-10-25T13:30:00Z
@@ -50,15 +66,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy"
-    excerpt: "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy."
-    publishedDateTime: 2022-10-26T12:51:00Z
-    webUrl: "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 24
 
 secured: "zQWv7gQe/FOZvwiaX/n+6FTd0eaJ36ltAAOEsZB3+y3HoypSTT99IHSSfBltt8VMzZVeYyC7rB6Eh1/Daivwah5BB/m8O9AXPXIVAl9TDExT7LjvXY2ebzlX8dTYYpHr8xyj7jFLcSFohuCYLv2m5qO9GW4dACc8JBt74tfK9IKNi2dCuJmO0YUiglu+cY9GoRDYBlg+lwqPKAuoYsmFiI6OMJR58tqG2p9Syx0B9hpVRzRiDQA3GYA3UmyXRCHSFxQWAvFc0m+q8/KjtPysXvWIQU582cf8LQWb5duadUyrGDK8+9OLQTWzFiVNyStd1POMkUNKkBpyQsE7hwolYpn/QvB+m+3pox9xmP186D3GwlM/d0wLJo+P6YmjvBBEl40MJAMQg67WtQ1Ppe0MEjpX04E8fF1V2XCYWlq+v4qtSdLJgM8avY7JsXVrv8h0GDeHLBENdaXy1JgiwWXm/N93k2yGE3DEe3XPWYlFdXm3q8f3p8Qev1fBhA1VLDET48pcbOLIkXIl4S3MWuMARw==;kw4ueiQ5/12dRsaarP60/Q=="
 ---

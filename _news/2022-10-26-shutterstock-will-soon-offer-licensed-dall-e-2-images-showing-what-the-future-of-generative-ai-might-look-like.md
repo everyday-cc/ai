@@ -125,6 +125,20 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The golden age of AI-generated art is here. It’s going to get weird"
+    excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
+    publishedDateTime: 2022-10-27T04:00:00Z
+    webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
     excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."
     publishedDateTime: 2022-10-25T19:58:00Z

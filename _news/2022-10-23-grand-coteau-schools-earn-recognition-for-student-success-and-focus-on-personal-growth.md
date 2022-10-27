@@ -26,17 +26,6 @@ images:
     height: 422
     isCached: true
 
-related:
-  - title: "Eads Elementary principal earns national recognition"
-    excerpt: "They will be presented at the National Blue Ribbon Schools ceremony Nov. 3. Eads was named a Blue Ribbon School this year. “I am honored to receive this national award and meet with leaders from other Blue Ribbon Schools,"
-    publishedDateTime: 2022-10-22T13:00:00Z
-    webUrl: "https://www.nwitimes.com/news/local/lake/munster/eads-elementary-principal-earns-national-recognition/article_c041259d-f1e2-56c6-8ce9-a9202316670a.html"
-    type: article
-    provider:
-      name: The Times of Northwest Indiana
-      domain: nwitimes.com
-    quality: 4
-
 secured: "SsC4/9r2Y4bXkZXXKhfYaVQY9OIiNq7D6ozh8Vdjm7Winv/XB+AAEramgPRKLyKoO0dtdsi4jivsw12aO0ZywrVNQqsqyoZOGlKTYFH9Y2wRMPWCt8A/fPMb271LIufiXwV5cOkp+b6Y/msymmY2lFTpGn6v+Z78LMVFeSSQ+0nd1GWkAGIw/EG+N1lXpNfaXKhjsTzf73U8oXxmiJxYOhoe1Ur+t1M8oiB+0HiGQEMUx2Cilve/tK1AnBgi1XhYH60q8MAa6TytISB8RVOZsEUGZLiyyLkpt6+xJkgas91X0rxXb7O3xMqnYjkzNQoIvXyCPbnaUF5uz26SHQY9kmvuZ0ntJah9drEQdGnHkDqN/d/Ze0XHSPO5O7niY1fW9Y5+ngKY2i+1u7AlNdoSBZzWrCDhbPcQryQPLy5yJJ5srj0wRxAA0YbZaoFBs5N4UHvmAKZB3lERwuHKNDZY6zlhAI8eG+pKOOYxxA+lp1+JH7RORgSzJmdCafIPX9hzxHLBmtIDwHUGQ+rMdQoAFw==;FhgZs1VL+1H9BXWo9xnpvA=="
 ---
 

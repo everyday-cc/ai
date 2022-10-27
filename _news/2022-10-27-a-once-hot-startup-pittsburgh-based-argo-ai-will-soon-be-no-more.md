@@ -24,15 +24,20 @@ images:
     isCached: true
 
 related:
-  - title: "Volkswagen No Longer Investing in Self-Driving Startup Argo AI"
-    excerpt: "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China. Volkswagen commercial vehicles will pursue a partnership with a new,"
-    publishedDateTime: 2022-10-26T20:15:00Z
-    webUrl: "https://money.usnews.com/investing/news/articles/2022-10-26/volkswagen-no-longer-investing-in-self-driving-startup-argo-ai"
+  - title: "Volkswagen no longer investing in self-driving startup Argo AI"
+    excerpt: "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China."
+    publishedDateTime: 2022-10-26T19:15:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 49
+      name: Reuters
+      domain: reuters.com
+    quality: 67
+    images:
+      - url: "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Exclusive emails show Austin officials bragging about its lack of oversight of a new self-driving delivery service from Ford and Argo AI"
     excerpt: "Austin launched a self-driving car delivery service for Walmart orders with Ford vehicles using Argo AI's self-driving car technology. An Austin city official said the city's lack of regulatory oversight helped them get the deal."
     publishedDateTime: 2022-10-24T16:12:00Z

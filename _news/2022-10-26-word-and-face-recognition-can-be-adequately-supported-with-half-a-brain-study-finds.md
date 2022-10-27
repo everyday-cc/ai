@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
 type: article
 quality: 67
-heat: 99
+heat: 97
 published: true
 
 provider:

@@ -135,6 +135,22 @@ related:
         width: 1062
         height: 597
         isCached: true
+  - title: "Tesla under US criminal investigation over self-driving claims, sources say"
+    excerpt: "Reuters learns US DoJ launched investigation last year after more than a dozen crashes, some fatal, involving Autopilot system"
+    publishedDateTime: 2022-10-26T19:34:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/26/tesla-criminal-investigation-self-driving-claims-sources"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/26/tesla-criminal-investigation-self-driving-claims-sources"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/26/tesla-criminal-investigation-self-driving-claims-sources"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 72
+    images:
+      - url: "https://i.guim.co.uk/img/media/4a829f5d8fcef2930a3c83b191c7b12ec004f72c/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=c02e04ead9a631ec54ab294749502686"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Report: Tesla under DoJ criminal probe related to self-driving claims"
     excerpt: "Tesla has some trouble on its hands, as the Department of Justice is investigating the electric automaker as part of a criminal probe."
     publishedDateTime: 2022-10-27T00:30:00Z
