@@ -145,7 +145,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 5015
+        "followers": 5016
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -495,7 +495,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 869
+        "followers": 868
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -927,7 +927,7 @@
       "twitter": {
         "username": "Prophesee_ai",
         "url": "https://twitter.com/Prophesee_ai",
-        "followers": 1826
+        "followers": 1825
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1476,7 +1476,7 @@
           "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
         }
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
@@ -1515,7 +1515,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 1134
+        "followers": 2158
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1528,7 +1528,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1577,7 +1577,7 @@
         "AI",
         "AI in Security"
       ],
-      "heat": 52,
+      "heat": 51,
       "tags": [
         "Europe",
         "Security"
@@ -1636,7 +1636,7 @@
         "AI in Finance",
         "Machine Learning"
       ],
-      "heat": 52,
+      "heat": 51,
       "tags": [
         "FinTech"
       ],

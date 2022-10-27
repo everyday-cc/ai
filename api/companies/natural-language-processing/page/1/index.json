@@ -23,7 +23,7 @@
       "twitter": {
         "username": "huggingface",
         "url": "https://twitter.com/huggingface",
-        "followers": 115482
+        "followers": 115490
       },
       "size": "11-50 employees",
       "yearFounded": 2016,
@@ -42,7 +42,7 @@
           "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
         }
       ],
-      "heat": 318,
+      "heat": 317,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
@@ -74,7 +74,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 226786
+        "followers": 226796
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -911,7 +911,7 @@
       "twitter": {
         "username": "algolia",
         "url": "https://twitter.com/algolia",
-        "followers": 24950
+        "followers": 24949
       },
       "size": "201-500 employees",
       "yearFounded": 2012,

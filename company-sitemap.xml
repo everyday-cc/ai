@@ -427,12 +427,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/sensetime/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/einstein.ai/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -440,6 +434,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/korbit.ai/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/sensetime/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>

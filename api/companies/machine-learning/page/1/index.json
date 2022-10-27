@@ -70,7 +70,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 34918
+        "followers": 34917
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -136,7 +136,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 19773
+        "followers": 19774
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -457,7 +457,7 @@
           "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 66,
+      "heat": 65,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
@@ -735,7 +735,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 869
+        "followers": 868
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -962,7 +962,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 1134
+        "followers": 2158
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -975,7 +975,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 52,
+      "heat": 51,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1030,7 +1030,7 @@
         "AI in Finance",
         "Machine Learning"
       ],
-      "heat": 52,
+      "heat": 51,
       "tags": [
         "FinTech"
       ],
