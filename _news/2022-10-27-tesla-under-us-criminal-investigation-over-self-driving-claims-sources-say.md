@@ -143,15 +143,6 @@ related:
         width: 1062
         height: 597
         isCached: true
-  - title: "Exclusive-Tesla Faces U.S. Criminal Probe Over Self-Driving Claims-Sources"
-    excerpt: "The U.S. Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes, some of them fatal, involving Tesla’s driver assistance system Autopilot, which was activated during the accidents,"
-    publishedDateTime: 2022-10-26T19:38:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-26/exclusive-tesla-faces-u-s-criminal-probe-over-self-driving-claims-sources"
-    type: article
-    provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
   - title: "Report: Tesla under DoJ criminal probe related to self-driving claims"
     excerpt: "Tesla has some trouble on its hands, as the Department of Justice is investigating the electric automaker as part of a criminal probe."
     publishedDateTime: 2022-10-27T00:30:00Z
@@ -165,6 +156,34 @@ related:
       - url: "https://static.tweaktown.com/news/8/9/89151_03_report-tesla-under-doj-criminal-probe-related-to-self-driving-claims.jpg"
         width: 620
         height: 413
+        isCached: true
+  - title: "Tesla faces US criminal probe over self-driving claims: Report"
+    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
+    publishedDateTime: 2022-10-27T07:43:00Z
+    webUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Exclusive-Tesla faces US criminal probe over self-driving claims-sources"
+    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said.The U.S. Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
+    publishedDateTime: 2022-10-27T07:43:00Z
+    webUrl: "https://www.channelnewsasia.com/business/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-3027406"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 53
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
+        width: 1200
+        height: 676
         isCached: true
   - title: "Justice Department Opens Criminal Probe Into Tesla’s Self-Driving Claims: Report"
     excerpt: "Tesla and its executives could be subject to criminal charges over alleged misrepresentations of Autopilot's capabilities."
@@ -195,6 +214,6 @@ related:
         height: 804
         isCached: true
 
-secured: "36gpoIZMkdHyTrrOIM+R8YCMfraMeRVOsBWeWrTom1rQxUsuAyZoU7x/lq7FeMsrNqzRlUAGy2Uc7qsBOZIaNLul8tzDzEx/Qf0PKkv1wFxEcvJGgxBqDzFtPlGaA4YVleDzGpTePzFa4gV5rkI8nZyDhoPwmDvYR7CH9OPvjdKFqvTe8dOkbh7Hi3UAjfGbWtQV6iThtQqlSta2IJEbZQ08S/5Pj3+TnxJLlYghFvwJ3vMK0mGQ3ALzgv1WGT59BT7bapDZLbj8xxA70AGKMfNU5yDkF3Np29D6UXpkDr0V95kMihTefnfqWMpmu2eGDLa+JyevxTfQWoXF4fWmBRIOrsivK9ANYM95Pky0OD0=;PUusTcbBTkCqPlm2+X588w=="
+secured: "19vEdCu7g5qMEVACLLJSejPtx2KPKHbiSZBod+fkyxUy7ASiIDME174iace9HNADWc2GzvsIDXkOVWgLKFBT4LW8SUyDYFEMFSJt3W8+mI2Oj0NFUGhu7Cgb2jSy3TgPA2pw/8ftxXVGumCDRyvjANZXt08zTyYDvCQsiB5Vkg9329IMRzLcoEDnnY2KZiNM6LpfL8u3YOyfxZfyBXA7rKoKw3jd/Zwkkmh7bAJnms5W0GaMRzDjCmu67hgxWpHB0iD6xk6obJBro0uF9t5tZi5GxyJ776j0u2bKwN/yxs21B9Nt7RwrptS2vsLf5lpaKfr9dH7VOyaBoNO+cSsdHvq5YSRIFoaBrijd9/8ylkZLg4aW6yQ382MJYPs/YYpFc0N0GLZ1Ru72ObiYFFLxb6TrevevY8KtWs2ojJSJBP20aEmlyMgZuhWnIorzbTbiV08eGV9lcxls7hld9HJVOuSwpJBBJkGrUsu+LujQwawn8ts3wYoIVAoIg2EzgjEYKqfPzTHJ8U3ESTsKo/mAPg==;WQh4/V4elyWSNJUP8zCQ7A=="
 ---
 

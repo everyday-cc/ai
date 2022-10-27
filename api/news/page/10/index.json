@@ -2,6 +2,57 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-16-nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university.md",
+      "title": "Nvidia’s founding couple donates $50M for AI computing at alma mater Oregon State University",
+      "excerpt": "Huang, CEO of Nvidia, and Lori Huang donated $50 million to the school to build a new innovation complex on campus. The university has also raised a total of $100 million in gifts to launch what will ultimately be a $200 million research and education center with one of the nation’s most powerful supercomputers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
+      "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/osu-2.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 862,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
+      "publishedDateTime": "2022-10-15T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
       "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
       "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
@@ -1196,58 +1247,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029.md",
-      "title": "Machine Learning in Communication Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029",
-      "excerpt": "Machine Learning in Communication Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-in-communication-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T21:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

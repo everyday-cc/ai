@@ -77,6 +77,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Ford takes big charge as autonomous startup Argo AI shuts down, earnings head for low end of guidance"
+    excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
+    publishedDateTime: 2022-10-26T21:10:00Z
+    webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 74
+    images:
+      - url: "https://images.mktw.net/im-652278/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Ford posts loss on decision to wind down Argo AI self-driving unit"
     excerpt: "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business."
     publishedDateTime: 2022-10-26T19:47:00Z

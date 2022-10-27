@@ -1,27 +1,27 @@
 ---
 category: news
-title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
-excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
-publishedDateTime: 2022-10-26T23:56:00Z
-originalUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
-webUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
+title: "Tesla faces US criminal probe over self-driving claims: Report"
+excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
+publishedDateTime: 2022-10-27T07:43:00Z
+originalUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
+webUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
 type: article
-quality: 39
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: The Daily Beast
-  domain: thedailybeast.com
+  name: Channel NewsAsia Singapore
+  domain: channelnewsasia.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_804,w_1431,x_790,y_758/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666816783/GettyImages-490597690_pg31o9"
-    width: 1431
-    height: 804
+  - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
+    width: 1200
+    height: 676
     isCached: true
 
 related:
@@ -167,20 +167,6 @@ related:
         width: 620
         height: 413
         isCached: true
-  - title: "Tesla faces US criminal probe over self-driving claims: Report"
-    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
-    publishedDateTime: 2022-10-27T07:43:00Z
-    webUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Exclusive-Tesla faces US criminal probe over self-driving claims-sources"
     excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said.The U.S. Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
     publishedDateTime: 2022-10-27T07:43:00Z
@@ -209,7 +195,21 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
+    excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
+    publishedDateTime: 2022-10-26T23:56:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_804,w_1431,x_790,y_758/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666816783/GettyImages-490597690_pg31o9"
+        width: 1431
+        height: 804
+        isCached: true
 
-secured: "sM02DBfZY6FRO6/AAPIksGd7gwkHJuepDa/eR9CwYUynlZ46YW7yb2uj5/0GpYgcLem2VzY6eXSvpL/EBvPdwA7W1UreIJOhge91NPwvX5lASig99mykEc7hbYeVNNu3xe8lzR4gFk60cvLPpygIp/Cytn1ngDmxH2n28S10gjrn7VVT+1VDQDjJLCe0G+AnFm4zNUxs49BfWL1r/oJaZmaKj6MHj6RShcqmqI7Tyr9ot5XUNWyGdCCaX+w8hdePtyt64gbTlNlEEK1MhQcOIcLXZYNaBQNZ3iLkdpXxmDiJqMbEi5GsmlqjKTP/aKIbmjZBrmDtqE1ItB7OU7/eg2AFzlzD62LHdykeHzWp7Z4=;OZwr2gti5VEmzGRpE4Ur8w=="
+secured: "BChBN8RmH0jPqissT4OA7+NyposH2CNLp6sjKyE5HrMnQy2SHopDX10AN4md4FEjprS56uHX3NAciZ40zzuzhdWoeoLPDkz0LOy3w5p6v6E9mAHfZIE9n5gISkefCMomPKaNA06+v5QUcxqy39KM9kndv10l+uv15sVX4KWI6AeJMdUV/ZOL4Lfqe/2RS4aDcqyVuZvsEyNj1qYzVZltSyy59mdP3f0aPfy+xNXI4Mh+R6xUKCITviFF8cbZtewX6/dJKrDpiBRLl2LN558B52zPreZxILASOXfhgSfmckWJuflPeFnOkyd1/fyPKUlWwwilQlW+tigcbc2LfqG15ppRNYlAtn0IU2mF33jGnWU=;EerLz26bDIhVl3pMaKxCrw=="
 ---
 

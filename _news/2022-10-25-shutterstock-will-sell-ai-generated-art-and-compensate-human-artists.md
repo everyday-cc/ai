@@ -129,7 +129,7 @@ related:
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
         width: 619

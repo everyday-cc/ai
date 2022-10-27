@@ -1,28 +1,33 @@
 ---
 category: news
-title: "Ford and VW backed Argo AI autonomous vehicle project is shutting down"
-excerpt: "Ford and VW will reportedly offer jobs to some of Argo AI's employees and absorb the company's parts. Autonomous vehicle startup, Argo AI, has announced that it will be shutting down only six years after being founded in 2016."
-publishedDateTime: 2022-10-26T20:55:00Z
-originalUrl: "https://www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw"
-webUrl: "https://www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw"
-ampWebUrl: "https://www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw?amphtml=1"
-cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw?amphtml=1"
+title: "Ford takes big charge as autonomous startup Argo AI shuts down, earnings head for low end of guidance"
+excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
+publishedDateTime: 2022-10-26T21:10:00Z
+originalUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
+webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
+ampWebUrl: "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
+cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
 type: article
-quality: 57
+quality: 74
 heat: -1
 published: false
 
 provider:
-  name: Shacknews
-  domain: shacknews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI Hardware
   - AI
 
 images:
-  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/10/26/argo-ai-shut-down-ford-vw_feature.jpg"
-    width: 1783
-    height: 1080
+  - url: "https://images.mktw.net/im-652278/social"
+    width: 1280
+    height: 640
     isCached: true
 
 related:
@@ -69,22 +74,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 75
-    images:
-      - url: "https://images.mktw.net/im-652278/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Ford takes big charge as autonomous startup Argo AI shuts down, earnings head for low end of guidance"
-    excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
-    publishedDateTime: 2022-10-26T21:10:00Z
-    webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 74
     images:
       - url: "https://images.mktw.net/im-652278/social"
         width: 1280
@@ -147,6 +136,22 @@ related:
       - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-05/ccaf7950-bcb0-11eb-87d7-20679f8ac636"
         width: 1062
         height: 597
+        isCached: true
+  - title: "Ford and VW backed Argo AI autonomous vehicle project is shutting down"
+    excerpt: "Ford and VW will reportedly offer jobs to some of Argo AI's employees and absorb the company's parts. Autonomous vehicle startup, Argo AI, has announced that it will be shutting down only six years after being founded in 2016."
+    publishedDateTime: 2022-10-26T20:55:00Z
+    webUrl: "https://www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw"
+    ampWebUrl: "https://www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/132848/argo-ai-shut-down-ford-vw?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 57
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/10/26/argo-ai-shut-down-ford-vw_feature.jpg"
+        width: 1783
+        height: 1080
         isCached: true
   - title: "Ford disbands Pittsburgh-based Argo AI autonomous vehicle unit, posts loss"
     excerpt: "Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it jointly owns with Volkswagen."
@@ -257,6 +262,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "ZKlAJ/Cb+glEd5D+/2o0xtWNoG+FuMXF4Iez/GwByAa6jBXVyBw2ev8J1L70ivsgGqLMGHKaf7mmL7XC3lpMmCxoc2NMrkKJreOEHz4GWTDRTlNnf6UUFQSsYi9oiB47nN/A5tP4lgpf9jGbzRC1VJe7k8PtEQ6iyJ9XzjaIVltVnUaVlsbv457Cy39cCv75pJxv7QPV0m+vG5YHeL+RV1aUUGgNQ/fiT/6jHgfKOb98vyE6ymfmxUCF+ESzQxDGq10hk2nG+7VVO8d051MH19GFc+T6sYMwQ0tf67FUDKxKwyx0evc0wUcM/CGb3kX6hGoGOexAJQsyVEoqFajWf9jNvfKx1rI71Wk4PKBcLWw=;FHAWmBIHyKvbdWdjteUcZQ=="
+secured: "3gkYDl/2M9RC8C37yQNzYC18zHGvJHPOdboRMCD69Hj3r4PlwPg/uR6z4Nw154bOk4fite7Gr38Z8e1c+qUv4dVFwxJZ+olsc3ctqu320/ZF4aBDpkmmwl2Jo8qa0SHfM4U/XeYSfmkO5wX0Qz+YBQ0IEvQ7d4EauKKAy8u5mVKjFSz0FUBn0IWYt4Vj9gyiWZVQkbSdF2R1EYGsJZJdvtXeAH4M6NTDsCcZu5cgPA5o4T5imYqj/uXOQZEv1ZRwu0HQ9uja9anVV9SxJXzoTe5f1+ezwFy2IQIMqjsQSfUx5VxNrRetTKPwj0xnmN0bHXtsLG5XoVyo6aZpRWJtjfoku/SYvpn5DxDPcGB2ZzE=;QB3pXo8Hv9FqHr4hMkg+rg=="
 ---
 

@@ -153,15 +153,34 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Exclusive-Tesla Faces U.S. Criminal Probe Over Self-Driving Claims-Sources"
-    excerpt: "The U.S. Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes, some of them fatal, involving Tesla’s driver assistance system Autopilot, which was activated during the accidents,"
-    publishedDateTime: 2022-10-26T19:38:00Z
-    webUrl: "https://www.usnews.com/news/top-news/articles/2022-10-26/exclusive-tesla-faces-u-s-criminal-probe-over-self-driving-claims-sources"
+  - title: "Tesla faces US criminal probe over self-driving claims: Report"
+    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
+    publishedDateTime: 2022-10-27T07:43:00Z
+    webUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
     type: article
     provider:
-      name: U.S. News & World Report
-      domain: usnews.com
-    quality: 62
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 54
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Exclusive-Tesla faces US criminal probe over self-driving claims-sources"
+    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said.The U.S. Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
+    publishedDateTime: 2022-10-27T07:43:00Z
+    webUrl: "https://www.channelnewsasia.com/business/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-3027406"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 53
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Justice Department Opens Criminal Probe Into Tesla’s Self-Driving Claims: Report"
     excerpt: "Tesla and its executives could be subject to criminal charges over alleged misrepresentations of Autopilot's capabilities."
     publishedDateTime: 2022-10-27T01:37:00Z
