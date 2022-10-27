@@ -1,15 +1,15 @@
 ---
 category: news
 title: "ClubsNSW suggests use of facial recognition could go beyond identifying problem gamblers"
-excerpt: "Exclusive: Lobby group links technology to identification of people barred from venues for disorderly behaviour People kicked out of New South Wales pubs for being too drunk could be tracked via facial recognition technology if new laws introduced to ..."
-publishedDateTime: 2022-10-27T15:01:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
-webUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
+excerpt: "Exclusive: Lobby group links technology to identification of people barred from venues for disorderly behaviour"
+publishedDateTime: 2022-10-27T14:02:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers?amp;amp;amp"
+webUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers?amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
 type: article
-quality: 52
-heat: 52
+quality: 50
+heat: 50
 published: false
 
 provider:
@@ -23,7 +23,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/3555603bb8a4227e3f98ba7d7de9865b744cb1af/0_132_2572_1543/master/2572.jpg?width=620&quality=85&auto=format&fit=max&s=dc90cfa9aec3a4072c7a6cc52094972b"
@@ -31,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "TahqJvJh7M1zAy6ex68wAsbfzdRBd4JzNicy1sOofH8iH4R9rLPc5/gBErlUmdhTXe9+WtLpOQBxtKLRLbw+tHINcktbLWxQSdPu+bY5XmDdtqZ253EiKA2F0aBwawkcwQdTDpNC6l0i1gChGyTwmwTt/i8cfncca8goJraszFPyPc+EJn50MOpcb0mp3caQAhUChbZ9ig7BKqU1FnroQcF7G40H2m0wfS4tAqU44+tuCc39xaxnuFbAYP4nu7is4LZgkEhincow7OZPtA/x5jcCKdkMfOEhp9GJ/4RTzCvKex+2ARuMswnAs5gtCVPOUZ77zIxhl5F/YGsJZAsSRUCoHMVkGjdlH6Kl2o39x94=;3aItDe6V2G4PWyJCLTuIdA=="
+secured: "mFU3wSCICRSFH7FeZ+U2oJ1No/qJJGNHu8+iSy4TF7E46j068CEBQzW5B1BNetZNRztx1rOZZ3HWGpocnk9T9O0/2rro+8c889KjTxCQ8hx+QNj0MVdSS8+DODcR9ezIjh+IBY7ukeV85Is5x2y4Rb054a8kDepN6vpANgGbHfOd3lBLj8xk+4L50PfYOKMg30oWf7nhbH4uNk8bJZ/QL2oVtACSZm7zQjxENiXRMfq3q5EpsDQzq+0Gp1suK0y9SiwvUbAIjsuxC6U/7kk32Yum1PKxhBLiPQ5W0Oyim3KC+uM2BnV1jGcuv3MvYi+rW7cmZC8RZb6HH7jn2cFoKtqEv+Q3lxRakJk14EiPfYE=;/lRSSluF9k9X7mOEYMVqQw=="
 ---
 

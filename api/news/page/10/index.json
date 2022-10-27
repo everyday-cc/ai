@@ -2,6 +2,196 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
+      "title": "The Google Self-Driving Car: All you need to know about Waymo",
+      "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "originalUrl": "https://www.carmagazine.co.uk/autonomous/waymo-one-google-s-self-driving-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T00:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CAR Magazine",
+        "domain": "carmagazine.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-complex-tradeoffs-in-inferencing-chips.md",
+      "title": "Complex Tradeoffs In Inferencing Chips",
+      "excerpt": "Designing AI/ML inferencing chips is emerging as a huge challenge due to the variety of applications and the highly specific power and performance needs for each of them. Put simply, one size does not fit all, and not all applications can afford a custom ...",
+      "sourceUrl": null,
+      "webUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
+      "originalUrl": "https://semiengineering.com/complex-tradeoffs-in-inferencing-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T00:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Semiconductor Engineering",
+        "domain": "semiengineering.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution.md",
+      "title": "Remote-controlled robots coming to Lake Erie will help remove, study plastic pollution",
+      "excerpt": "The BeBot and the PixieDrone are electric, remote-controlled robots that will be deployed in Lake Erie for testing in the fall and will begin the plastic cleanup in the spring. Lake Erie will soon have two electric, remote-controlled robots on its shores ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "originalUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/482cc9a/2147483647/strip/true/crop/2048x1152+0+0/resize/480x270!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F82%2F40%2Fa718fcdd4aabbcae7f6d96a3685e%2Fmichael-regan-and-crowd.jpg",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "cdnAmpWebUrl": "https://www-wksu-org.cdn.ampproject.org/c/s/www.wksu.org/environment-energy/2022-10-17/remote-controlled-robots-coming-to-lake-erie-will-help-remove-study-plastic-pollution?_amp=true",
+      "publishedDateTime": "2022-10-16T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wksu",
+        "domain": "wksu.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
+      "title": "Tech companies, UI researchers partner for speech accessibility project",
+      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
+      "sourceUrl": null,
+      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
+      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Illini",
+        "domain": "dailyillini.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022.md",
+      "title": "Microsoft CEO talks AI, security, teams, Azure at Ignite 2022",
+      "excerpt": "Without naming names, Microsoft CEO Satya Nadella used his Ignite 2022 keynote address to tout the tech giant’s cloud offerings as better than competitors, with “more cost effective” data, enterprise applications and cybersecurity capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
+      "originalUrl": "https://www.crn.com.au/news/microsoft-ceo-talks-ai-security-teams-azure-at-ignite-2022-586522",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 128,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/News/satya-nadella_web.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CRN Australia",
+        "domain": "crn.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
       "title": "We are entering a new era for AI-powered robotics",
       "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
@@ -990,258 +1180,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
-      "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
-      "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-can-machine-learning-help-prevent-business-email-compromise.md",
-      "title": "Can Machine Learning Help Prevent Business Email Compromise?",
-      "excerpt": "It's possible to prevent phishing and BEC, but technology can’t do it alone. Trained people and AI/ML working together as a single unified layer—not side by side—is one great way to beat the clock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620516d86fe879bdc64354fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "publishedDateTime": "2022-10-14T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
-      "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
-      "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
-      "originalUrl": "https://www.entrepreneur.com/en-in/lifestyle/this-ai-based-platform-is-set-to-revolutionize-digital/437237",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665747791-JasonMitakidisfinal.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between.md",
-      "title": "Ai-Da, First Humanoid Robot Speaks In UK Parliament; Falls Asleep In Between",
-      "excerpt": "In this scenario, a robot will undoubtedly support artificial intelligence, but proceedings took a different course while it was addressing the parliament. \"Although not alive, I can still create art\" Robot artist Ai-Da gives evidence to Lords Communications and Digital Committee,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "originalUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/ai_zmtc.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40134/ai-da-first-humanoid-robot-speaks-in-uk-parliament-falls-asleep-in-between?amp=1",
-      "publishedDateTime": "2022-10-14T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-joe-rogan-says-biden-has-dementia-clear-evidence-of-cognitive-decline.md",
-      "title": "Joe Rogan Says Biden Has Dementia: 'Clear Evidence of Cognitive Decline'",
-      "excerpt": "\"If you talk to any person who treats people with dementia and you show them what he used to be like versus what he's like now, there is clear evidence of cognitive decline.\" On an episode of \"The ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926",
-      "originalUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2134116/joe-rogan-joe-biden-composite.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/joe-rogan-says-joe-biden-dementia-clear-evidence-cognitive-decline-1751926?amp=1",
-      "publishedDateTime": "2022-10-14T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

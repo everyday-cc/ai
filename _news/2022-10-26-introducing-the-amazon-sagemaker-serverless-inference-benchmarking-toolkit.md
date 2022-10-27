@@ -43,6 +43,20 @@ related:
         width: 1540
         height: 724
         isCached: true
+  - title: "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters"
+    excerpt: "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing,"
+    publishedDateTime: 2022-10-27T16:41:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 92
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg"
+        width: 1344
+        height: 670
+        isCached: true
   - title: "Detect patterns in text data with Amazon SageMaker Data Wrangler"
     excerpt: "In this post, we introduce a new analysis in the Data Quality and Insights Report of Amazon SageMaker Data Wrangler. This analysis assists you in validating textual features for correctness and uncovering invalid rows for repair or omission. Data Wrangler reduces the time it takes to aggregate and prepare"
     publishedDateTime: 2022-10-24T19:45:55Z

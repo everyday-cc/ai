@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Should TSLA Stock Fans Give Up on Driverless Cars?"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) may be about to fall significantly behind in the"
+    publishedDateTime: 2022-10-27T16:08:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/should-tsla-stock-fans-give-up-on-driverless-cars-1031844512"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 49
   - title: "Driverless vehicle development sets ablaze a bonfire of billions of dollars"
     excerpt: "The Mobileye driverless car logo is displayed on a vehicle at the ... Shanghai-based Biren Intelligent Technology (壁仞科技) develops artificial intelligence (AI) chips and is considered a promising domestic contender to compete with graphics chips ..."
     publishedDateTime: 2022-10-23T02:07:00Z
