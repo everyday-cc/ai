@@ -95,6 +95,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla faces U.S. criminal probe around self-driving claims"
+    excerpt: "Federal prosecutors are looking into claims made by Tesla and CEO Elon Musk about the capabilities of his company's automated driving systems."
+    publishedDateTime: 2022-10-26T23:48:00Z
+    webUrl: "https://www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 74
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/cdd25ff/2147483647/strip/true/crop/4206x2813+6+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2F89%2F963a35394286ac3d27548417d748%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1239417284"
+        width: 320
+        height: 214
+        isCached: true
   - title: "Tesla reportedly faces criminal probe over self-driving claims"
     excerpt: "The Department of Justice is reportedly running a criminal probe of Tesla regarding statements about the capability of its driver-assist systems."
     publishedDateTime: 2022-10-26T20:33:00Z
@@ -120,6 +136,34 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Report: Tesla under DoJ criminal probe related to self-driving claims"
+    excerpt: "Tesla has some trouble on its hands, as the Department of Justice is investigating the electric automaker as part of a criminal probe."
+    publishedDateTime: 2022-10-27T00:30:00Z
+    webUrl: "https://www.tweaktown.com/news/89151/report-tesla-under-doj-criminal-probe-related-to-self-driving-claims/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 54
+    images:
+      - url: "https://static.tweaktown.com/news/8/9/89151_03_report-tesla-under-doj-criminal-probe-related-to-self-driving-claims.jpg"
+        width: 620
+        height: 413
+        isCached: true
+  - title: "Justice Department Opens Criminal Probe Into Tesla’s Self-Driving Claims: Report"
+    excerpt: "Tesla and its executives could be subject to criminal charges over alleged misrepresentations of Autopilot's capabilities."
+    publishedDateTime: 2022-10-27T01:37:00Z
+    webUrl: "https://www.thedrive.com/news/tesla-subject-of-doj-criminal-probe-into-self-driving-claims-report"
+    type: article
+    provider:
+      name: The Drive
+      domain: thedrive.com
+    quality: 49
+    images:
+      - url: "https://www.thedrive.com/uploads/2022/10/26/TESLA-AUTOPILOT-CRASHES-SAVES-_-TESLACAM-STORIES-73-6-26-screenshot.jpg?auto=webp"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
     excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
     publishedDateTime: 2022-10-26T23:56:00Z

@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-24-with-explicit-feedback-ai-needs-less-data-than-you-think.md",
+      "title": "With explicit feedback, AI needs less data than you think",
+      "excerpt": "Just ask! Here's why you should explicitly ask your users for explicit feedback rather than relying on the implicit kind.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
+      "originalUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 595,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
+      "publishedDateTime": "2022-10-23T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-tsmc-said-to-suspend-production-for-chinese-chip-start-up-biren-amid-us-curbs.md",
+      "title": "TSMC said to suspend production for Chinese chip start-up Biren amid US curbs",
+      "excerpt": "TSMC has suspended production of advanced silicon for Chinese start-up Biren Technology to ensure compliance with US regulations, according to a person familiar with the matter.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs",
+      "originalUrl": "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T06:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "scmp.com",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai.md",
       "title": "How small and midsize businesses can take advantage of text-to-image AI",
       "excerpt": "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes.",
@@ -1111,101 +1205,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law.md",
-      "title": "The No-Nonsense Comprehensive Compelling Case For Why Lawyers Need To Know About AI And The Law",
-      "excerpt": "This is a no-nonsense comprehensive and compelling case for why lawyers need to know about AI and the law. If you are a lawyer or know a lawyer or perhaps a law student, make sure to see what AI has to offer for those keenly interested in the law.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63506b8701fb229f84a808f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/10/21/the-no-nonsense-comprehensive-compelling-case-for-why-lawyers-need-to-know-about-ai-and-the-law/amp/",
-      "publishedDateTime": "2022-10-21T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-meta-develops-ai-for-speech-to-speech-translation-of-oral-languages.md",
-      "title": "Meta develops AI for speech-to-speech translation of oral languages",
-      "excerpt": "Meta has introduced its first speech-to-speech translators that will identify and then translate oral languages. CEO Mark Zuckerberg introduced the first translation AI by Meta to translate Hokkien language.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "originalUrl": "https://www.indiatoday.in/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202210/meta-sixteen_nine.jpg?VersionId=lTn9VA_ha3n.X02XPL7Agcsu7VxhhCeS",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "cdnAmpWebUrl": "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/technology/news/story/meta-develops-ai-for-speech-to-speech-translation-of-oral-languages-2288148-2022-10-21",
-      "publishedDateTime": "2022-10-21T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Today",
-        "domain": "indiatoday.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

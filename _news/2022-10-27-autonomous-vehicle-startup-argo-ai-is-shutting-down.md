@@ -28,35 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ford takes big charge as autonomy startup Argo AI shuts down, earnings head for low end of guidance"
-    excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
-    publishedDateTime: 2022-10-26T20:32:00Z
-    webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
+  - title: "Ford CEO Farley explains the business factors behind Argo AI's shuttering"
+    excerpt: "Shortly after news broke that self-driving subsidiary Argo AI will be closed, Ford CEO Jim Farley spoke during the company's Q3 earnings call about that decision.."
+    publishedDateTime: 2022-10-26T23:42:00Z
+    webUrl: "https://www.engadget.com/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html"
+    ampWebUrl: "https://www.engadget.com/amp/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 75
+      name: Engadget
+      domain: engadget.com
+    quality: 86
     images:
-      - url: "https://images.mktw.net/im-652278/social"
-        width: 1280
-        height: 640
-        isCached: true
-  - title: "Argo AI, Ford’s Self-Driving Venture With Volkswagen, Is Shutting Down"
-    excerpt: "The automaker said a write-down on its investment in the startup, among the best-funded autonomous tech companies in the U.S., was responsible for its quarterly loss."
-    publishedDateTime: 2022-10-26T19:58:00Z
-    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/10/26/argo-ai-fords-self-driving-venture-with-volkswagen-is-shutting-down/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 69
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6359a3275b9342c70dd8ba28/0x0.jpg?format=jpg&crop=3960,2227,x0,y415,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ece53d00-557e-11ed-afbb-6f88dfffc0bd"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Ford posts loss on decision to wind down Argo AI self-driving unit"
     excerpt: "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business."
@@ -71,6 +57,22 @@ related:
       - url: "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Autonomous vehicle startup Argo AI closing in wake of Ford losses"
+    excerpt: "In an earnings report, Ford (a major investor in Argo AI) noted that the company is being wound down and that it will hire engineers from the startup to expand and speed up development of Level 2+ and Level 3 autonomous driving systems. Ford says that it ..."
+    publishedDateTime: 2022-10-26T23:38:00Z
+    webUrl: "https://www.autoblog.com/2022/10/26/argo-ai-closes-ford-hiring-posted-losses/"
+    ampWebUrl: "https://www.autoblog.com/amp/2022/10/26/argo-ai-closes-ford-hiring-posted-losses/"
+    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/26/argo-ai-closes-ford-hiring-posted-losses/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 57
+    images:
+      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2021-05/ccaf7950-bcb0-11eb-87d7-20679f8ac636"
+        width: 1062
+        height: 597
         isCached: true
   - title: "Ford and VW backed Argo AI autonomous vehicle project is shutting down"
     excerpt: "Ford and VW will reportedly offer jobs to some of Argo AI's employees and absorb the company's parts. Autonomous vehicle startup, Argo AI, has announced that it will be shutting down only six years after being founded in 2016."
@@ -106,6 +108,20 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Ford and VW-backed self-driving car startup Argo AI shutting down"
+    excerpt: "Argo AI LLC, a self-driving car startup backed by Ford Motor Co. and Volkswagen AG that had raised $3.6 billion in funding, is shutting down with its parts being absorbed by both Ford and VW. TechCrunch reports that employees were told of the plan at an all-hands meeting on Wednesday and that some people would receive employment offers from Ford and VW."
+    publishedDateTime: 2022-10-27T00:23:00Z
+    webUrl: "https://siliconangle.com/2022/10/26/ford-vw-backed-self-driving-car-startup-argo-ai-shutting/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/07/press-release-hero-image-1024x683.jpg"
+        width: 1024
+        height: 683
+        isCached: true
   - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
     excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
     publishedDateTime: 2022-10-26T23:23:00Z
@@ -131,15 +147,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Pittsburgh autonomous vehicle startup Argo AI to shut down"
-    excerpt: "Argo AI LLC, one of Pittsburgh's most prominent autonomous vehicle startups, is shutting down and is set to be absorbed by its backers — Ford Motor Co. and Volkswagen, according to sources familiar with the matter."
-    publishedDateTime: 2022-10-26T19:58:00Z
-    webUrl: "https://www.bizjournals.com/pittsburgh/news/2022/10/26/argo-ai-to-shut-down-autonomous-vehicle-operations.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 19
 
 secured: "yZKAgBwP12oeg2thOt+WiIOHqbVJwRo0p1h2OaXqE58jqktRLPO1zdmDKn7hkkPUueFd6b27UA+hebB4+3dlRgX6IaA49JXztVCWJAaDfTA3dkr0bphH7pzTvStzcRoTYc2jI5QWcTwY1jOPiv7FOCQ6kXISONRkpJtPL2uL0VVAIPeHR9U9sQ51LQq2gQEelggXGyWR3Hj91o4pxsRRjo3ta+ieqlzejJEvABa3uOMBoZo7wxzYKlZ0InsCpIDyAIc4RiU6XMR6mdhBiIaopjXQreSIYOe9NBe7SmqOQ84Jw3Kg1IhOOmiWBLR9mdXLDTvvUF/kErRnnkF0PkYNPpVX6bAfSx8nKtAFzbeEfUAlRfg/g8ckoXF72Jy0GeLrpQfUJ4mzWKao5iQUwlUABfl12pq3I4ne9ZGbOJBZwksQRZp+du3QGnJL/Vr6ovGXsqxlcJA/QGOTMwAunD0zyS2Vzcmn/tUM91ikxBuDFPcg5Ih5Bjd54+cKWwd1fQcvsfdjQ5OfFNTonW7f2zsQDA==;27l3r0G5MVrAegzVBtXxrg=="
 ---

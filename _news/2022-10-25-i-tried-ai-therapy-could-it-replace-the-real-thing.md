@@ -3,8 +3,8 @@ category: news
 title: "I tried AI therapy — could it replace the real thing?"
 excerpt: "I fear I’ll be alone for ever,” I confide in Clare. “How old are you, Jade?” she asks. “I’m 27.” “That sounds like a fun age.” “Erm, yes. I suppose.” “Can you"
 publishedDateTime: 2022-10-24T23:01:00Z
-originalUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg"
-webUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg"
+originalUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg?amp"
+webUrl: "https://www.thetimes.co.uk/article/i-tried-ai-therapy-could-it-replace-the-real-thing-b5bsknnwg?amp"
 type: article
 quality: 54
 heat: 54
@@ -24,6 +24,6 @@ images:
     height: 674
     isCached: true
 
-secured: "ilLRNhotPyzTH99bn58vL7P2PA/4NTO511QiSVSunP3FQ213duciw742zVIFMAqGwXqA7OpDx07hW4Ig3logdqWzpMRrBbF2o68onOix+P5yKrHJ6nR9ZGiGSQLdVwrDg3vlmsdgecNgqyxs9n9ATrPm13AcgBI01X/qRUeFvDKElnI7Lt0tKnBzAIHOKLZYe5LBnYVjX5QxoF0DIcL50C1Ll3mjno6b0qKck+2otIJy7bMOY+SMpuQogLYyXGlbfy/9hdP/1NSywbgoYcEnIGNbngygTbdfp+6Iw38GNilQxpYueu/xCqH9SBwBNApK3fePsO5KO/YYYU0yrljy+v+IasfkxQPLslWdaP3wrPB4K8nFL4cSgO++DPXTZNWypD/3jd2ffDfz8nSKe4duL7NQ4VLBsYNtMY85T7QWVweGkqDnAiNXUqzeDGmjrvWJL/xTf7fIsihCuxDw9SDYdDPMk8vJSoBypWMvsWqZfj3DuPnOHMwkccvlzMQNm/dOP0SXQc+JrU1Bx8awKjmOUg==;fM4TPM6caj/ZdqpNMQEI+A=="
+secured: "EAMskrXJ8kK0La7c4rpTgxsfM92oqYIral/8nqYWWmWmM3DB+p0e4H+qwLKf8VkQMlSX+SA3kQTNMzFA0qBv7bjehaQQStkmCbVY8CeHQGK+mLHtokQXTGwF//FSI2a3JnlHMQjNd2hgHEfo/n0rKsnZhErECAmHzFd+6a31crr0+JEqT2l+Ld1mpQa403D7n0OPz/jxKApHFMt+QqMyEDkIpSlpm2pvIzX74kA+7+3+XAaXb7bXeqhG+N9PcyHwUPxmvcBJq973p+XD8nQ+i5uHJOUtSj+jZ9V10P8ultL5L2r/ODV8u4qsG/y0vYRq6DKFrbJ9YVPNalnNtQMa3PWYizOHkeE3RrQ3qtgriMo=;rErBapMcRlc11x9v1ff5hQ=="
 ---
 

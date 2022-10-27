@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutd
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
 type: article
 quality: 69
-heat: 109
+heat: 110
 published: true
 
 provider:

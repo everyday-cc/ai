@@ -107,7 +107,7 @@
       "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ab29375003/the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -300,19 +300,19 @@
     {
       "path": "_news/2022-10-13-eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online.md",
       "title": "Eyeballs and AI power the research into how falsehoods travel online",
-      "excerpt": "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy.",
+      "excerpt": "Automating some of the steps the University of Washington team uses humans for, Pyrra uses artificial intelligence to extract ... allows society to respond. Research into voting-related ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
-      "originalUrl": "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "webUrl": "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "originalUrl": "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
-          "width": 837,
-          "height": 628,
+          "url": "https://npr.brightspotcdn.com/dims4/default/a841607/2147483647/strip/true/crop/5922x3109+0+417/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fgettyimages-1055494208_custom-193c70ce843e1d174efc8f2a6fd301db7bba656a.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -322,11 +322,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:01:00-07:00",
+      "publishedDateTime": "2022-10-13T02:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KUOW",
-        "domain": "kuow.org",
+        "name": "WESA",
+        "domain": "wesa.fm",
         "images": null,
         "publishers": null,
         "authors": null

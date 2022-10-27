@@ -57,6 +57,20 @@ related:
         width: 480
         height: 293
         isCached: true
+  - title: "Facebook’s Meta stock craters over bleak forecast, expensive metaverse bets"
+    excerpt: "Facebook parent Meta Platforms Inc on Wednesday forecast a weak holiday quarter and significantly more costs next year, sending shares down nearly 20 percent as investors voiced skepticism about the"
+    publishedDateTime: 2022-10-27T01:49:00Z
+    webUrl: "https://business.inquirer.net/369840/facebooks-meta-stock-craters-over-bleak-forecast-expensive-metaverse-bets"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 22
+    images:
+      - url: "https://business.inquirer.net/files/2022/07/000_32FK6KV-620x434.jpg"
+        width: 620
+        height: 434
+        isCached: true
 
 secured: "T0qwXqOkNB4YFSuC4WsmazOppT9mt0zhgNg9TPiRS9MjfOMdC073WzHFoz8LMtsed1Cnq7/OOmTayjq9kdegbSnEjoGjiR4mPZS/jmZv4E5ACpQaYJskANHuswiakG0WetvF4+i62s3yunJ5xgy9ZcDdNC7OtfImJJ3ndNei4CjnjDcrGU4AqHKlPH6zP7I2vFuBeOWvUjcOQUtCgRxL2UGQJxW/kUbwWcuCob8yf8Y71GlzdY4puc602vKz7jRHQfOUS9lBADj2DMOBvVFoAuK6aNOs7QaTGrIzOikvgCbMmkaGbb2k4cFlifJaiak+5710zScbJ5FQoifzj8y68TIZc1yONO95rTnktfAJbtWq+RxcvrxX/+4UenMd8sLwHMgM2r+30J3ZygA0gW5z/wnPI00fubvDIlCDuaitifab5QR+wTM+72JZTG9v2xAypDDzolL9CoazKH1LlPOrU1vZ+OZO/aB3CqFywdKZ47GuSJFoH/F3SZYFAj4C7QX3tw7+yKIiNd98OjqvJ1UoDQ==;RLFwCflh+zkqUKiem/8CuQ=="
 ---

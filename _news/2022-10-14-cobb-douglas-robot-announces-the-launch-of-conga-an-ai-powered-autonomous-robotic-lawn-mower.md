@@ -1,30 +1,26 @@
 ---
 category: news
 title: "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower"
-excerpt: "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut."
-publishedDateTime: 2022-10-13T18:02:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
-webUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
+excerpt: "With a single click to start, Conga sets users free from ... a 0.1s response time for avoiding obstacles. Conga – AI Powered Lawn Care Robot by Cobb Douglas Robot makes grass maintenance a ..."
+publishedDateTime: 2022-10-13T18:05:00Z
+originalUrl: "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower"
+webUrl: "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/10/e6d6c12ed5821955e10c1800b968caa4b2f206b3-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "HwI0IwKoqQxpumf+Otg48AUjHEjXqcAwHxicWW+IqWdu6brtBS1XpmlBRsYNEJTsaDVbt7ONjlERL9U2YRM7llX4Xp/YXuZiWtDYu39rA8wmE++q6hYQ12CMSaiGpcGGFX39s4/Kj5xhxhM740YegvPLvRfYQyQYUNPqvXEyIWYjQ/Rz7zmUuzTZ+6JUIApjF2kBzxapCFfxUOQmk9QpQIC77kyWkneBn9NRSA8zqhfPaLU637JC58i+kbD59K1dsf2YH5zT83nIAcTyURKhzzd9RpfLH9RY4OJsurCD3bBNMD29zNOWRSHD7I/o8T0agzmhz0n41s41hp0XLTDvf7/D1gTP4nyaaSv3H94of6A=;UIquvH/NE19G31kPuIB2Hg=="
+secured: "Dm87a9zTL5NRArO0fhz+q2oucZAKxzXHQjNOgA+FQJZtfppdvByyjRWm9lVlekJtxPrVozyhI1ZZ1t1t08YeQ5KytumThKOfRicVwR1miC62zB2cWX/2vrNzftijNuBsgBtyTIVSx31u6IIz8wHvyu4VvtQlN+wXp4R7YJ6aj24depbS+DrLfGExkeo3+EyrLff62gT4IQltiuwsbx4+EJ34jAML+ZVp+eIhakD72jFst1uyZkn21sUNzFlx05ucIFgqW/tVWQQuggNJ/jWDTpjZ1I0/99OQrUG4RnFZFPsDiQXiA/q8ykDNvfpXAsj2VAAsEKNNwGDl97NmJcv0v7Xvw6e52xarAUW+ziKWlOo=;VxKn0RP41UZ0gREObYPEVA=="
 ---
 

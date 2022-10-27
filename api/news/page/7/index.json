@@ -2,6 +2,104 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-19-jfk-airport-offers-eyewitness-news-exclusive-ride-aboard-new-driverless-shuttle.md",
+      "title": "JFK Airport offers Eyewitness News exclusive ride aboard new driverless shuttle",
+      "excerpt": "QUEENS, New York (WABC) -- The future is taking off at John F. Kennedy Airport, where a driverless shuttle is being tested out that would take passengers to and from the long-term parking lot.",
+      "sourceUrl": null,
+      "webUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "originalUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/12344004_shuttle.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "cdnAmpWebUrl": "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
+      "publishedDateTime": "2022-10-18T20:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc7NY",
+        "domain": "abc7ny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
+      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
+      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
+      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
+          "width": 1067,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
+      "publishedDateTime": "2022-10-18T18:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision",
+        "Microsoft AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
       "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
       "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
@@ -1077,101 +1175,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
-      "title": "Three Ways AI Transforms Security",
-      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
-      "publishedDateTime": "2022-10-18T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
-      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
-      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
-      "sourceUrl": null,
-      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T06:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "infotechlead",
-        "domain": "infotechlead.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }
