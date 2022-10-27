@@ -2,57 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-10-24-with-explicit-feedback-ai-needs-less-data-than-you-think.md",
-      "title": "With explicit feedback, AI needs less data than you think",
-      "excerpt": "Just ask! Here's why you should explicitly ask your users for explicit feedback rather than relying on the implicit kind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
-      "originalUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
-      "publishedDateTime": "2022-10-23T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-23-tsmc-said-to-suspend-production-for-chinese-chip-start-up-biren-amid-us-curbs.md",
       "title": "TSMC said to suspend production for Chinese chip start-up Biren amid US curbs",
       "excerpt": "TSMC has suspended production of advanced silicon for Chinese start-up Biren Technology to ensure compliance with US regulations, according to a person familiar with the matter.",
@@ -92,6 +41,49 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-23-driverless-car-quest-has-made-a-bonfire-out-of-75-billion.md",
+      "title": "Driverless car quest has made a bonfire out of $75 billion",
+      "excerpt": "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
+      "originalUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-10/1181fb60-5153-11ed-b7d7-2a25405a846d",
+          "width": 1062,
+          "height": 597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
+      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
+      "publishedDateTime": "2022-10-22T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Autoblog",
+        "domain": "autoblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -487,6 +479,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-clinical-trials-using-new-cancer-imaging-and-treatment-technology-start-soon-in-ns.md",
+      "title": "Clinical trials using new cancer imaging and treatment technology start soon in N.S.",
+      "excerpt": "It uses artificial intelligence combined with radiation therapy to target tumours with more precision. He said he expects the therapy will result in shorter wait times and result in fewer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
+      "originalUrl": "https://www.cbc.ca/news/canada/nova-scotia/cancer-treatment-artificial-intelligence-halifax-varian-1.6619681",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.cbc.ca/1.6619689.1666046131!/fileImage/httpImage/image.jpg_gen/derivatives/16x9_620/ethos-cancer-treatment.jpg",
+          "width": 620,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbc.ca/amp/1.6619681",
+      "cdnAmpWebUrl": "https://www-cbc-ca.cdn.ampproject.org/c/s/www.cbc.ca/amp/1.6619681",
+      "publishedDateTime": "2022-10-21T12:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBC.ca",
+        "domain": "www.cbc.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
@@ -1152,59 +1187,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report.md",
-      "title": "Healthcare Natural Language Processing (NLP) Market : Competitive Landscape and Analysis by Recent Trends 2022 to 2029 | 118 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Healthcare Natural Language Processing (NLP) Market is projected",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-natural-language-processing-nlp-market-competitive-landscape-and-analysis-by-recent-trends-2022-to-2029-118-pages-report-2022-10-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 208,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

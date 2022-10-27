@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-and-vw-close-down-argo-ai-autonomous-car-unit.md",
+      "title": "Ford and VW close down Argo AI autonomous-car unit",
+      "excerpt": "Autonomous-car specialist Argo AI is closing down after Ford and Volkswagen, Argo's main backers, ended support for the Pittsburgh-based company.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/",
+      "originalUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 247,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2019/06/argo-ai-fusion-detroit.jpg?p=1",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp",
+      "publishedDateTime": "2022-10-26T20:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity.md",
       "title": "Everyday AI could become as ubiquitous and necessary as electricity",
       "excerpt": "Like electricity, there will likely be a day when we can’t imagine life without AI. There’s a lot of work to do to put the pieces into place.",
@@ -101,57 +152,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-ceo-farley-explains-the-business-factors-behind-argo-ais-shuttering.md",
-      "title": "Ford CEO Farley explains the business factors behind Argo AI's shuttering",
-      "excerpt": "Shortly after news broke that self-driving subsidiary Argo AI will be closed, Ford CEO Jim Farley spoke during the company's Q3 earnings call about that decision..",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html",
-      "originalUrl": "https://www.engadget.com/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 176,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-10/ece53d00-557e-11ed-afbb-6f88dfffc0bd",
-          "width": 3000,
-          "height": 2000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/ford-ceo-farley-explains-the-business-factors-behind-argo-a-is-shutering-230035350.html",
-      "publishedDateTime": "2022-10-26T16:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     },
@@ -343,58 +343,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance.md",
-      "title": "Ford takes big charge as autonomy startup Argo AI shuts down, earnings head for low end of guidance",
-      "excerpt": "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "originalUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-652278/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "publishedDateTime": "2022-10-26T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     },
@@ -753,7 +701,7 @@
       "originalUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -1055,7 +1003,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-word-recognition-adequately-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1236,6 +1184,59 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-hardware.md",
+      "title": "AI chip startup Axelera lands $27M in capital to commercialize its hardware",
+      "excerpt": "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "originalUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742",
+          "width": 1200,
+          "height": 742,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/",
+      "publishedDateTime": "2022-10-25T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

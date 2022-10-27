@@ -246,6 +246,59 @@
       ]
     },
     {
+      "path": "_news/2022-10-13-ai-shouldnt-compete-with-workersit-should-supercharge-them.md",
+      "title": "AI Shouldn’t Compete With Workers—It Should Supercharge Them",
+      "excerpt": "The economy could get a boost if machine learning engineers switched from copying human abilities to augmenting them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/",
+      "originalUrl": "https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/634727180b299b05896f7c39/master/pass/turing-trap.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-shouldnt-compete-with-workers-it-should-supercharge-them-turing-trap/amp",
+      "publishedDateTime": "2022-10-13T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-ai-transforms-linkedin-workplace-conversations.md",
       "title": "AI Transforms LinkedIn Workplace Conversations",
       "excerpt": "An in-the-moment diversity coaching tool from Workhuman helps employees use language that makes everyone feel at home",
@@ -300,19 +353,19 @@
     {
       "path": "_news/2022-10-13-eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online.md",
       "title": "Eyeballs and AI power the research into how falsehoods travel online",
-      "excerpt": "Automating some of the steps the University of Washington team uses humans for, Pyrra uses artificial intelligence to extract ... allows society to respond. Research into voting-related ...",
+      "excerpt": "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy.",
       "sourceUrl": null,
-      "webUrl": "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
-      "originalUrl": "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "webUrl": "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
+      "originalUrl": "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://npr.brightspotcdn.com/dims4/default/a841607/2147483647/strip/true/crop/5922x3109+0+417/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fgettyimages-1055494208_custom-193c70ce843e1d174efc8f2a6fd301db7bba656a.jpg",
-          "width": 1200,
-          "height": 630,
+          "url": "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80",
+          "width": 837,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -322,11 +375,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-13T02:42:00-07:00",
+      "publishedDateTime": "2022-10-13T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WESA",
-        "domain": "wesa.fm",
+        "name": "KUOW",
+        "domain": "kuow.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1398,59 +1451,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-intel-geti-and-openvino-efforts-advance-ai-and-computer-vision.md",
-      "title": "Intel Geti and OpenVINO efforts advance AI and computer vision",
-      "excerpt": "Intel launches new platform with Geti to help make it easier for users to build computer vision models that can be deployed using OpenVINO.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "originalUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1351781263-e1664230107251.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-geti-and-openvino-efforts-advance-ai-and-computer-vision/amp/",
-      "publishedDateTime": "2022-09-27T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

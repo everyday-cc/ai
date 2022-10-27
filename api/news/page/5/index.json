@@ -2,6 +2,136 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
+      "title": "France Slaps Fine On Face Recognition Firm Clearview AI",
+      "excerpt": "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "originalUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
+      "publishedDateTime": "2022-10-20T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
+      "title": "Mechanical neural network could enable smart aircraft wings that morph",
+      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T08:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-texas-ag-sues-google-for-over-facial-and-voice-data-collection.md",
+      "title": "Texas AG sues Google for over facial and voice data collection",
+      "excerpt": "The complaint underscores the role of individual states in protecting users' information on the internet in the absence of a federal privacy law.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "originalUrl": "https://www.cnbc.com/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 196,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107051880-16510024222022-04-26t170649z_1339263067_rc24vt9ijs8a_rtrmadp_0_usa-court-immigration.jpeg?v=1666280902",
+          "width": 3500,
+          "height": 2334,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/20/texas-ag-sues-google-for-over-facial-and-voice-data-collection.html",
+      "publishedDateTime": "2022-10-20T07:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-one-brings-self-driving-ride-service-to-los-angeles.md",
       "title": "Waymo One Brings Self-Driving Ride Service to Los Angeles",
       "excerpt": "Waymo One is a commercial ride-hailing service like no other. Its driverless vehicles have been shuffling passengers around the Phoenix and San Francisco areas, and soon it'll expand to one of the largest metropolitan areas in the US.",
@@ -470,6 +600,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-nvidia-supercharges-oracles-cloud-infrastructure-to-help-industries-adopt-ai-into-their-business.md",
+      "title": "NVIDIA supercharges Oracle’s cloud infrastructure to help industries adopt AI into their business",
+      "excerpt": "NVIDIA and Oracle has jointly released a statement detailing a new multi-year partnership regarding the latter's cloud-computing division getting buffed with some serious hardware and software support from the former.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "originalUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/10/NVIDIA-x-Oracle-Enterprise-AI-Partnership.jpg",
+          "width": 1271,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "publishedDateTime": "2022-10-19T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1000,187 +1173,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-nvidia-geforce-rtx-3090-vs-3080-vs-3070-vs-3060-which-gpu-should-you-buy.md",
-      "title": "Nvidia GeForce RTX 3090 vs 3080 vs 3070 vs 3060: Which GPU should you buy?",
-      "excerpt": "they all make use of Nvidia DLSS (sort of an AI upscaler for games). Nvidia FreeStyle, ShadowPlay, Highlights, G-Sync and GPU boost work on all of the 30-series cards. They’re all VR-ready ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "originalUrl": "https://www.tomsguide.com/news/nvidia-geforce-rtx-comparison",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/AnqrCABaVYriMJBAtyYQrU-1200-80.jpg",
-          "width": 951,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
-      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
-      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
-      "title": "New research paves way for innovative theory of cognitive processing",
-      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/cognitive.jpg",
-          "width": 1920,
-          "height": 1357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-paves-theory-cognitive.amp",
-      "publishedDateTime": "2022-10-19T11:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures.md",
-      "title": "A new type of material called a mechanical neural network can learn and change its physical properties to create adaptable, strong structures",
-      "excerpt": "My colleagues and I based our new material’s architecture on that of an artificial neural network – layers of interconnected nodes that can learn to do tasks by changing how much importance ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures-192800",
-      "originalUrl": "https://theconversation.com/a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures-192800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/490679/original/file-20221019-12170-qt1idp.JPG?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=240&fit=crop",
-          "width": 320,
-          "height": 240,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures-192800",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/a-new-type-of-material-called-a-mechanical-neural-network-can-learn-and-change-its-physical-properties-to-create-adaptable-strong-structures-192800",
-      "publishedDateTime": "2022-10-19T11:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

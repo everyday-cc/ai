@@ -36,58 +36,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-27-ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance.md",
-      "title": "Ford takes big charge as autonomy startup Argo AI shuts down, earnings head for low end of guidance",
-      "excerpt": "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "originalUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-652278/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
-      "publishedDateTime": "2022-10-26T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-26-sonys-alpha-7r-v-takes-autofocus-to-another-level-with-ai-body-tracking.md",
       "title": "Sony’s Alpha 7R V Takes Autofocus to Another Level With AI Body Tracking",
       "excerpt": "With cameras like the Sony Alpha 7R IV, eye-tracking even works when a subject is turned away from the camera, and only a small part of their eyes are left visible. But in many instances, if a subject’s eyes are completely occluded,",
@@ -139,7 +87,7 @@
       "originalUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -408,6 +356,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-nvidia-supercharges-oracles-cloud-infrastructure-to-help-industries-adopt-ai-into-their-business.md",
+      "title": "NVIDIA supercharges Oracle’s cloud infrastructure to help industries adopt AI into their business",
+      "excerpt": "NVIDIA and Oracle has jointly released a statement detailing a new multi-year partnership regarding the latter's cloud-computing division getting buffed with some serious hardware and software support from the former.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "originalUrl": "https://www.tech-critter.com/nvidia-oracle-cloud-infrastructure-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/www.tech-critter.com/wp-content/uploads/2022/10/NVIDIA-x-Oracle-Enterprise-AI-Partnership.jpg",
+          "width": 1271,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "cdnAmpWebUrl": "https://www-tech--critter-com.cdn.ampproject.org/c/s/www.tech-critter.com/amp/nvidia-oracle-cloud-infrastructure-ai/",
+      "publishedDateTime": "2022-10-19T22:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech-critter.com",
+        "domain": "tech-critter.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 49
+  - title: "A once hot startup, Pittsburgh-based Argo AI will soon be no more"
+    excerpt: "Argo AI, a self-driving technology company based in Pittsburgh, is shutting down. Ford and Volkswagen will absorb parts of the company, including some employees."
+    publishedDateTime: 2022-10-26T20:22:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2022-10-26/a-once-hot-startup-pittsburgh-based-argo-ai-will-soon-be-no-more"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 37
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/b18e3c5/2147483647/strip/true/crop/2048x1075+0+230/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F7a%2F14%2Fa44f86e649d8ba8101ae9383c703%2Fargo-argo-ai-artificial-intelligence-strip-district-technology-driverless-self-driving-car-3.jpeg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Lidar Sensor Price Plunge Leads to Orders From GM, Volkswagen"
     excerpt: "Lidar has been winning over more supporters in the automotive industry as prices rapidly decline. Developers are betting that once their sensors are cheap enough, it’ll be difficult to justify not using lidar in vehicles."
     publishedDateTime: 2022-10-25T14:21:00Z

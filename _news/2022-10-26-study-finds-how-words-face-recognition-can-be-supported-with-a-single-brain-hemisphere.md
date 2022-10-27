@@ -41,6 +41,20 @@ related:
         width: 1000
         height: 1000
         isCached: true
+  - title: "Word and Face Recognition Can Be Adequately Supported With Half a Brain"
+    excerpt: "Hemispherectomy patients who had a hemisphere of their brain removed during childhood can correctly recognize differences between pairs of words or faces 80% of the time, a new study reports. The findings reveal how the brain adapts when it is highly plastic."
+    publishedDateTime: 2022-10-25T20:15:00Z
+    webUrl: "https://neurosciencenews.com/word-face-recognition-neuroplasticity-21725/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
+    images:
+      - url: "https://neurosciencenews.com/files/2022/10/word-face-half-brain-neurosicences-public.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "A new study reveals how word and face recognition can be supported with only half the brain"
     excerpt: "Participants were able to recognize words and faces, despite having half of their brain removed. The surgery, known as hemispherectomy, is done to control seizures."
     publishedDateTime: 2022-10-26T22:01:00Z

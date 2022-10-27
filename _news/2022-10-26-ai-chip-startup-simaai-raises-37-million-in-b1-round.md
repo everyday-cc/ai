@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html"
 type: article
 quality: 76
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI chip startup SiMa.ai secures USD 37 million in B1 round"
+    excerpt: "AI chip startup SiMa.ai secures USD 37 million in B1 round - Artificial intelligence-based chip startup SiMa.ai said on Wednesday it has raised $37 million in a Series"
+    publishedDateTime: 2022-10-27T03:26:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-chip-startup-simaai-secures-usd-37-million-in-b1-round-nid-220312-cid-19.html"
+    type: article
+    provider:
+      name: SiliconIndia
+      domain: siliconindia.com
+    quality: 56
+    images:
+      - url: "https://www.siliconindia.com/news/newsimages/3ClZnTp5.jpg"
+        width: 570
+        height: 367
+        isCached: true
   - title: "Conversational AI Startup Kubiya Raises $6M Seed Round"
     excerpt: "Kubiya, the Conversational AI solution for DevOps teams, announced that it has raised a $6M Seed round led by Hyperwise Ventures."
     publishedDateTime: 2022-10-25T01:47:00Z

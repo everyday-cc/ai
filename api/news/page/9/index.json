@@ -2,6 +2,178 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
+      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
+      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-a-new-ai-model-can-accurately-predict-human-response-to-novel-drug-compounds.md",
+      "title": "A new AI model can accurately predict human response to novel drug compounds",
+      "excerpt": "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
+      "originalUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
+      "publishedDateTime": "2022-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
+      "title": "Deep learning tool identifies bacteria in micrographs",
+      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "publishedDateTime": "2022-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-ambi-robotics-raises-32m-in-funding.md",
+      "title": "Ambi Robotics Raises $32M in Funding",
+      "excerpt": "Ambi Robotics, a Berkeley, CA-based robotics company, raised $32M in funding. The round was led by Tiger Global and Bow Capital with participation from Ahren and Pitney Bowes. The company intends to use the funds to achieve several milestones over the next 12 months,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "originalUrl": "https://www.finsmes.com/2022/10/ambi-robotics-raises-32m-in-funding.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.finsmes.com/wp-content/uploads/2022/10/Logo_Ambi_Robotics-scaled.jpeg",
+          "width": 2560,
+          "height": 950,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T07:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "finsmes",
+        "domain": "finsmes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-chip-war-with-china-is-just-getting-started.md",
       "title": "The Chip War With China Is Just Getting Started",
       "excerpt": "Our overreliance on foreign sources for microchips, even from trusted allies such as Taiwan, Japan, and South Korea, is only part of a broader issue: America’s overreliance on global supply chains that are all too vulnerable to disruption,",
@@ -584,6 +756,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-16-opinion-artificial-intelligence-and-its-impact-on-health-care.md",
+      "title": "Opinion: Artificial intelligence and its impact on health care",
+      "excerpt": "From our GPS to our smart TVs, smart locks, video doorbell surveillance systems, and the social media platforms we consistently follow and scroll through, artificial intelligence, or AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
+      "originalUrl": "https://www.chron.com/opinion/article/Opinion-Artificial-intelligence-and-its-impact-17509563.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/27/72/40/23046197/3/rawImage.jpg",
+          "width": 1800,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Houston Chronicle",
+        "domain": "chron.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-16-nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university.md",
       "title": "Nvidia’s founding couple donates $50M for AI computing at alma mater Oregon State University",
       "excerpt": "Huang, CEO of Nvidia, and Lori Huang donated $50 million to the school to build a new innovation complex on campus. The university has also raised a total of $100 million in gifts to launch what will ultimately be a $200 million research and education center with one of the nation’s most powerful supercomputers.",
@@ -938,240 +1153,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
-      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
-      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T04:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028.md",
-      "title": "Artificial Intelligence AI in Cyber Security Market 2022 Future Demand, Emerging Trends and Latest Technology, Forecast Research Report 2028",
-      "excerpt": "However, this scenario is expected to change owing to decreasing COVID-19 cases. The Artificial Intelligence AI in Cyber Security market is expected register a robust revenue CAGR of 26.56% during the forecast period and reach USD 75976.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-cyber-security-market-2022-future-demand-emerging-trends-and-latest-technology-forecast-research-report-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-the-ai-beat-big-tech-ai-wars-heat-up.md",
-      "title": "The AI Beat: Big Tech AI wars heat up",
-      "excerpt": "Welcome to the AI Beat – my new column digging into some of the week’s AI news and attempting to put it into context.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "originalUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1254431708.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 848,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-ai-beat-big-tech-ai-wars-heat-up/amp/",
-      "publishedDateTime": "2022-10-14T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-15-opinion-a-driverless-vehicle-update.md",
-      "title": "Opinion: A driverless vehicle update",
-      "excerpt": "Many things are changing in the world today. But if a story on the Bloomberg Businessweek website is correct, one transformative development is not living up to its promise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "originalUrl": "https://www.yazooherald.net/editorials-local-content-opinion-top-stories-state/opinion-driverless-vehicle-update-6349fbc3d094d",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Yazoo Herald",
-        "domain": "yazooherald.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
-      "title": "Testing approaches for Amazon SageMaker ML models",
-      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:51:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

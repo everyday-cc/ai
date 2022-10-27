@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
 type: article
 quality: 67
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Word and Face Recognition Can Be Adequately Supported With Half a Brain"
+    excerpt: "Hemispherectomy patients who had a hemisphere of their brain removed during childhood can correctly recognize differences between pairs of words or faces 80% of the time, a new study reports. The findings reveal how the brain adapts when it is highly plastic."
+    publishedDateTime: 2022-10-25T20:15:00Z
+    webUrl: "https://neurosciencenews.com/word-face-recognition-neuroplasticity-21725/"
+    type: article
+    provider:
+      name: Neuroscience News
+      domain: neurosciencenews.com
+    quality: 54
+    images:
+      - url: "https://neurosciencenews.com/files/2022/10/word-face-half-brain-neurosicences-public.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "Study finds how words, face recognition can be supported with a single brain hemisphere"
     excerpt: "In a research of brain plasticity and visual perception it was shown that individuals who had had surgery as children to remove half of their brains correctly"
     publishedDateTime: 2022-10-26T04:33:00Z

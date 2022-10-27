@@ -23,6 +23,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/634727180b299b05896f7c39/master/pass/turing-trap.jpg"

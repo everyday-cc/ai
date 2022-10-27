@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Eyeballs and AI power the research into how falsehoods travel online"
-excerpt: "Automating some of the steps the University of Washington team uses humans for, Pyrra uses artificial intelligence to extract ... allows society to respond. Research into voting-related ..."
-publishedDateTime: 2022-10-13T09:42:00Z
-originalUrl: "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
-webUrl: "https://www.wesa.fm/2022-10-13/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
+excerpt: "What sorts of lies and falsehoods are circulating on the internet? Taylor Agajanian used her summer job to help answer this question, one post at a time. It often gets squishy."
+publishedDateTime: 2022-10-13T09:01:00Z
+originalUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
+webUrl: "https://www.kuow.org/stories/eyeballs-and-ai-power-the-research-into-how-falsehoods-travel-online"
 type: article
 
 provider:
-  name: WESA
-  domain: wesa.fm
+  name: KUOW
+  domain: kuow.org
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/a841607/2147483647/strip/true/crop/5922x3109+0+417/resize/1200x630!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F10%2F12%2Fgettyimages-1055494208_custom-193c70ce843e1d174efc8f2a6fd301db7bba656a.jpg"
-    width: 1200
-    height: 630
+  - url: "https://kuow-prod.imgix.net/store/b37e063e0aa1a74b9306caa319a1dd07.jpg?fm=jpg&fit=max&w=1200&h=628&q=80"
+    width: 837
+    height: 628
     isCached: true
 
-secured: "wPIxBPPvAjyRm6sp0B/gblnOpcHrkjKjHbeTAzZA76JIvh3BAlLdH1gHpWXwrAykBiQS48J7YUegIpxR60vtI9yGkAlxeqK4R9dHnN4qzVvPILpUgPOGW8U32gnLsxHPUZxLBBoKdseP6+Yre5qPZq8cHwSXJa521XTSaU8KUlvbJR0Qq8FkO6qYkBfT1O2kuBD34n5Q2LaKR/b6I9q5TFQu3Groy1tN+fIS7bPua88gevhR3YCmIB0DGpWlbyXIGNBJnQuKg+EA+G0zHDvJfDyXmL95psM7TE1e8sqeTrhTdq71tym4soFB/mo1YdnMHT1bS8xAVUKLfSrrNgANNMj7aCHka6WfHISqc8tNvYM=;fVvPBH1O4s/pAXJVBnnXKg=="
+secured: "i53a/t+1DyksXDQRhUYFDvdluJh3WqpAeEMsex3A5WstqLETCZ1idzjmyk+MPO56aFJwxsjgxFsVL7lqV/TlXcDgWjtUv2hF0OXLvi6BIWE9hUiCQkqUpRXLpO/V9ZnWzdZUuL9eFJKF2Hox/gPB93jaCxWdvJ1okP6KIqPPfR54Y0NiQZhjvzldLf3eYW9Ic0MQHdx4w3ldHAfyyue5kIideVEgP8l8mNq9vzUEC9OA2Anz2EkyJODCibi3rE/Ll6/BVL+v+InayxTxEiKBTiILE82BI5sf3qo7wbcnARLN5nZy8nKyPdlWRqtfFtMlMinbgS3NpUvmY2WAG6ydcGkOa8mCkBm2ueX90gB+AuM=;VBUvea0s7+H0bB9dSB3S0w=="
 ---
 
