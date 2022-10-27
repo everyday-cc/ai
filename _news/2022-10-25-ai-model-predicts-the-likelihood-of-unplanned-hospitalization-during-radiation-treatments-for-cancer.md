@@ -66,6 +66,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 33
+  - title: "Artificial Intelligence Model Predicts the Healing of Broken Bones"
+    excerpt: "What to expect when a broken bone is healing? Researchers have created an artificial intelligence (AI) model to forecast how thigh bone fractures would heal."
+    publishedDateTime: 2022-10-27T19:14:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-model-predicts-the-healing-of-broken-bones-209010-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "Od033uDAsQuK7EVz1yKAt4BMmoyXyKm2tvq0dIrRIpJMM2hAGcGQCZyWq8Bxv0dsol4wFNbaCkOyKuVqYSjr7w+tFhc2QnNvXxy6YLYbskwwc99oLJ3cHCfpS9FI9VfQRvvjjF8c9zOKQ9UV3GzmQMUiHVj6MRjFXSajFDn7/aKRbcsOhA2MaYxInJewjPaSmqOOALuCf6mVy/k6kM1BlDZQDjUF9OG3TfsNkK37odjgsM6qweAS1m+plUfZRCztEJhqnFG2nGGZTC+FJ69/RTwy0JTvr3hDX07VtbBM7F3GxeXIKF6IDRIZiZwEFlYq5sgxguXp1qrCpZd0nk6Y65TSXumVVLqwwsWNmUqm4hIAmJIalxU8SwqUhGQdZ7pBfRE+MbUPpaTtaiLzecbN2haDEjyArrvyjF2NoA07GcYCOyY23QMKU/REWoYgOuFcjLD829HIMWhQPJNymLVRXOahSonEMGbRF6yJY2JMitHL4zLaQa8VFCYzUtJDrRoex9b/MqZYIhJbggBxdSdwcw==;8gqoGl+6l55RY9lgfanqXg=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T10:59:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/article_ca87db1b-b372-5835-82f8-1c5b111e83f7.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/article_ca87db1b-b372-5835-82f8-1c5b111e83f7.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Joplin Globe

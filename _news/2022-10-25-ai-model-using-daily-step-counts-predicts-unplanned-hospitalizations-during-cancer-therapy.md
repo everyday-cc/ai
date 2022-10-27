@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitaliz
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp"
 type: article
 quality: 64
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -66,6 +66,15 @@ related:
         width: 620
         height: 480
         isCached: true
+  - title: "Artificial Intelligence Model Predicts the Healing of Broken Bones"
+    excerpt: "What to expect when a broken bone is healing? Researchers have created an artificial intelligence (AI) model to forecast how thigh bone fractures would heal."
+    publishedDateTime: 2022-10-27T19:14:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-model-predicts-the-healing-of-broken-bones-209010-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "zQWv7gQe/FOZvwiaX/n+6FTd0eaJ36ltAAOEsZB3+y3HoypSTT99IHSSfBltt8VMzZVeYyC7rB6Eh1/Daivwah5BB/m8O9AXPXIVAl9TDExT7LjvXY2ebzlX8dTYYpHr8xyj7jFLcSFohuCYLv2m5qO9GW4dACc8JBt74tfK9IKNi2dCuJmO0YUiglu+cY9GoRDYBlg+lwqPKAuoYsmFiI6OMJR58tqG2p9Syx0B9hpVRzRiDQA3GYA3UmyXRCHSFxQWAvFc0m+q8/KjtPysXvWIQU582cf8LQWb5duadUyrGDK8+9OLQTWzFiVNyStd1POMkUNKkBpyQsE7hwolYpn/QvB+m+3pox9xmP186D3GwlM/d0wLJo+P6YmjvBBEl40MJAMQg67WtQ1Ppe0MEjpX04E8fF1V2XCYWlq+v4qtSdLJgM8avY7JsXVrv8h0GDeHLBENdaXy1JgiwWXm/N93k2yGE3DEe3XPWYlFdXm3q8f3p8Qev1fBhA1VLDET48pcbOLIkXIl4S3MWuMARw==;kw4ueiQ5/12dRsaarP60/Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/should-tsla-stock-
 webUrl: "https://markets.businessinsider.com/news/stocks/should-tsla-stock-fans-give-up-on-driverless-cars-1031844512"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -23,20 +23,15 @@ topics:
   - AI
 
 related:
-  - title: "Driverless vehicle development sets ablaze a bonfire of billions of dollars"
-    excerpt: "The Mobileye driverless car logo is displayed on a vehicle at the ... Shanghai-based Biren Intelligent Technology (壁仞科技) develops artificial intelligence (AI) chips and is considered a promising domestic contender to compete with graphics chips ..."
-    publishedDateTime: 2022-10-23T02:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/10/23/2003787543"
+  - title: "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors"
+    publishedDateTime: 2022-10-27T18:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949"
     type: article
     provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/10/23/p12-221023-302.jpg"
-        width: 800
-        height: 533
-        isCached: true
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Driverless car development sets ablaze a bonfire of billions"
     excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
     publishedDateTime: 2022-10-24T13:46:00Z

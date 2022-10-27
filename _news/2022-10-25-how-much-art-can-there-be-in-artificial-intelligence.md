@@ -8,8 +8,8 @@ webUrl: "https://www.marketplace.org/2022/10/24/how-much-art-can-there-be-in-art
 ampWebUrl: "https://www.marketplace.org/2022/10/24/how-much-art-can-there-be-in-artificial-intelligence/amp/"
 cdnAmpWebUrl: "https://www-marketplace-org.cdn.ampproject.org/c/s/www.marketplace.org/2022/10/24/how-much-art-can-there-be-in-artificial-intelligence/amp/"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:

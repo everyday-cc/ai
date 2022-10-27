@@ -269,6 +269,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
+    excerpt: "Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it jointly owns with Volkswagen. Executives said they didn't see a path toward turning a profit on fully autonomous vehicles,"
+    publishedDateTime: 2022-10-26T21:34:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-92150455"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 39
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_8cb687cc2da440e6b2a759066a2c006d_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "Argo AI shuts down after Ford, VW end further investment"
     excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
     publishedDateTime: 2022-10-27T09:45:00Z
@@ -282,20 +296,6 @@ related:
       - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100704292_h.jpg"
         width: 1920
         height: 1264
-        isCached: true
-  - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
-    excerpt: "Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it jointly owns with Volkswagen. Executives said they didn't see a path toward turning a profit on fully autonomous vehicles,"
-    publishedDateTime: 2022-10-26T21:34:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/ford-disbands-argo-ai-autonomous-vehicle-unit-posts-92150455"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 37
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_8cb687cc2da440e6b2a759066a2c006d_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Ford-, VW-backed Argo AI to shut down"
     excerpt: "Ford said it will take $2.7B non-cash charge on its Argo investment. Argo employees were told that some of them would receive offers from Ford or VW, TechCrunch said."
@@ -329,6 +329,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Argo AI Is Shutting Down. What’s Next for Autonomous Vehicles?"
+    excerpt: "Ford Motor-backed Argo AI, an autonomous vehicle startup, is shutting down after Ford said it wasn’t able to attract new investors."
+    publishedDateTime: 2022-10-27T18:44:00Z
+    webUrl: "https://news.crunchbase.com/transportation/autonomous-vehicles-argo-ai-ford/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 17
 
 secured: "TwZdc+I2v6ubk7LvhK1jJRi3eS1J4DfvbIfpwH35yfmUmoUALIC41wQ6hlN+T2M1GK/CoF7u6XYFGR1q67h0EDUL7IpghZs/KTIlA9AUccnSHhM7IKbk9KZPvW3v32rLvjfNOeORQ9SPq9qM8LdC6uuxCJpWttOvkqm59IWhD90lvbLyNv4ZLapYroAjYemFrtN1cIk29p8zb8pcbHyS9yU1TPOvfJYBat9uBqQtQP/TpJP5OiyLF4/Tb/HWsohhigRJxwns9DKIoDto+iuZ6tGXWZZWedPI5sV2afNvrThqKg89zYMv1TelkUyTgS2p8Fdg+onfk9foVJ8I3WCO6d9NwrAxFHfGVCXjzXBLSSMOJsbD/RbaGohAtSh1TW0QbQlD7cf89b94gFa/82P/3S8W5aUYKyfoRg+hKSOavd0jtlQrBWbYeSXF/PgBiUU7G0aOa9eW9q6fUklTg8DIt9SrDhNKH8rHlYAALQyGL3ur3zop2ZIQKf91TCwW2fXRhCEbhAwAE7KQj1qEXEuTAw==;wrr1jdkW8awrQNu4aiWSFA=="
 ---

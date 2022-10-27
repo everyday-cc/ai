@@ -25,65 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars"
-    excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away."
-    publishedDateTime: 2022-10-26T23:34:00Z
-    webUrl: "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
+  - title: "Ford to end push to join self-driving vehicle industry, joining VW"
+    excerpt: "Both Ford and Volkswagen were in a joint venture to become two of the world's largest automakers to push to develop self-driving vehicles. That has ended."
+    publishedDateTime: 2022-10-26T22:33:00Z
+    webUrl: "https://www.abcactionnews.com/news/national/ford-to-end-push-to-join-self-driving-vehicle-industry-joining-vw"
+    ampWebUrl: "https://www.abcactionnews.com/news/national/ford-to-end-push-to-join-self-driving-vehicle-industry-joining-vw?_amp=true"
+    cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/ford-to-end-push-to-join-self-driving-vehicle-industry-joining-vw?_amp=true"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 69
+      name: ABC Action News
+      domain: abcactionnews.com
+    quality: 44
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
-    excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
-    publishedDateTime: 2022-10-24T23:16:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 40
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/10/diving-car.jpg?w=1280"
-        width: 801
-        height: 449
-        isCached: true
-  - title: "Ford loses $827 million in Q3 as self-driving tech partner folds"
-    excerpt: "CEO Jim Farley says the company now believes mass deployment of fully self-driving vehicles is \"a long way off\" as the company records a $2.7 billion non-cash charge for its investment in Argo AI."
-    publishedDateTime: 2022-10-26T20:51:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/ford-loses-827-million-q3-self-driving-tech-partner-folds"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0_0_0.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/a10b0ec/2147483647/strip/true/crop/1280x720+0+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F61%2F0d%2Fe0303027405ab1251a8b9aa74ef2%2Ffordvw.jpg"
+        width: 1280
+        height: 720
         isCached: true
 
 secured: "BK8JCFQI68a5Kws4hyGtq+JS4ey/kEXminTD9eCd/EuNc17rSf2uWtNxOl3YIhRhqrsfsoHZyJtgvV2bZFEgucB+ukgMTPartpyHLdL6gLKXr4UxclR2hZ11BqgDGH+jkuOUQ1sv5Tz3iQINMMilhfGzA/cLmx9+y5g+RQK7B78nbM2TdDGcE+Mam+i9ICfBkadVQwScEAjDbyLqCUUzFXrRloHaenLRLJ7wtb5pm/gtAA8A4NtdnOAJFyMaP53GTZeaPLac1tHLcNQ++IpN/4hYgffOLUHBeiPQsuSR4Kj9J5cnH4XDtIayslzUb5c2vxjmnaoFj5nNhIudkBCbe+lit0QiqnRDvGndFX3Y2o8=;9o4b/k5Bkc6HwcH1inKnuw=="

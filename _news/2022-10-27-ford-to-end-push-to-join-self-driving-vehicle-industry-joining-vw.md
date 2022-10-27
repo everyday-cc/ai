@@ -26,6 +26,22 @@ images:
     height: 720
     isCached: true
 
+related:
+  - title: "Ford, VW pull plug on robotaxis in blow to self-driving car industry"
+    excerpt: "By Matt McFarland, CNN Business Ford and Volkswagen, two of the world’s largest automakers, are shutting down their joint effort to develop self-driving cars, the startup Argo AI. Ford said Wednesday that it had concluded that the large-scale profitable commercialization of self-driving cars was further out then expected."
+    publishedDateTime: 2022-10-26T21:22:00Z
+    webUrl: "https://kesq.com/news/2022/10/26/ford-vw-pull-plug-on-robotaxis-in-blow-to-self-driving-car-industry/"
+    type: article
+    provider:
+      name: KESQ News
+      domain: kesq.com
+    quality: 24
+    images:
+      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+
 secured: "3n4eapOKyuNIHbni8L7XYtmRt1G+Nlo6MRUPoSDtSxd5Sv1o1n82689FDYyasKvDN1pCBPZwm+ZM8AFJpc1T8Wa14qwTkDvQViTNG7plqKJUuRxLf/ufB5Wk93siTCoVnePjNDBKPUAJMby4xa7bA/rg5WKn90nDZsyqa++L7CbwuygX22XUOvddrrnJ5gV9TGY3olsiQKQseU+xoEQb+5BEO3+l+PEIPup3RQLTwO+CRGKXRE/GwTPxXxzmTaGXHoH8p+cZVvLe9wcj/UaTZxDbC2XaZzG7dliGkjPQYYMegadzV7vmzgaIoSb0QoyMcVg5LnORbVoBz0gm/wirEeQIRHHsZM0OAL5PbZG0O+I=;J1+Kt+Y2y/Mwo6Xl/0Ds6A=="
 ---
 

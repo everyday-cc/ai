@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "October 2022 Riskalyze Fintech Five"
+    excerpt: "Founder and CEO Aaron Klein provides his take on the biggest news to hit advisor technology in the previous month."
+    publishedDateTime: 2022-10-27T19:13:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/october-2022-riskalyze-fintech-five"
+    type: article
+    provider:
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 4
   - title: "AppTech Payments Corp. Propels Fintech Industry Forward with Launch of Its Commerse™ Experiences-as-a-Service Platform"
     excerpt: "AppTech Payments Corp. (AppTech) (NASDAQ:APCX), an innovative Fintech company powering seamless, omni-channel commerce between businesses and consumers, today"
     publishedDateTime: 2022-10-24T10:00:00Z

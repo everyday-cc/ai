@@ -7,8 +7,8 @@ originalUrl: "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindst
 webUrl: "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Ars Technica
@@ -27,6 +27,19 @@ images:
     width: 760
     height: 380
     isCached: true
+
+related:
+  - title: "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits"
+    excerpt: "Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more complicated Technics building pieces, featuring gears and other mechanical components, to build semi-autonomous robots controlled by sensors and a programmable brick."
+    publishedDateTime: 2022-10-27T20:50:00Z
+    webUrl: "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177"
+    ampWebUrl: "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp"
+    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp"
+    type: article
+    provider:
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 69
 
 secured: "LRA8aOtTtwmSCVIEC609LPrrsc/AFJXqdZFtlGJ0A4EA8WDE3Y5/1F4WG6Dvwvzl6pnymWvS9O6SCc6XaTfS4znP/Lu7O+fve3PBRogRJ6fwsPqijVi2nlZL/vGuE4tCX/34IWfVm3mWSl0GYXwyBUg7n+CJkClm3qE4vc4Gy1HLoDkc7c9HF25wFerqzU1lSFgVPc0C34RLqCGLhiw5Btm4weJPtd28BED5HcmFU/48JOg+HLe8WTSWSdvilH/j4EQYUR6WnSUk4t2dD8CcOAhvv1TdxlH1/yOWbl7z+y7CzsZ07hWCjyL6C99ZvkfN3i2QLKMxwYtClHx1kZGWuu8skhlh8AI4CgyEy/w4dKdsxtRjf5ZNhx/18kWUYsja6+dLNMkDGNsM16sRndIPed+XreyVoFl4DP5yhXeRXd7jXwP6p/wYMYs/rofyF/QTmkqtkGnd8x3iHTuDhWqkdAd9t/Klyf7H5W8yJ7D4BXHhJ2sZ30EKK3RBqvXpVhPoaiUaTlrOu1UpjSfZ58pYdQ==;gf+JSgvm10oFI8oBIewCXw=="
 ---

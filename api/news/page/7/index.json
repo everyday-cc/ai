@@ -2,6 +2,394 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-20-delta-air-lines-wows-with-parallel-reality.md",
+      "title": "Delta Air Lines Wows With Parallel Reality",
+      "excerpt": "The parallel reality display allows up to 100 customers to each see their personalized flight information on that one digital screen — simultaneously, mind you. And yes, each customer who opts in can see only his or her own flight information.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "originalUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63503a73e55581d8544d80ff/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/scottkramer/2022/10/19/delta-airlines-wows-with-parallel-reality/amp/",
+      "publishedDateTime": "2022-10-19T10:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
+      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
+      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
+      "title": "Waymo driverless rides are coming to Los Angeles",
+      "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "originalUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03CfCz72En1mxYmjI6USYVC/hero-image.fill.size_1200x675.v1666127617.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
+      "title": "A deep artificial neural network powered by enzymes",
+      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
+      "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
+      "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
+      "originalUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/d772ecd/2147483647/strip/true/crop/841x442+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F05%2Fae%2Fa13f44134fbab219dc17749f4e99%2F309672506-100477289525088-4358260222318445285-n-1.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions.md",
+      "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
+      "excerpt": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/implement-rstudio-data-lake.jpg",
+          "width": 1339,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:32:53-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-waymo-says-its-bringing-robotaxis-to-la.md",
+      "title": "Waymo says it’s bringing robotaxis to L.A.",
+      "excerpt": "Driverless car company Waymo already operates autonomous taxi fleets in Phoenix and San Francisco. On deck: Los Angeles. The company, owned by Google parent Alphabet, said Wednesday that it plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la",
+      "originalUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/51d0785/2147483647/strip/true/crop/1680x1124+0+72/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F5b%2Fdd853cf745a492ecb89820e519b2%2Fwaymo-mapper-in-la-1909.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la?_amp=true",
+      "publishedDateTime": "2022-10-19T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-design-patterns-for-serial-inference-on-amazon-sagemaker.md",
+      "title": "Design patterns for serial inference on Amazon SageMaker",
+      "excerpt": "As machine learning (ML) goes mainstream and gains wider adoption, ML-powered applications are becoming increasingly common to solve a range of complex business problems. The solution to these complex business problems often requires using multiple ML models. These models can be sequentially combined",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/design-patterns-for-serial-inference-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/19/serial-inference-sagemaker.jpg",
+          "width": 1340,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T08:52:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-watch-googles-ping-pong-robot-pull-off-a-340-hit-rally.md",
       "title": "Watch Google’s Ping-Pong robot pull off a 340-hit rally",
       "excerpt": "Google researchers have used an interesting method to create a powerful (but friendly) Ping-Pong bot capable of returning hundreds of times.",
@@ -854,362 +1242,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-jfk-airport-offers-eyewitness-news-exclusive-ride-aboard-new-driverless-shuttle.md",
-      "title": "JFK Airport offers Eyewitness News exclusive ride aboard new driverless shuttle",
-      "excerpt": "QUEENS, New York (WABC) -- The future is taking off at John F. Kennedy Airport, where a driverless shuttle is being tested out that would take passengers to and from the long-term parking lot.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "originalUrl": "https://abc7ny.com/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/12344004_shuttle.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "cdnAmpWebUrl": "https://abc7ny-com.cdn.ampproject.org/c/s/abc7ny.com/amp/jfk-airport-new-shuttle-driverless-vehicle-port-authority/12343611/",
-      "publishedDateTime": "2022-10-18T20:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc7NY",
-        "domain": "abc7ny.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-google-adds-a-no-code-computer-vision-platform-to-vertex-ai.md",
-      "title": "Google Adds A No-Code Computer Vision Platform To Vertex AI",
-      "excerpt": "Currently, in preview, Vertex AI Vision is an extension of AutoML Vision that can train models to perform image classification and object detection.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "originalUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634f50b726f1d49169c9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1067,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/janakirammsv/2022/10/18/google-adds-a-no-code-computer-vision-platform-to-vertex-ai/amp/",
-      "publishedDateTime": "2022-10-18T18:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision",
-        "Microsoft AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
-      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
-      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-bill-allowing-driverless-vehicles-in-pennsylvania-advances-in-senate-bringing-its-adoption-closer.md",
-      "title": "Bill allowing driverless vehicles in Pennsylvania advances in Senate, bringing its adoption closer",
-      "excerpt": "State legislators in Harrisburg have further advanced a bill that would permit autonomous vehicle companies operating in Pennsylvania the ability to conduct testing of their self-driving machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-exercise-strengthens-cognitive-function-in-stroke-patients.md",
-      "title": "Exercise Strengthens Cognitive Function in Stroke Patients",
-      "excerpt": "Exercise appears to significantly improve cognitive function following a stroke, bringing patients with mild to moderate cognitive impairment back to near normal cognition. Results of a new proof ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/982715",
-      "originalUrl": "https://www.medscape.com/viewarticle/982715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/gty_221019_nurse_helping_senior_lift_weights_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
-      "title": "New research paves way for innovative theory of cognitive processing",
-      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-rivian-hires-former-waymo-exec-for-new-autonomy-ai-role.md",
-      "title": "Rivian hires former Waymo exec for new autonomy, AI role",
-      "excerpt": "Rivian has hired former Waymo executive James Philbin to lead autonomy and AI at the automaker, a new role that signals the company’s interest in automated driving technology. Philbin was ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
-      "originalUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/IMG_2291.jpeg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/rivian-hires-former-waymo-exec-for-new-autonomy-ai-role/amp/",
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
-      "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
-      "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/swap-robotics.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
-      "publishedDateTime": "2022-10-18T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

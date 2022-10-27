@@ -5,10 +5,12 @@ excerpt: "In this article, I'll talk about some of the biggest problems in healt
 publishedDateTime: 2022-10-27T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +24,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "1YXM+fcwnx88VCP30iEi6OGP5Adi/O9suaBAyK0FlqKWNspAke77SNLh25jFMnJQp02U49InZ0pXNVTXYCXZYmcLBrptDLxovgbTUPN6aa7whzlBJXeoZosCYQk77qmw6KsE2j+8x1tWOYghkguRb5kWyxK0q1uaKMco6kSMFvTg0+wrNiYfZVvoQvgHzamip3KFF1WeuUG1aB0WhkT6Te1VrsIF69YpnHuqSUk7F9PWGe6dLleNzy8OC4lFC362+mP1rFxhn7Rog8G5WyFbgPMu/46jG9jan8/2wOyhyHi0+CfoCwnEW5P7lwG4QZUM2xnxIuIrflQ+AxW0REfzaNjRHvMd/lQa0sbt/ZQ41QA=;xKT4oDyRYKQN0MvJb9yQ6Q=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/62bc54b6d9785913bcd547b5/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "DdTF7rXtAF2GNI9mrto/tokQwFMlb2SrLsxueqW3Jyi2PVrQnXld6b0/ywijf1uOIPMuqnLtRlFyCBJ09HJQVpNDeT32qt8mUeCIH5ImhIk5tu+RkCrbFEcfPm1Auxvm6Z9my1z/hJ9Iuj3HaZIucAaD6n7tJ6Fi+aJdeUt+2/0GjZK/lhZ2/Y1FkEx3qu0yk1K9oauafUYzXJLKYuiBczeVErXb6bNlOrPE2PSD6gosLT6zBYphZoyxOrP806agmSoUWLT+JniFn9F7lQ9uFget8FN5xGPo+kFBmxpWmhRNNtJNax3KrvWDWbTbNsyfqi4KEIZTXX/vB7FLMxhPvHkRUZgeIm9YzBwNThfMcuY=;H429/s2vLVtG/YKGslp7rw=="
 ---
 

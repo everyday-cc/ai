@@ -7,7 +7,7 @@ originalUrl: "https://www.autonews.com/automakers-suppliers/ford-loses-827-milli
 webUrl: "https://www.autonews.com/automakers-suppliers/ford-loses-827-million-q3-self-driving-tech-partner-folds"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,65 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars"
-    excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away."
-    publishedDateTime: 2022-10-26T23:34:00Z
-    webUrl: "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
+  - title: "Ford posts $827M loss in Q3 as it shuts down self-driving startup it backed"
+    excerpt: "Ford executives acknowledged the challenges in developing and scaling Level 4 advanced driver assistance systems and said it will take years."
+    publishedDateTime: 2022-10-26T22:22:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/ford/2022/10/26/ford-posts-q3-loss-as-self-driving-vehicle-startup-it-backed-shutters/69593663007/"
     type: article
     provider:
-      name: CNN
-      domain: cnn.com
-    quality: 69
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 22
     images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
-  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
-        width: 600
-        height: 400
-        isCached: true
-  - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
-    excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
-    publishedDateTime: 2022-10-24T23:16:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 40
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/10/diving-car.jpg?w=1280"
-        width: 801
-        height: 449
-        isCached: true
-  - title: "Ford, VW pull plug on robotaxis in blow to self-driving car industry"
-    excerpt: "By Matt McFarland, CNN Business Ford and Volkswagen, two of the world’s largest automakers, are shutting down their joint effort to develop self-driving cars, the startup Argo AI. Ford said Wednesday that it had concluded that the large-scale profitable commercialization of self-driving cars was further out then expected."
-    publishedDateTime: 2022-10-26T21:22:00Z
-    webUrl: "https://kesq.com/news/2022/10/26/ford-vw-pull-plug-on-robotaxis-in-blow-to-self-driving-car-industry/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 24
-    images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
+      - url: "https://www.gannett-cdn.com/presto/2021/07/20/PDTN/02d64af3-8b1a-4332-8901-efabe3957f26-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_010.jpg?auto=webp&crop=6745,3795,x0,y342&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "/0wQVNAdl6NUkfhGSMzsK86f5qK4OJF/xCGJOSl5KrOMKFEa67IVogqkE/xGEjM2Nb2TEun2YzNcrLoP7gJSRt38qQl8Grr1zdK672IJXFao8lI0RdnSxKlUe7XTYzAmJBzBqjsJM6Jv4HOOjkLl7uLgcxmavRa8QQ9zamkZfnCyVHTjyc5+3V28cNewStA3CK/sphS+9shEijMUGLUE1IbkQRFY41lIa5MD8Nvz6Hp6YPTUkH2NTLO0/UrSkottG6WGOtLLWz0ebKbnGpNPisVBqahyygc8QFLDTIEHFnN6IVEzMo6utCVtzyR75l1akSIPcFSZesm8XsON03VuZCFTP+TJW5Yvd7aTz450sio=;fARhCaFhGNNC6QJ1qvkmHA=="

@@ -37,6 +37,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is"
+    publishedDateTime: 2022-10-27T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Natural Language Processing (NLP) Software Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 99 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Software Market is projected"
+    publishedDateTime: 2022-10-27T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-99-pages-report-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 52
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Size [2022-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report | 104 Pages Report"
     excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
     publishedDateTime: 2022-10-27T01:56:00Z

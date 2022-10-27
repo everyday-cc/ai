@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutd
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
 type: article
 quality: 69
-heat: 110
-published: true
+heat: -1
+published: false
 
 provider:
   name: CNN
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "It’s time to admit self-driving cars aren’t going to happen"
+    excerpt: "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible."
+    publishedDateTime: 2022-10-27T17:53:00Z
+    webUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/"
+    ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 74
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864"
+        width: 1200
+        height: 864
+        isCached: true
   - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
     excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
     publishedDateTime: 2022-10-24T00:00:00Z
@@ -61,34 +77,15 @@ related:
         width: 801
         height: 449
         isCached: true
-  - title: "Ford loses $827 million in Q3 as self-driving tech partner folds"
-    excerpt: "CEO Jim Farley says the company now believes mass deployment of fully self-driving vehicles is \"a long way off\" as the company records a $2.7 billion non-cash charge for its investment in Argo AI."
-    publishedDateTime: 2022-10-26T20:51:00Z
-    webUrl: "https://www.autonews.com/automakers-suppliers/ford-loses-827-million-q3-self-driving-tech-partner-folds"
+  - title: "Why Do Self-Driving Cars Crash?"
+    excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
+    publishedDateTime: 2022-10-26T05:00:00Z
+    webUrl: "https://www.realclearscience.com/2022/10/26/why_do_self-driving_cars_crash_861198.html"
     type: article
     provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/ARGO-01_i_0_0_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Ford, VW pull plug on robotaxis in blow to self-driving car industry"
-    excerpt: "By Matt McFarland, CNN Business Ford and Volkswagen, two of the world’s largest automakers, are shutting down their joint effort to develop self-driving cars, the startup Argo AI. Ford said Wednesday that it had concluded that the large-scale profitable commercialization of self-driving cars was further out then expected."
-    publishedDateTime: 2022-10-26T21:22:00Z
-    webUrl: "https://kesq.com/news/2022/10/26/ford-vw-pull-plug-on-robotaxis-in-blow-to-self-driving-car-industry/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 24
-    images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
-        isCached: true
+      name: RealClearScience
+      domain: realclearscience.com
+    quality: 4
 
 secured: "HB7iI4CibLohNSSUE4+whXZaBrZDR04xmh+ExWQm+PXFsMC72J/8BKslf6HCZP62Tc+lXmRc5K6ujPLqNtVRVT3u6A5mWH4aWTydQvko06pcKPhBXxt1Uuq/xGo3lIeORBuJfZM8WUQoFHu73purVInlVqrfTZX+EUbSZbMJjCfCX7971L6k3rLJFDaW1grZli4YhBDydA9M/TkHVElvZQROztaLHQmzi3y5q63huDr3jOPxZqeGpPyyvIIMJNUWTnxYUKg7H59D604jgMXQEaiXFfN7AfB9Fh72+N/XDtSZWdoVm6sxMOwFq7Zyt6z7FOvi0rWi7VFcBKznOgeSOMJBsetYXisHw511vob2SeY=;DJMr13SK4a4z+Y3NoduJrw=="
 ---

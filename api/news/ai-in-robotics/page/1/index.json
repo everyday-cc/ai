@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
+      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
+      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
       "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
       "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
@@ -104,6 +156,58 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
+      "excerpt": "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T12:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1350,110 +1454,6 @@
         "name": "wksu",
         "domain": "wksu.org",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-we-are-entering-a-new-era-for-ai-powered-robotics.md",
-      "title": "We are entering a new era for AI-powered robotics",
-      "excerpt": "Humanoid robots are yet to roam the world but with advancements like Tesla's \"Optimus,\" we are embarking on the era of AI-powered robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "originalUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/we-are-entering-a-new-era-for-ai-powered-robotics/amp/",
-      "publishedDateTime": "2022-10-16T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
-      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
-      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-10-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

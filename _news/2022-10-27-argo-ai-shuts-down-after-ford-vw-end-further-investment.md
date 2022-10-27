@@ -283,7 +283,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_8cb687cc2da440e6b2a759066a2c006d_16x9_992.jpg"
         width: 992
@@ -321,6 +321,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Argo AI Is Shutting Down. What’s Next for Autonomous Vehicles?"
+    excerpt: "Ford Motor-backed Argo AI, an autonomous vehicle startup, is shutting down after Ford said it wasn’t able to attract new investors."
+    publishedDateTime: 2022-10-27T18:44:00Z
+    webUrl: "https://news.crunchbase.com/transportation/autonomous-vehicles-argo-ai-ford/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 17
   - title: "Argo AI Autonomous Vehicle Startup Backed by Ford and VW is Closing Down"
     excerpt: "Argo, the autonomous driving startup backed by Ford and VW, is shutting down after five years as it failed to develop marketable L4 tech."
     publishedDateTime: 2022-10-27T13:31:00Z

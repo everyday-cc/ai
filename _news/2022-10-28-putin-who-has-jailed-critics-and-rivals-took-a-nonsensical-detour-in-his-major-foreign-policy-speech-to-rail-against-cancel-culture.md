@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T17:05:00Z
 originalUrl: "https://www.businessinsider.com/russia-putin-railed-against-cancel-culture-after-jailing-critics-rivals-2022-10"
 webUrl: "https://www.businessinsider.com/russia-putin-railed-against-cancel-culture-after-jailing-critics-rivals-2022-10"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: Business Insider

@@ -7,7 +7,7 @@ originalUrl: "https://www.i24news.tv/en/news/israel/technology-science/166678127
 webUrl: "https://www.i24news.tv/en/news/israel/technology-science/1666781275-hebrew-university-to-launch-research-partnership-with-meta-ai"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,38 @@ images:
     width: 1024
     height: 683
     isCached: true
+
+related:
+  - title: "Hebrew U to open joint PhD program, research partnership with Meta AI"
+    excerpt: "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure"
+    publishedDateTime: 2022-10-26T07:23:00Z
+    webUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/"
+    ampWebUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
+    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
+    type: article
+    provider:
+      name: The Times of Israel
+      domain: timesofisrael.com
+    quality: 59
+    images:
+      - url: "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg"
+        width: 640
+        height: 400
+        isCached: true
+  - title: "Meta’s Boost For AI Research At Hebrew University"
+    excerpt: "Meta, formerly known as Facebook, is joining forces with Hebrew University (HU) to develop cutting-edge artificial intelligence (AI)."
+    publishedDateTime: 2022-10-26T13:04:00Z
+    webUrl: "https://nocamels.com/2022/10/metas-boost-for-ai-research-at-hebrew-university/"
+    type: article
+    provider:
+      name: NoCamels - Israeli Innovation News
+      domain: nocamels.com
+    quality: 39
+    images:
+      - url: "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2022/10/meta.jpg"
+        width: 1200
+        height: 520
+        isCached: true
 
 secured: "MC95XyXJhTGSHa/De9Ggmr+r8HdFRRJikAvPOTgCBUYSC6phSiZiRS576CexzCtdf+0tOoDvjMJNtWahXLcYUuuMw55AQdrF1UpxaTlUackazrAopnVEKkdznUVaIR0qQXrNR/Dt6DHs67OMUWg9o0NYGKztE1mWPF6hq4naYnrrUUhd/1twELcdI6vXVy2BDDlKXR+OfRfSeH4y3x075fah6/HxxposJ9RItUxH2prx/ai2ctBsSpEtP04slFmQvhmKoCb7QKsNAHo7bVOGzPIzlM5v9im6/QtJcZIXIfDLcwjPym+o/KUJeClfMQhYfULEpShbyJ+3RAYDj9FOO36alia59Hhz8GZVmWb0SFU=;mhkSTQ4S3ODaWIu3enRtwg=="
 ---

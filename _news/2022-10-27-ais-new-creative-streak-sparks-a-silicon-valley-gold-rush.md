@@ -8,8 +8,8 @@ webUrl: "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-va
 ampWebUrl: "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp"
 cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Facebook AI
 
 images:
   - url: "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg"

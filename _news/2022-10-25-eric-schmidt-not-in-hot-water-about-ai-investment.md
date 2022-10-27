@@ -34,6 +34,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 39
+  - title: "Schmidt Futures Announces UCSD as Partner of $148M Initiative Accelerating Scientific AI Use"
+    excerpt: "The University of California San Diego has been selected to join the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a"
+    publishedDateTime: 2022-10-27T18:55:00Z
+    webUrl: "https://www.datanami.com/this-just-in/schmidt-futures-announces-ucsd-as-partner-of-148m-initiative-accelerating-scientific-ai-use/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 8
 
 secured: "EQo//xlnraNIFtrBitmvHJ72z2Op7kzVjcL1Uq885CjbDNzbpUkPS8hyUL15QAB5pAejTpDBp0JyFdyU8BlhgtFL1IH1W0eYC7o0NVNhvFiwNO9TVO+LFcrhBiCZ5fX+vYpqWfxxIo6CA4hPAPabU2dDloOnXDQuSypuxtbkHHKdC0hDGQOfVJGc3mIqOh5VajF9RSaN+o0J96S/OPSelsF8iRsnjZHMq+pVjDiGDJmuw8WOjUTzrJxeicNsAyCiwDssTlr1Do7BDpgEe4YJwBqbpx+tNh1NC0V2GHYxxv0ttotGju8u4f0fUEGHC1LcOE139/NwgSJmN3/8grXWXlYsT6VMBA2xDgQbAzCHgjDHv3wGvnAW3j9aqtU4wOwRoHnDG0tcGDj7sSmb7/liTtStSN4/UmlH4t/HpSWaaMdHjF6oFUDI1iBJs7wAMnx+XWMpwPGuGy0uzOlnVOwcyg4F6UBr6vycF2++KYQq10vuHFR55o5wrYQ7fcljs5egXh+f3SVEEVHFZM0ekBjnOw==;mx6zatBZEw51HWYch4kuZw=="
 ---

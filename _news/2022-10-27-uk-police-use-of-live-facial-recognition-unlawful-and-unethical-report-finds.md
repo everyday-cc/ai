@@ -2,9 +2,9 @@
 category: news
 title: "UK police use of live facial recognition unlawful and unethical, report finds"
 excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-publishedDateTime: 2022-10-27T13:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+publishedDateTime: 2022-10-27T14:50:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
+webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
 type: article
@@ -32,6 +32,22 @@ images:
 
 related:
   - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
+    excerpt: "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,"
+    publishedDateTime: 2022-10-27T20:25:00Z
+    webUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 79
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg"
+        width: 1334
+        height: 829
+        isCached: true
+  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
     excerpt: "Researchers devise an audit to test whether police deployment of facial recognition poses a threat to fundamental human rights, and analyse three instances of"
     publishedDateTime: 2022-10-27T15:23:00Z
     webUrl: "https://www.cam.ac.uk/research/news/uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts"
@@ -46,6 +62,6 @@ related:
         height: 428
         isCached: true
 
-secured: "pUNKqUySllKaTybUMWt7sCub5TrY1NhowZ+kK0UgpNz5mmKwGqSZzwP/B9sp4/j9orIU7vXbJXJLW3JSewkSmXVt/HxVAZWvY5BkDDN8som7NUoPn3zTr+OIQTcH/xTznjfsD/YD0nfBM4wnYu+AowNaZQ89Sx0HkIrksNyejueYQoAzvIv8xzxbNiJQgO6Vl3N5exCUR8Vbt3/yV8fwJA3sdpGU1KtjbRpYWIptxwnOCgzHhUWtPJSp1VXwmoKzgxoHOC+wL3v4Qi7zGb9ddLF44c6p+iKzEzohOrexHDXODcOW6C4PuPSHoMh9lkrPmoamND/z718EM6W1oaaUp+BQ1926Nyjo00J+43kd0mcQSCUTp4jJyAw+BQNPPDWRtWMR015/3iWQSb6mLEcvUHd4SE/T4m5M1mJkkU+K7u/wasB3ik3GaqOGFMrSve64fbGTOCOkU+cfU/0cnMzZyIpzmpOgOUrZK4UoyeyMPvUMXK/r6ZgCL1c/fOZpycQiMLks/5qVdNVZ+v31tW3shw==;Uah02AbWZVMKarL+HlVkcA=="
+secured: "Ms4I4WeTFxDykwhWyQML2KvDuShM2eNWxl62qyMexdvUxjRNMZAiFV6pEOA28Gc9vERRPbHraLcDz8HOt5Jy9AczVqAN4QHUBHlX7eKFv4GM2dnE53Qtcb0Si59y65qE1kpbrVLZ4jbJk8GNCpmHDkQwf2gtmAdNdrEKt9/eufIOdYFqVPuV1vpEoOk5n/drTHBC8fgt1d4CSieCF+4lkdH+cOK0F7rUuOzJjUNoxCbSg/SWms/hE5lva8N5JbWBoz02ghWsy3fmDKOm3CMBXUNVbusI/2GDxoyXkgombuQ/GPk/ejQdI6RiV31L6a3+eGS1EH7to3/bd7duVWEZTwoPGdLdK7ucjVfLLvqgJiE=;Bk4ksT0h2VTTHVSzKOk1kQ=="
 ---
 

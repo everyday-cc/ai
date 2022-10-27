@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T19:05:00Z
 originalUrl: "https://theconversation.com/how-shoring-up-drones-with-artificial-intelligence-helps-surf-lifesavers-spot-sharks-at-the-beach-192498"
 webUrl: "https://theconversation.com/how-shoring-up-drones-with-artificial-intelligence-helps-surf-lifesavers-spot-sharks-at-the-beach-192498"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Conversation

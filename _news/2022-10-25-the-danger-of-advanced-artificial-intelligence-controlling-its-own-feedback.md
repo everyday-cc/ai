@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-24T21:10:00Z
 originalUrl: "https://theconversation.com/the-danger-of-advanced-artificial-intelligence-controlling-its-own-feedback-190445"
 webUrl: "https://theconversation.com/the-danger-of-advanced-artificial-intelligence-controlling-its-own-feedback-190445"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Conversation
@@ -14,6 +17,17 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "The danger of advanced artificial intelligence controlling its own feedback"
+    excerpt: "How would an artificial intelligence (AI) decide what to do? One common approach in AI research is called \"reinforcement learning.\""
+    publishedDateTime: 2022-10-24T16:32:00Z
+    webUrl: "https://techxplore.com/news/2022-10-danger-advanced-artificial-intelligence-feedback.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 15
 
 secured: "R7D3G6N7R9GUhE38uYhjW+YS7peEjvOkpyeEuSjzV0TBtUZ+tfm84LnMzuGgLeW+/hwg3WuZiZpkGhKUY2rkm3devrUeja+mAorYY0JZpI0mwdjZxqmxs8G8efJ0IPaPycNU9qmkaR8vjwX6OdRked21RdCcPhegiKQVTsPGLL91CxHyUgKPBjOIaVKxBnGyrsa9V9baBtI1c4k839ni6gd0ESk4MCvK+or0ugwV7zlXXn4Uo05jkSKWsLkNSROT6ulRBCTPvOTLHuL/VbgIqIyA746niTkMDGqdTYpGAzIW4wJF8vILWuOBzYf4XmtYlQxiuz7AL1j6fwuJ089vHNz+EzAQNA7ss+WzLHpKkPU=;zZAmWsJED8si7ulLLfP1sA=="
 ---

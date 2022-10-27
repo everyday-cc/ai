@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race"
+    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors"
+    publishedDateTime: 2022-10-27T18:58:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Should TSLA Stock Fans Give Up on Driverless Cars?"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) may be about to fall significantly behind in the"
     publishedDateTime: 2022-10-27T16:08:00Z
@@ -28,20 +37,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Driverless vehicle development sets ablaze a bonfire of billions of dollars"
-    excerpt: "The Mobileye driverless car logo is displayed on a vehicle at the ... Shanghai-based Biren Intelligent Technology (壁仞科技) develops artificial intelligence (AI) chips and is considered a promising domestic contender to compete with graphics chips ..."
-    publishedDateTime: 2022-10-23T02:07:00Z
-    webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/10/23/2003787543"
-    type: article
-    provider:
-      name: The Taipei Times
-      domain: taipeitimes.com
-    quality: 37
-    images:
-      - url: "https://www.taipeitimes.com/images/2022/10/23/p12-221023-302.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "8Ux1KKXLB0CMXIffdVc1XauCQFhkjK3Ug3GieumW4TIcBNLrE2DzFxFid/oatlyxYza7SKENFSFNaHjjEgcqLDR2ocsjisec/YcB7dClbiYh6KS5lrmWyiwLPfnxUQFyaENxV6cfeIHPI/aEcpU/jcEuvNvFccMlelkNVIyLFY9sPGGlKYkdT+hFvIA4Kp2ziJJmR6nkO4nfbYht5fg/NpIxjmGLBKMQMXa2Y8CDKnx/ilIBd9m9N+U0z5w/xT/F3zbBelZMcWrAceLKa02GgtJhsEDmzIOEirgdoZVWwTjg8LroRFPA2XmvzirV35ylz9acRrCe+eIaF+fd3gM9mwJ+SzEtIXYxs65rDWfVvEM=;elaoPDlRimU2e/RpLcxXDg=="
 ---

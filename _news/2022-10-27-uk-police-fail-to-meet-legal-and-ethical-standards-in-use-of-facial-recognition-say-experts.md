@@ -7,7 +7,7 @@ originalUrl: "https://www.cam.ac.uk/research/news/uk-police-fail-to-meet-legal-a
 webUrl: "https://www.cam.ac.uk/research/news/uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts"
 type: article
 quality: 59
-heat: 69
+heat: -1
 published: false
 
 provider:
@@ -26,10 +26,26 @@ images:
     isCached: true
 
 related:
+  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
+    excerpt: "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,"
+    publishedDateTime: 2022-10-27T20:25:00Z
+    webUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
+    ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 79
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg"
+        width: 1334
+        height: 829
+        isCached: true
   - title: "UK police use of live facial recognition unlawful and unethical, report finds"
     excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-    publishedDateTime: 2022-10-27T13:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    publishedDateTime: 2022-10-27T14:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     type: article

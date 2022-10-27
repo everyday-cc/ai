@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T18:12:00Z
 originalUrl: "https://www.hstoday.us/featured/perspective-machine-learning-and-data-fusion-enable-improved-decision-intelligence-to-screen-asylum-seekers-and-refugees/"
 webUrl: "https://www.hstoday.us/featured/perspective-machine-learning-and-data-fusion-enable-improved-decision-intelligence-to-screen-asylum-seekers-and-refugees/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Homeland Security Today

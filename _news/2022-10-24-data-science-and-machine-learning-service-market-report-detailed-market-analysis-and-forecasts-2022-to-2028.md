@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-science-and-machine
 webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
 type: article
 quality: 67
-heat: 187
+heat: 197
 published: true
 
 provider:
@@ -118,6 +118,20 @@ related:
     excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-10-25T02:22:00Z
     webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
+    publishedDateTime: 2022-10-27T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-10-27"
     type: article
     provider:
       name: MarketWatch

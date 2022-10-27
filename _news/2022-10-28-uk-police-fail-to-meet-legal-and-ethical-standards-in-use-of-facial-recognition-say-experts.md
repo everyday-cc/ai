@@ -1,0 +1,64 @@
+---
+category: news
+title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
+excerpt: "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,"
+publishedDateTime: 2022-10-27T20:25:00Z
+originalUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
+webUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
+ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
+type: article
+quality: 79
+heat: 99
+published: true
+
+provider:
+  name: techxplore
+  domain: techxplore.com
+
+topics:
+  - Computer Vision
+  - AI
+  - AI Ethics
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg"
+    width: 1334
+    height: 829
+    isCached: true
+
+related:
+  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
+    excerpt: "Researchers devise an audit to test whether police deployment of facial recognition poses a threat to fundamental human rights, and analyse three instances of"
+    publishedDateTime: 2022-10-27T15:23:00Z
+    webUrl: "https://www.cam.ac.uk/research/news/uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts"
+    type: article
+    provider:
+      name: University of Cambridge
+      domain: cam.ac.uk
+    quality: 59
+    images:
+      - url: "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/news/research/news/minderoo.jpg"
+        width: 885
+        height: 428
+        isCached: true
+  - title: "UK police use of live facial recognition unlawful and unethical, report finds"
+    excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
+    publishedDateTime: 2022-10-27T14:50:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/ad24ddb9a620b2e3ea95230da52f0d148502edea/0_11_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=d37d7343bf108263dff19b9436aae3a8"
+        width: 620
+        height: 372
+        isCached: true
+
+secured: "I/H8zRibE8aeTpTGULZ8yNqRHC6bSLC8p6dyz/Q4Ht7Soot4/ijvE0w2mdT+J/8FAb8His0UEfPpST5Ep0TjLP9izRu84Ub1J+AA1CWieF6O4a861IzT50PpbXDINirRIPHP0TYfZEWjh5z4VQquVUJqR+rVLFCXorewH7cklAAg2unT+4ANRtzU+635gSgclmF19qUwKaS9lL4lhigNDn3KaQcQkWkZtUPbptmYR7iLqNJYk1Znz8feJjVw1B2UtASQ6wPhnWKrPIN81L6oG6O9wjbn9OKTdAPkSU62TSUC9BOCZ3PHXXYAcuz4Eysa6Q2Pu0RqBOo1DzrzSq1OQecl+VR7rEbOby0g6Pg2WF4=;wYpvwpObQ4z/LQsgf7D7Cw=="
+---
+

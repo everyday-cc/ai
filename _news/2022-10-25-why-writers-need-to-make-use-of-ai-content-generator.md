@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-g
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Impacts
@@ -41,6 +41,15 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "How AI image generators could help robots"
+    excerpt: "AI image generators, which create fantastical sights at the intersection of dreams and reality, bubble up on every corner of the web. Their entertainment value is demonstrated by an ever-expanding treasure trove of whimsical and random images serving as indirect portals to the brains of human designers."
+    publishedDateTime: 2022-10-27T18:11:00Z
+    webUrl: "https://techxplore.com/news/2022-10-ai-image-robots.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
 
 secured: "j5BdA+mligYnclOhK532D7YXjorkzlu/PTE5SusUZJxDyhW/KWI5w1JYLHzBpjkVCsiO1LiYcOQk9H1bYSpPUTq0opql3MSl33wfAqh//tqaNd1ESer/XYRzf7Rmny7aXqFKXOe8ctTFA6xqV1Lr/hCVVVO5sELrPR61Y18nylQB0GNo1jYzFJHQqbU/vM1YpOtsr5C6MpoJxdlUd7KM49AJUTFp0+mpji9PQEHfhmVNPDTUiN9qZnPd5ffKVph6lk48T40lJqjrsdTehSsTCYM3cfYHm6WNDwK7P+RObSmDgUX59v8ZnlSzbc/v22Y8OupMOMvXjw48ZNRzNW0prlBYprexS/bfy1foRVrvmleLQZ7aN2QhlEB0r05GuilftoTFIrE2ZcNOizL3Wa4nRJmepRBEiODNDj89XyauCcvZCYgKaH4M/p794SeWc/oqJgggBjqihhUcVXNYvKpzA2DbCg/ZBkoTqo03fFrm35ofU0d4y3xBvpRVuClmjelf3V8FveHaoloSPSKgjuFp+Q==;Da9qHbmihzAvhk2uI/cAHw=="
 ---

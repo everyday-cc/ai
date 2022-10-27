@@ -26,6 +26,17 @@ images:
     height: 394
     isCached: true
 
+related:
+  - title: "Deep-Learning Algorithm Can Detect Cancer Spread Following Surgery"
+    excerpt: "New research shows that a deep-learning algorithm that uses computed tomography scan images can help predict the spread of head and neck cancer outside of the neck lymph nodes."
+    publishedDateTime: 2022-10-27T17:30:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-algorithm-can-detect-cancer-spread-following-surgery"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 4
+
 secured: "em92mEvnRYAdgHFOI+5NC0+kpx15jiVwA4VPCs+w8X3SLYNY6sqaf81vnTGtsvK/Spw5KukZzZZHCrq/i8h2tzUP4SV3FSuBQaOtbKnATYuJdnu5TNSgqzST4o381uGUYXMpWVeWZaBt+TTPVjHlUzgpcrBOl+0tCWxLNq/Fld3ZFOyDBxYVsCCnGjoI8UbosjaoGZaG8kyNTRaqyAsIzalP2UTCla0meGGhm9hcyXR99vVu4zm0wkFGa2i1w990TkqK/Z0ZtEdVjhtNUFzo5HnyHFaqTA52KTmxUz5eeFiQWEWSNI5pfFh3oyYZLP6tqcELU8bTUDmlDqBlQYl/4USlX8gCx3X6w96MmsSsmdI7hS7rukro8Los6sxolX4z4IhYNeiI1sbIKnPGTz6Kl8v2jxkiA7Kd0/gRaWyRRh7iuZutvljVnzDhx4nj5iI++vTUKfZduAbZ/1TGTrRvvOcDPpEYYpZvL3MBiUSr+JoAUMLiSVg8HMHWYbIa3E1tHjXK/OwgZ5TRCY/oC5aFpQ==;a9iXRmVeyOfqq6tBos4UYQ=="
 ---
 
