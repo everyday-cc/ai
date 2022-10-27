@@ -8,6 +8,9 @@ webUrl: "https://www.scientificamerican.com/article/ai-predicts-what-chemicals-w
 ampWebUrl: "https://www.scientificamerican.com/article/ai-predicts-what-chemicals-will-smell-like-to-a-human/?amp=true"
 cdnAmpWebUrl: "https://www-scientificamerican-com.cdn.ampproject.org/c/s/www.scientificamerican.com/article/ai-predicts-what-chemicals-will-smell-like-to-a-human/?amp=true"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: Scientific American

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T12:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
 webUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
 type: article
+quality: 58
+heat: 58
+published: false
 
 provider:
   name: Business Insider

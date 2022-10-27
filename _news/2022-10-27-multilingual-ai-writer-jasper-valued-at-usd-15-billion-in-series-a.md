@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T11:30:00Z
 originalUrl: "https://slator.com/multilingual-ai-writer-jasper-valued-usd-1-5-billion-series-a/"
 webUrl: "https://slator.com/multilingual-ai-writer-jasper-valued-usd-1-5-billion-series-a/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Slator

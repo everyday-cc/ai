@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/data-science-and-machine
 webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
 type: article
 quality: 67
-heat: 167
+heat: 187
 published: true
 
 provider:
@@ -48,6 +48,20 @@ related:
     excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
     publishedDateTime: 2022-10-25T01:00:00Z
     webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-from-2022-to-2028-2022-10-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
+    publishedDateTime: 2022-10-26T21:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
     type: article
     provider:
       name: MarketWatch
@@ -123,6 +137,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
+    publishedDateTime: 2022-10-26T19:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

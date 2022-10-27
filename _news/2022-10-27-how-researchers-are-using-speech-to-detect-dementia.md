@@ -8,6 +8,9 @@ webUrl: "https://www.news4jax.com/health/2022/10/27/how-researchers-are-using-sp
 ampWebUrl: "https://www.news4jax.com/health/2022/10/27/how-researchers-are-using-speech-to-detect-dementia/?outputType=amp"
 cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/health/2022/10/27/how-researchers-are-using-speech-to-detect-dementia/?outputType=amp"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: News4Jax

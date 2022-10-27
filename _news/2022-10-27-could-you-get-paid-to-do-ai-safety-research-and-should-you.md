@@ -8,6 +8,9 @@ webUrl: "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-t
 ampWebUrl: "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/"
 type: article
+quality: 93
+heat: 93
+published: true
 
 provider:
   name: Forbes

@@ -5,7 +5,12 @@ excerpt: "Investors have got the hots for \"generative AI\" that can make text a
 publishedDateTime: 2022-10-27T12:00:00Z
 originalUrl: "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/"
 webUrl: "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/"
+ampWebUrl: "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp"
+cdnAmpWebUrl: "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: Wired
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
-secured: "kGxNBCsyGAaiSKehoNEtkwCPWVLfSt62BlKErK3lhn3y7cKely2qc9AtFjSRcxpbtuj0V9HBgameSLdpLq33RCZfc8jP7Tdam2Fn98XRxoY9tm26QVRWd6q1hgC19PIWTyfCHnsYeUxB2rMCibeDOvvWcBWmr1uZCgq+VbnR8Uxsmfzp6klgdi5U5wSz1uVtECVZ4LOURXxb03Wu4AOsKMHxCttCfaGrXe67D6LWvV0/4uHJdQnysXkNWYj/FyrI1GDNoVBvNp6PGuGCQHBKeyWWlMWEZH95Y79qoeioS0sU6ODMJ7fHfm8med2x4TKMBIFfO15jIeqgk90rQTnkbAQ1hIrQyxcrTkF31NeOSlCuU/OrmRH+sGhYSR62XYeA4xZO9noK2HHgZOfNZ9xWtpf3dtzuMV/Zrke2BHEXMirN9V7x3J95tCC6Lh/7xlBOvgOypoVpKHiBzQT+2gKEtfobb93t9/vgR1YwWqa+e0aSKrAjonFxSX6aN4yvbXq3P4rRdzq0egQUrbFA2dR01g==;/TA7DuOun+JVNwChM+acxA=="
+images:
+  - url: "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg"
+    width: 2400
+    height: 1600
+    isCached: true
+
+secured: "0zJ4p3o5lUwq42AvR+yz6bMk0DRLspmUHCIz4t2tPb4D7bqX0TR0UBz5M+U4sXI606Y2B0As/jLVhjJHeWEpvGQW+cf5fruzkH4vHRWlYZArXUZ3MROrFw99Cvmg5/BAiSWC0B3KLLs1bUVX44mN1HwxxGDvDenwNgejRqSxOXWU1R4UQqSh2AkDhhHtAnroiQg4aZg4/DRPKSCBiT7EXftN7yTMdUeOMgsxUu+LHp2NIMrb7Uuz7R/fkP59F6M5YY8/T0Y1Y2kAdyBMsdLLeujVWwBBoZ8mUfhh2mTZ901CalI9SqteIPo5oB7JYw2J+SB49IEDxIkQdnzAf4D100v8uTw4ZwlxLwKh//+vQzc=;aOal9modJMvtAtlrKhEA3g=="
 ---
 

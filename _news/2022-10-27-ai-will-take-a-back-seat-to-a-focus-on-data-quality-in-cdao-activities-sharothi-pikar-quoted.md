@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T09:53:00Z
 originalUrl: "https://www.govconwire.com/2022/10/ai-will-take-a-back-seat-to-a-focus-on-data-quality-in-cdao-activities/"
 webUrl: "https://www.govconwire.com/2022/10/ai-will-take-a-back-seat-to-a-focus-on-data-quality-in-cdao-activities/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: GovCon Wire

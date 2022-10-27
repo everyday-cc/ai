@@ -56,6 +56,20 @@ related:
         width: 1496
         height: 1124
         isCached: true
+  - title: "IBM’s newest libraries expand its embeddable AI portfolio"
+    excerpt: "IBM is unveiling its latest expansion to its embeddable AI software portfolio with three new software libraries, empowering AI-powered solution development and end-user experience with ease."
+    publishedDateTime: 2022-10-25T15:15:00Z
+    webUrl: "https://www.kmworld.com/Articles/News/News/IBMs-newest-libraries-expand-its-embeddable-AI-portfolio-155583.aspx"
+    type: article
+    provider:
+      name: KMWorld Magazine
+      domain: kmworld.com
+    quality: 39
+    images:
+      - url: "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif"
+        width: 772
+        height: 594
+        isCached: true
   - title: "IBM Expands Its Embeddable AI Software Portfolio"
     excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
     publishedDateTime: 2022-10-25T14:50:00Z

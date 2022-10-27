@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T10:46:00Z
 originalUrl: "https://www.paconsulting.com/newsroom/banks-ahead-of-the-curve-with-machine-learning"
 webUrl: "https://www.paconsulting.com/newsroom/banks-ahead-of-the-curve-with-machine-learning"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: PA Consulting Group

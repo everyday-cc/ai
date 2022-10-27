@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

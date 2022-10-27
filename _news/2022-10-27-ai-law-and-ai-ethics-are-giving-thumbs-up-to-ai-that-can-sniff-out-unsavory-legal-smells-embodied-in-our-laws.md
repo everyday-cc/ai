@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T12:02:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/27/ai-law-and-ai-ethics-are-giving-thumbs-up-to-ai-that-can-sniff-out-unsavory-legal-smells-embodied-in-our-laws/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/10/27/ai-law-and-ai-ethics-are-giving-thumbs-up-to-ai-that-can-sniff-out-unsavory-legal-smells-embodied-in-our-laws/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

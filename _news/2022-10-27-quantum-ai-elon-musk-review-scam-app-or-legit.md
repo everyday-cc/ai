@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T10:28:00Z
 originalUrl: "https://www.tribuneindia.com/news/brand-connect/quantum-ai-elon-musk-review-scam-app-or-legit-444921"
 webUrl: "https://www.tribuneindia.com/news/brand-connect/quantum-ai-elon-musk-review-scam-app-or-legit-444921"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: The Tribune

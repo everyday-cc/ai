@@ -3,10 +3,10 @@ category: news
 title: "The golden age of AI-generated art is here. It’s going to get weird"
 excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
 publishedDateTime: 2022-10-27T04:00:00Z
-originalUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
-webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
+originalUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4?shareType=nongift"
+webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4?shareType=nongift"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -16,7 +16,6 @@ provider:
 
 topics:
   - AI
-  - AI Ethics
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
@@ -155,6 +154,6 @@ related:
       domain: theregister.com
     quality: 14
 
-secured: "pQFM3Eu0TU1M/QtTArM4orwhWiQXSi50dwYz4r+kXCxHStVrt1XWesUJiBpOoceh3w5597Iuz9Jb2wbs4mf1KScb48FauiK74zIqO5uJuzjeWxqBEMPkRd2Uiw9nDDAOz1DYypwWXfN2Xv4ZEOnEV/L7tvlD7C5kIlbObld/x5tPkRuZVe+O69WEdd7Qq7/HtqIZPL8UccNrdMGSY2OnATuQRKmIbUbdbUkYvSSXs/GvG6ckoPRpai9qHZz+n1h99l1yZnJmnAugpJJJ0rjsbzS37FSFxRX5HBB1CTaLUT+MwlnRw1IZIxWWyW3ry5sNJApwIHxKjQLqHKiAGCQjbMVH63N7xRkUJjnyXsoe0me+/4ujJkXjbQy9jIrgI+oOe+CZJ3HLEzHvL6lKJTVxUuxbIxaWI3zcbj5PaWhyrRjPRymbPl1/8AFbcR9nonvlE9d4gqIIQHbyYcMcTLFXVhBxuxcUa2PJ+vD/nrU/SmFJVO9rKBVG2lH9JgL8WfssqEjOjZpuPjMP6W5I58LnXQ==;Mpi41f75JIGXJT0m1EiYag=="
+secured: "R64M4AQ7wWHHj052O/YOi77V+7/ynz/aJdoEzCA5AS0r7JDTQxoFDAJg5N6/uYlE5FsVT0sB7SX+6gw8fQxf2KdngU22d67EMxSYHpAeqnxYMTbtALFEBUgYQOBjVrDJ6SXpa/wS1VtnYouwYEULsFvErPbt6+KxUQ7rzVk27ZzMJNEFfkfTg1tFhMmo4P/T1ayeGlcw30bu++BnWTU+6sVn4a7fnw060GHoM4IyMS+dZCH4rbWLFQX2ODscOaL83b4jIdqFnklkX2TZzphZCaBuptaCc/Ez4OABZ3fxW8JjM1jgw3Z1RzVg/lzYokJ3m9k1SmrHG/VPZWjC+3HQGpDbIm8gC92xsGUUrEdMuf0=;GNjb3gry4OcF+yFSj8E8yg=="
 ---
 

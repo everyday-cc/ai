@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T13:22:00Z
 originalUrl: "https://www.geekwire.com/2022/reclaim-a-calendar-software-startup-that-creates-schedules-for-teams-raises-more-cash/"
 webUrl: "https://www.geekwire.com/2022/reclaim-a-calendar-software-startup-that-creates-schedules-for-teams-raises-more-cash/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: GeekWire

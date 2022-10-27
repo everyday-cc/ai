@@ -75,6 +75,26 @@ related:
         width: 650
         height: 412
         isCached: true
+  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
+    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
+    publishedDateTime: 2022-10-27T15:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
+  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
+    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
+    publishedDateTime: 2022-10-27T12:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "iMI19xlLKnqgePkgYKODN0hd+UC4MfpdG36zXNW7CUlOV+kFNoyrs9g+ziJxO0K43B83jfCS9j08DCfmcLw8cx10CCV4yZlheRkLiaTyLlbNw2KD/Jap6b073u9mQr8/xZDeabETES9FR6jcWpGZyeLSReNs4T6LwAtB1S2p418iPpbX/yScVm6a6Zak9qoFEfS9v0YA7jmOUq8+H8ogVY4WBKuSnuskpIPYBfoGB+yGJc/SYiG3gRxvmoQXCXidCIeOOeL/ORcpA2OyjqDHvaXyIcepczTVydMXyuwpg04Uf6jrWSwatihaa8oz28Pi7dhHLgt3mbf1gQJzMiWnlpaylUR6AKnoqIBytZPar+8=;ZNu2RUYvWu8NsSohvx0kEA=="
 ---

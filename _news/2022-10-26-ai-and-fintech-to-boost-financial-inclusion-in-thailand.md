@@ -67,6 +67,17 @@ related:
         width: 650
         height: 412
         isCached: true
+  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
+    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
+    publishedDateTime: 2022-10-27T15:11:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 20
   - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
     excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
     publishedDateTime: 2022-10-25T08:10:00Z
@@ -76,6 +87,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
+    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
+    publishedDateTime: 2022-10-27T12:38:00Z
+    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 4
 
 secured: "Bfd39hn5xg5OOym7M+NNxg42vKVQlZZOZVlI+07uxif8MKOpsJu8HPnnkjKtJUbqj8o+PyYHrObseUJL9jG25dOgAnNhGJNQhtUGE+SzB75gUZBqRpnZ/yqlarexBYCOu0XOKihU6sE/prAqihZ8E5gOiqO5iFvFoh4F3vjUNpkWLgiYAKht1Rdm+W+DcJmNiobx+JDOw5QVd/FRTmcjNGhm7oF5KP5cnjNe11KO9ze7aigPTwQhFT1NdHGg+594JwZdpUaAOOxzUxwL5/WuiPyG2ylIWjvka/G5kQwugzikyCsknMnrZ1RXhTK8+SDPhkfjAb9PtJMp7o+eSJ+EZBT34daf0Y6jbDNGKnaCNuEXV9DMuFKd3QCGd3MRMSNMcLfO7oHI62VsRClOT3rwFNigd5lETD5wCSNlKPEGxQHTObBgeF165CocnMOayLSgWS++6p05hnRh4VrTVKXn0/37N8zT53LNQv11e5vzodjMeQT6a3F5CrtrI0ae5hGJdpLCHGWmJbvjMcJl8r+Ixw==;WBJruN9/r2qnB2CQh1Xd0g=="
 ---

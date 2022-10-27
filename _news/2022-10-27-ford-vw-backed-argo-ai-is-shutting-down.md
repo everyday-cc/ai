@@ -213,6 +213,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Autonomous Vehicle Startup Argo AI Shuts Down"
+    excerpt: "Autonomous vehicle startup Argo AI is shutting down, with its parts divided between main backers Ford Motor Co. and Volkswagen Group. The move appears to be fueled by Argo's inability to attract new investors and Ford's \"strategic decision\" to shift resources from robotaxi tech into advanced driver assistance systems."
+    publishedDateTime: 2022-10-27T13:19:00Z
+    webUrl: "https://www.pcmag.com/news/autonomous-vehicle-startup-argo-ai-shuts-down"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Ford and VW-backed self-driving car startup Argo AI shutting down"
     excerpt: "Argo AI LLC, a self-driving car startup backed by Ford Motor Co. and Volkswagen AG that had raised $3.6 billion in funding, is shutting down with its parts being absorbed by both Ford and VW. TechCrunch reports that employees were told of the plan at an all-hands meeting on Wednesday and that some people would receive employment offers from Ford and VW."
     publishedDateTime: 2022-10-27T00:23:00Z
@@ -301,6 +310,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Argo AI Autonomous Vehicle Startup Backed by Ford and VW is Closing Down"
+    excerpt: "Argo, the autonomous driving startup backed by Ford and VW, is shutting down after five years as it failed to develop marketable L4 tech."
+    publishedDateTime: 2022-10-27T13:31:00Z
+    webUrl: "https://www.business2community.com/tech-news/argo-ai-autonomous-vehicle-startup-backed-by-ford-and-vw-is-closing-down-02566064"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 16
 
 secured: "uQzt9DGNUYMdH8oZx2heTHVnKBZcUYwD8fMPlg9P3tCFfRZYpqNDxwF06cWKpQCt1hMcE/5fv0Y7yXD3Vnx/iqFqKgoH/2z2Vye3/Syn46iKGMyarFOUfL+VFcrF9gDGjgDfoM8o7pYLUDJh8h5zYkJs6Sps0fUaZuV6VCz/QBVzFjqwcp1n6Iwhg33ctAJ5mcH7UUMYuGI06iU5AybH1w7JNcHy7L3MU6ozN5E89JmyIgJ3CMGTjIoAaMfXm+8NhnXxCQRyjGEL+EsGONTnEg0Va7sd18xCAgmCRl4k96hpDqDqgI4DJOJa2K0XauFH8k6BP8tKut/r6fhBTiK4+xRmCrakgVfXcu/YadjAil5dzLF1evNBfJiCH1Iw4mcHlk1DUzGd9N+m971bk/Pyj5EQ4Xqdbcv3D/Cmc9bhkRV0ggQtsQ4FdlsuA/uzFtMa9KML+hucinWpcraEqddVsIJBwK/5330WWQ556suNYwh3c6cubgSp1ujxVsFRwfJlue44PVb/t13iLtXJOVA7TQ==;KwXm8+Wih0VPjLxnVFkgcw=="
 ---

@@ -216,6 +216,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Autonomous Vehicle Startup Argo AI Shuts Down"
+    excerpt: "Autonomous vehicle startup Argo AI is shutting down, with its parts divided between main backers Ford Motor Co. and Volkswagen Group. The move appears to be fueled by Argo's inability to attract new investors and Ford's \"strategic decision\" to shift resources from robotaxi tech into advanced driver assistance systems."
+    publishedDateTime: 2022-10-27T13:19:00Z
+    webUrl: "https://www.pcmag.com/news/autonomous-vehicle-startup-argo-ai-shuts-down"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Ford, VW-backed Argo AI is shutting down"
     excerpt: "Argo AI, an autonomous vehicle startup that burst on the scene in 2017 stacked with a $1 billion investment from Ford, is shutting down."
     publishedDateTime: 2022-10-26T19:28:00Z
@@ -299,6 +308,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Argo AI Autonomous Vehicle Startup Backed by Ford and VW is Closing Down"
+    excerpt: "Argo, the autonomous driving startup backed by Ford and VW, is shutting down after five years as it failed to develop marketable L4 tech."
+    publishedDateTime: 2022-10-27T13:31:00Z
+    webUrl: "https://www.business2community.com/tech-news/argo-ai-autonomous-vehicle-startup-backed-by-ford-and-vw-is-closing-down-02566064"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 16
 
 secured: "HtD4g3ytFyE3KD+W0Rarr6jO/7BxKIW6tz0sXHRXnYx0XYu8B0WJ8LIBX2tZB293xswVLn8MrOKXZbrMWt4P64vqYHGOuxqOWtm5lMtk1yebPTSj2JdvF8Tx9IgyTpWtuQD017LE3WFE1EKjyoBRkn04lSuX9478YAvWVhXK6m1pJW5EchddSpb24eUPCnDAVM6SX84SCrENQjJ5V7t61eoTm/rDIoEVOgFPrtwk1gSXlTNooIzQ/gkxc2SHTXWvOTzZlZ3YcN1L9yMfZajqLn2wh2i9jNfYPfl9iJr7vlLhY3tDpZTWulse3t4Nqf2aZWP+Ngjw6xZ001fDC+erF7iiPOsBJ/jLN0TBtv6YLimHzrHrLCHRt5FYWqiY+hg7VgTmUM7GyOa9FZCHaGifLj4jrlhSIZgeSjErADmjb2BVyb3ecQt/4X4ugIRMCYz/q1JrdvLCB4LqgceUVKCaRD/mN1ifRsHt2KZSiQkqBkrJgjXC6a3E7dJqwj7HJd7k+m1Nc/OxWYw4XXGs/d7jgA==;fVBxLVV+aK+9gEDDDsNZ6g=="
 ---

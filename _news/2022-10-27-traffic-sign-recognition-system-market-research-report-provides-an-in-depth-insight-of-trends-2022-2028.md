@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-26T18:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
 webUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: MarketWatch

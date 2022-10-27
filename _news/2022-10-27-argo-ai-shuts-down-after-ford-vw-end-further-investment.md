@@ -215,6 +215,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 47
+  - title: "Autonomous Vehicle Startup Argo AI Shuts Down"
+    excerpt: "Autonomous vehicle startup Argo AI is shutting down, with its parts divided between main backers Ford Motor Co. and Volkswagen Group. The move appears to be fueled by Argo's inability to attract new investors and Ford's \"strategic decision\" to shift resources from robotaxi tech into advanced driver assistance systems."
+    publishedDateTime: 2022-10-27T13:19:00Z
+    webUrl: "https://www.pcmag.com/news/autonomous-vehicle-startup-argo-ai-shuts-down"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Ford, VW-backed Argo AI is shutting down"
     excerpt: "Argo AI, an autonomous vehicle startup that burst on the scene in 2017 stacked with a $1 billion investment from Ford, is shutting down."
     publishedDateTime: 2022-10-26T19:28:00Z
@@ -298,6 +307,15 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 19
+  - title: "Argo AI Autonomous Vehicle Startup Backed by Ford and VW is Closing Down"
+    excerpt: "Argo, the autonomous driving startup backed by Ford and VW, is shutting down after five years as it failed to develop marketable L4 tech."
+    publishedDateTime: 2022-10-27T13:31:00Z
+    webUrl: "https://www.business2community.com/tech-news/argo-ai-autonomous-vehicle-startup-backed-by-ford-and-vw-is-closing-down-02566064"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 16
 
 secured: "MNwb3FYvC48jISlmoYr2q0A6QP4xP0fwUyyYfVdVqI8qThCwwuTklwV+u8dosl48j5K81YaGzk8SpqjG+dEn2/K10ZBgXE850O92glDI9Ht0HsaPqYaII4WH38slWlIz3P61Ytjw6hgYg9dMcUeJ390e2VbC4gQPCA+srmy5fYTSo0218L54S63PkE7iwwcT+nUd2o2o9u7kcUeasSoCOorD8OsLoV+fT9/DLcIY5mk2bF4xV2Ly0KZ3Q+02Vhq/0mtKhVGhUti7dmt9SsSWdaUZJ2J9+NYXdmZ+BUKKkadY7SquA0BSQWOf3uHzMu3ml7Vg30rG5ZzduFia905NMGQLmkhAAA34Mu2P5iQKETk=;VSSyJZHRKfXzv5CvoGwMOQ=="
 ---

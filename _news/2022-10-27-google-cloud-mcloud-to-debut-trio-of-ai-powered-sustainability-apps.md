@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T11:55:00Z
 originalUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-trio-of-ai-powered-sustainability-apps"
 webUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-trio-of-ai-powered-sustainability-apps"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: GDPR fines

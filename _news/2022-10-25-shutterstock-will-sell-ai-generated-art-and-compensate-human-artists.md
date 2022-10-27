@@ -124,12 +124,12 @@ related:
   - title: "The golden age of AI-generated art is here. It’s going to get weird"
     excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
     publishedDateTime: 2022-10-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
+    webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4?shareType=nongift"
     type: article
     provider:
       name: The Financial Times
       domain: ft.com
-    quality: 39
+    quality: 37
     images:
       - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
         width: 619

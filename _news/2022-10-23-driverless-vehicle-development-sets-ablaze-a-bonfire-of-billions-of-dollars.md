@@ -7,7 +7,7 @@ originalUrl: "https://www.taipeitimes.com/News/biz/archives/2022/10/23/200378754
 webUrl: "https://www.taipeitimes.com/News/biz/archives/2022/10/23/2003787543"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Driverless car quest has made a bonfire out of $75 billion"
-    excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
-    publishedDateTime: 2022-10-22T17:30:00Z
-    webUrl: "https://www.autoblog.com/2022/10/22/self-driving-car-costs/"
-    ampWebUrl: "https://www.autoblog.com/amp/2022/10/22/self-driving-car-costs/"
-    cdnAmpWebUrl: "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/22/self-driving-car-costs/"
-    type: article
-    provider:
-      name: Autoblog
-      domain: autoblog.com
-    quality: 59
-    images:
-      - url: "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-10/1181fb60-5153-11ed-b7d7-2a25405a846d"
-        width: 1062
-        height: 597
-        isCached: true
   - title: "Driverless car development sets ablaze a bonfire of billions"
     excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
     publishedDateTime: 2022-10-24T13:46:00Z
