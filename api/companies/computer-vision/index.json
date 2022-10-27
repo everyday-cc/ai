@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 854773
+        "followers": 854885
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -37,7 +37,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 369,
+      "heat": 370,
       "tags": [
         "Non-profit"
       ],
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 102067
+        "followers": 102087
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 59162
+        "followers": 59165
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -188,7 +188,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 19776
+        "followers": 19778
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -250,7 +250,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 27170
+        "followers": 27172
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -455,7 +455,7 @@
       "twitter": {
         "username": "sensetime_ai",
         "url": "https://twitter.com/sensetime_ai",
-        "followers": 1954
+        "followers": 1955
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2018,
@@ -475,7 +475,7 @@
           "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 65,
+      "heat": 66,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
@@ -701,7 +701,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 868
+        "followers": 869
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -821,7 +821,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 3240
+        "followers": 4873
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -834,7 +834,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1328,7 +1328,7 @@
         "AI in Healthcare",
         "Machine Learning"
       ],
-      "heat": 33,
+      "heat": 34,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",

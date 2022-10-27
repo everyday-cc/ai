@@ -145,7 +145,7 @@
       "twitter": {
         "username": "InsilicoMeds",
         "url": "https://twitter.com/InsilicoMeds",
-        "followers": 5016
+        "followers": 5017
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "lexmachina",
         "url": "https://twitter.com/lexmachina",
-        "followers": 5274
+        "followers": 5273
       },
       "size": "51-200 employees",
       "yearFounded": 2010,
@@ -495,7 +495,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 868
+        "followers": 869
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -877,7 +877,7 @@
       "twitter": {
         "username": "promobot",
         "url": "https://twitter.com/promobot",
-        "followers": 3076
+        "followers": 3077
       },
       "yearFounded": 2015,
       "locations": [
@@ -927,7 +927,7 @@
       "twitter": {
         "username": "Prophesee_ai",
         "url": "https://twitter.com/Prophesee_ai",
-        "followers": 1825
+        "followers": 1826
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
@@ -1476,7 +1476,7 @@
           "url": "https://www.youtube.com/watch?v=xBpvK_VxiXM"
         }
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
@@ -1515,7 +1515,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 3240
+        "followers": 4873
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -1528,7 +1528,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1577,7 +1577,7 @@
         "AI",
         "AI in Security"
       ],
-      "heat": 51,
+      "heat": 52,
       "tags": [
         "Europe",
         "Security"
@@ -1636,7 +1636,7 @@
         "AI in Finance",
         "Machine Learning"
       ],
-      "heat": 51,
+      "heat": 52,
       "tags": [
         "FinTech"
       ],

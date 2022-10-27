@@ -439,7 +439,7 @@
       "twitter": {
         "username": "babylonhealth",
         "url": "https://twitter.com/babylonhealth",
-        "followers": 13570
+        "followers": 13571
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -536,7 +536,7 @@
       "twitter": {
         "username": "fundbox",
         "url": "https://twitter.com/fundbox",
-        "followers": 7978
+        "followers": 7979
       },
       "size": "51-200 employees",
       "yearFounded": 2013,
@@ -638,7 +638,7 @@
       "twitter": {
         "username": "iRobot",
         "url": "https://twitter.com/iRobot",
-        "followers": 43429
+        "followers": 43431
       },
       "size": "501-1,000 employees",
       "yearFounded": 1990,
@@ -685,7 +685,7 @@
       "twitter": {
         "username": "mythicinc",
         "url": "https://twitter.com/mythicinc",
-        "followers": 1587
+        "followers": 1586
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -737,7 +737,7 @@
       "twitter": {
         "username": "owkinscience",
         "url": "https://www.twitter.com/owkinscience",
-        "followers": 3039
+        "followers": 3041
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -1372,6 +1372,74 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/sensetime.md",
+      "title": "SenseTime",
+      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sensetime/",
+      "type": "profile",
+      "name": "SenseTime",
+      "otherNames": [
+        "商汤科技",
+        "商汤",
+        "Shangtang Keji"
+      ],
+      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
+      "website": "https://www.sensetime.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
+        "followers": 27507
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sensetime"
+      },
+      "twitter": {
+        "username": "sensetime_ai",
+        "url": "https://twitter.com/sensetime_ai",
+        "followers": 1955
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Hong Kong, Hong Kong"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
+        }
+      ],
+      "heat": 66,
+      "tags": [
+        "Facial Recognition",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "SenseTime",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/einstein.ai.md",
       "title": "Salesforce Einstein",
       "excerpt": "Einstein is a deep learning research and engineering organization for Salesforce.",
@@ -1435,74 +1503,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/sensetime.md",
-      "title": "SenseTime",
-      "excerpt": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sensetime/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sensetime/",
-      "type": "profile",
-      "name": "SenseTime",
-      "otherNames": [
-        "商汤科技",
-        "商汤",
-        "Shangtang Keji"
-      ],
-      "overview": "SenseTime is a global company focused on developing innovative AI technologies that positively contribute to economies, society and humanity.",
-      "website": "https://www.sensetime.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sensetime-group-limited/",
-        "followers": 27507
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sensetime"
-      },
-      "twitter": {
-        "username": "sensetime_ai",
-        "url": "https://twitter.com/sensetime_ai",
-        "followers": 1954
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "Hong Kong, Hong Kong"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
-        }
-      ],
-      "heat": 65,
-      "tags": [
-        "Facial Recognition",
-        "Image Recognition"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1019506033511710721/4ucdo4lo_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SenseTime",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEVqUsQIAdXQw/company-logo_200_200/0?e=1594857600&v=beta&t=hIaN_xmADl2N2E1XEfRpc_rco42L6WUzGhuyWCb3wM4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/actioniq.md",
       "title": "ActionIQ",
       "excerpt": "ActionIQ is a purpose-built enterprise Customer Data Platform solving complex data problems: flow and scale, analytics, and orchestration.",
@@ -1560,7 +1560,7 @@
       "twitter": {
         "username": "Aera_Technology",
         "url": "https://twitter.com/Aera_Technology",
-        "followers": 2649
+        "followers": 2650
       },
       "size": "201-500 employees",
       "yearFounded": 2017,
@@ -1716,7 +1716,7 @@
       "twitter": {
         "username": "dataminr",
         "url": "https://twitter.com/dataminr",
-        "followers": 16160
+        "followers": 16158
       },
       "size": "201-500 employees",
       "yearFounded": 2009,

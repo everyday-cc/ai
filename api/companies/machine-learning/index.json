@@ -70,7 +70,7 @@
       "twitter": {
         "username": "cruise",
         "url": "https://twitter.com/cruise",
-        "followers": 34918
+        "followers": 34922
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2013,
@@ -136,7 +136,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 19776
+        "followers": 19778
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -198,7 +198,7 @@
       "twitter": {
         "username": "ubtechrobotics",
         "url": "https://twitter.com/ubtechrobotics",
-        "followers": 90674
+        "followers": 90681
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -257,7 +257,7 @@
       "twitter": {
         "username": "anacondainc",
         "url": "https://twitter.com/anacondainc",
-        "followers": 81481
+        "followers": 81489
       },
       "size": "51-200 employees",
       "yearFounded": 2012,
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "Affirm",
         "url": "https://twitter.com/Affirm",
-        "followers": 17839
+        "followers": 17840
       },
       "size": "501-1,000 employees",
       "yearFounded": 2012,
@@ -437,7 +437,7 @@
       "twitter": {
         "username": "sensetime_ai",
         "url": "https://twitter.com/sensetime_ai",
-        "followers": 1954
+        "followers": 1955
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2018,
@@ -457,7 +457,7 @@
           "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 65,
+      "heat": 66,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
@@ -735,7 +735,7 @@
       "twitter": {
         "username": "faceplusplus",
         "url": "https://twitter.com/faceplusplus",
-        "followers": 868
+        "followers": 869
       },
       "size": "1,001-5,000 employees",
       "yearFounded": 2011,
@@ -962,7 +962,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 3240
+        "followers": 4873
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -975,7 +975,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 51,
+      "heat": 52,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1030,7 +1030,7 @@
         "AI in Finance",
         "Machine Learning"
       ],
-      "heat": 51,
+      "heat": 52,
       "tags": [
         "FinTech"
       ],

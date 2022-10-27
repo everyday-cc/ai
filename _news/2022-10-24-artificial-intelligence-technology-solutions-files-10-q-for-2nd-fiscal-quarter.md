@@ -1,24 +1,19 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Files 10-Q For 2nd Fiscal Quarter"
-excerpt: "Significant Number of Warrants Are Off the Books Among Other Improvements Detroit, Michigan, Oct. (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX) (the \"Company\"),"
-publishedDateTime: 2022-10-24T12:40:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29377647/artificial-intelligence-technology-solutions-files-10-q-for-2nd-fiscal-quarter"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29377647/artificial-intelligence-technology-solutions-files-10-q-for-2nd-fiscal-quarter"
-ampWebUrl: "https://www.benzinga.com/amp/content/29377647"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29377647"
+excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX) (the “Company”), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its quarterly report on Form 10-Q for the 3 and 6 months ended August 31,"
+publishedDateTime: 2022-10-24T14:01:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/10/24/9698073.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/10/24/9698073.htm"
 type: article
-quality: 33
-heat: 33
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "gUhszdM4DDeyaIOhjumW6Ne8Hehzng913NmnA5LjOGgmVIQqctXXjdkhAkFfUDm+4au/EgT/752msnzMcfWlC1q6+QVDhXj4pALGr4RvdAFgtCIUZlxmhjIIFMSZmi39C8hcraeb5WGgJn1MYenhEQabIgLLLuI4AHmI2QLBDH3R7iot2w46gTAnBy2pM+MpWKcC+wQDgyLf2sK+oej17Z12iADyHLkDLD+i+Vdv80MY8c3GzRc5Gg0r1c3TZZRwza4HouzUs9f9GRz+wT37zgjMhICJkY0PLRHKAxifjte3b8d97wDMGwAYFcBGlc/3POBGHSRn6bFUCb4U90cqKdkzyo981nkb1gNBShCMbBI=;7X4aSFaaa4OuuRpgUkI6/w=="
+secured: "hGOPu52g+q2FnFnNE7Ax2g30oIVB9gqZ0i/8tFa5SC6/UoLYzl7xL1++SQH3lfYkyWRBz05Bdr/NhoVSb+lI5h/i3XIPTn+Ds6q+8CuUfXgpwFqKdgHmOSitCu84sN8YZkDPnM+q24CTGIEdNee/qbrRmet8RAgG3iYwrTFbJOWnaMoQK1D5CNhD4h4PC+sdYbdrn6j/l6fgqzTrgfNzkoFjdAhmO2wDtuMyM0di+SDMwMHWEX9yuZoAckLJdYH5vlVPoiiVH8ZW0nnwVki442GAOOJdkss51/tLtK8Qgqzn/QZ2t6IMTQhTkCXcCuMO9aX+OUnvJESBazKxT9gY9pf6yBgVRW+S6PVmWpnEdWg=;WDyJGiCEVgMc1j40r8cJ4Q=="
 ---
 
