@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

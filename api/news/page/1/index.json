@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-takes-27-billion-hit-as-it-drops-efforts-to-develop-full-self-driving-cars.md",
+      "title": "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars",
+      "excerpt": "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown",
+      "originalUrl": "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html",
+      "publishedDateTime": "2022-10-26T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
+      "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
+      "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633885ad873cb08a2c57e040/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "publishedDateTime": "2022-10-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-media-alert-brainchip-showcases-its-essential-ai-at-iot-world.md",
+      "title": "Media Alert: BrainChip Showcases Its Essential AI at IoT World",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that Rob Telson,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/ac29427210/media-alert-brainchip-showcases-its-essential-ai-at-iot-world",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/ac29427210/media-alert-brainchip-showcases-its-essential-ai-at-iot-world",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29427210",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29427210",
+      "publishedDateTime": "2022-10-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
       "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
       "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
@@ -10,7 +149,7 @@
       "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -50,6 +189,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance.md",
+      "title": "Ford takes big charge as autonomy startup Argo AI shuts down, earnings head for low end of guidance",
+      "excerpt": "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
+      "originalUrl": "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-652278/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331",
+      "publishedDateTime": "2022-10-26T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -96,19 +287,19 @@
       ]
     },
     {
-      "path": "_news/2022-10-27-ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit.md",
-      "title": "Ford posts loss on decision to wind down Argo AI self-driving unit",
-      "excerpt": "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business.",
+      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
+      "excerpt": "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
-      "originalUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 179,
+      "heat": 99,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg",
+          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
           "width": 1200,
           "height": 628,
           "title": null,
@@ -120,7 +311,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T12:47:00-07:00",
+      "publishedDateTime": "2022-10-26T12:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -143,7 +334,7 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -710,7 +901,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -762,7 +953,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-word-recognition-adequately-brain.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -903,7 +1094,7 @@
       "originalUrl": "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -1048,206 +1239,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints.md",
-      "title": "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints",
-      "excerpt": "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 166,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg",
-          "width": 1540,
-          "height": 724,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:45:28-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-what-dropped-at-google-cloud-next-and-microsoft-ignite.md",
-      "title": "What dropped at Google Cloud Next and Microsoft Ignite",
-      "excerpt": "Google Cloud and Microsoft Azure, two of the Big Three hyperscalers, went head-to-head with their annual events a couple weeks ago. As they kicked off, I",
-      "sourceUrl": null,
-      "webUrl": "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/",
-      "originalUrl": "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/",
-      "cdnAmpWebUrl": "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/",
-      "publishedDateTime": "2022-10-25T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TelecomTV",
-        "domain": "telecomtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview.md",
-      "title": "Image Analysis 4.0 with new API endpoint and OCR model in preview",
-      "excerpt": "We are thrilled to announce the preview release of Computer Vision Image Analysis 4.0 which combines existing and new visual features such as read optical character recognition (OCR), captioning, image classification and tagging, object detection, people detection, and smart cropping into one API.",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "originalUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/40891cd5-f29f-4347-b667-e888bdd67b0e.png",
-          "width": 640,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T08:10:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
-      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
-      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
-          "width": 654,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "publishedDateTime": "2022-10-25T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

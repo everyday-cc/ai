@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
+      "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
+      "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
+      "originalUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
+      "publishedDateTime": "2022-10-13T04:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-13-ai-the-ai-times-gatik-and-loblaw-give-canadians-driverless-deliveries.md",
       "title": "A|I: The AI Times – Gatik and Loblaw give Canadians driverless deliveries",
       "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
@@ -644,6 +696,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-11-autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029.md",
+      "title": "Autonomous / Self-Driving Cars Market: Future of Automobile Industry To Forecast 2029",
+      "excerpt": "Self-driving cars use a combination of sensors, cameras, radar, and artificial intelligence (AI) to navigate between destinations without a human driver (also known as an autonomous car or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/autonomous-self-driving-cars-market-future-of-automobile-industry-to-forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/Glassy_carbon_and_a_1cm3_graphite_cube_HP68-79-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T02:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-11-teslas-mass-market-optimus-robot-could-change-humanity-forever.md",
       "title": "Tesla's Mass Market Optimus Robot Could Change Humanity Forever",
       "excerpt": "Tesla's Optimus Robot will represent a step change for humanity when it hits the market in five years. Find out the implications for shareholders and the world.",
@@ -1275,85 +1370,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-industry-voices-artificial-intelligence-smartens-up-manufacturing.md",
-      "title": "Industry Voices: Artificial Intelligence Smartens Up Manufacturing",
-      "excerpt": "Yet, as the digital transformation continues to influence Industry 4.0, we’re beginning to see the convergence of automation and IoT in the form of AIoT: the artificial intelligence of things. We caught up with Jens Beck, partner heading up Data ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/industry-voices-artificial-intelligence-smartens-manufacturing",
-      "originalUrl": "https://www.designnews.com/automation/industry-voices-artificial-intelligence-smartens-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Feature_70.jpg",
-          "width": 1540,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-07-loblaws-driverless-trucks-signal-the-beginning-of-a-new-age.md",
-      "title": "Loblaw’s driverless trucks signal the beginning of a new age",
-      "excerpt": "Loblaw’s L-T debut of its driverless delivery trucks this week points to two major phenomena affecting the food industry: how the battle for the proverbial “middle mile” in delivery is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
-      "originalUrl": "https://www.theglobeandmail.com/business/commentary/article-loblaw-driverless-delivery-trucks-new-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-06T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Globe and Mail",
-        "domain": "theglobeandmail.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

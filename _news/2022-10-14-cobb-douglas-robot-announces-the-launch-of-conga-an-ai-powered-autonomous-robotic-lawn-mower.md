@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Cobb Douglas Robot Announces the Launch of Conga: An AI-Powered, Autonomous Robotic Lawn Mower"
-excerpt: "With a single click to start, Conga sets users free from ... a 0.1s response time for avoiding obstacles. Conga – AI Powered Lawn Care Robot by Cobb Douglas Robot makes grass maintenance a ..."
-publishedDateTime: 2022-10-13T18:05:00Z
-originalUrl: "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower"
-webUrl: "https://www.digitaljournal.com/pr/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower"
+excerpt: "With a single click to start, Conga sets users free from the tedious task of lawn mowing. Unlike the first-generation robots, this highly advanced lawn care robot does not require the installation of copper boundary wire or the use of remote control to manually map the areas to be cut."
+publishedDateTime: 2022-10-13T18:02:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
+webUrl: "https://www.marketwatch.com/press-release/cobb-douglas-robot-announces-the-launch-of-conga-an-ai-powered-autonomous-robotic-lawn-mower-2022-10-13"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "tbwLTxImDoDYsh3Pusm0Wke/q0xF/cwGkeyp5Jw1iUalaXY49GUI5QHC1+MASOxa+r8UN6NQR42qUm5aLIz91LXNvGwPSCsDO6/rwy3cPnKWNnQtVZMAkEHqiJgLE/PTjGRNsZxONiNNF7/Y4BriXPWsUfrG0J4Kzk9u2MDvjKjrHivMsW5PCVKWQsZmn3I8OZ8NcXCbOKvBK2dkkQ94ExA1PNYMk+4jsiO/xmEsYAlFE/7wGydSY3oZU9K0Ql6BV5tYQzpY45rjdA+tPXfGV8jYksyePE9EJOLjWzNECN9q6ntWdQmmnT5kHq8jRqNk6j6hiaxOKjCgoIe9kom8TnMFnwjDBYktWC4Z8cymVjQ=;N08LSzDLAtqscT5UqkCnmQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "HwI0IwKoqQxpumf+Otg48AUjHEjXqcAwHxicWW+IqWdu6brtBS1XpmlBRsYNEJTsaDVbt7ONjlERL9U2YRM7llX4Xp/YXuZiWtDYu39rA8wmE++q6hYQ12CMSaiGpcGGFX39s4/Kj5xhxhM740YegvPLvRfYQyQYUNPqvXEyIWYjQ/Rz7zmUuzTZ+6JUIApjF2kBzxapCFfxUOQmk9QpQIC77kyWkneBn9NRSA8zqhfPaLU637JC58i+kbD59K1dsf2YH5zT83nIAcTyURKhzzd9RpfLH9RY4OJsurCD3bBNMD29zNOWRSHD7I/o8T0agzmhz0n41s41hp0XLTDvf7/D1gTP4nyaaSv3H94of6A=;UIquvH/NE19G31kPuIB2Hg=="
 ---
 

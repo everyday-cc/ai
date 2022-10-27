@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning
 webUrl: "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/"
 type: article
 quality: 135
-heat: 137
+heat: 135
 published: true
 
 provider:

@@ -9,8 +9,8 @@ ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-n
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: Singularity Hub
@@ -41,15 +41,6 @@ related:
         width: 280
         height: 210
         isCached: true
-  - title: "What physical materials can learn from AI neural networks"
-    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
-    publishedDateTime: 2022-10-22T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "9CBd/XnGNy9cbq3yNyyiZNtLklCSZ4iavaVHAp3dQLT9tn7QqW7yjMMhPlIp7nxtqK3is3cvsGfRkLzCFrnwp2uVcmYepOXTAA50j6HQsIUGbEM8l8wQXt5t+zqtGToc+DoFArdugYq0EK1WELaNknBISdRtAzh58NGqUOiNyHL0oIBk7sT8c9snnffDbMbABzsMGkfn76yYh1qBReYwDWe6FSeQNWcaQCQBRP/w4SEUp8JyVoQUgg29FiMT3R9wphHLA//yC1YwWjbaCSEBNRJqhaD0WLy51S5mKuZzM5bX8DxHYvQSNvy8DRoyVySgKN5Ng88adtO/v99Hxnam6dm3V/pfnoB027eg6YACpUzEEnpYm4AHltu5Npze/uVGqHdJlhMrd3TLBaV2xDNR4BZrAzXLdxpW4gY3bNT8Ag4M6d3X9vlHQcW9W2IwbOucOX/ybPiSLzcBd6bbq10RFC+jxkuchZ3OaxAZ89JP/WggJRnlqfZLpEYSigU7KO9wfGnnW1Dw/6LKF0v1Xpb87g==;TqYW3EmEZOn35LCCB2QC/Q=="
 ---

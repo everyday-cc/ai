@@ -2,6 +2,155 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
+      "title": "Four thoughts on AI deep learning in 2022",
+      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "publishedDateTime": "2022-10-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-machine-learning-as-a-service-market-worth-usd-320-billion-by-2030.md",
+      "title": "Machine Learning-as-a-Service Market worth USD 32.0 billion by 2030",
+      "excerpt": "Hence, fraud detection is expected to become one of the core spaces for machine learning applications. Global Machine Learning-as-a-Service Market Segmentation The machine learning-as-a-service market has been segmented into the application,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-worth-usd-320-billion-by-2030-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029.md",
+      "title": "Object Recognition Imaging Systems Market Size, Growth 2022-Global Trends, Market Demand, Industry Analysis, Opportunities and Forecast 2029",
+      "excerpt": "Object Recognition Imaging Systems Market report contains type, application, regions, revenue, and offers just as the thorough computation of the business chain structure, opportunities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/object-recognition-imaging-systems-market-size-growth-2022-global-trends-market-demand-industry-analysis-opportunities-and-forecast-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/10/07fab5a54c84b2812fe98ca367355ae6b17bc253-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-the-google-self-driving-car-all-you-need-to-know-about-waymo.md",
       "title": "The Google Self-Driving Car: All you need to know about Waymo",
       "excerpt": "But happy or not, self-driving cars are real ... and machine-learning-based artificial intelligence, both of which have proved to be a step-change in mapping environments. Computer scientists ...",
@@ -1032,164 +1181,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-ai-da-the-robot-sums-up-the-flawed-logic-of-lords-debate-on-ai.md",
-      "title": "Ai-Da the robot sums up the flawed logic of Lords debate on AI",
-      "excerpt": "Experts say it is the roboticists we need to hear from – and the people and jobs AI is already affecting",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
-      "originalUrl": "https://www.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/708e371594c21a15fe4c8591520c8c9c878992af/0_419_6318_3793/master/6318.jpg?width=620&quality=85&auto=format&fit=max&s=88d568e47047e8316bdc58470930d790",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/14/ai-da-robot-sums-up-flawed-logic-lords-debate-ai",
-      "publishedDateTime": "2022-10-14T08:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare Market Report 2022 Regional Overview and Analysis till 2028",
-      "excerpt": "A novel report on global Natural Language Processing (NLP) in Healthcare market has been recently added to Xcellent",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-market-report-2022-regional-overview-and-analysis-till-2028-2022-10-14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-your-face-is-the-future-of-targeted-marketing-heres-why-businesses-should-use-facial-recognition.md",
-      "title": "Your Face is the Future of Targeted Marketing. Here's Why Businesses Should Use Facial Recognition",
-      "excerpt": "Facial recognition technology compliant with global data privacy laws can open new doors for targeted marketing campaigns.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "originalUrl": "https://www.entrepreneur.com/science-technology/facial-recognition-the-future-of-targeted-marketing/437103",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1665606024-GettyImages-1390845799.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

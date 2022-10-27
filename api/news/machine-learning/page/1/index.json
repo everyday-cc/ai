@@ -205,7 +205,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 137,
+      "heat": 135,
       "tags": null,
       "images": [
         {
@@ -300,49 +300,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-materials-made-of-mechanical-neural-networks-can-learn-to-adapt-their-physical-properties.md",
-      "title": "Materials Made of Mechanical Neural Networks Can Learn to Adapt Their Physical Properties",
-      "excerpt": "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a design inspired by artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
-      "originalUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/10/a-new-type-of-material-mechanical-neural-network.jpeg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1",
-      "publishedDateTime": "2022-10-23T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     },
     {
@@ -1466,6 +1423,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-heres-why-machine-learning-benefits-biz-developers.md",
+      "title": "Here's Why Machine Learning Benefits Biz Developers",
+      "excerpt": "In a day and age where content creation is a way to drive inbound traffic and help nurture the customer journey, leveraging machine learning helps automate this process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63481c09f7e15d5caade06a9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/10/13/heres-why-machine-learning-benefits-biz-developers/amp/",
+      "publishedDateTime": "2022-10-13T10:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

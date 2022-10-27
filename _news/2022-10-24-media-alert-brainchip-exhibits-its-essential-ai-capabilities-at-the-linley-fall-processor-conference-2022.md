@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29371115"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371115"
 type: article
 quality: 38
-heat: 38
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ topics:
   - Machine Learning
 
 related:
+  - title: "Media Alert: BrainChip Showcases Its Essential AI at IoT World"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(OTC:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announced that Rob Telson,"
+    publishedDateTime: 2022-10-26T21:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29427210/media-alert-brainchip-showcases-its-essential-ai-at-iot-world"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29427210"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29427210"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 54
   - title: "Brainchip Holdings Limited/ADR: Media Alert: BrainChip Exhibits its Essential AI Capabilities at the Linley Fall Processor Conference 2022"
     excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / October 23, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, today announce"
     publishedDateTime: 2022-10-23T21:34:00Z

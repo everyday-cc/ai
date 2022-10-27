@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-
 webUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists"
 type: article
 quality: 67
-heat: 137
+heat: 157
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Shutterstock will start selling AI-generated stock imagery with help from OpenAI"
+    excerpt: "Will AI image generators kill the stock image industry? It’s a question asked by many following the rise of text-to-image AI models in recent years. The answer from the industry’s incumbents, though, is “no” — not if we can start selling AI ..."
+    publishedDateTime: 2022-10-25T19:16:00Z
+    webUrl: "https://www.theverge.com/2022/10/25/23422359/shutterstock-ai-generated-art-openai-dall-e-partnership-contributors-fund-reimbursement"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 62
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/Uz7Y8NTSCDo4iGk72bmJqrWZofg=/0x0:1250x1120/1200x628/filters:focal(625x560:626x561)/cdn.vox-cdn.com/uploads/chorus_asset/file/24138512/synthetic_art_cover_2.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Shutterstock partners with OpenAI to sell AI-generated artwork, compensate artists"
     excerpt: "Shutterstock announced that it has partnered with OpenAI to provide AI image synthesis services using the DALL-E API. Once the service is available, the firm says it will allow customers to generate images based on text prompts."
     publishedDateTime: 2022-10-25T17:24:00Z
@@ -67,6 +81,22 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 45
+  - title: "Shutterstock and OpenAI have come up with one possible solution to the ownership problem in AI art"
+    excerpt: "Shutterstock has previously provided materials to OpenAI for building and testing its AI text-to-image generator."
+    publishedDateTime: 2022-10-26T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/shutterstock-ai-image-generator/"
+    ampWebUrl: "https://www.popsci.com/technology/shutterstock-ai-image-generator/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/shutterstock-ai-image-generator/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 43
+    images:
+      - url: "https://www.popsci.com/uploads/2022/10/26/andrew-neel-acowe0pCVBg-unsplash-scaled.jpg?auto=webp"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Shutterstock to sell AI-generated images using OpenAI’s DALL-E"
     excerpt: "Shutterstock plans to integrate OpenAI's DALL-E AI model onto its website, to give customers direct access to its text-to-image capabilities."
     publishedDateTime: 2022-10-26T09:13:00Z

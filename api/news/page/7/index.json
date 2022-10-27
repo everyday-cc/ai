@@ -2,6 +2,117 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
+      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
+      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-bill-allowing-driverless-vehicles-in-pennsylvania-advances-in-senate-bringing-its-adoption-closer.md",
+      "title": "Bill allowing driverless vehicles in Pennsylvania advances in Senate, bringing its adoption closer",
+      "excerpt": "State legislators in Harrisburg have further advanced a bill that would permit autonomous vehicle companies operating in Pennsylvania the ability to conduct testing of their self-driving machines ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Business Journals",
+        "domain": "bizjournals.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-exercise-strengthens-cognitive-function-in-stroke-patients.md",
+      "title": "Exercise Strengthens Cognitive Function in Stroke Patients",
+      "excerpt": "Exercise appears to significantly improve cognitive function following a stroke, bringing patients with mild to moderate cognitive impairment back to near normal cognition. Results of a new proof ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/982715",
+      "originalUrl": "https://www.medscape.com/viewarticle/982715",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.medscape.com/thumbnail_library/gty_221019_nurse_helping_senior_lift_weights_800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-swap-robotics-is-paving-the-way-for-electric-solar-vegetation-cuts-and-sidewalk-snow-plowing.md",
       "title": "Swap Robotics is paving the way for electric solar vegetation cuts and sidewalk snow plowing",
       "excerpt": "Swap Robotics, a company that manufactures electric grass-cutting and snow removal robots, presented today at TechCrunch Disrupt Startup Battlefield to detail how it’s making sustainable outdoor ...",
@@ -1061,161 +1172,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
-      "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
-      "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d8fec5aed33b6bbc9a291/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/10/18/machine-learning-101-how-merchants-use-machines-to-fight-fraud/amp/",
-      "publishedDateTime": "2022-10-18T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-kubiya-gives-developers-a-hand-with-conversational-ai-platform.md",
-      "title": "Kubiya gives developers a hand with conversational AI platform",
-      "excerpt": "Kubiya, a self-serve platform that uses conversational AI to execute devops, launched out of stealth today with $6 million in seed funding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "originalUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1367728606-e1645809619993.jpg?fit=800%2C547&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/kubiya-gives-developers-a-hand-with-conversational-ai-platform/amp/",
-      "publishedDateTime": "2022-10-18T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-how-ai-can-help-farmers-feed-the-world.md",
-      "title": "How AI Can Help Farmers Feed The World",
-      "excerpt": "Climate change, unpredictable weather patterns, record heat waves, droughts and more have made producing enough food for the planet a challenge. As many as 800 million people go hungry each night—roughly 10% of the global population.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634d591a924b6eb431b5c039/0x0.jpg?format=jpg&crop=2650,1490,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/how-ai-can-help-farmers-feed-the-world/amp/",
-      "publishedDateTime": "2022-10-18T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

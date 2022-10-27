@@ -43,6 +43,38 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla faces U.S. criminal probe over self-driving car claims, sources say"
+    excerpt: "Tesla says that with its technology, “the car is driving itself.” Prosecutors are asking whether such claims misled consumers, investors and regulators, sources told Reuters."
+    publishedDateTime: 2022-10-26T22:37:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/tesla-faces-us-criminal-probe-self-driving-car-claims-sources-say-rcna54224"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna54224"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna54224"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 103
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220701-tesla-al-0741-47ceb9.jpg"
+        width: 2500
+        height: 1542
+        isCached: true
+  - title: "Tesla Under Criminal Investigation Over Claims About Self-Driving Cars, Report Says"
+    excerpt: "The DOJ reportedly launched a criminal probe after more than a dozen crashes happened while Tesla's Autopilot software was engaged."
+    publishedDateTime: 2022-10-26T22:10:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://www.cnet.com/a/img/resize/193fac5fbe28d49df6899e634282d32f63841298/hub/2019/06/13/1338d946-a5e9-4118-ad79-61c087bac20e/e3-2019-elon-musk-tesla-driving-game-racing-5914.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Under Federal Criminal Investigation Over Self-Driving Car Claims, Report Says"
     excerpt: "The investigation has been ongoing since last year but it's not clear if Tesla will face criminal charges, according to Reuters."
     publishedDateTime: 2022-10-26T21:51:00Z
@@ -84,7 +116,21 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
+    excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
+    publishedDateTime: 2022-10-26T23:56:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_804,w_1431,x_790,y_758/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666816783/GettyImages-490597690_pg31o9"
+        width: 1431
+        height: 804
+        isCached: true
 
-secured: "S8IBqBJ7YrfVw7fFR+y/ei44ijsIy9rlqzJ8/70kX8wXtH9MJWQFbMIhlsNqVojUBw2+CCJRKAPwtfCBRKQpimSbn75wmecsofPsEhPNqZEaUYyLryWAc8egabnwPry1Z1bwHza30nLO5X3/OKmHe+32HgRHS8yMeb7dGcpvF+IBWMVAP7Qs4XDopKua+kpXvdVL7aJHyCI2Huh9OeUCPDlz+d93skcU7eOCMwElqq7rZDhzFZB1zzDV/7N2xqXFv+ZiDWtGU/4stsUk25CWRXLIRQukdbCuQY9L6W2VFlg8h6nJ0olV8moCNIZP9GWCN14+tJ71Z15F/yC++xrhaS3OPMzKuD6YDNUq0OeGiVA=;2/19srTb8TkSWjDTe9upKw=="
+secured: "GQLwXzaoNHvHfo8nW+cb/NuZUSdFGTRwpjBSCgI+6igga1CO4LdNrIcQtQiLpqNDh8Msy8fX5I0Y37q2TR+m17lU0TY3ImF06nIbuX5iJnHgHnLoplZASLXBoRD0RDwG2FV7uBM2sULN9nbX4l/XrBKCFGZWleyBa8B75IszRSKmC57D4x/m67q8Wh9Na1eq7fsQ3FPzZJcuVeHI1V4iZxXbAEfPRpX54YZw/grUlTxi78WRR8MfyizG7Y8Sc2RN0JPyJrFGM56q0xPX5eBMMU/wyt2YcrbtyJvqHwPJ0EYJgKQcvbiyB6JC+VfPfOb5Wh+Rti9LhVivpqiAg8FbMwEwTcLJfsUzhmKYrH6/F50QNQ/ao4YRTXEXRPaNLXahxSRWdZGCxt/h8okomecHbzUV2rEqoRbHRXFoyk0cyqQzyyFykcqwxP7reIoyF2OgelMAwj+SgnSj727BqIzwCV4C+sHgfjNK48hVF3NAesw/44IJue9qgxnmYpuZp+tMyOAtuiFJpjLYe2EYf2MaPg==;mtGTUGkV6pKgmgjNbuigGw=="
 ---
 

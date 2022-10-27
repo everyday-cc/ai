@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/"
 type: article
 quality: 104
-heat: 144
+heat: 174
 published: true
 
 provider:
@@ -31,6 +31,38 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla faces U.S. criminal probe over self-driving car claims, sources say"
+    excerpt: "Tesla says that with its technology, “the car is driving itself.” Prosecutors are asking whether such claims misled consumers, investors and regulators, sources told Reuters."
+    publishedDateTime: 2022-10-26T22:37:00Z
+    webUrl: "https://www.nbcnews.com/tech/tech-news/tesla-faces-us-criminal-probe-self-driving-car-claims-sources-say-rcna54224"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna54224"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna54224"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 103
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220701-tesla-al-0741-47ceb9.jpg"
+        width: 2500
+        height: 1542
+        isCached: true
+  - title: "Tesla Under Criminal Investigation Over Claims About Self-Driving Cars, Report Says"
+    excerpt: "The DOJ reportedly launched a criminal probe after more than a dozen crashes happened while Tesla's Autopilot software was engaged."
+    publishedDateTime: 2022-10-26T22:10:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-under-criminal-investigation-over-claims-about-self-driving-cars-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 98
+    images:
+      - url: "https://www.cnet.com/a/img/resize/193fac5fbe28d49df6899e634282d32f63841298/hub/2019/06/13/1338d946-a5e9-4118-ad79-61c087bac20e/e3-2019-elon-musk-tesla-driving-game-racing-5914.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla Under Federal Criminal Investigation Over Self-Driving Car Claims, Report Says"
     excerpt: "The investigation has been ongoing since last year but it's not clear if Tesla will face criminal charges, according to Reuters."
     publishedDateTime: 2022-10-26T21:51:00Z
@@ -88,6 +120,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 62
+  - title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
+    excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
+    publishedDateTime: 2022-10-26T23:56:00Z
+    webUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 39
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_804,w_1431,x_790,y_758/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666816783/GettyImages-490597690_pg31o9"
+        width: 1431
+        height: 804
+        isCached: true
 
 secured: "O+CZSxbAlcynGFj1PfMzon7RyuOwpFMtBbSO4iN5NoYiBTZm81F7tmxLdhsI4dr0MGCqv60lX/A25jQyuBSucSdtaOEZZ+nhkwpAVMPHFMZNpYPEgAgKI053ssNCUmtu5ApfmbwPdefCdvcQPBW5F8wlb2b5Q5oSxpp4lV5QJtEce1A+nQ4038wJ6PFGiUsJHz6PJQ5C/sp+1ZsmSp3FDNtN7xdjDSPLB3wezo2pPCyqH56Tb2XXZo9acA7IOyAw3Sg6gqG2fwtJzGq+a9TfsqwCAL3uP/DCME0APbiqGmnoyYXQuJ4yBshzmfq/gdF/0XprOd9qrhb7gosVq1HAaKcdu0sy6sePJrmlMlE8V1s=;apjpzE9IjzRnMe5e2QAlmQ=="
 ---

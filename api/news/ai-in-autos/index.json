@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-27-ford-takes-27-billion-hit-as-it-drops-efforts-to-develop-full-self-driving-cars.md",
+      "title": "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars",
+      "excerpt": "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown",
+      "originalUrl": "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html",
+      "publishedDateTime": "2022-10-26T16:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-teslas-optimus-bot-are-humaniform-robots-the-right-path-forward.md",
+      "title": "Tesla’s Optimus Bot: Are Humaniform Robots The Right Path Forward?",
+      "excerpt": "One thing is undeniable: there’s an abiding appeal to human shaped and human sized robots. Part of the value of copying the human form: the world is built for humans. Cars, homes, machines, factories,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/633885ad873cb08a2c57e040/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/",
+      "publishedDateTime": "2022-10-26T15:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-tesla-is-reportedly-under-doj-criminal-probe-over-self-driving-claims.md",
       "title": "Tesla is reportedly under DoJ criminal probe over self-driving claims",
       "excerpt": "Tesla is reportedly under criminal investigation by the Department of Justice in the United States over self-driving claims.",
@@ -10,7 +115,7 @@
       "originalUrl": "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 144,
+      "heat": 174,
       "tags": null,
       "images": [
         {
@@ -54,58 +159,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-27-ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit.md",
-      "title": "Ford posts loss on decision to wind down Argo AI self-driving unit",
-      "excerpt": "Ford Motor Co on Wednesday reported a third-quarter net loss driven by its decision to shift spending from the Argo AI self-driving business.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
-      "originalUrl": "https://www.reuters.com/article/ford-motor-results/ford-posts-loss-on-decision-to-wind-down-argo-ai-self-driving-unit-idUSKBN2RL1PK",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T12:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-26-intels-mobileye-self-driving-car-unit-prices-ipo-above-range.md",
       "title": "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range",
       "excerpt": "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected.",
@@ -114,7 +167,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 124,
+      "heat": 134,
       "tags": null,
       "images": [
         {
@@ -1351,58 +1404,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-13-volkswagen-to-invest-23-bln-in-china-self-driving-tech-jv.md",
-      "title": "Volkswagen to Invest $2.3 Bln in China Self-Driving Tech JV",
-      "excerpt": "By Joshua Kirby Volkswagen AG said Thursday that it will invest more than 2 billion euros ($1.94 billion) in a joint venture in China that aims to",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "originalUrl": "https://www.marketwatch.com/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/volkswagen-to-invest-2-3-bln-in-china-self-driving-tech-jv-271665660464",
-      "publishedDateTime": "2022-10-13T04:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

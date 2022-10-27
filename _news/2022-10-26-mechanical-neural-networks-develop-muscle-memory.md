@@ -41,15 +41,6 @@ related:
         width: 1068
         height: 601
         isCached: true
-  - title: "What physical materials can learn from AI neural networks"
-    excerpt: "A new type of material called a mechanical neural network can change its physical properties to create adaptable, strong structures"
-    publishedDateTime: 2022-10-22T06:00:00Z
-    webUrl: "https://www.fastcompany.com/90798752/what-physical-materials-can-learn-from-ai-neural-networks"
-    type: article
-    provider:
-      name: Fast Company
-      domain: fastcompany.com
-    quality: 34
 
 secured: "h22hGK+RLWT9w31dGqLHUrQr6HHgOwqQohGlhcdlw+B+50T+JQx6aALzGSj/5BG5Ps1xKwNyYOgzLr8PrXm3rUBkkXiulBNSO5xCLB3avuqpZ6KAtwduustlISLaInWjIDus+1nk8rJOl5h17l+0/hUFRlR0IgQeO3zGnUlDjiLcNDy3kllDYDlShXyUu79f0ietOVCLo+yfyJsNDOjQTSaELLhhFRaaJQxET6WWv/8phBzliqAgGdH5b25R+p6kwvnYaoG1SIKVIF/zwvmzmBM0NSQz3muZoBwO/5pbjjbgthkdyXWjm+59pcYwBEz23JUzGAEjj7aPvU0Opo+2S++Qimn0vwHBwTfuRYDlSEcDjSdxNM2fm0zmW1zcSz/tcGLWN9XbfxmKX6hEnsm4VoJNIPfi9k/QRrTBYj3jW5fgbAHtCJOVZaRhHEn8e3pgxoplFRh7HTSJyNAOR/QFLDr32cGr7QWteBaaYeJGrZbGo5NvrNqMvxz5CDl+7jyfIekSfTqlj1JnYWTSjkRcXA==;QCvWkjfBnYWDHin88muxyQ=="
 ---

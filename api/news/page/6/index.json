@@ -2,6 +2,143 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-20-adobes-ai-prototype-pastes-objects-into-photos-while-adding-realistic-lighting-and-shadows.md",
+      "title": "Adobe’s AI prototype pastes objects into photos while adding realistic lighting and shadows",
+      "excerpt": "Demoed at Adobe Max 2022, Adobe's prototype AI system automates the object compositing process, pasting things into photos realistically.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "originalUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2017/10/gettyimages-117107663.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/19/adobes-prototype-ai-pastes-objects-into-photos-and-adds-realistic-lighting-and-shadows/amp/",
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
+      "title": "Waymo driverless rides are coming to Los Angeles",
+      "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "originalUrl": "https://mashable.com/article/waymo-driverless-car-los-angeles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/03CfCz72En1mxYmjI6USYVC/hero-image.fill.size_1200x675.v1666127617.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T10:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-19-a-deep-artificial-neural-network-powered-by-enzymes.md",
+      "title": "A deep artificial neural network powered by enzymes",
+      "excerpt": "To do this, artificial ‘neurons’ powered by enzymes are wired together to form an architecture that mimics the structure of a neural network. The world is facing a shortage of memory capacity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "originalUrl": "https://www.nature.com/articles/d41586-022-03150-4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-03150-4/d41586-022-03150-4_23610918.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nature",
+        "domain": "nature.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
       "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
       "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
@@ -1109,117 +1246,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
-      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
-      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-bill-allowing-driverless-vehicles-in-pennsylvania-advances-in-senate-bringing-its-adoption-closer.md",
-      "title": "Bill allowing driverless vehicles in Pennsylvania advances in Senate, bringing its adoption closer",
-      "excerpt": "State legislators in Harrisburg have further advanced a bill that would permit autonomous vehicle companies operating in Pennsylvania the ability to conduct testing of their self-driving machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
-      "originalUrl": "https://www.bizjournals.com/pittsburgh/inno/stories/news/2022/10/18/bill-driverless-vehicles-advances-senate-vote.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Business Journals",
-        "domain": "bizjournals.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-exercise-strengthens-cognitive-function-in-stroke-patients.md",
-      "title": "Exercise Strengthens Cognitive Function in Stroke Patients",
-      "excerpt": "Exercise appears to significantly improve cognitive function following a stroke, bringing patients with mild to moderate cognitive impairment back to near normal cognition. Results of a new proof ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/982715",
-      "originalUrl": "https://www.medscape.com/viewarticle/982715",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/gty_221019_nurse_helping_senior_lift_weights_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

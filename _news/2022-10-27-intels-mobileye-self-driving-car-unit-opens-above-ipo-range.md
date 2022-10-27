@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Intel's Mobileye Unit for Self-Driving Cars Opens Above IPO Range"
+    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
+    publishedDateTime: 2022-10-26T22:11:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 74
+    images:
+      - url: "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Intel Prices Widely Anticipated IPO for Self-Driving Car Unit Mobileye"
     excerpt: "The unit raised $861 million by selling 41 million shares, valuing it at roughly $17 billion"
     publishedDateTime: 2022-10-25T21:29:00Z
