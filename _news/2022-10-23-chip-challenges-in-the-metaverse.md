@@ -71,6 +71,15 @@ related:
         width: 620
         height: 434
         isCached: true
+  - title: "The med­ical meta­verse is al­ready here, but what does that mean for phar­ma?"
+    excerpt: "Many people may not understand exactly what the metaverse is, but digital experts agree it’s already here. And that goes for the pharma and healthcare industry too. The blending of real and virtual life in the medical metaverse is shaping the future of medicine and healthcare,"
+    publishedDateTime: 2022-10-25T19:54:00Z
+    webUrl: "https://endpts.com/the-medical-metaverse-is-already-here-but-what-does-that-mean-for-pharma/"
+    type: article
+    provider:
+      name: ENDPOINTS NEWS
+      domain: endpts.com
+    quality: 0
 
 secured: "T0qwXqOkNB4YFSuC4WsmazOppT9mt0zhgNg9TPiRS9MjfOMdC073WzHFoz8LMtsed1Cnq7/OOmTayjq9kdegbSnEjoGjiR4mPZS/jmZv4E5ACpQaYJskANHuswiakG0WetvF4+i62s3yunJ5xgy9ZcDdNC7OtfImJJ3ndNei4CjnjDcrGU4AqHKlPH6zP7I2vFuBeOWvUjcOQUtCgRxL2UGQJxW/kUbwWcuCob8yf8Y71GlzdY4puc602vKz7jRHQfOUS9lBADj2DMOBvVFoAuK6aNOs7QaTGrIzOikvgCbMmkaGbb2k4cFlifJaiak+5710zScbJ5FQoifzj8y68TIZc1yONO95rTnktfAJbtWq+RxcvrxX/+4UenMd8sLwHMgM2r+30J3ZygA0gW5z/wnPI00fubvDIlCDuaitifab5QR+wTM+72JZTG9v2xAypDDzolL9CoazKH1LlPOrU1vZ+OZO/aB3CqFywdKZ47GuSJFoH/F3SZYFAj4C7QX3tw7+yKIiNd98OjqvJ1UoDQ==;RLFwCflh+zkqUKiem/8CuQ=="
 ---

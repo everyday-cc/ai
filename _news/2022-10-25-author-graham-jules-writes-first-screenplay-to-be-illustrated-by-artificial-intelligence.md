@@ -3,20 +3,26 @@ category: news
 title: "Author Graham Jules Writes First Screenplay to be Illustrated by Artificial Intelligence"
 excerpt: "We’ve all seen movies like “The Terminator” where artificial intelligent machines rise to take over the world with catastrophic consequences. But"
 publishedDateTime: 2022-10-25T10:56:00Z
-originalUrl: "https://santamariatimes.com/news/national/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_6abac3aa-6e19-52b3-b239-d010be78a560.html"
-webUrl: "https://santamariatimes.com/news/national/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_6abac3aa-6e19-52b3-b239-d010be78a560.html"
+originalUrl: "https://www.mankatofreepress.com/news/state_national_news/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_bdda0b95-b070-508d-9dc4-c65b27c0312d.html"
+webUrl: "https://www.mankatofreepress.com/news/state_national_news/author-graham-jules-writes-first-screenplay-to-be-illustrated-by-artificial-intelligence/article_bdda0b95-b070-508d-9dc4-c65b27c0312d.html"
 type: article
-quality: 8
-heat: 8
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Santa Maria Times
-  domain: santamariatimes.com
+  name: Mankato Free Press
+  domain: mankatofreepress.com
 
 topics:
   - AI
 
-secured: "RIm1+b+wdxSuiUngAWm+gijSYaxfaLSa6rwahFPN8VxvDPshcSDegpYltf5BMnbYY9HA+OUSNMq2rKpooW8K4G235FZEoutxq+QE/J2q+O068F977gfKVf8lP2j0xdUpc0FLgjH8Q9PTe7iZXys6T2AbzMv95pzLI4uZ3WSvqNZAicwxTKYtYKgAfwlnlaAH+M1Y4j6uHGo5prHNA0M7saKTWPsF51YWyDWo0jjsnoBMU7QYR4NwhV4BnsDvpGdNBpU+wISMdZBXUoibl2xtQDfAtry7WoVqJX5s+b7vr7s/pKzYIfpk8Q8Hv+hDystncwfeFqAbgFT3/6vhyzrVfNpX5ftegZ218aPTTPFRelWdl7h0uqSqkcG5JZ5A51QQA4T9bbPQ+o8aTCDK6qjYNZMhm74SGRkeYlhldfyNofCHUaiiImQxxLaNZAneUkfIAjhkCdEF54NqQ6hO3DXubzf+y9ALb1hk4THlPOv30GUFkisZ44/l38OKDgqQDXEBSnBBD0ow+8Ju+uw8G15DhQ==;1dbiY3h/KVs9WWiB0ah98w=="
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/mankatofreepress.com/content/tncms/custom/image/5e42277e-6153-11e5-b349-8f12bc751eed.jpg?resize=600%2C315"
+    width: 600
+    height: 315
+    isCached: true
+
+secured: "OVmmIDtmEdXxKy/d3IJshDnEn3BzBDQA+Xnf8TiV2ZBfZmOR6mS/K/Une+f6IUohePB+EfAC+zdxRibnMOAc7GRPRIpvSHViGbE5K5QOy2ZFqjrpTy9yMptWvcNxqYAmuvDMPqe1c39EpVSOBOSd1rpG58QU49TSdBGnyGQdoI8mu+T2F7aaMptp5PgQn0zXcdWP/v9nAtrskVboDQ9j5bXJ07sMQQBVHHnqvYkUVRAN5LWz8djw8I8X4syr3pnQWbzf8vVoDZYGR1Dv4+IIua92nf5kCC2skfkRdwuRzPhv7vXSXwDlMPCyB9MT/eHhI1DD1lCYg9D+O2fzljKTDVZW+c9nvE1GfIcWsAgR0Do=;KYejFAF7/M6cNjNDf0YORg=="
 ---
 

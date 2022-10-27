@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sas-touts-integration-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
         width: 2048
         height: 1365
+        isCached: true
+  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
+    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
+    publishedDateTime: 2022-10-27T08:54:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 27
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
+        width: 1000
+        height: 450
         isCached: true
   - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
     excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"

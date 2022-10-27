@@ -48,6 +48,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
+  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
+    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
+    publishedDateTime: 2022-10-27T08:54:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 27
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
+        width: 1000
+        height: 450
+        isCached: true
 
 secured: "zrsCUTtIW9jGPF78nY4WBfKuux7q4WQXkLZeliv6DSuX20LMmyCd1AUz8bqhe0jLK+wMeHw+wJS8KdXohn3nm9S04mvGAH7h0nHu9dDE4WLa3pP+JmPXA6oQ41svAWhHaQrGBFC9012u22fqnoeKEYy9bj61BBKqvfAoBd/RzdFMnwWLBqGfYlH97ivoLGlAheMymJoiUzFohsp5a1IbH8D3sSF1d6PIjvsrzSrm/emZSxFzLGWkOq/C6l8o3mKtl9I6rIo0VTK1y5NTMovak6qIpC807s51Atv9ZYwSeQhgz1RF/NW2SfIDnSDiTZFE5Bej8r0MtZQ8L7UH/peXtSAZ6w+3L0ATnlz7U71/Y1o=;mYD5+dpjIkzmWxEj046pfg=="
 ---

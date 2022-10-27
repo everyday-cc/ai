@@ -41,6 +41,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
+    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
+    publishedDateTime: 2022-10-27T08:54:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
+    type: article
+    provider:
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 27
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
     excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
     publishedDateTime: 2022-10-25T18:29:00Z

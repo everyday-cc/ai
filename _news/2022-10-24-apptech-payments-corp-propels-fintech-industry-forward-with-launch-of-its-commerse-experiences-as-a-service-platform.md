@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "FinTech Innovation Lab New York Now Accepting Applicants for 2023 Class"
-    excerpt: "leveraging AI and other technologies to provide greater customization, faster claims response times and improved underwriting capabilities across all insurance categories.” Maria Gotsch, co-founder of the FinTech Innovation Lab New York and president and ..."
-    publishedDateTime: 2022-10-26T15:08:00Z
-    webUrl: "https://www.01net.it/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/"
+  - title: "The top speakers coming up at FinTech LIVE London 2022"
+    excerpt: "We've compiled our pick of the top speakers taking to the stages at FinTech LIVE London 2022, our must-attend hybrid event taking place next week"
+    publishedDateTime: 2022-10-27T09:05:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-top-speakers-coming-up-at-fintech-live-london-2022"
     type: article
     provider:
-      name: 01Net
-      domain: 01net.it
-    quality: 4
+      name: fintechmagazine
+      domain: fintechmagazine.com
+    quality: 24
+    images:
+      - url: "https://assets.bizclikmedia.net/1800/9ea6d91e0bd6b5fcbcf374bd839921bf:dfab96f7d6dee49bae3aebc3083b0ea7/fintech-live-london.jpg.jpg"
+        width: 1799
+        height: 1011
+        isCached: true
 
 secured: "7SpgFVuSbT72uoquRtnQgXaeyeth4RTJxY8aJdXyLCz4EUrNDjwc7gojcWX3Bh68x37ymBMzmEkbkVtDpmY8R04TNe8+KJbRu8Q0AyDjvpxaljkwgz20r7QeSR23SRolE6fwY6IbzWOX5w5uAxtHEKOB+bQ7vABdagnHXiqloXJtBQEy/vNWNajbFC6sbgMJL5UcgtlOXoikI0eWnIPoEgryQNrV1WI6QsUkBipDOXdxwf3aoGUi4/V0Y2qd8JEtnhe9vyy6sNm4CQSWkYj+jz6bpPhBrXvoSMzPBW7e6k5670g6k7wV2oX0a5HLyYFobI87cNieUthFpYE9m2vXQBnvEglHN8mEBiGRjPSNVVQ=;3AkQlG82FH/IqRrUEybuBQ=="
 ---

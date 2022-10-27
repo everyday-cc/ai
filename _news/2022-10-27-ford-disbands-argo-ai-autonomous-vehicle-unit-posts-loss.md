@@ -130,6 +130,20 @@ related:
         width: 1536
         height: 999
         isCached: true
+  - title: "Ford Says Argo AI, Its Self-Driving Venture With Volkswagen, Is Shutting Down"
+    excerpt: "The automaker said the Pittsburgh-based startup, among the best-funded autonomous tech companies in the U.S., is responsible for its quarterly loss."
+    publishedDateTime: 2022-10-26T19:58:00Z
+    webUrl: "https://www.forbes.com/sites/alanohnsman/2022/10/26/ford-says-argo-ai-its-self-driving-venture-with-volkswagen-is-shutting-down/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 64
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6359a3275b9342c70dd8ba28/0x0.jpg?format=jpg&crop=3960,2227,x0,y415,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Autonomous vehicle startup Argo AI closing in wake of Ford losses"
     excerpt: "In an earnings report, Ford (a major investor in Argo AI) noted that the company is being wound down and that it will hire engineers from the startup to expand and speed up development of Level 2+ and Level 3 autonomous driving systems. Ford says that it ..."
     publishedDateTime: 2022-10-26T23:38:00Z
@@ -178,6 +192,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
+    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
+    publishedDateTime: 2022-10-27T08:44:00Z
+    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Analysis-Ford, VW Pop the Automated-Vehicle Bubble With Argo AI Exit"
     excerpt: "A driverless car operated by Argo AI drives in Austin, Texas, U.S. May 12, 2022 in this handout picture. Argo AI/Handout via REUTERS THIS IMAGE HAS BEEN SUPPLIED BY A THIRD PARTY./File Photo/File Photo Reuters DETROIT (Reuters) - The road map to fully self-driving vehicles is being rewritten once again,"
     publishedDateTime: 2022-10-26T23:02:00Z
@@ -224,6 +252,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Argo AI shuts down after Ford, VW end further investment"
+    excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
+    publishedDateTime: 2022-10-27T09:45:00Z
+    webUrl: "https://www.motorauthority.com/news/1137629_argo-ai-shuts-down-after-ford-vw-end-further-investment"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 37
+    images:
+      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100704292_h.jpg"
+        width: 1920
+        height: 1264
+        isCached: true
   - title: "Ford-, VW-backed Argo AI to shut down"
     excerpt: "Ford said it will take $2.7B non-cash charge on its Argo investment. Argo employees were told that some of them would receive offers from Ford or VW, TechCrunch said."
     publishedDateTime: 2022-10-26T23:55:00Z
@@ -257,6 +299,6 @@ related:
       domain: bizjournals.com
     quality: 19
 
-secured: "QiQTD6aIz2CRFZq3eJCLJPPtoBpw7JqOjL2C2t+PrUtG3EsDyUW5xOOrqWycLZ/NbKsipvoCr01ikDiIKwIOjK/NaIWOKmp4ritO1dPUEe2BDmheh3haTIWNKWsetYbXciOo30aDhUGsot9I2RaL7cTrO5bhC9hXJKnJqC3ssFm3trtmNj3W4lZ7gqJJ486JcbNcdLBvxDkgzlHoaCf4/hSojp+35xDBBCrJxVLeEZmUnBVvZRtoW5E9+gevl8cJ8F6aBt4txMz/ACZSJpXzwMHGGhF72YxR2FNO2dJjlxuw8BKeIRcGmJ2qC0JnOAvDGnyPZ5h7xtpUHg09LE5CJYaKj7fI7Gn95XigBEisW0k=;1jrUBsvheogR042arFW/oA=="
+secured: "l/B2xf8a8eRy/R8bwgP3Lk7IQia5B2yf5Mmue6Ob+POFrBu20G8GcdYhZ1IXfAO0WSY9dF8zvk9Q/uwlC2uCrgrma1L+X/52P9PTlGUzlPfmzmyn67zfiFWdLWIuDr9XocdhUbohzZHqFlwGDR4/qkr+KO17zCOoM+Oy22Cc/mplJr5WoCSdZfvVvC6N/pFpVaLa9ggzoAolGyzUusioxwQ2OCNBjnn/IsmrLo3uqo+ZGKJOuBaYFRCOMVGhKqZespUyKfNnYy6V5Uv5kkNq3oiZdcaDqbX/oUyg62jrpnFf3XdOIOftKDe73GlCSrdbw0siDBk/5NUY4d7lC2in2gzhG+9LfCJayN0XSGBBlnw8Zw3yWd+zbSeMExZ1h6KCoyjeerNnG9FfUqyvMxCZqLcIk3VgNy7+lvM0z8Cn3oRibBVwm4bCEe9pZsAhSf2+HD4cSio8j+zQGnQXbShAGxAYpgZ2MGDJWrHKBgdoxliNChiq9nDCc98nX87YNBWUYt7pTxw2vzlV3wCfZqGpqQ==;5YDiKC/ZGW+3SwejrP7grw=="
 ---
 

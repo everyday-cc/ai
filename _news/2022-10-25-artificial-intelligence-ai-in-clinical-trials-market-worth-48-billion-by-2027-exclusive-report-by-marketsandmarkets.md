@@ -2,11 +2,11 @@
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T15:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+publishedDateTime: 2022-10-25T16:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
 type: article
-quality: 8
+quality: 6
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 related:
@@ -31,6 +30,6 @@ related:
       domain: benzinga.com
     quality: 25
 
-secured: "nFyn8PFyXARZrsGn47j+Otd7Iuht0t60MwVII0RjPx5wSdw9TnDGtqNhIgbA3IpitAS5tv8jOZyFgT42ECa2pGTY91FMeCSwq+Mk7cFz+h44RRZbZ+r1L6oNVaefNF+F/0q8ufP3k2mZUU/WzUmn8O0fJH9u08h/0c6RifXF21ebDIZKtB2ooHQmaVboWv1HFlrWDjvYZ07ZWNQdo2li9DzFZa8btDwNwMR0Ef5Mu4vPnhngN+AX3P+g9xXOA3XypsMq7gG1d12gQ4oA6E3YuQwPOAQQgw6dgedrvioD1H9fHACpNzfA46dorg/BA0JRKUP6On0UNwxS11o6jJp6w48h/BsiHilL5uKyI5s4tYX+WC+sYCRDdj+fIZ4OCIN00530Wjfu4kXuRu4i5fmQyojQhdN47RGQeiQWzdx15AaC92FYeF3sQMZeYgJdCm4DqXdzHs53LcOHiMVBrm3K+bWv6Nqfcn5XCUnmhuZE74WIyszDUTdjLoOHYV1irkmRaDHW8OrcLCUFSSvGsbcjAg==;+7sZm3L65MDTDheIATsIqg=="
+secured: "k3kE7NbkSGCPn5icU0joI9tZSn0x2kCPseymEQGCGSxmnow8lrAxz9TnY63SaB6gpmV/2/t20W3msuafSZasqBta1ol3GIBaMIyDvLDUdxoVKFoLvILOW/7xxb7kMMixOVib8IDEkrkHex8ymbctZB82rfADP9rLOdQ+7+57u1AI4ag0z7LgpYDkrV3ec7UjOQKDiHdPE+Kok0sL6M47yJvcJ05biQZu3ssNDKt53dE7ysrK+GL7fzntLeJ60T72O0SNQ3Scykgu6JWA+uZXlW0ef0YeXbZ5/HD1GK45M2d+R2vUpD6PBSKjjg9MsFulHXJOI5PuzM8BluKUf9RQYlSE+Jjuxau0gchl/fvShurAn93sZ3OvNDoVFe4RcjTT0sQm0Y7FiHb9B41a4tPx2p+WIkPow12h3UGG5Il8DcoxhIuaLg6mnuoA2id2Bt72bBUyw+IHZ1ctMXY/j+PbaBbrDVMhaoNfipDkwUQqHEB9E6/dLs4WklR9nHXy0Fs1PuHfYG+v91O9l/04yzbzrA==;2vTEPagVbAj8hYKxvMwCtw=="
 ---
 

@@ -69,6 +69,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Intel Stock Gains As Mobileye IPO Values Self-Driving Unit At $16.7 Billion"
+    excerpt: "Mobileye, Intel's self-driving unit, raised $861 million from a firmer-than-expected IPO that values the Israel-based group at around $16.7 billion."
+    publishedDateTime: 2022-10-26T13:53:00Z
+    webUrl: "https://www.thestreet.com/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
+    ampWebUrl: "https://www.thestreet.com/.amp/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 37
   - title: "Intel’s self-driving unit Mobileye prices IPO above target range"
     excerpt: "Intel’s Mobileye priced its initial public offering on Tuesday above its target range, valuing the autonomous driving company at almost $17bn in a rare positive development for the US listings market."
     publishedDateTime: 2022-10-25T23:20:00Z
