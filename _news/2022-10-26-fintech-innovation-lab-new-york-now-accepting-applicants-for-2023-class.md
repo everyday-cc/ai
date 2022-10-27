@@ -1,23 +1,20 @@
 ---
 category: news
 title: "FinTech Innovation Lab New York Now Accepting Applicants for 2023 Class"
-excerpt: "leveraging AI and other technologies to provide greater customization, faster claims response times and improved underwriting capabilities across all insurance categories.” Maria Gotsch, co-founder of the FinTech Innovation Lab New York and president and ..."
-publishedDateTime: 2022-10-26T15:08:00Z
-originalUrl: "https://www.01net.it/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/"
-webUrl: "https://www.01net.it/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/"
+excerpt: "The FinTech Innovation Lab is designed for entrepreneurs developing disruptive technologies for the financial services industry, including in banking, capital markets and insurance. Now in its 13th year,"
+publishedDateTime: 2022-10-26T10:59:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/article_ca87db1b-b372-5835-82f8-1c5b111e83f7.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/fintech-innovation-lab-new-york-now-accepting-applicants-for-2023-class/article_ca87db1b-b372-5835-82f8-1c5b111e83f7.html"
 type: article
-quality: 4
-heat: 4
-published: false
 
 provider:
-  name: 01Net
-  domain: 01net.it
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "a2GEyW7S+jTrPolEMyMwnJm9EpuFYM6lb8Vc0AeI8UOq6QWIPxGxqMqTSofz4fWMsWjI4xdkaGaLkzEgzJN2CRhW7tIooShSsghHjyX3uhNejaNqpb6+kTuBHuoLYtyAGljEcLrLfG3MxrojZ14XxXfVm75dV3ywj5PKuPUf+YIF5gjOj0Vrvem8BcJYbGlu6HX2G4v1S4WtbNVWJFcdm83E0CTj0oKJn7nALn7NCZQRTu9FJWXc1POYh65oUB1ReBQcuGtW/wYk8KAiIBEl5oKcZEK100mSe8lpgzV5KhlwKcpBtC9Kr3tuQCD7ke9rcFqDYCukMo8QU659MVMzZb24ccUK9IJqQVwFWvPlyqH7r4MkfduGFQK3eABCUVT/MQwD2QtZTkoHiSA6mJdNy8Ot1WWabq3TYDEUScC02L4yQDsxZHczkXhmV7+V97vliEtR5ZQsH/IVxX2wUgDY8xdZKdzRtXATZDZyXH1IKgu3T8Zw3yIKrakzDoRFJ1/0LUyjQrYssPTvYjJOKCQFfg==;ya/ruUnUn69A5JgsoMNqHA=="
+secured: "Lxz3vZskvjNIPTQ8xxNc/VncOc3QnBHbXCD2IMuxJZU7IOW3F2CjRMZLorV9RzsCjuCzPhDVVDVWfa/PUF7+g2VA3P+NSp6KIl8R7Dsd3aKCVQI6s9/SOrDfxO7sabwydNNs9PyT8/SJnlTTsICXC4GvJKQcTALc4cId3EvuMe/kuyN4MGfYjR4mknkmrQ9LqLkbNW/m5CvDuLIJhOU1LXTS782PD/VNr6yqSG7UY+bdCLnDVDUvY0y6bcv147cUNdRIe22WIQx0ufKok3PJwKCjIm7mEWL67n7q4UsnpCCTtEbLfZiBznfYxvoVF/Byc8uSlYsaXuTt8qUON9kg33tKVB7z+Xqp9SBzlX5/WDA=;w6q/N1ovVHo+EygEi3OADQ=="
 ---
 
