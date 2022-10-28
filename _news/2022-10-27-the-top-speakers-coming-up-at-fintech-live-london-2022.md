@@ -33,7 +33,12 @@ related:
     provider:
       name: WealthManagement.com
       domain: wealthmanagement.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/riskalyze-fintech-5.png"
+        width: 1540
+        height: 800
+        isCached: true
   - title: "AppTech Payments Corp. Propels Fintech Industry Forward with Launch of Its Commerse™ Experiences-as-a-Service Platform"
     excerpt: "AppTech Payments Corp. (AppTech) (NASDAQ:APCX), an innovative Fintech company powering seamless, omni-channel commerce between businesses and consumers, today"
     publishedDateTime: 2022-10-24T10:00:00Z

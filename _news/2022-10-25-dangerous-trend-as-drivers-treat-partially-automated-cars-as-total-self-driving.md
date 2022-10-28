@@ -73,6 +73,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T05:15:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    ampWebUrl: "https://www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-652971/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Why Do Self-Driving Cars Crash?"
     excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
     publishedDateTime: 2022-10-26T05:00:00Z

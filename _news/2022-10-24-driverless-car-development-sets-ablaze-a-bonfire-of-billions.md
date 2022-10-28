@@ -37,6 +37,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "The driverless car revolution is stuck in the slow lane"
+    excerpt: "The hype cycle of driverless cars is on yet another depressing downswing. Last week, Tesla boss Elon Musk admitted that full self-driving software was not yet ready to be used without someone ..."
+    publishedDateTime: 2022-10-24T01:47:00Z
+    webUrl: "https://www.ft.com/content/cf443342-fb39-4877-bedd-3385f33be062"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
 
 secured: "8Ux1KKXLB0CMXIffdVc1XauCQFhkjK3Ug3GieumW4TIcBNLrE2DzFxFid/oatlyxYza7SKENFSFNaHjjEgcqLDR2ocsjisec/YcB7dClbiYh6KS5lrmWyiwLPfnxUQFyaENxV6cfeIHPI/aEcpU/jcEuvNvFccMlelkNVIyLFY9sPGGlKYkdT+hFvIA4Kp2ziJJmR6nkO4nfbYht5fg/NpIxjmGLBKMQMXa2Y8CDKnx/ilIBd9m9N+U0z5w/xT/F3zbBelZMcWrAceLKa02GgtJhsEDmzIOEirgdoZVWwTjg8LroRFPA2XmvzirV35ylz9acRrCe+eIaF+fd3gM9mwJ+SzEtIXYxs65rDWfVvEM=;elaoPDlRimU2e/RpLcxXDg=="
 ---

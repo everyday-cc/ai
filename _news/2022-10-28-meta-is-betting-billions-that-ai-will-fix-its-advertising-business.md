@@ -39,6 +39,22 @@ related:
         width: 1200
         height: 801
         isCached: true
+  - title: "The future of content creation & advertising – brought to you by Artificial Intelligence"
+    excerpt: "Niraj Ruparel, Head Of Mobile & Emerging Tech - GroupM India Emerging Tech Lead - WPP India, believes that synthetic media seems closer than we expected"
+    publishedDateTime: 2022-10-28T04:35:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 50
+    images:
+      - url: "https://www.exchange4media.com/news-photo/123301-big-2022-10-28T090253.156.jpg"
+        width: 730
+        height: 395
+        isCached: true
 
 secured: "wiMKYh+hd3GOkr4S0DzXOonhAEnuutWe0wKeqSIzmJW68N6ocgKWcLV9HqeOWEXI22inKCtBmrmNoCxNLvYlUrTIGIRQ0jvgAjuJphyHg6ghGvlndgMLPIA0Z8Fwnj4Es0VwgUwk+LN+LGVE1kc1n7eCVjPIc6YVZMORA1UHu8odiCeET/jjX5eVN38sD3v5XtyYB5HNMuoVr+a51IcLywuYY4mMtp7aJDa1Ku8UCGZ8GNkfywRnnNmdi3F80aUUDtyUKMwOGuGCqQ6sM8khy7fS7tUjVBHkLiLL66PNect2SSGigDO1YJP82ePYfLbG5RkzISc9ssJAqRPFmdzqKIWQS6z/rQ6Kkk38JsbNmBwtIq0pQ6t5XI50X2obz4oG/h5/UXriiqlEjyAWIK64Ncc5QyKSzU7VgYEP3NoYHSMUTB72C7jIjLVA+eRYLHeBb43TzOgwmSiCEIavKI81mN0toNbOAXhXLFTNS0qXMMXBaV9am98KWhm0QT/kwz38VnnToEV/R5jTLw70D880aQ==;+UWihNBQ5Zbz495NqlHg/Q=="
 ---

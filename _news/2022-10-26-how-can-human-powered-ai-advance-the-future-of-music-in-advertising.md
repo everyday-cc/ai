@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/10/26/how-can-human-powered-ai-advance-the-future-of-music-in-advertising/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "The future of content creation & advertising – brought to you by Artificial Intelligence"
+    excerpt: "Niraj Ruparel, Head Of Mobile & Emerging Tech - GroupM India Emerging Tech Lead - WPP India, believes that synthetic media seems closer than we expected"
+    publishedDateTime: 2022-10-28T04:35:00Z
+    webUrl: "https://www.exchange4media.com/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    ampWebUrl: "https://www.exchange4media.com/amp/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    cdnAmpWebUrl: "https://www-exchange4media-com.cdn.ampproject.org/c/s/www.exchange4media.com/amp/digital-news/the-future-of-content-creation-advertising-brought-to-you-by-artificial-intelligence-123301.html"
+    type: article
+    provider:
+      name: Exchange 4 Media
+      domain: exchange4media.com
+    quality: 50
+    images:
+      - url: "https://www.exchange4media.com/news-photo/123301-big-2022-10-28T090253.156.jpg"
+        width: 730
+        height: 395
+        isCached: true
   - title: "Meta Is Betting Billions That AI Will Fix Its Advertising Business"
     excerpt: "But your standard data center server isn't going to be able to handle artificial intelligence (AI) workloads efficiently. Beefy graphics cards or specialized chips tailor-made for AI are required to run AI workloads at scale. Meta has decided that it needs ..."
     publishedDateTime: 2022-10-27T19:04:00Z

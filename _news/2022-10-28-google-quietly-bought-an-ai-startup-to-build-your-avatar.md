@@ -50,7 +50,7 @@ related:
   - title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
     excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
     publishedDateTime: 2022-10-27T20:31:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
+    webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
     ampWebUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
     cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
     type: article

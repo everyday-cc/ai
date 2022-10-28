@@ -61,6 +61,22 @@ related:
         width: 600
         height: 400
         isCached: true
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T05:15:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    ampWebUrl: "https://www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 44
+    images:
+      - url: "https://images.barrons.com/im-652971/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
     excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
     publishedDateTime: 2022-10-24T23:16:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-27T19:13:00Z
 originalUrl: "https://www.wealthmanagement.com/technology/october-2022-riskalyze-fintech-five"
 webUrl: "https://www.wealthmanagement.com/technology/october-2022-riskalyze-fintech-five"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/riskalyze-fintech-5.png"
+    width: 1540
+    height: 800
+    isCached: true
 
 related:
   - title: "The top speakers coming up at FinTech LIVE London 2022"
@@ -45,6 +51,6 @@ related:
       domain: benzinga.com
     quality: 0
 
-secured: "qlmRPeZfbP3PWf8DySTDRuKOBEJR5sj4Id+rdSHbE5zNZ0jtL0U1bH8DN/Y9l6/xclpRg9PrbDhhh85oAuKbqI7jK6DIl1JC2KkdoE80d3An+eHNtXJ1PHsxvQzPbr4kA+Po0Etd/dtR3jamkfV+RH+N0roDI8xSF/KeFT260ffFRjOgONg12HrZFWfsbDk4WumHN7kLooeFNscQiVyYdKpTvd8jS/gkUdJOq4tQkQvbXGxun37KDtFdmAwCqpSQjxuefHzCol5hMF14FBv9AR01UCwQCndaSfLJeGLBNtu8ZGl8BiJf2ZFokN3fEz52SK4johuG+gPKVP6efVwFgdXmpjMKb+FD6K0U277O5SA=;BEsLEH1Qt7urzkJAJhOu8g=="
+secured: "pE/JRF1mY6peukS2tySaTR7FHKEKZ3zq8qsRCOF7HPkAA0XoEQBuEL67Hz2ICfPjsR/A+cJnfXPtFxR8A5NNxPcOLuxnZzKEOA98c/ZAeqknVh4HjX+FefEX3hVnycjqw0Mzge9lILrX+Cztw7oJHnmbAYe3uSNwxUZ8p9TJrsUSKmbgP0+J9s9VUYB+xqsuXCxXM4rcyP5E759gXFZjIBTiYDRhpX76MvV8Is+hhlV3zHBtTNJeD9aWVfjyeBBACFvMpSkKIz4mWXLZOoqW/t/wojKVRqipTGi5RhowOnsIVzI2FE2JNcrdDNdKfz4uQs/tFg3Ukv33eUVGTj7WFnZEUJClJZrCV+fsUQWOYxs=;Zqc3GHo2SgtyocCF3XmPxA=="
 ---
 

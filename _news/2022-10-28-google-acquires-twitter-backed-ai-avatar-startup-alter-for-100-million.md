@@ -3,8 +3,8 @@ category: news
 title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
 excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
 publishedDateTime: 2022-10-27T20:31:00Z
-originalUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
-webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
+originalUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
+webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
 ampWebUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
 type: article
@@ -79,6 +79,6 @@ related:
         height: 630
         isCached: true
 
-secured: "J3uPRto4qmTE3P5UtGAT/6ihUFeW85v9a9GOwD5/LyrH4AhMwVk3gGv84kLPxICYBVrLCBWrq4jRKaZzhe5+OMtvwDJrCzHPm3zXWVdTZcr0rIomXa7M8TuzTa+UKVxs7pAfyFIxBtqmVyEFqvn1EOIKNCZEw3WUKg5xIDOilsQHMqCHH+bDJP9Y57VW9ZI7qsPJ6NXNtKKu/gCcyaOdBqBo8MYkXKjb07d+TbFaPuFIFI55LIEhEntv00Uja3A1QZNuLTFtQe2Yjr3a1Mf0WB6xMNw+mupzrbj5ARhvJfyA+CXlkz2TJ71b4tXcrDjLk68Lnoc+J2zgoSMViF1YKMDS3acZs4+YWfhiZo8hnnc=;O7kBoCnm1XCjmEP8Dd93Xw=="
+secured: "IW6KEtWuh7Ly9fbVE0kT6REz2FhnZDhC4HuZZfjxuBHMvM92ijIDx8SRbDZzMK5Zt4JHKLccKVe78DLhrKDUN9f5ZknDw8YeiSF6SsmQgZmvghLbJbu+I0o7CXtbBn25KJ2cu4J2fI1eOE91cDJmgdshz6AioYq9uSgUX5kJvytXcNHVmHtNB7SRnEKYcNbdgWxhHuRsDDlM/2uu8ojE7pYTthATeyTyRWX36B7YYs11O4UZVN5Q7ogVJmyX5Neppv7UONGq9N8tzda+suEirCZX5f/HVb0tdOZCdeWKImhM60SGgOWzXZxN58FfUYeuTDJP7lGfQ1m14O3qi10Oo/S0g1Bf3sb4D7KAJmuqYH8=;D2f2as+L0KPSpUq9REeraQ=="
 ---
 

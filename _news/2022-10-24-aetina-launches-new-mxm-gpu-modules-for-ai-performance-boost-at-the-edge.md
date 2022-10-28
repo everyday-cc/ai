@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29371511"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371511"
 type: article
 quality: 73
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 400
     height: 209
     isCached: true
+
+related:
+  - title: "Aetina Corporation: Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge"
+    excerpt: "The new MXM GPU modules, with their compact designs, can be easily integrated into a variety of AI systems to boost the computing performance and run complex AI inference tasks. For these GPU ..."
+    publishedDateTime: 2022-10-24T02:20:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-10/57374567-aetina-corporation-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge-008.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 43
+    images:
+      - url: "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg"
+        width: 400
+        height: 209
+        isCached: true
 
 secured: "TsklmQzbmVO4ueM8ynUYyl6+87/ciX1zR57FF0kjGW+QrrmQRDj53DwauZ8kt8tu5OdPwQ7BBFShHYrdKCNlhkMT4dbcw3XSkfMzFn0xHHx71gsryxJ9L2fVu5deugOtw3fszX0N6d0B7fWuGVUTMJKrnLALu+V5XMCpFlzfHomupVOTlJ4yrmVDgRF3Q5lFgjTgNukpOec5yORAginhzkXGDlCS4dLcMjNML7jYEvMrpEhdmH7gjfqC86imqBpTRtr6qS6p0pleabw6g1QVu8rumIKARjf0p/12dP7S5FHNV/NWYcOE3vfL5oU+PW4rHUO450s9WxO/VbWdangO49qhaF9AhD3/XR7dPjEab5E=;OcKmKx+9s7p5Sitr0jiNWA=="
 ---

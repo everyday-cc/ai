@@ -30,7 +30,7 @@ related:
     provider:
       name: C4ISRNET
       domain: c4isrnet.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.c4isrnet.com/resizer/86kRgU6PtnvM94e0du71jPkcctE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"
         width: 1024

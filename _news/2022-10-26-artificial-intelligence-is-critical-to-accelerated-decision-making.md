@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-26T16:18:00Z
 originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/26/artificial-intelligence-is-critical-to-accelerated-decision-making/"
 webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/10/26/artificial-intelligence-is-critical-to-accelerated-decision-making/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.c4isrnet.com/resizer/86kRgU6PtnvM94e0du71jPkcctE=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/AENNUCWM7ZAC3OXTSACE6QWAAY.jpg"

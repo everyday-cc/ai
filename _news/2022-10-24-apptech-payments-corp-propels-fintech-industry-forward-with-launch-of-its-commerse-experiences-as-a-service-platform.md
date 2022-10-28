@@ -43,7 +43,12 @@ related:
     provider:
       name: WealthManagement.com
       domain: wealthmanagement.com
-    quality: 4
+    quality: 24
+    images:
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/riskalyze-fintech-5.png"
+        width: 1540
+        height: 800
+        isCached: true
 
 secured: "7SpgFVuSbT72uoquRtnQgXaeyeth4RTJxY8aJdXyLCz4EUrNDjwc7gojcWX3Bh68x37ymBMzmEkbkVtDpmY8R04TNe8+KJbRu8Q0AyDjvpxaljkwgz20r7QeSR23SRolE6fwY6IbzWOX5w5uAxtHEKOB+bQ7vABdagnHXiqloXJtBQEy/vNWNajbFC6sbgMJL5UcgtlOXoikI0eWnIPoEgryQNrV1WI6QsUkBipDOXdxwf3aoGUi4/V0Y2qd8JEtnhe9vyy6sNm4CQSWkYj+jz6bpPhBrXvoSMzPBW7e6k5670g6k7wV2oX0a5HLyYFobI87cNieUthFpYE9m2vXQBnvEglHN8mEBiGRjPSNVVQ=;3AkQlG82FH/IqRrUEybuBQ=="
 ---

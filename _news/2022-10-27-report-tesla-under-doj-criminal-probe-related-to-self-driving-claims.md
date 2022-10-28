@@ -103,6 +103,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims"
+    excerpt: "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers."
+    publishedDateTime: 2022-10-27T14:41:00Z
+    webUrl: "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 84
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1666880890-GettyImages-490597708.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Elon Musk’s Tesla faces DOJ probe over self-driving claims: report"
     excerpt: "The Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes, some of them fatal."
     publishedDateTime: 2022-10-26T20:11:00Z
@@ -198,6 +212,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
+    excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
+    publishedDateTime: 2022-10-27T20:16:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/10/tesla-under-criminal-investigation-for-self-driving-claims/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 54
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2019/05/Tesla-Navigate-on-Autopilot.jpg"
+        width: 1125
+        height: 750
         isCached: true
   - title: "Justice Department Opens Criminal Probe Into Tesla’s Self-Driving Claims: Report"
     excerpt: "Tesla and its executives could be subject to criminal charges over alleged misrepresentations of Autopilot's capabilities."
