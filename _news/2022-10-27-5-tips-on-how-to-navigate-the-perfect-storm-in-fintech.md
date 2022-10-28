@@ -109,6 +109,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "Bread Financial thinks it can outlast fintech startups in a recession"
+    excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
+    publishedDateTime: 2022-10-28T17:58:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2022/10/28/bread-financial-q3-earnings-recession-plan.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "rzlNM13Fy5RYwYCMRe97n48jMfci9TPo48UgbWLOHYlsKP1ItMCTwRa8IPPny76zAfn1cIvwhHu/QtZLihyAtJWciNDKIwatdcNj4miYrz8I0+Mn2Z6ZUnqGji0qqsvap4v24bHlOGpO1IouH7ohcwo8/AtExX4flDO/fr+scBonQbtQiyzIElt1gXgGuNCoQf+WLGzhVxJNm58iJNntWYjRsatLYJNxqlxLYtx0LuRG04MtuHH8Do0Vp/ncOFTIBTPaFaKlLpIFef2RY3gZDWT57m9rdpWPYfTDEqTrSpd7kZsRlsdLsN9EWPCTErOkkAiOJ9LPyJXzU9PPhrKeh6zXZlQKivYaoA/kGuv88s4Ilq8owrmm5A3tpL6hKr+X7AoKxMmwqmQH0ic1Aa64j4QQUSUXpb13a3QfffErJFBY1xyLiv9sw+BxfuTQXnDL4kg9Tt/jGrVNHqm8W+vxlG1u4QWqKNs5o5P6mPDl680o5zxzYiX33v7X3EjaNvLGfigGOdVtYtcoyaD3iRfpgQ==;7aOTFCH6/lve/v+QPK7Ffg=="
 ---

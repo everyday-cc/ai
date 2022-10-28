@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-25T10:40:00Z
 originalUrl: "https://www.news-medical.net/news/20221025/Applications-of-artificial-intelligence-in-COVID-19-clinical-response-measures.aspx"
 webUrl: "https://www.news-medical.net/news/20221025/Applications-of-artificial-intelligence-in-COVID-19-clinical-response-measures.aspx"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_728944_16666931675737703.jpg"

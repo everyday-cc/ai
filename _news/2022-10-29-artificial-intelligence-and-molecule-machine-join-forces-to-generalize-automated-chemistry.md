@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T18:55:00Z
 originalUrl: "https://phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.html"
 webUrl: "https://phys.org/news/2022-10-artificial-intelligence-molecule-machine-automated.html"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Phys.org

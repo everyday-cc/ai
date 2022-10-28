@@ -80,6 +80,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 84
+  - title: "Amazon SageMaker continues to expand machine learning (ML) use in the cloud"
+    excerpt: "Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. Amazon SageMaker, which got its start five years ago, is among the most widely used machine learning (ML) services in existence. Back in 2017 Sagemaker was a ..."
+    publishedDateTime: 2022-10-28T19:21:00Z
+    webUrl: "https://venturebeat.com/ai/amazon-sagemaker-continues-to-expand-machine-learning-ml-use-in-the-cloud/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 79
   - title: "Amazon SageMaker Automatic Model Tuning now supports grid search"
     excerpt: "Today Amazon SageMaker announced the support of Grid search for automatic model tuning, providing users with an additional strategy to find the best hyperparameter configuration for your model. Amazon SageMaker automatic model tuning finds the best version of a model by running many training jobs on"
     publishedDateTime: 2022-10-26T18:51:17Z

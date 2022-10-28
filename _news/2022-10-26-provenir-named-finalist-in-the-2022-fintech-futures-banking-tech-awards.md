@@ -110,6 +110,15 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 4
+  - title: "Bread Financial thinks it can outlast fintech startups in a recession"
+    excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
+    publishedDateTime: 2022-10-28T17:58:00Z
+    webUrl: "https://www.bizjournals.com/columbus/news/2022/10/28/bread-financial-q3-earnings-recession-plan.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
 
 secured: "yjsQEZqP9LziwBEOHoIlt2c2ym3dn2XwOwDqrvR5RVdwVOomOqG+EP3SxDlwXDwF/T0a6DmB9z/ynz6NddUGf5Uw3T6CgirFNDjo9CSe9U3xmlU9fG0/JWsDQ9rVVvTj9owbZZpNz2nddO8hhU5rX5VGjMdag7N11/xqFL/SeZorFK+FX1OAFMZr0//wqYd0DLdAJEMHZRCtPyNTp9CYWebDx8iYxrmaP4bHUwymcZaBWwEB6jj9LYZVmYDdYlRxEvvTaTuzD5vu+NhHlaLY6QIU5L44kyGL4Int+M+O7XcuHnkqG2/W/xsMA2MJFF00mSC3PeM9tp3lLBuEwVmj4d8hvL0YGaRpFlre5bbP4i4OowNLkwpobU+BBA91AOfz2ppD6DC/A79aQ8cD/o9Jk0rpSTSDs1MacOTbVibRF2e0rmAMWvz3kYZ/0k/9A0ZZ6XZcWqkX9246sfvik4KP+dJu1yHXfw9KOJX0b6jO3jkpHgtOkMunmpR8G9P98pZmeLqNzQ+hRrragDRHRbSUew==;+wDN5QHRDkDG8dcHQUCjvg=="
 ---

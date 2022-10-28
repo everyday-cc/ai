@@ -9,8 +9,8 @@ ampWebUrl: "https://medicalxpress.com/news/2022-10-word-recognition-adequately-b
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-word-recognition-adequately-brain.amp"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Medical Xpress
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Words, face recognition supported by 1 brain hemisphere: study"
+    excerpt: "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ..."
+    publishedDateTime: 2022-10-26T03:56:00Z
+    webUrl: "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    ampWebUrl: "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Word and Face Recognition Can Be Adequately Supported With Half a Brain"
     excerpt: "Hemispherectomy patients who had a hemisphere of their brain removed during childhood can correctly recognize differences between pairs of words or faces 80% of the time, a new study reports. The findings reveal how the brain adapts when it is highly plastic."
     publishedDateTime: 2022-10-25T20:15:00Z

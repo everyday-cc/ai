@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T14:02:00Z
 originalUrl: "https://techxplore.com/news/2022-10-scientist-open-source-algorithm-dictionary-neurointerface.html"
 webUrl: "https://techxplore.com/news/2022-10-scientist-open-source-algorithm-dictionary-neurointerface.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

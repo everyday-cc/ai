@@ -35,6 +35,20 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AIZEN Global to introduce AI banking service at Singapore Fintech Festival"
+    excerpt: "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia."
+    publishedDateTime: 2022-10-26T03:27:00Z
+    webUrl: "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n"
+        width: 600
+        height: 316
+        isCached: true
   - title: "Singaporean facial recognition firm XRVision gets funding to enter new markets"
     excerpt: "Boundary Holding says it will help XRVision extend its facial recognition and video analytics solutions into new markets."
     publishedDateTime: 2022-10-25T15:29:00Z

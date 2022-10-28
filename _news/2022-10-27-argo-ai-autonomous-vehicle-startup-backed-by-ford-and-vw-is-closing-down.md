@@ -352,6 +352,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
+    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
+    publishedDateTime: 2022-10-28T19:10:00Z
+    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Autonomous vehicle startup Argo AI to shut down"
     excerpt: "Argo AI LLC, which has offices in Palo Alto, is shutting down and is set to be absorbed by its backers — Ford Motor Co. and Volkswagen."
     publishedDateTime: 2022-10-27T01:34:00Z

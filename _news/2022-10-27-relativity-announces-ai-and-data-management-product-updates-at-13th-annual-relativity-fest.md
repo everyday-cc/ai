@@ -35,6 +35,15 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "Relativity Fest 2022: Product Announcements for \"The Year of AI\""
+    excerpt: "This year's conference unveiled products, features and enhancements focused on AI, data management and document translation to help users organize data, discover the truth and act on it."
+    publishedDateTime: 2022-10-28T18:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/10/28/relativity-fest-2022-product-announcements-for-the-year-of-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "Q7vMViEZ9uZnDRgoUGRTs7wDa3S2N4SFsNQ3zhKdBH2PuCpieI9wWGwG9X7z6bi8rBw2mzo2IMe6Pyh12ghjzrkCxS6/kVAd7fWLWFwGWXsx7difdXdOhlKKWro8JCmTaDkR5GOQnj/Wbc0gK7slajc3A8kjSlRbGnbPCYct9AdXulTxVylxuNH4rybGMgCXkhAijUYo6zgnDfREypd3Vgkk1P3n9iU6dF8cJLxWYsyAiaxSFTUhE41TcPDNrIXrgT+D4EA428P8zyhMg9lwTKMYrqySkBYuKstaldeaRJXztCi8nlIhOVFT0g6jIhDDU+7XqL9eBj0X2ZykMGrKwb13sIu6os6LgTglHy684Ss=;GMayf3f2cb1faov55a0UCw=="
 ---

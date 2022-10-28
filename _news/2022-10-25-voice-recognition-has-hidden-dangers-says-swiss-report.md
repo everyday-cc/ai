@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T12:18:00Z
 originalUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
 webUrl: "https://www.swissinfo.ch/eng/sci-tech/voice-recognition-has-hidden-dangers--says-swiss-report/48005780"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Swissinfo

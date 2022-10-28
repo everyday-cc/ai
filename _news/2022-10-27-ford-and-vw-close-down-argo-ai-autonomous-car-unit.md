@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-au
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp"
 type: article
 quality: 87
-heat: 363
+heat: 373
 published: true
 
 provider:
@@ -345,6 +345,20 @@ related:
     quality: 37
     images:
       - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/27/a40cc2ab-aadb-4192-907c-c3a91809cc04/thumbnail/1200x630/41c011ee7486c7cc872a1bdf5302b771/509fb513768c6c0996dd5d5e287b634a.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
+    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
+    publishedDateTime: 2022-10-28T19:10:00Z
+    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
         width: 1200
         height: 630
         isCached: true

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T19:09:00Z
 originalUrl: "https://www.phonearena.com/news/tensor-chip-not-made-to-win-benchmark-battles_id143374"
 webUrl: "https://www.phonearena.com/news/tensor-chip-not-made-to-win-benchmark-battles_id143374"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: PhoneArena

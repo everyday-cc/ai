@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T12:30:00Z
 originalUrl: "https://analyticsindiamag.com/new-algorithms-that-harnessed-protein-folding-power-in-2022/"
 webUrl: "https://analyticsindiamag.com/new-algorithms-that-harnessed-protein-folding-power-in-2022/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Analytics India Magazine

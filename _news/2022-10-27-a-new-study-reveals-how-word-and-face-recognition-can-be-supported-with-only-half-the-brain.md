@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Words, face recognition supported by 1 brain hemisphere: study"
+    excerpt: "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ..."
+    publishedDateTime: 2022-10-26T03:56:00Z
+    webUrl: "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    ampWebUrl: "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
+    type: article
+    provider:
+      name: Gulf News
+      domain: gulfnews.com
+    quality: 74
+    images:
+      - url: "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg"
+        width: 540
+        height: 405
+        isCached: true
   - title: "Word and face recognition can be adequately supported with half a brain, study finds"
     excerpt: "Astoundingly, the single remaining hemisphere supported both of those functions. The capacity for word and face recognition between control subjects and people with hemispherectomies differed, but the differences were less than 10%, and the average ..."
     publishedDateTime: 2022-10-25T20:03:00Z

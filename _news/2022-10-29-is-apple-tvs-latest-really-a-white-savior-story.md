@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T18:14:00Z
 originalUrl: "https://slate.com/culture/2022/10/shantaram-charlie-hunnam-apple-tv-white-savior.html"
 webUrl: "https://slate.com/culture/2022/10/shantaram-charlie-hunnam-apple-tv-white-savior.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Slate

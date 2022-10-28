@@ -36,6 +36,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 29
+  - title: "Relativity Fest 2022: Product Announcements for \"The Year of AI\""
+    excerpt: "This year's conference unveiled products, features and enhancements focused on AI, data management and document translation to help users organize data, discover the truth and act on it."
+    publishedDateTime: 2022-10-28T18:15:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/10/28/relativity-fest-2022-product-announcements-for-the-year-of-ai/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 19
 
 secured: "Ajry4KKYQSyBVDPsiPTWXVnE9amuY6TsJavrw0mlOFv2W2oQggWqtE58hOkvKoG/w9AC3xGzIoLzXnxLgSArrBOq5+BwbthDsxKftUl0rq2rngzzsOe9idj9idzzZ8vY0Kh8UiSqZ8507qMWWrBYBELKV3FLpBwDrc7wziy3/+3woyUrBJoyNPlqXHVfR0cECqnf37Yh43jSI7IV2a4aU/DjC/n2kLmeHoMcBPWltEVBeeXcXD+uvXBthRCrvirjZv5Pg7zppG78f30xR3SfJ3oOuKzMUSzk/g6scAz5PEWhBrNHWc6R+5XiOvRJuLY2qUAqYMHAmpxN6r59RJN4MpyVg458iukY/ijFuDmAIj0=;kTbv1t+VYFQ9ontkZMxKsQ=="
 ---

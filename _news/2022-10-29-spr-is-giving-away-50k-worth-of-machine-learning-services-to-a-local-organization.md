@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T19:51:00Z
 originalUrl: "https://www.bizjournals.com/chicago/press-release/detail/7779/SPR"
 webUrl: "https://www.bizjournals.com/chicago/press-release/detail/7779/SPR"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: The Business Journals
@@ -15,6 +18,6 @@ topics:
   - Machine Learning
   - AI
 
-secured: "VQctLaWxsL1u5un87rq/2UgINOxE/pXErhDSgi7v3D7VU6r0/fAqQzJNp7VsNgQkJ2+L/EWDS6NoREB5xdKfPDzo6FqK5EbR6fSlUK5isouEtlG8+tPaNIJjS0tFiZ0a6mwilI+15rqBtfZHFzUUHPuE41tLmlJ6wP7/kayGaRoW7wof6f4uFn5EymddID5+lfQP2QwNEks0e6vpXj4MyO4vaA0WtiLaI6jdaFohmViVUB1SZ5S902dFy9Fl8gUSw4ooKK3cPZSV0K41RTUnSIJbFyQjAsb68uMHNj7sarEZS3AGb7W0n4a1U7zu7LZe8z3m+U1COPylQnw3foaknVPDjrDkaWwrcDppKg055dw=;LOnCu3v/N0p6dZX/uCnyHw=="
+secured: "/lvbUQk1qY/IB+xd3xN5ilX/j8XOC7L9X67Axkp5pd9kUZb2or7mbAVf+2daZitvzPjHk9Ryycn4tVUrn9An/n3iQaRCzAGbpuJGdrA3OEpUkgGnAMWsAiMB6/Hroe4at4aMFkXB2TdHO/Y69g6EUcTgPZqXBW0dtMNC0YL7MTaj6kd8YKsM4yI8guT9vDZn85GS8Lzs0hvy6fQRJXK9D0JV1IJ+GkbjxfPdZ07u3AU9JNwGKaMyBBC7bpQLaHEPSMKuMNpvsf8EecbXDSy8vkJkubDpt8KBzTwleBuWu8/PTuB8Q+C/lKh+D1NFXyKt3aXm3R108/Zk/Y0vB+1hkY0GhKmRSAMqQA48PZkEQIOn/B51H8voOKuz8pMwrlFRJcSwQ8IZ1Xr1jQMDNqtbG0NpJtvfPFPyUnSPSXOIFuEBG1Mw229dusoEgLd5RDWuRh+pgqww4jfwLJCyg8ktH6n5F2SX+FiQMLfrDomNHoBCCvw6GRb6jfr2edUCeDjBbSGauKhOOe/mom+wOja7Fw==;7NnP9p5zciUQfdH4MG1UkQ=="
 ---
 

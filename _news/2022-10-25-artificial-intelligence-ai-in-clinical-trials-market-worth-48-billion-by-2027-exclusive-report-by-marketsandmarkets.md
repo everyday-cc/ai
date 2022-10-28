@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T15:58:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: TMCnet

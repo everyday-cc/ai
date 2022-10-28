@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligenc
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/"
 type: article
-quality: 91
-heat: 91
+quality: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The true aim of AI might not be intelligence anymore"
+    excerpt: "We may have reached a tipping point in the history of AI when such concerns are of decreasing importance. The development of industrial AI in recent years may have heralded the end of such idealistic concerns."
+    publishedDateTime: 2022-10-27T18:00:00Z
+    webUrl: "https://bestgamingpro.com/the-true-aim-of-ai-might-not-be-intelligence-anymore/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 19
 
 secured: "Pu2zAsWb4oj+lDDAvFHZfiEJrhuniGe7Trgby5NovezaKyVwMWOfBJYWj3JjK2sRWwRLyhgJlz+Prf/0Y0LAKL2uuj5WKrK/BqwRelRuAWAEXXZQhPCFcZo0sOxJBRzRF67GHyS+5AfIGniWnA4zttUn0WTeYmp8XAq680rIkASuZYW9MX4Q1iKW0mLxxVTGz6UQThFmr4O7X+diJYK9EA79k3WM5HLdNANIsfpdUi65n7NFP7/tD3n62/0oe0Zr+ZRKSB2Vcd2ovEE7hfxemPaxuimENO8Kipom3/HBL6LnBVrcz4b5oPEvOciNRkLRqGkNLWLtxlwvbn1TkOhhtQ8y33wUo0y3YaubDFj4ujBCOPWy1R0gQTVTkZcdDsPZHavBHp2rivJ1TpXSqn9nPTiON/lqvTcZZdF2lvh4uGoNUr1CZifBgdkw9BO+ddHWDqPTppBLPyvE2xH3fuxt+Qf1LmwmLbMYD5obE527xI91ap4/eXUKtIXbgDqHYTr0K/VO98mL2sy+RIE/BMXxPQ==;QQls8utkeNTOIp22oPD+Dw=="
 ---

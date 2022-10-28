@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "One of the crowd or one of a kind? New artificial intelligence research indicates we're a bit of both"

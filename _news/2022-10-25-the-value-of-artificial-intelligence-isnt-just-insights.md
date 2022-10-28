@@ -8,9 +8,9 @@ webUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-arti
 ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/"
 type: article
-quality: 87
-heat: -1
-published: false
+quality: 89
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200"
@@ -46,22 +47,6 @@ related:
         width: 1088
         height: 662
         isCached: true
-  - title: "The future of empathetic AI in today’s technological world"
-    excerpt: "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ..."
-    publishedDateTime: 2022-10-28T10:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png"
-        width: 318
-        height: 308
-        isCached: true
   - title: "The progress of AI"
     excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."
     publishedDateTime: 2022-10-24T16:09:00Z
@@ -76,24 +61,6 @@ related:
         width: 1400
         height: 735
         isCached: true
-  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
-    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
-    publishedDateTime: 2022-10-28T13:03:00Z
-    webUrl: "https://www.seattlepi.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
-    type: article
-    provider:
-      name: seattlepi.com
-      domain: seattlepi.com
-    quality: 0
-  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
-    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
-    publishedDateTime: 2022-10-28T17:03:00Z
-    webUrl: "https://www.chron.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
-    type: article
-    provider:
-      name: Houston Chronicle
-      domain: chron.com
-    quality: 0
 
 secured: "DLxKvm3XK5/Wla+OuK8QBhxopGlWnZ19FkaisTAGbl7wM+IbQg7VO6xOTdwVWZ4RMAPNblg8f+H82e9GxUkI7e4lyhYvdzfac4/oqH8m05bCD8qS98jqe3Mui3Ln/AigKXChrLHGfbWvTIw86LYxh14rrNvLx96hLqryCBD61XsaUgV8Lf8+ivYOc6UFKbk2py6vang6qCpGEuyavnSJAGdSurI1EqFrl7EOtQ+lHMvqVxtIpKhGW3rAxZnOf8JRt2ssLOMy7mKmUCbNEhvcOy1rq3iG8IPKbfn60F29CS0qxITOR+GK7QmC4CAdUWLngolP3JzQtHm6YI0r720kf45rR/F1Kj8e9vnhS9Ju0Pep8Y0KZMqGVFUwrKMf82OjiT5xOqTEmC/Y+TT/VPoHO2YBPafAgzqQS0Rg89qgNneAkGL4U1dBKCMOC1XqGrCIq/f6o36SMbeTRa1vY5nd1kp1jIQVZ1N6TcRS0G+HyzSmOtzBAo9Sp19gkcsNunChnAU+gtbyTp6e5OkOace74Q==;dsD2ZvYiKa0OpgikrZh5mw=="
 ---

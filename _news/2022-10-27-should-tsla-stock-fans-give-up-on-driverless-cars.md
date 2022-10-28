@@ -32,20 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "The driverless car revolution is stuck in the slow lane"
-    excerpt: "The hype cycle of driverless cars is on yet another depressing downswing. Last week, Tesla boss Elon Musk admitted that full self-driving software was not yet ready to be used without someone ..."
-    publishedDateTime: 2022-10-24T01:47:00Z
-    webUrl: "https://www.ft.com/content/cf443342-fb39-4877-bedd-3385f33be062"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 39
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
-        width: 619
-        height: 377
-        isCached: true
   - title: "Driverless car development sets ablaze a bonfire of billions"
     excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
     publishedDateTime: 2022-10-24T13:46:00Z
