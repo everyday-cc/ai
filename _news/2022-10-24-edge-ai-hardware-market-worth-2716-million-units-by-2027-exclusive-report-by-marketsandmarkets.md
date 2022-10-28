@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29379119"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29379119"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -21,15 +21,20 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-    publishedDateTime: 2022-10-25T15:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
+    excerpt: "The Report Mines forecast \"Speech and Voice Recognition market\" to grow to reach Millions USD in 2022 with a CAGR of(number)% during the period 2022 - 2028 due to coronavirus situation. With regards to revenue,"
+    publishedDateTime: 2022-10-25T00:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-24"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 8
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xzoMkS7RuGehBF39NCvxDOtuG9txqBpvxDxSds4QewkVgJxulxfzmpGeBspQ8XhHGOcBm4nZ7hRpPaRCXGvJiHBuLodWaC8o6rKyhxKOyewThJ/jj2gz+8InuZoo9BJQBij7RBqC20mRsLyOBqBKFO2GIUuLODxfE0cf6xzV6HuXm3KgM4MnNO/BjzYrltLiGHLJIIlzPckXD5tiBmL/lMJZ/RB73ax1PrM/IMEojTrXZs7PCcw6Fhc0wL4pb+JuR/WLJhhy5x0JLowRkyz6EMoPFpmyazyJ8HntC6tdj86RP6CTmcMMJjsve6psXPIy7YLfnCPzAPohPYcD001BxMLbYv3PZ0bl595Q5B5iOQw=;F4vZe1YN4uUdkN37JNZtgA=="
 ---

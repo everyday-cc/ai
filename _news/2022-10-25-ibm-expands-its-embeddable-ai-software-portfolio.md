@@ -42,6 +42,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 58
+  - title: "IBM introduces with plug-and-play Watson libraries for AI"
+    excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
+    publishedDateTime: 2022-10-26T12:13:00Z
+    webUrl: "https://www.techzine.eu/news/devops/92515/ibm-introduces-with-plug-and-play-watson-libraries-for-ai/"
+    type: article
+    provider:
+      name: techzine
+      domain: techzine.eu
+    quality: 54
+    images:
+      - url: "https://www.techzine.eu/wp-content/uploads/2022/10/IBM-head-22.jpg"
+        width: 1020
+        height: 500
+        isCached: true
   - title: "IBM Gives Partners Access To Three New AI Libraries"
     excerpt: "The libraries, meanwhile, give partners access to the same AI libraries that power IBM Watson products, according to IBM. Developers and IT teams can embed the new libraries into their applications and make custom products without data science expertise ..."
     publishedDateTime: 2022-10-25T15:32:00Z
@@ -70,15 +84,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "IBM introduces with plug-and-play Watson libraries for AI"
-    excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
-    publishedDateTime: 2022-10-26T12:13:00Z
-    webUrl: "https://www.techzine.eu/news/devops/92515/ibm-introduces-with-plug-and-play-watson-libraries-for-ai/"
-    type: article
-    provider:
-      name: techzine
-      domain: techzine.eu
-    quality: 34
 
 secured: "D+uMkN6NTJQo+wrwzv+nVmPlfNI3vkjvnJi33XDRQKVpg6qY+ChlHE6WPkKDfJgXpa234ZXKd/UKuFxpd93wH3fYH/pa9MD93TQtlEN8OAXerZ9XcsfpEweMg8UtJl6p+I9pGcS0B/qjMTG4QwDsIvAanSBMi7MXktXYrsSbWpyOazsH13rYkNxK6+Zl0kew/tIRG8Hpb3LGIsJvOYKbuCEqgMSRFB+ltDSk6xPs8m642AuNKbD1mi/shphrnEDf31mi8TlJYRqz0mZhIUI14HlxZawTBjKfKND50KVfC1WiMQHXvhqGhw6sZEi1fL84d/pmNIXCe/pWFfJfGTI1cA6X9N4KVKI541WHkf7AnOEhQOrO/wAqU7Zz2rNGgRGIHrtvNSHfxbPTFarmoCEgwALfHs1hugYxgtQxtqlH2DdUarMD0snwdySTPlIENgWDKyTD3tQWPMVAqoTS1a2UsBwPVWrDbYlYMKegSJVew18E+wmLerdLiT2eDdpUfa1pyQlyVMEBPaGmwbxAxpJ+yA==;2Ijo8gPfO2xu8I0ozrbYEg=="
 ---

@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "UK police use of live facial recognition unlawful and unethical, report finds"
     excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-    publishedDateTime: 2022-10-27T14:50:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
+    publishedDateTime: 2022-10-27T13:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     type: article

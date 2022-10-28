@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Artificial Intelligence Technology Solutions Files 10-Q For 2nd Fiscal Quarter"
-excerpt: "Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX) (the “Company”), a global leader in AI-driven security and productivity solutions for enterprise clients, filed its quarterly report on Form 10-Q for the 3 and 6 months ended August 31,"
-publishedDateTime: 2022-10-24T14:01:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/10/24/9698073.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/10/24/9698073.htm"
+excerpt: "Significant Number of Warrants Are Off the Books Among Other Improvements Detroit, Michigan, Oct. (GLOBE NEWSWIRE) -- Artificial Intelligence Technology Solutions, Inc., (OTCPK:AITX) (the \"Company\"),"
+publishedDateTime: 2022-10-24T12:40:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29377647/artificial-intelligence-technology-solutions-files-10-q-for-2nd-fiscal-quarter"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29377647/artificial-intelligence-technology-solutions-files-10-q-for-2nd-fiscal-quarter"
+ampWebUrl: "https://www.benzinga.com/amp/content/29377647"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29377647"
 type: article
-quality: 13
-heat: 13
+quality: 33
+heat: 33
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
-secured: "hGOPu52g+q2FnFnNE7Ax2g30oIVB9gqZ0i/8tFa5SC6/UoLYzl7xL1++SQH3lfYkyWRBz05Bdr/NhoVSb+lI5h/i3XIPTn+Ds6q+8CuUfXgpwFqKdgHmOSitCu84sN8YZkDPnM+q24CTGIEdNee/qbrRmet8RAgG3iYwrTFbJOWnaMoQK1D5CNhD4h4PC+sdYbdrn6j/l6fgqzTrgfNzkoFjdAhmO2wDtuMyM0di+SDMwMHWEX9yuZoAckLJdYH5vlVPoiiVH8ZW0nnwVki442GAOOJdkss51/tLtK8Qgqzn/QZ2t6IMTQhTkCXcCuMO9aX+OUnvJESBazKxT9gY9pf6yBgVRW+S6PVmWpnEdWg=;WDyJGiCEVgMc1j40r8cJ4Q=="
+secured: "xkfLkoUk6VPmbWb3T+6v1fJ61Ykt9YMwTf86gBollpytWoiTx1H77iQdcQzdOs8eyHSqDniqcv6unLKxANy9R2Mb0rZZWesUISJS98M553DdKgQYiJ9IVPYNc0P4QnhZlNaKM9owyP2JA0trP4xm48NwpSE7e+jAIp/WiYm0Pb/1ZhAEb3wfLtyUk44gVWYnYjJFbx9A6ZOIsuOLMel5ZlMd3Fniw5e+ShWPu6Nfxg3u/iL5kfxNQY0cXITCzBHfcStEvECqFOFB8z1W1cl9RClZSIYhKZzY1d1Vckr2LbqnJm/S4Vi90ylJ32xzCv3wwxtUUAJfBdf1ruWlT0tTd/NAlDrBLeVNUoPbmp6YjmE=;yH1ahEmLIV3gCSXEgxCR1A=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29375003"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003"
 type: article
 quality: 55
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chip Challenges In The Metaverse"
-    excerpt: "Thermal and performance needs will require complex architectures and technology changes, not all of which are available today."
-    publishedDateTime: 2022-10-23T07:04:00Z
-    webUrl: "https://semiengineering.com/chip-challenges-in-the-metaverse/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/eye-AdobeStock_16055589-scaled.jpeg?fit=2560%2C1792&ssl=1"
-        width: 2560
-        height: 1792
-        isCached: true
   - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
     excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
     publishedDateTime: 2022-10-23T07:35:00Z

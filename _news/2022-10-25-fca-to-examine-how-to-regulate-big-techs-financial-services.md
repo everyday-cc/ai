@@ -30,6 +30,24 @@ images:
     height: 372
     isCached: true
 
+related:
+  - title: "How Financial Services can be successful when it comes to ESG risk"
+    excerpt: "By Santhosh Jayuram, Global Head of Sustainability at HCLTech. Environmental, Societal and Corporate Governance (ESG) risk is rising to the top of the agenda for financial services worldwide. In the UK,"
+    publishedDateTime: 2022-10-27T19:00:00Z
+    webUrl: "https://www.globalbankingandfinance.com/how-financial-services-can-be-successful-when-it-comes-to-esg-risk/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/how-financial-services-can-be-successful-when-it-comes-to-esg-risk/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/how-financial-services-can-be-successful-when-it-comes-to-esg-risk/"
+    type: article
+    provider:
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 44
+    images:
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/10/iStock-1422657647.jpg"
+        width: 750
+        height: 422
+        isCached: true
+
 secured: "2bcYtYv5bFXv/hwR+2HJBvFjSYNCUPpg8TufpRPf0rhHh4O0hmQSBtGJW9jX+MJCs4OgTkQW8QEuPSNrUcJHm90MN2TCxyGbwoH2dbjv4MA7kAnmP4ObdzxB+GdnloDDfyLtvh2RXbTNx+KW+uD/3ciR3v5GMkus10lZ6MIAqZbNLzD1Fxpqq62mxLE+djYJPJ7Zst27b1bNMr4NPb9INzgq836HrGGDpreJ3SiHDLHePHNeH9JbeQ+Uq2JsBjP7UrvweI9+HknC1VcibD56shZrxNBZ9WRLjjEHO8V7/pY7l7TE8YH7X/8dCvQTl2OJv3Cr4TG0p060o9oWkX26o5a1L9uqNrvDC7OWoPNdPUA=;UAWv18x3CcAOQxGIN954Lw=="
 ---
 

@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-26T12:13:00Z
 originalUrl: "https://www.techzine.eu/news/devops/92515/ibm-introduces-with-plug-and-play-watson-libraries-for-ai/"
 webUrl: "https://www.techzine.eu/news/devops/92515/ibm-introduces-with-plug-and-play-watson-libraries-for-ai/"
 type: article
-quality: 34
+quality: 54
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - IBM AI
   - AI
+
+images:
+  - url: "https://www.techzine.eu/wp-content/uploads/2022/10/IBM-head-22.jpg"
+    width: 1020
+    height: 500
+    isCached: true
 
 related:
   - title: "IBM announces three new AI libraries for natural language processing"
@@ -80,6 +86,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "2YpKAkicZFS8iWoX/OGEtooDCULvWvYoAAEkWzgeJa1Mcu/pW86W4jCQx2jPDvgYl7BErddLBM68sEuqxJylMu9l9vBZUUz1RHUCleNCnk4cKWyaJz1c4qnpcBz9nC5paPohsc4vNG0C+qm0D5Rfe9VdCX7Qo98RFhDeCK82tcJLE2VSTHDt+xQua/wdiZ5+qg8XnZPxXlVaJ37C3IIkzu+5i7OgGMEeTEUhBwXTc30w3Qz3z105e1PpFq7OuamU5rdoYXjJ6c9IPetGHzTEHpifsWV7ezlbsxObwRIODwY9YISTmUpMxGQG60q4lpVf1uaERelm/0jaGM3r0gwwTmelhH83hQsilr1JJL1bM5c=;IJaKSelurNQ85Dp+DcrLTA=="
+secured: "7HH3blFa3wOtIr122GiJH5gYKes3MOx0AN/rsYaeedIbNQhyB4cD9k8QTW2RmWx5SLPvdav4jc0VgvGcdoFlo4TmrRvYtfhmSYV0AMYmLyWIlYRvx2UQTExh9odFepW4XVSg6uvj9Io4o8ZjxPqRX0APZqoCUVXRE30gINYRRYF8IwkQxRHzB9U5S9eC3ESfMv6NPX4YG45zW3wIdAn7MXo4KKjkiZEcnH59UjLbadCRNdQwa9iTxjBe0RGGobg+yMJO/GNSMwKo0KDj5MPZUtIRRJeps+VfqKi1xAqH4SXptR3SH4GrJC/XriILLeq11VHiM/8QvK6kmNp7ZoKSqJhqb8bsKBnC8Fp9xx9LCr8=;IE+xH09Tqdt+NUi1W9ePAA=="
 ---
 

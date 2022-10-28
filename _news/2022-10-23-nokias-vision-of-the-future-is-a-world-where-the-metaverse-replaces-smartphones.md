@@ -43,20 +43,6 @@ related:
         width: 1222
         height: 1091
         isCached: true
-  - title: "Chip Challenges In The Metaverse"
-    excerpt: "Thermal and performance needs will require complex architectures and technology changes, not all of which are available today."
-    publishedDateTime: 2022-10-23T07:04:00Z
-    webUrl: "https://semiengineering.com/chip-challenges-in-the-metaverse/"
-    type: article
-    provider:
-      name: Semiconductor Engineering
-      domain: semiengineering.com
-    quality: 39
-    images:
-      - url: "https://semiengineering.com/wp-content/uploads/eye-AdobeStock_16055589-scaled.jpeg?fit=2560%2C1792&ssl=1"
-        width: 2560
-        height: 1792
-        isCached: true
   - title: "Facebook’s Meta stock craters over bleak forecast, expensive metaverse bets"
     excerpt: "Facebook parent Meta Platforms Inc on Wednesday forecast a weak holiday quarter and significantly more costs next year, sending shares down nearly 20 percent as investors voiced skepticism about the"
     publishedDateTime: 2022-10-27T01:49:00Z

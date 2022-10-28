@@ -44,8 +44,8 @@ related:
         isCached: true
   - title: "UK police use of live facial recognition unlawful and unethical, report finds"
     excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-    publishedDateTime: 2022-10-27T14:50:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk?via=indexdotco"
+    publishedDateTime: 2022-10-27T13:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
     type: article
@@ -59,6 +59,6 @@ related:
         height: 372
         isCached: true
 
-secured: "I/H8zRibE8aeTpTGULZ8yNqRHC6bSLC8p6dyz/Q4Ht7Soot4/ijvE0w2mdT+J/8FAb8His0UEfPpST5Ep0TjLP9izRu84Ub1J+AA1CWieF6O4a861IzT50PpbXDINirRIPHP0TYfZEWjh5z4VQquVUJqR+rVLFCXorewH7cklAAg2unT+4ANRtzU+635gSgclmF19qUwKaS9lL4lhigNDn3KaQcQkWkZtUPbptmYR7iLqNJYk1Znz8feJjVw1B2UtASQ6wPhnWKrPIN81L6oG6O9wjbn9OKTdAPkSU62TSUC9BOCZ3PHXXYAcuz4Eysa6Q2Pu0RqBOo1DzrzSq1OQecl+VR7rEbOby0g6Pg2WF4=;wYpvwpObQ4z/LQsgf7D7Cw=="
+secured: "jUH3Z2E4YLsJ1ObGSbfeafWvwr1a8pMc2EeLNatFbix/rQLiUCgaFQD2cOBEmBr496m0Uj2N8k05fykIiIM6dnDc/QqFQRSpLgNhX9hGnw6BNuixiLgaxF202Fw0S0drAbQ6lAlxgT0bCru5bntyamT3LCDROEtHw5a2PTHwhxfeAnrHq02z1nlOxaAYiDlAJLFCl/BaxtbdUoIX2g8LM4CyGW3pbKZbTB26sUSrluWP+jM7N2BUxRTOY79Hot/iH9SAu9eFsNcO5vhANws7uXGAfDYVDg3nJgaTLAb8+d8IFVDKg3BAb0NQb+wb++9WVJV2WzXVQNNR+bZ8u16XF8EuVMBvIEaFjRPozXbcTtvQXyVZvz10Dx7amUYdAu4QpzcdNJxAxx8UfRROAFXwWO0w5soUMwf5qoaoHXLkV8LAJULlcosXS6hy4meWABBtB+7Ku/a/2/ei01zv3XQE6sBEEUJlxETh3HPww6BUcq+hGMgaZmz2Kr+pURwYjwQa9NdOS3ZpebelKGCr7EfHEQ==;cXOkx3l/SKrOaTsaV+Z/pg=="
 ---
 

@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-10-24-data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028.md",
-      "title": "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028.",
-      "excerpt": "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 197,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
       "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
       "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
       "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
@@ -1387,6 +1334,49 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-29-lgim-joins-fintech-saphyre-endeavors-ai-driven-platform.md",
+      "title": "LGIM joins fintech Saphyre Endeavor’s AI driven platform",
+      "excerpt": "Legal and General Investment Management (LGIM) has partnered with US fintech Saphyre’s AI-driven Endeavor platform",
+      "sourceUrl": null,
+      "webUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
+      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bizclikmedia.net/1800/462fd749381b7baaa02029ec3fecf221:17395499ae8d4f40419d1f0eed162fe1/2000-1.jpeg.jpg",
+          "width": 1800,
+          "height": 1010,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-29T01:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fintechmagazine",
+        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

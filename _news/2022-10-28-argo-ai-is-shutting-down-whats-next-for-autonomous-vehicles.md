@@ -283,6 +283,17 @@ related:
         width: 992
         height: 558
         isCached: true
+  - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
+    excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
+    publishedDateTime: 2022-10-27T22:53:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article267900262.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 39
   - title: "Argo AI shuts down after Ford, VW end further investment"
     excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
     publishedDateTime: 2022-10-27T09:45:00Z
@@ -308,6 +319,20 @@ related:
     quality: 37
     images:
       - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/17ARGO-03.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Argo AI shutting down"
+    excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
+    publishedDateTime: 2022-10-27T23:17:00Z
+    webUrl: "https://www.cbsnews.com/pittsburgh/video/argo-ai-shutting-down/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 37
+    images:
+      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/27/a40cc2ab-aadb-4192-907c-c3a91809cc04/thumbnail/1200x630/41c011ee7486c7cc872a1bdf5302b771/509fb513768c6c0996dd5d5e287b634a.jpg"
         width: 1200
         height: 630
         isCached: true

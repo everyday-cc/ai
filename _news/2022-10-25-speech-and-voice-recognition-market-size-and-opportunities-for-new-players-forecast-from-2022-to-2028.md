@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recogni
 webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-24"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -29,178 +29,17 @@ images:
     isCached: true
 
 related:
-  - title: "Data Science and Machine Learning Service Market Report Detailed Market Analysis and Forecasts 2022 To 2028."
-    excerpt: "The \" Data Science and Machine Learning Service market \" study continues by outlining the factors that are driving and impeding demand throughout the forecast period of 2022 to 2028, as well as their effects on demand."
-    publishedDateTime: 2022-10-24T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/data-science-and-machine-learning-service-market-report-detailed-market-analysis-and-forecasts-2022-to-2028-2022-10-24"
+  - title: "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast"
+    publishedDateTime: 2022-10-24T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29379119"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29379119"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 67
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Accounting Market Detailed Analysis of Current Scenario with Growth Forecasts to 2029 | 104 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence in Accounting Market is projected to"
-    publishedDateTime: 2022-10-25T03:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-detailed-analysis-of-current-scenario-with-growth-forecasts-to-2029-104-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Size from 2022 to 2028"
-    excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
-    publishedDateTime: 2022-10-25T01:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-from-2022-to-2028-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
-    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
-    publishedDateTime: 2022-10-26T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Size, Global Insights and Trends, Forecasts to 2029 | 105 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Cloud Natural Language Processing Market is projected to"
-    publishedDateTime: 2022-10-25T02:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-global-insights-and-trends-forecasts-to-2029-105-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence In Healthcare Market : Reliable Business Data Analysis and Forecast by 2029 with Top Countries Data | 102 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence In Healthcare Market is projected to"
-    publishedDateTime: 2022-10-25T02:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-reliable-business-data-analysis-and-forecast-by-2029-with-top-countries-data-102-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech-to-text API Market Outlook and Forecast 2022 To 2029 with Top Countries Data | 121 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Speech-to-text API Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-25T02:22:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-to-text-api-market-outlook-and-forecast-2022-to-2029-with-top-countries-data-121-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
-    publishedDateTime: 2022-10-27T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Research on Present State and Future Growth Prospects of Key Players, Forecast by 2022 To 2029 | 99 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-25T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-research-on-present-state-and-future-growth-prospects-of-key-players-forecast-by-2022-to-2029-99-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
-    publishedDateTime: 2022-10-26T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 123 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Machine Learning Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-26T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2029-123-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
-  - title: "Artificial Intelligence Platform Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2029 | 112 Pages Report"
-    excerpt: "Global “ Artificial Intelligence Platform Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence Platform market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-26T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2029-112-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 18
-  - title: "Emotion Detection & Recognition (EDR) Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 119 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Emotion Detection and Recognition (EDR) Market is projected to"
-    publishedDateTime: 2022-10-25T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/emotion-detection-recognition-edr-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2029-119-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 16
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "LDGgDGUX4vjiFvd3i2qjlEutWnqs/YhOXx6kFsYnoft3CGKFieF1Ph5NTeFWlTnLwooxqyRT/3wnTCjrGedwUX4u8SyarqzgdnO9fzJwUCWmD8mO7rh4XDkVT+aD5OE1uFuAUAYfLG8AQNjKaPKTFF1Zub9F7mvOnd8/QclhL+LzJi7iOj4ocGwlapQBTGhu+M0DNcOzy4trHahTT/UJs4nBj+N0gAKmM/KWHvWFriuL5Rl8qRGzxZ8mKNagUkpeu1/zmSC/TbXfMCNa6VAia2TpX41VJU7ej2n+5WalRmu8vImmoQXy8pSKvaNm1MUv0EE1HusRBKbGxphFr+ojRcuStat7h3/NEJllPxE3hBo=;OJ6eUTYLurQGzPhxrByoIQ=="
 ---
