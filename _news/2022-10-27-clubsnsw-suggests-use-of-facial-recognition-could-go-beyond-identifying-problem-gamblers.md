@@ -2,9 +2,9 @@
 category: news
 title: "ClubsNSW suggests use of facial recognition could go beyond identifying problem gamblers"
 excerpt: "Exclusive: Lobby group links technology to identification of people barred from venues for disorderly behaviour"
-publishedDateTime: 2022-10-27T14:02:00Z
-originalUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers?amp;amp;amp"
-webUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers?amp;amp;amp"
+publishedDateTime: 2022-10-27T14:00:00Z
+originalUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
+webUrl: "https://www.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
 ampWebUrl: "https://amp.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/oct/28/clubsnsw-suggests-use-of-facial-recognition-could-go-beyond-identifying-problem-gamblers"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 372
     isCached: true
 
-secured: "oaQRM19uZgUCnff5yNO/fWZHxcx6POmVhaytJgeleBlPZMK4uZbFeFl2mN7yzPya8KfkIH6/33lkTA4Nk3egMJih7zH3AviueB6GAL/ULT2eHtw8SJImcLpRTN26YNzLPNxzQn/mUnQqKCO4OWSvqbMEe0P5m2WhX7fLAzSKAlXlhOWTy5O7hXG/m1jzIGbaW+RSx9M113HYJG1Pg/6Xb/tmm8ns3eXjjm2eYBZt77zmKdr0nziCY/WTMxhrGNwnVb8trpXd5uccSEfsRax9punmqyx/rg/DuYxIKY7VnSHpcVgJb53YtPo8Atud4l0laJ9o7Lg37jXpqlEYeGMgp8zCSLA05bosCNLLWfY5QxVdMbzqnuPJyf2FXPJy3dXCLRG05ccQRl/zEQDyuLpoFfe6Wy0Fl5n1lssWRRwwtzvEHwKzeuTPivPlKVESlyWoIrXG9zc9szKHx235ctI4mCqOzyYvPleUfkMMDKXGwkZjSQC4I9ibgCgR3V7W8AHwWrx+9udVhMMBePf/8/jcwA==;dvvhtUC9m6ClafbxNedzfw=="
+secured: "jcUmNZgVUQVKQ15CoJDnEDbGsuA+wsKhtDhPxxwVao8ejIkqjS7A3P2VzucU/tFdeOgpDz5Ts5bfoer9/4NJxcJkU+FETKQ1gomGa+r91NEr9GkOZBtys+yQbuTDGn790XmKRyRZpH6NNAhuDP2TJs6XGlSNUAiAiHOnZa3bpZlleia+xCXRI/DvsszCnIeZVSG9rjNurGlo8PbNNrSnCCjS1YLlraoLu0hvogfwiLsObgz2tgd/wuiQ5wvWVuzoesI4AEsDddMs848BrYXfKqHr1Smee6FtcldMmMfdYSjOhegv76a7CO54HF/5mO0bBo7uYMj49AnJMWz4DZNMbHInqnTRJmYny9XKYvXRGNQ=;9Al6kewT/jtHPA1/gN0YOA=="
 ---
 

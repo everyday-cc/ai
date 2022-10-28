@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
 type: article
 quality: 74
-heat: 135
+heat: 125
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg"
         width: 1100
         height: 619
-        isCached: true
-  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
-        width: 600
-        height: 400
         isCached: true
   - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
     excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"

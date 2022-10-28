@@ -38,6 +38,20 @@ related:
         width: 1050
         height: 631
         isCached: true
+  - title: "Summit explores role of ethics in development of artificial intelligence"
+    excerpt: "Universities around the world are taking steps alongside major technology companies to explore ways to bolster ethics education in the artificial intelligence field in line with an initiative supported by the Vatican."
+    publishedDateTime: 2022-10-28T17:05:00Z
+    webUrl: "https://www.ncronline.org/news/summit-explores-role-ethics-development-artificial-intelligence"
+    type: article
+    provider:
+      name: National Catholic Reporter
+      domain: ncronline.org
+    quality: 53
+    images:
+      - url: "https://www.ncronline.org/files/styles/homepage_features_medium/public/2022-10/20221021T0830-PAROLIN-EWTN-MEDIA-1750711.JPG?h=93399b46&itok=rLRSmena"
+        width: 560
+        height: 350
+        isCached: true
 
 secured: "n4xHNIORKvJMZbw3mkikEhN2C/En+TjSIAazFQ60XTrRz6xrBU+qwQgmWtpw26YIHuK8PYSfUb4za8FC+8BMHPADRAd/NUHJGmaOHotJ/n1cPAd30xls8LPP+YxGbkXme8RfTHBjwHpUectsaRpsBvU9Azs2WG9CSZRMxgBs2ZcRD1TQ2FvK8jUUfxVrXWDV89+YnncWEp3+0TeGPL/O5vRURD8Bm8RMi/HW+makmbSkLkXkwxpCnw0sooDF+tZP4brTwp4cHh244kgyl4XaZ1SA9MQ9Rvgz2I76MUK2NuGcxpVQFHBczVLwH57TGx4bmzb6TN3PQr8L1pt1YMGVXXj24jQPnuoOZxLAlsZu38U=;VuW+0hHh9jmBNXh8/JNCBg=="
 ---

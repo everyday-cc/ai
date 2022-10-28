@@ -7,8 +7,8 @@ originalUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics
 webUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics-in-development-of-artificial-intelligence"
 type: article
 quality: 53
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: Crux
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Summit explores role of ethics in development of artificial intelligence"
+    excerpt: "Universities around the world are taking steps alongside major technology companies to explore ways to bolster ethics education in the artificial intelligence field in line with an initiative supported by the Vatican."
+    publishedDateTime: 2022-10-28T17:05:00Z
+    webUrl: "https://www.ncronline.org/news/summit-explores-role-ethics-development-artificial-intelligence"
+    type: article
+    provider:
+      name: National Catholic Reporter
+      domain: ncronline.org
+    quality: 53
+    images:
+      - url: "https://www.ncronline.org/files/styles/homepage_features_medium/public/2022-10/20221021T0830-PAROLIN-EWTN-MEDIA-1750711.JPG?h=93399b46&itok=rLRSmena"
+        width: 560
+        height: 350
+        isCached: true
   - title: "BEYOND Expo | How AI can accelerate drug research and development"
     excerpt: "Wen Shuhao, the founder of XTalPi, talked on how AI works in drug research and development and discussed what startup they would invest in."
     publishedDateTime: 2022-10-24T09:15:00Z

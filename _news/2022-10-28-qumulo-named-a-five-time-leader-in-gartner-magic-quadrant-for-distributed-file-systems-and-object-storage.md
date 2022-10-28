@@ -35,6 +35,20 @@ related:
         width: 834
         height: 950
         isCached: true
+  - title: "Qumulo Named a Leader in Gartner Magic Quadrant for Distributed File Systems and Object Storage"
+    excerpt: "Gartner recognition of Qumulo as a five-time Leader reflects the groundswell of delighted customers that have adopted Qumulo and our relentless innovation that allows customers to run their unstructured data workloads simply anywhere."
+    publishedDateTime: 2022-10-28T17:31:00Z
+    webUrl: "https://insidehpc.com/2022/10/qumulo-named-a-leader-in-gartner-magic-quadrant-for-distributed-file-systems-and-object-storage/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 12
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-data-AI-shutterstock_228162115.jpg"
+        width: 695
+        height: 463
+        isCached: true
 
 secured: "K8DmDQqBDNAX3qqDnenezaujN5ge5voWWED3MnPlqOB5QZm/XHMI4IQzFJOcMf+x2g3kL9XYfPUS35LJXWBnoEtfeZ8zIH+VyVf1ieJAaDplcnP0PAiGLxLCaOc4B9n2K2TcXLnTk8Peh4+LjspmYdOgfAl6Hhy04+Sxbrv3mCrYRk2Aa5FX1WH9v5PutMH+RBWRdZoRBoY1T7VpxkFscuYfsX7Rf5fc5bAjbeuulVuvCITXoL1e1ojnSCk0pJlsgWk78bL+yc41cm1e1i/dLpHLkRgBHvb36O+g6F2kSiOlb8BFtziBqaUUGCj7R+10xykXJ00kL4uIzkpgf4hpUewrcx4MOZgz87a5zKc76WY=;sy4M4O1vPYWDaswd77n2hg=="
 ---

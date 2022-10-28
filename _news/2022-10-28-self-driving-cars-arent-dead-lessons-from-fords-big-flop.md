@@ -59,20 +59,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "China’s Baidu Races Waymo, GM to Develop Self-driving Cars"
-    excerpt: "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane."
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/"
-    type: article
-    provider:
-      name: The Diplomat
-      domain: thediplomat.com
-    quality: 54
-    images:
-      - url: "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg"
-        width: 600
-        height: 400
-        isCached: true
   - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
     excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
     publishedDateTime: 2022-10-24T23:16:00Z

@@ -82,6 +82,15 @@ related:
       name: seattlepi.com
       domain: seattlepi.com
     quality: 0
+  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
+    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
+    publishedDateTime: 2022-10-28T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 0
 
 secured: "J/QxbRdPyJokpwRT5Sm/f+pxX2QaZIwbhezPXQwTCEaEIQBa9rqT3Buu/wVBuO8/IsvRhAzHyT0oqRlczqWrd0Ym1Ty1UofiOT9cFD8BX3q8ciZ3tVIuduLQtuIBJ5bHLxOsP6PORoGIGzflCfuAZh3qQjBWT35DpwgObZ87mcwtq4B2dedER3IFThNZqQITABlQsIoCty2Zh7efofhWV2k/vFu2XSNkYTQJEqHCG+VmEXzcBVm+byttNqFwUDqgRgYFN/qgfIlea5qw6kgSRR+xPyHjyqpU1ieiQx7JAysVmyE9dgTFZAuoVGOecIgHH029TVW5Kg0B+meBAuerV5L34uO58Ph4s4wLY0B+dws=;QrzfMiwUAV2DtV4m82vcxw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96422-clearview-ai-fined-again-viola
 webUrl: "https://www.techspot.com/news/96422-clearview-ai-fined-again-violating-gdpr-facial-recognition.html"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://www.reuters.com/resizer/sw6NGNl8OHGt9oZ9rkNuMw0TlV0=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/I4XCUEZ72JL4ZMKIUPKXTXZ3LI.jpg"
         width: 728
         height: 381
-        isCached: true
-  - title: "CNIL Fines Clearview AI 20 Million Euros for Unlawful Use of Facial Recognition Technology"
-    excerpt: "On October 17, 2022, the French Data Protection Authority (the “CNIL”) imposed a €20 million fine on Clearview AI for unlawful use of facial recognition technology. The fine"
-    publishedDateTime: 2022-10-24T00:00:00Z
-    webUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology"
-    ampWebUrl: "https://www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
-    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/cnil-fines-clearview-ai-20-million-euros-unlawful-use-facial-recognition-technology?amp"
-    type: article
-    provider:
-      name: The National Law Review
-      domain: natlawreview.com
-    quality: 64
-    images:
-      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
-        width: 1426
-        height: 808
         isCached: true
 
 secured: "GEgGS7b1IJB20NYLcLC+VSEpWJiHLxiG12lFDYrWsWPQt9Kw0mb36mDg/zvPxRAHSLkpLHy2tfUnB+Or2ISCp+P70ig3MkUBJZ4bJqIEoonMeHpiYnOCQaiWlP0YyX7Hmrm0FXgeamnwWfd62jgOf4n6dQ04d3zWvbPZIhL9PAKayJzYjRFeeQCGu3vgZ19KRBCEs1LZpB5RKAyGNdfv9hHAVyOAb5cZ7GCouOtOF6WAxxrjcq0mrYEwe8lG9Eciiyoky7RB8GO+HO7rp2kgpJnZ4/OHBLx3T94lFmabsenJzkAiopo9myICVYhWyLoRTbbEWQNBFBUo/S8Fty2Ra/KIFXSw5sLbAAQKhQYxcHu4cHmZow9/DazZe1kaHQmvX5yqzUwNP+60lW+z8xI3Wjlai5gulyILiLYsrh9IRtYZQ0vJjkF3dYP+QtpTYRGRw3rLDf64NgWE1L40d/jGtv1eyK0cLXeQYdGofDBmHOF/e+948VyAPJLJEugCCcY21fk8QpLhxfOIxJCjxRVe1Q==;uTIIHXSfDHBPECaljarUug=="
