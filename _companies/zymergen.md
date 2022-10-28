@@ -2,7 +2,7 @@
 name: "Zymergen"
 overview: "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible."
 type: "profile"
-heat: 97
+heat: 83
 
 website: https://www.zymergen.com/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "zymergen"
   url: "https://twitter.com/zymergen"
-  followers: 9219
+  followers: 9218
 
 size: 201-500 employees
 yearFounded: 2013
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=658kvYgrJBE"
 
-secured: "Ss5Zw4mVFkn6Mvy1SMZt3q2jZ9tsL2IIUzreSFFLyHNugWEqZNreSDdiXtFKzMNWAR6g52rUV+zQmLs2kfrdt00e8LjvQhowJWkfmjyfQU7pVjDgHwBi+eamEmXWKIkEwBl/NyaMvJ0cY+7Tn3snMQG57gqgGESgHN7pDnZXnnrerdnrKR6j19TnDzIuGZH+X+RcrjFHXDqGX3HzE/oTaaYgqhbB2eG7ndYs9MUGT8g6TM9BJllfQtK8/wg6Dnd73/0IqsFoVwvm/nTXfYMPw6jQxQx+mYM7HwAH5/D/De3BqyyS3QeDZkxcLJ6/Xx38iFOxcxlUYeWJmcc9A2Nh4JGyi3CGk5Te6PW69KBPhUNoNwLDyowhi5WjXkR0mFKuetB19KYLrJ8pqUXweSnmjV+EQo4VfZNABYrbqXIwluw=;AWRZxpnV3QneoXW88ekBJQ=="
+secured: "8Q92uAyd3Q9f2fUfCgChgfkJijiHeqcaWkW5JwfBQqjFAoAhHaKepjCYoFl4iS8eISw8DAT1tzX0SyrmhuHDaSRvLDDiV1Wk2JJ7UAGM+9SKhXKLsOlhD+OvOA5c64ORyY2xKK0McCMenJtLkcr9il5ttpkefvJwExbla+C3ydgQd2M8sEzP2a2i48ArTXGZ77nej0S40uKV4pV/ZFSzHG7ko4CU06uEz2YyfSXCiAZ4s20RcvAmtz3gl1cNcfBQQrO9VyVURdeUolqKDsT6dQAFshDOeoO3KnmBaqfotjwjIjqAQoHV83OL0VK7rrAKPzRhwkN3EoRvYCNBWN0rS4ZcXkGl9zwVF35GlwRr7J2DaZo3J5B0iJaOiNcfyIQ1m9R2e8XCRMOWjJAoXPFquxY6K0HoshZGvAjTNEtWGnY=;sYuQowPnMZ1iJnLbSgxFyA=="
 ---
 
