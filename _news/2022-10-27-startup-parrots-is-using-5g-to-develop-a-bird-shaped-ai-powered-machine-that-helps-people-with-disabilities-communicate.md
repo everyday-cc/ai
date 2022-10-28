@@ -8,8 +8,8 @@ webUrl: "https://www.businessinsider.com/parrots-uses-5g-to-help-people-with-dis
 ampWebUrl: "https://www.businessinsider.com/parrots-uses-5g-to-help-people-with-disabilities-communicate-2022-10?amp"
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/parrots-uses-5g-to-help-people-with-disabilities-communicate-2022-10?amp"
 type: article
-quality: 64
-heat: 64
+quality: 66
+heat: 66
 published: false
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://i.insider.com/635a9e32ea35650019e072e0?width=1200&format=jpeg"

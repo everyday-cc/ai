@@ -25,28 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "TSMC said to suspend production for Chinese chip start-up Biren amid US curbs"
-    excerpt: "TSMC has suspended production of advanced silicon for Chinese start-up Biren Technology to ensure compliance with US regulations, according to a person familiar with the matter."
-    publishedDateTime: 2022-10-23T13:22:00Z
-    webUrl: "https://www.scmp.com/tech/tech-war/article/3196938/tsmc-said-suspend-production-chinese-chip-start-biren-amid-us-curbs"
+  - title: "Is Biden’s chip ban a tipping point in US-China relations?"
+    excerpt: "Biden’s move would block all key elements of the semiconductor supply chain for AI and supercomputers: AI chip designs; electronic automation software for chip equipment; and semiconductor manufacturing equipment and components. It applies to not only U ..."
+    publishedDateTime: 2022-10-26T16:04:00Z
+    webUrl: "https://thehill.com/opinion/national-security/3704850-is-bidens-chip-ban-a-tipping-point-in-us-china-relations/"
+    ampWebUrl: "https://thehill.com/opinion/national-security/3704850-is-bidens-chip-ban-a-tipping-point-in-us-china-relations/amp/"
+    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/3704850-is-bidens-chip-ban-a-tipping-point-in-us-china-relations/amp/"
     type: article
     provider:
-      name: scmp.com
-      domain: scmp.com
-    quality: 61
-  - title: "TSMC suspends production of powerful GPU chip for Chinese tech firm"
-    excerpt: "TSMC halts work on manufacturing GPU chips for a Chinese start-up company named Biren Technology as the U.S. restricts Nvidia from selling A100 chip in China."
-    publishedDateTime: 2022-10-23T19:44:00Z
-    webUrl: "https://www.phonearena.com/news/tsmc-suspends-production-for-chinese-startup_id143264"
-    type: article
-    provider:
-      name: PhoneArena
-      domain: phonearena.com
-    quality: 54
+      name: The Hill
+      domain: thehill.com
+    quality: 59
     images:
-      - url: "https://m-cdn.phonearena.com/images/article/143264-wide-two_1200/TSMC-suspends-production-of-powerful-GPU-chip-for-Chinese-tech-firm.jpg"
-        width: 1200
-        height: 675
+      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/7ac8d7ee632142e9b8e870bc2097c98e-1.jpg?w=1280"
+        width: 1280
+        height: 853
         isCached: true
 
 secured: "a/V1FREBizzifxopH2v2YOeyiK5npVZBIsc6xkyrDwJVoFaI/v1b+bYaFYBDTFIEVt/IjnPj3ArAMQoe2YU91q6/21uLuKVsPHJ0fBJ9DbiNb7Ajsp2+c3/Lv2sAjTCUJCxHXQS/KeWLuoJ3uO+/2828AE7MRu7y0iFAqYb1oFEg48v94XO/BrCcb1A7LKTI6Yt8CbvK2nLJnujknWHH3VMBQh0AT4Q6biKZZI6lRTDDv6VQGHTAyFB0TA2NdHs1Yk1zB4WblCxIOoLX6w5hMoS1X+Osb2FDyvWM/AXOTD19SdFBulLF3hMgQps0MhWFNR79nxl9VG+Jndw8mJ6cjkk3Tvzg9jLny+kcnvUqztc=;sjRIdDEBQY1JWjdNsLWiMQ=="

@@ -122,6 +122,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
+    excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-27T04:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Size [2022-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report | 104 Pages Report"
     excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
     publishedDateTime: 2022-10-27T01:56:00Z

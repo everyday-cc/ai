@@ -41,6 +41,20 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Spratlin helping define future of self-driving vehicles"
+    excerpt: "As a child growing up in Bruce, Art Spratlin wanted to be a truck driver. Instead, he is leading the charge to create laws governing self-driving vehicles, including trucks, on"
+    publishedDateTime: 2022-10-28T08:00:00Z
+    webUrl: "https://www.djournal.com/mbj/spratlin-helping-define-future-of-self-driving-vehicles/article_2e16d7c4-a4fd-5d56-b734-e0db57af728f.html"
+    type: article
+    provider:
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
+    images:
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/5a/05ad6f8c-867d-591c-8b94-2a8e28038805/635943b668746.image.jpg?crop=1500%2C788%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Japan to open roads to self-driving vehicles in April"
     excerpt: "Under plans revealed this week, the National Police Agency seeks next April to lift a ban on so-called Level 4 self-driving vehicles, which can operate without a driver under certain conditions.  SoftBank Group-backed Boldly recently announced a partnership with Estonia’s Auve Tech that aims to put Level 4 self-driving buses on Japanese roads by fiscal 2023."
     publishedDateTime: 2022-10-28T02:43:00Z

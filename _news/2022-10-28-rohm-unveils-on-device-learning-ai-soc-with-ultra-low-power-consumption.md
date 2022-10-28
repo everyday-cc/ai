@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T06:47:00Z
 originalUrl: "https://www.digitimes.com/news/a20221028PD205/automotive-ic-rohm.html"
 webUrl: "https://www.digitimes.com/news/a20221028PD205/automotive-ic-rohm.html"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Digi Times
@@ -21,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "MMF9sQ0IixXVlBguKS3gzuTAxRsQ1pT4kBiiVynsfr8zx8hf95Mue12mbSjmVZwH0Lt0Hbw4fvqOp3a7pdiiHJQ1fQcINfv1kQDCpP9E8hNtFVtOgWoKDXtTotOjQ5J2GoZ8TvbvGy0AW4re82hhZ3WJDhUl+DwMV4ygWI6kVc0htLgZnvDkPLJdGW6zfCBWOH2dgqcPy7hvEO01g7ouYId/SdMSe6nZ3wrSK/SV3Ld0k4NsbKq0Qdbsx395p1bLqk8DLpNfCeSeUjlk9Y5sRXoa03KZXebQ0tAw8e/SpHSN6mBJFMdB0vzTi94f6NkhCJC3NurWTroSlfRpsORh1Wo82oQq2RaJ+SNLVc47WwI=;+fF30yv+xjMJWq19G0EiwA=="
+secured: "n3aS/QPFnfmbJfGgm9Vxmxaz9ujL+r6QTAKxVQnlhoEhE5v8XRlofinCwdoU74SIYt7d7VbNLi8r4iqHm4fMJ+tSWGcUsHGzR12S24bHWCvd6/GcD9cWd8hvTz9v+BXZq8pAgZMIshOJl7X9jjasAT7EjWiRsQ3Ti4ChUJmHQocRuiWFLoXqOExEnkl3KYEJhJh3cywdaxNzBD6oet1fMqRb9kqe1syoXsRrmMizskKUMZ2p5gZiqWk7CpUlzSaaB4XlIyqleppLgb7Da3dm0wAk5pQco/BjppoLs8gPCh1cpQx7zXVguoBsJ8ajsYPze2ZcoVqqzCkws5A2NXdE2dOBJAJDndHMcybZ3f19SxDcPj2zjBIWWeeHG4W0jcjvf8BOFAbK6rRzNYK/3UNWcI/uCLCShmpQPH7pc03fxq8xvfTtPkY8KFs3XPoj4GfNyTZnSH/HnmgWL8oNJWAl9Jp48vV50FEZlhwPCwiiURxe73+BlGPywWV7UDnNmmfYNHzmCHCrG69zbaCm1LrSQg==;PP4f0UhWWyJEwr36r+Oxgw=="
 ---
 

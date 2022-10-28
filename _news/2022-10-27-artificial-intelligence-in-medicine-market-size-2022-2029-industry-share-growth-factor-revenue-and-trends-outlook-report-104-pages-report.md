@@ -136,6 +136,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
+    excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
+    publishedDateTime: 2022-10-27T04:18:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
     excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
     publishedDateTime: 2022-10-26T19:03:00Z

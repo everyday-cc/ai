@@ -24,17 +24,6 @@ images:
     height: 285
     isCached: true
 
-related:
-  - title: "Google in talks to invest $200 million into AI startup"
-    excerpt: "Cohere, which creates natural language processing software, also had talks with Nvidia about potential strategic investment"
-    publishedDateTime: 2022-10-23T13:10:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/google-in-talks-to-invest-200-million-into-ai-startup-11666529096130.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 19
-
 secured: "0GRwFZozJMhGVxYtJYWYe6vOeP0B3X7fZlyYRlTxl/cEQ7g2aC73LhEBWAOWmqjb2oscnFCpP13534/3Qhgo3OuhCBdipUWdQr/VdNngICJZpIu46eDyplIBX7H8t8Zb4Z0d9zV8RPH/GmMWwBdvOxS5IOKrUsF6EyK8H5+UrTVgSv7syjQ7G6UzIuxg7yx0oZP1L9miPWLl4OBxm5end49uW5i129Z2O49uFp62ZWdd393CrQuu7Mp4nV7E0hZf4yoLoS91v8olXahK+OpzdnJwjKczST2MkwlYna63mapZ8Ckp+kC/3+R6jyGV0DJt0h1h/R/usj08HfJhfhhXFLhpab7LMD4FvOJHJNNN9WLMDrHmPS9NcTiRB8+uZ2vMkWOfIYI7bs9ZpLheshBSkqH3YdmPeD/1vpHF98J37Ev1MAy6HOidNof0KY4f7tAYfSO1cAog40YxBr2YLzjD75Yx5efGo443t7kWfsqa3LRz20/fVKFx82IgqhkO8j8IDQY+bJebuOa6Trp1Wsoeng==;TZj+9V+F/xXihEv0OXLCQw=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-26T06:55:00Z
 originalUrl: "https://www.fool.com.au/investing-education/ai-shares-asx/"
 webUrl: "https://www.fool.com.au/investing-education/ai-shares-asx/"
 type: article
-quality: 54
-heat: 54
+quality: 56
+heat: 56
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://www.fool.com.au/wp-content/uploads/2022/01/AI-woman-learning-16_9.jpg"

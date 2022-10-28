@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-28T05:28:00Z
 originalUrl: "https://yaledailynews.com/blog/2022/10/28/fei-fei-li-delivers-2022-tanner-lecture-on-ai-and-its-impacts-on-humanity/"
 webUrl: "https://yaledailynews.com/blog/2022/10/28/fei-fei-li-delivers-2022-tanner-lecture-on-ai-and-its-impacts-on-humanity/"
 type: article
-quality: 38
-heat: 38
+quality: 42
+heat: 42
 published: false
 
 provider:

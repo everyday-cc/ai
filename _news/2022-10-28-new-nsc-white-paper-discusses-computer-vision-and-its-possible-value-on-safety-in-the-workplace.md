@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T07:30:00Z
 originalUrl: "https://ohsonline.com/articles/2022/10/28/new-nsc-white-paper-discusses.aspx"
 webUrl: "https://ohsonline.com/articles/2022/10/28/new-nsc-white-paper-discusses.aspx"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: Ohsonline.com
@@ -21,6 +24,6 @@ images:
     height: 300
     isCached: true
 
-secured: "C71OjXxWqoQclRAfXeTMnK37lggD2yvEy11Fruv4rHQvcIO0l7kOaeiU7gMc1zeQXyPPApo6lxHqDdfdXVzqIbfHvonIpHGW7Wmm9wuIbk5QufkdL3S/URqx/lHPm4P5O55BkgwpocsAUTnuoB0tJQ5lfAmk7j6wxXXZGvssmbvq3Pqd4aTdYwdnuCQQPUPYh/HLV+WpkFwcVhuQ+aQUX5AzAsldQ5DKxcVV64/wfqoJWb2z+hfjsxK9/KThPwyaarpIlLX5QX90ec86cJwiTuFAz3MIG2LNNkCbbYLJkzQRm44WiBdJ9ucuvAgO8ZLof2iythg2r5EtKQEVR28RaSDEoW4daWgjg7ysaINFXEk=;EeznFYncyJd952zzJ2maow=="
+secured: "o0Aa0V1jdbCDcgcy0W1ioqveS7xox/qNA5OafLxCIMrZgTVHRtIPbDEv/WJJTaC8CKnnamLNkcZjYr6ewrBl5/JBVqiIFh/zaCLDt47wbyTJb5a2HYJv3J4A4XZqrdrPF4cY8PBDeIkRoG5qAG3/k8H3CMayuPA1U1Cw8Bjmn2vTD6mMGo2HnaTssE1hLhmfaUrF954LUeaH33UyhF66zG/JjGmCpSirVpLmT6lf0Omw7l5oc4VDrCxeIQdzQ//Z7cbppQxdnKmLeQ7wUQLWSwirZ6W7ZaGvNXq89xe9U6AdBSCOeZacjjVdn/cLWrCOGa7GEg++FXVJZXI68T5yMan3zSediPeM6qieLA+e2t1gKbkuaZgZYQNzv3Em2RSF3rAXLf5Ohody0DY6wsN9Dy3ZCna8FOok0wNYlBvPl+xjzHe6uJLW7jrQ+ElcFlLt5vbQjFrCgun+uI8YGd5jDg6juM36AaGp5OUnXlwkps0Dbir4B83ophv/7Qk5CTrq2Fm7fM5Y/9qG2q31KHgpCA==;MzhsXmM3cvCVX6Bp0cxuFA=="
 ---
 

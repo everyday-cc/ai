@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overvie
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/26/an-overview-of-ai-powered-marketing-automation/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     images:
       - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/10/AdobeStock_450522870-Web.jpg"
         width: 1000
+        height: 450
+        isCached: true
+  - title: "The US unofficial position on upcoming EU Artificial Intelligence rules"
+    excerpt: "The United States is pushing for a narrower Artificial Intelligence definition, a broader exemption for general purpose AI and an individualised risk assessment in the AI Act, according to a ..."
+    publishedDateTime: 2022-10-26T00:00:00Z
+    webUrl: "https://www.euractiv.com/section/digital/news/the-us-unofficial-position-on-upcoming-eu-artificial-intelligence-rules/"
+    type: article
+    provider:
+      name: EURACTIV
+      domain: euractiv.com
+    quality: 39
+    images:
+      - url: "https://www.euractiv.com/wp-content/uploads/sites/2/2022/10/shutterstock_1817230151-800x450.jpg"
+        width: 800
         height: 450
         isCached: true
 

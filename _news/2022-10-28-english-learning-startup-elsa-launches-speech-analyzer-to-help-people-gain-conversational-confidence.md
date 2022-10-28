@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-laun
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Speech Analyzer is a new tool from English-learning startup ELSA that can help people become more confident in conversation"
+    excerpt: "The Voice Analyzer is the latest addition to ELSA, a software for learning English famous for its speech recognition capabilities. The evaluation system integrates with video conferencing programmes like Zoom to provide feedback on things like pronunciation,"
+    publishedDateTime: 2022-10-27T14:12:00Z
+    webUrl: "https://bestgamingpro.com/speech-analyzer-is-a-new-tool-from-english-learning-startup-elsa-that-can-help-people-become-more-confident-in-conversation/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 0
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/English-learning-startup-ELSA-launches-Speech-Analyzer-to-help-people-gain-conversational-confidence.png"
+        width: 600
+        height: 365
+        isCached: true
 
 secured: "VMqRYoxnELWZkimVij46SX4wAK+0GNkCYg9QTUVfxEe8o7cK1eadfBPm2aviossvqNuKlWTs/VPSm4et/ajg6G2cN9TlW256IgjNW4fKMbJH1/KfU8GXL82REE4g2AKgUbYMbwHJC5u4+RiP6qozseBh0aMe+cSL/XUyM+SB/ZND9RWkwzkpJbKQ2srmKHWk1WUUvrlc9xS+FcYRPif7pJ0MVOVidtXm/PYUwYMV6o/7fccQl1xdyLS+gB6T7EIDHlg6D7U0G/zHQ5UuiDRBTUJFsuHNCbgemS+zTPFR7JwIEFg8L6mOxTXNOcG/m/49iedywnc+vmT+Vf6S+AtGTxCVwB4JjfUf9pGpLPgelzn4Id4ZQbdcoc9mdO1fv+c7kZJZ7s/vEvoAl3DN3h31btbsIHbd8QbPSh+SE9ac3caNr10VVXR80aKFAC3rWnvBdMRMVSttrnKYtsVB+kgVAd3iOgGkk3H6sawbRuZ7Ls1NosxfAD7oO1VVwFbtQtxbLzypE+dSOSc52x70yC9Izg==;22el5hw8Is7jaWkCLlq8ig=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-24T16:56:00Z
 originalUrl: "https://www.datanami.com/this-just-in/bloomberg-increases-carbon-emissions-data-to-cover-100000-companies/"
 webUrl: "https://www.datanami.com/this-just-in/bloomberg-increases-carbon-emissions-data-to-cover-100000-companies/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: datanami.com

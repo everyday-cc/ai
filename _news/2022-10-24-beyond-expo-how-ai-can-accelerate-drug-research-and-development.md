@@ -7,7 +7,7 @@ originalUrl: "https://technode.com/2022/10/24/beyond-expo-how-ai-can-accelerate-
 webUrl: "https://technode.com/2022/10/24/beyond-expo-how-ai-can-accelerate-drug-research-and-development/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1900
     height: 1140
     isCached: true
+
+related:
+  - title: "Summit explores role of ethics in development of artificial intelligence"
+    excerpt: "Universities around the world are taking steps alongside major technology companies to explore ways to bolster ethics education in the artificial intelligence field in line with an initiative supported by the Vatican."
+    publishedDateTime: 2022-10-28T09:46:00Z
+    webUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics-in-development-of-artificial-intelligence"
+    type: article
+    provider:
+      name: Crux
+      domain: cruxnow.com
+    quality: 53
+    images:
+      - url: "https://wp.cruxnow.com/wp-content/uploads/2022/10/20221027T1020-UNIVERSITIES-AI-ETHICS-1750934.jpg?w=1200"
+        width: 1050
+        height: 631
+        isCached: true
 
 secured: "n4xHNIORKvJMZbw3mkikEhN2C/En+TjSIAazFQ60XTrRz6xrBU+qwQgmWtpw26YIHuK8PYSfUb4za8FC+8BMHPADRAd/NUHJGmaOHotJ/n1cPAd30xls8LPP+YxGbkXme8RfTHBjwHpUectsaRpsBvU9Azs2WG9CSZRMxgBs2ZcRD1TQ2FvK8jUUfxVrXWDV89+YnncWEp3+0TeGPL/O5vRURD8Bm8RMi/HW+makmbSkLkXkwxpCnw0sooDF+tZP4brTwp4cHh244kgyl4XaZ1SA9MQ9Rvgz2I76MUK2NuGcxpVQFHBczVLwH57TGx4bmzb6TN3PQr8L1pt1YMGVXXj24jQPnuoOZxLAlsZu38U=;VuW+0hHh9jmBNXh8/JNCBg=="
 ---

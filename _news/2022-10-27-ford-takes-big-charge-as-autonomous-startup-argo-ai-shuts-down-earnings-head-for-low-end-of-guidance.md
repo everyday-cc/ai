@@ -298,13 +298,13 @@ related:
   - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
     excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
     publishedDateTime: 2022-10-27T22:53:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article267900262.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
+    webUrl: "https://www.miamiherald.com/news/business/article267900262.html"
+    ampWebUrl: "https://amp.miamiherald.com/news/business/article267900262.html"
+    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article267900262.html"
     type: article
     provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
+      name: Miami Herald
+      domain: miamiherald.com
     quality: 39
   - title: "Argo AI shuts down after Ford, VW end further investment"
     excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T23:37:00Z
 originalUrl: "https://ifex.org/the-anti-slapp-movement-gathers-free-speech-threatened-ahead-of-turkish-elections/"
 webUrl: "https://ifex.org/the-anti-slapp-movement-gathers-free-speech-threatened-ahead-of-turkish-elections/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: IFEX

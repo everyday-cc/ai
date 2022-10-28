@@ -9,7 +9,7 @@ ampWebUrl: "https://thehill.com/opinion/national-security/3704850-is-bidens-chip
 cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/opinion/national-security/3704850-is-bidens-chip-ban-a-tipping-point-in-us-china-relations/amp/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 1280
     height: 853
     isCached: true
+
+related:
+  - title: "Chinese chip startup shows key gap in Biden export curbs"
+    excerpt: "SHANGHAI: One of China’s most promising chip designers has already navigated through the Biden administration’s export restrictions and concluded it will be able to continue tapping Taiwan Semiconductor Manufacturing Co (TSMC) to produce its advanced silicon."
+    publishedDateTime: 2022-10-25T01:39:00Z
+    webUrl: "https://www.thestar.com.my/business/business-news/2022/10/25/chinese-chip-startup-shows-key-gap-in-biden-export-curbs"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/10/25/1789636.jpg"
+        width: 1240
+        height: 858
+        isCached: true
 
 secured: "V+mEs+r+vtUNpkNnggEIObxzB63ZoUBHkqow1DThmLZzq0rfPY6/qQpPK2EM9If6YVmExGTJUUnrplQajdBa8brSTR1ZK1PKUCy98msTISwYgTYRd2rmSvojUV2teiwuDHsTcmGJDuYXFgpa/AzAadTaERAkdFJhWA3+9AuXGqhWRYniLVZdu5iA3ILVkEIrMH/IchurWVEZj4/bwrppMBnyqB8Z1jr/g9KLJtVcTWdMMe/HcKwfhn4v+qvHwX4Ut46YmxzRxnd78M5Pe15ktTnzf88sSaqUW/dTh+AqhNNpzNmiII4lqYLNxofHru4RcOWHBBqHhchRMQXgtVbET44/6y2kkzctjCats31ZGEUeO+WeLWTJvyb4EnzRUhPzWod5o83WONqb3sZws0yY8O50NS15RtR9sMNtp0gXVtHbssN1peDLSi448SIEwQpeXfFEZNNxu2H4rFnu0g3l+rjKvRFRJCnGH10fkIStLuABbQT5y4SQj+Mp/03YYARdzqDTJT3inV+YGoyk6/0NlA==;RAxGuLcgZohPlCGwAxYxVQ=="
 ---

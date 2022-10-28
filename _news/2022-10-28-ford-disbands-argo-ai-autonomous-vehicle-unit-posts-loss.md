@@ -3,18 +3,18 @@ category: news
 title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
 excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
 publishedDateTime: 2022-10-27T22:53:00Z
-originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article267900262.html"
-webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article267900262.html"
-ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
-cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article267900262.html"
+originalUrl: "https://www.miamiherald.com/news/business/article267900262.html"
+webUrl: "https://www.miamiherald.com/news/business/article267900262.html"
+ampWebUrl: "https://amp.miamiherald.com/news/business/article267900262.html"
+cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article267900262.html"
 type: article
 quality: 39
 heat: -1
 published: false
 
 provider:
-  name: The Sun News
-  domain: myrtlebeachonline.com
+  name: Miami Herald
+  domain: miamiherald.com
 
 topics:
   - AI Hardware
@@ -381,6 +381,6 @@ related:
       domain: business2community.com
     quality: 16
 
-secured: "jR9VG6TxA3OY6neI5fnPfhMy+9ljcVEgaQsUN/9NcneapR2BxMozLGoilF5tMH84E5gOld7FSrQ3EGfJ0Cu6jWCYsGJTTd5OIFdWjpIcqXnxlHsySsIVbWHHR1qjkZFDowHKkC0ErmdJrfui7TfNARyx6ynbInm4Q6HS35pVZxSN3XTZsWGqg6xEFM/JxUzNy8YLdlxt58mN6N9bNdK8ZDKKm5+ugsHOaMTyKeUdU1FqbFxCsS0IhjjdENXJSO6ZNPTDxEVlyvpQ9PC5/Yx8ELfEwsuKcmSBSLaAFs7xLENs4NkUamWXwpOH375mAGAsJLGLauq9TGuC8u4nAZH85cnyy81G3tFEQt5k2/jXgOm+irLDZct/p1o6ijA0QfQVJk9wKjPOkGJN6RgA4/kqL9IUUK7nJDmtV1HAFZZhzGN3EzEUb8Q6xUxrNiZe/kxZ1myI1kscPmHlGZLb4JllTgJib/DOibsDJlc/jwW73N5xHj9Kzsag5YjSdpgktNyHre5zNvETfCbO/hmMZl/a9A==;ArsSPN1cpd2GQH38QYtFsA=="
+secured: "8/ddgRtp5WxY9KESHJaoUrB6qCOGa1TxXvkxUYCS38WJ372oZCLXPB+YsoPBKGXGgVfGv2auKaYW/x7J46I3fUuuZ1xBQK12Y9Wn3YOfrcY54INoYk4tiN1UkMR31tmoc21Jg0tWX0wPXwSUrlRhihB4ReZoSPmWlIiZkE4H2fnUL6cAKMe1UFgS9AmYxdhXXPd4Orvgav+8jjAfDjuEsdoarNVrwAZ5lp1yL074qxfNYyr09NAvRFZwMMgi/8fs2xDpSH2P4vEm/B+c0ij+XSp7DWbaPVuBPIohKY2zhEcjYE5+PeMkWnanth7PqkMrumJE8+T1fLT+9+grZ8SYWzCmS8klFQJBsyDezE5adlG/8U/PiRFCOrOnCROegUx7+bx019LcA8f0ttk9WEnLVo7ImeiPq9LfBnbRjEN/HDGl+/oq7yC42woUR9IMflxQwLaln1XqoE6gaSajMFcgMPzSxNthNA/IxLi1lf1NOzOsYnE1H9xO4e/m2cDa7pKnxJXDyxMhl8/I0atQk1atYA==;BGz7JI7LWT47KYN7aITP4w=="
 ---
 

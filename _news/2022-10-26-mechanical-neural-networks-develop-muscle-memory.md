@@ -7,7 +7,7 @@ originalUrl: "https://www.materialstoday.com/mechanical-properties/news/mechanic
 webUrl: "https://www.materialstoday.com/mechanical-properties/news/mechanical-neural-networks-muscle-memory/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Materials Made of Mechanical Neural Networks Can Learn to Adapt Their Physical Properties"
-    excerpt: "A new type of material can learn and improve its ability to deal with unexpected forces thanks to a design inspired by artificial intelligence."
-    publishedDateTime: 2022-10-23T14:00:00Z
-    webUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/"
-    ampWebUrl: "https://singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
-    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/10/23/materials-made-of-mechanical-neural-networks-could-learn-to-adapt-their-physical-properties/?amp=1"
+  - title: "Finally, Mechanical Devices Have Neural Networks"
+    excerpt: "Artificial neural network (ANN) is one of the basics of modern AI research which creates large grids of artificial neurons to mimic the structure of the human brain. Similar to the brain which learns new behaviors by reinforcing synaptic connections ..."
+    publishedDateTime: 2022-10-27T06:30:00Z
+    webUrl: "https://analyticsindiamag.com/finally-mechanical-devices-have-neural-networks/"
     type: article
     provider:
-      name: Singularity Hub
-      domain: singularityhub.com
-    quality: 50
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://singularityhub.com/wp-content/uploads/2022/10/a-new-type-of-material-mechanical-neural-network.jpeg"
-        width: 1068
-        height: 601
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/1-2-2.jpg"
+        width: 1920
+        height: 1080
         isCached: true
 
 secured: "h22hGK+RLWT9w31dGqLHUrQr6HHgOwqQohGlhcdlw+B+50T+JQx6aALzGSj/5BG5Ps1xKwNyYOgzLr8PrXm3rUBkkXiulBNSO5xCLB3avuqpZ6KAtwduustlISLaInWjIDus+1nk8rJOl5h17l+0/hUFRlR0IgQeO3zGnUlDjiLcNDy3kllDYDlShXyUu79f0ietOVCLo+yfyJsNDOjQTSaELLhhFRaaJQxET6WWv/8phBzliqAgGdH5b25R+p6kwvnYaoG1SIKVIF/zwvmzmBM0NSQz3muZoBwO/5pbjjbgthkdyXWjm+59pcYwBEz23JUzGAEjj7aPvU0Opo+2S++Qimn0vwHBwTfuRYDlSEcDjSdxNM2fm0zmW1zcSz/tcGLWN9XbfxmKX6hEnsm4VoJNIPfi9k/QRrTBYj3jW5fgbAHtCJOVZaRhHEn8e3pgxoplFRh7HTSJyNAOR/QFLDr32cGr7QWteBaaYeJGrZbGo5NvrNqMvxz5CDl+7jyfIekSfTqlj1JnYWTSjkRcXA==;QCvWkjfBnYWDHin88muxyQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T07:39:00Z
 originalUrl: "https://www.euractiv.com/section/digital/news/tech-brief-us-views-on-ai-dsa-preparation-uber-hearing/"
 webUrl: "https://www.euractiv.com/section/digital/news/tech-brief-us-views-on-ai-dsa-preparation-uber-hearing/"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: EURACTIV

@@ -2,6 +2,154 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-10-18-why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education.md",
+      "title": "Why Andhra’s face recognition system for teacher attendance won’t reform education",
+      "excerpt": "A teacher’s presence is, of course, necessary but it's more important for he/she to possess curiosity and pass on the spirit of inquiry to students. These issues require a humanist understanding of teachers as professionals,",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "originalUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/10/Teachers.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/opinion/columns/why-andhras-face-recognition-system-for-teacher-attendance-wont-reform-education-8214586/lite/",
+      "publishedDateTime": "2022-10-17T15:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-google-cloud-next-2022-customers-benefit-from-enhanced-ai-capabilities.md",
+      "title": "Google Cloud Next 2022 – Customers Benefit From Enhanced AI Capabilities",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead covers the announcements that stuck out to him at Google Cloud Next 2022.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/634dc83f37b4033ea58e9c6e/0x0.png?format=png&width=1200",
+          "width": 936,
+          "height": 549,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/17/google-cloud-next-2022--customers-benefit-from-enhanced-ai-capabilities/amp/",
+      "publishedDateTime": "2022-10-17T14:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners.md",
+      "title": "AI in Computer Vision Market worth US$ 95,080.5 million by 2027 at a CAGR of 46.9% – Exclusive Report by The Insight Partners",
+      "excerpt": "According to our latest market study on \"AI in Computer Vision Market Forecast to 2027 - COVID-19 Impact and Global",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-worth-us-950805-million-by-2027-at-a-cagr-of-469-exclusive-report-by-the-insight-partners-2022-10-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T11:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-17-can-adherence-to-covid-19-mitigation-measures-be-predicted-using-cognitive-variables.md",
       "title": "Can adherence to COVID-19 mitigation measures be predicted using cognitive variables?",
       "excerpt": "In a recent study published in Vaccine, researchers investigated the correlations between cognitive variables such as self-control, impulsivity, future orientation, and disease mitigation ...",
@@ -958,162 +1106,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university.md",
-      "title": "Nvidia’s founding couple donates $50M for AI computing at alma mater Oregon State University",
-      "excerpt": "Huang, CEO of Nvidia, and Lori Huang donated $50 million to the school to build a new innovation complex on campus. The university has also raised a total of $100 million in gifts to launch what will ultimately be a $200 million research and education center with one of the nation’s most powerful supercomputers.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
-      "originalUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/osu-2.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 862,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/nvidias-founding-couple-donates-50m-for-ai-computing-at-alma-mater-oregon-state-university/amp/",
-      "publishedDateTime": "2022-10-15T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028.md",
-      "title": "Deep Learning in Machine Vision Market Supply Chain Stratgies and Decision Making 2022-2028",
-      "excerpt": "A novel report on global Deep Learning in Machine Vision market has been recently added to Xcellent Insights' database",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-supply-chain-stratgies-and-decision-making-2022-2028-2022-10-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-15T20:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-10-16-crop-robotics-2022-beyond-the-valley-of-death.md",
-      "title": "CROP ROBOTICS 2022, BEYOND THE VALLEY OF DEATH",
-      "excerpt": "Western Growers Association produced an excellent report that outlined the need for robotics in agriculture. Ongoing labor challenges are, of course, a major driver, but so are rising costs, future demand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "originalUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/634a29a9e54228319eb5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/themixingbowl/2022/10/15/crop-robotics-2022-beyond-the-valley-of-death/amp/",
-      "publishedDateTime": "2022-10-15T19:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
