@@ -5,10 +5,12 @@ excerpt: "AWS is launching a serverless flavor of its Neptune graph database ser
 publishedDateTime: 2022-10-27T19:04:00Z
 originalUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/"
 webUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/"
+ampWebUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 89
+heat: 99
+published: true
 
 provider:
   name: TechCrunch
@@ -22,6 +24,12 @@ topics:
   - AWS AI
   - AI
 
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
 related:
   - title: "AWS Announces Amazon Neptune Serverless"
     excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
@@ -33,6 +41,6 @@ related:
       domain: datanami.com
     quality: 19
 
-secured: "NiSr5HJ2zso6UED1J8JwCn04I/2USUCcg/GSAM+6huXakVQ8D5ct9lLN3VI5MEpeJtNlTPhczwgdmyKezXbnf6bcJvY5Y3oZOFkb+vXl5olXyJlwwAo7/14CYhgCAOBz0MoAWWhh66HBljTmsA66W8ULJzpIWE3SxnE+KyDOgEiY8kxtvVaxdUVTHhTuDzI3Ziu2jTAV7nRPurtcFJhsFXv0Y8bQfjJHHd8nYY0xzmbspH/cdKG/9WU0jLWjGuRfaWB/vrlna5Uu6fwpYPZHiQteAkXxFlgMAMiuPMYX2cChfJb98heXAR21EXsjEbbPDxnivszCHFHXilYNiQ1LAubZgWe2azWaFURzqZf4ZxQ=;GDQdLUU6NCx2wqm4x1YV1Q=="
+secured: "xaYy5APauRSdP/40slOMmUFKF28U9IcbU+NtrlYldrl0nEig5Vk8yJMc/NwZ/nODuBAgj44hfBZcvNM68dMYoiRqCqQSW5VuOpM+xEx5bBM4BY8ff+zl6J2dd7R2vH5SS95/Q2rZveiQYzwMszSuQziR9z3B/p4PxrostwBEtD/l3XWdBdx035iaV37yLhgH0w9Ts0vinyruHcP6lP0QEcDmM9AY4Ywfp3LhazC5vyEGO5JWFjHA1hqLGUFM8yWrhYz/m8iY5uAV/YOCcP8Wi35Efym+1b1qL0KgCGRyL931MfS7icKlqfv0XmSFOKm+WsvB4Ms3S6vzJcCjNNyc4nDfZYfPyuhz3K76jjtjm8Q=;+zdvwjPtX4l2uzJ3F72V4A=="
 ---
 

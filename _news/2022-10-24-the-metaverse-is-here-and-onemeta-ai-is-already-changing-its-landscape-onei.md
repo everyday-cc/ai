@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29375003"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29375003"
 type: article
 quality: 55
-heat: 85
+heat: 75
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
-    excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
-    publishedDateTime: 2022-10-23T07:35:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/CPMnzKib6xrffR4cF26pLfhmOPo=/480x0/media.spokesman.com/photos/2022/10/21/63504a7ea093f.hires.jpg"
-        width: 480
-        height: 293
-        isCached: true
   - title: "Facebook’s Meta stock craters over bleak forecast, expensive metaverse bets"
     excerpt: "Facebook parent Meta Platforms Inc on Wednesday forecast a weak holiday quarter and significantly more costs next year, sending shares down nearly 20 percent as investors voiced skepticism about the"
     publishedDateTime: 2022-10-27T01:49:00Z

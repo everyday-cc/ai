@@ -23,11 +23,18 @@ related:
     excerpt: "AWS is launching a serverless flavor of its Neptune graph database service that abstracts away managing compute capacity."
     publishedDateTime: 2022-10-27T19:04:00Z
     webUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/"
+    ampWebUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
     type: article
     provider:
       name: TechCrunch
       domain: techcrunch.com
-    quality: 49
+    quality: 89
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg"
+        width: 1024
+        height: 683
+        isCached: true
 
 secured: "O7G59VR9MNU652bZdFrK5gO/TBnJ2BmnT4YYPCo/cmA8tF3bTVMpXCeWhySd0J7HC74rybKSW8KEnKPLOQTsMpzTIVlb3NVnWC2mOnzTvunkwwTL3fwYXVolW3rprS/gXsPB7j7qKtfl3jxr+fLkElbwg9xCptbZbJmLnkFyrldWNr2U2MlffeasCf4cHCv0tHGngjPqjdhSaYHTImb2ksaE6+d/8Ww8wfTgz38rRIWSLET87RW+Djb/pCQ5DrXgfRAzm4SeiZlN/G4vcMZ24tnPSj4hBCB/FQ+Hu08VV1ag9bqBe0mpHFlVGYhqXz7gMQtpYLQQoM1f75yw+1w1+X8BCQf7HxAFX0dfn6VAdTncb+z/D6QnysnpV0O2WkxfPWmGG0zy/Y6MVG1ASSRwZQzciby1xRJqj32k7BcALwDR14hfxxRmNLizGkhJRwz0lyaMN2rvNkdCwIM5DtHrnFzJuy1NU5QfNbsuwUl1/qo6X+hvodbbFxOh71x5iCf0mT//Vnlh2CpperO3yQBAeg==;QemyAGWBZUKfzbOaqFrjzg=="
 ---

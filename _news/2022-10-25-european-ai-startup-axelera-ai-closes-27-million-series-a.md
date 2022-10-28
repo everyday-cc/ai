@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 742
         isCached: true
+  - title: "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware"
+    excerpt: "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology"
+    publishedDateTime: 2022-10-26T13:35:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/"
+    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 74
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg"
+        width: 700
+        height: 400
+        isCached: true
   - title: "Axelera AI reels in $27M for its edge AI chip"
     excerpt: "Axelera AI detailed today that it has also secured a $6.7 million loan from the Netherlands Enterprise Agency. Founded in 2021, Axelera AI is developing a chip optimized to run artificial intelligence software at the edge of the network,"
     publishedDateTime: 2022-10-25T17:55:00Z

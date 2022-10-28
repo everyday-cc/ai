@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-28-artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings.md",
+      "title": "Artificial intelligence (AI) platform aims to give lenders improved efficiency, expanded financial product offerings",
+      "excerpt": "Lama AI says fintech partners can avoid building their own lending infrastructure, models and secure credit facilities while enjoying increased approval rates.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "originalUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/12/blockchain.fintech.shutterstock_534103801.jpg?w=1200&strip=all",
+          "width": 1000,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/",
+      "publishedDateTime": "2022-10-27T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
       "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
       "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
@@ -1334,49 +1386,6 @@
       "provider": {
         "name": "TMCnet",
         "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-lgim-joins-fintech-saphyre-endeavors-ai-driven-platform.md",
-      "title": "LGIM joins fintech Saphyre Endeavor’s AI driven platform",
-      "excerpt": "Legal and General Investment Management (LGIM) has partnered with US fintech Saphyre’s AI-driven Endeavor platform",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/lgim-joins-fintech-saphyre-endeavors-ai-driven-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/462fd749381b7baaa02029ec3fecf221:17395499ae8d4f40419d1f0eed162fe1/2000-1.jpeg.jpg",
-          "width": 1800,
-          "height": 1010,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T01:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null

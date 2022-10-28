@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
+      "title": "Researchers Build Neural Networks With Actual Neurons",
+      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
+          "width": 3000,
+          "height": 1815,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-how-breaking-the-rules-of-math-will-give-us-an-edge-over-ai.md",
+      "title": "How Breaking the Rules of Math Will Give Us an Edge Over AI",
+      "excerpt": "A close look at how mathematics came to be shows the power of departing from convention, mathematician and author Junaid Mubeen writes in his new book.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "originalUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/mathematical-intelligence-junaid-mubeen-excerpt-1849689127/amp",
+      "publishedDateTime": "2022-10-21T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-ai-tool-colorizes-black-and-white-photos-automatically.md",
+      "title": "AI tool colorizes black-and-white photos automatically",
+      "excerpt": "A Swedish machine learning researcher named Emil Wallner has released a free web tool called Palette.fm that automatically colorizes black-and-white photos using AI. After uploading a photo, users can choose a color filter or refine the colors using a written text description.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/colorize-black-and-white-photos-with-palette-fm-an-ai-powered-online-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/palette_working_example-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-21T14:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-how-to-use-midjourney-to-generate-ai-images.md",
       "title": "How to use Midjourney to generate AI images",
       "excerpt": "AI-generated images have never been more popular, and Midjourney is one of the best tools. Here's how to access the AI and what to know about using it.",
@@ -1052,135 +1189,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-facial-recognition-used-in-arrest-of-911-conspiracy-theory-lawyer-accused-of-trying-to-disarm-officer-on-jan-6.md",
-      "title": "Facial recognition used in arrest of 9/11 conspiracy theory lawyer accused of trying to disarm officer on Jan. 6",
-      "excerpt": "\"Following this tip, the FBI reviewed New York Department of Motor Vehicles (DMV) photos of John O’Kelly, and used facial recognition software to compare O’Kelly’s DMV photos to footage ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
-      "originalUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221020-John-o-kelly-capitol-rioter-snip-ac-529p-918dcf.jpg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna53298",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna53298",
-      "publishedDateTime": "2022-10-20T20:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says.md",
-      "title": "Post-COVID cognitive impairments similar to being 'sleep deprived,' study says",
-      "excerpt": "Toronto, Ontario (CTV Network) -- A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gwinnettdailypost.com/features/health/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says/article_1ee93774-7f42-5252-97f0-46657a774541.html",
-      "originalUrl": "https://www.gwinnettdailypost.com/features/health/post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says/article_1ee93774-7f42-5252-97f0-46657a774541.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/c/4a/c4aeea9e-50e6-11ed-af3d-0396fbfa0a0f/635201a714fb7.image.jpg?crop=1080%2C567%2C0%2C76&resize=1080%2C567&order=crop%2Cresize",
-          "width": 1080,
-          "height": 567,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gwinnett Daily Post",
-        "domain": "gwinnettdailypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-21-students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences.md",
-      "title": "Students Explore New Cognitive Science Major in the College of Arts and Sciences",
-      "excerpt": "A new cognitive science major within Cornell’s College of Arts and Sciences was approved earlier this year. Now, the major, coordinated by director Prof. Shaun Nichols, cognitive science ...",
-      "sourceUrl": null,
-      "webUrl": "https://cornellsun.com/2022/10/20/students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences/",
-      "originalUrl": "https://cornellsun.com/2022/10/20/students-explore-new-cognitive-science-major-in-the-college-of-arts-and-sciences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/cornellsun.com/wp-content/uploads/2022/10/Mann-1.jpg?fit=1170%2C780&#038;ssl=1",
-          "width": 1170,
-          "height": 780,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T18:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cornell Daily Sun",
-        "domain": "cornellsun.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

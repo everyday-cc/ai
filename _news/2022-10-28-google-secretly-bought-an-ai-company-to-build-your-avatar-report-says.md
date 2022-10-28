@@ -46,6 +46,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google Quietly Bought an AI Startup to Build Your Avatar"
+    excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,"
+    publishedDateTime: 2022-10-28T00:31:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
     excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
     publishedDateTime: 2022-10-27T19:26:00Z

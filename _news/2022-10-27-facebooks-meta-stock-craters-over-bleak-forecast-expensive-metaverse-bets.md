@@ -41,22 +41,6 @@ related:
         width: 1222
         height: 1091
         isCached: true
-  - title: "Nokia’s vision of the future is a world where the metaverse replaces smartphones"
-    excerpt: "It’s hard to imagine a world untethered from your cellphone. Unless you work for Nokia. The telecommunications giant sees the metaverse becoming an all-consuming technology at the end of this decade,"
-    publishedDateTime: 2022-10-23T07:35:00Z
-    webUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/"
-    ampWebUrl: "https://www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
-    cdnAmpWebUrl: "https://www-spokesman-com.cdn.ampproject.org/c/s/www.spokesman.com/stories/2022/oct/23/nokias-vision-of-the-future-is-a-world-where-the-m/?amp-content=amp"
-    type: article
-    provider:
-      name: The Spokesman-Review
-      domain: spokesman.com
-    quality: 39
-    images:
-      - url: "https://thumb.spokesman.com/CPMnzKib6xrffR4cF26pLfhmOPo=/480x0/media.spokesman.com/photos/2022/10/21/63504a7ea093f.hires.jpg"
-        width: 480
-        height: 293
-        isCached: true
   - title: "The med­ical meta­verse is al­ready here, but what does that mean for phar­ma?"
     excerpt: "Many people may not understand exactly what the metaverse is, but digital experts agree it’s already here. And that goes for the pharma and healthcare industry too. The blending of real and virtual life in the medical metaverse is shaping the future of medicine and healthcare,"
     publishedDateTime: 2022-10-25T19:54:00Z

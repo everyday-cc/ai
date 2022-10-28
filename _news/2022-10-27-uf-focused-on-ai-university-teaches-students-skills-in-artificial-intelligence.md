@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-27T02:28:00Z
 originalUrl: "https://www.gainesville.com/story/news/2022/10/26/uf-focused-ai-teaches-students-artificial-intelligence/10522564002/"
 webUrl: "https://www.gainesville.com/story/news/2022/10/26/uf-focused-ai-teaches-students-artificial-intelligence/10522564002/"
 type: article
-quality: 32
+quality: 34
 heat: -1
 published: false
 
@@ -18,6 +18,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Autos
+  - AI in Healthcare
 
 related:
   - title: "Penn State University: AI language models show bias against people with disabilities, study finds"

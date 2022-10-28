@@ -26,22 +26,6 @@ images:
     height: 512
     isCached: true
 
-related:
-  - title: "Meet the Researchers who beat DeepMind at Matrix Multiplication"
-    excerpt: "DeepMind researchers did what they do best—making AIs champions at games. The team tackled the fundamental matrix multiplication problem by turning it into a single-player 3D board game called ‘TensorGame’."
-    publishedDateTime: 2022-10-23T07:30:00Z
-    webUrl: "https://analyticsindiamag.com/meet-the-researchers-who-beat-deepmind-at-matrix-multiplication/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/unnamed-10.png"
-        width: 1600
-        height: 900
-        isCached: true
-
 secured: "Dizrum2FXWnZvhQbexBaCpXyZ0zXnLb7ws7jqz/PbtnK78yyu5D64mrjIRyNzLI0KhgWhqOMk92m4pMGmpdPDfGbgu7qUQtky13YbWZxQUt+nZA0lmt/mIQxQxIV5NTOBy39dtexqbuQCeUv2Q2A+GPrbbvPE0sjk/zPsmj/yhUEMSf6+qewmauSKQbniMR70NiAd7zU2XUcA3zRnIGa3gDSW28qycwJswVxSc4GZPncB6RT79At+ig9slhwyTy6gCERHZoBsdy9hd4FONWbTnyJIFKY7UMU1CqVU/Todc9APKf0mbKZ6Dh+CBCAo4/76kJglkNqhjbhqozO5ClMkq/rdgGa85Q+iJV7Hz+iosGiW9vE8d4nAljwCLjMIaGIx/BeEJyrNfsbiPXVdWd7kOqrmjey+/kWYphJwAHa9xh6mvxwJM0bmYSNMBCglpDXeJT5PRDto7zVeB/DrvNH8OTW9w0XuECgHX7Xn7RAgJoaSu0TPOWOkVz9CwoJ14uADBKM3AxnotRInK22yDEjpA==;bjqli8JYhfZ2sbnYu6PGgQ=="
 ---
 

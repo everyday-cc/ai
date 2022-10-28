@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-27T21:41:00Z
 originalUrl: "https://www.queensu.ca/gazette/stories/advancing-medical-interventions-through-artificial-intelligence"
 webUrl: "https://www.queensu.ca/gazette/stories/advancing-medical-interventions-through-artificial-intelligence"
 type: article
-quality: 37
-heat: 37
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -16,6 +16,8 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
+  - AI in Robotics
 
 images:
   - url: "https://www.queensu.ca/gazette/sites/default/files/assets/socialmedia/TW%20Parvin%20Mousavi%20IMG_5593-2.jpg"
@@ -23,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "VZBnGk7pQR1tJZNwFQRBQdo57qHiOMhkFBZJQG8Sk56LbmaYWpdlABqh10XiOJkJWHU0wGIp4sDDKBh1aeDvbNdWFVYzXtPgB964lG31g1XVmr9mkmEZjwacLwvWFLJI9Y06T8gfkUA2Q6WKfIK4GpLYW2MQ8vcuxzza0dooTuwFk0eR/G+Hw6Epvrz+58pPeEPox+dSp7cVhM7WnGrTZE7QSVE8MzmonabCQiSLI4JENDHJK8OrmKupbHVBUwytC8EM4Ks7Z1lz5/EJlWlZoU5DL5+fpzT5YoCpqi7+NStTbhYj2/Nzk5F1XRJj5HLdDJ3lUFId5qklnMFV83sGYpbTUh07zH5xICMhYfQmi0o=;eDU4pmzJi6Zon7/HC81Njw=="
+secured: "KWFt4w5rZrrSQCXXfzoL5+Zn2jiO8oN5shyEr0eEesjF19xQkGqB/OqdmhH0nlyYCEF8+SPFuJFR49HaKQ/NhRBDzc/9iZTuufrzDbl5nqPgGKZ/u1VRsvHK++fmv+llqVTVT6IyULffaW4gOpW2IeQi3z5BnU3IlIvx1f1NiADf39kGxCYrd5HNFR7IbIoVM72jAEPrk1xLh+xTu7ni0tuO0RgWPtZULKo7lxCqXDnHwaud1YyqgbZE64eyrvFANUzqsnyCQvso+tCGgpIYw5F0GIcNs5/zPQ603hI9IiQ7qG9LFUJAksLOpUKwyWuCB5Avj2+2qCt4K1bUnnfdELCKxBiO6F4PAALNf6gnC+cGQbee+TEPapkP5ySbhZdQ7WXdB0+PftoxacbNE5xno+rad221Ho+/ca/m6gbSy98qVRuD567ev0EQMqnM0im6L5IqtJyW6g2hz0yeq3+Sl3mEhXB4AD+slnAyKnXwNZgkb13U4gFutGIp5lP5zwb70KBXZ9Kb8zDFtw/sXBplcQ==;Ifp3q54jcj9Q/9BEUXxuGg=="
 ---
 

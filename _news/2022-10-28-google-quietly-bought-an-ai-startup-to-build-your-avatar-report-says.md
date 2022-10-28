@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-sta
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Quietly Bought an AI Startup to Build Your Avatar"
+    excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,"
+    publishedDateTime: 2022-10-28T00:31:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Secretly Bought an AI Company to Build Your Avatar, Report Says"
     excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
     publishedDateTime: 2022-10-27T20:52:00Z
@@ -57,6 +73,6 @@ related:
       domain: techcrunch.com
     quality: 47
 
-secured: "o3h7Qsf41c4ISesaBVpWTL7MUKORrw59LmcH6WjwoUDFhVLSx6d1Grk80zI6EheJifgYpju720aAdddu61bSQLuQTEP4LfLCpBSfEowwoNasiSWNh64L8pmyOtfFDOHND27d9WKbFwVsHAmo5ym8MgAnIyPUVmyvMnA5FIheoEgsyqLIU9MZZ0N4bWVq7Qj7NXOhc/NLfC0bXzTK2QGsuLJk3mFtQxIdqTB9y9zUaOuOhcsHZL+l6/rl/uqTSb3bCHuUkm/LMqgtp8o0IUcbx70S8ZAfmorWSJrL0ZHSXu8cW0Ol630JERBedljLJT+sNtoeT9tdIC25tkxhhwwtKhm1hrcZIJkEljSQtzkRzYk=;5eBRFulez8UTvWWtvR6miA=="
+secured: "eVbrmO5Z924PAqT1k4TDInqGYtdh86L09QzKHpgtMdXOI3CRZRL1JCtozf+1qzhieIimbZeJUE53ct3jIrrlBxDbeZZ8uiaT0JvFyYDp0CjDnNhAP44ugwqBzYNgSnFfXSLB+kyTF0rcjRCMM0FEZNUf6or2XSGiLEjR3FXdJa7WRLqRyH6gSap6UNXefCegksh9ZZdtGYZMM71nOz4fpcJlQ3hlJj5swRj4ZRogGsaOk3/epTy4Ryc+BKhDMeIcCEjtIFdila5mUXqTKbQWa4eFRqSBFwMtZ8s/8RrJShfvjNLauiQxD3D3rKfb+9l6s2FsHcXeHgYhoNEX6OGJYH8UDkNmRDLDk8b4nZDvJVFcE8Y3tr0MwZkiUIlY2GECm55g7E6lzAnRSgq+i4RvmCuD9TSH24SADyNixd6s23erlicpeO91dAzg+Ls06tDNjniFPgQq6fvMm2ZnRoYKjdSDeRSi9XSvH7ZQskH4bWcSM4XYhmnPzPvp0kCmHTOYzlV0uAQZ/1L3xJp8K5HDFQ==;cYcVALD7WmHAUNjahiBmYw=="
 ---
 

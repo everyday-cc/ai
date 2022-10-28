@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-
 ampWebUrl: "https://venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/artificial-intelligence-ai-platform-aims-to-give-lenders-improved-efficiency-expanded-financial-product-offerings/amp/"
 type: article
-quality: 79
-heat: 79
+quality: 81
+heat: 81
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2016/12/blockchain.fintech.shutterstock_534103801.jpg?w=1200&strip=all"
