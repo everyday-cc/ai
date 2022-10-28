@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Meta Is Betting Billions That AI Will Fix Its Advertising Business"
-excerpt: "But your standard data center server isn't going to be able to handle artificial intelligence (AI) workloads efficiently. Beefy graphics cards or specialized chips tailor-made for AI are required to run AI workloads at scale. Meta has decided that it needs ..."
-publishedDateTime: 2022-10-27T19:04:00Z
-originalUrl: "https://www.fool.com/investing/2022/10/27/meta-is-betting-billions-that-ai-will-fix-its-ads/"
-webUrl: "https://www.fool.com/investing/2022/10/27/meta-is-betting-billions-that-ai-will-fix-its-ads/"
+excerpt: "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention."
+publishedDateTime: 2022-10-27T18:21:00Z
+originalUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business"
+webUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business"
+ampWebUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
 type: article
-quality: 49
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: The Motley Fool
-  domain: fool.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Nasdaq
+  domain: nasdaq.com
 
 topics:
   - AI Hardware
@@ -56,6 +54,6 @@ related:
         height: 395
         isCached: true
 
-secured: "wiMKYh+hd3GOkr4S0DzXOonhAEnuutWe0wKeqSIzmJW68N6ocgKWcLV9HqeOWEXI22inKCtBmrmNoCxNLvYlUrTIGIRQ0jvgAjuJphyHg6ghGvlndgMLPIA0Z8Fwnj4Es0VwgUwk+LN+LGVE1kc1n7eCVjPIc6YVZMORA1UHu8odiCeET/jjX5eVN38sD3v5XtyYB5HNMuoVr+a51IcLywuYY4mMtp7aJDa1Ku8UCGZ8GNkfywRnnNmdi3F80aUUDtyUKMwOGuGCqQ6sM8khy7fS7tUjVBHkLiLL66PNect2SSGigDO1YJP82ePYfLbG5RkzISc9ssJAqRPFmdzqKIWQS6z/rQ6Kkk38JsbNmBwtIq0pQ6t5XI50X2obz4oG/h5/UXriiqlEjyAWIK64Ncc5QyKSzU7VgYEP3NoYHSMUTB72C7jIjLVA+eRYLHeBb43TzOgwmSiCEIavKI81mN0toNbOAXhXLFTNS0qXMMXBaV9am98KWhm0QT/kwz38VnnToEV/R5jTLw70D880aQ==;+UWihNBQ5Zbz495NqlHg/Q=="
+secured: "tZm55U99bzCWDEXlP2sGFIGPrrCXPE6I1KCKiu15D84F0CSOdPHCCyDxsrOFUBKm4hTonGEIekFuXVt1OXciPbX8rLtliVpXBdTUNddS99jVb5rGiU2ZSrFsvjIb9DA4Xd8B3aA5OfUfrPpsE7WUhOqpqWBgQmKUxkXI2XpL7MsQNMubv9UwyfW78tUePEBf0XbVPrYNF1HY7hM/G9i8A7vnw4BURXcYTVXWRktDiDs+zdR5XGhjoYn6awieg4tw6+ORcd2MVfZo9jTOkFaFs0pURQq/TE7NulbqVvP/SC4aYLuLuwE2+YuwqrPS+3CkuUVw4DgbbZONR447/rrwEkrbcBoeA9+ieKHKAYhYWAA=;9ewHzxEH1ta/s7x0E7Whng=="
 ---
 

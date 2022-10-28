@@ -131,6 +131,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Chips Market 2022 : Opportunities in Future, Business Growth Analysis by Top Countries Data and Industry Players by 2028 | 102 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Edge AI Chips Market is projected to reach Multimillion USD by"
+    publishedDateTime: 2022-10-28T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-2022-opportunities-in-future-business-growth-analysis-by-top-countries-data-and-industry-players-by-2028-102-pages-report-2022-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
     excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
     publishedDateTime: 2022-10-27T04:18:00Z

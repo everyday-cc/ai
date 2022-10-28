@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google bought an AI startup silently to build your Avatar: Know-more"
+    excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
+    publishedDateTime: 2022-10-28T11:21:00Z
+    webUrl: "https://www.indiatvnews.com/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+    type: article
+    provider:
+      name: India TV
+      domain: indiatvnews.com
+    quality: 57
+    images:
+      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/google-1666955968.jpg"
+        width: 1200
+        height: 750
+        isCached: true
 
 secured: "OmZYeFm4eZEUWFWKxUoHDPXRpS4wXJrt+OoJ1Le0oJHaHqTcmKqeoJW96SB6qsW7BFxkJqTprlsEIDflyLEFIzR8qezGqnJJowhj9FAuegv5z5Aoydi5dtc1sNUbN/2pUyEwJ9EQ2g4GEcNPFmnXa5H5LLr5vUNV0KilHeuARciVSlRZWqs0IMAWPb7A9YaRKoo7i5o7eacc+N/JEEBFSNOAry2LgXw45aTVhTYfcC+ClnGtO1rwMFlpAEOe98RjEX/R3IUJPh2PIzOyXmaxIMcxvPQL6F3BCLfwVg0CwZJmfzyaqtwkqwpEAFoCwH4HjjXLjZlvUQ4NDeuJEY2UFrFxT1L81mqPyKHUtZYnc/6WrtlzhmpSkBU99ik1Dw9NHZypenrbWCmfP93bTK9qfnd/N6pvSPEpdXywNFZOj/1xUKNxWhW98rXsutmBYCr/E7KgwbXdCP6r6dFs6llTT7D4GVROY+3ePbYjWOPFV3xgWAF3J65Ls59eyKKOL1yGdHrqfYdpO624ffORIhL84A==;nfuIP6poR5iOnwDU0G5blQ=="
 ---

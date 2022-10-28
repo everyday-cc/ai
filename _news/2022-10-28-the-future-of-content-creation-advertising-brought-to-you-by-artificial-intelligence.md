@@ -44,14 +44,16 @@ related:
         height: 801
         isCached: true
   - title: "Meta Is Betting Billions That AI Will Fix Its Advertising Business"
-    excerpt: "But your standard data center server isn't going to be able to handle artificial intelligence (AI) workloads efficiently. Beefy graphics cards or specialized chips tailor-made for AI are required to run AI workloads at scale. Meta has decided that it needs ..."
-    publishedDateTime: 2022-10-27T19:04:00Z
-    webUrl: "https://www.fool.com/investing/2022/10/27/meta-is-betting-billions-that-ai-will-fix-its-ads/"
+    excerpt: "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention."
+    publishedDateTime: 2022-10-27T18:21:00Z
+    webUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business"
+    ampWebUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
     type: article
     provider:
-      name: The Motley Fool
-      domain: fool.com
-    quality: 49
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "FJ8pQ39ZYEht3MvV+soxSVAMqVOUTcOvOO9EgV0sRyWpk8NranfieJQQ7LYuhefDt2/+NiCnTsTvMuW1xX+apSZzGxzgyqoY5rCatLdhq5rZ8mT+Pmnj+6m5SFYYb6yBAdRAyS6CW/goTxH6Oq8+B14Xz9zvMrvTpPQQLusD8sKe/Oo8cgR66kLdQ9nAb+1dMLaOufNbRuwcTMci29MnHBk24KVg86GhsIhqd9k2tCz0wKfEc1KGLA6kkk5JK3GXWw68QXQECTyHY7a4z6GfCbnEnkjP6khIG4/SbORgQkxxl8tAUojyiymymrzlEWFvhYnMYKk30zeZPMlSccRYBr0zNsnAu/YL+Qc7g4HZY+k=;Jts5Y7LmB0rLO1QC/huNeQ=="
 ---

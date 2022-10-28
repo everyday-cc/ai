@@ -8,8 +8,8 @@ webUrl: "https://www.technologyreview.com/2022/10/28/1062332/responsible-ai-has-
 ampWebUrl: "https://www.technologyreview.com/2022/10/28/1062332/responsible-ai-has-a-burnout-problem/amp/"
 cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/10/28/1062332/responsible-ai-has-a-burnout-problem/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://wp.technologyreview.com/wp-content/uploads/2022/10/burnout-AI2.jpeg?w=3000"
@@ -25,6 +26,6 @@ images:
     height: 1688
     isCached: true
 
-secured: "WIIDUfXbWu2RMWiirUFfTdapakEfOQIvbmF4zald3itjfNL0X53F9Q6+8qVCuSFURE3EHHyg3mtroLMd2uqo3Nwdx6wjcJoWaBC0EksTHsYt/v7hEMqlmJh+2jOFBPMm3ur5MB3iRdYMk6MbAaRK5fGRF/iTpu5WXZxxa69FzBXWEgedkbViRP5+AQYV8qLYhXYSdpu+27qWRCYd0dNOPpXVeq8BIj78QGKvKA98Y7ERxtsQLByofAQnIqXaoGFfwbgvAoR3gv8+/t+6Djs1CSbNnVdsxeqC2Dwzqt7rouJ6Hv0eIgZFIsHLRpmCktGzPVQHYPsvCMzQhDsSqFAICFFLUaxW6VrpNJjKOe2FW5A=;JEzmycPGBLFhqUvg/ZRBFw=="
+secured: "gYjlb/oLThEhXkcxrNeXqNohTMOzmJY6p5IXP6BfjQCrGlRla7WO0oFfJO1UKmnKAdMuN/q38WkOGms2Ijp69QunLYjt+gEUO4//blZQunQ+6zATw8U+y3TQVLwaIOlhL6jsApKljr4eiIsHF8BPUE3/4pyyXAiCuoi6uUpCt9AKbKtndMxHB/GJgsUHyuJsyOhPAUujgzo4DLO04cnUuGPegObdubabYZ3Z+GxFGBUg2QN/zkN6eFQbv6dsEc29fcL5fbQbQ82yKeym8PwpmhvnivUHZXIelnO+UGe6SelNGbte/p/cbX7bcwiGcD8Ggt3tzVGJoLUzfNgjy2BbRiA9gJtlVHVpnKSoFbIdqfWbWg27J1ha77+hxi3CEMi1ZHhiadbkxU+n5tzLZa9Jx+ZqFEf5afzEvK+L6BbvtBzV4qGdYGjrnu34Qgd/abb1uzW1yTdAP6jpnGOSHxt52Izuop9x/d/WAfQWZFgOFhN3td4psdr+b+035rotT8uLPnLV/RXYT0YnGkKaFjzPHQ==;81mv/3vngipgr2LmeSQlTQ=="
 ---
 

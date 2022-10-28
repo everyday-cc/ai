@@ -1,27 +1,29 @@
 ---
 category: news
-title: "The progress of AI"
-excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."
-publishedDateTime: 2022-10-24T16:09:00Z
-originalUrl: "https://businessmirror.com.ph/2022/10/25/the-progress-of-ai/"
-webUrl: "https://businessmirror.com.ph/2022/10/25/the-progress-of-ai/"
+title: "The future of empathetic AI in today’s technological world"
+excerpt: "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ..."
+publishedDateTime: 2022-10-28T10:26:00Z
+originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: BusinessMirror
-  domain: businessmirror.com.ph
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI Ethics
   - AI
 
 images:
-  - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/Column-box-Integrity-Initiative2.jpg"
-    width: 1400
-    height: 735
+  - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png"
+    width: 318
+    height: 308
     isCached: true
 
 related:
@@ -57,23 +59,21 @@ related:
         width: 933
         height: 622
         isCached: true
-  - title: "The future of empathetic AI in today’s technological world"
-    excerpt: "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ..."
-    publishedDateTime: 2022-10-28T10:26:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+  - title: "The progress of AI"
+    excerpt: "I have written columns on Artificial Intelligence (AI) in recent weeks. In the first one I asked the question “should we fear the AI that is going to hit us” and in the second I asked “can we build trust and ethics in AI systems."
+    publishedDateTime: 2022-10-24T16:09:00Z
+    webUrl: "https://businessmirror.com.ph/2022/10/25/the-progress-of-ai/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 59
+      name: BusinessMirror
+      domain: businessmirror.com.ph
+    quality: 39
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png"
-        width: 318
-        height: 308
+      - url: "https://businessmirror.com.ph/wp-content/uploads/2020/11/Column-box-Integrity-Initiative2.jpg"
+        width: 1400
+        height: 735
         isCached: true
 
-secured: "J/QxbRdPyJokpwRT5Sm/f+pxX2QaZIwbhezPXQwTCEaEIQBa9rqT3Buu/wVBuO8/IsvRhAzHyT0oqRlczqWrd0Ym1Ty1UofiOT9cFD8BX3q8ciZ3tVIuduLQtuIBJ5bHLxOsP6PORoGIGzflCfuAZh3qQjBWT35DpwgObZ87mcwtq4B2dedER3IFThNZqQITABlQsIoCty2Zh7efofhWV2k/vFu2XSNkYTQJEqHCG+VmEXzcBVm+byttNqFwUDqgRgYFN/qgfIlea5qw6kgSRR+xPyHjyqpU1ieiQx7JAysVmyE9dgTFZAuoVGOecIgHH029TVW5Kg0B+meBAuerV5L34uO58Ph4s4wLY0B+dws=;QrzfMiwUAV2DtV4m82vcxw=="
+secured: "XaZJrpA0VlLIJGQAbRUPcpJXiq7J87KKBUl5lVzYZMREK1w6e7Jxq/P62SLbUtdHgPWjFyP7CQe1qgThZpceGgjKih1NVePTyvuOdvdYgTTL83XlwjkvxYdpJNYcols9mpCpmBCpC9RSTafkCREUIcjblsXwRXdQW57DsGzUEYYo5EwVvzAXh5I73i1qI/RBz5OFmXPw8E7qoYIfhRjT5XolWJd3Ebv8YytoZ2BYO1YWzeicrFObyoHBJCVRQdRg5Dfg0zaHBFZJW/yWdDDsUZAYC+PFaMJZtU2pBjiI/NFepl+48zjvoPNrb+YDP02JQ2Q5Buc3TdDbuPImRagCCLlPDUugUKi8OON/ygOGiAs=;BGrHX005t0YYycSU82xt7Q=="
 ---
 

@@ -1,36 +1,47 @@
 ---
 category: news
-title: "Google Quietly Bought an AI Startup to Build Your Avatar, Report Says"
-excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
-publishedDateTime: 2022-10-27T20:52:00Z
-originalUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+title: "Google bought an AI startup silently to build your Avatar: Know-more"
+excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
+publishedDateTime: 2022-10-28T11:21:00Z
+originalUrl: "https://www.indiatvnews.com/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+webUrl: "https://www.indiatvnews.com/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
+cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
 type: article
-quality: 89
-heat: 129
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: India TV
+  domain: indiatvnews.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+  - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/google-1666955968.jpg"
     width: 1200
-    height: 630
+    height: 750
     isCached: true
 
 related:
+  - title: "Google Quietly Bought an AI Startup to Build Your Avatar, Report Says"
+    excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
+    publishedDateTime: 2022-10-27T20:52:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Quietly Bought an AI Startup to Build Your Avatar"
     excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,"
     publishedDateTime: 2022-10-28T00:31:00Z
@@ -79,23 +90,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google bought an AI startup silently to build your Avatar: Know-more"
-    excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
-    publishedDateTime: 2022-10-28T11:21:00Z
-    webUrl: "https://www.indiatvnews.com/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    ampWebUrl: "https://www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    cdnAmpWebUrl: "https://www-indiatvnews-com.cdn.ampproject.org/c/s/www.indiatvnews.com/amp/technology/news/google-bought-an-ai-startup-silently-to-build-your-avatar-know-more-2022-10-28-819506"
-    type: article
-    provider:
-      name: India TV
-      domain: indiatvnews.com
-    quality: 57
-    images:
-      - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/google-1666955968.jpg"
-        width: 1200
-        height: 750
-        isCached: true
 
-secured: "eVbrmO5Z924PAqT1k4TDInqGYtdh86L09QzKHpgtMdXOI3CRZRL1JCtozf+1qzhieIimbZeJUE53ct3jIrrlBxDbeZZ8uiaT0JvFyYDp0CjDnNhAP44ugwqBzYNgSnFfXSLB+kyTF0rcjRCMM0FEZNUf6or2XSGiLEjR3FXdJa7WRLqRyH6gSap6UNXefCegksh9ZZdtGYZMM71nOz4fpcJlQ3hlJj5swRj4ZRogGsaOk3/epTy4Ryc+BKhDMeIcCEjtIFdila5mUXqTKbQWa4eFRqSBFwMtZ8s/8RrJShfvjNLauiQxD3D3rKfb+9l6s2FsHcXeHgYhoNEX6OGJYH8UDkNmRDLDk8b4nZDvJVFcE8Y3tr0MwZkiUIlY2GECm55g7E6lzAnRSgq+i4RvmCuD9TSH24SADyNixd6s23erlicpeO91dAzg+Ls06tDNjniFPgQq6fvMm2ZnRoYKjdSDeRSi9XSvH7ZQskH4bWcSM4XYhmnPzPvp0kCmHTOYzlV0uAQZ/1L3xJp8K5HDFQ==;cYcVALD7WmHAUNjahiBmYw=="
+secured: "dmhSBOWROk5fW9az3ok+HDkBVlPlnoH/KkW7ivxrgX7LcTlcYeq7ihuWBLXsmg1nvvqhtxi+dAUQ8tggjeO9mfXvTrn/1H3ooLVykwW7lgKBdvKY2w5ZCa6m6IPkSxD8F2/FLoKbV32/l+W4qWTajkjLlFP0BbWF3szI6eJDqAus+Lwdbnwwff76KcJwKB2wno8aQWd1cAAPQGNnErIOehbIcpngzTK5HSllKozG0gQNsA/oQcglxJLT+6G/dLw8XpyTBng/56TrB2qozDYBTIVcc+CldF8P9pBGExdsv32ajm7POpgI8Er09lSpZSa5X2nfpd9csRMw8VKDu7Q411w00g5B8/q1JToN2lXgphg=;BgfgxyGBXu4plmZgskgPyQ=="
 ---
 
