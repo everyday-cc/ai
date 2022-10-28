@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "KcIK8EE0fboSH8O6DHLhcsW7we4nCRDpdMAC6uouk/6CfD4Scp7YndMLD703IYlmkrTpj7ULUG+QzaXVodpw/OtCBvhktL4NcgjZAjPfIsOx3s62pR7FjWwTlvPyMBZLdGBeyBYC5qkMepBWeKFg5/o1TCQRK5gvLhQIHOwKwmLT5rBptg6S6l/1YxOXxIzQ76IJ3l++TsF0i/SS7C3dwZ1HpxGqVOn4gRGcC92WGGoGvcOmEKF6I8HMEOCd7Cwu9B8+c08A34wb87TV29C/L3y0ovhKPkiTgTJnwvtX0PMZ2SnBs/EP/dh0XnDe9kkgRHICuWVKQWCs6ZhmtOJxnmiCwFR5rXvciNQmjX4PUE0=;HenqI2tk+bO3XGoub+6hlA=="
+images:
+  - url: "https://www.baltimoresun.com/resizer//LC3g3mPf-VCzb2f_olFalEeU-MA=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/PIH5HBLT7BHE5LDH2E3YH6AHH4.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "0BCAj8V95Tbf/cG2LkFNcUlpOpCFyOyVdkV1CxAJN3jw/04Tka7NnzosCOBWV3Jjn4pT2iFLZ+6dBGYOUJ+cFUnfSgCHAbQ6Coz8tiVEBTrPeFaH6iJ4kNK2F/r14a2r4yZYAC46lRUWirIROOZmfzHyN8o2oRkEgQX0nLBsMyGO/qf5Gf7BCxJke2tX70rxkZfcjiIi2fMcDFUKo7MCCGdfSyaGX48Cr9k2RlPTnf6S8+hNedoeBXVvNLh6Ez7DyGtTlF7+MsGZh0AAspfOkeCL4QLbJuI4ANaX9a8W09LsfkZlQaAjwIAbXml5rIXeXqcHJwGVHGeJzWYomZXcX/x/lVsOfZdee3I+r7/gKT8=;wIt2A//cwLS/27/brUbkyw=="
 ---
 

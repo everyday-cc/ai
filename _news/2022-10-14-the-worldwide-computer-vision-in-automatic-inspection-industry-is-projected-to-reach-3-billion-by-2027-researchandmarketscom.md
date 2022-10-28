@@ -1,54 +1,20 @@
 ---
 category: news
 title: "The Worldwide Computer Vision in Automatic Inspection Industry is Projected to Reach $3 Billion by 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of ..."
+excerpt: "The \"Computer Vision in Automatic Inspection Market Research Report by Component (Hardware and Software), Product, Application, Vertical, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
 publishedDateTime: 2022-10-14T10:23:00Z
-originalUrl: "https://www.galvnews.com/news_ap/business/article_f586283e-132d-5dab-b014-e4ceeaaeff68.html"
-webUrl: "https://www.galvnews.com/news_ap/business/article_f586283e-132d-5dab-b014-e4ceeaaeff68.html"
+originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-14-the-worldwide-computer-vision-in-automatic-inspection-industry-is-projected-to-reach-3-billion-by-2027-researchandmarketscom"
+webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-10-14-the-worldwide-computer-vision-in-automatic-inspection-industry-is-projected-to-reach-3-billion-by-2027-researchandmarketscom"
 type: article
-quality: 10
-heat: -1
-published: false
 
 provider:
-  name: The Daily News
-  domain: galvnews.com
+  name: The Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/galvnews.com/content/tncms/custom/image/15a12480-fb7b-11ea-b7c4-87bc3f36b896.png?resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-related:
-  - title: "UTC researcher wins NAM prize for computational research on aging"
-    excerpt: "A computational biologist at the University of Tennessee at Chattanooga has received a $50,000 cash award in the first phase of a global competition among experts looking for solutions to the coming challenges of an aging global population."
-    publishedDateTime: 2022-10-17T19:48:00Z
-    webUrl: "https://www.timesfreepress.com/news/2022/oct/17/utc-researcher-wins-nam-prize-for-computational/"
-    type: article
-    provider:
-      name: Chattanooga Times Free Press
-      domain: timesfreepress.com
-    quality: 24
-    images:
-      - url: "https://wehco.media.clients.ellingtoncms.com/imports/adg/photos/102543754_unnamed--13-_t800.jpg?90232451fbcadccc64a17de7521d859a8f88077d"
-        width: 800
-        height: 1200
-        isCached: true
-  - title: "UTC Scientist Is A Round 1 Winner In Global Research Challenge"
-    excerpt: "The race is the U.S. National Academy of Medicine’s Healthy Longevity Global Grand Challenge, and a research proposal by Hong Qin, a UTC professor of computer science, has been selected to advance to the second of three rounds of review."
-    publishedDateTime: 2022-10-17T15:11:00Z
-    webUrl: "https://www.chattanoogan.com/2022/10/17/457698/UTC-Scientist-Is-A-Round-1-Winner-In.aspx"
-    type: article
-    provider:
-      name: Chattanoogan.com
-      domain: chattanoogan.com
-    quality: 4
-
-secured: "mAnWzuaxHPMo0GrJsiWsfBVZLJubxINM4qpxSznm6l959vTnKuA5fOe/YPsgiB1SNEKqGjr5pY/VPhg5kkbS5SB7a7tJzNRTD8XUjdAf09DHJaRxbiC9hvrhHTRSvuHLYzNgpsyrYdh+OkwwH0Amh0iNDt4GBRevuCULaGaVNdz2ALuupXYI9FoFMy5hMtdbcua015mBcYv/V0yl3X011wPtU47DmypVuyVcfYZhDpNLhd8Cnkny7PaTJCR08gR7mkNCH1kIjdiLrgvQFcD0M6XpPG4Tj43U0SOVJLyQJTwKqq98r+ru4G9gy4UtMAIHapDEuEVyYKkcyepRx+u2e88NN7VLZTHLlEWkkRpB0uE=;5Q5fuSmi1T7YvVppFesy6A=="
+secured: "GITnOYjWVgNV9tLbZRBVsd9ldvywFbkFfpi+27Pp4r1RWZVf/fkONyZZkyYYMFeW6VBAnUwMOlphkoHPKlyOI8r0SMBI+TxAIt4Wy3DaNvV+RYJgXfAiG0bhjCJsrnV3hwjsLWV2psWeZBW5xFu8jd2u0/PSkUd0Gs/qZzgr2noymoZgK2zpX0B8U9fJx/Y9YSRXVzMHHEYivTEf/Pssa6Jp1R7hX9VVOulm5CnGHTLQGtRQ2RS8j1g5gCQez1/hFhdpbLlNtHGlEH0cnGrFZD2TpJGxM3T8hjxaVTaN+HTkEviVBn2sDWa1UbihyowW1anlDoS+pl62ec4Eiy4naUMSs+t6uMG7sycOoHIGEK8=;ywCoTKKSGNaC1Tuwa6mxLA=="
 ---
 

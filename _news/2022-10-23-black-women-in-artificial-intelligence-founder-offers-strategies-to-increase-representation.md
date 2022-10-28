@@ -18,6 +18,7 @@ topics:
   - AI
   - AI in Robotics
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://news.miami.edu/_assets/images-stories/2022/10/angie-bush-hero-940x529.jpg"
