@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/"
 type: article
 quality: 104
-heat: 266
+heat: 274
 published: true
 
 provider:
@@ -82,7 +82,7 @@ related:
   - title: "Exclusive: Tesla faces U.S. criminal probe over self-driving claims"
     excerpt: "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say."
     publishedDateTime: 2022-10-27T04:38:00Z
-    webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
+    webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
     type: article
     provider:
       name: Reuters
@@ -259,6 +259,15 @@ related:
         width: 1431
         height: 804
         isCached: true
+  - title: "Reports: Tesla will face DOJ, SEC scrutiny over self-driving claims"
+    excerpt: "Unconfirmed reports from Reuters and the Wall Street Journal this week claim that Tesla faces a criminal probe and a civil investigation from the two respective arms of federal government."
+    publishedDateTime: 2022-10-28T12:18:00Z
+    webUrl: "https://www.greencarreports.com/news/1137653_reports-tesla-will-face-doj-sec-scrutiny-over-self-driving-claims"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 34
 
 secured: "f7FniGG/dSFNecbbDKqza0Q5pxi48beciP+/KP55OncjTGfFizAQGRdr1n06fr0jcfBvu0e6iueNSRC53a5DgZ1U40pFW+QCUiAHL2m/I99qvpaYtBnAn5/jEpaUhbCt76RSlEZf9DWcSqi6Gh2Xo5vZAyns8WjMDOrT0KMf64yiQ+S5Hlq72bmnKilSYoEBxLSHaqR/5alaJaGbMAEZORhpSxqbsibHluueGPDqPXDTNI5sn6o+8UyBPB3nW7i8tI7PP+XMVpjsthATKbaywZKUgSCW5M+zWuT17uMaZFU7b7TGfYhzzQJe0p9v4aMoaiXUCepkJ3LyoLwzvXiWxTQx0U9W9iw9HRCrF1eVcVICs/jSzP8gLzdByHEyInCLTuaudg2XHM6tKlxlM8mrxm5OdxHDD7SXsJRON7hIoTE3B3kOfqtwFfKIjkn8cnTdvsvY25ROj9daooqirUpPMuhevlqJM57cZUPd8jFJkomNmkSMcOvG05Q7FfzCf38NHeUIA5hcdubdTw20WNQDXQ==;3FJ0HipcP7JbL49qVKQyJA=="
 ---

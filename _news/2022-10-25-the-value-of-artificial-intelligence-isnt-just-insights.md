@@ -76,6 +76,15 @@ related:
         width: 1400
         height: 735
         isCached: true
+  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
+    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
+    publishedDateTime: 2022-10-28T13:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 0
 
 secured: "DLxKvm3XK5/Wla+OuK8QBhxopGlWnZ19FkaisTAGbl7wM+IbQg7VO6xOTdwVWZ4RMAPNblg8f+H82e9GxUkI7e4lyhYvdzfac4/oqH8m05bCD8qS98jqe3Mui3Ln/AigKXChrLHGfbWvTIw86LYxh14rrNvLx96hLqryCBD61XsaUgV8Lf8+ivYOc6UFKbk2py6vang6qCpGEuyavnSJAGdSurI1EqFrl7EOtQ+lHMvqVxtIpKhGW3rAxZnOf8JRt2ssLOMy7mKmUCbNEhvcOy1rq3iG8IPKbfn60F29CS0qxITOR+GK7QmC4CAdUWLngolP3JzQtHm6YI0r720kf45rR/F1Kj8e9vnhS9Ju0Pep8Y0KZMqGVFUwrKMf82OjiT5xOqTEmC/Y+TT/VPoHO2YBPafAgzqQS0Rg89qgNneAkGL4U1dBKCMOC1XqGrCIq/f6o36SMbeTRa1vY5nd1kp1jIQVZ1N6TcRS0G+HyzSmOtzBAo9Sp19gkcsNunChnAU+gtbyTp6e5OkOace74Q==;dsD2ZvYiKa0OpgikrZh5mw=="
 ---

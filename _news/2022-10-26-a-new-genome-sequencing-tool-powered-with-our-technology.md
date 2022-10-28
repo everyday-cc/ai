@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/technology/health/a-new-genome-sequencing-tool
 webUrl: "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:

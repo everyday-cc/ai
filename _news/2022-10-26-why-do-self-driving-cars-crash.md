@@ -97,6 +97,20 @@ related:
         width: 801
         height: 449
         isCached: true
+  - title: "Self-driving cars face uncertain path to US deployment"
+    excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
+    publishedDateTime: 2022-10-28T15:48:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-cars-face-uncertain-path-us-deployment-3031621"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7Ago4ANM--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-28t155213z_2_lynxmpei9r0p6_rtroptp_3_usa-autos-autonomous.jpg?itok=2rtINx7I"
+        width: 1200
+        height: 676
+        isCached: true
 
 secured: "M5P28Z0AMPriN/JLepXXvjtvk/8IhQZD1zHqR2mFcLbq48Ms9UaOQrCbB2mVQMDdH0461jc3YgNNU/gOppHp6NL9uTvVIIpUEvVbaqKvjd9ClKWbvHvLltVTEpunk/HCtDWwYD0xrNmnRDS6dQR2R9l+AjR4sEp4x96i8uaaV7tZLA6gVsfruzd9kB4K/I4dtDeNAVOGbubZplp1rOa7wgfS8YvttVv+Yd2rs0wfCjMB/3Rbq37QV1LW+MjnqOMgDTRAniEDA2VJPB5KPMXNJlc9Dyr6Xbp/j+VFGpJQqvWK9TLa6p4enSosGbZt5rfG2mqn0MwEsqnBS4GRH4Vw4b/zmHc4xf5FpHZ/ibNYyNQ=;hqqmxeVCVOsfBH/h3eJXOA=="
 ---

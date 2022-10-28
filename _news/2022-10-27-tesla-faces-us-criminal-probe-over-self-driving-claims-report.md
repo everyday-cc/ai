@@ -92,7 +92,7 @@ related:
   - title: "Exclusive: Tesla faces U.S. criminal probe over self-driving claims"
     excerpt: "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say."
     publishedDateTime: 2022-10-27T04:38:00Z
-    webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
+    webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
     type: article
     provider:
       name: Reuters
@@ -255,6 +255,15 @@ related:
         width: 1431
         height: 804
         isCached: true
+  - title: "Reports: Tesla will face DOJ, SEC scrutiny over self-driving claims"
+    excerpt: "Unconfirmed reports from Reuters and the Wall Street Journal this week claim that Tesla faces a criminal probe and a civil investigation from the two respective arms of federal government."
+    publishedDateTime: 2022-10-28T12:18:00Z
+    webUrl: "https://www.greencarreports.com/news/1137653_reports-tesla-will-face-doj-sec-scrutiny-over-self-driving-claims"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 34
 
 secured: "BChBN8RmH0jPqissT4OA7+NyposH2CNLp6sjKyE5HrMnQy2SHopDX10AN4md4FEjprS56uHX3NAciZ40zzuzhdWoeoLPDkz0LOy3w5p6v6E9mAHfZIE9n5gISkefCMomPKaNA06+v5QUcxqy39KM9kndv10l+uv15sVX4KWI6AeJMdUV/ZOL4Lfqe/2RS4aDcqyVuZvsEyNj1qYzVZltSyy59mdP3f0aPfy+xNXI4Mh+R6xUKCITviFF8cbZtewX6/dJKrDpiBRLl2LN558B52zPreZxILASOXfhgSfmckWJuflPeFnOkyd1/fyPKUlWwwilQlW+tigcbc2LfqG15ppRNYlAtn0IU2mF33jGnWU=;EerLz26bDIhVl3pMaKxCrw=="
 ---

@@ -5,7 +5,12 @@ excerpt: "Some scholars of AI warn that the present technologies may never add u
 publishedDateTime: 2022-10-28T12:13:00Z
 originalUrl: "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/"
 webUrl: "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/"
 type: article
+quality: 91
+heat: 91
+published: true
 
 provider:
   name: ZDNet
@@ -18,7 +23,14 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
-secured: "+1dYUxgYMoSdifEc+mMWydurwUMasKPwxclOrkxOe5JqtT/R+OdsmIokg/FPDBowXS4M/TXzvbDbE1WA5VBxl1vNB0+HhcVM/vcP95xBmjra26cIu9VOjg5s30tJx5/mcwl/QNvYVUHPQJl3Bv5FYYDTwe0Vwa8B1bGC4N7X+Bg7CcHN66fV37prfxVRcW+7bAz+cF3IW5nPskdJvck2gg61PMrqwhrbD/B5HsaavAqtrQaDh3ktHPO4G+9bsFpYJ26TQmNFlo+V+d+OrwOF0GmL/JmJ8Ka+PEkPpMibDBf4SL3GnxqYW4lxGLI+6dGrDAc765HIutklTA12z91HXQr9ZYYpIvsWdptEQSAN+UgCpR7FQ4BBKVo2PVFVAyixplk5gYCrpP1s24FAXHGSaeikCHgXbNqytgE1UpoSjBefR+ffe3kvyKqq+7OYnLIlhybPMCLxrR13eMQEjMoiNek8d55uNBFlnfn3fV69cMtXxAXrOquOqVnV1aXsq2qn/Y9r3KknVE+LBOYqxXODVA==;It4S2ZEgqP8VdT730KoYEw=="
+images:
+  - url: "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "s2s1VjCAq9c2c4eIsC8OUbK3sySS+r/8p7dlIZlYvLrudBZlDw6PsZert8AtZHyZOWokoNWSetR88/t4TffQd4YXW/zk9d36RMehnM3yBDgaZ6tmNwU6RUlGLUwZnqI/T+E7uFSgrySpkQVQSeey1NRVS0IEm8uZfLWbYhN0DnrVH60LWvyzKieL3SrBIW/2ylPhL76goZej37rkEmdNGrlXLB2G26T8H6ESPoerGS8Lwtuopj/0Uoan1Cg2BuPRzK+mujOKS0i/gNJqJGPIqBbbpCPhqi9TKvg+uTmaIxIS/d55S94AAQfUJru3VcOpkVzXBwbRcZlZftTKI6jLDDiz91PieNEle88FvcWpkHw=;Koe5JK+bTYvn95hQO8RLug=="
 ---
 

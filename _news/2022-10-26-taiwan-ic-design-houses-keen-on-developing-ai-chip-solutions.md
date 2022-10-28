@@ -7,7 +7,7 @@ originalUrl: "https://www.digitimes.com/news/a20221026PD203/ai-eda-mediatek.html
 webUrl: "https://www.digitimes.com/news/a20221026PD203/ai-eda-mediatek.html"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 336
     height: 224
     isCached: true
+
+related:
+  - title: "Engineers Design Dynamic Materials Using Artificial Intelligence"
+    excerpt: "The architected materials, known as mechanical neural networks, are capable of responding to conditions by tuning the stiffness of their beams."
+    publishedDateTime: 2022-10-24T19:05:00Z
+    webUrl: "https://www.machinedesign.com/materials/article/21253325/engineers-design-dynamic-materials-using-artificial-intelligence"
+    type: article
+    provider:
+      name: Machine Design
+      domain: machinedesign.com
+    quality: 41
+    images:
+      - url: "https://img.machinedesign.com/files/base/ebm/machinedesign/image/2022/10/ArtificialIntelligence_PhonlamaiPhoto_istock_917581126.6356df11414bf.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "G0dtR19l2knSv3j0C2N67nVfOEp/Rb9z4uHnpBUvNQZQ6da+2NsW0LVanfm/JXmaPnghfSuIRAK8VLPna5UIzrZ9N9vg8KYYzsUytlvwBCd1pWXfr+XZkA/uvjT0tP6HQ5yct/M5yE+ZtgViyvsn1EkXt+tepf/qWOiGJktcvkI8dnaLNUejZoOSibf4kL+D8SUV5AbVGjPrl8VPWZwTWJzhCvYfN+M0d5h++HejHuETTKN0ND9p1W10hW1CVBZiBbrWQrsao5UU9di9gQf4brG8+PVTHQEFqS9jWNbIfUbffRmwOO+e+bpW+w2gcrFICXGwEP1wbWl8UyaAebhG83xCCo7fJzRP6xKmzMvG9hS92fy6E2IZVH7czFuu/Z1LVqp/aKkWVhM+LJ5mRJ6tAiX9cUsUA6UUrcJo1uElSleDKu1jhbtAW8JqJm3hyta3FOsmth8Cilt6JYL42k10AkFhJWKU3dcc2bFbIhIBRO2Fj2Ny0aXw0wkFzS4CCmWs+3rV8Y2gYHg2zXwke0N2sA==;nVnxK8yUg7sDrbJKy0BmtA=="
 ---

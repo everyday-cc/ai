@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T13:09:00Z
 originalUrl: "https://www.technologyreview.com/2022/10/28/1062344/download-human-toll-ethical-ai-lab-grown-meat/"
 webUrl: "https://www.technologyreview.com/2022/10/28/1062344/download-human-toll-ethical-ai-lab-grown-meat/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: MIT Technology Review

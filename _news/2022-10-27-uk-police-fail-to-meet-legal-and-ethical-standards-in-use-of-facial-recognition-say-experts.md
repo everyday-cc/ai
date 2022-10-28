@@ -58,6 +58,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
+    excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
+    publishedDateTime: 2022-10-28T15:41:00Z
+    webUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
+        width: 1292
+        height: 715
+        isCached: true
 
 secured: "BoVzcNNTIoSBC00Zv6AdhcvIXm7k4GYLcryvdJLBXrHT0hYlz9W7hRwf/4ExbYh2OITYYK/rh/HkuZYO6F1+n9XeJ3GAcPGfo2ba5zjw41Z+LPmZH7Hks1ELVSPSj1DA7nT5NYwxQn5z21VoBoNzHmoBRCpcpA1KF8MQ/caBW0RotAMfWRQOmK9S+CYWvl6o5c4mlDZOXDY93gECECEH8RcEmCCLk1JeQMWLYt3G0kGoDma4Yqhh9n2l6UKl5pA7k1JJNbNGF7K9Fo2Rhkg9RETkeX4iuZhe98lR9RtaRk31j0+OWv2j8Cnfnl6TeR9HQlhmqBQuAh4M6cJKbbMvKfuqlnHH0zMq5x+fCD/P6SM=;Q/nc3KLH8i131NAjfc/dqw=="
 ---

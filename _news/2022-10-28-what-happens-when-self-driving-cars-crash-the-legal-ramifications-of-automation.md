@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T13:30:00Z
 originalUrl: "https://www.entrepreneur.com/living/what-happens-when-self-driving-cars-crash-the-rise-of/436942"
 webUrl: "https://www.entrepreneur.com/living/what-happens-when-self-driving-cars-crash-the-rise-of/436942"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: Entrepreneur

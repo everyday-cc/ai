@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standard
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
 type: article
 quality: 79
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -57,6 +57,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/ad24ddb9a620b2e3ea95230da52f0d148502edea/0_11_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=d37d7343bf108263dff19b9436aae3a8"
         width: 620
         height: 372
+        isCached: true
+  - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
+    excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
+    publishedDateTime: 2022-10-28T15:41:00Z
+    webUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
+        width: 1292
+        height: 715
         isCached: true
 
 secured: "jUH3Z2E4YLsJ1ObGSbfeafWvwr1a8pMc2EeLNatFbix/rQLiUCgaFQD2cOBEmBr496m0Uj2N8k05fykIiIM6dnDc/QqFQRSpLgNhX9hGnw6BNuixiLgaxF202Fw0S0drAbQ6lAlxgT0bCru5bntyamT3LCDROEtHw5a2PTHwhxfeAnrHq02z1nlOxaAYiDlAJLFCl/BaxtbdUoIX2g8LM4CyGW3pbKZbTB26sUSrluWP+jM7N2BUxRTOY79Hot/iH9SAu9eFsNcO5vhANws7uXGAfDYVDg3nJgaTLAb8+d8IFVDKg3BAb0NQb+wb++9WVJV2WzXVQNNR+bZ8u16XF8EuVMBvIEaFjRPozXbcTtvQXyVZvz10Dx7amUYdAu4QpzcdNJxAxx8UfRROAFXwWO0w5soUMwf5qoaoHXLkV8LAJULlcosXS6hy4meWABBtB+7Ku/a/2/ei01zv3XQE6sBEEUJlxETh3HPww6BUcq+hGMgaZmz2Kr+pURwYjwQa9NdOS3ZpebelKGCr7EfHEQ==;cXOkx3l/SKrOaTsaV+Z/pg=="

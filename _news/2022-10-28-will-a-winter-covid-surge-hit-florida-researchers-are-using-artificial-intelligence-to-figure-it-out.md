@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T13:19:00Z
 originalUrl: "https://www.orlandosentinel.com/coronavirus/fl-ne-researchers-use-ai-to-detect-worrisome-covid-variants-20221028-3dwtaogegnffvhwicz5pp2ffse-story.html"
 webUrl: "https://www.orlandosentinel.com/coronavirus/fl-ne-researchers-use-ai-to-detect-worrisome-covid-variants-20221028-3dwtaogegnffvhwicz5pp2ffse-story.html"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Orlando Sentinel

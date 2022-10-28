@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
 type: article
 quality: 74
-heat: 145
+heat: 144
 published: true
 
 provider:

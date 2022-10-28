@@ -3,8 +3,8 @@ category: news
 title: "Exclusive: Tesla faces U.S. criminal probe over self-driving claims"
 excerpt: "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say."
 publishedDateTime: 2022-10-27T04:38:00Z
-originalUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
-webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
+originalUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
+webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
 type: article
 quality: 84
 heat: -1
@@ -259,7 +259,16 @@ related:
         width: 1431
         height: 804
         isCached: true
+  - title: "Reports: Tesla will face DOJ, SEC scrutiny over self-driving claims"
+    excerpt: "Unconfirmed reports from Reuters and the Wall Street Journal this week claim that Tesla faces a criminal probe and a civil investigation from the two respective arms of federal government."
+    publishedDateTime: 2022-10-28T12:18:00Z
+    webUrl: "https://www.greencarreports.com/news/1137653_reports-tesla-will-face-doj-sec-scrutiny-over-self-driving-claims"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 34
 
-secured: "llHtIPPKA66lL9gKFwMLaGhv/UUMJ80fQYXMrOs5X2vZDyNrOopgisy8mN81gXJNI7ZMf2aEkTSIfjvKv6C0j5n5hbDqF7cnvi7kh1KH02ZKHtUkMfL/BJyd4YPn9mQ0OcOsfr734JzSgg+juXBEpdpnzveEFv8fsxgNpZE44TXSsIvpWz1sYSXJKG6emiANWxKAQx0yHwHe0sDBBHgBh1HUM2gWqsc0a+ipiRP2f6aev72belFYGj4cbAQ1ZLhWIjt17Ncs0Rcoa2USBHkRp9cvbc0fMArHwEvtiMnFBXv+mOgiQ0V2rA3z61LSVy3nP/6WlKU+G9IU7wn8vRhhmz+SGUVHL+jT0mNpQmXPDTlR1CC9U5z5G3VAWJIHx80GG2UDt+yWkDjv8peutOqePEHGw94d3mG+vSLMnFoqvFP6rBYnJRTQlqQmHA0B5qSby4Pam1lEf8PBTOV7i7GJ4cQ8dMDe7GLZreMRcoRiHXXmpfPy0EgDB0s2YwfbB1+cFSCf+cmOwRRyLReycKpdOw==;/ZHcyKcaJu9k74/IPx32tw=="
+secured: "2iA0Lhg3XXTQiy024J8KjozUFWZjmnmn7yEccDMz0rvhpz57BvgozCafZY4gQjy2L0Vm04lCzoagCD5Squc13eUdx/h3VjALRDc2DWvtkIHj1OZIzyqnASTNCSJjHaKF50NAFejo83MdEHONb31nPDpQjMywyQjmqfGRZUpH1sLlV8GT/JtwhBVyxdxgr+BbQVriyKqv+byYPQFhistXPkTD69WCWffbjBpJCpahxFfYHEZe+tJSqboKGgZV/Hr1MSImvfLSuZ/TaXuEm5jnRDJfhOAgfrskrIUDwktp6RncUG26qFHP68k9Ia3BL6X0EdklATcGOrGyH854gg5SDYe1cljNGTeQOy1aSGNAaL8=;ZuI9s5vtaMOsp4wAIQk70g=="
 ---
 

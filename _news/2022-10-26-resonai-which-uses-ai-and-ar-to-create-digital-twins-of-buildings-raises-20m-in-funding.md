@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Lama AI scores $9 million seed funding to unlock credit for small businesses"
+    excerpt: "Lama AI, a business banking technology provider, announces a $9 million seed investment to unlock credit opportunities for small-medium businesses."
+    publishedDateTime: 2022-10-28T12:50:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94667/lama-ai-scores-9-million-seed-funding-to-unlock-credit-for-small-businesses"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 16
 
 secured: "szSf0fzMKaP0Hu9acQOFZQFBtBiAL1yaQNYuiwzEzF8KEy85Ih9JXAFgf7o8Is7bYu9he61uSXDmowPleK4+sj1jqFFwFJwtc1ta7DvMFprPG5GdDhNG/49OloDAxHmlIP2TS1hM50Fd3rHvJYLIfYPXsrLzIjVAtjoUKsRFyl00ogLsfD7Yt5Z5vAdCHimj/9DgcMDfLbeaFBIul5jIdrDIVQAbhQUoHo/t/cDf8GhuZRHgbfsczfdISCfWQGu0eaITmGpALVdW/fKLTvim8f358DLJwVwlsx6JiWwt9w3WE803faOAZL6f8da9HZFM5IaVvTCu0rYoJ45boy+g1KhWboL02XqHFqxdOf7j1y3W8FfzP9WgaLPtLRfUAnNg7LUXjATodrkJzCKxRoFhUskUY0hTputsJl9LLF6zzPpmPMn/+/pQ5KZSPoUwYlWVc4CYSuk/cGaDN7PAgEZEDi8zznNTV7H6vRNAHK0kHw4o8a3K/mYGzXxX99qwtV8e8YGzcJMiD7dWtRB7W+G4WA==;S/yEnI90CS1j+QgDHhiuWA=="
 ---

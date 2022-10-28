@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T12:00:00Z
 originalUrl: "https://www.wired.com/story/ford-abandons-the-self-driving-road-to-nowhere/"
 webUrl: "https://www.wired.com/story/ford-abandons-the-self-driving-road-to-nowhere/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Wired

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T12:30:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/out-of-our-three-entwined-stories-a-voice-for-australia/news-story/4b36f5875fc22b85febcd4d89bc1776f"
 webUrl: "https://www.theaustralian.com.au/commentary/out-of-our-three-entwined-stories-a-voice-for-australia/news-story/4b36f5875fc22b85febcd4d89bc1776f"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

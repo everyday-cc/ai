@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
+    excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
+    publishedDateTime: 2022-10-27T20:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
   - title: "Voice Recognition Software Market Size from 2022 to 2028"
     excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
     publishedDateTime: 2022-10-25T01:00:00Z

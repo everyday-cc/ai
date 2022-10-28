@@ -89,6 +89,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving cars face uncertain path to US deployment"
+    excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
+    publishedDateTime: 2022-10-28T15:48:00Z
+    webUrl: "https://www.channelnewsasia.com/business/self-driving-cars-face-uncertain-path-us-deployment-3031621"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 39
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--7Ago4ANM--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-28t155213z_2_lynxmpei9r0p6_rtroptp_3_usa-autos-autonomous.jpg?itok=2rtINx7I"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Why Do Self-Driving Cars Crash?"
     excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
     publishedDateTime: 2022-10-26T05:00:00Z

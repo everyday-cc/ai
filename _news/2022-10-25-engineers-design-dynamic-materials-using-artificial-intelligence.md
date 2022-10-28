@@ -26,21 +26,19 @@ images:
     isCached: true
 
 related:
-  - title: "Detecting water pollutants using AI"
-    excerpt: "Imagine using your mobile phone to track the spread of water contaminants—such as oil spills or even viruses like COVID-19—in the blink of an eye. Researchers from McGill University have developed new artificial intelligence to make the invisible visible using advances in lasers,"
-    publishedDateTime: 2022-10-24T15:53:00Z
-    webUrl: "https://phys.org/news/2022-10-pollutants-ai.html"
-    ampWebUrl: "https://phys.org/news/2022-10-pollutants-ai.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-pollutants-ai.amp"
+  - title: "Taiwan IC design houses keen on developing AI chip solutions"
+    excerpt: "Taiwan's IC design houses are spending more resources and efforts on developing AI-related applications to strengthen their competitiveness. They are keen on incorporating AI algorithms into their chip products and using AI software tools to boost their IC design speed,"
+    publishedDateTime: 2022-10-26T04:28:00Z
+    webUrl: "https://www.digitimes.com/news/a20221026PD203/ai-eda-mediatek.html"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 57
+      name: Digi Times
+      domain: digitimes.com
+    quality: 54
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/detecting-water-pollut.jpg"
-        width: 500
-        height: 239
+      - url: "https://img.digitimes.com/newsshow/20221026pd203_files/1_r.jpg"
+        width: 336
+        height: 224
         isCached: true
 
 secured: "lVCxglpVGrRCi780J/idSnMJUitXZqB7brXaBBlF3xz9tyLTz9Q6oi3pm8f8y79goS6bnnT/obYf0i/wanuCH8wGbaF/6bcZR4c1j/JwWE5I0gYuHyMEpvOSgALucZ+YOmcc9YgEhCM3B9BYnJoUTJqTlq2gLfWPcIGf060FODBuHtt6xU3sL8JGUodcxR+adAdzGtWKdmsZBn8IZNbYU13TDgu5FcZz4OmtE/3wEQuA6AIf6a1FlqbGugmCAMQuSkO9gp2MLoSDM0ihD8dQgA4hxu62DcJU/UbWugeQ7OvwUMo7qx0gDn/iNK3OKpzUed4qWw4uytb7i2MTqQ6GEPsScRZ2kp90pFkNJV2mvwhf02WEQ+ceebdgwAX94bGenqJckKpiC8xD2oXFXkxUS/kH5FEQL69tFgAt8SOdcSjflU24YWNSgD/W8Y5k0+6Eqr2g5cJHBOgxa9lcmPVGmwD34ACds/A0F5natMXwIxevSz3jUJiDJmFQ5rVd4Aoo44E2fEUeQzQ//AetXUMZoQ==;XubXZyAUrjotaIUuZyxwGw=="

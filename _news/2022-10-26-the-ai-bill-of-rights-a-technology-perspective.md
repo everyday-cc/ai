@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -77,6 +77,15 @@ related:
         width: 1400
         height: 735
         isCached: true
+  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
+    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
+    publishedDateTime: 2022-10-28T13:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 0
 
 secured: "4ftk2F+ezF+L/+S6mo9ZEXnG7y6WtML3nAJHxOTrs/crQcW6r1PiTKjwSRty/Mzjl3A1ieguhue6j/L+dFhJnqw/8KxBExSBd17wui+dCY22wohe/ryzpmAelSMdW0PPMP46ghCqMLviktpx8yHgTh1nzQkC/RFtY850lTomOOKgkI7gqFT5fjlUX8utnmD/9vy3uH3oqX+GSuzXZyhQ4fsNoonzF4wBNH8HC5j67ebB/03ajbAicxFYsC5CBH10QFiMjhoIKdre7FuWTSOYhBUr61GE3qoAfvFII329pzgEJk9tb5COhCYtpzFO7fLwb8Fc1aqIDmCBYxp2il/KhUSrWkXPIV0NDTy8JxG6qht/uwn/P8k8ck/OKNIiO8dfDbeC/I2aDtDlkHEsV9g4tjl/1gNzLHWsDOSKFEAyAS6aVZ4AzMlDDDD7LTJ0a/J3IcSks+8bDizGh+0DXcgl8ljxzrQn96aWIaoLx/ylPtXVhrDCv9Pz5cRwN7nVjDW+yiOljm1w2gXPrF29gF38zg==;ikmAnpsVmk6xRHe3avTxuA=="
 ---

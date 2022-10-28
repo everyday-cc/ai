@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-4
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/"
 type: article
 quality: 63
-heat: 73
+heat: 83
 published: true
 
 provider:
@@ -45,6 +45,15 @@ related:
         width: 1589
         height: 946
         isCached: true
+  - title: "Lama AI scores $9 million seed funding to unlock credit for small businesses"
+    excerpt: "Lama AI, a business banking technology provider, announces a $9 million seed investment to unlock credit opportunities for small-medium businesses."
+    publishedDateTime: 2022-10-28T12:50:00Z
+    webUrl: "https://www.finextra.com/pressarticle/94667/lama-ai-scores-9-million-seed-funding-to-unlock-credit-for-small-businesses"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 16
 
 secured: "uGrY6lqkdI2N0VBB8tklowW/GlOxdkV/BwVuvv6lxqfeTySugEVl5yXcdY1hrei75AcnkntEIEoMF1xvtUgRQQ0A+3eZ2Kb6bS+/H2OPS2NaOunOf0NM/1vLG3SKDchax1oiN1dlhOJRkgcj+DEAN44Qs4EtmwiecULjcOi96Q+7stwNB9TSz3cFWWkJpRbEIujDGj3FO6mQdqTD8TvXG0TIJKT0etqFTxg90V+F7YbsTyQnRoifxS8jQ3OCZc8mtwB9QX5OO2ATZvFKp4GkA5ipBOy84FMkBRuOWZA8PdSOKZSD4o7VaT2YRkn6tGTzK9kmuGqGZs9koIS6ETdqjfNA+BMQo5Oi4OGsEN1PAa4dZ2OcbTinmwrSzQCBpI5opjDU0C0te88izdMZL0pO9PlZ0hOCIx6A94vkp9ZOHCjRiOTFzClidUAAiDAVtZ0/89owGq8IeEXBnS41basx/igL3uJoujGf33y7qxlJmb11kZLn7QI8A/tPITubQDm3vxn9s5smX3DDW7he+pbtzQ==;M3uV3y18CAiXkfkOQ4RLJA=="
 ---

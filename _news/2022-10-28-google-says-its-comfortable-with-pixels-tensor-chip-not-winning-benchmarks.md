@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T12:00:00Z
 originalUrl: "https://pocketnow.com/google-comfortable-pixel-tensor-not-winning-benchmarks/"
 webUrl: "https://pocketnow.com/google-comfortable-pixel-tensor-not-winning-benchmarks/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: pocketnow.com
