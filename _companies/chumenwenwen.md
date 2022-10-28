@@ -22,7 +22,7 @@ crunchbase:
 twitter:
   username: "Mobvoi_Official"
   url: "https://twitter.com/Mobvoi_Official"
-  followers: 52564
+  followers: 52562
 
 size: 501-1,000 employees
 yearFounded: 2012
@@ -40,7 +40,7 @@ tags:
   - Speech Recognition
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1050206936006709250/K-KzEDii_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1585894013344927744/ZuQW289Y_400x400.jpg"
     width: 400
     height: 400
     isCached: true
