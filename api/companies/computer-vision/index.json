@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 855107
+        "followers": 855128
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -37,7 +37,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 370,
+      "heat": 368,
       "tags": [
         "Non-profit"
       ],
@@ -72,7 +72,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 102113
+        "followers": 102114
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -132,7 +132,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 59170
+        "followers": 59168
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -188,7 +188,7 @@
       "twitter": {
         "username": "scale_ai",
         "url": "https://twitter.com/scale_ai",
-        "followers": 19930
+        "followers": 19947
       },
       "size": "51-200 employees",
       "yearFounded": 2016,
@@ -250,7 +250,7 @@
       "twitter": {
         "username": "IntelAI",
         "url": "https://twitter.com/IntelAI",
-        "followers": 27172
+        "followers": 27173
       },
       "size": "10,001+ employees",
       "yearFounded": 1968,
@@ -475,7 +475,7 @@
           "url": "https://www.youtube.com/watch?v=wMUmPumXtpw"
         }
       ],
-      "heat": 66,
+      "heat": 64,
       "tags": [
         "Facial Recognition",
         "Image Recognition"
@@ -821,7 +821,7 @@
       "twitter": {
         "username": "alitheon",
         "url": "https://twitter.com/alitheon",
-        "followers": 9558
+        "followers": 9105
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -834,7 +834,7 @@
         "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 52,
+      "heat": 50,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1494817129379467265/jnZJ7bJA_400x400.jpg",
@@ -1138,7 +1138,7 @@
       "twitter": {
         "username": "enlitic",
         "url": "https://twitter.com/enlitic",
-        "followers": 4574
+        "followers": 4575
       },
       "size": "11-50 employees",
       "yearFounded": 2014,
@@ -1198,7 +1198,7 @@
       "twitter": {
         "username": "LoveKairos",
         "url": "https://twitter.com/LoveKairos",
-        "followers": 4427
+        "followers": 4428
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
@@ -1328,7 +1328,7 @@
         "AI in Healthcare",
         "Machine Learning"
       ],
-      "heat": 34,
+      "heat": 32,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/804415310488948736/A3hBrqgt_400x400.jpg",
@@ -1373,7 +1373,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 23024
+        "followers": 23023
       },
       "size": "11-50 employees",
       "yearFounded": 2012,

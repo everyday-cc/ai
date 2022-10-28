@@ -427,12 +427,6 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/sensetime/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/einstein.ai/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -500,6 +494,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/netguardians.ch/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/sensetime/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -799,31 +799,13 @@
     <priority>1</priority>
   </url>
   <url>
-    <loc>https://everyday.cc/ai/company/aicure/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/alitheon/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/darktrace/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
-    <loc>https://everyday.cc/ai/company/signifyd/</loc>
-    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>1</priority>
-  </url>
-  <url>
     <loc>https://everyday.cc/ai/company/agolo/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/aicure/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -848,6 +830,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/algolia/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/alitheon/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1010,6 +998,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/cybermdx/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/darktrace/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
@@ -1382,6 +1376,12 @@
   </url>
   <url>
     <loc>https://everyday.cc/ai/company/sightdx/</loc>
+    <lastmod>2022-10-24T00:00:00-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1</priority>
+  </url>
+  <url>
+    <loc>https://everyday.cc/ai/company/signifyd/</loc>
     <lastmod>2022-10-24T00:00:00-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1</priority>
