@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/"
 type: article
 quality: 77
-heat: 79
+heat: 78
 published: true
 
 provider:

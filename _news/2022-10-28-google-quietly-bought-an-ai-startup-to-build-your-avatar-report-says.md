@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
+    excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
+    publishedDateTime: 2022-10-27T20:31:00Z
+    webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
+    ampWebUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/google-alter-acquisition.jpg?resize=1200,676"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Google Secretly Bought an AI Company to Build Your Avatar, Report Says"
     excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
     publishedDateTime: 2022-10-27T20:52:00Z
@@ -63,15 +79,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
-    excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
-    publishedDateTime: 2022-10-27T19:26:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 47
 
 secured: "eVbrmO5Z924PAqT1k4TDInqGYtdh86L09QzKHpgtMdXOI3CRZRL1JCtozf+1qzhieIimbZeJUE53ct3jIrrlBxDbeZZ8uiaT0JvFyYDp0CjDnNhAP44ugwqBzYNgSnFfXSLB+kyTF0rcjRCMM0FEZNUf6or2XSGiLEjR3FXdJa7WRLqRyH6gSap6UNXefCegksh9ZZdtGYZMM71nOz4fpcJlQ3hlJj5swRj4ZRogGsaOk3/epTy4Ryc+BKhDMeIcCEjtIFdila5mUXqTKbQWa4eFRqSBFwMtZ8s/8RrJShfvjNLauiQxD3D3rKfb+9l6s2FsHcXeHgYhoNEX6OGJYH8UDkNmRDLDk8b4nZDvJVFcE8Y3tr0MwZkiUIlY2GECm55g7E6lzAnRSgq+i4RvmCuD9TSH24SADyNixd6s23erlicpeO91dAzg+Ls06tDNjniFPgQq6fvMm2ZnRoYKjdSDeRSi9XSvH7ZQskH4bWcSM4XYhmnPzPvp0kCmHTOYzlV0uAQZ/1L3xJp8K5HDFQ==;cYcVALD7WmHAUNjahiBmYw=="
 ---

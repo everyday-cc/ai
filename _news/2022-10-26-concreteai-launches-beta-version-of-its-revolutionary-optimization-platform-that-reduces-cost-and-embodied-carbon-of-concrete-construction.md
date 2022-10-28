@@ -62,6 +62,15 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
+    publishedDateTime: 2022-10-27T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
 
 secured: "zrsCUTtIW9jGPF78nY4WBfKuux7q4WQXkLZeliv6DSuX20LMmyCd1AUz8bqhe0jLK+wMeHw+wJS8KdXohn3nm9S04mvGAH7h0nHu9dDE4WLa3pP+JmPXA6oQ41svAWhHaQrGBFC9012u22fqnoeKEYy9bj61BBKqvfAoBd/RzdFMnwWLBqGfYlH97ivoLGlAheMymJoiUzFohsp5a1IbH8D3sSF1d6PIjvsrzSrm/emZSxFzLGWkOq/C6l8o3mKtl9I6rIo0VTK1y5NTMovak6qIpC807s51Atv9ZYwSeQhgz1RF/NW2SfIDnSDiTZFE5Bej8r0MtZQ8L7UH/peXtSAZ6w+3L0ATnlz7U71/Y1o=;mYD5+dpjIkzmWxEj046pfg=="
 ---

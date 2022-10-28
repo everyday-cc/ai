@@ -1,29 +1,22 @@
 ---
 category: news
-title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
-excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
-publishedDateTime: 2022-10-27T08:54:00Z
-originalUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
-webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
+title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
+publishedDateTime: 2022-10-27T00:00:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
 type: article
-quality: 27
+quality: 18
 heat: -1
 published: false
 
 provider:
-  name: intelligentcio
-  domain: intelligentcio.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
-  - AI Ethics
-  - AI
   - AI in Finance
-
-images:
-  - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
-    width: 1000
-    height: 450
-    isCached: true
+  - AI
 
 related:
   - title: "SAS touts integration with Singapore toolkit to help operationalise responsible AI adoption"
@@ -56,15 +49,20 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
-    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
-    publishedDateTime: 2022-10-27T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
+  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
+    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
+    publishedDateTime: 2022-10-27T08:54:00Z
+    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
+      name: intelligentcio
+      domain: intelligentcio.com
+    quality: 27
+    images:
+      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
+        width: 1000
+        height: 450
+        isCached: true
   - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
     excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
     publishedDateTime: 2022-10-25T18:29:00Z
@@ -75,6 +73,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "idnUUMqlipdDz4rkcbsXG218gMystis2NBYeDZGBzbx7KqUVUVsDz7uJjOlyGm/tGvF38kS0ouERqYotgdMJMAEYFIJhxbM22Z/9aD8T4NKBWT71bDVmLWA2cz4qKvLZWyIITnNPiew/rP5tY+SUf4U/bFa0isnkH9XNH3KRzhNEd3p8q/MYbB76qd9KSUarJ+wYRw5VRcvNjSt1ASDloBakIPzHm0/kXEXzM9Jz1c4oVt6ICYGYpijb1VuPeqJS8ZaaUHGqdMJzKy09bDcETdKyGJ30Kz1aVQr6AmzRKE4w3ZDripYvNop6HJlNW0nhCqet4Ob1QwUs43N/ApJR20UfPZ3XgpLtigoPZrqyXSuLgwHna7D3yS2EA9rBaTncefmmQc2PLZVWPA5DSZuRptRtMGqu7bHZCte0zdaXC6fKglAmnT4Qts+w3Ned9i4PD/5Ldfr0cRU62Cz8fahTifZQLgHaktFOU5YOavFOvp+mC18S29jOvHdXGrlIGJdzNJjBM3o+ZDn9vHV9wnEJlg==;ri8xzY8iMdf0u0BOZoE3xQ=="
+secured: "571KBP/5bFQBJFswbI7ae4zFzSXnjpEElkQvZ7xC+SIU/CjYzdDBrI18dyG7Gktiv3knVAAmkyFm0WxbSg8M0xk7pvodLeMRGzlE4QNFNGyRz0f3J3Iq/9clgY91/+S0XUtrav+s+WpLWqXfq1rRBhBkjqmo2UicHbb5WE3ik48RsGUb7RbbDNZ7g3W70pkg4k02Gx/V0sKD2eb/D8jMAYW7hjh/3Rx1NZFRJgxKJgBHOb5A3zdOq+/Zvq+6kkh9bbVfVzB3/mWS1HL9LzwjVJfIUHTBki5du45Ucz/38CDbwzLUie6EXecuQpZ4s+L/xddnyoBMOf5czwGjqdDp4GBNd9y+pxqaUbxOo5ar1qA=;t3fSvuCDWfVoUxpJGKB2Yg=="
 ---
 

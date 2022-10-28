@@ -55,6 +55,15 @@ related:
         width: 1000
         height: 450
         isCached: true
+  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
+    publishedDateTime: 2022-10-27T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 18
   - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
     excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
     publishedDateTime: 2022-10-25T18:29:00Z

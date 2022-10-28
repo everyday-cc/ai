@@ -70,6 +70,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 115 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Robotics Market is projected to reach Multimillion USD by 2029,"
+    publishedDateTime: 2022-10-27T12:35:00Z
+    webUrl: "https://www.marketwatch.com/press-release/robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-115-pages-report-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI/Machine Learning Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028"
     excerpt: "The AI/Machine Learning market research study's bases are its fundamental data and market growth prospects. The study also considers several additional characteristics, such as growth rate, product pricing,"
     publishedDateTime: 2022-10-26T20:42:00Z

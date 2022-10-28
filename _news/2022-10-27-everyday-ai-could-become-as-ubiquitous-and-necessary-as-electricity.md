@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-an
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/everyday-ai-could-become-as-ubiquitous-and-necessary-as-electricity/amp/"
 type: article
 quality: 87
-heat: 91
+heat: 89
 published: true
 
 provider:

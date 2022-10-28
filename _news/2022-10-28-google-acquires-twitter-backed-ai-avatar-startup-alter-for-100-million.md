@@ -2,11 +2,13 @@
 category: news
 title: "Google acquires Twitter-backed AI avatar startup Alter for $100 million"
 excerpt: "Google has acquired Alter, a startup that helps creators and brands express their virtual identity, for about $100 million, source says."
-publishedDateTime: 2022-10-27T19:26:00Z
-originalUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
-webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/"
+publishedDateTime: 2022-10-27T20:31:00Z
+originalUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
+webUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/?tpcc=tcplustwitter"
+ampWebUrl: "https://techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/google-acquires-twitter-backed-ai-avatar-startup-alter-for-100-million-source-says/amp/"
 type: article
-quality: 47
+quality: 87
 heat: -1
 published: false
 
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/10/google-alter-acquisition.jpg?resize=1200,676"
+    width: 1200
+    height: 676
+    isCached: true
 
 related:
   - title: "Google Quietly Bought an AI Startup to Build Your Avatar, Report Says"
@@ -71,6 +79,6 @@ related:
         height: 630
         isCached: true
 
-secured: "+k0iJwoZ6ObUOwe+XMiJ9VOuAJEBlW1H8iqyd3hiTyGGfXRu511VACdbYasP2rmpAV3Jy1cVkDn4FPdYi858CfB/UQnO5eMDh/81DM8zekoc4SV6TRg5EnLYpqIifGwI09WjnBn6A+XGU847Ff05YoI6ki6LrY4WnFaeA0GtxBNOV0WtADoSNBpMHtlGr6UVxKuUoJwyO8aTNW6cwpAsfH9lmgsSpgOfZIJKYr0RRJZ/j+1CpIHCjkXijVSW27mKziBEtNyTY72DDPTng3G2LOeE6smFUiSIyPnpVpgjIMfgwF9GrRIGYtefQmzPjqh4nouX2V7uvxAls3Q6vYm/oHZHQxfH7enZz9PWeN0OpcyCXb9r4n2fatC+U0VynB3fNvgT+MfO3B7KpPz6KtOS8ntRcCb6Mbngfm91DHrqUDJbn2m7JCslX1ixhg9u+AUDth7+Jvnf8JYwy5gx5wjjvMAY1wAl/FIcqg2kqO0baueASIWHT0Ohfg1jxcazQMo+8ZM7MIhhivFfFkQ7itQj/A==;8lfslP9eR4idnlsMZckV9g=="
+secured: "J3uPRto4qmTE3P5UtGAT/6ihUFeW85v9a9GOwD5/LyrH4AhMwVk3gGv84kLPxICYBVrLCBWrq4jRKaZzhe5+OMtvwDJrCzHPm3zXWVdTZcr0rIomXa7M8TuzTa+UKVxs7pAfyFIxBtqmVyEFqvn1EOIKNCZEw3WUKg5xIDOilsQHMqCHH+bDJP9Y57VW9ZI7qsPJ6NXNtKKu/gCcyaOdBqBo8MYkXKjb07d+TbFaPuFIFI55LIEhEntv00Uja3A1QZNuLTFtQe2Yjr3a1Mf0WB6xMNw+mupzrbj5ARhvJfyA+CXlkz2TJ71b4tXcrDjLk68Lnoc+J2zgoSMViF1YKMDS3acZs4+YWfhiZo8hnnc=;O7kBoCnm1XCjmEP8Dd93Xw=="
 ---
 

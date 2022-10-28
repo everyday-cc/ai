@@ -3,12 +3,12 @@ category: news
 title: "Ford takes big charge as autonomous startup Argo AI shuts down, earnings head for low end of guidance"
 excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
 publishedDateTime: 2022-10-26T21:10:00Z
-originalUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
-webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=us-markets"
+originalUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=markets"
+webUrl: "https://www.marketwatch.com/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331?mod=markets"
 ampWebUrl: "https://www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/ford-takes-big-charge-as-autonomy-startup-argo-ai-shuts-down-earnings-head-for-low-end-of-guidance-11666816331"
 type: article
-quality: 74
+quality: 72
 heat: -1
 published: false
 
@@ -21,7 +21,6 @@ provider:
       height: 50
 
 topics:
-  - AI Hardware
   - AI
 
 images:
@@ -370,6 +369,6 @@ related:
       domain: business2community.com
     quality: 16
 
-secured: "3gkYDl/2M9RC8C37yQNzYC18zHGvJHPOdboRMCD69Hj3r4PlwPg/uR6z4Nw154bOk4fite7Gr38Z8e1c+qUv4dVFwxJZ+olsc3ctqu320/ZF4aBDpkmmwl2Jo8qa0SHfM4U/XeYSfmkO5wX0Qz+YBQ0IEvQ7d4EauKKAy8u5mVKjFSz0FUBn0IWYt4Vj9gyiWZVQkbSdF2R1EYGsJZJdvtXeAH4M6NTDsCcZu5cgPA5o4T5imYqj/uXOQZEv1ZRwu0HQ9uja9anVV9SxJXzoTe5f1+ezwFy2IQIMqjsQSfUx5VxNrRetTKPwj0xnmN0bHXtsLG5XoVyo6aZpRWJtjfoku/SYvpn5DxDPcGB2ZzE=;QB3pXo8Hv9FqHr4hMkg+rg=="
+secured: "BOk9pg+mds0vqO2NXlWQ7Nz4s2kdr2AAK2cwRTuuRxHuIj+rZIt7XCjkjro53pA8Z9vBvm7CG4ksl8ipJwejvvevB6XhApIEXhUV9RbMzPh4hHWjFPgGI0Go0LyqB6Vbp0KnOYufYtR7SutynSeendQSJRlIeZbfq9uCOX84++GLD+d2mcRlwPszxuqemLpY5wXqIWAkZXkn/7SGoiELh88Qky+S2DuU6nXXLCTQ/aR43WGaifv6ksfIwQ7SHgmDE6wzaXn0p2mJq73fsk5R8SdexxgeinfHlSEBYlzl50saG7vLoqEttXCEd91rvJI7nQaKsoEmt4Ublft8sKpfgQFl7j3DXR6/GQzCWgOvrVk=;PT2kYVopcdCSXslfG8xn8g=="
 ---
 

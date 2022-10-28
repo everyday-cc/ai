@@ -30,14 +30,16 @@ images:
 
 related:
   - title: "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast period according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2022-10-24T15:08:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-edge-ai-hardware-market-worth-2716-million-units-/2022/10/24/9698227.htm"
+    excerpt: "Edge AI hardware market is projected to grow from 1,056 million Units to reach 2,716 million units by 2027; it is expected to grow at a CAGR of 20.8% during the forecast"
+    publishedDateTime: 2022-10-24T13:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29379119/edge-ai-hardware-market-worth-2-716-million-units-by-2027-exclusive-report-by-marketsandmarkets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29379119"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29379119"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 5
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 25
 
 secured: "LDGgDGUX4vjiFvd3i2qjlEutWnqs/YhOXx6kFsYnoft3CGKFieF1Ph5NTeFWlTnLwooxqyRT/3wnTCjrGedwUX4u8SyarqzgdnO9fzJwUCWmD8mO7rh4XDkVT+aD5OE1uFuAUAYfLG8AQNjKaPKTFF1Zub9F7mvOnd8/QclhL+LzJi7iOj4ocGwlapQBTGhu+M0DNcOzy4trHahTT/UJs4nBj+N0gAKmM/KWHvWFriuL5Rl8qRGzxZ8mKNagUkpeu1/zmSC/TbXfMCNa6VAia2TpX41VJU7ej2n+5WalRmu8vImmoQXy8pSKvaNm1MUv0EE1HusRBKbGxphFr+ojRcuStat7h3/NEJllPxE3hBo=;OJ6eUTYLurQGzPhxrByoIQ=="
 ---

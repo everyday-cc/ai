@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/10/26/tesla-doj-criminal-probe-self-driving-claims/amp/"
 type: article
 quality: 104
-heat: 247
+heat: 246
 published: true
 
 provider:
