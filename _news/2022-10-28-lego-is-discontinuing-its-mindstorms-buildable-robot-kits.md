@@ -53,6 +53,20 @@ related:
         width: 2381
         height: 1340
         isCached: true
+  - title: "Lego is discontinuing its educational robots from Mindstorms"
+    excerpt: "It has been reported on several Lego fan sites, including Brick Fanatics and Brickset, that Lego will no longer be producing its Mindstorms kits. These kits were designed to allow children and adults to build robots out of Lego components such as bricks,"
+    publishedDateTime: 2022-10-29T10:24:00Z
+    webUrl: "https://bestgamingpro.com/lego-is-discontinuing-its-educational-robots-from-mindstorms/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/Lego-is-moving-on-from-its-Mindstorms-educational-robots.png"
+        width: 600
+        height: 365
+        isCached: true
 
 secured: "/9wMg/BmDyRDWDcQfoEDEpX7oGIzQxItOasJ3yZ39+oNh0TlAqlW9b34ZRX6CJWeZ7M8KX/6U7EZoOeohOgXpX8KcSD/ZOb/+VN9VpHYtNYyrDkbNm/YuuQqkGOeS1Dpvx0yFRDAEjFFjsu2ExdQvaS6TR+o5VjeqKBLo9T7DfqF8Jj8/UBNBVLN9zFWYmcQwpY2pW3IYDg2q1Yb2Z6IrxwmOokaBqQoYZZ+FM47IHYMZVUW9pcZCgXGH3r/XXEqOY3vaU75bT8Wj4K/LUiGcPs19EGLMSKQDYLHtLjXATqJN15SpDke8Gut8SYalFbgvGuKdU704NdXpjN9+xYYmOFuVHvkXX5MigacT99imNGylUi8Gu849GU5bg1+0I+rM0K+oOFy658bzBGXM4HKrTpywYSqH10ImDm0044ijZ0Qsi1rYlUHOWoovasRXYXQfGqw68mUgvFB601+h65PU8lNhlp9PeEsfAhappb4E9yVvdvV1jM5uHkdu15ZgDDs7kCkMNvLhHA59ektLQMRlA==;sL37rv5UYdLHLchk/8/rHQ=="
 ---

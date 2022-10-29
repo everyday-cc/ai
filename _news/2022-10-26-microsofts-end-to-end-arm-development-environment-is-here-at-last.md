@@ -9,8 +9,8 @@ ampWebUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 119
+published: true
 
 provider:
   name: InfoWorld
@@ -31,38 +31,45 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops"
-    excerpt: "Microsoft has released the Windows Dev Kit 2023, initially announced at Build, which features a dedicated AI processor and software for AI app development on laptops."
-    publishedDateTime: 2022-10-24T17:51:00Z
-    webUrl: "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/"
-    ampWebUrl: "https://techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops/amp/"
+  - title: "What dropped at Google Cloud Next and Microsoft Ignite"
+    excerpt: "Google Cloud and Microsoft Azure, two of the Big Three hyperscalers, went head-to-head with their annual events a couple weeks ago. As they kicked off, I"
+    publishedDateTime: 2022-10-25T15:19:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 103
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1354846583.jpeg?resize=1200,900"
+      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
         width: 1200
-        height: 900
+        height: 675
         isCached: true
-  - title: "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022"
-    excerpt: "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most."
-    publishedDateTime: 2022-10-25T14:56:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/"
-    ampWebUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/"
+  - title: "Microsoft’s stock slides as Azure cloud growth engine stalls"
+    excerpt: "Azure’s revenue growth rate was the slowest Microsoft has ... security measures, cloud deployment, AI-based tools and more,” McKenna said. “As we navigate the tricky waters of the economy right now, I anticipate Microsoft will continue to grow ..."
+    publishedDateTime: 2022-10-26T00:20:00Z
+    webUrl: "https://siliconangle.com/2022/10/25/microsofts-stock-slides-azure-cloud-growth-engine-stalls/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200"
-        width: 892
-        height: 594
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/nadella.png"
+        width: 800
+        height: 459
         isCached: true
+  - title: "The Triangle's silver lining in Google, Microsoft earnings"
+    excerpt: "Google and Microsoft – reported earnings Tuesday, and both fell short of expectations. But it's not all bad news."
+    publishedDateTime: 2022-10-26T19:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/10/26/google-microsoft-earnings-raleigh-durham-economy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "R42HqYrLc6eaCIyHttWgOy0VbroGIoFUadMf5SaqaOYG3+cNwdWI9qJxUwxe0s2a7AAqKXRsMmRiQH3CgHU/AvypFC/j5tGdkSgR31RBz7wPhWWkggZRyfqbWZrn6Tr6+776ze1qijSlD1+XrIxMnM9noid0YQ0d1AwiRz+0YVLQUTUBpcmzQTXBAp3/nD8sRgxlCLoDeoMl1uxdjMTZEiHjH+6w7GDqrThYB/eLMSlhQRbrAKNHyg8TTJY9y9dPaYMruq+elhfweCnNkFQ1fek6QQ6iqsuSnIRLxCcyypUkD+3h1kUrzVdeczNJOCAq//535ZMGfhbOSIxUMXc7kuI0Gung0+PLj8cbsAelmx0mhP3CdjFKZW53IrGVOV5DnNQ31hzT/nN+u+MTRuJjPrEQ/tmgVt6tV2cOCvk/dvy7sZIkPYCzcOaKzyIM5ZSI8xcB+DV7SzxYZoFyWyJ/lsDjOhaElM5ItT6KghVaAsOFbQTGMBBamgtuoqwR2mXJ5JSV30P99fMaK2NKCvYq9w==;AhBxQH1u2BbNE+4l5pRt1g=="
 ---

@@ -8,8 +8,8 @@ webUrl: "https://scroll.in/article/1035725/can-artificial-intelligence-help-pred
 ampWebUrl: "https://amp.scroll.in/article/1035725/can-artificial-intelligence-help-predict-suicides"
 cdnAmpWebUrl: "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1035725/can-artificial-intelligence-help-predict-suicides"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://s01.sgp1.cdn.digitaloceanspaces.com/book/181718-gcdxrykfgq-1666514904.jpg"

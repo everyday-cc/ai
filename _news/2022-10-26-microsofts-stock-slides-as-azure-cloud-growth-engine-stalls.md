@@ -25,20 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API"
-    excerpt: "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform."
-    publishedDateTime: 2022-10-27T17:18:00Z
-    webUrl: "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx"
+  - title: "Microsoft’s end-to-end Arm development environment is here at last"
+    excerpt: "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows."
+    publishedDateTime: 2022-10-26T10:22:00Z
+    webUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html"
+    ampWebUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
+    cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
     type: article
     provider:
-      name: Visual Studio Magazine
-      domain: visualstudiomagazine.com
-    quality: 68
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 89
     images:
-      - url: "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg"
-        width: 647
-        height: 450
+      - url: "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "What dropped at Google Cloud Next and Microsoft Ignite"
+    excerpt: "Google Cloud and Microsoft Azure, two of the Big Three hyperscalers, went head-to-head with their annual events a couple weeks ago. As they kicked off, I"
+    publishedDateTime: 2022-10-25T15:19:00Z
+    webUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/"
+    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
+    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
+    type: article
+    provider:
+      name: TelecomTV
+      domain: telecomtv.com
+    quality: 59
+    images:
+      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "The Triangle's silver lining in Google, Microsoft earnings"
+    excerpt: "Google and Microsoft – reported earnings Tuesday, and both fell short of expectations. But it's not all bad news."
+    publishedDateTime: 2022-10-26T19:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/10/26/google-microsoft-earnings-raleigh-durham-economy.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 19
 
 secured: "W2OhFJUuLbE46WGB7Gx/uJxNiiQjXpmXEfHn+usgLNY2yEzQ7aM7TsuebPZmXPuO+9qXRe3A2iCKslikSO9xxtKA9JuXapSzYm4nsaf03JdFhOm2t5uN5q45YXZE41ka3ZAynSq4SLdaohAFKRZkP3Lrb8VclhzoXljZhW2kiHaSTGzp/oeZBo2A6SO4AjH0zYvX2lRfHC2KQNA5FemDYnDSpuI1HMfqKJvx5heG87wCH8qQ9T4KHmx/t8RaZCcMM01Zk0nBNZrCxnang53/V3ImuzGr2EhUfC7L+R5Yfd20DjXCNal8Np1S/ntbN8WEPipi7UVcb8f89FTeWujO66iCvM3UUZ+l0Xjhrt4r1bHl6cczWtYr4iFL2qV6huRo9BUH27JrW9EfbImDLMCHC2r0tW4iBF+ZxKgyg6SqLrjGy/uwmOCgTiOlGMvyx0M44NDo+LXw1w+C9Me8xuulfULBOQ5N2dy1D1JjqYIolQ3FB3OauD5pgpq5jchvTUC1EB44Ih5dpCQBiob9fyTKOA==;tkpT0d7thdYhdgWT1wFuTQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/10/25/loc
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/10/25/lockheed-ibms-red-hat-team-up-to-speed-ai-development-for-pentagon/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Red Hat and IBM team up to enhance AIops with an open-source project"
-    excerpt: "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it."
-    publishedDateTime: 2022-10-24T18:20:00Z
-    webUrl: "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/"
-    ampWebUrl: "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/"
+  - title: "Lockheed Martin, Red Hat Collaborate to Advance Artificial Intelligence for Military Missions"
+    excerpt: "Lockheed Martin and Red Hat today announced a collaboration to advance artificial intelligence (AI) innovation at the edge on Lockheed Martin military platforms. Adopting the newly announced Red Hat Device Edge will enable Lockheed Martin to support U."
+    publishedDateTime: 2022-10-25T14:21:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-lockheed-mart-red-hat-collaborate-advance-artificial-intelligence-/2022/10/25/9699165.htm"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 26
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all"
-        width: 1200
-        height: 748
+      - url: "https://images.tmcnet.com/webinars/letthegeekspeak/letthegeekspeak_logo.jpg"
+        width: 476
+        height: 210
         isCached: true
 
 secured: "/u301EF4f0IBS3AbrUXD4/HL+xK7YBdE8hwMUbSSFCLN9BDK4TlX0NXJAr7WryutTVHJWnPHekbBmAEximYi5a8Ji5S9x5p0z3oRPYg2yXNTS05MXBpmtadkIuMJ4PHglNx9IpF1F4PrREOhsZrQe4rK96Bu+pAakunjAuQ6bOTHTF29F29ErhoI0uqNhyFYbwVSSRmk6kL3+sfzWeplkY+pBuNxFOsqQNokkCUM8cPsvVPu7qalDOa8/HDoSyOyPiLY2YHHCXh4hS0kEKYYbri0vt/VSeagChfrMNeOCSq4iWankbsinQ2Rujo3Pb2EHj9gF7L3ZX4pTuOvx30zlp+NEnHxXu5rkbZubjjGzeA=;gRg8I3lMa0C+v2wjDBfrbQ=="

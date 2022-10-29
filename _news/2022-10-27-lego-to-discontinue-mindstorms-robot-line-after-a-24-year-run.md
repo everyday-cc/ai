@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindst
 webUrl: "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -53,6 +53,20 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2022/10/2022-10-28-image-12.jpg"
         width: 2381
         height: 1340
+        isCached: true
+  - title: "Lego is discontinuing its educational robots from Mindstorms"
+    excerpt: "It has been reported on several Lego fan sites, including Brick Fanatics and Brickset, that Lego will no longer be producing its Mindstorms kits. These kits were designed to allow children and adults to build robots out of Lego components such as bricks,"
+    publishedDateTime: 2022-10-29T10:24:00Z
+    webUrl: "https://bestgamingpro.com/lego-is-discontinuing-its-educational-robots-from-mindstorms/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/Lego-is-moving-on-from-its-Mindstorms-educational-robots.png"
+        width: 600
+        height: 365
         isCached: true
 
 secured: "LRA8aOtTtwmSCVIEC609LPrrsc/AFJXqdZFtlGJ0A4EA8WDE3Y5/1F4WG6Dvwvzl6pnymWvS9O6SCc6XaTfS4znP/Lu7O+fve3PBRogRJ6fwsPqijVi2nlZL/vGuE4tCX/34IWfVm3mWSl0GYXwyBUg7n+CJkClm3qE4vc4Gy1HLoDkc7c9HF25wFerqzU1lSFgVPc0C34RLqCGLhiw5Btm4weJPtd28BED5HcmFU/48JOg+HLe8WTSWSdvilH/j4EQYUR6WnSUk4t2dD8CcOAhvv1TdxlH1/yOWbl7z+y7CzsZ07hWCjyL6C99ZvkfN3i2QLKMxwYtClHx1kZGWuu8skhlh8AI4CgyEy/w4dKdsxtRjf5ZNhx/18kWUYsja6+dLNMkDGNsM16sRndIPed+XreyVoFl4DP5yhXeRXd7jXwP6p/wYMYs/rofyF/QTmkqtkGnd8x3iHTuDhWqkdAd9t/Klyf7H5W8yJ7D4BXHhJ2sZ30EKK3RBqvXpVhPoaiUaTlrOu1UpjSfZ58pYdQ==;gf+JSgvm10oFI8oBIewCXw=="
