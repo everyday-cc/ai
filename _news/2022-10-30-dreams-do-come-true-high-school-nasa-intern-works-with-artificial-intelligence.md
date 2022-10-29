@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-29T18:07:00Z
 originalUrl: "https://scitechdaily.com/dreams-do-come-true-high-school-nasa-intern-works-with-artificial-intelligence/"
 webUrl: "https://scitechdaily.com/dreams-do-come-true-high-school-nasa-intern-works-with-artificial-intelligence/"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: SciTech Daily

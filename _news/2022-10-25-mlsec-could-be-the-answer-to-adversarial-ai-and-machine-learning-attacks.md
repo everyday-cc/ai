@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/security/mlsec-ai-machine-learning/"
 webUrl: "https://venturebeat.com/security/mlsec-ai-machine-learning/"
 type: article
 quality: 78
-heat: 88
+heat: 98
 published: true
 
 provider:
@@ -23,6 +23,15 @@ topics:
   - AI
 
 related:
+  - title: "MLsec could be the answer to adversarial AI and machine learning attacks"
+    excerpt: "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning"
+    publishedDateTime: 2022-10-25T20:00:00Z
+    webUrl: "https://venturebeat.com/business/mlsec-ai-machine-learning/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 78
   - title: "HiddenLayer Announces Launch of its MLSec Platform to Secure Enterprise Machine Learning Models"
     excerpt: "HiddenLayer, a pioneer in cybersecurity products dedicated to protecting artificial intelligence and machine learning technologies, today announced the public launch of the"
     publishedDateTime: 2022-10-25T14:10:00Z

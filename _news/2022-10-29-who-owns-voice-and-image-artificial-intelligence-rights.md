@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/amp/"
 type: article
 quality: 87
-heat: 87
-published: true
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -28,6 +28,58 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "The AI Bill Of Rights - A Technology Perspective"
+    excerpt: "The White House recently unveiled the AI Bill of Rights. What is this, why is it needed, and what does it do? In this post, I provide some perspective - from a technology and business standpoint, about this document and what it can or should mean for businesses."
+    publishedDateTime: 2022-10-26T15:12:00Z
+    webUrl: "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/"
+    ampWebUrl: "https://www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/10/26/the-ai-bill-of-rightsa-technology-perspective/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63594c110c272daef33671f1/0x0.jpg?format=jpg&width=1200"
+        width: 1088
+        height: 662
+        isCached: true
+  - title: "The future of empathetic AI in today’s technological world"
+    excerpt: "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ..."
+    publishedDateTime: 2022-10-28T10:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png"
+        width: 318
+        height: 308
+        isCached: true
+  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
+    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
+    publishedDateTime: 2022-10-28T13:03:00Z
+    webUrl: "https://www.seattlepi.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
+    type: article
+    provider:
+      name: seattlepi.com
+      domain: seattlepi.com
+    quality: 0
+  - title: "The White House's 'AI Bill of Rights' outlines five principles to make artificial intelligence safer, more transparent and less discriminatory"
+    excerpt: "Despite the important and ever-increasing role of artificial intelligence in many parts of modern society, there is very little policy or regulation governing the development and use of AI systems in the U."
+    publishedDateTime: 2022-10-28T17:03:00Z
+    webUrl: "https://www.chron.com/news/article/The-White-House-s-AI-Bill-of-Rights-outlines-17541010.php"
+    type: article
+    provider:
+      name: Houston Chronicle
+      domain: chron.com
+    quality: 0
 
 secured: "eH6+oxOCV2r9AHGUSoGPq9nNtHxouky3kcL2njjY+RlTa1sz9HrbpFaPLOEvPsMQQkWLiRG7a0QMZ7oQG0pARX+haHV8mofhcG8u5IpxKyDPbADOHIA9bSAyyYv0QZ451QOaM7Kfoc9DvNgz7+6klrUsFoOUl/3YcULk8ebyBMg9rDLCOjzAQZCgR72SYGUiPSxuz70+DKzLi7ESi5K4jmjYXAI5FISgKmypiNI5ezPdzPJmd1A0M1Oye1pVdfEXBNg2A3+lZ0wNIzpId4pORh1ELF6CCzEsq+ut5rVk2JSxcrlkb/YaV57DCVeCjzm+rpadXUkwqR3MMM3Vtwlh7lFuVkAyCrK3VKJcja9a676qZP8MrjgtAiqgUrut5nGiVjxBRIFVQA7Q7AWvBuVy5CfvodoI5C2pGvLYxjUeibcTWzNYd+XI6hzZzvgqh4jrWtgYp9rQEbKk8Gkg3sC1fIpuSNp7nWCV2f5zeZyhi9U38lrzkpMkj7M+ZWMzvc/PN8KQ4LEPjXPfmlz+iBWxYw==;UEI1ZOtmych7m9QlUKcelA=="
 ---

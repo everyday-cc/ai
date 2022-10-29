@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "Conversational AI Startup Kubiya Raises $6M Seed Round"
-    excerpt: "Kubiya, the Conversational AI solution for DevOps teams, announced that it has raised a $6M Seed round led by Hyperwise Ventures."
-    publishedDateTime: 2022-10-25T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197790-conversational-ai-startup-kubiya-raises-6m-seed-round/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
-        isCached: true
 
 secured: "ViXiRmH4lzC7Xh98vUDV+G+duB1PNYbwKdGcOoCwU/tLGqPYLgKr9/aJAGx+HIQnUdKyWcwPpvY/yko7CO/IR0ONtEnkG9f6KmA2BVY5nBIr72XqJN3n6v0lcOSmveyR3mSexSzRcNZuweJYBZ3nBvGFcgbRRKIJFgQUHWCo7vbnOFqXLhpudmNi8lwV+5iRKeg7MQmpbp12m8FhRN6L1pIwfa1Ijxt57PUf+s4TDw624qhJpl41gPlQyO1v2XXPlfJZEAW31YSuvheA9sQ0Lc7fw63Ev4Eh2xdQmUDYkjRFrysIbMbPN0W39zakOgEB6GdcR3u0l4dtHEsL+MYMAHtGenazMorLL38xzUN8hM1ChxjBDI8QyptllTjLmQT3UPZnfFK/zmWVnpINf3yeZJLY4/BkWe++LjGeF5TzSpk/Us/kJ2ZWEl+qNuEGYU/m9hg0xupnMLv4rEJ7+oOIqMarv9mwPag01ycvVpGXCbQBLdKR9liNxXRfcg1Qa2WJbGHXpQ2ap5zm9Q/UhpI7rA==;JQw304Hgg7pNWoDUX9kLkw=="
 ---

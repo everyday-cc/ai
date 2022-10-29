@@ -3,14 +3,11 @@ category: news
 title: "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers"
 excerpt: "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,"
 publishedDateTime: 2022-10-24T16:26:00Z
-originalUrl: "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/?ftag=MSF0951a18"
-webUrl: "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/?ftag=MSF0951a18"
+originalUrl: "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/"
+webUrl: "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/"
 ampWebUrl: "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/"
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/"
 type: article
-quality: 44
-heat: 44
-published: false
 
 provider:
   name: CBS News
@@ -22,11 +19,11 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/08/b849daa1-3b59-4ff8-a46d-45a0e5a50d0b/thumbnail/620x459/3113ed1617d688f2baf35152e3ac4a07/jetbot-mop.png#"
-    width: 620
-    height: 459
+  - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "W6BhConIzOzmVjvTJiphUM7hxQ5N/r6iiTS5kmkWSrthYSrpEJIU3mSTHmjxzE7EgXTCg3KAdiPNB5TyrV5NjQKpODLnI9v4+pY0JvTX7oyD7VzUCAkY9S8m81mGlkAPIE0ofhcwz4Wcy3MVbr8TPlqgVH+cXgU4JiHGQ+8uXc7hC6WaRc3X4Gux6eeU2rBtUNCHU/zDM98GKnVRw8JDZ4S5+peX51yS7UmvHGuQKag4tAYRx5iNJQbXoXzkkx3OlNzIPnWcvaY57sDCz1Q3qrYc1hStaQgEsOECV+LhSDiujkiVlLksXjcpps2MVIvxzxg6yXjpLcSGO68wm39dyuJs6AE6sDPfEa1SqIuV7D8r9JB3HiC5ggXYbBI/8/DyTngztWHJCyrnZpE6NNxRjH/UE/1E/gQw1HJa3w5SmXoYM1rxNgpe558TmcAXmN/A18Re88UrwldHIK0n3bJ0YpO8B/t7bqECAdhmVxJeYR2FF0KSyxLCQGvkXVkD41hOf5u5Sx/S0DTYfrEuXifnjw==;sbsy9WT08dc1pZ9cXRSamw=="
+secured: "NKY68eqtAOvoxLMdPG351HHhTEgDaC6luTbIpnMoNxLvf8kbps7VZM1F1ihLtQGZ/3VfWw3BymCvkWAp5rtguAUxB2+PiEzjjs6AFmjM7KvWQXG8/Gun+VUXhaRwm+PZoQUo2xumz1vQbBmhISebXWo5H5xSZxUfAE+tIgF6dIzeXBIGOzGXA92e5z9AAyIPrNk49Tjf1QwB0Ba+5fwJ37pk3M86JP+bLtRilTi7v6J48ozP9ZvzEW7jaq2YrSwS716U6W8KHkKYFqt0spnGovqJQ2Wp4RDGLdjwY7NndBOByLZ9iRj/d96/WiBBNFzrG3lD+w3IoAHPzhjHBM2e/8XNnElEDNXOanX6XuTl0ww=;1MPvr7HwgcqwHziJkpskrQ=="
 ---
 

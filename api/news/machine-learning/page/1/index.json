@@ -268,7 +268,7 @@
       "originalUrl": "https://venturebeat.com/security/mlsec-ai-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -311,7 +311,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 220,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -458,7 +458,8 @@
       "topics": [
         "Microsoft AI",
         "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AWS AI"
       ]
     },
     {

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/3ClZnTp5.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "Conversational AI Startup Kubiya Raises $6M Seed Round"
-    excerpt: "Kubiya, the Conversational AI solution for DevOps teams, announced that it has raised a $6M Seed round led by Hyperwise Ventures."
-    publishedDateTime: 2022-10-25T01:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/10/197790-conversational-ai-startup-kubiya-raises-6m-seed-round/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 37
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2020/03/AI-Artificial-Intelligence.jpeg"
-        width: 809
-        height: 607
         isCached: true
 
 secured: "QP3CtswWg/X/dfojvt9NVSKlTKEk87rycuqpAYRXYGt4EcaxltUECWYUEizWWK/Z8fI+hbboLQpgSn1NIWDNB5mBEvhvOOhL7Y6Zffj2JtkO7ZBCo+qSbn40+AZC1mCtY6WTkPfOVsQLl9+3PpMf9b3CKOu2nDpVdvIgTsSbuLPL3+ZUvYTdcVkbgRkzl6WA81JDKs2QtLAj7gf4z8hhpAKo8bwRjgUFqUw1BImTi44XS2h5MAlfNFLnPIANqd9M4BhHyBQmjjnincTaGUZH38LUk4j21LryYp62kAx9ZoFE7xx+xMkRksIo5qSoZo7CUaBgG/5CTEDf3YDtg0MeR4ZdliJHKWZEF5bX7aeiBXCt/sh5oDKU5SoS+sf1azrlJ2cNIJPTxXcD7ck29n6i+7yEATWorrPa4dbk3u9rJ+h62OMUX6RBlBFfhp+uImUZuyuRsbRDYMmmGP3yJKXcZkqigUV6rTetvIRTQzQ6/xnolGoTauxeY5g2hzAyXV4BO8ZTQrLQNJrwzStzmgH7yQ==;wP/K0fvh4Qtp3N1rcFKgdw=="

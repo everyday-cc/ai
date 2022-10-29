@@ -5,7 +5,12 @@ excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniB
 publishedDateTime: 2022-10-25T13:11:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+ampWebUrl: "https://www.benzinga.com/amp/content/29397500"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Benzinga.com
@@ -15,6 +20,6 @@ topics:
   - AI Hardware
   - AI
 
-secured: "s92VyWeRDbmq9duYkKMS5zs6xCxlTh0bP6LpWBGn8qUaIr/BrXwDDBh8ve/hiJPIBAfOms7CpcDF6rYLvI1JCF9/gwBkLBPEWeESfKb/gJIXUyj7EXO6+H2Y0uD71Vc0Z0HLfUausHv7koodY38Oyjd8Yxsg3h+oVZz8Kmu7Oef7q8I/lQ39Oum0/lHLidFvX+oZsYQE5nPULsFoUqIdUzuRlr1ssDkz5M31FKkhI7fTHsgjcEqovhPaPgLaP9RFDPs71u+EA8ACtEfjV9T2mqtIzK5UoUsm0OAS82VtaRZ2OBPTJMrwyPwLJUu6R9aOQ1HnxzP0S34fmXkS27llucgIdfSg9sHxf5a4gRzZjDc=;9BbEO4Yd0SERrFaAqtkSwg=="
+secured: "urcH95wICHmmB1S4qxGHxr7OS2vffjc0SH+b4zweApTJ8iFpZYJ2OuZhb4CxsWfBN9tEL+zzY0yvkBvccqS0k1C+tot7kkzd9CLyax9TCPNbYue3bFCwJTxSlMiPTcQkrIsUvKARarbiD7A45ZrKSY4XFtYSMGOkjrTpoecb9BFH2pkax4qRpMTf4mYhFrF9eBz0dtxFaZsgeipB/D4Zij/BJ419gYNwgwc+FyfasY7qnN+bw7SOAe2DeaUf1wHKYCEUXqF5whhKTeIWVj+FQxxnYgdvnPDmqT6o0X18i7fITuvEeDKJXmhA/zZ6o2lBgJC5q3y3TE7uWPd7gBSiNUJezsdFbke/YUB6JTZIXKE=;bzsR6qGqNwE1kKRZ92uyPQ=="
 ---
 

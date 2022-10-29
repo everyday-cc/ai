@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing (NLP) Market Size, Sales, CAGR And Competition Data from 2022 To 2029 with Top Countries Data | 102 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Market is projected to"
-    publishedDateTime: 2022-10-25T02:26:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-size-sales-cagr-and-competition-data-from-2022-to-2029-with-top-countries-data-102-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 66
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
     excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
     publishedDateTime: 2022-10-27T20:02:00Z
@@ -98,20 +84,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \"Cloud Natural Language Processing Market\" and Industry Analysis look at its market industry globally from 2022 to 2028. This research report may concentrate on a particular stock or industrial sector,"
-    publishedDateTime: 2022-10-25T04:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-10-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -182,20 +154,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence and Cognitive Computing Market 2022 Statistics, Share Price, Growth Prospects, Industry Trends till 2029 | 127 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence and Cognitive Computing Market is"
-    publishedDateTime: 2022-10-25T03:24:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-and-cognitive-computing-market-2022-statistics-share-price-growth-prospects-industry-trends-till-2029-127-pages-report-2022-10-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 29
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
