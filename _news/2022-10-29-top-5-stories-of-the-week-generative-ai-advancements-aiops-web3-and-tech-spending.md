@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-29T12:00:00Z
 originalUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-advancements-aiops-web3-and-tech-spending/"
 webUrl: "https://venturebeat.com/ai/top-5-stories-of-the-week-generative-ai-advancements-aiops-web3-and-tech-spending/"
 type: article
+quality: 40
+heat: 40
+published: false
 
 provider:
   name: VentureBeat

@@ -51,20 +51,6 @@ related:
         width: 1344
         height: 670
         isCached: true
-  - title: "Detect patterns in text data with Amazon SageMaker Data Wrangler"
-    excerpt: "In this post, we introduce a new analysis in the Data Quality and Insights Report of Amazon SageMaker Data Wrangler. This analysis assists you in validating textual features for correctness and uncovering invalid rows for repair or omission. Data Wrangler reduces the time it takes to aggregate and prepare"
-    publishedDateTime: 2022-10-24T19:45:55Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/detect-patterns-in-text-data-with-amazon-sagemaker-data-wrangler/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 89
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/detect-patterns-text-data-data-wrangler.jpg"
-        width: 1343
-        height: 674
-        isCached: true
   - title: "Introducing the Amazon SageMaker Serverless Inference Benchmarking Toolkit"
     excerpt: "Amazon SageMaker Serverless Inference is a purpose-built inference option that makes it easy for you to deploy and scale machine learning (ML) models. It provides a pay-per-use model, which is ideal for services where endpoint invocations are infrequent and unpredictable. Unlike a real-time hosting endpoint,"
     publishedDateTime: 2022-10-26T16:42:53Z
@@ -105,6 +91,15 @@ related:
     provider:
       name: datanami.com
       domain: datanami.com
+    quality: 34
+  - title: "AWS Celebrates 5 Years of Innovation with Amazon SageMaker"
+    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of parameters, and generate hundreds of billions of monthly predictions."
+    publishedDateTime: 2022-10-29T13:00:00Z
+    webUrl: "https://insidebigdata.com/tag/amazon-sagemaker/"
+    type: article
+    provider:
+      name: insidebigdata.com
+      domain: insidebigdata.com
     quality: 34
 
 secured: "1pzlldnEYEe0/r3Iym1GqWOLzl6RIr/fl8Xi85PolIeDwgysEPAHsUgZyrG4dEbuYbuZzrpsNqyvpbcpUojWOq1aOE7aAggU1UlbOFMjbqUQ4USmnu7ZKrdMLtj4HQNzPEgL2pqetyJmE6vr4mKmUWCQPeLaNY+srLxI13CoumbddHRai0xZv/uzSIjIQS5nMhuhkvx+mlScdhpIcmmRLxxMXLY+t61uzoF0tkIfQU99BIkrs3T4Z57f5OQTHBg4WtsjFtfLD760T9YSmL9JyyVoIkk1gpJMZnaeVNp+7Uxw2x/7nF1IjIwIGuayhj5IFsVntQHJi0H8LTD+XUJyxy2E7+FX+8lUp09o0i+XShg=;ovDKXv3dFG62UyfqOqV7sg=="

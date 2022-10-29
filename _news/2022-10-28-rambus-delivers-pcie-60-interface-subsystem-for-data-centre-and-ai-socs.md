@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Rambus Delivers PCIe 6.0 Interface Subsystem for High-Performance Data Center and AI SoCs"
-    excerpt: "Rambus Inc. (NASDAQ: RMBS ), a premier chip and silicon IP provider making data faster and safer, today announced the availability of its PCI Express® (PCIe®) 6.0 Interface Subsystem comprised of PHY and controller IP."
-    publishedDateTime: 2022-10-24T22:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/24/9698507.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 10
-
 secured: "5VPaoFhotQx9mcX+foy6EIVwvlAMp2b3LgTGSj48l3STMx1cufxTCQ2KCtRS2PjrDD1i/4hGojRn3UHcnLOgVSwop1FjrQS66ZXowHX8pD/2nl5ZW7zLvmPD/xz2MSgkBxiVH++GRh4eQaJ8vMTpvGoon0T61td9f3iv02Nfn2z9M0G3vRkRf5ZDdY3pBoAxWM9E9I0GYj8zPdP3XIwhUrW3G9Gop1+SuytSVhORyQKpO46G2+uck+ZjsmTJcwL5SMDdBtycJxvd41m9XNSWuTJ7Psg16nuzKxvkAGRuNosdkE16B9AwwUM0VaQvU3f0GXNgfz2FWrZGJPOogEILYyZsiHaKSpndaP28Se0UkZE=;UgyozOwteWcnQN7o23xWAQ=="
 ---
 

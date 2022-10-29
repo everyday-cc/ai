@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T15:23:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-logistics-robotics-market-garner-278-billion-globally-2031-/2022/10/28/9701891.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-logistics-robotics-market-garner-278-billion-globally-2031-/2022/10/28/9701891.htm"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: TMCnet

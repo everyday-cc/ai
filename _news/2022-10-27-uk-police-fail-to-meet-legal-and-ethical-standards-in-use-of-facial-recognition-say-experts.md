@@ -42,6 +42,20 @@ related:
         width: 1334
         height: 829
         isCached: true
+  - title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
+    excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
+    publishedDateTime: 2022-10-28T13:32:00Z
+    webUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
+    type: article
+    provider:
+      name: Mozilla
+      domain: techcentral.ie
+    quality: 68
+    images:
+      - url: "https://www.techcentral.ie/wp-content/uploads/2022/10/police-facial-recognition-GettyImages-1355656549.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "UK police use of live facial recognition unlawful and unethical, report finds"
     excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
     publishedDateTime: 2022-10-27T13:01:00Z

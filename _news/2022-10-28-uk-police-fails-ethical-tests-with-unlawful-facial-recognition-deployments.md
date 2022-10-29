@@ -1,33 +1,28 @@
 ---
 category: news
-title: "UK police use of live facial recognition unlawful and unethical, report finds"
-excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-publishedDateTime: 2022-10-27T13:01:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
+excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
+publishedDateTime: 2022-10-28T13:32:00Z
+originalUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
+webUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
 type: article
-quality: 56
+quality: 68
 heat: -1
 published: false
 
 provider:
-  name: The Guardian
-  domain: theguardian.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Mozilla
+  domain: techcentral.ie
 
 topics:
   - Computer Vision
   - AI
+  - AI Ethics
 
 images:
-  - url: "https://i.guim.co.uk/img/media/ad24ddb9a620b2e3ea95230da52f0d148502edea/0_11_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=d37d7343bf108263dff19b9436aae3a8"
+  - url: "https://www.techcentral.ie/wp-content/uploads/2022/10/police-facial-recognition-GettyImages-1355656549.jpg"
     width: 620
-    height: 372
+    height: 349
     isCached: true
 
 related:
@@ -47,20 +42,6 @@ related:
         width: 1334
         height: 829
         isCached: true
-  - title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
-    excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
-    publishedDateTime: 2022-10-28T13:32:00Z
-    webUrl: "https://www.techcentral.ie/uk-police-fails-ethical-tests-with-unlawful-facial-recognition-deployments/"
-    type: article
-    provider:
-      name: Mozilla
-      domain: techcentral.ie
-    quality: 68
-    images:
-      - url: "https://www.techcentral.ie/wp-content/uploads/2022/10/police-facial-recognition-GettyImages-1355656549.jpg"
-        width: 620
-        height: 349
-        isCached: true
   - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
     excerpt: "Researchers devise an audit to test whether police deployment of facial recognition poses a threat to fundamental human rights, and analyse three instances of"
     publishedDateTime: 2022-10-27T15:23:00Z
@@ -74,6 +55,22 @@ related:
       - url: "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/news/research/news/minderoo.jpg"
         width: 885
         height: 428
+        isCached: true
+  - title: "UK police use of live facial recognition unlawful and unethical, report finds"
+    excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
+    publishedDateTime: 2022-10-27T13:01:00Z
+    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 56
+    images:
+      - url: "https://i.guim.co.uk/img/media/ad24ddb9a620b2e3ea95230da52f0d148502edea/0_11_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=d37d7343bf108263dff19b9436aae3a8"
+        width: 620
+        height: 372
         isCached: true
   - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
     excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
@@ -90,6 +87,6 @@ related:
         height: 715
         isCached: true
 
-secured: "u4okP5LBGc9X1ARwVKkglpSclvBxiPyxaOQHVScKA8veHnPEHXO6NrfNCNkjVv6nx2ouz2RgGTJ733e1/CprInHO27j8vmGF4O3PGZIbow0D6YDeMu90I+gOcp+tw0wP/36uD+4BViSmwKHiYrwAjICfEl9x3pGRHcLoXdRaoUYtfU5fTwBNHu3TkMFkGvajuU2Q7QUNQo7XYCvqTf/CtpxRhFSNh09raV3JeRUrln+eg8YulPaQNbvYiGO9Q9lA8K03dw95gIG2BSyFl5jjyiAk279KodgurOKkERkDt+1RpnW71Uc9mDd2ixpCU7ela7VqKdBXK2VQtyLlSi7ulKADISo0/CKwQopzCItYg9lNxSk+EeQk0MNx0GUhKf3nYxvVJqXkMD9AUnw5EU+x9KnmrH6SJhZLtqmKFTYBKzGxtOYMbhffAqlirJe0tys5gxTsotMXlpqxqTYIP0mxTokBv3rMhfMUge3IWu4R1xLjsYPY8CIw0kbv9NY5H2OZvY7DzSdGdmpJ1puAGJDj4g==;7nNTm58B4rCIb9aAwU/l5w=="
+secured: "ZmP/cBav4yL8QRRgjom5dojyFUXNnKffuvfvAMVLx5F5uLBc/irr97G9f7WvHpc0d7p0VnFItw7HpJpCmPF8wYHygjg628LiWohHOhNCQSsH76vpStlcQyehM9dzBtNH/HPXiqmowvBs3+942Uh+D5hozjsByHDZIVd8fhSTEApM4wdKkZyIV5J0CptFdzTQZT3qQQx+RP2EFTFpqTefUNUBi8niggnmV6h76zEWD3BRY86IMOORpzmZ3J8/iUYmvzrsFI1E9k59Cp0ya6cC7atXeAXhJY4bWOO4PGZePMAZBUuYduT5tZ/7XyTh8zfnpvndadKi7OLiH0Bgn66rJD05UOXW8b6zLqIs98zDmZA=;/9J7DuIAnJmqciFm9/Fz4A=="
 ---
 

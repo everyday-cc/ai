@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Study finds how words and face recognition can be adequately supported with half a brain"
+    excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who, as children, had undergone surgery removing half of their brain correctly recognized differences between pairs of words or faces more than 80% of the time."
+    publishedDateTime: 2022-10-29T13:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20221029/3998110.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 25
 
 secured: "tcIS78Mn9leA4H7kSAU4g2qZdKPIy5WqDcxfIJQKaol7fr/knYSCFinO2c3JqATq7BXS6njE1nn/6qSadvU0hprl910Ok6sX1wuG5+Yoa+wk2Iid7QtdMZfXV7nptmaBZl9BhnrRmit4UNXfiKIiCPMiZ1yDRtyvaG4LM4xlccqbwI772tmsRxXP27Pd7TBHwBuUC2yJWcuE8v7eNpM4fQa5DkLyMqT0HPg8Uf3f9LjpNJkktN49OO5D6H3tLUkWqkxZO9SC8mNWjn3WespGRNM5PMAqrVUrddwosSsmouBlI3k0hz1w+6rLGRLubEQXMaIuLimVEo4L0s5IK7PCJqXNxIfl3euGWNSKNKQiuEMwSk1FLolsjHAjiFip4dU5fdyT7IjMyfGlfdTwkrcwRLeiOKHdZ50Vlb8iVDeK55aNj9BE+UB3Wv3z2nb/HuIXKexT5BR5frpHvxh7xwrjlAKdrKDPghq9eQINTKk5QRaxIXir1yFYVzWkultRS/gtPzeFRUFG8+zjvajmolnYTQ==;cO+6hLI5C2g5NFZuDpOZ1g=="
 ---

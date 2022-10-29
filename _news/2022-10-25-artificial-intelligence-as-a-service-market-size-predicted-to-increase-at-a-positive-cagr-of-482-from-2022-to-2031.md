@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-25T06:55:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-predicted-to-increase-at-a-positive-cagr-of-482-from-2022-to-2031-2022-10-25"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-predicted-to-increase-at-a-positive-cagr-of-482-from-2022-to-2031-2022-10-25"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: MarketWatch

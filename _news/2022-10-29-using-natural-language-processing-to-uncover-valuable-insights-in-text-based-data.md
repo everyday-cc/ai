@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-29T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/10/29/using-natural-language-processing-to-uncover-valuable-insights-in-text-based-data/"
 webUrl: "https://insidebigdata.com/2022/10/29/using-natural-language-processing-to-uncover-valuable-insights-in-text-based-data/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: insidebigdata.com

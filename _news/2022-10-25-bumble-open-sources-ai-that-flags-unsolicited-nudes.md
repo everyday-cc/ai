@@ -44,36 +44,6 @@ related:
         width: 1199
         height: 630
         isCached: true
-  - title: "Bumble open sourced its AI that detects unsolicited nudes"
-    excerpt: "As part of its larger commitment to combat “cyberflashing,” the dating app Bumble is open sourcing its AI tool that detects unsolicited lewd images. First debuted in 2019, Private Detector (let’s take a moment to let that name sink in) blurs out nudes that are sent through the Bumble app,"
-    publishedDateTime: 2022-10-24T21:16:00Z
-    webUrl: "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/"
-    ampWebUrl: "https://techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/24/bumble-open-sourced-its-ai-that-detects-unsolicited-nudes/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/bumble-ai-cyberflashing.jpg?resize=1200,669"
-        width: 1200
-        height: 669
-        isCached: true
-  - title: "Bumble open-sourced its AI tool for catching unwanted nudes"
-    excerpt: "In a recent blog post, Bumble announced it was open-sourcing Private Detector, making the framework available on Github.."
-    publishedDateTime: 2022-10-24T20:03:00Z
-    webUrl: "https://www.engadget.com/bumble-private-detection-open-source-192530832.html?src=rss&ref=upstract.com"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 67
-    images:
-      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-10/76136940-53d0-11ed-bfff-460d3959f00f"
-        width: 1600
-        height: 1000
-        isCached: true
   - title: "The Dick-Pic-Fighting AI That Dating Apps Deserve"
     excerpt: "Bumble will use AI to protect you from unwanted dick pics Private Detector achieved greater than 98% accuracy during both offline and online tests, the company said, and the latest iteration has been geared for efficiency and flexibility so a wider range of developers can use it."
     publishedDateTime: 2022-10-26T19:15:00Z

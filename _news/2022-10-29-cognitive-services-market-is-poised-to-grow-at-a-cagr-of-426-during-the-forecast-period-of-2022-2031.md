@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Transportation Market Size 2022 To 2028, With Endless Opportunities for New Businesses."
+    excerpt: "One of the industries that is growing the quickest is the \" Artificial Intelligence in Transportation Market ,\" hence it is essential for market participants to do a thorough study of the industry beforehand."
+    publishedDateTime: 2022-10-28T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-size-2022-to-2028-with-endless-opportunities-for-new-businesses-2022-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
 
 secured: "ilduWnp/OMCVgEmnELlp/PXbWhT7giDNqV9LroqJmxP/SEU7JiRp1sPARgNkk5ox3iTzV0DvbQ0XIjfbBg8MHs80OE1QUQJ9Qy5fJqPNchZQ0mPkHdZmGGesxtZKAZLB9+COsBl5PKHFnFH1E4x+nwWILG49HK2FL3bpxN+60GGOVSWpG80Alf83mPQPMgpDkHGYR7P1vOhYo5aOOcTu99nQR7WDFahW/Y33qZwGHNbpcVeehN0n8A3baGX93CHrel5LOOX9ZIGfdsEMx+1JL4UX/BlPHpgtcfBipFT2uVDzPixhZHOd4QzRpHGzXFnIob1fZfVa77wucvs29Jz+Hz9Pd1pq0nUQUlicuFhMgiE=;wO3AeMcE1Fs3+xZJbEAZsA=="
 ---

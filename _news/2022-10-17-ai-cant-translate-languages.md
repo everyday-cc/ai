@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/f7f8ec726bb703be13b52706fac5775b_L.jpg"

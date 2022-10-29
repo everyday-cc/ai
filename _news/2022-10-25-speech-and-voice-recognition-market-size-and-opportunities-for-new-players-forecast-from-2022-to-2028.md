@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence in Transportation Market Size 2022 To 2028, With Endless Opportunities for New Businesses."
+    excerpt: "One of the industries that is growing the quickest is the \" Artificial Intelligence in Transportation Market ,\" hence it is essential for market participants to do a thorough study of the industry beforehand."
+    publishedDateTime: 2022-10-28T06:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-size-2022-to-2028-with-endless-opportunities-for-new-businesses-2022-10-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 25
   - title: "Cognitive Services Market Is Poised To Grow At A CAGR Of 42.6% During The Forecast Period Of 2022-2031"
     excerpt: "The report predicts the global Cognitive Services Market to grow with a CAGR of 42.6% over the forecast period from 2022-2031.  T"
     publishedDateTime: 2022-10-29T00:25:00Z

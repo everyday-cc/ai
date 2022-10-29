@@ -57,22 +57,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
-    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
-    publishedDateTime: 2022-10-28T05:15:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    ampWebUrl: "https://www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-652971/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
     excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
     publishedDateTime: 2022-10-24T23:16:00Z
@@ -97,6 +81,15 @@ related:
     provider:
       name: RealClearScience
       domain: realclearscience.com
+    quality: 4
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T16:18:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 4
 
 secured: "NRiRybjwACSFFrcEP8IBYU8u57/Enh6u/6PinVZWxx+zZ2J+8i0ZAUv5/zU/6c5jSFB1cfYTpCjd8ZqfwQbxfnZoU7W6Zk8sYLYqtzRGodEjfhXIu9UxpMHf18C0gkkwhaFgBZ10RFGMl0Yq7e6z966R1P+yzJHAac2H6ZRzgKAIkfgIKwLFUz4keTYJCRiugAFiMPjY+8WkCf2drhdQ2v74hyegS1xJ5S4AbRZQI0kvXa2VVq5H1np5U56+0V4nyUakwbILsBSGPTzJ0QeBY/9LCUCiOICauSDBwZKyN5ZeHxQxETT598EPtbNaWC57BFzPlFn4wf1rJgo3/HDr9a6Z8k76ZOWW5ouU+my2sFw=;j18iTBiRpREElGSl5ebvSQ=="

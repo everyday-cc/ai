@@ -1,28 +1,22 @@
 ---
 category: news
-title: "Study finds how words, face recognition can be supported with a single brain hemisphere"
-excerpt: "In a research of brain plasticity and visual perception it was shown that individuals who had had surgery as children to remove half of their brains correctly"
-publishedDateTime: 2022-10-26T04:33:00Z
-originalUrl: "https://www.bignewsnetwork.com/news/272986363/study-finds-how-words-face-recognition-can-be-supported-with-a-single-brain-hemisphere"
-webUrl: "https://www.bignewsnetwork.com/news/272986363/study-finds-how-words-face-recognition-can-be-supported-with-a-single-brain-hemisphere"
+title: "Study finds how words and face recognition can be adequately supported with half a brain"
+excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who, as children, had undergone surgery removing half of their brain correctly recognized differences between pairs of words or faces more than 80% of the time."
+publishedDateTime: 2022-10-29T13:58:00Z
+originalUrl: "https://news.webindia123.com/news/Articles/Science/20221029/3998110.html"
+webUrl: "https://news.webindia123.com/news/Articles/Science/20221029/3998110.html"
 type: article
-quality: 46
+quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Big News Network.com
-  domain: bignewsnetwork.com
+  name: Webindia 123
+  domain: webindia123.com
 
 topics:
   - Computer Vision
   - AI
-
-images:
-  - url: "https://cdn.bignewsnetwork.com/ani1666756845.jpg"
-    width: 630
-    height: 420
-    isCached: true
 
 related:
   - title: "Words, face recognition supported by 1 brain hemisphere: study"
@@ -71,6 +65,20 @@ related:
         width: 770
         height: 513
         isCached: true
+  - title: "Study finds how words, face recognition can be supported with a single brain hemisphere"
+    excerpt: "In a research of brain plasticity and visual perception it was shown that individuals who had had surgery as children to remove half of their brains correctly"
+    publishedDateTime: 2022-10-26T04:33:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272986363/study-finds-how-words-face-recognition-can-be-supported-with-a-single-brain-hemisphere"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 46
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1666756845.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "A new study reveals how word and face recognition can be supported with only half the brain"
     excerpt: "Participants were able to recognize words and faces, despite having half of their brain removed. The surgery, known as hemispherectomy, is done to control seizures."
     publishedDateTime: 2022-10-26T22:01:00Z
@@ -85,16 +93,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Study finds how words and face recognition can be adequately supported with half a brain"
-    excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who, as children, had undergone surgery removing half of their brain correctly recognized differences between pairs of words or faces more than 80% of the time."
-    publishedDateTime: 2022-10-29T13:58:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20221029/3998110.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 25
 
-secured: "brxcZitL1koD9r53YLNPbhcegpdBB5CezXzKEN/QcTfhT00YwMG0UDTtxwfpFByh4zBzno4ieBxe9DvGP2NvZzxoaGIQHp5z7qzYqDPb+Edw2F4gmQRZg623X+i0gnSypC/uspHnEFhnla68qalVZJN6DEI0L0a6OLnJbMc29reJvvFmG4/tG3L3fTRlbbEi019YYpJd4RIlV1wREIUZdU+FmrbmwCF3jV9VnZqjwNU9PJ0moJ6HkNGz6B2huSSlrlkc8cveT0H7mUW/LjYB/d9t860DlRWLsOogcnat2cJNfcrGDOBZni9AAHD3JZKl8kipXYhaTXjhXyad4DtN6oWI6IP22sfStiJGxXUFDas=;3K9ivORxq2bcrUN1xNhn3Q=="
+secured: "U+Np9YZ2k4FCkTxzRP/E/GpvCUY1oyWNPPdoTifrsyj3kopxLo1QdCPN162esE4vsYWi7zi42RMJDqdGHcjKV3frxBIOdbDbYeQatE1rfkG9Afv+ydVgemyQOsl1JVCDxxqVKwmMw/ph/MGXpjengcCqXUQVR4KACKJMRWad8cQFI37c4QyKMaX6Oigiv6A+ISecECIVftdO+Crtrla0dsjX4pGtWpPxDhNDnaCx9wsVOM47KycMlHnAyF8xsVfLY+L0KALw7OLuOMcz6AsrUHsYftRrmuoRnCIENu1yohykX9omd8jSfwL18yPDXgR1Fq4+1/6WDfrBdDX9e19lHHrzi+xAJu8hPZCpPKP9yy8=;ASDEEueKh27NWlQefod0cQ=="
 ---
 

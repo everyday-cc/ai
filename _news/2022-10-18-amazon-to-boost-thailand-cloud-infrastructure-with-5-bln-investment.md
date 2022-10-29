@@ -5,6 +5,8 @@ excerpt: "Amazon Web Services (AWS),the cloud computing division of Amazon.com I
 publishedDateTime: 2022-10-18T05:39:00Z
 originalUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
 webUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment"
+ampWebUrl: "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp"
+cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp"
 type: article
 
 provider:
@@ -15,6 +17,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "vt+UXYobrc2QH4w/fcvdXcHy5JGKtM2cf58cYtc0cvw4/VeAphB5nN2zkE1jidMpTOSxNDH8O4j678WYICowFQiAh7q/rXr879qPg9H+cjCzhO/RexzHDz6V8g8+fRYaS5q9QFDUJBqEnkEVRu4WXyDf9hOyHWFFxobrJBfYF5tUnyG+RXmRM1BR6RZygz9v+zRexOZioMKWOFR6McDDiShjD5mriQy2dF9bOg4rXa5dTTR5YsfbO9eK55lk+RflcNVx+ApMnBkFs2oEaTmfeiQitA91UXpFfcw2/AKWXSKu7m9JRuCYwt7yJeKNdVv4CXA8XiCEsuThhN+UzJKsGMMf6l7lps1c5UtNm7B5kwk=;YPVBhdIX8gEezeo/zxdzgQ=="
+secured: "CxpAH+Mr48bO0g0HScNi3vNPmIznfGeYzvIR0OOuniJknn0ubytYJBIbPBBt+x37nZKg4NQcJu9zJ0Ihf5F4oQUQj2LhTGrJgfN4AIJ3/yk8THJbrufXosdASZrGIBZX7+d81eCWdjSjmdtt9Ol5K+NjWrgMkPEyhwda0OgEsTbu7hK582jK1j14Qo1qJoWo1lOzJRwhtSLFal/EONor+96f4iiwOtJp7g/EDeNDNPybz27Qb5tFcs3+CHwjmDUhHvk0t2FsDzYWwuXOHSpYevhmpz7Ho0xg+OlQrRUSejPDAiMQGc/0giLfuEJ4c3GiBDYP3JHaUK17sjbgbD/KBUQKzTy+PhPlfChlWP8KIlA=;oPXeL9sNcHk3RPHICqgsRg=="
 ---
 

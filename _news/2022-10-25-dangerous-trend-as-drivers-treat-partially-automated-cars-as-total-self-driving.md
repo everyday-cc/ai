@@ -59,22 +59,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
-    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
-    publishedDateTime: 2022-10-28T05:15:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    ampWebUrl: "https://www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-652971/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Self-driving cars face uncertain path to US deployment"
     excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
     publishedDateTime: 2022-10-28T15:48:00Z
@@ -97,6 +81,15 @@ related:
     provider:
       name: RealClearScience
       domain: realclearscience.com
+    quality: 4
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T16:18:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 4
 
 secured: "M3O2h5nAArw1y8MJN4CBUmEVHHYyj/apo9C5B6u2wLqPnaNT6gLNGmyd3ZsdNfBUipZDEYvtT0MDMZSX1VzvA9ROUAQdWV5K75LJlrnM/i5rTLBhNYUNZ9c0RWkzqNLfXjanXHFdna89OE28WUT89d4kdHDveAcqfLHFm+TqRU7JP2CQxf3UsPA8JamtGjhhKrmVl9/vbkBtC1r6r2305TszooF7q9NgRYtl4rJLN54Lx1xVM8nUTq73mGUY83z7RCuOaESnlcw5m7Q/znvOFGIinNG7IhDLLMG1Q2ctiG49XTcTCYXZy71UslU8oRKd+w7mvmFmISdW/cGEu9wDzkD4th+BWif9XikdMIgdsCn+w13rErmkTLaxLEN6uC0eZaSX3McHyzfcskOcYk3MMxuEWz3P0O8YdYqRLxtv9hfBpXtEXGK+Jfb1w0PwV38MVhof8R93ZG0iVtqa5LvIpX1+N0dnk4fvYZi7ItXI35gLpqknybSfgilzcL+Y5hBLZKhLhHfHkWWnA92ULrFVxg==;fCpoMCTM9WrvQ/MXyYtHYw=="

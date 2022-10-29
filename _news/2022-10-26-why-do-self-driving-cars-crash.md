@@ -51,22 +51,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
-    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
-    publishedDateTime: 2022-10-28T05:15:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    ampWebUrl: "https://www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 44
-    images:
-      - url: "https://images.barrons.com/im-652971/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
     excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
     publishedDateTime: 2022-10-24T23:16:00Z
@@ -97,6 +81,15 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T16:18:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "M5P28Z0AMPriN/JLepXXvjtvk/8IhQZD1zHqR2mFcLbq48Ms9UaOQrCbB2mVQMDdH0461jc3YgNNU/gOppHp6NL9uTvVIIpUEvVbaqKvjd9ClKWbvHvLltVTEpunk/HCtDWwYD0xrNmnRDS6dQR2R9l+AjR4sEp4x96i8uaaV7tZLA6gVsfruzd9kB4K/I4dtDeNAVOGbubZplp1rOa7wgfS8YvttVv+Yd2rs0wfCjMB/3Rbq37QV1LW+MjnqOMgDTRAniEDA2VJPB5KPMXNJlc9Dyr6Xbp/j+VFGpJQqvWK9TLa6p4enSosGbZt5rfG2mqn0MwEsqnBS4GRH4Vw4b/zmHc4xf5FpHZ/ibNYyNQ=;hqqmxeVCVOsfBH/h3eJXOA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -85,6 +85,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Study finds how words and face recognition can be adequately supported with half a brain"
+    excerpt: "An unprecedented study of ybrain plasticit and visual perception found that people who, as children, had undergone surgery removing half of their brain correctly recognized differences between pairs of words or faces more than 80% of the time."
+    publishedDateTime: 2022-10-29T13:58:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20221029/3998110.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 25
 
 secured: "fs9WKP6T6NXkqOOAsenpOf/XIKQ2T9RBgzhhLdnNKJreKknoDRhq+HtfmSKJ0hfEWRjFfLkwgVBTGcW5tzD7VmIUfi66kDaV5Hpt1KD372A5TscRn/j+n7+9ZhLQF3bWJu44I4b7S8RU3HsN9D/xKTfy5H8ysYeZBKyDsqNshuZ4aWdHCv8m6Ujz/DVMcOp4/pJREp9rhzEiSM9HIbt5k0Zk/DqAQCryUAnFSFWe8TwqsEk5fjnlnsjO/yMom+svpkhojWGfrR4Hs9FbvrUK26NS07OY91My2Czrj7q/bxnVqEYfYC+uWK/67K9zQoJZtaKnWWTGM7PQVfBHOcN3FM+FAkm1cOA9IVLhdjLWINw=;TXV6NLRoVVKVZ0YYjViZVw=="
 ---
