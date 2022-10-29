@@ -437,6 +437,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
+      "title": "Video gaming may be associated with better cognitive performance in children",
+      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-why-generative-ai-legal-battles-are-brewing-the-ai-beat.md",
       "title": "Why generative AI legal battles are brewing | The AI Beat",
       "excerpt": "Behind this week's firehose of news around generative AI tools, legal battles around \"fair use\" of training data are brewing, say experts.",
@@ -860,43 +903,25 @@
     {
       "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
       "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
-      "excerpt": "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community.",
+      "excerpt": "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:00:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29335363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363",
+      "publishedDateTime": "2022-10-19T21:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1286,40 +1311,6 @@
       "provider": {
         "name": "News Medical",
         "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers.md",
-      "title": "Hexagon Adds AI Capabilities to Power Real-Time Crime and Operations Centers",
-      "excerpt": "Hexagon's Safety, Infrastructure & Geospatial division today announced the addition of artificial intelligence (AI) capabilities to HxGN Connect, Hexagon's real-time incident center as a service solution.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29288352/hexagon-adds-ai-capabilities-to-power-real-time-crime-and-operations-centers",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T06:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

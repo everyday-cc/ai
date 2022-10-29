@@ -39,20 +39,6 @@ related:
         width: 1050
         height: 631
         isCached: true
-  - title: "BEYOND Expo | How AI can accelerate drug research and development"
-    excerpt: "Wen Shuhao, the founder of XTalPi, talked on how AI works in drug research and development and discussed what startup they would invest in."
-    publishedDateTime: 2022-10-24T09:15:00Z
-    webUrl: "https://technode.com/2022/10/24/beyond-expo-how-ai-can-accelerate-drug-research-and-development/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/10/171283459_l-2.jpg?fit=1900%2C1140&ssl=1"
-        width: 1900
-        height: 1140
-        isCached: true
 
 secured: "m0KZcJbvIw0b+vtduM54e5Etj/79SpVBgDFRjoxb22OMcOR4WAJijJicVkySdgKGPunql38J+RgdWdSZpDRzXf0hqwkTpDxKa94rf+kg7LYXWJ0Sd4iCVdsv+FoM3kRfTu+Gg5XFF0FQoTIteYl4HW0L8k5F8pKnTaCMW8UjfkLpg9KKq3gPePucTO+Xe5320XZ8RYN8xUaDwqjnN6bnKXBNk7HbulkhdSfQl53J3MedhRdQGLnaGNV9hknBuk19GT2x1r82Ez9bTqpCxIdqVZ24VN47//SdZiZf7HZ4DVi4+vShVx16Rl8M+mwaICapXDHYtnrBgNgCrXIIpmizTjVa3ow780BjgoQuggOR6S/XPONPfV+gU3vlMaGh3SUFR9QuVQfeeqCQcPpSxhdUNRgzRMSfyGTQgHkKV+faqLx5fo9xSKTUZe13SUB1LZtR1CVKbXP8S9NqOiskQiaoTtzBe7Llw4NZnogQbrM5lAgjcYzZ+D4X1FitNLf2jBdDRYfkiEJE1YWZkrv+xxbl/A==;sXNB8zir5d9k6HON2KQ4XQ=="
 ---

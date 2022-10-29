@@ -39,17 +39,6 @@ related:
         width: 1799
         height: 1011
         isCached: true
-  - title: "AppTech Payments Corp. Propels Fintech Industry Forward with Launch of Its Commerse™ Experiences-as-a-Service Platform"
-    excerpt: "AppTech Payments Corp. (AppTech) (NASDAQ:APCX), an innovative Fintech company powering seamless, omni-channel commerce between businesses and consumers, today"
-    publishedDateTime: 2022-10-24T10:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29374701/apptech-payments-corp-propels-fintech-industry-forward-with-launch-of-its-commerse-experiences-as-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29374701"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29374701"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "Unt8lJRE7eHJVGWz6Yeh0g9NqpX+Cai8WOKg9k/a4MqcLxvOMy1a46E7DOyPjfVDV+Tc22cUJbqFtehUonpc7/K5H6UoOlvh+yyWzyt+ILM8ueFPLjIbFFQs/i/Y48b8t0ed2XWMVHrDkSSV/8t0sXNns3qIguJTkEQMXYPjwsufcgAcAYdMzONdlwVmNIShEcDydlJCID6yTCNNch3pqyBg3HcTQfPoHuaZTdWVHNsoFpBernvHjfu5/VbiaxsDaj7jiPRr2fJtt3jwGcS+2LlFtU8kIyxJxhZ3ArkgHUyPuqBTItGejsnV01rY9y6oUiMyPhQrYMmCv1e3NQzQAF5klqBFBVJSuc7Rc92cWeh0eQHGHrcCWPe7M/Vs58cpfmZ74UEm+zYpeBRyn2lXr4GtlCTQ19HBjwoHGxC7mTElX+4mwaxLWtP2OXQqzUA5sc6RYTDh0G5KlU6l/R6OrZG0dB79969lD0onDnLgZybubOMUenN0/1dobgWwUh/Ak27egKwwr1xAS0axlNWm7Q==;sEUTjqqzo3Ai3zQCw9NWlA=="
 ---

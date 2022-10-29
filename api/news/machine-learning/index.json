@@ -357,6 +357,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
+      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
+      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-23T16:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-22-top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning.md",
       "title": "Top 5 stories of the week: Deloitte, Meta, Nvidia and Oracle news highlights current state of AI, deep learning",
       "excerpt": "The state of AI in 2022 continues to evolve and new trends are emerging with it. This week, news on AI from Nvidia and Oracle, Meta, and Deloitte topped our coverage.",
@@ -1427,58 +1470,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-can-machine-learning-help-prevent-business-email-compromise.md",
-      "title": "Can Machine Learning Help Prevent Business Email Compromise?",
-      "excerpt": "It's possible to prevent phishing and BEC, but technology can’t do it alone. Trained people and AI/ML working together as a single unified layer—not side by side—is one great way to beat the clock.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/620516d86fe879bdc64354fc/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/14/can-machine-learning-help-prevent-business-email-compromise/amp/",
-      "publishedDateTime": "2022-10-14T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

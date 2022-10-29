@@ -7,8 +7,8 @@ originalUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics
 webUrl: "https://cruxnow.com/vatican/2022/10/summit-explores-role-of-ethics-in-development-of-artificial-intelligence"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Crux
@@ -38,20 +38,6 @@ related:
       - url: "https://www.ncronline.org/files/styles/homepage_features_medium/public/2022-10/20221021T0830-PAROLIN-EWTN-MEDIA-1750711.JPG?h=93399b46&itok=rLRSmena"
         width: 560
         height: 350
-        isCached: true
-  - title: "BEYOND Expo | How AI can accelerate drug research and development"
-    excerpt: "Wen Shuhao, the founder of XTalPi, talked on how AI works in drug research and development and discussed what startup they would invest in."
-    publishedDateTime: 2022-10-24T09:15:00Z
-    webUrl: "https://technode.com/2022/10/24/beyond-expo-how-ai-can-accelerate-drug-research-and-development/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 37
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2022/10/171283459_l-2.jpg?fit=1900%2C1140&ssl=1"
-        width: 1900
-        height: 1140
         isCached: true
 
 secured: "yNqxroyqX+DTaAgolYIMRSLn6rbUcjpi3qUaLUDykgKIK8yOOdrkBY+sKanq1Mlqw6epikmDZW3oamKZDu0fLi/C2NtnYFuJdChKfuKxVk4VygP64ct+LxTEC2FJFWW3v7WNoiI9Q+xGbHAzfIuUloV7tQaaQM7H14hLtMoViG6IsO2x3NHQa6tpl7iNQG5wf5RpQ5cSD0y52fH83NdOm+BC80ifUyaCr4hPxwJJSRGxqd6LC6oir/AC3M6XbSJAUbLc6uo5MyA4XpJZTScyjyF3RClMjyEnaN6verZ9cgqywfzI5seSPOy/YWDQhP+wWK3M7YT6KMxsKP0ecP9Oger4pplX7471pKFvRT/HgkSPH9YsE+lxxZtzBM6FHklurNBInC/7IygvtUHe6aM2bHFdnNco/10wO8/6VBTKiYHpC9d+EQsTUTDhsjlGRJp8v/0vH/Lk0EV/Jfc/kg9juefhN64l/M1YtJ4Z/8nTITQSOF1tzxxzxP9EBXvzY0Qv1YVBsP5pfYw8iLRzZn+bnw==;kZaiLnFiiwfd0BO+RejVOA=="

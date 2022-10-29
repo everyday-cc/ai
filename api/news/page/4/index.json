@@ -2,21 +2,21 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-10-24-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
-      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
-      "excerpt": "Aetina has launched new embedded MXM GPU modules powered by the NVIDIA® RTX™ family, including RTX A1000, RTX A2000, and RTX A4500. These NVIDIA Ampere",
+      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
+      "title": "Video gaming may be associated with better cognitive performance in children",
+      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29371511/aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge",
+      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
-          "width": 400,
-          "height": 209,
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29371511",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29371511",
-      "publishedDateTime": "2022-10-23T18:44:00-07:00",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Hill",
+        "domain": "thehill.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,24 +40,24 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-10-24-children-may-get-a-cognitive-boost-from-playing-video-games.md",
-      "title": "Children may get a cognitive boost from playing video games",
-      "excerpt": "A compelling new study published in JAMA Network Open suggests there may be some cognitive benefits associated with playing video games. The research looked at around 2,000 children and found ...",
+      "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
+      "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
+      "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
       "sourceUrl": null,
-      "webUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
-      "originalUrl": "https://newatlas.com/science/children-video-games-cognitive-performance/",
+      "webUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/snap-ad-ranking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.newatlas.com/dims4/default/c0c5e38/2147483647/strip/true/crop/3796x1993+0+338/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F7e%2Fbe%2F4156a12a4c70bafd8aedd83e93d7%2Fdepositphotos-12112893-xl.jpg&na.image_optimisation=0",
+          "url": "https://res.infoq.com/news/2022/10/snap-ad-ranking/en/headerimage/generatedHeaderImage-1666456310522.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -69,21 +69,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "publishedDateTime": "2022-10-23T16:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -92,7 +83,7 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Machine Learning",
         "AI"
       ]
     },
