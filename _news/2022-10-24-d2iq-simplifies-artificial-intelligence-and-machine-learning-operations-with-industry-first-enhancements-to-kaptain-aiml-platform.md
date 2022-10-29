@@ -19,6 +19,7 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+  - AWS AI
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
