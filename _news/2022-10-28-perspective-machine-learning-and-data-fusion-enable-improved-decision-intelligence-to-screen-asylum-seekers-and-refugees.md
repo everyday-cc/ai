@@ -27,7 +27,7 @@ related:
     provider:
       name: Homeland Security Today
       domain: hstoday.us
-    quality: 17
+    quality: 19
     images:
       - url: "https://www.hstoday.us/wp-content/uploads/2022/10/artificial-intelligence-3262753_1280.jpeg"
         width: 1280

@@ -35,6 +35,20 @@ related:
         width: 1024
         height: 683
         isCached: true
+  - title: "AWS Launches Amazon Neptune Serverless"
+    excerpt: "Amazon Web Services has launched a serverless option for its Neptune graph database service used for building and running applications with highly"
+    publishedDateTime: 2022-10-29T00:35:00Z
+    webUrl: "https://www.datanami.com/2022/10/28/aws-launches-amazon-neptune-serverless/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 39
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/10/Neptune-shutterstock_1631819206.jpg"
+        width: 700
+        height: 470
+        isCached: true
 
 secured: "O7G59VR9MNU652bZdFrK5gO/TBnJ2BmnT4YYPCo/cmA8tF3bTVMpXCeWhySd0J7HC74rybKSW8KEnKPLOQTsMpzTIVlb3NVnWC2mOnzTvunkwwTL3fwYXVolW3rprS/gXsPB7j7qKtfl3jxr+fLkElbwg9xCptbZbJmLnkFyrldWNr2U2MlffeasCf4cHCv0tHGngjPqjdhSaYHTImb2ksaE6+d/8Ww8wfTgz38rRIWSLET87RW+Djb/pCQ5DrXgfRAzm4SeiZlN/G4vcMZ24tnPSj4hBCB/FQ+Hu08VV1ag9bqBe0mpHFlVGYhqXz7gMQtpYLQQoM1f75yw+1w1+X8BCQf7HxAFX0dfn6VAdTncb+z/D6QnysnpV0O2WkxfPWmGG0zy/Y6MVG1ASSRwZQzciby1xRJqj32k7BcALwDR14hfxxRmNLizGkhJRwz0lyaMN2rvNkdCwIM5DtHrnFzJuy1NU5QfNbsuwUl1/qo6X+hvodbbFxOh71x5iCf0mT//Vnlh2CpperO3yQBAeg==;QemyAGWBZUKfzbOaqFrjzg=="
 ---

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-28T22:57:00Z
 originalUrl: "https://www.hstoday.us/featured/perspective-confronting-the-potential-security-threats-from-inevitable-artificial-general-intelligence-development/"
 webUrl: "https://www.hstoday.us/featured/perspective-confronting-the-potential-security-threats-from-inevitable-artificial-general-intelligence-development/"
 type: article
-quality: 17
-heat: 17
+quality: 19
+heat: 19
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI in Security
+  - AI in Autos
 
 images:
   - url: "https://www.hstoday.us/wp-content/uploads/2022/10/artificial-intelligence-3262753_1280.jpeg"

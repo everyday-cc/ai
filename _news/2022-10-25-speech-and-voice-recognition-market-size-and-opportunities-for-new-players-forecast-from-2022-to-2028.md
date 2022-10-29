@@ -40,6 +40,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 25
+  - title: "Cognitive Services Market Is Poised To Grow At A CAGR Of 42.6% During The Forecast Period Of 2022-2031"
+    excerpt: "The report predicts the global Cognitive Services Market to grow with a CAGR of 42.6% over the forecast period from 2022-2031.  T"
+    publishedDateTime: 2022-10-29T00:25:00Z
+    webUrl: "https://menafn.com/1105093478/Cognitive-Services-Market-Is-Poised-To-Grow-At-A-CAGR-Of-426-During-The-Forecast-Period-Of-2022-2031"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 23
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?470490"
+        width: 443
+        height: 250
+        isCached: true
 
 secured: "LDGgDGUX4vjiFvd3i2qjlEutWnqs/YhOXx6kFsYnoft3CGKFieF1Ph5NTeFWlTnLwooxqyRT/3wnTCjrGedwUX4u8SyarqzgdnO9fzJwUCWmD8mO7rh4XDkVT+aD5OE1uFuAUAYfLG8AQNjKaPKTFF1Zub9F7mvOnd8/QclhL+LzJi7iOj4ocGwlapQBTGhu+M0DNcOzy4trHahTT/UJs4nBj+N0gAKmM/KWHvWFriuL5Rl8qRGzxZ8mKNagUkpeu1/zmSC/TbXfMCNa6VAia2TpX41VJU7ej2n+5WalRmu8vImmoQXy8pSKvaNm1MUv0EE1HusRBKbGxphFr+ojRcuStat7h3/NEJllPxE3hBo=;OJ6eUTYLurQGzPhxrByoIQ=="
 ---

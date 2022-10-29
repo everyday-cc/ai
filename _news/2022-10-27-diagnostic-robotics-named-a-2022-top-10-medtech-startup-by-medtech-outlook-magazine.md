@@ -1,27 +1,23 @@
 ---
 category: news
 title: "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine"
-excerpt: "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ..."
-publishedDateTime: 2022-10-27T13:44:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
-webUrl: "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067"
+excerpt: "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions."
+publishedDateTime: 2022-10-27T12:31:00Z
+originalUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
+webUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
 type: article
-quality: 58
-heat: 58
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "onPKLg6QXdqiEfj5fc1Se5CNIEqiFUcnyGoAVYPL7RmmnlSlMFQyWTAoIz+OcL04y6+v1G2C1S6gMnMbY0O1LlWQvFJn5EmfeTUdYxSBGmhZW0KG+6mdoVRQ6M2KaofVSHO5a+2blh5QkkoDyEyKcd/sW8FguhiTrxohu8reYu03k3JfEHJcg6tKm5yzkh7oLdtE8glxn/47x2koD5NKlinaC+EOf8c9Ov+8VhhfUHnTSmpO7a7awdJgf1Y1RxPf1Sc27NcQmEz5S5KQgRXsMcQHEH+WYPbRjC2Nd1uMNLtOKvx+tQqheq8SmudmzQ/R3SLYjIXPiXoie9wHHZGb7UC5HLyUEtIZKWqAfsyUXeQ=;BRCumuHL21qr60HQHiBvnw=="
+secured: "wWMvt23XPchuLjiRBgQjmAyCywhI+VYHvGnECrdGq5Ftkn0B0Ed9Xyq1xUdKRDiY+bIBDb+v35enMN6kCVMKcVzcwep4n/+wBTcZRjOGAM+EjG0TLQIrd5fcokNuyTEzRKeeFiQ0frRq7d84EbCO7h3Ejlsj7W3+0KXE17e8cMdhUlpfwbpyG1SAr2INyYyVfv498pGznnuv3SDSYkOsqi+x/7t1weaMB94DuIVaeEQGRJRfqqqLCdUswhIFkNBdz7lX0NbdLtNc8ODSpIeNdlZGj2u3Yk9aroI3CrgBiK1wo+aLhKCZLkitTTJxccTPKEfQLH5AYvt9hkABG3Nafle+pudTvVrY9nwQF2mu9CU=;pC+XwSU5hLpRIgybcTLQXw=="
 ---
 

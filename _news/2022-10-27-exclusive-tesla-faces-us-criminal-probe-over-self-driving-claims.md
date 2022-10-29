@@ -3,10 +3,10 @@ category: news
 title: "Exclusive: Tesla faces U.S. criminal probe over self-driving claims"
 excerpt: "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say."
 publishedDateTime: 2022-10-27T04:38:00Z
-originalUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
-webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/?ref=upstract.com"
+originalUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
+webUrl: "https://www.reuters.com/legal/exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims-sources-2022-10-26/"
 type: article
-quality: 64
+quality: 84
 heat: -1
 published: false
 
@@ -21,6 +21,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.reuters.com/resizer/Pc83Ei_m8ULxEdqo8XyYwlSi_f0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/S72XIA724ZL7BKAKEXM3RWBDYM.jpg"
+    width: 1200
+    height: 628
+    isCached: true
 
 related:
   - title: "Tesla is reportedly under DoJ criminal probe over self-driving claims"
@@ -263,6 +269,6 @@ related:
       domain: greencarreports.com
     quality: 34
 
-secured: "TIEGgGPD3QFWgZ9TLzWhK0iOSLDu5O+9BsTTz7/OtDX8a0SgvyIcjCT3RovfMEHO/oJG7CpG8tZIFqSr9HGS8hg3yUiO/ynqdHrizZ53bqnZeZdceRC6bNHcKdnDcM3G7g0LxXgW5K43U7yP+xBM2dE4uYOTejZD7i6l21YPy/pp1zrCP41ccR+Wg/lObFAz5UoCPs3cBsB3GrcnBq55vtA9z0sFs+LO4qNu8hoQcKNE0Unc//U6XKNBBOxdin/VXuez34diHqIktuhtNswEvuQZP74pfDj4DRKli6Xdk5QCsW5OKV6K5TF7lORphdupC1LlHEm+9DsRKivT3RmK7UFPit7sD3vWQM0mpnoiOeOrNe5+pmdVwOdyaEkGGt1Avd8pRhuL/NKTDHtMRxMBSGIAxIHwukvz3Lureq0PpGwWUG4MsO7ryb05ziy2x33yDYpEfeLg1A8LAxxq6YQjsS1N7GyBAug7pJdWmlwSsdo2Bom71zmpkJJJg0HEEScqOOPDxgTp9MgpCD65aqzb8w==;3WPIGysTh7d8soXmL5/GlA=="
+secured: "A2GwWlcj/7F3kswX7ST1VXeuUi6JiGo34I7lUjlBwJQ7PYq35yLIjWjpeIIkOcsQrnC0c52qPa0tOwfgqzTj5ItvaaVDM8jzmQqbvkOjK6+a71WHG/orVnhHIj0JD0e1TVjwJw0hVRxSe15sq+yj091jE33kyKXx9KGnDAxN2P4Pb4TG2cvhfe40c8APfOLcL//WHfakA5p/CFMOOJCe+yrXdMYh9lraXHnMOyJyKAKs4bEOo7jOXCbkG6/RKtaBk/gImFUfTeP8UOyXODbyg8xUutIrdiZwyxnoDFrt8MquEh+VLt17fxMlaw1ls6obufhIRN7OJQm1fFzdz/aHYCZ7yHOZ9rVcjaawddDu8Rc=;HNWmVxN7ok1nv0hBumTFOA=="
 ---
 
