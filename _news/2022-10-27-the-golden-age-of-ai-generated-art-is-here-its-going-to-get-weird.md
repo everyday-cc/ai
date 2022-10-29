@@ -3,8 +3,8 @@ category: news
 title: "The golden age of AI-generated art is here. It’s going to get weird"
 excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
 publishedDateTime: 2022-10-27T04:00:00Z
-originalUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4?shareType=nongift"
-webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4?shareType=nongift"
+originalUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
+webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
 type: article
 quality: 37
 heat: -1
@@ -154,6 +154,6 @@ related:
       domain: theregister.com
     quality: 14
 
-secured: "4T0RMgG1nq1XM9VfyeLre0bGZ/pEokP3mXYm1YwDS0Ptck8Jqs+IX5WMW8wcHAB2TnWN8ZJUOAXpBO4GCslKrWbbj31uS7qdeN8PFOvn+A4J3dtKxYZjkOI1bfUDmOLEt+cthCvHqysIyehq118OCuNW31+bp4wejmKYsHWoFvgPRniIwCmGjzjHDjEoRLH67nUlC0eeTlFpW/8QL4HWMMgPq5YCJLGbb4WGRiQOsaMNEeEm1VTCkW1cu4QmrdroG+nveTfGg4pnM6tFDCgK8bF/WPsu8KG/xS/2oO8NEFh9ho1hSv2ieBs7yntUnxB5uf8QKM8/DBCW5iiE1whuFDHSYciueNIwksLZLUFOgDipOTLWFtjl5hnsd1leXQEdFeR/cMapgv4Ve+9BuP0SSkJP0A9wZwKld0ad3DVdd+OOgZQtYB6dgvIUKTUo2ABCYQbSnpq/cC3g+lcMjKAiwXne501JeOm/WYwNkvcSoXsgDNoY18RfG67TOTvp1OF9/L4MZdTYVeoRKh1z3R4eEQ==;mH6c48eXcyeg5Grbqg9qEw=="
+secured: "vE5cUGI49C9nnuHAbO5EpvEm8p0RDhbNrNhagkNKVU+eZDfSh49m6ackdApYbjfbl+5cwCI5fbANQKG0xgsTmoZs85W0JqdBGDcAkVn9BYe70Yub+oZGjKy5dwyIZv+C/Ypv0MfuDCc3/x4Tc5RFJZRwdeUHuMms+CNhFTJOb3oD2CL0CfgWvavO7XUCHXxypzQ0DvpGa23D/+paMToPPl2UtQgpydlBNYguN7+ZgPCJsBF08ltGpSdLeZQ1deSsOYuZoaTDstBapmfMh6tjZ4vprtMPkOZ9ZDMNG5R+nfT+tBNMoMMZKPj5Y99Hk7kvta+KMPNUjCpKx5EM/bCZ8ZTP/ADrdidcRoD7wQukXqk=;FQeA8bcWjS/nXk0u+TWQ5w=="
 ---
 

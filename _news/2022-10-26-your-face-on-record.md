@@ -8,8 +8,8 @@ webUrl: "https://www.financialexpress.com/opinion/your-face-on-record/2730083/"
 ampWebUrl: "https://www.financialexpress.com/opinion/your-face-on-record/2730083/lite/"
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/opinion/your-face-on-record/2730083/lite/"
 type: article
-quality: 44
-heat: 44
+quality: 46
+heat: 46
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/face-recognition-1.jpg"

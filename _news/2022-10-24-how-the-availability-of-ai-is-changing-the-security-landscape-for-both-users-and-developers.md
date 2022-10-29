@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-av
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/"
 type: article
 quality: 96
-heat: 106
+heat: 116
 published: true
 
 provider:
@@ -32,6 +32,20 @@ images:
     isCached: true
 
 related:
+  - title: "How artificial intelligence is changing music"
+    excerpt: "While AI is currently causing future-shock rumblings, the influence of computers on our music has been felt for a while. People of the right vintage, myself included, will remember the camera teams on Top of the Pops trying to make two blokes at a pair of keyboards look exciting from the late 1970s on,"
+    publishedDateTime: 2022-10-29T04:00:00Z
+    webUrl: "https://www.irishtimes.com/culture/music/2022/10/29/how-artificial-intelligence-is-changing-music/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 39
+    images:
+      - url: "https://www.irishtimes.com/resizer/ii3K7yhJ2uJ5JzIu65lvajn6vF4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TSTVBTRXC5HVZAE6DOP7JFEPGE.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "This developer is paving the way for AI generated worlds in virtual reality"
     excerpt: "That's exactly what Scottie Fox has brought to life with Stable Diffusion VR (opens in new tab), an immersive experience that brings AI image generation into a 360° space. It doe"
     publishedDateTime: 2022-10-27T11:42:00Z
