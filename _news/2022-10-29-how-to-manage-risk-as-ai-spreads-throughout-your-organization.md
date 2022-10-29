@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-
 ampWebUrl: "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/"
 type: article
-quality: 87
-heat: 87
+quality: 89
+heat: 89
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all"
@@ -29,6 +30,6 @@ images:
     height: 522
     isCached: true
 
-secured: "G+Y3o9VKepllujVF9z2IGmZGOW/cggS+2LkOsFb574LwBrUUH+0cmdGrnXQv+Vs6snGZh5VAAwo3fe0XOiEaQm4GhZhIz2dTgnhQQGcUwI03PNSqNK4ATohfyZxTu1QmuNqN2hEoNIA72fIUBteP13GwZ/XMCF1fqVKxIcuEurVUkfVDJqUxT0Oywedfu8WEKF1Afo3UCpPD6w0Nq6E/vJnqHuaqYXOdzk5kF2VQaX4zOe74ZRkwgYZaUTbBMkrZLAqtCfZGxQ47eJAmKlDCQecFPJEBpiTndbqIb/2o3ju4TGEOppEC3bVmlC8G2DQyQhNsOKY4agg3h6viruFDdycJx1gnBEnMKFEynDT7th0=;ZMhC2CQ3yJzH5O6Cp4VBCA=="
+secured: "AeEHnHR7hmZCX5k5yX7kP/al6mZo7hePSl6zNw2zQFXexJXUFCDeskrr7nmtNW4BrfXVJ/Mlx0u3gv6sEeK8TrS5TZl4Cpn+OtqUt1lCzqk55gSElzczIZsK7cw4ZqHa1wXJFimTJc44Np28H9MB9XiBVhg1i0+Z+lfZMVHFnX0M8+Xi8dUmPn+5V1XpRLtP60BJJ25wGnLgiN9sUfgmEc50PIijkqw23tJ54rh712xyE38Z3zaRY4r6K4i4EVYgt/myeWKig//BBOUM2eoEaAedA0DPDRwLP34ohw7Ig2XQ07pQ9wNHzeHiLxl8CZKKDMW8+mvYhU1rIDP7EOBJ9Xn1drBNBaGH64lUSp8ybjQcUQXM9CKqtyJoaeAei1lXZCsUvI3TUKdFo3fI9gpndclLJ4xmKAMQEXb593TBqOH7IcrkAbTwDqFAdo7wFKJveZZBNTiDoEWlyufSLunsj6esKQn0LxjsGwuRGcOG0xNbyM3y5vpbxjdrZN64M/mAbZEM4/sb+q+ODCuawXXiHw==;8Z2ECIXev6w2VcdDvg0xtg=="
 ---
 

@@ -25,29 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Speech and Voice Recognition Market Size And Opportunities for New Players, Forecast from 2022 To 2028"
-    excerpt: "The Report Mines forecast \"Speech and Voice Recognition market\" to grow to reach Millions USD in 2022 with a CAGR of(number)% during the period 2022 - 2028 due to coronavirus situation. With regards to revenue,"
-    publishedDateTime: 2022-10-25T00:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-size-and-opportunities-for-new-players-forecast-from-2022-to-2028-2022-10-24"
+  - title: "Artificial Intelligence as a Service Market Size Predicted to Increase at a Positive CAGR Of 48.2% from 2022 to 2031"
+    excerpt: "Key Companies Covered in the Artificial Intelligence as a Service Market Research are Google (US), Amazon Web Service,"
+    publishedDateTime: 2022-10-25T06:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-predicted-to-increase-at-a-positive-cagr-of-482-from-2022-to-2031-2022-10-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Transportation Market Size 2022 To 2028, With Endless Opportunities for New Businesses."
-    excerpt: "One of the industries that is growing the quickest is the \" Artificial Intelligence in Transportation Market ,\" hence it is essential for market participants to do a thorough study of the industry beforehand."
-    publishedDateTime: 2022-10-28T06:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-transportation-market-size-2022-to-2028-with-endless-opportunities-for-new-businesses-2022-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 25
+    quality: 26
 
 secured: "ilduWnp/OMCVgEmnELlp/PXbWhT7giDNqV9LroqJmxP/SEU7JiRp1sPARgNkk5ox3iTzV0DvbQ0XIjfbBg8MHs80OE1QUQJ9Qy5fJqPNchZQ0mPkHdZmGGesxtZKAZLB9+COsBl5PKHFnFH1E4x+nwWILG49HK2FL3bpxN+60GGOVSWpG80Alf83mPQPMgpDkHGYR7P1vOhYo5aOOcTu99nQR7WDFahW/Y33qZwGHNbpcVeehN0n8A3baGX93CHrel5LOOX9ZIGfdsEMx+1JL4UX/BlPHpgtcfBipFT2uVDzPixhZHOd4QzRpHGzXFnIob1fZfVa77wucvs29Jz+Hz9Pd1pq0nUQUlicuFhMgiE=;wO3AeMcE1Fs3+xZJbEAZsA=="
 ---

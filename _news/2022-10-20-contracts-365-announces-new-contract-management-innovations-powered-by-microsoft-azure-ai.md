@@ -1,22 +1,30 @@
 ---
 category: news
 title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-excerpt: "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ..."
-publishedDateTime: 2022-10-20T04:12:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
-ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
+excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
+publishedDateTime: 2022-10-20T04:00:00Z
+originalUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
+webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "ANVektWRoPH/4o8IkC8k6idJOLhyOph+6wLdf/BThNL9UII8yvggjVfalyneBvWboyBJwQiWTjYOjeY5U+spNGKec6QKNbe+ckzepRi1NcAhAIF1zVjbDEMxLtR7LlLBmtW4VUe/Mf0FC4ZMiczg6tizcBS6f/vhlH0XMuqZgJoCJd+rYxiD3C9vsd8161SdTOJbd8xeP5xUXHmWUomimGOozuHiygoNTwErwzhLUxI5kECgBovt4Zi7Y5GyVH/q0InO+5YzMru4YJEi303sKI0QS1wvolcewL1pCoJFZzjEtVRj/sKOswms4n6kNa61kKzTE3iJtR12Z3I2z+zyhMYUjVKPntWIRYujXmvamQw=;fv1aP/bivmFsm65d0+xdaQ=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "O75OWACw8qKVQJdmuKxkawz0kMsOoUVMkErW3CRzcEUfkxd1LgAWvKqC5RpV97sK/w3gDCbfUGObjQwvCCCsxaXLbP7ht30h7DvEHVea8UeDZeuS6kE4kjIf2LZ7HYcqSZFxauLXUOPysY/7cRRQMY2P4nuIxoDhHCpir7BRO3dWoWURNDJ+n7vzc/zAfu0Xi2A6A8keruIm2bFXulGlx7Pvh0Qiz87+f9FVn5r0Rf3KufR8lmCTTND87egGLtqKs5gLJuVAApS2XvaT1OIqSpd9k/AFevPluuApy8FcbeMTyOD/raKs3RXCXGPR7OHcWJKDv36RElTiC6LWpUrweMQmiXJ9vnttakpCBA6SrtY=;e8lEhg1xQRry1EG2sGHkjg=="
 ---
 

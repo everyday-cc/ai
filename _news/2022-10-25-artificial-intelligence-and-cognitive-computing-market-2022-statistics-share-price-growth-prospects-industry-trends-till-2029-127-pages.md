@@ -88,10 +88,10 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-  - title: "Voice Recognition Software Market Size from 2022 to 2028"
-    excerpt: "The \"Voice Recognition Software Market\" offers a thorough analysis 2022 to 2028 and key data factors on the Voice Recognition Software market size as considered by the top market leaders for this Voice Recognition Software market Industry,"
-    publishedDateTime: 2022-10-25T01:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-size-from-2022-to-2028-2022-10-24"
+  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
+    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
+    publishedDateTime: 2022-10-26T21:27:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
     type: article
     provider:
       name: MarketWatch
@@ -102,15 +102,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
-    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
-    publishedDateTime: 2022-10-26T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
+  - title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+    excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
+    publishedDateTime: 2022-10-28T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

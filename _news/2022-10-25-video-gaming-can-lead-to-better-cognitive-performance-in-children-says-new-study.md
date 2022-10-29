@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Video gaming may be associated with better cognitive performance in children, study suggests"
-    excerpt: "A study of nearly 2,000 children found that those who reported playing video games for three hours per day or more performed better on cognitive skills tests involving impulse control and working ..."
-    publishedDateTime: 2022-10-24T23:09:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/10/221024130852.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 23
   - title: "Researchers discover kids who play video games have boosted cognitive function"
     excerpt: "These findings are no doubt in direct opposition to your mother’s claims from childhood. Veuer’s Tony Spitz has the details."
     publishedDateTime: 2022-10-25T17:30:00Z

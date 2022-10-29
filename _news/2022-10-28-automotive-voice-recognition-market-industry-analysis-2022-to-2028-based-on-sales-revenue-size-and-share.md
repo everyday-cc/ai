@@ -1,12 +1,12 @@
 ---
 category: news
-title: "Artificial Intelligence in Medicine Market Size [2022-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report | 104 Pages Report"
-excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
-publishedDateTime: 2022-10-27T01:56:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-2022-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-104-pages-report-2022-10-26"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-2022-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-104-pages-report-2022-10-26"
+title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
+publishedDateTime: 2022-10-28T08:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
+webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
 type: article
-quality: 32
+quality: 52
 heat: -1
 published: false
 
@@ -19,8 +19,9 @@ provider:
       height: 50
 
 topics:
-  - AI in Healthcare
+  - Natural Language Processing
   - AI
+  - AI in Sales
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
@@ -103,20 +104,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
-    excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
-    publishedDateTime: 2022-10-28T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
     excerpt: "The \"Cloud Natural Language Processing Market\" and Industry Analysis look at its market industry globally from 2022 to 2028. This research report may concentrate on a particular stock or industrial sector,"
     publishedDateTime: 2022-10-25T04:00:00Z
@@ -154,6 +141,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 36
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Medicine Market Size [2022-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report | 104 Pages Report"
+    excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
+    publishedDateTime: 2022-10-27T01:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-2022-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-104-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -225,6 +226,6 @@ related:
       domain: marketwatch.com
     quality: 23
 
-secured: "3pNgkGs838mRdsZHXlT/oRPci11tATP0FudygUSStKQWnCLpUmJJ2SeR0FC6ZhOKkC2JrP62VCNeLBR4gfphLpTL5kGtR+vFAq4/RlZTk/6+CblJ5ktwUe1uwKuzByfXaSqPJAWrncTqRg8QhoONwTEbdv5+D+3Fn2Z3tlDt/at2ILFDSAJxGZQNSS8JvG7E8hSP+XDlgDV6g39X7tOlHzYmjgh8SeTDKsebaJRf90gwU4b5aLvmjOYsVDSN5bRaNfr4O9CL2GdLNTWwOYGAZpYfRBkyPX9+XLuPJXop6kDhn8M0erY34tBRnqNwpqd4jqt4KwJjkdHZyVk+SUsSvD44X1ozQcyTvyuUTGolu9Y=;TE6XlfoJI+pwUc473xqyyQ=="
+secured: "1lzlLNz+v5TmqKNlCkhp1GJ5i/8SJphSrAP0JwkyikikrTXkr4ufEoLt9UMS5RZDHeIFnMc/b3tBptflIG1uIHlxruzNpRRHEZugoHvQdK38x5cd5MuS1taUFux0SMdlwrwIneNDX700D+A1WCT40P0iRZgUyIVZ6eOmFmzk+sfY0eqdlCbElCF4nIa5vYf4KkbuzqC/0rHoQ4MOerXhjR+smbyASnFHWhTZfKfoa84p/s02SdHefXEbkQL0EzuHGxiyfMIxhXaI8+WIVs3ONphNJlc3vJR6OtzeXou3H1ICdc23RKTu5XuVVn3FaAIer1uvoeu2VoMkm86Le7sP2ot07o4/rawiIj10F4w6saA=;81Fmxu9IOdJy/gJ8rnfW2A=="
 ---
 

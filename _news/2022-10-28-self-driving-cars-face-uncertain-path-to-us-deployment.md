@@ -57,22 +57,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Dangerous trend as drivers treat partially automated cars as total self-driving"
-    excerpt: "The Insurance Institute for Highway Safety says many drivers using those systems treat them as completely self-driving– which increases the risk of crashes. Completely self-driving vehicles are still in the experimental stage,"
-    publishedDateTime: 2022-10-24T23:16:00Z
-    webUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/"
-    ampWebUrl: "https://www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-cbs17-com.cdn.ampproject.org/c/s/www.cbs17.com/news/investigators/dangerous-trend-as-drivers-treat-partially-automated-cars-as-total-self-driving/amp/"
-    type: article
-    provider:
-      name: cbs17.com
-      domain: cbs17.com
-    quality: 40
-    images:
-      - url: "https://www.cbs17.com/wp-content/uploads/sites/29/2022/10/diving-car.jpg?w=1280"
-        width: 801
-        height: 449
-        isCached: true
   - title: "Why Do Self-Driving Cars Crash?"
     excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
     publishedDateTime: 2022-10-26T05:00:00Z
