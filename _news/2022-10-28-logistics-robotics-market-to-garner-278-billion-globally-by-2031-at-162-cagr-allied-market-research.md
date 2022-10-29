@@ -1,31 +1,20 @@
 ---
 category: news
 title: "Logistics Robotics Market to Garner $27.8 Billion, Globally, By 2031 at 16.2% CAGR: Allied Market Research"
-excerpt: "Rise in need for safety among workers in workplace and surge in demand from online retailers have boosted the growth of the global logistics robotics market. PORTLAND, Ore., /PRNewswire/ -- Allied Mar"
-publishedDateTime: 2022-10-28T14:00:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29459054/logistics-robotics-market-to-garner-27-8-billion-globally-by-2031-at-16-2-cagr-allied-market-resea"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29459054/logistics-robotics-market-to-garner-27-8-billion-globally-by-2031-at-16-2-cagr-allied-market-resea"
-ampWebUrl: "https://www.benzinga.com/amp/content/29459054"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29459054"
+excerpt: "Allied Market Research recently published a report, titled, \" Logistics Robotics Market By Type (Automated Guided Vehicles, Autonomous Mobile Robots, Robot Arms, and Others), Function (Pick and Place,"
+publishedDateTime: 2022-10-28T15:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-logistics-robotics-market-garner-278-billion-globally-2031-/2022/10/28/9701891.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-logistics-robotics-market-garner-278-billion-globally-2031-/2022/10/28/9701891.htm"
 type: article
-quality: 56
-heat: 56
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-    width: 400
-    height: 400
-    isCached: true
-
-secured: "/E6XRL/HWMpigqhHhu/06aV4GP7CEaQyB5xZo1XPx5nccONXQGdkpeomDRnrpqm7pWy34LCodp/vMEbVu9PZN04OvvBSex/biHUokdogchh9cA+FaN7dt9hystRFfG4gucr/ofXCPrwucMAUSVHVnUaP+UpPtaI6tlJ9HZv1t/3tjMiMWEE44wKMd0mAqOScJafm8SSuNzEIagsQibx4FB4P5f/HmbR21CQAJneK9Qm9A8iz1ydXjTjjUJ99SpBzz9Zfvx5EOIO/bFqlrCy8gD9kQpm8Gc6GkXEXR07k0xyCUQf/3q17skVCIrofC1o+rgvC7K8p887PwoGg1T6CsCHV7eYFAvOYK6doTcuaTkc=;460SEeQBtftZMftJsGLeIw=="
+secured: "MYIhgivO6ZnU02iokoelsbcaTt0mNstydGCXZ9HkdtfUt3HERJrTG3zsrTqMB4bXrV0uD1+imitMM89pSt8ISjdcdqHQWMDpqFQ7HlVaWrmpHNWvuQRiqZueVDbsQHXKyjN+w/CS8Jt/CIo25S3ZwWrR0XHp5p1NxkWLI3XpcDY0DghtNlznL4HGhPNGX0cOUhWon8w8iMHU9MJsw4RkvioetTkmUdWjzjviWrDspjppncAk9GsT77NB14mzrPPu8ASbvwNHl8BMxnlvQ9+TytFRDkw3BKQgdF2AoiimF10lqvEJ7s42VY/eH+yeNQ/Jk5dwA5ZJiPW7qXHWqTS3j7W++Fju2woa77FusbWJBsuVObAo9nyDu7AhtPXpXlZto38K5uMqDRRZB/e2mjqb4O+//k87EohxZhqWNjpSFuA5/d0Ds1bIDCInb/JR9U7IUcvq09xQ2MJYx5xALUtSJ4SKuG43ODzcIE99sB5MjanX36X5NqhONBhMWdxw50j6jQwjvz9sN8TJDTZstyBQqA==;LOnUlTfbVA2Z7ytfOvvoSA=="
 ---
 

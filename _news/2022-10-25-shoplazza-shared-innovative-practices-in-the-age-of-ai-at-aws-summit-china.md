@@ -6,9 +6,6 @@ publishedDateTime: 2022-10-24T19:29:00Z
 originalUrl: "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china"
 webUrl: "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
   name: Asia One
@@ -18,12 +15,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo"
-    width: 600
-    height: 316
-    isCached: true
-
-secured: "RVdBy7ubo0hoNRgIre3bUEnTx2ml/rMHOOJ0DBtwc5PeeOZsBBzSwG4YkYexu1iI6gw1Y+BOk5GX/+xLOiDwLnMFNNB1GDEZEx8Z/2KSwqraDobQVC1lOUpmH/Bp+UBSz4TU8YJPRYnAjS94ON+KE1fdp9H/UMKDNLxfcl0fRNBq+pmNbLMgyLo9tIpbkfJVWMSrzjK9yVHgD47+vEqnqwX9PZBLGKButu5T+JMQNppL613pmXZEJYXQn0s4JzGRory012Yb5zDoOE2u4sqJQ8Jp/ns4WGNA7JScdIDeIA6Tut/ojDpfZ8zGC4MltedsiRMks/PKifyScTkeAmxA6Fb2xaiP9VbVT9QGO/4rp/E=;L0H50EnYTdYV7Ggv5RjmsQ=="
+secured: "mQtWcY8446KabBdb8gFYwyyPHgjCF3QPoaLaiHAUmyxl+9F+5lxnP9k9KzUmvqUgs0RY5ITBNDKTRIyfqvJ3LFs7vBefGLK6i8B3eTDyeG8XHyY/5Lv6kNMVychNdO+AxKyr4bozS7DrgLIMranFVzSQ/19UpXHvXA7eu7d+GCEer5Lcs2YqRZLGtdMoFPdFoFHZsqOf7sexzQqoSxOYhcU7NuAfiCk7X8fhm9IQQ8Kat4KB8TWPDMvVTCusYE+cMNW2FRkivcvXYsyRQborXbOepi5PCkVx5mgaFzXGgfYy5DUJtxAbbzOW8K1H7pMN/bOW6wmTmOmNpWo7KFIZsyepnMNMFjgahS0j3QW1ktY=;D4HLO6DovR4MGm54Qlt3UQ=="
 ---
 
