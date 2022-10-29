@@ -26,22 +26,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence is used for predictive policing in the US and UK – South Africa should embrace it, too"
-    excerpt: "Predictive policing has improved in leaps and bounds and become increasingly automated thanks to big data, data mining and powerful computers."
-    publishedDateTime: 2022-10-24T13:17:00Z
-    webUrl: "https://theconversation.com/artificial-intelligence-is-used-for-predictive-policing-in-the-us-and-uk-south-africa-should-embrace-it-too-191266"
-    ampWebUrl: "https://theconversation.com/amp/artificial-intelligence-is-used-for-predictive-policing-in-the-us-and-uk-south-africa-should-embrace-it-too-191266"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/artificial-intelligence-is-used-for-predictive-policing-in-the-us-and-uk-south-africa-should-embrace-it-too-191266"
+  - title: "Machine learning could help South African police predict and stop crimes"
+    excerpt: "University of the Western Cape researchers argue that South Africa should embrace artificial intelligence for predictive policing."
+    publishedDateTime: 2022-10-29T07:02:00Z
+    webUrl: "https://mybroadband.co.za/news/security/466615-machine-learning-could-help-south-african-police-predict-and-stop-crimes.html"
     type: article
     provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 37
-    images:
-      - url: "https://images.theconversation.com/files/486478/original/file-20220926-14-5pa015.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
-        isCached: true
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 18
 
 secured: "e6G+/gCWfbRNWjZxTvdnfqaOVq9TxM5U73JmBES5qpCVMUDbqD0HL8fZ7KCjgxajwBdnXEsn8fwVn4nf5NPXK+pDyGz7JhbuWK+TfY9hxvJwpPx3LezS6g9Ha5W96Ca161eZ0qzGr7P8VgIey6wvdzsS2ZzIlNhzyyetmib+w/eFMZzKgaw7wPeDqHYgkuFj9szbdKp3Rl0jxQbbAKTVkYgUSSlqFS8AimuqW/VyD3ZtJBG+oy9kPoict4ZdVPEgXmHiVe8X6jQcOjLQUNa5Cl6aKyG1Wc3j3pEVkWgxmNj82XsovmOJ015LuRG29iGxdTrIYIB4VVsPytih99duGLPhv9eK5pReyPmEbdrrzrXsC1xFXIDuVb8e1pT/1DmpAirpwU5rY2x85yUq48O8LWYdVt/0nyKBXQkCU+8HUK7icZLU3aDlvahb8qSWtHGqONFc44Cc97vhNTIquONth3eLebLDvXhsu1i8YULL4L0g0iOcEq5oQd2yOggRqfXSpsUzTzsf25fdEyHX8YP30g==;i3t/MANraQIlmwr0oIu4KA=="
 ---

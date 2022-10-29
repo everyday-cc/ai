@@ -67,6 +67,20 @@ related:
         width: 512
         height: 512
         isCached: true
+  - title: "28/10 – Weekly Fintech Recap"
+    excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
+    publishedDateTime: 2022-10-29T06:45:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2810-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_9.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
     excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
     publishedDateTime: 2022-10-26T02:20:00Z

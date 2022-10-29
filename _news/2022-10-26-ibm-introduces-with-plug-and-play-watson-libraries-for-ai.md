@@ -48,6 +48,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 58
+  - title: "IBM expands embeddable AI portfolio with plug-and-play Watson libraries"
+    excerpt: "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build ..."
+    publishedDateTime: 2022-10-25T13:29:00Z
+    webUrl: "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/?via=indexdotco"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 54
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg"
+        width: 830
+        height: 456
+        isCached: true
   - title: "IBM Gives Partners Access To Three New AI Libraries"
     excerpt: "The libraries, meanwhile, give partners access to the same AI libraries that power IBM Watson products, according to IBM. Developers and IT teams can embed the new libraries into their applications and make custom products without data science expertise ..."
     publishedDateTime: 2022-10-25T15:32:00Z

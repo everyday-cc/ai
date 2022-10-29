@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/luminars-lidar-tec
 webUrl: "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Driverless car development sets ablaze a bonfire of billions"
-    excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
-    publishedDateTime: 2022-10-24T13:46:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/21/driverless-car-developmentsets-ablaze-a-bonfire-of-billions/69580100007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "UfRqS9pMGBWh9PuPIbrBHfnyA5I/+VtegohvFaE59s6R4hy1yfVTUBJy2Wr+toTx99l0ZZHk8lGNPg/ikl0AqR6D2RDZFZhzS2ikkKDHaPztLm+fpf79+VXMo2tMxjynUkE0D6E1afdNMlNP1zUni5oR5l2WszmI1h9l/gF3+fDaO+5h1AtbfX/+0T1iUa0+F88K+NSmbV6AEw2ADX9IMcZYz7CwvB+A6WHZ4OPhD4JhiTLz4OevvhmInHpbVkyjHTBRRO37dMCRe5z6L7cSHkXS5uZS/5hA2Uet4qb5e7iPJK2ECeLp+Ckm6j9P+MpanjlsBT495HUCeiH1VyKeAREwWks/bvihrSC41GVmoiA=;u8ip33xXjMZY1+0OWCCw9Q=="
 ---

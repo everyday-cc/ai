@@ -32,15 +32,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Driverless car development sets ablaze a bonfire of billions"
-    excerpt: "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ..."
-    publishedDateTime: 2022-10-24T13:46:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/10/21/driverless-car-developmentsets-ablaze-a-bonfire-of-billions/69580100007/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 19
 
 secured: "tSLwThE6XYEP8ue4+xRb2UZhOQd1/pFPc5BWXrQx4kWw21rdJsAOgHpY2wGNgCWMnY9qKkb/Ifzr/yzcBrarS9EwBy8cKhKFX0lk2LQ0NGMBlzzI6MfroBwD1GXxFo9GptnxH0VC8sThUlDIIuSXfF1rq/RQMZUk7qz1umF42fu6yk8XAIonZqHLb1jHqm3RUb72f9Y13aQxVxRvwWlC8nlWPpch0HqFdPUZZohAGB5GFk2A8HNAZHYRBWaQ12zPxaaFfjl1wwFkLN6jPEGy6sJpJlV18uu+HbzzvAaX3dbPVKDF/kK0/stVz3C5s0uINg5UAPWqRn7ceBOOTe00hM1k6xrZ+3CE1Sdvv1N0W0w=;3iJLLz+kBd+OjdOQifArNQ=="
 ---
