@@ -14,6 +14,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AWS AI
 
 images:
   - url: "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg"

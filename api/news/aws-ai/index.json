@@ -416,6 +416,126 @@
       ]
     },
     {
+      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
+      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
+      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Cheat Sheet",
+        "domain": "cheatsheet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch.md",
+      "title": "Dev Of Incredible F-Zero-Inspired 'Aero GPX' Wants To Bring Racer To Switch",
+      "excerpt": "We desperately want to see Captain Falcon and the F-Zero franchise return to our screens — the game's appearance in Smash Bros. just isn't enough! Luckily, there are some fantastic indie games ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
+      "originalUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-22T02:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nintendo Life",
+        "domain": "nintendolife.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-22-f4-racer-austin-teenager-inspired-by-us-grand-prix.md",
+      "title": "F4 racer, Austin teenager inspired by U.S. Grand Prix",
+      "excerpt": "AUSTIN (KXAN) – On Friday, 17-year-old racecar driver and Austinite Ryan Shehan returned to the Formula One U.S. Grand Prix as a guest speaker for COTA’s “Best in Texas STEM”—a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "originalUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2022/10/7980062CA1C1BB8B5F5AB34F2D5E2586-e1666396408832.jpg?w=1280",
+          "width": 1280,
+          "height": 881,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
+      "publishedDateTime": "2022-10-21T21:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-billiondollarbreaks-d-wave-quantum-inc-nyse-qbts-now-available-in-aws-marketplace.md",
       "title": "BillionDollarBreaks - D-Wave Quantum Inc. (NYSE: QBTS) Now Available in AWS Marketplace",
       "excerpt": "D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software and services, and the only quantum computing company building both annealing and gate-model quantum computers, has launched in AWS Marketplace.",
@@ -448,6 +568,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-giant-horrid-deep-sea-louse-like-creature-filmed-feasting-on-fish-head.md",
+      "title": "Giant, Horrid Deep-Sea Louse-Like Creature Filmed Feasting on Fish Head",
+      "excerpt": "A creepy video captured during a research dive off the coast of Florida shows a deep-sea creature feasting on the head of a fish. The video was featured in the NOAA (National Oceanic and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
+      "originalUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2138119/giant-isopod-eating-fish.png",
+          "width": 2520,
+          "height": 1680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/giant-deep-sea-creature-filmed-eating-fish-head-1753848?amp=1",
+      "publishedDateTime": "2022-10-21T07:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -616,6 +788,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-20-american-rally-community-mourns-loss-of-beloved-grassroots-racer-al-dantes-jr.md",
+      "title": "American Rally Community Mourns Loss of Beloved Grassroots Racer Al Dantes Jr.",
+      "excerpt": "The American rally community is mourning the loss of one of the sport's most beloved grassroots competitors this week. Al Dantes Jr. of the Tower City Racing Team was killed on October 13 after an ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.roadandtrack.com/news/a41712592/american-rally-community-mourns-loss-of-beloved-grassroot-racer-al-dantes-jr/",
+      "originalUrl": "https://www.roadandtrack.com/news/a41712592/american-rally-community-mourns-loss-of-beloved-grassroot-racer-al-dantes-jr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/al-dantes-jr-1666196297.jpeg?crop=1.00xw:0.346xh;0,0.264xh&resize=1200:*",
+          "width": 1079,
+          "height": 542,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T09:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Road & Track",
+        "domain": "roadandtrack.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-implement-rstudio-on-your-aws-environment-and-access-your-data-lake-using-aws-lake-formation-permissions.md",
       "title": "Implement RStudio on your AWS environment and access your data lake using AWS Lake Formation permissions",
       "excerpt": "R is a popular analytic programming language used by data scientists and analysts to perform data processing, conduct statistical analyses, create data visualizations, and build machine learning (ML) models. RStudio, the integrated development environment for R, provides open-source tools and enterprise-ready",
@@ -775,6 +990,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-19-aero-gpx-is-an-f-zero-like-racer-on-kickstarter-with-a-breakneck-demo-to-try.md",
+      "title": "Aero GPX Is an F-Zero-Like Racer on Kickstarter with a Breakneck Demo to Try",
+      "excerpt": "Solo developer Aaron McDevitt has launched a Kickstarter for Aero GPX, a cel-shaded anti-gravity racing game that takes after Nintendo’s futuristic F-Zero series. Its inspiration is clear from ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "originalUrl": "https://www.escapistmagazine.com/aero-gpx-f-zero-racer-kickstarter-demo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.escapistmagazine.com/wp-content/uploads/2022/10/aero-gpx-kickstarter.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T10:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Escapist",
+        "domain": "escapistmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-deep-learning-in-healthcare-market-is-dazzling-worldwide-micron-technology-aws-mythic.md",
       "title": "Deep Learning in Healthcare Market Is Dazzling Worldwide | Micron Technology, AWS, Mythic",
       "excerpt": "The Deep Learning in Healthcare – Market Development Outlook Study has been added to HTF MI repository. The study",
@@ -916,6 +1174,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-18-cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas.md",
+      "title": "Cove barrel racer qualifies for rodeo championships in Las Vegas",
+      "excerpt": "COVE — In the West, the love of a girl and her horse is a well-known story. For Hayden Johnson, 9, a barrel racer from Cove, that love for horses is taking her to the Vegas Tuffest Jr. World ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
+      "originalUrl": "https://www.lagrandeobserver.com/news/local/cove-barrel-racer-qualifies-for-rodeo-championships-in-las-vegas/article_673e46c2-4e4b-11ed-a92b-5fc4a7632d1c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/lagrandeobserver.com/content/tncms/assets/v3/editorial/8/dd/8dd743f6-4973-11ed-8521-2fc10b9b4f55/634582a12f5c9.image.jpg?crop=1703%2C894%2C0%2C161&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "La Grande Observer",
+        "domain": "lagrandeobserver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-aws-announces-that-it-will-launch-an-infrastructure-region-in-thailand.md",
       "title": "AWS announces that it will launch an infrastructure Region in Thailand",
       "excerpt": "Amazon Web Services (AWS) has announced plans to open an infrastructure Region in Thailand. The new AWS Asia Pacific (Bangkok) Region will consist of three Availability Zones, adding to the existing 87 Availability Zones across 27 geographic regions.",
@@ -1011,6 +1312,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-18-deep-sea-organisms-research-oriented-by-deep-sea-technologies-development.md",
+      "title": "Deep-sea organisms research oriented by deep-sea technologies development",
+      "excerpt": "The deep sea has been documented as the largest biome on earth. Typical deep-sea ecosystems such as hydrothermal vents, cold seeps, seamounts, oceanic trenches, and whale falls, shatter our early ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-sea-technologies.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/deep-sea-organisms-res.jpg",
+          "width": 1600,
+          "height": 1671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-sea-technologies.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-sea-technologies.amp",
+      "publishedDateTime": "2022-10-17T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-amazon-to-boost-thailand-cloud-infrastructure-with-5-bln-investment.md",
       "title": "Amazon to boost Thailand cloud infrastructure with $5 bln investment",
       "excerpt": "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ...",
@@ -1045,281 +1389,35 @@
       ]
     },
     {
-      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
-      "title": "Testing approaches for Amazon SageMaker ML models",
-      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
+      "path": "_news/2022-10-17-father-of-6-up-rally-racer-killed-in-gas-station-crash.md",
+      "title": "Father of 6, U.P. rally racer killed in gas station crash",
+      "excerpt": "L’ANSE, MI – A 43-year-old father of six died when a semitruck crashed into a gas pumps and caused an “extensive” fire where he was filling up his vehicle last week. Allan Dantes Jr., of ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
-          "width": 1549,
-          "height": 774,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:51:56-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-14-encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models.md",
-      "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
-      "excerpt": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg",
-          "width": 1551,
-          "height": 775,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-14T10:47:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-everyone-wants-responsible-artificial-intelligence-few-have-it-yet.md",
-      "title": "Everyone Wants Responsible Artificial Intelligence, Few Have It Yet",
-      "excerpt": "Responsible AI should be more than a 'check-the-box exercise,' but rather part of the organization’s top management agenda",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&width=1200",
-          "width": 986,
-          "height": 553,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/amp/",
-      "publishedDateTime": "2022-10-12T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier.md",
-      "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
-      "excerpt": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T12:08:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
-      "title": "Google says it's 'cracked the code' to business intelligence",
-      "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/2c15d46c470c4537fefd3a1fdc3e4e449e658cfd/2020/01/23/be6d0341-424e-424a-95d8-da906528f235/datacenterpeopleistock-802301504.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
-      "publishedDateTime": "2022-10-11T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
-      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
+      "webUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
+      "originalUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UX5LJ2GR55A3JHQZRREIXKJE6Y.jpeg",
+          "width": 2000,
+          "height": 1501,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T14:56:00-07:00",
+      "ampWebUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
+      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
+      "publishedDateTime": "2022-10-17T08:42:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "MLive",
+        "domain": "mlive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1331,163 +1429,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc.md",
-      "title": "AI in fintech Market to Eyewitness Massive Growth by 2030 | Amazon Web Services, Inc., ComplyAdvantage, Google LLC",
-      "excerpt": "The research serves as a manual and road map for doing an exhaustive investigation of the worldwide AI in fintech, target market, rivalry, and other factors. The AI in fintech market offers a quantitative analysis of the relevant industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030.md",
-      "title": "Artificial Intelligence In Fintech Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030",
-      "excerpt": "The Global Artificial Intelligence In Fintech Market size is expected to reach $25.8 billion by 2028, rising at a market growth of 16.8% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-10T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
-      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
-      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
-      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
-      "publishedDateTime": "2022-10-08T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

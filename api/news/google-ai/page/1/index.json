@@ -64,7 +64,7 @@
       "originalUrl": "https://blog.google/technology/health/a-new-genome-sequencing-tool-powered-with-our-technology/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -313,7 +313,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Google AI"
+        "Google AI",
+        "AWS AI"
       ]
     },
     {

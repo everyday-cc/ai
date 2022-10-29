@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-sta
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -76,6 +76,22 @@ related:
     quality: 87
     images:
       - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
+    excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
+    publishedDateTime: 2022-10-28T23:29:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 630
         isCached: true

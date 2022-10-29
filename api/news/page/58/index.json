@@ -2,21 +2,21 @@
   "page": 58,
   "value": [
     {
-      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
-      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
-      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
+      "path": "_news/2022-09-07-mcdonalds-breakfasts-driverless-buses-among-innovations-launched-in-newcastle.md",
+      "title": "McDonald's breakfasts, driverless buses among innovations launched in Newcastle",
+      "excerpt": "The polymer bank note? Newcastle tested and passed. The driverless bus? Trialled in Newy. Sydney's infamous lockout laws? Taken up after a \"successful\" installation in Newcastle. The Hunter has ...",
       "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
-      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "webUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
+      "originalUrl": "https://www.abc.net.au/news/2022-09-07/mcdonalds-breakfasts-driverless-buses-newcastle-innovations/101399644",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
-          "width": 256,
-          "height": 256,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ed3cda7a3cd6263f40028637d2c3cb93?impolicy=wcms_crop_resize&cropH=467&cropW=700&xPos=0&yPos=230&width=862&height=575",
+          "width": 700,
+          "height": 467,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,169 +24,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T08:32:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101399644",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101399644",
+      "publishedDateTime": "2022-09-06T16:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Security Week",
-        "domain": "securityweek.com",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-whirlpool-ceo-ai-is-making-kitchens-and-appliances-smarter.md",
-      "title": "Whirlpool CEO: AI is making kitchens and appliances smarter",
-      "excerpt": "Marc Bitzer reveals why Whirlpool is a magnet for AI tech experts.",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
-      "originalUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/7c21f374-e607-4cb5-845d-f4674a9d6e52/Images/posterImage-ver1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
-      "publishedDateTime": "2022-08-19T08:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips.md",
-      "title": "Nvidia will disclose Grace Hopper architectural details at Hot Chips",
-      "excerpt": "Nvidia is delivering four technical presentations at next week's Hot Chips focused on the Grace CPU, Hopper GPU, Orin SoC and NVLink.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/nvidia-Corporate-Blog-Press-Graphic_Grace-and-Grace-Hopper.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
-      "publishedDateTime": "2022-08-19T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-automotive-operating-systems-market-to-see-strong-expansion-through-2027.md",
-      "title": "Automotive Operating Systems Market To See Strong Expansion Through 2027",
-      "excerpt": "Global automotive operating systems market revenue is anticipated to surpass USD 10 billion by 2027. An increase",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-operating-systems-market-to-see-strong-expansion-through-2027-2022-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-operating-systems-market-to-see-strong-expansion-through-2027-2022-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T07:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -200,185 +45,29 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-ai-powered-delivery-automation-streamlined-for-the-enterprise.md",
-      "title": "AI-powered delivery automation streamlined for the enterprise",
-      "excerpt": "The last two years saw a rise in home deliveries, and with it came demand for digital transformation and automation across the supply chain.",
+      "path": "_news/2022-09-07-video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026.md",
+      "title": "Video Content Management System Market Analysis, Size, Share, Facts and Figures, Services and Forecast 2026",
+      "excerpt": "The global Video Content Management System Market size expected to grow at a Compound Annual Growth Rate (CAGR) of 14.0% during the forecast period, to reach USD 6.8 billion by 2026 from USD 3.5 billion in 2021.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
-      "originalUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
+      "webUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
+      "originalUrl": "https://www.marketwatch.com/press-release/video-content-management-system-market-analysis-size-share-facts-and-figures-services-and-forecast-2026-2022-09-06",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/01/package.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
-      "publishedDateTime": "2022-08-19T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
-      "title": "Robotics and automation are the future of healthcare",
-      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
-      "sourceUrl": null,
-      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
-          "width": 703,
-          "height": 497,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T06:00:00-07:00",
+      "publishedDateTime": "2022-09-06T15:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MedCity News",
-        "domain": "medcitynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
-      "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
-      "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg",
-          "width": 629,
-          "height": 475,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
-      "publishedDateTime": "2022-08-19T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
-      "title": "10 top cybersecurity online courses and certifications in 2022",
-      "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
-      "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-certificate_certification_1335802150-e1660857259342.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
-      "publishedDateTime": "2022-08-19T04:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -399,12 +88,12 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-us-open-marks-ibm-extension-with-new-redesigned-ai-driven-app-and-website.md",
-      "title": "US Open marks IBM extension with new redesigned, AI-driven app and website",
-      "excerpt": "USTA has worked with tech giant IBM for more than 30 years and will continue to do so for another five to build out its digital capabilities.",
+      "path": "_news/2022-09-07-it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft.md",
+      "title": "IT services provider Long View is recognized as an industry leader in sustainability by Cisco and Microsoft",
+      "excerpt": "A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\". A magnifying glass. It indicates, \"Click to perform a search\".",
       "sourceUrl": null,
-      "webUrl": "https://www.sportspromedia.com/news/us-open-official-app-ibm-usta/?blocktaxonomy=technology",
-      "originalUrl": "https://www.sportspromedia.com/news/us-open-official-app-ibm-usta/?blocktaxonomy=technology",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/it-services-provider-long-view-is-recognized-as-an-industry-leader-in-sustainability-by-cisco-and-microsoft-1031727161",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -414,100 +103,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T04:39:00-07:00",
+      "publishedDateTime": "2022-09-06T11:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SportsPro",
-        "domain": "sportspromedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
-      "title": "CEAT transforms digitally with AWS IoT and analytics",
-      "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
-      "publishedDateTime": "2022-08-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-otterai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls.md",
-      "title": "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls",
-      "excerpt": "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
-      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/1171660816481_.pic_.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
-      "publishedDateTime": "2022-08-19T03:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -523,17 +126,17 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Natural Language Processing"
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-08-19-cancer-targeted-therapy-market-forecast-to-2026-covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography.md",
-      "title": "Cancer Targeted Therapy Market Forecast to 2026 - COVID-19 Impact and Global Analysis by Product Type, Indication, End User, and Geography",
-      "excerpt": "Global “Cancer Targeted TherapyMarket”2022 Research report is an in-depth study of the market. Along with the most",
+      "path": "_news/2022-09-07-taiwanese-president-cites-threat-of-chinese-cognitive-warfare.md",
+      "title": "Taiwanese President cites threat of Chinese ‘cognitive warfare’",
+      "excerpt": "Taiwanese President Tsai Ing-wen said on September 6 that China is conducting “cognitive warfare” by spreading misinformation in addition to its regular incursions into nearby waters and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cancer-targeted-therapy-market-forecast-to-2026---covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography-2022-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/cancer-targeted-therapy-market-forecast-to-2026---covid-19-impact-and-global-analysis-by-product-type-indication-end-user-and-geography-2022-08-19",
+      "webUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
+      "originalUrl": "https://www.thehindu.com/news/international/taiwanese-president-cites-threat-of-chinese-cognitive-warfare/article65857145.ece",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -543,268 +146,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T03:01:00-07:00",
+      "publishedDateTime": "2022-09-06T10:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
-      "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
-      "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "publishedDateTime": "2022-08-19T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027.md",
-      "title": "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027",
-      "excerpt": "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T02:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-otterai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all.md",
-      "title": "Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all",
-      "excerpt": "There’s good news and bad news for users of the Otter.ai transcription service. The good news is that Otter Assistant — a bot that can be configured to record meetings automatically — will now be available to everyone,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
-      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Otter-changes.jpg?w=680",
-          "width": 680,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
-      "publishedDateTime": "2022-08-19T02:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-5-best-self-driving-stocks-to-invest-in.md",
-      "title": "5 Best Self-Driving Stocks To Invest In",
-      "excerpt": "The company’s DRIVE Chauffeur platform is an artificial intelligence assisted driving ... Not only is Orin the world’s fastest self-driving computer, but NVIDIA Corporation (NASDAQ:NVDA ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
-      "originalUrl": "https://www.insidermonkey.com/blog/5-best-self-driving-stocks-to-invest-in-1058088/4/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insider Monkey",
-        "domain": "insidermonkey.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
-      "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
-      "excerpt": "PUNE, India, Aug. 19, 2022 /PRNewswire/ -- ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report.",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive rehab may help older adults clear COVID-related brain fog",
-      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "originalUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily News Online",
-        "domain": "thedailynewsonline.com",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -819,21 +165,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
-      "title": "When we might meet the first intelligent machines",
-      "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
+      "path": "_news/2022-09-07-springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program.md",
+      "title": "SpringML Renews its Machine Learning Specialization in the Google Cloud Partner Advantage Program",
+      "excerpt": "Partners achieving this specialization have demonstrated success with data exploration, preprocessing, model training, model evaluation, model deployment, online prediction, and Google pretrained Machine Learning APIs.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
-      "originalUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/springml-renews-its-machine-learning-specialization-in-the-google-cloud-partner-advantage-program-1031727055",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323774184.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
+          "url": "https://mma.prnewswire.com/media/1892506/SpringML_Renews_Machine_Learning_Specialization.jpg",
+          "width": 400,
+          "height": 227,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -841,16 +187,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "publishedDateTime": "2022-08-18T20:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-06T10:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -869,283 +215,7 @@
         "Machine Learning",
         "AI"
       ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
-      "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
-      "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/18/23/61524377-0-image-a-13_1660863054852.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "publishedDateTime": "2022-08-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2022: Market Growth at a CAGR of 38.28% to Outstrip USD 67231.66 Million till 2027",
-      "excerpt": "Aug 19, 2022 (The Expresswire) -- Artificial Intelligence (AI) Chips Market Insight: Report on \"Artificial Intelligence (AI) Chips Market\" 2022-2027 Report helps to Development Strategy for Pre ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly.md",
-      "title": "IBM CEO: Fears About Artificial Intelligence 'Are Not Positioned Properly'",
-      "excerpt": "IBM's cognitive computer Watson has struck ... Rather than completely replacing most jobs, artificial intelligence will help complement jobs done by humans, she claimed. \"Most important, you ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "originalUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ5NjQzMjk2MDQwODU1/ibm-beats-estimates-but-devil-is-in-the-details.jpg",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-could-be-on-uk-motorways-in-2023.md",
-      "title": "Self-driving cars could be on UK motorways in 2023",
-      "excerpt": "Cars with self-driving features could be used on motorways from 2023. Manufacturers will be responsible for the vehicle’s actions when self-driving, under new legislation. Government is making a £100 million investment, including researching safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.honestjohn.co.uk/news/driving-1/2022-08/self-driving-cars-could-be-on-uk-motorways-in-2023/",
-      "originalUrl": "https://www.honestjohn.co.uk/news/driving-1/2022-08/self-driving-cars-could-be-on-uk-motorways-in-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.honestjohn.co.uk/imagecache/file/crop/1200x800/media/17359232/driverless-car.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HonestJohn.co.uk",
-        "domain": "honestjohn.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
-      "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
-      "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20220818005157/en/1547385/4/The_LA_Hope_Dealer.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "publishedDateTime": "2022-08-18T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-driverless-cars-experts-warn-no-easy-answer-to-how-safe-they-should-be.md",
-      "title": "Driverless cars: Experts warn no easy answer to how safe they should be",
-      "excerpt": "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.co.uk/news/technology-62598618",
-      "originalUrl": "https://www.bbc.co.uk/news/technology-62598618",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.co.uk/news/technology-62598618.amp",
-      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp",
-      "publishedDateTime": "2022-08-18T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
     }
   ],
-  "nextPage": 59
+  "nextPage": null
 }

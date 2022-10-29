@@ -7,7 +7,7 @@ originalUrl: "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio
 webUrl: "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx"
 type: article
 quality: 68
-heat: 78
+heat: 79
 published: true
 
 provider:

@@ -20,6 +20,7 @@ topics:
   - Machine Learning
   - AI
   - Computer Vision
+  - AWS AI
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg"

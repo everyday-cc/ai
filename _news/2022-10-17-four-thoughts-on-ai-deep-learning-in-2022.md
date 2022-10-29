@@ -24,6 +24,7 @@ topics:
   - Machine Learning
   - AI
   - Google AI
+  - AWS AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all"

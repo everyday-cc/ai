@@ -259,7 +259,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 210,
+      "heat": 220,
       "tags": null,
       "images": [
         {
@@ -1114,7 +1114,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Computer Vision"
+        "Computer Vision",
+        "AWS AI"
       ]
     },
     {
@@ -1167,7 +1168,8 @@
       "topics": [
         "Machine Learning",
         "AI",
-        "Google AI"
+        "Google AI",
+        "AWS AI"
       ]
     },
     {
@@ -1370,7 +1372,8 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {

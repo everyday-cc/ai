@@ -78,6 +78,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
+    excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
+    publishedDateTime: 2022-10-28T23:29:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
     publishedDateTime: 2022-10-28T11:21:00Z

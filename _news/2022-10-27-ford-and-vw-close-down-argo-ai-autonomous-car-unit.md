@@ -9,7 +9,7 @@ ampWebUrl: "https://www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-au
 cdnAmpWebUrl: "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/ford-and-vw-close-down-argo-ai-autonomous-car-unit/?amp"
 type: article
 quality: 87
-heat: 373
+heat: 367
 published: true
 
 provider:

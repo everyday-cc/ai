@@ -90,6 +90,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
+    excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
+    publishedDateTime: 2022-10-28T23:29:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 84
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "dmhSBOWROk5fW9az3ok+HDkBVlPlnoH/KkW7ivxrgX7LcTlcYeq7ihuWBLXsmg1nvvqhtxi+dAUQ8tggjeO9mfXvTrn/1H3ooLVykwW7lgKBdvKY2w5ZCa6m6IPkSxD8F2/FLoKbV32/l+W4qWTajkjLlFP0BbWF3szI6eJDqAus+Lwdbnwwff76KcJwKB2wno8aQWd1cAAPQGNnErIOehbIcpngzTK5HSllKozG0gQNsA/oQcglxJLT+6G/dLw8XpyTBng/56TrB2qozDYBTIVcc+CldF8P9pBGExdsv32ajm7POpgI8Er09lSpZSa5X2nfpd9csRMw8VKDu7Q411w00g5B8/q1JToN2lXgphg=;BgfgxyGBXu4plmZgskgPyQ=="
 ---

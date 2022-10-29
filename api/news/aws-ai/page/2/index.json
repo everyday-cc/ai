@@ -2,6 +2,776 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-17-deep-learning-tool-identifies-bacteria-in-micrographs.md",
+      "title": "Deep learning tool identifies bacteria in micrographs",
+      "excerpt": "Omnipose, a deep learning software, is helping to solve the challenge of identifying varied and miniscule bacteria in microscopy images. It has gone beyond this initial goal to identify several other types of tiny objects in micrographs.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "originalUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/deep-learning-tool-ide.jpg",
+          "width": 795,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-deep-tool-bacteria-micrographs.amp",
+      "publishedDateTime": "2022-10-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
+      "title": "Four thoughts on AI deep learning in 2022",
+      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
+      "publishedDateTime": "2022-10-17T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
+      "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
+      "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
+      "originalUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/10/l/m/scott-eldredge.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-16T17:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXLY 4 News",
+        "domain": "kxly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
+      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
+      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
+      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
+          "width": 1170,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
+      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
+      "publishedDateTime": "2022-10-16T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Well+Good",
+        "domain": "wellandgood.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-amazon-ec2-trn1-instances-for-high-performance-on-deep-learning-training-models-now-available.md",
+      "title": "Amazon EC2 Trn1 Instances for High Performance on Deep Learning Training Models Now Available",
+      "excerpt": "Subscribe for free. AWS Trainium is the second-generation of machine learning chips that AWS purpose built for deep learning training. Each Amazon EC2 Trn1 instance deploys up to 16 AWS Trainium ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "originalUrl": "https://www.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/10/aws-trn1-chip-deep-learning/en/headerimage/generatedHeaderImage-1665697443428.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-15T04:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed.md",
+      "title": "Software won’t solve the climate crisis: Deep tech investment is needed",
+      "excerpt": "Register now for your free virtual pass to the Low-Code/No-Code Summit this November 9. Hear from executives from Service Now, Credit Karma, Stitch Fix, Appian, and more. Learn more. In 2011, Marc ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
+      "originalUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1058793846-shark_749.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/software-wont-solve-the-climate-crisis-deep-tech-investment-is-needed/amp/",
+      "publishedDateTime": "2022-10-15T03:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-15-phoenix-street-racer-sentenced-to-25-years-in-prison-after-pleading-guilty.md",
+      "title": "Phoenix street racer sentenced to 2.5 years in prison after pleading guilty",
+      "excerpt": "PHOENIX – A man known for organizing illicit street racing activities in Phoenix was sentenced to 2½ years in prison this week, authorities said Thursday. Jessie Ray Luna-Espinoza pleaded ...",
+      "sourceUrl": null,
+      "webUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
+      "originalUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ktar.com/wp-content/uploads/2022/10/Jessie-Luna-Espinoza.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
+      "cdnAmpWebUrl": "https://ktar-com.cdn.ampproject.org/c/s/ktar.com/story/5291801/phoenix-street-racer-sentenced-to-2-5-years-in-prison-after-pleading-guilty/amp/",
+      "publishedDateTime": "2022-10-14T20:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTAR News",
+        "domain": "ktar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-testing-approaches-for-amazon-sagemaker-ml-models.md",
+      "title": "Testing approaches for Amazon SageMaker ML models",
+      "excerpt": "This post was co-written with Tobias Wenzel, Software Engineering Manager for the Intuit Machine Learning Platform. We all appreciate the importance of a high-quality and reliable machine learning (ML) model when using autonomous driving or interacting with Alexa, for examples. ML models also play an",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/testing-approaches-for-amazon-sagemaker-ml-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/testing-approaches-for-sagemaker-ml-models.jpg",
+          "width": 1549,
+          "height": 774,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T10:51:56-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-14-encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models.md",
+      "title": "Encode multi-lingual text properties in Amazon Neptune to train predictive models",
+      "excerpt": "Amazon Neptune ML is a machine learning (ML) capability of Amazon Neptune that helps you make accurate and fast predictions on your graph data. Under the hood, Neptune ML uses Graph Neural Networks (GNNs) to simultaneously take advantage of graph structure and node/edge properties to solve the task at",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/encode-multi-lingual-text-properties-in-amazon-neptune-to-train-predictive-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/14/encode-multi-lingual-neptune-to-train-models.jpg",
+          "width": 1551,
+          "height": 775,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-14T10:47:10-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-12-everyone-wants-responsible-artificial-intelligence-few-have-it-yet.md",
+      "title": "Everyone Wants Responsible Artificial Intelligence, Few Have It Yet",
+      "excerpt": "Responsible AI should be more than a 'check-the-box exercise,' but rather part of the organization’s top management agenda",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61042e95301717f598616035/0x0.jpg?format=jpg&width=1200",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/12/everyone-wants-responsible-artificial-intelligence-few-have-it-yet/amp/",
+      "publishedDateTime": "2022-10-12T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier.md",
+      "title": "Automate classification of IT service requests with an Amazon Comprehend custom classifier",
+      "excerpt": "Enterprises often deal with large volumes of IT service requests. Traditionally, the burden is put on the requester to choose the correct category for every issue. A manual error or misclassification of a ticket usually means a delay in resolving the IT service request. This can result in reduced productivity,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-classification-of-it-service-requests-with-an-amazon-comprehend-custom-classifier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-11T12:08:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-google-says-its-cracked-the-code-to-business-intelligence.md",
+      "title": "Google says it's 'cracked the code' to business intelligence",
+      "excerpt": "At the Google Cloud Next conference, the tech giant is emphasizing its expertise in AI, business intelligence, and supporting an open data ecosystem.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/google-says-its-cracked-the-code-to-business-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2c15d46c470c4537fefd3a1fdc3e4e449e658cfd/2020/01/23/be6d0341-424e-424a-95d8-da906528f235/datacenterpeopleistock-802301504.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-says-its-cracked-the-code-to-business-intelligence/",
+      "publishedDateTime": "2022-10-11T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-11-aws-announces-general-availability-of-amazon-ec2-trn1-instances-powered-by-aws-designed-trainium-chips.md",
+      "title": "AWS Announces General Availability of Amazon EC2 Trn1 Instances Powered by AWS-Designed Trainium Chips",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) Trn1 instances powered by AWS-designed Trainium chips.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/10/9689231.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc.md",
+      "title": "AI in fintech Market to Eyewitness Massive Growth by 2030 | Amazon Web Services, Inc., ComplyAdvantage, Google LLC",
+      "excerpt": "The research serves as a manual and road map for doing an exhaustive investigation of the worldwide AI in fintech, target market, rivalry, and other factors. The AI in fintech market offers a quantitative analysis of the relevant industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-fintech-market-to-eyewitness-massive-growth-by-2030-amazon-web-services-inc-complyadvantage-google-llc-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-10-artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030.md",
+      "title": "Artificial Intelligence In Fintech Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030",
+      "excerpt": "The Global Artificial Intelligence In Fintech Market size is expected to reach $25.8 billion by 2028, rising at a market growth of 16.8% CAGR during the forecast period. This study offers information for creating plans to increase the market’s growth and effectiveness and is a comprehensive quantitative survey of the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-fintech-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-10-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-10T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-08-ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022.md",
+      "title": "AI, Virtual Reality And Real Estate: Big Ideas Coming Out Of IOi Summit 2022",
+      "excerpt": "Organized by the National Association of Realtors (NAR), the annual conference welcomed professionals from all over the country to explore the latest groundbreaking ideas in the world of PropTech. Topics ranged widely from non-fungible tokens (NFTs) to affordable housing to insurance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "originalUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6340edc837c11a447fde06ad/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbes-global-properties/2022/10/08/ai-virtual-reality-and-real-estate-big-ideas-coming-out-of-ioi-summit-2022/amp/",
+      "publishedDateTime": "2022-10-08T05:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-06-how-synamedia-uses-amazon-rekognition-video-to-build-advanced-video-search-capabilities-for-long-form-video.md",
       "title": "How Synamedia uses Amazon Rekognition Video to build advanced video search capabilities for long-form video",
       "excerpt": "Synamedia is a leading video technology provider addressing the needs for premium video service providers and direct-to-consumer (D2C) with a comprehensive solution portfolio. Synamedia solutions spread across several pillars such as video networks, TV platforms, advertisement and monetization, and content",
@@ -745,682 +1515,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker.md",
-      "title": "Build flexible and scalable distributed training architectures using Kubeflow on AWS and Amazon SageMaker",
-      "excerpt": "In this post, we demonstrate how Kubeflow on AWS (an AWS-specific distribution of Kubeflow) used with AWS Deep Learning Containers and Amazon Elastic File System (Amazon EFS) simplifies collaboration and provides flexibility in training deep learning models at scale on both Amazon Elastic Kubernetes",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-flexible-and-scalable-distributed-training-architectures-using-kubeflow-on-aws-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/23/Solution-1228x630.png",
-          "width": 1228,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T10:56:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws.md",
-      "title": "Bundesliga Match Fact Win Probability: Quantifying the effect of in-game events on winning chances using machine learning on AWS",
-      "excerpt": "Ten years from now, the technological fitness of clubs will be a key contributor towards their success. Today we’re already witnessing the potential of technology to revolutionize the understanding of football. xGoals quantifies and allows comparison of goal scoring potential of any shooting situation,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/bundesliga-match-fact-win-probability-quantifying-the-effect-of-in-game-events-on-winning-chances-using-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/30/ML-11374-image011.jpg",
-          "width": 1400,
-          "height": 865,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-30T09:28:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-202223-german-football-season.md",
-      "title": "AWS and DFL Unveil Two New Bundesliga Match Facts for the 2022–23 German Football Season",
-      "excerpt": "(NASDAQ: AMZN), and the Bundesliga, Germany’s top national football league, today announced the newest Bundesliga Match Facts (BMF) powered by AWS, which will debut during Matchday 8, September 30–October 2.",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/aws-and-dfl-unveil-two-new-bundesliga-match-facts-for-the-2022-23-german-football/article_ca157bc9-55e4-5588-9eb9-8628fe030f4e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/5/39/539faa5b-05ba-50f3-b256-ad1e59a0d41d/63366bd136b5c.image.jpg?crop=800%2C420%2C0%2C40&resize=800%2C420&order=crop%2Cresize",
-          "width": 800,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-sk-telecom-develop-computer-vision-platform.md",
-      "title": "AWS, SK Telecom develop computer vision platform",
-      "excerpt": "LIVE FROM MWC LAS VEGAS 2022: SK Telecom and Amazon Web Services (AWS) announced a partnership to develop a cloud-based computer vision platform, designed to make it easier and more cost effective for the mobile operator’s customers to build, use and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
-      "originalUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2020/08/SK_Telecom_SS_Generic.jpg",
-          "width": 650,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/mwc-las-vegas-2022-news/aws-sk-telecom-co-develop-computer-vision-platform/amp/",
-      "publishedDateTime": "2022-09-29T18:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services.md",
-      "title": "AWS and SK Telecom Collaborate to Co-Develop Computer Vision AI Services",
-      "excerpt": "Amazon Web Services (AWS), an Amazon.com company (NASDAQ: AMZN), and SK Telecom, the information and communications technology arm of SK Group, the second largest conglomerate in Korea, today announced at Mobile World Congress (MWC) Las Vegas that the two companies will co-develop a new set of computer vision services.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/aws-and-sk-telecom-collaborate-to-co-develop-computer-vision-ai-services/article_93ce77b3-7cf5-5034-940b-a0ba99e44e50.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise.md",
-      "title": "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise",
-      "excerpt": "Amazon Web Services (\"AWS\") — continues to strengthen its service offerings in a bid to sustain its cloud dominance. The move to make AWS IoT FleetWise generally available is a testament to the same.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
-      "publishedDateTime": "2022-09-29T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-29-spin-systems-achieves-aws-government-competency-status.md",
-      "title": "Spin Systems Achieves AWS Government Competency Status",
-      "excerpt": "–(BUSINESS WIRE)–Spin Systems, Inc. (SpinSys), announced today that it has achieved Amazon Web Services (AWS) Government Competency status ... Management Framework (RMF), and Director of Central Intelligence Directives (DCID) to the enterprise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/spin-systems-achieves-aws-government-competency-status/",
-      "originalUrl": "https://www.01net.it/spin-systems-achieves-aws-government-competency-status/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T20:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex.md",
-      "title": "Build an AI-powered virtual agent for Genesys Cloud using QnABot and Amazon Lex",
-      "excerpt": "The rise of artificial intelligence technologies enables organizations to adopt and improve self-service capabilities in contact center operations to create a more proactive, timely, and effective customer experience. Voice bots, or conversational interactive voice response systems (IVR), use natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-virtual-agent-for-genesys-cloud-using-qnabot-and-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/28/genesys-cloud-qna-bot.jpg",
-          "width": 1532,
-          "height": 756,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T09:29:02-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-cloud-api-market-is-anticipated-grow-usd-371-billion-at-a-cagr-of-232-by-2030-report-by-market-research-future-mrfr.md",
-      "title": "Cloud API Market Is Anticipated Grow USD 3.71 Billion At A CAGR Of 23.2% By 2030 - Report By Market Research Future (MRFR)",
-      "excerpt": "According to a comprehensive research report by Market Research Future (MRFR),“ by End-Users and Vertical - Forecast to 2030”, the market is anticipated to acquire a valuation of approximately USD 3.71 Billion by the end of 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
-      "originalUrl": "https://menafn.com/1104938286/Cloud-API-Market-Is-Anticipated-Grow-USD-371-Billion-At-A-CAGR-Of-232-By-2030-Report-By-Market-Research-Future-MRFR",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?945943",
-          "width": 349,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-28T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mena FN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-amazon-intros-aws-iot-fleetwise-for-connected-cars.md",
-      "title": "Amazon Intros AWS IoT FleetWise for Connected Cars",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of AWS IoT FleetWise, a new service that makes it easier for automotive companies to collect,",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoconnectedcar.com/2022/09/amazon-intros-aws-iot-fleetwise-for-connected-cars/",
-      "originalUrl": "https://www.autoconnectedcar.com/2022/09/amazon-intros-aws-iot-fleetwise-for-connected-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "autoconnectedcar.com",
-        "domain": "autoconnectedcar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-28-aws-announces-general-availability-of-aws-iot-fleetwise.md",
-      "title": "AWS Announces General Availability of AWS IoT FleetWise",
-      "excerpt": "AWS has been continually expanding its services to support virtually any cloud workload, and it now has more than 200 fully featured services for compute, storage, databases, networking, analytics, machine learning and artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "originalUrl": "https://www.01net.it/aws-announces-general-availability-of-aws-iot-fleetwise/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-27T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-27-artificial-intelligence-in-accounting-market-growth-by-forthcoming-developments-2022-major-players-are-microsoft-aws-xero-intuit-sage.md",
-      "title": "Artificial Intelligence in Accounting Market Growth by Forthcoming Developments 2022 | Major Players are Microsoft, AWS, Xero, Intuit, Sage, OSP",
-      "excerpt": "The Artificial Intelligence in Accounting offers energetic ... Some of the key players profiled in the study are Microsoft, AWS, Xero, Intuit, Sage, OSP, UiPath, Kore.AI, AppZen, YayPay, IBM ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-by-forthcoming-developments-2022-major-players-are-microsoft-aws-xero-intuit-sage-osp-2022-09-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-growth-by-forthcoming-developments-2022-major-players-are-microsoft-aws-xero-intuit-sage-osp-2022-09-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract.md",
-      "title": "Introducing self-service quota management and higher default service quotas for Amazon Textract",
-      "excerpt": "Today, we’re excited to announce self-service quota management support for Amazon Textract via the AWS Service Quotas console, and higher default service quotas in select AWS Regions. Customers tell us they need quick turnaround times to process their requests for quota increases and visibility into",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-self-service-quota-management-and-higher-default-service-quotas-for-amazon-textract/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T11:11:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game.md",
-      "title": "Baden Bower: Firework Games Collaborates with AWS on the Upcoming Release of Its First 3D Space Battle Royale Game",
-      "excerpt": "Firework Games has been working with Amazon Web Services (AWS), the largest cloud infrastructure provider, on the imminent release",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-09/57140797-baden-bower-firework-games-collaborates-with-aws-on-the-upcoming-release-of-its-first-3d-space-battle-royale-game-296.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-25T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace.md",
-      "title": "Bosch SVENTA and Phantom Edge now available in AWS Marketplace",
-      "excerpt": "Bangalore: Bosch Global Software Technologies (BGSW), formerly known as Robert Bosch Engineering and Business Solutions (RBEI), and an Amazon Web Services (AWS) Advanced Consulting Partner, today anno",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "originalUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png?fit=534%2C462&ssl=1",
-          "width": 534,
-          "height": 462,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/bosch-sventa-and-phantom-edge-now-available-in-aws-marketplace/",
-      "publishedDateTime": "2022-09-25T18:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-24-sedai-joins-aws-isv-accelerate-program.md",
-      "title": "Sedai Joins AWS ISV Accelerate Program",
-      "excerpt": "SAN FRANCISCO–(BUSINESS WIRE)–#SRE–Sedai, the autonomous cloud management platform, has announced today that it has been accepted into the Amazon Web Services (AWS) Independent Software Vendor (ISV) Accelerate Program, a co-sell program for AWS ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "originalUrl": "https://www.01net.it/sedai-joins-aws-isv-accelerate-program/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
       ]
     }
   ],
