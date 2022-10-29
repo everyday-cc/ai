@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25"
 type: article
 quality: 70
-heat: 210
+heat: 220
 published: true
 
 provider:
@@ -150,6 +150,20 @@ related:
     excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
     publishedDateTime: 2022-10-27T01:56:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-2022-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-104-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Translation Market Research Report 2022, Market Segmentation, Competition, Supply and demand Forecast, and Business Trends from 2022 to 2028."
+    excerpt: "The \" AI Translation Market \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries, key executives' biographies, and key rivals 2022 to 2028."
+    publishedDateTime: 2022-10-27T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-translation-market-research-report-2022-market-segmentation-competition-supply-and-demand-forecast-and-business-trends-from-2022-to-2028-2022-10-27"
     type: article
     provider:
       name: MarketWatch
