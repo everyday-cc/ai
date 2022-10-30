@@ -93,6 +93,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Pennsylvania legislature passes bill allowing driverless vehicles on public streets"
+    excerpt: "A bill permitting vehicles the ability to drive themselves on public roads without humans inside of them has been approved by both legislative chambers in Harrisburg. It now goes to Gov."
+    publishedDateTime: 2022-10-27T14:21:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
+    ampWebUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
   - title: "Ford-VW driverless car venture folds in face of tech challenges"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
     publishedDateTime: 2022-10-27T18:10:00Z

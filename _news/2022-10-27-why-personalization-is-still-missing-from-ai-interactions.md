@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-person
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -46,15 +46,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
-    excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
-    publishedDateTime: 2022-10-25T18:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "+0+DAT0eHKOpv1WBCBQ+JpvM3whOnQ/CRRMoBmtDMdUwzfRFMsGzf48XpACHmeP7qy+FQBW4sH/+a1ZLga7JiCn3MRatn9EXIJotcx7Xs4HEj7snrjpznbd2/vsonzxQImEljMSyWhRUX7tf9rQ6ftKEEQPaEtnOFKZugXfm0DT2O7NXdbCjc6pYCTOSZ5Z6g9X4twXPXzdsgQRemnrviMfR6XpxXYwGFfAgsttNc++sqgr9ycjmRQGmzKNBl+zau+lxU+987y3wUZkAqbvTdbU4iXdxG6y1AURkO7E5328+dF548jORaziAwGH3GjvSqtD+QmY2j1vts9SitAB1+o5zEArYs7oDLhgiu5iaMDGqZ9oKEN0tUoUN2lt0m4DenYfm1rJHtSELy0BEY9JgSaR3gw9wr0InwzaYRhkUeoPKeHCCAUakKPxKbdEPTV8Ap0FOpQ8ovm14KmbBHS5fNBVXM1MesgnlBwHM1txnFSs51OYG1ilWV9uIPg4/O1Alo2HngBwd7hJkRkzwDOUEdw==;i3LtDARUYtSSLZAwpoEF+g=="
 ---

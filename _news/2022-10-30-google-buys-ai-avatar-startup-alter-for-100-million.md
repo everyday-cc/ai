@@ -104,6 +104,22 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google acquires artificial intelligence (AI) avatar startup for $100 million"
+    excerpt: "Google has acquired Alter, an artificial intelligence (AI) avatar startup company. TechCrunch has reported that the tech giant has acquired the compan"
+    publishedDateTime: 2022-10-30T09:55:00Z
+    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms"
+    ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://static.toiimg.com/thumb/msid-95180698,width-1070,height-580,imgsize-29398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        width: 1069
+        height: 580
+        isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
     publishedDateTime: 2022-10-28T11:21:00Z

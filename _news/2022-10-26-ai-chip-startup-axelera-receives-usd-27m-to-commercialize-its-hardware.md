@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-recei
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Axelera AI reels in $27M for its edge AI chip"
-    excerpt: "Axelera AI detailed today that it has also secured a $6.7 million loan from the Netherlands Enterprise Agency. Founded in 2021, Axelera AI is developing a chip optimized to run artificial intelligence software at the edge of the network,"
-    publishedDateTime: 2022-10-25T17:55:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 56
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
-        width: 800
-        height: 498
-        isCached: true
   - title: "European AI Startup Axelera AI Closes $27 Million Series A"
     excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The Axelera AI Team is proud to announce its latest funding round."
     publishedDateTime: 2022-10-26T14:20:00Z

@@ -52,20 +52,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Shutterstock partners with OpenAI to sell AI-generated artwork, compensate artists"
-    excerpt: "Shutterstock announced that it has partnered with OpenAI to provide AI image synthesis services using the DALL-E API. Once the service is available, the firm says it will allow customers to generate images based on text prompts."
-    publishedDateTime: 2022-10-25T17:24:00Z
-    webUrl: "https://arstechnica.com/information-technology/2022/10/shutterstock-partners-with-openai-to-sell-ai-generated-artwork-compensate-artists/"
-    type: article
-    provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 61
-    images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/shutterstock_dalle_hero_2-760x380.jpg"
-        width: 760
-        height: 380
-        isCached: true
   - title: "Shutterstock and OpenAI have come up with one possible solution to the ownership problem in AI art"
     excerpt: "Shutterstock has previously provided materials to OpenAI for building and testing its AI text-to-image generator."
     publishedDateTime: 2022-10-26T23:00:00Z

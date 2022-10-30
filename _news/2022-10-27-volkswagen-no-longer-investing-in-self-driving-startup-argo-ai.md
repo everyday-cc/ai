@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-26T19:15:00Z
 originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
 type: article
-quality: 67
-heat: 77
+quality: 69
+heat: 79
 published: true
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg"
@@ -43,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "JskrlDjnDZV2wZVZMcegXmVQ7ezN1kSvoBa2cJXGp1bLWViGJymQUVLYEUIGbHcZmJK/d6Jiwe2dYUHmfRmHb6u/XqFHvl8o+Xeych1nd4Wo3bYJeypfrMIWZR50hxCqSTIfP8Fdhj0Ax7uX9zYkDYorbeCLbk+ihZ9dFCyvtsxPDK4ftcoumyZ8FKcFHVx5hCvzdKXBv4q/cuOIJftVfxh3bHCUQ86UhDfieg5px4DZ0qkoRYozWhnFyZqEXzyHKXSpo6+nhenIRGkLusp07I3yjJiMqzn2T/nE/bxSxEszqzyWyz4qgZE2BnERVruHYDRVSrQsa/nE0T/v56dCewpth/JH/Tx7KQ1X0BAIQsc=;kvFKkeu2eXQqgHqLQVDLyg=="
+secured: "BxZXiNLWfdrZ6aqOgQIepNzE7U5am/zryIT2NYmtpHPLHs38HfVJCCOtoOPe8W2ZaWr6RQYo9O0TR2lz/P8M7vEjV8XxNwYeYzHo3+SDzpMkxULyIcuUj5jqW9Q9pJTVUnjCnODGmSFOS+T0QHDtYcZ1Bt04ZsGmAKwkOnCzMTCnhkIbK65/KN6lTaNdhAz03idFgzgmgM7CfH2TE86gYcxWWDZmg/eIymX6xC9IGAXrJ+r9DE3/S1mDdit78C/bq8fcmfpioy+m+iqGec/wgtPcDudM6sBY9dp2Fis/pFa1PNz404SfOgbqCj82hcxSrCA6PGKt5GQ1AXfLk72q/CLJcNG59cKKGvef+MGCKHOfNLbfB8s6JODU4TVLxXW7SCRdZvR33M93Y2S3TKPb6wzUGlD0mdTxhsIkyENVw1YTtInTwJndPcAkEN9Ji1h+ij8LbpeV8i0b74Y5KtYcJrHf3eWqKuvJW6qcnfOSj2h47U5evs0SmudrKnS4Z+EyAsLotJgXa0a1/YBvk/NwRA==;aIjkSSIy2gwwYkZKMdZauQ=="
 ---
 

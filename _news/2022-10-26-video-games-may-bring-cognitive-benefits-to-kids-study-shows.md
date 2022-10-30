@@ -24,17 +24,6 @@ images:
     height: 675
     isCached: true
 
-related:
-  - title: "Researchers discover kids who play video games have boosted cognitive function"
-    excerpt: "These findings are no doubt in direct opposition to your mother’s claims from childhood. Veuer’s Tony Spitz has the details."
-    publishedDateTime: 2022-10-25T17:30:00Z
-    webUrl: "https://www.stltoday.com/video_4954122f-1007-52e9-8805-bac48c8f770b.html"
-    type: article
-    provider:
-      name: St. Louis Post-Dispatch
-      domain: stltoday.com
-    quality: 0
-
 secured: "PkzGv5DfRQBGptkUt9iSj3Wuqn2sCO6qDILNgbv7WMOtQx8PBxVG+I8ZqiD6JOYXXQjRrVOx6CN8f7s2uJa09SJHc3vDSu7vVi5NbV3GztOjdO6rpvkFfej7yIVuPHleUFW1FGaK3SnMECIwFJ6wkxlaRgaBOe0pPQvQ1V7xg+fWNMsB8aQb6vOCMP/S9QcXi1mYPVnrQbtWpYxw0rOmbii6FP3mgHhkTailMBczCSDiZ1jZpQ3xylxF1LVnrgm+ysF6sjv4pAm3QPkxb1QwNCQPv3/lL4LoyjL0aivJ4heyO5gaeexXRHGN9Zs+LscShp+u/vO4ON/foBMxYVuvnDmsFP7l27CpR05kTQoKOy0=;1ruAPAUZAet4RzjwXu0xZg=="
 ---
 

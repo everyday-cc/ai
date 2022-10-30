@@ -1,32 +1,28 @@
 ---
 category: news
-title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
-excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
-publishedDateTime: 2022-10-28T23:29:00Z
-originalUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
-webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
-ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
-cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+title: "Google acquires artificial intelligence (AI) avatar startup for $100 million"
+excerpt: "Google has acquired Alter, an artificial intelligence (AI) avatar startup company. TechCrunch has reported that the tech giant has acquired the compan"
+publishedDateTime: 2022-10-30T09:55:00Z
+originalUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms"
+webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms"
+ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
+cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
 type: article
-quality: 84
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Forbes
-  domain: forbes.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
-    width: 1200
-    height: 630
+  - url: "https://static.toiimg.com/thumb/msid-95180698,width-1070,height-580,imgsize-29398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+    width: 1069
+    height: 580
     isCached: true
 
 related:
@@ -94,21 +90,21 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google acquires artificial intelligence (AI) avatar startup for $100 million"
-    excerpt: "Google has acquired Alter, an artificial intelligence (AI) avatar startup company. TechCrunch has reported that the tech giant has acquired the compan"
-    publishedDateTime: 2022-10-30T09:55:00Z
-    webUrl: "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms"
-    ampWebUrl: "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms"
+  - title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
+    excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
+    publishedDateTime: 2022-10-28T23:29:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/"
+    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/28/with-tiktok-in-sights-google-quietly-acquired-an-ai-avatar-startup-for-100m/amp/"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 84
     images:
-      - url: "https://static.toiimg.com/thumb/msid-95180698,width-1070,height-580,imgsize-29398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
-        width: 1069
-        height: 580
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
@@ -155,6 +151,6 @@ related:
         height: 418
         isCached: true
 
-secured: "19+eRzy3FV6zDhZUH4us0oi1BiqbSax7VxW3aC2DB/F6qvE5xM05n/kMniarvYyz8kTethUB2CHCqViHu8782mzzY1pyNAX3GrSxFUZQp6BtFYV6fBWfT7qljG3jLlUxROc0PJyrAbhRHQPVAv1tErOpPf/bYlX15AajWqIiCGznTUjH4Ck9ry9acyegQUSueInta9AJEXi6Q+bExrBCzsjPxE+pX0zUT6hqwEeU5OiwUPL+PyUPptDW4yG0WHI0Yl4wB2PgdqdVkd1cXZ6uFuYnbUOCGf2MTtd/o0kQ86MJwwvZjpBfNKVr/uQDKnpSXOToMr2+7s8s+7vEP0P+VuYxfVcnntmXvxWZM7bsmhdEyySlF1fRjMjET8Q3Wb/aGN/bkEMEg6mYgf6pgMhem+6ymp74mqJwD9Mu4ZtfVDZq/OnW66oz0QKuoqSA+leUgcGlfAPEKz3wSEqn4G2BadMKyw4/lPjtXqnNIPGbR19wvQ5P5Ph4e9kwWPZfIiDM4zwdsOO5KaRXStN0zcH8iw==;9y2mPoCAY57r9lTM9TP1dw=="
+secured: "kfE/sL2Zjz+3/puy/+hnJw72q5EM+6WDM77gP+H9TSzFKLvmC0NbwV+XZgCcxxX3LJ1v+VPFm/qAYa5pdbL3qoN3BmM9d7ZD3SjMv4yIlTU1aVgCzUNstoTXH/N1RwC9NaMLhWHEBUk2tQXmCkmSikAXY5FUbe+Qke+7TI8nLMKq36uCxl7C9MbhEuh5lLipJatXtgeeH5FL1yCKCjJZmuhfm9a0sNmXCxhC5m00VMjhA+GqNWnjarjkmZ6Y/Q+S4ABgAdNY0hUVMa4ScF6lg3Y8XqoVqojAn5/R+RzvXl3lTPFhsQkG4KZtGkH3HdZEFnO4uRyTsOTtDZZ1cTaJxzpjxxW7WGbEenC747pCCxQ=;j5hgC4UToHNhNnuXylrYUg=="
 ---
 

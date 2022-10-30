@@ -38,6 +38,22 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "The Argument For An AI Augmented Workforce"
+    excerpt: "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before."
+    publishedDateTime: 2022-10-30T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "dxWqXo8EBGR/ereviNNmIQyP9jbKK9cngpSQjIEbXb45BZxFkDVGswUq6wEgjnH6ve0dCLkXq6Rwv7B1vJoWDOuEKhrLOhZh1Cu/vR0hb1x4WcinMLa58EFgpPfKxZvI3qwYRrdcg5yy33ZAuQjRTUpwgMVUvoApms8Tyb0uTsw5b1gVeCv+SYbFjGx1QzbPo1EOjS7l+WojwCoqbSHVMiEcOmRj6otjVACJQUXbZdyBOW1vIk71hpkqXTHJOqM3hfWLEB5HcSiprTPcfmYVq5LJ7S3Qqj5tT2By7/fgioH/pttEOipUFq4fHx3LXMzIxMOjLbVolyCU4MN8vWhzwrOX762VxK6D4uZhdD5GelUctmT5LNnxU+mvhFTUKzgHS5P2so2GVg9WHeKTpgB8bJzyqP7+D2NORAsHRqmCrbXkPkNOkOnmX8/cObDfEaV9p0WcqKMtBncEqndfB4h30P6WmxG4JozWb+JII0O3uF54T38ltCQAHMl3iFZhuf3RsrPaUl1hRh+lzKNjZVQtEA==;rX2yfMuiEPjByB9J0vxDCA=="
 ---

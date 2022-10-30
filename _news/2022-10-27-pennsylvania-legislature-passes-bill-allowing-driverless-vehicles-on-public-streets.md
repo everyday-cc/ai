@@ -1,28 +1,24 @@
 ---
 category: news
-title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
-excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
-publishedDateTime: 2022-10-28T09:35:00Z
-originalUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
-webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
+title: "Pennsylvania legislature passes bill allowing driverless vehicles on public streets"
+excerpt: "A bill permitting vehicles the ability to drive themselves on public roads without humans inside of them has been approved by both legislative chambers in Harrisburg. It now goes to Gov."
+publishedDateTime: 2022-10-27T14:21:00Z
+originalUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
+webUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
+ampWebUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
+cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
 type: article
-quality: 53
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: WESA
-  domain: wesa.fm
+  name: The Business Journals
+  domain: bizjournals.com
 
 topics:
-  - AI
   - AI in Autos
-
-images:
-  - url: "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg"
-    width: 1200
-    height: 630
-    isCached: true
+  - AI
 
 related:
   - title: "Ford Can’t Afford Other Bets Like Driverless Cars"
@@ -76,6 +72,20 @@ related:
         width: 953
         height: 635
         isCached: true
+  - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
+    excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
+    publishedDateTime: 2022-10-28T09:35:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
+    type: article
+    provider:
+      name: WESA
+      domain: wesa.fm
+    quality: 53
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Should TSLA Stock Fans Give Up on Driverless Cars?"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) may be about to fall significantly behind in the"
     publishedDateTime: 2022-10-27T16:08:00Z
@@ -85,17 +95,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Pennsylvania legislature passes bill allowing driverless vehicles on public streets"
-    excerpt: "A bill permitting vehicles the ability to drive themselves on public roads without humans inside of them has been approved by both legislative chambers in Harrisburg. It now goes to Gov."
-    publishedDateTime: 2022-10-27T14:21:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
-    ampWebUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
   - title: "Letter: Look both ways before stepping into a driverless car future"
     excerpt: "Another year, another article, repeating the tragic story of the first recorded case of a pedestrian fatality involving a driverless car (“Driverless car revolution is stuck in the slow lane ..."
     publishedDateTime: 2022-10-26T03:02:00Z
@@ -115,6 +114,6 @@ related:
       domain: ft.com
     quality: 19
 
-secured: "8pC0zwBX3w5ZhWex/ddsxpN/FyR7l+oF41jrsthGB63JsuxtF9/gXvLMKlCtc9JSvVSUm492bvvcIhcf1DvZue+wF8dlIk3QjbI1vFCUI2zfnK/WM449bdOONB+3g7Td13ejzpWmsJ0KC1maNWua8NiakXsUuwrdayz11foM+gr2Ya1tOpx5xp8ndj5A++PDBF94SJw63N1lyh+S0UpkxuHEibsHvrnUHooReavC1N9UFeoIBGeS30Kmz0G1v2RPOYV7BxpMFRMmUKxbcc7SDKJBvw5Lu6yqpd8ZlqjCe/OgNWaWzX5qmc8fWDG9jJPGXzeVeRXV1g0BK3OazwbYyUGgzpC3G+bJKz+4xx+00LI=;EDlNDaIEX44pAXKLGK8vFw=="
+secured: "I6zFlf1LnFfIrdUfzcQ19G3HlAB9Qaru0kr+m4sm/K7BWSS0pF+EHqz6/T/LoxD9DAqyfHpO1JM5YmtnvXiiMdFrzAB+mVtc1SlCaGzjCqV1WrVQZcKfjjq/uvLbWuWdRglpCA4crb01bOGBnQjgdL4gifODjy6Owopn39RrZStMFbmP13f3BWAg1YVbV+jmhMy42Ooh4jlyINW2V86y+1i3CVqvddUapUeAYY9wx+jy3DztqIEl9eOD+YDWynomrmTwGe5jcWk+w8jVGkbYYuCeHMSNSJwx9MWir5p1xEkEYdBBXkVNG6XnlGmUMvLemZ3X+ENtmsVgHLiyWBq8GNrBgXvqokuSU0M7TKH62To=;QQakqHRFS4enL2Djy+fppQ=="
 ---
 

@@ -47,15 +47,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
-    excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
-    publishedDateTime: 2022-10-25T18:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699047.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "CcM9d04LOrtefOXA/QRM3j568/HUCzmsok5+CsNcGe2rJ5o1lhiO5Q4xnGA+t2DmygvNnl0ysFwAA4qFsyFHptCaTePpiNHHTnF+bW1J2gAg129QqXFGigdPH3eC3Q6I5pKU0wrubcDPfQa1A2rNz2lFQ157Kf542X5z5Iqfb9VA8BDBqVB8sS3TtLUWGVzRucfb/mKsDdmxVUKWiFija1ctVX4SuxwIeaUBb9vj8yqwiSlxQOpLjM227+cdGX4Z9huT25HD7pX2DxkIrRq07qYaHVmfT1Odcn4//hj5rzBciov/KiZZgUd5tHJTu67Ek2nXkay8OKqP+gmV/ZlbFbiMV4o2OAikR7tZDN8PBG0GGMGEL94fXgx37JueTjnsnvvGwrwNnMBIy5Gjs5XBOO6mXzgvyw7aN7Van6vUHsr/gdo5UPZVJ4eUTPo7WftOYrSxtJ9bgfD+ttGTotyFjemBLrwzMlLBUfCp4OXAnozmWyv95pC5nNvU0ObDB89axOmimy520z9ohTc3L2kg0Q==;EvfJ8vq5Z/iDCPk2gCRQ0Q=="
 ---

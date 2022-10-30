@@ -93,6 +93,17 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
+  - title: "Pennsylvania legislature passes bill allowing driverless vehicles on public streets"
+    excerpt: "A bill permitting vehicles the ability to drive themselves on public roads without humans inside of them has been approved by both legislative chambers in Harrisburg. It now goes to Gov."
+    publishedDateTime: 2022-10-27T14:21:00Z
+    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
+    ampWebUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
+    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 33
   - title: "Letter: Look both ways before stepping into a driverless car future"
     excerpt: "Another year, another article, repeating the tragic story of the first recorded case of a pedestrian fatality involving a driverless car (“Driverless car revolution is stuck in the slow lane ..."
     publishedDateTime: 2022-10-26T03:02:00Z

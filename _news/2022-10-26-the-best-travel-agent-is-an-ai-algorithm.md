@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/the-best-travel-agent-is-an
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Argument For An AI Augmented Workforce"
+    excerpt: "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before."
+    publishedDateTime: 2022-10-30T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 87
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "The Best AI Tools to Help You Work and Create"
     excerpt: "We’ve opted for the more simple, effective AI tools out there, the ones that actually have a practical use right now — and we’ve also kept AI art generators off this list because we have a separate round-up for those."
     publishedDateTime: 2022-10-26T13:10:00Z
