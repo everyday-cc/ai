@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 72
+heat: 50
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "Q6W7WHRoGF5ck4A9M/qm6G12wlt7CtyjPNIMuw6x/gzmO/2D4I7FP0//Ee15zS40wlaiwG+ogCWeg3grbP5QgpbrOgN6ZGYpHpmmK8pLLqo7NHyUdOd9YUqSdBopyE2fKf0/o97wxcPNlmgW9MjvR/NrbB2Q5j7NJlFCOEut00uQceq+jTiVa6wW8m31wYx4NC4OKfGXsckASZzcdqdMVliRdWuIDoBkL13dmoQQ0Rk5np4csmU06edjws9V1mrXQw1nPCO3LkKhPeCl8P5eo2QDLHEaVukg2Mc3mOvmtxy80cI9nb/9wTtyrwrKP0urWIgbtSVb99eYuQBARH7XnnYNysPrglkAGI0BF/lddyHWXnjBy0XYhoN/QXWlziObWUptIi8Nc2G9wmhnRTrdk6VIngu2zVqsXhitb0Alt5Y=;vSAXW+f8Hj/XsTNMiOwE8g=="
+secured: "wf7FeawpzqPsX50olxGRJ/BhFmH2tRAoRH5jFzJZmds4Tu4rP/ggc7e+EkGWaLMGIvP5AG7qtYmaqLQ17Q6IfAjG6Qir70BdaDIW9sZbEeqTEaF00RPah7zWgQlHSoO8hh4Gj6S2HNC6/cdzVuUJpJfplqrq6qG6YQSf9VP16xsBoDZMCXFhcQxFmJoyuuDLcgUhr26HEXSzQ4c6FackaNd/0nVZf4G/PD2Q9qIPk4k+3yyFP812I30iPrhJlmssPGhuN18BFF7HlDL2vXGVYTBH5iK6RPdX7vM9Q6oWFbVww1ljZaNG6qG26KXaIyQKxX/e8wF5rbJxmhqMXeJMPcyZ6ELBgvZIiqb7kgjAA0/I/y9K2VviSjZKOtNCa7fNN6j0r70/ClwpIFXhwFs1o1DnBiwrVocCnnPVgSFUYCA=;luMIYCyJbQdtNDh5NscPzg=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "voyage"
   url: "https://twitter.com/voyage"
-  followers: 10356
+  followers: 10357
 
 size: 51-200 employees
 yearFounded: 2017
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
 
-secured: "wQqjVhLhpGXslVjbyYuDbusvO97fZm9KkoP32IcWVvaqGS/+pV2n50q+3O4evrcaDPjQMbUwZWXTKHXCaJLJFEn61hvaAuM1mxLp5rCSNdOGLej7cj8TxIk9xyyaeTLzrG2+ONp+hMZIRZ1DkbBmG6ke0gXxHipQ/U4FIsb0blNhsOFH2108+W0dIzdG0ZVj//ywZ5OSk3ACPSywK3Qbu90Zotyzx9c47qMUu/6ZJ9ArmD+QI0QT7NCnvhGy6nfujgoZKUHMIntbVjktuTeZTIu7eG5Z+WeKyuF5SzObiouyUy08bJjfzETjAJR4SWnvNUpiAiJ8aTRh6e0oSHmlyPM0aSqTPjF5aIL6QFvnQUn10EqeDAO/qD4JH+Tq0qjjuRm0l91XWEn2/WN1bhRm4+cj2o5RaaDmmplCMRNETRU=;RNnF1V8tWgxkrZ4fC3Sg/w=="
+secured: "XZiwb69mNQ37H1H4CvnUQ62YAWXnR+BkR/zYvi9mUxPOFYOaxS5XC2NPffh9V614LU9lEukNuK435Xvfns+B7uzovqC8oZMZWCcFFvy9qbcOGFtGonwCo52fmdfwU504z8+m3R4+tQgxw4yBmLdFXCQJ4aybG532snwuVHyBblsbrQhFLJzSUI+LEHKaMWuUnr39eL4N+RgQK3dloUGac3APqNTwtwKb6zqOLnE1m2eF9AwRXq73B+sbOWeg3pRldwfN0JvgpbEKtjwk2FmRshqRC8ZBQvD1Jx2BB6Hh6d7JM+NkoAWEMq+wuIlUzISgGE83LUMIe5qcEoBfnCGfeUJRt/rIBdVKCqfDslStHh9Q3l6NyMBxdPZRYHDzATC4T3Kwaa0rX4ZfCqfPH+8B4Wge4qMzADm37qOdJWTiYfY=;ovEBnLr1edSJ8rPrVECqQg=="
 ---
 
