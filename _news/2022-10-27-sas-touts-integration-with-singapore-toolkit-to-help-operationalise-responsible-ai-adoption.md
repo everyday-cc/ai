@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sas-touts-integration-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
 type: article
 quality: 79
-heat: 129
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,57 +31,22 @@ images:
     isCached: true
 
 related:
-  - title: "AIZEN Global to introduce AI banking service at Singapore Fintech Festival"
-    excerpt: "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia."
-    publishedDateTime: 2022-10-26T03:27:00Z
-    webUrl: "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival"
+  - title: "Why Personalization Is Still Missing From AI Interactions"
+    excerpt: "Artificial intelligence has the potential to transform our lives for the better, leading to leaner businesses and happier customers. But our interactions are missing a core element."
+    publishedDateTime: 2022-10-27T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 52
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n"
-        width: 600
-        height: 316
+      - url: "https://imageio.forbes.com/specials-images/imageserve/63593ae0a07752e0803671f1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Singaporean facial recognition firm XRVision gets funding to enter new markets"
-    excerpt: "Boundary Holding says it will help XRVision extend its facial recognition and video analytics solutions into new markets."
-    publishedDateTime: 2022-10-25T15:29:00Z
-    webUrl: "https://www.biometricupdate.com/202210/singaporean-facial-recognition-firm-xrvision-gets-funding-to-enter-new-markets"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
-        width: 2048
-        height: 1365
-        isCached: true
-  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
-    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
-    publishedDateTime: 2022-10-27T08:54:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 27
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
-        width: 1000
-        height: 450
-        isCached: true
-  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
-    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
-    publishedDateTime: 2022-10-27T00:00:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
   - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
     excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
     publishedDateTime: 2022-10-25T18:29:00Z

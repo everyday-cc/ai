@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/26/schmidt-fu
 webUrl: "https://www.forbes.com/sites/michaeltnietzel/2022/10/26/schmidt-futures-will-invest-additional-148-million-in-artificial-intelligence-research/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -22,20 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Eric Schmidt not in hot water about AI investment"
-    excerpt: "Schmidt not going to hit the fan at the National Security Commission on Artificial Intelligence committee Former Google CEO Eric Schmidt might have made a dodgy investment in an AI company after he was appointed to the National Security Commission on Artificial Intelligence,"
-    publishedDateTime: 2022-10-25T08:06:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55710-eric-schmidt-not-in-hot-water-about-ai-investment"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/974f151307e1b158521b5f65c72f8f0b_L.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Schmidt Futures Announces UCSD as Partner of $148M Initiative Accelerating Scientific AI Use"
     excerpt: "The University of California San Diego has been selected to join the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship, a"
     publishedDateTime: 2022-10-27T18:55:00Z

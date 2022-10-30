@@ -2,9 +2,9 @@
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T15:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+publishedDateTime: 2022-10-25T16:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
 type: article
 quality: 8
 heat: 8
@@ -18,6 +18,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "XEHROBmwH+CmFm4FKbFq/AizRtlnIkoqMwec8ZK9JNFqYSM/0IcaZlFqjI1XOUadojyjjElsmPzBrxXjACEDklL6xQka7xo2nICU61ovsWeIX5ZfosgNOin8JVlUHp/Qj+pXbrGqNXzPk/U8+OnYOYVtBJh3RsLw+6ie9Z/IeQ49UE+J/wE4z1joa9PLHh2iSoc9bcBxqLs0Z6CgOS58DA7k2sH683IZItY55iz+3eEHsKzEoLAasdrJfRhAPiJMiUW52HKGXTffzlxlqlGj0fNOfY8Dncj6SoKB5ExRCEUT/QgjwefOrTf0QQuZ4u4M7yojzCe4Lq3PBoO537ATt1/ObVP++7nATLKRT2kLeqKPY3btQtPZbvwfl8fh+z9APQHCyRGXa1OYaOBICmxpV3l4hlggidnY2uC1a5Tyto0QBoaRMaiZAI4wPKWRVBOI1CzrO0paSEcvo709Jx9yELLLmAZr59iTmkQOh1Y532QyotCo/if78CJg/pBSQSjJndcaH4AK6GQgPtsibdSeBQ==;DTSldPz7DwBpfrTYxIwPFw=="
+secured: "y2iQOg81XCc1SWgcwwbeC8ovaXtWfSyo6coy1A8jHedlZXZda2izT8qpqY1+3rXSLUDyXlX4bpgvBiaPphWvXsubv2Sc92ny2a/0b9tY3lxZ+0kBUApn9+HBJ4ErPfJyr8QaArOrXIayGFAOTMJZxIZgCUFWivLJPeyCzJLS8BryQmuDJ4bKmNnBEJ5koBBuXKH7HS82FibFb4t+Nv18usUFyuX8z+BZN06/eF6W8wqt2Lh1/2a/0qF9rPsUpIshnWvI6PYZHCDC4aJj1rt8OTTiJ0Ea4ZgpwbyX/+icEfAGgW/iM0VGD0EKstXX+YoWgbbA8sh7qzp3eiUoTM/xUMaHvve4JjzM7QalwPbfo0GeBh8osjqPOmf6VCGx6AGeO3lJxZ1XZxwmLkMi6+2dB88fMDRni8k+hrMidEAehNRVLP1B+WiOS+Zjt8hbIeaVa4mdzWKBfG5rArdNJaKYNU2JXsQnBeBEmVK5eJ8z4nNh0IglEy9CKZQS2BaoU8UmSV51aoDNWyPTiexpYwNhRQ==;PZ9s0mPOaRIJ5qw9CcziVg=="
 ---
 

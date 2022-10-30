@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
-    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation"
-    publishedDateTime: 2022-10-28T02:30:00Z
-    webUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finance-singapore-fintech-festival-2022"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1635.jpg?h=7de12b8a&itok=o6cs2g9v"
-        width: 600
-        height: 316
-        isCached: true
   - title: "The top speakers coming up at FinTech LIVE London 2022"
     excerpt: "We've compiled our pick of the top speakers taking to the stages at FinTech LIVE London 2022, our must-attend hybrid event taking place next week"
     publishedDateTime: 2022-10-27T09:05:00Z

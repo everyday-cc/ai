@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "SAS touts integration with Singapore toolkit to help operationalise responsible AI adoption"
-    excerpt: "SAS Institute says the integration of its Viya platform with the software toolkit released by Monetary Authority of Singapore, aims to help financial institutions struggling to put into practice core principles governing the ethical and responsible use of artificial intelligence."
-    publishedDateTime: 2022-10-27T00:23:00Z
-    webUrl: "https://www.zdnet.com/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 79
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/fb5d937bda4a0add98c55c4d83a064cc4fd29811/2019/02/18/1709eb9b-7165-48ee-a67b-dca0ccd50a24/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200"
-        width: 640
-        height: 360
-        isCached: true
   - title: "AIZEN Global to introduce AI banking service at Singapore Fintech Festival"
     excerpt: "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia."
     publishedDateTime: 2022-10-26T03:27:00Z
@@ -49,43 +33,48 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "Singaporean facial recognition firm XRVision gets funding to enter new markets"
-    excerpt: "Boundary Holding says it will help XRVision extend its facial recognition and video analytics solutions into new markets."
-    publishedDateTime: 2022-10-25T15:29:00Z
-    webUrl: "https://www.biometricupdate.com/202210/singaporean-facial-recognition-firm-xrvision-gets-funding-to-enter-new-markets"
+  - title: "AI and fintech to boost financial inclusion in Thailand"
+    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
+    publishedDateTime: 2022-10-26T00:00:00Z
+    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 35
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
     images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/15161907/market-growth-expansion-scaled.jpg"
-        width: 2048
-        height: 1365
+      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
+        width: 1024
+        height: 683
         isCached: true
-  - title: "SAS to integrate Viya analytics lifecycle framework with Veritas Toolkit for responsible use of AI"
-    excerpt: "SAS Institute, a leader in analytics and AI, has collaborated with the Monetary Authority of Singapore (MAS)-led Veritas consortium to integrate and operationalize the Veritas toolkit with SAS Viya platform,"
-    publishedDateTime: 2022-10-27T08:54:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/10/27/sas-to-integrate-viya-analytics-lifecycle-framework-with-veritas-toolkit-for-responsible-use-of-ai/"
+  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
+    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
+    publishedDateTime: 2022-10-26T04:16:00Z
+    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
     type: article
     provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 27
+      name: Financial IT
+      domain: financialit.net
+    quality: 39
     images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/10/AdobeStock_540551918-Web.jpg"
-        width: 1000
-        height: 450
+      - url: "https://financialit.net/sites/default/files/provenir_12.png"
+        width: 1366
+        height: 768
         isCached: true
-  - title: "Concrete.ai Launches Beta Version of its Revolutionary Optimization Platform that Reduces Cost and Embodied Carbon of Concrete Construction"
-    excerpt: "Concrete.ai has launched a beta version of its pioneering data science platform that reduces the cost and embodied carbon intensity (CO 2 e) in concrete construction. The company will debut the new Software as a Service product at AI DevWorld,"
-    publishedDateTime: 2022-10-25T18:29:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699047.htm"
+  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation"
+    publishedDateTime: 2022-10-28T02:30:00Z
+    webUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finance-singapore-fintech-festival-2022"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Asia One
+      domain: asiaone.com
+    quality: 38
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1635.jpg?h=7de12b8a&itok=o6cs2g9v"
+        width: 600
+        height: 316
+        isCached: true
 
 secured: "571KBP/5bFQBJFswbI7ae4zFzSXnjpEElkQvZ7xC+SIU/CjYzdDBrI18dyG7Gktiv3knVAAmkyFm0WxbSg8M0xk7pvodLeMRGzlE4QNFNGyRz0f3J3Iq/9clgY91/+S0XUtrav+s+WpLWqXfq1rRBhBkjqmo2UicHbb5WE3ik48RsGUb7RbbDNZ7g3W70pkg4k02Gx/V0sKD2eb/D8jMAYW7hjh/3Rx1NZFRJgxKJgBHOb5A3zdOq+/Zvq+6kkh9bbVfVzB3/mWS1HL9LzwjVJfIUHTBki5du45Ucz/38CDbwzLUie6EXecuQpZ4s+L/xddnyoBMOf5czwGjqdDp4GBNd9y+pxqaUbxOo5ar1qA=;t3fSvuCDWfVoUxpJGKB2Yg=="
 ---

@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Micro themes within the Fintech sector that will witness investor interest"
-    excerpt: "India’s Fintech sector is the cynosure of the global Fintech market with its exponential growth and innovative solutions. The JAM trinity and the UPI infrastructure has enabled it to offer consumer-centric,"
-    publishedDateTime: 2022-10-29T21:00:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
+  - title: "AIZEN Global to introduce AI banking service at Singapore Fintech Festival"
+    excerpt: "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia."
+    publishedDateTime: 2022-10-26T03:27:00Z
+    webUrl: "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival"
     type: article
     provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 42
+      name: Asia One
+      domain: asiaone.com
+    quality: 52
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Bhaskar-Majumdar-Managing-Partner-at-Unicorn-India-Ventures.-1-1-1-scaled.jpg"
-        width: 2560
-        height: 1707
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n"
+        width: 600
+        height: 316
         isCached: true
   - title: "AI and fintech to boost financial inclusion in Thailand"
     excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
@@ -55,81 +53,29 @@ related:
         width: 1024
         height: 683
         isCached: true
-  - title: "28/10 – Weekly Fintech Recap"
-    excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
-    publishedDateTime: 2022-10-29T06:45:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2810-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 24
-    images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_9.jpeg"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
-    publishedDateTime: 2022-10-26T02:20:00Z
-    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
+  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation"
+    publishedDateTime: 2022-10-28T02:30:00Z
+    webUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finance-singapore-fintech-festival-2022"
     type: article
     provider:
       name: Asia One
       domain: asiaone.com
-    quality: 20
+    quality: 38
     images:
-      - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
-        width: 650
-        height: 412
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1635.jpg?h=7de12b8a&itok=o6cs2g9v"
+        width: 600
+        height: 316
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-27T15:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-  - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
-    excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
-    publishedDateTime: 2022-10-25T08:10:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/25/9698609.htm"
+  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
+    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation (HQ: Japan) in Southeast Asia, will be presenting its vision of data-driven digital finance during this year's Singapore Fintech Festival (SFF) Innovation Lab Crawl event on 31 October – 01 November,"
+    publishedDateTime: 2022-10-27T00:00:00Z
+    webUrl: "https://technews.tmcnet.com/news/2022/10/27/9701642.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 19
-  - title: "NatWest invests €65m in Dutch fintech Floryn"
-    excerpt: "A Netherlands-based online lending fintech has secured €65m in funding from high street bank NatWest. Floryn, which provides financing for SMEs, said it will use the new funds to strengthen its position as “the most cost-effective alternative to a bank”."
-    publishedDateTime: 2022-10-26T12:36:00Z
-    webUrl: "https://www.altfi.com/article/10035_natwest-invests-eur65m-in-dutch-fintech-floryn"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 4
-  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
-    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
-    publishedDateTime: 2022-10-27T12:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Bread Financial thinks it can outlast fintech startups in a recession"
-    excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
-    publishedDateTime: 2022-10-28T17:58:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2022/10/28/bread-financial-q3-earnings-recession-plan.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
+    quality: 18
 
 secured: "yjsQEZqP9LziwBEOHoIlt2c2ym3dn2XwOwDqrvR5RVdwVOomOqG+EP3SxDlwXDwF/T0a6DmB9z/ynz6NddUGf5Uw3T6CgirFNDjo9CSe9U3xmlU9fG0/JWsDQ9rVVvTj9owbZZpNz2nddO8hhU5rX5VGjMdag7N11/xqFL/SeZorFK+FX1OAFMZr0//wqYd0DLdAJEMHZRCtPyNTp9CYWebDx8iYxrmaP4bHUwymcZaBWwEB6jj9LYZVmYDdYlRxEvvTaTuzD5vu+NhHlaLY6QIU5L44kyGL4Int+M+O7XcuHnkqG2/W/xsMA2MJFF00mSC3PeM9tp3lLBuEwVmj4d8hvL0YGaRpFlre5bbP4i4OowNLkwpobU+BBA91AOfz2ppD6DC/A79aQ8cD/o9Jk0rpSTSDs1MacOTbVibRF2e0rmAMWvz3kYZ/0k/9A0ZZ6XZcWqkX9246sfvik4KP+dJu1yHXfw9KOJX0b6jO3jkpHgtOkMunmpR8G9P98pZmeLqNzQ+hRrragDRHRbSUew==;+wDN5QHRDkDG8dcHQUCjvg=="
 ---

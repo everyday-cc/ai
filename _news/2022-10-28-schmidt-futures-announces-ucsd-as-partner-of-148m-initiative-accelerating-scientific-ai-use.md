@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Eric Schmidt not in hot water about AI investment"
-    excerpt: "Schmidt not going to hit the fan at the National Security Commission on Artificial Intelligence committee Former Google CEO Eric Schmidt might have made a dodgy investment in an AI company after he was appointed to the National Security Commission on Artificial Intelligence,"
-    publishedDateTime: 2022-10-25T08:06:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55710-eric-schmidt-not-in-hot-water-about-ai-investment"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/974f151307e1b158521b5f65c72f8f0b_L.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Schmidt Futures Will Invest Additional $148 Million In Artificial Intelligence Research"
     excerpt: "Schmidt Futures will spend $148 million to fund the Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship. Co-founded by former Google CEO/Chairman Eric Schmidt and his wife Wendy, Schmidt Futures has now provided $400 million for the use of artificial intelligence in scientific research."
     publishedDateTime: 2022-10-26T13:06:00Z

@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AWS Announces Amazon Neptune Serverless"
-excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that automatically scales to support unpredictable and business-critical graph database workloads."
-publishedDateTime: 2022-10-26T22:03:00Z
-originalUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
-webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
+excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
+publishedDateTime: 2022-10-27T16:11:00Z
+originalUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
+webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
 type: article
-quality: 39
+quality: 19
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: datanami.com
+  domain: datanami.com
 
 topics:
   - AWS AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AWS makes Neptune, its graph database service, serverless"
@@ -56,6 +50,6 @@ related:
         height: 470
         isCached: true
 
-secured: "PLLlJJ71+uVEeeb9PnUe92Hz/bEUaQnRyBLQVcjZxTCZcqX29mzhCKqfFPCiq2RoNoSNK67taidSieOOiwywqml+y0GQF7NmbW4JcCag4rgPE8LwkUmrWJI84wctcE7yG8JGwbObYYBbYV0NpFoap413cQZd8WmsutHPZeJwXY0ZDUw7qXCrR0d3WbFGC/rTADXu8XIGhSeSEpMF36cP0pb1+CDFS24EOPG4Q/edvtKGGYv0lifdgHRTcHQAYqJYcJ46OEx7qTgoosQ4MRS5H15zN6o0K/nQfL6wg1CRR2nm2KjAJpf0eazk4U+Q+9X3KChjGaSf9ruZEC1NBFYqI8ElUMiWQpzQwXh5kAD8u/M=;pWiqownnnBSwxY7fwnaSQQ=="
+secured: "OQ9JW7og70YT5SnPpzdrov37iAWwThtaB/gJmlMREDUthSDx+yGkyRDGmLNrUDkLdY46tncEqcLcgNWCORPgby5Y0ArrPVzSXhRretNjxFWC+pme/oF1VBcedfvNpheSZ0EIa+u/CQqPKC862Jq0knK3B7TuLXSsbqePq7GX8jUNJ65opMYlh2LFIu9PR8uKOiAlfpBJL2tRexdqu4h1UWFfCnITRClnM5Yo0dA1gNC0sps8VrlC2TM8OddhYn237g+MlRGLmzg8mj3vxEKK8zhmXpfcSHZlmIjK9bzsaIaEJlqQM2VQ6CgwMhM17Bo4Altdr5MzP3RAlkzurIvs3ohqR1fvbTpxB8pFR9N0RHCE8cU3rKI7TMYMSOXgPs/wi9enfXjCpbpIvIey/wNtxrNVEVmY9nmzZhSMHbecT//ot2dlaGbuRXuq94rp4kCEg59PJBOseSmtckl5IIIQEuWL4Jh/XYM697IydX0/hHPQNCOwxMCmrQLObB4a35CjgwFpB08JC0ay2hx+oqEL3Q==;3JilvZlVtSd+onaxQTD+Ig=="
 ---
 

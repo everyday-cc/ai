@@ -41,34 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
-    publishedDateTime: 2022-10-26T04:16:00Z
-    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_12.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
     excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
     publishedDateTime: 2022-10-26T02:20:00Z
@@ -94,15 +66,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
-    excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
-    publishedDateTime: 2022-10-25T08:10:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/25/9698609.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "NatWest invests €65m in Dutch fintech Floryn"
     excerpt: "A Netherlands-based online lending fintech has secured €65m in funding from high street bank NatWest. Floryn, which provides financing for SMEs, said it will use the new funds to strengthen its position as “the most cost-effective alternative to a bank”."
     publishedDateTime: 2022-10-26T12:36:00Z

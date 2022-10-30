@@ -35,34 +35,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
-    publishedDateTime: 2022-10-26T04:16:00Z
-    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_12.png"
-        width: 1366
-        height: 768
-        isCached: true
   - title: "28/10 – Weekly Fintech Recap"
     excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
     publishedDateTime: 2022-10-29T06:45:00Z
@@ -102,15 +74,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
-    excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
-    publishedDateTime: 2022-10-25T08:10:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/25/9698609.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
   - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
     excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
     publishedDateTime: 2022-10-27T12:38:00Z

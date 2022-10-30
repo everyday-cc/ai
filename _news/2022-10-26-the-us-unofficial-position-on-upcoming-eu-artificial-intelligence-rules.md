@@ -41,20 +41,6 @@ related:
         width: 1200
         height: 801
         isCached: true
-  - title: "AMP Robotics develops AI-powered system for recovery of film and flexible packaging"
-    excerpt: "AMP Robotics Corp (AMP), a pioneer in Artificial Intelligence (AI), robotics and infrastructure for the waste and recycling industry, is developing an AI-powered automation solution to improve recovery of film and flexible packaging."
-    publishedDateTime: 2022-10-25T07:55:00Z
-    webUrl: "https://www.intelligentcio.com/north-america/2022/10/25/amp-robotics-develops-ai-powered-system-for-recovery-of-film-and-flexible-packaging/"
-    type: article
-    provider:
-      name: intelligentcio
-      domain: intelligentcio.com
-    quality: 63
-    images:
-      - url: "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/10/AdobeStock_450522870-Web.jpg"
-        width: 1000
-        height: 450
-        isCached: true
 
 secured: "eTNI+gQtwFp1sHIvR7J/LG4LB4BiV8jF8raorQhRKkIvkZEPJPWcaLbiUPooU4eraxPQLskyir4g6tDoRqvwx9l41zwLhf349OhwqB57OiPGg2JYPx1mphlXUvFdl8GgpCy25ZTAFmHVXZ6lKnK6IYlbpHGHRE3GNu5QjUEthn06Xg2fLBbzpAo3V3OUz7mferrSY3rwV0mxmM8Z8D1Tf/vm55oPtqIakxb7beBCHyzj9Qbzss0cSfzgdJNc/P7gju44hoICB0Bns+0tgBVlN38GR+050vO35AWzHxICJzo2ADE7Xtz/DPlLEVcVOy8VnJn11McrGCjgDlZ2KK8TL796E4wDmtSxDkxpx9hiBoo=;SgFLsymBGGTAlHR3ISf6iA=="
 ---
