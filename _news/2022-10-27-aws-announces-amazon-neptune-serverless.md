@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AWS Announces Amazon Neptune Serverless"
-excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
-publishedDateTime: 2022-10-27T16:11:00Z
-originalUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
-webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
+excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that automatically scales to support unpredictable and business-critical graph database workloads."
+publishedDateTime: 2022-10-26T22:03:00Z
+originalUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
+webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: datanami.com
-  domain: datanami.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AWS AI
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AWS makes Neptune, its graph database service, serverless"
@@ -50,6 +56,6 @@ related:
         height: 470
         isCached: true
 
-secured: "O7G59VR9MNU652bZdFrK5gO/TBnJ2BmnT4YYPCo/cmA8tF3bTVMpXCeWhySd0J7HC74rybKSW8KEnKPLOQTsMpzTIVlb3NVnWC2mOnzTvunkwwTL3fwYXVolW3rprS/gXsPB7j7qKtfl3jxr+fLkElbwg9xCptbZbJmLnkFyrldWNr2U2MlffeasCf4cHCv0tHGngjPqjdhSaYHTImb2ksaE6+d/8Ww8wfTgz38rRIWSLET87RW+Djb/pCQ5DrXgfRAzm4SeiZlN/G4vcMZ24tnPSj4hBCB/FQ+Hu08VV1ag9bqBe0mpHFlVGYhqXz7gMQtpYLQQoM1f75yw+1w1+X8BCQf7HxAFX0dfn6VAdTncb+z/D6QnysnpV0O2WkxfPWmGG0zy/Y6MVG1ASSRwZQzciby1xRJqj32k7BcALwDR14hfxxRmNLizGkhJRwz0lyaMN2rvNkdCwIM5DtHrnFzJuy1NU5QfNbsuwUl1/qo6X+hvodbbFxOh71x5iCf0mT//Vnlh2CpperO3yQBAeg==;QemyAGWBZUKfzbOaqFrjzg=="
+secured: "PLLlJJ71+uVEeeb9PnUe92Hz/bEUaQnRyBLQVcjZxTCZcqX29mzhCKqfFPCiq2RoNoSNK67taidSieOOiwywqml+y0GQF7NmbW4JcCag4rgPE8LwkUmrWJI84wctcE7yG8JGwbObYYBbYV0NpFoap413cQZd8WmsutHPZeJwXY0ZDUw7qXCrR0d3WbFGC/rTADXu8XIGhSeSEpMF36cP0pb1+CDFS24EOPG4Q/edvtKGGYv0lifdgHRTcHQAYqJYcJ46OEx7qTgoosQ4MRS5H15zN6o0K/nQfL6wg1CRR2nm2KjAJpf0eazk4U+Q+9X3KChjGaSf9ruZEC1NBFYqI8ElUMiWQpzQwXh5kAD8u/M=;pWiqownnnBSwxY7fwnaSQQ=="
 ---
 

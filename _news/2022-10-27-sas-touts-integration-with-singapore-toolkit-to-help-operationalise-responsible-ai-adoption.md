@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/sas-touts-integration-with-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/sas-touts-integration-with-singapore-toolkit-to-help-operationalise-responsible-ai-adoption/"
 type: article
 quality: 79
-heat: 133
+heat: 129
 published: true
 
 provider:

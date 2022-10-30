@@ -24,6 +24,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "How AI image generators could help robots"
+    excerpt: "AI image generators, which create fantastical sights at the intersection of dreams and reality, bubble up on every corner of the web. Their entertainment value is demonstrated by an ever-expanding treasure trove of whimsical and random images serving as indirect portals to the brains of human designers."
+    publishedDateTime: 2022-10-27T18:11:00Z
+    webUrl: "https://techxplore.com/news/2022-10-ai-image-robots.html"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 34
+
 secured: "7oLStXGHbTMSxNA91PUfh5bPRu4lm/zPut2dZkigs5VmkibWFGfaLjTfdoH0/kP7uMGuLG0Znf8xFjgYaUK9oMvsI4YnYe6J9XFqibLKHNsxRBtkg0FCCTmTBAoJ5S8UW17rSYXIlCRfcLTQGZa0xKSDYpZIU6HZGXKoZ4P8u5lE9dzJ5+7qguGAc3F/GZ7dtEfE092XmKr3ZQHTXgglUS9ThkUhg1owSt7EPpN8cqGN1Yz6DcBzmQGnC4N3quDdC3QCJTDiPJ2QqaPqJst4to4aawGcmHIacnaQwxhhNJhS2uejckKzsE6O93xxgGcdbwmbN9Hjknep+0C0VW2mN/Hr6BJ8QieKDCugIuCwBGCPtS+ji+fDoFNe67k0QMEh6lk9Cmir8gpPYbb687bpaMANzykIyzurHiI0XBQ/etVM3xb5xVYkoK8dq7lwGIBB5nVmF6QIld7f8RePdLnz+m9P6tHJmpkc6Ff3pWPLaxnw54ydu1cpLYwgbaMhqxJCytfpJzoIctt/ZBAHzV605Q==;MA6x0895w01anRjQrka8Yw=="
 ---
 

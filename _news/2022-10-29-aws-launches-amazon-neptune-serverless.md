@@ -42,14 +42,19 @@ related:
         height: 683
         isCached: true
   - title: "AWS Announces Amazon Neptune Serverless"
-    excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
-    publishedDateTime: 2022-10-27T16:11:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
+    excerpt: "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that automatically scales to support unpredictable and business-critical graph database workloads."
+    publishedDateTime: 2022-10-26T22:03:00Z
+    webUrl: "https://apnews.com/article/technology-business-amazoncom-inc-web-services-ddc9b996e2fd48ef9b8742ead239213f"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
+      name: Associated Press
+      domain: apnews.com
+    quality: 39
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "7g7kUFvTOWD4Whv+ZqsaSI9t2DkJ6pN9b57gcxHBBy1XkYMbWr/d4tMrGd3RHjOQngMqwpS3v8+UhaOAi2D4hO0tJWunzET0gdDSdY0C+tC9+MNNTH7kANGD0X7au3sftzoqHJaqOCrXvl8rVlZTQv+GcJPCbejaaavsy/oyx/YiDF9nO67Irt/Mfa4OaeuS+VopCAMJqw1vt9iF6geVLR+QC7bzDqB2o8ubxb6/qzr7cSOK/cv7oijkXq/Y322c9qinsANKCI+OkzP0OGl0hTWkEaPJFlRnuqFS/mTYnE3vFbJ5SOwjJ1644DAVJn02VzJDtjk60j7TExA4T2PkGDabpmtOO13Ie2vbWbq11ty/8VvGGHGrUHMlZTC/77bzU5+AWQgXHY3w3GgWPXYyGiLtTMiSsot+okBwwBFb6xVpFUlu+o0GZpT3fNjWXEOPkXlsOz4zKyOy8iG6Y95zWZS8NjN/AgBjuHOfz3gVbooBGSZ3xqftNXx2sMYqDqGTI6H9qAvHp9sJBj1kjDL1wg==;vMCHc5mmvLSBY5+uE73fmA=="
 ---

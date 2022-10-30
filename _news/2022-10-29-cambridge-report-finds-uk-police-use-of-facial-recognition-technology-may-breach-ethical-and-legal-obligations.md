@@ -1,18 +1,18 @@
 ---
 category: news
-title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
-excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
-publishedDateTime: 2022-10-28T15:41:00Z
-originalUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
-webUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
+title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
+excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
+publishedDateTime: 2022-10-29T16:23:00Z
+originalUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
+webUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Jurist
+  domain: jurist.org
 
 topics:
   - Computer Vision
@@ -20,9 +20,9 @@ topics:
   - AI Ethics
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
-    width: 1292
-    height: 715
+  - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -86,21 +86,21 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
-    excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
-    publishedDateTime: 2022-10-29T16:23:00Z
-    webUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
+  - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
+    excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
+    publishedDateTime: 2022-10-28T15:41:00Z
+    webUrl: "https://www.biometricupdate.com/202210/minimum-ethical-and-legal-standards-urged-for-uk-facial-recognition"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 36
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 56
     images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
-        width: 1200
-        height: 628
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
+        width: 1292
+        height: 715
         isCached: true
 
-secured: "y/xyfMalfwqvkfB5n3eLWvqeLD+Umt4rBcbKjE24ZVRdLWcS16aWz9HQtpAyU1zxHtyPn9DJWm2H2poqB1V6atMER9FRe7kSoDtFXN186Tx1zFlziSyreo705XquQXAj5mJgy4mZ19/MDhuiMrHHZZBa5o4z+dOGcclCOKqnv0pPstOr4ZJEhTk+vjD22PvWB1h2kw03yCh3cNvm1tQ97eSzeHHcbhncOUWwmhJao68cN4loAEAR4lBj74BPcb9dCsg75BTRsPttbt9Jva2JH9EjiWAn0Gr3vkQI6omM6mSwFkL/hdzC8l+EQXVv1PemE8zHcuoWxpACgM05+Vz0wEGzYalFd4OFLdNYpVxg2oRSDcFSwT5GMqPkjbJtYFAgly/9RME3YcR+/2wqAuoTxQesKYV7eUnPDvXgd6MjVpQwt1FlNmiCF/K9heRvu/d/qHcEQ9BPEDWUuRK0P0nuts21rfkTYGZBqXRBiZBjkDu2xhdj01KXbWysMVm/6AEjvQEVqjQ/WJqI+29qQeh4dg==;+FIwYHJSHl9BgsvMB7a9Ww=="
+secured: "lmAyQ+VHCJiNkWwhJybjuUom4hmAyM5FqgPtKQxlTRWy5U1Eo8CozxTZiMejxCrAI5a+DbIig/c7JerQOheqPU3R3HEXEFTEB/9EuQ7BVw/PzcbfHuUxWUbgwDl29CcnyJu39560hEcfCyInIZIoDAhFGoQhGyFCe+EtbWUVrIiK+4xbnjDkTT3z1xLGfzACDUZ4hng1Z2JZHfOya0LULnSTRomGIEkWaQuZBz0XeZHjRWWX9ayC21wd/mB7VURGJlmw3gBg8ozbWBfmSb+mSpzOxY6cnjHxqebbmU+kriHCFIPkTEmHBN8KZkYD4cwdTRu6zfeG4sS8Jm6yMVL5Cibd2JmWTeqxjf1JP5Ugdi0=;4UvEfup/4AHEA3ya/caA5Q=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial
 webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Micro themes within the Fintech sector that will witness investor interest"
+    excerpt: "India’s Fintech sector is the cynosure of the global Fintech market with its exponential growth and innovative solutions. The JAM trinity and the UPI infrastructure has enabled it to offer consumer-centric,"
+    publishedDateTime: 2022-10-29T21:00:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/micro-themes-within-the-fintech-sector-that-will-witness-investor-interest/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 42
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/10/Bhaskar-Majumdar-Managing-Partner-at-Unicorn-India-Ventures.-1-1-1-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
   - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
     publishedDateTime: 2022-10-26T04:16:00Z
@@ -38,34 +54,6 @@ related:
       - url: "https://financialit.net/sites/default/files/provenir_12.png"
         width: 1366
         height: 768
-        isCached: true
-  - title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
-    excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
-    publishedDateTime: 2022-10-25T08:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
-    excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation"
-    publishedDateTime: 2022-10-28T02:30:00Z
-    webUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finance-singapore-fintech-festival-2022"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 38
-    images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/pr-newswire_500_4_1635.jpg?h=7de12b8a&itok=o6cs2g9v"
-        width: 600
-        height: 316
         isCached: true
   - title: "28/10 – Weekly Fintech Recap"
     excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
@@ -115,6 +103,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 19
+  - title: "NatWest invests €65m in Dutch fintech Floryn"
+    excerpt: "A Netherlands-based online lending fintech has secured €65m in funding from high street bank NatWest. Floryn, which provides financing for SMEs, said it will use the new funds to strengthen its position as “the most cost-effective alternative to a bank”."
+    publishedDateTime: 2022-10-26T12:36:00Z
+    webUrl: "https://www.altfi.com/article/10035_natwest-invests-eur65m-in-dutch-fintech-floryn"
+    type: article
+    provider:
+      name: altfi
+      domain: altfi.com
+    quality: 4
   - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
     excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
     publishedDateTime: 2022-10-27T12:38:00Z

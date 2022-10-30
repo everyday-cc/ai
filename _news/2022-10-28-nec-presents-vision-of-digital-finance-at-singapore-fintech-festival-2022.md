@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finan
 webUrl: "https://www.asiaone.com/business/nec-presents-vision-digital-finance-singapore-fintech-festival-2022"
 type: article
 quality: 38
-heat: -1
+heat: 38
 published: false
 
 provider:
@@ -25,114 +25,34 @@ images:
     isCached: true
 
 related:
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
+  - title: "The top speakers coming up at FinTech LIVE London 2022"
+    excerpt: "We've compiled our pick of the top speakers taking to the stages at FinTech LIVE London 2022, our must-attend hybrid event taking place next week"
+    publishedDateTime: 2022-10-27T09:05:00Z
+    webUrl: "https://fintechmagazine.com/articles/the-top-speakers-coming-up-at-fintech-live-london-2022"
     type: article
     provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
-  - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
-    excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
-    publishedDateTime: 2022-10-26T04:16:00Z
-    webUrl: "https://financialit.net/news/risk-management/provenir-named-finalist-2022-fintech-futures-banking-tech-awards"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
-    quality: 39
-    images:
-      - url: "https://financialit.net/sites/default/files/provenir_12.png"
-        width: 1366
-        height: 768
-        isCached: true
-  - title: "Thailand's Monix taps Advance.AI to offer mobile micro-loans to consumers"
-    excerpt: "These include lower income consumers or micro or small medium businesses operating outside the banking system. According to the United Nations’ Sustainable Development Goals (SDGs), financial inclusion ranks high in eight of the agency’s 17 goals,"
-    publishedDateTime: 2022-10-25T08:54:00Z
-    webUrl: "https://www.finextra.com/pressarticle/94604/thailands-monix-taps-advanceai-to-offer-mobile-micro-loans-to-consumers"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 38
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "28/10 – Weekly Fintech Recap"
-    excerpt: "Partnerships Payer and American Express Partner to Accept B2B Payments Across the Nordics Payer, the premier B2B technology company specialising in digital conversion, payments, and finance automation,"
-    publishedDateTime: 2022-10-29T06:45:00Z
-    webUrl: "https://financialit.net/news/artificial-intelligence/2810-weekly-fintech-recap"
-    type: article
-    provider:
-      name: Financial IT
-      domain: financialit.net
+      name: fintechmagazine
+      domain: fintechmagazine.com
     quality: 24
     images:
-      - url: "https://financialit.net/sites/default/files/photo_2022-01-28_19.29.33_9.jpeg"
-        width: 1280
-        height: 720
+      - url: "https://assets.bizclikmedia.net/1800/9ea6d91e0bd6b5fcbcf374bd839921bf:dfab96f7d6dee49bae3aebc3083b0ea7/fintech-live-london.jpg.jpg"
+        width: 1799
+        height: 1011
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
-    publishedDateTime: 2022-10-26T02:20:00Z
-    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
+  - title: "October 2022 Riskalyze Fintech Five"
+    excerpt: "Founder and CEO Aaron Klein provides his take on the biggest news to hit advisor technology in the previous month."
+    publishedDateTime: 2022-10-27T19:13:00Z
+    webUrl: "https://www.wealthmanagement.com/technology/october-2022-riskalyze-fintech-five"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
+      name: WealthManagement.com
+      domain: wealthmanagement.com
+    quality: 24
     images:
-      - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
-        width: 650
-        height: 412
+      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/riskalyze-fintech-5.png"
+        width: 1540
+        height: 800
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-27T15:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
-  - title: "Provenir Named Finalist in the 2022 FinTech Futures Banking Tech Awards"
-    excerpt: "Royal Lancaster Hotel in London. The Banking Tech Awards recognize excellence and innovation in the use of IT in financial services worldwide, and the people who make it happen. The awards are owned and produced by FinTech Futures,"
-    publishedDateTime: 2022-10-25T08:10:00Z
-    webUrl: "https://technews.tmcnet.com/news/2022/10/25/9698609.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
-    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
-    publishedDateTime: 2022-10-27T12:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
-  - title: "Bread Financial thinks it can outlast fintech startups in a recession"
-    excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
-    publishedDateTime: 2022-10-28T17:58:00Z
-    webUrl: "https://www.bizjournals.com/columbus/news/2022/10/28/bread-financial-q3-earnings-recession-plan.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 4
 
 secured: "3Z7cYRNFP5LI1aXs8qvc+a1k99zvpMQzTXB8bmD5tKB1ZnOyJ2Ya0/zATRla0i9+3tODhnTxnspao3iCCKn/a7kTMozaQfQOwzEinIbUykwEoIefiFjBz2Lt0QsJsmd3NrVtZfkPo5Ucl/wWDjDRnvNPxwZC/mOV+/H3d/zYPlW/n9vGWjpbtccWM3mPtze6gW/zvao+5qey3+8ZeX6DqmqlWR0FL3LAtKCph/iqJAtwm2mIIp0HgWQ/afE68UEvXfKgki6kvFZmB8TNMAvjGzlnI71jAFY5fDaDfyc+vCEFM9JXQZhezlOW0I1HPVUNOe2YCyjExACg51PAX+AAFKhiFxJP+L+cnCIx2gTKJNI=;94rUrssyscEGrnXrA3VjOw=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standard
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/05/02124241/south-wales-police-mobile-facial-recognition-app.png"
         width: 1292
         height: 715
+        isCached: true
+  - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
+    excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
+    publishedDateTime: 2022-10-29T16:23:00Z
+    webUrl: "https://www.jurist.org/news/2022/10/cambridge-report-finds-uk-police-use-of-facial-recognition-technology-may-breach-ethical-and-legal-obligations/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 36
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2021/08/Facial-Recognition.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "jUH3Z2E4YLsJ1ObGSbfeafWvwr1a8pMc2EeLNatFbix/rQLiUCgaFQD2cOBEmBr496m0Uj2N8k05fykIiIM6dnDc/QqFQRSpLgNhX9hGnw6BNuixiLgaxF202Fw0S0drAbQ6lAlxgT0bCru5bntyamT3LCDROEtHw5a2PTHwhxfeAnrHq02z1nlOxaAYiDlAJLFCl/BaxtbdUoIX2g8LM4CyGW3pbKZbTB26sUSrluWP+jM7N2BUxRTOY79Hot/iH9SAu9eFsNcO5vhANws7uXGAfDYVDg3nJgaTLAb8+d8IFVDKg3BAb0NQb+wb++9WVJV2WzXVQNNR+bZ8u16XF8EuVMBvIEaFjRPozXbcTtvQXyVZvz10Dx7amUYdAu4QpzcdNJxAxx8UfRROAFXwWO0w5soUMwf5qoaoHXLkV8LAJULlcosXS6hy4meWABBtB+7Ku/a/2/ei01zv3XQE6sBEEUJlxETh3HPww6BUcq+hGMgaZmz2Kr+pURwYjwQa9NdOS3ZpebelKGCr7EfHEQ==;cXOkx3l/SKrOaTsaV+Z/pg=="

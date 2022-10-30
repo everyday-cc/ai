@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-h
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
 type: article
 quality: 74
-heat: 115
+heat: 114
 published: true
 
 provider:
