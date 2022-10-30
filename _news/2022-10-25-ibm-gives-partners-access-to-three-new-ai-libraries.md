@@ -39,20 +39,6 @@ related:
         width: 1202
         height: 672
         isCached: true
-  - title: "IBM expands embeddable AI portfolio with plug-and-play Watson libraries"
-    excerpt: "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build ..."
-    publishedDateTime: 2022-10-25T13:29:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/?via=indexdotco"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg"
-        width: 830
-        height: 456
-        isCached: true
   - title: "IBM introduces with plug-and-play Watson libraries for AI"
     excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
     publishedDateTime: 2022-10-26T12:13:00Z
@@ -81,15 +67,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "IBM Expands Its Embeddable AI Software Portfolio"
-    excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-its-embeddable-ai-software-portfolio/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "G2rTe9mdLINDmS9JMecBwW1SbXYrBgqarTnPb/cE/lnbNHREAzoNL5I514whHLTxempQJBFUCs65ovrm72gyHg4tb6BMXxJ4WofBWNvwvIPF1BTmmO3hOJjt45zBgvjQhL3judNevXd0wYQ8r5Vr/V+2SXbrLoCaxGIn3gkRuF0ze/PE1SN4F/8PX5quyu4Ao7YuyTcopXJIKVyK1XC9MQK2uhn+gdWJ9ub/eHqcW42QwB0Jwr8y8iTRfJyFuFXVbRGLba1Xxb7wX4EfCRzEpUM3wWBoRo/kHs6ZloBaso+cQFjY5ndALk+HEnbw+jJiWrlgmdF7Rfv1I7OWnmnx9E0w5tGgEytxTG18XQDfgw3jZon5Q5wOONGG8lk+DQJfMaFHZgMDNYEReyx1Mk+qc89q3tjVIReaMkupHUZupdDVr7Yvr5mtJoV7G5p/FqqSshRGknyGRat69S8RNcGeL2JLKOaTKGpAL77VgjptL3jRMGgIbeBVyHxkZQrePnC81Bak/Yju8z+aPXYs9wplvA==;TS8Z6e0TdYDJluom4eXTyw=="
 ---

@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global AI in Healthcare Market Report 2022: Surging Investment in AI Deals in Healthcare Boosts Sector"
-    excerpt: "AI algorithms improve system precision by allowing them to analyze training data, allowing people to gain unprecedented insights into treatment variability, care processes, diagnostics, and patient outcomes."
-    publishedDateTime: 2022-10-25T14:20:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699028.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 18
 
 secured: "kSWBTxWNlmienAHBTvWIOVWnjTmk54HojjhOIv5w8UMAZRr/LPZj3mem1uzjNM5QAe9xffppt6OzlAn9RuSBFRbbf00+Ifb0mwqTp2JTWZIYdA2//Ujhi7ZbsfphY5obFcUJJkFVXqHUYoxmnWb0snB6fpO4sKIKw+Sy83KO/awcx2WMRL1h67Zsvrq+TsdGVpR/+7jjJ9XisuGVtFlgF5PnIoIZ7jywYSIICOLBrDnrB+hjKMMMjPWB0FSxGZawesZPGelNWc34HKI4d66pLAegaHfFitxckzwqlBJJpLhAqpmqPDvCCkKXULxa46A/3+apLPLh+P79kqrq8b809sehjzPBI2TkXUWxyeobS8M=;MK/wCLA+6yGHEW60JMIO2A=="
 ---

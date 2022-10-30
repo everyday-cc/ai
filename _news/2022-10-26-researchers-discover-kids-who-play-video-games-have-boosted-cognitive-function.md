@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Video games may bring cognitive benefits to kids: study"
-    excerpt: "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ..."
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
-    ampWebUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Video games may bring cognitive benefits to kids, study shows"
     excerpt: "Some parents worry about the negative impact video games could have on their children, but gaming may be associated with improved cognitive abilities, a new study found. Kids who play video ..."
     publishedDateTime: 2022-10-25T23:56:00Z

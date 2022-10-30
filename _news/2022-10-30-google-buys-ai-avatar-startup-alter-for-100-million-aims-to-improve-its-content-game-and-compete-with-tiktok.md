@@ -1,36 +1,45 @@
 ---
 category: news
-title: "Google Quietly Bought an AI Startup to Build Your Avatar, Report Says"
-excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
-publishedDateTime: 2022-10-27T20:52:00Z
-originalUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
-cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
+excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
+publishedDateTime: 2022-10-30T07:05:00Z
+originalUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
+webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
 type: article
-quality: 89
-heat: 149
-published: true
+quality: 16
+heat: -1
+published: false
 
 provider:
-  name: CNET
-  domain: cnet.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: The Tribune
+  domain: tribuneindia.com
 
 topics:
-  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
-    width: 1200
-    height: 630
+  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
+    width: 627
+    height: 418
     isCached: true
 
 related:
+  - title: "Google Quietly Bought an AI Startup to Build Your Avatar, Report Says"
+    excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, according to a report Thursday from TechCrunch. The exact date of the acquisition and purchase price has yet to be confirmed by Google."
+    publishedDateTime: 2022-10-27T20:52:00Z
+    webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Google Quietly Bought an AI Startup to Build Your Avatar"
     excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,"
     publishedDateTime: 2022-10-28T00:31:00Z
@@ -111,21 +120,7 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-30T07:05:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 16
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-        width: 627
-        height: 418
-        isCached: true
 
-secured: "eVbrmO5Z924PAqT1k4TDInqGYtdh86L09QzKHpgtMdXOI3CRZRL1JCtozf+1qzhieIimbZeJUE53ct3jIrrlBxDbeZZ8uiaT0JvFyYDp0CjDnNhAP44ugwqBzYNgSnFfXSLB+kyTF0rcjRCMM0FEZNUf6or2XSGiLEjR3FXdJa7WRLqRyH6gSap6UNXefCegksh9ZZdtGYZMM71nOz4fpcJlQ3hlJj5swRj4ZRogGsaOk3/epTy4Ryc+BKhDMeIcCEjtIFdila5mUXqTKbQWa4eFRqSBFwMtZ8s/8RrJShfvjNLauiQxD3D3rKfb+9l6s2FsHcXeHgYhoNEX6OGJYH8UDkNmRDLDk8b4nZDvJVFcE8Y3tr0MwZkiUIlY2GECm55g7E6lzAnRSgq+i4RvmCuD9TSH24SADyNixd6s23erlicpeO91dAzg+Ls06tDNjniFPgQq6fvMm2ZnRoYKjdSDeRSi9XSvH7ZQskH4bWcSM4XYhmnPzPvp0kCmHTOYzlV0uAQZ/1L3xJp8K5HDFQ==;cYcVALD7WmHAUNjahiBmYw=="
+secured: "b6NB1uYhS41XEmxLICWq0sXGqozqbEvW/z4unLBftV9KBJfaQyBpXL16pd/0zbzU42JcD19oFurf/C42VbHxN6l61F7D5czMFCPL1Lg/0BgYFOBmrMP4DO7FG37sEOB+j9nsvU4bXLn9ci60lmTfOpeuTjomLcO2pUOYbK+cJyvAm5mfAHFtikUUvhsOGQFLgf7CW5a3EA6Jh2VFWW8yC7azxA/k/p3wsfBxiUS4JgbcGoY+93DB60yKnOKQFAabMRDKKvwBQjBCWS9DUCg9/DXtIa9/fQobbfD3YDp5hzvfXnKRD7x2N0dWT6NqE8+P92rSQxqEPXBzDimTrYRrIz2CRd4nr5I9McRuV7oWqEc=;7olS2/1nTFj2aMKfvNkMbg=="
 ---
 

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-26T20:15:00Z
 originalUrl: "https://money.usnews.com/investing/news/articles/2022-10-26/volkswagen-no-longer-investing-in-self-driving-startup-argo-ai"
 webUrl: "https://money.usnews.com/investing/news/articles/2022-10-26/volkswagen-no-longer-investing-in-self-driving-startup-argo-ai"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -20,22 +20,9 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
 related:
-  - title: "Lidar Sensor Price Plunge Leads to Orders From GM, Volkswagen"
-    excerpt: "Lidar has been winning over more supporters in the automotive industry as prices rapidly decline. Developers are betting that once their sensors are cheap enough, it’ll be difficult to justify not using lidar in vehicles."
-    publishedDateTime: 2022-10-25T14:21:00Z
-    webUrl: "https://www.ttnews.com/articles/lidar-sensor-price-plunge-leads-orders-gm-volkswagen"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/lidar-sensor-1200.jpg?itok=3xyjDARP"
-        width: 470
-        height: 246
-        isCached: true
   - title: "Ford loses $827 million in Q3 as self-driving tech partner folds"
     excerpt: "CEO Jim Farley says the company now believes mass deployment of fully self-driving vehicles is \"a long way off\" as the company records a $2.7 billion non-cash charge for its investment in Argo AI."
     publishedDateTime: 2022-10-26T20:51:00Z

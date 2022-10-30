@@ -6,9 +6,6 @@ publishedDateTime: 2022-10-25T13:24:00Z
 originalUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
 webUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
   name: Joplin Globe
@@ -24,6 +21,6 @@ images:
     height: 456
     isCached: true
 
-secured: "uyIq698Jg9nzsq0G576k4oduha13+DDtRl4ZA92KoyXwpHl6frBYfgP+9o5/RAhfj03EaES/rIk1PTdcB9xDWyAPi9JbH+EFLi40vkCXf0OytxgoJdM8Ywm4nbJnFl6hOrajkBYx1v98UeHDxYcQsPl/8l/y4a5eGWkpDGlYsyjCO/CEi9ykKYWvZZUjiPlcqZIS2lw0bPiUQEjCbExuIMPPd4kMFa8Tz8yY7Cx1bhvj9mviFPF+KmBcjYhPBq75cwgCnARTmYvgjEQN0ngjpDml+91L7RmiwhjpLI+R166aAC3/Y7zoLNG9LMjRyCr5UlqxNR2xDLlw22JttCxexmUKEWglKtOSHAzG8LCNjbY=;KXLMkULW/65ThTA0PV4GBg=="
+secured: "oyLstVkKW3tLDDppvhD06FInUav1G14Biu3q8ZxC9VdqvcSwwrVKQsk7Oqd8bFa7c+nNPilKFeklQesj/m05VdN4T3YTi291Y0W+0WuCPkW4jrfkU2mqDXBM15MfjgIeL2GS+kVR+PlCCyPvd8DWXZYAF2/z8N4enMK7Fi2gtrwwPO4OEzikMrFwbjH9YUzKHMyM65C+AyTE/7tise5hL3YLw9hImNIbo7XJLtoDMYQIr+/qnMgaysv86edT0wQ+98ZT/7o0pCMzHPD4LuLBowqRuh952DXBRFVhe1Jfsz5OnF/3ClduUh++2XV5+BzkBLAVqP5CM4hYcM/MXhLTPbeyN7OnEk3hqmISynCmWNk=;r/0yG0jHbyQqz8F8B2AN5g=="
 ---
 

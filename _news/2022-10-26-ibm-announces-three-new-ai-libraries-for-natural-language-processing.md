@@ -7,7 +7,7 @@ originalUrl: "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-na
 webUrl: "https://sdtimes.com/ai/ibm-announces-three-new-ai-libraries-for-natural-language-processing/"
 type: article
 quality: 86
-heat: 136
+heat: 116
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "IBM expands embeddable AI portfolio with plug-and-play Watson libraries"
-    excerpt: "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build ..."
-    publishedDateTime: 2022-10-25T13:29:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/?via=indexdotco"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg"
-        width: 830
-        height: 456
-        isCached: true
   - title: "IBM introduces with plug-and-play Watson libraries for AI"
     excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
     publishedDateTime: 2022-10-26T12:13:00Z
@@ -86,15 +72,6 @@ related:
         width: 772
         height: 594
         isCached: true
-  - title: "IBM Expands Its Embeddable AI Software Portfolio"
-    excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-its-embeddable-ai-software-portfolio/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "6ByaL6fHPfDeI9AKcy2DTRvHen/Sdr7VNjsi2xMwLsCp60x206zv0++Ms+qkVvX1Xx6IzdHFSUy+5SPycUi3KX3kY/zzp0FOu6n2wQh+naaQaNTeQqXMkyrJB3aogcCUgeNY/mQWvFYxfVwtcjg28Hpyj3CQdhWcbe5cLzK28pRlOX4dQX8+5RdDiA8VgzzKlmgLfPLwcge91JNY8lc2fZz/g9WUGJ1TbU9U/kGmc4bpya9YStI3e5o/HywdLZT29hM65pBbKWUO6SYU6SaKnoHY39rqw3QTMAhdFSMVE0nZFRvsciHWQAPjf1311BUV34AS7N2pzwRIQ7SZBaD0pC2orKKZsv51askGvEiV1W9E1GK3YbGBmaotpEoABJ8ciwHFeUPvKanRFhqqFQJo9QayBAjjBC1gowAcJac0UJWS0s5i+LXzblf0H5wfyRdbvwS3lNqeSMM7Mt1pGHQnEI8TpQylNyCosx83iOTVLTlCOews2sPXPNp8/hbsaGoTQU9gXnnjq/02RSxmb/WL9A==;BFvL+mdftMfqAjCaQITTRw=="
 ---

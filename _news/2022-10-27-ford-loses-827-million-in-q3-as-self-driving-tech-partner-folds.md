@@ -33,21 +33,7 @@ related:
     provider:
       name: U.S. News & World Report
       domain: usnews.com
-    quality: 47
-  - title: "Lidar Sensor Price Plunge Leads to Orders From GM, Volkswagen"
-    excerpt: "Lidar has been winning over more supporters in the automotive industry as prices rapidly decline. Developers are betting that once their sensors are cheap enough, it’ll be difficult to justify not using lidar in vehicles."
-    publishedDateTime: 2022-10-25T14:21:00Z
-    webUrl: "https://www.ttnews.com/articles/lidar-sensor-price-plunge-leads-orders-gm-volkswagen"
-    type: article
-    provider:
-      name: Transport Topics
-      domain: ttnews.com
-    quality: 24
-    images:
-      - url: "https://www.ttnews.com/sites/default/files/styles/470x246_with_tt_orange_bar_overlay/public/images/articles/lidar-sensor-1200.jpg?itok=3xyjDARP"
-        width: 470
-        height: 246
-        isCached: true
+    quality: 49
 
 secured: "/0wQVNAdl6NUkfhGSMzsK86f5qK4OJF/xCGJOSl5KrOMKFEa67IVogqkE/xGEjM2Nb2TEun2YzNcrLoP7gJSRt38qQl8Grr1zdK672IJXFao8lI0RdnSxKlUe7XTYzAmJBzBqjsJM6Jv4HOOjkLl7uLgcxmavRa8QQ9zamkZfnCyVHTjyc5+3V28cNewStA3CK/sphS+9shEijMUGLUE1IbkQRFY41lIa5MD8Nvz6Hp6YPTUkH2NTLO0/UrSkottG6WGOtLLWz0ebKbnGpNPisVBqahyygc8QFLDTIEHFnN6IVEzMo6utCVtzyR75l1akSIPcFSZesm8XsON03VuZCFTP+TJW5Yvd7aTz450sio=;fARhCaFhGNNC6QJ1qvkmHA=="
 ---

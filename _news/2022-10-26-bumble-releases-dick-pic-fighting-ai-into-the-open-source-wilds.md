@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighti
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/bumble-releases-dick-pic-fighting-ai-into-the-open-source-wilds/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Bumble Open-Sources AI That Flags Unsolicited Nudes"
-    excerpt: "Dating app Bumble has made an open-source version of its Private Detector AI feature, which flags unsolicited nude photos. When lewd images are shared in personal chats, the system blurs it and marks it as inappropriate;"
-    publishedDateTime: 2022-10-25T14:41:00Z
-    webUrl: "https://www.pcmag.com/news/bumble-open-sources-ai-that-flags-unsolicited-nudes"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/00hJ1WA03s9WstWbcLxC3o7-1.fit_lim.size_1200x630.v1666702020.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "The Dick-Pic-Fighting AI That Dating Apps Deserve"
     excerpt: "Bumble will use AI to protect you from unwanted dick pics Private Detector achieved greater than 98% accuracy during both offline and online tests, the company said, and the latest iteration has been geared for efficiency and flexibility so a wider range of developers can use it."
     publishedDateTime: 2022-10-26T19:15:00Z

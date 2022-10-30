@@ -7,7 +7,7 @@ originalUrl: "https://www.usatoday.com/story/money/2022/10/25/video-games-linked
 webUrl: "https://www.usatoday.com/story/money/2022/10/25/video-games-linked-better-cognitive-skills-kids-study-shows/10596752002/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Video games may bring cognitive benefits to kids: study"
-    excerpt: "School-age kids who spend hours a day playing video games may outperform their peers on certain tests of mental agility, a new study suggests. Researchers found that compared with children who ..."
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.html"
-    ampWebUrl: "https://phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-video-games-cognitive-benefits-kids.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 44
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/video-games-may-bring.jpg"
-        width: 800
-        height: 600
-        isCached: true
   - title: "Researchers discover kids who play video games have boosted cognitive function"
     excerpt: "These findings are no doubt in direct opposition to your mother’s claims from childhood. Veuer’s Tony Spitz has the details."
     publishedDateTime: 2022-10-25T17:30:00Z

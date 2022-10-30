@@ -9,7 +9,7 @@ ampWebUrl: "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New AI Model Can Predict Unplanned Hospitalization During Cancer Therapy"
-    excerpt: "New research shows that an AI model, which analyzes wearables data, could be used to predict the odds of an unplanned hospitalization among those undergoing cancer therapy."
-    publishedDateTime: 2022-10-25T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/new-ai-model-can-predict-unplanned-hospitalization-during-cancer-therapy"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 33
   - title: "Artificial Intelligence Model Predicts the Healing of Broken Bones"
     excerpt: "What to expect when a broken bone is healing? Researchers have created an artificial intelligence (AI) model to forecast how thigh bone fractures would heal."
     publishedDateTime: 2022-10-27T19:14:00Z

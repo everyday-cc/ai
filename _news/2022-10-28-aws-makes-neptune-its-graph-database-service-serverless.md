@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-databa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
 type: article
 quality: 89
-heat: 112
+heat: 113
 published: true
 
 provider:

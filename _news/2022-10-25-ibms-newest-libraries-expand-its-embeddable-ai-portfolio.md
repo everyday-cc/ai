@@ -39,20 +39,6 @@ related:
         width: 1202
         height: 672
         isCached: true
-  - title: "IBM expands embeddable AI portfolio with plug-and-play Watson libraries"
-    excerpt: "The new offerings announced today provide customers with access to the same AI libraries that IBM uses to power its own IBM Watson products. In other words, they enable developers to build ..."
-    publishedDateTime: 2022-10-25T13:29:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/ibm-expands-embeddable-ai-portfolio-plug-play-watson-libraries/?via=indexdotco"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/watson.jpg"
-        width: 830
-        height: 456
-        isCached: true
   - title: "IBM introduces with plug-and-play Watson libraries for AI"
     excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
     publishedDateTime: 2022-10-26T12:13:00Z
@@ -81,15 +67,6 @@ related:
         width: 1496
         height: 1124
         isCached: true
-  - title: "IBM Expands Its Embeddable AI Software Portfolio"
-    excerpt: "IBM today announced an expansion to its embeddable AI software portfolio with the release of three new libraries designed"
-    publishedDateTime: 2022-10-25T14:50:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ibm-expands-its-embeddable-ai-software-portfolio/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "oMs4qyevEO3tjdaevhBaaHiLLlI1GNH6Kl6WbxJY8FCHW7FBYD8IuXsEw6B2/B9VHii2uO/WSIOakFrXz5yOlj1U4kKpL+9xByMXzb0TM9MyGsi3bY3dd2dfA4lXIkBJBoDNEuPKdzhTUyr0ea3jToBRN1XenfDVr3yi2UAXYgAWsUR0iV/iS7GZiVZ95U407xlgiaP4ZBYVRB6f3Tu2v5CJ1q33EcUB73x3y4SHKoUUKyTWTuC5QiDJ81ZurYrli6qgV8iscZSq6jYaxGOB9U95YTZgYjGB6o3ZusQByhjOegqUWhq8rQMIo0JoDEEV2V3JWHhc7iuo4B/+UHEsecXL4X4aTfsUPipcRojhIgs=;9LVLHrj1glrKydlv5mlomA=="
 ---
