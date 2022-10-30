@@ -39,20 +39,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Provenir Named Finalist in the 2022 Fintech Futures Banking Tech Awards"
     excerpt: "Provenir, a global leader in AI-powered risk decisioning software for the fintech industry, today announced it has been named a finalist in the “Best Smart Banking Tech Solution - AI-Driven Data Insights” category of the 2022 Fintech Futures Banking Tech Awards."
     publishedDateTime: 2022-10-26T04:16:00Z

@@ -62,7 +62,7 @@
       "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 82,
       "tags": null,
       "images": [
         {
@@ -606,8 +606,8 @@
       "title": "HSBC and Silent Eight Expand Machine Learning Partnership",
       "excerpt": "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/11/9689370.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/11/9689370.htm",
+      "webUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
+      "originalUrl": "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -626,11 +626,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T02:43:00-07:00",
+      "publishedDateTime": "2022-10-11T02:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Malaysia Sun",
+        "domain": "malaysiasun.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -640,9 +640,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
         "AI",
-        "AI in Finance"
+        "Machine Learning"
       ]
     },
     {

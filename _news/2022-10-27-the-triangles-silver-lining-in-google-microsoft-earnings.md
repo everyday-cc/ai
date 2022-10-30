@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Microsoft’s stock slides as Azure cloud growth engine stalls"
-    excerpt: "Azure’s revenue growth rate was the slowest Microsoft has ... security measures, cloud deployment, AI-based tools and more,” McKenna said. “As we navigate the tricky waters of the economy right now, I anticipate Microsoft will continue to grow ..."
-    publishedDateTime: 2022-10-26T00:20:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/microsofts-stock-slides-azure-cloud-growth-engine-stalls/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 54
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/nadella.png"
-        width: 800
-        height: 459
-        isCached: true
 
 secured: "Z7fgDnNVB396sY+vbNt2Y7A6sWYKVV+XY8A4bLCUmHhSGmWsseaPquF/xdlZerh+MO9gvphbHj6p3p/LKZDUF2CuOSaa7q60kBblVQ8uF3LarAeckKdBfICXg7YImYLXVtitW48QGGG14VYH5gWUpjvPtSiA4V7rfB0umkK+GNyk02cX3CP1+56KpF8hqp3qJZ1WiagWCeAmTJtYq2PfY7WfTwvcO2ixx6n61vamqempdIGX6+/OvRPCAoAkULPjyH2w0Hlp73uIZkBMcwQtB7EYm6z2gZG2Cl06CtvCM7nMngTqvU5tX0v1JoMX5YD5+aArKn4BmG+K5sdbJJ//aGEyKZf2GlNpgMYd+9X1sCqhDuN2Rs8mMT/q1OFQmNu6utm1JcyVKmmg9hlj8LfL+pYTfXngaVstcakDQHHea8WekSr7bwuLikkMxsAfBzf3uUQh4MKQmb/J5Hq4tsCWtPhmxE8RLNlU64zUMSLg1gpbcHvyf2X9Ia6FrNtJdaTl6BlTHFUErdxEufW5NujwKw==;RN56qnd695wPP/P2d8+nbA=="
 ---

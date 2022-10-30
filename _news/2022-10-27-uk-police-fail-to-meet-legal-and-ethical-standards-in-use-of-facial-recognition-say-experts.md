@@ -86,6 +86,20 @@ related:
         width: 1292
         height: 715
         isCached: true
+  - title: "The Use of Facial Recognition by UK Police Falls Short of “Legal and Ethical Requirements.”"
+    excerpt: "The new audit tool was developed by a team from the University of Cambridge’s Minderoo Centre for Technology and Democracy to assess “compliance with the legislation and national advice” on concerns such as privacy,"
+    publishedDateTime: 2022-10-30T17:41:00Z
+    webUrl: "https://techstory.in/the-use-of-facial-recognition-by-uk-police-falls-short-of-legal-and-ethical-requirements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 46
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/minderoo.jpg"
+        width: 885
+        height: 432
+        isCached: true
   - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
     excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
     publishedDateTime: 2022-10-29T16:23:00Z

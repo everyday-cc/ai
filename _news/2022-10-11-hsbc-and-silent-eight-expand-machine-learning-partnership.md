@@ -2,19 +2,19 @@
 category: news
 title: "HSBC and Silent Eight Expand Machine Learning Partnership"
 excerpt: "Silent Eight announced an extension to its existing partnership with HSBC to tackle financial crime. The new service will cover the deployment of Negative News Screening that leverages machine learning to identify individuals who pose a greater risk for money laundering,"
-publishedDateTime: 2022-10-11T09:43:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/11/9689370.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/11/9689370.htm"
+publishedDateTime: 2022-10-11T09:30:00Z
+originalUrl: "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership"
+webUrl: "https://www.malaysiasun.com/news/272901056/hsbc-and-silent-eight-expand-machine-learning-partnership"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Malaysia Sun
+  domain: malaysiasun.com
 
 topics:
-  - Machine Learning
-  - AI
   - AI in Finance
+  - AI
+  - Machine Learning
 
 images:
   - url: "https://mma.prnewswire.com/media/1915578/Silent_Eight___Black_for_Screen_Logo.jpg"
@@ -22,6 +22,6 @@ images:
     height: 337
     isCached: true
 
-secured: "rkRPC0IzXvV6ZhsR7r9Fy486FZq2X8YC8l4lROLB790sKqSAEPpI42b7ClMV9kiGIbh8KAUUi8mrMYI3MYVqHwW/4AVKQz4nvLKXaNxPjDZ6g5UjT1FaaqcNwqxhA7oCGvIKhrqbdpVeT0LjKe0BCQRhZjBRwVWJ6KNnTdRcg4ytlkEGOwZrRphdjsv1G1FL2Ytm42layodvxbzoXFThZJRv7q1jWPkPUcJ6DHKojeYcAuWd94nk+kPdFNoFbkBKPlpYNS3ODGgxSmMHr/jWRaB15rZnW75BDE5Jd5MOrZuJIMpiKU0wvf/1vKNO9AnWrUFy5yqYMekGWAfXsS+Jx9PfWCN0AKYM998AyB9V7TW26ASY2+J1NEudS9P5c5VJ1Tz8y1kIh7Q3ieQnyKH7YcYtNZAN1pRK0GbXuzbSVHd3p7VLmKpJIZ7DYfZUlscHipmNrhDy4zFA33raqJla2kBMEtUH9hXFi/Yr9BIobYGEEPhhl2ny/5gKkU7WNle90BIhCfcMkyQ67gexJlqaww==;mDvdGidn8q2prJaDI0DEpw=="
+secured: "dw7E0QzUTaavC6CvOaww/xS07VJLPpxdXMKMdADZoDZH9UgR2l7nXTQCDaBbNPrA3kSZEhgds/xAxhdKbJI2VxlX+9LtR3IMi48l27n3/sPYBGeaIPXV+pQjpL2qiNpuZ6Ei5xuHUJkmyDT2M0cuHP9r9RaFB5968zVcQX7tO7c4HQPYYhuYYY+JJcSwGsY2VaZAtDW1fzFNaD6VHkp7kx4+ddSNRBTiCzRIIZ3dSNImDZT+BoLZLuyVy2OoL6a04/SciYcj3w7H3GPreJt+JxySqijV7CWEBByYv0OQn5IO9fBBCgPD+eVpLh9MxNzu2jaSHvB71xZreNHsG7QfgPCOiSqoP89+w9e6y8IIiFI=;UJVyRx3KIgGoi4DAfWcpJw=="
 ---
 

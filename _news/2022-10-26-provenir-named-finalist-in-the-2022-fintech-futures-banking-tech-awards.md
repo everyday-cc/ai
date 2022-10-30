@@ -39,20 +39,6 @@ related:
         width: 600
         height: 316
         isCached: true
-  - title: "AI and fintech to boost financial inclusion in Thailand"
-    excerpt: "Fintech is helping to solve this quickly by providing financial inclusion to the underbanked and unbanked community"
-    publishedDateTime: 2022-10-26T00:00:00Z
-    webUrl: "https://techwireasia.com/2022/10/ai-and-fintech-to-boost-financial-inclusion-in-thailand/"
-    type: article
-    provider:
-      name: techwireasia.com
-      domain: techwireasia.com
-    quality: 39
-    images:
-      - url: "https://techwireasia.com/wp-content/uploads/2022/10/MONIX-AAI-Case-Study-App-Demonstration-V1-Image-png-October-1024x683.png"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "NEC presents vision of digital finance at Singapore Fintech Festival 2022"
     excerpt: "NEC Asia Pacific (NEC APAC), the regional headquarters for leading information and communications technology provider NEC Corporation"
     publishedDateTime: 2022-10-28T02:30:00Z

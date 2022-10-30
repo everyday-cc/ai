@@ -100,6 +100,20 @@ related:
         width: 1292
         height: 715
         isCached: true
+  - title: "The Use of Facial Recognition by UK Police Falls Short of “Legal and Ethical Requirements.”"
+    excerpt: "The new audit tool was developed by a team from the University of Cambridge’s Minderoo Centre for Technology and Democracy to assess “compliance with the legislation and national advice” on concerns such as privacy,"
+    publishedDateTime: 2022-10-30T17:41:00Z
+    webUrl: "https://techstory.in/the-use-of-facial-recognition-by-uk-police-falls-short-of-legal-and-ethical-requirements/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 46
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/10/minderoo.jpg"
+        width: 885
+        height: 432
+        isCached: true
 
 secured: "99QUlvvyhPq3NsGEQlC5c5uJRZMvlWw4ayJRSbjsPd37SrsQXmMv8MyBdcCAso21eqfkfayDzocOWgZfuNYQXggnwHbEpqd4szXeAJySV3SffCfvl8wFVV8x6lkm/y6iODgxGBY49thujN+Dd9dodpJ2CBy4t96R7JbMVqzOx0ESZIQ0FOV+aWNaoTJJsbD10zaxV4Sx34eZ34ZeG1cgk95we0eO+tCECnc7qITf+OJi+NWC5e892a90I5ns9VIYerUqfXKzMobYvGpG/y3edppB+xCbMGLHXIAiU8pQyQxIdoCmgoptl1iE0TTts6yKZnFt4RlwBygkKrS8yvkT87uranexODCGJpFphy4vx5pmWoSGFhcqaMchcJHI67BSC84bdcvhmUpLIuuezHZZTV4Wv0UktRQ4fB2WZXYuR8dVQCYlC/iqv+48x02AT1prroBFJEJ2lbIwmqIMAQYHchnB6N2kLV3HmqPfS3k1QgfhZ+nrUsPy9dPZMQUKxMyDZxmErXTO8c33aOGexU0u7g==;r4llhm+nZd04HJs43uMo5Q=="
 ---

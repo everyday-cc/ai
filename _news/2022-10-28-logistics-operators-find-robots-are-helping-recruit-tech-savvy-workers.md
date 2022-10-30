@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420"
 type: article
 quality: 89
-heat: 89
+heat: 92
 published: true
 
 provider:

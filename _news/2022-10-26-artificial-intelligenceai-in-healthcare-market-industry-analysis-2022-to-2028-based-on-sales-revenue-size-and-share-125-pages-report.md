@@ -1,14 +1,14 @@
 ---
 category: news
-title: "Artificial Intelligence (AI) Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 131 Pages Report"
-excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) Market is projected to reach Multimillion USD by 2029, In comparison to 2021, Over the next Seven years the Artificial Intelligence (AI) Market will register a magnificent spike in CAGR in terms of revenue,"
-publishedDateTime: 2022-10-26T13:09:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-131-pages-report-2022-10-26"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-131-pages-report-2022-10-26"
+title: "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report"
+excerpt: "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5"
+publishedDateTime: 2022-10-26T14:31:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26"
 type: article
-quality: 39
-heat: -1
-published: false
+quality: 81
+heat: 211
+published: true
 
 provider:
   name: MarketWatch
@@ -19,24 +19,17 @@ provider:
       height: 50
 
 topics:
-  - AI in Robotics
+  - AI in Healthcare
   - AI
+  - AI in Sales
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
-  - title: "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report"
-    excerpt: "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5"
-    publishedDateTime: 2022-10-26T14:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is"
     publishedDateTime: 2022-10-27T12:00:00Z
@@ -116,6 +109,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 131 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) Market is projected to reach Multimillion USD by 2029, In comparison to 2021, Over the next Seven years the Artificial Intelligence (AI) Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2022-10-26T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-131-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
   - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
     excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
     publishedDateTime: 2022-10-27T10:32:00Z
@@ -191,6 +193,6 @@ related:
       domain: marketwatch.com
     quality: 18
 
-secured: "EsltBgNILvH0ixTTgkpaZPIRAwooEesL5li/rJhpqypDxmNUB6fUNAoxOfqbKQguTrqd+I2Pn3M85tUSmLGSFiMgY4DLI0WsWxvjCnqiOmDcH2Lv0qpnj9Pbg3P0ToFUhNkMFj+pi6SeovLO4VYuYSc7z4A4ad1XcOAIfZTJXHUeV3rHQzRmnu9znlp2l551LDdXZvV7cSajJ2PGk+KVzV9cqa66ugi2tQh/5eWSu7eAY6ybwdhx264ZSUFM3amJ9pc3z+pu7iMljGTiX7niU+aqrav9qfIgOXl8wnELz62ZXUzjQdBpxKSdodhlNXCF1GfGXya2d5lBLc9dVl+B2mzsTo2eY76KxiM9zZc+1vA=;i95g+ggfqYdoVifKCto0Tg=="
+secured: "tEL0nUGsmDctV3FYVjl65U25Pu/ceXsrD32MzqpVtdB15LoIkLfImFgzaCdOLP5Q/klyiA1bF8f1WAvqEEGc2MAOxdlsfop+z6m45am3q32NmrJ5nbu46ZA6qx5qLH0eO9LGPZ5t7DegjXGtnrIlHINYRwC88Cw04QuVwoduz4WdP88m38UrEdvbi3ennuXopNswXA24mcR/AxDzfdp4FJOPSR9QjVhNJZFJZPjMypKD+ilzuGY/wUJAPZLoAGIeIhsHbkYUYLYF59LFZrVNy4lkobM0K0LnsDl0ItI4SMLiM+urW7HW/z6g4NwMXFnWqZ2sSCn5mJPGy7bKYoYEaYGtsc2UDuIciT0YdWTUHlk=;y+VH2/qtsb3rhHH1jspWtg=="
 ---
 
