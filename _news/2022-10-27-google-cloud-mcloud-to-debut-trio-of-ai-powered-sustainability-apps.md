@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-tri
 webUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-trio-of-ai-powered-sustainability-apps"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Google Partnership to Provide AI-Powered Sustainability Apps"
+    excerpt: "Google Cloud will launch three AI-powered sustainability applications combining the company's AssetCare platform with the power and reach of Google Cloud and additional services such as Google Earth Engine."
+    publishedDateTime: 2022-10-27T15:20:00Z
+    webUrl: "https://www.environmentalleader.com/2022/10/google-partnership-to-provide-ai-powered-sustainability-apps/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 39
+    images:
+      - url: "https://s30148.pcdn.co/wp-content/uploads/2021/05/technology-AI.jpg.optimal.jpg"
+        width: 1696
+        height: 1018
+        isCached: true
 
 secured: "pf8uSn7/MAHrvaTiWqhg01Z9Vb7+nLyAeZBmqgvqgBgKi0vvem/xjbv7It6+TEEAkufUe5RW/sBcdtreF4erugKrMoUlqTJbu9lqm/6PU5Ia0fx61KEzFzNyne80XRVsjMFqVX+jIhAQCVro760MCoMExkRQiGzf6pX8jkt8rh3yIu/BysatZJTjGEnZtcGr3Hzd5Pl3nRcH9U4pFfCryi9+j5TWLVufPCuCkWXLaEa9jO3JUy0u2anPa6yEv74Mfuf1Ah+zV5lwkv4zYTF52V0NIsnm8WriIc/9PM37xbdNRRX77O08n/jIJMEY2qk8hCXBUiX2UNEWN5XCNhKoesiDTOLus+rO5cZ2UXnbkWk9kpJ5q2sgenZ0as1cybadsHBlNS9aBlm1a1Joo3TlLXzsN05UYRouuTq0yZ7JF1suCYXwzuDdBCKiPE/PGYTY3CPmaCrv+UP6cCPcifD5IoprDtplu0UwzBB2vJdvvH2IDsaFS3TObsU0fuE/kKmYMZYuKYNqITh3lYgicAv3Nw==;RGy/IAt0IDl9OTcSqG0rlA=="
 ---

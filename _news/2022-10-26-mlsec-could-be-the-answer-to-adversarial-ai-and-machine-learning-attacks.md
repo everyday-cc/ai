@@ -7,8 +7,8 @@ originalUrl: "https://venturebeat.com/business/mlsec-ai-machine-learning/"
 webUrl: "https://venturebeat.com/business/mlsec-ai-machine-learning/"
 type: article
 quality: 78
-heat: -1
-published: false
+heat: 78
+published: true
 
 provider:
   name: VentureBeat
@@ -21,28 +21,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "MLSec could be the answer to adversarial AI and machine learning attacks"
-    excerpt: "Hidden Layer announces the launch of a new MLSec platform designed to detect and respond to adversarial AI and machine learning attacks."
-    publishedDateTime: 2022-10-25T13:00:00Z
-    webUrl: "https://venturebeat.com/security/mlsec-ai-machine-learning/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 78
-  - title: "HiddenLayer Announces Launch of its MLSec Platform to Secure Enterprise Machine Learning Models"
-    excerpt: "HiddenLayer, a pioneer in cybersecurity products dedicated to protecting artificial intelligence and machine learning technologies, today announced the public launch of the"
-    publishedDateTime: 2022-10-25T14:10:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29399230/hiddenlayer-announces-launch-of-its-mlsec-platform-to-secure-enterprise-machine-learning-models"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29399230"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29399230"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 42
 
 secured: "ZSZ6iqJiCwqMjrrxDxLFdMfcwp1xjj4mf4+DlbgJfaYGG4Q/qsPVdMJCN7mfsqNxtMpL7dCEOkrHDJqM+3qGip6goVcpBqf/N6ORX3qHpZqJP3j6VlbfytJMiJB3a0zhh0E9PjSidl/xoha/kf6xx3b6Y/dnETW6FbTb14dvU0th0FJaSUBkT0qDer8vG2pYFbH7aHOV9OoUCzWRO8wL2TdrksX7hJALYK4KpOijiW1azPcry1xVWlM+Bw86MihhLrNEgqM3Yz6IrgFMNSGbY5+rVSN4NZd3m1QJgBJCmpnKpofBZa+vN9mOfTLoSWOy2t+Au0cTs2y9qho4ZsmCB7iz6M1iNVcs/pFJW4DDx475RrrVGS0BuNjweYs/k0+EZvkJtG3VVgAmVcyz4+Qli9Wr2FVQDvVN4WJ4Wb3WJ3oYhpkK56n5HYpPJAH/1DTRg5ChlpIKFsVs9id8/+bYe2wagjcStTAmKPp/6Ig1pgJyXy8IOERJl92BGDdFkAMjEi4fXb8v7aSgCfDSSRzUHg==;Sd3q9wI6RGqfeleeh0ZDoA=="
 ---

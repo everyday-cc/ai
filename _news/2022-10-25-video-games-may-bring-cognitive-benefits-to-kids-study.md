@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Video gaming can lead to better cognitive performance in children says new study"
-    excerpt: "Contrary to the popular belief that playing video games is linked with mental health problems, a new study has found that it may be associated with better cognitive performance in children."
-    publishedDateTime: 2022-10-25T12:15:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/video-gaming-can-lead-to-better-cognitive-performance-in-children-says-new-study/articleshow/95080975.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/video-gaming-can-lead-to-better-cognitive-performance-in-children-says-new-study/amp_articleshow/95080975.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/video-gaming-can-lead-to-better-cognitive-performance-in-children-says-new-study/amp_articleshow/95080975.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 39
-    images:
-      - url: "https://www.businessinsider.in/thumb/95081124.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Video games may bring cognitive benefits to kids, study shows"
     excerpt: "Some parents worry about the negative impact video games could have on their children, but gaming may be associated with improved cognitive abilities, a new study found. Kids who play video ..."
     publishedDateTime: 2022-10-25T23:56:00Z

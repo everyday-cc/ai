@@ -39,15 +39,6 @@ related:
         width: 1202
         height: 672
         isCached: true
-  - title: "IBM Watson opens up AI opportunities for software vendors with embeddable libraries"
-    excerpt: "IBM Watson announced 3 new AI software libraries that can be directly embedded into apps, including NLP, text to speech and speech to text."
-    publishedDateTime: 2022-10-25T12:00:00Z
-    webUrl: "https://venturebeat.com/ai/ibm-watson-opens-up-ai-opportunities-for-software-vendors-with-embeddable-libraries/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 58
   - title: "IBM introduces with plug-and-play Watson libraries for AI"
     excerpt: "IBM released three 'plug-and-play' IBM Watson AI libraries that allow developers to implement trained AI models in applications. Big Blue wants to help"
     publishedDateTime: 2022-10-26T12:13:00Z

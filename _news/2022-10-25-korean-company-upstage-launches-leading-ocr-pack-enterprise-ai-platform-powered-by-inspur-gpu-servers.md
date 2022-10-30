@@ -2,24 +2,28 @@
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
 excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T13:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-ampWebUrl: "https://www.benzinga.com/amp/content/29397500"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500"
+publishedDateTime: 2022-10-25T13:24:00Z
+originalUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
+webUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Joplin Globe
+  domain: joplinglobe.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "vZvhhAKoouSCHiXm4iAEUfciGHOtND7b7wIoVSPUoU9/VW1Cf1oCtbZRCP0QVFfLe+5RXgwo9lK1gdlIaUiQ2GEbxYNSJKdY7aGro70Zgwyc8UtHkv/8EIgkaG5kGMFxskPbfnAASuF5ax9GomUDIdzRNEREM4hjaPD1GO+FeN+luU6j+yxf+qC1PiBDTW+yeoDn8XPOg3rXX6TaVouxsRxvk5BZU23DFyvtrwsq4nHUc+zXJx4/7K1ZOmmeyu/pfycyORz+yaaMSf+wn4h+E9w1ycPOvTJPD8Qe2bauKcdsaBOlIRaPCANC3jggHuHSb9sPzInjwoGBBMWeHi1xU6jdZeKOcr5Sd071B0AzlNs=;HaB4betXh7PY4Wrlk7GNRQ=="
+images:
+  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
+    width: 350
+    height: 456
+    isCached: true
+
+secured: "uyIq698Jg9nzsq0G576k4oduha13+DDtRl4ZA92KoyXwpHl6frBYfgP+9o5/RAhfj03EaES/rIk1PTdcB9xDWyAPi9JbH+EFLi40vkCXf0OytxgoJdM8Ywm4nbJnFl6hOrajkBYx1v98UeHDxYcQsPl/8l/y4a5eGWkpDGlYsyjCO/CEi9ykKYWvZZUjiPlcqZIS2lw0bPiUQEjCbExuIMPPd4kMFa8Tz8yY7Cx1bhvj9mviFPF+KmBcjYhPBq75cwgCnARTmYvgjEQN0ngjpDml+91L7RmiwhjpLI+R166aAC3/Y7zoLNG9LMjRyCr5UlqxNR2xDLlw22JttCxexmUKEWglKtOSHAzG8LCNjbY=;KXLMkULW/65ThTA0PV4GBg=="
 ---
 
