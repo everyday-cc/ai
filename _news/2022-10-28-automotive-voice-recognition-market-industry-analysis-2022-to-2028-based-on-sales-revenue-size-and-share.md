@@ -30,131 +30,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
-    excerpt: "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market ."
-    publishedDateTime: 2022-10-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25"
+  - title: "Speech Recognition Market Report Entails a Detailed Qualitative and Quantitative Analysis By 2030 | 141 Report Pages"
+    excerpt: "Pages No.] Speech Recognition Market report are massive business with critical facilities designed to efficiently support robust opportunities, scalable applications and are often associated with big data-producing companies such as ,"
+    publishedDateTime: 2022-10-26T04:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 115 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Robotics Market is projected to reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-10-27T12:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-115-pages-report-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
-    excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
-    publishedDateTime: 2022-10-27T20:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-  - title: "AI/Machine Learning Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028"
-    excerpt: "The AI/Machine Learning market research study's bases are its fundamental data and market growth prospects. The study also considers several additional characteristics, such as growth rate, product pricing,"
-    publishedDateTime: 2022-10-26T20:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
-    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
-    publishedDateTime: 2022-10-26T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Chips Market 2022 : Opportunities in Future, Business Growth Analysis by Top Countries Data and Industry Players by 2028 | 102 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Edge AI Chips Market is projected to reach Multimillion USD by"
-    publishedDateTime: 2022-10-28T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-chips-market-2022-opportunities-in-future-business-growth-analysis-by-top-countries-data-and-industry-players-by-2028-102-pages-report-2022-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
-    excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-27T04:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 36
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Size [2022-2029] | Industry Share, Growth Factor, Revenue And Trends Outlook Report | 104 Pages Report"
-    excerpt: "Oct 26, 2022 (The Expresswire) -- According to this latest study, In 2022 the growth of Artificial Intelligence in Medicine ... of different application fields and market forecasts. Healthcare Provider Pharmaceutical and Biotechnology Company ..."
-    publishedDateTime: 2022-10-27T01:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size-2022-2029-industry-share-growth-factor-revenue-and-trends-outlook-report-104-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Translation Market Research Report 2022, Market Segmentation, Competition, Supply and demand Forecast, and Business Trends from 2022 to 2028."
-    excerpt: "The \" AI Translation Market \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries, key executives' biographies, and key rivals 2022 to 2028."
-    publishedDateTime: 2022-10-27T19:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-translation-market-research-report-2022-market-segmentation-competition-supply-and-demand-forecast-and-business-trends-from-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
-    publishedDateTime: 2022-10-26T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
+    quality: 61
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -174,15 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 123 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Machine Learning Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-26T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2029-123-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
 
 secured: "1lzlLNz+v5TmqKNlCkhp1GJ5i/8SJphSrAP0JwkyikikrTXkr4ufEoLt9UMS5RZDHeIFnMc/b3tBptflIG1uIHlxruzNpRRHEZugoHvQdK38x5cd5MuS1taUFux0SMdlwrwIneNDX700D+A1WCT40P0iRZgUyIVZ6eOmFmzk+sfY0eqdlCbElCF4nIa5vYf4KkbuzqC/0rHoQ4MOerXhjR+smbyASnFHWhTZfKfoa84p/s02SdHefXEbkQL0EzuHGxiyfMIxhXaI8+WIVs3ONphNJlc3vJR6OtzeXou3H1ICdc23RKTu5XuVVn3FaAIer1uvoeu2VoMkm86Le7sP2ot07o4/rawiIj10F4w6saA=;81Fmxu9IOdJy/gJ8rnfW2A=="
 ---

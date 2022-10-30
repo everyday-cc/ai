@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Vara Raises $4.4 Million In Funding To Bring Its Groundbreaking AI Breast Cancer Screening Platform To Millions More Women"
-    excerpt: "There are more lost disability-adjusted life years (DALYs) by women to breast cancer globally than any other type of cancer. Vara, a startup building an intelligent platform that infuses state-of-the-art AI into routine breast screenings,"
-    publishedDateTime: 2022-10-25T09:35:00Z
-    webUrl: "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/"
-    ampWebUrl: "https://www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marijabutkovic/2022/10/25/vara-raises-44-million-in-funding-to-bring-its-groundbreaking-ai-breast-cancer-screening-platform-to-millions-more-women/amp/"
+  - title: "Lama AI Raises $9M in Seed Funding"
+    excerpt: "Lama AI, a New York-based business banking technology provider, raised $9M in Seed funding. The round was co-led by Viola Ventures, and Hetz Ventures, with participation from Foundation Capital, and SixThirty,"
+    publishedDateTime: 2022-10-27T16:00:00Z
+    webUrl: "https://www.finsmes.com/2022/10/lama-ai-raises-9m-in-seed-funding.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 63
+      name: finsmes
+      domain: finsmes.com
+    quality: 39
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6357aa205c30294b7fa133ef/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://www.finsmes.com/wp-content/uploads/2016/07/fintech2.jpg"
+        width: 1000
+        height: 667
         isCached: true
   - title: "Resonai, which uses AI and AR to create digital twins of buildings, raises $20M in funding"
     excerpt: "Resonai is the creator of the Vera platform, which uses artificial intelligence and augmented reality technology to convert physical spaces into intelligent digital environments that enable more immersive,"

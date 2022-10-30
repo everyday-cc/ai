@@ -29,15 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Computing Stick Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
-    excerpt: "An in-depth analysis of market segmentation based on product types, applications, growth factors, trends, research, innovations, and new product launches is given in this \" Deep Learning Computing Stick Market ."
-    publishedDateTime: 2022-10-25T10:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-computing-stick-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-10-25"
+  - title: "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is"
+    publishedDateTime: 2022-10-27T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 70
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -57,42 +57,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
-    excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
-    publishedDateTime: 2022-10-27T20:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-  - title: "AI/Machine Learning Market 2022 - Industry Emerging Trends, Sales Volumes, Development Factors and Growth Analysis by 2028"
-    excerpt: "The AI/Machine Learning market research study's bases are its fundamental data and market growth prospects. The study also considers several additional characteristics, such as growth rate, product pricing,"
-    publishedDateTime: 2022-10-26T20:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/aimachine-learning-market-2022---industry-emerging-trends-sales-volumes-development-factors-and-growth-analysis-by-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-  - title: "Deep Learning Market 2022 Top Countries, Growing Factors, Key Dynamics, and Major Key Players by 2028"
-    excerpt: "The worldwide Deep Learning market research includes a critical evaluation of the customer journey to assist decision-makers in formulating an effective plan to convert more prospects into clients. The leading industry professionals and analysts have validated the information & data delivered in the record in different regions."
-    publishedDateTime: 2022-10-26T21:27:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-market-2022-top-countries-growing-factors-key-dynamics-and-major-key-players-by-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
-    excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
-    publishedDateTime: 2022-10-28T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
+  - title: "Natural Language Processing (NLP) Software Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 99 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Software Market is projected"
+    publishedDateTime: 2022-10-27T11:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-99-pages-report-2022-10-27"
     type: article
     provider:
       name: MarketWatch
@@ -117,15 +85,38 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
-    excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-27T04:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-2022-10-27"
+  - title: "Artificial Intelligence (AI) Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 131 Pages Report"
+    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) Market is projected to reach Multimillion USD by 2029, In comparison to 2021, Over the next Seven years the Artificial Intelligence (AI) Market will register a magnificent spike in CAGR in terms of revenue,"
+    publishedDateTime: 2022-10-26T13:09:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-131-pages-report-2022-10-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 39
+  - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
+    publishedDateTime: 2022-10-27T10:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Traffic Sign Recognition System Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
+    excerpt: "The report is an excellent resource for understanding the current state of the Traffic Sign Recognition System market and the upcoming trends responsible for driving or challenging the market. The market players will benefit from this report's recommendations on how to plan their strategies to take advantage of the future market trends presented in the report."
+    publishedDateTime: 2022-10-26T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -159,20 +150,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Voice Recognition Market Identify the Growth, Statistics, Revenue, challenges, and Forecast to 2029 | Newst 111 Pages Report"
-    excerpt: "This report analyzes the impact of the pandemic on the Voice Recognition market from a Global and Regional perspective. The report outlines the market size, market characteristics, and market growth for Voice Recognition industry,"
-    publishedDateTime: 2022-10-26T04:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-111-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine Learning Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 123 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Machine Learning Market is projected to reach Multimillion USD"
     publishedDateTime: 2022-10-26T08:47:00Z
@@ -182,6 +159,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 23
+  - title: "Artificial Intelligence Platform Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2029 | 112 Pages Report"
+    excerpt: "Global “ Artificial Intelligence Platform Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence Platform market. Both quantitative and qualitative analyses are presented by manufacturers,"
+    publishedDateTime: 2022-10-26T13:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2029-112-pages-report-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 18
 
 secured: "UUVfYsZOph3Lxjqhs59A4S7J35PF8bk1CEmXcdel71jGD+N1S91JEKNR3irh9E+TK8JH2/LWvtIN3GaopdnDO3tb2mC0lpd4ledpc4qD1wgJkgw2ovAJheTloCk1weVu5vKC0tCHx/DMWMKdyptxrw03tKKN8hI9ZFlfA0fA/g7Ee2j+hM05VuYBEHefWYxJ61D7zaN6MNtPfSmhvshF0yoP12skTLAuwlYtphhZV4Lg1FH5BS068aS+lerwiYYV9ND+CF+dTBxTmwaz590JYMNWq9J7Eg3OgfzuYn7DGiGn9CEUgL1THPU+7sLTlHi0tpMZ0eBb0Ar46VSdg7XdyeGNKi5T+Fd7ChjOUCM7GN0=;NDXvszMhMndBME5QQDou9w=="
 ---

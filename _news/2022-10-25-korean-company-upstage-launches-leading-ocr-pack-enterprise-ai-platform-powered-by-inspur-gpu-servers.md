@@ -2,28 +2,24 @@
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
 excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T13:24:00Z
-originalUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
-webUrl: "https://www.joplinglobe.com/region/national_business/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers/article_74c77312-947a-5f7c-8f23-2611f6e25f13.html"
+publishedDateTime: 2022-10-25T13:11:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+ampWebUrl: "https://www.benzinga.com/amp/content/29397500"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Joplin Globe
-  domain: joplinglobe.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "http://static.cnhionline.com/joplinglobe/jmag/Jmag-Oct22Cvr.jpg"
-    width: 350
-    height: 456
-    isCached: true
-
-secured: "TiQTX5NFQzwySAYvX2iubMwFk+t83M5mfcspV5QTGLXxA+HVmdW+mgLqN4VzgHmUNTL7Q0D9wAmXQ1M5RCAZP4vIbi269FVgY7NBWD0qTNTic9/ZNiUe7+GBoefz7UtxlItpgWXdhmBUW6KenUW/skwqLz205/zdm0EjL1f1ZJiwQ2uH6lvHycxtfDhN4XmqrrazCdQ8XSq+iMmsoQOYKHsSGnxxx/svK0Mbj8h6waMcmudJH2Mn4QeBYbxOSGoXaGA2B1C3O8x7ZdJXXpxBCmxtUt/KdtTzVgoBLuuAY9hNcoWlWDFLJjTJBVkJ0UH5I5bAgC38yQrLF/VpwHo50tPNoi2pyj4mCWD6s0AEDZw=;RhLuLP2GhTMgAS5Vh1PWYg=="
+secured: "vZvhhAKoouSCHiXm4iAEUfciGHOtND7b7wIoVSPUoU9/VW1Cf1oCtbZRCP0QVFfLe+5RXgwo9lK1gdlIaUiQ2GEbxYNSJKdY7aGro70Zgwyc8UtHkv/8EIgkaG5kGMFxskPbfnAASuF5ax9GomUDIdzRNEREM4hjaPD1GO+FeN+luU6j+yxf+qC1PiBDTW+yeoDn8XPOg3rXX6TaVouxsRxvk5BZU23DFyvtrwsq4nHUc+zXJx4/7K1ZOmmeyu/pfycyORz+yaaMSf+wn4h+E9w1ycPOvTJPD8Qe2bauKcdsaBOlIRaPCANC3jggHuHSb9sPzInjwoGBBMWeHi1xU6jdZeKOcr5Sd071B0AzlNs=;HaB4betXh7PY4Wrlk7GNRQ=="
 ---
 

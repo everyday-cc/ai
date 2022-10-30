@@ -95,20 +95,6 @@ related:
         width: 619
         height: 376
         isCached: true
-  - title: "Intel's Mobileye self-driving unit expected to go public this week: what to know"
-    excerpt: "Intel (INTC) is slated to spin-off part of its self-driving Mobileye unit this week in an initial public offering that could value the company at roughly $16B.And while"
-    publishedDateTime: 2022-10-25T11:00:00Z
-    webUrl: "https://seekingalpha.com/news/3894219-intels-mobileye-self-driving-unit-expected-to-go-public-this-week-what-to-know"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1338902702/image_1338902702.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
   - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
     excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
     publishedDateTime: 2022-10-26T18:36:00Z
