@@ -110,6 +110,20 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
+    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
+    publishedDateTime: 2022-10-30T08:00:00Z
+    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
+        width: 1280
+        height: 750
+        isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
     excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
     publishedDateTime: 2022-10-30T07:05:00Z

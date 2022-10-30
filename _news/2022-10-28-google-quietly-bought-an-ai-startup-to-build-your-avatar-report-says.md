@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-sta
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
 type: article
 quality: 89
-heat: 149
+heat: 159
 published: true
 
 provider:
@@ -109,6 +109,20 @@ related:
     images:
       - url: "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2022/10/google-1666955968.jpg"
         width: 1200
+        height: 750
+        isCached: true
+  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
+    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
+    publishedDateTime: 2022-10-30T08:00:00Z
+    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
+        width: 1280
         height: 750
         isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"

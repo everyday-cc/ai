@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://images.interestingengineering.com/1200x675/2022/10/20/image/jpeg/Aqoq0sQESgkiaNuhyGkjLS9odjWGqo3wR47gjmfl.jpg"

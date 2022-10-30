@@ -45,7 +45,7 @@
       "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -294,6 +294,92 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
+      "title": "1 in 10 Americans over 65 have dementia, study finds",
+      "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221021141210-elderly-person-holding-hands-with-younger-person-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-10-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
+      "title": "One in 10 older Americans has dementia",
+      "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/968654",
+      "originalUrl": "https://www.eurekalert.org/news-releases/968654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1052,25 +1138,43 @@
     {
       "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
       "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
-      "excerpt": "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ...",
+      "excerpt": "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
+      "webUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29335363",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363",
-      "publishedDateTime": "2022-10-19T21:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1246,101 +1350,6 @@
         "name": "Medscape",
         "domain": "medscape.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-new-research-paves-way-for-innovative-theory-of-cognitive-processing.md",
-      "title": "New research paves way for innovative theory of cognitive processing",
-      "excerpt": "\"We currently do not understand how neurons and glia work together, or how glial dysfunction contributes to cognitive deficits.\" Glial cells are abundant throughout the brain and play several ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221019111400.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.md",
-      "title": "Oracle debuts MySQL HeatWave Lakehouse to take on rivals",
-      "excerpt": "The new lakehouse service, designed to quickly load and query up to 400TB of data, will compete with offerings from Oracle rivals that have also jumped on the lakehouse concept, including Snowflake, Google,",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
-      "originalUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/07/21/data-lakehouse-100921188-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
-      "publishedDateTime": "2022-10-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

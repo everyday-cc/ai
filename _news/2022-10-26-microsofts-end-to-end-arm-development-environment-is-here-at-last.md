@@ -9,7 +9,7 @@ ampWebUrl: "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-
 cdnAmpWebUrl: "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html"
 type: article
 quality: 89
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What dropped at Google Cloud Next and Microsoft Ignite"
-    excerpt: "Google Cloud and Microsoft Azure, two of the Big Three hyperscalers, went head-to-head with their annual events a couple weeks ago. As they kicked off, I"
-    publishedDateTime: 2022-10-25T15:19:00Z
-    webUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/"
-    ampWebUrl: "https://www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
-    cdnAmpWebUrl: "https://www-telecomtv-com.cdn.ampproject.org/c/s/www.telecomtv.com/content/cloud-native/what-dropped-at-google-cloud-next-and-microsoft-ignite-45772/amp/"
-    type: article
-    provider:
-      name: TelecomTV
-      domain: telecomtv.com
-    quality: 59
-    images:
-      - url: "https://assets.telecomtv.com/assets/telecomtv/1920x1080-ttv-website-thumbnail-14435.jpg?w=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Microsoft’s stock slides as Azure cloud growth engine stalls"
     excerpt: "Azure’s revenue growth rate was the slowest Microsoft has ... security measures, cloud deployment, AI-based tools and more,” McKenna said. “As we navigate the tricky waters of the economy right now, I anticipate Microsoft will continue to grow ..."
     publishedDateTime: 2022-10-26T00:20:00Z

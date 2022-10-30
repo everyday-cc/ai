@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Shutterstock to Offer AI-Generated Art While Compensating Human Artists"
-    excerpt: "The stock image provider is embracing OpenAI's DAll-E 2 program, but will also launch a fund to pay artists for contributing to the AI art generation."
-    publishedDateTime: 2022-10-25T16:53:00Z
-    webUrl: "https://www.pcmag.com/news/shutterstock-to-offer-ai-generated-art-while-compensating-human-artists"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05aAKSsxub8UucKDaCAuuDN-1.fit_lim.size_1200x630.v1666708832.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like"
     excerpt: "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors."
     publishedDateTime: 2022-10-26T05:58:00Z
@@ -106,20 +92,6 @@ related:
       - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_399118655_Editorial_Use_Only.jpeg"
         width: 800
         height: 600
-        isCached: true
-  - title: "The golden age of AI-generated art is here. It’s going to get weird"
-    excerpt: "It’s a neat trick. Then Miller shows me she has generated not one but 200 possible faces. Magritte, a trickster at heart, probably would have approved. The technology, which can create near-infinite artistic combinations in response to a few words or images,"
-    publishedDateTime: 2022-10-27T04:00:00Z
-    webUrl: "https://www.ft.com/content/073ea888-20d7-437c-8226-a2dd9f276de4"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 37
-    images:
-      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/lifestyle-weekend.jpg"
-        width: 619
-        height: 377
         isCached: true
   - title: "Shutterstock collaborates with OpenAI to start selling AI-generated art"
     excerpt: "The stock image company is letting users create and submit art using Open-AI's DALL-E. The creators will also be compensated for the art they submit."

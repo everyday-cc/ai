@@ -2,6 +2,290 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-10-18-restraining-nvidia-for-china-chips-is-good-for-amazon.md",
+      "title": "Restraining Nvidia For China Chips Is Good For Amazon",
+      "excerpt": "Restrictions on NVIDIA for exporting its latest AI chips to Chinese big tech Alibaba could be a boon to hyperscaler Amazon with its AWS cloud and eCommerce platforms. The Chinese tech giant ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/article/4547189-restraining-nvidia-for-china-chips-is-good-for-amazon",
+      "originalUrl": "https://seekingalpha.com/article/4547189-restraining-nvidia-for-china-chips-is-good-for-amazon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-which-ai-creates-the-best-and-most-terrifying-art.md",
+      "title": "Which AI Creates the Best (and Most Terrifying) Art?",
+      "excerpt": "The internet is awash in artificial intelligence software like Dall-E and Midjourney that generate professional-looking imagery based on text prompts. We provided some twisted requests to 5 of them to see which one is the best artist.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
+      "originalUrl": "https://www.pcmag.com/news/which-ai-creates-the-best-art",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03a3gbCKfH8dDJnjhHLuHDf-1.fit_lim.size_1200x630.v1665523315.png",
+          "width": 1021,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.md",
+      "title": "Oracle debuts MySQL HeatWave Lakehouse to take on rivals",
+      "excerpt": "The new lakehouse service, designed to quickly load and query up to 400TB of data, will compete with offerings from Oracle rivals that have also jumped on the lakehouse concept, including Snowflake, Google,",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
+      "originalUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/07/21/data-lakehouse-100921188-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3676833/oracle-debuts-mysql-heatwave-lakehouse-to-take-on-rivals.amp.html",
+      "publishedDateTime": "2022-10-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-three-ways-ai-transforms-security.md",
+      "title": "Three Ways AI Transforms Security",
+      "excerpt": "To understand why AI has become so vital to security, consider its use case in regard to application programming interfaces (APIs). APIs support",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6284f3a56da5d40b8634fcbe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/18/three-ways-ai-transforms-security/amp/",
+      "publishedDateTime": "2022-10-18T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand.md",
+      "title": "Amazon to invest $5 bn to boost cloud infrastructure in Thailand",
+      "excerpt": "AWS’ cloud platform offers more than 200 services, including storage, robotics and artificial intelligence. AWS last month opened its first cloud data center in UAE and announced plans to setup ...",
+      "sourceUrl": null,
+      "webUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "originalUrl": "https://infotechlead.com/cloud/amazon-to-invest-5-bn-to-boost-cloud-infrastructure-in-thailand-75068",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://infotechlead.com/wp-content/uploads/2017/09/AWS-event-for-CIOs.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "infotechlead",
+        "domain": "infotechlead.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-2bcloud-expands-us-operations.md",
+      "title": "2bcloud Expands U.S. Operations",
+      "excerpt": "NEW YORK, (BUSINESS WIRE) -- 2bcloud, a leading multi-cloud cost optimization managed service provider for cloud natives from early stage to unicorns,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/2bcloud-expands-us-operations-2022-10-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T05:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-machine-learning-101-how-merchants-use-machines-to-fight-fraud.md",
       "title": "Machine Learning 101: How Merchants Use Machines To Fight Fraud",
       "excerpt": "As fraudsters and fraud mitigation strategies evolve, so too does a business leader's relationship with machines.",
@@ -869,263 +1153,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-can-adherence-to-covid-19-mitigation-measures-be-predicted-using-cognitive-variables.md",
-      "title": "Can adherence to COVID-19 mitigation measures be predicted using cognitive variables?",
-      "excerpt": "In a recent study published in Vaccine, researchers investigated the correlations between cognitive variables such as self-control, impulsivity, future orientation, and disease mitigation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20221017/Can-adherence-to-COVID-19-mitigation-measures-be-predicted-using-cognitive-variables.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20221017/Can-adherence-to-COVID-19-mitigation-measures-be-predicted-using-cognitive-variables.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
-      "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
-      "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29292537/physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-location",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1922688/Dr_Jeannie_Kenkare_PhysicianOne.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29292537",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29292537",
-      "publishedDateTime": "2022-10-17T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-father-of-6-up-rally-racer-killed-in-gas-station-crash.md",
-      "title": "Father of 6, U.P. rally racer killed in gas station crash",
-      "excerpt": "L’ANSE, MI – A 43-year-old father of six died when a semitruck crashed into a gas pumps and caused an “extensive” fire where he was filling up his vehicle last week. Allan Dantes Jr., of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
-      "originalUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UX5LJ2GR55A3JHQZRREIXKJE6Y.jpeg",
-          "width": 2000,
-          "height": 1501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
-      "cdnAmpWebUrl": "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/news/2022/10/father-of-6-up-rally-racer-killed-in-gas-station-crash.html?outputType=amp",
-      "publishedDateTime": "2022-10-17T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MLive",
-        "domain": "mlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence.md",
-      "title": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence",
-      "excerpt": "The Financial Services Market Sees A Rise In Demand For Artificial Intelligence Oct 17, 2022 (PRNewswire via COMTEX) -- PR Newswire LONDON, Oct. 17, 2022",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/the-financial-services-market-sees-a-rise-in-demand-for-artificial-intelligence-2022-10-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles.md",
-      "title": "Driverless in Phoenix and GM takes its EV offensive beyond vehicles",
-      "excerpt": "It’s been a minute since I took a driverless ride in a Waymo. And the last time it was a Chrysler Pacifica. This time, I took a spin in downtown Phoenix in a driverless Jaguar I-Pace (sans human ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "originalUrl": "https://techcrunch.com/2022/10/17/driverless-in-phoenix-and-gm-takes-its-ev-offensive-beyond-vehicles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-17T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-a-new-ai-model-can-accurately-predict-human-response-to-novel-drug-compounds.md",
-      "title": "A new AI model can accurately predict human response to novel drug compounds",
-      "excerpt": "The journey between identifying a potential therapeutic compound and Food and Drug Administration approval of a new drug can take well over a decade and cost upward of a billion dollars. A research team at the CUNY Graduate Center has created an artificial intelligence model that could significantly improve the accuracy and reduce the time and cost of the drug development process.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "originalUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-new-ai-model-can-acc.jpg",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-10-ai-accurately-human-response-drug.amp",
-      "publishedDateTime": "2022-10-17T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

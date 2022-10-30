@@ -54,6 +54,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters.md",
+      "title": "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters",
+      "excerpt": "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg",
+          "width": 1344,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T09:41:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-reduce-food-waste-to-improve-sustainability-and-financial-results-in-retail-with-amazon-forecast.md",
       "title": "Reduce food waste to improve sustainability and financial results in retail with Amazon Forecast",
       "excerpt": "With environmental, social, and governance (ESG) initiatives becoming more important for companies, our customer, one of Greater China region’s top convenience store chains, has been seeking a solution to reduce food waste (currently over $3.5 million USD per year). Doing so will allow them to not only",
@@ -1386,40 +1438,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-18-amazon-to-boost-thailand-cloud-infrastructure-with-5-bln-investment.md",
-      "title": "Amazon to boost Thailand cloud infrastructure with $5 bln investment",
-      "excerpt": "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment",
-      "originalUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp",
-      "publishedDateTime": "2022-10-17T22:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null

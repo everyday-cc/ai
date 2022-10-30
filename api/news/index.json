@@ -616,7 +616,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 149,
+      "heat": 159,
       "tags": null,
       "images": [
         {
@@ -800,49 +800,6 @@
       ]
     },
     {
-      "path": "_news/2022-10-28-luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race.md",
-      "title": "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
       "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
       "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
@@ -996,6 +953,58 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters.md",
+      "title": "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters",
+      "excerpt": "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg",
+          "width": 1344,
+          "height": 670,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T09:41:15-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     },
     {

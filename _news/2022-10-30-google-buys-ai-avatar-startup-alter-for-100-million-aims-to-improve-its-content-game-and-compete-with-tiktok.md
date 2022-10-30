@@ -120,7 +120,21 @@ related:
         width: 1200
         height: 750
         isCached: true
+  - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
+    excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
+    publishedDateTime: 2022-10-30T08:00:00Z
+    webUrl: "https://telanganatoday.com/google-buys-ai-avatar-startup-alter-for-100-million"
+    type: article
+    provider:
+      name: Telangana Today
+      domain: telanganatoday.com
+    quality: 37
+    images:
+      - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
+        width: 1280
+        height: 750
+        isCached: true
 
-secured: "b6NB1uYhS41XEmxLICWq0sXGqozqbEvW/z4unLBftV9KBJfaQyBpXL16pd/0zbzU42JcD19oFurf/C42VbHxN6l61F7D5czMFCPL1Lg/0BgYFOBmrMP4DO7FG37sEOB+j9nsvU4bXLn9ci60lmTfOpeuTjomLcO2pUOYbK+cJyvAm5mfAHFtikUUvhsOGQFLgf7CW5a3EA6Jh2VFWW8yC7azxA/k/p3wsfBxiUS4JgbcGoY+93DB60yKnOKQFAabMRDKKvwBQjBCWS9DUCg9/DXtIa9/fQobbfD3YDp5hzvfXnKRD7x2N0dWT6NqE8+P92rSQxqEPXBzDimTrYRrIz2CRd4nr5I9McRuV7oWqEc=;7olS2/1nTFj2aMKfvNkMbg=="
+secured: "Ei83md7NVA+9SkZ9gVkkDl6K8NRsfkVDhEXskyIGwZTKl51iGY3pFXwPiYusJVH9nf5rxX8RkcgzpwBuN9pUBqb5bsCiXbyLece2vqbABDpCZFqM+o9eAq5/dTYIZA7qMvgPg+0XNNb004EnbjWCeMV3CB4BiqrIus38I89ZKJL50vV93oNVnGvhVnGfQuwlLV56gdptEpyVMyHra0oPHXFeYuKFFvigk8wMMCXuFFJO/tdH3GDI16Ca09qBt40cKr8Ijo1Nowa84p3TDMGnioV8ptFFva8Vcjc5K6r+ZJUXhvoFqd1DvkeJRvXNwUr/Ftt0zZSZbrm2aeh05RpkH65/7I7pexFhKBBmcHKNbt+OYo59nlZFr9fLvMXJURFjkyabcwvP8wY8GvRgxXWu0H3FuSMjQqrD5QvrdlwWIfTSXM53yofbMDAJG2BHbLKDGp8bhA6s/2rPU01apCtxOowQZc82AuATapkNZno4v+rXc/8vD5aZlIb2w15xJwb+izfGL4B6UEqaG1KzVJJn8g==;+v/3q9hx9K0jv+ZOqXf94Q=="
 ---
 

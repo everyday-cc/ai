@@ -24,84 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "AI chip startup Axelera lands $27M in capital to commercialize its hardware"
-    excerpt: "Axelera, a startup developing an AI chip for accelerated processing, has landed $27 million in fresh venture capital."
-    publishedDateTime: 2022-10-25T16:36:00Z
-    webUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/"
-    ampWebUrl: "https://techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/ai-chip-startup-axelera-lands-27m-in-capital-to-commercialize-its-tech/amp/"
+  - title: "AI chip startup SiMa.ai raises $37 million in B1 round"
+    excerpt: "The latest round, an extension of $30-million Series B round SiMa.ai closed in May, takes the total capital raised by the California-headquartered firm to $187 million"
+    publishedDateTime: 2022-10-26T13:01:00Z
+    webUrl: "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html"
+    ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 104
+      name: Mint
+      domain: livemint.com
+    quality: 76
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-1060938604-1.jpg?resize=1200,742"
-        width: 1200
-        height: 742
+      - url: "https://images.livemint.com/img/2022/10/26/600x338/2121f67c-3986-11ed-aa0a-736e94ef98be_1663748552861_1666784868499_1666784868499.jpg"
+        width: 600
+        height: 338
         isCached: true
-  - title: "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware"
-    excerpt: "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology"
-    publishedDateTime: 2022-10-26T13:35:00Z
-    webUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/"
-    ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
+  - title: "AI chip startup SiMa.ai secures USD 37 million in B1 round"
+    excerpt: "AI chip startup SiMa.ai secures USD 37 million in B1 round - Artificial intelligence-based chip startup SiMa.ai said on Wednesday it has raised $37 million in a Series"
+    publishedDateTime: 2022-10-27T03:26:00Z
+    webUrl: "https://www.siliconindia.com/news/startups/ai-chip-startup-simaai-secures-usd-37-million-in-b1-round-nid-220312-cid-19.html"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 74
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "Axelera AI reels in $27M for its edge AI chip"
-    excerpt: "Axelera AI detailed today that it has also secured a $6.7 million loan from the Netherlands Enterprise Agency. Founded in 2021, Axelera AI is developing a chip optimized to run artificial intelligence software at the edge of the network,"
-    publishedDateTime: 2022-10-25T17:55:00Z
-    webUrl: "https://siliconangle.com/2022/10/25/axelera-ai-reels-27m-edge-ai-chip/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
+      name: SiliconIndia
+      domain: siliconindia.com
     quality: 56
     images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/10/chip-2.png"
-        width: 800
-        height: 498
+      - url: "https://www.siliconindia.com/news/newsimages/3ClZnTp5.jpg"
+        width: 570
+        height: 367
         isCached: true
-  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The Axelera AI Team is proud to announce its latest funding round."
-    publishedDateTime: 2022-10-26T14:20:00Z
-    webUrl: "https://www.businesswireindia.com/european-ai-startup-axelera-ai-closes-27-million-series-a-81425.html"
-    type: article
-    provider:
-      name: Business Wire
-      domain: businesswireindia.com
-    quality: 39
-    images:
-      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Companylog_81425.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "European AI Startup Axelera AI Closes $27 Million Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. This press release features multimedia. View the full release here:  The funding will support Axelera AI's launch and mass production of its first-generation AI acceleration platform,"
-    publishedDateTime: 2022-10-25T15:26:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/25/9699253.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
-  - title: "European Startup Axelera AI Closes $27M Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
-    publishedDateTime: 2022-10-25T21:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "hE68DOl75THLGLJZTzPkj9n3tBBvH+9yXa2wcZagyWCJ4vnD2RmreKOU07QvnNodiGVfaq33Ww0V81n2ZoNJoK1ZVjV04bovaz2JwtfjBD3YJjrwxKJY/RTyMj6hhFTc1WhFgbp7MiTe8wZN3w7duEgOoScb5YMHc8TuP4AUJrVRQKi5NLz1kp26J/TT3/SIr5q3PcUeqrDLhVoVHrjwXmepcCcKZQBz8mS6m1qhWBpHPE+A7TYmxKATnEq1gLygkNLlahdzqH4tfgRsgv2q5o1bRkI0LTyF/1j2P4KgxIb7MSO15DtXP2MPbCKR9GBSFOj/cDPiMIeU/q7fPsdykoS87pXwNd8abf0wVv80zGo=;O7xJUiaARKAi36FdiNsM+A=="
 ---

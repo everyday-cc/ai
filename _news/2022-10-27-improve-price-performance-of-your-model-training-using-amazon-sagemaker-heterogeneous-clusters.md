@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-perfor
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/"
 type: article
 quality: 92
-heat: -1
-published: false
+heat: 152
+published: true
 
 provider:
   name: AWS
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints"
-    excerpt: "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing"
-    publishedDateTime: 2022-10-25T15:45:28Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 116
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg"
-        width: 1540
-        height: 724
-        isCached: true
   - title: "Introducing the Amazon SageMaker Serverless Inference Benchmarking Toolkit"
     excerpt: "Amazon SageMaker Serverless Inference is a purpose-built inference option that makes it easy for you to deploy and scale machine learning (ML) models. It provides a pay-per-use model, which is ideal for services where endpoint invocations are infrequent and unpredictable. Unlike a real-time hosting endpoint,"
     publishedDateTime: 2022-10-26T16:42:53Z

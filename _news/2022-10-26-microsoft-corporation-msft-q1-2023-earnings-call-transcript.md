@@ -24,22 +24,6 @@ images:
     height: 1200
     isCached: true
 
-related:
-  - title: "Xerox Holdings Corporation (XRX) Q3 2022 Earnings Call Transcript"
-    excerpt: "Q3 2022 Results Conference Call October 25, 2022 08:00 AM ET Company Participants David Beckel - VP and Head of IR Steven Bandrowczak"
-    publishedDateTime: 2022-10-25T16:56:00Z
-    webUrl: "https://seekingalpha.com/article/4548935-xerox-holdings-corporation-xrx-q3-2022-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 24
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
-
 secured: "n/GYMBZd23cZ9wedi1qJmiRcfFK/RgDTZV2W6KyDb8Jsi3nm7bCu6BOnFDV35YDSH02uC/yV+VdME+iP66FRpptZhs7/1BGKisdFybso1lz69Qnr+isWTRDMAQmBN3+h5Gm2YziU9IF87whMjwqO+kh4omeomLwE8oAmN8oUsbesCx98Gg81ZcyWigk6xAlN3cJPhtn5G2mJ5JOsdtDYu28by30VC51nk27ZzxvkYZQBPflh2lZP+PdlTqYEQNBY1sRIvMBfqtReiZc9DrPgNKIJ5DVGOLTKhzFu2gPAzamNZW/4p2B0b05RNAVrslKwT5nQqcZWlwQflDM1h5o0VNSsdzDycmTu61f8BAN7Er8=;zGy9IuYRquEGvNyEWQJIAQ=="
 ---
 

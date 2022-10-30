@@ -62,6 +62,20 @@ related:
         width: 3000
         height: 2000
         isCached: true
+  - title: "Argo AI, driverless startup backed by Ford and VW, is shutting down"
+    excerpt: "The company, which was founded by veterans of Google and Uber’s self-driving car projects, has lost the financial support of Ford and VW, a source said. And according to TechCrunch, the company ..."
+    publishedDateTime: 2022-10-27T01:40:00Z
+    webUrl: "https://www.theverge.com/2022/10/26/23423998/argo-ai-shut-down-ford-vw-av-self-driving"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 84
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/XswqigPXCIofC_XBI3KcSRRz1kQ=/0x0:2560x1706/1200x628/filters:focal(1280x853:1281x854)/cdn.vox-cdn.com/uploads/chorus_asset/file/23582783/Argo_Driverless_2_scaled.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Ford takes big charge as autonomy startup Argo AI shuts down, earnings head for low end of guidance"
     excerpt: "Ford Motor Co. on Wednesday reported third-quarter results that beat expectations, but forecast full-year adjusted profit at the low end of its expectations."
     publishedDateTime: 2022-10-26T20:32:00Z
@@ -319,6 +333,20 @@ related:
       - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100704292_h.jpg"
         width: 1920
         height: 1264
+        isCached: true
+  - title: "Ford and Volkswagen to exit from Argo AI as they do not bet on self-driving"
+    excerpt: "Ford Motor and Volkswagen will exit from Argo AI as they do not bet on self-driving vehicles business – after making billions in investment. Ford Motor and Volkswagen made investment in self ..."
+    publishedDateTime: 2022-10-27T11:01:00Z
+    webUrl: "https://infotechlead.com/artificial-intelligence/ford-and-volkswagen-to-exit-from-argo-ai-as-they-do-not-bet-on-self-driving-75217"
+    type: article
+    provider:
+      name: infotechlead
+      domain: infotechlead.com
+    quality: 37
+    images:
+      - url: "https://infotechlead.com/wp-content/uploads/2022/04/VC-funding-for-tech.jpg"
+        width: 640
+        height: 409
         isCached: true
   - title: "Ford-, VW-backed Argo AI to shut down"
     excerpt: "Ford said it will take $2.7B non-cash charge on its Argo investment. Argo employees were told that some of them would receive offers from Ford or VW, TechCrunch said."
