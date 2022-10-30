@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-30T13:03:00Z
 originalUrl: "https://telanganatoday.com/siblings-from-telangana-enter-india-book-of-records"
 webUrl: "https://telanganatoday.com/siblings-from-telangana-enter-india-book-of-records"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Telangana Today

@@ -19,6 +19,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "3+//AgArTXq3nRofnkn2+mcVFOjOtiBtb1TAOFP0+C6zEHpV+hPAz7IB6JOFfEQB9NCussHn1v4+30Zmte/gYOVq13UqtDJdpK3mWJmUNxEcIw/eOoGBQN3xt0YdUaQf/6wZ5+rq+5DmRat/XOCbIX1OyE1uQ8luyWTB9phBeF4Ol0Ov/rBiSaIgCJU23IIsmxy9qGocVH2N74vCHhsuEYipdEN3Zq/rWrnq4GYGlabLhjCajbGx9ZgZ7wTdx66FlgbcOwSAinutC2sGXutnl0FcuP4mx0h6F221lPuBAynWaYYoHRKpLUeZ+9BTnbV/csRPqIMBpVDh+WY+ng6aBOp+D+0/jHYiBrkYLTqeu1A=;pZkbSfEs3odlTEmvAMmXeA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "ZQm09T+MR04ajaN+i8CyIP210kq/OlUbtOSBcfVMQnEW+RT9fbCH1441BBM6cYLuIF7krDl6iu9IbzvNRZ0FZfo5SC0dZHIY1xn0l+JXAH+rS1cAfFBTESIAgXrfw4yztPAuSxpzia+5k75BKFTa0uHNQKCj0o64ZKmsbuMdV0wnkZd5oEnILPi7/iercG9M19QAR7DsP7N+s1jk1LNT8yvv1u+aGrsdoj8JxttxRVTrEHX5r6uS+MzCcmgUChyVLUpZOrz64WETfu6yoJGLWt999XYIT4B+SdU/I8fhcVJyw9RzGHyDXEweSeQoWxKyO+79+RQvq22uIHSGEWvQuJZYVnjuYy1Vq5spidbE6Fg=;8oaphxMymU4Xgti9CTt9Qw=="
 ---
 

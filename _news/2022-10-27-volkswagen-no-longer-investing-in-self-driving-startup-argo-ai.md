@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-n
 webUrl: "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "VCs Based in India Investing in AI Startups"
+    excerpt: "There are hundreds of VCs investors across public and private sectors that are increasingly getting interested in “pitching into” the sector. Let’s look at some of these India-based investors looking to invest in AI and the technology sector in general!"
+    publishedDateTime: 2022-10-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/vcs-based-in-india-investing-in-ai-startups/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/rupee-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "A once hot startup, Pittsburgh-based Argo AI will soon be no more"
     excerpt: "Argo AI, a self-driving technology company based in Pittsburgh, is shutting down. Ford and Volkswagen will absorb parts of the company, including some employees."
     publishedDateTime: 2022-10-26T20:22:00Z

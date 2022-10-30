@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/"
 type: article
 quality: 74
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Intel Prices Widely Anticipated IPO for Self-Driving Car Unit Mobileye"
-    excerpt: "The unit raised $861 million by selling 41 million shares, valuing it at roughly $17 billion"
-    publishedDateTime: 2022-10-25T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/intel-prices-widely-anticipated-ipo-for-self-driving-car-unit-mobileye-11666736996"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-651851/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Intel Stock Gains As Mobileye IPO Values Self-Driving Unit At $16.7 Billion"
     excerpt: "Mobileye, Intel's self-driving unit, raised $861 million from a firmer-than-expected IPO that values the Israel-based group at around $16.7 billion."

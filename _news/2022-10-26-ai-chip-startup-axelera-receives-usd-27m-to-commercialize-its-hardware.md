@@ -9,7 +9,7 @@ ampWebUrl: "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-recei
 cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -41,15 +41,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "European Startup Axelera AI Closes $27M Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
-    publishedDateTime: 2022-10-25T21:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "D1H5yj/IET057NlpuswBD/8/Rz42f9CUCxbsxDLsB91EKeUJvaMqSAd7aob+jJHTykhYLel8UqQU02S2jP2iEQdh4KNb5c6ovEamVqZQ/0qBtl8cvHXtkby0SRK3WOA6vHT3rUUKuBftKnjKNtfb4IBGMCinV/xKdBS/ClJs4bBIWQZm92SDaiaia7Pr/WDmnPcBrMY2Ubq1HfDIcAWwAjacBW2k75XoyR2nmatVoRLpkdZG8J9a0BRVPUaVZV9o/GnRTX0xbLZzAMi6A7zP42g+4Da/Z0OrZZwXgzSehVtG+tQ5ev3lZpcu1y6I5a5Q5Jb5eC1gWr29AAJtU1fHBzYKUtw7+mKXzTmiEKgDfrI=;EQ2HSitUt0vwgyNJ3/hHFg=="
 ---

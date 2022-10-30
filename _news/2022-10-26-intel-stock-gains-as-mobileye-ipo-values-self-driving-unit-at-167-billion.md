@@ -53,20 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Intel Prices Widely Anticipated IPO for Self-Driving Car Unit Mobileye"
-    excerpt: "The unit raised $861 million by selling 41 million shares, valuing it at roughly $17 billion"
-    publishedDateTime: 2022-10-25T21:29:00Z
-    webUrl: "https://www.wsj.com/articles/intel-prices-widely-anticipated-ipo-for-self-driving-car-unit-mobileye-11666736996"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 54
-    images:
-      - url: "https://images.wsj.net/im-651851/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
     excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
     publishedDateTime: 2022-10-26T18:19:00Z

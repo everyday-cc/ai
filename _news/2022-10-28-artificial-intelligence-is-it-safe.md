@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T08:06:00Z
 originalUrl: "https://thehill.com/opinion/technology/3708224-artificial-intelligence-is-it-safe/"
 webUrl: "https://thehill.com/opinion/technology/3708224-artificial-intelligence-is-it-safe/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hill

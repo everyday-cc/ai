@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "VCs Based in India Investing in AI Startups"
+    excerpt: "There are hundreds of VCs investors across public and private sectors that are increasingly getting interested in “pitching into” the sector. Let’s look at some of these India-based investors looking to invest in AI and the technology sector in general!"
+    publishedDateTime: 2022-10-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/vcs-based-in-india-investing-in-ai-startups/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/rupee-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "uc0gICQ/13q436qCZWKPSXrgzqhGWtOu22/V7f8ivI6Khcx1LcjxW2Oz5KSGLdYVuQwUWjc0mfxy5ox8UTB46u0m8K2f3KWUbzSiTLL02T6EVexIvyZj1DucvyaNa0Dln56QzfAO4NgXJtmI8OTOlvck1L/5wGlVl/9tWOU15tDaL568SCpSl5Ke52CK+qXOlFZTL0OwivEMHJ95qWirL83vZu9OuZsWZF8Di/dkkfMEMGoUTe96s1KQU/l91WQayJQl2q/isBnOXHx/HDVkqIWCzCnfenI60o5wD/JfXZjWfhpxZnIEwTe4CPjWvvuffHC/OkKHibhGggiIuRWUvox2uA1EAx6z6LzmnRNVAzFXoDhr3eRkcvjr1fj5wZ41IdVkIRBPuTYSrpIfYLaEcflANcNC6LUOoJJf/JnCI+DMBv9+IzijDheciWlfVvw0Af4j+10lufqUypBgYuJTwaQlXD4mAwVqILaSUVJKYX1ontJHodQlDx1GHtZWl63DdhOskopWkxNc0eO4ZFQ0Xg==;k6nOlTBicfwVVz/ShfQL/w=="
 ---

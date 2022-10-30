@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/26/teslas-optimus-bot-are-humaniform-robots-the-right-path-forward/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 106
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     width: 1200
     height: 600
     isCached: true
-
-related:
-  - title: "Tesla: Elon Musk Is Right (Optimus Robot)"
-    excerpt: "The Tesla Optimus robot shown at the AI Day received mixed reviews. Find out why, over time, this will change the economy in ways unimaginable."
-    publishedDateTime: 2022-10-25T20:27:00Z
-    webUrl: "https://seekingalpha.com/article/4549020-tesla-elon-musk-is-right-optimus-robot"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 56
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1343072603/image_1343072603.jpg?io=getty-c-w750"
-        width: 750
-        height: 500
-        isCached: true
 
 secured: "UHlrEtyuvpZgM5oVk0F67wbQmClEIFlTFEr7Bydxy78PULw/3xVwLMXXMzCE9oJzcRa9R/WQwfjMbBjQNh5aPIeYhO2U/UG5gTzxbKqQ4d57Di7Njd4yVn4OsehT7wrKl2lgHgFVyyA6DhOzpVBZDlOqzK6MI4wipZloaZiVTkoubPUSipzLwJP/qNBAF6sMMApt2kCwxAu5ZFg3thZIYmzLO7AKfZCFF0ht7p/F2Fmnmmsf0rdG16YpAbOsR1M+dT9IlGjJ1l37tZkL568h8jEc0FX3H3Qu5+jChfqZKRoVO85mXUzLTAB2vQVc2lCXxJuSezArBTiMtMyQQMFDlE5AWKGOHW+/enLYbGdZtdsYoyW4YvCJvDYpql1Bp8KqXQRTcZ89EjGa762O6qarY4RHRr72WUJYE9q6G3+Wp/aoh528IaAUhuTzGugyYQcWaEAErA0k07BGAWMxdErM0YbmT8y2miuUagvxNIMoKY5fnHMNi3GWs23H0kk9y7Yqx55OiaodgW+Mu9MqANdkeA==;p4CLjIDJiEWJBD4Z00Af8w=="
 ---

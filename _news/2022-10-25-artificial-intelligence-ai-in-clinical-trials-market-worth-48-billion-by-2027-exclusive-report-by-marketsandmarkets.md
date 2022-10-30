@@ -2,13 +2,10 @@
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T15:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+publishedDateTime: 2022-10-25T16:24:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/25/9699370.htm"
 type: article
-quality: 8
-heat: 8
-published: false
 
 provider:
   name: TMCnet
@@ -18,6 +15,6 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "qXQPedjH8TzQyV6kxxq/SB6uCJ3M6YiIr9Dso/4fzAhJVUjyr7FFa8iJbC0QQ2eGqR7Fo2abwrf3TbVZMP9kAD5w7w5ekQCmNyY5g1QKei1PBisTDYqO5B54eOB/AQlnup0sJiyvVbQjlFshC1r3qYEXi0/5Mdxq0XbHTiAwB+EScePUM/SHczQHyyKv2RMD9tNI6axsHr9xZ2mllxiETNY+EAI5dwo/oV2j4gf2C4VN1FtG767QkZzOSsAFTVk0FeR/W7I4VEsN5ExdQZpfSI9Q9+3hwN5uBMeWn/6qcY0XRfciaN6Ask/hPiWkpeY7z9Oo46giIiJ72nG9En3ra3O/RA8Ku0YIMHxqL9ARtx4MSWkj49A8XtiSHW20RzGsMiphywbOqPyVR/FobEkNdh20bYnhnh+Kvd8GmGYt6SYY54JS/4am+oWvv832SJs+gsl1pEhp/I5nd6vkRr/Tf0MmLNE9r4wYiffwB7R+M1vQseFkDjyJx6wJZHbT83E83RXfLtqSQr8b5IPTprgfjA==;InRTtUrjpkV5yd543g+1Cg=="
+secured: "+fTTBJJOjp0Eyghg5sr9iERt98Lx/9tQP+/nzPFkZq+dlmThnaVFsWISvURYUuMOcOPFns9A0omKCYMQnm1EVuLmKKN571m67nIPQbXmLiRA2wVSm5aOPP5eacChH+gQXaYJpxiom6NuRWXMn2ojC9/KzJZiAZCtfgIsiE5Ozo0f4UUcAsFyXzXojbQsGIExNia5xRCDSMjm+oCyKVLKxU0YtxbsDV2od0xUrJ8zowZiPLOpDwgdHmcNG3lgyv11sFeEuMjhupNwgFjz5Cc/v6LjY+ZpZPuvfZElF3mszt3Gc7/URSuV9v3QFn0T78mmM0mmskQcJvmHhHAboKpjnc17O+XrJTi9xIhd5w8wR75QZ9S/gJeC8uRwI0WcEo+2Klop8JxgAHlNjs+bBw+zJhC4Hij1MchiJQHyk+7pdVhXk5FLMEkBOnISqdd3Cv4xZtHH8asLiszJhJ3P0SLQDh82+XCPu9lNUIjrsOEZ5D37fEXdX4MWhQsnu6f9iYrVK5FsfZ6VSEGpsElwuEy8BQ==;0FHj+b+lrsV6s41P0CTWqQ=="
 ---
 

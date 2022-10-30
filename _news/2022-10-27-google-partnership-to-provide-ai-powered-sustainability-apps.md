@@ -24,17 +24,6 @@ images:
     height: 1018
     isCached: true
 
-related:
-  - title: "Google Cloud, mCloud to debut trio of AI-powered sustainability apps"
-    excerpt: "In partnership with Google Cloud, mCloud will directly integrate and leverage core Google Cloud services to enable powerful capabilities driving the sustainability of asset- and energy-intensive operations."
-    publishedDateTime: 2022-10-27T11:55:00Z
-    webUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-trio-of-ai-powered-sustainability-apps"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
-
 secured: "hb19OuQhaWdZ2op9+E/O2sfAhHklagxWscD3U5+Z4YJMERg+X6iZUIV5cjVd37ff9pxWPNkmqN2xtfK/tBNJ0Db95sucrl4rg6bU6p/83knsj9ZMdHkwedfS0D2j7/1XdoUFQDU0hJPfMl8D+fZiFatj5njwu2Q/PKnQisZyYr1R9yXYM0VhRckUsUi8sNn6A/aS4GYrNblsSlWGCAM5ox5JA/HKJEc5eM4Ffhrxk3B2iM3aPWkIeiQ74oRdhhU2EJyEW/ALFa1lCDfZZ0mTAbMZJ5tdFaTwbz9d78mkYTmt+0C/IdMY/xJ745ZEG1n0HUG6AMW8wv//7GDbhpHsKKO+foUzkXjLSsDLdD0YIySGHBUI3d5ZGubMjjTzQjRWGrKk+RDuQLTnpygWjwyhjaovkozJjeRptyo0NNU5LclDkW/dgYrxC3MB4/e7h7opntPc7ZdAb9L3+6nX5E8UaYvttbsKWAwynPUvFSv6+5WQj8/KdEFx5dgP4NIcrWedQtR3M3H0UwFQ1+Q6H4w0AA==;z6Q8FiqAZjTkzn7jtIvyeQ=="
 ---
 

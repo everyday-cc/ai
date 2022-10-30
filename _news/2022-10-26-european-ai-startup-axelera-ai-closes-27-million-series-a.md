@@ -41,15 +41,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "European Startup Axelera AI Closes $27M Series A"
-    excerpt: "European AI startup Axelera AI announced today the close of its $27 million Series A investment round. The funding"
-    publishedDateTime: 2022-10-25T21:39:00Z
-    webUrl: "https://www.datanami.com/this-just-in/european-startup-axelera-ai-closes-27m-series-a/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "TWfCzlcSj2Kl6jiBksRv/oe0jhnl9sMr/8lwOUGquTxfOXUW1JGLSN2bygkXVh35tXrF7OLZtyyXJ5HyFPsWlBQ/BF6WHxm3Xz5Efbval+ACyhOqJti6UkUTab9CRbFWO+T0lnBvssWjv1nnEJp/BYUB+2hOflV8Rf+rarkiI+PSdMRL5LOieoOAeotSaGKJ483Kbd42ri00NLg2qtx8i9FIYzfDK523YpJJgTnCeQYu6Bp8M+EXPKHgdmowBAxnZgqaSGFlq0C0Mnz1G2IabIXcy7Ki+666aWO/DT4N9UEfTYz86z7Xkn1dEZ0JlY6sU0Dl/0OvxEuVuNMmwR4zBqy81loQfzepLhc2/CIB9Hc=;3rUHcUHX/xVZCUuLyqfA7w=="
 ---
