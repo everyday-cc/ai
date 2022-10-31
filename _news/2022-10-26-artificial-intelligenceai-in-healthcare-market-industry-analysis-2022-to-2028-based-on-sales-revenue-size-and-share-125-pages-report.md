@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligencea
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26"
 type: article
 quality: 81
-heat: 201
+heat: 191
 published: true
 
 provider:
@@ -160,15 +160,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Learning Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2029 | 123 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Machine Learning Market is projected to reach Multimillion USD"
-    publishedDateTime: 2022-10-26T08:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2029-123-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 23
   - title: "Artificial Intelligence Platform Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2029 | 112 Pages Report"
     excerpt: "Global “ Artificial Intelligence Platform Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence Platform market. Both quantitative and qualitative analyses are presented by manufacturers,"
     publishedDateTime: 2022-10-26T13:37:00Z

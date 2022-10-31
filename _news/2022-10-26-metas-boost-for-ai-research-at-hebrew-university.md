@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hebrew U to open joint PhD program, research partnership with Meta AI"
-    excerpt: "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure"
-    publishedDateTime: 2022-10-26T07:23:00Z
-    webUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/"
-    ampWebUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 59
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Hebrew University to launch research partnership with Meta AI"
     excerpt: "Joint program will allow doctoral students to benefit from access to company's infrastructure - Click the link for more details"
     publishedDateTime: 2022-10-26T10:48:00Z

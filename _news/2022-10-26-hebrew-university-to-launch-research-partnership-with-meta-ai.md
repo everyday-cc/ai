@@ -7,7 +7,7 @@ originalUrl: "https://www.i24news.tv/en/news/israel/technology-science/166678127
 webUrl: "https://www.i24news.tv/en/news/israel/technology-science/1666781275-hebrew-university-to-launch-research-partnership-with-meta-ai"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hebrew U to open joint PhD program, research partnership with Meta AI"
-    excerpt: "Doctoral program to provide students with mentors from the Facebook parent company, access to facilities and computational infrastructure"
-    publishedDateTime: 2022-10-26T07:23:00Z
-    webUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/"
-    ampWebUrl: "https://www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/hebrew-u-to-open-joint-phd-program-research-partnership-with-meta-ai/amp/"
-    type: article
-    provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 59
-    images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/08/AP22239576829786-640x400.jpg"
-        width: 640
-        height: 400
-        isCached: true
   - title: "Meta’s Boost For AI Research At Hebrew University"
     excerpt: "Meta, formerly known as Facebook, is joining forces with Hebrew University (HU) to develop cutting-edge artificial intelligence (AI)."
     publishedDateTime: 2022-10-26T13:04:00Z

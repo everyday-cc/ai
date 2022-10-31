@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
+      "title": "Today’s news in 10 minutes",
+      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon",
+      "originalUrl": "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "publishedDateTime": "2022-10-30T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
       "title": "How to manage risk as AI spreads throughout your organization",
       "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
@@ -1389,58 +1441,6 @@
       "ampWebUrl": "https://techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/swap-robotics-electric-solar-vegetation-cuts-sidewalk-snow-plowing/amp/",
       "publishedDateTime": "2022-10-18T16:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage.md",
-      "title": "Announcing the TechCrunch Startup Battlefield 20 companies on the Disrupt Stage",
-      "excerpt": "Disrupt runs Tuesday through Thursday, October 18-20 in San Francisco.. The agenda is packed full of the heavyweights of the industry hashing it out on stage stage with TechCrunch Editors. Newsmakers,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
-      "originalUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/bf200_122x628_header.png",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/18/announcing-the-techcrunch-startup-battlefield-20-companies-on-the-disrupt-stage/amp/",
-      "publishedDateTime": "2022-10-18T14:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
