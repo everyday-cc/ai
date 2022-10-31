@@ -120,6 +120,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Google Pays A Staggering $100 Million For An Artificial Intelligence Startup Alter; Is It Worth It Though?"
+    excerpt: "Google just acquired Alter, a business that creates AI avatars. According to TechCrunch, the internet behemoth paid roughly $100 million to purchase the business (approximately Rs 8,22,87,70,000). For those who are unfamiliar,"
+    publishedDateTime: 2022-10-31T08:45:00Z
+    webUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho"
+    ampWebUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/72a81d54-1477-45f7-ac0a-f8174139aab3_qqyb.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
     publishedDateTime: 2022-10-28T11:21:00Z
@@ -195,6 +211,6 @@ related:
         height: 418
         isCached: true
 
-secured: "XYsS/8Z4GTslOMUHa1P4MRlywVmKNZCq9QnEHQcro42A13DcPCgHno9qfS/33cFuSG1n+Nu4OPwbYsmRuWdfGeMW5hTuGb3pnkwg23KR1vHd0u9Cjvf4iciP8J1J9PjGnIprZC34n5bPIAjIm7lZeBavxk9CbSkjVNC0n5ioZewk8f43lpvdbaa2hPAGI5TiFEIu3mdBXAnqOp7eEKJ9hCQjS9yebt9I3b5LbImpwPluNtnmCf4eWyRobEtLUYjXtVlgP2+jaGDQA/LuGv6t2Jtr+wdp7WHe3CZnnR2Tih7B8YLrKPnbRVPUzBGxOc9IFIKjNWJ6AM1AMv4/Rb//i4jObrTDIWaVuxlOQSq+pVU=;fPX0JLJv+5DwGMZlxB+9Fw=="
+secured: "FKQb0Y6tknSXKVxfnBV6Puw2Yfhqt04yK22KoypGxHY7vuR8172xCrkwCiJpNyDsy3RCb8S8BAuNqv9X7HWlkItPM7NOBetFv4AiZGJjmgiRR0jvYnNFSUhqpJ2eplLVriK3tv2BEK/peeVVhP6385brJDvqVE9ZHZOikqTHnBh+uUwI9+z4rhPhC+3jzMJnK238seUDnFBB2+TN3jsfh9amleP6l/QlbogVe/hV+r8nYvLq/KVYnNqN3h98RXpfsnzLlX79/Q0M/hs064+Y8sz0Xhz/GPbYGansVf960nLjwa+l6lRrCfKYgUSfFHadr7PiBWDqb42KrVrmfH6OEMpdHiFzCHtbDspV4uVBQy2SRu42qjpdWKWlgK0YJ0MMnWemdAYFpJb0S0upvlbGPfvkoUdFXK2iyKNI8E3G7V/vCz8qPz8bZPAdWm4Cu4d5+HU9dqM9xx/gs6eDse3IUabFjX0yokwz2VHqCapeNrtw1IB+pjzZVkPb3JQGyGdWO+lyDYAccAbGc7p23KOPUw==;we4k4g48TptJRBJzE0n9hg=="
 ---
 

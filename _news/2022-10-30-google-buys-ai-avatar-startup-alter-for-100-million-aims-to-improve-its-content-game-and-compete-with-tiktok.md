@@ -120,6 +120,22 @@ related:
         width: 1069
         height: 580
         isCached: true
+  - title: "Google Pays A Staggering $100 Million For An Artificial Intelligence Startup Alter; Is It Worth It Though?"
+    excerpt: "Google just acquired Alter, a business that creates AI avatars. According to TechCrunch, the internet behemoth paid roughly $100 million to purchase the business (approximately Rs 8,22,87,70,000). For those who are unfamiliar,"
+    publishedDateTime: 2022-10-31T08:45:00Z
+    webUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho"
+    ampWebUrl: "https://in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/40925/google-pays-a-staggering-100-million-for-an-artificial-intelligence-startup-alter-is-it-worth-it-tho?amp=1"
+    type: article
+    provider:
+      name: in.mashable
+      domain: mashable.com
+    quality: 69
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/72a81d54-1477-45f7-ac0a-f8174139aab3_qqyb.620.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
     publishedDateTime: 2022-10-28T11:21:00Z

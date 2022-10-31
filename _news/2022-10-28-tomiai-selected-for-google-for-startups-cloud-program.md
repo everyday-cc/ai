@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-f
 webUrl: "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "Startups: Of artificial intelligence and unreal impact"
+    excerpt: "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,"
+    publishedDateTime: 2022-10-31T08:21:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
+    type: article
+    provider:
+      name: cio.economictimes.indiatimes
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-95199332,imgsize-41512,width-1200,height-628,overlay-etcio/startups-of-artificial-intelligence-and-unreal-impact.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Google Cloud, mCloud to debut trio of AI-powered sustainability apps"
     excerpt: "In partnership with Google Cloud, mCloud will directly integrate and leverage core Google Cloud services to enable powerful capabilities driving the sustainability of asset- and energy-intensive operations."
     publishedDateTime: 2022-10-27T11:55:00Z
