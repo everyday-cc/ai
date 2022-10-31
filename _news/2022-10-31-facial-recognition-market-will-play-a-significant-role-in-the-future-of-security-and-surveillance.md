@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:50:00Z
 originalUrl: "https://techbullion.com/facial-recognition-market-will-play-a-significant-role-in-the-future-of-security-and-surveillance/"
 webUrl: "https://techbullion.com/facial-recognition-market-will-play-a-significant-role-in-the-future-of-security-and-surveillance/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Impacts

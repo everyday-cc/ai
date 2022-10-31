@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T13:27:00Z
 originalUrl: "https://www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved/"
 webUrl: "https://www.scientificamerican.com/article/one-of-the-biggest-problems-in-biology-has-finally-been-solved/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Scientific American

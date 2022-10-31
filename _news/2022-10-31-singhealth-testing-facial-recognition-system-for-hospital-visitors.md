@@ -7,7 +7,7 @@ originalUrl: "https://www.straitstimes.com/singapore/health/singhealth-testing-f
 webUrl: "https://www.straitstimes.com/singapore/health/singhealth-testing-facial-recognition-system-for-hospital-visitors"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 860
     height: 573
     isCached: true
-
-related:
-  - title: "Abarth conducts facial recognition tests to monitor in-car emotions"
-    excerpt: "This recent test follows on from another study by Abarth and Loughborough University which found that driving on a circuit had a more positive impact on a person’s mood than a v"
-    publishedDateTime: 2022-10-31T11:00:00Z
-    webUrl: "https://www.shropshirestar.com/news/motors/2022/10/31/abarth-conducts-facial-recognition-tests-to-monitor-in-car-emotions/"
-    type: article
-    provider:
-      name: Shropshire Star
-      domain: shropshirestar.com
-    quality: 39
-    images:
-      - url: "https://www.shropshirestar.com/resizer/ObnN__JmTzVBQHQawA0nYNhKGNs=/1200x0/cloudfront-us-east-1.images.arcpublishing.com/mna/UF5PVHZPTBGC5AALI4LHURCVHE.jpg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "XIcjglWiH5uWL5knUORXtcqFQePTeKkWsXXQ/j+JDWJDJsRov5FJjXoc5u6613h6R00FL+jncwMNSl6FZ2yOQn3AmukZXpFQbXxOYfwe9q3COZK80waBocBnPWUpebKDCa52UP2nYgflz313Nb26pKoeRoMb/61+oP0NA77Ae3yDLHjtrrM0GGW+YLxI+4HjOWY8ch7aMuNbZ5hyyAANZn4Hqt+JR9UoGBhBLcoaYDNcpsEUTRm2P2dgIj1thGY5CqcFeUtz/cwx8LWDKPTqLGB/KG5UTKq6R2SY+rFNvPKXpbueVzzlstRvNh3gbKWtMdlItEEFN0RSe2s4ubMyk1n/P+JsnxeajG0cmMUqlRw=;tq6x1ZoQl7QHoPSHZU43xg=="
 ---

@@ -55,6 +55,20 @@ related:
       name: newsroom.businesswire.com
       domain: businesswire.com
     quality: 0
+  - title: "Nutanix is Named a Visionary in the 2022 Gartner® Magic Quadrant™ for Distributed File Systems and Objects Storage for the Second Year"
+    excerpt: "Nutanix has announced that it has been named as a Visionary in the Gartner October 2022 Magic Quadrant for Distributed File Systems and Objects Storage. This marks the second consecutive year the company has been recognised in this report."
+    publishedDateTime: 2022-10-31T15:04:00Z
+    webUrl: "https://financialit.net/news/data/nutanix-named-visionary-2022-gartnerr-magic-quadranttm-distributed-file-systems-and"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 0
+    images:
+      - url: "https://financialit.net/sites/default/files/nutanix_13.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "6+wZaPwOVSCjyE4xFojdsuBasU887DjzEAnRPin6NEX3F4TvQ3UlIWJQi4md1hHVZhlnGHYHQcFXKDp+sFMB/JoqiUfOZ+DXKqjc0217sHWt8fDyKtL9poMI6UIkoNnEUNROjONKUW8HnPtKEhEXySuiBE1h/eM1Zi8GHFUPTiNJIYhc48O50fVMvxBtmW+BT6Pxye33cUtfGEbeu1afCGR2Yw4V5bhVtWFbMeXNE8uciZ92GXSt9yUlnCQOQZcIn/zdAluRyNWHwGns41WCJCu42hOUU1J5Wo4cAkSp03TORT6OF1xzBPMQpiOK0pqAeduFkAV+5rcILvUESCotkh7DbGt8WkqvpMGHKqjUWq0=;StEfh4bodX6ihKASqk468Q=="
 ---

@@ -1,18 +1,20 @@
 ---
 category: news
 title: "Trade Estonia broadens horizons of AI and machine learning in UAE during networking event"
-excerpt: "Trade Estonia recently highlighted and showcased the latest future-oriented solutions from 12 Estonian companies during a networking event that took place on 13 October, where Trade Estonia representatives from 12 companies expanded their networks and formed collaborations with a number of stakeholders to further empower the UAE and the businesses operating within it."
-publishedDateTime: 2022-10-31T09:15:00Z
-originalUrl: "https://technews.tmcnet.com/news/2022/10/31/9702190.htm"
-webUrl: "https://technews.tmcnet.com/news/2022/10/31/9702190.htm"
+excerpt: "Estonian companies extended collaboration opportunities.Estonia's latest innovative technologies and products were highlighted.A number of the companies are nominated for awards at the 2022 Go Global Awards."
+publishedDateTime: 2022-10-31T08:39:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29474702/trade-estonia-broadens-horizons-of-ai-and-machine-learning-in-uae-during-networking-event"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29474702/trade-estonia-broadens-horizons-of-ai-and-machine-learning-in-uae-during-networking-event"
+ampWebUrl: "https://www.benzinga.com/amp/content/29474702"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29474702"
 type: article
-quality: 45
-heat: 45
+quality: 65
+heat: 65
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
@@ -24,6 +26,6 @@ images:
     height: 281
     isCached: true
 
-secured: "aE91see2OqadK4n7q5XEHkjOgpM5SDB1Yda8ueDfw1/0ResO1YWseCXQjsNrSAVdFzq4YnKPsNR+Ksdpbl0i+b7eMfgeXKg/J7P3gz6bUf2E9YOUkQLr0wFnZMNjzfclUt9Hz9iy5D1L4Tx5vEsCfDEJ2hu/Ar/+e6fZlpVPD6uw5FSzApkQGhGugS+NgkfCu2WK/Z53/+SJ36V52mwBnS7TtfSoCC1nf/8SPZA8JDBp5PAwdC/jww+/AOEM4X+NjWGvCrcKre5G+03GuCm+IDg72R30kAUL570lgX6bw5LMvD7FWcDPSTNpGKYpbcU5DaCKs9ArjHdUE+wk2x8P2qkOwnpq0N8ESR5LcungauA=;dm9tfXDO+d/YjacC6pAsQg=="
+secured: "78Ebfd+fwr/y7Ckuvwz74C1sdcUBSUESCx4KtlkABA7BVf5sWdAOxAGns2ndiC4q+BufLeP1kKk4pbo/EC9LW2OFrtxREqV6kbATCLtvkDhhUMC5jfXINgoITRC6Xvgb7r2xwPLLyhDbnZcwj3Z8c8GCHAjH4dEq8OXcoVOPz8ILC1hg6rgsCDsH9ywTqTp0X8RDDDCj448C/RDIEgL9QK37dgufSr9Api7Atiss7VercGuI0UNgE6OHxjXFfQgMzKgT4g73Sjh85/nYua73+k9DoeR1MoJwTm0b6Ks+o/F0jBDhO9FKbDf/CgVUFyLA+RbCcaNAeZc5LGvu+vGQF7jZDwlaraK8gZEkmBiWIxQ=;t1G8iqB5Czl3x9Mbysmoiw=="
 ---
 

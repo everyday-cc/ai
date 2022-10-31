@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
-    excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
-    publishedDateTime: 2022-10-26T19:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "ZdfOIOJoHLLqcPboPsgwkwAIIYECG+DxVgFdHTut5NJngdaEYXUtY5euWR1Jj/2brq4rp8l42J0bYk6bN0RHjyygOllUY5UA1CGnLiIdmFD9ENFH6P2VBDAmUATj+2419g1nTgcfZxOXhnOGG1MK3DAYXjFjl3aXV+rMl3Ve1VMqSxjlT48PRh6k7sagWIlw3iDN4Pyi3obdwXRqjHCLpKBEhrJDhzOw+zRJa/m8KSPJPuT1sak1N+edG8/xLNM8RhSc8wFk2AJ3cljY7P8PG4bJ6BMo9Cx5o1kjHwuh+C72vpF2Jh4R2/Xr47+3PqC5L3Qm+RXHPKH+kZvzhFdKUtlgFOeQWOpi9FkrzKtjyPE=;Ac54/SRN3x46tZqZmOd9Vg=="
 ---

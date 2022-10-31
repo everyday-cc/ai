@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:45:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/ac29478619/grid-dynamics-achieves-the-aws-service-delivery-designation-for-amazon-eks-as-an-inaugural-recipi"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/ac29478619/grid-dynamics-achieves-the-aws-service-delivery-designation-for-amazon-eks-as-an-inaugural-recipi"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

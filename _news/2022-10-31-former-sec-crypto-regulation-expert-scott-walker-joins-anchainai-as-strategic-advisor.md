@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/former-sec-crypto-regulation-expert-scott-walker-joins-anchain-ai-as-strategic-advisor-1031853252"
 webUrl: "https://markets.businessinsider.com/news/stocks/former-sec-crypto-regulation-expert-scott-walker-joins-anchain-ai-as-strategic-advisor-1031853252"
 type: article
+quality: 39
+heat: 39
+published: false
 
 provider:
   name: Business Insider

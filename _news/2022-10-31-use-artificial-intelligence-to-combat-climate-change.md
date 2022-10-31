@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T13:01:00Z
 originalUrl: "https://mg.co.za/opinion/2022-10-31-use-artificial-intelligence-to-combat-climate-change/"
 webUrl: "https://mg.co.za/opinion/2022-10-31-use-artificial-intelligence-to-combat-climate-change/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Mail & Guardian

@@ -5,7 +5,12 @@ excerpt: "For years, the conventional wisdom among Silicon Valley futurists was 
 publishedDateTime: 2022-10-31T12:59:00Z
 originalUrl: "https://www.seattletimes.com/business/technology/art-generated-by-artificial-intelligence-is-transforming-creative-work/"
 webUrl: "https://www.seattletimes.com/business/technology/art-generated-by-artificial-intelligence-is-transforming-creative-work/"
+ampWebUrl: "https://www.seattletimes.com/business/technology/art-generated-by-artificial-intelligence-is-transforming-creative-work/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/art-generated-by-artificial-intelligence-is-transforming-creative-work/?amp=1"
 type: article
+quality: 41
+heat: -1
+published: false
 
 provider:
   name: Seattle Times
@@ -13,6 +18,26 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
+  - AI in Autos
+
+related:
+  - title: "Transformation of digital marketing due to AI"
+    excerpt: "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online."
+    publishedDateTime: 2022-10-30T04:30:00Z
+    webUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/"
+    ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 76
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "+FXDzXPwHXQLxD3UwYPC0AmCl4zhXwgjIYZ8iOptGhGfwOEctRVPl+nXq7H3XAKa1JcCr/nM+l0N1XbCAYytELltut/onjy3lJfYT146DtXkYgTXMwc2G4rsbRUFOn1gbtRpHd3rrjfvniq/cV1FYQsXJSyW0mB5G+q9XUY2n5lUcNkt5Mtpc36TigHoG+oNyjuiZEauTVjFbJPSBwQ4AHs5vuUDH8IjcGOMaEAiqtnr7LO/oSzYkcJPqBpKm5YtOVQ658cBkFC+g8CPobp+Sx/4QFJPxW4/SRYWJT6/IiOg9/o34H9pkqdsQNtUwkALTUD7PwFLiyNqKEMwxXO3woz/1EkCBNi2aFjWtw3eO0ssPSW/5+0YuOxbiJJXnFUNr988yJtswiEDsmZgkTXH/kidP9BTlT+qaGVC6wLNCq4mKP3o6kwi0CUXGY77pVM9zKtpCJUjw3dof456FYgj28++IBFK0JpgvybGVoAQ4zB68bv3ueQJedKgRQ+UN/4BmAMl7IJMnjtlRYK3g9VGWw==;qOqBzEVLaHj4a2RYZL/AAQ=="
 ---

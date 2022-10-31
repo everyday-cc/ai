@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:01:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2022/10/31/the-us-chips-act-shines-spotlight-on-ibm-semiconductor-technology/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2022/10/31/the-us-chips-act-shines-spotlight-on-ibm-semiconductor-technology/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Forbes

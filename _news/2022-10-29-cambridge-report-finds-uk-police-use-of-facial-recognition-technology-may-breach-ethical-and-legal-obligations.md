@@ -114,6 +114,15 @@ related:
         width: 885
         height: 432
         isCached: true
+  - title: "Police use of facial recognition not ethical or legal"
+    excerpt: "All facial recognition deployments the researchers examined fell short of minimum ethical and legal standards."
+    publishedDateTime: 2022-10-31T10:15:00Z
+    webUrl: "https://www.computing.co.uk/news/4059116/police-facial-recognition-ethical-legal"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
 
 secured: "99QUlvvyhPq3NsGEQlC5c5uJRZMvlWw4ayJRSbjsPd37SrsQXmMv8MyBdcCAso21eqfkfayDzocOWgZfuNYQXggnwHbEpqd4szXeAJySV3SffCfvl8wFVV8x6lkm/y6iODgxGBY49thujN+Dd9dodpJ2CBy4t96R7JbMVqzOx0ESZIQ0FOV+aWNaoTJJsbD10zaxV4Sx34eZ34ZeG1cgk95we0eO+tCECnc7qITf+OJi+NWC5e892a90I5ns9VIYerUqfXKzMobYvGpG/y3edppB+xCbMGLHXIAiU8pQyQxIdoCmgoptl1iE0TTts6yKZnFt4RlwBygkKrS8yvkT87uranexODCGJpFphy4vx5pmWoSGFhcqaMchcJHI67BSC84bdcvhmUpLIuuezHZZTV4Wv0UktRQ4fB2WZXYuR8dVQCYlC/iqv+48x02AT1prroBFJEJ2lbIwmqIMAQYHchnB6N2kLV3HmqPfS3k1QgfhZ+nrUsPy9dPZMQUKxMyDZxmErXTO8c33aOGexU0u7g==;r4llhm+nZd04HJs43uMo5Q=="
 ---

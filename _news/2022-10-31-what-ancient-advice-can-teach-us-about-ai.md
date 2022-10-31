@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:19:00Z
 originalUrl: "https://www.techradar.com/news/what-ancient-advice-can-teach-us-about-ai"
 webUrl: "https://www.techradar.com/news/what-ancient-advice-can-teach-us-about-ai"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: TechRadar

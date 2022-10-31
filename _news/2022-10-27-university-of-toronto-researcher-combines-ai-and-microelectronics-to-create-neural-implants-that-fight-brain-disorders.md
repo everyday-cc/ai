@@ -43,20 +43,6 @@ related:
         width: 1140
         height: 760
         isCached: true
-  - title: "Combining AI and Microelectronics to Make a Better Brain Implant"
-    excerpt: "Researchers at the University of Toronto are combining AI and microelectronics to maximize the clinical efficacy and minimize adverse effects of neural implants."
-    publishedDateTime: 2022-10-26T19:07:00Z
-    webUrl: "https://www.mddionline.com/neurological/combining-ai-and-microelectronics-make-better-brain-implant"
-    type: article
-    provider:
-      name: MD&M East
-      domain: mddionline.com
-    quality: 39
-    images:
-      - url: "https://www.mddionline.com/sites/mddionline.com/files/Untitled%20design-414.png"
-        width: 770
-        height: 400
-        isCached: true
 
 secured: "heH6NXpBXxuQKaJb9a/PgZccHRqqKx93jraR9q2BgF508CqLpWgM3xTaHTR/ifYV09NccHpT3IjmIWvIwSX74CJoZ2QZdg474hHgYdx9L9YDIndVR+Uk0BaW027El+cIKaUc+GDnPy1yvFt7nANYdq1rDX+QVyrmoiHnUqTpLeePp7eoCVoOxjJB5TLMgJFXXFpfxNm8iYdcxjRaWNF5Q+Cg1rLEVzdSCZXY/IHHP1VeGshsCJpAtvBBR6cHEve81MjvavR6r1oe2FqS9XlNPMRlawCILGg51IX+8u69fMik/8bopKDIQptLZxNVF48FcqfFBZp954LwJfnKwGLe+qggCFF39efpQlJJnxcB8L+WUIH5uJrNHxIZ8oK8/tNK//mk2iweBQx+xa70PEgGYODhFnOnT8m44J4td2B93lwp28aonUKg8WcW3v2G0r25TL6gmbk+IGtXMthUciNcID8U92BmCrFuI3CvPifZTRblTK0kIFmq9PDlQ3Ho35S6/P/V0im1RG7ZUmuhDOofTg==;MVeDu02LDzhtrx/BzwK9RA=="
 ---

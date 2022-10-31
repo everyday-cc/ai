@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A new study reveals how word and face recognition can be supported with only half the brain"
-    excerpt: "Participants were able to recognize words and faces, despite having half of their brain removed. The surgery, known as hemispherectomy, is done to control seizures."
-    publishedDateTime: 2022-10-26T22:01:00Z
-    webUrl: "https://interestingengineering.com/health/a-new-study-reveals-how-word-and-face-recognition-can-be-supported-with-only-half-the-brain"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 44
-    images:
-      - url: "https://images.interestingengineering.com/1200x675/2022/10/26/image/jpeg/quaDxFitBcpZY14TZia3txiBC1oo7DZGA0Dp12gx.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Research finds how single brain hemisphere can support words, face recognition"
     excerpt: "During recent brain plasticity and visual perception research it was found that individuals who had had surgery as children to remove half of their brains corr"
     publishedDateTime: 2022-10-30T19:19:00Z

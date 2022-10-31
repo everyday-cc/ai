@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T13:30:00Z
 originalUrl: "https://www.popsci.com/environment/eurasian-jays-marshmallow-test/"
 webUrl: "https://www.popsci.com/environment/eurasian-jays-marshmallow-test/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: Popular Science

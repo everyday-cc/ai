@@ -9,7 +9,7 @@ ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/artificial-intellige
 cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/artificial-intelligence-company-aiegs-ai-launches-its-mobile-application-23253108"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1280
     height: 720
     isCached: true
+
+related:
+  - title: "VCs Based in India Investing in AI Startups"
+    excerpt: "There are hundreds of VCs investors across public and private sectors that are increasingly getting interested in “pitching into” the sector. Let’s look at some of these India-based investors looking to invest in AI and the technology sector in general!"
+    publishedDateTime: 2022-10-29T07:30:00Z
+    webUrl: "https://analyticsindiamag.com/vcs-based-in-india-investing-in-ai-startups/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/rupee-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "g4XZ9SMHQ6tfa5DtPJlDp58CooLaSCwEaCz7GVt7ux1hp1plgZlqSwoCBZ8bsH10D8ZrFefufiIk6D2vKGQl0ZWS5G5sPwWOUbHFqxdBCt8bSU2A0DO5PO9pHsxUvYOXc8dzbTDJOxU2AaRel1+pfcwn87P5ou5jdONP2hu7ah828NCw0X+2ye5VD2AGQvdiElIBzyrF2xNxbWxqH276w4Fpvkr8tfJ3iQ8wFJ++Zq0N4N8jEw33a13UjCcgCvrO6a3iEAjWXnIfm9DNcaDZtPhhiV0aOts0Vw7O0E036n5A0dNO4evZzEopmLkiAB9cv3iDLrosZjtbWCZ7kRzx1Vk2Mt45t4RXIz4yJFR91PoGc54Q3aWd348G4lKKtdWy1l7ZmsO3AaHbk31SbC+HBF3QFcojfpyQ3KCOh7c3t+oiZDSlUg/T1/qymM5ag3Qbx1N1V0QUFKuHM3pWfLrk5MVEJT84/deHOlRUrxSlUQmQckmpyq+iMZB1L93exrL1fIyTID/QAxGbWRbeP7/hHA==;bNnltLa7CzHuR6vzSdj9TA=="
 ---

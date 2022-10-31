@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-pai
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/"
 type: article
 quality: 93
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -31,6 +31,17 @@ images:
     width: 922
     height: 1518
     isCached: true
+
+related:
+  - title: "Could AI help you to write your next paper?"
+    excerpt: "Large language models can draft abstracts or suggest research directions, but these artificial-intelligence tools are a work in progress."
+    publishedDateTime: 2022-10-31T12:38:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03479-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
 
 secured: "AJboFjPLTt08Xveg3eCBQCW/uXvry0AWHQmP48X7CtY6IAfHNPoZwhG5Kv3Dkss4lPC4OiYJp28tKu8OIrlB69bnKQ9JeT/iJDZoXGFquIwEnK6ZK0c2AQY2JiBStivou34BMi8hQmGauVLMIi7Uwfjkcg8rGkAe1rMI8/l9SVsJEyg8XGMffryKEFcpuKpsy4iAAh8XNN8dRteX08y7C/gTYrnZ4wM6TvyFghYIhqUzos45P7nOujkqDQr/F8bVuTghq5mU8wjMX1x2KWMoRJvsqnGUhBN1yQB3wyjHwo9uvo+DOU6a718iyKcKA/QEjXmhfeoFG2uqrsKi9pSSjkm0mOvxrYt5CQDoUd/z/1iW0LvHAOCbji3Cbb89KdQ/wUG+4N4mBSzZRLwgMuITqxKFVIG31GAW0EhOuWCKRgnvHKTdUFD1SWekUaEAkhRKfap/x03QHDAQbyfR45HoPYUZyOm8YVJnXFtSxLuZ3u7MBP7y85MweH+J2L7RArSose1QPR19YK0IPEGnFJfcWw==;RF/X3hvOJOFAHcrcDe1BrA=="
 ---

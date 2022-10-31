@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:30:00Z
 originalUrl: "https://www.theaustralian.com.au/commentary/stab-of-recognition-at-pearsons-words/news-story/a5c97ff137938d74b9113695dcd9010d"
 webUrl: "https://www.theaustralian.com.au/commentary/stab-of-recognition-at-pearsons-words/news-story/a5c97ff137938d74b9113695dcd9010d"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Australian

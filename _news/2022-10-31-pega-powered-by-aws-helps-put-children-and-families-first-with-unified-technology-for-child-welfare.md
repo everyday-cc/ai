@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T13:06:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/pega-powered-by-aws-helps-put-children-and-families-first-with-unified-technology-for-child-welfare-1031853521"
 webUrl: "https://markets.businessinsider.com/news/stocks/pega-powered-by-aws-helps-put-children-and-families-first-with-unified-technology-for-child-welfare-1031853521"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

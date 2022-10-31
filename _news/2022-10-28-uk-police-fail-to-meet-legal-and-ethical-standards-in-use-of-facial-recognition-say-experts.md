@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standard
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
 type: article
 quality: 79
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -100,6 +100,15 @@ related:
         width: 885
         height: 432
         isCached: true
+  - title: "Police use of facial recognition not ethical or legal"
+    excerpt: "All facial recognition deployments the researchers examined fell short of minimum ethical and legal standards."
+    publishedDateTime: 2022-10-31T10:15:00Z
+    webUrl: "https://www.computing.co.uk/news/4059116/police-facial-recognition-ethical-legal"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 38
   - title: "Cambridge report finds UK police use of facial recognition technology may breach ethical and legal obligations"
     excerpt: "A report released Thursday from Cambridge University claims the United Kingdom police’s use of facial recognition technology (FRT) has breached numerous ethical and human rights obligations."
     publishedDateTime: 2022-10-29T16:23:00Z

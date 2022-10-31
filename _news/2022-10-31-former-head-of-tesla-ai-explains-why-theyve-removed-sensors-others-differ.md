@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/bradtempleton/2022/10/31/former-head-of-tesla-ai-explains-why-theyve-removed-sensors-others-differ/"
 webUrl: "https://www.forbes.com/sites/bradtempleton/2022/10/31/former-head-of-tesla-ai-explains-why-theyve-removed-sensors-others-differ/"
 type: article
+quality: 62
+heat: 62
+published: false
 
 provider:
   name: Forbes

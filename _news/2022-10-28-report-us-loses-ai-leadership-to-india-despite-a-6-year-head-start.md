@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-28T13:12:00Z
 originalUrl: "https://venturebeat.com/ai/report-u-s-loses-ai-leadership-to-india-despite-a-6-year-head-start/"
 webUrl: "https://venturebeat.com/ai/report-u-s-loses-ai-leadership-to-india-despite-a-6-year-head-start/"
 type: article
-quality: 47
-heat: 47
+quality: 49
+heat: 49
 published: false
 
 provider:

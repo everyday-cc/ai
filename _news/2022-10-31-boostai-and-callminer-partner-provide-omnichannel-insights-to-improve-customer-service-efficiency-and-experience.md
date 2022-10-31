@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:05:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29477554/boost-ai-and-callminer-partner-provide-omnichannel-insights-to-improve-customer-service-efficiency"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29477554/boost-ai-and-callminer-partner-provide-omnichannel-insights-to-improve-customer-service-efficiency"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

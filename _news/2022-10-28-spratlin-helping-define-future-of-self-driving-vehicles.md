@@ -41,20 +41,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Ford, VW pull plug on robotaxis in blow to self-driving car industry"
-    excerpt: "By Matt McFarland, CNN Business Ford and Volkswagen, two of the world’s largest automakers, are shutting down their joint effort to develop self-driving cars, the startup Argo AI. Ford said Wednesday that it had concluded that the large-scale profitable commercialization of self-driving cars was further out then expected."
-    publishedDateTime: 2022-10-26T21:22:00Z
-    webUrl: "https://kesq.com/news/2022/10/26/ford-vw-pull-plug-on-robotaxis-in-blow-to-self-driving-car-industry/"
-    type: article
-    provider:
-      name: KESQ News
-      domain: kesq.com
-    quality: 24
-    images:
-      - url: "https://kesq.b-cdn.net/2021/05/kesq-us-world.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Japan to open roads to self-driving vehicles in April"
     excerpt: "Under plans revealed this week, the National Police Agency seeks next April to lift a ban on so-called Level 4 self-driving vehicles, which can operate without a driver under certain conditions.  SoftBank Group-backed Boldly recently announced a partnership with Estonia’s Auve Tech that aims to put Level 4 self-driving buses on Japanese roads by fiscal 2023."
     publishedDateTime: 2022-10-28T02:43:00Z
