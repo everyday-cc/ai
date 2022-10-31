@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T18:17:00Z
 originalUrl: "https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist"
 webUrl: "https://www.theverge.com/2022/10/31/23433110/george-hotz-comma-ai-step-down-driver-assist"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: The Verge

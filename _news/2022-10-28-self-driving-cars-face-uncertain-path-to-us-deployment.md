@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/self-driving-cars-face-un
 webUrl: "https://www.channelnewsasia.com/business/self-driving-cars-face-uncertain-path-us-deployment-3031621"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,33 +23,6 @@ images:
     width: 1200
     height: 676
     isCached: true
-
-related:
-  - title: "It’s time to admit self-driving cars aren’t going to happen"
-    excerpt: "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible."
-    publishedDateTime: 2022-10-27T17:53:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/"
-    ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864"
-        width: 1200
-        height: 864
-        isCached: true
-  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
-    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
-    publishedDateTime: 2022-10-28T16:18:00Z
-    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 4
 
 secured: "NRiRybjwACSFFrcEP8IBYU8u57/Enh6u/6PinVZWxx+zZ2J+8i0ZAUv5/zU/6c5jSFB1cfYTpCjd8ZqfwQbxfnZoU7W6Zk8sYLYqtzRGodEjfhXIu9UxpMHf18C0gkkwhaFgBZ10RFGMl0Yq7e6z966R1P+yzJHAac2H6ZRzgKAIkfgIKwLFUz4keTYJCRiugAFiMPjY+8WkCf2drhdQ2v74hyegS1xJ5S4AbRZQI0kvXa2VVq5H1np5U56+0V4nyUakwbILsBSGPTzJ0QeBY/9LCUCiOICauSDBwZKyN5ZeHxQxETT598EPtbNaWC57BFzPlFn4wf1rJgo3/HDr9a6Z8k76ZOWW5ouU+my2sFw=;j18iTBiRpREElGSl5ebvSQ=="
 ---

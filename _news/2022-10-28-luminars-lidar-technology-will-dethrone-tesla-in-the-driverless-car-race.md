@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
+    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
+    publishedDateTime: 2022-10-27T08:44:00Z
+    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
     excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."
     publishedDateTime: 2022-10-28T04:25:00Z
@@ -122,6 +136,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
+    publishedDateTime: 2022-10-31T18:38:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "UfRqS9pMGBWh9PuPIbrBHfnyA5I/+VtegohvFaE59s6R4hy1yfVTUBJy2Wr+toTx99l0ZZHk8lGNPg/ikl0AqR6D2RDZFZhzS2ikkKDHaPztLm+fpf79+VXMo2tMxjynUkE0D6E1afdNMlNP1zUni5oR5l2WszmI1h9l/gF3+fDaO+5h1AtbfX/+0T1iUa0+F88K+NSmbV6AEw2ADX9IMcZYz7CwvB+A6WHZ4OPhD4JhiTLz4OevvhmInHpbVkyjHTBRRO37dMCRe5z6L7cSHkXS5uZS/5hA2Uet4qb5e7iPJK2ECeLp+Ckm6j9P+MpanjlsBT495HUCeiH1VyKeAREwWks/bvihrSC41GVmoiA=;u8ip33xXjMZY1+0OWCCw9Q=="
 ---

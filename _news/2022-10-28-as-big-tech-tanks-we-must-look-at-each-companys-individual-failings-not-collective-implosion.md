@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-28T04:05:00Z
 originalUrl: "https://www.cnbctv18.com/technology/apple-earnings-as-big-tech-tanks-we-must-look-at-each-companys-individual-failings-not-collective-implosion-15029691.htm"
 webUrl: "https://www.cnbctv18.com/technology/apple-earnings-as-big-tech-tanks-we-must-look-at-each-companys-individual-failings-not-collective-implosion-15029691.htm"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: cnbctv18

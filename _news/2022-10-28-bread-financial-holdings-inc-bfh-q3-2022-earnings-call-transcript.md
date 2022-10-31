@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T17:35:00Z
 originalUrl: "https://seekingalpha.com/article/4549957-bread-financial-holdings-inc-bfh-q3-2022-earnings-call-transcript"
 webUrl: "https://seekingalpha.com/article/4549957-bread-financial-holdings-inc-bfh-q3-2022-earnings-call-transcript"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Seeking Alpha

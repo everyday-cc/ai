@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T19:56:00Z
 originalUrl: "https://www.engadget.com/best-robot-vacuums-130010426.html?src=rss&ref=upstract.com"
 webUrl: "https://www.engadget.com/best-robot-vacuums-130010426.html?src=rss&ref=upstract.com"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Engadget

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T19:23:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/273016427/melanoma-survivors-might-be-identified-using-an-artificial-intelligence-technique-study"
 webUrl: "https://www.bignewsnetwork.com/news/273016427/melanoma-survivors-might-be-identified-using-an-artificial-intelligence-technique-study"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Big News Network.com

@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T18:20:00Z
 originalUrl: "https://phys.org/news/2022-10-ai-microneedle-patches-hair-balding.html"
 webUrl: "https://phys.org/news/2022-10-ai-microneedle-patches-hair-balding.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Phys.org

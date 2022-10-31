@@ -150,6 +150,108 @@
       ]
     },
     {
+      "path": "_news/2022-10-25-envestnet-data-analytics-plans-to-enhance-access-to-financial-data-improve-financial-wellness.md",
+      "title": "Envestnet Data & Analytics Plans to Enhance Access to Financial Data, Improve Financial Wellness",
+      "excerpt": "Envestnet seeks to make it easier for customers to connect, grow, protect and manage the financial wellness of their business all in one place.",
+      "sourceUrl": null,
+      "webUrl": "https://www.planadviser.com/envestnet-data-analytics-plans-enhance-access-financial-data-improve-financial-wellness/",
+      "originalUrl": "https://www.planadviser.com/envestnet-data-analytics-plans-enhance-access-financial-data-improve-financial-wellness/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T14:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "planadviser.com",
+        "domain": "planadviser.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
+      "title": "BICS launches Communications Platform as a Service",
+      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-signifyd-launches-fearless-payments-a-new-optimization-solution-to-propel-the-digital-transformation-of-payment-service-providers.md",
+      "title": "Signifyd Launches Fearless Payments, a New Optimization Solution to Propel the Digital Transformation of Payment Service Providers",
+      "excerpt": "Signifyd, the leading digital commerce protection provider, today launched Fearless Payments for payment providers, a suite of innovative solutions that empowers payment service providers (PSPs) to significantly increase authorization rates while lowering their operating costs and providing their customers with a full financial guarantee against all types of chargebacks.",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
+      "originalUrl": "https://financialit.net/news/payments/signifyd-launches-fearless-payments-new-optimization-solution-propel-digital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T22:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-cloud-ai-in-fintech-market-current-scenario-and-future-prospects.md",
       "title": "Cloud AI in Fintech Market Current Scenario and Future Prospects",
       "excerpt": "The Cloud AI in Fintech Market Report provides Insightful qualitative and quantitative information along with an",
@@ -243,6 +345,40 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-cujo-ai-launches-explorer-first-ai-powered-device-intelligence-as-a-service.md",
+      "title": "CUJO AI Launches Explorer, First AI-powered Device Intelligence as a Service",
+      "excerpt": "CUJO AI, a global leader in cybersecurity and network intelligence solutions for network service providers (NSPs), today announced that Explorer, the AI-powered network intelligence solution, is available as a stand-alone Device Intelligence as a Service,",
+      "sourceUrl": null,
+      "webUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "originalUrl": "https://it.tmcnet.com/news/2022/10/18/9694211.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T06:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
       ]
     },
     {
@@ -1171,199 +1307,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel.md",
-      "title": "Future of AI in Fintech Market – A comprehensive study by Key Players: Microsoft, IBM, Intel",
-      "excerpt": "The latest study released on the Global AI in Fintech Market by AMA Research evaluates market size, trend, and forecast to 2027. The AI in Fintech market study covers significant research data and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/future-of-ai-in-fintech-market-a-comprehensive-study-by-key-players-microsoft-ibm-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/Online-privacy-Meta-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-03-john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural-language.md",
-      "title": "John Snow Labs Announces Finance NLP and Legal NLP, Bringing State-of-the-Art Natural Language ...",
-      "excerpt": "John Snow Labs, the healthcare AI and NLP company and developer of the Spark NLP library, today announced the launch of two",
-      "sourceUrl": null,
-      "webUrl": "https://www.bakersfield.com/ap/news/john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural/article_f39d4d6d-7628-5e2f-8fa5-6a6ce8fa5f16.html",
-      "originalUrl": "https://www.bakersfield.com/ap/news/john-snow-labs-announces-finance-nlp-and-legal-nlp-bringing-state-of-the-art-natural/article_f39d4d6d-7628-5e2f-8fa5-6a6ce8fa5f16.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-03T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Bakersfield Californian",
-        "domain": "bakersfield.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-why-ai-is-the-next-step-in-digitization-of-the-finance-sector.md",
-      "title": "Why AI Is the Next Step In Digitization Of the Finance Sector",
-      "excerpt": "And this is merely the start. As we move to the next frontier of technological discovery, and research and development, let us delve into the role of AI in disrupting the financial sector ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
-      "originalUrl": "https://www.entrepreneur.com/en-in/technology/why-ai-is-the-next-step-in-digitization-of-the-finance/436277",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1664428624-Myproject-196.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T16:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-us-fintech-synapse-expands-in-brazil-looks-to-latam-india-ceo.md",
-      "title": "U.S. fintech Synapse expands in Brazil, looks to Latam, India- CEO",
-      "excerpt": "SAO PAULO, Sept 29 (Reuters) - U.S. fintech Synapse is close to reaching ... faced one question at the company's 'AI Day' event on Friday that momentarily stumped him. Technology Robinhood to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "originalUrl": "https://www.reuters.com/technology/us-fintech-synapse-expands-brazil-looks-latam-india-ceo-2022-09-29/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=114",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

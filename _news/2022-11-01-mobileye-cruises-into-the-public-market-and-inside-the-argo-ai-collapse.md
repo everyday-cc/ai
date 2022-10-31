@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T17:18:00Z
 originalUrl: "https://techcrunch.com/2022/10/31/mobileye-cruises-into-the-public-market-and-inside-the-argo-ai-collapse/"
 webUrl: "https://techcrunch.com/2022/10/31/mobileye-cruises-into-the-public-market-and-inside-the-argo-ai-collapse/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: TechCrunch

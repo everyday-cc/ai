@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-30T22:19:00Z
 originalUrl: "https://www.techradar.com/news/thousandeyes-the-x-ray-machine-of-the-internet"
 webUrl: "https://www.techradar.com/news/thousandeyes-the-x-ray-machine-of-the-internet"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: TechRadar

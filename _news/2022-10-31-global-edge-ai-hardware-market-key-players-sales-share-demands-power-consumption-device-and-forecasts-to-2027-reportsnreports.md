@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T12:00:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/global-edge-ai-hardware-market-key-players-sales-share-demands-power-consumption-device-and-forecasts-to-2027---reportsnreports-301663254.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/global-edge-ai-hardware-market-key-players-sales-share-demands-power-consumption-device-and-forecasts-to-2027---reportsnreports-301663254.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: PR Newswire

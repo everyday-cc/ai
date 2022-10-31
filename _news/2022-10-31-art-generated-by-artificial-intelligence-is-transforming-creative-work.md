@@ -22,21 +22,21 @@ topics:
   - AI in Autos
 
 related:
-  - title: "Transformation of digital marketing due to AI"
-    excerpt: "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online."
-    publishedDateTime: 2022-10-30T04:30:00Z
-    webUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/"
-    ampWebUrl: "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/"
+  - title: "Digital assets marketplace Creative Fabrica launches generative AI tool"
+    excerpt: "Like other digital assets on the platform, users can put up their generative AI files for paid use by other members, which Creative Fabrica says makes it the first generative AI that also allows creators to make money."
+    publishedDateTime: 2022-10-31T20:32:00Z
+    webUrl: "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/"
+    ampWebUrl: "https://techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/31/digital-assets-marketplace-creative-fabrica-launches-generative-ai-tool/amp/"
     type: article
     provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 76
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 87
     images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg"
+      - url: "https://techcrunch.com/wp-content/uploads/2022/10/Spark-preview.jpeg?resize=1200,720"
         width: 1200
-        height: 675
+        height: 720
         isCached: true
 
 secured: "+FXDzXPwHXQLxD3UwYPC0AmCl4zhXwgjIYZ8iOptGhGfwOEctRVPl+nXq7H3XAKa1JcCr/nM+l0N1XbCAYytELltut/onjy3lJfYT146DtXkYgTXMwc2G4rsbRUFOn1gbtRpHd3rrjfvniq/cV1FYQsXJSyW0mB5G+q9XUY2n5lUcNkt5Mtpc36TigHoG+oNyjuiZEauTVjFbJPSBwQ4AHs5vuUDH8IjcGOMaEAiqtnr7LO/oSzYkcJPqBpKm5YtOVQ658cBkFC+g8CPobp+Sx/4QFJPxW4/SRYWJT6/IiOg9/o34H9pkqdsQNtUwkALTUD7PwFLiyNqKEMwxXO3woz/1EkCBNi2aFjWtw3eO0ssPSW/5+0YuOxbiJJXnFUNr988yJtswiEDsmZgkTXH/kidP9BTlT+qaGVC6wLNCq4mKP3o6kwi0CUXGY77pVM9zKtpCJUjw3dof456FYgj28++IBFK0JpgvybGVoAQ4zB68bv3ueQJedKgRQ+UN/4BmAMl7IJMnjtlRYK3g9VGWw==;qOqBzEVLaHj4a2RYZL/AAQ=="

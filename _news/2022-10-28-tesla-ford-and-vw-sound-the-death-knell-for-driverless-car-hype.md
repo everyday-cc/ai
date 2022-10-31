@@ -62,6 +62,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
+    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
+    publishedDateTime: 2022-10-27T08:44:00Z
+    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
+        width: 333
+        height: 250
+        isCached: true
   - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
     excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
     publishedDateTime: 2022-10-28T09:35:00Z
@@ -119,6 +133,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
+    publishedDateTime: 2022-10-31T18:38:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "uYJ5pqkS6a78vbc27d+Fkyoeogsxgt5AnOMN1DnsUKRG2KUubfVmpZFWuOytOORna/zg6axBuFK49i/u/FRaMqLxxGMGifqkn2RJqTdTF1RG8j2Shl6HKE78mWjciRl/A8vdsdI5u01HeBJKT4I6iTg9458cutCaKsHK9tH9URxTLfZVTJpLesjB7rIB3nW9pYMLih225t5ktfbqIJN1apcWn1/TH4mA0ZjC/xWdUG/fmf8C9GPmj6IAby3sg4MMO6tMLhKx1rClbUSsEBz4Hk5JOx8z+h3ReXRhBfjsNEIl/62QcShRur6qNWUFioU0+FH28k5vRCV2xQ6ekLDrDGhzPaBLCt5ZyFMMwoDpEMg=;XmbOFQiZtC3/vyWf854uXw=="
 ---

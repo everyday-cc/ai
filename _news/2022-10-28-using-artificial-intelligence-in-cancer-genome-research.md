@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/"
 type: article
 quality: 91
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -30,6 +30,24 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "University at Buffalo's Robot Dog Contributes to AI Research"
+    excerpt: "A yellow quadrupedal robot nicknamed Yubie, branded Spot the Agile Mobile Robot, is wandering around campus helping researchers study robotics, computer science, artificial intelligence and other high-tech fields."
+    publishedDateTime: 2022-10-31T21:23:00Z
+    webUrl: "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research"
+    ampWebUrl: "https://www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/higher-ed/university-at-buffalos-robot-dog-contributes-to-ai-research?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 76
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/3d04f07/2147483647/strip/true/crop/1000x521+0+72/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F37%2F94%2F85761bbc4a8e928c7748a81f7fd6%2Fspot.png"
+        width: 840
+        height: 438
+        isCached: true
 
 secured: "vPyjgw8Xze2XUV0ftaC7HTm8l7cLKyMUTJHBp9xG4Za1jjmNxZGDqmpzgiivedSKEtVhboIaTYkqNzw+UlH0XObLCKkMoFZvQt7LQAqHN27L1OfFe/LLpOAdf5z/DSf4PfJWlr35GF/8nKqEVo9dptiL8hA9BOJ6YP+Pkw+zVjoYqP+yDGRVl5kioSYUTWANnYWVO4Qk3RDeuWDWh/HfQiFzvrQczXIJ3FvQXY20AbP9DMF+xqgFP6d9tbwaZPkmBxarA9msRbJkTdcnSmecBUkZWdsbo8Nlkq/ivLq8jrTrbHHEc91ZgpIwWSXlw/xu50krwUaomQe0xm8XVnEAi+4B8+blkwBrOmg5GHULhSHo0yg38pm4AzKKtB/yd4Vnlu6aIAlygdvqRaUYAGGJ7O4NIgI4qqZcYFv51LfewX0O8B6f5WL1JSPZjYsvDa57teXXZilFKkagDjy+saG1NJySkl7VyXNY0pvr6K0zQaQJVEPwBS5nxJBsbOLt05tRSwb/gliYUywqd80qTZhxgw==;SVmgI3k5RVdSSkDZ3FhkJg=="
 ---

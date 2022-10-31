@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T18:14:00Z
 originalUrl: "https://www.therobotreport.com/amazon-testing-robots-to-transport-oversized-items-in-fulfillment-centers/"
 webUrl: "https://www.therobotreport.com/amazon-testing-robots-to-transport-oversized-items-in-fulfillment-centers/"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: The Robot Report

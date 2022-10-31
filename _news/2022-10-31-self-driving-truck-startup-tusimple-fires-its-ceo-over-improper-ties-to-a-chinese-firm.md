@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-inv
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
 type: article
 quality: 66
-heat: 86
+heat: 96
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
+    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
+    publishedDateTime: 2022-10-31T20:43:00Z
+    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://images.mktw.net/im-655659/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Self-Driving Truck Firm Sacks CEO"
     excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
     publishedDateTime: 2022-10-31T15:09:00Z

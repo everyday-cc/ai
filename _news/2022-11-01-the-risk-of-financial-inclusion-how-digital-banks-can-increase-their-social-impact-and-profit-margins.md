@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T17:36:00Z
 originalUrl: "https://www.globalbankingandfinance.com/the-risk-of-financial-inclusion-how-digital-banks-can-increase-their-social-impact-and-profit-margins/"
 webUrl: "https://www.globalbankingandfinance.com/the-risk-of-financial-inclusion-how-digital-banks-can-increase-their-social-impact-and-profit-margins/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: List of Banks in Belarus

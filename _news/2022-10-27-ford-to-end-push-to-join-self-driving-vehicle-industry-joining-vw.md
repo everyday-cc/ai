@@ -9,7 +9,7 @@ ampWebUrl: "https://www.kjrh.com/news/national/ford-to-end-push-to-join-self-dri
 cdnAmpWebUrl: "https://www-kjrh-com.cdn.ampproject.org/c/s/www.kjrh.com/news/national/ford-to-end-push-to-join-self-driving-vehicle-industry-joining-vw?_amp=true"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,42 +27,64 @@ images:
     isCached: true
 
 related:
-  - title: "Spratlin helping define future of self-driving vehicles"
-    excerpt: "As a child growing up in Bruce, Art Spratlin wanted to be a truck driver. Instead, he is leading the charge to create laws governing self-driving vehicles, including trucks, on"
-    publishedDateTime: 2022-10-28T08:00:00Z
-    webUrl: "https://www.djournal.com/mbj/spratlin-helping-define-future-of-self-driving-vehicles/article_2e16d7c4-a4fd-5d56-b734-e0db57af728f.html"
+  - title: "Ford, VW Shut Down Argo AI: Self-Driving Cars Expensive, Years Away"
+    excerpt: "A reminder: there are no self-driving (Level 4) cars for sale in the U.S. And Ford has decided that getting robotaxis or other fully automated vehicles on the road, in numbers that make it profitable,"
+    publishedDateTime: 2022-10-27T17:01:00Z
+    webUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/"
+    ampWebUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
     type: article
     provider:
-      name: Daily Journal
-      domain: djournal.com
-    quality: 24
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/5a/05ad6f8c-867d-591c-8b94-2a8e28038805/635943b668746.image.jpg?crop=1500%2C788%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://www.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Study Finds Drivers Treat Partially Automated Vehicles as Self-Driving"
-    excerpt: "According to IIHS, regular users of Super Cruise, ProPILOT Assist, and Autopilot said they were more likely to perform non-driving-related activities like eating or texting while using their semi-autonomous systems than when driving unassisted."
-    publishedDateTime: 2022-10-31T16:10:00Z
-    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21253740/electronic-design-study-finds-drivers-treat-partially-automated-vehicles-as-selfdriving"
+  - title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
+    excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
+    publishedDateTime: 2022-10-31T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
     type: article
     provider:
-      name: Electronic Design
-      domain: electronicdesign.com
-    quality: 24
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
     images:
-      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/10/IIHS_promo_web.635ff0c857681.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
-        width: 1200
-        height: 630
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Japan to open roads to self-driving vehicles in April"
-    excerpt: "Under plans revealed this week, the National Police Agency seeks next April to lift a ban on so-called Level 4 self-driving vehicles, which can operate without a driver under certain conditions.  SoftBank Group-backed Boldly recently announced a partnership with Estonia’s Auve Tech that aims to put Level 4 self-driving buses on Japanese roads by fiscal 2023."
-    publishedDateTime: 2022-10-28T02:43:00Z
-    webUrl: "https://www.freemalaysiatoday.com/category/business/2022/10/28/japan-to-open-roads-to-self-driving-vehicles-in-april/"
+  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
+    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
+    publishedDateTime: 2022-10-28T00:04:00Z
+    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
+    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
     type: article
     provider:
-      name: Free Malaysia Today
-      domain: freemalaysiatoday.com
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 37
+  - title: "Argo AI Autonomous Vehicle Startup Backed by Ford and VW is Closing Down"
+    excerpt: "Argo, the autonomous driving startup backed by Ford and VW, is shutting down after five years as it failed to develop marketable L4 tech."
+    publishedDateTime: 2022-10-27T13:31:00Z
+    webUrl: "https://www.business2community.com/tech-news/argo-ai-autonomous-vehicle-startup-backed-by-ford-and-vw-is-closing-down-02566064"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 16
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T16:18:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
     quality: 4
 
 secured: "JQdeTdMYXKEz84KrroWRLqhFebrEDsDImv0DdIXrXnAcgFHdpkWoLoguO/g7AE+d3OcE5YHuGJpAxduBKtGGcy4zq3D/FfaKCvLuJol1uBfOBxPkf2iauK8BbKblCzfTwIZwP8JIXSt7AFkqSoKGZoiyN40UKqhhdy00O2U/W2SQzp5lI7i7507fnAaKoHcFV4Jl5l8ejUTJPVbpm95vKzEVtIal698rgc5HKd+uqOz6mywqqbEiMcxkOmoYUyCRrc+6zfsMPEBaTVeQsf2YvUUmM500/8YAWmu/G+DSuSaBTq60f6E5+VuY7XD92eAKgdEmn0z9mYxh/k8T/XJy8hJAuOYef5jHE6m5TkF4mfy5hWFWZKmIZzeq9s3y/pRXFTfVn4+01AHwuE5eOCRFNm67iJ/sN57FQFhVGTxAqJe036rdM5kVBe/brl28MwFhJSPhXDI0yw7pYWHfZCPruT4AzDthe4aUr6hP2QnP00s2T09DHDPMcQ8uWTfJ2xmF4AcfylyPCTqaq03Alp9xLg==;+HL/wf7ikscyzh+AEn+ksg=="

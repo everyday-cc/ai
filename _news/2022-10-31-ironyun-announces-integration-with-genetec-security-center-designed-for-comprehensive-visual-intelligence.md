@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T14:02:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29480556/ironyun-announces-integration-with-genetec-security-center-designed-for-comprehensive-visual-intel"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29480556/ironyun-announces-integration-with-genetec-security-center-designed-for-comprehensive-visual-intel"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Benzinga.com

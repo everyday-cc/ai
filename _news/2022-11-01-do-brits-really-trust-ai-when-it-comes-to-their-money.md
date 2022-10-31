@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-31T17:12:00Z
 originalUrl: "https://www.globalbankingandfinance.com/do-brits-really-trust-ai-when-it-comes-to-their-money/"
 webUrl: "https://www.globalbankingandfinance.com/do-brits-really-trust-ai-when-it-comes-to-their-money/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: List of Banks in Belarus

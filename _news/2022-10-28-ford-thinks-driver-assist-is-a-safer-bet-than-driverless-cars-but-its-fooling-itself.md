@@ -52,6 +52,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
+  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
+    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
+    publishedDateTime: 2022-10-27T08:44:00Z
+    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
+    type: article
+    provider:
+      name: Mena FN
+      domain: menafn.com
+    quality: 54
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
+        width: 333
+        height: 250
+        isCached: true
   - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
     excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."
     publishedDateTime: 2022-10-28T04:25:00Z
@@ -123,6 +137,15 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
+    publishedDateTime: 2022-10-31T18:38:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "fvJlOybxhGj9SjQZ3ZEQ0t8mdLgNoXZXJ+wEkKtjmkH/AnO/Y/MB9muZ5PmuJQNEQ6PEn2WjiZu/xegT+OKwJZpozRYayef0+3Lf/tak5jSKXwpAguWoAcu/fZgisHEKL+WV3hi5j1XcQ64bBvjHSaXZaEwgHtVqJ3wI60uU3a7whD7KEbvJYO6tGsjIENWd6CNWyrj97w3kjAVC/uUDXdH6l3d7qsqv+JdU1S7hEYXIHKSstYHk9IC1ImDja97iFeE7ByuXVC4BUxp/Q3FT7KfK5kqeylB/DJZ+Tsso77vgFLzmwa8F8kIzhkudFDD56nUqbEncjcMA805U63GkVFuhU8jM9Biu2sJWUwgLWMc=;X+MgaSHrY0ySfsRdXvI/2Q=="
 ---
