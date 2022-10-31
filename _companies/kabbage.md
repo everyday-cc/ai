@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "KabbageInc"
   url: "https://twitter.com/KabbageInc"
-  followers: 26363
+  followers: 26360
 
 size: 501-1,000 employees
 yearFounded: 2009
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=VnqoE8kOHkI"
 
-secured: "PKaFJQpaBaRWZI9Y3o2JhNCBDbDGNRjVOwEmKV0VUcHwiD1JWqHZx5d0yiamaehztrjdXDbf4RcMhUoV+s/F+FrHXiC0ZAJJIxGEVQ43Vf2JaKtF5AXhdROjyaCHsvaz0al7go0i0LJQOxVLDFru2UVJQpoVbNifjZa7hmOPoQCcZawf6Gk9Mkdy6qXd6XvrkCLyTpPBmzkMLiN4/k0yX5znwtmPXNVRx2elxMkfgs8vW/I2hX6wyLCCB9064EVi14TEO/6XuDOUD/4+TA4c+MpCRd9Iarogr9v7m/jBhWvosUKafLAopQdg3V7dK9+fMPoqgROwCDsJCT8HrZRvyjsBVnLNZqcB53CLK3UBSstR+zp6iSJcL87vM/LGt4MTI7lI8Z2CeKUcW4daaaDp1C6d/lLSkks5oWGUHUOIakE=;ktY1M/c8fL0w6/AQk7Lx1g=="
+secured: "BUvrnhZKxFJkm+yTVzKUciUiRAkywEhE7FKy6SWki5E8EAael0Dp8GIzZonKh3Wrvo5n/D/IU3CXKnyVjF4dglGxgC6ne2/jjWp5u8URiO6aeZLKCAi+fb6g2Nh0wJnjHeeajz8+6XqHCz2/S2BLSVxxAP4lY3ZYKU2CG2fQG3dK2TP0n/AhhQ2Sj1l6Md8Opju3sbYkx44BdqDCRYXmUYWWZLXxovbS7UuOaNzEXbg/8OhFG3cVs2LjUlVfoA9NwZ1u9HMiZRz16vWX07ItIiRJDxcUS5hUV44HJcOUE4zr7GowMKMD42odJWEt9Tdin76rmvTvVz3AcjUiFML4jQQR88AwZK2msytL9zWq5zLq/GFh+1QOviCChcje+EBVLu+7pnp5/ONsn7E2vXPRkdI9NflK7cfvgVjS6wv73cQ=;Kk4UIII4dVakZtHvNnnbgg=="
 ---
 
