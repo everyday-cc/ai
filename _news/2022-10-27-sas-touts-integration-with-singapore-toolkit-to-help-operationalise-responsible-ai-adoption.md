@@ -23,6 +23,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Finance
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/fb5d937bda4a0add98c55c4d83a064cc4fd29811/2019/02/18/1709eb9b-7165-48ee-a67b-dca0ccd50a24/artificial-intelligence.jpg?auto=webp&fit=crop&height=675&width=1200"
