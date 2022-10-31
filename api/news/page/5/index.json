@@ -2,6 +2,57 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-24-fact-check-did-ai-predict-humans-evolving-into-cyborgs-in-viral-video.md",
+      "title": "Fact Check: Did AI Predict Humans Evolving into Cyborgs in Viral Video?",
+      "excerpt": "Artist Fabio Comparelli responded to the social media hype surrounding his work, which some claim showed the demise of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "originalUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2138844/evolution-ai.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "publishedDateTime": "2022-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-one-in-10-older-americans-has-dementia.md",
       "title": "One in 10 older Americans has dementia",
       "excerpt": "cognitive impairment is projected to increase significantly over the next few decades, affecting individuals, families, and programs that provide care and services for people with dementia ...",
@@ -524,19 +575,19 @@
     {
       "path": "_news/2022-10-24-lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network.md",
       "title": "Lunit partners with SEHA to test AI-based radiology via UAE's largest healthcare network",
-      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year; SEOUL, South Korea, Oct. 24, 2022 /P",
+      "excerpt": "Under the terms of the partnership, Lunit will collaborate with SEHA to conduct an evaluation trial of its AI-based radiology later this year SEOUL, South Korea, Oct. 24, 2022 /PRNewswire/ -- Lunit (KRX: 328130.",
       "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/24/9697778.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/24/9697778.htm",
+      "webUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/lunit-partners-with-seha-to-test-ai-based-radiology-via-uaes-largest-healthcare-network-2022-10-24",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1927497/Lunit_SEHA_officials_attend_a_collaboration_agreement_signing_ceremony_Lunit_s.jpg",
-          "width": 400,
-          "height": 280,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -546,12 +597,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T23:23:00-07:00",
+      "publishedDateTime": "2022-10-23T22:46:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1097,57 +1157,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
-      "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
-      "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "originalUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-614597",
-          "width": 1280,
-          "height": 1897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "publishedDateTime": "2022-10-22T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -2,27 +2,29 @@
 category: news
 title: "Startups: Of artificial intelligence and unreal impact"
 excerpt: "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,"
-publishedDateTime: 2022-10-31T08:21:00Z
-originalUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
-webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
-ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
-cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
+publishedDateTime: 2022-10-31T07:44:00Z
+originalUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/"
+webUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/"
+ampWebUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
 type: article
-quality: 57
+quality: 61
 heat: -1
 published: false
 
 provider:
-  name: cio.economictimes.indiatimes
-  domain: indiatimes.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
+  - AI in Robotics
   - AI
+  - AI in Healthcare
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-95199332,imgsize-41512,width-1200,height-628,overlay-etcio/startups-of-artificial-intelligence-and-unreal-impact.jpg"
-    width: 1200
-    height: 628
+  - url: "https://static.theprint.in/wp-content/uploads/2022/10/ANI-20221031070740.jpg"
+    width: 600
+    height: 450
     isCached: true
 
 related:
@@ -50,6 +52,6 @@ related:
       domain: itp.net
     quality: 19
 
-secured: "TxTdYoV9ipbR9eoA3pnmXtATya8+QzzngB8YOoNTR1ERu2QRcOITdFg2M84Kqcx17PaX28C65E3GwxjNuVKXFH7+QXLibGpTEdVGOoATb/cyYglCDHLMqH8Vf7BfpKGuIfgrbh/oZ4RIm/lvDavo1cyvOm1SOXgSUyyWW3ae0geEExNovO4pKAXDOECIAIVwyINAzYSNVvtZSW7Bq4MtbPgHizT04UXKBCHRrIdEBzR9hg/gCRkmRAK5KeulJGbqo0KX7CXf1e4faPbNbDbtTHs6s0JuseyjB3mcNivwk/j6hqto+G6+xKtp+63qFu/eVUVm9Wu+s8D/42K36Z7x3j/TKdYAkdcSQ3htOOCgXYI=;mmVnR5s0fmL+kIwh7VzHlg=="
+secured: "w8jYAxFFWMaYeYJZ/9Xz77gBaFJ+IkFyNbL3GdkGf9nh69/4xaNW9tptwQtcXBLoGboJQtBQN17/L99tJiUD/HV/jLrgz2aHlb5kBf400nupexNqo1SNL1PNf25fvRPEzAZbSEgD5IQeTqqQDFhtRAeCPOtXHBjv9OMOzRpxo+9jh0IjS8/DKjkkqePJipiefn/1iFmXvYi17c6yNw+ryZYWc7pVzbCmFDuDdioWaWV9OAYEVucjqEoEk0En2MWq7VoX3kv1wuFs3CNgEMaTpDAukNrYfrdn4FUBRslpA88mK5iNZKCI8UAiyyum04/cR0FdwdG38SOzk/vtCn952ka6/OW6pHxiw3rTHcY6wm8=;X5S5ddq95mTuq+8QydsOSg=="
 ---
 

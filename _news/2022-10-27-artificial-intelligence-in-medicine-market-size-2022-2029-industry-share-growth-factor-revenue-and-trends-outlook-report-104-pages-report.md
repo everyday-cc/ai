@@ -99,20 +99,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Traffic Sign Recognition System Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
-    excerpt: "The report is an excellent resource for understanding the current state of the Traffic Sign Recognition System market and the upcoming trends responsible for driving or challenging the market. The market players will benefit from this report's recommendations on how to plan their strategies to take advantage of the future market trends presented in the report."
-    publishedDateTime: 2022-10-26T18:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Translation Market Research Report 2022, Market Segmentation, Competition, Supply and demand Forecast, and Business Trends from 2022 to 2028."
     excerpt: "The \" AI Translation Market \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries, key executives' biographies, and key rivals 2022 to 2028."
     publishedDateTime: 2022-10-27T19:30:00Z

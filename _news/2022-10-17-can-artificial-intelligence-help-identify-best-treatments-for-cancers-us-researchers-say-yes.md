@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
 
 images:
   - url: "https://apicms.thestar.com.my/uploads/images/2022/10/16/1779044.jpg"

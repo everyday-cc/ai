@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-31-ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it.md",
+      "title": "AI Will Impact The Labor Market, But Workers Should Embrace The Technology, Not Fear It",
+      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. The debate about whether artificial intelligence (AI) might displace human workers in the future has been going on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/60f57eee4bedb44f6caa1ed1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/31/ai-will-impact-the-labor-market-but-workers-should-embrace-the-technology-not-fear-it/amp/",
+      "publishedDateTime": "2022-10-31T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.md",
       "title": "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration",
       "excerpt": "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now.",
@@ -202,7 +253,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -254,7 +305,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -305,7 +356,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 93,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -357,7 +408,7 @@
       "originalUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -954,7 +1005,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 209,
+      "heat": 219,
       "tags": null,
       "images": [
         {
@@ -1006,7 +1057,7 @@
       "originalUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 139,
+      "heat": 140,
       "tags": null,
       "images": [
         {
@@ -1094,7 +1145,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -1146,7 +1197,7 @@
       "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1186,58 +1237,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
-      "title": "It’s time to admit self-driving cars aren’t going to happen",
-      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "publishedDateTime": "2022-10-27T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

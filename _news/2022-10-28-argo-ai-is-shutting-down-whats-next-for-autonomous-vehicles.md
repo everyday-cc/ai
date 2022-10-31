@@ -394,6 +394,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
+    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
+    publishedDateTime: 2022-10-28T00:04:00Z
+    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
+    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 37
   - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
     excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
     publishedDateTime: 2022-10-28T19:10:00Z

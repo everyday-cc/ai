@@ -6,7 +6,7 @@ publishedDateTime: 2022-10-31T04:00:00Z
 originalUrl: "https://www.fastcompany.com/90801956/in-texas-facial-recognition-is-becoming-a-way-of-life"
 webUrl: "https://www.fastcompany.com/90801956/in-texas-facial-recognition-is-becoming-a-way-of-life"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 related:
   - title: "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos"

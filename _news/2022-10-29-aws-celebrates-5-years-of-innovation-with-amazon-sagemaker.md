@@ -42,15 +42,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 79
-  - title: "Amazon SageMaker Automatic Model Tuning now supports grid search"
-    excerpt: "Today Amazon SageMaker announced the support of Grid search for automatic model tuning, providing users with an additional strategy to find the best hyperparameter configuration for your model. Amazon SageMaker automatic model tuning finds the best version of a model by running many training jobs on"
-    publishedDateTime: 2022-10-26T18:51:17Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-grid-search/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
   - title: "Machine learning (ML) use in the cloud is growing thanks to Amazon SageMaker"
     excerpt: "Since its inception five years ago, Amazon SageMaker has grown to become one of the most popular machine learning (ML) services available. In 2017, Sagemaker was a standalone service meant to facilitate ML model training in the cloud for businesses."
     publishedDateTime: 2022-10-29T18:00:00Z
@@ -65,15 +56,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "AWS Celebrates 5 Years of Amazon SageMaker"
-    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of"
-    publishedDateTime: 2022-10-26T18:29:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-celebrates-5-years-of-amazon-sagemaker/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 34
 
 secured: "Jt00fzRGFXJHJpbsXuKS1A/mqXjwdceOG0keOZsnj9i4xM/+857uGSo27w1OyPkgT7k2OnWrehO/6G/wZV/sQcjo+pIhlJJ5vpEBCPPM5TwJc6otwwriDiUKANlnYN2yKo3Xly3fbFG6vIw2kE9O9tVCS79S98+jwLfmvxx6wp7T6zMuPSck0AFBxNOeF/mFxFFEeC1TO4869BMoxALOaLCyS8y09rivKGyNR2XY2g2a2CRYMNEeNcA1Y5JJhjkmQvzBFGq3PpOeC640vb0wALzv2BSt6qrsS8zeNTWkEX7WehlFiIjR7WRdzexoKE2Jw3afWf6xPyrjSI4xQw53KMPlG7Bni34zL7iw/HcUb74=;TrxyET6qIFa0Xsgy4gS/1A=="
 ---

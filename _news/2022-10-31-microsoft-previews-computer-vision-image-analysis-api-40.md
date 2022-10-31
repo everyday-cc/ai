@@ -3,8 +3,8 @@ category: news
 title: "Microsoft Previews Computer Vision Image Analysis API 4.0"
 excerpt: "Microsoft announced the public preview of a new version of the Computer Vision Image Analysis API, making all visual image features ranging from Optical Character Recognition (OCR) to object detection available through a single endpoint."
 publishedDateTime: 2022-10-31T09:40:00Z
-originalUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/?topicPageSponsorship=683c35f6-7de9-430e-90d8-6ed1298f5a00"
-webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/?topicPageSponsorship=683c35f6-7de9-430e-90d8-6ed1298f5a00"
+originalUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
+webUrl: "https://www.infoq.com/news/2022/10/azure-computer-vision-api/"
 type: article
 quality: 56
 heat: -1
@@ -41,6 +41,6 @@ related:
         height: 450
         isCached: true
 
-secured: "BxwZmqsUF2+CbOlwUrVwsQXcIFXdQzYZfV7b8nHehwiCq1mIDX4STyao6jmdbE79dUtMOZYnIuGDlVNbEEkhCeiEZ1ZSjIg/6jyXjR/PjRpLM5FpH9jl75rkgHX2wKZrJE11WUYdj5cTy2E28YG893CjXHbvmoZj8c089Qh0hc84QUY+4HQfUiCbg8R+jLwr7+g9ltGwufancoqgj3q5ycHg5VnzthtiSV2+EfXBz9hNF0nXhvfDxya7XkIVuEdaCpkDzSWDJQkhALFITEs89RrKHUPzXe+u4ivebVPWk+GEy52zPsZvBeX6hsPG7hEJT8kO7GEpfr7HKEdi0b1+iy3mTSdGJIliJuLkZpFbOH4=;SypKzzy8ganpC/3y50q0gw=="
+secured: "BIgvhfD1Kga71dK8bzVbg9en0BJIX+LX9DpAcRxbzAZNHvybRVECv44oR2fcu/2E2mcNeznS+C2IilHJk6YDHpPrSgwSa/0h2WDUeOdltNbHjw0qKcGjxWM/tskmju4+r+Br0hyyVbaTD2+WIhGvkjCqG6uEmfhJm2u0h+Ko/zTv/IEcrGoHB/Pj1dhS3XZB2N8bMi84RlPmqNwcC5m/KpbpaEpb0SvJOqqnOnhw6bP7DYp9T+kc4fUZZfCEeY/aOw6TTEkU84bwMcjeXd8QlusxHI2YgTFMH+QJnUdZWnzvk7R4pQYJXmYDou7/lCEua1vu13MvsR90bbvbH042+ivRm/BJPn+wWgnUtwaLBQc=;OGV8Gp5pr/eNMLqdRMxJiQ=="
 ---
 

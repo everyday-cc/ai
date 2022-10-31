@@ -8,8 +8,8 @@ webUrl: "https://www.ibtimes.com/chambers-group-flying-high-new-social-media-alg
 ampWebUrl: "https://www.ibtimes.com/chambers-group-flying-high-new-social-media-algorithms-ai-3630003?amp=1"
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/chambers-group-flying-high-new-social-media-algorithms-ai-3630003?amp=1"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://d.ibtimes.com/en/full/3837770/chambers-group.jpg"
@@ -25,6 +26,6 @@ images:
     height: 758
     isCached: true
 
-secured: "aq3E42LcIGbFs8Ox7D9e4nPo7JXVQ5EPvedc/W6jzOOHBIxRBU5DCElCeLvH41xnagyUKRUkLJzLNAGc1lbC/+rS8F2DCUQo8ZXP4KhP9+/sfaHvjwkzHgEHjHaxfh3GHkLHdjljDmor+W8fIoKHc8uQt8l6WaBATy0yGk3VDbIbyXl7exMvBiU0Kw8QQ1VOz7Nml41buitA2f/JQyT74T/h4G2wi2UWblernynnBqrXWg7P7/VJ7aY/TTDAOOMgweIifj/clCvTCDit4G8+OEQQ+P0WLzA9VTRba3PNtQzckU0JfvM0TS7ZtqmG9dqgj92QBAF7FmICmKFIUTi4BvpjxKbUyl3wIlMAIX5nNG0=;4BQHnUWoU8yJC86s/6scjw=="
+secured: "QPfM7Ej5a6QyCa1CVvjYoCjkgjipUva00UAsyMkwKtkm5krb6+LFgYC5XGkUDJe1IR4L9PA45a484en8oosh5Xpz+KqGBRY4ir5SFpW5PzU6qivVPi0vZVwPz2/F8g1YrUUNjFTZ73TcpMgSuxtO7Mc+MnwBUioL6GW+A7fMBeBev8nSUX0YOk9A9GKdEcQfjj94+Ggq79lm0BIqxtCB7GjFXXiB1qduCe1IWkKP3ryKLTJNtbrNdJZLQSKhCPIBlt4Xhi8aICWaNu8ell2QdA3myeMgjvbALCE0vLEHrNTf+7n/i4kR0gKG5T677vZoUGBbJltnvGH6q6uH11hjdcpzEnjoNsl5yXvzPUbLa/kCjlIF6mpPEMItrvA+gMXdyMQJjw0R9tNchWA30sKU2hCZtz7D9NRZ7bzRDzQQJ4P6Yn1SeiobJTA3jYo1ImHXcL7G6vTr3OUQW7EYkQLxVo3UeQX5J4frlG2hLSNRdrgvteR3hSh5BVofucaebtq0n21N6Tw8MXWoi9VwhL+tRA==;/cSJczP5aaU+qdnkbqALew=="
 ---
 

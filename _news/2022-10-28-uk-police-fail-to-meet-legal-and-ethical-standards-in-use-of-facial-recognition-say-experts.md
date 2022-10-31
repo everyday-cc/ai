@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standard
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
 type: article
 quality: 79
-heat: 139
+heat: 140
 published: true
 
 provider:

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/"
 type: article
 quality: 87
-heat: 93
+heat: 90
 published: true
 
 provider:

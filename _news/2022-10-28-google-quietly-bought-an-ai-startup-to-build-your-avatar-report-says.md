@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-sta
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
 type: article
 quality: 89
-heat: 209
+heat: 219
 published: true
 
 provider:
@@ -94,6 +94,22 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/635c5b439b6f0d86a708fd12/0x0.jpg?format=jpg&width=1200"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Google Acquired 'Alter', An Artificial Intelligence Avatar Startup; Details"
+    excerpt: "According to TechCrunch, tech giant Google has acquired 'Alter' – an artificial intelligence (AI) Avatar startup – for about $100 million USD with an intention to amp up its content game and compete with TikTok."
+    publishedDateTime: 2022-10-31T10:38:00Z
+    webUrl: "https://www.thequint.com/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
+    ampWebUrl: "https://www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
+    cdnAmpWebUrl: "https://www-thequint-com.cdn.ampproject.org/c/s/www.thequint.com/amp/story/tech-and-auto/tech-news/google-bought-alter-an-artificial-intelligence-startup-for-100-mn-to-enhance-content-game-and-compete-tik-tok-details-here"
+    type: article
+    provider:
+      name: The Quint
+      domain: thequint.com
+    quality: 70
+    images:
+      - url: "https://images.thequint.com/thequint%2F2022-09%2F3ca83e94-3c18-40a4-a8da-5aac5a3eed86%2F2a253c1258143da0dbcb615b6a8e21da.jpg"
+        width: 400
+        height: 220
         isCached: true
   - title: "Google acquires artificial intelligence (AI) avatar startup for $100 million"
     excerpt: "Google has acquired Alter, an artificial intelligence (AI) avatar startup company. TechCrunch has reported that the tech giant has acquired the compan"

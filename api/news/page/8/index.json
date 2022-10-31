@@ -2,6 +2,50 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-10-21-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-google-photos.md",
+      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Google Photos",
+      "excerpt": "To Google, it does not matter that the three-year-olds, the bystanders, and grandma never consented to Google capturing and recording their biometric data,”",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
+      "publishedDateTime": "2022-10-20T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-improving-the-mapping-of-human-skin-using-models-and-deep-learning.md",
       "title": "Improving the mapping of human skin using models and deep learning",
       "excerpt": "With just a scan of your face and a little basic data, such as height and weight, mathematician Alessio Gallucci can produce a complete body scan. To improve the 3D analysis of our skin he used deep learning techniques.",
@@ -1082,58 +1126,6 @@
         "name": "The Boston Globe",
         "domain": "bostonglobe.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report.md",
-      "title": "Construction Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2028 | 116 Pages Report",
-      "excerpt": "This report studies the construction robotics, including the remote controlled demolition robots, construction 3D printing robots, bricklaying robots, and remote control rescue robots etc.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/construction-robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2028-116-pages-report-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

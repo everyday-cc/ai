@@ -26,17 +26,6 @@ images:
     height: 213
     isCached: true
 
-related:
-  - title: "Sweetch 2.0 Revolutionizes Patient Partnership in Managing Chronic Disease Management"
-    excerpt: "Sweetch , a digital therapeutics innovator and creator of the precision engagement platform for chronic conditions, announced today a platform update to help patients better comply with their chronic condition management regimens."
-    publishedDateTime: 2022-10-26T17:09:00Z
-    webUrl: "https://it.tmcnet.com/news/2022/10/26/9699946.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "51LZZGllboULtumS94Nx8sFVi+pMg2tD5sTFAOAC05dcZ1LqeBBQLyUy9aHIU6o5MdPaNV5/9exCP+mWGQ/Nrmna9OaZCa4wttu4v14BPHDo5SfFjAsDlwECV/08P4SJT4SzIs3XIkiUPquWrON99Y7xWTVjZ55HKQFveHlQQ6pQvH5PyXYTpG3teqxilEa/wZMPyXB89qV34DTbbPtLg/Vue8++YvP27D2zyYeMkjmWrG7QoBXfX25L5GYk5eJ9XXQRiCpg3GzcpleqMScOlag2tqN//cZwmrDby9wL1cxnsZt1eNLzM0Ex/VPlohtZ1W8p8fbvcBYOdjfWW6d5NofkP+x3fz9HkXczSdpgg8uREITacubTNErYFAqOYHTXytPm2qdPS35x8UGF9VUFlDjIVJpg0ggnRqw7wNe+IdY3XJ2IMRSuj1cJZJH2XKNqJffTM17dAllJT/Z32rRNRcwwMakhznb6fKbWlj2E8Gr4Io+GsX1vPRLbS4V/ViBMIqC78t+99rdSuC7T9DmARg==;T3Jio3Vk0Se0jD/EsXeniQ=="
 ---
 

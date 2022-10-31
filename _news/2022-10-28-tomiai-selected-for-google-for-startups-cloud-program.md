@@ -30,19 +30,19 @@ images:
 related:
   - title: "Startups: Of artificial intelligence and unreal impact"
     excerpt: "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,"
-    publishedDateTime: 2022-10-31T08:21:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/startups-of-artificial-intelligence-and-unreal-impact/95199332"
+    publishedDateTime: 2022-10-31T07:44:00Z
+    webUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/"
+    ampWebUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
     type: article
     provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
+      name: ThePrint
+      domain: theprint.in
+    quality: 61
     images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95199332,imgsize-41512,width-1200,height-628,overlay-etcio/startups-of-artificial-intelligence-and-unreal-impact.jpg"
-        width: 1200
-        height: 628
+      - url: "https://static.theprint.in/wp-content/uploads/2022/10/ANI-20221031070740.jpg"
+        width: 600
+        height: 450
         isCached: true
   - title: "Google Cloud, mCloud to debut trio of AI-powered sustainability apps"
     excerpt: "In partnership with Google Cloud, mCloud will directly integrate and leverage core Google Cloud services to enable powerful capabilities driving the sustainability of asset- and energy-intensive operations."

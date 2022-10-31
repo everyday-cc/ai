@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
 type: article
 quality: 74
-heat: 94
+heat: 74
 published: true
 
 provider:
@@ -29,26 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
-    excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
-    publishedDateTime: 2022-10-26T18:19:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 34
-  - title: "Intel’s self-driving car business, Mobileye, climbs following IPO"
-    excerpt: "Shares in Mobileye, Intel’s autonomous vehicle business, climbed 30% Wednesday following an initial public offering. The deal raised $861 million when shares priced Tuesday at $21 billion, a little above the forecast range."
-    publishedDateTime: 2022-10-26T18:36:00Z
-    webUrl: "https://www.oregonlive.com/silicon-forest/2022/10/intels-self-driving-car-business-mobileye-climbs-following-ipo.html"
-    type: article
-    provider:
-      name: Oregonian
-      domain: oregonlive.com
-    quality: 4
 
 secured: "gpz7zFK5IqLGmcFZfOqN/eFJ9n/s4PrHtUB3KZVEJGXYolMOviODiSU9itBzMrgEO1MWw0JkIDM3AIZOwyQWuQIzpDzxE1u87flbQw6wCUIWqmwkVMZKrjkxSLk8V7R8HwUz41AmWgEXx8zc7PTk467ONRT8Ytde50dZ3KnqFW/v3zfYIBOeWTICoEn6b807ooYf/7e4F3uXfLunz2B2WX0D+LQZ6L6wk2yZuynEzo2B22c39hWAIQcZKT+hPetg9yAhXoaNvqBv5Fr5X7vc2l4fAFisJs96tl1E56YxzGIhxeFI1Z0/YpRvDYhzMRulymruW59TZNrP6o4CUmpK52jR0zDVteRF2PY0E6uSTITRkKmEakBi0q8PXA7pALKTCs3pwYvvX+bK1P1sNJ+iNm7fE3wv8mia53DHX8fV1pCAQ4IXaVK45QoyLfBMpLVTjv+UMlsRUCBtWK9Ucyo1pCUY3QDKtsV0Yj1Jp6jdYcRe5GptTA3szp0VRJo/jEy7P2Ukvw/nUXXFLZVlyqHHXA==;rOEbCtvZVJbvdKnSN1nZpQ=="
 ---
