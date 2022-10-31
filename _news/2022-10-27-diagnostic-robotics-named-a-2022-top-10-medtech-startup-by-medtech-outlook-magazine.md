@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-27T12:31:00Z
 originalUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
 webUrl: "https://technews.tmcnet.com/news/2022/10/27/9700934.htm"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: TMCnet

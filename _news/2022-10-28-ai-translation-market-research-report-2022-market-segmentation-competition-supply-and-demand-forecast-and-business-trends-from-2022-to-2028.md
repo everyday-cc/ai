@@ -29,20 +29,31 @@ images:
     isCached: true
 
 related:
-  - title: "Speech Recognition Market Report Entails a Detailed Qualitative and Quantitative Analysis By 2030 | 141 Report Pages"
-    excerpt: "Pages No.] Speech Recognition Market report are massive business with critical facilities designed to efficiently support robust opportunities, scalable applications and are often associated with big data-producing companies such as ,"
-    publishedDateTime: 2022-10-26T04:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26"
+  - title: "Traffic Sign Recognition System Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
+    excerpt: "The report is an excellent resource for understanding the current state of the Traffic Sign Recognition System market and the upcoming trends responsible for driving or challenging the market. The market players will benefit from this report's recommendations on how to plan their strategies to take advantage of the future market trends presented in the report."
+    publishedDateTime: 2022-10-26T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 61
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Voice Recognition Systems Market to Reach $3.4 Billion by 2027"
+    excerpt: "ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all the market research you need - instantly, in one place."
+    publishedDateTime: 2022-10-26T11:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29413018/global-voice-recognition-systems-market-to-reach-3-4-billion-by-2027"
+    ampWebUrl: "https://www.benzinga.com/amp/content/29413018"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29413018"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 24
 
 secured: "Rl0IsxuV6+FZEY6/NyEjXWIMGqLpCCF3RarxgSku36fL2WjC/Zlp4MXtxHJ5xsmjsPgtek6EA3LfrqaM/H2NmE+6EDEJFyl6jSrDTlLCqJvWVaZjEC7Ei8ogwpzXu7q20ZmAPqGXvdSRn1xDzDbb2TJxdpddxTELx58LA0luIKdgllN34TyHOhmRHWBOwcAsaO+aYanoGrqSvonVPd91i+zQDhDCpdYT2SBNV11RdTxRjDh9Iffghlz1yhLHV13t3dmGvA8c/DpPO4cGasIZzwwiylXv6eQokPrvqTvUnBO9wN8ODhcRE6Xxdn/wt01xiHIL1mCVIrTG9oMpAkftNJ0XBZvT2jCdkNb3+FsEnHM=;wxlmVXjHgsEedTAHzBaD5A=="
 ---

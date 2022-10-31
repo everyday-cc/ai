@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Common AI language models show bias against people with disabilities: study"
-excerpt: "But new research from the Penn State College of Information Sciences and Technology shows algorithms behind natural language processing (NLP), a type of AI, often have tendencies that could be seen as offensive or prejudiced towards individuals with ..."
-publishedDateTime: 2022-10-14T18:36:00Z
-originalUrl: "https://www.aol.com/news/common-ai-language-models-show-175827225.html"
-webUrl: "https://www.aol.com/news/common-ai-language-models-show-175827225.html"
+excerpt: "New research underscores the implicit bias present in some artificial intelligence language models ... Add Changing America to your Facebook or Twitter feed to stay on top of the news."
+publishedDateTime: 2022-10-14T19:02:00Z
+originalUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/"
+webUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/"
+ampWebUrl: "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/"
 type: article
-quality: 37
-heat: 37
-published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Hill
+  domain: thehill.com
 
 topics:
-  - Natural Language Processing
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/_ciJ_hxHtkSRnICtYH8BUA--~B/aD01NTA7dz05MDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_the_hill_articles_315/06c01031bf097ded6698406a0264b8a1"
-    width: 900
-    height: 550
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_AI_10142022istock.jpg?w=1280"
+    width: 1280
+    height: 782
     isCached: true
 
-secured: "3pVm5vXpBSm77KNZhPDxHjmArvyOJ3rcHwg40DlJzTCajKfgtmaWT7yB3P4hqCSHkJsHvxJwdeBtomHvsgIxKxqufTkVvVT6NHCQr57o9OYOlRoWLkq78Fa0wfCJ+TI9Rd6Xj6LhWUdILihqBBplwiLjplzDivtB9G6ZuyJExKOWd7dtLBavpsjJADrAs8ITqMFfIEi2t70QkVvhxqMkA9eesHV1S+yLdome+qaReetpKKo3QW65MoE0d5l9qDudVF7B0tMSE48Ef33lIVtTsXXcWWBZw13MmPXVcsCmsdQ5dCQXjtlydpU893fW6n9+fIe1WMbt7+2q7JdZuX2hYOueJVOXFew4OamaNeA+28k=;FkXRhk5v37Ggpn1Qk2j7wA=="
+secured: "m8owna51FWqlFyZ1mHcfJytGeMyvpN1HqgoTZznHBvZ+Oyq+lm1YThTeymH8U+Luw0/PfuQVbeEjSUTttyydb9Okh2Yrh2qy9y5kgO52cFpY5CeGzEeCY3rRs1GRTSd5TvnK1ysTjE7NA5cQNVC3JUaMkSllJtv8O0KNpN3ZeWaulnxnNLk6WH64KhL9Vdl0Gh0QxOPZUrDQ+8S4DXCrieE6jnmkjPoci7rh91sKx0xJ4OmoB9NYij71K2iKOsXo3Vk/p3kUlzTG+iW79BaBwWTTb2xr8ej+s4p0v2qk1n7CguiN2V1Jh5mAgR+VmIS3J+9wXVNuDR0SI/ZmGGF95ngYlJ8u5rlxHf+I7Gt0Kvo=;rS3bI5PKMwBz7mZOjL3JFQ=="
 ---
 

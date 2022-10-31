@@ -100,15 +100,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Letter: Look both ways before stepping into a driverless car future"
-    excerpt: "Another year, another article, repeating the tragic story of the first recorded case of a pedestrian fatality involving a driverless car (“Driverless car revolution is stuck in the slow lane ..."
-    publishedDateTime: 2022-10-26T03:02:00Z
-    webUrl: "https://www.ft.com/content/1647caa4-bd89-4901-b3df-edd0786e00cc"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
   - title: "Ford-VW driverless car venture folds in face of tech challenges"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
     publishedDateTime: 2022-10-27T18:10:00Z

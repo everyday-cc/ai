@@ -7,7 +7,7 @@ originalUrl: "https://www.techspot.com/news/96452-shutterstock-partners-openai-s
 webUrl: "https://www.techspot.com/news/96452-shutterstock-partners-openai-start-selling-ai-generated-images.html"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -22,22 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Shutterstock Will Soon Offer Licensed DALL-E 2 Images, Showing What The Future Of Generative AI Might Look Like"
-    excerpt: "Shutterstock announced it unveiled its action plan to launch its AI-generated content capabilities in a manner that is responsible and transparent for its customers and contributors."
-    publishedDateTime: 2022-10-26T05:58:00Z
-    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/"
-    ampWebUrl: "https://www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johanmoreno/2022/10/26/shutterstock-will-soon-offer-ai-generated-images-showing-what-the-future-of-dall-e-might-look-like/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 67
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6358cacc53a52234563671f1/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Shutterstock and OpenAI have come up with one possible solution to the ownership problem in AI art"
     excerpt: "Shutterstock has previously provided materials to OpenAI for building and testing its AI text-to-image generator."
     publishedDateTime: 2022-10-26T23:00:00Z
@@ -54,19 +38,19 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "Shutterstock to sell AI-generated images using OpenAI’s DALL-E"
-    excerpt: "Shutterstock plans to integrate OpenAI's DALL-E AI model onto its website, to give customers direct access to its text-to-image capabilities."
-    publishedDateTime: 2022-10-26T09:13:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/shutterstock-ai-generated-images-openai"
+  - title: "Anand Gandhi create stunning storyboard with artificial intelligence"
+    excerpt: "Mumbai: Anand Gandhi, known for pushing the boundaries of ideas and possibilities in cinema, games or tech, has taken to Instagram to share something cutting-edge - images from a film storyboard that he created purely using AI technology."
+    publishedDateTime: 2022-10-27T05:05:00Z
+    webUrl: "https://indiantelevision.com/movies/hindi/anand-gandhi-create-stunning-storyboard-with-artificial-intelligence-221027"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
+      name: Indian Television Dot Com
+      domain: indiantelevision.com
+    quality: 37
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_399118655_Editorial_Use_Only.jpeg"
+      - url: "https://indiantelevision.com/sites/default/files/images/tv-images/2022/10/27/anand.jpg"
         width: 800
-        height: 600
+        height: 800
         isCached: true
   - title: "Shutterstock partners with OpenAI to sell AI-generated stock images using DALL-E"
     excerpt: "Shutterstock said it licensed its images and metadata to OpenAI to train DALL-E in 2021, but the software was trained on other sources too. \"The data we licensed from Shutterstock"

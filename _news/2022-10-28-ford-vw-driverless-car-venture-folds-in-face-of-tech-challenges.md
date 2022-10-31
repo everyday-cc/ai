@@ -104,15 +104,6 @@ related:
       name: The Business Journals
       domain: bizjournals.com
     quality: 33
-  - title: "Letter: Look both ways before stepping into a driverless car future"
-    excerpt: "Another year, another article, repeating the tragic story of the first recorded case of a pedestrian fatality involving a driverless car (“Driverless car revolution is stuck in the slow lane ..."
-    publishedDateTime: 2022-10-26T03:02:00Z
-    webUrl: "https://www.ft.com/content/1647caa4-bd89-4901-b3df-edd0786e00cc"
-    type: article
-    provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
 
 secured: "OjOo8mmp3p/rUJJITPpcJ4Zhg4I30+WTKgMuF9VzBBOWfkLutPP2Cb2jtwv2KbCEW4kbGQODKyTNpYVUfxU6eM5022cTpMJ/8bhTjjiX+ytJK/gWW/JRXqpAgY65k9d/83vM4Hgul6bjD0Ah/F2/Ee/Mtl6HGwsvKuhvaGr++sF4/D9WpEDFt83mbCdd3ELx3oJqjbH894M/B8rSkAcTnGrm2D2wyW3Urt/uem4BcwTBcy+ytpVJaYYnHXH9OF4wzLHpVeQRY5t2PBg3OcO2saOewYKaDuOsg1HtUvndtYuFJ3EQ7wSrQKkIk0jnmq5F2W9axgFnelND9JFZTPXYqjK7MiMCREIIlK97VeAfuh0=;8Rv35l/QtvxePj3reFh4Fw=="
 ---

@@ -42,20 +42,6 @@ related:
         height: 1707
         isCached: true
   - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
-    publishedDateTime: 2022-10-26T02:20:00Z
-    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
-        width: 650
-        height: 412
-        isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
     excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
     publishedDateTime: 2022-10-27T15:11:00Z
     webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"

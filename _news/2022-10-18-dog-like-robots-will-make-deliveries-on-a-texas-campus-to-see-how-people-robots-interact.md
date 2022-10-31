@@ -3,16 +3,13 @@ category: news
 title: "Dog-like robots will make deliveries on a Texas campus to see how people, robots interact"
 excerpt: "Four-legged autonomous delivery robots will be coming to the University of Texas as part of a study on interactions between people and robots."
 publishedDateTime: 2022-10-18T16:50:00Z
-originalUrl: "https://www.usatoday.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/"
-webUrl: "https://www.usatoday.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/"
+originalUrl: "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/"
+webUrl: "https://www.freep.com/story/news/education/2022/10/18/university-texas-dog-robots-deliver/10532562002/"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: USA Today
-  domain: usatoday.com
+  name: Detroit Free Press
+  domain: freep.com
 
 topics:
   - AI in Robotics
@@ -24,6 +21,6 @@ images:
     height: 676
     isCached: true
 
-secured: "G6WOKbap+rM7ekL2IckVUw10TTWPxutRulJ+4R956UNb99ecVDwONNNtfADG5DaWTYv4D9DXnxAR/7CgXBiFbNzOOZLyr08godvGmUYTszY5X+gTiWxn3AKXACGsi0RtrphUR3O09kGkHIwodTJAz5zCA7MQIT6jQUn9cvcZnK4E5oxFGav5iT/iG7xrH3D6Hg+DilsiKLwZM5SruhgmLzbTe9q+XY/5TjczMbyq2TsOpQzqW2tvecSaNuEo07sCk+oF0n7Mu6W6z7d5/p2p/ZOnv+f24q/FEHz6BKRytpM3bK2iAeYyUeCaIGGSOmlcl2DkBssO8EeA45AcU8babuLOdn5lrTSYM6lvyJOKhFGtelBwlvgscb1tN3ZoDWmFvPEqEZu9nTLMiGDVeJW4aON69xZvJ96R38X1jbi01054rfqvLKIXecaQPKoPDTfgNB3d7FyCba5ZNzHwn77Q0OaDFyTcaTUWHLLORJz7jSlKHZWdPsZyMTNxXOheYzCqM9K78sjz0LEQy2q9ceF9KA==;i3V9tOsYB0a0dfcFonkK/A=="
+secured: "U4Z+eLsZV4e7hUXUJuAb3u1qDXFUfKKxwdxzPbCavrslmbPcQkjKcZAB25NEYK5ux57pqbFbUQJu+l/CCdCMfsTDTwiXo4qSy9RFsRWcvj8tPKLIgeqT4OW1ErEbGTkXa1TrWubN7LAVWGLzJlraSBeSR5Q4BzTMXwUbK8uct7KVCoCV9cZvKVTueJezZOHFs0w9GUaMNVGRoA20Q9nLESNMgVDrcPKsx6INLksEtkcLt96irPqF/b76N7MMI3uzKnMQ7+p3A0jmoySsWuTqnBRwVVxGrN9reiVsuhr8eCIM/d3zw6ya0BybE0nlVEOSxZUs7bw5/UZSrOL/iunvtZC/zfAQxc4u6eo0Z7kZ+x8=;HcDzMfqpBboCg6U8KCK1gQ=="
 ---
 

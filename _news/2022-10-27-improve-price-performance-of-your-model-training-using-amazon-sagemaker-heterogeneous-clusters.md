@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-perfor
 webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/"
 type: article
 quality: 92
-heat: 152
+heat: 162
 published: true
 
 provider:
@@ -70,6 +70,20 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Machine learning (ML) use in the cloud is growing thanks to Amazon SageMaker"
+    excerpt: "Since its inception five years ago, Amazon SageMaker has grown to become one of the most popular machine learning (ML) services available. In 2017, Sagemaker was a standalone service meant to facilitate ML model training in the cloud for businesses."
+    publishedDateTime: 2022-10-29T18:00:00Z
+    webUrl: "https://bestgamingpro.com/machine-learning-ml-use-in-the-cloud-is-growing-thanks-to-amazon-sagemaker/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 68
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/10/Amazon-SageMaker-continues-to-expand-machine-learning-ML-use-in-the-cloud.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "AWS Celebrates 5 Years of Amazon SageMaker"
     excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of"
     publishedDateTime: 2022-10-26T18:29:00Z

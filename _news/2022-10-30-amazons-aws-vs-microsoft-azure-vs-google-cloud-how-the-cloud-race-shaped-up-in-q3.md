@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-29T19:58:00Z
 originalUrl: "https://www.benzinga.com/news/22/10/29470386/amazons-ws-vs-microsoft-azure-vs-google-cloud-how-the-cloud-race-shaped-up-in-q3"
 webUrl: "https://www.benzinga.com/news/22/10/29470386/amazons-ws-vs-microsoft-azure-vs-google-cloud-how-the-cloud-race-shaped-up-in-q3"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: Benzinga.com

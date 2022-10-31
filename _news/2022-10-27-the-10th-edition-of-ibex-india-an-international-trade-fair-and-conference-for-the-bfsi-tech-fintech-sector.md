@@ -51,20 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "The BFSI and Fintech sector's development is driven by technological progress. In light of the growing convergence between banking, financial services, and technology, 2022 has been labelled as"
-    publishedDateTime: 2022-10-26T02:20:00Z
-    webUrl: "https://www.asiaone.com/business/10th-edition-ibex-india-international-trade-fair-and-conference-bfsi-tech-fintech-sector"
-    type: article
-    provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 20
-    images:
-      - url: "https://www.acnnewswire.com/topimg/Low_IBEXIndia.jpg"
-        width: 650
-        height: 412
-        isCached: true
   - title: "NatWest invests €65m in Dutch fintech Floryn"
     excerpt: "A Netherlands-based online lending fintech has secured €65m in funding from high street bank NatWest. Floryn, which provides financing for SMEs, said it will use the new funds to strengthen its position as “the most cost-effective alternative to a bank”."
     publishedDateTime: 2022-10-26T12:36:00Z

@@ -36,9 +36,9 @@ related:
         height: 864
         isCached: true
   - title: "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars"
-    excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away."
-    publishedDateTime: 2022-10-26T23:34:00Z
-    webUrl: "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown"
+    excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it’s going to cost the automaker $2.7 billion to walk away. The company announced Wednesday it ..."
+    publishedDateTime: 2022-10-27T00:34:00Z
+    webUrl: "https://www.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
     ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
     cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
     type: article
@@ -65,15 +65,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Why Do Self-Driving Cars Crash?"
-    excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
-    publishedDateTime: 2022-10-26T05:00:00Z
-    webUrl: "https://www.realclearscience.com/2022/10/26/why_do_self-driving_cars_crash_861198.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 4
 
 secured: "UEG50Pn7Hkkl7MwXagm4MTtzFfc2dn8XhXphTwWI7xjiRXncyIcAWPdZDcn7K7cI+f5saxQitt5gylvtCgdKZruEqCLR2IhLOHJQgFL1gWmnk8AErRamJzgYYvw8jt2PBiKIsFQb6Gzg/726wDbnerD2NKVI6Klpdl7aZzYRKP98o0fVrz+2IQh1WRH5cqLFOAkhKFiumMMBsqtubajumloHXtGU4O8aKaGAG/FQOlTINNGaB29GR9nAnUzI7M0+HuEs1SDUdgNVwjjhzNKaznJbNwQQkHM5soA2XA4zPmhlfOM7iIs+TSIdFIGfo1TOPoiKo0lB/h5oVPl8OUYIMC1Z8k2vGl+vKs/9pKPD4uxUyCMxXUca5xeo0DC56hFfu97CUjWxLdBU2KTzPVMZvRul590LA2gML8RG+hTXUqjMHSueO9W/rCnC1wURNBIVg2EreK1Bn8kA68C4eeCLLYVAAdl2PtyqCRqTlZqrkIW6nJOnD8VS3e20oon+fpnf+V/i6zcZhT5vrFncaCmt+Q==;QErZdPaQ7ScNbN62MvjOZg=="
 ---

@@ -342,6 +342,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-15-common-ai-language-models-show-bias-against-people-with-disabilities-study.md",
+      "title": "Common AI language models show bias against people with disabilities: study",
+      "excerpt": "New research underscores the implicit bias present in some artificial intelligence language models ... Add Changing America to your Facebook or Twitter feed to stay on top of the news.",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
+      "originalUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_AI_10142022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/respect/diversity-inclusion/3688507-common-ai-language-models-show-bias-against-people-with-disabilities-study/amp/",
+      "publishedDateTime": "2022-10-14T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-14-this-ai-based-platform-is-set-to-revolutionize-digital-health-forever.md",
       "title": "This AI-Based Platform Is Set To Revolutionize Digital Health Forever",
       "excerpt": "Jason Mitakidis' AI-based HealthWorks is at the forefront of developing insertable sensor technology that provides data on your body's vitals",
@@ -1400,49 +1443,6 @@
         "Facebook AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-09-30-meta-is-using-ai-to-generate-videos-from-just-a-few-words.md",
-      "title": "Meta is using AI to generate videos from just a few words",
-      "excerpt": "Now, Meta researchers are taking AI a step further: they’re using it to concoct videos from a text prompt. Meta CEO Mark Zuckerberg posted on Facebook on Thursday about the research, called Make ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "originalUrl": "https://edition.cnn.com/2022/09/29/tech/meta-ai-text-to-video-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-29T15:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

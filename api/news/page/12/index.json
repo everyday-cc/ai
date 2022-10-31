@@ -2,6 +2,160 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-10-18-amazon-to-boost-thailand-cloud-infrastructure-with-5-bln-investment.md",
+      "title": "Amazon to boost Thailand cloud infrastructure with $5 bln investment",
+      "excerpt": "Amazon Web Services (AWS),the cloud computing division of Amazon.com Inc, said on Monday it plans to invest $5 billion in Thailand over the next 15 years to strengthen its infrastructure in the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-%245-bln-investment",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-to-boost-thailand-cloud-infrastructure-with-$5-bln-investment?amp",
+      "publishedDateTime": "2022-10-17T22:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-physicianone-urgent-care-adopts-augnitos-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-us.md",
+      "title": "PhysicianOne Urgent Care Adopts Augnito's Voice Recognition AI Solution Across Its 20-Plus locations in the U.S.",
+      "excerpt": "Augnito's medical voice recognition solution will be used by providers across all of PhysicianOne Urgent Care's 20-plus U.S. locations. \"PhysicianOne Urgent Care provides convenient access to high ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/physicianone-urgent-care-adopts-augnito-s-voice-recognition-ai-solution-across-its-20-plus-locations-in-the-u-s-1031810732",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540.md",
+      "title": "Axiomtek unveils advanced industrial ATX motherboard with 12th Gen Intel® Core™ processor for AIoT application - IMB540",
+      "excerpt": "This motherboard has a total of five PCIe slots ­– two PCIe 4.0 x16 slots and three PCIe x4 slots ­– for GPU, AI acceleration, frame grabber, NIC, and motion control card configurations.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/axiomtek-unveils-advanced-industrial-atx-motherboard-with-12th-gen-intel-core-processor-for-aiot-application-imb540-1031811520",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-18-practical-wisdom-and-the-value-of-cognitive-diversity.md",
+      "title": "Practical Wisdom and the Value of Cognitive Diversity",
+      "excerpt": "Practical reasoning would seem to include cognitive capacities such as top-down attentional focus, as we must be able to attend to the salient features of a situation to notice a moral problem. For example, only once a lecturer notices that a student's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
+      "originalUrl": "https://www.cambridge.org/core/journals/royal-institute-of-philosophy-supplements/article/practical-wisdom-and-the-value-of-cognitive-diversity/6F5246F5D31E82181CDC1061DB772AFE",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-18-netapp-ceo-the-promise-of-ai-is-much-more-real-today.md",
       "title": "NetApp CEO: The Promise of AI is \"Much More Real Today\"",
       "excerpt": "George Kurian says companies that hold out on AI are missing the opportunity for business success",
@@ -932,178 +1086,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-local-racer-involved-in-crash-at-findlay-stadium-stateline-speedway-died-on-sunday.md",
-      "title": "Local racer involved in crash at Findlay Stadium Stateline Speedway died on Sunday",
-      "excerpt": "POST FALLS, ID. — A local racer was involved in an crash during a race at Findlay Stadium Stateline Speedway died on Sunday. Scott Eldredge got in the crash Saturday night. Findlay Stadium ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "originalUrl": "https://www.kxly.com/local-racer-dies-from-crash-at-findlay-stadium-stateline-speedway/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wpcdn.us-east-1.vip.tn-cloud.net/www.kxly.com/content/uploads/2022/10/l/m/scott-eldredge.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T17:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXLY 4 News",
-        "domain": "kxly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-artists-say-ai-image-generators-are-copying-their-style-to-make-thousands-of-new-images-and-its-completely-out-of-their-control.md",
-      "title": "Artists say AI image generators are copying their style to make thousands of new images — and it's completely out of their control",
-      "excerpt": "Rutkowski has become one of the most popular names in AI art, despite never having used the technology himself. People are creating thousands of artworks that look like his using programs called ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10",
-      "originalUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/634aab0d410f430018147182?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/ai-image-generators-artists-copying-style-thousands-images-2022-10?amp",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-tech-companies-ui-researchers-partner-for-speech-accessibility-project.md",
-      "title": "Tech companies, UI researchers partner for speech accessibility project",
-      "excerpt": "According to the Beckman Institute’s website, the project aims to adapt speech recognition to a more diverse variety of speech patterns, including those with speech disabilities. The project will be funded for a minimum of 2 years and will result in an ...",
-      "sourceUrl": null,
-      "webUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "originalUrl": "https://dailyillini.com/news-stories/administration/2022/10/17/speech-accessibility-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Illini",
-        "domain": "dailyillini.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-this-salon-favorite-hack-will-make-your-deep-conditioner-even-more-hydratingjust-in-time-for-dry-hair-season.md",
-      "title": "This Salon-Favorite Hack Will Make Your Deep Conditioner Even More Hydrating—Just in Time for Dry Hair Season",
-      "excerpt": "With the Well+Good SHOP, our editors put their years of know-how to work in order to pick products (from skin care to self care and beyond) they’re betting you’ll love. While our editors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "originalUrl": "https://www.wellandgood.com/deep-conditioning-tools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2022/10/BONNINSTUDIO-1.jpg",
-          "width": 1170,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/deep-conditioning-tools/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/deep-conditioning-tools/amp/",
-      "publishedDateTime": "2022-10-16T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Translation Market Research Report 2022, Market Segmentation, Competition, Supply and demand Forecast, and Business Trends from 2022 to 2028."
+    excerpt: "The \" AI Translation Market \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries, key executives' biographies, and key rivals 2022 to 2028."
+    publishedDateTime: 2022-10-27T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-translation-market-research-report-2022-market-segmentation-competition-supply-and-demand-forecast-and-business-trends-from-2022-to-2028-2022-10-27"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "NgSxJJjUEWxiM7XbcG7hIYE1s+ieP7dsxbKayrWGZBVscQQy40nrxWjm0/SfrXDd08VqrpORedMvxViJc+alGadudn/WvM3IG7liEnqWFC1XK6cs+p6AWEsGcck58EBZaYpaCE5H8UaWTFeOi2TYWhv3NFnUbtv++8MTMK37MLJn95JwO83XbtY5Ukx31SmxLljFeQSmnenqGNBrt3IkSr13GU67/dI5harWLAHypWzT0O93ZYr62lAFbWYxPmCUDc19V04lT3b5A8oI7ipj28HcfGKJbllRSZf6cGv7F/eOF48nhcSdeSsN8dRrdRQiE+F5UQp8fe4hx44+lYSmS3rRZ1LSe2BFaunhaghVbjE=;kV+gCbeRqCfUoQ0BrhnQ9A=="
 ---

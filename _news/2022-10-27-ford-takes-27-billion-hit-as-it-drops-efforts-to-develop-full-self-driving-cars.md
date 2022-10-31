@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars"
-excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it's going to cost the automaker $2.7 billion to walk away."
-publishedDateTime: 2022-10-26T23:34:00Z
-originalUrl: "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown"
-webUrl: "https://edition.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown"
+excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it’s going to cost the automaker $2.7 billion to walk away. The company announced Wednesday it ..."
+publishedDateTime: 2022-10-27T00:34:00Z
+originalUrl: "https://www.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
+webUrl: "https://www.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
 type: article
@@ -61,15 +61,6 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Why Do Self-Driving Cars Crash?"
-    excerpt: "Whether they are built by billionaires plagued by social media addictions, or long-standing corporations of the traditional automotive industry, self-driving vehicles are the future of moving people a"
-    publishedDateTime: 2022-10-26T05:00:00Z
-    webUrl: "https://www.realclearscience.com/2022/10/26/why_do_self-driving_cars_crash_861198.html"
-    type: article
-    provider:
-      name: RealClearScience
-      domain: realclearscience.com
-    quality: 4
   - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
     excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
     publishedDateTime: 2022-10-28T16:18:00Z
@@ -80,6 +71,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "HB7iI4CibLohNSSUE4+whXZaBrZDR04xmh+ExWQm+PXFsMC72J/8BKslf6HCZP62Tc+lXmRc5K6ujPLqNtVRVT3u6A5mWH4aWTydQvko06pcKPhBXxt1Uuq/xGo3lIeORBuJfZM8WUQoFHu73purVInlVqrfTZX+EUbSZbMJjCfCX7971L6k3rLJFDaW1grZli4YhBDydA9M/TkHVElvZQROztaLHQmzi3y5q63huDr3jOPxZqeGpPyyvIIMJNUWTnxYUKg7H59D604jgMXQEaiXFfN7AfB9Fh72+N/XDtSZWdoVm6sxMOwFq7Zyt6z7FOvi0rWi7VFcBKznOgeSOMJBsetYXisHw511vob2SeY=;DJMr13SK4a4z+Y3NoduJrw=="
+secured: "loqqIcfIaRvVkrhMZDAwgsSmW2c+lg1xyIswdu6h9VvqowpZwtYiI832vclMEg6vcF+NPmRk6/DlGejUbfG9QBPSlIKuEIupWchSiDPFEta2G2bPyEWHrgV+o1yr4dbt2JXTmzG81P7Kqi699K8yjtMyEMiFqtiS7WZM9ggC0kwwmyowSU1q3FE9//etbyuwSE+PUBG3S2z87CoIiDTDIPK5tE/Qi3R504zMh/nrCVj648tVCtrvf08VgJdFUXX52YmuC4phO+9np6qJbI5JV9uOs26iJ2xMjHA1EmEgpGSOb5Pz48TLmPAGcZ2jrRZBdvR3DKHHrwv+HE1GUbBnLloGw8eX6tLrXxhG4GxjUwQ=;BJG6FnT8/amZoXvoIbg9mA=="
 ---
 
