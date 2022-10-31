@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-ca
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-opens-above-ipo-range/"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -31,17 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Intel Stock Gains As Mobileye IPO Values Self-Driving Unit At $16.7 Billion"
-    excerpt: "Mobileye, Intel's self-driving unit, raised $861 million from a firmer-than-expected IPO that values the Israel-based group at around $16.7 billion."
-    publishedDateTime: 2022-10-26T13:53:00Z
-    webUrl: "https://www.thestreet.com/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
-    ampWebUrl: "https://www.thestreet.com/.amp/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
-    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/markets/intel-stock-mobileye-ipo-pegs-self-driving-unit-at-16-7-billion"
-    type: article
-    provider:
-      name: TheStreet.com
-      domain: thestreet.com
-    quality: 37
   - title: "Intel's Mobileye Self-Driving Car Unit Opens Above IPO Range"
     excerpt: "The chip giant's subsidiary opened at $26.71 on Wednesday, higher than the $18 to $20 range previously expected."
     publishedDateTime: 2022-10-26T18:19:00Z

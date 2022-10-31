@@ -166,6 +166,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
+    excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
+    publishedDateTime: 2022-10-31T06:11:00Z
+    webUrl: "https://www.techworm.net/2022/10/google-acquires-ai-avatar-start-up-alter-for-100-million.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 37
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/10/GOOGLE.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
     excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
     publishedDateTime: 2022-10-30T07:05:00Z
@@ -181,6 +195,6 @@ related:
         height: 418
         isCached: true
 
-secured: "qPjhn9tEow+yjZq9ZbjYIDQLuN2MEcp8X5jSmZKLl0oRaZCYZXsfzIXUNW5yMLgm53IEOOJnmv0+o50Z8E0IH8phAS0TSSHSBmJjxAZeKlQ9a5E4g/Cg09SDTHP9B04nwIaAaZOYXvVENx+EvTbtZD1QY352tfdwkpQ1hgMPil86W4LXzVzYSjpzI1I+MM2Sz/TdqoS5DtbgReDaMWiQvKcEc0702bhQgCYKsD2RUiEj9dvETx2wJumtZtahVX85al0c6Eq4pCkmVHyOwT9yjUT/OoGjPJt4pGHqfzeVZiInIPUaIknZWXCfDYjROBL4yz9xGejb87zh4Nq9ixKue0aKqMlV8DdsU2zrY0G7iXk=;ezntNHe+4HR01htCOLEwhg=="
+secured: "6//zFIhLo8EG6gYXNQFTPO4B8fITnzhT/Y6+cJSBUZx0La4MLKE3PzigrHIPEvbqTlM+B6hvexbuRFLveoZKWF0opJ2j/HsmFJ7ItyRr93qjFQV/QyIiYuj/kbL4IzfO8gzZm51Z4zWpMWgXHOIhIpv/JxdRCJEbL7Bz+zAMjn0q17kcbOEaG+VuA9A+SdpYircG/OJhMELTZAWdeR7LwizpSmNVdfQRmEl5SU7xKKY/VWCyr6FGHzwmsDkdZ95rf5MdkZ0MsopuNOANUDntPnZddfTMKtHWaq0MgVxFv1UMcqNFBhrJ6Ek8T45jFVTAxjlyxhngbXIO9zcQSLzWqFFIFMdEuvMe09Q4IuKXcUzZKKXJgqm2TF+ZafuEm8opJp1wJHs7aWz5y9lheuXvy4EpCfZWIS+yWQutVm/xt2BVEnEI+o5vunVEmWzxS6wyUgwJqB9Jm6fjwqHk0rd5K6qLFv2VZoB9FUjs9PdP0n39z2UXvUhsqEwdgGUDda/V6//mR2Id/nJ8Ecnge5xBDA==;NpVLbAVyCThLz/8TcenJsA=="
 ---
 

@@ -2,22 +2,22 @@
 category: news
 title: "Tempus Announces Real-World Data-Driven Program to Accelerate Precision Oncology Research"
 excerpt: "Tempus, a leader in artificial intelligence and precision medicine, today announced Tempus+, a proprietary program that powers collaborative precision oncology research through the use of real-world data."
-publishedDateTime: 2022-10-27T15:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-tempus-announces-real-world-data-driven-program-accelerate-/2022/10/27/9701257.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-tempus-announces-real-world-data-driven-program-accelerate-/2022/10/27/9701257.htm"
+publishedDateTime: 2022-10-27T13:01:00Z
+originalUrl: "https://www.wsiltv.com/news/illinois/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_3fadd9c1-e1ef-53b6-9091-311a76a7cf66.html"
+webUrl: "https://www.wsiltv.com/news/illinois/tempus-announces-real-world-data-driven-program-to-accelerate-precision-oncology-research/article_3fadd9c1-e1ef-53b6-9091-311a76a7cf66.html"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ZHdtOU3bU2UGeUV+iU+qTnVYIBaNitsD4lIxDCLK8ze2qmLo905/wMpr4dqnkKlHZ4ZwliBsTzx/xNmvMmT2e/mlkDLi/4pwlNhqsQXHI+dJcdkpV/9nfbdGqT18Jx0kmZEqz0ZeamjGctGNR1YMZpSurb/NwpSz5LSfXw7QNRf+uEbbGuhrjwekA53i7pInJugeSyWOf0ltAFoZvHMgLu5AiJwj7iI5y/7WGdmC0LfSSUp8IOTp3U4vgUOeLfkOikSOeLzBaPW9UspTsI9rWOStKnLb5Sp9gP7Uy0CuwpZwQ+i3LPAygPTJJNRioIZHth25FuPQztijEruLU9w8QppQRvcGY9REYo8YwBlBRyY=;xeJxqIHGgjOgQMWFrO6vbQ=="
+secured: "ZntiqBuzraPaLY/1BnBph0Woe/gOokgI49jNvl9nkf7CJPUhUkLdbDNzeVH6FghWaVOow0HeRK+PNn7jDVvCu3ZnpsFtmjKfApteIderr5u1T2LoJSIwPcOiGK+3Pfe9RGx4jy+s+685NBfCIIfbhQ3tlemF0nv2C436N6TLR7srggzbzSX/w+YCQYK3I70T+tAS5nqFsgWLNlbqctmC43biqGcDCJekkWxqfzxTaPveo9FfuXhayadWPlYTL+GYrzBSFSNr+GypfacOTtQRBC6oJW8PsNeqHRC0DeWv/l4MynqplCQmYNbaeoisurruv9eusa7Rf3Vn3hQ54ChlT0sbBIhR4fibAR8St4Ow4yA=;MZwcxYF960uFqi9P5txP9A=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.mddionline.com/neurological/combining-ai-and-microelec
 webUrl: "https://www.mddionline.com/neurological/combining-ai-and-microelectronics-make-better-brain-implant"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Researcher combines AI and microelectronics to create neural implants that fight brain disorders"
+    excerpt: "Neural implants can help treat brain disorders such as Parkinson's disease and epilepsy by directly modulating abnormal activities—and the University of Toronto's Xilin Liu is working with microelectronics and artificial intelligence to make this emerging technology both safer and smarter."
+    publishedDateTime: 2022-10-31T07:33:00Z
+    webUrl: "https://medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-combines-ai-microelectronics-neural-implants.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 46
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/fighting-brain-disorde.jpg"
+        width: 1140
+        height: 760
+        isCached: true
   - title: "University of Toronto: Researcher combines AI and microelectronics to create neural implants that fight brain disorders"
     excerpt: "Neural implants can help treat brain disorders such as Parkinson’s disease and epilepsy by directly modulating abnormal activities – and the University of Toronto’s Xilin Liu is working with microelec"
     publishedDateTime: 2022-10-27T00:53:00Z

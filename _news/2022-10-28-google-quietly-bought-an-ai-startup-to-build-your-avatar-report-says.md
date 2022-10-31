@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-sta
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/"
 type: article
 quality: 89
-heat: 189
+heat: 199
 published: true
 
 provider:
@@ -156,6 +156,20 @@ related:
       - url: "https://cdn.telanganatoday.com/wp-content/uploads/2022/10/Google-buys-AI-avatar-startup-Alter-for-100-mn.jpg"
         width: 1280
         height: 750
+        isCached: true
+  - title: "Google Acquires AI Avatar Start-up Alter For $100 Million"
+    excerpt: "Tech giant Google has reportedly acquired Alter, an artificial intelligence (AI) avatar start-up for about $100 million in an effort to boost its own"
+    publishedDateTime: 2022-10-31T06:11:00Z
+    webUrl: "https://www.techworm.net/2022/10/google-acquires-ai-avatar-start-up-alter-for-100-million.html"
+    type: article
+    provider:
+      name: techworm.net
+      domain: techworm.net
+    quality: 37
+    images:
+      - url: "https://www.techworm.net/wp-content/uploads/2022/10/GOOGLE.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Google buys AI avatar start-up to compete with TikTok"
     excerpt: "Google has acquired Alter, an AI avatar start-up for creators and brands to express their virtual identities. The acquisition to improve its content game and compete with TikTok was made two months ago for about $100 million,"

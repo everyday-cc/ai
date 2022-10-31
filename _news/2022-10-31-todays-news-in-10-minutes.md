@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html"
 type: article
 quality: 74
-heat: 74
+heat: 77
 published: true
 
 provider:

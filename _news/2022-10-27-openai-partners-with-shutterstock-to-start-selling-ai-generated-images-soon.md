@@ -52,15 +52,6 @@ related:
         width: 800
         height: 800
         isCached: true
-  - title: "Shutterstock partners with OpenAI to sell AI-generated stock images using DALL-E"
-    excerpt: "Shutterstock said it licensed its images and metadata to OpenAI to train DALL-E in 2021, but the software was trained on other sources too. \"The data we licensed from Shutterstock"
-    publishedDateTime: 2022-10-26T13:32:00Z
-    webUrl: "https://www.theregister.com/2022/10/26/shutterstock_getty_openai_dall_e/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 14
 
 secured: "UpYVvFzwIVK+hUuIr2bRMjTmpZeHi2kKPb5s5zw31itbFWrtJtGdWElrF6GxowYGKSaVXlhJVoV2dlKABmmHVZBJZxWlWZrP5ew6+Zo+UOT2GxS+B2T5henn32bp/3hbQ7KBOP+K/clFCLPP5QzPHa4mEsLD7WE2Hck2ZgLmQ+GydoyceAE1Yd0MI0G9lGoN+dAWNSczaW8rb8nizxLnbGJDbYATG1+h8vWr5RxUEMFz00mR8xkAkqZ3hDZIu+GgIMD8Z6YECvs3r9tFxmUDAahXgDINQNTrFGk2Wej6G+O5V/ksX5/OJ8kYg/lzC2oQkbo/hyS5QM5FSASnes2ciU04muc7+0l6qKATfnqGu+UtmX4+c1PllFBWCG3rC/UZNWyUniOgZSHUn6f9j2q/mX+4wgFAOu9ndQxUv0sY5AjENEN/jw1AzJXzq3j44/Zq4ByOjda2lzno7/f+vBCmWQK6qBRbKVeYKRH/uUhvL9JR3JEOuWkNtjun0/kiPx53NIeXxOL1n5MeRAdWtxeIqQ==;7Dh4GAXNnvoihDCT7UgRmg=="
 ---

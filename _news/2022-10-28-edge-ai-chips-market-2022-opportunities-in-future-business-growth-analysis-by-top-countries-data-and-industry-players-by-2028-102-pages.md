@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence(AI) in Healthcare Market : Industry Analysis 2022 To 2028 based on Sales, Revenue, Size and Share | 125 Pages Report"
-    excerpt: "Oct 26, 2022 (The Expresswire) -- \"Artificial Intelligence(AI) in Healthcare Market\" valuation is Projected to reach USD 13240 Mn USD by 2027, From 2222.5"
-    publishedDateTime: 2022-10-26T14:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-healthcare-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-125-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 81
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is"
     publishedDateTime: 2022-10-27T12:00:00Z
@@ -71,15 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
-    excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
-    publishedDateTime: 2022-10-27T20:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "Natural Language Processing (NLP) Software Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 99 Pages Report"
     excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Software Market is projected"
     publishedDateTime: 2022-10-27T11:55:00Z
@@ -94,29 +71,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
-    excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
-    publishedDateTime: 2022-10-28T08:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 52
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 131 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Artificial Intelligence (AI) Market is projected to reach Multimillion USD by 2029, In comparison to 2021, Over the next Seven years the Artificial Intelligence (AI) Market will register a magnificent spike in CAGR in terms of revenue,"
-    publishedDateTime: 2022-10-26T13:09:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-131-pages-report-2022-10-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
   - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
     excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
     publishedDateTime: 2022-10-27T10:32:00Z
@@ -131,15 +85,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Agriculture Market 2022 : Trends, Industry Size, Share, Emerging Trends, Top Leading Players and Forecast 2029"
-    excerpt: "Artificial Intelligence in Agriculture Market Size is projected to Reach Multimillion USD by 2029, In comparison to"
-    publishedDateTime: 2022-10-27T04:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-trends-industry-size-share-emerging-trends-top-leading-players-and-forecast-2029-2022-10-27"
+  - title: "Traffic Sign Recognition System Market - Research Report Provides an In-Depth Insight of Trends (2022 - 2028)"
+    excerpt: "The report is an excellent resource for understanding the current state of the Traffic Sign Recognition System market and the upcoming trends responsible for driving or challenging the market. The market players will benefit from this report's recommendations on how to plan their strategies to take advantage of the future market trends presented in the report."
+    publishedDateTime: 2022-10-26T18:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/traffic-sign-recognition-system-market---research-report-provides-an-in-depth-insight-of-trends-2022---2028-2022-10-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 36
+    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -159,15 +113,34 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Platform Market 2022 : Incredible Possibilities, Growth Analysis and Forecast To 2029 | 112 Pages Report"
-    excerpt: "Global “ Artificial Intelligence Platform Market \" Report is a detailed and comprehensive analysis for global Door and Artificial Intelligence Platform market. Both quantitative and qualitative analyses are presented by manufacturers,"
-    publishedDateTime: 2022-10-26T13:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-2022-incredible-possibilities-growth-analysis-and-forecast-to-2029-112-pages-report-2022-10-26"
+  - title: "AI Translation Market Research Report 2022, Market Segmentation, Competition, Supply and demand Forecast, and Business Trends from 2022 to 2028."
+    excerpt: "The \" AI Translation Market \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries, key executives' biographies, and key rivals 2022 to 2028."
+    publishedDateTime: 2022-10-27T19:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-translation-market-research-report-2022-market-segmentation-competition-supply-and-demand-forecast-and-business-trends-from-2022-to-2028-2022-10-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 18
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech & Voice Recognition Market 2022 Latest Research, Top Impacting Factors, Growth Strategies and Forecast to 2028"
+    excerpt: "The most widely used downstream fields of market covered in this report are: The report provides critical information for firms and stakeholders looking to enter the Speech & Voice Recognition market or invest in the market."
+    publishedDateTime: 2022-10-26T19:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-voice-recognition-market-2022-latest-research-top-impacting-factors-growth-strategies-and-forecast-to-2028-2022-10-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "cJe5YR7+xwp6c/fs0N+zc9iA5NVXOcjxTZq9HLI1NVF55VVROlRWZ91/IhskQhgH4rrc45+yzcNivwRZyzF7uH1du9MYc1lNpTXkEm/EdnMH47dwvsRICOpQZoz9BQbSBDRN6T48rn3C2AiIJh2fv0bfu6oT4D+AXxMoyZAbgDndZAUKHJYQl5weyf0L923KAE/86WsZpty0vQlgn4c/pGZ7GGmJ0ZciJqyWLiBQYlESBvYB2KUJpRqK33Lr7n5UsCSD3hnsQ/MViQTY/96+BgJ86mQdxHGh8+1O4q6CwwUE76jtIPY21SXmD52YBFIioMlwDWiL6M/OT8vz12kUdj2wkOMcA3HIKo+2efWbl5U=;PslmDkS1I2dMJfFlCGO2hg=="
 ---
