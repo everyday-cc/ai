@@ -16,7 +16,7 @@
       "twitter": {
         "username": "elonmusk",
         "url": "https://twitter.com/elonmusk",
-        "followers": 112598025
+        "followers": 112648043
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Elon_Musk"
@@ -25,7 +25,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 903,
+      "heat": 872,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1586242154518626304/c8RuhvDV_400x400.jpg",
@@ -51,7 +51,7 @@
       "twitter": {
         "username": "LexFridman",
         "url": "https://twitter.com/LexFridman",
-        "followers": 1918390
+        "followers": 1919859
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=wZH_N7cAAAAJ",
@@ -75,7 +75,7 @@
         "Machine Learning",
         "AI in Autos"
       ],
-      "heat": 670,
+      "heat": 638,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -101,7 +101,7 @@
       "twitter": {
         "username": "karpathy",
         "url": "https://twitter.com/karpathy",
-        "followers": 547320
+        "followers": 547455
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrej-karpathy-9a650716/"
@@ -112,13 +112,50 @@
       "topics": [
         "AI"
       ],
-      "heat": 495,
+      "heat": 523,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1296667294148382721/9Pr6XrPB_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrej Karpathy",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/john-carmack.md",
+      "title": "John Carmack",
+      "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-carmack/index.json",
+      "webUrl": "https://everyday.cc/ai/people/john-carmack/",
+      "type": "profile",
+      "name": "John Carmack",
+      "bio": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
+      "location": "Dallas, TX",
+      "website": "https://t.co/c0ndp2bkKs",
+      "twitter": {
+        "username": "ID_AA_Carmack",
+        "url": "https://twitter.com/ID_AA_Carmack",
+        "followers": 991687
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Facebook",
+        "domain": "facebook.com"
+      },
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ],
+      "heat": 358,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "John Carmack",
           "isCached": true
         }
       ],
@@ -136,7 +173,7 @@
       "twitter": {
         "username": "ilyasut",
         "url": "https://twitter.com/ilyasut",
-        "followers": 129985
+        "followers": 130010
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=x04W_mMAAAAJ",
@@ -154,7 +191,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 353,
+      "heat": 347,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1548311632597553154/WYGE5NGW_400x400.jpg",
@@ -180,7 +217,7 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 361500
+        "followers": 361523
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
@@ -200,88 +237,13 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 340,
+      "heat": 333,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/john-carmack.md",
-      "title": "John Carmack",
-      "excerpt": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/john-carmack/index.json",
-      "webUrl": "https://everyday.cc/ai/people/john-carmack/",
-      "type": "profile",
-      "name": "John Carmack",
-      "bio": "Consulting CTO at Oculus VR. Working on artificial general intelligence (AGI) in Facebook",
-      "location": "Dallas, TX",
-      "website": "https://t.co/c0ndp2bkKs",
-      "twitter": {
-        "username": "ID_AA_Carmack",
-        "url": "https://twitter.com/ID_AA_Carmack",
-        "followers": 991684
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Facebook",
-        "domain": "facebook.com"
-      },
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ],
-      "heat": 324,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "John Carmack",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/animashree-anandkumar.md",
-      "title": "Animashree Anandkumar",
-      "excerpt": "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/animashree-anandkumar/index.json",
-      "webUrl": "https://everyday.cc/ai/people/animashree-anandkumar/",
-      "type": "profile",
-      "name": "Animashree Anandkumar",
-      "bio": "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems.",
-      "location": "Santa Clara, CA",
-      "website": "https://t.co/cr0ijXcp1F",
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/anima-anandkumar/"
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=bEcLezcAAAAJ",
-        "citations": 14006
-      },
-      "affiliation": {
-        "path": "",
-        "name": "caltech.edu - Homepage",
-        "domain": "caltech.edu - Homepage"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 310,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1059532477092384768/cV7GBCt__400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Animashree Anandkumar",
           "isCached": true
         }
       ],
@@ -311,7 +273,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 273,
+          "heat": 283,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -335,7 +297,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 115,
+          "heat": 154,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -380,7 +342,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 255,
+          "heat": 277,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -393,7 +355,7 @@
         }
       ],
       "size": 23,
-      "heat": 306,
+      "heat": 332,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -406,94 +368,38 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/jeff-dean.md",
-      "title": "Jeff Dean",
-      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "path": "_people/animashree-anandkumar.md",
+      "title": "Animashree Anandkumar",
+      "excerpt": "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/animashree-anandkumar/index.json",
+      "webUrl": "https://everyday.cc/ai/people/animashree-anandkumar/",
       "type": "profile",
-      "name": "Jeff Dean",
-      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
-      "website": "https://t.co/ajoSG5g4Rn",
-      "twitter": {
-        "username": "jeffdean",
-        "url": "https://twitter.com/jeffdean",
-        "followers": 223749
+      "name": "Animashree Anandkumar",
+      "bio": "Animashree Anandkumar is the Bren Professor of Computing at California Institute of Technology. She is a director of Machine Learning research at NVIDIA. Her research considers tensor-algebraic methods, deep learning and non-convex problems.",
+      "location": "Santa Clara, CA",
+      "website": "https://t.co/cr0ijXcp1F",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/anima-anandkumar/"
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
-        "citations": 230356
+        "url": "https://scholar.google.com/citations?user=bEcLezcAAAAJ",
+        "citations": 14006
       },
       "affiliation": {
         "path": "",
-        "name": "Google",
-        "domain": "google.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/google.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          },
-          {
-            "url": "/assets/images/organizations/google.com-400x400.jpg",
-            "width": 400,
-            "height": 400,
-            "isCached": false
-          }
-        ]
+        "name": "caltech.edu - Homepage",
+        "domain": "caltech.edu - Homepage"
       },
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ],
-      "heat": 301,
+      "heat": 310,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1059532477092384768/cV7GBCt__400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Jeff Dean",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/demis-hassabis.md",
-      "title": "Demis Hassabis",
-      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
-      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
-      "type": "profile",
-      "name": "Demis Hassabis",
-      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
-      "website": "http://t.co/8B3TFG0hNp",
-      "twitter": {
-        "username": "demishassabis",
-        "url": "https://twitter.com/demishassabis",
-        "followers": 273499
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
-        "citations": 91096
-      },
-      "affiliation": {
-        "path": "",
-        "name": "ac.uk - Homepage",
-        "domain": "ac.uk - Homepage"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 296,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Demis Hassabis",
+          "title": "Animashree Anandkumar",
           "isCached": true
         }
       ],
@@ -513,7 +419,7 @@
       "twitter": {
         "username": "AndrewYNg",
         "url": "https://twitter.com/AndrewYNg",
-        "followers": 699371
+        "followers": 699364
       },
       "linkedin": {
         "url": "https://www.linkedin.com/in/andrewyng/"
@@ -548,86 +454,13 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 273,
+      "heat": 283,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Ng",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 30529
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 270,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1566952601224036352/gm16vYhz_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/jack-clark.md",
-      "title": "Jack Clark",
-      "excerpt": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jack-clark/index.json",
-      "webUrl": "https://everyday.cc/ai/people/jack-clark/",
-      "type": "profile",
-      "name": "Jack Clark",
-      "bio": "Policy Director @openai & @indexingai  Newsletter: https://t.co/03WBZSPtRw  Past:  @business Neural Net Reporter.  @theregister Distributed Systems Reporter.",
-      "location": "San Francisco, CA",
-      "website": "https://jack-clark.net/",
-      "twitter": {
-        "username": "jackclarksf",
-        "url": "https://twitter.com/jackclarksf",
-        "followers": 53356
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 258,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/726446881547517952/ULhSTKxN_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Jack Clark",
           "isCached": true
         }
       ],
@@ -645,7 +478,7 @@
       "twitter": {
         "username": "geoffreyhinton",
         "url": "https://twitter.com/geoffreyhinton",
-        "followers": 153055
+        "followers": 153056
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=JicYPdAAAAAJ",
@@ -663,7 +496,7 @@
         "AI",
         "Machine Learning"
       ],
-      "heat": 255,
+      "heat": 277,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -723,7 +556,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 255,
+          "heat": 277,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1084213316963057664/fQGCUSt0_400x400.jpg",
@@ -747,7 +580,7 @@
             "Computer Vision",
             "AI in Robotics"
           ],
-          "heat": 340,
+          "heat": 333,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
@@ -760,7 +593,7 @@
         }
       ],
       "size": 3,
-      "heat": 255,
+      "heat": 277,
       "images": [
         {
           "url": "https://scholar.google.com/citations?view_op=view_photo&user=kukA0LcAAAAJ&citpid=3",
@@ -768,6 +601,88 @@
           "height": 128,
           "title": "Yoshua Bengio",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/demis-hassabis.md",
+      "title": "Demis Hassabis",
+      "excerpt": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/demis-hassabis/index.json",
+      "webUrl": "https://everyday.cc/ai/people/demis-hassabis/",
+      "type": "profile",
+      "name": "Demis Hassabis",
+      "bio": "Founder & CEO @DeepMindAI - #AlphaGo, #AlphaZero, #AlphaFold & Atari DQN. Working on General AI. Trying to understand what is *really* going on in the universe",
+      "website": "http://t.co/8B3TFG0hNp",
+      "twitter": {
+        "username": "demishassabis",
+        "url": "https://twitter.com/demishassabis",
+        "followers": 273490
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=dYpPMQEAAAAJ",
+        "citations": 91096
+      },
+      "affiliation": {
+        "path": "",
+        "name": "ac.uk - Homepage",
+        "domain": "ac.uk - Homepage"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 270,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/691700243809718272/z7XZUARB_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Demis Hassabis",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 30544
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 238,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1566952601224036352/gm16vYhz_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -802,7 +717,7 @@
         "Facebook AI",
         "PyTorch"
       ],
-      "heat": 250,
+      "heat": 224,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/959995586689691648/DAFep10r_400x400.jpg",
@@ -838,7 +753,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 273,
+          "heat": 283,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
@@ -861,7 +776,7 @@
             "Natural Language Processing",
             "Machine Learning"
           ],
-          "heat": 104,
+          "heat": 114,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -885,7 +800,7 @@
             "Computer Vision",
             "AI in Healthcare"
           ],
-          "heat": 115,
+          "heat": 154,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -920,13 +835,67 @@
         }
       ],
       "size": 5,
-      "heat": 138,
+      "heat": 184,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/733174243714682880/oyG30NEH_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Andrew Ng",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/jeff-dean.md",
+      "title": "Jeff Dean",
+      "excerpt": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/jeff-dean/index.json",
+      "webUrl": "https://everyday.cc/ai/people/jeff-dean/",
+      "type": "profile",
+      "name": "Jeff Dean",
+      "bio": "Senior Fellow & SVP, Google AI (Research and Health).  Co-designer/implementor of software systems like @TensorFlow, MapReduce, BigTable, Spanner, ..",
+      "website": "https://t.co/ajoSG5g4Rn",
+      "twitter": {
+        "username": "jeffdean",
+        "url": "https://twitter.com/jeffdean",
+        "followers": 223734
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=NMS69lQAAAAJ",
+        "citations": 230356
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Google",
+        "domain": "google.com",
+        "images": [
+          {
+            "url": "/assets/images/organizations/google.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "isCached": false
+          },
+          {
+            "url": "/assets/images/organizations/google.com-400x400.jpg",
+            "width": 400,
+            "height": 400,
+            "isCached": false
+          }
+        ]
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 158,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/935325968280907776/AcBo6zJc_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Jeff Dean",
           "isCached": true
         }
       ],
@@ -946,7 +915,7 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 409587
+        "followers": 409571
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
@@ -980,7 +949,7 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 115,
+      "heat": 154,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
@@ -1006,7 +975,7 @@
       "twitter": {
         "username": "chelseabfinn",
         "url": "https://twitter.com/chelseabfinn",
-        "followers": 49227
+        "followers": 49226
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1xw2vTsAAAAJ",
@@ -1020,7 +989,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 108,
+      "heat": 117,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1531702062487965698/a6iO2pRx_400x400.jpg",
@@ -1046,7 +1015,7 @@
       "twitter": {
         "username": "chrmanning",
         "url": "https://twitter.com/chrmanning",
-        "followers": 96676
+        "followers": 96675
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=1zmDOdwAAAAJ",
@@ -1076,7 +1045,7 @@
         "Natural Language Processing",
         "Machine Learning"
       ],
-      "heat": 104,
+      "heat": 114,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/512256295542333440/8Jo4w8kV_400x400.jpeg",
@@ -1089,115 +1058,44 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/verity-harding.md",
-      "title": "Verity Harding",
-      "excerpt": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/verity-harding/index.json",
-      "webUrl": "https://everyday.cc/ai/people/verity-harding/",
+      "path": "_people/clement-farabet.md",
+      "title": "Clément Farabet",
+      "excerpt": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/clement-farabet/index.json",
+      "webUrl": "https://everyday.cc/ai/people/clement-farabet/",
       "type": "profile",
-      "name": "Verity Harding",
-      "bio": "AI and politics. Head of Global Policy & Partnerships at DeepMind. Views are my own. She / her.",
-      "location": "United Kingdom",
-      "website": "https://t.co/7skid8sUXc",
+      "name": "Clément Farabet",
+      "bio": "VP, AI infra @ NVIDIA, building self-driving cars and GPU based data science. Ex Twitter (Cortex cofounder). Prev cofounder at Madbits. Deep learning, AI.",
+      "location": "San Francisco, CA",
+      "website": "http://www.clement.farabet.net/",
       "twitter": {
-        "username": "verityharding",
-        "url": "https://twitter.com/verityharding",
-        "followers": 2546
+        "username": "clmt",
+        "url": "https://twitter.com/clmt",
+        "followers": 11049
       },
-      "wikipedia": {
-        "url": "https://en.wikipedia.org/wiki/Verity_Harding"
-      },
-      "topics": [
-        "AI"
-      ],
-      "heat": 92,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1582687675693371393/E51BAwY9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Verity Harding",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/bernhard-scholkopf.md",
-      "title": "Bernhard Schölkopf",
-      "excerpt": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/bernhard-scholkopf/index.json",
-      "webUrl": "https://everyday.cc/ai/people/bernhard-scholkopf/",
-      "type": "profile",
-      "name": "Bernhard Schölkopf",
-      "bio": "Director, Max Planck Institute for Intelligent Systems; and Distinguished Amazon Scholar",
-      "twitter": {
-        "username": "bschoelkopf",
-        "url": "https://twitter.com/bschoelkopf",
-        "followers": 10330
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/clementfarabet"
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=DZ-fHPgAAAAJ",
-        "citations": 192229
+        "url": "https://scholar.google.com/citations?user=u3u16tgAAAAJ",
+        "citations": 10384
       },
       "affiliation": {
         "path": "",
-        "name": "tuebingen.mpg.de",
-        "domain": "tuebingen.mpg.de"
+        "name": "nyu.edu - Homepage",
+        "domain": "nyu.edu - Homepage"
       },
       "topics": [
         "AI",
-        "Math for AI",
-        "Machine Learning"
+        "AI in Hardware"
       ],
-      "heat": 71,
+      "heat": 89,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/660352760513216512/XZCp8ZWc_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/953003983307550720/GhDHdn42_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Bernhard Schölkopf",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/javier-m-duarte.md",
-      "title": "Javier M. Duarte",
-      "excerpt": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/javier-m-duarte/index.json",
-      "webUrl": "https://everyday.cc/ai/people/javier-m-duarte/",
-      "type": "profile",
-      "name": "Javier M. Duarte",
-      "bio": "particle physics assistant prof at @UCSanDiego on the @CMSExperiment",
-      "location": "San Diego, CA",
-      "website": "https://t.co/Z06UY9gVRv",
-      "twitter": {
-        "username": "jmgduarte",
-        "url": "https://twitter.com/jmgduarte",
-        "followers": 494
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=GTtW9H0AAAAJ",
-        "citations": 168483
-      },
-      "affiliation": {
-        "path": "",
-        "name": "fnal.gov",
-        "domain": "fnal.gov"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 64,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1442955547343343616/vvBBIGGR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Javier M. Duarte",
+          "title": "Clément Farabet",
           "isCached": true
         }
       ],
@@ -1292,7 +1190,7 @@
             "Machine Learning",
             "AI in Autos"
           ],
-          "heat": 670,
+          "heat": 638,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/956331551435960322/OaqR8pAB_400x400.jpg",
@@ -1313,6 +1211,50 @@
           "height": 140,
           "title": "Daniela L. Rus",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/huahai-yang.md",
+      "title": "Huahai Yang",
+      "excerpt": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/huahai-yang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/huahai-yang/",
+      "type": "profile",
+      "name": "Huahai Yang",
+      "bio": "A technologist and an entrepreneur. Used to be a professor and a research scientist.",
+      "location": "San Jose, CA",
+      "website": "https://t.co/s5ydlRJnm8",
+      "twitter": {
+        "username": "huahaiy",
+        "url": "https://twitter.com/huahaiy",
+        "followers": 963
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/huahaiyang/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=KvPSD8EAAAAJ",
+        "citations": 17708
+      },
+      "affiliation": {
+        "path": "",
+        "name": "juji.io",
+        "domain": "juji.io"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "heat": 58,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1189433763953950721/9-Nr_tN-_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Huahai Yang",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1385,55 +1327,6 @@
           "height": 121,
           "title": "Anil K. Jain",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/christopher-m-bishop.md",
-      "title": "Christopher M. Bishop",
-      "excerpt": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/christopher-m-bishop/index.json",
-      "webUrl": "https://everyday.cc/ai/people/christopher-m-bishop/",
-      "type": "profile",
-      "name": "Christopher M. Bishop",
-      "bio": "Laboratory Director at Microsoft Research Cambridge @MSFTResearchCam",
-      "location": "Cambridge, England",
-      "website": "https://t.co/qaAoprog1k",
-      "twitter": {
-        "username": "chrisbishopmsft",
-        "url": "https://twitter.com/chrisbishopmsft",
-        "followers": 5831
-      },
-      "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=gsr-K3ADUvAC",
-        "citations": 125925
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "isCached": false
-          }
-        ]
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/750274527016386560/D8Z1_kgh_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Christopher M. Bishop",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1525,27 +1418,28 @@
       "content": "\r\n"
     },
     {
-      "path": "_people/daniele-bonacorsi.md",
-      "title": "Daniele Bonacorsi",
-      "excerpt": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/daniele-bonacorsi/index.json",
-      "webUrl": "https://everyday.cc/ai/people/daniele-bonacorsi/",
+      "path": "_people/david-lopez-mateos.md",
+      "title": "David Lopez Mateos",
+      "excerpt": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/david-lopez-mateos/index.json",
+      "webUrl": "https://everyday.cc/ai/people/david-lopez-mateos/",
       "type": "profile",
-      "name": "Daniele Bonacorsi",
-      "bio": "High-Energy Physics at CERN. Software and Computing for the CMS experiment at the LHC. Big Data Analytics, {M,D}Learning. University of Bologna, INFN, CERN.",
+      "name": "David Lopez Mateos",
+      "bio": "Chief Science Officer at Pace. Formerly VP of Research at Winton, particle physics researcher at Harvard and CERN",
+      "location": "London, England",
       "twitter": {
-        "username": "DBonacorsi",
-        "url": "https://twitter.com/DBonacorsi",
-        "followers": 745
+        "username": "SenorScience",
+        "url": "https://twitter.com/SenorScience",
+        "followers": 16
       },
       "googleScholar": {
-        "url": "https://scholar.google.com/citations?user=7_xEzmUAAAAJ",
-        "citations": 167342
+        "url": "https://scholar.google.com/citations?user=P6krKIkAAAAJ",
+        "citations": 191522
       },
       "affiliation": {
         "path": "",
-        "name": "infn.it",
-        "domain": "infn.it"
+        "name": "harvard.edu",
+        "domain": "harvard.edu"
       },
       "topics": [
         "AI",
@@ -1554,10 +1448,121 @@
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1841900580/twitter_image_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1082941401040650241/SSPcU9t1_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Daniele Bonacorsi",
+          "title": "David Lopez Mateos",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/erekle-magradze.md",
+      "title": "Erekle Magradze",
+      "excerpt": "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/erekle-magradze/index.json",
+      "webUrl": "https://everyday.cc/ai/people/erekle-magradze/",
+      "type": "profile",
+      "name": "Erekle Magradze",
+      "bio": "Director Of Engineering at MaxinAI.  Co-founder of DevOps Georgia",
+      "website": "https://georgia.sdsu.edu/en/instructors/erekle-magradze/78",
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/erekle-magradze-73303650/"
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=4mF2FgcAAAAJ",
+        "citations": 360659
+      },
+      "affiliation": {
+        "path": "",
+        "name": "iliauni.edu.ge",
+        "domain": "iliauni.edu.ge"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=4mF2FgcAAAAJ&citpid=1",
+          "width": 128,
+          "height": 128,
+          "title": "Erekle Magradze",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/fedor-ratnikov.md",
+      "title": "Fedor Ratnikov",
+      "excerpt": "National Research University Higher School of Economics",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/fedor-ratnikov/index.json",
+      "webUrl": "https://everyday.cc/ai/people/fedor-ratnikov/",
+      "type": "profile",
+      "name": "Fedor Ratnikov",
+      "bio": "National Research University Higher School of Economics",
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=vbLFLLEAAAAJ",
+        "citations": 159593
+      },
+      "affiliation": {
+        "path": "",
+        "name": "hse.ru",
+        "domain": "hse.ru"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://scholar.google.com/citations?view_op=view_photo&user=vbLFLLEAAAAJ&citpid=1",
+          "width": 128,
+          "height": 128,
+          "title": "Fedor Ratnikov",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/francisco-matorras.md",
+      "title": "Francisco Matorras",
+      "excerpt": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/francisco-matorras/index.json",
+      "webUrl": "https://everyday.cc/ai/people/francisco-matorras/",
+      "type": "profile",
+      "name": "Francisco Matorras",
+      "bio": "Pofessor of Physics, IFCA, Universidad de Cantabria - Consejo Superior de Investigaciones …",
+      "twitter": {
+        "username": "fmatorras",
+        "url": "https://twitter.com/fmatorras",
+        "followers": 290
+      },
+      "googleScholar": {
+        "url": "https://scholar.google.com/citations?user=q_wYjF8AAAAJ",
+        "citations": 317338
+      },
+      "affiliation": {
+        "path": "",
+        "name": "unican.es",
+        "domain": "unican.es"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/2284145603/avve47pj9ve1nnwip2pm_400x400.jpeg",
+          "width": 400,
+          "height": 400,
+          "title": "Francisco Matorras",
           "isCached": true
         }
       ],

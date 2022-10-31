@@ -10,7 +10,7 @@ website: https://research.google/people/RajatMonga/
 twitter:
   username: lmoroney
   url: https://twitter.com/lmoroney
-  followers: 28017
+  followers: 28014
 
 linkedin:
   url: https://www.linkedin.com/in/laurence-moroney/
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Laurence Moroney"
 
-secured: "5H1OjJfPcc6W8lHBi2YKxA0cklHXkS92taKjEUwOH1HjtDbiNQQC9GMvbA4lyANqZ4qxn8V2gN16+OSUz6rR2Y28nQo8i6sn7e//lmUcgf8If5DKpbol2X8rYB4YJZOmEaTrULCFUwukKICHcyWwt+eSU0mYE0myqiYKnpi7KAXjDzjSsWqa3jWXTN15JTul1fWwxO0/czgKbwu8fpvl/KTg7/6lesyH0hcSY6WJrLeYGH4z2UxP6xP8kjSSShstYDk+wP0qQu8l+km0nMA+j6BubHd67mo1vofqY7RxFS+WlajZRimVscsFOG9L3unKAzgYRn/eqjEbhaNZ0712/wmT5qXwAxQLz7ZsKyrFicPJH7ijA7VogdGWs6HSbJpDhvxm0UWFWmKfKJFIufaLCtlH9yW5Jytf6/f4dsQJExw=;J70xBeMbnPQ9XQsp5nkxjg=="
+secured: "Qbs7dhxDzYzuPfKYahjQdByzjWOiYki2rNInFXePBjMQ8E9IVoKk7kolWhZSVktQh4HpDlagtkLpN9bQ3TQ7La56LUP0SwPfttKrMhNrwjl8TqAqtYWkX3zEe2Lr3xzQh6Q2/NYWpi6qIAAET2M8YcBc67BCHQ9CXvXnmHtWN7KsH/glFai/g3BFJzmkMonjH7PoE7PJ5zq5cKZuynMI2a/A4GEzF0DLy974uoEx+Gz6HbYL+vdtsm0dahYvl3coXpPX9Q3qusBAFtNAGgEz+SlnCAlr/QCyWlGhyKox2VzRpbZWR+/GAKmvE/dSazkyFNX/PymH/Ft61ZzC9fSTYwzknKDl5QTNV6ygpxf3sEcHxvjwkwUyxa50LgJzQEyC8OHer+bHp+LUv1gumdlEzYc3/sioregHomawEO+RJQk=;+dXB1XLly1tjTbcoeaTupw=="
 ---
 
