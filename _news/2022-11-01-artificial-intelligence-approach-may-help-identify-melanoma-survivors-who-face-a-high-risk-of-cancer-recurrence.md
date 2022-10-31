@@ -1,22 +1,24 @@
 ---
 category: news
 title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
-excerpt: "Researchers have developed and validated a machine learning–based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence."
-publishedDateTime: 2022-10-31T17:36:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/969717"
-webUrl: "https://www.eurekalert.org/news-releases/969717"
+excerpt: "Researchers have developed and validated a machine learning--based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence."
+publishedDateTime: 2022-10-31T18:45:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Healthcare
   - AI
 
-secured: "yvRTldy7RSE/WlGSAp44gz6fwEEG28m47SBNJGo3HetXKD3tEFbCmQ7tULJTlFw8FZLsKDoOgMUWYuLBmbuuziW+5Gt7G2tQ7nnMiSBgPcmcPT2rjOTNCzgiUk37jzk9B16bAyluv7sYjKzjHrQbkaMc9j8mgQp7ceb1e26cDRH3OfaXxis0aXZg+/CHHui5CLDmUFR+LF6xudJ+N9wk783XmeXfY+5/p/9MUd6Wb7KyDZPh9AP93CCYzZvWBaGtcIakVcE7QeGu2rUPwYROxH6XS6MqqbxhRrkCRGU6FkJ13WbHd9ROrOYhdRgmCrEPEfj/eXHaf/7KbV1+IYD3Ly2HeKBdLu/dwrTE1EvCQ7A=;7uTbblqtSXBT4vNn8P4eXg=="
+secured: "lriGrjOzcF/Ibx7lFbENb7tO2iNcRRQezWHosj2gC0LYFQtKx1RewuKPtpAfm8HZUEiF/16Z4PAVCcjr3ZVHqhD3XGI9Suks/2+AQnNbB/DsKTX2c9Z3iMg4XnzR/menFiiI05VesgFkpbPsQTjq3kFU8QvScwmKzFt685T7eQKkLr+tmk+f+X934QZAI3ZAXBHtDl48x8VACvut8cN0+3clAF9K1Ordf7TTD4ARIu/l0RDlM4Wq8V3IFZuCYm2YORULD2UGKcaquDT6gL0kBGOMPuxWz8Pcs4rtfoV1oiJ47zapv3z+j1JSMuE8Z27w8ThvgOXQwOTndaFzt3iJ0kXlNpioXVDusWfzkmGbKmg=;sIjOrgjx4I6oc+wW5P2Niw=="
 ---
 

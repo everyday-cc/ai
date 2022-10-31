@@ -1,28 +1,19 @@
 ---
 category: news
 title: "AI helps researchers design microneedle patches that restore hair in balding mice"
-excerpt: "Hair loss is undesirable for many men — and women — because one’s hairstyle is often closely tied to their self-confidence. And while some people embrace it, others wish they could regrow their lost strands."
-publishedDateTime: 2022-10-31T17:48:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/969675"
-webUrl: "https://www.eurekalert.org/news-releases/969675"
+excerpt: "Hair loss is undesirable for many men—and women—because one's hairstyle is often closely tied to their self-confidence. And while some people embrace it, others wish they could regrow their lost strands."
+publishedDateTime: 2022-10-31T18:20:00Z
+originalUrl: "https://phys.org/news/2022-10-ai-microneedle-patches-hair-balding.html"
+webUrl: "https://phys.org/news/2022-10-ai-microneedle-patches-hair-balding.html"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/ca98d195-87e9-4eea-afbe-5631bcee4efd/Rendition/low-res/Content/Public"
-    width: 700
-    height: 398
-    isCached: true
-
-secured: "tNFR4VoTU7LlrgrYvoR0gQ4R12HIOZifGIOMBc8/4cuSOC+3ACz5eG4BvpxKXNjbpAjhd33XaNgVjVaQl+FiJb+72Vq5J/Ncz4k6L96nSZMuLY0ivj0NxiP5TS8yvvuWh+nXAps6DWJEZo5ZJi07gSqa4+VGNSZ1OMmuMhQNzRBnJvuMDVgUa/A8rfrP7dE/0pr6oy/Ljmf0REil4FjJa2t3GeA8AWxtbfXVwKrUy2qd3cWRFHxM32LajBtlie8I3HdoOGU76W7YriTvJpy0SkM9DLSC6v2bt/Rpjo0K2F88yviKwkCj85z5H2X4XduDDOTG5iQ2nD047udba9PSwLXDUrBaxeui/jfs/5xl4Fo=;Wvts2fWh/ce/Uh9JiseDUQ=="
+secured: "9HkYEaLoU3ok8j19h/PPKCIsiDgptUrkF7+iv5HcK52wAsenL8qqcGkTfXnjUSAwTyIouXxw4P2uNLx+1DxbqJyeTTLa0Cl9vK0RrlPi9TTNh8p9qhxtjTQa/kO89pRXTYRfLxfl7wl60SBHzmBGmP2Aj79c7fR38giKP5E3mAyfHPanvNlFg+nYB0kppU/pj+dUG7ZrMVkzNMlzFkODIUVhFIZ/QEWLtDBivKhKHzYKR8vBsdjbrpLgAC+59sLQIEQAPBMZSc1AXuF7sfxjjeqBPltMPa77ExSEyL0F9qwll+5T+ItfQg92zm1YqBPPV6u6oFx9j0sAosKonx1OZOXBKw9meVBEkAzY7/C1WLBwoa7S+mYiOVv4F0b8ubuhvCg92qQf3JeVUBVrdIYJBejA/1g+OadQ+GKZkB7GNZufchNLQ6hGdEvI7j1gCvqdBzNDi7dDEkg+yvXkQGgVFMB+6vpbONAKu29P9rtKR9S85DyZI37i80zbYMXbK/qEouM/a5/gEWO/n0YFyjNQ0g==;DHiW+FakKeIbQoXuFdXCew=="
 ---
 
