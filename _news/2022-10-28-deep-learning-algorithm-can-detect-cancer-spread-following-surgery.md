@@ -35,6 +35,15 @@ related:
         width: 700
         height: 394
         isCached: true
+  - title: "Machine Learning researchers are using wonderful terrible puns to title papers"
+    excerpt: "In a world where great minds have learned to harness AI to be the even greater minds behind machine learning techniques to control nuclear fusion (opens in new tab) or give voices"
+    publishedDateTime: 2022-10-31T02:33:00Z
+    webUrl: "https://www.pcgamer.com/machine-learning-researchers-are-using-wonderful-terrible-puns-to-title-papers/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 15
 
 secured: "h5/BMd3nTJAiLKY3aw15TkuGqcSbRR4LQjLz/ZI0vcFejjB/y20kMKVJutQVXwjA/lRGaCXeTF/ctTB7iXNaU5J2NSiFSDMAJMDhIlO3NCapj1Zx7ei6TwmSH6bClN4S9XMT/JWMR7HYaPT6rvE26GHp9UT+1Nzv+DApfUJ2VpxiUiee097Oukmb/jOmAttBIpEENDasmf7dKRMnYwYJt+KkDqYvEIzL/S6R+9VQ4mQfnGpc2mqTXgpb6hqwYrip1LFPysw8LgXYYZ4ikgzCqQTtkkvHZciiHzGpO7ymprrTxoLHZI8iBVhhwQVjZTIlSf7ItoJCYuBROGG44zR52Yy17H9iGDUMi3BD09kYriB71gzksW0JNq49QFI6WlqbMvwo2XIJPjlqLVR6BEG8qBa7lyjtXElhKYOBUDrdhgj+9miA7f4aKhJ03rN9C7YtfUSASyWE3eilsyzWvG572lWRJGFrgp+tQIfFaQnygbx6pqZ4YVELy3+CRsRe88Vj1M2N+ivaoe9jtgOfNZCgHg==;E6/Om3eUfPmXw9XbjVKiYA=="
 ---

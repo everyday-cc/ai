@@ -2,6 +2,100 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-26-ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy.md",
+      "title": "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy",
+      "excerpt": "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "originalUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
+      "publishedDateTime": "2022-10-26T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-uk-watchdog-warns-against-ai-for-emotional-analysis-dubs-immature-biometrics-a-bias-risk.md",
+      "title": "UK watchdog warns against AI for emotional analysis, dubs ‘immature’ biometrics a bias risk",
+      "excerpt": "‘Orwellian’ AI lie detector project challenged in EU court In another example, UK heath startup, Babylon AI, demonstrated an “emotion-scanning” AI embedded into a telehealth platform back in a 2018 presentation — saying the tech scanned facial ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
+      "originalUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/5563567802_8419411440_k.jpg?resize=1200,929",
+          "width": 1200,
+          "height": 929,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
+      "publishedDateTime": "2022-10-26T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-how-can-human-powered-ai-advance-the-future-of-music-in-advertising.md",
       "title": "How Can Human-Powered AI Advance The Future Of Music In Advertising?",
       "excerpt": "The ushering in of human-aided AI for music will be a renaissance where we see how technology can inspire new ways of creativity in music production.",
@@ -1124,110 +1218,6 @@
       ],
       "topics": [
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
-      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
-      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 892,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
-      "publishedDateTime": "2022-10-25T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
-      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
-      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
-          "width": 654,
-          "height": 418,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
-      "publishedDateTime": "2022-10-25T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

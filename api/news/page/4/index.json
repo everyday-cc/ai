@@ -2,27 +2,149 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
+      "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
+      "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6357f7cc516bd094593671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 892,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/10/25/microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022/amp/",
+      "publishedDateTime": "2022-10-25T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-generative-ai-will-impact-every-tool-out-there-says-jasper-ceo.md",
+      "title": "Generative AI will ‘impact every tool out there,’ says Jasper CEO",
+      "excerpt": "Dave Rogenmoser, CEO of Jasper AI, says that generative AI is no flash in the pan — and enterprise companies should consider their strategy.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
+      "originalUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Jasper.ai-Free-Trial-3.png?w=1200&strip=all",
+          "width": 654,
+          "height": 418,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/generative-ai-will-impact-every-tool-out-there-says-jasper-ceo/amp/",
+      "publishedDateTime": "2022-10-25T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
       "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
+      "excerpt": "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
+      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29397500",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500",
-      "publishedDateTime": "2022-10-25T06:11:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1065,109 +1187,6 @@
         "AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-fmr-google-ceo-raises-ethics-concerns-over-conflict-of-interest-with-ai-investments.md",
-      "title": "Fmr. Google CEO raises ethics concerns over conflict of interest with AI investments",
-      "excerpt": "CNBC's Eamon Javers joins 'Squawk Box' to report on the direct AI investments fmr. Google CEO Eric Schmidt made while chairing the Federal Advisory AI Commission, and the fractures in government oversight and ethics systems that enabled Schmidt's activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107139496-16666188131666618807-26181245313-1080pnbcnews.jpg?v=1666618813&w=1920&h=1080",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T04:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-ai-is-now-heres-what-it-looks-like-in-practice.md",
-      "title": "AI Is Now: Here’s What It Looks Like In Practice",
-      "excerpt": "Here are a few ways our agency leverages AI and machine learning to help organizations gain a competitive advantage.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/628e44e29ba891bb836a6390/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
-      "publishedDateTime": "2022-10-24T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -1,26 +1,28 @@
 ---
 category: news
-title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
+title: "Google buys AI avatar startup 'Alter' for $100 mn"
 excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-publishedDateTime: 2022-10-30T07:05:00Z
-originalUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
-webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
+publishedDateTime: 2022-10-31T03:18:00Z
+originalUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
+webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
+ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
+cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
 type: article
-quality: 16
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Tribune
-  domain: tribuneindia.com
+  name: cio.economictimes.indiatimes
+  domain: indiatimes.com
 
 topics:
   - AI
 
 images:
-  - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
-    width: 627
-    height: 418
+  - url: "https://etimg.etb2bimg.com/thumb/msid-95191281,imgsize-11978,width-1200,height-628,overlay-etcio/google-buys-ai-avatar-startup-alter-for-100-mn.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
 related:
@@ -136,22 +138,6 @@ related:
         width: 1200
         height: 750
         isCached: true
-  - title: "Google buys AI avatar startup 'Alter' for $100 mn"
-    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
-    publishedDateTime: 2022-10-31T03:18:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/strategy-and-management/google-buys-ai-avatar-startup-alter-for-100-mn/95191281"
-    type: article
-    provider:
-      name: cio.economictimes.indiatimes
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-95191281,imgsize-11978,width-1200,height-628,overlay-etcio/google-buys-ai-avatar-startup-alter-for-100-mn.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
     excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
     publishedDateTime: 2022-10-30T08:00:00Z
@@ -166,7 +152,21 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
+    excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
+    publishedDateTime: 2022-10-30T07:05:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-buys-ai-avatar-startup-alter-for-100-million-aims-to-improve-its-content-game-and-compete-with-tiktok-445864"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 16
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/10/2022_10$largeimg_1220353438.jpg"
+        width: 627
+        height: 418
+        isCached: true
 
-secured: "Ei83md7NVA+9SkZ9gVkkDl6K8NRsfkVDhEXskyIGwZTKl51iGY3pFXwPiYusJVH9nf5rxX8RkcgzpwBuN9pUBqb5bsCiXbyLece2vqbABDpCZFqM+o9eAq5/dTYIZA7qMvgPg+0XNNb004EnbjWCeMV3CB4BiqrIus38I89ZKJL50vV93oNVnGvhVnGfQuwlLV56gdptEpyVMyHra0oPHXFeYuKFFvigk8wMMCXuFFJO/tdH3GDI16Ca09qBt40cKr8Ijo1Nowa84p3TDMGnioV8ptFFva8Vcjc5K6r+ZJUXhvoFqd1DvkeJRvXNwUr/Ftt0zZSZbrm2aeh05RpkH65/7I7pexFhKBBmcHKNbt+OYo59nlZFr9fLvMXJURFjkyabcwvP8wY8GvRgxXWu0H3FuSMjQqrD5QvrdlwWIfTSXM53yofbMDAJG2BHbLKDGp8bhA6s/2rPU01apCtxOowQZc82AuATapkNZno4v+rXc/8vD5aZlIb2w15xJwb+izfGL4B6UEqaG1KzVJJn8g==;+v/3q9hx9K0jv+ZOqXf94Q=="
+secured: "86dqA0w0MT7oOpDN5kiPB2bTfSV+FqI54+vSP6P+/OmUvEPxA/KA9USSNpuR8x2tXjp3Owohv6o5V+oRjKm/wKOT02PUesGBcjZf85M6SfSqpMCHeR1knmv7Nfu0Vmp6mcqo141di15HYfzME7XA4oqpGED+KuUwL2nhOGJ00U8qt9FrZTPT/MydKIgEFJX7cdu0Gh2cg/9i1Jio+AukDqy8NF4bj/K7/w94AVSt8/J6IT/jMmHLzkE1BIh5eYZEfDgzD8ZtjAN2nqforAJlLNAPGUEn8HQVvKWQET2ozWzTBMWEKbEXMjIjDUHygr94M6cA7Dau14pgnL2T+uZfIRHlSzc7G1h9nf/TWmVl6R0=;uhH8MHqu/t8lfSzGr7Jxtg=="
 ---
 

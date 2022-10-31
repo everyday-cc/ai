@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/29412965"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29412965"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -20,22 +20,6 @@ topics:
   - Computer Vision
   - AI
   - AI Hardware
-
-related:
-  - title: "Blueshift Memory awarded grant to develop AI Computer Vision module"
-    excerpt: "Blueshift Memory, an innovator of novel proprietary high-speed computer architectures, has been selected to receive one of the Smart Grants awarded by Innovate UK (part of UK Research and Innovation) during early 2022."
-    publishedDateTime: 2022-10-26T10:20:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/blueshift-memory-awarded-grant-to-develop-ai-computer-vision-module"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 54
-    images:
-      - url: "https://www.newelectronics.co.uk/media/rxtnrpvr/blueshift620.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "pQZHBoQ60QKH47beIk9lV57jzFIQtUq3RBq7Jf//sTqYKviRIzI9CnsI+gaE9dr+8paV+14qBMq2Ivm8wCJJPFyZnhpHOTCeUw03un9Sesv4IveNsyHMJqa5SXIp6d+X1w2XPpAt12p5zwz/ZfXA8PpeTehwcanJ/GHqCfy1jzY2H/zH3VNeln1PB3n/D07VP82/sITC43J7nkgWbkkQkfk2jjuDxVjF/+EkkRQB/CbuoCXrZ5ICNocQra3DyBiIo/KbNx65PgLPUsno+csDCH2gwBvImBp+qhNtGv1YkCmEWtG3kg5CNXlsicSiItlTiXFftQU9R9s8EHrJ3QQh2iIwrb9KcZ1Lpjeh9GfPRJw=;8wqfNY1Buua6TTF365viAA=="
 ---

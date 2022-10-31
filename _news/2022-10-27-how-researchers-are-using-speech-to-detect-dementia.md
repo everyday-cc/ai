@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Machine Learning researchers are using wonderful terrible puns to title papers"
+    excerpt: "In a world where great minds have learned to harness AI to be the even greater minds behind machine learning techniques to control nuclear fusion (opens in new tab) or give voices"
+    publishedDateTime: 2022-10-31T02:33:00Z
+    webUrl: "https://www.pcgamer.com/machine-learning-researchers-are-using-wonderful-terrible-puns-to-title-papers/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 15
   - title: "Deep-Learning Algorithm Can Detect Cancer Spread Following Surgery"
     excerpt: "New research shows that a deep-learning algorithm that uses computed tomography scan images can help predict the spread of head and neck cancer outside of the neck lymph nodes."
     publishedDateTime: 2022-10-27T17:30:00Z

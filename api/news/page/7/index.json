@@ -2,6 +2,101 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-21-natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030.md",
+      "title": "Natural Language Processing (NLP) Market Projected to Hit US$ 63.0 billion By 2030",
+      "excerpt": "The global natural language processing (NLP) market was estimated at US$ 10 billion in 2020 and anticipates growing at a significant compound annual growth rate (CAGR) of 20.2% during the forecast period from 2021-2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-projected-to-hit-us-630-billion-by-2030-2022-10-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-20T23:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-21-facial-recognition-used-in-arrest-of-911-conspiracy-theory-lawyer-accused-of-trying-to-disarm-officer-on-jan-6.md",
+      "title": "Facial recognition used in arrest of 9/11 conspiracy theory lawyer accused of trying to disarm officer on Jan. 6",
+      "excerpt": "\"Following this tip, the FBI reviewed New York Department of Motor Vehicles (DMV) photos of John O’Kelly, and used facial recognition software to compare O’Kelly’s DMV photos to footage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
+      "originalUrl": "https://www.nbcnews.com/politics/justice-department/facial-recognition-used-arrest-911-conspiracy-theory-lawyer-accused-tr-rcna53298",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-10/221020-John-o-kelly-capitol-rioter-snip-ac-529p-918dcf.jpg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna53298",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna53298",
+      "publishedDateTime": "2022-10-20T20:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-21-post-covid-cognitive-impairments-similar-to-being-sleep-deprived-study-says.md",
       "title": "Post-COVID cognitive impairments similar to being 'sleep deprived,' study says",
       "excerpt": "Toronto, Ontario (CTV Network) -- A new Western University-led study has shed more light on the impacts of COVID-19, suggesting patients may experience short- and long-term cognitive impairments ...",
@@ -1059,83 +1154,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-france-slaps-fine-on-face-recognition-firm-clearview-ai.md",
-      "title": "France Slaps Fine On Face Recognition Firm Clearview AI",
-      "excerpt": "France on Thursday slapped a 20-million-euro fine on US firm Clearview AI for breaching privacy laws, as pressure mounts on the controversial facial-recognition platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
-      "originalUrl": "https://www.barrons.com/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/news/france-slaps-fine-on-face-recognition-firm-clearview-ai-01666267807",
-      "publishedDateTime": "2022-10-20T09:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph.md",
-      "title": "Mechanical neural network could enable smart aircraft wings that morph",
-      "excerpt": "The basis of modern AI research is the artificial neural network (ANN), which mimics the structure of the human brain by creating large grids of artificial neurons connected by synapses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
-      "originalUrl": "https://www.newscientist.com/article/2342654-mechanical-neural-network-could-enable-smart-aircraft-wings-that-morph/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/10/19141859/SEI_130165361.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-20T08:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

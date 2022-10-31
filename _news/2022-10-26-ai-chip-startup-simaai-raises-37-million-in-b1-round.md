@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html"
 type: article
 quality: 76
-heat: 96
+heat: 86
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://www.siliconindia.com/news/newsimages/3ClZnTp5.jpg"
         width: 570
         height: 367
-        isCached: true
-  - title: "AI start-up Axelera AI closes $27m Series A funding round"
-    excerpt: "The European AI start-up Axelera AI has announced the close of its $27 million Series A investment round. The funding will support the company’s launch and mass production of its first-generation AI acceleration platform, powered by its disruptive in ..."
-    publishedDateTime: 2022-10-26T10:17:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/ai-start-up-axelera-ai-closes-27m-series-a-funding-round"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 37
-    images:
-      - url: "https://www.newelectronics.co.uk/media/nuckng5c/axelera-ai-series-a-funding.png?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "QP3CtswWg/X/dfojvt9NVSKlTKEk87rycuqpAYRXYGt4EcaxltUECWYUEizWWK/Z8fI+hbboLQpgSn1NIWDNB5mBEvhvOOhL7Y6Zffj2JtkO7ZBCo+qSbn40+AZC1mCtY6WTkPfOVsQLl9+3PpMf9b3CKOu2nDpVdvIgTsSbuLPL3+ZUvYTdcVkbgRkzl6WA81JDKs2QtLAj7gf4z8hhpAKo8bwRjgUFqUw1BImTi44XS2h5MAlfNFLnPIANqd9M4BhHyBQmjjnincTaGUZH38LUk4j21LryYp62kAx9ZoFE7xx+xMkRksIo5qSoZo7CUaBgG/5CTEDf3YDtg0MeR4ZdliJHKWZEF5bX7aeiBXCt/sh5oDKU5SoS+sf1azrlJ2cNIJPTxXcD7ck29n6i+7yEATWorrPa4dbk3u9rJ+h62OMUX6RBlBFfhp+uImUZuyuRsbRDYMmmGP3yJKXcZkqigUV6rTetvIRTQzQ6/xnolGoTauxeY5g2hzAyXV4BO8ZTQrLQNJrwzStzmgH7yQ==;wP/K0fvh4Qtp3N1rcFKgdw=="

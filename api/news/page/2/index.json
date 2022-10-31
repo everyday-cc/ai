@@ -2,6 +2,110 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
+      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
+      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
+      "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
+      "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
+      "originalUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2140508/cat-using-phone.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
+      "publishedDateTime": "2022-10-27T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-ais-new-creative-streak-sparks-a-silicon-valley-gold-rush.md",
       "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
       "excerpt": "Investors have got the hots for \"generative AI\" that can make text and images. But so far, the hype runs ahead of the business results.",
@@ -1121,7 +1225,7 @@
       "originalUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 96,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -1154,100 +1258,6 @@
         "AI",
         "AI Hardware",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI Model Uses Daily Step Counts to Predict Unplanned Hospitalizations During Cancer Therapy",
-      "excerpt": "Newly developed artificial intelligence (AI) model that uses daily step counts may help predict unplanned hospitalizations during cancer therapy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "originalUrl": "https://www.medindia.net/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.medindia.net/health-images/new-ai-detects-patients-with-high-cholesterol.jpg",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/ai-model-uses-daily-step-counts-to-predict-unplanned-hospitalizations-during-cancer-therapy-208991-1.htm",
-      "publishedDateTime": "2022-10-26T05:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-uk-watchdog-warns-against-ai-for-emotional-analysis-dubs-immature-biometrics-a-bias-risk.md",
-      "title": "UK watchdog warns against AI for emotional analysis, dubs ‘immature’ biometrics a bias risk",
-      "excerpt": "‘Orwellian’ AI lie detector project challenged in EU court In another example, UK heath startup, Babylon AI, demonstrated an “emotion-scanning” AI embedded into a telehealth platform back in a 2018 presentation — saying the tech scanned facial ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
-      "originalUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/5563567802_8419411440_k.jpg?resize=1200,929",
-          "width": 1200,
-          "height": 929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/26/no-to-voight-kampff-tests/amp/",
-      "publishedDateTime": "2022-10-26T05:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

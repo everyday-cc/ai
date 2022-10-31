@@ -3,8 +3,8 @@ category: news
 title: "Today’s news in 10 minutes"
 excerpt: "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom."
 publishedDateTime: 2022-10-31T01:05:00Z
-originalUrl: "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon"
-webUrl: "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon"
+originalUrl: "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html"
+webUrl: "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 619
     isCached: true
 
-secured: "fFKZXF+zC3HRYhy8wcH1bDYX3eB63pzFHv5jAzBbAxxIV8KWW3h6hm5F67PaWC6y0pyIJ3CA040NvLunCYn67KFvLhqQnugiO9rYMmM2zv1qhU0aBqT7O76Dd+1lQ+kiCHxaMVo222vMAr2GLveXVqsXS8v5A/aRTsTNWKIPUp/9enu0XlsGf8ACTFU/IfN2zL+dbzhko/X9oVZY7maR2xOAL4w79XcT025DKIBD77f7ZWItIu1+iDzQb4v6h6XiSTn8ht+amxaLdLIWASh3Dyrt4rr0uuI74uVMD8PYgxGKjuUNxqOOKs5YddWwiEjOdOvKVt5Y09uOIVMITx0oVcOSFd5cAfLMlOLy9T18sB4=;WOwYQSORDGx9ahxP3X+zCA=="
+secured: "OwM6IPspvqKfT+1klvtLvW00ZvVVNpQsUNiY+lLispdLYbCHI6Y15fuBgbeEMBR1JPqrjuW7RlNRXb8m7Fd63YOU4DYSjDBbO18Ej22zEERabsls6UIBSst+y4eJUThxQxhjX4VhdYH5uUIQlpvipqtHHK/wWkM//BZQ7Gi8WCcUisgZ9o3hOwAVTd7V2ewj1AOCC6ByQAj4KbMa1PrLRaaJblTHIBUcXuBOSjZtOGg20xA3pHi4ScgpIg1+/D97wT4DVqUd1PLVMb2prcE9m6EBoSkUu6N3rrsiBpADHD7hkMMTWiC3UdB0Jxj+t3q2lPMkCYeagK/K9+QYRhfr5ghgr1SM2uNFOjwoIBTLkyk=;61ZF7bXHVo0QPIeo7jeV1A=="
 ---
 

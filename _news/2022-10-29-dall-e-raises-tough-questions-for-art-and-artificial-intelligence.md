@@ -7,7 +7,7 @@ originalUrl: "https://www.businesspost.ie/connected/dall-e-raises-tough-question
 webUrl: "https://www.businesspost.ie/connected/dall-e-raises-tough-questions-for-art-and-artificial-intelligence/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Shutterstock to sell AI-generated images using OpenAI’s DALL-E"
-    excerpt: "Shutterstock plans to integrate OpenAI's DALL-E AI model onto its website, to give customers direct access to its text-to-image capabilities."
-    publishedDateTime: 2022-10-26T09:13:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/shutterstock-ai-generated-images-openai"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 39
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/10/AdobeStock_399118655_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
 
 secured: "mwJ/VXyyr1KRGuYP19qa8nvh8JqHoRFJrbK5oRZGtMzjj9Jj2tU8KpOrqaqI58e7UJGQhTSS3jFt3Kps/waqVfbjyJtmEnJEMrGl7n+TC/Tvu1DrhGsBHC/EB11dgFwILRZFRQSrVh+0PRgAD/gNGvFQWg0YoI700TGkrF24xtdM16CgvVKensZgFIT+ZdSyg4INAabpLXEWQgs9exMry7ksoUqC7rk2N5vzTGkkuh7gZ6zBIHCFoKc9jJldlM8qmw6BZUWjzQbQAufHGM3OPE6OxoiIlx1REpJ3b8838oLiYQUGpZxf5NM7ykAZFyIhBXu6VKBdrPpytI97QPd0iQ6tmo0hU4u2jScvPsG1mNWuksHpLarbQyxnTF8avV0RxwYlXaE5dg6kZG6xrQPeXhO9Zadqn5GXorWSyJuyRyKPb9Y+D5bUI8DNQRGwTXzXSzxOZTaX1VNx9HFgg49MMdjm3X6Aj57QYP1pr7pUWpghIvP9zX8RJX6uMmgVSQ9b0iVFePibhKk8gg7G0XlM7g==;LC0yOLs23DD+hx+RuCO7oA=="
 ---

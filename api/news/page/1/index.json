@@ -2,12 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-31-intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.md",
+      "title": "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration",
+      "excerpt": "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html",
+      "originalUrl": "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tweaktown.com/news/8/9/89240_03_intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.jpg",
+          "width": 620,
+          "height": 348,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-30T20:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TweakTown",
+        "domain": "tweaktown.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
       "title": "Today’s news in 10 minutes",
       "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon",
-      "originalUrl": "https://edition.cnn.com/2022/10/30/cnn10/ten-content-mon",
+      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
       "featuredContent": null,
       "highlight": null,
       "heat": 74,
@@ -50,6 +95,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-the-argument-for-an-ai-augmented-workforce.md",
+      "title": "The Argument For An AI Augmented Workforce",
+      "excerpt": "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
+      "publishedDateTime": "2022-10-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -719,7 +815,7 @@
       "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar-report-says/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 169,
+      "heat": 179,
       "tags": null,
       "images": [
         {
@@ -1158,110 +1254,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run.md",
-      "title": "Lego to discontinue Mindstorms robot line after a 24-year run",
-      "excerpt": "Lego Mindstorms debuted on September 1, 1998, as a breakthrough educational tool—originally developed at MIT—that allowed kids and adults alike to craft robotic systems using",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "originalUrl": "https://arstechnica.com/gadgets/2022/10/lego-to-discontinue-mindstorms-robot-line-after-a-24-year-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/lego_mindstorms_hero-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
-      "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
-      "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "originalUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2140508/cat-using-phone.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "publishedDateTime": "2022-10-27T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
