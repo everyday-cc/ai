@@ -2,6 +2,41 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-09-29-amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise.md",
+      "title": "Amazon (AMZN) Expands Its AWS Offerings With IoT FleetWise",
+      "excerpt": "Amazon Web Services (\"AWS\") — continues to strengthen its service offerings in a bid to sustain its cloud dominance. The move to make AWS IoT FleetWise generally available is a testament to the same.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
+      "originalUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/amazon-amzn-expands-its-aws-offerings-with-iot-fleetwise?amp",
+      "publishedDateTime": "2022-09-29T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-29-sean-hannity-this-is-another-example-of-bidens-cognitive-decline.md",
       "title": "SEAN HANNITY: This is another example of Biden's 'cognitive decline'",
       "excerpt": "You can't make it up. I don't have words for this. Usually, these obvious examples of Biden's cognitive decline are totally ignored by most in the media mob. But today, multiple reporters ...",
@@ -1354,60 +1389,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-09-21-automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027.md",
-      "title": "Automotive Artificial Intelligence (AI) Market Worth $15.9 Billion by 2027",
-      "excerpt": "According to a new market research report \"Automotive Artificial Intelligence (AI) Market by Component (Hardware,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "originalUrl": "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-ai-market-worth-159-billion-by-2027-2022-09-21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-21T01:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Robotics",
-        "AI in Autos"
       ]
     }
   ],

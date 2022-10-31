@@ -47,22 +47,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "Tesla faces U.S. criminal probe around self-driving claims"
-    excerpt: "Federal prosecutors are looking into claims made by Tesla and CEO Elon Musk about the capabilities of his company's automated driving systems."
-    publishedDateTime: 2022-10-26T23:48:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-10-26/tesla-faces-u-s-criminal-probe-around-self-driving-claims?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 74
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/cdd25ff/2147483647/strip/true/crop/4206x2813+6+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F0b%2F89%2F963a35394286ac3d27548417d748%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1239417284"
-        width: 320
-        height: 214
-        isCached: true
   - title: "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes"
     excerpt: "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters.."
     publishedDateTime: 2022-10-27T12:09:00Z
@@ -72,20 +56,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 59
-  - title: "Report: Tesla under DoJ criminal probe related to self-driving claims"
-    excerpt: "Tesla has some trouble on its hands, as the Department of Justice is investigating the electric automaker as part of a criminal probe."
-    publishedDateTime: 2022-10-27T00:30:00Z
-    webUrl: "https://www.tweaktown.com/news/89151/report-tesla-under-doj-criminal-probe-related-to-self-driving-claims/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 54
-    images:
-      - url: "https://static.tweaktown.com/news/8/9/89151_03_report-tesla-under-doj-criminal-probe-related-to-self-driving-claims.jpg"
-        width: 620
-        height: 413
-        isCached: true
   - title: "Tesla faces US criminal probe over self-driving claims: Report"
     excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
     publishedDateTime: 2022-10-27T07:43:00Z
@@ -127,20 +97,6 @@ related:
       - url: "https://www.thedrive.com/uploads/2022/10/26/TESLA-AUTOPILOT-CRASHES-SAVES-_-TESLACAM-STORIES-73-6-26-screenshot.jpg?auto=webp"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Tesla Under Investigation After Fatal Self-Driving Crashes"
-    excerpt: "The DOJ has opened the investigation over the company’s self-driving claims after more than a dozen crashes occurred."
-    publishedDateTime: 2022-10-26T23:56:00Z
-    webUrl: "https://www.thedailybeast.com/tesla-is-under-investigation-over-self-driving-claims-adding-to-elon-musk-legal-troubles"
-    type: article
-    provider:
-      name: The Daily Beast
-      domain: thedailybeast.com
-    quality: 39
-    images:
-      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_804,w_1431,x_790,y_758/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666816783/GettyImages-490597690_pg31o9"
-        width: 1431
-        height: 804
         isCached: true
 
 secured: "J8JwklKNdE0rGIOC16iYC6yBmJetQQpxpOOF2qXnaajK6DmI6otYC0xpuyVKg0xCI8B992yI1MDRH38z8CBA/tRlM8iori7OGhYdRXPELGehWMV9k05jhRSSnl5+9rro7h2Q4cSpV5hym6hKqyXTmIPnaELpqezym7zZKZDpfq6udv6RIdYEU3OFpRheMjknopCv9GAVyOkiUC0FoIfD2wxu6hg6jjst5eg4BbhM4C0m0sufxJYbgvFfF6kQYKLzX9LLy5ahiZt+bFvnHxu3XkZHuoQp2K4yptaQxN2kyBxUFW+NlNG5L7eOs9Ris1zTO8I/FEKZBneerOXAKSZUQGTrC9R+LcerAFljchItPIo40o9FubdQAkAMu1U0+EcLKw83ug99U4mhyWdEObuTHg6/+q/V4yEyMCbx70j6WVIH3LSawg/dJV1Mg/vbEvAyqhLTYEHo7wK0az49TuQqtbPMh7EHEsnaNBGvfo1RZ71CJ58Xy5eClOzxdC+d2v4Hveo0RwCyrUaqDFJRVJXqVA==;6annjFGgg8ctwlrPCt71Eg=="

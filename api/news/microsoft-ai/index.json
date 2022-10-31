@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
+      "title": "How responsible AI creates measurable ROI",
+      "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "originalUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1267598662.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-responsible-ai-creates-measurable-roi/amp/",
+      "publishedDateTime": "2022-10-31T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
       "title": "Father of Azure Cognitive Services joins AI startup Vaital",
       "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
@@ -1200,25 +1252,43 @@
     {
       "path": "_news/2022-10-20-contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai.md",
       "title": "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI",
-      "excerpt": "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ...",
+      "excerpt": "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community.",
       "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai",
+      "webUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29335363",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363",
-      "publishedDateTime": "2022-10-19T21:12:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-19T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1327,40 +1397,6 @@
         "Microsoft AI",
         "Machine Learning",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
-      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
-      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
-      "sourceUrl": null,
-      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-18T18:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global News",
-        "domain": "globalnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-28T00:00:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/10/221028180848.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/10/221028180848.htm"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 related:
   - title: "Artificial intelligence and molecule machine join forces to generalize automated chemistry"

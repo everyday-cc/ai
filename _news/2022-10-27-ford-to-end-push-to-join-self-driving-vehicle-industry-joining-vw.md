@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Study Finds Drivers Treat Partially Automated Vehicles as Self-Driving"
+    excerpt: "According to IIHS, regular users of Super Cruise, ProPILOT Assist, and Autopilot said they were more likely to perform non-driving-related activities like eating or texting while using their semi-autonomous systems than when driving unassisted."
+    publishedDateTime: 2022-10-31T16:10:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21253740/electronic-design-study-finds-drivers-treat-partially-automated-vehicles-as-selfdriving"
+    type: article
+    provider:
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
+    images:
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/10/IIHS_promo_web.635ff0c857681.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Japan to open roads to self-driving vehicles in April"
     excerpt: "Under plans revealed this week, the National Police Agency seeks next April to lift a ban on so-called Level 4 self-driving vehicles, which can operate without a driver under certain conditions.  SoftBank Group-backed Boldly recently announced a partnership with Estonia’s Auve Tech that aims to put Level 4 self-driving buses on Japanese roads by fiscal 2023."
     publishedDateTime: 2022-10-28T02:43:00Z

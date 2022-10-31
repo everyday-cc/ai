@@ -2,6 +2,343 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-10-26-machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report.md",
+      "title": "Machine Learning as a Service (MLaaS) Market Identify the Growth, Statistics, Revenue, challenges, and Forecast to 2029 | Newst 104 Pages Report",
+      "excerpt": "Market - Covid-19 Impact and Recovery Analysis: We have been tracking the direct impact of COVID-19 on this market, as well as the indirect impact from other industries. This report analyzes the impact of the pandemic on the Machine Learning as a Service (MLaaS) market from a Global and Regional perspective.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report-2022-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-identify-the-growth-statistics-revenue-challenges-and-forecast-to-2029-newst-104-pages-report-2022-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages.md",
+      "title": "Speech Recognition Market Report Entails a Detailed Qualitative and Quantitative Analysis By 2030 | 141 Report Pages",
+      "excerpt": "Pages No.] Speech Recognition Market report are massive business with critical facilities designed to efficiently support robust opportunities, scalable applications and are often associated with big data-producing companies such as ,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-recognition-market-report-entails-a-detailed-qualitative-and-quantitative-analysis-by-2030-141-report-pages-2022-10-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-words-face-recognition-supported-by-1-brain-hemisphere-study.md",
+      "title": "Words, face recognition supported by 1 brain hemisphere: study",
+      "excerpt": "Research shows how words, face recognition can be supported with a single brain hemisphere Research findings, published by University of Pittsburgh researchers in the Proceedings of the National ...",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "originalUrl": "https://gulfnews.com/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2019/12/02/191202-brain-networks_16ec6b5e666_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/world/words-face-recognition-supported-by-1-brain-hemisphere-study-1.1666756528289",
+      "publishedDateTime": "2022-10-25T20:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029.md",
+      "title": "Cloud AI in Fintech Market : Competitive Strategy Analysis and Forecast Values 2022-2029",
+      "excerpt": "Cloud AI in Fintech Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021, at unexpected",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-in-fintech-market-competitive-strategy-analysis-and-forecast-values-2022-2029-2022-10-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-aizen-global-to-introduce-ai-banking-service-at-singapore-fintech-festival.md",
+      "title": "AIZEN Global to introduce AI banking service at Singapore Fintech Festival",
+      "excerpt": "The company is also planning to demonstrate its AI service-type banking and share examples of banking service applications in various industries at this fintech event, which is the largest in Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "originalUrl": "https://www.asiaone.com/business/aizen-global-introduce-ai-banking-service-singapore-fintech-festival",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_1049.jpg?h=04d92ac6&itok=93pX9W6n",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-intels-mobileye-self-driving-car-unit-prices-ipo-above-range.md",
+      "title": "Intel's Mobileye Self-Driving Car Unit Prices IPO Above Range",
+      "excerpt": "The chip giant's subsidiary prices IPO at $21 a share, a dollar above the $18 to $20 range previously expected.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/91d7fade41a5e3df6b3a03426955b3734741bf64/hub/2022/04/26/f6588c04-14b7-45da-be30-72310a85b709/intel-mobileye-autonomous-test-vehicles.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/intels-mobileye-self-driving-car-unit-prices-ipo-above-range/",
+      "publishedDateTime": "2022-10-25T17:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-26-generative-ai-startups-attract-business-customers-investor-funding.md",
+      "title": "Generative AI Startups Attract Business Customers, Investor Funding",
+      "excerpt": "Austin-based Jasper, whose AI platform generates marketing materials, last week announced a $125 million Series A fundraising round.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/generative-ai-startups-attract-business-customers-investor-funding-11666736176?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-651809/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-10-26-mlsec-could-be-the-answer-to-adversarial-ai-and-machine-learning-attacks.md",
       "title": "MLsec could be the answer to adversarial AI and machine learning attacks",
       "excerpt": "With research showing that private investment in artificial intelligence (AI) reached roughly $93.5 billion in 2021, it’s no secret that many organizations are implementing AI and machine learning",
@@ -801,212 +1138,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-25-why-writers-need-to-make-use-of-ai-content-generator.md",
-      "title": "Why writers need to make use of AI content generator",
-      "excerpt": "The need to make the writer’s content more interesting and attractive with available multimedia content has made technology the right tool for content to stay fresh and relevant. There is a huge responsibility for content writers that their content should be unique,",
+      "path": "_news/2022-10-25-your-health-brain-like-ai-no-internet-needed.md",
+      "title": "YOUR HEALTH: Brain-like AI, no internet needed",
+      "excerpt": "The scientists say with no need for internet connection, the AI would also work in space, where no AI technology has gone before.",
       "sourceUrl": null,
-      "webUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "originalUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/10/pexels-startup-stock-photos-7112.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/why-writers-need-to-make-use-of-ai-content-generator/amp/",
-      "publishedDateTime": "2022-10-24T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-the-value-of-artificial-intelligence-isnt-just-insights.md",
-      "title": "The Value Of Artificial Intelligence Isn’t Just Insights",
-      "excerpt": "The impact of AI will take time until it is felt, argue Aja Agrawal, Joshua Gans, and Avi Goldfarb, co-authors of Power and Prediction: The Disruptive Economics of Artificial Intelligence. Right now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63575c205665bd66e7a133f3/0x0.jpg?format=jpg&width=1200",
-          "width": 933,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/25/the-value-of-artificial-intelligence-isnt-just-insights/amp/",
-      "publishedDateTime": "2022-10-24T21:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-word-and-face-recognition-can-be-adequately-supported-with-half-a-brain.md",
-      "title": "Word and face recognition can be adequately supported with half a brain",
-      "excerpt": "The capacity for word and face recognition between control subjects and people with hemispherectomies differed, but the differences were less than 10%, and the average accuracy exceeded 80%.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/10/221025153314.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/10/221025153314.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws.md",
-      "title": "Reduce deep learning training time and cost with MosaicML Composer on AWS",
-      "excerpt": "In the past decade, we have seen Deep learning (DL) science adopted at a tremendous pace by AWS customers. The plentiful and jointly trained parameters of DL models have a large representational capacity that brought improvements in numerous customer use cases, including image and speech analysis, natural",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reduce-deep-learning-training-time-and-cost-with-mosaicml-composer-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/24/reduce-deep-learning-training-mosaicml.jpg",
-          "width": 1343,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:31:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-shoplazza-shared-innovative-practices-in-the-age-of-ai-at-aws-summit-china.md",
-      "title": "Shoplazza Shared Innovative Practices in the Age of AI at AWS Summit China",
-      "excerpt": "To solve the pain points, Shoplazza uses the data flow and computing power of Amazon EMR and Amazon SageMaker and combines all the processes, including sampling, featuring training, and estimation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
-      "originalUrl": "https://www.asiaone.com/business/shoplazza-shared-innovative-practices-age-ai-aws-summit-china",
+      "webUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
+      "originalUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Oct2022/image_5020059_33882458.jpg?h=252f27fa&itok=lHZ54Tpo",
-          "width": 600,
-          "height": 316,
+          "url": "https://gray-wafb-prod.cdn.arcpublishing.com/resizer/mJT1ZA4do6crwyKcA266GlU_m7g=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/56TBXSJTO5AKLMJVGDMLBKZETU.png",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1014,13 +1160,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T12:29:00-07:00",
+      "ampWebUrl": "https://www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wafb-com.cdn.ampproject.org/c/s/www.wafb.com/2022/10/25/your-health-brain-like-ai-no-internet-needed/?outputType=amp",
+      "publishedDateTime": "2022-10-25T01:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Asia One",
-        "domain": "asiaone.com",
+        "name": "WAFB",
+        "domain": "wafb.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1030,145 +1176,7 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-from-artificial-intelligence-to-ancestral-foods-check-out-these-november-happenings.md",
-      "title": "From Artificial Intelligence to Ancestral Foods, Check Out These November Happenings",
-      "excerpt": "The ceremony is open to the public and will include an Objects Out of Storage display showcasing artifacts from the museum’s noted military history collections. Guest chefs Elena Terry and Zoe Fess will prepare Seedy SassSquash,",
-      "sourceUrl": null,
-      "webUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "originalUrl": "https://www.smithsonianmag.com/blogs/national-museum-american-history/2022/10/24/november-at-the-national-museum-of-american-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-thumbnailer.cdn-si-edu.com/uDp3cqkk6y0G3GfJ9d7m41ONrbY=/1000x750/filters:no_upscale()/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/cf/7b/cf7bdb68-a1fa-425f-bac2-a0fc7e3e81db/lemelson.png",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Smithsonian Magazine",
-        "domain": "smithsonianmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
-      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
-      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
-      "publishedDateTime": "2022-10-24T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
-      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
-      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
-      "publishedDateTime": "2022-10-24T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
+        "AI in Autos",
         "AI"
       ]
     }

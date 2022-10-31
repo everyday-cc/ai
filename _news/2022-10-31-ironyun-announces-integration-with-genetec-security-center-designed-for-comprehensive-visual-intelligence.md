@@ -1,20 +1,18 @@
 ---
 category: news
 title: "IronYun® Announces Integration with Genetec™ Security Center Designed For Comprehensive Visual Intelligence"
-excerpt: "Vaidio® AI Vision Platform Supports 30 Advanced AI-Enabled Video Analytics for Security, Safety, and Operations STAMFORD, Conn., Oct. /PRNewswire/ -- IronYun Inc., a leader in AI vision for security,"
-publishedDateTime: 2022-10-31T14:02:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29480556/ironyun-announces-integration-with-genetec-security-center-designed-for-comprehensive-visual-intel"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/n29480556/ironyun-announces-integration-with-genetec-security-center-designed-for-comprehensive-visual-intel"
-ampWebUrl: "https://www.benzinga.com/amp/content/29480556"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29480556"
+excerpt: "IronYun Inc., a leader in AI vision for security, safety and operational applications, today announced the integration of the award winning Vaidio AI Vision Platform with Genetec™ Security Center. Genetec customers can now add advanced,"
+publishedDateTime: 2022-10-31T16:06:00Z
+originalUrl: "https://it.tmcnet.com/news/2022/10/31/9702547.htm"
+webUrl: "https://it.tmcnet.com/news/2022/10/31/9702547.htm"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI in Healthcare
@@ -27,6 +25,6 @@ images:
     height: 204
     isCached: true
 
-secured: "2/KwtpkpMmXl+ak1hmqq7llWpCI61k18pf/e+L6kY5Gxe7XAJYNyadn7XvVVsfrt+QbQLUM5dfKEJPFr+V1Cqt2mta9MFGXTTGCBPTuUKtcSwmBjaA4teN6Oz0lUh6gpl2zgrK4aNlpWDI2vtrU3z/ZgBCxD/Mq0YaiF19hUDMYbmRSWQEw5l8uWjIH42HsN6/HHfYjy7NRWlNf8JwuKz4kIALHm+sO1nHVU1WUbQ090P8alBlv9UOTxIXeoYIj9vznN3cXGs21NIawRmTQYLzqWhIDcMxtfN667maMxU9fO4jSTfa4q7bCZPvxthmmOi6CND3SplC0C6TRAqbFHZwQ5csmLEC2YJeiLWeq8c8c=;GgkN7k0tCZnorCL/VXRbOA=="
+secured: "HV9iv4ndwHQiJcGR4qqxukpsYa5CIY4RvcAd6KWyCMspaAut0sDCAi8VfIUamNAGqG2E8qTPsQx2zSzz/xCgJSbcsUl5++vBJ4Mbg6ln24BXpC1gV+icLVFmlIQxMXLlzql8lEJ4e56YH4rq6YEsxNAHW0S1mGwkILjpSjC1CMA0BWUf7sIAGY67cJL35ExVet+XKerkmygt6YUDPuZAu4yu3AInLkCnl3zDRA0tIF74VWzu3DBxo22V2J1cEJsWlfArdiR7qPTFXWfuGB1gfjCgI2XOHkoj/oq9MEP7J2cM8OT5q3ZC1L35cRoD9wcPREPp95BUHOPXm2yv8x69QPmfeswZ4eJW0RQIGrhQnB8=;fUMGveD+mNqfrI3PSLtOoQ=="
 ---
 

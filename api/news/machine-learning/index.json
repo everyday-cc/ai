@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-01-artificial-intelligence-methods-may-replace-histochemical-staining.md",
+      "title": "Artificial intelligence methods may replace histochemical staining",
+      "excerpt": "Pathologists observe tissue samples by staining them first. However, the standard procedures for staining tissue samples in histopathology are time-consuming and require specialized laboratory infrastructure,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-77.jpg",
+          "width": 2880,
+          "height": 2681,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-methods-histochemical.amp",
+      "publishedDateTime": "2022-10-31T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-could-you-get-paid-to-do-ai-safety-research-and-should-you.md",
       "title": "Could You Get Paid To Do AI Safety Research – And Should You?",
       "excerpt": "A few years ago he began experimenting with deep learning, the type of AI which has dominated the field since the Big Bang in 2012, when a team led by Geoff Hinton achieved startling results in an image recognition ... Some people object that this subject ...",
@@ -1394,60 +1437,6 @@
         "Machine Learning",
         "AI",
         "Computer Vision",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-17-four-thoughts-on-ai-deep-learning-in-2022.md",
-      "title": "Four thoughts on AI deep learning in 2022",
-      "excerpt": "As we wrap up 2022 and prepare to embrace 2023, here are some of the most notable overarching trends that marked this year in deep learning.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2017/03/deeplearninglimits_VB_1200px_web.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/four-thoughts-on-ai-deep-learning-in-2022/amp/",
-      "publishedDateTime": "2022-10-17T04:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Google AI",
         "AWS AI"
       ]
     }

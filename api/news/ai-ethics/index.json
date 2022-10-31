@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-10-31-ai-experts-question-tech-industrys-ethical-commitments.md",
+      "title": "AI experts question tech industry’s ethical commitments",
+      "excerpt": "From healthcare and education to finance and policing, artificial intelligence (AI) is becoming increasingly embedded in people’s daily lives. Despite being posited by advocates as a dispassionate and fairer means of making decisions, free from the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
+      "originalUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg",
+          "width": 1200,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
+      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1",
+      "publishedDateTime": "2022-10-31T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computer Weekly",
+        "domain": "computerweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
       "title": "Father of Azure Cognitive Services joins AI startup Vaital",
       "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
@@ -34,6 +77,49 @@
         "AI Ethics",
         "AI",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-the-future-of-empathetic-ai-in-todays-technological-world.md",
+      "title": "The future of empathetic AI in today’s technological world",
+      "excerpt": "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png",
+          "width": 318,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "publishedDateTime": "2022-10-28T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
       ]
     },
     {
@@ -215,6 +301,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.md",
+      "title": "SAS Data Ethics Director Reggie Townsend on Building Ethical AI and Why It Matters",
+      "excerpt": "What is ethical artificial intelligence (AI), why is it vital to the future of technology, and how can CIO’s and business leaders help foster it? We spoke to Reggie Townsend, Data Ethics Practice Director at analytics software company SAS,",
+      "sourceUrl": null,
+      "webUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
+      "originalUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2022/10/reggie-townsend-100933805-medium.jpg?auto=webp&quality=85,70",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3677771/sas-data-ethics-director-reggie-townsend-on-building-ethical-ai-and-why-it-matters.amp.html",
+      "publishedDateTime": "2022-10-24T23:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Computerworld",
+        "domain": "computerworld.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1284,145 +1413,6 @@
         "AI Ethics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use.md",
-      "title": "James Earl Jones signed Darth Vader voice rights to Disney for AI use",
-      "excerpt": "During the creation of the Obi-Wan Kenobi TV series, James Earl Jones signed off on allowing Disney to replicate his vocal performance as Darth Vader in future projects using an AI voice modeling tool called Respeecher,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/09/james-earl-jones-signed-darth-vader-voice-rights-to-disney-for-ai-use/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/09/darth_vader_pixels_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-09-26T08:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-26-best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready.md",
-      "title": "Best Laptops To Ignite Your Child’s Creativity - Get Them AI Ready",
-      "excerpt": "Here’s our handpicked three laptops that are powered by the OG of all the processors out there - Intel. Three Intel powered devices that perform like a beast and are considerate of your wallet as well.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "originalUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/best-laptops-copy_uynb.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/39160/best-laptops-to-ignite-your-childs-creativity-get-them-ai-ready?amp=1",
-      "publishedDateTime": "2022-09-26T01:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "in.mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-09-23-experts-remain-sceptical-of-ethics-as-unesco-emphasises-implementation-of-ai-in-education-in-india.md",
-      "title": "Experts remain sceptical of ethics, as UNESCO emphasises implementation of AI in education in India",
-      "excerpt": "Interestingly, experts has opined that AI based tools can be a source of bias for teacher and create discrimination amongst students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
-      "originalUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/09/AI-Unesco.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/unesco-ai-education-report-state-of-the-education-report-for-india-artificial-intelligence-edtech/2684220/lite/",
-      "publishedDateTime": "2022-09-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

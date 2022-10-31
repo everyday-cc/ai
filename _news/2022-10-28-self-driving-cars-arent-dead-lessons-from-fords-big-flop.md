@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "Ford takes $2.7 billion hit as it drops efforts to develop full self-driving cars"
-    excerpt: "Ford is essentially pulling the plug on an effort to develop its first full self-driving car, and it’s going to cost the automaker $2.7 billion to walk away. The company announced Wednesday it ..."
-    publishedDateTime: 2022-10-27T00:34:00Z
-    webUrl: "https://www.cnn.com/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/26/tech/ford-self-driving-argo-shutdown/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 69
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/221026163029-ford-production-line-0920-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Self-driving cars face uncertain path to US deployment"
     excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
     publishedDateTime: 2022-10-28T15:48:00Z

@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-19-post-covid-cognitive-impairments-exhibited-by-participants-of-western-led-study.md",
+      "title": "Post-COVID cognitive impairments exhibited by participants of Western-led study",
+      "excerpt": "A new study led by Western University neuroscientists is shedding more light on COVID-19’s impacts on post-infection cognitive function. The study, published Tuesday in the journal Cell Reports ...",
+      "sourceUrl": null,
+      "webUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "originalUrl": "https://globalnews.ca/news/9207933/post-covid-cognitive-impairments-western-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-18T18:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global News",
+        "domain": "globalnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-exercise-strengthens-cognitive-function-in-stroke-patients.md",
       "title": "Exercise Strengthens Cognitive Function in Stroke Patients",
       "excerpt": "Exercise appears to significantly improve cognitive function following a stroke, bringing patients with mild to moderate cognitive impairment back to near normal cognition. Results of a new proof ...",
@@ -1305,58 +1339,6 @@
         "name": "Mena FN",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-10-openstack-from-austin-to-zed.md",
-      "title": "OpenStack from Austin to Zed",
-      "excerpt": "OpenStack has come a long way from its first release to its latest as it has matured from a private cloud to a multi-purpose cloud for any and all purposes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/openstack-from-austin-to-zed/",
-      "originalUrl": "https://www.zdnet.com/article/openstack-from-austin-to-zed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/cd8826c93eadc8d3e7af294532e34b85e2f549f1/2022/01/19/dcd98cf5-4a3e-4344-ad6b-a5822c2e7ac7/cloud-it.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openstack-from-austin-to-zed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openstack-from-austin-to-zed/",
-      "publishedDateTime": "2022-10-10T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

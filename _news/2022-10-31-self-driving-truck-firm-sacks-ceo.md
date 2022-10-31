@@ -7,7 +7,7 @@ originalUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-
 webUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-Sacks-CEO"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving truck startup TuSimple fires its CEO over improper ties to a Chinese firm"
+    excerpt: "Self-driving truck startup TuSimple has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder,"
+    publishedDateTime: 2022-10-31T14:00:00Z
+    webUrl: "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
+    ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
+    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
+    type: article
+    provider:
+      name: CNBC
+      domain: cnbc.com
+    quality: 66
+    images:
+      - url: "https://image.cnbcfm.com/api/v1/image/105735152-1550011600980dy1_nvtvyaawmqd.jpg?v=1667224750"
+        width: 1737
+        height: 1159
+        isCached: true
   - title: "TuSimple Stock Plummets as Self-Driving Start-Up’s CEO Is Removed"
     excerpt: "Shares of the self-driving truck technology company TuSimple are tumbling as investors weigh a surprise management change. Monday, TuSimple (ticker: TSP) said it has terminated CEO Dr. Xiaodi Hou because a continuing investigation by the audit committee of ..."
     publishedDateTime: 2022-10-31T13:42:00Z
