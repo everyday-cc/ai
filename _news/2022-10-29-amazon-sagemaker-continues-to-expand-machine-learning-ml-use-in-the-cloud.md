@@ -52,15 +52,6 @@ related:
         width: 1344
         height: 672
         isCached: true
-  - title: "AWS Celebrates 5 Years of Innovation with Amazon SageMaker"
-    excerpt: "In just 5 years, tens of thousands of customers have tapped Amazon SageMaker to create millions of models, train models with billions of parameters, and generate hundreds of billions of monthly predictions. The seeds of a machine learning (ML) paradigm shift were there for decades, but with the ready"
-    publishedDateTime: 2022-10-26T13:00:07Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-celebrates-5-years-of-innovation-with-amazon-sagemaker/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 84
   - title: "Amazon SageMaker Automatic Model Tuning now supports grid search"
     excerpt: "Today Amazon SageMaker announced the support of Grid search for automatic model tuning, providing users with an additional strategy to find the best hyperparameter configuration for your model. Amazon SageMaker automatic model tuning finds the best version of a model by running many training jobs on"
     publishedDateTime: 2022-10-26T18:51:17Z

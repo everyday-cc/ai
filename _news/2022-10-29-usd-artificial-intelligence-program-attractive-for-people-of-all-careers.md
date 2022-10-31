@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-29T11:00:00Z
 originalUrl: "https://siouxcityjournal.com/news/local/education/usd-artificial-intelligence-program-attractive-for-people-of-all-careers/article_90f6ff24-96c5-50ea-9e5a-a506ebc81cae.html"
 webUrl: "https://siouxcityjournal.com/news/local/education/usd-artificial-intelligence-program-attractive-for-people-of-all-careers/article_90f6ff24-96c5-50ea-9e5a-a506ebc81cae.html"
 type: article
-quality: 38
-heat: 38
+quality: 40
+heat: 40
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/8/7e/87e2f548-7885-5452-bca3-371fa06c5708/635c60d9cb07d.image.jpg?crop=1785%2C937%2C0%2C111&resize=1200%2C630&order=crop%2Cresize"

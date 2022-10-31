@@ -1,30 +1,27 @@
 ---
 category: news
-title: "Argo AI will cease operations as Ford and Volkswagen pull investments"
-excerpt: "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,"
-publishedDateTime: 2022-10-27T16:40:00Z
-originalUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
-webUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
+title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
+excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
+publishedDateTime: 2022-10-31T04:30:00Z
+originalUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
+webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
 type: article
-quality: 67
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Ars Technica
-  domain: arstechnica.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Analytics India Magazine
+  domain: analyticsindiamag.com
 
 topics:
+  - AI in Autos
   - AI
 
 images:
-  - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg"
-    width: 760
-    height: 380
+  - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
+    width: 1920
+    height: 1080
     isCached: true
 
 related:
@@ -133,6 +130,20 @@ related:
       - url: "https://www.reuters.com/resizer/MHtbO6yUHoqTZ6lTZUIz20QwZwA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ITYFW7WKCZIH3EYYLM5UXAVYGA.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Argo AI will cease operations as Ford and Volkswagen pull investments"
+    excerpt: "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,"
+    publishedDateTime: 2022-10-27T16:40:00Z
+    webUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg"
+        width: 760
+        height: 380
         isCached: true
   - title: "Autonomous vehicle startup Argo AI is shutting down"
     excerpt: "Investors Ford and VW will absorb the company's tech and hire some of its employees, according to TechCrunch.."
@@ -320,20 +331,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 39
-  - title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
-    excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
-    publishedDateTime: 2022-10-31T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Argo AI shuts down after Ford, VW end further investment"
     excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
     publishedDateTime: 2022-10-27T09:45:00Z
@@ -441,6 +438,6 @@ related:
       domain: business2community.com
     quality: 16
 
-secured: "jqlw2V3UF0jgIaima4tlRO27wwfYmdgM9Xm+LghOVHd1DwuS3dt3aC7ItcsQNWYHbU7XB3eF4EqpHth7+kmamzkVUqwBMaaY05t5zqox+nM5sDjO5vifWy8oAqqqhN39/XDX2Cjd9LVyQD8wYz8p/TIP+pOIg0kujpqhvF3UqCEQaLs4hUkGWIKDor2e3kOkCnkNVX6B5aavWn5bKEvskl6bm3nt0q3GCzxTAJtj8zR/Go6OY2sj15GfWOTwONliZ/wixeEQeSh5dyXgst3SGm2UeCjGc4Bg0gPN3rYAWCpAUqqXCFVrmDPaRqjpLqRfaNSxT88cUrfEUpKwexgvDhURA2/cvutBMutBMv7c1ORa3sfXoAELJA0JGhZa3Vmhe9smE1rbxvM3nbtklCYJka1UkgGGnwW8upn5LeXK4URV3+ZivgTX+cZGRzupr+MaSq03t28s+S+LKvtbSfwP6jK5mZX+cDARfVX/Jp/t4hDkU1KL7IJ6BWGmM32ZH4NpqGMritFkmbQId+7SBqblFA==;redX7l89iHx6BVO9qnl59w=="
+secured: "A02FmP8ZBot6yysx3Tuus0+JS0aDrqCRuvr6OtJCUMZJLnjO3ImcUNGu29s6xhtS8M8LO5TGodRsD6BLXeIlBd1vV6MR+i/XKWPN7MZPcVECT1mV/u8DRgKzWHTcvS3EbnFdV36t1dqopfjEwb07jP7TmttgyAQM7B00yKoOPCHUtM6qRCn8TmbOmJ5FmCGDcIdLSRAFx2Uz50fAOGyoywehmImHoENWpPZ/Ot1C3yZK8/shjEzSGXyzhtBYcg9p0xZ/pN0aCuvAxLdM13HUctfjwjN3Q4b+MyBOweMfokUVkWWuEcPTo3A8b6OgKwAiDUXivjHntlZ4CR+EQADj01r+WPVx/5WeboPcncZVTks=;eVkpY8OYVMf1y17y+Lb29g=="
 ---
 

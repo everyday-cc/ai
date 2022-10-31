@@ -156,6 +156,20 @@ related:
         width: 1280
         height: 750
         isCached: true
+  - title: "Google buys AI avatar start-up to compete with TikTok"
+    excerpt: "Google has acquired Alter, an AI avatar start-up for creators and brands to express their virtual identities. The acquisition to improve its content game and compete with TikTok was made two months ago for about $100 million,"
+    publishedDateTime: 2022-10-31T05:22:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/google-buys-ai-avatar-start-up-to-compete-with-tiktok/article66076190.ece"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 37
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/3joc3r/article66076254.ece/alternates/FREE_1200/Google.JPG"
+        width: 1200
+        height: 798
+        isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
     excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."
     publishedDateTime: 2022-10-30T07:05:00Z

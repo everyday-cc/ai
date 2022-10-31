@@ -60,15 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "NatWest invests €65m in Dutch fintech Floryn"
-    excerpt: "A Netherlands-based online lending fintech has secured €65m in funding from high street bank NatWest. Floryn, which provides financing for SMEs, said it will use the new funds to strengthen its position as “the most cost-effective alternative to a bank”."
-    publishedDateTime: 2022-10-26T12:36:00Z
-    webUrl: "https://www.altfi.com/article/10035_natwest-invests-eur65m-in-dutch-fintech-floryn"
-    type: article
-    provider:
-      name: altfi
-      domain: altfi.com
-    quality: 4
   - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
     excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
     publishedDateTime: 2022-10-27T12:38:00Z

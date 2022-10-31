@@ -321,6 +321,20 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 39
+  - title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
+    excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
+    publishedDateTime: 2022-10-31T04:30:00Z
+    webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 39
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Argo AI shuts down after Ford, VW end further investment"
     excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
     publishedDateTime: 2022-10-27T09:45:00Z

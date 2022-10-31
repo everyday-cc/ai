@@ -43,17 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Voice Recognition Systems Market to Reach $3.4 Billion by 2027"
-    excerpt: "ReportLinker is an award-winning market research solution. Reportlinker finds and organizes the latest industry data so you get all the market research you need - instantly, in one place."
-    publishedDateTime: 2022-10-26T11:35:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/g29413018/global-voice-recognition-systems-market-to-reach-3-4-billion-by-2027"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29413018"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29413018"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 24
 
 secured: "Op75tYfcZKHw71aaswy4ByC0eBHGII8yJZoE+ZolqN3zxtULteLw/NUnKM4nghFSTDwJipunAuKRhuwzq6lwpBDvHMbmyzRH8YJ5Zj7LJ3nolOVRyrQwQmd2Garcqu9kUgeKmKADXoFYCXmZUe7PhzJmBU4VGR5u9cntmCjWQQl+eq71V2iHLvQskG7lMGUmndOT/qtohmwJCKu7koC/vSBwCRSc1GY0oHfr4YnLAuCksf7tKt2mnB5DUc2xzW7PLy2NYSpNblxLyGO6ISEeMxqVBTNDxb0PbxR8NJTxCUyONkT2MYpSrVP9bT9DSubpSyDVpdPpBL/ZsjJCAtQDSXN2FqygJ6a0gqj7E3+DkTs=;mrHSMliD6wkZBJzbIXstZA=="
 ---

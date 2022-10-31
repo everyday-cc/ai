@@ -27,7 +27,7 @@ related:
     provider:
       name: Sioux City Journal
       domain: siouxcityjournal.com
-    quality: 38
+    quality: 40
     images:
       - url: "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/8/7e/87e2f548-7885-5452-bca3-371fa06c5708/635c60d9cb07d.image.jpg?crop=1785%2C937%2C0%2C111&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
