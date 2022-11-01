@@ -75,15 +75,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Argo AI Is Shutting Down. What’s Next for Autonomous Vehicles?"
-    excerpt: "Ford Motor-backed Argo AI, an autonomous vehicle startup, is shutting down after Ford said it wasn’t able to attract new investors."
-    publishedDateTime: 2022-10-27T18:44:00Z
-    webUrl: "https://news.crunchbase.com/transportation/autonomous-vehicles-argo-ai-ford/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 17
 
 secured: "fQGGcyN1bba6652+/0O8RrA/lZPAh0NmdTXVP7rvWYtd219hey5klxjHCyz499lNahlbtuiB8Em9DTlbqvUygfZTASRpxMivkw4EiaO3dLe9k5oQh5OMz/dz4E+PrlFo8f7HKJNcs2VNYIp/e3kxiZMUm1YOkbsAP3ASKVScog8XRnDAe+6U9D/74gKNNjjsGDC1u/RPMWvqkPcHCFwGqtqGoxSJGiOPR0M5gdRUGjZ9eSOqclY1xrKkba6+Le2S45vA8u6Mbdqr1QK3zVBJHgWNt9VsbHGJgOOLej12xV8dC2tMtYkb8xFY3jaasBCRnj+Y+ecXrD/05gv2xU5B8DXT4qkCxQH2DurVOmaA90w=;5PBcFjLTVdqb6kAa2i1bWA=="
 ---

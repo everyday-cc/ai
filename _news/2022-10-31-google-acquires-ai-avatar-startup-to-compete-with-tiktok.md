@@ -178,6 +178,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Google buys AI startup Alter for $100 million"
+    excerpt: "Search giant Google has acquired AI avatar start-up Alter for $100 million in a bid to compete with short-form video platform TikTok. Google confirmed the purchase to publication TechCrunch but did not disclose the financial terms of the deal."
+    publishedDateTime: 2022-11-01T11:58:00Z
+    webUrl: "https://www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/google-buys-ai-startup-alter-for-100-million-9428551.html/amp"
+    type: article
+    provider:
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 57
+    images:
+      - url: "https://images.moneycontrol.com/static-mcnews/2022/10/Google.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million"
     excerpt: "According to TechCrunch, Google buys the startup for about $100 million in an effort to improve its content game and compete with TikTok."
     publishedDateTime: 2022-10-30T08:00:00Z
@@ -219,6 +235,20 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/3joc3r/article66076254.ece/alternates/FREE_1200/Google.JPG"
         width: 1200
         height: 798
+        isCached: true
+  - title: "Google snaps up AI avatar start-up Alter to compete with TikTok"
+    excerpt: "The silent acquisition of New York-based Alter, previously Facemoji, is seen as Google’s bid for the metaverse."
+    publishedDateTime: 2022-11-01T10:21:00Z
+    webUrl: "https://www.siliconrepublic.com/business/google-alter-acquisition-ai-avatar-metaverse-tiktok"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 37
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/11/a-1.jpeg"
+        width: 800
+        height: 600
         isCached: true
   - title: "Google buys AI avatar startup ‘Alter’ for $100 million; aims to improve its content game and compete with TikTok"
     excerpt: "Tech giant Google has acquired Alter, an artificial intelligence (AI) avatar startup that was working on using AI to generate avatars for social media users and brands to express their virtual identity."

@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
+    excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
+    publishedDateTime: 2022-10-28T16:18:00Z
+    webUrl: "https://www.barrons.com/articles/self-driving-cars-arent-dead-lessons-from-fords-big-flop-51666904244?refsec=markets"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 4
 
 secured: "0dqaoUJ75fXfWwwRtReN7SopwXwPAY6kmz8ljzTe5wJUhscR1d82thOf2/hc/BZCfRFJz0WGw9yhkUsvgDkfg4P+8VnfjBbiExVMB7XxlTU8b7TP/VXYotF91klm6YSY9vk8AnunecN88XB8S5H4vyPfuyHYkGeYBcQws0WVVWwbznVJ2FzQKILj32IzR16j147o6cWIbx36FxQwNWFmyBDvNsrqDug+EgicKyhwWiKldjw2UsxhJs/BX5oUvMu+iIct9lqUNfMpQfowH8FNA2fsFedYsYRyGBaJGVifOPoEtKtPLL+rXqqBcyFC7ieV6FFvk4XU4EtPa12Yp6VlpichaRgekz3+xtB3hC1/A2DtQoseFv85OsdRdc9V180G1o43XvgA9CIEwhTiS6Sl22sDnc1zTYzwm5ByIeAI5APuKoFOqOT4CRRLgX255um6hi59hPEVpvlgq36yIeInzaJUXmWYaR6Rd3xoPlTkiLSoFqgXAdGujotcKRYKZnovRZpEM7znXsuHarn+15Am3g==;UXLVBO9x9KQR9xFkxh36MQ=="
 ---

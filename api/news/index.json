@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
+      "title": "Ethics In Operation: The Business Case For Responsible AI",
+      "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61e17c192129886e2734b4ed/0x0.jpg?format=jpg&crop=2778,1563,x0,y185,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/11/01/ethics-in-operation-the-business-case-for-responsible-ai/amp/",
+      "publishedDateTime": "2022-11-01T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer.md",
       "title": "At AT&T, AI is becoming part of ‘core fabric,’ says chief data officer",
       "excerpt": "Andy Markus, AT&T's chief data officer, discusses AT&T’s vision to 'integrate data & AI into the core fabric of how we run the business.'",
@@ -61,7 +113,7 @@
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 138,
+      "heat": 129,
       "tags": null,
       "images": [
         {
@@ -112,7 +164,7 @@
       "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -214,7 +266,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-10-ai-brain-tumors.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -256,7 +308,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 155,
       "tags": null,
       "images": [
         {
@@ -403,7 +455,7 @@
       "originalUrl": "https://www.eastbaytimes.com/2022/10/31/farm-robotics-tech-buy-big-santa-clara-office-real-estate-blue-river/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1174,57 +1226,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
-      "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
-      "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
-      "originalUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/intro-1.jpg?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/28/generative-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/28/generative-ai/amp/",
-      "publishedDateTime": "2022-10-28T23:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

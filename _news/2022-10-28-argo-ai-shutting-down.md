@@ -76,15 +76,6 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 37
-  - title: "Argo AI Is Shutting Down. What’s Next for Autonomous Vehicles?"
-    excerpt: "Ford Motor-backed Argo AI, an autonomous vehicle startup, is shutting down after Ford said it wasn’t able to attract new investors."
-    publishedDateTime: 2022-10-27T18:44:00Z
-    webUrl: "https://news.crunchbase.com/transportation/autonomous-vehicles-argo-ai-ford/"
-    type: article
-    provider:
-      name: news.crunchbase
-      domain: crunchbase.com
-    quality: 17
 
 secured: "/SnSdb69vOXVN3uac1tycZkUJhEvcE7CQbCRWlfEuAuSgy3WWXKleKnrXAS5SHMQ1qJdzkZ4fHSgKKu932GoeAULR3Ks2kq6WjAH385+VFlWcWhFL0Isk7dvKJoE/dEfNZrOkutHawo8MlY/CA6CqxhkkhX5EyjXOsfWUvxwd48pSDtqhUb6wdJCcTxVkqgBT/9tv4KOBiWWLFBEBew8ZbE6/HCp/FiOPCL4rpz7Jairq3kvKfQs6rIMprAl5UtSnKVeZ5vjtZDNt2cu0CZs1Qv6QWasKz0kHkrvDOF/HjVGkIAu2hcu3jgF9KtVIa4EuI/ofhogtEpPz4fOJUddqGJkp0UyUI0iSMptAuMVCZd+ZXwkmhaZ3nXnBumpr6MW7T7M6LBAjh7nJ3UEsj2tfMnSCQbcI0p14aiSVko71aY9DO/tVET5eAUhekDOfTgahCvPpaeA4vqfleV7uNffUhpXk3ojjwAymL5ilVJ3nN4R3cup5XrqpfXU0O607YFl6RqvXX0Vnl0ozE0QynphUw==;gOdFrCGnsI/rxZrMml2b8g=="
 ---

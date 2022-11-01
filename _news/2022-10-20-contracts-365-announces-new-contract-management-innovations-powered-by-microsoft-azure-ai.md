@@ -1,30 +1,22 @@
 ---
 category: news
 title: "Contracts 365 Announces New Contract Management Innovations Powered by Microsoft Azure AI"
-excerpt: "Today's next-generation Contract Lifecycle Management solutions require innovation for both the technology and user experience. The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community."
-publishedDateTime: 2022-10-20T04:00:00Z
-originalUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
-webUrl: "https://www.marketwatch.com/press-release/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai-2022-10-20"
+excerpt: "The integration between Contracts 365 and Azure AI services like Azure Form Recognizer will deliver innovative and practical value to the contract management community. The prospect of AI for ..."
+publishedDateTime: 2022-10-20T04:12:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/g29335363/contracts-365-announces-new-contract-management-innovations-powered-by-microsoft-azure-ai"
+ampWebUrl: "https://www.benzinga.com/amp/content/29335363"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29335363"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "477ee6/ZYWxcMwc4+g1y+CEcolyeSP4gQlXO4nnbRdgU+Prf2GR+1Y/XDNL0j8w7RPzCr4hRG1yJ+cX7vpYy/UVm/3tMcUdcR5S5dv8MBbBmZzTYwFQSqKHjSEwUV/F+EPexFt9KWh69Gwl2c5NqIXKvwt9FPMxyZ5KGKg7UpF4Yx/Qs7zMLe21cy7LGohKMNV/jXaSBaStrbAEZ/RHw8c/wSJLqaJdkkgWgftcfwIK/lUbAhexOwsE2RutDqjoLbXMbzCSoD0VL+zgr5tjxw4Iid43R1wowVQheQxWYfEZNO+4BmitBEk8RanAYcR9CA2+9x6wFqGMLaRPle6zE8BNGpoxdg0HDrPQ0BEL80H0=;UgFkJpKu5rJzMtJKGfEqvg=="
+secured: "mzayUPbIcLbO7VEt8tc40vKnu5eYEYQmmSLfl1AazbKlsQfiXU9TFv5RLYm3QES9e2Vnop5NOi0BptFMOzTZifoeY4iwzkNYXIhR5TESM8spb7nRg0IEcGB31jNk3z0dY3t69GsWi+QfEpFOrjSi6FEqSntWoBqqqeRRa8RL1g63lf2yEKdDENYbCcukKfUKQTsUeUJEfefldCTRuTFEsPop6agLG7ng/W487iMl6gzbX1VGDn1Svx6cF1W15K9VQVbDtPOitHHZP/qLhQmmR66Tmb6tZayut9Vz8IxmbHkbxYoYhuY5fjRpD+Q92D1p2MR+RQ92v293bVCRZm92Zm9u3yfSA4pymaIwPpBK2Gg=;Beo+fl+Y4NMIjkf+eFzUog=="
 ---
 

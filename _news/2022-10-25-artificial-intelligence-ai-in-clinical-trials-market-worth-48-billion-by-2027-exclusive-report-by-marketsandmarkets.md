@@ -1,20 +1,28 @@
 ---
 category: news
 title: "Artificial Intelligence (AI) in Clinical Trials Market worth $4.8 billion by 2027 - Exclusive Report by MarketsandMarkets™"
-excerpt: "Artificial Intelligence (AI) in Clinical Trials Marketis projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR"
-publishedDateTime: 2022-10-25T15:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-ai-clinical-trials-market-worth-48-/2022/10/25/9699370.htm"
+excerpt: "Artificial Intelligence (AI) in Clinical Trials Market is projected to reach USD 4.8 billion by 2027 from USD 1.5 billion in 2022, at a CAGR of 25.6% during the forecast period"
+publishedDateTime: 2022-10-25T14:30:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29399791/artificial-intelligence-ai-in-clinical-trials-market-worth-4-8-billion-by-2027-exclusive-report-by"
+webUrl: "https://www.benzinga.com/pressreleases/22/10/n29399791/artificial-intelligence-ai-in-clinical-trials-market-worth-4-8-billion-by-2027-exclusive-report-by"
+ampWebUrl: "https://www.benzinga.com/amp/content/29399791"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29399791"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "pVwEegmWO0GfYVDoS6KRIHm0LujGl2fPBGq2QtLTFl/z94LsfglN442VQWGYM6QIzp28f6PA+23MP8XgmGTmHCLDLksdf9YhHq1CCiDoaYFcpNJiulAFC++io4fGMYW6mEBqwLvPGJB/1utNpVxEHDiyYI1BZkhsYJNpXbHwxeXgnPqs4RsRPyxaJeaHWW3JYdtYevhWzV+ZOSkVlsQLivvQlCxXodfMfDk47SB7rqmdNrjuAeYPILyEmkA8ePikKt9B8j2I22wiDZJIOYIwWeELHx8m4T5nG6qeahAFbG5XI5VAWoGOmGBGDgIyCxc9/Ch9+KAvIP3s94E5Am6T39Cx3XtOhrkJC0/XZbj3fdvs4CmVXbjulyPFU4IYSTARdMAmyBVrMWpoqRLWMV/Q2M5Enou30xwAnmzi1gYy5EXBRDSC94EogjVzkSDojZllQIOp5Az60F9/FZL3RVHMuxnz+j4/10HJXkOCzU5bsyTLyD3u52//cVeVnMxqqSpftbpBiJrGZI/8KOv10kBR6Q==;u2Ghgs8khha7hyL7uPRbYg=="
+images:
+  - url: "https://premium-newsletters-wp-cdn.benzinga.com/uploads/2022/09/28171512/image-55-1024x683.png"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "WDtJzv5/A2etOCY22Y9gZE77nKVHMZVuHdOXYKv81U/fens5Ena0m+eSeQ86KC7YbCJUScHmT68aYQWvo0iFMsMi9ZJuluAMqz7K0DEZ6jzwk9a1OV2BinXOJome20xPfrNewM/eNSPHEquAuROkd6h6RD4JRrdKwJK/QytZ3NuC3JfgOGC1rLz4zuXFz8981cEZ05WKBllu6CVorh5yNky1x/CHIgR+8Dpq+Ni6DK0phY6uVglfNoeR8/kiBp65V9CXKB8q0eiDzell2Qeyt1AOEXCeJkLuIvHoJ/Ray38ki6z2x+QVYnD20FtNMQWUWqPgpUYseMI5INt7h0iNAs4t8MICNbtqxgfu4JiFXNI=;D703q5GtRNv8FTykzmiCaQ=="
 ---
 

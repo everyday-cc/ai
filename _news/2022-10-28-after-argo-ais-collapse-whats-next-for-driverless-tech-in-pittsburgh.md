@@ -7,7 +7,7 @@ originalUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-col
 webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -25,20 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
-    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
-    publishedDateTime: 2022-10-28T19:10:00Z
-    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
+  - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
+    excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."
+    publishedDateTime: 2022-10-28T04:25:00Z
+    webUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
-    quality: 37
+      name: Supply Chain
+      domain: supplychainbrain.com
+    quality: 54
     images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
-        width: 1200
-        height: 630
+      - url: "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200"
+        width: 953
+        height: 635
         isCached: true
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
+    publishedDateTime: 2022-11-01T09:49:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "8pC0zwBX3w5ZhWex/ddsxpN/FyR7l+oF41jrsthGB63JsuxtF9/gXvLMKlCtc9JSvVSUm492bvvcIhcf1DvZue+wF8dlIk3QjbI1vFCUI2zfnK/WM449bdOONB+3g7Td13ejzpWmsJ0KC1maNWua8NiakXsUuwrdayz11foM+gr2Ya1tOpx5xp8ndj5A++PDBF94SJw63N1lyh+S0UpkxuHEibsHvrnUHooReavC1N9UFeoIBGeS30Kmz0G1v2RPOYV7BxpMFRMmUKxbcc7SDKJBvw5Lu6yqpd8ZlqjCe/OgNWaWzX5qmc8fWDG9jJPGXzeVeRXV1g0BK3OazwbYyUGgzpC3G+bJKz+4xx+00LI=;EDlNDaIEX44pAXKLGK8vFw=="
 ---

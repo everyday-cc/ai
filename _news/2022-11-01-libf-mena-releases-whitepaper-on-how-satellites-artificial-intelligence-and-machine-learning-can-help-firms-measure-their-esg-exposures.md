@@ -1,32 +1,30 @@
 ---
 category: news
 title: "LIBF MENA releases whitepaper on how satellites, artificial intelligence and machine learning can help firms measure their ESG exposures"
-excerpt: "The London Institute of Banking & Finance MENA (LIBF MENA) – an internationally recognised organisation delivering outstanding financial education to ba"
-publishedDateTime: 2022-11-01T07:51:00Z
-originalUrl: "https://www.albawaba.com/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
-webUrl: "https://www.albawaba.com/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
-ampWebUrl: "https://www.albawaba.com/amp/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
-cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/libf-mena-releases-whitepaper-how-satellites-artificial-intelligence-and-machine"
+excerpt: "Given the upcoming UN Climate Summits COP 27 and 28 will be hosted in MENA, the region is expected to take even greater strides in ESG led practices"
+publishedDateTime: 2022-11-01T11:33:00Z
+originalUrl: "https://www.zawya.com/en/press-release/research-and-studies/libf-mena-releases-whitepaper-on-how-satellites-artificial-intelligence-and-machine-learning-can-help-firms-measure-their-esg-exposures-mylwc4va"
+webUrl: "https://www.zawya.com/en/press-release/research-and-studies/libf-mena-releases-whitepaper-on-how-satellites-artificial-intelligence-and-machine-learning-can-help-firms-measure-their-esg-exposures-mylwc4va"
 type: article
-quality: 43
-heat: 43
+quality: 23
+heat: 23
 published: false
 
 provider:
-  name: Al Bawaba News
-  domain: albawaba.com
+  name: Zawya
+  domain: zawya.com
 
 topics:
-  - AI in Finance
-  - AI
   - Machine Learning
+  - AI
+  - AI in Finance
 
 images:
-  - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-11/myhc_324111_728px.jpg?itok=9oII7aTj"
-    width: 728
-    height: 409
+  - url: "https://static.zawya.com/version/c:Njg0YjkwNjAtZTMzZi00:YjA1ZjBh/esgwhitepapercoverpage-jpg.jpg?f=3%3A2"
+    width: 644
+    height: 431
     isCached: true
 
-secured: "fwmExExM1TD4mJnGReGSnWG2DNJ733/CzmnMYf60RBn4n4VyfLGBicX+5eoImG4EQkZT/gR2uBtlvwu2MiUKypH0NXeGuXcV3P49HGtgrpSWP/Iz0PFy6UlYCHFMyF9XfqRqrUeQL7dICawvpty1NwWe0C10F4qvFIO0o2JSgtwW046GGuecINLOUtfwgILT/vCRctbOITNmITMZVcHm0aMnrex4gSZ3Tc/zffmArLn0E1GRfIZ57x8nfDUJG8CX1RKbE9k2EjNS080/IF92q22IT1iYEMc6CNQOs2pO/P7X4AbOCW4tBdaGPAU/SmKQDN2XyqJLmW/P1WBxYHwE380Kh6Ed+aFfaw9sGehGjFE=;eA/2iEQX1VtiG0OjpSAkRg=="
+secured: "u9Q2lcLqJMZH/GCSoNqPforO47IxzhQKNWVwRjxLUqemgs4L92camWgFz6sJtLSvyJXmUNQSSbSU8GnMPriy66K9rZgJ3UHCWQmQaRuSxCMYjoa2l/99TnVbBj1VM1XCwwZZhp1ANQ8emJ+a4iTZLSXuYIgd1iQL+iwLH9K3BhyqpKClVOHcPmqg8hxLqrOHSQnlA89Lu+B6fqqgjcLs9eiA+nHtbaLcYl77as2n+9yZxTQmgdCHYg/hO8UZX7gnD8u+NbHDeHT4ryBY2dK+Q9vaRDFKgh+/pRTImZtaoaG2OINXa671FxcLEMd0EpDPRnGuQy1Bz6EFslEeLvlyQcvwixVSw9+JFZXh8IVyUsI=;4Ud8oCpIHMTpMAvFOB3zKA=="
 ---
 

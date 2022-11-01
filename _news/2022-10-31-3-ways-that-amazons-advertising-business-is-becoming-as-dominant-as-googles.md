@@ -7,7 +7,7 @@ originalUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to
 webUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
 type: article
 quality: 31
-heat: -1
+heat: 31
 published: false
 
 provider:
@@ -21,19 +21,6 @@ provider:
 topics:
   - AWS AI
   - AI
-
-related:
-  - title: "Meta Is Betting Billions That AI Will Fix Its Advertising Business"
-    excerpt: "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention."
-    publishedDateTime: 2022-10-27T18:21:00Z
-    webUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business"
-    ampWebUrl: "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
 
 secured: "nWaBJgtzSiG8eGOiFukxbat6jZZtqnFm/qTK5zzwPmQaNA9ijbiGHgU6Az16GTQSWaH0THh+AC+1+PD2jj8uz48HAhr9P6JcnifbTSfXpwCXrg3aReX7OE0gpWYFDejW15RSst8gtsSO0isklHjzgWkGjITjIsIQhIeWb8gW+xoAXgTIHnu60fGntqyiQkRq8GUrCA7UAVfhU/nmDYWURw2rExTpjuGSw3Y5Pd8QG2qEc+WAzvecP9+J6vpIggGGSoIPWQi1tICxIQrwKzkXq72ev8L0cVfZm7+iDcD0uhoZ4Y5ZUPVtd5DSe/2iwOVAE3x4H0dLVT6BdkSr14CvNeHpm0GTb4eiFI6As+uYwyQmEWxknyngVGsyHkXqTcqIA0whgVh25qQ+HjchbmXI+QG4v70lYxwmcn0x+oXpKkzEJCbzuKWbywn54bq0zVbPTPYBmJRJqBZJK7cdlvHQmag1dNJUSlzNsbUswEKTioZxKPrar2ew1kDDNittOlD33txUPVXZS9Mkiebq3ZJTNQ==;IQJGjtLVnZHalszybs4HCQ=="
 ---

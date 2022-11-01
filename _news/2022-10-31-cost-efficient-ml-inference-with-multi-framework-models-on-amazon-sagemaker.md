@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-in
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cost-efficient-ml-inference-with-multi-framework-models-on-amazon-sagemaker/"
 type: article
 quality: 103
-heat: 154
+heat: 155
 published: true
 
 provider:

@@ -7,8 +7,8 @@ originalUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-
 webUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype"
 type: article
 quality: 54
-heat: -1
-published: false
+heat: 74
+published: true
 
 provider:
   name: Supply Chain
@@ -25,24 +25,29 @@ images:
     isCached: true
 
 related:
-  - title: "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors"
-    publishedDateTime: 2022-10-27T18:58:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949"
+  - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
+    excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
+    publishedDateTime: 2022-10-28T09:35:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-  - title: "Ford-VW driverless car venture folds in face of tech challenges"
-    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
-    publishedDateTime: 2022-10-27T18:10:00Z
-    webUrl: "https://www.ft.com/content/4afc571f-2dae-4f33-944a-c217397c3f91"
+      name: WESA
+      domain: wesa.fm
+    quality: 53
+    images:
+      - url: "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
+    excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
+    publishedDateTime: 2022-11-01T09:49:00Z
+    webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
     type: article
     provider:
-      name: The Financial Times
-      domain: ft.com
-    quality: 19
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 13
 
 secured: "uYJ5pqkS6a78vbc27d+Fkyoeogsxgt5AnOMN1DnsUKRG2KUubfVmpZFWuOytOORna/zg6axBuFK49i/u/FRaMqLxxGMGifqkn2RJqTdTF1RG8j2Shl6HKE78mWjciRl/A8vdsdI5u01HeBJKT4I6iTg9458cutCaKsHK9tH9URxTLfZVTJpLesjB7rIB3nW9pYMLih225t5ktfbqIJN1apcWn1/TH4mA0ZjC/xWdUG/fmf8C9GPmj6IAby3sg4MMO6tMLhKx1rClbUSsEBz4Hk5JOx8z+h3ReXRhBfjsNEIl/62QcShRur6qNWUFioU0+FH28k5vRCV2xQ6ekLDrDGhzPaBLCt5ZyFMMwoDpEMg=;XmbOFQiZtC3/vyWf854uXw=="
 ---

@@ -19,63 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "It’s time to admit self-driving cars aren’t going to happen"
-    excerpt: "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible."
-    publishedDateTime: 2022-10-27T17:53:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/"
-    ampWebUrl: "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/"
+  - title: "Spratlin helping define future of self-driving vehicles"
+    excerpt: "As a child growing up in Bruce, Art Spratlin wanted to be a truck driver. Instead, he is leading the charge to create laws governing self-driving vehicles, including trucks, on"
+    publishedDateTime: 2022-10-28T08:00:00Z
+    webUrl: "https://www.djournal.com/mbj/spratlin-helping-define-future-of-self-driving-vehicles/article_2e16d7c4-a4fd-5d56-b734-e0db57af728f.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 74
+      name: Daily Journal
+      domain: djournal.com
+    quality: 24
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864"
+      - url: "https://bloximages.newyork1.vip.townnews.com/djournal.com/content/tncms/assets/v3/editorial/0/5a/05ad6f8c-867d-591c-8b94-2a8e28038805/635943b668746.image.jpg?crop=1500%2C788%2C0%2C0&resize=1200%2C630&order=crop%2Cresize"
         width: 1200
-        height: 864
+        height: 630
         isCached: true
-  - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
-    excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
-    publishedDateTime: 2022-10-27T20:16:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/10/tesla-under-criminal-investigation-for-self-driving-claims/"
+  - title: "Study Finds Drivers Treat Partially Automated Vehicles as Self-Driving"
+    excerpt: "According to IIHS, regular users of Super Cruise, ProPILOT Assist, and Autopilot said they were more likely to perform non-driving-related activities like eating or texting while using their semi-autonomous systems than when driving unassisted."
+    publishedDateTime: 2022-10-31T16:10:00Z
+    webUrl: "https://www.electronicdesign.com/markets/automotive/article/21253740/electronic-design-study-finds-drivers-treat-partially-automated-vehicles-as-selfdriving"
     type: article
     provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 54
+      name: Electronic Design
+      domain: electronicdesign.com
+    quality: 24
     images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2019/05/Tesla-Navigate-on-Autopilot.jpg"
-        width: 1125
-        height: 750
-        isCached: true
-  - title: "Self-driving cars face uncertain path to US deployment"
-    excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
-    publishedDateTime: 2022-10-28T15:48:00Z
-    webUrl: "https://www.channelnewsasia.com/business/self-driving-cars-face-uncertain-path-us-deployment-3031621"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--7Ago4ANM--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-28t155213z_2_lynxmpei9r0p6_rtroptp_3_usa-autos-autonomous.jpg?itok=2rtINx7I"
+      - url: "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/10/IIHS_promo_web.635ff0c857681.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
         width: 1200
-        height: 676
-        isCached: true
-  - title: "Argo AI Shuts Down: Is ‘Self-Driving Cars’ a Realistic Dream?"
-    excerpt: "Argo AI ceases operations. Questions are now being asked on what’s next for autonomous vehicle technology. Ford and VW-backed ‘Argo AI’, the autonomous vehicle technology company, is shutting down. The company,"
-    publishedDateTime: 2022-10-31T04:30:00Z
-    webUrl: "https://analyticsindiamag.com/argo-ai-shuts-down-is-self-driving-cars-a-realistic-dream/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 39
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/10/car.jpg"
-        width: 1920
-        height: 1080
+        height: 630
         isCached: true
 
 secured: "UEG50Pn7Hkkl7MwXagm4MTtzFfc2dn8XhXphTwWI7xjiRXncyIcAWPdZDcn7K7cI+f5saxQitt5gylvtCgdKZruEqCLR2IhLOHJQgFL1gWmnk8AErRamJzgYYvw8jt2PBiKIsFQb6Gzg/726wDbnerD2NKVI6Klpdl7aZzYRKP98o0fVrz+2IQh1WRH5cqLFOAkhKFiumMMBsqtubajumloHXtGU4O8aKaGAG/FQOlTINNGaB29GR9nAnUzI7M0+HuEs1SDUdgNVwjjhzNKaznJbNwQQkHM5soA2XA4zPmhlfOM7iIs+TSIdFIGfo1TOPoiKo0lB/h5oVPl8OUYIMC1Z8k2vGl+vKs/9pKPD4uxUyCMxXUca5xeo0DC56hFfu97CUjWxLdBU2KTzPVMZvRul590LA2gML8RG+hTXUqjMHSueO9W/rCnC1wURNBIVg2EreK1Bn8kA68C4eeCLLYVAAdl2PtyqCRqTlZqrkIW6nJOnD8VS3e20oon+fpnf+V/i6zcZhT5vrFncaCmt+Q==;QErZdPaQ7ScNbN62MvjOZg=="

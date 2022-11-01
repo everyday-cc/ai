@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-10-25-red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project.md",
+      "title": "Red Hat and IBM team up to enhance AIops with an open-source project",
+      "excerpt": "AIops is what you get when you combine big data and machine learning to automate IT operations processes, including event correlation, anomaly detection and causality determination. At least, that’s how Gartner defines it.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
+      "originalUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1365534802.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/red-hat-and-ibm-team-up-to-enhance-aiops-with-an-open-source-project/amp/",
+      "publishedDateTime": "2022-10-24T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-ai-model-using-daily-step-counts-predicts-unplanned-hospitalizations-during-cancer-therapy.md",
+      "title": "AI model using daily step counts predicts unplanned hospitalizations during cancer therapy",
+      "excerpt": "An artificial intelligence (AI) model developed by researchers can predict the likelihood that a patient may have an unplanned hospitalization during their radiation treatments for cancer. The machine-learning model uses daily step counts as a proxy to monitor patients' health as they go through cancer therapy,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/pedometer.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-ai-daily-unplanned-hospitalizations-cancer.amp",
+      "publishedDateTime": "2022-10-24T10:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-microsofts-windows-dev-kit-2023-lets-developers-tap-ai-processors-on-laptops.md",
       "title": "Microsoft’s Windows Dev Kit 2023 lets developers tap AI processors on laptops",
       "excerpt": "Microsoft has released the Windows Dev Kit 2023, initially announced at Build, which features a dedicated AI processor and software for AI app development on laptops.",
@@ -1081,100 +1176,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-with-explicit-feedback-ai-needs-less-data-than-you-think.md",
-      "title": "With explicit feedback, AI needs less data than you think",
-      "excerpt": "Just ask! Here's why you should explicitly ask your users for explicit feedback rather than relying on the implicit kind.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
-      "originalUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1320248306-Khanisorn-Chaokla.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 595,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/with-explicit-feedback-ai-needs-less-data-than-you-think/amp/",
-      "publishedDateTime": "2022-10-23T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-study-of-biometric-tech-in-schools-winding-down.md",
-      "title": "Study of biometric tech in schools winding down",
-      "excerpt": "The New York State Office of Information Technology Services (ITS) held a virtual public hearing Thursday on the use of biometric technology in schools. The hearing is part of a",
-      "sourceUrl": null,
-      "webUrl": "https://www.niagara-gazette.com/news/local_news/study-of-biometric-tech-in-schools-winding-down/article_9b9dcc7d-8846-5bcd-9b72-3e81cb4810c9.html",
-      "originalUrl": "https://www.niagara-gazette.com/news/local_news/study-of-biometric-tech-in-schools-winding-down/article_9b9dcc7d-8846-5bcd-9b72-3e81cb4810c9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/niagara-gazette.com/content/tncms/custom/image/2d2bf594-8308-11e5-99eb-af7c5b751692.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Niagara Gazette",
-        "domain": "niagara-gazette.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }
