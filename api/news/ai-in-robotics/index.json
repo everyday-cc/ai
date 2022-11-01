@@ -254,6 +254,110 @@
       ]
     },
     {
+      "path": "_news/2022-10-29-lego-is-moving-on-from-its-mindstorms-educational-robots.md",
+      "title": "Lego is moving on from its Mindstorms educational robots",
+      "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. While the company isn’t completely done with the idea of educational robotics kits, it will stop selling its Mindstorms Robot Inventor kit by the end of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
+      "originalUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pZ1iHore7VmYy-ZqixUcIay3Gf8=/165x160:1683x1166/1200x628/filters:focal(960x640:961x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/24150262/51515_Lifestyle_06.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
+      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-lego-is-discontinuing-its-mindstorms-buildable-robot-kits.md",
       "title": "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits",
       "excerpt": "Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more complicated Technics building pieces, featuring gears and other mechanical components, to build semi-autonomous robots controlled by sensors and a programmable brick.",
@@ -403,10 +507,10 @@
     {
       "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
       "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
+      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -416,21 +520,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
+      "publishedDateTime": "2022-10-27T05:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1326,110 +1421,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record.md",
-      "title": "Tired of laundry folding? AI breaks the robot folding speed record",
-      "excerpt": "While it's possible that someone out there enjoys folding clothes, it's probably not a beloved pastime. Accordingly, researchers at UC Berkeley's AUTOLAB have developed a new robotic method of folding garments at record speed (for a robot) called SpeedFolding.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/10/tired-of-laundry-folding-ai-breaks-the-robot-folding-speed-record/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/speedfold_hero_1-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T12:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-19-xr-r1-brings-hexapod-robotics-to-tech-savvy-consumers.md",
-      "title": "XR R1 brings hexapod robotics to tech-savvy consumers",
-      "excerpt": "It often seems that soon after a new type of scientific or industrial robot is unveiled, a hobbyist model follows. First, there were the Bittle and Mini Pupper miniature quadrupeds – now, there's the XR R1 hexapod.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
-      "originalUrl": "https://newatlas.com/robotics/xr-r1-hexapod-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/d772ecd/2147483647/strip/true/crop/841x442+0+60/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F05%2Fae%2Fa13f44134fbab219dc17749f4e99%2F309672506-100477289525088-4358260222318445285-n-1.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T09:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

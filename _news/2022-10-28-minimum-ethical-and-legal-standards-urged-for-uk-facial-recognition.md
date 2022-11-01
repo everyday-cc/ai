@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
-    excerpt: "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,"
-    publishedDateTime: 2022-10-27T20:25:00Z
-    webUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 79
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg"
-        width: 1334
-        height: 829
-        isCached: true
   - title: "UK Police Use of Facial Recognition Fails to Meet 'Legal And Ethical Standards'"
     excerpt: "Cambridge University researchers call for police to be banned from using facial recognition in public spaces over human rights concerns."
     publishedDateTime: 2022-10-31T18:14:00Z

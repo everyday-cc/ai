@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T11:50:00Z
 originalUrl: "https://www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/"
 webUrl: "https://www.technologyreview.com/2022/11/01/1062474/how-to-survive-as-an-ai-ethicist/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: MIT Technology Review

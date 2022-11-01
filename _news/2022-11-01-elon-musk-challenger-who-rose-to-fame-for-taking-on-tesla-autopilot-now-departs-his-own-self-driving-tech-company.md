@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T10:28:00Z
 originalUrl: "https://www.benzinga.com/news/22/11/29493930/elon-musk-challenger-who-rose-to-fame-for-taking-on-tesla-autopilot-now-departs-his-own-self-driving"
 webUrl: "https://www.benzinga.com/news/22/11/29493930/elon-musk-challenger-who-rose-to-fame-for-taking-on-tesla-autopilot-now-departs-his-own-self-driving"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

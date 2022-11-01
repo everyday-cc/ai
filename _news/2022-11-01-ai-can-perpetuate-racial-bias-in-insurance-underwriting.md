@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T13:21:00Z
 originalUrl: "https://www.aol.com/finance/ai-perpetuate-racial-bias-insurance-132122872.html"
 webUrl: "https://www.aol.com/finance/ai-perpetuate-racial-bias-insurance-132122872.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: AOL

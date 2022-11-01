@@ -7,7 +7,7 @@ originalUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-
 webUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -39,6 +39,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Driverless cars aren’t going away, but we need to lower our expectations about them"
+    excerpt: "The driverless car startups that haven’t run out of money, gone out of business, or been bought out want you to know that driverless cars aren’t going away. These companies insist that ..."
+    publishedDateTime: 2022-10-28T20:11:00Z
+    webUrl: "https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 43
+  - title: "Ford-VW driverless car venture folds in face of tech challenges"
+    excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
+    publishedDateTime: 2022-10-29T14:13:00Z
+    webUrl: "https://www.ft.com/content/4afc571f-2dae-4f33-944a-c217397c3f91?shareType=nongift"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 19
   - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
     excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
     publishedDateTime: 2022-11-01T09:49:00Z

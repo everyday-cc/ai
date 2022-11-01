@@ -41,17 +41,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
-    excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
-    publishedDateTime: 2022-10-27T22:53:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article267900262.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article267900262.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article267900262.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 39
   - title: "Argo AI shutting down"
     excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
     publishedDateTime: 2022-10-27T23:17:00Z

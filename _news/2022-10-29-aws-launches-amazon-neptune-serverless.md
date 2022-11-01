@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/2022/10/28/aws-launches-amazon-neptune-se
 webUrl: "https://www.datanami.com/2022/10/28/aws-launches-amazon-neptune-serverless/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 700
     height: 470
     isCached: true
-
-related:
-  - title: "AWS makes Neptune, its graph database service, serverless"
-    excerpt: "AWS is launching a serverless flavor of its Neptune graph database service that abstracts away managing compute capacity."
-    publishedDateTime: 2022-10-27T19:04:00Z
-    webUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/"
-    ampWebUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 89
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg"
-        width: 1024
-        height: 683
-        isCached: true
 
 secured: "7g7kUFvTOWD4Whv+ZqsaSI9t2DkJ6pN9b57gcxHBBy1XkYMbWr/d4tMrGd3RHjOQngMqwpS3v8+UhaOAi2D4hO0tJWunzET0gdDSdY0C+tC9+MNNTH7kANGD0X7au3sftzoqHJaqOCrXvl8rVlZTQv+GcJPCbejaaavsy/oyx/YiDF9nO67Irt/Mfa4OaeuS+VopCAMJqw1vt9iF6geVLR+QC7bzDqB2o8ubxb6/qzr7cSOK/cv7oijkXq/Y322c9qinsANKCI+OkzP0OGl0hTWkEaPJFlRnuqFS/mTYnE3vFbJ5SOwjJ1644DAVJn02VzJDtjk60j7TExA4T2PkGDabpmtOO13Ie2vbWbq11ty/8VvGGHGrUHMlZTC/77bzU5+AWQgXHY3w3GgWPXYyGiLtTMiSsot+okBwwBFb6xVpFUlu+o0GZpT3fNjWXEOPkXlsOz4zKyOy8iG6Y95zWZS8NjN/AgBjuHOfz3gVbooBGSZ3xqftNXx2sMYqDqGTI6H9qAvHp9sJBj1kjDL1wg==;vMCHc5mmvLSBY5+uE73fmA=="
 ---

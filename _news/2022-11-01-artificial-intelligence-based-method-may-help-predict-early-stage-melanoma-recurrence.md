@@ -36,14 +36,14 @@ related:
         height: 798
         isCached: true
   - title: "Melanoma survivors might be identified using an artificial intelligence technique: Study"
-    excerpt: "According to a study the majority of melanoma-related deaths occur in people who had an early-stage diagnosis of the most deadly kind of skin cancer and later"
-    publishedDateTime: 2022-10-31T19:23:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/273016427/melanoma-survivors-might-be-identified-using-an-artificial-intelligence-technique-study"
+    excerpt: "According to a study, the majority of melanoma-related deaths occur in people who had an early-stage diagnosis of the deadliest kind of skin cancer and later suffered a recurrence that was often not noticed until it had spread or metastasized."
+    publishedDateTime: 2022-11-01T12:26:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/melanoma-survivors-might-be-identified-using-an-artificial-intelligence-technique-study/videoshow/95233057.cms"
     type: article
     provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 10
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 8
 
 secured: "l4XZqGXzwX0T+S70EEu/s33zEu6O7guNnuIxr3fS3ns+68QgT+C6ubBbgmGHCfuT4A2GJgVEa90UuqWlt4te95haN47g/Z9eCiNPmFtUkk/OX9KgDqZKIymwghPFx51NBw3AyoppXudNuLdO9oB8qB9mmauDdSqDyd2+lYq5WFMO6jYdwt8ZtWvF4Nbwk9kOMVZoaQRHBVLJISnFikmmSLIW50pVxmQrGR1p+J9jPNh13osSoZSpuSubsB5auduk9aVbzxTQdC8q6lCA360ltUiUrKrNCVAPBNtbPx5VROxXOCm1fXxYq7AyRNA5B9ixT/6YyFTi+MHHzeayZ1ON9/anCG8JKGJHAjyYhDSskYw=;zoHkSvP7VbOBK5opZCmiMw=="
 ---

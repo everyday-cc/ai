@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T13:30:00Z
 originalUrl: "https://venturebeat.com/games/modl-ai-seriesa-ai-bot-qa-testing-griffin-gaming-microsoft-m12/"
 webUrl: "https://venturebeat.com/games/modl-ai-seriesa-ai-bot-qa-testing-griffin-gaming-microsoft-m12/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

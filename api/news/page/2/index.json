@@ -2,6 +2,359 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
+      "title": "Today’s news in 10 minutes",
+      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
+      "publishedDateTime": "2022-10-30T18:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-the-argument-for-an-ai-augmented-workforce.md",
+      "title": "The Argument For An AI Augmented Workforce",
+      "excerpt": "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
+      "publishedDateTime": "2022-10-30T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-transformation-of-digital-marketing-due-to-ai.md",
+      "title": "Transformation of digital marketing due to AI",
+      "excerpt": "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/",
+      "originalUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/",
+      "publishedDateTime": "2022-10-29T21:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-history-of-ai-in-33-breakthroughs-the-first-expert-system.md",
+      "title": "History Of AI In 33 Breakthroughs: The First Expert System",
+      "excerpt": "Expert systems represented a new stage in the evolution of AI, shifting from its initial emphasis on general problem-solving and reasoning to a new focus was on knowledge,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635db2d65570dc9d8908fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 568,
+          "height": 378,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
+      "publishedDateTime": "2022-10-29T16:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-30-trust-artificial-intelligence-still-a-work-in-progress-survey-shows.md",
+      "title": "Trust Artificial Intelligence? Still A Work In Progress, Survey Shows",
+      "excerpt": "Trust is a priority, but many organizations haven’t taken enough steps to ensure AI is trustworthy, the survey also shows. Eighty-five percent of respondents agree that consumer",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
+      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635d917f6cae08519f08fd16/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 633,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
+      "publishedDateTime": "2022-10-29T13:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
+      "title": "How to manage risk as AI spreads throughout your organization",
+      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
+      "publishedDateTime": "2022-10-29T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong.md",
+      "title": "You think your customers want a humanlike AI; you may be wrong",
+      "excerpt": "There’s a wide variety in how brands are approaching the design of VA experiences today, and there seems special interest in the highly humanlike ones—VAs that aim for the appearance and behavior of the real humans who previously fielded these inquiries.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
+      "originalUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
+      "publishedDateTime": "2022-10-29T06:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-29-why-generative-ai-is-suddenly-on-everyones-lips-its-an-open-field.md",
       "title": "Why “generative AI” is suddenly on everyone’s lips: it’s an “open field”",
       "excerpt": "There's a lot of confusion about generative AI, including how new exactly it is, and whether it's becoming massively overhyped.",
@@ -10,7 +363,7 @@
       "originalUrl": "https://techcrunch.com/2022/10/28/generative-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 96,
       "tags": null,
       "images": [
         {
@@ -92,6 +445,58 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-29-lego-is-moving-on-from-its-mindstorms-educational-robots.md",
+      "title": "Lego is moving on from its Mindstorms educational robots",
+      "excerpt": "If you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement. While the company isn’t completely done with the idea of educational robotics kits, it will stop selling its Mindstorms Robot Inventor kit by the end of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
+      "originalUrl": "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/pZ1iHore7VmYy-ZqixUcIay3Gf8=/165x160:1683x1166/1200x628/filters:focal(960x640:961x641)/cdn.vox-cdn.com/uploads/chorus_asset/file/24150262/51515_Lifestyle_06.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T18:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -234,21 +639,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-28-tomiai-selected-for-google-for-startups-cloud-program.md",
-      "title": "Tomi.ai Selected for Google for Startups Cloud Program",
-      "excerpt": "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a",
+      "path": "_news/2022-10-28-ishares-trust-ishares-robotics-and-artificial-intelligence-multisector-etf-nysemkt-irbo.md",
+      "title": "iShares Trust - iShares Robotics and Artificial Intelligence Multisector ETF (NYSEMKT: IRBO)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 10/31/2022. Discounted offers are only available to new ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739",
+      "webUrl": "https://www.fool.com/quote/nysemkt/irbo/",
+      "originalUrl": "https://www.fool.com/quote/nysemkt/irbo/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg",
-          "width": 400,
-          "height": 246,
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -258,14 +663,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-28T09:13:00-07:00",
+      "publishedDateTime": "2022-10-28T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "The Motley Fool",
+        "domain": "fool.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -281,6 +686,7 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -486,6 +892,59 @@
       ]
     },
     {
+      "path": "_news/2022-10-28-automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
+      "title": "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
+      "excerpt": "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
       "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
       "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
@@ -494,7 +953,7 @@
       "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -578,6 +1037,58 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-google-quietly-bought-an-ai-startup-to-build-your-avatar.md",
+      "title": "Google Quietly Bought an AI Startup to Build Your Avatar",
+      "excerpt": "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "originalUrl": "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 249,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/",
+      "publishedDateTime": "2022-10-27T17:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -725,474 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts.md",
-      "title": "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts",
-      "excerpt": "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
-      "originalUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg",
-          "width": 1334,
-          "height": 829,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp",
-      "publishedDateTime": "2022-10-27T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028.md",
-      "title": "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028.",
-      "excerpt": "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T13:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-aws-makes-neptune-its-graph-database-service-serverless.md",
-      "title": "AWS makes Neptune, its graph database service, serverless",
-      "excerpt": "AWS is launching a serverless flavor of its Neptune graph database service that abstracts away managing compute capacity.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/11/GettyImages-1236309559.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/",
-      "publishedDateTime": "2022-10-27T12:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race.md",
-      "title": "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race",
-      "excerpt": "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/luminars-lidar-technology-will-dethrone-tesla-in-the-driverless-car-race-1031844949",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T11:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-meta-is-betting-billions-that-ai-will-fix-its-advertising-business.md",
-      "title": "Meta Is Betting Billions That AI Will Fix Its Advertising Business",
-      "excerpt": "Meta expects operating expenses tied to Reality Labs to surge further in 2023. This outlook is a big reason why shares of Meta had tanked more than 20% by Thursday afternoon. The company's aggressive plans to invest in its data centers got a bit less attention.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business",
-      "originalUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/meta-is-betting-billions-that-ai-will-fix-its-advertising-business?amp",
-      "publishedDateTime": "2022-10-27T11:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers.md",
-      "title": "Logistics Operators Find Robots Are Helping Recruit Tech-Savvy Workers",
-      "excerpt": "Some companies say that investing in automation is helping them bring in a new generation of tech-savvy workers interested in working on the latest developments in artificial intelligence, robotics and other technologies aimed at driving efficiency in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "originalUrl": "https://www.wsj.com/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-653155/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/logistics-operators-find-robots-are-helping-recruit-tech-savvy-workers-11666893420",
-      "publishedDateTime": "2022-10-27T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
-      "title": "It’s time to admit self-driving cars aren’t going to happen",
-      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
-          "width": 1200,
-          "height": 864,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
-      "publishedDateTime": "2022-10-27T10:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence.md",
-      "title": "English-learning startup ELSA launches Speech Analyzer to help people gain conversational confidence",
-      "excerpt": "ELSA is based on mid-Western American English as the standard most often used in business, education and everyday settings. Speech Analyzer is free.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
-      "originalUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/10/3-1.png?resize=1200,675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/english-learning-startup-elsa-launches-speech-analyzer-to-help-people-gain-conversational-confidence/amp/",
-      "publishedDateTime": "2022-10-27T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-28-microsoft-previews-vision-studio-for-working-with-azure-computer-vision-api.md",
-      "title": "Microsoft Previews 'Vision Studio' for Working with Azure Computer Vision API",
-      "excerpt": "As if things weren't complicated enough with oft-confused Visual Studio and Visual Studio Code offerings, Microsoft has now announced a preview of Vision Studio, for working with the Computer Vision API in the Azure cloud computing platform.",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/10/27/vision-studio.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://visualstudiomagazine.com/-/media/ECG/redmondmag/Images/IntroImages2017/0417red_F2Hello.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T10:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments.md",
-      "title": "Argo AI will cease operations as Ford and Volkswagen pull investments",
-      "excerpt": "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
-      "originalUrl": "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

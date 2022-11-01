@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-09-27-how-ai-is-changing-the-game-in-insurance.md",
+      "title": "How AI Is Changing The Game In Insurance",
+      "excerpt": "The insurance industry is one of the largest in the world and has been around for hundreds of years, making it ripe for transformation by newcomers in the space. Technology has pushed the frontier of what’s possible,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "originalUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/632e1d204d78bb340e7d2c21/0x0.jpg?format=jpg&width=1200",
+          "width": 640,
+          "height": 290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/garydrenik/2022/09/27/how-ai-is-changing-the-game-in-insurance/amp/",
+      "publishedDateTime": "2022-09-27T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail.md",
+      "title": "Artificial Intelligence opens doors for media but ethics must prevail",
+      "excerpt": "Ten years ago, if you bandied around the word Artificial Intelligence in a Kenyan newsroom, you would be branded an illusionist, today it is the buzzword. AI, machine learning and",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "originalUrl": "https://www.the-star.co.ke/opinion/star-blogs/2022-09-27-artificial-intelligence-opens-doors-for-media-but-ethics-must-prevail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/U7H5nVDwALI80Wo_yJmtBb-vCX8ghYCRML2ZAxqHJUm2gLlYd95ZEbQDKpFIf7Gy3M9j9b7t5JPkWJQ5W8NLS7OmvmXN9KQqs21Cy6WdCAU=s1000",
+          "width": 511,
+          "height": 384,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-27T02:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Star",
+        "domain": "the-star.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-09-26-public-support-needed-to-tackle-racial-and-other-biases-in-ai-for-healthcare.md",
       "title": "Public support needed to tackle racial and other biases in AI for healthcare",
       "excerpt": "as part of the NHS AI Lab’s AI Ethics Initiative. Dr Xiaoxuan Liu from the Institute of Inflammation and Ageing at the University of Birmingham and co-lead of the STANDING Together project said ...",

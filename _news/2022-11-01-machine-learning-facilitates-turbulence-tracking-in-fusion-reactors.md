@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T12:48:00Z
 originalUrl: "https://phys.org/news/2022-11-machine-turbulence-tracking-fusion-reactors.html"
 webUrl: "https://phys.org/news/2022-11-machine-turbulence-tracking-fusion-reactors.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Phys.org

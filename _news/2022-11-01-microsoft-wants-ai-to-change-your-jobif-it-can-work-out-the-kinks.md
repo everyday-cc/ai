@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T12:01:00Z
 originalUrl: "https://www.bnnbloomberg.ca/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-1.1840027"
 webUrl: "https://www.bnnbloomberg.ca/microsoft-wants-ai-to-change-your-job-if-it-can-work-out-the-kinks-1.1840027"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: bnnbloomberg

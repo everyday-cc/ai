@@ -48,6 +48,15 @@ related:
       name: TechNode
       domain: technode.com
     quality: 19
+  - title: "China's New Intelligent EV company JIDU Launches its Limited-Edition Robocar Called the ‘ROBO-01 Lunar Edition'"
+    excerpt: "Baidu-backed Chinese electric vehicle company Jidu officially launched its first vehicle, the limited-edition “ROBO-01 Lunar Edition”. It’s a futuristic EV that comes packed with advanced technology and “point-to-point Autopilot” (PPA) autonomous driving capabilities."
+    publishedDateTime: 2022-10-28T18:29:00Z
+    webUrl: "https://www.futurecar.com/5581/China’s-New-Intelligent-EV-company-JIDU-Launches-its-Limited-Edition-Robocar-Called-the-‘ROBO-01-Lunar-Edition’"
+    type: article
+    provider:
+      name: futurecar
+      domain: futurecar.com
+    quality: 0
 
 secured: "+LFrdCGcjOKPLFq28afHVxpndErhru192SYT5kmEEH4lnymc54xb3E8P5Hv09Wk3e5R8/SbrUOvsTfMZnOmTuFNXtObFrDem5GMyKUCqKbnYAz4I/hBXzhRmD0fC0cm9H7F2g1/Xo0h++cK0PHM/znkCeLTDQIDPkbIOuTQ0d5HsaWl+i4tAuyDPjHKmRoWkOXqgLBzc97ah5ATFcM/A2NkZo3UahkP71voavAeS3Zlgo03plAfJcOjS78fp2ljGfzujb/4OGkIxNBNQMoC0GbuJwed9dYw47EtEBUU0YNSFjpyxB1Wnha1C+b6iX3nHmuWzs/4C8Alkzwdih4dH+RNjDls03FoI40QB3HNx+DQ=;m/sloLcT7FkneZvC8v+v2A=="
 ---

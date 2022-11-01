@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mind
 webUrl: "https://www.theverge.com/2022/10/28/23428766/lego-discontinue-mindstorm-educational-robots"
 type: article
 quality: 69
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: The Verge
@@ -29,17 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Lego Is Discontinuing Its Mindstorms Buildable Robot Kits"
-    excerpt: "Lego Mindstorms first debuted back in September of 1998, over 24 years ago, leveraging the company’s more complicated Technics building pieces, featuring gears and other mechanical components, to build semi-autonomous robots controlled by sensors and a programmable brick."
-    publishedDateTime: 2022-10-27T20:50:00Z
-    webUrl: "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177"
-    ampWebUrl: "https://gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/lego-is-discontinuing-mindstorms-buildable-robot-kits-1849712177/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 69
   - title: "Lego to discontinue Mindstorms robot line at the end of 2022"
     excerpt: "We have seen some pretty incredible creations incorporating Lego Mindstorms over the years. A recent example and arguably one of the most impressive was this fully"
     publishedDateTime: 2022-10-28T18:51:00Z

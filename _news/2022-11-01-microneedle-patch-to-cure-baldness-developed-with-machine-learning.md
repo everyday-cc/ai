@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T13:11:00Z
 originalUrl: "https://eandt.theiet.org/content/articles/2022/11/microneedle-patch-to-cure-baldness-developed-with-machine-learning/"
 webUrl: "https://eandt.theiet.org/content/articles/2022/11/microneedle-patch-to-cure-baldness-developed-with-machine-learning/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: IET
@@ -14,6 +17,17 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+related:
+  - title: "AI helps researchers design microneedle patches that restore hair in balding mice"
+    excerpt: "Hair loss is undesirable for many men—and women—because one's hairstyle is often closely tied to their self-confidence. And while some people embrace it, others wish they could regrow their lost strands."
+    publishedDateTime: 2022-10-31T18:20:00Z
+    webUrl: "https://phys.org/news/2022-10-ai-microneedle-patches-hair-balding.html"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 12
 
 secured: "LII3lSfo+dxfe2J/rwyKA+MYmlCCxLi2gS+iB9aqWQwbaiN7tQpNWFm26s9+YZJKeRImZBVPsgbolLuKWujxJ6U/uWtsxF3GaOSUxz/WeiwSMW1uPPAsiyVtBp/2ezy8tua9bJQRJlrXzC3ZC0B8pa0UhsjUa+XzfXu2Sjx54c0OLCfFkIL2wgxOPqQc/IOIHlGMKRP6lmTbQ3zt4Ml1Abw77+1THA51O//72jFrdFMWqd/Jp0PPbfkNv+kwkx6rRhB5JhFxo51Wk9XDbI88lK6G4B+D65RYR1U0lIV+S3M/J+Zrr9ZWfZ36hOKFkl5npmbeI7Zg2aDdWPQdOORiyUZj9H8evBVVL3b5pTrDzS0=;JMapP9V8wdU1vnIvtQ/Q3A=="
 ---

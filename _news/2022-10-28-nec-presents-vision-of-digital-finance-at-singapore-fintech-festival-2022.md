@@ -24,22 +24,6 @@ images:
     height: 316
     isCached: true
 
-related:
-  - title: "October 2022 Riskalyze Fintech Five"
-    excerpt: "Founder and CEO Aaron Klein provides his take on the biggest news to hit advisor technology in the previous month."
-    publishedDateTime: 2022-10-27T19:13:00Z
-    webUrl: "https://www.wealthmanagement.com/technology/october-2022-riskalyze-fintech-five"
-    type: article
-    provider:
-      name: WealthManagement.com
-      domain: wealthmanagement.com
-    quality: 24
-    images:
-      - url: "https://www.wealthmanagement.com/sites/wealthmanagement.com/files/riskalyze-fintech-5.png"
-        width: 1540
-        height: 800
-        isCached: true
-
 secured: "3Z7cYRNFP5LI1aXs8qvc+a1k99zvpMQzTXB8bmD5tKB1ZnOyJ2Ya0/zATRla0i9+3tODhnTxnspao3iCCKn/a7kTMozaQfQOwzEinIbUykwEoIefiFjBz2Lt0QsJsmd3NrVtZfkPo5Ucl/wWDjDRnvNPxwZC/mOV+/H3d/zYPlW/n9vGWjpbtccWM3mPtze6gW/zvao+5qey3+8ZeX6DqmqlWR0FL3LAtKCph/iqJAtwm2mIIp0HgWQ/afE68UEvXfKgki6kvFZmB8TNMAvjGzlnI71jAFY5fDaDfyc+vCEFM9JXQZhezlOW0I1HPVUNOe2YCyjExACg51PAX+AAFKhiFxJP+L+cnCIx2gTKJNI=;94rUrssyscEGrnXrA3VjOw=="
 ---
 

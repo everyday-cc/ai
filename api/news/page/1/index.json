@@ -2,6 +2,302 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-01-tokyo-begins-same-sex-partnership-recognition.md",
+      "title": "Tokyo begins same-sex partnership recognition",
+      "excerpt": "They often face discrimination at school, work and at home, causing many to hide their sexual identities. Still, many sexual minority couples say the partnership recognition will improve their daily lives, allowing them to rent apartments and sign ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
+      "originalUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221101-tokyo-same-sex-partnership-recognition-al-1035-0799ad.jpg",
+          "width": 2500,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna55041",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041",
+      "publishedDateTime": "2022-11-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges.md",
+      "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
+      "excerpt": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/startups-across-aws.jpg",
+          "width": 1338,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T08:05:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-revealed-the-worlds-top-female-scientists-in-2022.md",
+      "title": "Revealed: The World’s Top Female Scientists In 2022",
+      "excerpt": "There are some who object to focusing solely on female scientists ... the less likely it was that women would get recognition. And if these rankings help give female scientists the credit they deserve then that can send a very positive message about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63610d25316980fb5908fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
+      "publishedDateTime": "2022-11-01T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
+      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
+      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
+      "title": "How AI And Machine Learning Quietly Went Mainstream",
+      "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
+      "originalUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6361209b71c915fecc08fd14/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brianpeccarelli/2022/11/01/how-ai-and-machine-learning-quietly-went-mainstream/amp/",
+      "publishedDateTime": "2022-11-01T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai.md",
+      "title": "AI Ethics And AI Law Grappling With Overlapping And Conflicting Ethical Factors Within AI",
+      "excerpt": "They will ignore, in the process, many other features of the given charity such as its long-term record, recent changes in leadership, its ratio of expenses to payouts, and so on” (as mentioned in “AI Assisted Ethics” by Amitai Etzioni and Oren ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/11/01/ai-ethics-and-ai-law-grappling-with-overlapping-and-conflicting-ethical-factors-within-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-ethics-in-operation-the-business-case-for-responsible-ai.md",
       "title": "Ethics In Operation: The Business Case For Responsible AI",
       "excerpt": "What makes AI so powerful is that it can emulate human thought and behavior to achieve objectives faster and more efficiently than any human could. Of course, with this kind of power, we have to consider responsibility.",
@@ -113,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -401,6 +697,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards.md",
+      "title": "UK Police Use of Facial Recognition Fails to Meet 'Legal And Ethical Standards'",
+      "excerpt": "Cambridge University researchers call for police to be banned from using facial recognition in public spaces over human rights concerns.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
+      "originalUrl": "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-31T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
@@ -889,359 +1229,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
-      "title": "Today’s news in 10 minutes",
-      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "publishedDateTime": "2022-10-30T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-the-argument-for-an-ai-augmented-workforce.md",
-      "title": "The Argument For An AI Augmented Workforce",
-      "excerpt": "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
-      "publishedDateTime": "2022-10-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-transformation-of-digital-marketing-due-to-ai.md",
-      "title": "Transformation of digital marketing due to AI",
-      "excerpt": "When it comes to making purchasing judgments, modern consumers have become unusually good researchers. They are gaining greater insight and awareness as technology enables them to make more informed judgments online.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/",
-      "originalUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/10/Untitled-design-24-3.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/transformation-of-digital-marketing-due-to-ai/2758782/lite/",
-      "publishedDateTime": "2022-10-29T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-history-of-ai-in-33-breakthroughs-the-first-expert-system.md",
-      "title": "History Of AI In 33 Breakthroughs: The First Expert System",
-      "excerpt": "Expert systems represented a new stage in the evolution of AI, shifting from its initial emphasis on general problem-solving and reasoning to a new focus was on knowledge,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
-      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635db2d65570dc9d8908fd10/0x0.jpg?format=jpg&width=1200",
-          "width": 568,
-          "height": 378,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/amp/",
-      "publishedDateTime": "2022-10-29T16:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-trust-artificial-intelligence-still-a-work-in-progress-survey-shows.md",
-      "title": "Trust Artificial Intelligence? Still A Work In Progress, Survey Shows",
-      "excerpt": "Trust is a priority, but many organizations haven’t taken enough steps to ensure AI is trustworthy, the survey also shows. Eighty-five percent of respondents agree that consumer",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
-      "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635d917f6cae08519f08fd16/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 633,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/amp/",
-      "publishedDateTime": "2022-10-29T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-how-to-manage-risk-as-ai-spreads-throughout-your-organization.md",
-      "title": "How to manage risk as AI spreads throughout your organization",
-      "excerpt": "AI has many possibilities. But organizations must strategically implement AI to gain benefits and avoid risk and harmful consequences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
-      "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1339968369.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/",
-      "publishedDateTime": "2022-10-29T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong.md",
-      "title": "You think your customers want a humanlike AI; you may be wrong",
-      "excerpt": "There’s a wide variety in how brands are approaching the design of VA experiences today, and there seems special interest in the highly humanlike ones—VAs that aim for the appearance and behavior of the real humans who previously fielded these inquiries.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
-      "originalUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1338009807.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 617,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/",
-      "publishedDateTime": "2022-10-29T06:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

@@ -7,8 +7,8 @@ originalUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fai
 webUrl: "https://www.pcmag.com/news/uk-police-use-of-facial-recognition-fails-to-meet-legal-and-ethical-standards"
 type: article
 quality: 77
-heat: -1
-published: false
+heat: 127
+published: true
 
 provider:
   name: PC Magazine
@@ -24,22 +24,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
-    excerpt: "A team from the University of Cambridge's Minderoo Centre for Technology and Democracy created the new audit tool to evaluate \"compliance with the law and national guidance\" around issues such as privacy,"
-    publishedDateTime: 2022-10-27T20:25:00Z
-    webUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.html"
-    ampWebUrl: "https://techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-10-uk-police-legal-ethical-standards.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 79
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/uk-police-fail-to-meet.jpg"
-        width: 1334
-        height: 829
-        isCached: true
   - title: "UK police fails ethical tests with “unlawful” facial recognition deployments"
     excerpt: "A team of researchers from the University of Cambridge have called for UK police to be banned from using facial recognition in public spaces, and claimed that police deployment of the tech to date has not met “minimum ethical and legal standards”."
     publishedDateTime: 2022-10-28T13:32:00Z

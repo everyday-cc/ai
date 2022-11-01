@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
+      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
+      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-how-responsible-ai-creates-measurable-roi.md",
       "title": "How responsible AI creates measurable ROI",
       "excerpt": "but focusing on developing an ecosystem of responsible AI might be the place to start, Singh said. This was also a key point throughout its Global Responsible AI Summit, held for the first time ever last week. Overwhelmingly, the event’s sessions ...",
@@ -1313,49 +1365,6 @@
       "provider": {
         "name": "insideHPC",
         "domain": "insidehpc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-fetterman-is-ready-for-full-duty-and-speaks-with-no-cognitive-deficits-his-doctor-says.md",
-      "title": "Fetterman is ready for 'full duty' and speaks with no 'cognitive deficits,' his doctor says",
-      "excerpt": "A new report from his campaign is the first major post-stroke update in months. Pennsylvania Senate candidate John Fetterman's health \"has continued to improve\" and he is speaking \"without ...",
-      "sourceUrl": null,
-      "webUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "originalUrl": "https://abcnews.go.com/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.abcnews.com/images/Politics/fetterman-file-gty-ml-221019_1666195068491_hpMain_16x9_992.jpg",
-          "width": 992,
-          "height": 558,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "cdnAmpWebUrl": "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Politics/fetterman-ready-full-duty-speaks-cognitive-deficits-doctor/story?id=91739404",
-      "publishedDateTime": "2022-10-20T09:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC News",
-        "domain": "abcnews.go.com",
         "images": null,
         "publishers": null,
         "authors": null

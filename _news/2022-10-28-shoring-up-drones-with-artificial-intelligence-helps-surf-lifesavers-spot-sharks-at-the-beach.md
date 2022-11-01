@@ -25,17 +25,6 @@ images:
     height: 668
     isCached: true
 
-related:
-  - title: "How shoring up drones with artificial intelligence helps surf lifesavers spot sharks at the beach"
-    excerpt: "Discerning whether that dark splodge in the water is a shark or just, say, seaweed isn’t always straightforward. In reasonable conditions, drone pilots get it right only 60% of the time."
-    publishedDateTime: 2022-10-27T19:05:00Z
-    webUrl: "https://theconversation.com/how-shoring-up-drones-with-artificial-intelligence-helps-surf-lifesavers-spot-sharks-at-the-beach-192498"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 4
-
 secured: "AMAfLHT6s0JxU3v00ZATDh82GBjgSevN5MIjwnbzzMH5WBI6cGrp67hsc//GEPYNIjoYK0+QjcaBrsXKE9snDcJuaRA0ZkDp+o+DHg/o0XJlc57cIkA6XFLmx/RVYrsYLklOx8U+rTSK4P9hikj15ZUWWOfrcUgcLJ7b9Hf4GXpD/kf0OmamfZ0Oo0ZbcQzL8aUeqVTIMFJysEGL8RNxskmoU8MGtGOJmhKzXNMp73lqCtzsEFU84gap4GUuurkFrZwpGuP0+hj4w7MkN3yICLeioT59J86BZoAJQmvyqp2SDWar2zMX/UMGPLOOlyV0YhaI0AgUaM8Up7gJyAu8jGTANxP+12FKUA3pF8tXGlyJCX+5lUsxSqZJ4x/9JSUFvE7E7i9nQp7x68Owh0Xg2tluamukGe8YinOLeGLbVmnhQc7SMsstcFrlA7bRAR4DCg09OpRGAEJaBO6OzWWZqJQ2gKAopnjrW5cULYq2HH7OZg8l7ftN349zsm2P4jPlgBgnBKCbB69w7k3fljYfZw==;rBiHt4epI8kp8U+RFD3cfA=="
 ---
 

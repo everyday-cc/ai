@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T12:00:00Z
 originalUrl: "https://venturebeat.com/data-infrastructure/micron-launches-1-beta-dram-to-improve-power-efficiency-15-and-density-by-35-for-memory-chips/"
 webUrl: "https://venturebeat.com/data-infrastructure/micron-launches-1-beta-dram-to-improve-power-efficiency-15-and-density-by-35-for-memory-chips/"
 type: article
+quality: 37
+heat: 37
+published: false
 
 provider:
   name: VentureBeat

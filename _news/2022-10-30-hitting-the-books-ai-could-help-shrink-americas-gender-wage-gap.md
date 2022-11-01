@@ -6,6 +6,9 @@ publishedDateTime: 2022-10-30T15:07:00Z
 originalUrl: "https://www.engadget.com/hitting-the-books-the-equality-machine-orly-lobel-public-affairs-143031557.html?src=rss"
 webUrl: "https://www.engadget.com/hitting-the-books-the-equality-machine-orly-lobel-public-affairs-143031557.html?src=rss"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Engadget
