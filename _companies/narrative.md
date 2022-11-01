@@ -21,7 +21,7 @@ crunchbase:
 twitter:
   username: "getnarrative"
   url: "https://twitter.com/getnarrative"
-  followers: 22956
+  followers: 22954
 
 size: 11-50 employees
 yearFounded: 2012
