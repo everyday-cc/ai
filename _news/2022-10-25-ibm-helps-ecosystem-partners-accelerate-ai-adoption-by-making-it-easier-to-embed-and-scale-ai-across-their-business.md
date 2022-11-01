@@ -5,8 +5,6 @@ excerpt: "\"By bringing to market the same portfolio of embeddable AI technology
 publishedDateTime: 2022-10-25T12:10:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro"
 webUrl: "https://www.benzinga.com/pressreleases/22/10/n29394114/ibm-helps-ecosystem-partners-accelerate-ai-adoption-by-making-it-easier-to-embed-and-scale-ai-acro"
-ampWebUrl: "https://www.benzinga.com/amp/content/29394114"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29394114"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/95470/ibm_logo.jpg"
-    width: 400
-    height: 209
-    isCached: true
-
-secured: "LZ/XbMjPhH7Ots/LGFMaJYnv6h7NR6DytBfJhlykMIlMlIc2zWL1vCRFOPgs+m0F8eXplml0Q/pC8t4NSV1P7KBjylfIF3V+IECpN7qsFFoagB5ZyPIjdI9mkSeRzp544CqHpukOVjSy5u/JI2fkEya4YknZYHZpm6DxlngjVYDFrWCsh3dPzJ8BfrXw6shDh9TDbfh1/8E1tGRXHhSLOkkjeQoxHRB2pB838MQ3K94CwyG3uWRpYOCZWnEONtEwnEjgO6uZEI4N8WNUAOSfv/bRhUmwiliwPVG3wvpVzLVkK/q+5U8An0n9Kv2KF5r3P6Kho0ZEPHemuitWHrJ85mD2Ze5og9A0t+QccmCwHXI=;QPY5e0SS94TVHaPa1m9EQQ=="
+secured: "hKT/q+kapPtmXsnWdj5BSSNGa1zWP0p6ysQDU1DZMPN5AoqxOebOSw8PtsRppSZnNKGqJj7zDqh556cZfebS5cb4JJ/IshoVK6KWXo/HF2BMs/lqUFrm6q7g8lSDiPXTJx5cQCaRTn5hhZVA3JWW3ETKC+BV1Vr+fY3uWBu/wGokSE5/Z/wAfdwaSxh6LuPOtQP7CxGAnzt0CknedcUfFGiYvgxr96GROiZQVU2kM7yu4l+Z+E2d9cQy8UcdNqLsip/1OIVtizn2sD1it0ReA2TmaoQxYX3Y0DqPfXU+SzzBTAtSBVR2aSHnSrShS8z8zRsF3wz5LjdQ2tT/RmCA8PQEaJUYkw/ZUXhqo3oZWmQ=;qVWKtam4pVuOjxsT6VwPdg=="
 ---
 
