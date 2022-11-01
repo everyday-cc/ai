@@ -2,6 +2,310 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
+      "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
+      "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6352a22b37aebac3a2e382e7/0x0.jpg?format=jpg&crop=2015,1134,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers/amp/",
+      "publishedDateTime": "2022-10-24T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-edge-ai-hardware-market-worth-2716-million-units-by-2027-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Edge AI Hardware Market Worth $2,716 Million Units by 2027 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "This has opened a huge opportunity for the edge AI hardware market players. Smart wearables and health trackers could further accelerate the growth of the edge AI hardware market for wearables. The market for GPU is expected to grow with the highest CAGR during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-worth-2716-million-units-by-2027---exclusive-report-by-marketsandmarketstm-2022-10-24-92033048",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-ai-coming-of-age-lessons-for-startups.md",
+      "title": "AI Coming Of Age: Lessons For Startups",
+      "excerpt": "Startups might have an advantage over larger organizations in using AI: Building new business processes is a lot easier than changing existing processes that affect thousands of employees.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f2d686d44b66e05156c5e3c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/24/ai-coming-of-age-lessons-for-startups/amp/",
+      "publishedDateTime": "2022-10-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform.md",
+      "title": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform",
+      "excerpt": "D2iQ Simplifies Artificial Intelligence and Machine Learning Operations with Industry-First Enhancements to Kaptain AI/ML Platform Oct 24, 2022",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/d2iq-simplifies-artificial-intelligence-and-machine-learning-operations-with-industry-first-enhancements-to-kaptain-aiml-platform-2022-10-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-fmr-google-ceo-raises-ethics-concerns-over-conflict-of-interest-with-ai-investments.md",
+      "title": "Fmr. Google CEO raises ethics concerns over conflict of interest with AI investments",
+      "excerpt": "CNBC's Eamon Javers joins 'Squawk Box' to report on the direct AI investments fmr. Google CEO Eric Schmidt made while chairing the Federal Advisory AI Commission, and the fractures in government oversight and ethics systems that enabled Schmidt's activity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/10/24/watchdog-raises-ethics-concerns-over-former-google-ceos-role-in-federal-ai-commission.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107139496-16666188131666618807-26181245313-1080pnbcnews.jpg?v=1666618813&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T04:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-ai-is-now-heres-what-it-looks-like-in-practice.md",
+      "title": "AI Is Now: Here’s What It Looks Like In Practice",
+      "excerpt": "Here are a few ways our agency leverages AI and machine learning to help organizations gain a competitive advantage.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
+      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/628e44e29ba891bb836a6390/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/10/24/ai-is-now-heres-what-it-looks-like-in-practice/amp/",
+      "publishedDateTime": "2022-10-24T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-the-metaverse-is-here-and-onemeta-ai-is-already-changing-its-landscape-onei.md",
       "title": "The Metaverse Is Here, And OneMeta AI Is Already Changing Its Landscape ($ONEI)",
       "excerpt": "Many have heard the word \"Metaverse.\" Still, most have absolutely no clue what it is or means. A word of advice- learn about it. Why? Because it will change how people live, interact, and do business.",
@@ -405,49 +709,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
-      "title": "Video gaming may be associated with better cognitive performance in children",
-      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
-      "sourceUrl": null,
-      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
-      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
-          "width": 1280,
-          "height": 782,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
-      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
-      "publishedDateTime": "2022-10-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hill",
-        "domain": "thehill.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -920,231 +1181,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning.md",
-      "title": "Top 5 stories of the week: Deloitte, Meta, Nvidia and Oracle news highlights current state of AI, deep learning",
-      "excerpt": "The state of AI in 2022 continues to evolve and new trends are emerging with it. This week, news on AI from Nvidia and Oracle, Meta, and Deloitte topped our coverage.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "originalUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1040897864.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 1165,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/top-5-stories-of-the-week-deloitte-meta-nvidia-and-oracle-news-highlights-current-state-of-ai-deep-learning/amp/",
-      "publishedDateTime": "2022-10-22T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch.md",
-      "title": "Dev Of Incredible F-Zero-Inspired 'Aero GPX' Wants To Bring Racer To Switch",
-      "excerpt": "We desperately want to see Captain Falcon and the F-Zero franchise return to our screens — the game's appearance in Smash Bros. just isn't enough! Luckily, there are some fantastic indie games ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
-      "originalUrl": "https://www.nintendolife.com/news/2022/10/dev-of-incredible-f-zero-inspired-aero-gpx-wants-to-bring-racer-to-switch",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nintendo Life",
-        "domain": "nintendolife.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-f4-racer-austin-teenager-inspired-by-us-grand-prix.md",
-      "title": "F4 racer, Austin teenager inspired by U.S. Grand Prix",
-      "excerpt": "AUSTIN (KXAN) – On Friday, 17-year-old racecar driver and Austinite Ryan Shehan returned to the Formula One U.S. Grand Prix as a guest speaker for COTA’s “Best in Texas STEM”—a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
-      "originalUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kxan.com/wp-content/uploads/sites/40/2022/10/7980062CA1C1BB8B5F5AB34F2D5E2586-e1666396408832.jpg?w=1280",
-          "width": 1280,
-          "height": 881,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
-      "cdnAmpWebUrl": "https://www-kxan-com.cdn.ampproject.org/c/s/www.kxan.com/sports/f1-austin/f4-racer-austin-teenager-inspired-by-u-s-grand-prix/amp/",
-      "publishedDateTime": "2022-10-21T21:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KXAN",
-        "domain": "kxan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-text-generation-in-marketing-must-be-managed-carefully.md",
-      "title": "AI text generation in marketing must be managed carefully",
-      "excerpt": "AI text generation will become mainstream in marketing in the coming years, but human subject matter experts will remain crucial.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
-      "originalUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2019/10/office-computer.GettyImages-1084171424.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 604,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-text-generation-in-marketing-must-be-managed-carefully/amp/",
-      "publishedDateTime": "2022-10-21T17:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-researchers-build-neural-networks-with-actual-neurons.md",
-      "title": "Researchers Build Neural Networks With Actual Neurons",
-      "excerpt": "Neural networks have become a hot topic over the last decade, put to work on jobs from recognizing image content to generating text and even playing video games. However, these artificial neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "originalUrl": "https://hackaday.com/2022/03/01/researchers-build-neural-networks-with-actual-neurons/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hackaday.com/wp-content/uploads/2022/03/NeuralNerves.jpg",
-          "width": 3000,
-          "height": 1815,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

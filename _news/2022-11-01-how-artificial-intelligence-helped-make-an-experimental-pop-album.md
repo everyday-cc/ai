@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T19:57:00Z
 originalUrl: "https://www.smithsonianmag.com/smart-news/how-artificial-intelligence-helped-make-an-experimental-pop-album-180981044/"
 webUrl: "https://www.smithsonianmag.com/smart-news/how-artificial-intelligence-helped-make-an-experimental-pop-album-180981044/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://th-thumbnailer.cdn-si-edu.com/dbZGjytWEj-8ThNuN4qPDkerd8I=/fit-in/1600x0/filters:focal(1500x1057:1501x1058)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/73/ca/73ca1092-231a-4067-8436-7ff720df00e9/gettyimages-951909862.jpg"

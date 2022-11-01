@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
 type: article
 quality: 87
-heat: 119
+heat: 99
 published: true
 
 provider:
@@ -44,31 +44,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Argo AI shutting down"
-    excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
-    publishedDateTime: 2022-10-27T23:17:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/video/argo-ai-shutting-down/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/27/a40cc2ab-aadb-4192-907c-c3a91809cc04/thumbnail/1200x630/41c011ee7486c7cc872a1bdf5302b771/509fb513768c6c0996dd5d5e287b634a.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
-    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
-    publishedDateTime: 2022-10-28T00:04:00Z
-    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
-    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 37
 
 secured: "VvFSxoPpZtrxIiuSsZW5ggg+BtRR/xpBX32JrJohKwom4A1/iSNkiEb0PYcU9IWWdWnWx7ZpZ8Uq3lsIYpnUUpc9TjW19dJTL4GI2Bx41QxRtlmn7zs01DUB+hDTQmZ0LUxz0dQzY7GMYZDB9LkF0yvvBjxrM9lb6b2k0ILOKQZCCqupVv4PQy3oMGhmoTUAEqh4gZGgBcSkgkgKH6JMfcddru8DFKDCdGby6JX5Hn3yxkeAqYyUCpmWyTmtel5mcyfeEWsJ6jtITSWRF+W7fGy9Ea0gI3mw++Rpt1+v2X2uf8TP+ocq7TS03tgyERznk5RyaVyjKKj9XmFyhl6pAzLxc90boK5pYJ899siV57nuzRn7WwS+o0YMR3IrTscuQsuovRuIl1byjCqI7+8latmp5fAJDNx0e1QO4eBZl5JfEM7gsPCbE6Mqq1WDjSJ24cnnj4xu2ZiAGwPc4t7hFtGgZGh9ZBf4M8KAYZNKNRYP8y85rZ68AKufvVTfhbhUtWwo5DjYslGDyIjzgRNBlw==;4vCdj55S3ZH6eF8Gd7Q5Bg=="
 ---

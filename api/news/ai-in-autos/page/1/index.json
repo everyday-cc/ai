@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-elon-musks-rival-austin-russell-said-teslas-will-not-become-self-driving-anytime-soon.md",
+      "title": "Elon Musk's rival Austin Russell said Teslas will not become self-driving anytime soon",
+      "excerpt": "While Elon Musk has been promising autonomous cars are on the horizon, Austin Russell has made billions betting against him.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
+      "originalUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/63611d136e8b9800192dd7fe?width=1200&format=jpeg",
+          "width": 1182,
+          "height": 591,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/elon-musk-rival-austin-russell-tesla-autonomous-lidar-luminar-2022-11?amp",
+      "publishedDateTime": "2022-11-01T10:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-31-andrej-karpathy-considers-coming-back-to-tesla-to-work-on-optimus-and-agi.md",
       "title": "Andrej Karpathy considers coming back to Tesla to work on Optimus and AGI",
       "excerpt": "As Tesla expanded its effort from self-driving to broader artificial intelligence, Karpathy was promoted to senior director of AI at Tesla. In March, Karpathy announced that he was going on sabbatical for four months. At the time, we reported that it was ...",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1426,50 +1478,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
-      "title": "Study finds that artificial intelligence can determine race from medical images",
-      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
-          "width": 2880,
-          "height": 1338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
-      "publishedDateTime": "2022-10-19T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

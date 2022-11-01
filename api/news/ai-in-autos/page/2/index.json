@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-20-study-finds-that-artificial-intelligence-can-determine-race-from-medical-images.md",
+      "title": "Study finds that artificial intelligence can determine race from medical images",
+      "excerpt": "Artificial intelligence (AI) is used in a wide variety of health care settings, from analyzing medical images to assisting with surgical procedures. While AI can sometimes outperform trained clinicians,",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/study-finds-that-artif.jpg",
+          "width": 2880,
+          "height": 1338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-10-artificial-intelligence-medical-images.amp",
+      "publishedDateTime": "2022-10-19T14:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-10-20-waymo-driverless-rides-are-coming-to-los-angeles.md",
       "title": "Waymo driverless rides are coming to Los Angeles",
       "excerpt": "So Angelenos will soon notice Waymo's eye-catching, gadget-heavy driverless cars on LA roads as the company eyes offering its services in as many parts of the Los Angeles area as are feasible.",
@@ -1332,40 +1376,6 @@
       "provider": {
         "name": "moneycontrol.com",
         "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-drivers-shouldnt-use-driver-assistance-tech-like-autopilot-group-warns.md",
-      "title": "Drivers shouldn't use driver-assistance tech like autopilot, group warns",
-      "excerpt": "Yet drivers who use partial automation on a regular basis often operate their vehicles as if they were fully self-driving, the group said. Those with Cadillac Super Cruise, Nissan/Infiniti ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/",
-      "originalUrl": "https://www.cbsnews.com/news/tesla-gm-nissan-self-driving-vehicles-iihs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-11T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
         "images": null,
         "publishers": null,
         "authors": null

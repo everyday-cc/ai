@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Tokyo's capital begins same-sex partnership recognition"
-excerpt: "Tokyo’s capital has begun issuing certificates recognizing same-sex couples, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed"
-publishedDateTime: 2022-11-01T12:17:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
-webUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+title: "Tokyo’s capital begins same-sex partnership recognition"
+excerpt: "Tokyo's capital began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed. Seven years after Tokyo's Shibuya district first introduced same-sex partnership recognition in 2015,"
+publishedDateTime: 2022-11-01T12:07:00Z
+originalUrl: "https://apnews.com/34eb349e024945015497afccbf315346"
+webUrl: "https://apnews.com/34eb349e024945015497afccbf315346"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Computer Vision
   - AI
+
+images:
+  - url: "https://storage.googleapis.com/afs-prod/media/a0d053bbdb524cd3b755673c23e2df9a/3000.jpeg"
+    width: 3000
+    height: 2000
+    isCached: true
 
 related:
   - title: "Tokyo begins same-sex partnership recognition"
@@ -35,7 +41,23 @@ related:
         width: 2500
         height: 1485
         isCached: true
+  - title: "Japan's capital begins same-sex partnership recognition"
+    excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
+    publishedDateTime: 2022-11-01T16:29:00Z
+    webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
+    ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
 
-secured: "LY3lP5nIyC6mV4hUGOwJjyb5LtLWq84oxZpUULWwbf3EQ8/kNx0RIL1b8rFcQQWz7M65C30vtRf53T90yiVzes9QwOxW1NATUqXkXhoMUaRXJF79wHP69MDO2IGC+7NkFlCsDJQcxdhL9R7YKoyTjBn7qYFVsRlLk/9AmX2h7uhTIiyZvGdtJIvzrqYe83BkIptE8ZhPDrw2sP+Luw/s/HKVqtTGLzOVtHM6Txsmcsg5rpZutcpTu0kV2JY83NUSPeYfgTvW6qlc9062ZtgEeoj1HRjoV9/mO0dfibKnKkTts4sUj6dVRF2bkOVChbpydyXppAK5H1oEgkBO8888MxB0DcLjXbzPacIHKNV2043p7E7YCNcWkCySi3hooSujdgiyoBJYJLIbMmqOfVPqOVyKKyyzO/Oh2hCeAYPQ2b7HdzH1qAu794NyIYooKUP1uN21T+ejig8z8Rx1IJvo2o5BVlNrMmmJrCUO0oSM/wWVy0J1fkQ1pKMgh7NNbaQtzHlzBKY/XO3LDgOJLK9I9w==;xuClrs9P4ym9YmYSdMKaPQ=="
+secured: "lAkXYDmD+b0hPkMYHlFZnXuntbjha2OIzzO9BZhJK9CqM8n4c50of69pLRqLeqSFuB5O17DQz8IROt0OIInC/5EnlPJlvQxTk+ijvyON/BtmCWt3SdgHp4tdmiCx7OYzUiWcl1IuoRXlkDG3xTwF4hZKEIFJSIj+ThQCCtFXwLUn47qTdeqnbv2DfvIlpDoMLV/0FCczj05GR9yT1aQhFHdNztHz/lhUfISq88YghB50xQR4aMQDETS87smbHPTMv7cVv0DnXTQGwVWWHLHmS7wkK6Bfid/gDo/uZ15dtpMviKk0PLVZrLFGp357yNyDqXzCAG5enLKYsZjXKEIrZl2ZHK330NUaZHHgx7lOPwc=;EziGfpLENqxRNTvlVWvH/w=="
 ---
 

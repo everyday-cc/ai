@@ -44,6 +44,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Temple Health using AI to reduce cost of care"
+    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
+    publishedDateTime: 2022-11-01T16:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "nXWPK4aABY9IWN7hGYmP7+C/jsBcJVDKVoNTB0I7C59qF02m3qASxFzQotOyvQ8qJ7pYjqTW50swUvMMSO/cs2H7R8VxomhYvTIQq/9ZgMUS2jApKty1DaMpYJvOx0nWxBH1+ZFX3NoNOhi8hN7TJSASqjLvqujV4U2Hmc4hVnwZ9DwzAB2qARcP8YcTORRgIJmQwkVK6BuhWkAr5iABQ993FkEriZaWUVdnwhZoAb0zDAZf4pUKQ+LjB4iumIotK9FpxmVCIY2pBttHxuUbK4chAMJNXPQv3kUE/VJsdftlUDrJWuRNm92QBLSa8faKGsVX2dOGlURbhi5kJADU0Ak6MF/eOOGWqK1mhauCAzt8vBdaiqQvAJeaAINDVmHng3dCQkIkIA2hM7IlWw2yr2Zvhwz6b/nKKYEh5tGq1v16mOR4yDoOqStLgmYDCh6w5BWxx46IPiyo7viOIIrZN4Tm6q74ap8ZSzKNrvfS5vzASh5hX8/vG+0RYobBZzfzK4T1KfS7qm8AnB+YPK8IiQ==;VeJ/wrWbTpVcCyqyyu60vQ=="
 ---

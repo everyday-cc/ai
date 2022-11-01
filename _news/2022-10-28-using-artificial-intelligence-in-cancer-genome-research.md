@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artifici
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
         width: 840
         height: 438
         isCached: true
+  - title: "Temple Health using AI to reduce cost of care"
+    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
+    publishedDateTime: 2022-11-01T16:26:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "vPyjgw8Xze2XUV0ftaC7HTm8l7cLKyMUTJHBp9xG4Za1jjmNxZGDqmpzgiivedSKEtVhboIaTYkqNzw+UlH0XObLCKkMoFZvQt7LQAqHN27L1OfFe/LLpOAdf5z/DSf4PfJWlr35GF/8nKqEVo9dptiL8hA9BOJ6YP+Pkw+zVjoYqP+yDGRVl5kioSYUTWANnYWVO4Qk3RDeuWDWh/HfQiFzvrQczXIJ3FvQXY20AbP9DMF+xqgFP6d9tbwaZPkmBxarA9msRbJkTdcnSmecBUkZWdsbo8Nlkq/ivLq8jrTrbHHEc91ZgpIwWSXlw/xu50krwUaomQe0xm8XVnEAi+4B8+blkwBrOmg5GHULhSHo0yg38pm4AzKKtB/yd4Vnlu6aIAlygdvqRaUYAGGJ7O4NIgI4qqZcYFv51LfewX0O8B6f5WL1JSPZjYsvDa57teXXZilFKkagDjy+saG1NJySkl7VyXNY0pvr6K0zQaQJVEPwBS5nxJBsbOLt05tRSwb/gliYUywqd80qTZhxgw==;SVmgI3k5RVdSSkDZ3FhkJg=="
 ---

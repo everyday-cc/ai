@@ -66,6 +66,20 @@ related:
         width: 1344
         height: 673
         isCached: true
+  - title: "Move Amazon SageMaker Autopilot ML models from experimentation to production using Amazon SageMaker Pipelines"
+    excerpt: "Amazon SageMaker Autopilot automatically builds, trains, and tunes the best custom machine learning (ML) models based on your data. It’s an automated machine learning (AutoML) solution that eliminates the heavy lifting of handwritten ML models that requires ML expertise. Data scientists need to only"
+    publishedDateTime: 2022-11-01T16:51:41Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/move-amazon-sagemaker-autopilot-ml-models-from-experimentation-to-production-using-amazon-sagemaker-pipelines/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 87
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/move-sagemaker-models-pipelines.jpg"
+        width: 1341
+        height: 672
+        isCached: true
   - title: "Machine learning (ML) use in the cloud is growing thanks to Amazon SageMaker"
     excerpt: "Since its inception five years ago, Amazon SageMaker has grown to become one of the most popular machine learning (ML) services available. In 2017, Sagemaker was a standalone service meant to facilitate ML model training in the cloud for businesses."
     publishedDateTime: 2022-10-29T18:00:00Z

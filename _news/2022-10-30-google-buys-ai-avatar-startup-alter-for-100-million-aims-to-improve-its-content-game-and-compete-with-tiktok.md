@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Quietly Bought an AI Startup to Build Your Avatar"
-    excerpt: "Google quietly acquired Alter, a Twitter-backed AI avatar startup formerly named Facemoji, earlier this year for $100 million, TechCrunch reported Thursday. Alter's acquisition was completed two months ago,"
-    publishedDateTime: 2022-10-28T00:31:00Z
-    webUrl: "https://www.cnet.com/tech/services-and-software/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-quietly-bought-an-ai-startup-to-build-your-avatar/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/d189282b394184fca61d9cb8dced46eb01ce2e53/hub/2020/09/30/cfd89362-d0cb-494b-8200-d329c0ca4585/20200929-google-g-logo-02.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "With TikTok In Sights, Google Quietly Acquired An AI Avatar Startup For $100M"
     excerpt: "Google has acquired Alter, an AI startup that offered a tech stack to developers that could be used to create avatar systems, the company confirmed to TechCrunch. The publication reports the deal happened for $100 million,"
     publishedDateTime: 2022-10-28T23:29:00Z
@@ -103,36 +87,6 @@ related:
       - url: "https://sm.mashable.com/t/mashable_in/photo/default/72a81d54-1477-45f7-ac0a-f8174139aab3_qqyb.620.jpg"
         width: 620
         height: 349
-        isCached: true
-  - title: "Tomi.ai Selected for Google for Startups Cloud Program"
-    excerpt: "Company's Predictive Targeting Technology Strengthens Digital Customer AcquisitionPALO ALTO, Calif., Oct. 28, 2022 /PRNewswire/ -- Tomi.ai, a"
-    publishedDateTime: 2022-10-28T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/tomi-ai-selected-for-google-for-startups-cloud-program-1031848739"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://mma.prnewswire.com/media/1932593/Konstantin_Bayandin_Dmitry_Popov_Tomi_ai.jpg"
-        width: 400
-        height: 246
-        isCached: true
-  - title: "Startups: Of artificial intelligence and unreal impact"
-    excerpt: "Artificial intelligence is doing the unthinkable. At a time of evolving business models, AI enables businesses to rethink their strategies and adopt a more humane way of instilling enablement. Everyday examples of such enablement include automated cars,"
-    publishedDateTime: 2022-10-31T07:44:00Z
-    webUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/"
-    ampWebUrl: "https://theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
-    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/startups-of-artificial-intelligence-and-unreal-impact/1188840/?amp"
-    type: article
-    provider:
-      name: ThePrint
-      domain: theprint.in
-    quality: 61
-    images:
-      - url: "https://static.theprint.in/wp-content/uploads/2022/10/ANI-20221031070740.jpg"
-        width: 600
-        height: 450
         isCached: true
   - title: "Google bought an AI startup silently to build your Avatar: Know-more"
     excerpt: "Google has reportedly bought an AI startup named Alter, to join the rising trend of short-format videos. It is said that like TikTok took videos, Instagram Reels, YouTube Shorts, and Facebook reels, Google might come up with its own short format video in the coming times."
@@ -223,20 +177,6 @@ related:
       - url: "https://bl-i.thgim.com/public/incoming/3joc3r/article66076254.ece/alternates/FREE_1200/Google.JPG"
         width: 1200
         height: 798
-        isCached: true
-  - title: "‘Alter’ a new AI startup by Google"
-    excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
-    publishedDateTime: 2022-11-01T04:26:00Z
-    webUrl: "https://techstory.in/alter-a-new-ai-startup-by-google/"
-    type: article
-    provider:
-      name: tech
-      domain: techstory.in
-    quality: 37
-    images:
-      - url: "https://techstory.in/wp-content/uploads/2022/11/Larsen-Toubro-LT-1280x720-1-360x240.jpg"
-        width: 360
-        height: 240
         isCached: true
   - title: "Google snaps up AI avatar start-up Alter to compete with TikTok"
     excerpt: "The silent acquisition of New York-based Alter, previously Facemoji, is seen as Google’s bid for the metaverse."

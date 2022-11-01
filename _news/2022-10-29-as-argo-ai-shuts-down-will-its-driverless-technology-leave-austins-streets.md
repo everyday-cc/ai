@@ -41,31 +41,6 @@ related:
         width: 1200
         height: 809
         isCached: true
-  - title: "Argo AI shutting down"
-    excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
-    publishedDateTime: 2022-10-27T23:17:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/video/argo-ai-shutting-down/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/27/a40cc2ab-aadb-4192-907c-c3a91809cc04/thumbnail/1200x630/41c011ee7486c7cc872a1bdf5302b771/509fb513768c6c0996dd5d5e287b634a.jpg"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
-    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
-    publishedDateTime: 2022-10-28T00:04:00Z
-    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
-    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 37
 
 secured: "/ZvL8GDjKuH4Fju9rMy5VbASOjqLDtHx5Dm6qodiQzBGICac+CYU+9lq9/8XOvOYR6Kp95DyrMg9N0IkPmsmWZnHNgrCjZWvLGm3a8N75YpPPgDVQ5vy2r8c3jV0y5YZRkKwbPc/FU1Sb55G6eYBfgKgEyaoa5yLvdcXPfG0QAj2RyHO1t7RDp7szEcATmkEGC2yjgn4a1FMu2eExswQ1phGlfOIgr4uofbv41ElumSHgRZx0+JmwNXrqfiUKSzssjr4p2ggqHxtgR6KBGwn4ox5+rcKUl+zREAJW6ir2pcGsCG5U19eg2Gj+z5BVtmZqgLLjcGZ4Bhl32N48FNyn+LiIaf/mAi1sxTiXiBehXc=;YhkRSreGFDbpL6jmm2sLlw=="
 ---

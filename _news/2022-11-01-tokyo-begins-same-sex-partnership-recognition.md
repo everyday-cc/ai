@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna55041"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,16 +27,37 @@ images:
     isCached: true
 
 related:
-  - title: "Tokyo's capital begins same-sex partnership recognition"
-    excerpt: "Tokyo’s capital has begun issuing certificates recognizing same-sex couples, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed"
-    publishedDateTime: 2022-11-01T12:17:00Z
-    webUrl: "https://abcnews.go.com/International/wireStory/tokyos-capital-begins-sex-partnership-recognition-92473099"
+  - title: "Japan's capital begins same-sex partnership recognition"
+    excerpt: "Japan's capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
+    publishedDateTime: 2022-11-01T16:29:00Z
+    webUrl: "https://www.ctvnews.ca/world/japan-s-capital-begins-same-sex-partnership-recognition-1.6134044"
+    ampWebUrl: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/world/2022/11/1/1_6134044.amp.html"
     type: article
     provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 4
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 44
+    images:
+      - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
+        width: 1020
+        height: 574
+        isCached: true
+  - title: "Tokyo’s capital begins same-sex partnership recognition"
+    excerpt: "Tokyo's capital began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed. Seven years after Tokyo's Shibuya district first introduced same-sex partnership recognition in 2015,"
+    publishedDateTime: 2022-11-01T12:07:00Z
+    webUrl: "https://apnews.com/34eb349e024945015497afccbf315346"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 24
+    images:
+      - url: "https://storage.googleapis.com/afs-prod/media/a0d053bbdb524cd3b755673c23e2df9a/3000.jpeg"
+        width: 3000
+        height: 2000
+        isCached: true
 
-secured: "b2Z43YsZXeZiVL9mdVMlK1gtPhqNaCcBW4dC5KyUT9fKO3veb0b98LzK+ZzfHwsIrWBPHXOe0Iq26hsbxBz9Mn1f3GKPSBrjJUM9kctIIIx+Sd26f6yHu4ajlFVj3xqMt97EfzVQhbb0PHKYBiZCW9oSmXP1zh3umpRd/Oogw67IgGXqfjh/UIc+gKHSm+i8wFrASLm03DfMwKMfE94cszSjxoVEpe/0yIQelF4iqRsgedk5EHu7oXjqMbOXJcMhylOHLzun9MUZdAdJb5+hFMU45yRyr39d7rhoRQezt+QiMf5c84lVdOv1BV82C7wmQU824fVJ/oJiF0i7fqBJ3e3dghoiSUunGofZDnFVUXY=;6e5v3dXC1EQrgz4wmqilTQ=="
+secured: "amcNC/VIDCvF6TTO8Y4igd361H4lbvRG0Jd79XGf9BkCqB1w64jbU9uHJx+JRcIVAajzz0I2vFArwZeUBu8YErWlNd9pwicCm3j7rPxp1PMxppXMtvjc5c73nlpUqEKwvb8R3KFOMgDLPXtIXKZLM7MSQOTLS0I7Cn5i6AyQ5aJzNO9oJ533c20aCsVna3BIerzf4Wa/54lPFM12lc2AsnGAl/mcM/gqAnmSJtSQDT3tDO7eJKgIlsPLpabG5IBZ3Kd2tzLANNckUJ+I46jQsganxja7F2b9/GdaS62MFc+uVYhkCRC8ZkeiJUIyFt5qDdCQ8ypz+nCwbzww1ydPe5oH2KhhPcFv/z2Q6s2gObKDDk1MjwFdH5ZB/EwRtLR0v2R7rqg0kQ36aoWEAA5O0uQi/uwb6ylp5RivVmDqdjDCn3ZZX+W5gUH6rLJbXzJRcd68Xc/rddUfAghGFm/6IyNTUXxB1vlSmlA/lggb74Xkb9NFDTkRv+pQ7BRBSgLgMj52mD7CclRXHMvpDk3W5A==;8QeJvjgNe2TBWs19nYdHQw=="
 ---
 
