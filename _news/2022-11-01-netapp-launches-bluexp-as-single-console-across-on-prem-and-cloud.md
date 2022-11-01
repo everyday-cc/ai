@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T11:40:00Z
 originalUrl: "https://www.computerweekly.com/news/252526792/NetApp-launches-BlueXP-as-single-console-across-on-prem-and-cloud"
 webUrl: "https://www.computerweekly.com/news/252526792/NetApp-launches-BlueXP-as-single-console-across-on-prem-and-cloud"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Computer Weekly

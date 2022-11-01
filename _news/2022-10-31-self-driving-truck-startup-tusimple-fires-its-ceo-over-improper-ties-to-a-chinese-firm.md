@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-inv
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
 type: article
 quality: 66
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://images.mktw.net/im-655659/social"
         width: 1280
         height: 640
+        isCached: true
+  - title: "Self-Driving Truck Firm TuSimple Face Probes Over China Ties"
+    excerpt: "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ..."
+    publishedDateTime: 2022-11-01T20:13:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://images.wsj.net/im-656515?width=1280&height=720"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
     excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."

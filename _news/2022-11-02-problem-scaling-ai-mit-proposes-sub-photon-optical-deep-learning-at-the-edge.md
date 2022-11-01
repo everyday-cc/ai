@@ -5,7 +5,12 @@ excerpt: "Using wavelength division multiplexing, researchers were able to perfo
 publishedDateTime: 2022-11-01T19:06:00Z
 originalUrl: "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/"
 webUrl: "https://www.zdnet.com/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/problem-scaling-ai-mit-proposes-sub-photon-optical-deep-learning-at-the-edge/"
 type: article
+quality: 103
+heat: 103
+published: true
 
 provider:
   name: ZDNet
@@ -18,7 +23,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
-secured: "s2J9tXlhnTdRQf3lhsimDqehIOwALldPRSe6Y+ZVJMNt4AGRIhrHrVkAenki7TA9gsZ7Y9qlsGJdF1oybdIlMqPIw5t5lgcXcaUX08+BQDI2kPU5ljZcRer4qqMbZQupvjqV7F0EJhTkzH1PZPOu1n9CaOTUJs5HKOYNYaTu+R7OBUbGWYOt1vGERYPh4yxJW0cXXotiMCo6gmfqNc0iMX9iMeGjk8Twx0bNcF6V083NKBwkpCVGdesWzYyXegD6TZ15SqsKZ9WZkWo/BzcVJ9C3AfQQ+Y+BBcO8UW7hCOMrlyPZVk1+1E/ksPCR1yKuqnsg+MoyLy9PTQ5hJrd8oDlt/vq8QD7nsSoay18aEbW6HA4yNKRedst0e/ZwhUACy2yYRhYlhhGbU8ZQLWuxFrKN/Z4tq6CszhhJLCCfTH8grFIStr1MlI0tiWZrqKhG7K1GxEHdoDaeqDLeOnPg/jHxphZqUGorP396U1YnsV+6LafC3rnde+e3IHov32W8Zt8avkjPVfWu9qWfK8QuiA==;NbSEaSfOKYibqvU1b9aUHQ=="
+images:
+  - url: "https://www.zdnet.com/a/img/resize/cf73b493c596ba517977d05a81839bc703f72b25/2022/10/31/2478f28e-dfe4-4c71-92c7-fde978a3deb9/photonic-equation-landscape.jpg?auto=webp&width=768"
+    width: 768
+    height: 536
+    isCached: true
+
+secured: "NPDA2Z4tnH+nqi8W3hfau+rOWGWjwjxwh6K5qVEneYIEV4pxyIyrJW7zmlxrmzWptwCyE2q7zYUlAHoQKB2zLQN2arqPuPiAw7pNhmwdhyD7w4WkXcCcHFyj6aQAShBzJ+sbkpwM/wgVN8GGg3SheDLL9uU86vWxZ9eSe+J7D06psFbrAsTwpw4DUWb/k42Kz54yjLEI4eQ+gGIVCiTsUg9I6NLcozc5BcONVPwqNeFbzuQjwbrquyk+72jNQvfw3y/zpRcTwGUCke89ZXENdTTLcfbveU7CEKjDzMsf5TUgQFTbVSeM7Df2GVWPmW97HibuyLyLLAC99SUWIsM5HXE6QhIaAGwPdAbwWlRerXE=;0EN2jvPxb0hmdfymCNOq6Q=="
 ---
 

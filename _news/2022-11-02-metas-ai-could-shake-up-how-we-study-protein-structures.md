@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T19:07:00Z
 originalUrl: "https://www.popsci.com/technology/meta-ai-protein-folding-prediction/"
 webUrl: "https://www.popsci.com/technology/meta-ai-protein-folding-prediction/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Popular Science

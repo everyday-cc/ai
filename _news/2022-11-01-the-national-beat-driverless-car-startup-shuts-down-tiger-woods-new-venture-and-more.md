@@ -1,11 +1,14 @@
 ---
 category: news
 title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
-publishedDateTime: 2022-11-01T09:49:00Z
-originalUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
-webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
+publishedDateTime: 2022-10-31T18:38:00Z
+originalUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
 type: article
+quality: 13
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -16,6 +19,17 @@ topics:
   - AI
   - AI in Autos
 
-secured: "IFN5hd9ftWGyV0xn5NWnaBBxdMDhoP3vpENH7WjXFcrphucGbIBAKfMii4jJJInfcdiAVZYVGeTAH59HHsSSHyAPZ9lzfrXUDZO8ACsOtdgpd0H5dsKWeelWrH49yoSCEyIHlrIGFiIV9blnsQxGMRnJ2EiHzOyydi2Jp0usAGPBSQ8IfFmOMJPt79722yl+PIxrrgT3nt4sCXqwLrJaluVWk+xPWhSpGnQm7JKSAnQ2aTr5s+aeM82FhbUSkn5PSsON24M2FILBbCAnZkIk+VAzYfoiW1qr+OZk4FAiIWHs5LwZR9b8ed3AzUGA9VG9zBvb8p6My4/zvgQsw6IHJMQHkcB+2DSNPgjvlznAX1VeJWDqq/XEAiDOXv+aaE9/7+efU07UCVO6dC1lRtgUK2X3KkSjZ1F522VvlXky3XB8TNS5jvyj0V+2acrMTnMKHXb+R/Bnf+K/favxoq4QtksrR6d7eogYw/W+csse1AtWWM5AwgjvRxD0j4mazQ9yUIcs9iE7kM69SvYXyfdVdQ==;L2ul+UWtPjF6GDCTUszvNw=="
+related:
+  - title: "Driverless cars aren’t going away, but we need to lower our expectations about them"
+    excerpt: "The driverless car startups that haven’t run out of money, gone out of business, or been bought out want you to know that driverless cars aren’t going away. These companies insist that ..."
+    publishedDateTime: 2022-10-28T20:11:00Z
+    webUrl: "https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 43
+
+secured: "Rh84ploHkNNmDA7trLWz0/aTkcL6X9UtY8GW3l+sBhlwHfUIK6KvtadzP2dTPwxizHJHXhlSSgd81FcMymhLh5t2Zbg7u/GsRxzcFpQh9xmEdoRX7/KwgVVIiVyGEaHrc05EYj1u4nrYyozN4Mhl5MkhXHdDn+0ARKCVtK8BO4e3vi/qeG4fHs5ETjw6NDPD9IyUYIVFviWN7HVK2ZlftFDvUlg3sWkBdM8isPTYaMmzmfXIx7YJ6UfC4KsDEfsd5QKDCvXwagDL2/yOIG6Sj+9lzf811WXTNWPrlBuV3lGzTLYyvUk6IpOn2h2aKMgZ3YloCI8cYLU2/U49Kd/gsMTrzqWF0nBbyR3psHZ031cjFe3+JzmrCtZaKuimQrf2qyOD923EIdlBarnj62Vi/XYnCl5MXMi59Mq3eQZzrUkI7rS5E91zVFvBP1uHG3xNkmp+Lbw7tsB8DyrWVD4aslUEU2JvIvE0ZDEOGHNIWI2mC33p4vBpneQnkgdiCuHIdSpm1vjysien/25Tgm4EBg==;GkA0XO5jbuVih0Y6knuA9Q=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T18:42:00Z
 originalUrl: "https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302"
 webUrl: "https://gizmodo.com/ai-dall-e-stability-ai-stable-diffusion-1849728302"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Gizmodo

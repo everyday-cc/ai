@@ -5,7 +5,12 @@ excerpt: "Register here. Machine Learning (ML) requires data on which to train a
 publishedDateTime: 2022-11-01T19:10:00Z
 originalUrl: "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/"
 webUrl: "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/"
+ampWebUrl: "https://venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/galileo-looks-to-improve-unstructured-data-for-machine-learning-ml-raises-18m/amp/"
 type: article
+quality: 116
+heat: 116
+published: true
 
 provider:
   name: VentureBeat
@@ -18,7 +23,14 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
-secured: "p+HMzo6gBEpnqDOUlzvGJKDjebF9/RalVUJlOCT9fsDaZhecSKQhE1v6EAc2jx/E0oms6TTlUN08BhVRS2sB8mYHxqBdLo1aMo+tuPBvnoZa0/J8R36dsj4XCUnpQaLpAraDbev5UahhSaorgdBdvKQEC2y5Iy3fNJ1oCrr7iBM9FF8FWvDNA5QCBUIucorSl1bs8F6lwA4i+3MupaPEYyPWNtQ3LOxvIT1oI5YwKJIOGSX8bsNxzxMPkv60S/v7QTQYNuhwZxSpqoxs30gi3inIyvOowbfE21TQ6BGpbiG83yYuo+kEiUZpnSkdPe/Au7ZlTHCQVutkQ78PFITGlWYE9Y7UEO5KAG6nEW4qU8UnX9PKX1UNBBdg2SCVhjedsboynA7R9RefKK7CN2uyzJFg6557cAkelK1xhNCaUA2eHXB1VB9Mb0BW42sAPtsZvz/f/qwIKnyws7OQ/rVvZxELxd2rKZxfdfEOIo1X2/PYtAEhODdED5+OM1TnKyE9FNMe8lrChx7l4c6BM5KeEg==;2ASMLv+9E5OWsAhML3AFsw=="
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-954077270.jpg?w=1200&strip=all"
+    width: 1200
+    height: 683
+    isCached: true
+
+secured: "NQOHfBRHpyHmFWnSIvLRcdUcmi4Z7nIoHdPyfUAiqcxHCWrYvhwKSFljM55iVKT4BjTXCu7ng1MtD4O0J8U+iQPZEzI2d0oMq5IXRZogvxLtkoJgxWcdM9kfF+7KfIdG0VABzgqEnqy1xks5nkRqeD503M0NtpC6T4jD4qDirMkho3B0x/xK52weapGd+zrl5yCSoqDCkDFwfSh7oiQuzzb9VTjEF0KVcHuILid2drqnrn/90EfntE2PZULF4mS96SIEIr+GE1Z5SPMXtvIRm7KwE+JQ5YHrx/JScURdtB5fcQ4U0LSAM5m+dGlqOJeXxYaFXSjmHSNkIA+ycUMAh7FFatuOU1rjm+LFIBVLJyI=;7qR5IQu+4X03L53wgsl7pg=="
 ---
 

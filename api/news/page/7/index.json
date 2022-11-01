@@ -2,6 +2,230 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
+      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
+      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
+      "publishedDateTime": "2022-10-24T09:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
+      "title": "1 in 10 Americans over 65 have dementia, study finds",
+      "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "originalUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221021141210-elderly-person-holding-hands-with-younger-person-stock-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
+      "publishedDateTime": "2022-10-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-d-wave-quantum-launches-in-aws-marketplace.md",
+      "title": "D-Wave Quantum Launches in AWS Marketplace",
+      "excerpt": "D-Wave Quantum Inc. - a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers - announced that it has launched in AWS Marketplace,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
+      "originalUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bctechnology.com/tmp/social/news/tw/9340EBC648B62D55FB18AB88AAA8FECD7AF4BBAF66A239716A48991BC2E294AA.png?1667260844",
+          "width": 600,
+          "height": 335,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "T-Net",
+        "domain": "bctechnology.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-fact-check-did-ai-predict-humans-evolving-into-cyborgs-in-viral-video.md",
+      "title": "Fact Check: Did AI Predict Humans Evolving into Cyborgs in Viral Video?",
+      "excerpt": "Artist Fabio Comparelli responded to the social media hype surrounding his work, which some claim showed the demise of humanity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "originalUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2138844/evolution-ai.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
+      "publishedDateTime": "2022-10-24T08:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-24-bics-launches-communications-platform-as-a-service.md",
+      "title": "BICS launches Communications Platform as a Service",
+      "excerpt": "BICS says its new CPaaS for text, voice, and messaging can integrate using APIs and plug-ins, no coding required.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "originalUrl": "https://www.rcrwireless.com/20221024/telco-cloud/bics-launches-communications-platform-as-a-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-24T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-how-the-availability-of-ai-is-changing-the-security-landscape-for-both-users-and-developers.md",
       "title": "How The Availability Of AI Is Changing The Security Landscape For Both Users And Developers",
       "excerpt": "In certain instances, analytics like movement tracking and basic object recognition helped organizations that could afford to implement them, but they were still hampered by limiting factors such as camera quality and processing power. Today, that’s ...",
@@ -722,6 +946,49 @@
       ]
     },
     {
+      "path": "_news/2022-10-24-video-gaming-may-be-associated-with-better-cognitive-performance-in-children.md",
+      "title": "Video gaming may be associated with better cognitive performance in children",
+      "excerpt": "New research published in JAMA Network Open suggests playing video games could be good for children’s cognitive performance. Those who played at least three hours each day scored higher on two ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "originalUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/",
+      "publishedDateTime": "2022-10-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-24-snap-way-to-design-ads-ranking-service-using-deep-learning.md",
       "title": "Snap Way to Design Ads Ranking Service Using Deep Learning",
       "excerpt": "Subscribe for free. Snap engineering has recently published a blog post on how they designed their Ads ranking and targeting service using deep learning. Showing ads to the users is the mainstream ...",
@@ -898,289 +1165,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-aetina-launches-new-mxm-gpu-modules-for-ai-performance-boost-at-the-edge.md",
-      "title": "Aetina Launches New MXM GPU Modules for AI Performance Boost at the Edge",
-      "excerpt": "The model names of the new Aetina MXM GPU modules powered by NVIDIA RTX A1000, NVIDIA RTX A2000, and NVIDIA RTX A4500 are M3A1000-PP, M3A2000-VY, and M3A4500-WP, respectively. These models support CUDA Compute version 8.",
-      "sourceUrl": null,
-      "webUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
-      "originalUrl": "https://technews.tmcnet.com/news/2022/10/23/9697751.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1927424/Aetina_Launches_New_MXM_GPU_Modules_Powered_NVIDIA_AI_Performance.jpg",
-          "width": 400,
-          "height": 209,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion.md",
-      "title": "Mind control: The metaverse may be the ultimate tool of persuasion",
-      "excerpt": "In an unregulated metaverse, a controlling force with deep knowledge of users can use feedback loops to drive them toward a desired goal.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "originalUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/10/Metaverse-Mind-Control-image-001.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 835,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/mind-control-the-metaverse-may-be-the-ultimate-tool-of-persuasion/amp/",
-      "publishedDateTime": "2022-10-22T16:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-the-amazing-race-fans-speculate-which-season-34-racer-contracts-covid-19.md",
-      "title": "‘The Amazing Race’ Fans Speculate Which Season 34 Racer Contracts COVID-19",
-      "excerpt": "Following the premiere of The Amazing Race Season 34 Episode 5, CBS aired a preview for episode 6. It appears as though the teams will stay in Jordan for the fifth leg of the race. The pairs will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "originalUrl": "https://www.cheatsheet.com/entertainment/the-amazing-race-fans-speculate-season-34-racer-contracts-covid-19.html/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cheatsheet.com/wp-content/uploads/2022/10/The-Amazing-Race-Season-34-1.jpg?w=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-22T10:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Cheat Sheet",
-        "domain": "cheatsheet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-driverless-car-quest-has-made-a-bonfire-out-of-75-billion.md",
-      "title": "Driverless car quest has made a bonfire out of $75 billion",
-      "excerpt": "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "originalUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-10/1181fb60-5153-11ed-b7d7-2a25405a846d",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "publishedDateTime": "2022-10-22T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai.md",
-      "title": "How small and midsize businesses can take advantage of text-to-image AI",
-      "excerpt": "Text-to-image AI art generators like DALL-E 2 have limitations, but they can already have many marketing uses for companies of all sizes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
-      "originalUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 613,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-small-and-midsize-businesses-can-take-advantage-of-text-to-image-ai/amp/",
-      "publishedDateTime": "2022-10-22T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-22-ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it.md",
-      "title": "AI Digitally Restored a Lost Trio of Gustav Klimt Paintings. Not Everyone Is Happy About It.",
-      "excerpt": "They say, ‘No, Klimt has never used such a green.’ This is true. He did not use it before the Faculty Paintings and not even after it, but I'm sure that during this particular period, because it was such an outstanding period for him,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "originalUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-614597",
-          "width": 1280,
-          "height": 1897,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/story/ai-digitally-restored-a-lost-trio-of-gustav-klimt-paintings-not-everyone-is-happy-about-it-d75f54f8",
-      "publishedDateTime": "2022-10-22T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

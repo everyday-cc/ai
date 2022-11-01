@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-02-self-driving-cars-were-supposed-to-change-the-world-were-still-waiting.md",
+      "title": "Self-driving cars were supposed to change the world. We’re still waiting",
+      "excerpt": "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the fully self-driving car. Such vehicles would usher in an era of consumer safety and convenience,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html",
+      "originalUrl": "https://www.cnn.com/2022/11/01/business/self-driving-industry-ctrp/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221101094715-argo-ai-vehicle-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/11/01/business/self-driving-industry-ctrp/index.html",
+      "publishedDateTime": "2022-11-01T12:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-elon-musks-rival-austin-russell-said-teslas-will-not-become-self-driving-anytime-soon.md",
       "title": "Elon Musk's rival Austin Russell said Teslas will not become self-driving anytime soon",
       "excerpt": "While Elon Musk has been promising autonomous cars are on the horizon, Austin Russell has made billions betting against him.",
@@ -114,7 +166,7 @@
       "originalUrl": "https://www.cnbc.com/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 116,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -262,6 +314,49 @@
         "AI",
         "AI in Autos",
         "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh.md",
+      "title": "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?",
+      "excerpt": "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
+      "originalUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESA",
+        "domain": "wesa.fm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
       ]
     },
     {
@@ -1362,112 +1457,6 @@
         "name": "Singularity Hub",
         "domain": "singularityhub.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029.md",
-      "title": "Military Artificial Intelligence (AI) Market 2022 Size, Revenue Analysis, Sales, Share and Research Depth Study 2029",
-      "excerpt": "Military Artificial Intelligence (AI) Market Size is projected to Reach Multimillion USD by 2029, In comparison to 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "originalUrl": "https://www.marketwatch.com/press-release/military-artificial-intelligence-ai-market-2022-size-revenue-analysis-sales-share-and-research-depth-study-2029-2022-10-20",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 188,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T21:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Sales",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-10-20-self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028.md",
-      "title": "Self driving Bus Market Likely to Enjoy Promising Growth by 2028",
-      "excerpt": "India, Maharashtra, Pune The Latest research study released by HTF MI \"Self-driving Bus Market\" with 100+ pages of",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-bus-market-likely-to-enjoy-promising-growth-by-2028-2022-10-19",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-19T15:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

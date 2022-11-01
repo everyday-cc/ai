@@ -1,10 +1,10 @@
 ---
 category: news
 title: "AHIMA: Healthcare Technology Must Evolve With Consumer Demands"
-excerpt: "Recommendations and Insights for the Health Information Profession to Meet the Emerging Needs of the Modern Healthcare Consumers,\" based on interviews with health system leaders, insurers, health technology companies,"
-publishedDateTime: 2022-10-28T16:19:00Z
-originalUrl: "https://www.healthleadersmedia.com/technology/ahima-healthcare-technology-must-evolve-consumer-demands"
-webUrl: "https://www.healthleadersmedia.com/technology/ahima-healthcare-technology-must-evolve-consumer-demands"
+excerpt: "A white paper from a leading health IT education and advocacy group recommends more use of artificial intelligence and automation in healthcare to keep up with changing consumer demands. \"A Watershed Moment: Recommendations and Insights for the Health Information Profession to Meet the Emerging Needs of the Modern Healthcare Consumers,"
+publishedDateTime: 2022-10-28T16:20:00Z
+originalUrl: "https://www.healthleadersmedia.com/telehealth/ahima-healthcare-technology-must-evolve-consumer-demands"
+webUrl: "https://www.healthleadersmedia.com/telehealth/ahima-healthcare-technology-must-evolve-consumer-demands"
 type: article
 quality: 39
 heat: 39
@@ -24,6 +24,6 @@ images:
     height: 1200
     isCached: true
 
-secured: "wATnnCqLpdFi4FIzy6+AwcQaHimFwVPI9um+eKdle5haKI6MOeowx0PsLLvLJL8vYwDMZ+11I2SoO4gX7zJshmgSOeakDkQ+yFa8KwVz+6ZZ2E+u1/HYOxz75ZbLKBKsQj/aZnD+r3eRevq22iR+/2RGuqVQTpzZalogiPUClMGKSRnz8o+JAPH8VUcdJEZ6mvjJ0BqnJ2auLDnOwiK/qWhPs6ctt2vnMODw5l1ot1B2S/0AGV/FGLAVlSgilthRW/RBM0I2FZq+3M1qidEB3uVUVYbadjIX41BMh7mJhUu9sQHEHNsdKW7ltN3LL2CohRDMhScikpEzRikHZ1AkwAZ/esistinFz9Im4tL6nDw=;+PUCJvkaFxaWDeXQIScnrA=="
+secured: "jTT+7CHtIKlN8vpzug0FbCNzXCZtQ6kLr2iEv6OPJC7qvbzphI4dp4PTp8NjV+A7AW9mr5KocSDNfMT0B5LwISCVyz7BiQhuwL/z348XRvM0J8HM7PQ0Ajm7GOxnA/q1P7vPvclMir0HpfiYUkBzZybfzBqVqZgtX3GaZLu1/GFAj3nDllo438bJXf8x+T8baUQflJX1lwBSA92I+O/27cyb1iumdqoJRMLkq+UeXB1fLoHhcdkt7VLiadjYLcVz51A/GnS/9Bf0djV7TGDeCKsi5YBtD7aADcrx0cxz6DHORdmG3vGIaKF1aoAM/bufbow2KKUqq8tISVB76nudya++bDVHqmLwImSzV0QmGx8=;ZcXldzcvOVv1VyF/RMVQuw=="
 ---
 

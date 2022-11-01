@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T18:26:00Z
 originalUrl: "https://exclaim.ca/music/article/warp_reissue_artificial_intelligence_comp_with_aphex_twin_autechre_richie_hawtin"
 webUrl: "https://exclaim.ca/music/article/warp_reissue_artificial_intelligence_comp_with_aphex_twin_autechre_richie_hawtin"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: Exclaim!

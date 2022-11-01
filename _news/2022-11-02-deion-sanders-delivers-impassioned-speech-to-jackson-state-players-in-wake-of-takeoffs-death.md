@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T18:03:00Z
 originalUrl: "https://brobible.com/sports/article/deion-sanders-takeoff-death-jackson-state-football-team-players-speech/"
 webUrl: "https://brobible.com/sports/article/deion-sanders-takeoff-death-jackson-state-football-team-players-speech/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: BroBible

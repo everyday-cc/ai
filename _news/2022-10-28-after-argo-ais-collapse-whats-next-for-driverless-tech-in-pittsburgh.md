@@ -7,8 +7,8 @@ originalUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-col
 webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
 type: article
 quality: 53
-heat: -1
-published: false
+heat: 73
+published: true
 
 provider:
   name: WESA
@@ -25,29 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
-    excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."
-    publishedDateTime: 2022-10-28T04:25:00Z
-    webUrl: "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype"
+  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
+    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
+    publishedDateTime: 2022-10-28T19:10:00Z
+    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
     type: article
     provider:
-      name: Supply Chain
-      domain: supplychainbrain.com
-    quality: 54
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 37
     images:
-      - url: "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200"
-        width: 953
-        height: 635
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Driverless cars aren’t going away, but we need to lower our expectations about them"
-    excerpt: "The driverless car startups that haven’t run out of money, gone out of business, or been bought out want you to know that driverless cars aren’t going away. These companies insist that ..."
-    publishedDateTime: 2022-10-28T20:11:00Z
-    webUrl: "https://www.theverge.com/2022/10/28/23427129/autonomous-vehicles-robotaxi-hype-failure-expectations"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 43
   - title: "Ford-VW driverless car venture folds in face of tech challenges"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
     publishedDateTime: 2022-10-29T14:13:00Z
@@ -57,15 +48,6 @@ related:
       name: The Financial Times
       domain: ft.com
     quality: 19
-  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
-    publishedDateTime: 2022-10-31T18:38:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
 
 secured: "8pC0zwBX3w5ZhWex/ddsxpN/FyR7l+oF41jrsthGB63JsuxtF9/gXvLMKlCtc9JSvVSUm492bvvcIhcf1DvZue+wF8dlIk3QjbI1vFCUI2zfnK/WM449bdOONB+3g7Td13ejzpWmsJ0KC1maNWua8NiakXsUuwrdayz11foM+gr2Ya1tOpx5xp8ndj5A++PDBF94SJw63N1lyh+S0UpkxuHEibsHvrnUHooReavC1N9UFeoIBGeS30Kmz0G1v2RPOYV7BxpMFRMmUKxbcc7SDKJBvw5Lu6yqpd8ZlqjCe/OgNWaWzX5qmc8fWDG9jJPGXzeVeRXV1g0BK3OazwbYyUGgzpC3G+bJKz+4xx+00LI=;EDlNDaIEX44pAXKLGK8vFw=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T12:37:00Z
 originalUrl: "https://www.pcworld.com/article/1364477/nvidia-rtx-4090-vs-nvidia-rtx-3090.html"
 webUrl: "https://www.pcworld.com/article/1364477/nvidia-rtx-4090-vs-nvidia-rtx-3090.html"
 type: article
+quality: 48
+heat: 48
+published: false
 
 provider:
   name: PC World

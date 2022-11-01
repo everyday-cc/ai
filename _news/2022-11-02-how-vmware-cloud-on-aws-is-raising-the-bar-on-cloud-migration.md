@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T19:00:00Z
 originalUrl: "https://siliconangle.com/2022/11/01/vmware-cloud-aws-raising-bar-cloud-migration-vmconaws/"
 webUrl: "https://siliconangle.com/2022/11/01/vmware-cloud-aws-raising-bar-cloud-migration-vmconaws/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SiliconANGLE

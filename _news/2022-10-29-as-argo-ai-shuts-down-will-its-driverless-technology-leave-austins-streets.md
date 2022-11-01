@@ -41,6 +41,15 @@ related:
         width: 1200
         height: 809
         isCached: true
+  - title: "Ford, VW seeking buyer for Argo AI’s lidar unit"
+    excerpt: "Ford and Volkswagen are trying to squeeze any remaining value out of Argo AI and shopping around Argo Lidar, an 80-person team."
+    publishedDateTime: 2022-11-01T19:22:00Z
+    webUrl: "https://techcrunch.com/2022/11/01/ford-vw-seeking-buyer-for-argo-ais-lidar-unit/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 47
 
 secured: "/ZvL8GDjKuH4Fju9rMy5VbASOjqLDtHx5Dm6qodiQzBGICac+CYU+9lq9/8XOvOYR6Kp95DyrMg9N0IkPmsmWZnHNgrCjZWvLGm3a8N75YpPPgDVQ5vy2r8c3jV0y5YZRkKwbPc/FU1Sb55G6eYBfgKgEyaoa5yLvdcXPfG0QAj2RyHO1t7RDp7szEcATmkEGC2yjgn4a1FMu2eExswQ1phGlfOIgr4uofbv41ElumSHgRZx0+JmwNXrqfiUKSzssjr4p2ggqHxtgR6KBGwn4ox5+rcKUl+zREAJW6ir2pcGsCG5U19eg2Gj+z5BVtmZqgLLjcGZ4Bhl32N48FNyn+LiIaf/mAi1sxTiXiBehXc=;YhkRSreGFDbpL6jmm2sLlw=="
 ---

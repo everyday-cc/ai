@@ -5,6 +5,8 @@ excerpt: "New research published in JAMA Network Open suggests playing video gam
 publishedDateTime: 2022-10-24T00:00:00Z
 originalUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
 webUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/"
+ampWebUrl: "https://thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
+cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/enrichment/education/3702176-video-gaming-may-be-associated-with-better-cognitive-performance-in-children/amp/"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "VuqThtrtIfbiUBjj0tYkih/6efMmYUe5PtzsvHapQ+LbwhGo7L9CPp94ymoh2vofVLkh53liKSstJQ2jWWWbgLQKU5Stfq2d4egOjgFYYeb221C6pz0rbPYTVkzEJLcWM9BnyoDC9AxeJ8i78mIVqvrm18rbGtH0wYHz8q2MhQ6zE20Q2Xd7a1+xuJPvXbFcaFDS97k+xdieBPSa1c1aVzR134+unxTtJEJ6Tx2NsDu4jZK2OzTxb3sDkkWu/GWWTlpfcdvEUcTtnBHno1ts+5idR32M/B2W5MeR7By7JEpsjvUdll4NTd1zkCfMzTMqC66WU+xT7PmwhMtukIjkiVqP7Y5yhmnON1FzRcuhzLQ=;Q3ygbX5ONmq1Ygn3XfOakw=="
+images:
+  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/10/CA_videogames_10242022istock.jpg?w=1280"
+    width: 1280
+    height: 782
+    isCached: true
+
+secured: "ONwGYqR7oX5TaJlg7Yfwo7eZpufw0cUqTfztJPZQC4pvlh/QbRiXMm5T1ec/c1PMZ8QgLKkb8HvF0ZU6xfSD5cGlNqOLdcEZPWltPcAJtYukp2l616lHUg69SEULSPM66aMRjSSm4R9uUD/oTcMfimy03jzryaudDLyG6MPkp2n5GQJj3pNaSokQ1JJ+pPmLu65N103GsTN41dAD8WcYXTZluhAhl3Fi8ZcjxIWzLVZiho/KzBF1/ccF8GOEizXQCWeNMXNzPyecOkSEt1T9Dyfi/r0jzrBfsFveH0Ya2p7/ZwlTm0cJU1sEMt9RQwNt5cWYp2r9MfJHmwMXBjMM7pQKuVZLulLXtsLsQNbpbsk=;qfKNoigNgyOBy/oXR9jBdg=="
 ---
 

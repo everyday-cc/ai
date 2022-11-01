@@ -2,6 +2,295 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-28-using-artificial-intelligence-in-cancer-genome-research.md",
+      "title": "Using Artificial Intelligence In Cancer Genome Research",
+      "excerpt": "Artificial intelligence plays a role in cancer genome research by reducing the time to develop ... [+] genetic mutation treatment plans by more than 50%. Researchers from the Institute of Medical Science at the University of Tokyo (IMSUT) and Fujitsu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
+      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635b27dab6cac768db876e01/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/10/28/using-artificial-intelligence-in-cancer-genome-research/amp/",
+      "publishedDateTime": "2022-10-28T07:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-ais-true-goal-may-no-longer-be-intelligence.md",
+      "title": "AI's true goal may no longer be intelligence",
+      "excerpt": "Some scholars of AI warn that the present technologies may never add up to \"true\" intelligence or \"human\" intelligence. But much of the world may not care about that.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/d8452d84a72bddf317ccce52ec12fa799a3860aa/2022/10/27/a22915c0-394e-41e6-92d4-125c5b82fe4b/hi-im-ai-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-true-goal-may-no-longer-be-intelligence/",
+      "publishedDateTime": "2022-10-28T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-the-future-of-empathetic-ai-in-todays-technological-world.md",
+      "title": "The future of empathetic AI in today’s technological world",
+      "excerpt": "There is also the possibility that AI ethics can be superior to human ethics. Humans have many cognitive biases, which an emotionally intelligent AI can work to eliminate. How can AI make use of empathy? Artificial intelligence can utilize empathy to make ...",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Iyer.png",
+          "width": 318,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/",
+      "publishedDateTime": "2022-10-28T03:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh.md",
+      "title": "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?",
+      "excerpt": "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
+      "originalUrl": "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WESA",
+        "domain": "wesa.fm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share.md",
+      "title": "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share.",
+      "excerpt": "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-28T01:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-10-28-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype.md",
+      "title": "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype",
+      "excerpt": "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "originalUrl": "https://www.supplychainbrain.com/articles/35963-tesla-ford-and-vw-sound-the-death-knell-for-driverless-car-hype",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.supplychainbrain.com/ext/resources/2022/10/27/AI-DRIVERLESS-CAR-SELF-DRIVING-AUTOMOBILE-BLOOMBER.jpg?height=635&t=1666931214&width=1200",
+          "width": 953,
+          "height": 635,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T21:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Supply Chain",
+        "domain": "supplychainbrain.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-28-artificial-intelligence-has-an-achilles-heel-data.md",
       "title": "Artificial Intelligence Has An Achilles Heel: Data",
       "excerpt": "Artificial intelligence just doesn’t pop up when you install tools and software. It takes planning and, most of all, it takes data. But getting the right data to make AI and machine learning algorithms — and understanding it — is where many organizations are slipping up,",
@@ -917,309 +1206,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
-      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
-      "excerpt": "\"We take immense pride in being named as a Top 10 MedTech Startup and the recognition it brings to our solutions,\" said Dr. Kira Radinsky, CEO of Diagnostic Robotics. \"2022 was a monumental year for us as we continued to enhance our AI solutions ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine-1031843067",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
-      "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
-      "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "originalUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2140508/cat-using-phone.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/cat-caught-turning-off-owner-alarms-hilarious-clip-corporate-job-1755142?amp=1",
-      "publishedDateTime": "2022-10-27T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-ais-new-creative-streak-sparks-a-silicon-valley-gold-rush.md",
-      "title": "AI's New Creative Streak Sparks a Silicon Valley Gold Rush",
-      "excerpt": "Investors have got the hots for \"generative AI\" that can make text and images. But so far, the hype runs ahead of the business results.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "originalUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/635a221f93ea9ed771dc5180/master/pass/Business-AI-Generators-Stephanie-Guo-1177538357.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ais-new-creative-streak-sparks-a-silicon-valley-gold-rush/amp",
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report.md",
-      "title": "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report",
-      "excerpt": "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-how-technology-is-helping-solve-healthcare-challenges.md",
-      "title": "How Technology Is Helping Solve Healthcare Challenges",
-      "excerpt": "In this article, I'll talk about some of the biggest problems in healthcare and how technology is being used to help solve them, which I hope will inspire you in your own business uses. Let's get going!",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62bc54b6d9785913bcd547b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
-      "publishedDateTime": "2022-10-27T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-why-personalization-is-still-missing-from-ai-interactions.md",
-      "title": "Why Personalization Is Still Missing From AI Interactions",
-      "excerpt": "Artificial intelligence has the potential to transform our lives for the better, leading to leaner businesses and happier customers. But our interactions are missing a core element.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63593ae0a07752e0803671f1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/",
-      "publishedDateTime": "2022-10-27T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

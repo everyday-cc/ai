@@ -57,6 +57,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-Driving Truck Firm TuSimple Face Probes Over China Ties"
+    excerpt: "U.S. government regulators are investigating whether self-driving trucking company, TuSimple, defrauded investors by sharing its technology with a Chinese startup, according to people familiar with the matter. The company has fired its CEO as part of its ..."
+    publishedDateTime: 2022-11-01T20:13:00Z
+    webUrl: "https://www.wsj.com/video/series/tech-news-briefing/self-driving-truck-firm-tusimple-face-probes-over-china-ties/526B2B6E-7E36-4E62-9DBB-A0671A3B5C1C"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
+    images:
+      - url: "http://images.wsj.net/im-656515?width=1280&height=720"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
     publishedDateTime: 2022-11-01T00:19:00Z

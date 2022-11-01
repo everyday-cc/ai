@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Chinese search provider Baidu unveils new AI-powered EV"
-    excerpt: "Chinese internet search giant Baidu Inc. unveiled Thursday a new electric vehicle powered by artificial intelligence featuring some"
-    publishedDateTime: 2022-10-28T01:30:00Z
-    webUrl: "https://mainichi.jp/english/articles/20221028/p2g/00m/0bu/006000c"
-    type: article
-    provider:
-      name: 毎日新聞
-      domain: mainichi.jp
-    quality: 39
-    images:
-      - url: "https://cdn.mainichi.jp/vol1/2022/10/28/20221028p2g00m0bu005000p/0c10.jpg?1"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Baidu’s EV subsidiary Jidu launches special edition of its first car"
     excerpt: "Jidu Auto, the electric vehicle unit of Chinese search engine giant Baidu, has launched a special edition version of its first vehicle"
     publishedDateTime: 2022-10-28T09:53:00Z

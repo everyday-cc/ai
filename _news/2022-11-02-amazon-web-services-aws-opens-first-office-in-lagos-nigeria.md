@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T18:06:00Z
 originalUrl: "https://www.techbooky.com/aws-opens-lagos-office/"
 webUrl: "https://www.techbooky.com/aws-opens-lagos-office/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: techbooky.com
