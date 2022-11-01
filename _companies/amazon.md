@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amazon"
   url: "https://twitter.com/amazon"
-  followers: 4821313
+  followers: 4822071
 
 size: 10,001+ employees
 yearFounded: 1994
@@ -28,7 +28,7 @@ topics:
   - AWS AI
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1587106446730465280/2O-KpMMM_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1587352380454338561/Uav_0HHn_400x400.jpg"
     width: 400
     height: 400
     isCached: true
