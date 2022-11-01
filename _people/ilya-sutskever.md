@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: ilyasut
   url: https://twitter.com/ilyasut
-  followers: 130180
+  followers: 130195
 
 googleScholar:
   url: https://scholar.google.com/citations?user=x04W_mMAAAAJ
