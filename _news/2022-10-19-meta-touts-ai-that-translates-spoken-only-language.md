@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Facebook AI
 
 related:
   - title: "Meta AI Translator Can Figure Out Unwritten Languages"

@@ -22,7 +22,7 @@ related:
   - title: "Biotech begins human trials with drug discovered using AI"
     excerpt: "A biotech backed by Merck, Eli Lilly and private equity group BlackRock says it has begun one of the first clinical trials in humans of a drug discovered using artificial intelligence to analyse a vast database of brain tissue."
     publishedDateTime: 2022-10-31T04:00:00Z
-    webUrl: "https://www.ft.com/content/0006ae3f-7064-4aa6-98cd-8912f544acc5?shareType=nongift"
+    webUrl: "https://www.ft.com/content/0006ae3f-7064-4aa6-98cd-8912f544acc5?sharetype=gift"
     type: article
     provider:
       name: The Financial Times

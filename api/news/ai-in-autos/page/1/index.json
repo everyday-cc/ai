@@ -353,21 +353,21 @@
       ]
     },
     {
-      "path": "_news/2022-10-28-ford-vw-shut-down-argo-ai-self-driving-cars-expensive-years-away.md",
-      "title": "Ford, VW Shut Down Argo AI: Self-Driving Cars Expensive, Years Away",
-      "excerpt": "A reminder: there are no self-driving (Level 4) cars for sale in the U.S. And Ford has decided that getting robotaxis or other fully automated vehicles on the road, in numbers that make it profitable,",
+      "path": "_news/2022-10-28-its-time-to-admit-self-driving-cars-arent-going-to-happen.md",
+      "title": "It’s time to admit self-driving cars aren’t going to happen",
+      "excerpt": "With the shutdown of Argo AI, Ford walking away from full autonomy and Tesla under criminal investigation, full self-driving looks impossible.",
       "sourceUrl": null,
-      "webUrl": "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/",
-      "originalUrl": "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/",
+      "webUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
+      "originalUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://www.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg",
-          "width": 1920,
-          "height": 1080,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/self-driving-stop.jpg?resize=1200,864",
+          "width": 1200,
+          "height": 864,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -375,14 +375,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/",
-      "cdnAmpWebUrl": "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/",
-      "publishedDateTime": "2022-10-27T10:01:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/self-driving-cars-arent-going-to-happen/amp/",
+      "publishedDateTime": "2022-10-27T10:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Motor Trend",
-        "domain": "motortrend.com",
-        "images": null,
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
