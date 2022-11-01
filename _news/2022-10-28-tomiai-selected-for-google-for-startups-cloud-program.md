@@ -44,15 +44,20 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "Google Cloud, mCloud to debut trio of AI-powered sustainability apps"
-    excerpt: "In partnership with Google Cloud, mCloud will directly integrate and leverage core Google Cloud services to enable powerful capabilities driving the sustainability of asset- and energy-intensive operations."
-    publishedDateTime: 2022-10-27T11:55:00Z
-    webUrl: "https://www.itp.net/emergent-tech/google-cloud-mcloud-to-debut-trio-of-ai-powered-sustainability-apps"
+  - title: "‘Alter’ a new AI startup by Google"
+    excerpt: "Google purchases the startup for about $100 million with an end goal to work on its substance game and rival TikTok."
+    publishedDateTime: 2022-11-01T04:26:00Z
+    webUrl: "https://techstory.in/alter-a-new-ai-startup-by-google/"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
+      name: tech
+      domain: techstory.in
+    quality: 37
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/11/Larsen-Toubro-LT-1280x720-1-360x240.jpg"
+        width: 360
+        height: 240
+        isCached: true
 
 secured: "SyG55r/VnQfqyFEl1CDpzyPJXhQocDTw/5c/SB/HzRGJ4pWfSHdHNNf8bYoBGG36h2i6OzFA1W+0XG4tkBhlluyIae40bsdMwQIWq60/XPaC3VbQofJAsmoyCC5hHjvAQHZ1F8JUv6bH6T9r6tBs7eiae7bvIIEp3lNDaUSubl6KNbPmPjpMWDs1q+Ulld0bZCNJXSstY9x2PAG0Ayzst2oIcVyEaDDmg6lzjXD/Eu+DFQzPjB4dBsSBV3umYpqKLf/Y8KU+OomSIN++8QQ5QnkVlq9ZzJzaaa6EH8jn4iyLOdlJCZE//RP5nQg2vKAW3HK3YsJ+Suu/607CDFMf1YmcqXXj4Q3f9lmRYDtvH4haBNhp9NgsFWMXloXQ3nG+Jg1W/7JMkzUHjdRQ4RYE4+XBmpHfnlAbH1Qyyg5X9q0hbBNFDoa7rNtMrWf1YSdCetzFlSt0TPtbC0Vd2Rxolkd8iF5qlhtLqcmRP7bT3gKZnKZglkspN1uhAcD/EAqeFsaxKBrydFsHqGNXO6P1gw==;r8O+AXK4c2Wv18fNTu1iYQ=="
 ---

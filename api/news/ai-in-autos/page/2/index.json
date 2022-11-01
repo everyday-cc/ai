@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-10-19-waymo-says-its-bringing-robotaxis-to-la.md",
+      "title": "Waymo says it’s bringing robotaxis to L.A.",
+      "excerpt": "Driverless car company Waymo already operates autonomous taxi fleets in Phoenix and San Francisco. On deck: Los Angeles. The company, owned by Google parent Alphabet, said Wednesday that it plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la",
+      "originalUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ca-times.brightspotcdn.com/dims4/default/51d0785/2147483647/strip/true/crop/1680x1124+0+72/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa6%2F5b%2Fdd853cf745a492ecb89820e519b2%2Fwaymo-mapper-in-la-1909.jpg",
+          "width": 320,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la?_amp=true",
+      "cdnAmpWebUrl": "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-10-19/here-come-the-robotaxis-waymo-set-to-deploy-in-la?_amp=true",
+      "publishedDateTime": "2022-10-19T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Times",
+        "domain": "latimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-19-driverless-cars-now-offering-shuttle-service-at-pittsburgh-international-airport.md",
       "title": "'Driverless' cars now offering shuttle service at Pittsburgh International Airport",
       "excerpt": "Remote controlled vehicles part of testing program at airport 00:35 PITTSBURGH (KDKA) - New technology is now advancing the passenger experience at Pittsburgh International Airport. The airport ...",
@@ -1324,58 +1367,6 @@
         "name": "Miami Herald",
         "domain": "miamiherald.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-12-survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much.md",
-      "title": "Survey: 40-50% Of Us Trust Our ‘Self-Driving’ Vehicles From Tesla And Cadillac Far Too Much",
-      "excerpt": "When Tesla sells a Full Self Driving package for $15,000 US, people seem to trust the name and use it pretty much as such, according to a new survey, even if they only have the less capable Autopilot system.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "originalUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6345e7d45bd4910ac4b5c039/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/johnkoetsier/2022/10/11/survey-40-50-of-us-trust-our-self-driving-vehicles-from-tesla-and-cadillac-far-too-much/amp/",
-      "publishedDateTime": "2022-10-11T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

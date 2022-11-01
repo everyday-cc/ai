@@ -7,7 +7,7 @@ originalUrl: "https://www.entrepreneur.com/business-news/report-tesla-is-under-i
 webUrl: "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes"
-    excerpt: "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters.."
-    publishedDateTime: 2022-10-27T12:09:00Z
-    webUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 59
   - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
     excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
     publishedDateTime: 2022-10-27T20:16:00Z

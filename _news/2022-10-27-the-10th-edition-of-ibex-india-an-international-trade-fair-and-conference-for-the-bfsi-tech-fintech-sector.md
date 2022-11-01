@@ -51,15 +51,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
-    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
-    publishedDateTime: 2022-10-27T12:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
   - title: "Bread Financial thinks it can outlast fintech startups in a recession"
     excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
     publishedDateTime: 2022-10-28T17:58:00Z

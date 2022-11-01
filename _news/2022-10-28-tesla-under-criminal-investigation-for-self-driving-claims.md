@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "DOJ reportedly investigating Tesla’s Autopilot self-driving claims after crashes"
-    excerpt: "The Justice Department launched a probe last year to look into whether Tesla had made unsupported full self-driving claims, according to Reuters.."
-    publishedDateTime: 2022-10-27T12:09:00Z
-    webUrl: "https://www.engadget.com/doj-investigating-tesla-autopilot-self-driving-claims-113038198.html"
-    type: article
-    provider:
-      name: Engadget
-      domain: engadget.com
-    quality: 59
   - title: "Reports: Tesla will face DOJ, SEC scrutiny over self-driving claims"
     excerpt: "Unconfirmed reports from Reuters and the Wall Street Journal this week claim that Tesla faces a criminal probe and a civil investigation from the two respective arms of federal government."
     publishedDateTime: 2022-10-28T12:18:00Z

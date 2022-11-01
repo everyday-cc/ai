@@ -60,15 +60,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 20
-  - title: "5 Tips On How To Navigate The Perfect Storm In Fintech"
-    excerpt: "As the World Bank report highlights, fintech is rapidly transforming the financial sector landscape and blurring the boundaries of both financial firms and the financial sector. In 2020, everything around e-commerce and BNPL was hot,"
-    publishedDateTime: 2022-10-27T12:38:00Z
-    webUrl: "https://www.finextra.com/blogposting/23139/5-tips-on-how-to-navigate-the-perfect-storm-in-fintech"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 4
 
 secured: "MZi72Pa5+zZtocseOAAwux5gcgn+EAbrX8/CnuefGfwn/lK0TWYKwcv4RLt/3sa27T81cWIoFqwm4fU6cTjvAbJrP1XabTqxJ5oF91BOHeckju8wTs8pZbbFYa2U/Vuz76JQZLqe8wlPyJYJlsjCv+zBCTg6X1fNjZNGtz607SZk/fay9WwW4DTMpU+2vEtSrantw0q0Qi0+Fz4RBhfWuLjbPQDsnKWbbIClt000N7iKXXWSybPvJ0SpJadj/m5zaQYDkRAKONaER3al4hah2kKZ8pMRok2HlUExAPAU+OfG9zVTGN3Qa/kNbUZ40RVjJLj9YOJH3YGyyX4RwmoV5TItT3NzB+d5/t6T7DL8qQvegFXveNQ6ekQl43OJv0KcHLzeh6f0Nn2zYVBsdUEyTsVywm1jNBmjr7SSr1tJztmZVmzwPm/Uhukdq0ycaEGcMHIYv3uYPTkET6KdRyHOPixDhs4jnwn2o9lp6g5/jhNiWlIFkLFUl06K/H7Qh/X1zFNAoY7nnJxTqZXsduiO4A==;4e5Gh790IGDYvWfcZLzjkg=="
 ---

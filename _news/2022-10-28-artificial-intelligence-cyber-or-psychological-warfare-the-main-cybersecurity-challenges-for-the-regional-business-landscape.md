@@ -7,7 +7,7 @@ originalUrl: "https://business-review.eu/tech/artificial-intelligence-cyber-or-p
 webUrl: "https://business-review.eu/tech/artificial-intelligence-cyber-or-psychological-warfare-the-main-cybersecurity-challenges-for-the-regional-business-landscape-237099"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -22,17 +22,6 @@ images:
     width: 1024
     height: 683
     isCached: true
-
-related:
-  - title: "How Cybersecurity Can Weather The Impending Financial Storm"
-    excerpt: "Bracing ourselves for a sharp recession and high-inflationary environment may be a worrying prospect, but if viewed as an opportunity, we can reevaluate our current position and set a security roadmap for the years ahead."
-    publishedDateTime: 2022-10-27T13:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-cybersecurity-can-weather-the-impending-financial-storm/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 34
 
 secured: "KECHCsypSC8Au6eRmzzBhVGEWLDCR7BLqxM0LKqbfQPn1HdUUSzT/rcYxuGLmdUg5+s7T+5rn4fbXN78ZYdZ/osjJInVTFZWE2h6tG1FUfY4b5JqClHscZmbLL6qGZNYSB86wFqoCm1RI6kgb/H2F1Tat5VQFyDetCV3KZ02Tx140h89QVf5SCh3tpyoz84ExLDKM2h1hd9TQ3h2MtJ+jY3dhLC0EFkq2pWCWqslWyMmUGzUs1NNH18GVhCJQlJEo+795zCQW7tPGep3Fd2Zw2NIO2SKfvDOVw0oRkPiUNDCIfur21CruyX1rRbmKyTkEDOPaF74SQhhaOVWTNSZv8XaR1nP6Xgl0phG+pC3EEA=;VryyaAG5kZuImWsDYsHcxQ=="
 ---

@@ -68,22 +68,6 @@ related:
         width: 885
         height: 428
         isCached: true
-  - title: "UK police use of live facial recognition unlawful and unethical, report finds"
-    excerpt: "Study says deployment of technology in public by Met and South Wales police failed to meet standards"
-    publishedDateTime: 2022-10-27T13:01:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/oct/27/live-facial-recognition-police-study-uk"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 56
-    images:
-      - url: "https://i.guim.co.uk/img/media/ad24ddb9a620b2e3ea95230da52f0d148502edea/0_11_3500_2100/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=d37d7343bf108263dff19b9436aae3a8"
-        width: 620
-        height: 372
-        isCached: true
   - title: "‘Minimum ethical and legal standards’ urged for UK facial recognition"
     excerpt: "A report from a researcher at Cambridge University suggests stronger standards are needed for police use of facial recognition in the UK, based on three audits."
     publishedDateTime: 2022-10-28T15:41:00Z

@@ -29,38 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision in Artificial Intelligence (AI) Market : Research Report Provides an In-Depth Insight of Trends 2022 To 2029 | 101 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Computer Vision in Artificial Intelligence (AI) Market is"
-    publishedDateTime: 2022-10-27T12:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-in-artificial-intelligence-ai-market-research-report-provides-an-in-depth-insight-of-trends-2022-to-2029-101-pages-report-2022-10-27"
+  - title: "Self Driving Wheelchair Market Research Report Analysis by Competitors, Sales, Revenue, and Market Size 2022 To 2028."
+    excerpt: "The \" Self Driving Wheelchair market \" research goes on to discuss the variables influencing and impeding demand throughout the anticipated time frame of 2022 to 2028 as well as their impact on demand."
+    publishedDateTime: 2022-10-27T20:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/self-driving-wheelchair-market-research-report-analysis-by-competitors-sales-revenue-and-market-size-2022-to-2028-2022-10-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Robotics Market Growth, Size, Share, Opportunities, Industry Analysis and Forecast 2022 To 2029 | 115 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Robotics Market is projected to reach Multimillion USD by 2029,"
-    publishedDateTime: 2022-10-27T12:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/robotics-market-growth-size-share-opportunities-industry-analysis-and-forecast-2022-to-2029-115-pages-report-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 62
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing (NLP) Software Market : Key Player, Competition Weakness and Strengths from 2022 to 2029 | 99 Pages Report"
-    excerpt: "According to this latest study, In 2022 the growth of Natural Language Processing (NLP) Software Market is projected"
-    publishedDateTime: 2022-10-27T11:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-software-market-key-player-competition-weakness-and-strengths-from-2022-to-2029-99-pages-report-2022-10-27"
+    quality: 58
+  - title: "Automotive Voice Recognition Market Industry Analysis 2022 To 2028 based on Sales, Revenue, Size, and Share."
+    excerpt: "The report on the global \" Automotive Voice Recognition Market \" covers a wide range of topics. The Automotive Voice Recognition market research emphasizes the importance of technology developments and strategic initiatives for business growth 2022 to 2028."
+    publishedDateTime: 2022-10-28T08:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-voice-recognition-market-industry-analysis-2022-to-2028-based-on-sales-revenue-size-and-share-2022-10-28"
     type: article
     provider:
       name: MarketWatch

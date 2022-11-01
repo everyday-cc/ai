@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-10-27-tesla-is-under-criminal-investigation-over-self-driving-car-claims.md",
+      "title": "Tesla Is Under Criminal Investigation Over Self-Driving Car Claims",
+      "excerpt": "An investigation recently launched examining Tesla's claims about its vehicles self driving capabilities, probing whether or not the company has misled its consumers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
+      "originalUrl": "https://www.entrepreneur.com/business-news/report-tesla-is-under-investigation-over-self-driving-car/438010",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1666880890-GettyImages-490597708.jpg",
+          "width": 2000,
+          "height": 1333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-cat-caught-turning-off-owners-alarms-in-hilarious-clip-corporate-job.md",
       "title": "Cat Caught Turning Off Owner's Alarms in Hilarious Clip: 'Corporate Job'",
       "excerpt": "\"Imagine having to explain to your boss you were late to work because your cat turned off your alarm,\" one TikToker wrote.",
@@ -50,6 +102,40 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-diagnostic-robotics-named-a-2022-top-10-medtech-startup-by-medtech-outlook-magazine.md",
+      "title": "Diagnostic Robotics Named a 2022 Top 10 MedTech Startup by MedTech Outlook Magazine",
+      "excerpt": "Diagnostic Robotics, a leading provider of artificial intelligence and care management solutions for health plans and providers, announced today that it has been recognized by MedTech Outlook magazine as a 2022 Top 10 MedTech Startup for its AI-powered solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "originalUrl": "https://technews.tmcnet.com/news/2022/10/27/9700934.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T05:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -1179,93 +1265,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware.md",
-      "title": "AI Chip Startup Axelera Receives USD 27M to Commercialize its Hardware",
-      "excerpt": "Axelera AI has announced that they secured capital from VCs including Imec’s venture arm, Imex.xpand to commercialize their chip technology",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/10/AI-Chip-Startup-Axelera-Receives-USD-27M-to-Commercialize-its-Hardware.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/ai-chip-startup-axelera-receives-usd-27m-to-commercialize-its-hardware/amp/",
-      "publishedDateTime": "2022-10-26T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-chip-startup-simaai-raises-37-million-in-b1-round.md",
-      "title": "AI chip startup SiMa.ai raises $37 million in B1 round",
-      "excerpt": "The latest round, an extension of $30-million Series B round SiMa.ai closed in May, takes the total capital raised by the California-headquartered firm to $187 million",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
-      "originalUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round-11666784572574.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/10/26/600x338/2121f67c-3986-11ed-aa0a-736e94ef98be_1663748552861_1666784868499_1666784868499.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/companies/start-ups/ai-chip-startup-sima-ai-raises-37-million-in-b1-round/amp-11666784572574.html",
-      "publishedDateTime": "2022-10-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],
