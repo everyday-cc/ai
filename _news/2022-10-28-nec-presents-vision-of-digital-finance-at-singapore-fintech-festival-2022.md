@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The top speakers coming up at FinTech LIVE London 2022"
-    excerpt: "We've compiled our pick of the top speakers taking to the stages at FinTech LIVE London 2022, our must-attend hybrid event taking place next week"
-    publishedDateTime: 2022-10-27T09:05:00Z
-    webUrl: "https://fintechmagazine.com/articles/the-top-speakers-coming-up-at-fintech-live-london-2022"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 24
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/9ea6d91e0bd6b5fcbcf374bd839921bf:dfab96f7d6dee49bae3aebc3083b0ea7/fintech-live-london.jpg.jpg"
-        width: 1799
-        height: 1011
-        isCached: true
   - title: "October 2022 Riskalyze Fintech Five"
     excerpt: "Founder and CEO Aaron Klein provides his take on the biggest news to hit advisor technology in the previous month."
     publishedDateTime: 2022-10-27T19:13:00Z

@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Self-driving truck company TuSimple fires CEO amid federal probes"
-excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
-publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
+title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
+excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
+publishedDateTime: 2022-11-01T02:57:00Z
+originalUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
+webUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
+ampWebUrl: "https://www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
+cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
 type: article
-quality: 54
+quality: 43
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: theregister
+  domain: theregister.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.mktw.net/im-655659/social"
-    width: 1280
-    height: 640
+  - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
+    width: 1000
+    height: 667
     isCached: true
 
 related:
@@ -45,21 +43,19 @@ related:
         width: 1737
         height: 1159
         isCached: true
-  - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
-    excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
-    publishedDateTime: 2022-11-01T02:57:00Z
-    webUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    ampWebUrl: "https://www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
-    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
+  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
+    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
+    publishedDateTime: 2022-10-31T20:43:00Z
+    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
     type: article
     provider:
-      name: theregister
-      domain: theregister.com
-    quality: 43
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
-        width: 1000
-        height: 667
+      - url: "https://images.mktw.net/im-655659/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
     excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
@@ -101,6 +97,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "fok/cGM4B042xERfgvAWOfj7wkCNh9uCrx5Dfm9EZyL9X07sISgAJbo3M5RdaUNdGGnBwhlTjAuk3pE370Ir/ZJ4+hjjxXTRUde30PBAyRSB6ciGGsz1REq4zswbjP3KocJ18ogxKckNu4kniUjfYwVV1iPkuwVB3fLEtCRnb4HNxQhvMa2fDjHnaAQhmFDv3thnICqLX+GVG7859j2zwFW3ogjD//Jb97IlEAsbBytVON38K+2TaBUZAH1r66WEcwbhy4/kODU8AaiOkXsQriA+EcJ2jOF295ZxlWc3tcPWxovFcqcXIhE9XJp1FnIVMNs1cUirKauDcC4Pk84l2MXZiaEnTRMIh15J90SuBFZ71Gu0ERDB9ga5aWwx/r0pN70UvBh0SHSrtQ/PLjvdPlRXed4hZqNX/+s+IRAa3cYj2+3vhsth8DtGbscETzT3qjrSYBagCWOxqGW24erB7Y5n0ByDbd3lVn/ybEw4Ev3X3PqUx1U2LKydIvaVMbovOR0YeBC1jeYy7lmEs4XO+w==;ge/DgRaaMorjzM4mqkIgDA=="
+secured: "Q7/hGt1hc9AZ3NEcEFu8Hlt2f0dCl5W7ZPs5jTH73IyfZ7txfCxihuIEGkZbTaKTXZJYkJe3Y0JIqxoNz31fb4IMbKZf7g6SkD9tvSpWavs6mwkOkcUXI0fapHEDopuXsrY1s4WX68x5rMxxcq+sF0ov6DuIBU2x9WCdGK1aNaqiPKhDR43xDQM0CeSWNudS9PGN3bE1YRjL6RYTdLZd3PAtyUdOosLq+nUlwnRj3kVNowIDw3EQPHHuAtuYPpm0qaDgsLaWmq2L2icLtHWGSFrYDdnj4RQOhRWpEAMefAzb8vvm15xUQga1gZCGCf1D3A4lD3/vHVXfWKlqcRoJ4m1NE1zYsrfkHZWtUGsgrxs=;xyZc+2aC9Pz8lcJvwWhNWg=="
 ---
 

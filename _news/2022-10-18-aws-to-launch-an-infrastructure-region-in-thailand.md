@@ -1,20 +1,26 @@
 ---
 category: news
 title: "AWS to Launch an Infrastructure Region in Thailand"
-excerpt: "Region will allow customers to run workloads and securely store data in Thailand while serving end users with even lower latency AWS plans an estimated investment of more than $5 billion"
-publishedDateTime: 2022-10-18T03:20:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29299246/aws-to-launch-an-infrastructure-region-in-thailand"
+excerpt: "Region will allow customers to run workloads and securely store data in Thailand while serving end users with even lower latency AWS plans an estimated investment of more than $5 billion (190 billion baht) in Thailand over 15 years Amazon Web Services (AWS),"
+publishedDateTime: 2022-10-18T06:16:00Z
+originalUrl: "https://www.businesswireindia.com/aws-to-launch-an-infrastructure-region-in-thailand-81275.html"
+webUrl: "https://www.businesswireindia.com/aws-to-launch-an-infrastructure-region-in-thailand-81275.html"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Business Wire
+  domain: businesswireindia.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "ejbMlqP2D2EbNa9GYUEyc+OuU2bsTl/zc8Q8yfX4TnrLCnzzTCNj1FOZE4ReG3rWJy2Zg5xypubbvqfgMYN3BZuhzsyq4Tl7JlKB68cQbPIgMGsgJmEEm2B16xbubW2kcpCgSAiRep73anu72fQLfxvRDHvkHc8zJIh47yx0csjr1oTflTEeepqF5jcA5IOh6g25ys3eg+8p+m1ZS62zW58CLfuBBQgbH5O9Degj1wEqlvdqUFYW8IxLlRyAKv7/tZywoIFjlExLABrVFvCyR40gWQBfj/YHyFnDw2dBqVYk8EZ0C9fTQwprj/OP3haIkchKpMSiq5zyo9SbwXVt/wZX52ulw6zNct4n0ZBZaw4=;NKjUoC1KcOt5+Y0UAsorZQ=="
+images:
+  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_81275.jpg"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "brz0xlzc4Zfm8fn9eISlSYHfX988jZsLkEVSSsH/z0m5+xlHy1kKkURbf6Vh6UNX3uweMvtI8JMkuohFuFVf2voIPBrWhn7PNFnUfAPUIj7sNnMIpWxLNww5Midp1KGA5K84utxntdiUoKZXzryPCeZFhSmY2o/NAbw2ixmVB0nWUbyy5epgfyhouGJlPVh3ntXSZpprHwnaxoP74GbLcn8OkaZS4gVIdC/Qmt4PS7Aif16rfu4cH6TxugfQE69vnWbwNvPPxwnql97ciQn21mzvmd+Mi8XvmEYvCMSgjyt0a5SihSww7XlyK7X8y69eWs4YKvVzvsTtB9E6a61oWO1iGcasKR1rGribtjZFpo0=;uGW+BkdzWg7dX5E2cDRRuA=="
 ---
 

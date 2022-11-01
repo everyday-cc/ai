@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/10/replits-ghost
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 800
     height: 450
     isCached: true
+
+related:
+  - title: "Could AI help you to write your next paper?"
+    excerpt: "Large language models can draft abstracts or suggest research directions, but these artificial-intelligence tools are a work in progress."
+    publishedDateTime: 2022-10-31T12:38:00Z
+    webUrl: "https://www.nature.com/articles/d41586-022-03479-w"
+    type: article
+    provider:
+      name: Nature
+      domain: nature.com
+    quality: 19
 
 secured: "6Zxl9tNuD0eoqN0EhB2Evo+hRRX2gKHYaoXacrmqsM1wYDRInbVVoWEc5r8CAWBqF6w/Augob66eIvaIMc04w5J+YSaJdNSKOL2V8HMFB47wbf4KUiW3v1e0qd5nxs2SEqqBV6f+dClFOL7LVpvgarnu0A/vVjIMNf08avyG5OewEz1OLutBMAPqdVlZ3YcErt6HqRiIsBxvDMS7saP0X104/o4XKoHB/Zzcz/nlpaiMD9nxmQ/RLPHfouMlpN4VBxEOdZw1mA5qflT/s0+GDlyGMCg1b7GWhGBhRNcS0roMX2PT867B4BLWNV+WEJMa8hdbe1A06oSy9JPRMwN81ElDqS0j8NH5L5+/bTP0VLx1rwfq8E7hNhBAOAPJoP/ncitxcJJi8JOEcwmeVTS1QcI6QXpE8hiSJsWKy/gSSG2JMl9ueNVarj14qyrjC/k9AztYwbfOraeLBTFk1lzoE0cSKuo6psU1lBN+GISsxZv02QOjHg3R26m89EddQOasp+Scq0PLH3lBGhK7MM9Mcw==;1C1WluQM6lS6hibN8yrdXA=="
 ---

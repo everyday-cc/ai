@@ -74,20 +74,6 @@ related:
       name: Miami Herald
       domain: miamiherald.com
     quality: 39
-  - title: "Argo AI shuts down after Ford, VW end further investment"
-    excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
-    publishedDateTime: 2022-10-27T09:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1137629_argo-ai-shuts-down-after-ford-vw-end-further-investment"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 37
-    images:
-      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100704292_h.jpg"
-        width: 1920
-        height: 1264
-        isCached: true
   - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
     excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
     publishedDateTime: 2022-10-28T00:04:00Z

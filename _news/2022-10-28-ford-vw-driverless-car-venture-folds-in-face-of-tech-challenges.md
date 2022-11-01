@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Ford Can’t Afford Other Bets Like Driverless Cars"
-    excerpt: "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ..."
-    publishedDateTime: 2022-10-27T09:14:00Z
-    webUrl: "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 69
-    images:
-      - url: "https://images.wsj.net/im-652054/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Luminar’s Lidar Technology Will Dethrone Tesla in the Driverless Car Race"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Source: shutterstock.com/temp-64GTX At the beginning of 2022, investors"
     publishedDateTime: 2022-10-27T18:58:00Z
@@ -70,20 +56,6 @@ related:
         width: 953
         height: 635
         isCached: true
-  - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
-    excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
-    publishedDateTime: 2022-10-28T09:35:00Z
-    webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
-    type: article
-    provider:
-      name: WESA
-      domain: wesa.fm
-    quality: 53
-    images:
-      - url: "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Should TSLA Stock Fans Give Up on Driverless Cars?"
     excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) may be about to fall significantly behind in the"
     publishedDateTime: 2022-10-27T16:08:00Z
@@ -93,26 +65,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 49
-  - title: "Pennsylvania legislature passes bill allowing driverless vehicles on public streets"
-    excerpt: "A bill permitting vehicles the ability to drive themselves on public roads without humans inside of them has been approved by both legislative chambers in Harrisburg. It now goes to Gov."
-    publishedDateTime: 2022-10-27T14:21:00Z
-    webUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.html"
-    ampWebUrl: "https://www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
-    cdnAmpWebUrl: "https://www-bizjournals-com.cdn.ampproject.org/c/s/www.bizjournals.com/philadelphia/news/2022/10/26/pennsylvania-passes-driverless-vehicle-bill.amp.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 33
-  - title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-    excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
-    publishedDateTime: 2022-10-31T18:38:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 13
 
 secured: "OjOo8mmp3p/rUJJITPpcJ4Zhg4I30+WTKgMuF9VzBBOWfkLutPP2Cb2jtwv2KbCEW4kbGQODKyTNpYVUfxU6eM5022cTpMJ/8bhTjjiX+ytJK/gWW/JRXqpAgY65k9d/83vM4Hgul6bjD0Ah/F2/Ee/Mtl6HGwsvKuhvaGr++sF4/D9WpEDFt83mbCdd3ELx3oJqjbH894M/B8rSkAcTnGrm2D2wyW3Urt/uem4BcwTBcy+ytpVJaYYnHXH9OF4wzLHpVeQRY5t2PBg3OcO2saOewYKaDuOsg1HtUvndtYuFJ3EQ7wSrQKkIk0jnmq5F2W9axgFnelND9JFZTPXYqjK7MiMCREIIlK97VeAfuh0=;8Rv35l/QtvxePj3reFh4Fw=="
 ---

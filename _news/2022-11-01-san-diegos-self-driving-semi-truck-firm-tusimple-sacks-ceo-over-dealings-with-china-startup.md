@@ -57,6 +57,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Self-driving truck startup TuSimple ousts CEO over ties to Chinese rival"
+    excerpt: "Self-driving truck biz TuSimple fired co-founder and CEO Xiaodi Hou on Monday amid what's reported to be US federal investigations into whether he inappropriately assisted and shared blueprints with Chinese startup Hydron."
+    publishedDateTime: 2022-11-01T02:57:00Z
+    webUrl: "https://www.theregister.com/2022/11/01/tusimple_selfdriving_ceo_fired/"
+    ampWebUrl: "https://www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
+    cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/11/01/tusimple_selfdriving_ceo_fired/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 43
+    images:
+      - url: "https://regmedia.co.uk/2020/10/26/fired.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Self-Driving Truck Firm Sacks CEO"
     excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
     publishedDateTime: 2022-10-31T15:09:00Z
@@ -81,6 +97,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "4K2ldyV1n3eJ0m8QdxQC4juBuRFXrlBB1z/Q7eunnhA6qwPQ6QF0Fulbw6YLNq09QwrYDEsEUFvgMuvjcipQMcMNnXJbiWvb9xqU5lRWwz7U92eVWubTeev7gqqIXpyidS7/isJI20fuQUZv/j1kTYTxB0uLaBDc4hlFsq3Q4RzBUyrqE9+pxxPqBHdxHh6kuJmfnQyskuh2MEIU+ZMiA++mB6gi/TM+TAsUIvTsCajzYawclNTqJbVuL71ExAuG2dI2RXOVSYjMBfZAsSa6GK8rAZR3Du8lc9NDM6k55/h4VOBm2K8FWV9KrTxikJxKXC3h6a9MmfGn5jxeSlAOSprkT5Bo78Zp4+rfsQaGfFs=;yqpVl/237eqUnDGOR3ngZw=="
+secured: "lcHEJAG2+QztIID7DiamQuelSJLXnk7pEkWjN94XuQE2J6tKO3ZCPUoJabTlGAyPScWzaWq/kysBK89yHRDB7dtp/z3ek3DlI98sBM9kbs6rOI+2ItUTE8dJpVzQfN6IIpCA4CbtZUDYK3DwkJV1lkWvRQ0VoYgiwm4snI48Q0UVdi2CD9vcHnzxEiOW9nbHrgUJghIsL/b4rs/DdkT1OpcXPmsrUw0vE9kW7U5c1U/spQ+B91z1UJQyPyWcp3EnjsFq8/M1Hiz3DfCcBlNWtGGgf+y+BkA9sy1+1SwcFg1GsnTUp3RhYiOse3pw3oyljYlDOVnMdErWvEAzujLjaHjWqNU5YgOIfWIKgsudM494QVPrAgwrmyoCAHeJgOHTlFM4WrOGBPOwRZhPc6L6o65f4l/DWToqLAlzrOLAPW+eg7TR97lqgHic8SmLQMVuxaVE7gOZu9URvPdM8zZV2bwwQ8AbeKTK6ULbrLb0jiuaAPeqOGD/qP4dsVLsaESHsc3lj34Sw3bSegzussWZaQ==;HBBU8bqlA48ZvMWko2uM5A=="
 ---
 

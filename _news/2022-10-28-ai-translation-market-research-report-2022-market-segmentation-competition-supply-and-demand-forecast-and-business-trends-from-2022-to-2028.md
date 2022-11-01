@@ -85,20 +85,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Device Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. This \"Face Recognition Devicemarket\" focuses"
-    publishedDateTime: 2022-10-27T10:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-device-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-10-27"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Rl0IsxuV6+FZEY6/NyEjXWIMGqLpCCF3RarxgSku36fL2WjC/Zlp4MXtxHJ5xsmjsPgtek6EA3LfrqaM/H2NmE+6EDEJFyl6jSrDTlLCqJvWVaZjEC7Ei8ogwpzXu7q20ZmAPqGXvdSRn1xDzDbb2TJxdpddxTELx58LA0luIKdgllN34TyHOhmRHWBOwcAsaO+aYanoGrqSvonVPd91i+zQDhDCpdYT2SBNV11RdTxRjDh9Iffghlz1yhLHV13t3dmGvA8c/DpPO4cGasIZzwwiylXv6eQokPrvqTvUnBO9wN8ODhcRE6Xxdn/wt01xiHIL1mCVIrTG9oMpAkftNJ0XBZvT2jCdkNb3+FsEnHM=;wxlmVXjHgsEedTAHzBaD5A=="
 ---

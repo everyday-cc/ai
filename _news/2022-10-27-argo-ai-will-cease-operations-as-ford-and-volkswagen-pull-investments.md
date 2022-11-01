@@ -7,7 +7,7 @@ originalUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations
 webUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Ford and Volkswagen to exit from Argo AI as they do not bet on self-driving"
-    excerpt: "Ford Motor and Volkswagen will exit from Argo AI as they do not bet on self-driving vehicles business – after making billions in investment. Ford Motor and Volkswagen made investment in self ..."
-    publishedDateTime: 2022-10-27T11:01:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ford-and-volkswagen-to-exit-from-argo-ai-as-they-do-not-bet-on-self-driving-75217"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 37
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2022/04/VC-funding-for-tech.jpg"
-        width: 640
-        height: 409
-        isCached: true
   - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
     excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
     publishedDateTime: 2022-10-28T19:10:00Z
