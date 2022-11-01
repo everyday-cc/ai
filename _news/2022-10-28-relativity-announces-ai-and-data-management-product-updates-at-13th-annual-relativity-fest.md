@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1105090462/Relativity-Announces-AI-And-Data-Man
 webUrl: "https://menafn.com/1105090462/Relativity-Announces-AI-And-Data-Management-Product-Updates-At-13Th-Annual-Relativity-Fest"
 type: article
 quality: 29
-heat: -1
+heat: 29
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Relativity Announces AI and Data Management Product Updates at 13th Annual Relativity Fest"
-    excerpt: "The event keynote highlights how Relativity continues to empower its evolving user community to solve industry challenges with the power of AI and the cloud CHICAGO, Oct. /PRNewswire/ -- Relativity, a"
-    publishedDateTime: 2022-10-27T16:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/n29442761/relativity-announces-ai-and-data-management-product-updates-at-13th-annual-relativity-fest"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29442761"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29442761"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 29
   - title: "Relativity Fest 2022: Product Announcements for \"The Year of AI\""
     excerpt: "This year's conference unveiled products, features and enhancements focused on AI, data management and document translation to help users organize data, discover the truth and act on it."
     publishedDateTime: 2022-10-28T18:15:00Z

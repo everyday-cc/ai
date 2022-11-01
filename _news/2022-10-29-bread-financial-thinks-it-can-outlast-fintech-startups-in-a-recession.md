@@ -49,17 +49,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-27T15:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
 
 secured: "MZi72Pa5+zZtocseOAAwux5gcgn+EAbrX8/CnuefGfwn/lK0TWYKwcv4RLt/3sa27T81cWIoFqwm4fU6cTjvAbJrP1XabTqxJ5oF91BOHeckju8wTs8pZbbFYa2U/Vuz76JQZLqe8wlPyJYJlsjCv+zBCTg6X1fNjZNGtz607SZk/fay9WwW4DTMpU+2vEtSrantw0q0Qi0+Fz4RBhfWuLjbPQDsnKWbbIClt000N7iKXXWSybPvJ0SpJadj/m5zaQYDkRAKONaER3al4hah2kKZ8pMRok2HlUExAPAU+OfG9zVTGN3Qa/kNbUZ40RVjJLj9YOJH3YGyyX4RwmoV5TItT3NzB+d5/t6T7DL8qQvegFXveNQ6ekQl43OJv0KcHLzeh6f0Nn2zYVBsdUEyTsVywm1jNBmjr7SSr1tJztmZVmzwPm/Uhukdq0ycaEGcMHIYv3uYPTkET6KdRyHOPixDhs4jnwn2o9lp6g5/jhNiWlIFkLFUl06K/H7Qh/X1zFNAoY7nnJxTqZXsduiO4A==;4e5Gh790IGDYvWfcZLzjkg=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-databa
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/27/aws-makes-neptune-its-graph-database-service-serverless/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 700
         height: 470
         isCached: true
-  - title: "AWS Announces Amazon Neptune Serverless"
-    excerpt: "Amazon Web Services, Inc. (AWS) has announced Amazon Neptune Serverless, a new serverless option for Amazon Neptune that"
-    publishedDateTime: 2022-10-27T16:11:00Z
-    webUrl: "https://www.datanami.com/this-just-in/aws-announces-amazon-neptune-serverless/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 19
 
 secured: "FAvarRnwowqpHOoci2HAGzc/RCVDT0AKKD/mOyL1h0oK7eH2kVADMWccO3IX6R7j6ZJcCyclQvAfpY1tTH4sTRuDusVZzHa3aeE6LK+4aOU668StUkmg1OnbH3DJud8KvfWmrAJZEVQgcTY82oIpF2AgatCzj0IDBXcp9i5Zh3SdquSUByE+xo8t4ZSxClj6evQeMnjdo5HVIQqhDTx13yd7e2Ae4LCGRkrkLqAWjj8eBOkDGaUS4kO2x9CyTljXDOElG1AJFJF9sh23Y1WarPeQSGUmEpIhlTcXJJYJTB1OSXy8mdBC1PT2ShKta7UleQ7i/CO8uZNyqSGw/TqtDtj44AHuDzWO14ZhkvgZVnvUhLhBLUuSyBIOntG2caUb6jLFpaVACvsQFZ7SPumMe6uF66rMOXefHzw9Yy7WfeA7y1CFd7r5J5QTx9Di+bwEoXTSR28V+1lOagWLK2gG5IIto7s6LgWHqNCJeJIMfA6hI3nnyFJ4pIZeDid/QslEksBbDpjA/GIt5d+76qPX9w==;7jvi9km7Re6n/g15N39twA=="
 ---

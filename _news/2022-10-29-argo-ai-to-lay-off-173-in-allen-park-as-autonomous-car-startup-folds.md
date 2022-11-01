@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "Argo AI will cease operations as Ford and Volkswagen pull investments"
-    excerpt: "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,"
-    publishedDateTime: 2022-10-27T16:40:00Z
-    webUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
+  - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
+    excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
+    publishedDateTime: 2022-10-28T09:35:00Z
+    webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: WESA
+      domain: wesa.fm
+    quality: 53
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://npr.brightspotcdn.com/dims4/default/40b3fc9/2147483647/strip/true/crop/4032x2117+0+907/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2F03%2F704d4a554042b24679e0a3048668%2Flocomation-photo.jpg"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "A9RTDSqt3J9aAtkDTlzV+v+wVrz1HpCOZAcTiiUswwYFy/+BxTenWFpbr/89rC7cxR24977DYbo6m6KrEWJNfnh8oVJG4jsaig85yI/Ux+L/cmZl64I65Z5Di9Ud6HSt5YJp3XEPGIHxGBJU7lKco792ZPnqJzMBFEpSI0JcyP7Q1MtNhSBE7f/dyuCZJelfMl+NompsZv+PyH31Zh7KN3eJ3rJpsA/Ui0UJlxqhB8JD+nOkozweeG49UBNrdF6TljuCV2ftPCEdmkxNWOyafwJQZ2kcg6HSRFhOlHZYM2FKh1Sf6RMkaBKYtGeE4OwitLeRBIVrelL5+4zBcDVJOxUgPc0BDCC9M3v4pjKOtGm7w1f4l8wLTq+jsrzQy8Eb/9Fk6oHiCWB//YuYLZaVjiwy27TCIyppl2ON9SWOyyR1lAqtGUiW0zJTT685Wk/wyOEXQak5cAHO5GUXc3xMTeT8E/NukdxoS58BPeH1zeFYfuJWheS82xhjA/5CY8PtMaaBv5vPlvTjc3KD3YTPCw==;uK/7ZUdswMSAKdMYAc1RKA=="

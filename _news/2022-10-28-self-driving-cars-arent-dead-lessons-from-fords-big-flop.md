@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "Ford, VW Shut Down Argo AI: Self-Driving Cars Expensive, Years Away"
-    excerpt: "A reminder: there are no self-driving (Level 4) cars for sale in the U.S. And Ford has decided that getting robotaxis or other fully automated vehicles on the road, in numbers that make it profitable,"
-    publishedDateTime: 2022-10-27T17:01:00Z
-    webUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/"
-    ampWebUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
     excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
     publishedDateTime: 2022-10-27T20:16:00Z

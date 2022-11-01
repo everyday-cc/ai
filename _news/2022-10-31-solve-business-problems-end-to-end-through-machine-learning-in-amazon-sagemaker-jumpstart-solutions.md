@@ -44,20 +44,6 @@ related:
         width: 1341
         height: 672
         isCached: true
-  - title: "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters"
-    excerpt: "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing,"
-    publishedDateTime: 2022-10-27T16:41:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg"
-        width: 1344
-        height: 670
-        isCached: true
   - title: "Train gigantic models with near-linear scaling using sharded data parallelism on Amazon SageMaker"
     excerpt: "In the pursuit of superior accuracy, deep learning models in areas such as natural language processing and computer vision have significantly grown in size in the past few years, frequently counted in tens to hundreds of billions of parameters. Training these gigantic models is challenging and requires"
     publishedDateTime: 2022-10-31T20:23:47Z

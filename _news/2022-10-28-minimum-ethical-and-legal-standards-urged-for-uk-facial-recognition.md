@@ -65,20 +65,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "UK police fail to meet 'legal and ethical standards' in use of facial recognition, say experts"
-    excerpt: "Researchers devise an audit to test whether police deployment of facial recognition poses a threat to fundamental human rights, and analyse three instances of"
-    publishedDateTime: 2022-10-27T15:23:00Z
-    webUrl: "https://www.cam.ac.uk/research/news/uk-police-fail-to-meet-legal-and-ethical-standards-in-use-of-facial-recognition-say-experts"
-    type: article
-    provider:
-      name: University of Cambridge
-      domain: cam.ac.uk
-    quality: 59
-    images:
-      - url: "https://www.cam.ac.uk/sites/www.cam.ac.uk/files/news/research/news/minderoo.jpg"
-        width: 885
-        height: 428
-        isCached: true
   - title: "The Use of Facial Recognition by UK Police Falls Short of “Legal and Ethical Requirements.”"
     excerpt: "The new audit tool was developed by a team from the University of Cambridge’s Minderoo Centre for Technology and Democracy to assess “compliance with the legislation and national advice” on concerns such as privacy,"
     publishedDateTime: 2022-10-30T17:41:00Z

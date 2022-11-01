@@ -40,20 +40,6 @@ related:
         width: 1341
         height: 672
         isCached: true
-  - title: "Improve price performance of your model training using Amazon SageMaker heterogeneous clusters"
-    excerpt: "This post is co-written with Chaim Rand from Mobileye. Certain machine learning (ML) workloads, such as training computer vision models or reinforcement learning, often involve combining the GPU- or accelerator-intensive task of neural network model training with the CPU-intensive task of data preprocessing,"
-    publishedDateTime: 2022-10-27T16:41:15Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/improve-price-performance-of-your-model-training-using-amazon-sagemaker-heterogeneous-clusters/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 92
-    images:
-      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/27/improve-price-performance-sagemaker.jpg"
-        width: 1344
-        height: 670
-        isCached: true
   - title: "Solve business problems end-to-end through machine learning in Amazon SageMaker JumpStart solutions"
     excerpt: "Amazon SageMaker JumpStart provides pre-trained, open-source models for a wide range of problem types to help you get started with machine learning (ML). JumpStart also provides solution templates that set up infrastructure for common use cases, and executable example notebooks for ML with Amazon SageMaker."
     publishedDateTime: 2022-10-31T20:27:35Z

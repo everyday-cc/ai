@@ -41,17 +41,6 @@ related:
         width: 2560
         height: 1707
         isCached: true
-  - title: "The 10th edition of IBEX INDIA, an international trade fair and conference for the BFSI Tech & Fintech sector"
-    excerpt: "MUMBAI, INDIA, Oct 26, 2022 - (ACN Newswire) - The BFSI and Fintech sector's development is driven by technological ... as it is fuelled by using technologies such as Artificial Intelligence (AI), Robotic Process Automation (RPA), smart contracts ..."
-    publishedDateTime: 2022-10-27T15:11:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/10/a29439918/the-10th-edition-of-ibex-india-an-international-trade-fair-and-conference-for-the-bfsi-tech-fintec"
-    ampWebUrl: "https://www.benzinga.com/amp/content/29439918"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29439918"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 20
   - title: "Bread Financial thinks it can outlast fintech startups in a recession"
     excerpt: "Like the startups Bread uses AI and data analytics, but longer experience allows it ... \"We have a seasoned, experienced technology team that has managed through many a cycle. I'm not sure any fintech has a better level of sophistication and history ..."
     publishedDateTime: 2022-10-28T17:58:00Z

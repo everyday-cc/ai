@@ -41,22 +41,6 @@ related:
         width: 1200
         height: 864
         isCached: true
-  - title: "Ford, VW Shut Down Argo AI: Self-Driving Cars Expensive, Years Away"
-    excerpt: "A reminder: there are no self-driving (Level 4) cars for sale in the U.S. And Ford has decided that getting robotaxis or other fully automated vehicles on the road, in numbers that make it profitable,"
-    publishedDateTime: 2022-10-27T17:01:00Z
-    webUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/"
-    ampWebUrl: "https://www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/ford-shuts-argo-ai-self-driving-cars-expensive-years-away/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2021/05/VW_ID_Buzz_Argo_AI_1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Self-driving cars face uncertain path to US deployment"
     excerpt: "Automakers and tech companies face a bumpy road to clearing regulatory roadblocks to deploying autonomous vehicles (AVs) without human controls on public roads, industry officials and lawmakers said.On Wednesday,"
     publishedDateTime: 2022-10-28T15:48:00Z

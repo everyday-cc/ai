@@ -34,29 +34,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Ford thinks driver assist is a safer bet than driverless cars, but it’s fooling itself"
-    excerpt: "When Ford announced yesterday that it was pulling its support for Argo AI, the autonomous driving startup it had financed since 2017, it cited as one of its reasons a belief that driver-assist ..."
-    publishedDateTime: 2022-10-27T17:01:00Z
-    webUrl: "https://www.theverge.com/2022/10/27/23426449/ford-argo-ai-driver-assist-level-2-level-3-danger-risk"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 61
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/EvwN7LUC5pJpuK4-rhy2lWHWeXo=/0x0:6720x4480/1200x628/filters:focal(3360x2240:3361x2241)/cdn.vox-cdn.com/uploads/chorus_asset/file/24004952/Next_Gen_BlueCruise.jpg"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Should TSLA Stock Fans Give Up on Driverless Cars?"
-    excerpt: "InvestorPlace - Stock Market News, Stock Advice & Trading Tips Tesla (NASDAQ:TSLA) may be about to fall significantly behind in the"
-    publishedDateTime: 2022-10-27T16:08:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/should-tsla-stock-fans-give-up-on-driverless-cars-1031844512"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 49
   - title: "Ford-VW driverless car venture folds in face of tech challenges"
     excerpt: "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Argo AI, a self-driving vehicle group jointly backed by Ford and Volkswagen, is abruptly ..."
     publishedDateTime: 2022-10-27T18:10:00Z

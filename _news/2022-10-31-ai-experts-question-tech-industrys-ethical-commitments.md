@@ -8,8 +8,8 @@ webUrl: "https://www.computerweekly.com/feature/AI-experts-question-tech-industr
 ampWebUrl: "https://www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1"
 cdnAmpWebUrl: "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/feature/AI-experts-question-tech-industrys-ethical-commitments?amp=1"
 type: article
-quality: 74
-heat: 74
+quality: 76
+heat: 76
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 images:
   - url: "https://www.computerweekly.com/visuals/German/article/artificial-intelligence-brain-2-adobe.jpg"

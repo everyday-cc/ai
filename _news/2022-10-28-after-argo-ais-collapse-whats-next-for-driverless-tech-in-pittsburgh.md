@@ -7,7 +7,7 @@ originalUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-col
 webUrl: "https://www.wesa.fm/economy-business/2022-10-28/after-argo-ais-collapse-whats-next-for-driverless-tech-in-pittsburgh"
 type: article
 quality: 53
-heat: 53
+heat: 63
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
+    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
+    publishedDateTime: 2022-10-28T19:10:00Z
+    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
+    type: article
+    provider:
+      name: Crain's Detroit
+      domain: crainsdetroit.com
+    quality: 37
+    images:
+      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "8pC0zwBX3w5ZhWex/ddsxpN/FyR7l+oF41jrsthGB63JsuxtF9/gXvLMKlCtc9JSvVSUm492bvvcIhcf1DvZue+wF8dlIk3QjbI1vFCUI2zfnK/WM449bdOONB+3g7Td13ejzpWmsJ0KC1maNWua8NiakXsUuwrdayz11foM+gr2Ya1tOpx5xp8ndj5A++PDBF94SJw63N1lyh+S0UpkxuHEibsHvrnUHooReavC1N9UFeoIBGeS30Kmz0G1v2RPOYV7BxpMFRMmUKxbcc7SDKJBvw5Lu6yqpd8ZlqjCe/OgNWaWzX5qmc8fWDG9jJPGXzeVeRXV1g0BK3OazwbYyUGgzpC3G+bJKz+4xx+00LI=;EDlNDaIEX44pAXKLGK8vFw=="
 ---
