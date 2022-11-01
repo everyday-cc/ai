@@ -6,8 +6,8 @@ publishedDateTime: 2022-10-31T22:56:00Z
 originalUrl: "https://www.cfo.com/accounting-2/cash-flow-accounting-2/2022/10/machine-learning-cash-forecasting-ai-treasury-amtrak-evoqua-banking/"
 webUrl: "https://www.cfo.com/accounting-2/cash-flow-accounting-2/2022/10/machine-learning-cash-forecasting-ai-treasury-amtrak-evoqua-banking/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://assets.cfo.com/images/Zz1jZDI3NmI4ODU5NTExMWVkYmE0ZmQyNjVhMmU2YTQ1Zg==?width=1200"

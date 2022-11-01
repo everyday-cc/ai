@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driv
 webUrl: "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656"
 type: article
 quality: 69
-heat: 159
+heat: 149
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/EvwN7LUC5pJpuK4-rhy2lWHWeXo=/0x0:6720x4480/1200x628/filters:focal(3360x2240:3361x2241)/cdn.vox-cdn.com/uploads/chorus_asset/file/24004952/Next_Gen_BlueCruise.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
-    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
-    publishedDateTime: 2022-10-27T08:44:00Z
-    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
-        width: 333
-        height: 250
         isCached: true
   - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
     excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."

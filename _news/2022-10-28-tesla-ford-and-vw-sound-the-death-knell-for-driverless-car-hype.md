@@ -62,20 +62,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
-    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
-    publishedDateTime: 2022-10-27T08:44:00Z
-    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
-        width: 333
-        height: 250
-        isCached: true
   - title: "After Argo AI’s collapse, what's next for driverless tech in Pittsburgh?"
     excerpt: "Hours after self-driving tech startup Argo AI revealed its decision Wednesday to fold, the autonomous vehicle industry notched a long-sought win in Harrisburg. State lawmakers approved a measure to allow companies to operate the vehicles on roads without a human operator present."
     publishedDateTime: 2022-10-28T09:35:00Z

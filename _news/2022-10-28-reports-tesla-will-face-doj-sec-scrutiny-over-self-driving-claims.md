@@ -58,20 +58,6 @@ related:
       name: Engadget
       domain: engadget.com
     quality: 59
-  - title: "Tesla faces US criminal probe over self-driving claims: Report"
-    excerpt: "Tesla Inc is under criminal investigation in the United States over claims that the company's electric vehicles can drive themselves, three people familiar with the matter said. The US Department of Justice launched the previously undisclosed probe last year following more than a dozen crashes,"
-    publishedDateTime: 2022-10-27T07:43:00Z
-    webUrl: "https://www.channelnewsasia.com/business/tesla-faces-us-criminal-probe-over-self-driving-claims-report-3027406"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 54
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--HwJnwLDW--/fl_relative,g_south_east,l_one-cms:core:watermark:reuters,w_0.1/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/one-cms/core/2022-10-27t021050z_4_lynxmpei9p0sg_rtroptp_3_tesla-investigation.jpg?itok=kTlPGhEk"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Tesla Under Criminal Investigation for Self-Driving Claims"
     excerpt: "The Department of Justice is investigating whether Tesla misled consumers, investors and regulators by making unsupported claims about its driver assistance technology's capabilities. We're following the story at TheDetroitBureau."
     publishedDateTime: 2022-10-27T20:16:00Z

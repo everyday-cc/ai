@@ -28,6 +28,22 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Artificial Intelligence Platform Market will Perform Impressively In Forecast Period to 2029 | New Report with 122 No Pages"
+    excerpt: "Pages No.] Artificial Intelligence Platform Market report are massive business with critical facilities designed"
+    publishedDateTime: 2022-10-31T12:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-will-perform-impressively-in-forecast-period-to-2029-new-report-with-122-no-pages-2022-10-31"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
 secured: "hOBugAfX/xIGzI6MUsKJelRrDBvRQf/sRYpmXl8asfl43NQb7BQsM8fSH0eCbVZ/uHzN4chBte5dK8DoJY2XIWhFWx10xuRH+RK2XNgpToKlM+e+wyj/7swVvrQsb83Nsy1mep5iOOK5CWEAaGSzae731llRR5SHfgmpKLvQLZE1VzZlGHMuTlWlEDBuD6oMXcmKxifs/MCZ50Eqdnk39KTd83GgB5kHXcR4kRIEDzFLziNjzaqqrNHmBLIb2Ro95nCH3qgDH7h+Eu0JgC2r/FUyqg1u5kUSKIcbGf5SU13zkAHb8ZhcPeNDT5wK9Mso/eeE628m1MuzeDctqCtMHERqCJPnTyc5nV+cA8uaWGY=;5MTwivSS4spw2cYlE+vThg=="
 ---
 

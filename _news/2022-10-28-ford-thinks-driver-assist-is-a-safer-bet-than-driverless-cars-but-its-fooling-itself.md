@@ -52,20 +52,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 63
-  - title: "Ford, Volkswagen-Backed Driverless Startup Argo AI To Shut Down"
-    excerpt: "Ford and Volkswagen-backed self-driving startup Argo AI, which came into the scene in 2017 with a $1 billion investm"
-    publishedDateTime: 2022-10-27T08:44:00Z
-    webUrl: "https://menafn.com/1105087342/Ford-Volkswagen-Backed-Driverless-Startup-Argo-AI-To-Shut-Down"
-    type: article
-    provider:
-      name: Mena FN
-      domain: menafn.com
-    quality: 54
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?153772"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Tesla, Ford and VW Sound the Death Knell for Driverless Car Hype"
     excerpt: "By contrast, Argo CEO Bryan Salesky emphasized the need for safe and limited deployments of test vehicles and close partnerships with cities and stakeholders that its driverless cars would share the road with. Neither the scorched-earth nor the nice-guy ..."
     publishedDateTime: 2022-10-28T04:25:00Z

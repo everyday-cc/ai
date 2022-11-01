@@ -1,31 +1,29 @@
 ---
 category: news
-title: "Self-driving truck company TuSimple fires CEO amid federal probes"
-excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
-publishedDateTime: 2022-10-31T20:43:00Z
-originalUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
-webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
+title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
+excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
+publishedDateTime: 2022-11-01T00:19:00Z
+originalUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup"
+webUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup"
+ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
+cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
 type: article
-quality: 54
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: San Diego Union-Tribune
+  domain: sandiegouniontribune.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://images.mktw.net/im-655659/social"
-    width: 1280
-    height: 640
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/77d2a0b/2147483647/strip/true/crop/3133x2095+309+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Ff4%2F9a2a7c5e41c6a91aa7fba55fe49a%2Fdexcom-breana-raquel-cgm.jpg"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -45,21 +43,19 @@ related:
         width: 1737
         height: 1159
         isCached: true
-  - title: "San Diego’s self-driving semi-truck firm TuSimple sacks CEO over dealings with China startup"
-    excerpt: "San Diego company terminates co-founder Xiaodi Hou for sharing confidential information; Hou denies any wrongdoing"
-    publishedDateTime: 2022-11-01T00:19:00Z
-    webUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup"
-    ampWebUrl: "https://www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
-    cdnAmpWebUrl: "https://www-sandiegouniontribune-com.cdn.ampproject.org/c/s/www.sandiegouniontribune.com/business/story/2022-10-31/san-diegos-self-driving-semi-truck-firm-tusimple-sacks-ceo-over-dealings-with-china-startup?_amp=true"
+  - title: "Self-driving truck company TuSimple fires CEO amid federal probes"
+    excerpt: "TuSimple Holdings Inc., a self-driving trucking company, said Monday it had fired its chief executive and co-founder, Xiaodi Hou."
+    publishedDateTime: 2022-10-31T20:43:00Z
+    webUrl: "https://www.marketwatch.com/story/self-driving-truck-company-tusimple-fires-ceo-amid-federal-probes-11667249015?mod=hp_minor_pos27"
     type: article
     provider:
-      name: San Diego Union-Tribune
-      domain: sandiegouniontribune.com
-    quality: 33
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/77d2a0b/2147483647/strip/true/crop/3133x2095+309+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Ff4%2F9a2a7c5e41c6a91aa7fba55fe49a%2Fdexcom-breana-raquel-cgm.jpg"
-        width: 320
-        height: 214
+      - url: "https://images.mktw.net/im-655659/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Self-Driving Truck Firm Sacks CEO"
     excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
@@ -85,6 +81,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "woj/7QLc4xvlnqcg+wdtTEZPN0OO7zBn3P08z2AOwJ3q6LMbi1e1fcSUMl3GTmpoEDo9Ux6p1X3ptJZYcCFbU1w6oVG0+kWI9ANQO7gVbz4gsI0shMStkfDCNySujPKR/eAnKWnMI5WVk5f0SXaFhdOvi4TXeMqgYB4bOZDlM4CE/e+zQLtsZ65vfaqk4YiqXF7m9YIK5d5AGDUC6jlVOnqcV2OpF/M/3aQ0cTlMcHi8QQAr2bc8AfXKaASsTZGyWnG3ThoylJ8mxQ6TZM3NQA8I0swydbt9OeLDao4D5aj6ZhWW50lCiwmQWAJGfSMvWD1UBaMhho6z9kGeIQ4CDQFzh8iChKm3baUVsUg69IE=;SPlgwQWSialdRGBVOx3VYw=="
+secured: "4K2ldyV1n3eJ0m8QdxQC4juBuRFXrlBB1z/Q7eunnhA6qwPQ6QF0Fulbw6YLNq09QwrYDEsEUFvgMuvjcipQMcMNnXJbiWvb9xqU5lRWwz7U92eVWubTeev7gqqIXpyidS7/isJI20fuQUZv/j1kTYTxB0uLaBDc4hlFsq3Q4RzBUyrqE9+pxxPqBHdxHh6kuJmfnQyskuh2MEIU+ZMiA++mB6gi/TM+TAsUIvTsCajzYawclNTqJbVuL71ExAuG2dI2RXOVSYjMBfZAsSa6GK8rAZR3Du8lc9NDM6k55/h4VOBm2K8FWV9KrTxikJxKXC3h6a9MmfGn5jxeSlAOSprkT5Bo78Zp4+rfsQaGfFs=;yqpVl/237eqUnDGOR3ngZw=="
 ---
 
