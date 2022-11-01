@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers"
-excerpt: "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ..."
-publishedDateTime: 2022-10-25T13:11:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
-webUrl: "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv"
+excerpt: "Inspur Information, a leading IT infrastructure solutions provider, announced its Korean subsidiary built an advanced AI server architecture platform for Upstage, a leading AI company based in Korea."
+publishedDateTime: 2022-10-25T13:09:00Z
+originalUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
+webUrl: "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-secured: "5V1fAp/SjMZEKx9T9qw1jM+UJN583MLTtxvZlTFGq2wlZz0b0By/SCsTQCQ3g6C23ExF8222w8Pi3BUiceItF/bKP7vEx+ZbqtXrz7fXQdjFYrDOGcg2HTv/BcAeTUT6khwPNyey58guEN6IZTZuw1aNyuil3j/PnnratCi1zCRolN8e/T/4raoCg6KG8AOIUsnMBfVbr8DpeqgWBBe8I6R8+sQ4V7L015krisiXdmAYA1msUP9+riwgGPoeE4frqilGTn2zA+dEdtEAdiLLWCikz1WHzMaZRsuzzKgivPZlUZH/HMOYqE6esUvZhkOIoQZdqa5b9jHKDNQAGHzNyDlsn1m7r7VFe+yWM39WeNY=;TTsKXzwvYZ40fmukIYhgjw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "QwSbPpWjBrnToR84s2x0T/e9HtP7fytUP58e7oFl/3q39A0F3MOgWiXLOZes/rJ8Ytot/gq8K0Hn8RVzd5jGh5sE1acEPY1t0pysy1Y/uYCO7HV5xZIajS1B/5QAX37R896rQaQsULq/3D7HAnacNiSs9sV5j8E5ceAzPHdC7pdLkINflDI62kXs8FEYFvFytJxHeOGtazoyVvN19MQiJtrLekqcA4bxXXzm11V19oWJDD4QwO+x71emfmRuVcknJoBSuSKdwB7cAbCbRvb/kj3fNDZjovk/FimYFR/bhP/L50cF6BrMaFgqri9/03yLDSLWe8TlCQra1qfDtIX/qe/kjmmzAfUDuM6ArZtRoWg=;sXiF+PVj2qjpn2O3XjbA7w=="
 ---
 

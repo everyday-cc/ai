@@ -2,6 +2,159 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-01-at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer.md",
+      "title": "At AT&T, AI is becoming part of ‘core fabric,’ says chief data officer",
+      "excerpt": "Andy Markus, AT&T's chief data officer, discusses AT&T’s vision to 'integrate data & AI into the core fabric of how we run the business.'",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/",
+      "originalUrl": "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/10/GettyImages-1195517526.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/at-att-ai-is-becoming-part-of-core-fabric-says-chief-data-officer/amp/",
+      "publishedDateTime": "2022-10-31T15:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-argoai-shuts-down-what-will-happen-to-its-lidar-unit.md",
+      "title": "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?",
+      "excerpt": "Argo announced that it would shut down operations on October 25, 2022, impacting ~2100 employees in the United States and Germany. Coincidentally, they acquired New Jersey based Princeton Lightwave for their LIDAR capabilities exactly 5 years ago.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
+      "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/635f0460106f8f455f046fef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 809,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/",
+      "publishedDateTime": "2022-10-31T15:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-replits-ghostwriter-ai-can-explain-programs-to-youor-help-write-them.md",
+      "title": "Replit’s Ghostwriter AI can explain programs to you—or help write them",
+      "excerpt": "According to Replit, Ghostwriter works by using a large language model trained on millions of lines of publicly available code. This baked-in data allows Ghostwriter to make suggestions based on what you've already typed while programming in Replit's IDE.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/10/ghostwriter_hero-800x450.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
+      "cdnAmpWebUrl": "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/",
+      "publishedDateTime": "2022-10-31T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-sony-a7r-v-hands-on-sonys-high-resolution-shooter-adds-ai-smarts.md",
       "title": "Sony a7R V Hands-On: Sony's High-Resolution Shooter Adds AI Smarts",
       "excerpt": "We took the Sony a7R V out for a photowalk along Manhattan's photogenic High Line to see what the high-res camera could do.",
@@ -841,7 +994,7 @@
       "originalUrl": "https://www.forbes.com/sites/gilpress/2022/10/29/history-of-ai-in-33-breakthroughs-the-first-expert-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -893,7 +1046,7 @@
       "originalUrl": "https://www.forbes.com/sites/joemckendrick/2022/10/29/trust-artificial-intelligence-still-a-work-in-progress-survey-shows/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 87,
       "tags": null,
       "images": [
         {
@@ -944,7 +1097,7 @@
       "originalUrl": "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -1071,135 +1224,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-texas-attorney-general-sues-google-again-this-time-over-facial-recognition-in-photos.md",
-      "title": "Texas Attorney General Sues Google Again, This Time Over Facial Recognition in Photos",
-      "excerpt": "which uses facial recognition to sort together photos of the same people. Even if you gave Google permission to collect your own facial recognition data, the people you’ve taken pictures of ...",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "originalUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-photos-texas-attorney-ken-paxton-sues-face-data-1849681912/amp",
-      "publishedDateTime": "2022-10-28T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-father-of-azure-cognitive-services-joins-ai-startup-vaital.md",
-      "title": "Father of Azure Cognitive Services joins AI startup Vaital",
-      "excerpt": "Founder of Microsoft Azure Cognitive Services, Yu-Ting Kuo, joins board of directors of Vaital, a Bellevue-based AI and software startup. Kou founded and led Microsoft's Computer Vision Group, establi",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/n29468999/father-of-azure-cognitive-services-joins-ai-startup-vaital",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/29468999",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29468999",
-      "publishedDateTime": "2022-10-28T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-29-who-owns-voice-and-image-artificial-intelligence-rights.md",
-      "title": "Who Owns Voice And Image Artificial Intelligence Rights?",
-      "excerpt": "With the advent of the ability of artificial intelligence (\"AI\") to alter an individual's voice and image (whether in deepfakes or expressly fictional works), it is critical to determine who – if anyone – owns the right to do so,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/",
-      "originalUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635c427f8cf45c068908fd18/0x0.jpg?format=jpg&crop=2330,1311,x0,y16,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/schuylermoore/2022/10/28/who-owns-voice-and-image-artificial-intelligence-rights/amp/",
-      "publishedDateTime": "2022-10-28T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

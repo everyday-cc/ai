@@ -21,19 +21,35 @@ topics:
   - AI
 
 related:
-  - title: "Argo AI will cease operations as Ford and Volkswagen pull investments"
-    excerpt: "The world of autonomous driving took a big blow on Wednesday with the sudden news that Argo AI will shut down. The high-profile startup had deep pockets courtesy of large investments from Ford and then Volkswagen Group,"
-    publishedDateTime: 2022-10-27T16:40:00Z
-    webUrl: "https://arstechnica.com/cars/2022/10/argo-ai-will-cease-operations-as-ford-and-volkswagen-pull-investments/"
+  - title: "Argo.ai Shuts Down - What Will Happen To Its LiDAR Unit?"
+    excerpt: "Argo announced that it would shut down operations on October 25, 2022, impacting ~2100 employees in the United States and Germany. Coincidentally, they acquired New Jersey based Princeton Lightwave for their LIDAR capabilities exactly 5 years ago."
+    publishedDateTime: 2022-10-31T22:51:00Z
+    webUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/"
+    ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
     type: article
     provider:
-      name: Ars Technica
-      domain: arstechnica.com
-    quality: 67
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/10/argo-car-the-end-760x380.jpg"
-        width: 760
-        height: 380
+      - url: "https://imageio.forbes.com/specials-images/imageserve/635f0460106f8f455f046fef/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 809
+        isCached: true
+  - title: "As Argo AI shuts down, will its driverless technology leave Austin's streets?"
+    excerpt: "Argo AI, a technology company that has been testing its driverless car platoform in Austin, is shutting down. The Pittsburgh-based company has been operating in Central Texas since 2019 in ..."
+    publishedDateTime: 2022-10-29T14:59:00Z
+    webUrl: "https://www.statesman.com/story/business/technology/2022/10/28/as-argo-ai-shuts-down-will-its-driverless-tech-leave-austin-streets/69594150007/"
+    type: article
+    provider:
+      name: Austin American-Statesman
+      domain: statesman.com
+    quality: 51
+    images:
+      - url: "https://www.gannett-cdn.com/presto/2021/07/22/NAAS/aba8586b-d3dd-4843-b7ae-7a3f6191805b-Ford_Argo_AI_4th_Gen_Self-Driving_Vehicle_01.jpg?auto=webp&crop=5598,3149,x0,y39&format=pjpg&width=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Autonomous Vehicle Startup Argo AI Shuts Down"
     excerpt: "Autonomous vehicle startup Argo AI is shutting down, with its parts divided between main backers Ford Motor Co. and Volkswagen Group. The move appears to be fueled by Argo's inability to attract new investors and Ford's \"strategic decision\" to shift resources from robotaxi tech into advanced driver assistance systems."
@@ -58,20 +74,6 @@ related:
         width: 1920
         height: 1264
         isCached: true
-  - title: "Ford and Volkswagen to exit from Argo AI as they do not bet on self-driving"
-    excerpt: "Ford Motor and Volkswagen will exit from Argo AI as they do not bet on self-driving vehicles business – after making billions in investment. Ford Motor and Volkswagen made investment in self ..."
-    publishedDateTime: 2022-10-27T11:01:00Z
-    webUrl: "https://infotechlead.com/artificial-intelligence/ford-and-volkswagen-to-exit-from-argo-ai-as-they-do-not-bet-on-self-driving-75217"
-    type: article
-    provider:
-      name: infotechlead
-      domain: infotechlead.com
-    quality: 37
-    images:
-      - url: "https://infotechlead.com/wp-content/uploads/2022/04/VC-funding-for-tech.jpg"
-        width: 640
-        height: 409
-        isCached: true
   - title: "Argo AI shutting down"
     excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
     publishedDateTime: 2022-10-27T23:17:00Z
@@ -86,20 +88,26 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
-    excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
-    publishedDateTime: 2022-10-28T19:10:00Z
-    webUrl: "https://www.crainsdetroit.com/workforce/argo-ai-lay-173-startup-folds"
+  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
+    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
+    publishedDateTime: 2022-10-28T00:04:00Z
+    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
+    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
     type: article
     provider:
-      name: Crain's Detroit
-      domain: crainsdetroit.com
+      name: Jalopnik
+      domain: jalopnik.com
     quality: 37
-    images:
-      - url: "https://s3-prod.crainsdetroit.com/s3fs-public/styles/1200x630/public/argo%20AI%201028_i.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+  - title: "Argo AI Is Shutting Down. What’s Next for Autonomous Vehicles?"
+    excerpt: "Ford Motor-backed Argo AI, an autonomous vehicle startup, is shutting down after Ford said it wasn’t able to attract new investors."
+    publishedDateTime: 2022-10-27T18:44:00Z
+    webUrl: "https://news.crunchbase.com/transportation/autonomous-vehicles-argo-ai-ford/"
+    type: article
+    provider:
+      name: news.crunchbase
+      domain: crunchbase.com
+    quality: 17
 
 secured: "8/ddgRtp5WxY9KESHJaoUrB6qCOGa1TxXvkxUYCS38WJ372oZCLXPB+YsoPBKGXGgVfGv2auKaYW/x7J46I3fUuuZ1xBQK12Y9Wn3YOfrcY54INoYk4tiN1UkMR31tmoc21Jg0tWX0wPXwSUrlRhihB4ReZoSPmWlIiZkE4H2fnUL6cAKMe1UFgS9AmYxdhXXPd4Orvgav+8jjAfDjuEsdoarNVrwAZ5lp1yL074qxfNYyr09NAvRFZwMMgi/8fs2xDpSH2P4vEm/B+c0ij+XSp7DWbaPVuBPIohKY2zhEcjYE5+PeMkWnanth7PqkMrumJE8+T1fLT+9+grZ8SYWzCmS8klFQJBsyDezE5adlG/8U/PiRFCOrOnCROegUx7+bx019LcA8f0ttk9WEnLVo7ImeiPq9LfBnbRjEN/HDGl+/oq7yC42woUR9IMflxQwLaln1XqoE6gaSajMFcgMPzSxNthNA/IxLi1lf1NOzOsYnE1H9xO4e/m2cDa7pKnxJXDyxMhl8/I0atQk1atYA==;BGz7JI7LWT47KYN7aITP4w=="
 ---

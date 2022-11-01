@@ -39,54 +39,6 @@ related:
         width: 760
         height: 380
         isCached: true
-  - title: "Autonomous Vehicle Startup Argo AI Shuts Down"
-    excerpt: "Autonomous vehicle startup Argo AI is shutting down, with its parts divided between main backers Ford Motor Co. and Volkswagen Group. The move appears to be fueled by Argo's inability to attract new investors and Ford's \"strategic decision\" to shift resources from robotaxi tech into advanced driver assistance systems."
-    publishedDateTime: 2022-10-27T13:19:00Z
-    webUrl: "https://www.pcmag.com/news/autonomous-vehicle-startup-argo-ai-shuts-down"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
-  - title: "Ford disbands Argo AI autonomous vehicle unit, posts loss"
-    excerpt: "AP Ford said Wednesday that it is disbanding Argo AI, an autonomous vehicle company that it co-owns with Volkswagen. Executives said they don't see a path to profitability on fully autonomous vehicles,"
-    publishedDateTime: 2022-10-27T22:53:00Z
-    webUrl: "https://www.miamiherald.com/news/business/article267900262.html"
-    ampWebUrl: "https://amp.miamiherald.com/news/business/article267900262.html"
-    cdnAmpWebUrl: "https://amp-miamiherald-com.cdn.ampproject.org/c/s/amp.miamiherald.com/news/business/article267900262.html"
-    type: article
-    provider:
-      name: Miami Herald
-      domain: miamiherald.com
-    quality: 39
-  - title: "Argo AI shuts down after Ford, VW end further investment"
-    excerpt: "Once a darling of the self-driving technology industry, Argo AI is shutting down after the Pittsburgh-based startup failed to secure additional funding, including from its two main backers, Ford and Volkswagen Group."
-    publishedDateTime: 2022-10-27T09:45:00Z
-    webUrl: "https://www.motorauthority.com/news/1137629_argo-ai-shuts-down-after-ford-vw-end-further-investment"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 37
-    images:
-      - url: "https://images.hgmsites.net/hug/argo-ai-self-driving-car-prototype_100704292_h.jpg"
-        width: 1920
-        height: 1264
-        isCached: true
-  - title: "Argo AI shutting down"
-    excerpt: "It's a difficult day for many in the tech industry as hundreds of employees at Argo AI in the Strip District found out they're losing their jobs. Two of the self-driving car company's biggest investors decided to pull out;"
-    publishedDateTime: 2022-10-27T23:17:00Z
-    webUrl: "https://www.cbsnews.com/pittsburgh/video/argo-ai-shutting-down/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
-    images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/10/27/a40cc2ab-aadb-4192-907c-c3a91809cc04/thumbnail/1200x630/41c011ee7486c7cc872a1bdf5302b771/509fb513768c6c0996dd5d5e287b634a.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Argo AI to lay off 173 in Allen Park as autonomous car startup folds"
     excerpt: "Argo AI Inc. will lay off 173 employees in Allen Park after its main backers Ford Motor Co. and Volkswagen decided to pull the plug on the autonomous vehicle technology startup. The Pittsburgh-based company will make the job cuts in waves starting Tuesday,"
     publishedDateTime: 2022-10-28T19:10:00Z

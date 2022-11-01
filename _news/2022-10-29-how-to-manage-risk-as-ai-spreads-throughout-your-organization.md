@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-througho
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/how-to-manage-risk-as-ai-spreads-throughout-your-organization/amp/"
 type: article
 quality: 89
-heat: 91
+heat: 89
 published: true
 
 provider:

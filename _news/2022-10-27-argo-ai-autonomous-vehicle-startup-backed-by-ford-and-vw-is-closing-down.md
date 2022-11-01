@@ -64,17 +64,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "This Is Why Self-Driving Startup Argo AI Is Shutting Down"
-    excerpt: "When the news broke yesterday that Ford-backed self-driving startup Argo AI would be closing its doors, it was a major shock. That’s partly because it felt so sudden but also because ..."
-    publishedDateTime: 2022-10-28T00:04:00Z
-    webUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107"
-    ampWebUrl: "https://jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/this-is-why-self-driving-startup-argo-ai-is-shutting-do-1849711107/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 37
   - title: "Self-Driving Cars Aren’t Dead. Lessons From Ford’s Big Flop."
     excerpt: "More than a few pundits are taking a victory lap after the car maker slammed the brakes on its self-driving start-up, Argo A.I. Already a member? Sign In"
     publishedDateTime: 2022-10-28T16:18:00Z
