@@ -1,37 +1,19 @@
 ---
 category: news
 title: "Artificial intelligence approach may help identify melanoma survivors who face a high risk of cancer recurrence"
-excerpt: "Researchers have developed and validated a machine learning--based method to predict which patients with early-stage melanoma are most likely to experience a cancer recurrence."
-publishedDateTime: 2022-10-31T18:45:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/10/221031134034.htm"
+excerpt: "Most deaths from melanoma—the most lethal form of skin cancer—occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
+publishedDateTime: 2022-10-31T20:59:00Z
+originalUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
+webUrl: "https://medicalxpress.com/news/2022-10-artificial-intelligence-approach-melanoma-survivors.html"
 type: article
-quality: 27
-heat: 27
-published: false
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - AI
 
-related:
-  - title: "Artificial intelligence-based method may help predict early-stage melanoma recurrence"
-    excerpt: "Most deaths from melanoma-;the most lethal form of skin cancer-;occur in patients who were initially diagnosed with early-stage melanoma and then later experienced a recurrence that is typically not detected until it has spread or metastasized."
-    publishedDateTime: 2022-10-31T17:57:00Z
-    webUrl: "https://www.news-medical.net/news/20221031/Artificial-intelligence-based-method-may-help-predict-early-stage-melanoma-recurrence.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 12
-
-secured: "e0MxZ4AMpkO9tTDyTpqXVOC67sN/bK++aLmdauc7KcU4CbCs6FCSfAXRTOoJfZNPrmdWf2EP4AiZSw0V0XjqUxSTg4058//ejoG4IQTXTFkWpXHILUjkEpJoeoyUFWjuzf/p63w0Dp3iGN49L6m1/5aJ7tRJxdGOhiMDLNCMTUU3guf1bhRfWCuykqNw4CYskfVSUzjQyPTPf9FI5gnYcQbEMO4rLn1CFnwSwgmLVCF98cn8sXqkrpGTz69OknHzPdGEKsu3zBGSN5GYKHvy9GDKllGteKHM6KN5901a5aj8opcFCZS0cKnxzSmr/C2JNqC74Yg94YS0AJBKHqmN93Gr/NWs+T99sKHPSd1lxRM=;/3NMzi0hxqzkFcfJ3ixB4g=="
+secured: "GaC2acHrFA7wokEwTzCGX2wes0F66MiWPMUgO1mCOGNZcRuSdHf/R4xB//hFchJYwWgqctS6oaOJIoUx1rcaY11owMzFg2OrPF9EnX3d5K63UVhwoTlXiopo8ivkBcrFUGolyVchcsqUr0uCjqqGdraBmUm2IYmBpTgxk69IpRraAV/JNeXXd8nyX77nZaDFnLvRBlBpH8Ci9BhCIzD178JyYrBGKDCii4sLvQGmVtGWXDeL/T5ARncd3IdBVUHml7Y9QJQ/SiENatN+pcnWkraF7/IA7wXdJxDMDeIgQl8WB+zI6sLrb8hqnUsxdPajQ3WnrZbGzeTLtT4uKhEFYWe586kOEmBnrj/J7dQAHZjREwZPfeCndZnh44cIeBCcGuZ32mFJnSIZX53E800e1y0wrQzljc3xhbZe6W48wioTkzfsAJDX8UIlXR7PL/2K8wZ/d5qLWjlhuoXV8cDX2A3g9myx50ubihabY/2uvELMJLVf9GGVTf+RmJbLrLCDsB5qusVD6uLU36djnbtUqA==;0GKyi5w/eptEgZSNUlzkQA=="
 ---
 
