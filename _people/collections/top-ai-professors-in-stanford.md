@@ -2,7 +2,7 @@
 name: "Top AI Professors in Stanford"
 bio: ""
 type: "collection"
-heat: 184
+heat: 372
 
 query: item.affiliation.name contains 'Stanford'
 
