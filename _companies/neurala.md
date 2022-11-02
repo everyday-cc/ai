@@ -2,7 +2,7 @@
 name: "Neurala"
 overview: "Neurala leverages its proprietary AI platform to empower companies to automate visual inspections. Our customers have deployed Neurala technology in devices ranging from drones to robots to smart phones, in addition to industrial machines."
 type: "profile"
-heat: 50
+heat: 32
 
 website: https://www.neurala.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=-bQYzR5kARM"
 
-secured: "XdVLRC4O4+PQDey6JSxYcbdrDzxoIMhX0Nmus2yn9tP3+Sw2t1n47SoIEI1aJUjPnHqDFkJVP0Qfwykbf/sygVX4NMopIlAMugnQOim0SsIOxrY8phYFB2AfgJ4Ft0WNyWg7PBErAz8yNqeoRP9gvdllI4ZJAHjlfoh2pmQlmcrdgoUmVNE0rKr72P/7mZtLwuHx5ngCh6T3j4jQohzmqOo9LhzAgxhRVbAM5y5lXNwXxbnqvN46CZUxxAgBpGTCbq8c4JbIeK6qCg5/UqLdBxpTRUkzX8RmZ6mgXjywFepECqdfbtC6tbtsTI9KpbhcCEgWQrOJ58pP1nWXY/+T6MxvFmp/wxsRxOvio/TGofgLz+2WRmT40+VxmBIoX6S+uBW2VkHiML23Mg6rirlNm9+tXxT/5VP3EdApkEtZ8Qo=;Vl/X/Q7TLP4y0dJ4+SFMeg=="
+secured: "eK51gg01U8jCRHg9CosQ6M4f6xly3IT6c3uV+6RBwT3YfaImUHFX+S5xDwcvUYdJnseNh6J7CmkZjzppnwG7zXfTulNz5qrZscZH8zkkyamqDBUAGntU6J9/A6vQuyeS1BcVSye+Wq/ed9oAOYsOHaBbk/u+rTi8MYwohuX0CD9h2sEs4zvSIFHvcdO1HVvcC0k9oqQQM9Yr/2DU4Q2a7UOIFH1HnEHiNI2sAbe1pBTP7irqOm/GKMMT7MHNqghG7F8dpZsFZjchvGynJvTl4HcL3VQHITHY+Sa8zxaLTVAbiRYCTbPerPxfevJg20Nd/rvhwf9CNBd5HAZ61os3OOYLL7uVeewnKTfoUIUm1cbwaDmiAwyBpXpB2B0ro+Ter2h7UjXBZ212kXQScrCUy9RYjHTwjAZoiM5JapePAls=;VAiPl3rOpSsN8BE9tafyKg=="
 ---
 

@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "algolia"
   url: "https://twitter.com/algolia"
-  followers: 24906
+  followers: 24904
 
 size: 201-500 employees
 yearFounded: 2012
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=vDsOQ58TrI0"
 
-secured: "JsYHZ4ajPCkAjVyKGUznVB8+6DfBsRax7VD2JOzbPXInOCtAZFvpO2TwRrZ+9xlziHKG51sMGebHmbhZ0RriTfcU3yFXqWHF2ZjUTVRt5Xfwxd7C9L8C7dv10Ll+BqjHsawhWSiU3qykqtDT+sTYMfl2SwqV25UEhzNF53kik3dOBCXvoYor1Ml/HEchnKaRqcRbCjpLVSY/2IlTh+0RGt0RDt+GXGe3R0owJxR4Cnx9yZcRxpnMgGlvDWX7PKM4DeK4Mr3dYxsRIjhTZFbn9ZzyDABf0f6AHtSldb8pXFhX9/EHKGZwLtm1mD3/HxHv60eBHD6rcUTzVUrv4+dfGX/Rw0Mge8dZ/vnWeKwGndwVdV1wbTmQirU8fx/vvoQkJYqwMOu2qg0nMx7WLrQWL9dWV+TVK6JMh8DX6bdejgo=;mAlh6QlWmRQVREGY8hW/Rg=="
+secured: "uunwROsvGNn3O1qe26lZlC/3/Ztzwaxi9uJTUpG5YJP2Ddbsk9E4zKsQk3RpF0BMhQOsfpp1SrUBd4TLZ64TYbAD2kGXa13mQCcLU7dKc8X2oCJ/BzK5ADxCf7YMKymgO+KyQmdwvbuqvSlrSWmq9Gj/+p/MGMDzPguq/8ypN+uibPLFCKN4gucyQozggV2v2NNHbZ9asqI7c18cbUTzWqNU+/lPEDNQD2LD+qKyI7QEgK/XaWZIeuhArg8DAMzih5W/VobstYtTZXgBAa/adEmeUgCAC3Hr2qat4SmZdG9aJ4Pm4FlpnnKt+AhahNES1bQIRxrRovr6koov1JdJs+ERPZI6+NBT6vatxcW9lLalajlmOz+ksKg3hx+YE3BL9hVQa/D57RhViJWIh3FumcorYpOSXbXOp7HTLk1JYkw=;eM7AW9hFRRDVzldcZESagg=="
 ---
 

@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "solvemit"
   url: "https://www.twitter.com/solvemit"
-  followers: 16780
+  followers: 16779
 
 locations:
   - Dubai, United Arab Emirates
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=OQlpH3-X7yg"
 
-secured: "D6Q36fetJGIk38r9nq5Q25L9RthAcjwmCI6tKXvtd+NjvwZlrana9KnTElkkh6Ngyb2Xzgx3wX7hFa2aBbvtohYEaqgCTtND/mTShpLN7/5wuoamlm5AnhEF9XDsmSVt4ZC0gcM5EZXJhH9pMk8Uk/ZaKrcl2DlbTbMLPKvBHwTZZ+uvCN/xm64k5lSPWOpFBsh5fHImXnJTaw5bxITj52SqGJd3f8NYYYIv9OwmYx6CQ9kttdSl6iJcnxvOpju4XS4eHmyWWNrY7g/j5zT0TBeNID6KjHqzUmSmFULYKLdD3AwWnEsCS3GuNHNYOEjwH3RtXiA1EJdkSG250WpLL2cWxNy1UixOGmNBmpWZPlfba81K+7fF3w6ZyvGlTU6Vt/rkD48q2WWoJ9ShQCNyg7Kuc5JK1Kat8d6eXSce3nI=;CrVdXMG50kq5FnAtMEkqmQ=="
+secured: "cFqQ5GwKLGSu1Mf0oS1/xJGg3BnOUACNh5zwzPvco9ANGZ5EtCLRie4HoxqAfbN7Hrjb6n6ipvlwnJHVMARKm2ln9Y67zKBh43byug+i8wfwrNqxIfgYKkRn4h1ZQMj9e6rxsfTz0dr6aGVyg1x+yFXBFL0Vn9VqUc6qsasp80JWFvyvK0bf32jnJ5Vysbmz/0BpfRQuFq2FdRAyCYicVW+PkhlMcM7qVnWJhoJBQU/UAutlu+Q94RbCfconXqOTbUZ3Onq8Z5LO7yVLmQnk49mS7QQZb7tyTTCcT6LfC+Zkjbak0qlgsFg0XhEwEGOGOmCG4c/fmGOTpWwIhtXWAkXgsGl5AbzCzNG2gyaS2Xmkboe2LnzTEDnKRrHqXbzlhRXqdq2irPd48yHbZsPachoMDKsurG87kdMgvFGvfuc=;veuJvN2qUp5TLfcdxZtucw=="
 ---
 

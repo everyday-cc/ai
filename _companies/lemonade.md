@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "lemonade_inc"
   url: "https://twitter.com/lemonade_inc"
-  followers: 29364
+  followers: 29335
 
 size: 51-200 employees
 yearFounded: 2015
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "Q4hi5c/zNZNlUIXgaAzdUv5+tO+DzTHTbXe0YK6mDp4Av8L/uPJzDKqlKjY/pwaAFWgavSDF/e83BGfc+YDtQb8a6M6idQZiTzQ6kRjBmx5Xq6SbKqGmQTEd0KVMP8qIqfsu1BdzZdGwybhOyD2is0H5EmbQ+6MNzqsHkM1bDDRAfT9VTcndcnIylgyEfxsP9nxgv9cyr7Nju1XtmRya6Sbj/OzLTQN8XfRnWxJoQoWi5bIMx3YrUDmYOZ9yiRNXN+uvj5iuMc6v6qLWlbQlqImXL2qys7FKNGTaiix2/Crl0wzOmnxCCXdYBsGHJiDRCU2cPY75TszPLwLiJiEirK4mSuCmJjleyK8g83KjblLP+D5lCxISlFTCl+ZR/tkEgSXaAUqJxhJT0cF8fFZq4wWkKAIgaVNBsjbl/jnA6jE=;dWmWNGpai0xMRZKNmVX/EQ=="
+secured: "VJYnpjehQPZYfE+5K8kX9DubmlD5yiDn7PT06Id2JOk9IjQ31vzbGAqes/oJIpwQ7G6/+S50ZOcYUghVjGF9N+maMhdG8160ebRdYqOQjZq7u3F6zfSFjkEAC7qHT6UuA+fzLWG4EtwdFnWWFSI6dRrkBHkcJQkHJZgChH9a2DRF0PlNB+NZmTBL5B8e3x7DvhpEbsiTX9JmeKWxH2GHM6NlBjjuAuFOUCcyqy6BurAvkAJLc9/lHhQcD/muQZ8e3blqwphdLWiyZVIdBALVpqryx6YW2OnMyCqbWyLsEmEpC/NVDIFCFhQ3ZKnAqvt9F8d1lww14UiftTu6BITupAmx67bAMnGbv/c8/eagXnCFiqtCX7UgE6Vmu92LMMz5Ihwz8u9sRx+62oGq5Dj4S0vipgenn9BRxULsPuQZ27k=;pwwgpfqwKXPzkqXJKGGt2Q=="
 ---
 
