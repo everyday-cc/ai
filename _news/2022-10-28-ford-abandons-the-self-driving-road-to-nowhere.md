@@ -40,18 +40,18 @@ related:
         height: 619
         isCached: true
   - title: "Self-driving cars were supposed to take over the road. What happened?"
-    excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the"
-    publishedDateTime: 2022-11-01T19:52:00Z
-    webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-cars-were-supposed-to-take-over-the-road-what-happened/article_1cb93dd2-f24e-53ab-aae6-d78500a2d2b1.html"
+    excerpt: "Last week Ford and Volkswagen pulled the plug on their self-driving effort, Argo AI, the latest admission from a hype-fueled industry that building a good self-driving car that's also a profitable business may not happen anytime soon."
+    publishedDateTime: 2022-11-01T21:19:00Z
+    webUrl: "https://www.wicz.com/story/47609317/self-driving-cars-were-supposed-to-take-over-the-road-what-happened"
     type: article
     provider:
-      name: Gwinnett Daily Post
-      domain: gwinnettdailypost.com
+      name: FOX 40 WICZ TV
+      domain: wicz.com
     quality: 24
     images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/b/31/b311f569-2b4c-56cf-bc89-68acf79d0666/63617d11257f8.image.jpg?crop=1710%2C898%2C0%2C157&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
+      - url: "https://CNNWIRE.images.worldnow.com/images/23593693_G.jpg?lastEditedDate=1667318666000"
+        width: 500
+        height: 354
         isCached: true
 
 secured: "CoT8dIOcMzRJ3+nZCxFJGyeNTAsxGkB7QaW7WrACuwMaO5u24S5rlj1hUb+1PskntMExlbD8GyghRLbKNfltmXWlNlxzch6SgN7J5HJEOxoG45hro9D5KVNyzOvRhhla8llzWZx0TB0uolWB/MKKysLNRky35qC8Kkifzvdfno6Pqsd+kLd84qgsaOVZY2gY4mwikHsId5G78r6OH4sqJocgMTUBqCz1kfMcIJYAHCgyCrSAAghmpr+NOJf5rANoS/oHEOuYi7q+TkeFOI7sTqLMZa/YLR1hQGKlhkcNhXvGKolhBdjAWo+2GUET5zRxUOyvhuKWF84XkePURzOMlJ4FlU8gYV08jnLs/NCHo9UiLw3ZTREDYxP0jBCHO/Dl7dW3/DJ+BItGhPvh9PZfZ3gDxmeVU+XGWYi0ukf3XP4q0iAgPA0lrQDxerlX7omNz3OO429SCDvF3IIYq9IhrIOR5S8xNpSmxiblqKm9ZlcuOqYDo2gLYCAcIIEivsrRXEReEekXfoseGYJcWv5ixw==;fr1aABQxkDAzSTvR8sh4IQ=="

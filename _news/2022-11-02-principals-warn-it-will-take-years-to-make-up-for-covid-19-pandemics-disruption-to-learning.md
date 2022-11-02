@@ -26,6 +26,17 @@ images:
     height: 438
     isCached: true
 
-secured: "gjI1b9OzDEPZPhJxnH7AjF9Fa73B05bHxD85EV6/MM3QenjWin6hUlVUI+GgnuSofz6zJvWceJ9tDWCrAVvII5SNr/I8VVxzbLJudAcJc1gk7XLGma6NUzh3yXNNCPZ6THyW0HLkPn9He5FxdiYRgTEDLL2/9vQVKILdOG04YTsGQ3s0rUeZ5hzCV48YfRp9bcSjHaAFhoos3HD4IggJKzJoyupBbGnbpV++YUIsoogHYX20bCAljn+4+bO7mSIKKTFIqdk+p5cEOWis8bNzAkohDQ0+MDjlDeadlPBg/Y0+T6poXUd2MqKZJg80q1aOQCj86HRW9MVR6oRMWzPP8vezXwe6Nkt29hRS60HXJlc=;F01kIhfzn0Gldf3XhiKjtQ=="
+related:
+  - title: "‘Broken learning’: Pandemic damage will take years to repair, school principals say"
+    excerpt: "In Porirua East, Tairangi School principal Jason Ataera said it could take years to fix the damage to children’s achievement. “In our community I would say it would be rare for anybody to be at the same level they would have been had the pandemic not happened,"
+    publishedDateTime: 2022-11-01T21:06:00Z
+    webUrl: "https://www.nzherald.co.nz/nz/broken-learning-pandemic-damage-will-take-years-to-repair-school-principals-say/miuy6jdrw5a3fal4dvgqknikcy/"
+    type: article
+    provider:
+      name: The New Zealand Herald
+      domain: nzherald.co.nz
+    quality: 13
+
+secured: "cLil+z/4uY4vrQnFWJl0vk+quZjSxgM9VCpU0vk7z5AoZGRESlrEsFw2OlfsZwDlGAcqSxyWsLtapwWvIrqLU3ODfrD63G4Jsz+UolsGcJBtiBRFR92BTlMDGzafLSzgjdpW7NH/Zmc5s/7OVODwHE9OS6WO/yANo8qB6bR/IVNUtuxDSXyVTWmzK1F5VNLlr7LfDM2YIJHkmPPZDUOFxB2NvNQlRq6Su9aapBmCUXKXo5J6zN83O6enp/WX86m3xwAWD0Z1LfGELvyuygp4Nz5Dou35eIeM8x8NM7sNOKGAlHpBOW2ZbgeF01yQwEx/mb2W3ZyUo1Ausf2lKZcFiqmp5ipE2h2KM8J7xoPMQIEH0a1s32DlQIWc1XTWsMziEadVZlp0Sj3uCOhdAf3x+gzEzYK5QRQG5UNYudo77dGeWE2xoh/Td/gCEiM4JJwViYQn4AfGSpno/TxBODtKdELenP1lfiO4kJfXGD4b/psQO4We3lU0Q1lkswxtEfQFnpiSN6CgIbbJyxbj3uq3dw==;bJpW5oaGOWPDzwmrzK92BA=="
 ---
 

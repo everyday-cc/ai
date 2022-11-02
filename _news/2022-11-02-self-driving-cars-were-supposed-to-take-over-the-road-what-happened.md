@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Self-driving cars were supposed to take over the road. What happened?"
-excerpt: "For over a decade, companies from Google to General Motors have poured billions of dollars into the pursuit of what was seen as the Holy Grail of driving technology: the"
-publishedDateTime: 2022-11-01T19:52:00Z
-originalUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-cars-were-supposed-to-take-over-the-road-what-happened/article_1cb93dd2-f24e-53ab-aae6-d78500a2d2b1.html"
-webUrl: "https://www.gwinnettdailypost.com/news/business/self-driving-cars-were-supposed-to-take-over-the-road-what-happened/article_1cb93dd2-f24e-53ab-aae6-d78500a2d2b1.html"
+excerpt: "Last week Ford and Volkswagen pulled the plug on their self-driving effort, Argo AI, the latest admission from a hype-fueled industry that building a good self-driving car that's also a profitable business may not happen anytime soon."
+publishedDateTime: 2022-11-01T21:19:00Z
+originalUrl: "https://www.wicz.com/story/47609317/self-driving-cars-were-supposed-to-take-over-the-road-what-happened"
+webUrl: "https://www.wicz.com/story/47609317/self-driving-cars-were-supposed-to-take-over-the-road-what-happened"
 type: article
 quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Gwinnett Daily Post
-  domain: gwinnettdailypost.com
+  name: FOX 40 WICZ TV
+  domain: wicz.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://bloximages.newyork1.vip.townnews.com/gwinnettdailypost.com/content/tncms/assets/v3/editorial/b/31/b311f569-2b4c-56cf-bc89-68acf79d0666/63617d11257f8.image.jpg?crop=1710%2C898%2C0%2C157&resize=1200%2C630&order=crop%2Cresize"
-    width: 1200
-    height: 630
+  - url: "https://CNNWIRE.images.worldnow.com/images/23593693_G.jpg?lastEditedDate=1667318666000"
+    width: 500
+    height: 354
     isCached: true
 
 related:
@@ -51,6 +51,6 @@ related:
       domain: wired.com
     quality: 34
 
-secured: "jFnZn3s+r6hcyAn2cUalY/kJzJYqnYajD6FZkHL7I4r2UOD/NcmwLQPJ+tHiz+zQDedHKES4oc7V13/rEeLflr3024QFI5xQJntGkUY7bs1enDTF7n3mWVSP7lJ/zRRLl46AXk3daGN1c5v1FDZX2EvbKoYWFxyhrniUyceFYiqQofGfLHKtERHLrxSEaqry7pPUc01lQgH82LOnm37DNfUZxklCDXFw+bBkCFU+Df2YfCU3HTrNEG8jddExQs74mBTfmTuKr8n79KZZQG008zN5k/Oi17Z/L4BILtR8nRFIbYHcUZNivDVNVSN6CjsQjf2HeJZQ6AFV6ietkK5gJy+/aSAc8Kau6Mwpb+u5A7k=;BaYckTT4aQOOjE+VITLYEA=="
+secured: "yJ1dgKsR5p1S8bpZMuPCX6oBytHqX9ktIvaVe2v3jp7R+JdiIyE+4RzE+FF3gWjw1d8GmgL2AyaR8LXg6kutHBQH15WR8bVOg36vIS9EwvZhSEcZAVHEdMcxMXt8kggcvg+onZjsXoGioc0iXX82aKeSUkWkYk5MPmHTbHOR6uFj0Szk5WlPqzVnkDOLaDNvGlBb6U8x/DKcbSFCV/vD0iZnkczFIZY/I34Vv5x5tQI66vjhVsQvjcQo4QnqiiTe6Z/hmjNChIyIHiWiHXpi01KLs55tM/M2Z39w3AqrnaExah7Fg/Lqa+WS6yWk917ya1qtr13YpGp0KfR0hzaRtLvNB2QmgsK0n2DaRyOS8m4=;qqVH5l87MwJ4BaCL6AmYQA=="
 ---
 

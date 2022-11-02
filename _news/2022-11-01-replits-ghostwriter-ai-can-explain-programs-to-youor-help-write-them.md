@@ -9,7 +9,7 @@ ampWebUrl: "https://arstechnica.com/information-technology/2022/10/replits-ghost
 cdnAmpWebUrl: "https://arstechnica-com.cdn.ampproject.org/c/s/arstechnica.com/information-technology/2022/10/replits-ghostwriter-ai-can-explain-programs-to-you-or-help-write-them/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 98
 published: true
 
 provider:

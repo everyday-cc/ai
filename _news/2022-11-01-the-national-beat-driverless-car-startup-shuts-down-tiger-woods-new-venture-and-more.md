@@ -1,10 +1,10 @@
 ---
 category: news
 title: "The National Beat: Driverless car startup shuts down, Tiger Woods' new venture and more"
-excerpt: "A driverless car startup shuts down, Tiger Woods' golf startup raises funding, and more startup news you need to know"
-publishedDateTime: 2022-10-31T18:38:00Z
-originalUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
-webUrl: "https://www.bizjournals.com/charlotte/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+excerpt: "Pittsburgh-based Argo AI announced it is shutting down ... Pittsburgh Inno reports. The startup was founded in 2016 by Bryan Salesky and Peter Rander, who both worked at the National Robotics Engineering Center at Carnegie Mellon University."
+publishedDateTime: 2022-11-01T09:49:00Z
+originalUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
+webUrl: "https://www.bizjournals.com/kansascity/inno/stories/news/2022/10/31/the-national-beat-tiger-woods-argo-ai.html"
 type: article
 quality: 13
 heat: -1
@@ -30,6 +30,6 @@ related:
       domain: theverge.com
     quality: 43
 
-secured: "Rh84ploHkNNmDA7trLWz0/aTkcL6X9UtY8GW3l+sBhlwHfUIK6KvtadzP2dTPwxizHJHXhlSSgd81FcMymhLh5t2Zbg7u/GsRxzcFpQh9xmEdoRX7/KwgVVIiVyGEaHrc05EYj1u4nrYyozN4Mhl5MkhXHdDn+0ARKCVtK8BO4e3vi/qeG4fHs5ETjw6NDPD9IyUYIVFviWN7HVK2ZlftFDvUlg3sWkBdM8isPTYaMmzmfXIx7YJ6UfC4KsDEfsd5QKDCvXwagDL2/yOIG6Sj+9lzf811WXTNWPrlBuV3lGzTLYyvUk6IpOn2h2aKMgZ3YloCI8cYLU2/U49Kd/gsMTrzqWF0nBbyR3psHZ031cjFe3+JzmrCtZaKuimQrf2qyOD923EIdlBarnj62Vi/XYnCl5MXMi59Mq3eQZzrUkI7rS5E91zVFvBP1uHG3xNkmp+Lbw7tsB8DyrWVD4aslUEU2JvIvE0ZDEOGHNIWI2mC33p4vBpneQnkgdiCuHIdSpm1vjysien/25Tgm4EBg==;GkA0XO5jbuVih0Y6knuA9Q=="
+secured: "uTpMm0WWlv9AiykNhBD3J7PJoSx5jQDD/fQ1pH/0JOpyDIaikhVv/6w3dboxDuiTbFTnerN3kPQhvfmJJp2517AmzVTucE5cdQTyBfwCnPpviekT3gyRW8gAen41VAxxIdYH65ugKFSODJCLgAcb2VamJs0bObft4//+K11VDibA/bGktFgnIf8IBQc930dToTUr2cnB8k3veHQhygaZGFEvTT0hkSKSps8UvMy901YdvOoQIfkakfZVXoqmCIEB/bArLU8snQuK2qsnj6YqdubNkvSI1temSeCUKQo6l2AdHZ+zsNlPXZcDCWQkbivB+dT213rs2pd8FzCb8Ugz8I8JxI8ZwkQutPmYLybeUApLtBX9eymf1Oj1GCr8kMM17lLRr34xqBSJ43MujF+F/TftsoP9xF3o0fEI4aaqlbDhxYCSQlFGqlDx6ixLlmziqOVHomgq6H2d7/ALd/PV1Br1a3GBPGaPpi7avdUZwfPm3RJqGJ6lRLoyKKNXhhiNoOCUrpgBy/PWmil2W0Egqw==;jCwYH5KE8ejUqbunswO4ZA=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-inv
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/10/31/tusimple-tsp-ceo-leaves-amid-investigation-into-dealings-with-hydron.html"
 type: article
 quality: 66
-heat: 126
+heat: 136
 published: true
 
 provider:
@@ -88,6 +88,22 @@ related:
     quality: 33
     images:
       - url: "https://ca-times.brightspotcdn.com/dims4/default/77d2a0b/2147483647/strip/true/crop/3133x2095+309+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F12%2Ff4%2F9a2a7c5e41c6a91aa7fba55fe49a%2Fdexcom-breana-raquel-cgm.jpg"
+        width: 320
+        height: 214
+        isCached: true
+  - title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
+    excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
+    publishedDateTime: 2022-11-01T22:08:00Z
+    webUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup"
+    ampWebUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 32
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/24c6bde/2147483647/strip/true/crop/3993x2670+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174"
         width: 320
         height: 214
         isCached: true

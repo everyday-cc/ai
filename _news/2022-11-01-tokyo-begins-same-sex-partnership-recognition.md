@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nbcnews.com/news/amp/rcna55041"
 cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041"
 type: article
 quality: 74
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://beta.ctvnews.ca/national/world/2022/11/1/1_6134044/_jcr_content/root/responsivegrid/image.coreimg.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "Japan’s capital begins same-sex partnership recognition"
+    excerpt: "Japan’s capital, Tokyo, began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed."
+    publishedDateTime: 2022-11-01T18:16:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/nov/1/japans-capital-begins-same-sex-partnership-recogni/"
+    ampWebUrl: "https://amp.washingtontimes.com/news/2022/nov/1/japans-capital-begins-same-sex-partnership-recogni/"
+    cdnAmpWebUrl: "https://amp-washingtontimes-com.cdn.ampproject.org/c/s/amp.washingtontimes.com/news/2022/nov/1/japans-capital-begins-same-sex-partnership-recogni/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 44
+    images:
+      - url: "https://twt-thumbs.washtimes.com/media/image/2022/11/01/japan_lgbtq_16847_c0-250-6000-3750_s1200x700.jpg?2cb823f519263a3e55a419724463fd44fb7f7c61"
+        width: 1200
+        height: 700
         isCached: true
   - title: "Tokyo’s capital begins same-sex partnership recognition"
     excerpt: "Tokyo's capital began issuing certificates recognizing same-sex couples on Tuesday, becoming the largest municipality to do so in a country in which same-sex marriage is not allowed. Seven years after Tokyo's Shibuya district first introduced same-sex partnership recognition in 2015,"

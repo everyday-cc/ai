@@ -1,27 +1,29 @@
 ---
 category: news
-title: "Self-Driving Truck Firm Sacks CEO"
-excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
-publishedDateTime: 2022-10-31T15:09:00Z
-originalUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-Sacks-CEO"
-webUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-Sacks-CEO"
+title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
+excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
+publishedDateTime: 2022-11-01T22:08:00Z
+originalUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup"
+webUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup"
+ampWebUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
+cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
 type: article
-quality: 24
+quality: 32
 heat: -1
 published: false
 
 provider:
-  name: BayStreet
-  domain: baystreet.ca
+  name: Los Angeles Times
+  domain: latimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/TuSimple_Logo.jpg"
-    width: 1785
-    height: 935
+  - url: "https://ca-times.brightspotcdn.com/dims4/default/24c6bde/2147483647/strip/true/crop/3993x2670+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174"
+    width: 320
+    height: 214
     isCached: true
 
 related:
@@ -101,21 +103,19 @@ related:
         width: 320
         height: 214
         isCached: true
-  - title: "Southern Californa self-driving truck firm TuSimple fires CEO over dealings with China startup"
-    excerpt: "The San Diego company terminated co-founder Xiaodi Hou for sharing confidential information. Hou denies any wrongdoing."
-    publishedDateTime: 2022-11-01T22:08:00Z
-    webUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup"
-    ampWebUrl: "https://www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/business/story/2022-11-01/southern-california-self-driving-truck-firm-tusimple-fires-ceo-over-dealings-with-china-startup?_amp=true"
+  - title: "Self-Driving Truck Firm Sacks CEO"
+    excerpt: "TuSimple (NASDAQ:TSP) has fired its CEO, Xiaodi Hou, after an internal investigation found improper dealings and possible tech transfer to a Chinese firm led by TuSimple’s now-departed co-founder, the company said Monday."
+    publishedDateTime: 2022-10-31T15:09:00Z
+    webUrl: "https://www.baystreet.ca/techinsider/3392/Self-Driving-Truck-Firm-Sacks-CEO"
     type: article
     provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 32
+      name: BayStreet
+      domain: baystreet.ca
+    quality: 24
     images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/24c6bde/2147483647/strip/true/crop/3993x2670+4+0/resize/320x214!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F1a%2Ff4%2F617488cf40c1ba6d2446e1b2c82a%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F492682174"
-        width: 320
-        height: 214
+      - url: "http://www.baystreet.ca/images/articlegroups/original/17/private/TuSimple_Logo.jpg"
+        width: 1785
+        height: 935
         isCached: true
   - title: "TuSimple Stock Plummets as Self-Driving Start-Up’s CEO Is Removed"
     excerpt: "Shares of the self-driving truck technology company TuSimple are tumbling as investors weigh a surprise management change. Monday, TuSimple (ticker: TSP) said it has terminated CEO Dr. Xiaodi Hou because a continuing investigation by the audit committee of ..."
@@ -127,6 +127,6 @@ related:
       domain: barrons.com
     quality: 4
 
-secured: "Z4Ci7PUWmmyq1LosqxTXCePQzd4dNSWfjjkk/+WrRRoWI05i7gFR9c678oqHh3QLCKkgdAwCKt8OtndRNoZ1iagle0q2UFV6UxHdENpo+O+r67VtDawm4jkid1UsRRawtdr6vQBTKUNmYxQcO1xLrB1ic2cxJil9BfrpRibF64FMKMk35bccjUcgCLboWnbblF18MJjUYgo0b3Unem1YD3tdGFrExz/xO0I6bpbUTjTpaMJLjQZM6HK4IYrviiKuIzfZAvll//A9l7Cr3pKUVjmfBHl/XLxQpKfFpER/J4TbSR73e+6/fbKdrAno/QgSy0p6ztoxLyfaMTlpiUZMSQQo/AlssGLt0hsLuv3v/NA=;PQEZLCgrovu4UrsmkfHOBg=="
+secured: "27UUCJeRkBl1Q0HHaJaXzfPJxzYZ/4REMwFTBpa9Jw6R+fhLQDl5fSJLOA9X+BcjXQYl7T6FTxKMco1GvOpC0RuCkVqopDehULspqFHb1b7aKQcx/Bn1sxvbwyHGcKb9R0Al8+lcOWtw5ZgIDnvAHhYBfmpouoa4Du7hczj8xPqYNu869g+wpWV0BfE6Vw/6bPXmpTVq8BIqFSjaEhsU1CcnZjT2l04ZCZWbJsRvUMAPg2mwGRFZpkhVS76SQathy5CFolnu9fbsldnFZYWnEv4pYOl/vXfNjWNhogYiHbeY809Icak8zmLmRbxY6KnEqX4gsF9OLpt9wQFpOUxW8KHsSyTEyh7tAc/JQG1/vP4=;7FNknM3M/l646EQ4/i43rw=="
 ---
 

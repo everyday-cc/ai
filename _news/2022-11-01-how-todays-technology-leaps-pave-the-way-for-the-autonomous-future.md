@@ -41,20 +41,6 @@ related:
         width: 318
         height: 308
         isCached: true
-  - title: "China promotes application of AI technology to real economy"
-    excerpt: "The artificial intelligence (AI) robots, developed by Chinese AI company Megvii, helped this logistics center reduce labor difficulties and costs, improve working efficiency, and promote its transformation from automation to intelligence."
-    publishedDateTime: 2022-10-28T06:26:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202210/28/WS635b7521a310fd2b29e7f16f.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202210/28/635b7521a310fd2beca981ff.jpeg"
-        width: 623
-        height: 415
-        isCached: true
 
 secured: "dUowoI/Muz+b0N2SqDxoEhBOp7Kyx6BQymkmYdBEhG11yHSiQLmPZSma5cji7rIP9xyeVDhXIqht4sTN8/bKgSELkGmmAvQ10iXOg66OSV9zOuuccmoqnea89pAFdH9VFTZJzJ0ynwZgbRJ8tv+Kh9Rsk5G2P4UptZDd+qnbNPMRfnIP70C3Fa+js0qtVAg97v/nXqXCmZsF/FdzSDAMAx4We6uzLfohFCneFhU9pALjJQdKYfkQIYdAJ1TlZTzOAoGrFm0fgxFgHjYXCcHq7hjwK/z/A2YL15ESpTJdOGLnJ5co8pT/1mznley4K9YdWPVREXp95TWtkkBSpDacTFfkVO138Wx31E6n/PQxm3hQfsbD8MP1TNRd5Dq347kce0xLhRM+3XSL5+DX+0e8hV5CGIFdcLpar159WPZWLMG9+7vV04RSox2jRanOGP8QDGqasNGpKZZx2d4bxTp9IKH5lnwJm9jOLtnrjhoAu52MNaa0IbhBQyoThAw3W45HtdxZUvmcHTf1tDPij92dLw==;spMGipgByE/y1AHcq4+BaA=="
 ---

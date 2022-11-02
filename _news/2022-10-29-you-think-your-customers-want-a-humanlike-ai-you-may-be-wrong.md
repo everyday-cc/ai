@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/you-think-your-customers-want-a-humanlike
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/you-think-your-customers-want-a-humanlike-ai-you-may-be-wrong/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

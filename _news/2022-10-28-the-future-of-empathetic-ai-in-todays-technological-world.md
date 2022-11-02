@@ -9,8 +9,8 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-future-of-empat
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-future-of-empathetic-ai-in-todays-technological-world/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Indiatimes
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China promotes application of AI technology to real economy"
-    excerpt: "The artificial intelligence (AI) robots, developed by Chinese AI company Megvii, helped this logistics center reduce labor difficulties and costs, improve working efficiency, and promote its transformation from automation to intelligence."
-    publishedDateTime: 2022-10-28T06:26:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202210/28/WS635b7521a310fd2b29e7f16f.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202210/28/635b7521a310fd2beca981ff.jpeg"
-        width: 623
-        height: 415
-        isCached: true
   - title: "How Today's Technology Leaps Pave the Way for the Autonomous Future"
     excerpt: "The fully automated job site might be closer on the horizon than you think. What can the road building industry learn from the atomization of other industries?"
     publishedDateTime: 2022-10-31T17:37:00Z
