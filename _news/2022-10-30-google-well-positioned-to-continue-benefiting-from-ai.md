@@ -38,20 +38,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "How Google uses AI to solve modern day problems"
-    excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
-    publishedDateTime: 2022-11-02T14:57:00Z
-    webUrl: "https://pocketnow.com/how-google-uses-ai-solve-modern-day-problems/"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 39
-    images:
-      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/11/Google-Wildfire-Flood-Speech-Creator.jpeg"
-        width: 1921
-        height: 1080
-        isCached: true
 
 secured: "rjvlzMiSiPyXCFLVMiGeF0epWnMC9G6JC6j5f/UkuBrIwYsa11YkuNhpM+pVCg+9dlsrrTc/+neoFFbiM1C5VafkyVmqefc/A5GS0uDAqJZom6TuHifp1ebkdSJLiA3pohv1iy/t5Zetsyubao0igiqMJM16QE7lZt/TbPO00h8d01lN20IhW6C7cS2fDkzltViwGmZoq3IS1EjDw+3NOmEnTZjXBkgFmciwyOFa/vaq1CEIIKBgcWH2HVM1ObnC/X7lrDR5r37+cn1YdrXDyJd93kIQ7C7qhD70T/dIzM1yAT6gzXvaRC1+hegTlGX7whyGPrzHsdTnvoa8h82jm+lGomgW8uXxMkIq9HJj6AYpB2Hgay7UFW6jtP7ntnd+uMm0LgmiEshAlDP1W3XA17E1rxWhgAmLp6jxJc/pg2fOoB3RokZmOLr3f4u0IX+rUt6ho3b95jvjqhpoVjC9V5wxRHg7jkEjleNaeTwmdlv6EJ5sNaRXW9H/A3IQArWvqkB1vVcfm8sl+mruralXZg==;jGoVtiCCU9irC9F+Jp6o4A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-word
 webUrl: "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Google uses AI to solve modern day problems"
-    excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
-    publishedDateTime: 2022-11-02T14:57:00Z
-    webUrl: "https://pocketnow.com/how-google-uses-ai-solve-modern-day-problems/"
-    type: article
-    provider:
-      name: pocketnow.com
-      domain: pocketnow.com
-    quality: 39
-    images:
-      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/11/Google-Wildfire-Flood-Speech-Creator.jpeg"
-        width: 1921
-        height: 1080
-        isCached: true
   - title: "Google: Well Positioned To Continue Benefiting From AI"
     excerpt: "YouTube uses machine learning to optimize how many times a viewer sees an ad from a given company. See why the stock is a Buy for long-term investors."
     publishedDateTime: 2022-10-30T13:01:00Z

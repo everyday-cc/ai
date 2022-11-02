@@ -1,11 +1,14 @@
 ---
 category: news
 title: "3 ways that Amazon's advertising business is becoming as dominant as Google's"
-excerpt: "In another example, advertisers can use AWS' machine-learning platform SageMaker to create algorithms to find customers and zap them with ads across the open web. Amazon lets you track if someone bought a product off Amazon Paula Despins, VP of ads ..."
-publishedDateTime: 2022-10-31T14:41:00Z
-originalUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
-webUrl: "https://www.businessinsider.com/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
+excerpt: "Amazon's rights to air the NFL's \"Thursday Night Football\" has given it an advertising forum that other digital giants like Google don't have."
+publishedDateTime: 2022-10-31T09:00:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
+webUrl: "https://markets.businessinsider.com/news/stocks/amazons-ad-business-is-starting-to-look-like-google-analysis-2022-10"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: Business Insider
@@ -19,6 +22,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "PZAY7LB2J3kab3zg4f0SvICZ5vwZDWJ2HR/GhNEyDF5qGZ4AemX2vj/YmoOXd30o/bAFQXlZ5Z3F6ULhDMSxSnhfnUcYGOhhwLM/D7HZ5mmYyCe8DCZYyFztInvWTpyW6Ocp911hYnJowlumcC7iGuLRThlkm5p8851DczPtQlB/flcve8mOHtol+MJGKlHSYNuLo2oo0yDGXftDr14OBEPfkACO3CK9p13x5ASSjPXhW9L7x/9brJmVkMv5lPGtpTNB5O2rQWUJutUyLcc0u9a2yAWoZPQ0e//Jczd4RM2r6snYwF6jfqtAuqJU5Ljhqp2Cd5EZ9CN5oY4K33s35Uw1ru8zkTYZm+ucEJD90De/nxshu+xjhPaUSCu4v4wd3ChlGNQlYqPr77ZffaBZtROybObv33/rXdSjdKBiR7BsfBkZoegrwp2qmV8feDu6Kjq9Z0ZAbBZTXHnoQ0cAwWmwXz+x5cKPHkTeLXMWGBPvP9fWfdVJWGDvdjB98vjqJiZqzJi2yTL70BziaW0O8A==;rSpYTQp6MaXqWUn6DKB3Fg=="
+images:
+  - url: "https://i.insider.com/635c293d3e1cce00181b8939?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
+
+secured: "pwyR2q5a1W2DsIMIWrs1qci78F84kxsLXIJaVaiDdjN2yk7TbuGso44hv352TrJpp1aWCGJd7MDhHUo7XWrQ7p3gZV1Cq5LlV8osxkfLluJcJJ2DbD9fkrmmqx0lQnITqNu8ebhcq6z1XB3pEgYpz0yUGp10z1WW9pV2K0JMp3hIYbw68zgJa4jz8yuqqKi+o8RB5oLJ8g9JS7X4VM7VDVJNVIZvzYCklST5AEi0geihcMqJXZIHODT2Mcq+ZIZViqKVyUMlQOhAjyTlLtW+eXH8HtQf36hofuz49TC8wkr+7EP2TA1Mqyg7WVPzwaKFmrZds7pC4Z620o4j7ZqkopG46cMTPnWn+E4f/I3PQDk=;TJ0XjIBRdPGBYppHwBLZag=="
 ---
 

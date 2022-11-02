@@ -29,12 +29,28 @@ images:
     isCached: true
 
 related:
+  - title: "Google makes massive commitment to support more languages using AI"
+    excerpt: "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages."
+    publishedDateTime: 2022-11-02T21:05:00Z
+    webUrl: "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768"
+        width: 768
+        height: 432
+        isCached: true
   - title: "Google announces AI advances in text-to-video, language translation, more"
     excerpt: "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation."
-    publishedDateTime: 2022-11-02T15:01:00Z
-    webUrl: "https://venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/"
-    ampWebUrl: "https://venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
+    publishedDateTime: 2022-11-02T16:49:00Z
+    webUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/"
+    ampWebUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
     type: article
     provider:
       name: VentureBeat
@@ -45,31 +61,50 @@ related:
         width: 1200
         height: 676
         isCached: true
-  - title: "Brain Corp Introduces Third Generation AI Autonomy Platform to Power the Next-generation of Autonomous Commercial Robots"
-    excerpt: "Brain Corp, an artificial intelligence (AI) company creating transformative core technology in robotics, today announced the launch"
-    publishedDateTime: 2022-11-02T15:00:00Z
-    webUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/"
-    ampWebUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 49
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
     images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Brain-Corp-Introduces-Third-Generation-AI-Autonomy-Platform-to-Power-the-Next-generation-of-Autonomous-Commercial-Robots.jpg"
-        width: 700
-        height: 400
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+        width: 2880
+        height: 1920
         isCached: true
-  - title: "Meta touts AI that translates spoken-only language"
-    excerpt: "Meta billed the work at its Universal Speech Translator project as an effort to enable users from around the world to socialise regardless of the languages they speak."
-    publishedDateTime: 2022-10-31T08:52:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/meta-touts-ai-that-translates-spoken-only-language-90efe196-278b-46bf-94ca-412dd66c303e"
+  - title: "How Google uses AI to solve modern day problems"
+    excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
+    publishedDateTime: 2022-11-02T14:57:00Z
+    webUrl: "https://pocketnow.com/how-google-uses-ai-solve-modern-day-problems/"
     type: article
     provider:
-      name: Independent Online
-      domain: iol.co.za
-    quality: 34
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/11/Google-Wildfire-Flood-Speech-Creator.jpeg"
+        width: 1921
+        height: 1080
+        isCached: true
+  - title: "Using Artificial Intelligence To Help Prevent Suicide"
+    excerpt: "Future suicide prevention efforts could be improved by artificial intelligence. The loss of any life is devastating, but the loss of life due to suicide is exceptionally saddening. Suicide is the primary cause of mortality for Australians aged 15 to 44,"
+    publishedDateTime: 2022-11-02T14:17:00Z
+    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-help-prevent-suicide/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 39
+    images:
+      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Artists-Concept.jpg"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "JQnigOLcdl1mt6spUIkWro1hNrXEGMUZK88P7y0N+SWAcnzHaHru133rcWRuJ2e/dXCpAigrXipCWExdrtDtO1xX4iECUy1BPbPCT2Yv0U3H9QDDxVxe7TT5rgSvc1NpO2h1VwbI3M6UIAdOGT9UUj4RKqTXI/13K8rdO8KJDbla2tXTydwpWXs1xYoFQyqxPRRrKA/vpeY+dbsp7DJPYEFnVxT6rXETXPf1c6F+norDfSOqRI1O+IqmErkYIC+5XqVilIo+KcqoMMLyfkyT0U0VS8WiPCnkqp2NEJx2y1mY3lbIOByF4Od5ENZr5FgymjoAkmYQycwKbB2RtIAweZLjPS0LntTfU6edilva+QxlTlhUef2vHLEJgULrE8e/4QSKID3nBhMm+DSoQJxip7Rfuvlb/CgoNOLNBREhaxLjf5KGTnqUgjcp1myN6vIGMUK+YLM5/mXio03vDPCbR2UMaNupw9ZJuO/zvWfb7VMmLeOcZqVDziycYIgpMAG0cM8iApQUq7QSHiQt/Lv/WQ==;h8mI4hWHl4khtQYBKweg6w=="
 ---

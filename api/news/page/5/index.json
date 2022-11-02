@@ -2,6 +2,215 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-10-27-how-technology-is-helping-solve-healthcare-challenges.md",
+      "title": "How Technology Is Helping Solve Healthcare Challenges",
+      "excerpt": "In this article, I'll talk about some of the biggest problems in healthcare and how technology is being used to help solve them, which I hope will inspire you in your own business uses. Let's get going!",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62bc54b6d9785913bcd547b5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/how-technology-is-helping-solve-healthcare-challenges/amp/",
+      "publishedDateTime": "2022-10-27T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-why-personalization-is-still-missing-from-ai-interactions.md",
+      "title": "Why Personalization Is Still Missing From AI Interactions",
+      "excerpt": "Artificial intelligence has the potential to transform our lives for the better, leading to leaner businesses and happier customers. But our interactions are missing a core element.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63593ae0a07752e0803671f1/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/10/27/why-personalization-is-still-missing-from-ai-interactions/amp/",
+      "publishedDateTime": "2022-10-27T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-could-you-get-paid-to-do-ai-safety-research-and-should-you.md",
+      "title": "Could You Get Paid To Do AI Safety Research – And Should You?",
+      "excerpt": "A few years ago he began experimenting with deep learning, the type of AI which has dominated the field since the Big Bang in 2012, when a team led by Geoff Hinton achieved startling results in an image recognition ... Some people object that this subject ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "originalUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63598fa6d32ba318a208fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 922,
+          "height": 1518,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/calumchace/2022/10/27/could-you-get-paid-to-do-ai-safety-research--and-should-you/amp/",
+      "publishedDateTime": "2022-10-27T03:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-10-27-ford-cant-afford-other-bets-like-driverless-cars.md",
+      "title": "Ford Can’t Afford Other Bets Like Driverless Cars",
+      "excerpt": "Ford’s decision to reverse out of the driverless-taxi business shows a laudable focus on delivering tangible products—but also the company’s financial weakness relative to crosstown rival ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
+      "originalUrl": "https://www.wsj.com/articles/ford-cant-afford-other-bets-like-driverless-cars-11666861656",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-652054/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-27T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-exclusive-tesla-faces-us-criminal-probe-over-self-driving-claims.md",
       "title": "Exclusive: Tesla faces U.S. criminal probe over self-driving claims",
       "excerpt": "The U.S. Department of Justice launched the probe last year following more than a dozen crashes, some fatal, involving Tesla’s driver assistance system Autopilot, people familiar with the matter say.",
@@ -365,6 +574,58 @@
       ]
     },
     {
+      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
+      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
+      "excerpt": "Volkswagen disclosed a $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup, in June 2020. The investment meant the startup was jointly controlled by the German carmaker ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-26T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-27-uaes-minister-for-artificial-intelligences-praise-for-jaishankar.md",
       "title": "UAE’s Minister for Artificial Intelligence’s praise for Jaishankar",
       "excerpt": "Omar Sultan Al Olama, Minister of State for Artificial Intelligence, United Arab Emirates virtually joined in CyFY2022 organised by Observer Research Foundation (ORF) on October 26. While commenting on managing UAE’s geo-political headwinds,",
@@ -404,58 +665,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
-      "title": "Volkswagen no longer investing in self-driving startup Argo AI",
-      "excerpt": "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/IC2DJmOX2A34sv3TYtdL6tZVSIk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ZHFHVETGVLZZEMTIDAINVACTQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T12:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     },
     {
@@ -1045,203 +1254,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs.md",
-      "title": "AI Risk Management: A Prerequisite For Sustainable Growth Of AI Programs",
-      "excerpt": "The comprehensive implementation of AI risk management will be essential for the long-term success of AI initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f738e134c7d1497b6a92fd7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 856,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/10/26/ai-risk-management-a-prerequisite-for-sustainable-growth-of-ai-programs/amp/",
-      "publishedDateTime": "2022-10-26T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-vleeschhouwer-microsoft-cloud-computing-services-are-growing.md",
-      "title": "Vleeschhouwer: Microsoft cloud computing services are growing",
-      "excerpt": "Jay Vleeschhouwer, Managing Director of Software Research at Griffin Securities, joins Worldwide Exchange to discuss Microsoft's Q1 ... info about our products and services. ©",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "originalUrl": "https://www.cnbc.com/video/2022/10/26/vleeschhouwer-microsoft-cloud-computing-services-are-growing.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-microsofts-end-to-end-arm-development-environment-is-here-at-last.md",
-      "title": "Microsoft’s end-to-end Arm development environment is here at last",
-      "excerpt": "It’s just in time, too, as the latest generation of Surface devices puts Microsoft’s Qualcomm-based SQ3 processor in the same hardware as Intel’s i7. What’s perhaps most interesting about Microsoft’s Arm focus is its link to building machine learning–driven applications into Windows.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "originalUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/08/25/16/istock-1368001929-100931622-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3677773/microsofts-end-to-end-arm-development-environment-is-here-at-last.amp.html",
-      "publishedDateTime": "2022-10-26T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-26-the-best-travel-agent-is-an-ai-algorithm.md",
-      "title": "The best travel agent is an AI algorithm",
-      "excerpt": "By tapping into petabytes of data, Expedia's AI and ML models know more about your travel preferences than any human ever could.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "originalUrl": "https://www.zdnet.com/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c5e34ad19d5fe93e13b48192470c5760a552f80f/2021/09/13/cb8e3919-d9cc-43c3-a95a-219d546bdd98/greece-laptop.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-best-travel-agent-is-an-ai-algorithm/",
-      "publishedDateTime": "2022-10-26T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

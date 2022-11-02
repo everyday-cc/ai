@@ -50,6 +50,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Argo AI shutdown surprises tech community"
+    excerpt: "Argo AI LLC’s shuttering last month brought Pittsburgh’s innovation scene to a yet-to-be-seen reality amid the backdrop of a national tech downturn. The autonomous vehicle startup’s closure led to the termination of nearly 700 jobs throughout the ..."
+    publishedDateTime: 2022-11-02T19:49:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/02/argo-ai-shutdown-wake-up-pittsburgh-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "/ZvL8GDjKuH4Fju9rMy5VbASOjqLDtHx5Dm6qodiQzBGICac+CYU+9lq9/8XOvOYR6Kp95DyrMg9N0IkPmsmWZnHNgrCjZWvLGm3a8N75YpPPgDVQ5vy2r8c3jV0y5YZRkKwbPc/FU1Sb55G6eYBfgKgEyaoa5yLvdcXPfG0QAj2RyHO1t7RDp7szEcATmkEGC2yjgn4a1FMu2eExswQ1phGlfOIgr4uofbv41ElumSHgRZx0+JmwNXrqfiUKSzssjr4p2ggqHxtgR6KBGwn4ox5+rcKUl+zREAJW6ir2pcGsCG5U19eg2Gj+z5BVtmZqgLLjcGZ4Bhl32N48FNyn+LiIaf/mAi1sxTiXiBehXc=;YhkRSreGFDbpL6jmm2sLlw=="
 ---

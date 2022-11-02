@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T18:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/g29530273/unissant-awarded-visualization-services-domain-on-the-ice-swift-idiq"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/g29530273/unissant-awarded-visualization-services-domain-on-the-ice-swift-idiq"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Benzinga.com

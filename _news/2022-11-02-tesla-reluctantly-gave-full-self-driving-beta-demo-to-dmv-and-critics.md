@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driv
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/amp/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -86,6 +86,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
+  - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
+    excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
+    publishedDateTime: 2022-11-02T19:17:00Z
+    webUrl: "https://www.autoblog.com/2022/11/02/tesla-full-self-driving-demonstration-california-dmv-critics/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 30
 
 secured: "y7a0v7B2J/kg9nJmb9lFIRjGhZ8ofiA9UeLDeBwVKkTmsGIPouryCAPSo3kGR6GFnWXtas9fYSWB3w5JxKFx42epVnD8NzSM0cixw3wDAh/XFG4rx7EUl+aUgXwwwSWLsffR5qtf2XWEZ6C948S675UPl9/jSFFR0tJUtJE1LGJ6osOKv2UvMHkGMh9oTIQKjtuogr/Io6Iqegk/NZ5aQSBT4rhLD7KVtlik/9Os5WDhNcG4VqGOrm0s0FOJDyGL3TXqykUM5GtZwBGuMdNNu8aWNS+X1VevLCt1RPTbYHneSAl/V/OKZ0sEGEg9GNJmR4FsMdqhVRLVq7XK7IdSfS0wakMTuiZw5yzLkM7PsrSYL4z/JhLOQixmlbhq/P3OUG/8a1gwWMmH70fkYlucZfHX19GbCD7zA6D7vxUucPqYwwziocGHJ7KgwpQBVU+ME4vLqwcdVT6Lrl2FMbxvRRi3XLnkPjtYPiyTBNzHrkanuGNtI3OdmuTgAksk+dAN47pg98MHuB/s8cd79Bpnqw==;ABBxmbSvt4pdhQmd3YE69A=="
 ---

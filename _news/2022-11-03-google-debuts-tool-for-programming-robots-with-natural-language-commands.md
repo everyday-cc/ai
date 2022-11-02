@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T18:02:00Z
 originalUrl: "https://siliconangle.com/2022/11/02/google-debuts-tool-programming-robots-natural-language-commands/"
 webUrl: "https://siliconangle.com/2022/11/02/google-debuts-tool-programming-robots-natural-language-commands/"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: SiliconANGLE

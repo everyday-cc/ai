@@ -38,7 +38,7 @@ related:
     provider:
       name: techxplore
       domain: techxplore.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2020/microsoft.jpg"
         width: 1920

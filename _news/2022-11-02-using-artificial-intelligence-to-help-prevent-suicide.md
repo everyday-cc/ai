@@ -25,33 +25,82 @@ images:
     isCached: true
 
 related:
-  - title: "How we're using AI to help address the climate crisis"
-    excerpt: "Communities around the world are facing the effects of climate change — from devastating floods and wildfires to challenges around food security. As global leaders meet in Egypt for COP27, a key area of focus will be on how we can work together to adapt to climate change and implement sustainable solutions."
-    publishedDateTime: 2022-11-02T13:00:00Z
-    webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
+  - title: "Google makes massive commitment to support more languages using AI"
+    excerpt: "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages."
+    publishedDateTime: 2022-11-02T21:05:00Z
+    webUrl: "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 69
-  - title: "Temple Health using AI to reduce cost of care"
-    excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
-    publishedDateTime: 2022-11-01T16:26:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/temple-health-using-ai-to-reduce-cost-of-care.html"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768"
+        width: 768
+        height: 432
+        isCached: true
+  - title: "Google announces AI advances in text-to-video, language translation, more"
+    excerpt: "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation."
+    publishedDateTime: 2022-11-02T16:49:00Z
+    webUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/"
+    ampWebUrl: "https://venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
-  - title: "Use artificial intelligence to combat climate change"
-    excerpt: "AI can improve weather predictions, improve carbon capture solutions, make transportation more efficient and less detrimental to the environment"
-    publishedDateTime: 2022-10-31T13:01:00Z
-    webUrl: "https://mg.co.za/opinion/2022-10-31-use-artificial-intelligence-to-combat-climate-change/"
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 88
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/11/20221102_090648-e1667396070796.jpg?w=1200&strip=all"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "Google plans giant AI language model supporting world’s 1,000 most spoken languages"
+    excerpt: "Language and AI have arguably always been at the heart of Google’s products, but recent advances in machine learning — particularly the development of powerful, multi-functional “large language models” or LLMs — have placed new emphasis on these ..."
+    publishedDateTime: 2022-11-02T14:55:00Z
+    webUrl: "https://www.theverge.com/2022/11/2/23434360/google-1000-languages-initiative-ai-llm-research-project"
     type: article
     provider:
-      name: Mail & Guardian
-      domain: mg.co.za
-    quality: 17
+      name: The Verge
+      domain: theverge.com
+    quality: 63
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/cNoomRuh33Zv6z7NntjAlAX-DBM=/0x263:1964x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/11526929/acastro_180612_2664_0001.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "Google wants AI in one thousand languages"
+    excerpt: "Google on Wednesday said it wanted to develop artificial intelligence using the world's one thousand most spoken languages as tech giants compete to dominate the internet's next battleground."
+    publishedDateTime: 2022-11-02T20:08:00Z
+    webUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.html"
+    ampWebUrl: "https://techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-google-ai-thousand-languages.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/languages-2.jpg"
+        width: 2880
+        height: 1920
+        isCached: true
+  - title: "How Google uses AI to solve modern day problems"
+    excerpt: "Using this, Google plans to improve its products, such as YouTube, GBoard, and Translate, and make it easier for people to find relevant information in their native language. In addition to supporting 1,000 languages, Google says it will use its AI to ..."
+    publishedDateTime: 2022-11-02T14:57:00Z
+    webUrl: "https://pocketnow.com/how-google-uses-ai-solve-modern-day-problems/"
+    type: article
+    provider:
+      name: pocketnow.com
+      domain: pocketnow.com
+    quality: 39
+    images:
+      - url: "https://static1.pocketnowimages.com/wordpress/wp-content/uploads/2022/11/Google-Wildfire-Flood-Speech-Creator.jpeg"
+        width: 1921
+        height: 1080
+        isCached: true
 
 secured: "U4lAUK2mqAwABs46U4LVnNxQtDPw2QkW+D8AH2VsWvGKDz8QrMQuzVkwLZf8eFZ6KyIAe1evU8Iu9ogQsISrYb6dpMgAoSP9yBxvcqVrIVGLhdISqe/Z11ETbDwpsmK4ChPXpcObafnOfotutS7/qbGQxYU9eAkCx4EfRlY2vw2/8rmuzY1hSserXhm5toYesbJVdXH0/qH31dvgeoAxI8WiLbh9gQjPyC5bRKYjlZKbg0FWRAb99TzT6w16KNgjTZg2b3IPe3CBdjVI11pPaLl7Y/4pdaCQ5D6SRDV1Y3wnIgpM9ZDub8MMUvT+PLVvgrxcMQcYFOgEgJK4LS0q5BEbPO/ndM2ywVCeIqvoXus91zunZhB+LAHl3iVmlnXfXFO8M+g6letjbUG71l6vmkaXg94YRaMOIN+tdcd1bdo/dera5jpELr2ZNrV5GR+SH7gMnI/9biYLJdPq5K46njdJWgYA/lEUARzdbt277nSyBj+vp8CQsnmTDCKS7iyr3t+ySbDG0neeLoi1hCXWXg==;jnWQu4cyCPyEmUZuSB0zXw=="
 ---

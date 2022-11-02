@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T17:30:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/11/n29529054/novelist-pj-caldas-launches-the-worlds-first-book-trailer-entirely-made-by-generative-artificial-i"
 webUrl: "https://www.benzinga.com/pressreleases/22/11/n29529054/novelist-pj-caldas-launches-the-worlds-first-book-trailer-entirely-made-by-generative-artificial-i"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Benzinga.com

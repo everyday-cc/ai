@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T23:02:00Z
 originalUrl: "https://www.azfamily.com/2022/11/01/sky-harbor-set-become-first-airport-worldwide-offer-waymos-self-driving-service/"
 webUrl: "https://www.azfamily.com/2022/11/01/sky-harbor-set-become-first-airport-worldwide-offer-waymos-self-driving-service/"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: AZFamily

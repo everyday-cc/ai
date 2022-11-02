@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T19:06:00Z
 originalUrl: "https://www.eweek.com/enterprise-apps/eweek-tweetchat-building-your-ai-deployment/"
 webUrl: "https://www.eweek.com/enterprise-apps/eweek-tweetchat-building-your-ai-deployment/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: eWeek

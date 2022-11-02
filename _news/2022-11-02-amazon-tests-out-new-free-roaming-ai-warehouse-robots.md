@@ -6,8 +6,8 @@ publishedDateTime: 2022-11-02T16:05:00Z
 originalUrl: "https://techreport.com/software/3483104/amazon-tests-out-new-free-roaming-ai-warehouse-robots/"
 webUrl: "https://techreport.com/software/3483104/amazon-tests-out-new-free-roaming-ai-warehouse-robots/"
 type: article
-quality: 34
-heat: 34
+quality: 36
+heat: 36
 published: false
 
 provider:

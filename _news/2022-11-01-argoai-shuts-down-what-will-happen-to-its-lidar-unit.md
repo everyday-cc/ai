@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/amp/"
 type: article
 quality: 87
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
+  - title: "Argo AI shutdown surprises tech community"
+    excerpt: "Argo AI LLC’s shuttering last month brought Pittsburgh’s innovation scene to a yet-to-be-seen reality amid the backdrop of a national tech downturn. The autonomous vehicle startup’s closure led to the termination of nearly 700 jobs throughout the ..."
+    publishedDateTime: 2022-11-02T19:49:00Z
+    webUrl: "https://www.bizjournals.com/pittsburgh/inno/stories/Inno-insights/2022/11/02/argo-ai-shutdown-wake-up-pittsburgh-tech.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 17
 
 secured: "VvFSxoPpZtrxIiuSsZW5ggg+BtRR/xpBX32JrJohKwom4A1/iSNkiEb0PYcU9IWWdWnWx7ZpZ8Uq3lsIYpnUUpc9TjW19dJTL4GI2Bx41QxRtlmn7zs01DUB+hDTQmZ0LUxz0dQzY7GMYZDB9LkF0yvvBjxrM9lb6b2k0ILOKQZCCqupVv4PQy3oMGhmoTUAEqh4gZGgBcSkgkgKH6JMfcddru8DFKDCdGby6JX5Hn3yxkeAqYyUCpmWyTmtel5mcyfeEWsJ6jtITSWRF+W7fGy9Ea0gI3mw++Rpt1+v2X2uf8TP+ocq7TS03tgyERznk5RyaVyjKKj9XmFyhl6pAzLxc90boK5pYJ899siV57nuzRn7WwS+o0YMR3IrTscuQsuovRuIl1byjCqI7+8latmp5fAJDNx0e1QO4eBZl5JfEM7gsPCbE6Mqq1WDjSJ24cnnj4xu2ZiAGwPc4t7hFtGgZGh9ZBf4M8KAYZNKNRYP8y85rZ68AKufvVTfhbhUtWwo5DjYslGDyIjzgRNBlw==;4vCdj55S3ZH6eF8Gd7Q5Bg=="
 ---

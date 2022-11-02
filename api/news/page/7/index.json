@@ -2,6 +2,215 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-10-25-perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic.md",
+      "title": "Perceptron: AI saving whales, steadying gaits and banishing traffic",
+      "excerpt": "In this edition of TechCrunch's Perceptron column, we look at efforts to track Parkinson's progression, stop whale-boat collisions, and more.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
+      "originalUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/10/MIT-Monitoring-Parkinsons-01-PRESS.jpg?resize=1200,800",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/10/25/perceptron-ai-saving-whales-steadying-gaits-and-banishing-traffic/amp/",
+      "publishedDateTime": "2022-10-25T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints.md",
+      "title": "Run multiple deep learning models on GPU with Amazon SageMaker multi-model endpoints",
+      "excerpt": "As AI adoption is accelerating across the industry, customers are building sophisticated models that take advantage of new scientific breakthroughs in deep learning. These next-generation models allow you to achieve state-of-the-art, human-like performance in the fields of natural language processing",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-multiple-deep-learning-models-on-gpu-with-amazon-sagemaker-multi-model-endpoints/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/10/25/ML-9791-image001.jpg",
+          "width": 1540,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T08:45:28-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview.md",
+      "title": "Image Analysis 4.0 with new API endpoint and OCR model in preview",
+      "excerpt": "We are thrilled to announce the preview release of Computer Vision Image Analysis 4.0 which combines existing and new visual features such as read optical character recognition (OCR), captioning, image classification and tagging, object detection, people detection, and smart cropping into one API.",
+      "sourceUrl": null,
+      "webUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
+      "originalUrl": "https://azure.microsoft.com/blog/image-analysis-40-with-new-api-endpoint-and-ocr-model-in-preview/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/40891cd5-f29f-4347-b667-e888bdd67b0e.png",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-10-25T08:10:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials.md",
+      "title": "Vitamin-powered batteries: how ‘self-driving’ labs are using AI to develop remarkable new materials",
+      "excerpt": "It can take many years for a new substance to get from a successful lab experiment to a solution ready to roll out across the world. But AI can be used to sidestep this bottleneck",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "originalUrl": "https://www.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/26b842453095a3ed54f895bad5493df2a6fec192/0_240_3600_2160/master/3600.jpg?width=620&quality=85&auto=format&fit=max&s=aac2bdbdbf137bae219f1e48acf93394",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/whats-next-ask-toronto/2022/oct/25/vitamin-powered-batteries-how-self-driving-labs-are-using-ai-to-develop-remarkable-new-materials",
+      "publishedDateTime": "2022-10-25T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-10-25-microsoft-focuses-on-productivity-and-workflows-with-ai-automation-and-collaborative-tools-at-ignite-2022.md",
       "title": "Microsoft Focuses On Productivity And Workflows With AI Automation And Collaborative Tools At Ignite 2022",
       "excerpt": "Microsoft held its annual developer event, Microsoft Ignite, where it announced many new features, services, and tools for its ecosystem of developers and IT professionals. Today, Patrick wants to cover the announcements that stuck out to me the most.",
@@ -103,6 +312,40 @@
       "topics": [
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
+      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
+      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/10/b29397500/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-serv",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/29397500",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/29397500",
+      "publishedDateTime": "2022-10-25T06:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -371,58 +614,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-10-25-korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers.md",
-      "title": "Korean Company Upstage Launches Leading OCR Pack Enterprise AI Platform Powered by Inspur GPU Servers",
-      "excerpt": "AI Pack is a total AI solution that provides all ... a 200Gb/s InfiniBand network interconnection within and across multiple GPU clusters maximizes computing, data access, and communication ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
-      "originalUrl": "https://www.marketwatch.com/press-release/korean-company-upstage-launches-leading-ocr-pack-enterprise-ai-platform-powered-by-inspur-gpu-servers-2022-10-25",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-25T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -968,196 +1159,6 @@
         "AI Hardware",
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-holiday-2022-robot-vacuum-buying-guide-the-best-robot-vacuums-to-gift-this-year-according-to-reviewers.md",
-      "title": "Holiday 2022 robot vacuum buying guide: The best robot vacuums to gift this year, according to reviewers",
-      "excerpt": "Not sure where to begin when buying a robot vacuum? Find the best robot vacuums for the 2022 holiday season with this gift guide. Samsung Jet Bot+ robot vacuum with clean station, $732 (reduced from $800) iRobot Roomba j7+ self-emptying robot vacuum with Braava Jet M6 robot mop,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "originalUrl": "https://www.cbsnews.com/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/09/29/d0146d7a-e3ca-4549-a180-82b71f490e80/thumbnail/1200x630/17e034c21993177d93992b72a8924677/roomba-holiday-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/holiday-2022-robot-vacuum-buying-guide-dont-shop-before-you-read-this/",
-      "publishedDateTime": "2022-10-24T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-1-in-10-americans-over-65-have-dementia-study-finds.md",
-      "title": "1 in 10 Americans over 65 have dementia, study finds",
-      "excerpt": "One in 10 Americans over 65 had dementia, while 22% experienced mild cognitive impairment, the earliest stage of the slow slide into senility, according to a new study conducted between 2016 and 2017.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221021141210-elderly-person-holding-hands-with-younger-person-stock-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/24/health/dementia-cognitive-decline-wellness/index.html",
-      "publishedDateTime": "2022-10-24T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-d-wave-quantum-launches-in-aws-marketplace.md",
-      "title": "D-Wave Quantum Launches in AWS Marketplace",
-      "excerpt": "D-Wave Quantum Inc. - a leader in quantum computing systems, software, and services, and the only quantum computing company building both annealing and gate-model quantum computers - announced that it has launched in AWS Marketplace,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
-      "originalUrl": "https://www.bctechnology.com/news/2022/10/24/D-Wave-Quantum-Launches-in-AWS-Marketplace.cfm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bctechnology.com/tmp/social/news/tw/9340EBC648B62D55FB18AB88AAA8FECD7AF4BBAF66A239716A48991BC2E294AA.png?1667260844",
-          "width": 600,
-          "height": 335,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "T-Net",
-        "domain": "bctechnology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-24-fact-check-did-ai-predict-humans-evolving-into-cyborgs-in-viral-video.md",
-      "title": "Fact Check: Did AI Predict Humans Evolving into Cyborgs in Viral Video?",
-      "excerpt": "Artist Fabio Comparelli responded to the social media hype surrounding his work, which some claim showed the demise of humanity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
-      "originalUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.newsweek.com/en/full/2138844/evolution-ai.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
-      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/newsweek-com-fact-check-ai-predict-humans-evolving-cyborgs-viral-video-1754257?amp=1",
-      "publishedDateTime": "2022-10-24T08:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Newsweek",
-        "domain": "newsweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

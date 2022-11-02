@@ -10,7 +10,7 @@
       "originalUrl": "https://www.theverge.com/2022/11/2/23435258/google-ai-writing-wordcraft-lamda",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 79,
       "tags": null,
       "images": [
         {
@@ -54,6 +54,49 @@
       ]
     },
     {
+      "path": "_news/2022-11-02-honda-develops-ai-self-driving-technology.md",
+      "title": "Honda develops AI self-driving technology",
+      "excerpt": "Honda Motor says it is developing an AI self-driving system that uses cameras to help the vehicle better recognize its surroundings. This is the company's latest step toward putting autonomous driving technology into commercial use.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221102_36/",
+      "originalUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221102_36/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www3.nhk.or.jp/nhkworld/upld/thumbnails/en/news/20221102_36_1179612_L.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www3.nhk.or.jp/nhkworld/en/news/20221102_36/amp.html",
+      "cdnAmpWebUrl": "https://www3-nhk-or-jp.cdn.ampproject.org/c/s/www3.nhk.or.jp/nhkworld/en/news/20221102_36/amp.html",
+      "publishedDateTime": "2022-11-02T04:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NHK",
+        "domain": "nhk.or.jp",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-tesla-reluctantly-gave-full-self-driving-beta-demo-to-dmv-and-critics.md",
       "title": "Tesla reluctantly gave Full Self-Driving Beta demo to DMV and critics",
       "excerpt": "Tesla reluctantly gave a Full Self-Driving Beta demonstration to the California DMV and some critics that the automaker didn't want present.",
@@ -62,7 +105,7 @@
       "originalUrl": "https://electrek.co/2022/11/02/tesla-reluctantly-gave-full-self-driving-beta-demo-dmv-critics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 139,
       "tags": null,
       "images": [
         {
@@ -1443,49 +1486,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-23-driverless-car-quest-has-made-a-bonfire-out-of-75-billion.md",
-      "title": "Driverless car quest has made a bonfire out of $75 billion",
-      "excerpt": "Autonomous vehicle companies and suppliers have collectively spent around $75 billion developing self-driving technology, with scant sign of meaningful revenue emerging from robo-car services ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "originalUrl": "https://www.autoblog.com/2022/10/22/self-driving-car-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://s.yimg.com/os/creatr-uploaded-images/2022-10/1181fb60-5153-11ed-b7d7-2a25405a846d",
-          "width": 1062,
-          "height": 597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/10/22/self-driving-car-costs/",
-      "publishedDateTime": "2022-10-22T10:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

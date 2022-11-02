@@ -691,13 +691,13 @@
     {
       "path": "_news/2022-10-27-volkswagen-no-longer-investing-in-self-driving-startup-argo-ai.md",
       "title": "Volkswagen no longer investing in self-driving startup Argo AI",
-      "excerpt": "Volkswagen AG is no longer investing in Argo AI, the company said on Wednesday, concentrating its automated driving efforts on its existing partnerships with Bosch and Horizon Robotics in China.",
+      "excerpt": "Volkswagen disclosed a $2.6 billion investment in Argo AI, the Pittsburgh-based self-driving startup, in June 2020. The investment meant the startup was jointly controlled by the German carmaker ...",
       "sourceUrl": null,
       "webUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
       "originalUrl": "https://www.reuters.com/business/autos-transportation/volkswagen-no-longer-investing-self-driving-startup-argo-ai-2022-10-26/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -713,7 +713,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-26T12:15:00-07:00",
+      "publishedDateTime": "2022-10-26T13:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Reuters",
@@ -736,8 +736,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Robotics"
+        "AI in Robotics",
+        "AI"
       ]
     },
     {

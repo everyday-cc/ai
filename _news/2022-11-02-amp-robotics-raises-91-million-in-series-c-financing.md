@@ -18,6 +18,17 @@ topics:
   - AI in Robotics
   - AI
 
+related:
+  - title: "AMP Robotics Raises $91 Million in Series C Financing"
+    excerpt: "AMP Robotics Corp. (“AMP”), a pioneer in artificial intelligence (AI), robotics, and infrastructure for the waste and recycling industry, has raised $91 million in corporate equity in a Series C financing,"
+    publishedDateTime: 2022-11-02T19:13:00Z
+    webUrl: "https://www.afp.com/en/news/1314/amp-robotics-raises-91-million-series-c-financing-202211020052091"
+    type: article
+    provider:
+      name: AFP
+      domain: afp.com
+    quality: 49
+
 secured: "zkgeVgyfjWLIfp5AZynd8puxZjfDuNzkI3Z/zTSFkyHbaE1PVsLyteDdQTGTQ3s7BhUr5j3xrKee6G+zAb++C1PwAlQrBNxC+eWsZUN/0SwY3ljharCLvRWpxLqNSIROTNRJwxWOqGWqUuObzttEcbso/H8GLrbvJjmu+rZfv9njaYQAK1MV7LlwPLGKkr80DUJj7QC6TTaRy51c9hHisjdszbL+coufU9+WEF2ArWmnvBCAkimgv01WSkW7t+TfEc8dbUtC4tsJAfCDnvi2ovhCUf8OTrFPywKn35UqPekZkFlD+4TActf3vaLb8qIWuRlTBy3frS0a4jyFvY96gK5RshvdU/rhyNtyyn6MWanCiC7V6ovpTPAuHHCyrgZGd1JtUcw2D9VtNOO6/1jmWog3Uzp3WtY+IlUQhkNQl5f/fUq9/OiZQ5dCQWJ+w1gvzvUrsemzKR/lSZM7rcj3uasbMMt5z0HrHFdHhqwLnMweA8AJN6k4BAd50OjiShxwECrjvXROAgUi7pGyWANSCQ==;y9Kz5GvrkDipXl04kOnEtA=="
 ---
 

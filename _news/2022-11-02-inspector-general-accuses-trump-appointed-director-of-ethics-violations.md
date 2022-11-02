@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-01T22:49:00Z
 originalUrl: "https://www.upi.com/Top_News/US/2022/11/01/inspector-general-architect-capitol-ethics/8581667340980/"
 webUrl: "https://www.upi.com/Top_News/US/2022/11/01/inspector-general-architect-capitol-ethics/8581667340980/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: UPI

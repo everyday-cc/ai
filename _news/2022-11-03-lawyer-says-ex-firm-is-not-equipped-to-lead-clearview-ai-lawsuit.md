@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T18:36:00Z
 originalUrl: "https://www.reuters.com/legal/litigation/lawyer-says-ex-firm-is-not-equipped-lead-clearview-ai-lawsuit-2022-11-02/"
 webUrl: "https://www.reuters.com/legal/litigation/lawyer-says-ex-firm-is-not-equipped-lead-clearview-ai-lawsuit-2022-11-02/"
 type: article
+quality: 69
+heat: 69
+published: false
 
 provider:
   name: Reuters
@@ -17,7 +20,14 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
-secured: "yam8f87o8NQ0l0+EhsP3AEmYS4+B2nEZaHVMsA5TzoVk2O9lx2KnQwD5AbECL3I/lgRPYdZGBBa+Bgw9J9FOL434jjy1WPrMhJQsbjHZbLJJnsow420Hzq8JE0HOH0DOh4zCH1Ldw/duWqffpRtrfg/vJ2aNmN0DDjKSlRW+QHl9FnAIndOX2wCPiAjgAbNJza9+odIWDKDlLbifzUURtgbBwF+l2Qp1fsONZ4FkwwqZh+4pAz/P5+ejjiDsiSDP3XS1sgUjI7OEKz8X6p9aKAhdMfycdULSdk/MMFNnKVxuz9v2J8SMgSMoC4/IyY+Bq0i+uw+AV/VBOZHUiEnEsxOBPTvd5AVNFcbljG956cd6U2l5q9JRH0sQVlLROALhjV63y5ILNhvO5reLsfhSKqi+8LrOOHiNH8pDXDbtpaf1x6kGJLqHXAIpKbaaBZewq6QWPd8I/MKCac8UekytN8GP/wkQdc7AqBXRawcyuDhbRkiumsXeFReCcmD1m+VSQmQIz+hnmRbYMpjGu6xiLw==;HlpzZDuqF4x3lz2PQiNYtg=="
+images:
+  - url: "https://www.reuters.com/resizer/zonIoNdflG7aNovOi_YYDRgu2nQ=/728x381/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/TFDWWHSOVZOUPJDGMJBGAAFEF4.jpg"
+    width: 728
+    height: 381
+    isCached: true
+
+secured: "Gy0NcKKbAEG9yxXmjnzNEeAaPCv6hzRHryOpJTW9ETpGg+/ltlqk9SExIosyPvUMwQw0/Cq2atw2t8SXqh8hH3cIGMvPLrlka2YAolvd8AgWJvoNLOsvWBFTtWjRNVUBBGyvqCIhpjp8zb/GJUN+BVeZe+lwjPhQsmZEOpFei58svzcV7XT+X1wMmo3CzTlAzY78Kh2oT7NJaEXeFOBRRN+a0u1rDHRSHthVLra5Yk8K8bRxS8yziXe8uZzcwQwHAhnDK0U1NXTURs28qGPu4bwaXY4JOR4TGeJGb8IUGGpjI1jcHcP3w3iRU8Wy/QNFEaKvzRMm2aL7RpoZ9uqFZdP8HboCDA0vYE4ghIm2Yi0=;iPGGirOCcjndq3U44NrJdw=="
 ---
 

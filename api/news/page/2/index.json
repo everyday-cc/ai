@@ -2,6 +2,206 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-11-01-tokyo-begins-same-sex-partnership-recognition.md",
+      "title": "Tokyo begins same-sex partnership recognition",
+      "excerpt": "They often face discrimination at school, work and at home, causing many to hide their sexual identities. Still, many sexual minority couples say the partnership recognition will improve their daily lives, allowing them to rent apartments and sign ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
+      "originalUrl": "https://www.nbcnews.com/nbc-out/out-news/tokyo-begins-sex-partnership-recognition-rcna55041",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-11/221101-tokyo-same-sex-partnership-recognition-al-1035-0799ad.jpg",
+          "width": 2500,
+          "height": 1485,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna55041",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna55041",
+      "publishedDateTime": "2022-11-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges.md",
+      "title": "Startups across AWS Accelerators use AI and ML to solve mission-critical customer challenges",
+      "excerpt": "Relentless advancement in technology is improving the decision-making capacity of humans and enterprises alike. Digitization of the physical world has accelerated the three dimensions of data: velocity, variety, and volume. This has made information more widely available than before, allowing for advancements",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/startups-across-aws-accelerators-use-ai-and-ml-to-solve-mission-critical-customer-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/11/01/startups-across-aws.jpg",
+          "width": 1338,
+          "height": 669,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T08:05:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-revealed-the-worlds-top-female-scientists-in-2022.md",
+      "title": "Revealed: The World’s Top Female Scientists In 2022",
+      "excerpt": "There are some who object to focusing solely on female scientists ... the less likely it was that women would get recognition. And if these rankings help give female scientists the credit they deserve then that can send a very positive message about ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
+      "originalUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63610d25316980fb5908fd10/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nickmorrison/2022/11/01/revealed-the-worlds-top-female-scientists-in-2022/amp/",
+      "publishedDateTime": "2022-11-01T07:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-11-01-sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis.md",
+      "title": "SOPHiA GENETICS Partners with Microsoft to Accelerate Multimodal Health Data Analysis",
+      "excerpt": "The agreement is to expand and reinforce data-driven medicine through the SOPHiA DDM™ health data analysis platform available with Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/sophia-genetics-partners-with-microsoft-to-accelerate-multimodal-health-data-analysis-1031858654",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1935064/SG_Microsoft_Partnership.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-11-01T07:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-01-how-ai-and-machine-learning-quietly-went-mainstream.md",
       "title": "How AI And Machine Learning Quietly Went Mainstream",
       "excerpt": "Now that the novelty, and frankly, some of the fear factor, around AI has begun to fade, we’re entering a generation in which technology will just be better.",
@@ -209,7 +409,7 @@
       "originalUrl": "https://www.forbes.com/sites/sabbirrangwala/2022/10/31/argoai-shuts-downwhat-will-happen-to-its-lidar-unit/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1028,198 +1228,6 @@
         "AI",
         "Natural Language Processing",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.md",
-      "title": "Intel's new Data Center GPU Flex Series now supports TensorFlow acceleration",
-      "excerpt": "Intel adds its new Data Center GPU Flex Series to Pluggable Devices, something Intel is calling Intel Extension for TensorFlow, available right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html",
-      "originalUrl": "https://www.tweaktown.com/news/89240/intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tweaktown.com/news/8/9/89240_03_intels-new-data-center-gpu-flex-series-now-supports-tensorflow-acceleration.jpg",
-          "width": 620,
-          "height": 348,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-10-30T20:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TweakTown",
-        "domain": "tweaktown.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-10-31-todays-news-in-10-minutes.md",
-      "title": "Today’s news in 10 minutes",
-      "excerpt": "Click here to access the printable version of today’s CNN 10 transcript CNN 10 serves a growing audience interested in compact on-demand news broadcasts ideal for explanation seekers on the go or in the classroom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "originalUrl": "https://www.cnn.com/2022/10/30/cnn10/ten-content-mon/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/221030210210-ten-1031origb-00061919-super-tease.png",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/10/30/cnn10/ten-content-mon/index.html",
-      "publishedDateTime": "2022-10-30T18:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-the-argument-for-an-ai-augmented-workforce.md",
-      "title": "The Argument For An AI Augmented Workforce",
-      "excerpt": "Companies will apply AI to the work that humans either should not, will not, or can not do, making the workplace safer and more efficient than ever before.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/635db3825570dc9d8908fd12/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/10/30/the-argument-for-an-ai-augmented-workforce/amp/",
-      "publishedDateTime": "2022-10-30T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-10-30-google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million.md",
-      "title": "Google acquires artificial intelligence (AI) avatar startup for $100 million",
-      "excerpt": "Google has acquired Alter, an artificial intelligence (AI) avatar startup company. TechCrunch has reported that the tech giant has acquired the compan",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms",
-      "originalUrl": "https://timesofindia.indiatimes.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/articleshow/95180698.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 163,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/thumb/msid-95180698,width-1070,height-580,imgsize-29398,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
-          "width": 1069,
-          "height": 580,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms",
-      "cdnAmpWebUrl": "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/gadgets-news/google-acquires-artificial-intelligence-ai-avatar-startup-for-100-million/amp_articleshow/95180698.cms",
-      "publishedDateTime": "2022-10-30T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

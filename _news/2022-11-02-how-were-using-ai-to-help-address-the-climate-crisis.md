@@ -7,7 +7,7 @@ originalUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adap
 webUrl: "https://blog.google/outreach-initiatives/sustainability/cop27-adaptation-efforts/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - Google AI
 
 related:
-  - title: "Using Artificial Intelligence To Help Prevent Suicide"
-    excerpt: "Future suicide prevention efforts could be improved by artificial intelligence. The loss of any life is devastating, but the loss of life due to suicide is exceptionally saddening. Suicide is the primary cause of mortality for Australians aged 15 to 44,"
-    publishedDateTime: 2022-11-02T14:17:00Z
-    webUrl: "https://scitechdaily.com/using-artificial-intelligence-to-help-prevent-suicide/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 39
-    images:
-      - url: "https://scitechdaily.com/images/Artificial-Intelligence-Artists-Concept.jpg"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Temple Health using AI to reduce cost of care"
     excerpt: "Temple Health has partnered with artificial intelligence healthcare company Aidoc to integrate its platform into Temple's system in order to improve clinical efficiency and to reduce the overall costs of care."
     publishedDateTime: 2022-11-01T16:26:00Z

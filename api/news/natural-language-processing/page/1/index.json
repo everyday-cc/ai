@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-11-03-google-makes-massive-commitment-to-support-more-languages-using-ai.md",
+      "title": "Google makes massive commitment to support more languages using AI",
+      "excerpt": "To bring information to more people across the globe, Google will build an AI model that can support 1,000 languages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "originalUrl": "https://www.zdnet.com/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/4a455c6a8f467bb23be26a348c2bf65ecae56fa1/2022/11/02/644c9403-d9c9-4d11-b568-81a85cb4d13a/0cb8df75-408d-4c3d-ab7e-3aa1d968636d-1-201-a.jpg?auto=webp&width=768",
+          "width": 768,
+          "height": 432,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-makes-massive-commitment-to-support-more-languages-using-ai/",
+      "publishedDateTime": "2022-11-02T14:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-11-02-improve-data-extraction-and-document-processing-with-amazon-textract.md",
       "title": "Improve data extraction and document processing with Amazon Textract",
       "excerpt": "Intelligent document processing (IDP) has seen widespread adoption across enterprise and government organizations. Gartner estimates the IDP market will grow more than 100% year over year, and is projected to reach $4.8 billion in 2022. IDP helps transform structured, semi-structured, and unstructured",
@@ -52,58 +104,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-11-02-google-announces-ai-advances-in-text-to-video-language-translation-more.md",
-      "title": "Google announces AI advances in text-to-video, language translation, more",
-      "excerpt": "At a Google AI event in New York City, the company announced a variety of AI advances, including in generative AI and language translation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/",
-      "originalUrl": "https://venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/11/20221102_090648-e1667396070796.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/metaverse/google-announces-ai-advances-in-text-to-video-language-translation-more/amp/",
-      "publishedDateTime": "2022-11-02T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     },
     {

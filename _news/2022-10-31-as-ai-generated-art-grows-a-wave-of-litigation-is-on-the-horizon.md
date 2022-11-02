@@ -7,7 +7,7 @@ originalUrl: "https://www.law.com/legaltechnews/2022/10/31/as-ai-generated-art-g
 webUrl: "https://www.law.com/legaltechnews/2022/10/31/as-ai-generated-art-grows-a-wave-litigation-is-on-the-horizon/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Brain Corp Introduces Third Generation AI Autonomy Platform to Power the Next-generation of Autonomous Commercial Robots"
+    excerpt: "Brain Corp, an artificial intelligence (AI) company creating transformative core technology in robotics, today announced the launch"
+    publishedDateTime: 2022-11-02T15:00:00Z
+    webUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/"
+    ampWebUrl: "https://enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/brain-corp-introduces-third-generation-ai-autonomy-platform-to-power-the-next-generation-of-autonomous-commercial-robots/amp/"
+    type: article
+    provider:
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 49
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/11/Brain-Corp-Introduces-Third-Generation-AI-Autonomy-Platform-to-Power-the-Next-generation-of-Autonomous-Commercial-Robots.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Picsart Adds AI-Powered Image Generation And Copywriting Tools"
+    excerpt: "Picsart, the Miami-based creative platform, has integrated AI technology to its app, adding generative tools for images and copy"
+    publishedDateTime: 2022-11-02T18:55:00Z
+    webUrl: "https://www.forbes.com/sites/johanmoreno/2022/11/02/picsart-adds-ai-powered-image-generation-and-copywriting-tools/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "TiEm7bDvfdMTN/7rwDJqqPLorfxQhaLb3nac2pg1omI0jmQTQR2k2+cWkJNMcMpIePxtwD5A5Tx1eBW5lFeOd5tXvOo6sHsh13t2vPl08jV0YHwj2qjs41wNcq9QzkPG5zY7EantonZO0+nHgFNGyvnyiqAlz/GLiHd8spC+jJeD+5dfBk1OceIZqwr1FgotMe1EnUq4JPnCAvAM6TlSFh58nnTZQ7x4RWpR/tu0/QfAZNsElQ53REVnXjxLBDwpYByKzjVfVTg4siPLrL+UkFBfQNpSyy6dEqLD4EOkgwcDtFPYmYL6ng+tUpu21vuuP5xWcmEnqx0wAMbpn/Hk8D29p25FgbohiPhcMrXKtJTV3YPIQEz3x12SGum5EsMP7DWpBdRq4/dJNikTwUgnf9ElAs9P69BHj7p6Gkpr5NLIjccNxeQ5oSnyEaP1gQ11BnFhG2/SmoC/zrf/cpGiigmVTo21KYl7likyVsSWNP/DswHDio1dPxiaTeHwIdPuLrm1xgA6RtmOa5ia2G33+g==;9jZYzV2/uMzo4AaoxqvXSQ=="
 ---

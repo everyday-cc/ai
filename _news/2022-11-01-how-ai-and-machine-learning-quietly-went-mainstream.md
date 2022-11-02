@@ -32,19 +32,21 @@ images:
     isCached: true
 
 related:
-  - title: "How artificial intelligence is changing music"
-    excerpt: "While AI is currently causing future-shock rumblings, the influence of computers on our music has been felt for a while. People of the right vintage, myself included, will remember the camera teams on Top of the Pops trying to make two blokes at a pair of keyboards look exciting from the late 1970s on,"
-    publishedDateTime: 2022-10-29T04:00:00Z
-    webUrl: "https://www.irishtimes.com/culture/music/2022/10/29/how-artificial-intelligence-is-changing-music/"
+  - title: "In the latest human vs. machine match, artificial intelligence wins by a hair"
+    excerpt: "Vikas Nanda has spent more than two decades studying the intricacies of proteins, the highly complex substances present in all living organisms. The Rutgers scientist has long contemplated how the unique patterns of amino acids that comprise proteins determine whether they become anything from hemoglobin to collagen,"
+    publishedDateTime: 2022-11-02T21:06:00Z
+    webUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.html"
+    ampWebUrl: "https://phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-11-latest-human-machine-artificial-intelligence.amp"
     type: article
     provider:
-      name: The Irish Times
-      domain: irishtimes.com
-    quality: 39
+      name: Phys.org
+      domain: phys.org
+    quality: 73
     images:
-      - url: "https://www.irishtimes.com/resizer/ii3K7yhJ2uJ5JzIu65lvajn6vF4=/1200x630/filters:format(jpg):quality(70)/cloudfront-eu-central-1.images.arcpublishing.com/irishtimes/TSTVBTRXC5HVZAE6DOP7JFEPGE.jpg"
-        width: 1200
-        height: 630
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/in-the-latest-human-vs.jpg"
+        width: 685
+        height: 375
         isCached: true
 
 secured: "UvifSXSMPzPTb1J72F62kco/dsT1bEX7Mp6rQPi+hj32xhsVyU7blrvLh9tvYYhYq8y4ZZrhlxWenEyKmNEr1iX2u4wGbbVW+tXPKy44cxYx81+9o/tduLsbHORsA9Q0HLL6xg7ykz6VZKQk0I+TzSk6qKOLwV15wrwfhAg2EnAiCyHkr4uoxOy8FDt38To0PvN1H5C8DeEPVQij+4aqBbqxsdsRajzzUPX6R6lnPhuAwnyZnB+yek/c5KgMA3EnpPo1RDiGITfGWyEg5eTCvPmafzXbs1tCHZtztLKUk9e8Nf3FbY+T2n9JzP6C5ET/n0+E+Ni9bMplWhLX0CaMpsUBKjWmGo4YGnlLOE0iXq4fCUTwYOx+Doy512jYsDJ2zUw1y00+ASpmnlwugvLIFi5lU/FABjeL2stTbLF7u1tb1E+Cg6ldaY1n7MdWNlMcVWfQzOR1FyE67eYjXp5AHno+Lqdl8plTSMZQJKavBXhanNNomqyYR5atklsWXA3+KnpayGWyhTRyvmEOzbG/eA==;7CuP6b1xAq25CNg+Dw52fg=="

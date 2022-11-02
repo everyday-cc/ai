@@ -82,6 +82,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 39
+  - title: "Tesla gives Full-Self Driving demo to state agency, tries to keep critics away"
+    excerpt: "The demo of the system Tesla markets as Full Self-Driving was held last week at the Sacramento headquarters of the Department of Motor Vehicles, according to emails Bloomberg viewed via a public records request. Also at the Oct. 26 event were a ..."
+    publishedDateTime: 2022-11-02T19:17:00Z
+    webUrl: "https://www.autoblog.com/2022/11/02/tesla-full-self-driving-demonstration-california-dmv-critics/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 30
 
 secured: "2ycupedMIimZj/oSTLB+zUwy7iqMq3ADUFPBPaqyPDarXeNccIR8n41QglVlos6WRJqrjjMwEQriG76F5LYeFKFnYRYvogPX5k4RqKpQJz/VzDaq6vkbPqRrGsFTwXqNqx8ryFP2m524mhjDDDC3SJwpmYn1CSj2X3b2s36lhS5wYd0vQ14U5Ao/4wkm1V2wbhUgIk9+RAmdXXjzfEeWnlQ1Y4I+iY4qCRgk47oHGLvfJTrZmScfZWn1uGbNpX0OAftNvTKMIMHcSCPLIebnNxxPe1cyNyPmXWSLEeyI+Pc564Mln8+XucOtzO/c7A6Jz9BOTc18mDuSNoJrfKatZeSf3oIxU/sTmMlLNIda2q6iYdfaS4fkTKwlgggMiwXFSRj1THC87Dw6O1Dgb2peYCdqdVUAwaqi6LxW1M2QVLEUl3Ygvp2rBCkU+bZwF5CfGgRxs6jwuqvT+Ln72ov06oMGYXDXYfgGQR27ohIUBqeGf02J0Nu95CYZJsKTck81SrzAPkzWZeOSZd3QZPAvvw==;UYh3tGrhJpeyBLJQ8IKsjw=="
 ---

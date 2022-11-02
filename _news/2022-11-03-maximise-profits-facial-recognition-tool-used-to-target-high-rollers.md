@@ -6,6 +6,9 @@ publishedDateTime: 2022-11-02T18:02:00Z
 originalUrl: "https://www.smh.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
 webUrl: "https://www.smh.com.au/national/nsw/maximise-profits-facial-recognition-tool-used-to-target-high-rollers-20221025-p5bsot.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Sydney Morning Herald

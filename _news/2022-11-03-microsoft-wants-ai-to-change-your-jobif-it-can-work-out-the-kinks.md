@@ -8,7 +8,7 @@ webUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.html"
 ampWebUrl: "https://techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-11-microsoft-ai-jobif-kinks.amp"
 type: article
-quality: 74
+quality: 76
 heat: -1
 published: false
 
