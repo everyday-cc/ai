@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/11/CRE3284_HBRAS_thumb.png"
